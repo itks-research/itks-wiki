@@ -12,6 +12,13 @@
 | Relationships Mapped | 0 |
 | Synthesis Articles | 2 |
 
+## Synthesis Articles
+
+| Article | Category | Status | Last Updated |
+|---------|----------|--------|-------------|
+| [Civil-Military Relations and Security Sector Reform](synthesis/comparative-analysis-civil-military-relations-and-security-sector-reform.md) | Civil-military relations and security sector reform | ai_reviewed | 2026-03-28 |
+| [Transitional Justice](synthesis/comparative-analysis-transitional-justice.md) | Transitional justice | ai_reviewed | 2026-03-28 |
+
 ## Top Sources
 
 | Source | Case Study | Relevance | Citations |

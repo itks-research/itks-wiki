@@ -42,6 +42,7 @@ plugins:
             Indonesia: اندونزی
             Chile: شیلی
             Poland: لهستان
+            Synthesis Articles: مقالات تحلیلی
 
 nav:
   - Home: index.md
@@ -56,6 +57,9 @@ nav:
     - Indonesia: case-studies/indonesia.md
     - Chile: case-studies/chile.md
     - Poland: case-studies/poland.md
+  - Synthesis Articles:
+    - Civil-Military Relations and Security Sector Reform: synthesis/comparative-analysis-civil-military-relations-and-security-sector-reform.md
+    - Transitional Justice: synthesis/comparative-analysis-transitional-justice.md
 
 markdown_extensions:
   - tables
