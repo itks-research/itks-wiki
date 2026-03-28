@@ -1,6 +1,6 @@
 # Research Dashboard
 
-*Last updated: 2026-03-28 23:57*
+*Last updated: 2026-03-29 00:21*
 
 ## Summary
 
@@ -10,14 +10,16 @@
 | Sources Scored | 735 (14%) |
 | Sources Translated (Farsi) | 0 (0%) |
 | Relationships Mapped | 0 |
-| Synthesis Articles | 2 |
+| Synthesis Articles | 4 |
 
 ## Synthesis Articles
 
 | Article | Category | Status | Last Updated |
 |---------|----------|--------|-------------|
-| [Civil-Military Relations and Security Sector Reform](synthesis/comparative-analysis-civil-military-relations-and-security-sector-reform.md) | Civil-military relations and security sector reform | ai_reviewed | 2026-03-28 |
-| [Transitional Justice](synthesis/comparative-analysis-transitional-justice.md) | Transitional justice | ai_reviewed | 2026-03-28 |
+| [Comparative Analysis: Religious Freedom and Separation of Religion from State](synthesis/comparative-analysis-religious-freedom-and-separation-of-religion-from-state.md) | Religious freedom and separation of religion from state | ai_reviewed | 2026-03-28 |
+| [Comparative Analysis: Constitutional Design and Drafting Processes](synthesis/comparative-analysis-constitutional-design-and-drafting-processes.md) | Constitutional design and drafting processes | ai_reviewed | 2026-03-28 |
+| [Comparative Analysis: Transitional Justice](synthesis/comparative-analysis-transitional-justice.md) | Transitional justice | ai_reviewed | 2026-03-28 |
+| [Comparative Analysis: Civil-Military Relations and Security Sector Reform](synthesis/comparative-analysis-civil-military-relations-and-security-sector-reform.md) | Civil-military relations and security sector reform | ai_reviewed | 2026-03-28 |
 
 ## Top Sources
 

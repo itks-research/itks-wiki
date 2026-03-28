@@ -26,11 +26,6 @@ This wiki is built and maintained by an AI research agent that continuously disc
 - **[Spain](case-studies/spain.md)** (342 sources)
 - **[Tunisia](case-studies/tunisia.md)** (281 sources)
 
-### Synthesis Articles
-
-- **[Civil-Military Relations and Security Sector Reform](synthesis/comparative-analysis-civil-military-relations-and-security-sector-reform.md)**
-- **[Transitional Justice](synthesis/comparative-analysis-transitional-justice.md)**
-
 ### Research Domains
 
 - **Economic** (7 categories)
