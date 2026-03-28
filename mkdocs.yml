@@ -1,5 +1,6 @@
 site_name: 'Iran Transition Knowledge System'
 site_description: 'An autonomous research wiki mapping democratic transition pathways'
+site_url: 'https://itks-research.github.io/itks-wiki/'
 
 theme:
   name: material
