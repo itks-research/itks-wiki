@@ -1,0 +1,17 @@
+# The Neglected Garden: The Politics and Ecology of Agriculture in Iran
+
+<div dir="rtl" markdown>
+
+| نویسندگان | Keith McLachlan |
+|---|---|
+| **سال** | 1988 |
+| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **مطالعه موردی** | Iran |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 30 |
+
+## چکیده
+
+Part 1 Introduction - changing patterns of agriculture: the natural resources debate structural problems and agrarian reform agriculture and the impact of oil. Part 2 The environment and agricultural ecology: environmental constraints - the limitations of topography and soil, the constraints of rain and snow fall changes in the surface area under cultivation. Part 3 National political evolution and agriculture in the first half of the 20th century: the constitutional movement and agriculture the rise of the Pahlavi dynasty - Reza Shah and the lowly status of agriculture the fall of Reza Shah - the military occupation of Iran and the failure in agriculture. Part 4 The context for change - agricultural development and the move towards land reform 1946-63: agriculture in the years of crisis 1946-54 monarch and majles - a struggle for power concentration of political control under the shah - the context for agrarian reform. Part 5 Water resources and irrigation cultures: the development of water laws the irrigation regions - the peripheral basins and plains of the central plateau western Kavir basin and the Kavir margins, the central desert areas (Dasht-e-Kavir and Dasht-e Lut), the Mashhad basin, the eastern sumps, the Zagros mountains and the eastern Gulf coast, the mountain rims of the Alborz and western Zagros, the plains of Khuzestan and the northern Gulf coast, the Caspian plains, other irrigation regions, the dry farming regions of the north-west and Caspian plains traditional irrigation and qanat culture the survival of the qanat modern irrigation. Part 6 Change and development in the countryside - land land reform and centralization: the move to land reform the land reform farming structures and reform the organization of cultivation water as a factor in production agricultural credit reinforcement of commercial farming - agro industry the regional effects of reform the shah's reform programme and changes in rural society. Part 7 Agriculture, oil and development planning: a review of planning planning for agriculture - agriculture in an oil-based economy agriculture in the development plans agriculture and structural change agricultural planning and regional change. Part 8 Agriculture, revolution and the rural community: agriculture in the prospectus of the revolution agriculture in the five-year plan the administration of agriculture and agricultural development land reform land laws and the effects of insecurity of land ownership the rural community after the revolution. Part 9 Can agricultural self-sufficiency be restored?: an assessment of self-sufficiency the self-sufficiency problem - a balance sheet - the positive factors the self-sufficiency problem - a balance sheet - the negative factors - the problem of rising demand, the future of agricultural output, government pricing policies for agricultural goods, Iran - the oil economy trends in agricultural self-sufficiency - the outlook for the future.
+
+</div>

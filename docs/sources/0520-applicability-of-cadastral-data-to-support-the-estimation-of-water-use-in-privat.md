@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Albert Llausàs, Angela Hof, Nils Wolf, David Saurı́, Alexander Siegmund |
 | **Year** | 2018 |
-| **Category** | Transitional justice |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 13 |
 | **Source** | openalex |
 | **DOI** | [10.1177/2399808318756370](https://doi.org/10.1177/2399808318756370) |

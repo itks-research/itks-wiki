@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Nazmul Chaudhury, Jeffrey S. Hammer, Michael Kremer, Karthik Muralidharan, Frances Rogers |
 | **Year** | 2006 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1259 |
 | **Source** | openalex |
 | **DOI** | [10.1257/089533006776526058](https://doi.org/10.1257/089533006776526058) |

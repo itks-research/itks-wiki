@@ -5,9 +5,9 @@
 | نویسندگان | Jong‐sung You |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 29 |
 | **شناسه دیجیتال** | [10.4337/9781786439154.00011](https://doi.org/10.4337/9781786439154.00011) |
 

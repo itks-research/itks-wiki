@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Iain Staffell, Daniel Scamman, Anthony Velazquez Abad, Paul Balcombe, Paul E. Dodds, Paul Ekins, Nilay Shah, Kate R. Ward |
 | **Year** | 2018 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Resource curse management |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 3643 |
 | **Source** | openalex |
 | **DOI** | [10.1039/c8ee01157e](https://doi.org/10.1039/c8ee01157e) |

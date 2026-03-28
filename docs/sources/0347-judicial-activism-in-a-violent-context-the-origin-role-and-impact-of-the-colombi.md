@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Manuel Cepeda-Espinosa |
 | **Year** | 2004 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Judicial independence and rule of law |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 139 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://openscholarship.wustl.edu/law_globalstudies/vol3/iss4/2) |

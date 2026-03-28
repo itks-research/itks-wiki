@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Frédéric Volpi |
 | **Year** | 2006 |
-| **Category** | Transitional justice |
+| **Category** | Electoral system design and implementation |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 28 |
 | **Source** | openalex |
 | **DOI** | [10.1080/13510340600579342](https://doi.org/10.1080/13510340600579342) |

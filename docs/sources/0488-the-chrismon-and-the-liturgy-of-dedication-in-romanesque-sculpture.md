@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Peter Scott Brown |
 | **Year** | 2017 |
-| **Category** | Transitional justice |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 3 |
 | **Source** | openalex |
 | **DOI** | [10.1086/692803](https://doi.org/10.1086/692803) |

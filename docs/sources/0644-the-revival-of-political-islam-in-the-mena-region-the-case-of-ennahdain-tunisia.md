@@ -5,8 +5,9 @@
 | **Authors** | Tania Abbiate |
 | **Year** | 2015 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Political party formation and pluralism |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **DOI** | [10.12957/ballot.2015.17898](https://doi.org/10.12957/ballot.2015.17898) |

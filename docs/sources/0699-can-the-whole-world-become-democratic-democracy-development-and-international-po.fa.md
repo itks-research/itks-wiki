@@ -5,9 +5,9 @@
 | نویسندگان | Larry Diamond |
 |---|---|
 | **سال** | 2003 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 43 |
 
 ## چکیده

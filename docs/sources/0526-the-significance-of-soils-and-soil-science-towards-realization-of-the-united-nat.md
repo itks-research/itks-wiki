@@ -6,7 +6,7 @@
 | **Year** | 2016 |
 | **Category** | Transitional justice |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 1465 |
 | **Source** | openalex |
 | **DOI** | [10.5194/soil-2-111-2016](https://doi.org/10.5194/soil-2-111-2016) |

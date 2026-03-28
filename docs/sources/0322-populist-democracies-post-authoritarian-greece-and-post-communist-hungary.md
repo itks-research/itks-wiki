@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Takis S. Pappas |
 | **Year** | 2013 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 247 |
 | **Source** | openalex |
 | **DOI** | [10.1017/gov.2013.21](https://doi.org/10.1017/gov.2013.21) |

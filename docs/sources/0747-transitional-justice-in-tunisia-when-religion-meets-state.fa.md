@@ -5,9 +5,9 @@
 | نویسندگان | Elham Kazemi |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Transitional justice |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.1093/ijtj/ijz026](https://doi.org/10.1093/ijtj/ijz026) |
 

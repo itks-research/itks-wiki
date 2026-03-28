@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | Limor Lavie |
 | **Year** | 2021 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Political party formation and pluralism |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 10 |
 | **Source** | openalex |
 | **DOI** | [10.3390/rel12040269](https://doi.org/10.3390/rel12040269) |

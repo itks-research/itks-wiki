@@ -5,9 +5,9 @@
 | نویسندگان | Miodrag A. Jovanović |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Constitutional design and drafting processes |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 8 |
 
 ## چکیده

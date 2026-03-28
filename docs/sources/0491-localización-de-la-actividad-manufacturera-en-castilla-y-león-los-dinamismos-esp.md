@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Luis Carlos Martínez Fernández, José Antonio Luengo Gallego |
 | **Year** | 2005 |
-| **Category** | Transitional justice |
+| **Category** | Regional foreign policy reorientation |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 4 |
 | **Source** | openalex |
 | **DOI** | [10.17811/er.0.2005.155-171](https://doi.org/10.17811/er.0.2005.155-171) |

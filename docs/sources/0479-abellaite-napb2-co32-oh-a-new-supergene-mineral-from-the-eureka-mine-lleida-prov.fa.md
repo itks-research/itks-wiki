@@ -5,9 +5,9 @@
 | نویسندگان | Jordi Ibáñez, J. Elvira, Xavier Llovet, Jordi Pérez-Cano, Núria Oriols, Martí Busquets-Masó, S. Hernández |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 16 |
 | **شناسه دیجیتال** | [10.1127/ejm/2017/0029-2630](https://doi.org/10.1127/ejm/2017/0029-2630) |
 

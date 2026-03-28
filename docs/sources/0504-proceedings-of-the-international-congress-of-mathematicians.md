@@ -6,7 +6,7 @@
 | **Year** | 1995 |
 | **Category** | Transitional justice |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 2024 |
 | **Source** | openalex |
 | **DOI** | [10.1007/978-3-0348-9078-6](https://doi.org/10.1007/978-3-0348-9078-6) |

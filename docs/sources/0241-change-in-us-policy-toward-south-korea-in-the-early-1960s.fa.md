@@ -5,9 +5,9 @@
 | نویسندگان | TaeGyun Park |
 |---|---|
 | **سال** | 1999 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Power-sharing mechanisms during transition periods |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 9 |
 | **شناسه دیجیتال** | [10.1353/ks.1999.0008](https://doi.org/10.1353/ks.1999.0008) |
 

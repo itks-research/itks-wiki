@@ -5,8 +5,9 @@
 | **Authors** | Amal Sethi |
 | **Year** | 2022 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Judicial independence and rule of law |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1080/10192557.2022.2045712](https://doi.org/10.1080/10192557.2022.2045712) |

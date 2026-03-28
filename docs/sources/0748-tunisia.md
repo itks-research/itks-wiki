@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Douja Mamelouk |
 | **Year** | 2017 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1 |
 | **Source** | openalex |
 | **DOI** | [10.1093/oxfordhb/9780199349791.013.30](https://doi.org/10.1093/oxfordhb/9780199349791.013.30) |

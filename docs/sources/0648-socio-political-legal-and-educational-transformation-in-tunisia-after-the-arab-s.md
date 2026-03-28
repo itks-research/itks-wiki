@@ -5,8 +5,9 @@
 | **Authors** | Zulkifli Abdurrahman Usman, Rahma Salbiah, Nauwal Aufa, Naures Ben Znaidi |
 | **Year** | 2025 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Education system reform and curriculum modernization, Political party formation and pluralism |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 1 |
 | **Source** | openalex |
 | **DOI** | [10.33086/jic.v6i2.6578](https://doi.org/10.33086/jic.v6i2.6578) |

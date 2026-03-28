@@ -5,9 +5,9 @@
 | نویسندگان | Chang‐Tai Hsieh, Peter J. Klenow |
 |---|---|
 | **سال** | 2007 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Resource curse management |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1971 |
 | **شناسه دیجیتال** | [10.3386/w13290](https://doi.org/10.3386/w13290) |
 

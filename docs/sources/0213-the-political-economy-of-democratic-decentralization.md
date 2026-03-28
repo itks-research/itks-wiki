@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | James Manor |
 | **Year** | 1999 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Federalism, unitarism, and autonomy models |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 952 |
 | **Source** | openalex |
 | **DOI** | [10.1596/0-8213-4470-6](https://doi.org/10.1596/0-8213-4470-6) |

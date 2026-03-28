@@ -5,8 +5,9 @@
 | **Authors** | Carsten Humlebæk |
 | **Year** | 2010 |
 | **Category** | Transitional justice |
+| **Secondary Categories** | Political party formation and pluralism |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 8 |
 | **Source** | openalex |
 | **DOI** | [10.1080/13608746.2010.513602](https://doi.org/10.1080/13608746.2010.513602) |

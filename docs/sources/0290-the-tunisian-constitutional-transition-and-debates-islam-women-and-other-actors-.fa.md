@@ -1,4 +1,4 @@
-# THE TUNISIAN CONSTITUTIONAL TRANSITION AND DEBATES: ISLAM, WOMEN AND OTHER ACTORS IN THE WAKE OF THE POST JASMINE REVOLUTION
+# THE Tunisian Constitutional Transition AND Debates: Islam, Women AND Other Actors IN THE WAKE OF THE POST Jasmine Revolution
 
 <div dir="rtl" markdown>
 
@@ -7,7 +7,7 @@
 | **سال** | 2020 |
 | **دسته‌بندی** | Constitutional design and drafting processes |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.22452/js.vol28no2.5](https://doi.org/10.22452/js.vol28no2.5) |
 

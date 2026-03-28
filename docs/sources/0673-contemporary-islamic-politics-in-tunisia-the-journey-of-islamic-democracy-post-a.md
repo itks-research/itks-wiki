@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | Ahmad Ash Shiddieqy, Padlan Padil Simamora, Dinda Difia Madina |
 | **Year** | 2024 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Political party formation and pluralism |
+| **Secondary Categories** | Religious freedom and separation of religion from state |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 9 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.32332/milrev.v3i1.8976](https://doi.org/10.32332/milrev.v3i1.8976) |

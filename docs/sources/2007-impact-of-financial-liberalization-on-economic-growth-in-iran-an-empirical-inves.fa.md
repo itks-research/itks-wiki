@@ -1,0 +1,17 @@
+# Impact of Financial Liberalization on Economic Growth in Iran: An Empirical Investigation
+
+<div dir="rtl" markdown>
+
+| نویسندگان | Karim Chashm Banam |
+|---|---|
+| **سال** | 2010 |
+| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **مطالعه موردی** | Iran |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 13 |
+
+## چکیده
+
+ABSTRACT: The aim of this thesis is to investigate the impact of financial liberalization on economic growth in Iran through Johansen Cointegration tests by using time series data from 1965 to 2005. While testing for the impact of financial repression on the economic growth in Iran, the thesis also investigates the determinants of economic growth in Iran. A financial liberalization index is used in econometric models along with the conventional theoretical determinants of economic growth as suggested by the existing economic growth theories such as Solow growth model, Endogenous growth model, Cobb-Douglas production function and the Export-Led growth hypothesis. The results suggest that financial intermediation, capital, research and development, and financial liberalization have positive and statistically significant impact on economic growth. In addition, reserve requirement ratio has a negative but statistically insignificant impact on economic growth. Likewise, exports have a positive but statistically insignificant impact on economic growth. On the other hand, the results suggest that labor shows a negative impact on economic growth in the case of Iran, which suggests that labor force in Iran is not effective in promoting economic growth on the contrary of what the existing theories suggest. This can be attributed to low productivity of the labor force. Keywords: Financial liberalisation, economic growth, Iran. …………………………………………………………………………………………………………………………………………………………………………………………………………………… ÖZ: Bu tez İran’daki finansal serbestleşme politikalarının iktisadi büyüme sürecine etkisini 1965 ve 2005 yıllarını kapsayan yıllık verilere dayanarak Johansen eş-bütünleşme testi ile araştırmayı amaçlamaktadır. Finansal serbestleşme politikalarının iktisadi büyüme sürecine etkisini araştırırken, tez ayni zamanda İran’daki iktisadi büyüme sürecinin belirleyicilerini de tespit etmeyi amaçlamaktadır. Solow büyüme modeli, İçsel büyüme modeli, Cobb-Douglas üretim faktörü ve İhracat önderliğinde büyüme hipotezi gibi geleneksel ekomnomik büyüme teorilerinin önerdiği teorik iktisadi büyüme belirleyicilerinin yanısıra ekonmetrik modellerde bir finansal serbestleşme endeksi kullanılmıştır. Johansen eş-bütünleşme testi sonuçlarına gore finansal serbestleşme, finansal aracılık, sermaye, ve araştırma ve geliştirme iktisadi büyüme sürecine olumlu ve istatistiki olarak anlamlı bir etki yapmaktadır. Öte yandan, mevduat munzam karşılığı oranının İran’daki ekonomik buyüme sürecine olumsuz fakat istatistiksel olarak anlamsız bir etkisi olduğu sonucuna varılmıştır. Ayrıca, ihracatın ekonomik buyüme sürecine olumlu fakat istatistiksel olarak anlamsız bir etkisi olduğu tespit edilmiştir. Diğer yandan, tezin ilgi çekici bir sonucu olarak elde edilen sonuçların işgücünün İran’daki ekonomik büyümeye olumsuz bir etkisi olduğunu işaret etmesi ile İran’daki işgücünün mevcut teorilerin tersine ekonomik büyümeyi destekleyici bir rol oynamadığı sonucuna varılmıştır. Bu sonuç İran’daki işgücünün verimsizliği ile açıklanabilmektedir. Anahtar kelimeler: Finansal serbestleşme, Ekonomik büyüme, İran.
+
+</div>

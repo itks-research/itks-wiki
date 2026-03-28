@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Derek Lutterbeck |
 | **Year** | 2011 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Electoral system design and implementation |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 42 |
 | **Source** | openalex |
 | **DOI** | [10.5334/bbm](https://doi.org/10.5334/bbm) |

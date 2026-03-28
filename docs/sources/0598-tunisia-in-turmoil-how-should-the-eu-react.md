@@ -5,8 +5,9 @@
 | **Authors** | Hrant Kostanyan, Elitsa Garnizova |
 | **Year** | 2013 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Political party formation and pluralism |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 1 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://hdl.handle.net/1854/LU-4196416) |

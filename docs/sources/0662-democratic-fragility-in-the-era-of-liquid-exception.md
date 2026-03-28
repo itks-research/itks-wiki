@@ -1,4 +1,4 @@
-# DEMOCRATIC FRAGILITY IN THE ERA OF LIQUID EXCEPTION
+# Democratic Fragility IN THE ERA OF Liquid Exception
 
 | Field | Value |
 |-------|-------|
@@ -6,7 +6,7 @@
 | **Year** | 2026 |
 | **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.51249/gei.v6i06.2779](https://doi.org/10.51249/gei.v6i06.2779) |

@@ -5,9 +5,9 @@
 | نویسندگان | Albert Llausàs, Angela Hof, Nils Wolf, David Saurı́, Alexander Siegmund |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 13 |
 | **شناسه دیجیتال** | [10.1177/2399808318756370](https://doi.org/10.1177/2399808318756370) |
 

@@ -5,9 +5,9 @@
 | نویسندگان | Floyd W. Rudmin |
 |---|---|
 | **سال** | 2009 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 79 |
 | **شناسه دیجیتال** | [10.9707/2307-0919.1074](https://doi.org/10.9707/2307-0919.1074) |
 

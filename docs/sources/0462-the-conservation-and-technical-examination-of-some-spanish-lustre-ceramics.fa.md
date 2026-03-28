@@ -5,9 +5,9 @@
 | نویسندگان | Norman H. Tennent, T. Baird, Janette Kerr, Mandy Slager |
 |---|---|
 | **سال** | 1992 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 4 |
 | **شناسه دیجیتال** | [10.1179/sic.1992.37.s1.034](https://doi.org/10.1179/sic.1992.37.s1.034) |
 

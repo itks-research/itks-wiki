@@ -5,9 +5,9 @@
 | نویسندگان | Peter Scott Brown |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.1086/692803](https://doi.org/10.1086/692803) |
 

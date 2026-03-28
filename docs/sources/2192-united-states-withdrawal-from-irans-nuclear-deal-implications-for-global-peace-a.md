@@ -1,0 +1,17 @@
+# United States Withdrawal from Iran’s Nuclear Deal: Implications for Global Peace and Security in the 21st Century
+
+| Field | Value |
+|-------|-------|
+| **Authors** | Aderemi Opeyemi Ade-Ibijola, Chinedu Victor EMMANUEL |
+| **Year** | 2024 |
+| **Category** | IRGC economic empire and its dismantling |
+| **Case Study** | Iran |
+| **Relevance Score** | Pending |
+| **Citation Count** | 1 |
+| **Source** | openalex |
+| **DOI** | [10.53982/njpdha.2024.0103-n](https://doi.org/10.53982/njpdha.2024.0103-n) |
+| **Full Text** | [Open Access](https://journals.abuad.edu.ng/index.php/njpdha/article/download/1261/707) |
+
+## Abstract
+
+The United States withdrawal from the Iranian nuclear deal better known as the Joint Comprehensive Plan of Action (JCPOA) in 2018 was one of the biggest and most controversial foreign policy decisions made by the Donald Trump Presidency. Since America withdrew from the JCPOA, tensions between the United States and Iran have risen steadily and reached a boiling point in recent months, sparking fears of war. It is within this context that this paper examines the implications of America withdrawal from the nuclear deal for global peace and security in the 21st century. The study adopted a qualitative research method that is descriptive and explanatory. Primary data were collected through in-depth interviews while secondary data were obtained from books and other sources. The study leveraged the liberalist and realist theories to explain America withdrawal from the nuclear deal and the Iranian response. Findings revealed that the United States withdrawal from the nuclear deal has worsened relations between Washington and Tehran given the escalating tension between the two countries especially with the killing of a top Iranian General by the United States in January 2020. The paper, therefore, recommends a renewed round of talks among parties to the JCPOA to address the contentious issues in the deal.

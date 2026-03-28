@@ -5,9 +5,9 @@
 | نویسندگان | Malin Holm, Yasmine Skhiri, Pär Zetterberg |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 5 |
 | **شناسه دیجیتال** | [10.1080/19331681.2023.2173701](https://doi.org/10.1080/19331681.2023.2173701) |
 

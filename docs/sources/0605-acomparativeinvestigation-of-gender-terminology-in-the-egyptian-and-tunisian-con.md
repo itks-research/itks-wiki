@@ -5,8 +5,9 @@
 | **Authors** | Hanem El-Farahaty |
 | **Year** | 2023 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Women's rights codification and gender equality |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 1 |
 | **Source** | openalex |
 | **DOI** | [10.1007/s11196-023-09991-0](https://doi.org/10.1007/s11196-023-09991-0) |

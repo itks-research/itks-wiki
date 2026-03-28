@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Kwang‐Yeong Shin |
 | **Year** | 2012 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 36 |
 | **Source** | openalex |
 | **DOI** | [10.1080/01436597.2012.666013](https://doi.org/10.1080/01436597.2012.666013) |

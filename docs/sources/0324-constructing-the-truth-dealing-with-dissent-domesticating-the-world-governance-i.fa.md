@@ -5,9 +5,9 @@
 | نویسندگان | Filip Reyntjens |
 |---|---|
 | **سال** | 2010 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Transitional justice |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 251 |
 | **شناسه دیجیتال** | [10.1093/afraf/adq075](https://doi.org/10.1093/afraf/adq075) |
 

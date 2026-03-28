@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Boaventura de Sousa Santos, João Arriscado Nunes |
 | **Year** | 2004 |
-| **Category** | Transitional justice |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 31 |
 | **Source** | openalex |
 | **DOI** | [10.1080/1360874042000253465](https://doi.org/10.1080/1360874042000253465) |

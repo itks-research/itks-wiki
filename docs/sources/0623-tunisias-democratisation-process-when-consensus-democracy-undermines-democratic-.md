@@ -5,8 +5,9 @@
 | **Authors** | Adrià Rivera‐Escartin |
 | **Year** | 2021 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Political party formation and pluralism |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 7 |
 | **Source** | openalex |
 | **DOI** | [10.1080/01436597.2021.2015315](https://doi.org/10.1080/01436597.2021.2015315) |

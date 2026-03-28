@@ -5,9 +5,9 @@
 | نویسندگان | Alexis Arieff |
 |---|---|
 | **سال** | 2011 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 44 |
 
 ## چکیده

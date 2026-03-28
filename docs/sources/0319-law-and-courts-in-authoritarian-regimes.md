@@ -5,8 +5,9 @@
 | **Authors** | Tamir Moustafa |
 | **Year** | 2014 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Judicial independence and rule of law |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 226 |
 | **Source** | openalex |
 | **DOI** | [10.1146/annurev-lawsocsci-110413-030532](https://doi.org/10.1146/annurev-lawsocsci-110413-030532) |

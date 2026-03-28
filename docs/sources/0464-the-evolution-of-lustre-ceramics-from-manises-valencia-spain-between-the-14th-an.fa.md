@@ -5,9 +5,9 @@
 | نویسندگان | Angel Polvorinos, M. Aucouturier, Anne Bouquillon, J. Castaing, Josep Pérez Camps |
 |---|---|
 | **سال** | 2010 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 16 |
 | **شناسه دیجیتال** | [10.1111/j.1475-4754.2010.00552.x](https://doi.org/10.1111/j.1475-4754.2010.00552.x) |
 

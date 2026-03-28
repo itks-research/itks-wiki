@@ -5,9 +5,9 @@
 | نویسندگان | Erin Bell, Ann Gray |
 |---|---|
 | **سال** | 2010 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Media freedom and press institution building |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 15 |
 
 ## چکیده

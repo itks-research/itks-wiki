@@ -5,9 +5,9 @@
 | نویسندگان | Carolina Cardell, Luis Rodrigo Rodríguez-Simón, Isabel Guerra, Antonio Sánchez‐Navas |
 |---|---|
 | **سال** | 2008 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 37 |
 | **شناسه دیجیتال** | [10.1111/j.1475-4754.2008.00438.x](https://doi.org/10.1111/j.1475-4754.2008.00438.x) |
 

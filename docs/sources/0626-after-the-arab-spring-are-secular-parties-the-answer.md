@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Mieczysāaw P. Boduszyñski, Kristin Fabbe, Christopher K. Lamont |
 | **Year** | 2015 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 10 |
 | **Source** | openalex |
 | **DOI** | [10.1353/jod.2015.0058](https://doi.org/10.1353/jod.2015.0058) |

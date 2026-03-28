@@ -1,0 +1,16 @@
+# Leadership and followers’ organizational citizenship behaviour from the Islamic perspective (OCBIP)
+
+| Field | Value |
+|-------|-------|
+| **Authors** | Morteza Hendijani Fard, Azade Asadi Damavandi, Ali Mahdilouytazehkandi, Meysam Asharin |
+| **Year** | 2020 |
+| **Category** | Civil society development |
+| **Case Study** | Iran |
+| **Relevance Score** | Pending |
+| **Citation Count** | 16 |
+| **Source** | openalex |
+| **DOI** | [10.1108/jima-02-2019-0036](https://doi.org/10.1108/jima-02-2019-0036) |
+
+## Abstract
+
+Purpose This paper aims to examine the relationship between four leadership approaches (i.e. transactional leadership, transformational leadership, entrepreneurial leadership and authentic leadership) and organizational citizenship behaviour from the Islamic perspective (OCBIP) in the central offices of private banks in Tehran, Iran. Design/methodology/approach A correlative descriptive research method is used. Partial least squares modelling is applied to analyze the data from 384 employees and managers of the banks. Findings The results show that transactional leadership and transformational leadership positively and significantly affect OCBIP. However, entrepreneurial leadership and authentic leadership do not predict followers’ OCBIP. Also, transformational leadership has a greater power to influence on OCBIP than transactional leadership. The empirical findings also indicate that each of leadership behaviours influences certain types of OCBIPs so that transactional leadership predicts altruism, civic virtue and advocating high moral standards; transformational leadership predicts altruism, civic virtue and removal of harm; authentic leadership predicts advocating high moral standards, significantly; and entrepreneurial leadership predicts civic virtue, negatively. Originality/value OCBIP is a new construct that has been conceptualized, recently. In the past decades, many studies have examined the relationship between different leadership approaches and organizational citizenship behaviours (OCB) of followers. However, the relationship between leadership approaches and OCBIP has not yet been investigated. Furthermore, only a few studies have compared the influence of different leadership approaches on OCB and OCBIP. This paper contributes to the literature by identifying the distinct impact of the four leadership approaches on the different types of OCBIPs. Furthermore, examining the impact of some leadership approaches (e.g. entrepreneurial leadership) on OCBIP has remained unknown.

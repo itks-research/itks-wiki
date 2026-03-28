@@ -5,8 +5,9 @@
 | **Authors** | Rangita de Silva de Alwis |
 | **Year** | 2017 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Women's rights codification and gender equality |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 8 |
 | **Source** | openalex |
 | **DOI** | [10.15779/z38b56d41p](https://doi.org/10.15779/z38b56d41p) |

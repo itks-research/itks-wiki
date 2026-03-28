@@ -1,0 +1,17 @@
+# Cost-Effectiveness Rivaroxaban versus Enoxaparin for Prevention of Venous Thromboembolism after Knee Replacement Surgery in Iran
+
+| Field | Value |
+|-------|-------|
+| **Authors** | A. Abutorabi, Marjan Haj Ahmadi, S. Bagheri Faradonbeh, Asma Rashki Kemmak, V. Alipour |
+| **Year** | 2023 |
+| **Category** | Transitional justice |
+| **Case Study** | Iran |
+| **Relevance Score** | Pending |
+| **Citation Count** | 5 |
+| **Source** | semantic_scholar |
+| **DOI** | [10.47176/mjiri.37.20](https://doi.org/10.47176/mjiri.37.20) |
+| **Full Text** | [Open Access](http://mjiri.iums.ac.ir/files/site1/user_files_e9487e/asmarashkikemmak-A-10-5662-5-16c0043.pdf) |
+
+## Abstract
+
+Background The highest risk of developing venous thromboembolism (VTE) is seen in patients who have undergone orthopedic surgery. One of the most common methods to reduce the risk of thromboembolism in these patients is anticoagulant prophylaxis. Rivaroxaban is one of the anticoagulants that has a lower cost than other anticoagulants and has a significant effect on people’s quality of life as it is edible. The study aimed to determine the cost-effectiveness of rivaroxaban as compared with enoxaparin for venous thromboembolism prophylaxis in knee replacement patients in Iran. Methods It was a quantitative and economic evaluation study with a cost-effectiveness approach and an applied study because its results could be used directly for policy-making and decision-making in the health system. The study was conducted in 2019 and 2020. This study considered the health system perspective. The study population included all knee replacement patients. The sample included 203 patients referred to Shafa Yahyaeian Hospital and 300 patients referred to Rasoul Hospital in Tehran. The study was conducted in two steps. A systematic review of studies was conducted in the first step. The CHEERS checklist was used to evaluate the quality of the studies in the systematic review. The EQ-5D questionnaire was used in the second step to calculate the QALY, and the cost collection form was used to calculate the direct medical cost. The data were analyzed through a decision tree, and Stata and Tree age pro softwares were the analysis tools. Also, according to the per capita GDP index for Iran in 2018, the incremental cost-effectiveness threshold was considered to be $10,000. Results The results of this study showed that during the prophylaxis period, rivaroxaban was one and a half times less costly than enoxaparin. Quality of life in uncomplicated conditions were 0.85 QALY for rivaroxaban and 0.69 QALY for enoxaparin. Based on the results of this study, the cost of rivaroxaban during the prophylaxis was $ 160.97 and the quality of life was 0.85 QALY and the cost of enoxaparin was $ 276.07 and the quality of life was 0.69 QALY. The cost difference between the two interventions was $ 115.09 and the outcome difference was 0.16 QALY. The incremental cost-effectiveness ratio was $ 189.40 for rivaroxaban and $ 416.28 for enoxaparin. According to the results of this study, rivaroxaban reduced the duration of hospitalization by an average of 2 days in asymptomatic patients (prophylaxis period) compared to enoxaparin. Conclusion Rivaroxaban, an oral medication, reduced costs and increased the quality of life in people undergoing knee replacement surgery compared with an enoxaparin injection vial. This drug was less costly for the patient and health systems and its use was cost-effective as a thromboprophylaxis drug following knee replacement surgery.

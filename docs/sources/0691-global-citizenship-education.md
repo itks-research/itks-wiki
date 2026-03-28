@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Abdeljalil Akkari, Kathrine Maleq |
 | **Year** | 2020 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 89 |
 | **Source** | openalex |
 | **DOI** | [10.1007/978-3-030-44617-8](https://doi.org/10.1007/978-3-030-44617-8) |

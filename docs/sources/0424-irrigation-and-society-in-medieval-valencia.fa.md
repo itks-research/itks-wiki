@@ -5,9 +5,9 @@
 | نویسندگان | Thomas F. Glick |
 |---|---|
 | **سال** | 1970 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 197 |
 | **شناسه دیجیتال** | [10.4159/harvard.9780674281806](https://doi.org/10.4159/harvard.9780674281806) |
 

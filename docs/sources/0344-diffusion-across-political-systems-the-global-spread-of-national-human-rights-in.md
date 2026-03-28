@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Thomas R. Pegram |
 | **Year** | 2010 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Civil society development |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 107 |
 | **Source** | openalex |
 | **DOI** | [10.1353/hrq.2010.0005](https://doi.org/10.1353/hrq.2010.0005) |

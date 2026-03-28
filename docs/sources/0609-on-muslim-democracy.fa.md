@@ -5,9 +5,9 @@
 | نویسندگان | Rached Ghannouchi, Andrew F. March |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.1093/oso/9780197666876.001.0001](https://doi.org/10.1093/oso/9780197666876.001.0001) |
 

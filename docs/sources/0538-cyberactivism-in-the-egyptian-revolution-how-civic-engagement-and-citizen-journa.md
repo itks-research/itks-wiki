@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Sahar Khamis, Katherine Vaughn |
 | **Year** | 2011 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Internet and digital infrastructure as civic space |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 222 |
 | **Source** | openalex |
 | **DOI** | [10.70090/skkv11er](https://doi.org/10.70090/skkv11er) |

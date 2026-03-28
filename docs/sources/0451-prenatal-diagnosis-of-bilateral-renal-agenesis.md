@@ -6,7 +6,7 @@
 | **Year** | 1977 |
 | **Category** | Transitional justice |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 32 |
 | **Source** | openalex |
 

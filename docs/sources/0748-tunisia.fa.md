@@ -5,9 +5,9 @@
 | نویسندگان | Douja Mamelouk |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.1093/oxfordhb/9780199349791.013.30](https://doi.org/10.1093/oxfordhb/9780199349791.013.30) |
 

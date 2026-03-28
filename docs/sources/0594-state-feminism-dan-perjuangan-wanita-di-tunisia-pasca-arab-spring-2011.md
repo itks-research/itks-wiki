@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Mohd Irwan Syazli Saidin, NUR AMIRA ALFITRI |
 | **Year** | 2020 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Women's rights codification and gender equality |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 3 |
 | **Source** | openalex |
 | **DOI** | [10.24035/ijit.18.2020.181](https://doi.org/10.24035/ijit.18.2020.181) |

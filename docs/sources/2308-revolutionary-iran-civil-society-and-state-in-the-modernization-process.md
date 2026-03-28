@@ -1,0 +1,15 @@
+# Revolutionary Iran: Civil Society and State in the Modernization Process
+
+| Field | Value |
+|-------|-------|
+| **Authors** | Masoud Kamali |
+| **Year** | 1998 |
+| **Category** | Constitutional design and drafting processes |
+| **Case Study** | Iran |
+| **Relevance Score** | Pending |
+| **Citation Count** | 33 |
+| **Source** | openalex |
+
+## Abstract
+
+Part 1 Civil society, foreign impact, and the Constitutional Revolution: The construction of the Muslim society of Iran - state authority, Sunni versus Shi'ite theory of state, the social construction of Shi'ite religious authority, the realm of economy civil society in Iran - towards a conceptualization of Iranian civil society, theological basis of the Ulama's social authority, the Bazaris and the Ulama in Iranian urban life, the relationship between the state and the religious community, the Ulama's guardianship of the Divine Order of Society Iran on the eve of the Constitutional Revolution - the reconstruction of theocratic power, the first period of reforms, Abbas Mirza and the the second period of reforms, opposition to the reforms, the Tobacco Movement, the main social groups on the eve of the Constitutional Revolution the Constitutional Revolution - modernization efforts of the state, vitalization of the alliance between the Ulama and the merchants, the Bazaris' protest and the Ulama's support, the influence of the Intelligentsia, revolution and contrarevolution the constitutionalism of the Ulama, the constitutionalism of the leading Mujtahids, the Ulama's ideological challenge on constitutionalism, Nuri - the ideologist of anti-constitutionalists, the theological justification of the Ulama's opposition, the victory of the modern civil society. Part 2 The new monarchical regime, modernization, and the Islamic revolution: Iran under the Pahlavis - the construction and reconstruction of the Reza Shah and the Ulama, the rise and fall of nationalism modernization and the Ulama - the Ulama and the Sha's white Vaaf Sahm-e Iman and the independence of the Ulama, religious modernism, the theory of Velayat-e Faqih Iran on the eve of the Islamic revolution - transformation of the traditional civil society of Iran, the main occupational groups, authoritative modernization and the creation of the dispossessed, political opposition to the Shah Islamic revolution - the alliance between the Ulama and the middle occupational groups, the effective neutralization of the army, US policy and the threat of Communism, the process of the revolution, the dispossessed and the radicalization of the movement, institutionalization of the revolution, the victory of the modern and the traditional civil societies. Part 3 Discussion and conclusions: the two revolutions - comparative reflections, overview, early modernization, foreign penetration, and political revolution, autocratic societal transformation and the Islamic social revolution, comparison of the two modern revolutions conceptual reflections - Islamic civil society. (Part contents).

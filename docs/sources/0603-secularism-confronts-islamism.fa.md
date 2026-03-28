@@ -5,9 +5,9 @@
 | نویسندگان | Mohammad Affan |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.4324/9781003228929](https://doi.org/10.4324/9781003228929) |
 

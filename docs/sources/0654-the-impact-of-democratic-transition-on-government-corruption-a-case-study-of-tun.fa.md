@@ -5,9 +5,9 @@
 | نویسندگان | Ramzy Mahmoud Radaideh |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.35516/hum.v49i4.2047](https://doi.org/10.35516/hum.v49i4.2047) |
 

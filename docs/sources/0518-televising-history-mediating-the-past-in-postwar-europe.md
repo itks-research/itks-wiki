@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | Erin Bell, Ann Gray |
 | **Year** | 2010 |
-| **Category** | Transitional justice |
+| **Category** | Media freedom and press institution building |
+| **Secondary Categories** | Education system reform and curriculum modernization |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 15 |
 | **Source** | openalex |
 

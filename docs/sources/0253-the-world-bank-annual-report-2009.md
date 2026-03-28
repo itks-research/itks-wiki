@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | World Bank |
 | **Year** | 2009 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Trade liberalization and foreign direct investment |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 272 |
 | **Source** | openalex |
 | **DOI** | [10.1596/978-0-8213-7946-2](https://doi.org/10.1596/978-0-8213-7946-2) |

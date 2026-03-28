@@ -1,0 +1,18 @@
+# Participatory Budget as a Tool Supporting the Development of Civil Society in Poland
+
+<div dir="rtl" markdown>
+
+| نویسندگان | Jarosław Kempa, Artur Roland Kozłowski |
+|---|---|
+| **سال** | 2020 |
+| **دسته‌بندی** | Civil society development |
+| **مطالعه موردی** | Poland |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 27 |
+| **شناسه دیجیتال** | [10.2478/nispa-2020-0003](https://doi.org/10.2478/nispa-2020-0003) |
+
+## چکیده
+
+Abstract Although three decades have passed since the fall of communism in Poland, the observed level of social activity in the country is relatively low. Participatory budget emerged as an idea to increase the involvement of citizens in decision-making processes concerning their immediate surroundings. In addition to their inclusion in the activity of local government, this form of citizen participation is expected to have a positive impact on residents’ involvement in activities for the benefit of the local community. The aim of this article is to indicate the conditions that influenced the implementation of the idea of the first participatory budget in Poland and emphasizing the importance of the civic budget in managing public administration through partial decentralization involving local communities in social dialogue for local investment initiatives, especially in large provincial cities in Poland. The following research question was adopted in the paper: has the introduction of a participatory budget in Poland increased social activity and has it been conducive to the development of civil society. In Poland, the initiative to create a civic budget met good political conditions in the relatively small city of Sopot, which had the resources to implement the project. After successful implementation, this initiative was relatively quickly adopted by other Polish local governments, which then on their own introduced social consultations called the civic budget. Not all poviats introduced the civic budget of their own volition. The government, seeing the possibility of political discounting of this new solution, decided to introduce a mandatory participatory budget in town counties and ordered the allocation of funds from their budgets, no less than 1 % of budget expenditure. The article relies on the case-study method, comparative analysis and trend analysis, qualitative and quantitative methods of description, document analysis and statistical data. The analysis focuses on the town of Sopot and provincial capitals. Local conditions are important for understanding the processes of shaping active civic attitudes in Poland, because cities are the poles of development of civil society and give impetus to innovative changes in the entire socio-economic system. The materials used in the article include reports, documents and legal acts regarding the functioning of the town of Sopot. The study showed that the participatory budget indeed activates the local community around various projects. At the same time, the question of directly translating this activity into an increase in the number of organizations, associations and foundations remains debatable. The introduction of the participatory budget to administrative management practice in local-government units in Poland should be considered in terms of the soft power impact of administration on the shaping and development of civil society, which is still in the development stage in Poland.
+
+</div>

@@ -5,9 +5,9 @@
 | نویسندگان | A. Hafied A. Gany, Prachi Sharma, Sahdev Singh |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 59 |
 | **شناسه دیجیتال** | [10.1002/ird.2305](https://doi.org/10.1002/ird.2305) |
 

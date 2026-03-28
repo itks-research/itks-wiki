@@ -5,9 +5,9 @@
 | نویسندگان | Éric Chaney |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 83 |
 | **شناسه دیجیتال** | [10.1353/eca.2012.0002](https://doi.org/10.1353/eca.2012.0002) |
 

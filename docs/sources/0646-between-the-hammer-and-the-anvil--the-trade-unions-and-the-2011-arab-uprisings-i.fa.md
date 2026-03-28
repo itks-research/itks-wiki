@@ -5,9 +5,9 @@
 | نویسندگان | Lorenzo Feltrin |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 3 |
 
 ## چکیده

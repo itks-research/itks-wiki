@@ -6,7 +6,7 @@
 | **Year** | 2023 |
 | **Category** | Transitional justice |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **DOI** | [10.15366/rha2023.22.006](https://doi.org/10.15366/rha2023.22.006) |

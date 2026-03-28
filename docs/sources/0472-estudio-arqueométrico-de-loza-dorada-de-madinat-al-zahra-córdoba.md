@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | A. Polvorinos del Río, J. Castaing, Stefan Roehrs, Antonio Vallejo Triano, José Escudero Aranda |
 | **Year** | 2008 |
-| **Category** | Transitional justice |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 4 |
 | **Source** | openalex |
 

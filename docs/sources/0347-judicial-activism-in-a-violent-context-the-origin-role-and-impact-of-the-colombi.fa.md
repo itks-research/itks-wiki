@@ -5,9 +5,9 @@
 | نویسندگان | Manuel Cepeda-Espinosa |
 |---|---|
 | **سال** | 2004 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Judicial independence and rule of law |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 139 |
 
 ## چکیده

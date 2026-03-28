@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Eva C. MÜLLER-PRAEFCKE |
 | **Year** | 2025 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.5771/0947-9511-2025-1-115](https://doi.org/10.5771/0947-9511-2025-1-115) |

@@ -5,9 +5,9 @@
 | نویسندگان | P. Aslani |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.53895/iaj1107](https://doi.org/10.53895/iaj1107) |
 

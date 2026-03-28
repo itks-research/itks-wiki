@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | N. Alexandratos, Jelle Bruinsma, Alexandratos, Nikos, Bruinsma, Jelle |
 | **Year** | 2012 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Trade liberalization and foreign direct investment |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 3142 |
 | **Source** | openalex |
 | **DOI** | [10.22004/ag.econ.288998](https://doi.org/10.22004/ag.econ.288998) |

@@ -5,9 +5,9 @@
 | نویسندگان | Oliver Bakewell |
 |---|---|
 | **سال** | 2009 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 90 |
 
 ## چکیده

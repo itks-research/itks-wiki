@@ -5,9 +5,9 @@
 | نویسندگان | Ross Levine |
 |---|---|
 | **سال** | 1999 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Banking and financial system reform |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 3034 |
 | **شناسه دیجیتال** | [10.1596/1813-9450-1678](https://doi.org/10.1596/1813-9450-1678) |
 

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Michael J. Seth |
 | **Year** | 2017 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Trade liberalization and foreign direct investment |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 22 |
 | **Source** | openalex |
 | **DOI** | [10.1093/acrefore/9780190277727.013.271](https://doi.org/10.1093/acrefore/9780190277727.013.271) |

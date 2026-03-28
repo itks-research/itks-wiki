@@ -5,9 +5,9 @@
 | نویسندگان | Viviana Asara |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 96 |
 
 ## چکیده

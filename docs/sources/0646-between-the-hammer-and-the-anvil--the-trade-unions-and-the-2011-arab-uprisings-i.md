@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Lorenzo Feltrin |
 | **Year** | 2018 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 3 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://wrap.warwick.ac.uk/132609/1/WRAP_Theses_Feltrin_2018.pdf) |

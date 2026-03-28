@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Hiroshi Fukurai, Sunsul Park |
 | **Year** | 2012 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Judicial independence and rule of law |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2494942) |

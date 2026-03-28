@@ -5,9 +5,9 @@
 | نویسندگان | John Taylor, Tahu Kukutai |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Civil society development |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 546 |
 | **شناسه دیجیتال** | [10.22459/caepr38.11.2016](https://doi.org/10.22459/caepr38.11.2016) |
 

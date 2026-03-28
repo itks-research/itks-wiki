@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Marie Christine Duggan |
 | **Year** | 2015 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 55 |
 | **Source** | openalex |
 | **DOI** | [10.5209/ijhe.49778](https://doi.org/10.5209/ijhe.49778) |

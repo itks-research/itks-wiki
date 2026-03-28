@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Firth Stewart Firth, Jon Fraenkel, V.Lal Brij |
 | **Year** | 2009 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Civil-military relations and security sector reform |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 77 |
 | **Source** | openalex |
 | **DOI** | [10.26530/oapen_458793](https://doi.org/10.26530/oapen_458793) |

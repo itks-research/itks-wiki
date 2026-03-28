@@ -6,7 +6,7 @@
 | **Year** | 2021 |
 | **Category** | Civil-military relations and security sector reform |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1353/seo.2021.0005](https://doi.org/10.1353/seo.2021.0005) |

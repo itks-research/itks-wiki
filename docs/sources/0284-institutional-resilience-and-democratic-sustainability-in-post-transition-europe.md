@@ -5,8 +5,9 @@
 | **Authors** | Cristian Pîrvulescu |
 | **Year** | 2026 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Political party formation and pluralism |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.3390/world7010007](https://doi.org/10.3390/world7010007) |

@@ -6,7 +6,7 @@
 | **Year** | 1970 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 10 |
 | **Source** | openalex |
 | **DOI** | [10.1215/00182168-50.1.52](https://doi.org/10.1215/00182168-50.1.52) |

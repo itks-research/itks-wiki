@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | James Otto, Craig B. Andrews, F.T. Cawood, Michael Doggett, Pietro Guj, Frank Stermole, John Stermole, John E. Tilton |
 | **Year** | 2006 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Resource curse management |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 110 |
 | **Source** | openalex |
 | **DOI** | [10.1596/978-0-8213-6502-1](https://doi.org/10.1596/978-0-8213-6502-1) |

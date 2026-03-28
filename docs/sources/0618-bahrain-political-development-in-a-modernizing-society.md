@@ -5,8 +5,9 @@
 | **Authors** | Emile A. Nakhleh |
 | **Year** | 1976 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Political party formation and pluralism, Civil society development |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 44 |
 | **Source** | openalex |
 

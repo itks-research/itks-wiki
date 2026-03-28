@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | F. Tamburini |
 | **Year** | 2018 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Civil-military relations and security sector reform |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 9 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1177/0021909618779613](https://doi.org/10.1177/0021909618779613) |

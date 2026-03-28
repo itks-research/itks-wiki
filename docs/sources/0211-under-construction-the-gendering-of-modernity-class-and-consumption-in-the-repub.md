@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Laurel Kendall |
 | **Year** | 2002 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Women's rights codification and gender equality |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 121 |
 | **Source** | openalex |
 | **DOI** | [10.21313/9780824865382](https://doi.org/10.21313/9780824865382) |

@@ -6,7 +6,7 @@
 | **Year** | 2023 |
 | **Category** | Transitional justice |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 4 |
 | **Source** | openalex |
 | **DOI** | [10.1093/ijtj/ijad017](https://doi.org/10.1093/ijtj/ijad017) |

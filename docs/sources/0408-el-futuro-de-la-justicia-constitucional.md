@@ -6,7 +6,7 @@
 | **Year** | 2019 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 19 |
 | **Source** | openalex |
 | **DOI** | [10.18042/cepc/aijc.23.01](https://doi.org/10.18042/cepc/aijc.23.01) |

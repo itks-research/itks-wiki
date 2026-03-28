@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Jonathan Mayhew |
 | **Year** | 2002 |
-| **Category** | Transitional justice |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 4 |
 | **Source** | openalex |
 | **DOI** | [10.1080/1463620022000014009](https://doi.org/10.1080/1463620022000014009) |

@@ -6,7 +6,7 @@
 | **Year** | 2006 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 96 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://chicagounbound.uchicago.edu/cjil/vol6/iss2/10) |

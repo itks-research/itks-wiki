@@ -5,9 +5,9 @@
 | نویسندگان | Noa Barreda Marín, María Lumbreras Catalá, Alberto Martínez Herrero |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Civil society development |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.31648/kpp.9134](https://doi.org/10.31648/kpp.9134) |
 

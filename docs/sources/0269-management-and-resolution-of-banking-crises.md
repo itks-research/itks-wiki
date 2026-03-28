@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | José De Luna-Martínez |
 | **Year** | 2000 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Banking and financial system reform |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 31 |
 | **Source** | openalex |
 | **DOI** | [10.1596/0-8213-4723-3](https://doi.org/10.1596/0-8213-4723-3) |

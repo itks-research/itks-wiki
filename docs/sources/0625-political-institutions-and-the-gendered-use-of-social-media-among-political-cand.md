@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | Malin Holm, Yasmine Skhiri, Pär Zetterberg |
 | **Year** | 2023 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Political party formation and pluralism |
+| **Secondary Categories** | Women's rights codification and gender equality |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 5 |
 | **Source** | openalex |
 | **DOI** | [10.1080/19331681.2023.2173701](https://doi.org/10.1080/19331681.2023.2173701) |

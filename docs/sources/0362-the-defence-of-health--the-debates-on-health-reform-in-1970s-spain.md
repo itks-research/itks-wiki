@@ -6,7 +6,7 @@
 | **Year** | 2019 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 12 |
 | **Source** | openalex |
 | **DOI** | [10.30827/dynamis.v39i1.8666](https://doi.org/10.30827/dynamis.v39i1.8666) |

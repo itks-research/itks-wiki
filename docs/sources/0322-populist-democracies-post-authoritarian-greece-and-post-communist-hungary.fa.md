@@ -5,9 +5,9 @@
 | نویسندگان | Takis S. Pappas |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 247 |
 | **شناسه دیجیتال** | [10.1017/gov.2013.21](https://doi.org/10.1017/gov.2013.21) |
 

@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | Lovise Aalen |
 | **Year** | 2002 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Federalism, unitarism, and autonomy models |
+| **Secondary Categories** | Constitutional design and drafting processes |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 173 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://hdl.handle.net/11250/2435784) |

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Jong‐sung You |
 | **Year** | 2017 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 29 |
 | **Source** | openalex |
 | **DOI** | [10.4337/9781786439154.00011](https://doi.org/10.4337/9781786439154.00011) |

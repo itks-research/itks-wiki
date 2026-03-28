@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Miodrag A. Jovanović |
 | **Year** | 2015 |
-| **Category** | Transitional justice |
+| **Category** | Constitutional design and drafting processes |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 8 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://ci.nii.ac.jp/ncid/BB20984901) |

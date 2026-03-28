@@ -5,9 +5,9 @@
 | نویسندگان | Nicholas Bloom, John Van Reenen |
 |---|---|
 | **سال** | 2010 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Banking and financial system reform |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1457 |
 | **شناسه دیجیتال** | [10.1257/jep.24.1.203](https://doi.org/10.1257/jep.24.1.203) |
 

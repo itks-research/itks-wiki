@@ -5,9 +5,9 @@
 | نویسندگان | Pranab Bardhan |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 228 |
 | **شناسه دیجیتال** | [10.1257/jel.20151239](https://doi.org/10.1257/jel.20151239) |
 

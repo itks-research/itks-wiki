@@ -1,0 +1,17 @@
+# The Construction of Platform Imperialism in the Globalization Era
+
+| Field | Value |
+|-------|-------|
+| **Authors** | Dal Yong Jin |
+| **Year** | 2013 |
+| **Category** | Internet and digital infrastructure as civic space |
+| **Case Study** | Iran |
+| **Relevance Score** | Pending |
+| **Citation Count** | 110 |
+| **Source** | openalex |
+| **DOI** | [10.31269/triplec.v11i1.458](https://doi.org/10.31269/triplec.v11i1.458) |
+| **Full Text** | [Open Access](https://www.triple-c.at/index.php/tripleC/article/download/458/446) |
+
+## Abstract
+
+In the early 21st century, platforms, known as digital media intermediaries, have greatly influenced people’s daily lives. Due to the importance of platforms for the digital economy and culture, including intellectual property and participatory culture, several countries have developed their own social network sites and Web portals. Nonetheless, a handful of Western countries, primarily the U.S., have dominated the global platform market and society. This paper aims to historicize the concept of imperialism in the globalized 21st century. It investigates whether the recent growth of American-based platforms has resulted in a change to the fundamental idea of the imperialism thesis by analyzing the evolutionary nature of imperialism towards platform imperialism. It then addresses whether we are experiencing a new notion of imperialism by mapping out several core characteristics that define platform imperialism, including the swift growth and global dominance of SNSs and smartphones. It pays close attention to the capitalization of platforms and their global expansion, including the major role of intellectual property rights as the most significant form of capital accumulation in the digital age. It eventually endeavors to make a contribution to the platform imperialism discourse as a form of new imperialism, focusing on the nexus of great powers.

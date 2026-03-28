@@ -5,8 +5,9 @@
 | **Authors** | Guillem Rico, Robert Liñeira |
 | **Year** | 2014 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Political party formation and pluralism |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 63 |
 | **Source** | openalex |
 | **DOI** | [10.1080/13608746.2014.910324](https://doi.org/10.1080/13608746.2014.910324) |

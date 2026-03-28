@@ -5,8 +5,9 @@
 | **Authors** | Ana Marrades |
 | **Year** | 2023 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Women's rights codification and gender equality |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **DOI** | [10.1332/23978821y2023d000000016](https://doi.org/10.1332/23978821y2023d000000016) |

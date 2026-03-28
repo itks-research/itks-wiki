@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | Robert E. Bedeski |
 | **Year** | 2002 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Electoral system design and implementation |
+| **Secondary Categories** | Political party formation and pluralism |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 49 |
 | **Source** | openalex |
 | **DOI** | [10.4324/9780203426364](https://doi.org/10.4324/9780203426364) |

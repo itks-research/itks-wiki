@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Антоанета Димитрова, Rilka Dragneva |
 | **Year** | 2013 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Regional foreign policy reorientation |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 43 |
 | **Source** | openalex |
 | **DOI** | [10.1080/09668136.2013.766040](https://doi.org/10.1080/09668136.2013.766040) |

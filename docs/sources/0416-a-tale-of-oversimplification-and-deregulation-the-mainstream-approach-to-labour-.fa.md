@@ -5,9 +5,9 @@
 | نویسندگان | Valerio De Stefano |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 22 |
 | **شناسه دیجیتال** | [10.1093/indlaw/dwu014](https://doi.org/10.1093/indlaw/dwu014) |
 

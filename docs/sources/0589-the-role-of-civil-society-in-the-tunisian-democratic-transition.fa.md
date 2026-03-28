@@ -5,9 +5,9 @@
 | نویسندگان | Veronica Baker |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Civil society development |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 2 |
 
 ## چکیده

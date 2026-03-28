@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Jelisaveta Blagojević, Marijan Premovic |
 | **Year** | 2024 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.33993/tr.2022.3.07](https://doi.org/10.33993/tr.2022.3.07) |

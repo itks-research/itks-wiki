@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | F. Mansouri |
 | **Year** | 2020 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 22 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1080/13530194.2020.1765142](https://doi.org/10.1080/13530194.2020.1765142) |

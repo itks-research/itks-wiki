@@ -5,8 +5,9 @@
 | **Authors** | Darinka Piqani |
 | **Year** | 2021 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Judicial independence and rule of law |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1017/S1574019621000109](https://doi.org/10.1017/S1574019621000109) |

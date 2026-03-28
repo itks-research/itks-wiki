@@ -6,7 +6,7 @@
 | **Year** | 2002 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 38 |
 | **Source** | openalex |
 | **DOI** | [10.1080/713601643](https://doi.org/10.1080/713601643) |

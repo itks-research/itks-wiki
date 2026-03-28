@@ -5,9 +5,9 @@
 | نویسندگان | Alice Fill |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Women's rights codification and gender equality |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 4 |
 | **شناسه دیجیتال** | [10.15366/relacionesinternacionales2019.42.010](https://doi.org/10.15366/relacionesinternacionales2019.42.010) |
 

@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | Yeşim Arat |
 | **Year** | 2021 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Women's rights codification and gender equality |
+| **Secondary Categories** | Political party formation and pluralism |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 102 |
 | **Source** | openalex |
 | **DOI** | [10.1017/s1743923x21000192](https://doi.org/10.1017/s1743923x21000192) |

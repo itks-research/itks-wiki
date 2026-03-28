@@ -5,8 +5,9 @@
 | **Authors** | Irene Weipert-Fenner |
 | **Year** | 2014 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Political party formation and pluralism, Power-sharing mechanisms during transition periods |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **DOI** | [10.4324/9781315763026-22](https://doi.org/10.4324/9781315763026-22) |

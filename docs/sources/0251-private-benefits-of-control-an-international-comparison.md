@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Alexander Dyck, Luigi Zingales |
 | **Year** | 2004 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Privatization and state-owned enterprise restructuring |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 2606 |
 | **Source** | openalex |
 | **DOI** | [10.1111/j.1540-6261.2004.00642.x](https://doi.org/10.1111/j.1540-6261.2004.00642.x) |

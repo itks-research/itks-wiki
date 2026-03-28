@@ -5,9 +5,9 @@
 | نویسندگان | Hun Joon Kim, J. C. Sharman |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 89 |
 | **شناسه دیجیتال** | [10.1017/s0020818313000428](https://doi.org/10.1017/s0020818313000428) |
 

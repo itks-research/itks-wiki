@@ -5,9 +5,9 @@
 | نویسندگان | Delhia Chabanne, M. Aucouturier, Anne Bouquillon, Évelyne Darque-Ceretti, S. Makariou, Xavier Dectot, Antoinette Faÿ-Hallé, D. Miroudot |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 13 |
 | **شناسه دیجیتال** | [10.1051/mattech/2011142](https://doi.org/10.1051/mattech/2011142) |
 

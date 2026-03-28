@@ -5,9 +5,9 @@
 | نویسندگان | Mansura S. Mulani, Ekta E. Kamble, Shital N. Kumkar, Madhumita S. Tawre, Karishma R. Pardesi |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1586 |
 | **شناسه دیجیتال** | [10.3389/fmicb.2019.00539](https://doi.org/10.3389/fmicb.2019.00539) |
 

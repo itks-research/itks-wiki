@@ -1,4 +1,4 @@
-# CONSOLIDATED DEMOCRACIES AND THE PAST: TRANSITIONAL JUSTICE IN SPAIN AND CANADA
+# Consolidated Democracies AND THE Past: Transitional Justice IN Spain AND Canada
 
 | Field | Value |
 |-------|-------|
@@ -6,7 +6,7 @@
 | **Year** | 2011 |
 | **Category** | Transitional justice |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 3 |
 | **Source** | openalex |
 | **DOI** | [10.24908/fg.v8i2.4374](https://doi.org/10.24908/fg.v8i2.4374) |

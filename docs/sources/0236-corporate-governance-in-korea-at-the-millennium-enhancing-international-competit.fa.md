@@ -5,9 +5,9 @@
 | نویسندگان | Bernard S. Black, Barry Metzger, Timothy O'Brien, Young Moo Shin |
 |---|---|
 | **سال** | 2001 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Banking and financial system reform |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 17 |
 
 ## چکیده

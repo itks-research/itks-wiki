@@ -5,8 +5,9 @@
 | **Authors** | Hilary Okoeguale |
 | **Year** | 2025 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Political party formation and pluralism, Women's rights codification and gender equality |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.4314/jsdlp.v16i2.9](https://doi.org/10.4314/jsdlp.v16i2.9) |

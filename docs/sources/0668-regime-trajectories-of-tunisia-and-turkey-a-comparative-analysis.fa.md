@@ -5,9 +5,9 @@
 | نویسندگان | Pelin Ayan Musil, Salim Çevik |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.1080/13530194.2023.2219637](https://doi.org/10.1080/13530194.2023.2219637) |
 

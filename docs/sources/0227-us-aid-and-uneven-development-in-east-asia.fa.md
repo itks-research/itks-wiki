@@ -5,9 +5,9 @@
 | نویسندگان | Kevin Gray |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 16 |
 | **شناسه دیجیتال** | [10.1177/0002716214543899](https://doi.org/10.1177/0002716214543899) |
 

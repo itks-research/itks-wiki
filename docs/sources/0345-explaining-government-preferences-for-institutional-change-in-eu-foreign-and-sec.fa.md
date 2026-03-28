@@ -5,9 +5,9 @@
 | نویسندگان | Mathias Koenig‐Archibugi |
 |---|---|
 | **سال** | 2004 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 140 |
 | **شناسه دیجیتال** | [10.1017/s0020818304581055](https://doi.org/10.1017/s0020818304581055) |
 

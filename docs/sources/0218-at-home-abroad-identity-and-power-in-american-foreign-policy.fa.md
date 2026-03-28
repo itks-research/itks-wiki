@@ -5,9 +5,9 @@
 | نویسندگان | نامشخص |
 |---|---|
 | **سال** | 2002 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Regional foreign policy reorientation |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 106 |
 | **شناسه دیجیتال** | [10.5860/choice.40-0563](https://doi.org/10.5860/choice.40-0563) |
 

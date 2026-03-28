@@ -1,0 +1,18 @@
+# E-Commerce to Improve Homemaker Productivity (Women Entrepreneur Empowerment at Meruya Utara, Kembangan District, West Jakarta, Indonesia)
+
+<div dir="rtl" markdown>
+
+| نویسندگان | Lucky Nugroho, Nurul Hidayah, Anees Jane Ali, Ahmad Badawi |
+|---|---|
+| **سال** | 2020 |
+| **دسته‌بندی** | Women's rights codification and gender equality |
+| **مطالعه موردی** | Indonesia |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 35 |
+| **شناسه دیجیتال** | [10.37680/amalee.v1i01.166](https://doi.org/10.37680/amalee.v1i01.166) |
+
+## چکیده
+
+Abstrak Saat ini banyak ibu rumah tangga memiliki bisnis sampingan yang sesuai dengan keterampilan dan hobi mereka. Adapun tujuan dari bisnis sampingan tersebut adalah untuk membantu kebutuhan keuangan rumah tangga mereka. Penelitian sebelumnya telah menunjukkan bahwa ibu rumah tangga yang juga pengusaha perempuan memiliki kontribusi yang signifikan terhadap kesejahteraan keluarga. Namun demikian, terdapat kesulitan dari ibu rumah tangga dalam memasarkan produk dan layanan mereka. Pengabdian ini melaksanakan sosialisasi terkait cara membuat akun e-commerce dan menggunakannya sebagai alternatif untuk menjual produk dan layanan mereka. Selain itu, hasil dari kegiatan layanan masyarakat internasional ini adalah bahwa ibu rumah tangga dapat menjual produk dan layanan mereka melalui e-commerce. Menurut hasil survei pada kegiatan sosialisasi ini, diketahui bahwa hambatan bagi ibu rumah tangga adalah masih rendahnya pendidikan mereka dimana 65% dari mereka memiliki pendidikan sekolah menengah. Juga, kepemilikan aplikasi internet banking dan mobile banking masih rendah, yaitu 35%. Dengan demikian, kepemilikan yang rendah atas aplikasi internet banking dan mobile banking membuat mereka kesulitan untuk menjual produk dan layanannya melalui e-commerce. Semua peserta sosialisasi menyatakan bahwa kegiatan ini bermanfaat dan menambah pengetahuan mereka. Selanjutnya untuk dapat meningkatkan omset penjualan mereka adalah melalui perbaikan kemasan produk dan layanan mereka untuk membuatnya lebih menarik bagi pembeli. Kata kunci: Ibu Rumah Tangga, Pengusaha Wanita, Mobile Banking, Internet Banking, E-Commerce. Abstract The current phenomenon is that many homemakers have a side business following their skills and hobbies that aim to help their household financial needs. Previous research has shown that homemakers who are also women entrepreneurs have a significant contribution to family welfare. However, there are difficulties from homemakers in marketing their products and services. The method used in this international community service is socialization related to how to create an e-commerce account and use it as an alternative to selling their products and services. Furthermore, the outcome of this service activity is that homemakers can sell their products and services through e-commerce. According to the survey results on this socialization activity, it is known that the obstacle for homemakers is that education is still low, 65% of them have high school and junior high school education. Also, internet banking and mobile banking application ownership are still small, at 35%. Thus, the low ownership of internet banking and mobile banking applications has made it difficult for them to sell through e-commerce. All participants of the socialization stated that this activity was useful and increased their knowledge. Next to be able to increase their sales turnover is through improvements to the packaging of their products and services to make it more attractive to buyers. Keyword : Homemaker, Women Enterpreneur, Mobile Banking, Internet Banking, E-commerce
+
+</div>

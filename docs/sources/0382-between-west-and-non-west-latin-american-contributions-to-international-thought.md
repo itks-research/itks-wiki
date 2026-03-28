@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Louise Fawcett |
 | **Year** | 2012 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 77 |
 | **Source** | openalex |
 | **DOI** | [10.1080/07075332.2012.707980](https://doi.org/10.1080/07075332.2012.707980) |

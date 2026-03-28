@@ -6,7 +6,7 @@
 | **Year** | 2022 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 106 |
 | **Source** | openalex |
 | **DOI** | [10.54648/cola2022032](https://doi.org/10.54648/cola2022032) |

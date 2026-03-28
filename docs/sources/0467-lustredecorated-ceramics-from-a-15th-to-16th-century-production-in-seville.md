@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | A. Polvorinos del Río, J. Castaing |
 | **Year** | 2009 |
-| **Category** | Transitional justice |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 24 |
 | **Source** | openalex |
 | **DOI** | [10.1111/j.1475-4754.2009.00467.x](https://doi.org/10.1111/j.1475-4754.2009.00467.x) |

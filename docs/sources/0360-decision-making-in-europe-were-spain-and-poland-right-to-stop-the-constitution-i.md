@@ -6,7 +6,7 @@
 | **Year** | 2005 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 4 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://aei.pitt.edu/3412/1/Florian_ADE_paper_0605.pdf) |

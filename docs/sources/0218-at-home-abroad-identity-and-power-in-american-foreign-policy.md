@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Unknown |
 | **Year** | 2002 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Regional foreign policy reorientation |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 106 |
 | **Source** | openalex |
 | **DOI** | [10.5860/choice.40-0563](https://doi.org/10.5860/choice.40-0563) |

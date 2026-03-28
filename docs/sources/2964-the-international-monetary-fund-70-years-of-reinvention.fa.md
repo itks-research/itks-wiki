@@ -1,0 +1,18 @@
+# The International Monetary Fund: 70 Years of Reinvention
+
+<div dir="rtl" markdown>
+
+| نویسندگان | Carmen Reinhart, Christoph Trebesch |
+|---|---|
+| **سال** | 2016 |
+| **دسته‌بندی** | Banking and financial system reform |
+| **مطالعه موردی** | Iran |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 122 |
+| **شناسه دیجیتال** | [10.1257/jep.30.1.3](https://doi.org/10.1257/jep.30.1.3) |
+
+## چکیده
+
+A sketch of the International Monetary Fund’s 70-year history reveals an institution that has reinvented itself over time along multiple dimensions. This history is primarily consistent with a “demand driven” theory of institutional change, as the needs of its clients and the type of crisis changed substantially over time. Some deceptively “new” IMF activities are not entirely new. Before emerging market economies dominated IMF programs, advanced economies were its earliest (and largest) clients through the 1970s. While currency problems were the dominant trigger of IMF involvement in the earlier decades, banking crises and sovereign defaults became the key focus after the 1980s. Around this time, the IMF shifted from providing relatively brief (and comparatively modest) balance-of-payments support in the era of fixed exchange rates to coping with more chronic debt sustainability problems that emerged with force in the developing economies and have now migrated to advanced economies. As a consequence, the IMF has engaged in “serial lending,” with programs often spanning decades. Moreover, the institution faces a growing risk of lending into insolvency; this has been most evident in Greece since 2010. We conclude with the observation that the IMF’s role as an international lender of last resort is endangered.
+
+</div>

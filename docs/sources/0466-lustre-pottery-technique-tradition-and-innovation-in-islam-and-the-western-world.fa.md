@@ -5,9 +5,9 @@
 | نویسندگان | Alan Caiger-Smith |
 |---|---|
 | **سال** | 1985 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 130 |
 
 ## چکیده

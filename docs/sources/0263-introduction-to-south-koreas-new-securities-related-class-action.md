@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Dae Hwan Chung |
 | **Year** | 2004 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Banking and financial system reform |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 9 |
 | **Source** | openalex |
 

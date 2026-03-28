@@ -5,9 +5,9 @@
 | نویسندگان | Derek Lutterbeck |
 |---|---|
 | **سال** | 2011 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Electoral system design and implementation |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 42 |
 | **شناسه دیجیتال** | [10.5334/bbm](https://doi.org/10.5334/bbm) |
 

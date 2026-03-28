@@ -5,9 +5,9 @@
 | نویسندگان | Tiziana Caponio, Maren Borkert |
 |---|---|
 | **سال** | 2011 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Civil society development |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 378 |
 | **شناسه دیجیتال** | [10.5117/9789089642325](https://doi.org/10.5117/9789089642325) |
 

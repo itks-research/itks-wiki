@@ -1,0 +1,18 @@
+# Lost and Found: The Ilkhanid Tiles of the Pir-i Bakran Mausoleum (Linjan, Isfahan)
+
+<div dir="rtl" markdown>
+
+| نویسندگان | Ana Marija Grbanovic |
+|---|---|
+| **سال** | 2021 |
+| **دسته‌بندی** | Transitional justice |
+| **مطالعه موردی** | Iran |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 1 |
+| **شناسه دیجیتال** | [10.1080/05786967.2021.1927141](https://doi.org/10.1080/05786967.2021.1927141) |
+
+## چکیده
+
+The mausoleum of Pir-i Bakran (1298–1313) is an exceptional Ilkhanid monument, which exemplifies different types of architectural decoration. These rich and exuberant revetments have been subject to extensive research: scholarly concern with the mausoleum focused on the distinctions between the monument's numerous constructive and decorative phases and its stuccos, wall paintings, and applied stuccos. However, the mausoleum was originally also decorated with tiles in lustre, moulded and glazed, Lajvardina and glazed media, which were removed from the mausoleum at an early stage. This paper dedicates its attention to this less well-studied aspect of the monument: art history research and work in museum collections support the suggestion that tiles (in lustre, moulded and glazed, Lajvardina and glazed media) in museum collections, may originate from the Pir-i Bakran mausoleum. Some of these tiles comprise animate elements (birds, such as cranes and phoenixes), which require an explanation of their meaning within the religious and funerary structure contexts. The Pir-i Bakran mausoleum appears to be one of the most southerly, though not the most remote, monuments with revetments containing animate imagery and lustre tile decoration. The research provides a new insight into the circulation of ideas and artistic exchange within the Iranian plateau.
+
+</div>

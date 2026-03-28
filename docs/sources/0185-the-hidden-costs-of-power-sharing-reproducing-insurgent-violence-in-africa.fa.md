@@ -7,7 +7,7 @@
 | **سال** | 2005 |
 | **دسته‌بندی** | Civil-military relations and security sector reform |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 225 |
 | **شناسه دیجیتال** | [10.1093/afraf/adi034](https://doi.org/10.1093/afraf/adi034) |
 

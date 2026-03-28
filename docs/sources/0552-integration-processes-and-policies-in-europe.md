@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Blanca Garcés‐Mascareñas, Rinus Penninx |
 | **Year** | 2015 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Trade liberalization and foreign direct investment |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 207 |
 | **Source** | openalex |
 | **DOI** | [10.1007/978-3-319-21674-4](https://doi.org/10.1007/978-3-319-21674-4) |

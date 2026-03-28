@@ -5,9 +5,9 @@
 | نویسندگان | Richard L. Armitage |
 |---|---|
 | **سال** | 1999 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Sanctions unwinding and international reintegration |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 22 |
 | **شناسه دیجیتال** | [10.21236/ada385825](https://doi.org/10.21236/ada385825) |
 

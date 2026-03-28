@@ -1,12 +1,13 @@
-# THE TUNISIAN CONSTITUTIONAL TRANSITION AND DEBATES: ISLAM, WOMEN AND OTHER ACTORS IN THE WAKE OF THE POST JASMINE REVOLUTION
+# THE Tunisian Constitutional Transition AND Debates: Islam, Women AND Other Actors IN THE WAKE OF THE POST Jasmine Revolution
 
 | Field | Value |
 |-------|-------|
 | **Authors** | Ashraf Booley |
 | **Year** | 2020 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Women's rights codification and gender equality |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.22452/js.vol28no2.5](https://doi.org/10.22452/js.vol28no2.5) |

@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | Unknown |
 | **Year** | 2013 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Political party formation and pluralism |
+| **Secondary Categories** | Constitutional design and drafting processes |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 21 |
 | **Source** | openalex |
 | **DOI** | [10.4324/9781315874593](https://doi.org/10.4324/9781315874593) |

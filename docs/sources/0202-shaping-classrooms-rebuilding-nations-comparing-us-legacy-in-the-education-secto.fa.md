@@ -5,9 +5,9 @@
 | نویسندگان | B. Cha, Soon-Yong Pak |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.20306/kces.2025.35.5.1](https://doi.org/10.20306/kces.2025.35.5.1) |
 

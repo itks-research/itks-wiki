@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Niamh Nic Shuibhne |
 | **Year** | 2010 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Trade liberalization and foreign direct investment |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 153 |
 | **Source** | openalex |
 | **DOI** | [10.54648/cola2010068](https://doi.org/10.54648/cola2010068) |

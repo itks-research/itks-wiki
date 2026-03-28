@@ -5,8 +5,9 @@
 | **Authors** | Tania Abbiate, Markus Böckenförde, Veronica Federico |
 | **Year** | 2017 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Political party formation and pluralism |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 40 |
 | **Source** | openalex |
 | **DOI** | [10.4324/9781315180540](https://doi.org/10.4324/9781315180540) |

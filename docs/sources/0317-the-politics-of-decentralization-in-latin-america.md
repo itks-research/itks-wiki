@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Eliza Willis, Christopher Garman, Stephan Haggard |
 | **Year** | 1999 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Federalism, unitarism, and autonomy models |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 382 |
 | **Source** | openalex |
 | **DOI** | [10.1017/s0023879100024298](https://doi.org/10.1017/s0023879100024298) |

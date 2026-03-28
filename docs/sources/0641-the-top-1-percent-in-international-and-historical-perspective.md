@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Facundo Alvaredo, Anthony B. Atkinson, Thomas Piketty, Emmanuel Saez |
 | **Year** | 2013 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 828 |
 | **Source** | openalex |
 | **DOI** | [10.1257/jep.27.3.3](https://doi.org/10.1257/jep.27.3.3) |

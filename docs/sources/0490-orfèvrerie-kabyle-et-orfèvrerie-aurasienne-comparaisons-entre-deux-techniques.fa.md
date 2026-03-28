@@ -5,9 +5,9 @@
 | نویسندگان | Henriette Camps-Fabrer |
 |---|---|
 | **سال** | 1977 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.3406/remmm.1977.1421](https://doi.org/10.3406/remmm.1977.1421) |
 

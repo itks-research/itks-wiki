@@ -5,9 +5,9 @@
 | نویسندگان | Sun Kim |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 17 |
 | **شناسه دیجیتال** | [10.1080/02680939.2016.1266034](https://doi.org/10.1080/02680939.2016.1266034) |
 

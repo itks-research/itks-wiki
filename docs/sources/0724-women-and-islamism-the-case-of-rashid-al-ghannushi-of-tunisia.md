@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | Muhammad Mahmoud |
 | **Year** | 2018 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Women's rights codification and gender equality |
+| **Secondary Categories** | Religious freedom and separation of religion from state |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 15 |
 | **Source** | openalex |
 | **DOI** | [10.4324/9780429499593-15](https://doi.org/10.4324/9780429499593-15) |

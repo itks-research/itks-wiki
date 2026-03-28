@@ -1,0 +1,18 @@
+# Investment in Social Sciences: Key to a Democratic Iran
+
+<div dir="rtl" markdown>
+
+| نویسندگان | D. Golriz |
+|---|---|
+| **سال** | 2009 |
+| **دسته‌بندی** | Nuclear program civilian transition |
+| **مطالعه موردی** | Iran |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 0 |
+| **شناسه دیجیتال** | [10.37974/ALF.103](https://doi.org/10.37974/ALF.103) |
+
+## چکیده
+
+Advanced communication technologies, especially the Internet and its democratic power to make information accessible, make it possible to stay connected with everyone in the world. Through mediums of dialogue, such as the internet, young Iranians obtain knowledge about the institutionalized liberal democratic values of the West. In time, it will lead to adaptation of these values that could incrementally establish a democratic Iran. This new generation of liberal democrats would perceive the institutionalization of their values as their main objective, raising that priority higher than Iran’s nuclear program. Due to this development, the threat of a nuclear Iran would diminish.
+
+</div>

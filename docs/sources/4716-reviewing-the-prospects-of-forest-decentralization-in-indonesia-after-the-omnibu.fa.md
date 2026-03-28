@@ -1,0 +1,18 @@
+# Reviewing the Prospects of Forest Decentralization in Indonesia After the Omnibus law
+
+<div dir="rtl" markdown>
+
+| نویسندگان | R. Ramadhan, M. Daulay, F. Disyacitta |
+|---|---|
+| **سال** | 2022 |
+| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
+| **مطالعه موردی** | Indonesia |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 5 |
+| **شناسه دیجیتال** | [10.1505/146554822835224793](https://doi.org/10.1505/146554822835224793) |
+
+## چکیده
+
+HIGHLIGHTS The prospect of decentralization under the forest Omnibus Law has not led to democratic decentralization and it is more likely that deconcentration (or administrative decentralization) will occur through binding regulations and standards. The legal structure in the regulation confirms that no meaningful type of power is delegated to the regions. Instead, the central government or the Minister's position is more dominant in terms of authority related to forest management. Local governments do not have meaningful responsibility for forest issues within their jurisdictions because they are not assigned accountability under the Omnibus Law. The discretionary power for local authorities to make decisions does not appear in the regulations. he democratic process in managing forest resources is difficult to realize due to the limited powers given to local authorities. SUMMARY In 2020 Indonesia's government passed the Omnibus Law with the objective of creating more jobs and raising foreign and domestic investments by reducing regulatory requirements for businesses. This study examines how the central government is dealing with the administrative and legislative issues caused by the new law with regard to forest management. Results reveal that while administrative decentralization appears to be occurring, when viewed through the lens of political/democratic decentralization, effective forestry decentralization is not currently taking place due to a lack of devolvement of effective power to local level representatives. Le gouvernement indonésien de 2020 a passé la loi Omnibus avec pour objectif une création supérieure d'emplois et une augmentation des investissements domestiques et étrangers, en réduisant les demandes réglementaires pour les business. Cette étude examine la manière dont le gouvernement central s'occupe des questions législatives et administratives posées par cette nouvelle loi, dans tout ce qui tient à la gestion forestière. Les résultats révèlent que, alors qu'une décentralisation administrative semble prendre place, quand elle est observée d'un point de vue d'une décentralisation politique et démocratique; une décentralisation forestière efficace ne semble pas, en revanche, exister, du fait d'un manque de dévolution d'un pouvoir efficace aux représentants locaux. En 2020 el gobierno de Indonesia aprobó la Ley Compendio, con el objetivo de crear más puestos de trabajo y atraer inversiones extranjeras y nacionales mediante la reducción de los requisitos normativos para las empresas. Este estudio examina como el Gobierno central está abordando los problemas administrativos y legislativos que plantea la nueva ley en materia de gestión forestal. Los resultados revelan que, si bien la descentralización administrativa parece estar ocurriendo, cuando se mira a través de la lente de la descentralización política y democrática, en la actualidad no está teniendo lugar una descentralización forestal efectiva debido a la falta de devolución de poder efectivo a los representantes a nivel local.
+
+</div>

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Carmen Diana Deere, Magdalena León |
 | **Year** | 2005 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Women's rights codification and gender equality |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 96 |
 | **Source** | openalex |
 | **DOI** | [10.1215/00182168-85-4-627](https://doi.org/10.1215/00182168-85-4-627) |

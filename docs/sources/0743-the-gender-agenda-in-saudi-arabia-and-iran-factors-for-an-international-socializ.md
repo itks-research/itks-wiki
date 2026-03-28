@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Alice Fill |
 | **Year** | 2019 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Women's rights codification and gender equality |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 4 |
 | **Source** | openalex |
 | **DOI** | [10.15366/relacionesinternacionales2019.42.010](https://doi.org/10.15366/relacionesinternacionales2019.42.010) |

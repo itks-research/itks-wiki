@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Robert Chambers |
 | **Year** | 1983 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 2624 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://opendocs.ids.ac.uk/opendocs/handle/123456789/178) |

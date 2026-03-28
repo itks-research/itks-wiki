@@ -6,7 +6,7 @@
 | **Year** | 2008 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 124 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://scholarship.law.wm.edu/cgi/viewcontent.cgi?article=1151&context=wmlr) |

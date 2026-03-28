@@ -6,7 +6,7 @@
 | **Year** | 2004 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 216 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=1226&context=yjil) |

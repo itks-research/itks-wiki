@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Peter Murrell |
 | **Year** | 1996 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Trade liberalization and foreign direct investment |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 185 |
 | **Source** | openalex |
 | **DOI** | [10.1257/jep.10.2.25](https://doi.org/10.1257/jep.10.2.25) |

@@ -5,8 +5,9 @@
 | **Authors** | A. Emordi, H. A. Ikedinma, Mubarak Ayodeji Eniola |
 | **Year** | 2024 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Electoral system design and implementation |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.71016/hnjss/pkcks587](https://doi.org/10.71016/hnjss/pkcks587) |

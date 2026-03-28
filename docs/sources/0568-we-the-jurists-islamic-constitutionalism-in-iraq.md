@@ -5,8 +5,9 @@
 | **Authors** | Intisar A. Rabb |
 | **Year** | 2008 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Judicial independence and rule of law |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 37 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://nrs.harvard.edu/urn-3:HUL.InstRepos:12967855) |

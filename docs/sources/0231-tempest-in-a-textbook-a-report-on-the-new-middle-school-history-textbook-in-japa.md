@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | John K. Nelson |
 | **Year** | 2002 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 31 |
 | **Source** | openalex |
 | **DOI** | [10.1080/146727102760166635](https://doi.org/10.1080/146727102760166635) |

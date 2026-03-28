@@ -1,0 +1,17 @@
+# Petro-Violence: Some Thoughts on Community, Extraction, and Political Ecology
+
+<div dir="rtl" markdown>
+
+| نویسندگان | Michael Watts |
+|---|---|
+| **سال** | 1999 |
+| **دسته‌بندی** | Ethnic federalism in Iran |
+| **مطالعه موردی** | Iran |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 55 |
+
+## چکیده
+
+Oil, more than any other commodity, illustrates both the importance and the mystification of natural resources in the modern world.Fernando Coronil, The Magical State, 1997, p. 49 I want to offer some thoughts on the violence that so often attends the extraction of oil [and necessarily on the ecological devastation which is its handmaiden]; what I'll call for the purposes of this workshop petro-violence.My purpose is not to offer, obviously, a sort of commodity determinismpetroleum is more violent than coal, or oil extraction breeds Muslim radicalism (Iran) while copper breeds evangelical cronyism (Zambia)-but to take seriously the idea that the biophysical properties of Nature, of a natural resource, matter in both palpable and analytical ways.It is both difficult and artificial to distill out the narrowly defined biological and geophysical properties of "crude" or "raw" petroleum from the social relations (institutional practices, ideological associations and meanings, forms of extraction, production and use) of petroleum, a commodity not only saturated in the mythos of the rise of the West but also indisputably one of the most fundamental building blocks of twentieth century industrial capitalism ("hydrocarbon capitalism").But I do believe that a commodity focus-particularly on a part of Nature which has the density and weight of black gold-offers a way of thinking about the intersection of environment and violence: both biological violence, as it were, perpetrated upon the biophysical world, and the social violence, criminality and degeneracy associated with the genesis of petro-wealth and with its ecological destructiveness.The entire history of the petroleum history is, as Daniel Yergin (1991) details in his encyclopedic account of the industry The Prize, replete with criminality, corruption, the crude exercise of power, and the worst of frontier capitalism.Graft and thuggishness are its defining characteristics.And it is to be expected then that in an age of unprecedented denationalization and market liberalization, the mad scramble to locate the next petrolic El Dorado continues unabated (irrespective of falling oil prices and the shambles that is OPEC).Petro-violence is rarely off the front pages of the press.The Caspian basin reaching from the borders of Afghanistan to the Russian Caucuses is a repository of enormous petro-wealth; Turkmenistan, Kazakhstan, Azerbaijan, Georgia and the southern Russian provinces (Ossetia, Dagestan, Chechnya) have, however, become, in the wake of the collapse of the Soviet Union, a zone of civil conflict and war, as the San Francisco Chronicle puts it (August 11th 1998, p. A8).As the oil companies jockey for position in an atmosphere of frontier vigilantism, petroleum has become central to what the Azerbaijani president calls "armed conflict,
+
+</div>

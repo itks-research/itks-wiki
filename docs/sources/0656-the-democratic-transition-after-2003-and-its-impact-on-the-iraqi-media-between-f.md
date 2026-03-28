@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Imad Mohammed Saleh |
 | **Year** | 2026 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Media freedom and press institution building |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.31272/ipj.i65.523](https://doi.org/10.31272/ipj.i65.523) |

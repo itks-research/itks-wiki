@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Mai Hassan, Daniel Mattingly, Elizabeth R. Nugent |
 | **Year** | 2021 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 88 |
 | **Source** | openalex |
 | **DOI** | [10.1146/annurev-polisci-051120-013321](https://doi.org/10.1146/annurev-polisci-051120-013321) |

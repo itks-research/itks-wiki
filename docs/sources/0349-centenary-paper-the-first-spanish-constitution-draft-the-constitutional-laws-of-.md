@@ -6,7 +6,7 @@
 | **Year** | 2024 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | openalex |
 | **DOI** | [10.3828/bhs.2024.18](https://doi.org/10.3828/bhs.2024.18) |

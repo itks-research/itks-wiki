@@ -1,0 +1,18 @@
+# Identifying scenarios for renewable energy development in Iran: the role of collaborative governance
+
+<div dir="rtl" markdown>
+
+| نویسندگان | A. Sadabadi, Zohreh Rahimirad |
+|---|---|
+| **سال** | 2025 |
+| **دسته‌بندی** | Resource curse management |
+| **مطالعه موردی** | Iran |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 8 |
+| **شناسه دیجیتال** | [10.1080/14693062.2025.2477772](https://doi.org/10.1080/14693062.2025.2477772) |
+
+## چکیده
+
+ABSTRACT This study examines collaborative governance scenarios for renewable energy development in Iran, emphasizing the role of stakeholder engagement in overcoming development obstacles. Initially, we identified key actors and obstacles to renewable energy development through a literature review and expert interviews. Using expert questionnaires and a two-mode social network analysis, we identified the ideal situation for overcoming obstacles to renewable energy development. Then, we prioritized obstacles using the Fuzzy Delphi method. We also discussed collaborative governance scenarios in Iran based on the Cross-Impact Balances (CIB) method. The results indicated that the network comprises nine actors and eleven obstacles, organized into five layers, interconnected by 45 links. We construct eleven distinct scenarios illustrating pathways toward enhanced governance structures. Our findings highlight the need to enhance several key components of collaborative governance scenarios in new energy development. These include informing all stakeholders, encouraging private sector investment while reducing fossil fuel subsidies, and ensuring stakeholder participation in providing initial financial capital. The findings underscore the accelerating transition in oil-rich economies, necessitating targeted policy interventions. While Iran is the focal case, our study offers actionable insights for oil-rich economies transitioning toward sustainable energy systems. Our findings highlight that collaborative governance can enhance diversity among renewable energy actors in oil-rich countries with weak governance. Clear, scenario-based recommendations offer a roadmap for decision-makers, helping bridge existing governance gaps and enhancing renewable energy strategies. Key policy insights (KPI) This study provides a strategic roadmap (key stakeholders identification, obstacles prioritization, and scenario formulation) for policymakers aiming to speed up the transition to renewable energy by engaging stakeholders, particularly in oil-rich countries. The governance map presented in this study illustrates the desired conditions of renewable energy development in Iran, highlighting critical actors necessary for progress. This mapping can act as a diagnostic tool for oil-rich nations to evaluate the inclusivity of their governance processes. Effective collaborative governance requires addressing all identified components, especially the unique critical elements of each scenario. Ignoring any aspect can jeopardize sustainable energy transitions. Reducing fossil fuel subsidies and strengthening international cooperation are essential for boosting private sector investment and improving collaborative governance, supporting a more sustainable energy transition. Collaborative governance can improve diversity among renewable energy actors in oil-rich countries, where weak governance hinders development despite the availability of resources.
+
+</div>

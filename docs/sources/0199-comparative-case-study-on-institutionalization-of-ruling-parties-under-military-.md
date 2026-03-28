@@ -6,7 +6,7 @@
 | **Year** | 2019 |
 | **Category** | Civil-military relations and security sector reform |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 2 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.31014/aior.1991.02.04.134](https://doi.org/10.31014/aior.1991.02.04.134) |

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Young-Jun Choi |
 | **Year** | 2006 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 24 |
 | **Source** | openalex |
 | **DOI** | [10.1017/s0144686x06004879](https://doi.org/10.1017/s0144686x06004879) |

@@ -5,9 +5,9 @@
 | نویسندگان | A. Polvorinos del Río, J. Castaing |
 |---|---|
 | **سال** | 2009 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 24 |
 | **شناسه دیجیتال** | [10.1111/j.1475-4754.2009.00467.x](https://doi.org/10.1111/j.1475-4754.2009.00467.x) |
 

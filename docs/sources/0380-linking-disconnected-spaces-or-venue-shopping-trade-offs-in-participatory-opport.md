@@ -5,8 +5,9 @@
 | **Authors** | Luis Bouza García |
 | **Year** | 2014 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Political party formation and pluralism |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 5 |
 | **Source** | openalex |
 | **DOI** | [10.1080/14742837.2014.945074](https://doi.org/10.1080/14742837.2014.945074) |

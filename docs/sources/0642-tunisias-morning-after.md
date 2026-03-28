@@ -5,8 +5,9 @@
 | **Authors** | Bruce Maddy‐Weitzman |
 | **Year** | 2011 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Political party formation and pluralism |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 5 |
 | **Source** | openalex |
 

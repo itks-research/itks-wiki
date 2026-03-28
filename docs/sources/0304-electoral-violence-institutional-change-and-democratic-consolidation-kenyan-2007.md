@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | Dennis Wambugu Wandina, Yasin Kuho Ghabon |
 | **Year** | 2026 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Electoral system design and implementation |
+| **Secondary Categories** | Constitutional design and drafting processes |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.65138/ijtrp.2026.v2i1.8](https://doi.org/10.65138/ijtrp.2026.v2i1.8) |

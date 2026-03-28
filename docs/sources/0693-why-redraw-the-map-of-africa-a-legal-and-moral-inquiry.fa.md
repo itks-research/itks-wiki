@@ -5,9 +5,9 @@
 | نویسندگان | Makau W. Mutua |
 |---|---|
 | **سال** | 1995 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 80 |
 
 ## چکیده

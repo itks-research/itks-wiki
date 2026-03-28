@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | James W. Varni, Christine A. Limbers, Tasha M. Burwinkle |
 | **Year** | 2007 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 1064 |
 | **Source** | openalex |
 | **DOI** | [10.1186/1477-7525-5-1](https://doi.org/10.1186/1477-7525-5-1) |

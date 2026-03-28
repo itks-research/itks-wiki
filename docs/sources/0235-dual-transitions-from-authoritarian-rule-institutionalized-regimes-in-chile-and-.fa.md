@@ -5,9 +5,9 @@
 | نویسندگان | نامشخص |
 |---|---|
 | **سال** | 2008 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Power-sharing mechanisms during transition periods |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 31 |
 | **شناسه دیجیتال** | [10.5860/choice.46-1128](https://doi.org/10.5860/choice.46-1128) |
 

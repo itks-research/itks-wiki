@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Pranab Bardhan |
 | **Year** | 2016 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 228 |
 | **Source** | openalex |
 | **DOI** | [10.1257/jel.20151239](https://doi.org/10.1257/jel.20151239) |

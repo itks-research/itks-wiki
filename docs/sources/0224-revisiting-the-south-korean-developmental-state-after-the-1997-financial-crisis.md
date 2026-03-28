@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Yong Soo Park |
 | **Year** | 2011 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Banking and financial system reform |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 30 |
 | **Source** | openalex |
 | **DOI** | [10.1080/10357718.2011.607148](https://doi.org/10.1080/10357718.2011.607148) |

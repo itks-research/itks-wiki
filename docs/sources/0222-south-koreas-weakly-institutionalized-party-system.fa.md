@@ -5,9 +5,9 @@
 | نویسندگان | Joseph Wong |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 30 |
 | **شناسه دیجیتال** | [10.1017/cbo9781107300385.011](https://doi.org/10.1017/cbo9781107300385.011) |
 

@@ -5,9 +5,9 @@
 | نویسندگان | Rafaa Chehoudi |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.24297/JAH.V5I1.5907](https://doi.org/10.24297/JAH.V5I1.5907) |
 

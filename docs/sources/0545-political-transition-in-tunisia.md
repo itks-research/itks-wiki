@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | Alexis Arieff |
 | **Year** | 2011 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Political party formation and pluralism |
+| **Secondary Categories** | Transitional justice |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 44 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://digital.library.unt.edu/ark:/67531/metadc228118/) |

@@ -5,9 +5,9 @@
 | نویسندگان | Seán Doran, Jonathan Jackson |
 |---|---|
 | **سال** | 2000 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Judicial independence and rule of law |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 18 |
 
 ## چکیده

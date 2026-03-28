@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Samuel P. Huntington |
 | **Year** | 1995 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Civil-military relations and security sector reform |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 66 |
 | **Source** | openalex |
 | **DOI** | [10.1353/jod.1995.0067](https://doi.org/10.1353/jod.1995.0067) |

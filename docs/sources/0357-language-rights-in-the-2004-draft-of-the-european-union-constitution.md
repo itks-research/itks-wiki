@@ -6,7 +6,7 @@
 | **Year** | 2007 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 12 |
 | **Source** | openalex |
 | **DOI** | [10.1075/lplp.31.1.03fai](https://doi.org/10.1075/lplp.31.1.03fai) |

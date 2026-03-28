@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Ernesto Bohoslavsky |
 | **Year** | 2004 |
-| **Category** | Transitional justice |
+| **Category** | Judicial independence and rule of law |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 24 |
 | **Source** | openalex |
 | **DOI** | [10.1215/00182168-84-2-377](https://doi.org/10.1215/00182168-84-2-377) |

@@ -6,7 +6,7 @@
 | **Year** | 2024 |
 | **Category** | Transitional justice |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://osf.io/97g6e) |

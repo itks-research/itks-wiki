@@ -1,4 +1,4 @@
-# FORMATION AND DEVELOPMENT OF THE CONSTITUTIONAL COURT IN THE REPUBLIC OF KOREA (SOUTH KOREA)
+# Formation AND Development OF THE Constitutional Court IN THE Republic OF Korea (south Korea)
 
 | Field | Value |
 |-------|-------|

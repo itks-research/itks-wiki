@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Ross Levine |
 | **Year** | 1999 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Banking and financial system reform |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 3034 |
 | **Source** | openalex |
 | **DOI** | [10.1596/1813-9450-1678](https://doi.org/10.1596/1813-9450-1678) |

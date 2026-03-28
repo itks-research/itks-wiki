@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | A. Hafied A. Gany, Prachi Sharma, Sahdev Singh |
 | **Year** | 2018 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 59 |
 | **Source** | openalex |
 | **DOI** | [10.1002/ird.2305](https://doi.org/10.1002/ird.2305) |

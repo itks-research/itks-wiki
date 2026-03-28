@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Adam Wagstaff, Gabriela Flores, Justine Hsu, Marc‐François Smitz, Kateryna Chepynoga, Leander R. Buisman, Kim van Wilgenburg, Patrick Eozenou |
 | **Year** | 2017 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 977 |
 | **Source** | openalex |
 | **DOI** | [10.1016/s2214-109x(17)30429-1](https://doi.org/10.1016/s2214-109x(17)30429-1) |

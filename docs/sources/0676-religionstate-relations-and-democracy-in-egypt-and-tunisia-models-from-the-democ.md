@@ -6,7 +6,7 @@
 | **Year** | 2012 |
 | **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 6 |
 | **Source** | openalex |
 | **DOI** | [10.1111/j.1662-6370.2012.02061.x](https://doi.org/10.1111/j.1662-6370.2012.02061.x) |

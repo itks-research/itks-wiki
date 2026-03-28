@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Fritz W. Scharpf |
 | **Year** | 2003 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 266 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://irihs.ihs.ac.at/id/eprint/1692/1/pw_107.pdf) |

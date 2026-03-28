@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Christopher McCrudden |
 | **Year** | 2008 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Judicial independence and rule of law |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 953 |
 | **Source** | openalex |
 | **DOI** | [10.1093/ejil/chn043](https://doi.org/10.1093/ejil/chn043) |

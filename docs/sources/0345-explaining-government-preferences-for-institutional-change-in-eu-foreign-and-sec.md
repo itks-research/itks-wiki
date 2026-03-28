@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Mathias Koenig‐Archibugi |
 | **Year** | 2004 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 140 |
 | **Source** | openalex |
 | **DOI** | [10.1017/s0020818304581055](https://doi.org/10.1017/s0020818304581055) |

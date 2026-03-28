@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Wetenschappelijke Raad voor het Reg, Nasr Abû Zayd |
 | **Year** | 2006 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 120 |
 | **Source** | openalex |
 | **DOI** | [10.5117/9789053568286](https://doi.org/10.5117/9789053568286) |

@@ -6,7 +6,7 @@
 | **Year** | 2024 |
 | **Category** | Civil-military relations and security sector reform |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.32961/jwhc.2024.03.70.153](https://doi.org/10.32961/jwhc.2024.03.70.153) |

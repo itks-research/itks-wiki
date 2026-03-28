@@ -5,9 +5,9 @@
 | نویسندگان | Nicholas Sambanis |
 |---|---|
 | **سال** | 2000 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 364 |
 | **شناسه دیجیتال** | [10.1017/s0043887100020074](https://doi.org/10.1017/s0043887100020074) |
 

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Micha Wiebusch, Christina Murray |
 | **Year** | 2019 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Electoral system design and implementation |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 30 |
 | **Source** | openalex |
 | **DOI** | [10.1017/s0021855319000056](https://doi.org/10.1017/s0021855319000056) |

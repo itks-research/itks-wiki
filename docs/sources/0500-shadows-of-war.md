@@ -6,7 +6,7 @@
 | **Year** | 2010 |
 | **Category** | Transitional justice |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 43 |
 | **Source** | openalex |
 | **DOI** | [10.1017/cbo9780511676178](https://doi.org/10.1017/cbo9780511676178) |

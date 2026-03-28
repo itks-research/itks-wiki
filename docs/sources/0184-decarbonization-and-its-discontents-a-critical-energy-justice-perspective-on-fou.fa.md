@@ -5,9 +5,9 @@
 | نویسندگان | Benjamin K. Sovacool, Mari Martiskainen, Andrew Hook, Lucy Baker |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Resource curse management |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 417 |
 | **شناسه دیجیتال** | [10.1007/s10584-019-02521-7](https://doi.org/10.1007/s10584-019-02521-7) |
 

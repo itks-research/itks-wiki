@@ -1,5 +1,5 @@
 site_name: 'Iran Development Knowledge System'
-site_description: 'An autonomous research wiki mapping democratic development pathways'
+site_description: 'An autonomous research wiki mapping development pathways'
 site_url: 'https://itks-research.github.io/itks-wiki/'
 
 theme:
@@ -33,11 +33,29 @@ plugins:
             Home: خانه
             Dashboard: داشبورد
             Knowledge Graph: نمودار دانش
+            Case Studies: مطالعات موردی
+            Iran: ایران
+            South Korea: کره جنوبی
+            Spain: اسپانیا
+            Tunisia: تونس
+            Czech Republic: جمهوری چک
+            Indonesia: اندونزی
+            Chile: شیلی
+            Poland: لهستان
 
 nav:
   - Home: index.md
   - Dashboard: dashboard.md
   - Knowledge Graph: graph.md
+  - Case Studies:
+    - Iran: case-studies/iran.md
+    - South Korea: case-studies/south-korea.md
+    - Spain: case-studies/spain.md
+    - Tunisia: case-studies/tunisia.md
+    - Czech Republic: case-studies/czech-republic.md
+    - Indonesia: case-studies/indonesia.md
+    - Chile: case-studies/chile.md
+    - Poland: case-studies/poland.md
 
 markdown_extensions:
   - tables

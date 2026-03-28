@@ -1,0 +1,17 @@
+# Entrepreneurship Education through Successful Entrepreneurial Models in Higher Education Institutions
+
+| Field | Value |
+|-------|-------|
+| **Authors** | Gabriela Boldureanu, Alina Măriuca Ionescu, Ana‐Maria Bercu, Maria Viorica Bedrule-Grigoruță, Daniel Boldureanu |
+| **Year** | 2020 |
+| **Category** | Transitional justice |
+| **Case Study** | Poland |
+| **Relevance Score** | Pending |
+| **Citation Count** | 594 |
+| **Source** | openalex |
+| **DOI** | [10.3390/su12031267](https://doi.org/10.3390/su12031267) |
+| **Full Text** | [Open Access](https://www.mdpi.com/2071-1050/12/3/1267/pdf?version=1581334866) |
+
+## Abstract
+
+In higher education institutions, entrepreneurship learning based on successful entrepreneurial role models may promote education for sustainable development. Several theoretical perspectives, such as the human capital theory, the entrepreneurial self-efficacy and self-determination theory, argue that entrepreneurship education is positively correlated with entrepreneurial intentions of students, as it provides adequate know-how and skills and motivates them to develop their entrepreneurial careers. In entrepreneurship education programmes, exposure to successful entrepreneurial models could be a significant factor for stimulating students’ confidence in their ability to start a business and for improving their attitudes towards entrepreneurship. This study aims (i) to identify characteristics viewed by students as being specific to a successful entrepreneur, (ii) to establish the influence of exposure to successful entrepreneurial role models (chosen by students) during entrepreneurship education classes on student entrepreneurial intentions, and (iii) to assess how such exposure influences the attitudes of students towards entrepreneurship. For this purpose, the authors ran a pilot experiment with 30 graduate students enrolled in a Business Creation course using a research methodology that combined qualitative techniques with quantitative measures. Content and statistical analyses were utilised to examine differences in student entrepreneurial intentions and attitudes towards entrepreneurship after being exposed to successful entrepreneurial models. Our study provides evidence that entrepreneurship education based on successful entrepreneurial role models may positively influence the entrepreneurial attitudes and intentions of students and could lead to higher orientation of student perception towards social benefits of entrepreneurship (new jobs) compared to financial ones (high income). However, our findings stress that if educators want to improve the efficiency of education focused on developing entrepreneurial skills, graduate programmes should be designed differently for business and non-business students, since studying successful entrepreneurial stories impacts these two groups differently.

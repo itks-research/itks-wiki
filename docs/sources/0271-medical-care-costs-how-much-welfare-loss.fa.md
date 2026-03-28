@@ -5,9 +5,9 @@
 | نویسندگان | Joseph P. Newhouse |
 |---|---|
 | **سال** | 1992 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1209 |
 | **شناسه دیجیتال** | [10.1257/jep.6.3.3](https://doi.org/10.1257/jep.6.3.3) |
 

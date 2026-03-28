@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Schiedermair, Stephanie 1977-, Schwarz, Alexander 1968-, Steiger, Dominik 1978-, Nomos Verlagsgesellschaft |
 | **Year** | 2021 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Judicial independence and rule of law |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 224 |
 | **Source** | openalex |
 | **DOI** | [10.5771/9783748923503](https://doi.org/10.5771/9783748923503) |

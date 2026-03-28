@@ -5,9 +5,9 @@
 | نویسندگان | Philippe Colomban |
 |---|---|
 | **سال** | 2009 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 174 |
 | **شناسه دیجیتال** | [10.4028/www.scientific.net/jnanor.8.109](https://doi.org/10.4028/www.scientific.net/jnanor.8.109) |
 

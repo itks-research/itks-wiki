@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Mohamed-Salah Omri |
 | **Year** | 2015 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 24 |
 | **Source** | openalex |
 | **DOI** | [10.5281/zenodo.8217498](https://doi.org/10.5281/zenodo.8217498) |

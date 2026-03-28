@@ -5,8 +5,9 @@
 | **Authors** | Diego Muro |
 | **Year** | 2009 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Federalism, unitarism, and autonomy models |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 20 |
 | **Source** | openalex |
 | **DOI** | [10.1080/13608740903503845](https://doi.org/10.1080/13608740903503845) |

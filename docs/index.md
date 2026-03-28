@@ -1,14 +1,14 @@
 # Iran Development Knowledge System
 
-An autonomous research system mapping democratic development pathways relevant to Iran's future governance.
+An autonomous research system mapping development pathways relevant to Iran's future governance.
 
 This wiki is built and maintained by an AI research agent that continuously discovers, indexes, evaluates, and synthesizes academic and policy sources. Every claim traces back to a verifiable source.
 
 ## Quick Stats
 
-- **1688** academic sources indexed
+- **5109** academic sources indexed
 - **0** relationships mapped
-- **7** comparative case studies
+- **8** comparative case studies
 
 ## Browse
 
@@ -17,13 +17,14 @@ This wiki is built and maintained by an AI research agent that continuously disc
 
 ### Case Studies
 
-- **Chile** (150 sources)
-- **Czech Republic** (249 sources)
-- **Indonesia** (183 sources)
-- **Poland** (84 sources)
-- **South Korea** (388 sources)
-- **Spain** (351 sources)
-- **Tunisia** (283 sources)
+- **[Chile](case-studies/chile.md)** (150 sources)
+- **[Czech Republic](case-studies/czech-republic.md)** (249 sources)
+- **[Indonesia](case-studies/indonesia.md)** (637 sources)
+- **[Iran](case-studies/iran.md)** (2263 sources)
+- **[Poland](case-studies/poland.md)** (809 sources)
+- **[South Korea](case-studies/south-korea.md)** (378 sources)
+- **[Spain](case-studies/spain.md)** (342 sources)
+- **[Tunisia](case-studies/tunisia.md)** (281 sources)
 
 ### Research Domains
 
@@ -34,4 +35,4 @@ This wiki is built and maintained by an AI research agent that continuously disc
 
 ---
 
-*This system does not advocate for any specific governance model. It researches the full spectrum — evaluating each through what evidence suggests would serve Iranian sovereignty, prosperity, cultural continuity, and societal resilience.*
+*This system does not advocate for any specific governance model. It researches the full spectrum — evaluating each through what evidence suggests would best deliver prosperity, personal freedoms, economic strength, and sovereignty for Iran.*

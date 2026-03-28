@@ -5,9 +5,9 @@
 | نویسندگان | Wayne Barnes |
 |---|---|
 | **سال** | 2005 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Civil-military relations and security sector reform |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 130 |
 
 ## چکیده

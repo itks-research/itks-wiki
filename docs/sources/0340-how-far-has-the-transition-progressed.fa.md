@@ -5,9 +5,9 @@
 | نویسندگان | Peter Murrell |
 |---|---|
 | **سال** | 1996 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 185 |
 | **شناسه دیجیتال** | [10.1257/jep.10.2.25](https://doi.org/10.1257/jep.10.2.25) |
 

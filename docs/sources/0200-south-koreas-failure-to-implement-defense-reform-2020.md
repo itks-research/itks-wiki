@@ -6,7 +6,7 @@
 | **Year** | 2014 |
 | **Category** | Civil-military relations and security sector reform |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 10 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.14731/KJIS.2014.12.12.2.379](https://doi.org/10.14731/KJIS.2014.12.12.2.379) |

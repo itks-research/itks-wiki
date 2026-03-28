@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Fatima El Issawi |
 | **Year** | 2011 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Minority rights |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 15 |
 | **Source** | openalex |
 | **DOI** | [10.1007/s12290-011-0183-1](https://doi.org/10.1007/s12290-011-0183-1) |

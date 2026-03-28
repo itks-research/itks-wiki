@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Jeffrey Pickering, Mark Peceny |
 | **Year** | 2006 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Electoral system design and implementation |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 186 |
 | **Source** | openalex |
 | **DOI** | [10.1111/j.1468-2478.2006.00413.x](https://doi.org/10.1111/j.1468-2478.2006.00413.x) |

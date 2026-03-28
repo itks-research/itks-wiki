@@ -5,8 +5,9 @@
 | **Authors** | Wolfram Lacher |
 | **Year** | 2011 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Political party formation and pluralism, Power-sharing mechanisms during transition periods |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 62 |
 | **Source** | openalex |
 | **DOI** | [10.1111/j.1475-4967.2011.00516.x](https://doi.org/10.1111/j.1475-4967.2011.00516.x) |

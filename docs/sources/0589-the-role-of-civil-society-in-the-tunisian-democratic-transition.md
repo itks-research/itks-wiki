@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | Veronica Baker |
 | **Year** | 2015 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Civil society development |
+| **Secondary Categories** | Political party formation and pluralism |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://scholar.colorado.edu/downloads/0v8381091) |

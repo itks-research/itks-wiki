@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | Sebastiaan Faber, Pablo Sánchez León, Jesús Izquierdo Martín |
 | **Year** | 1970 |
-| **Category** | Transitional justice |
+| **Category** | Media freedom and press institution building |
+| **Secondary Categories** | Education system reform and curriculum modernization |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 9 |
 | **Source** | openalex |
 | **DOI** | [10.5209/rev_poso.2011.v48.n3.36423](https://doi.org/10.5209/rev_poso.2011.v48.n3.36423) |

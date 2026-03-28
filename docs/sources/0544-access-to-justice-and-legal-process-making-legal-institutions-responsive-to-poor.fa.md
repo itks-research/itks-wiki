@@ -5,9 +5,9 @@
 | نویسندگان | Michael Anderson |
 |---|---|
 | **سال** | 2003 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Judicial independence and rule of law |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 65 |
 
 ## چکیده

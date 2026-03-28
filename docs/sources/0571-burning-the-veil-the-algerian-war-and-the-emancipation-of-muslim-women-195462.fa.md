@@ -5,9 +5,9 @@
 | نویسندگان | Neil MacMaster |
 |---|---|
 | **سال** | 2010 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Women's rights codification and gender equality |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 55 |
 | **شناسه دیجیتال** | [10.7765/9781526146182](https://doi.org/10.7765/9781526146182) |
 

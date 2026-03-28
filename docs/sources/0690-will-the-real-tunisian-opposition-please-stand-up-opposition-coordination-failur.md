@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Rikke Hostrup Haugbølle, Francesco Cavatorta |
 | **Year** | 2011 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 52 |
 | **Source** | openalex |
 | **DOI** | [10.1080/13530194.2011.621696](https://doi.org/10.1080/13530194.2011.621696) |

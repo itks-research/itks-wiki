@@ -1,13 +1,13 @@
-# EUROPEAN MIGRATION IN THE LATE TWENTIETH CENTURY
+# European Migration IN THE LATE Twentieth Century
 
 <div dir="rtl" markdown>
 
 | نویسندگان | Fassmann, H., Muenz, R. |
 |---|---|
 | **سال** | 1994 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 138 |
 | **شناسه دیجیتال** | [10.4337/9781035303106](https://doi.org/10.4337/9781035303106) |
 

@@ -6,7 +6,7 @@
 | **Year** | 2025 |
 | **Category** | Civil-military relations and security sector reform |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.46226/jss.2025.7.32..2.213](https://doi.org/10.46226/jss.2025.7.32..2.213) |

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Eduardo D. Faingold |
 | **Year** | 2018 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Language policy |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 13 |
 | **Source** | openalex |
 | **DOI** | [10.5040/9781666998399](https://doi.org/10.5040/9781666998399) |

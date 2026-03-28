@@ -5,9 +5,9 @@
 | نویسندگان | Jacob Høigilt, Kjetil Selvik |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Media freedom and press institution building |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.1177/1748048519897519](https://doi.org/10.1177/1748048519897519) |
 

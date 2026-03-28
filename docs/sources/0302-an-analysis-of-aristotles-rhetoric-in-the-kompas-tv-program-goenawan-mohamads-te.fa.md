@@ -5,9 +5,9 @@
 | نویسندگان | Nurul Hafidloh, Poppy Febriana |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Media freedom and press institution building |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.61796/icossh.v2i2.462](https://doi.org/10.61796/icossh.v2i2.462) |
 

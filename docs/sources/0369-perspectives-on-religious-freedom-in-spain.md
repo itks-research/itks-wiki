@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | José Antonio Souto Paz |
 | **Year** | 2001 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 4 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://digitalcommons.law.byu.edu/lawreview/vol2001/iss2/13) |

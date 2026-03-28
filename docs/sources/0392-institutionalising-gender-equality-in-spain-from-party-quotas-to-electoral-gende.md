@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Tània Verge |
 | **Year** | 2012 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Women's rights codification and gender equality |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 105 |
 | **Source** | openalex |
 | **DOI** | [10.1080/01402382.2011.648014](https://doi.org/10.1080/01402382.2011.648014) |

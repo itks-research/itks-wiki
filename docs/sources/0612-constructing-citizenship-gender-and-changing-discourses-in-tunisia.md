@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | Mounira M. Charrad, Amina Zarrugh |
 | **Year** | 2016 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Women's rights codification and gender equality |
+| **Secondary Categories** | Political party formation and pluralism |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **DOI** | [10.1057/978-1-137-51765-4_7](https://doi.org/10.1057/978-1-137-51765-4_7) |

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Philippe Colomban |
 | **Year** | 2009 |
-| **Category** | Transitional justice |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 174 |
 | **Source** | openalex |
 | **DOI** | [10.4028/www.scientific.net/jnanor.8.109](https://doi.org/10.4028/www.scientific.net/jnanor.8.109) |

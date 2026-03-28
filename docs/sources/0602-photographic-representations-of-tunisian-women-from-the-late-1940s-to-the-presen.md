@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Dora Carpenter-Latiri |
 | **Year** | 2020 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 1 |
 | **Source** | openalex |
 | **DOI** | [10.4324/9781003087410-8](https://doi.org/10.4324/9781003087410-8) |

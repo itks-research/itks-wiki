@@ -5,9 +5,9 @@
 | نویسندگان | Rafael La Porta, Andrei Shleifer |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1344 |
 | **شناسه دیجیتال** | [10.1257/jep.28.3.109](https://doi.org/10.1257/jep.28.3.109) |
 

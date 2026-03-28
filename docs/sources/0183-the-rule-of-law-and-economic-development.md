@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Stephan Haggard, Andrew MacIntyre, Lydia Brashear Tiede |
 | **Year** | 2008 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Judicial independence and rule of law |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 357 |
 | **Source** | openalex |
 | **DOI** | [10.1146/annurev.polisci.10.081205.100244](https://doi.org/10.1146/annurev.polisci.10.081205.100244) |

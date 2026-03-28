@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Wayne Barnes |
 | **Year** | 2005 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Civil-military relations and security sector reform |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 130 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://scholarship.law.tamu.edu/facscholar/150) |

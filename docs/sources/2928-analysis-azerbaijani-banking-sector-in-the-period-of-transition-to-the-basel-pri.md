@@ -1,0 +1,16 @@
+# Analysis azerbaijani banking sector: in the period of transition to the Basel principles.
+
+| Field | Value |
+|-------|-------|
+| **Authors** | A. Museyibov |
+| **Year** | 2024 |
+| **Category** | Banking and financial system reform |
+| **Case Study** | Iran |
+| **Relevance Score** | Pending |
+| **Citation Count** | 0 |
+| **Source** | semantic_scholar |
+| **DOI** | [10.35668/2520-6524-2024-1-04](https://doi.org/10.35668/2520-6524-2024-1-04) |
+
+## Abstract
+
+This article presents a comprehensive analysis of the problems and perspectives associated with the implementation of Bazel III standards in the banking sector of Azerbaijan, which is a developing country. It emphasized the Bazel principles and emphasized the importance of banks to strengthen their defense against various risks in view of their essential role in the national economy. Basel standards are important for all countries to increase the resilience of the global banking system, to encourage prudential demands and to create a predictable and transparent regulatory environment for internationally active banks. The purpose of transition to Basel standards stated in the “Strategy Roadmap for the years 2016–2020 on the development of financial services in the Republic of Azerbaijan”. The aim is to present the results and to investigate the practical issues of the application of these standards in Azerbaijan. In the investigation, logical generalization and comparative analysis methods that evaluate the regulatory problems of the Bazel standards are used, which is why it is encouraged by the Bazel Committee. Article emphasizes the gap between domestic regulatory demands in Azerbaijan and those proposed by the Bazel Committee, sometimes calculating domestic demands and indicators as harsher and higher in terms of quantity. The results show that the banking sector of Azerbaijan, in which banks are primarily dominant, has undergone significant development in the last ten years, especially in terms of adapting to global crises and increasing the resilience of the sector. However, the implementation of the Bazel II and Bazel III principles remains incomplete, dealing with various difficulties. Analysis shows that, although there is some progress in legislative reforms specifically aimed at compliance with Basel standards, there are naturally certain difficulties in the full acceptance and implementation of these standards in the domestic banking sector. Emphasizing the necessity of continuous strong actions to strengthen the regulatory base of the banking sector, the experience of risk management and the infrastructure to bring it into line with international standards. The paper concludes by emphasizing the need for continued efforts to strengthen the banking sector’s regulatory framework, risk management practices, and infrastructure to align with international standards. Thus, article suggests a multi-faceted approach involving legislative amendments, enhanced risk-based supervision, development of financial market infrastructure, and strengthening of corporate governance in banking sector. The successful implementation of Basel III standards in Azerbaijan will not only enhance the resilience and stability of its banking sector but also contribute to the stability of the financial system of the country.

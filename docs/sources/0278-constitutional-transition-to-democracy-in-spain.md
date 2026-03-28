@@ -6,7 +6,7 @@
 | **Year** | 2021 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.46272/2409-3416-2021-9-2-96-109](https://doi.org/10.46272/2409-3416-2021-9-2-96-109) |

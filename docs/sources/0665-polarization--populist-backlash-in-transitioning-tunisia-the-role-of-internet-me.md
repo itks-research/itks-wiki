@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Andrew Bennett |
 | **Year** | 2023 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Media freedom and press institution building |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 3 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1080/13530194.2023.2230151](https://doi.org/10.1080/13530194.2023.2230151) |

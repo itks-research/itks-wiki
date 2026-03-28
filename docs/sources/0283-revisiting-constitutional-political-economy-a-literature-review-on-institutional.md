@@ -5,8 +5,9 @@
 | **Authors** | John Carlo Colot |
 | **Year** | 2025 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Political party formation and pluralism, Federalism, unitarism, and autonomy models |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.62718/vmca.ssl-wjhdsr.6.1.sc-0925-004](https://doi.org/10.62718/vmca.ssl-wjhdsr.6.1.sc-0925-004) |

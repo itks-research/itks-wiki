@@ -6,7 +6,7 @@
 | **Year** | 2024 |
 | **Category** | Civil-military relations and security sector reform |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 885 |
 | **Source** | openalex |
 | **DOI** | [10.60026/ijpamed.v9i1.179](https://doi.org/10.60026/ijpamed.v9i1.179) |

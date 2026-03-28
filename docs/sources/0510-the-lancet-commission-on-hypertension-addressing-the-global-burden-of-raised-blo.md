@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Eoin OʼBrien |
 | **Year** | 2017 |
-| **Category** | Transitional justice |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 56 |
 | **Source** | openalex |
 | **DOI** | [10.1111/jch.12998](https://doi.org/10.1111/jch.12998) |

@@ -5,9 +5,9 @@
 | نویسندگان | Robert Legvold, Judith Thornton, Charles E. Ziegler |
 |---|---|
 | **سال** | 2003 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 25 |
 | **شناسه دیجیتال** | [10.2307/20033472](https://doi.org/10.2307/20033472) |
 

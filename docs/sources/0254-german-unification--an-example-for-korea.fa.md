@@ -5,9 +5,9 @@
 | نویسندگان | Heiner Flassbeck, Gustav A. Horn |
 |---|---|
 | **سال** | 1996 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 8 |
 
 ## چکیده

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Stefan Bouzarovski, Saška Petrova |
 | **Year** | 2015 |
-| **Category** | Transitional justice |
+| **Category** | Resource curse management |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1009 |
 | **Source** | openalex |
 | **DOI** | [10.1016/j.erss.2015.06.007](https://doi.org/10.1016/j.erss.2015.06.007) |

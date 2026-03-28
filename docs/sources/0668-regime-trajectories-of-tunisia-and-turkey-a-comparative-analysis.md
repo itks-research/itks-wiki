@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | Pelin Ayan Musil, Salim Çevik |
 | **Year** | 2023 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Political party formation and pluralism |
+| **Secondary Categories** | Transitional justice |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1080/13530194.2023.2219637](https://doi.org/10.1080/13530194.2023.2219637) |

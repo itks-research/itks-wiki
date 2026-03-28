@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Makau W. Mutua |
 | **Year** | 1995 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Federalism, unitarism, and autonomy models |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 80 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://digitalcommons.law.buffalo.edu/cgi/viewcontent.cgi?article=1574&context=journal_articles) |

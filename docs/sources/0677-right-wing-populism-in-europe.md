@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Brigitte Mral, Majid KhosraviNik, Ruth Wodak |
 | **Year** | 2013 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 411 |
 | **Source** | openalex |
 | **DOI** | [10.5040/9781472544940](https://doi.org/10.5040/9781472544940) |

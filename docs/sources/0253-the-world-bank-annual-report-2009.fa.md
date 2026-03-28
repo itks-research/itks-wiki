@@ -5,9 +5,9 @@
 | نویسندگان | World Bank |
 |---|---|
 | **سال** | 2009 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 272 |
 | **شناسه دیجیتال** | [10.1596/978-0-8213-7946-2](https://doi.org/10.1596/978-0-8213-7946-2) |
 

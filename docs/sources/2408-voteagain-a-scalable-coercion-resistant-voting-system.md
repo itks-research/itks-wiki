@@ -1,0 +1,15 @@
+# VoteAgain: A scalable coercion-resistant voting system
+
+| Field | Value |
+|-------|-------|
+| **Authors** | W. Lueks, Iñigo Querejeta-Azurmendi, C. Troncoso |
+| **Year** | 2020 |
+| **Category** | Electoral system design and implementation |
+| **Case Study** | Iran |
+| **Relevance Score** | Pending |
+| **Citation Count** | 49 |
+| **Source** | semantic_scholar |
+
+## Abstract
+
+The strongest threat model for voting systems considers coercion resistance: protection against coercers that force voters to modify their votes, or to abstain. Existing remote voting systems either do not provide this property; require an expensive tallying phase; or burden users with the need to store cryptographic key material and with the responsibility to deceive their coercers. We propose VoteAgain, a scalable voting scheme that relies on the revoting paradigm to provide coercion resistance. VoteAgain uses a novel deterministic ballot padding mechanism to ensure that coercers cannot see whether a vote has been replaced. This mechanism ensures tallies take quasilinear time, making VoteAgain the first revoting scheme that can handle elections with millions of voters. We prove that VoteAgain provides ballot privacy, coercion resistance, and verifiability; and we demonstrate its scalability using a prototype implementation of all cryptographic primitives.

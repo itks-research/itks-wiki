@@ -5,9 +5,9 @@
 | نویسندگان | Sanjay Basu, Jason R. Andrews, Sandeep P. Kishore, Rajesh Panjabi, David Stückler |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 839 |
 | **شناسه دیجیتال** | [10.1371/journal.pmed.1001244](https://doi.org/10.1371/journal.pmed.1001244) |
 

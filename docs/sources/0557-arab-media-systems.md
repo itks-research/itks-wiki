@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Carola Richter, Kozman, Claudia (Ed.) |
 | **Year** | 2021 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Media freedom and press institution building |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 49 |
 | **Source** | openalex |
 | **DOI** | [10.11647/obp.0238](https://doi.org/10.11647/obp.0238) |

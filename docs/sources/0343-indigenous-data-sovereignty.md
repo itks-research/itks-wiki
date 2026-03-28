@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | John Taylor, Tahu Kukutai |
 | **Year** | 2016 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Civil society development |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 546 |
 | **Source** | openalex |
 | **DOI** | [10.22459/caepr38.11.2016](https://doi.org/10.22459/caepr38.11.2016) |

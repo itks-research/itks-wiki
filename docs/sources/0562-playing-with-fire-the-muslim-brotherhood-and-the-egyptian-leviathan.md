@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Daniela Pioppi |
 | **Year** | 2013 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Electoral system design and implementation |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 31 |
 | **Source** | openalex |
 | **DOI** | [10.1080/03932729.2013.847680](https://doi.org/10.1080/03932729.2013.847680) |

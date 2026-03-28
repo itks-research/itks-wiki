@@ -5,9 +5,9 @@
 | نویسندگان | Alexander Dyck, Luigi Zingales |
 |---|---|
 | **سال** | 2004 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 2606 |
 | **شناسه دیجیتال** | [10.1111/j.1540-6261.2004.00642.x](https://doi.org/10.1111/j.1540-6261.2004.00642.x) |
 

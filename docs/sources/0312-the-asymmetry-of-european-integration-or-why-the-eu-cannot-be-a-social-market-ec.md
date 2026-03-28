@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Fritz W. Scharpf |
 | **Year** | 2009 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Judicial independence and rule of law |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 686 |
 | **Source** | openalex |
 | **DOI** | [10.1093/ser/mwp031](https://doi.org/10.1093/ser/mwp031) |

@@ -6,7 +6,7 @@
 | **Year** | 2022 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 42 |
 | **Source** | openalex |
 | **DOI** | [10.4324/9781003256908](https://doi.org/10.4324/9781003256908) |

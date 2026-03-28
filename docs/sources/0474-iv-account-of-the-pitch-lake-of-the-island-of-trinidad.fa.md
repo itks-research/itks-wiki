@@ -5,9 +5,9 @@
 | نویسندگان | Nicholas Nugent |
 |---|---|
 | **سال** | 1811 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 12 |
 | **شناسه دیجیتال** | [10.1144/transgsla.1.63](https://doi.org/10.1144/transgsla.1.63) |
 

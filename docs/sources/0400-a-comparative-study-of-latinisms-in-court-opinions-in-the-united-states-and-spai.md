@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Isabel Balteiro, Miguel Ángel Campos Pardillos |
 | **Year** | 2010 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Judicial independence and rule of law |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 52 |
 | **Source** | openalex |
 | **DOI** | [10.1558/ijsll.v17i1.95](https://doi.org/10.1558/ijsll.v17i1.95) |

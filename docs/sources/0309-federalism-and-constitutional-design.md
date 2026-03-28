@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Peter C. Ordeshook, Olga Shvetsova |
 | **Year** | 1997 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Federalism, unitarism, and autonomy models |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 106 |
 | **Source** | openalex |
 | **DOI** | [10.1353/jod.1997.0010](https://doi.org/10.1353/jod.1997.0010) |

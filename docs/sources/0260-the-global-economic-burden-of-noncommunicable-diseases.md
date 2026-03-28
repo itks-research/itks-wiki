@@ -6,7 +6,7 @@
 | **Year** | 2012 |
 | **Category** | Civil-military relations and security sector reform |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1968 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://www3.weforum.org/docs/WEF_Harvard_HE_GlobalEconomicBurdenNonCommunicableDiseases_2011.pdf) |

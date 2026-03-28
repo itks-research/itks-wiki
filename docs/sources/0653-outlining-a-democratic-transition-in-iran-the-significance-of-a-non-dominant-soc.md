@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | P. Aslani |
 | **Year** | 2024 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Political party formation and pluralism |
+| **Secondary Categories** | Civil society development |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.53895/iaj1107](https://doi.org/10.53895/iaj1107) |

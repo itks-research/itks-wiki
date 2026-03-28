@@ -1,0 +1,17 @@
+# Refugee Roulette: Disparities in Asylum Adjudication
+
+<div dir="rtl" markdown>
+
+| نویسندگان | Andrew I. Schoenholtz, Jaya Ramji-Nogales, Philip G. Schrag |
+|---|---|
+| **سال** | 2007 |
+| **دسته‌بندی** | Judicial independence and rule of law |
+| **مطالعه موردی** | Iran |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 190 |
+
+## چکیده
+
+Addressing consistency in the application of the law, former Attorney General Robert Jackson told Congress in 1940: “It is obviously repugnant to one's sense of justice that the judgment meted out . . . should depend in large part on a purely fortuitous circumstance; namely the personality of the particular judge before whom the case happens to come for disposition.” Yet in asylum cases, which can spell the difference between life and death, the outcome apparently depends in large measure on which government official decides the claim. In many cases, the most important moment in an asylum case is the instant in which a clerk randomly assigns an application to a particular asylum officer or immigration judge.This study analyzes databases of decisions from all four levels of the asylum adjudication process: 133,000 decisions involving nationals from eleven key countries rendered by 884 asylum officers over a seven-year period; 140,000 decisions of 225 immigration judges over a four-and-a-half-year period; 126,000 decisions of the Board of Immigration Appeals over a six-year period; and 4215 decisions of the U.S. courts of appeals during 2004 and 2005. The analysis reveals amazing disparities in grant rates, even when different adjudicators in the same office each considered large numbers of applications from nationals of the same country. For example, in one regional asylum office, 60% of the officers decided in favor of Chinese applicants at rates that deviated by more than 50% from that region's mean grant rate for Chinese applicants, with some officers granting asylum to no Chinese nationals, while other officers granted asylum in as many as 68% of their cases. Similarly, Colombian asylum applicants whose cases were adjudicated in the federal immigration court in Miami had a 5% chance of prevailing with one of that court's judges and an 88% chance of prevailing before another judge in the same building. Half of the Miami judges deviated by more than 50% from the court's mean grant rate for Colombian cases.Using cross-tabulations based on public biographies, the paper also explores correlations between sociological characteristics of individual immigration judges and their grant rates. The cross-tabulations show that the chance of winning asylum was strongly affected not only by the random assignment of a case to a particular immigration judge, but also in very large measure by the quality of an applicant's legal representation, by the gender of the immigration judge, and by the immigration judge's work experience prior to appointment.In their conclusion, the authors do not recommend enforced quota systems for asylum adjudicators, but they do make recommendations for more comprehensive training, more effective and independent appellate review, and other reforms that would further professionalize the adjudication system.
+
+</div>

@@ -5,8 +5,9 @@
 | **Authors** | Adrien K. Wing, Hisham A. Kassim |
 | **Year** | 2007 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Women's rights codification and gender equality |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 

@@ -1,0 +1,18 @@
+# A Classroom Survey of Language Teachers’ Discriminatory Practices against Students: Causes, Consequences and Keys
+
+<div dir="rtl" markdown>
+
+| نویسندگان | Seyyed Hatam Tamimi Sa’d, Olga Quiñónez Eames |
+|---|---|
+| **سال** | 2020 |
+| **دسته‌بندی** | Minority rights |
+| **مطالعه موردی** | Iran |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 4 |
+| **شناسه دیجیتال** | [10.26529/cepsj.541](https://doi.org/10.26529/cepsj.541) |
+
+## چکیده
+
+Previous research confirms that individuals frequently become subject to various forms of discrimination for a variety of reasons. This study aimed at revealing the incidence of discrimination toward English as a Foreign Language students, the grounds on which it happens, its adverse effects on students as well as potential solutions to it. The data were collected through questionnaires and were further supported by interviews and classroom observations. The participants consisted of sixty-five Iranian students from a variety of ethnic, linguistic, and socioeconomic backgrounds. The findings indicated that nearly one-third of the students had experienced discrimination of one form or another. Students’ perceptions of discrimination were that it is based on skin colour, age, sex, social class, as well as political and religious beliefs. Furthermore, the findings showed that discrimination was perceived to have a negative bearing on students’ motivation and their overall ability by adversely affecting their class attendance, sense of responsibility, class performance, and assignment completion. It was found that teachers overtly discriminated against students by openly mocking them, neglecting to call on them for class participation, and unfairly assessing the students and their achievements. Some suggestions to raise awareness of implicit attitudes and biases, identify and end the practice of discrimination among English as a Foreign Language teachers included setting up teacher education programmes, raising learners’ awareness, raising teachers’ awareness of their responsibilities and students’ rights, institutional warning, punishing ‘discriminating’ teachers, and suspending teachers from work.
+
+</div>

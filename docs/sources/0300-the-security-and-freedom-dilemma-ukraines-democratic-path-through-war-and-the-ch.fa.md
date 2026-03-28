@@ -1,4 +1,4 @@
-# THE SECURITY AND FREEDOM DILEMMA: UKRAINE'S DEMOCRATIC PATH THROUGH WAR AND THE CHALLENGES OF CONSOLIDATION
+# THE Security AND Freedom Dilemma: Ukraine's Democratic PATH Through WAR AND THE Challenges OF Consolidation
 
 <div dir="rtl" markdown>
 
@@ -7,7 +7,7 @@
 | **سال** | 2025 |
 | **دسته‌بندی** | Constitutional design and drafting processes |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.17721/2415-881x.2025.96.180-191](https://doi.org/10.17721/2415-881x.2025.96.180-191) |
 

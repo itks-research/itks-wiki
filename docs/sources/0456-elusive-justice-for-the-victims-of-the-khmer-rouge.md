@@ -6,7 +6,7 @@
 | **Year** | 1999 |
 | **Category** | Transitional justice |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 14 |
 | **Source** | openalex |
 

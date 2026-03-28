@@ -5,9 +5,9 @@
 | نویسندگان | Heiko T. Burret, Jan Schnellenbach |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Banking and financial system reform |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 14 |
 
 ## چکیده

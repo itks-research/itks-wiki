@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Susmita Dasgupta, Benoı̂t Laplante, Hua Wang, David Wheeler |
 | **Year** | 2002 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1719 |
 | **Source** | openalex |
 | **DOI** | [10.1257/0895330027157](https://doi.org/10.1257/0895330027157) |

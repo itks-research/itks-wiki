@@ -5,9 +5,9 @@
 | نویسندگان | Ghazali Bello Abubakar |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.36923/IJSSER.V1I1.28](https://doi.org/10.36923/IJSSER.V1I1.28) |
 

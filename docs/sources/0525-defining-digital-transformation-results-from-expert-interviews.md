@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Ines Mergel, Noella Edelmann, Nathalie Haug |
 | **Year** | 2019 |
-| **Category** | Transitional justice |
+| **Category** | Internet and digital infrastructure as civic space |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1511 |
 | **Source** | openalex |
 | **DOI** | [10.1016/j.giq.2019.06.002](https://doi.org/10.1016/j.giq.2019.06.002) |

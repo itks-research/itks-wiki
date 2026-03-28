@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Farsakh, Leila H. |
 | **Year** | 2021 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 49 |
 | **Source** | openalex |
 | **DOI** | [10.1525/luminos.113](https://doi.org/10.1525/luminos.113) |

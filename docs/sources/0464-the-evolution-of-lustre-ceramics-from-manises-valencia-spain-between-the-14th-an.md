@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Angel Polvorinos, M. Aucouturier, Anne Bouquillon, J. Castaing, Josep Pérez Camps |
 | **Year** | 2010 |
-| **Category** | Transitional justice |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 16 |
 | **Source** | openalex |
 | **DOI** | [10.1111/j.1475-4754.2010.00552.x](https://doi.org/10.1111/j.1475-4754.2010.00552.x) |

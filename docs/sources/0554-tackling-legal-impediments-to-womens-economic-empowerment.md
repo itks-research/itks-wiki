@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Francisca Fernando, Juliet Johnson, Katharine Christopherson, Audrey Yiadom, Hanan Yazid, Clara Thiemann |
 | **Year** | 2022 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Women's rights codification and gender equality |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 61 |
 | **Source** | openalex |
 | **DOI** | [10.5089/9798400203640.001](https://doi.org/10.5089/9798400203640.001) |

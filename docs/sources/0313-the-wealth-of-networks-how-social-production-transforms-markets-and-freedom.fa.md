@@ -5,9 +5,9 @@
 | نویسندگان | Benkler, Yochai |
 |---|---|
 | **سال** | 2006 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1929 |
 | **شناسه دیجیتال** | [10.5860/choice.44-0999](https://doi.org/10.5860/choice.44-0999) |
 

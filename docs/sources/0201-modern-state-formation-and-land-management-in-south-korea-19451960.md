@@ -6,7 +6,7 @@
 | **Year** | 2018 |
 | **Category** | Civil-military relations and security sector reform |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 9 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1016/J.LANDUSEPOL.2018.07.013](https://doi.org/10.1016/J.LANDUSEPOL.2018.07.013) |

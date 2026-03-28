@@ -6,7 +6,7 @@
 | **Year** | 2011 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 25 |
 | **Source** | openalex |
 | **DOI** | [10.1093/oxfordhb/9780199562978.003.0005](https://doi.org/10.1093/oxfordhb/9780199562978.003.0005) |

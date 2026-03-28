@@ -6,7 +6,7 @@
 | **Year** | 1988 |
 | **Category** | Transitional justice |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 17 |
 | **Source** | openalex |
 | **DOI** | [10.1180/minmag.1988.052.365.10](https://doi.org/10.1180/minmag.1988.052.365.10) |

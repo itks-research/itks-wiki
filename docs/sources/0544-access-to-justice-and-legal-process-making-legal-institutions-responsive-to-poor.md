@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Michael Anderson |
 | **Year** | 2003 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Judicial independence and rule of law |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 65 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://opendocs.ids.ac.uk/opendocs/handle/123456789/3969) |

@@ -5,9 +5,9 @@
 | نویسندگان | José Antonio Souto Paz |
 |---|---|
 | **سال** | 2001 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Religious freedom and separation of religion from state |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 4 |
 
 ## چکیده

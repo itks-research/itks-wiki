@@ -5,9 +5,9 @@
 | نویسندگان | Carmen Diana Deere, Magdalena León |
 |---|---|
 | **سال** | 2005 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Women's rights codification and gender equality |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 96 |
 | **شناسه دیجیتال** | [10.1215/00182168-85-4-627](https://doi.org/10.1215/00182168-85-4-627) |
 

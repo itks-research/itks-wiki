@@ -5,9 +5,9 @@
 | نویسندگان | Jong‐Wha Lee, J. Pyun |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 8 |
 | **شناسه دیجیتال** | [10.1111/ASEJ.12157](https://doi.org/10.1111/ASEJ.12157) |
 

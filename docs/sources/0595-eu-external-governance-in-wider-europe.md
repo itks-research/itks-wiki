@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Sandra Lavenex |
 | **Year** | 2004 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Regional foreign policy reorientation |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 576 |
 | **Source** | openalex |
 | **DOI** | [10.1080/1350176042000248098](https://doi.org/10.1080/1350176042000248098) |

@@ -5,9 +5,9 @@
 | نویسندگان | Edward Webb |
 |---|---|
 | **سال** | 2007 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Civil society development |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 18 |
 
 ## چکیده

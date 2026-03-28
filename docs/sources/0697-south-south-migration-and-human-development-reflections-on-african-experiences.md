@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Oliver Bakewell |
 | **Year** | 2009 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 90 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://mpra.ub.uni-muenchen.de/19185/1/MPRA_paper_19185.pdf) |

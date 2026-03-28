@@ -5,9 +5,9 @@
 | نویسندگان | Muhammad Mahmoud |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Women's rights codification and gender equality |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 15 |
 | **شناسه دیجیتال** | [10.4324/9780429499593-15](https://doi.org/10.4324/9780429499593-15) |
 

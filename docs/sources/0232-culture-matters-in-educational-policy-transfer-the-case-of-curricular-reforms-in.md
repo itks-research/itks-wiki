@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Sun Kim |
 | **Year** | 2016 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 17 |
 | **Source** | openalex |
 | **DOI** | [10.1080/02680939.2016.1266034](https://doi.org/10.1080/02680939.2016.1266034) |

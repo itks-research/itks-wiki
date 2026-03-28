@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Benkler, Yochai |
 | **Year** | 2006 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1929 |
 | **Source** | openalex |
 | **DOI** | [10.5860/choice.44-0999](https://doi.org/10.5860/choice.44-0999) |

@@ -5,9 +5,9 @@
 | نویسندگان | Niamh Nic Shuibhne |
 |---|---|
 | **سال** | 2010 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 153 |
 | **شناسه دیجیتال** | [10.54648/cola2010068](https://doi.org/10.54648/cola2010068) |
 

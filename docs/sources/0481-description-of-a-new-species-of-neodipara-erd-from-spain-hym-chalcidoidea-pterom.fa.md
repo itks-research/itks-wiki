@@ -5,9 +5,9 @@
 | نویسندگان | Karl-Johan Hedqvist |
 |---|---|
 | **سال** | 1971 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.1163/187631271x00130](https://doi.org/10.1163/187631271x00130) |
 

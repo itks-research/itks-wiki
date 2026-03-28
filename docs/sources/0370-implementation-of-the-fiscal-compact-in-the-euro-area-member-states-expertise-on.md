@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Heiko T. Burret, Jan Schnellenbach |
 | **Year** | 2014 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Banking and financial system reform |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 14 |
 | **Source** | openalex |
 

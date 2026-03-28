@@ -5,9 +5,9 @@
 | نویسندگان | Robert E. Bedeski |
 |---|---|
 | **سال** | 2002 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Electoral system design and implementation |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 49 |
 | **شناسه دیجیتال** | [10.4324/9780203426364](https://doi.org/10.4324/9780203426364) |
 

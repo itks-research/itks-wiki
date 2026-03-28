@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | H. Ege Özen |
 | **Year** | 2018 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Electoral system design and implementation |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 27 |
 | **Source** | openalex |
 | **DOI** | [10.1080/13629387.2018.1544072](https://doi.org/10.1080/13629387.2018.1544072) |

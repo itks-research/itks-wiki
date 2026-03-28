@@ -1,0 +1,18 @@
+# Islam and gender: the religious debate in contemporary Iran
+
+<div dir="rtl" markdown>
+
+| نویسندگان | نامشخص |
+|---|---|
+| **سال** | 2000 |
+| **دسته‌بندی** | Women's rights codification and gender equality |
+| **مطالعه موردی** | Iran |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 119 |
+| **شناسه دیجیتال** | [10.5860/choice.37-5757](https://doi.org/10.5860/choice.37-5757) |
+
+## چکیده
+
+Islam and Gender: The Religious Debate in Contemporary Iran, by Ziba Mir-Hosseini. Princeton, NJ: Princeton University Press, 1999. xx + 305 pages. Bibl. to p. Index to p. $55 cloth; $18.95 paper. Ziba Mir-Hosseini has produced a well-informed book, based largely on her discussions a few years ago with involved ulama (notables) in Qom, concerning their positions on questions of women and gender. Some of the book, quoting or summarizing her discussions with representative conservative or liberal ulama, may be of interest mainly to those who wish to follow these developments closely; however, Mir-Hosseini's introduction and her discussion of the very different reformers, `Abdolkarim Soroush and the cleric Mohsen Sa`idzadeh, should interest anyone concerned with the process of change in the Islamic Republic of Iran, which has been most dramatic in the sphere of gender relations. As part of the discussion of Soroush, Mir-Hosseini translates the widely-accepted sayings and writings of Imam `Ali, Nahj al-Balagha, indicating from what traditions Shi`a reformers must start in gender reform (similar things are found in Sunnism): Women are deficient in Faith, deficient in shares and deficient in intelligence...So beware of the of women. Be on your guard from those of them who are (reportedly) good. not obey them even in good things so that they may not attract you to evils (p. 221). In the same work, `Ali is cited as writing to his son, the future Imam, Do not consult women because their view is weak and their determination is unstable...If you can manage that they should not know anyone other than [you,] do so... (p. 223). Starting from such concepts, from a few Qur'anic verses that favor men, and from a long legal tradition that favors men even more, the road of reformers who wish to move toward greater gender equality is a difficult one. Mir-Hosseini recognizes that the role of the Mama and of Islamically-oriented males is only one thread in the changing perception of women's roles and rights that has occurred since the 1979 revolution, but she knows that this thread has been underreported as compared to women's writings and activities and actual reform achievements, and she successfully fills in this gap. Mir-Hosseini's discussions lead her and her reader to see that even many of the apparently traditional ulama have been influenced by women's struggles and by their public and political role to put women on their agenda in ways they never were before, and to write about women in new ways. For the moderate Islamic reformers, the writings of the late Ayatollah Motahhari remain a touchstone, but several have expanded on his words in ways that recognize women's roles and rights more than did earlier writings by ulama, if still far from any idea of gender equality. Mir-Hosseini found that, to discuss such matters with ulama, she had to learn much more than she knew about Islamic law, or fiqh, and she appears to think that such knowledge of fiqh is very important for further advancing women's rights in the Islamic republic. …
+
+</div>

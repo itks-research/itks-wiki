@@ -5,9 +5,9 @@
 | نویسندگان | Trinitat Pradell, G. Molina, Judit Molera, M. S. TITE |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 8 |
 | **شناسه دیجیتال** | [10.1111/arcm.12211](https://doi.org/10.1111/arcm.12211) |
 

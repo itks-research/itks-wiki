@@ -5,9 +5,9 @@
 | نویسندگان | Samuel P. Huntington |
 |---|---|
 | **سال** | 1995 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Civil-military relations and security sector reform |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 66 |
 | **شناسه دیجیتال** | [10.1353/jod.1995.0067](https://doi.org/10.1353/jod.1995.0067) |
 

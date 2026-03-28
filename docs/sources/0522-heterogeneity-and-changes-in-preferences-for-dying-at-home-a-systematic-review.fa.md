@@ -5,9 +5,9 @@
 | نویسندگان | Bárbara Gomes, Natália Calanzani, Marjolein Gysels, Sue Hall, Irene J Higginson |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1033 |
 | **شناسه دیجیتال** | [10.1186/1472-684x-12-7](https://doi.org/10.1186/1472-684x-12-7) |
 

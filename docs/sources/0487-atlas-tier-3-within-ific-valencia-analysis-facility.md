@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | M. Villaplana Perez, S. González de la Hoz, Álvaro Fernández Casaní, J. Salt, Alejandro Lamas, F. Fassi, M. Kaci, Eduardo Oliver, J. Sánchez, Vanessa Sánchez‐Martínez |
 | **Year** | 2012 |
-| **Category** | Transitional justice |
+| **Category** | Banking and financial system reform |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **DOI** | [10.1088/1742-6596/396/4/042062](https://doi.org/10.1088/1742-6596/396/4/042062) |

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Irene Martín, Ignacio Urquizu–Sancho |
 | **Year** | 2012 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Electoral system design and implementation |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 59 |
 | **Source** | openalex |
 | **DOI** | [10.1080/13608746.2012.708983](https://doi.org/10.1080/13608746.2012.708983) |

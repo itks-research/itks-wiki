@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Floyd W. Rudmin |
 | **Year** | 2009 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 79 |
 | **Source** | openalex |
 | **DOI** | [10.9707/2307-0919.1074](https://doi.org/10.9707/2307-0919.1074) |

@@ -5,9 +5,9 @@
 | نویسندگان | John K. Nelson |
 |---|---|
 | **سال** | 2002 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 31 |
 | **شناسه دیجیتال** | [10.1080/146727102760166635](https://doi.org/10.1080/146727102760166635) |
 

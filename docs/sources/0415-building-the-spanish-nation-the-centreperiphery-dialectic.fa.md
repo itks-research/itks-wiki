@@ -5,9 +5,9 @@
 | نویسندگان | Diego Muro, Alejandro Quiroga |
 |---|---|
 | **سال** | 2004 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 21 |
 | **شناسه دیجیتال** | [10.1111/j.1754-9469.2004.tb00065.x](https://doi.org/10.1111/j.1754-9469.2004.tb00065.x) |
 

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Eve Tuck, K. Wayne Yang |
 | **Year** | 2012 |
-| **Category** | Transitional justice |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 4107 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://utoronto.scholaris.ca/bitstreams/dee58221-c99a-4beb-975d-60259fcc763f/download) |

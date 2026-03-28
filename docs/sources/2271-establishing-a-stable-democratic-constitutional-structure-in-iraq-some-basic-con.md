@@ -1,0 +1,16 @@
+# Establishing a Stable Democratic Constitutional Structure in Iraq: Some Basic Considerations
+
+| Field | Value |
+|-------|-------|
+| **Authors** | Paul Williams |
+| **Year** | 2004 |
+| **Category** | Constitutional design and drafting processes |
+| **Case Study** | Iran |
+| **Relevance Score** | Pending |
+| **Citation Count** | 3 |
+| **Source** | openalex |
+| **Full Text** | [Open Access](https://works.bepress.com/paul_williams/16/download/) |
+
+## Abstract
+
+As the situation in Iraq continues to stabilize, the people of Iraq will turn to the task of reconstituting an Iraqi state. One of the first steps in this process will be to design, agree upon, and implement a new constitutional structure. While drafting a new constitution is a difficult and contentious process for any country, the challenges are substantially magnified for Iraq given its complex mosaic of ethnic and religious identities, the history of repression under Saddam Hussein, the necessary presence of American forces, and Iraq’s complex relations with its neighboring states. The overriding tension faced by the drafters of the new constitution will be the need to create a representative form of government, which adequately protects the rights and interests of all individuals within the various groups making up the Iraqi nation, while also preserving internal and external stability. The process of reconstituting Iraq’s sovereignty will be highly complex and face many hurdles. The eclectic ethnic and religious make-up of Iraq will require the drafters to develop a sufficiently decentralized unitary state or federal structure that will secure Kurdish participation in the Iraqi state without undermining the functional integrity of Iraq or encouraging further secessionist tendencies. The Kurdish/Arab bargain must be accomplished while accounting for the Sunni/Shi’a split within the Arab community, and without neglecting the needs and aspirations of Iraq’s minority populations such as the Turkomans, Chaldeans, Yezidi, and Assyrians. Some of Iraq’s numerous neighbors want to be assured of Iraq’s territorial integrity, while others must be prevented from actively undermining its integrity or radicalizing its politics. All this must be accomplished while tempering flashpoints such as Mosul, Karbala, Nasiriyah, and Kirkuk, and integrating into the process a politically resurgent Shi’a community. Agreeing upon a new constitutional structure will be complicated by the already substantially divergent draft constitutions put forward by the Kurdish regional government and the Iraqi exile groups, coupled with the emerging proposals by some of the southern Shi’a groups. The umbrella exile groups have proposed constitutions and principles that embrace democracy and call for a federal Iraq with vaguely defined allocations of responsibility. The Kurds have proposed a loose confederation with near absolute Kurdish authority over historically Kurdish lands and cities currently populated by non-Kurds, and with a bi-modal central government with an equal distribution of power and authority between the Kurds and Arabs. Meanwhile some nascent Shi’a political movements are calling for the creation of a theocracy along the lines of the Iranian model.

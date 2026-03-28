@@ -5,9 +5,9 @@
 | نویسندگان | Peter Reinartz, Pablo d’Angelo, Thomas Krauß, Daniela Poli, Karsten Jacobsen, Gürcan Büyüksali̇h |
 |---|---|
 | **سال** | 2010 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 33 |
 | **شناسه دیجیتال** | [10.15488/1121](https://doi.org/10.15488/1121) |
 

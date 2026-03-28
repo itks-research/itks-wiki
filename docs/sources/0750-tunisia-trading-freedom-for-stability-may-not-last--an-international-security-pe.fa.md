@@ -5,9 +5,9 @@
 | نویسندگان | Alejandro Sánchez |
 |---|---|
 | **سال** | 2009 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.1080/14702430802666660](https://doi.org/10.1080/14702430802666660) |
 

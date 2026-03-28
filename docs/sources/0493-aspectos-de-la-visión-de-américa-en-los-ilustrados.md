@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Javier Yagüe Bosch |
 | **Year** | 1992 |
-| **Category** | Transitional justice |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 3 |
 | **Source** | openalex |
 

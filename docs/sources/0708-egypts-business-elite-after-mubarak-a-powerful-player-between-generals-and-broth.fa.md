@@ -5,9 +5,9 @@
 | نویسندگان | Stephan Roll |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 69 |
 
 ## چکیده

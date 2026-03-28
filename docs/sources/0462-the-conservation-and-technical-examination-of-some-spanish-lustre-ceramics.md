@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Norman H. Tennent, T. Baird, Janette Kerr, Mandy Slager |
 | **Year** | 1992 |
-| **Category** | Transitional justice |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 4 |
 | **Source** | openalex |
 | **DOI** | [10.1179/sic.1992.37.s1.034](https://doi.org/10.1179/sic.1992.37.s1.034) |

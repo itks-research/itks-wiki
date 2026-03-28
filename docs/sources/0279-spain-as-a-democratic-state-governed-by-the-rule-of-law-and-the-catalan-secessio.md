@@ -5,8 +5,9 @@
 | **Authors** | Juan María Bilbao Ubillos |
 | **Year** | 2024 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Judicial independence and rule of law |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 3 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1007/s40803-024-00207-6](https://doi.org/10.1007/s40803-024-00207-6) |

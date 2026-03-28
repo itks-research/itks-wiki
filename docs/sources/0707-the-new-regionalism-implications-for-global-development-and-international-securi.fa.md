@@ -5,9 +5,9 @@
 | نویسندگان | Björn Hettne, Inotai, Andras, Hettne, Bjorn, Inotai, Andras |
 |---|---|
 | **سال** | 1994 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Regional foreign policy reorientation |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 92 |
 | **شناسه دیجیتال** | [10.22004/ag.econ.295305](https://doi.org/10.22004/ag.econ.295305) |
 

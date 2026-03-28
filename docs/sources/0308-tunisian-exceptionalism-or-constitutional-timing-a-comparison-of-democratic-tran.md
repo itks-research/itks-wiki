@@ -5,8 +5,9 @@
 | **Authors** | M. Blaisdell |
 | **Year** | 2016 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Political party formation and pluralism, Power-sharing mechanisms during transition periods |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.6017/EURJ.V12I2.9354](https://doi.org/10.6017/EURJ.V12I2.9354) |

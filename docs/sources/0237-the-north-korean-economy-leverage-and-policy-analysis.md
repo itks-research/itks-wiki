@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Dick K. Nanto, Emma Chanlett-Avery |
 | **Year** | 2008 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Sanctions unwinding and international reintegration |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 13 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://digital.library.unt.edu/ark:/67531/metadc770573/) |

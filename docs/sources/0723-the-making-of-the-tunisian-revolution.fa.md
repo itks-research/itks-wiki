@@ -5,9 +5,9 @@
 | نویسندگان | Fadhel Kaboub |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 21 |
 | **شناسه دیجیتال** | [10.1142/s179381201350003x](https://doi.org/10.1142/s179381201350003x) |
 

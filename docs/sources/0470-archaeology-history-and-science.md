@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Unknown |
 | **Year** | 2016 |
-| **Category** | Transitional justice |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 21 |
 | **Source** | openalex |
 | **DOI** | [10.4324/9781315433578](https://doi.org/10.4324/9781315433578) |

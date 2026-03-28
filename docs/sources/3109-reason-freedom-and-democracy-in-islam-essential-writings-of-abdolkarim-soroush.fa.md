@@ -1,0 +1,17 @@
+# Reason, Freedom, and Democracy in Islam: Essential Writings of Abdolkarim Soroush
+
+<div dir="rtl" markdown>
+
+| نویسندگان | Mehrzad Boroujerdi |
+|---|---|
+| **سال** | 2001 |
+| **دسته‌بندی** | Media freedom and press institution building |
+| **مطالعه موردی** | Iran |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 164 |
+
+## چکیده
+
+Reason, Freedom, and Democracy in Islam: Essential Writings of Abdolkarim Soroush, by Abdolkarim Soroush. Translated, edited, and with a critical introduction by Mahmoud Sadri and Ahmad Sadri. New York: Oxford University Press, 2000. 225 pages. Bibl. to 229. Index to 236. $29.95. Over last two decades, Abdolkarim Soroush has emerged as Iran's most creative and controversial Islamic thinker. Reason, Freedom, and Democracy in Islam presents to Englishspeaking world 11 of his seminal essays originally published in Persian between 1985 and 1994. In addition to their competent translation and editing of these essays, Mahmoud and Ahmad Sadri have enhanced overall importance of this book with an introductory essay informed by sociology of religion, and a revealing interview with Soroush that divulges parts of his hitherto unknown intellectual biography. In this interview, Soroush informs reader of how his ideas have been influenced by Al-Ghazzali, Mehdi Bazargan, Rumi, Sa`di, `Ali Shariati, and Allamah Tabatab'i, as well as Pierre Duhem, David Hume, Thomas Kuhn, Karl Popper, and W.V. Quine. The essays assembled in this book make abundantly clear why his admirers consider Soroush an innovative thinker while officialdom in Iran regards him as an enfant terrible. Soroush establishes his revisionist credentials by declaring: There is hardly a philosopher or theologian who would confidently assert that it is possible to adduce an irrefutable argument for existence of God (p. 71); clerical government is meaningless (p. 22); secular governments are not opposed to (p. 56); democracy does not require believers to abandon their convictions, secularize their creed, and lose faith in divine protection (p. 135); is sine qua non of humanity because and freedom are inextricably intertwined (p. 89); justice, as a value, can not be religious; it is religion that has to be just (p. 131); whereas the language of religion (especially that of Islam as exemplified by Qur'an and Tradition) is language of duties, not in modem world are honored above duties (pp. 61- 62); sensitivity to human rights is not tantamount to surrender to relativistic liberalism (p. 129); ends cannot justify means (p. 92); ideology is veil of reason (p. 94); ideologization of religion is a problem in religious societies (p. 21); and, finally, one of greatest theoretical plagues of Islamic world, in general, is that people are gradually coming to understand Islam as an identity rather than a (p. 24). Equally, if not more, appalling to conservative clerics is Soroush's theory of contraction and expansion of religious interpretation, as articulated in following epistemological propositions: Religion should be distinguished from religious knowledge since former is constant and latter in a permanent state of flux (p. 30); no truth clashes with any other (p. 21); what is opposed to truth is not freedom but power (p. 100); revolution, human rights, free will, and meaningfulness of religious propositions are extra-religious concepts (p. …
+
+</div>

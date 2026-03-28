@@ -5,9 +5,9 @@
 | نویسندگان | Elizabeth Thurbon, Linda Weiss |
 |---|---|
 | **سال** | 2006 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 64 |
 | **شناسه دیجیتال** | [10.1080/13563460500494784](https://doi.org/10.1080/13563460500494784) |
 

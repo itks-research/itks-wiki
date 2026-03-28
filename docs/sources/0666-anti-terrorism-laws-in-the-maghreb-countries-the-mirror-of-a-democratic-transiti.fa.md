@@ -5,9 +5,9 @@
 | نویسندگان | F. Tamburini |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Civil-military relations and security sector reform |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 9 |
 | **شناسه دیجیتال** | [10.1177/0021909618779613](https://doi.org/10.1177/0021909618779613) |
 

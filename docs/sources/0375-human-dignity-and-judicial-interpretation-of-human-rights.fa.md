@@ -5,9 +5,9 @@
 | نویسندگان | Christopher McCrudden |
 |---|---|
 | **سال** | 2008 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Judicial independence and rule of law |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 953 |
 | **شناسه دیجیتال** | [10.1093/ejil/chn043](https://doi.org/10.1093/ejil/chn043) |
 

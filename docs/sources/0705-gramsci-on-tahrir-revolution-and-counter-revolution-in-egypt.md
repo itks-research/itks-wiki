@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Brecht De Smet |
 | **Year** | 2016 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 57 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://www.oapen.org/search?identifier=1004057) |

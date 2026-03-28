@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Viviana Asara |
 | **Year** | 2015 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 96 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://hdl.handle.net/10803/305110) |

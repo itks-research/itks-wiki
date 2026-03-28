@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Lynne Chisholm, Abrar Hasan |
 | **Year** | 2010 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 142 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://escholarship.org/uc/item/3r68p6wr) |

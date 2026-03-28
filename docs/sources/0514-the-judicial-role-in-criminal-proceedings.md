@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Seán Doran, Jonathan Jackson |
 | **Year** | 2000 |
-| **Category** | Transitional justice |
+| **Category** | Judicial independence and rule of law |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 18 |
 | **Source** | openalex |
 

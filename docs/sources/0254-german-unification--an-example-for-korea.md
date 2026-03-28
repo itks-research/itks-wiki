@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Heiner Flassbeck, Gustav A. Horn |
 | **Year** | 1996 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Trade liberalization and foreign direct investment |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 8 |
 | **Source** | openalex |
 

@@ -1,13 +1,13 @@
-# AN APPRAISAL OF THE AFRICAN UNION AND DEMOCRATIC CONSOLIDATION IN AFRICA
+# AN Appraisal OF THE African Union AND Democratic Consolidation IN Africa
 
 <div dir="rtl" markdown>
 
 | نویسندگان | Cyril Ositadimma Ozor |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Electoral system design and implementation |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.64633/wissj.v9i7.07](https://doi.org/10.64633/wissj.v9i7.07) |
 

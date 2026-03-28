@@ -5,9 +5,9 @@
 | نویسندگان | Yeşim Arat |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Women's rights codification and gender equality |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 102 |
 | **شناسه دیجیتال** | [10.1017/s1743923x21000192](https://doi.org/10.1017/s1743923x21000192) |
 

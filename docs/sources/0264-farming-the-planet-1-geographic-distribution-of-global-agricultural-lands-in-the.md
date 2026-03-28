@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Navin Ramankutty, Amato T. Evan, Chad Monfreda, Jonathan A. Foley |
 | **Year** | 2008 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Resource curse management |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 1965 |
 | **Source** | openalex |
 | **DOI** | [10.1029/2007gb002952](https://doi.org/10.1029/2007gb002952) |

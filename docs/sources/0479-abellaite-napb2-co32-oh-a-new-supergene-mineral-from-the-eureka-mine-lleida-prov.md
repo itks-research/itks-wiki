@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Jordi Ibáñez, J. Elvira, Xavier Llovet, Jordi Pérez-Cano, Núria Oriols, Martí Busquets-Masó, S. Hernández |
 | **Year** | 2017 |
-| **Category** | Transitional justice |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 16 |
 | **Source** | openalex |
 | **DOI** | [10.1127/ejm/2017/0029-2630](https://doi.org/10.1127/ejm/2017/0029-2630) |

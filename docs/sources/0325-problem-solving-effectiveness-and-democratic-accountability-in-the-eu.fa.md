@@ -5,9 +5,9 @@
 | نویسندگان | Fritz W. Scharpf |
 |---|---|
 | **سال** | 2003 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 266 |
 
 ## چکیده

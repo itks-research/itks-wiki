@@ -5,8 +5,9 @@
 | **Authors** | Nelika Karimi |
 | **Year** | 2018 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Political party formation and pluralism |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://hdl.handle.net/2077/56217) |

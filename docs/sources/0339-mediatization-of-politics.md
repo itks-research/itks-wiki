@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | D'Angelo, P, Büchel, F, Esser, F |
 | **Year** | 2014 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Media freedom and press institution building |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 275 |
 | **Source** | openalex |
 | **DOI** | [10.1057/9781137275844](https://doi.org/10.1057/9781137275844) |

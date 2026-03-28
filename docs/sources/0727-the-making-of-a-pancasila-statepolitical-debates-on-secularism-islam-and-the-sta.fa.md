@@ -1,4 +1,4 @@
-# THE MAKING OF A PANCASILA STATE:POLITICAL DEBATES ON SECULARISM, ISLAM AND THE STATE IN INDONESIA
+# THE Making OF A Pancasila State:political Debates ON Secularism, Islam AND THE State IN Indonesia
 
 <div dir="rtl" markdown>
 
@@ -7,7 +7,7 @@
 | **سال** | 2012 |
 | **دسته‌بندی** | Religious freedom and separation of religion from state |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 17 |
 
 ## چکیده

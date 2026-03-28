@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | Ramzy Mahmoud Radaideh |
 | **Year** | 2022 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Political party formation and pluralism |
+| **Secondary Categories** | Power-sharing mechanisms during transition periods |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.35516/hum.v49i4.2047](https://doi.org/10.35516/hum.v49i4.2047) |

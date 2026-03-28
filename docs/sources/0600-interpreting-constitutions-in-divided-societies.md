@@ -5,8 +5,9 @@
 | **Authors** | Hanna Lerner |
 | **Year** | 2018 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Judicial independence and rule of law |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **DOI** | [10.4337/9781788110600.00013](https://doi.org/10.4337/9781788110600.00013) |

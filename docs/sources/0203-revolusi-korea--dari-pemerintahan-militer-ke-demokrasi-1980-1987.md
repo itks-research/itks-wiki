@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Mahlijar Azhar Mubarak, Didin Samsudin, Risa Triarisanti |
 | **Year** | 2024 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.17509/historia.v7i1.69495](https://doi.org/10.17509/historia.v7i1.69495) |

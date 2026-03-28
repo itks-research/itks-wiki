@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Nicholas Nugent |
 | **Year** | 1811 |
-| **Category** | Transitional justice |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 12 |
 | **Source** | openalex |
 | **DOI** | [10.1144/transgsla.1.63](https://doi.org/10.1144/transgsla.1.63) |

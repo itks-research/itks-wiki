@@ -6,7 +6,7 @@
 | **Year** | 2013 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 4 |
 | **Source** | openalex |
 | **DOI** | [10.5209/rev_poso.2013.v50.n3.41350](https://doi.org/10.5209/rev_poso.2013.v50.n3.41350) |

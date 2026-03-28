@@ -6,7 +6,7 @@
 | **Year** | 2019 |
 | **Category** | Transitional justice |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 1101 |
 | **Source** | openalex |
 | **DOI** | [10.3390/info10110349](https://doi.org/10.3390/info10110349) |

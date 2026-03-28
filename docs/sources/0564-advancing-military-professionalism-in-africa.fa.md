@@ -5,9 +5,9 @@
 | نویسندگان | Emile Ouedraogo |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Civil-military relations and security sector reform |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 50 |
 | **شناسه دیجیتال** | [10.21236/ada609337](https://doi.org/10.21236/ada609337) |
 

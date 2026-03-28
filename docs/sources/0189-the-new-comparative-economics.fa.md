@@ -5,9 +5,9 @@
 | نویسندگان | Simeon Djankov, Edward L. Glaeser, Rafael La Porta, Florencio Lopez-de-Silane, Andrei Shleifer |
 |---|---|
 | **سال** | 2003 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 281 |
 | **شناسه دیجیتال** | [10.3386/w9608](https://doi.org/10.3386/w9608) |
 

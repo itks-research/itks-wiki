@@ -6,7 +6,7 @@
 | **Year** | 2013 |
 | **Category** | Transitional justice |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 10 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://ci.nii.ac.jp/ncid/BB1495427X) |

@@ -1,4 +1,4 @@
-# THE FORM OF GOVERNMENT OF A DEMOCRATIC STATE ON THE BACKGROUND OF CRISIS POLITICAL AND INSTITUTIONAL DESIGN
+# THE FORM OF Government OF A Democratic State ON THE Background OF Crisis Political AND Institutional Design
 
 <div dir="rtl" markdown>
 
@@ -7,7 +7,7 @@
 | **سال** | 2024 |
 | **دسته‌بندی** | Constitutional design and drafting processes |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.15421/352421](https://doi.org/10.15421/352421) |
 

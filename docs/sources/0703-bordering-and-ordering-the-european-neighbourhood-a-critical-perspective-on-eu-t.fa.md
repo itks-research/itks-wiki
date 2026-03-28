@@ -5,9 +5,9 @@
 | نویسندگان | James W. Scott |
 |---|---|
 | **سال** | 2009 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 59 |
 | **شناسه دیجیتال** | [10.3176/tr.2009.3.03](https://doi.org/10.3176/tr.2009.3.03) |
 

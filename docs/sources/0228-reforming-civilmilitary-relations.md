@@ -6,7 +6,7 @@
 | **Year** | 2023 |
 | **Category** | Civil-military relations and security sector reform |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 24 |
 | **Source** | openalex |
 | **DOI** | [10.1093/oso/9780198803362.003.0004](https://doi.org/10.1093/oso/9780198803362.003.0004) |

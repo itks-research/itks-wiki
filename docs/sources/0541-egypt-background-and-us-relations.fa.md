@@ -5,9 +5,9 @@
 | نویسندگان | Jeremy M. Sharp |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 85 |
 
 ## چکیده

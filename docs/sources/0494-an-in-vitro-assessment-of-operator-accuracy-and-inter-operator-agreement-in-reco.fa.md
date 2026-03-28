@@ -5,9 +5,9 @@
 | نویسندگان | Nesreen A. Salim, Kamran Azizi, Bashar Al-Shboul, Julian D. Satterthwaite |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.1922/ejprd_2144salim13](https://doi.org/10.1922/ejprd_2144salim13) |
 

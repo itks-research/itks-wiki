@@ -1,4 +1,4 @@
-# DOES PUBLIC ACCOUNTABILITY WORK? AN ASSESSMENT TOOL
+# DOES Public Accountability Work? AN Assessment TOOL
 
 <div dir="rtl" markdown>
 
@@ -7,7 +7,7 @@
 | **سال** | 2008 |
 | **دسته‌بندی** | Constitutional design and drafting processes |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 638 |
 | **شناسه دیجیتال** | [10.1111/j.1467-9299.2008.00716.x](https://doi.org/10.1111/j.1467-9299.2008.00716.x) |
 

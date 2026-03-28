@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Jeremy M. Sharp |
 | **Year** | 2014 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 85 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://digital.library.unt.edu/ark:/67531/metadc103184/m1/1/high_res_d/RL33003_2011Feb07.pdf) |

@@ -5,9 +5,9 @@
 | نویسندگان | Ignasi Carol Abril |
 |---|---|
 | **سال** | 2026 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Electoral system design and implementation |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.5565/rev/quadernsiee.129](https://doi.org/10.5565/rev/quadernsiee.129) |
 

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Mansura S. Mulani, Ekta E. Kamble, Shital N. Kumkar, Madhumita S. Tawre, Karishma R. Pardesi |
 | **Year** | 2019 |
-| **Category** | Transitional justice |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 1586 |
 | **Source** | openalex |
 | **DOI** | [10.3389/fmicb.2019.00539](https://doi.org/10.3389/fmicb.2019.00539) |

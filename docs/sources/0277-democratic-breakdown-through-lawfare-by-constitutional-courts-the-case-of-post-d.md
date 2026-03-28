@@ -5,8 +5,9 @@
 | **Authors** | Eugénie Mérieau |
 | **Year** | 2022 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Judicial independence and rule of law |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 5 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.5509/2022953475](https://doi.org/10.5509/2022953475) |

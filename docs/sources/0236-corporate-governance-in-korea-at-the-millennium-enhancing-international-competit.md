@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Bernard S. Black, Barry Metzger, Timothy O'Brien, Young Moo Shin |
 | **Year** | 2001 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Banking and financial system reform |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 17 |
 | **Source** | openalex |
 

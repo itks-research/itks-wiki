@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Olga Rodrigo, Jordi Caïs, C. Monforte-Royo |
 | **Year** | 2017 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 4 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1016/j.nedt.2017.04.006](https://doi.org/10.1016/j.nedt.2017.04.006) |

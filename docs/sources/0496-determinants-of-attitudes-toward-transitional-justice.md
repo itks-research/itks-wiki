@@ -6,7 +6,7 @@
 | **Year** | 2011 |
 | **Category** | Transitional justice |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 94 |
 | **Source** | openalex |
 | **DOI** | [10.1177/0010414011407468](https://doi.org/10.1177/0010414011407468) |

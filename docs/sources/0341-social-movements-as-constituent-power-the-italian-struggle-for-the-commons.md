@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Bailey, Mattei |
 | **Year** | 2013 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 107 |
 | **Source** | openalex |
 | **DOI** | [10.2979/indjglolegstu.20.2.965](https://doi.org/10.2979/indjglolegstu.20.2.965) |

@@ -6,7 +6,7 @@
 | **Year** | 2004 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://aei.pitt.edu/5928/1/Art_2(2).pdf) |

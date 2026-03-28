@@ -5,9 +5,9 @@
 | نویسندگان | Pedro C. Magalhães, Carlo Guarnieri, Yorgos Kaminis |
 |---|---|
 | **سال** | 2006 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Judicial independence and rule of law |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 25 |
 | **شناسه دیجیتال** | [10.1093/acprof:oso/9780199202812.003.0004](https://doi.org/10.1093/acprof:oso/9780199202812.003.0004) |
 

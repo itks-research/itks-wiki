@@ -5,9 +5,9 @@
 | نویسندگان | Farsakh, Leila H. |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 49 |
 | **شناسه دیجیتال** | [10.1525/luminos.113](https://doi.org/10.1525/luminos.113) |
 

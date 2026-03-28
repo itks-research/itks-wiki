@@ -1,12 +1,13 @@
-# DOES PUBLIC ACCOUNTABILITY WORK? AN ASSESSMENT TOOL
+# DOES Public Accountability Work? AN Assessment TOOL
 
 | Field | Value |
 |-------|-------|
 | **Authors** | Mark Bovens, Thomas Schillemans, Paul ‘t Hart |
 | **Year** | 2008 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Electoral system design and implementation |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 638 |
 | **Source** | openalex |
 | **DOI** | [10.1111/j.1467-9299.2008.00716.x](https://doi.org/10.1111/j.1467-9299.2008.00716.x) |

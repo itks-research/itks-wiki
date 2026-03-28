@@ -5,8 +5,9 @@
 | **Authors** | Jean‐Baptiste Harguindéguy, Gonzalo Sola Rodríguez, José Cruz-Díaz |
 | **Year** | 2018 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Judicial independence and rule of law |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 18 |
 | **Source** | openalex |
 | **DOI** | [10.1080/21622671.2018.1557073](https://doi.org/10.1080/21622671.2018.1557073) |

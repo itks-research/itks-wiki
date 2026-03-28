@@ -5,8 +5,9 @@
 | **Authors** | Hamadi Redissi, Rihab Boukhayatia |
 | **Year** | 2015 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Civil society development |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://aei.pitt.edu/66141/1/working_paper_no.2.pdf) |

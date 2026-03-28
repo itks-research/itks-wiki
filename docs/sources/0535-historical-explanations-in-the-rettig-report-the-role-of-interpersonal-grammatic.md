@@ -6,7 +6,7 @@
 | **Year** | 2022 |
 | **Category** | Transitional justice |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 4 |
 | **Source** | openalex |
 | **DOI** | [10.1177/09579265221096030](https://doi.org/10.1177/09579265221096030) |

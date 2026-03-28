@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Michele Penner Angrist |
 | **Year** | 2013 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 75 |
 | **Source** | openalex |
 | **DOI** | [10.3751/67.4.13](https://doi.org/10.3751/67.4.13) |

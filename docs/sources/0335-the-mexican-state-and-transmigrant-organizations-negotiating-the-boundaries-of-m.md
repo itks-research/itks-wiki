@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Luin Goldring |
 | **Year** | 2002 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Civil society development |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 295 |
 | **Source** | openalex |
 | **DOI** | [10.1017/s002387910002447x](https://doi.org/10.1017/s002387910002447x) |

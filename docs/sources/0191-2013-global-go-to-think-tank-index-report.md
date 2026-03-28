@@ -6,7 +6,7 @@
 | **Year** | 2014 |
 | **Category** | Civil-military relations and security sector reform |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 159 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://repository.upenn.edu/think_tanks/9) |

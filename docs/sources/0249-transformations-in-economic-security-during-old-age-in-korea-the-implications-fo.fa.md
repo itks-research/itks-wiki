@@ -5,9 +5,9 @@
 | نویسندگان | Young-Jun Choi |
 |---|---|
 | **سال** | 2006 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 24 |
 | **شناسه دیجیتال** | [10.1017/s0144686x06004879](https://doi.org/10.1017/s0144686x06004879) |
 

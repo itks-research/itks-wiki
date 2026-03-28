@@ -5,8 +5,9 @@
 | **Authors** | Emanuela Dalmasso, Francesco Cavatorta |
 | **Year** | 2013 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Political party formation and pluralism |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 35 |
 | **Source** | openalex |
 | **DOI** | [10.1080/13629395.2013.799341](https://doi.org/10.1080/13629395.2013.799341) |

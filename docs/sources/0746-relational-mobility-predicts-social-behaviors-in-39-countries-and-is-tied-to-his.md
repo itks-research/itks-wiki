@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Robert Thomson, Masaki Yuki, Thomas Talhelm, Joanna Schug, Mie Kito, Arin H. Ayanian, Julia C. Becker, Maja Becker, Chi‐yue Chiu, Hoon‐Seok Choi, Carolina Müller Ferreira, Márta Fülöp, Pelin Gül, Ana Maria Houghton-Illera, Mihkel Joasoo, Jonathan Jong, Christopher Kavanagh, Dmytro Khutkyy, Claudia Manzi, Urszula M. Marcinkowska, Taciano L. Milfont, Félix Neto, Timo von Oertzen, Ruthie Pliskin, Álvaro San Martín, Purnima Singh, Mariko L. Visserman |
 | **Year** | 2018 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 363 |
 | **Source** | openalex |
 | **DOI** | [10.1073/pnas.1713191115](https://doi.org/10.1073/pnas.1713191115) |

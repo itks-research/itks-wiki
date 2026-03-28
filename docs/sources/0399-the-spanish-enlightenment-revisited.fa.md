@@ -5,9 +5,9 @@
 | نویسندگان | Marie Christine Duggan |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 55 |
 | **شناسه دیجیتال** | [10.5209/ijhe.49778](https://doi.org/10.5209/ijhe.49778) |
 

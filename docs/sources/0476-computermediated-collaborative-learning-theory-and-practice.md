@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Mark Warschauer |
 | **Year** | 1997 |
-| **Category** | Transitional justice |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 986 |
 | **Source** | openalex |
 | **DOI** | [10.1111/j.1540-4781.1997.tb05514.x](https://doi.org/10.1111/j.1540-4781.1997.tb05514.x) |

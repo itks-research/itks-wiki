@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Süveyda Karakaya, Abdülkadir Yıldırım |
 | **Year** | 2012 |
-| **Category** | Transitional justice |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 57 |
 | **Source** | openalex |
 | **DOI** | [10.1080/13510347.2012.696612](https://doi.org/10.1080/13510347.2012.696612) |

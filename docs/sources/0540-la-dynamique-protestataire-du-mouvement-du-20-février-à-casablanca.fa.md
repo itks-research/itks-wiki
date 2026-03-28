@@ -5,9 +5,9 @@
 | نویسندگان | Mounia Bennani-Chraïbi, Mohamed Jeghllaly |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 79 |
 | **شناسه دیجیتال** | [10.3917/rfsp.625.867](https://doi.org/10.3917/rfsp.625.867) |
 

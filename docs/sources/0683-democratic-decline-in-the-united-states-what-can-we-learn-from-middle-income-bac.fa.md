@@ -5,9 +5,9 @@
 | نویسندگان | Robert R. Kaufman, Stephan Haggard |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 118 |
 | **شناسه دیجیتال** | [10.1017/s1537592718003377](https://doi.org/10.1017/s1537592718003377) |
 

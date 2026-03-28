@@ -1,12 +1,13 @@
-# THE SECURITY AND FREEDOM DILEMMA: UKRAINE'S DEMOCRATIC PATH THROUGH WAR AND THE CHALLENGES OF CONSOLIDATION
+# THE Security AND Freedom Dilemma: Ukraine's Democratic PATH Through WAR AND THE Challenges OF Consolidation
 
 | Field | Value |
 |-------|-------|
 | **Authors** | G. Malkina, I. Petrenko |
 | **Year** | 2025 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Electoral system design and implementation |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.17721/2415-881x.2025.96.180-191](https://doi.org/10.17721/2415-881x.2025.96.180-191) |

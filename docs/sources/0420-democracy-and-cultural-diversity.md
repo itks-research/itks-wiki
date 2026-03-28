@@ -5,8 +5,9 @@
 | **Authors** | Michael O’Neill, Dennis Austin |
 | **Year** | 2000 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Federalism, unitarism, and autonomy models, Political party formation and pluralism |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 23 |
 | **Source** | openalex |
 | **DOI** | [10.1093/pa/53.1.1](https://doi.org/10.1093/pa/53.1.1) |

@@ -5,9 +5,9 @@
 | نویسندگان | Limor Lavie |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Constitutional design and drafting processes |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 10 |
 | **شناسه دیجیتال** | [10.3390/rel12040269](https://doi.org/10.3390/rel12040269) |
 

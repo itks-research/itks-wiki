@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Unknown |
 | **Year** | 2008 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Power-sharing mechanisms during transition periods |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 31 |
 | **Source** | openalex |
 | **DOI** | [10.5860/choice.46-1128](https://doi.org/10.5860/choice.46-1128) |

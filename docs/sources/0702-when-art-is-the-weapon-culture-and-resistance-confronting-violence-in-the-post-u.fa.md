@@ -5,9 +5,9 @@
 | نویسندگان | Mark LeVine |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 40 |
 | **شناسه دیجیتال** | [10.3390/rel6041277](https://doi.org/10.3390/rel6041277) |
 

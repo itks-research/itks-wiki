@@ -5,9 +5,9 @@
 | نویسندگان | Imad Mohammed Saleh |
 |---|---|
 | **سال** | 2026 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Media freedom and press institution building |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.31272/ipj.i65.523](https://doi.org/10.31272/ipj.i65.523) |
 

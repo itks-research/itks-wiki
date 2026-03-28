@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Justo Mora, Miguel Arenillas, Guillermo Cobos, José Navarro |
 | **Year** | 2006 |
-| **Category** | Transitional justice |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 7 |
 | **Source** | openalex |
 | **DOI** | [10.1051/lhb:200603010](https://doi.org/10.1051/lhb:200603010) |

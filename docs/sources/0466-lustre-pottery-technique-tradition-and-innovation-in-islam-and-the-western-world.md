@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Alan Caiger-Smith |
 | **Year** | 1985 |
-| **Category** | Transitional justice |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 130 |
 | **Source** | openalex |
 

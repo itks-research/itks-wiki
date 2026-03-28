@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Frédéric Volpi, Ewan Stein |
 | **Year** | 2015 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 47 |
 | **Source** | openalex |
 | **DOI** | [10.1080/13510347.2015.1010811](https://doi.org/10.1080/13510347.2015.1010811) |

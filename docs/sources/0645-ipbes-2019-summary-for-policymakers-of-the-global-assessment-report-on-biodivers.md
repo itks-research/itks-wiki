@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | John Bongaarts |
 | **Year** | 2019 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 819 |
 | **Source** | openalex |
 | **DOI** | [10.1111/padr.12283](https://doi.org/10.1111/padr.12283) |

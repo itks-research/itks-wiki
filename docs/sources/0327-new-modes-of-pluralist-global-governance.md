@@ -6,7 +6,7 @@
 | **Year** | 2013 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 214 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://scholarship.law.columbia.edu/cgi/viewcontent.cgi?article=2795&context=faculty_scholarship) |

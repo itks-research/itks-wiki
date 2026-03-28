@@ -1,0 +1,18 @@
+# Contextualizing the Philosophy of Women's Empowerment through the Role of the National Board of Zakat in Indonesia
+
+<div dir="rtl" markdown>
+
+| نویسندگان | S. Suryani, Zurifah Nurdin, Nelly Marhayati |
+|---|---|
+| **سال** | 2024 |
+| **دسته‌بندی** | Women's rights codification and gender equality |
+| **مطالعه موردی** | Indonesia |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 2 |
+| **شناسه دیجیتال** | [10.29300/madania.v28i1.4597](https://doi.org/10.29300/madania.v28i1.4597) |
+
+## چکیده
+
+This study aims to analyze the role of the National Board of Zakat (Badan Amil Zakat Nasional = Baznas) in empowering women in Indonesia, using a contextualization approach to the philosophy of empowerment. Women's empowerment is a crucial strategic issue for sustainable development because women are essential in various social, economic, and cultural aspects. This study uses a qualitative approach with a case study method, which involves data analysis from Baznas annual reports, policy documents, and in-depth interviews with managers of Central Baznas, West Java Baznas, and Bengkulu Baznas. The results show that the women's empowerment program carried out by Baznas focuses on increasing women's economic capacity through entrepreneurship training, business capital assistance, and business assistance. Apart from that, Baznas also pays attention to women's education and health as an integral part of the empowerment program. This research concludes that the women's empowerment philosophy implemented by Baznas reflects the values of social justice, active participation, and desire. The implementation of Baznas programs has had a positive impact on improving the quality of life of women, especially among the poor and elderly. However, there are still challenges that must be overcome, such as limited resources and program accessibility. Therefore, collaboration with various stakeholders and more innovative and inclusive development strategies are needed to increase the effectiveness of women's empowerment programs in the future. Penelitian ini bertujuan untuk menganalisis peran Badan Amil Zakat Nasional (Baznas) dalam pemberdayaan perempuan di Indonesia, dengan pendekatan kontekstualisasi filosofi pemberdayaan. Pemberdayaan perempuan merupakan isu strategis yang krusial bagi pembangunan berkelanjutan karena mereka memiliki peran penting dalam berbagai aspek kehidupan sosial, ekonomi, dan budaya. Studi ini menggunakan pendekatan kualitatif dengan metode studi kasus, yang melibatkan analisis data dari laporan tahunan Baznas, dokumen kebijakan, serta wawancara mendalam dengan pengelola Baznas Pusat, Baznas Jawa Barat, dan Baznas Bengkulu. Hasil penelitian menunjukkan bahwa program pemberdayaan perempuan yang dilakukan oleh Baznas berfokus pada peningkatan kapasitas ekonomi perempuan melalui pelatihan kewirausahaan, bantuan modal usaha, dan pendampingan bisnis. Selain itu, Baznas juga memperhatikan aspek pendidikan dan kesehatan perempuan sebagai bagian integral dari program pemberdayaan. Penelitian ini menyimpulkan bahwa filosofi pemberdayaan perempuan yang diterapkan oleh Baznas mencerminkan nilai-nilai keadilan sosial, partisipasi aktif, dan keberlanjutan. Implementasi program-program Baznas telah memberikan dampak positif terhadap peningkatan kualitas hidup perempuan, terutama di kalangan masyarakat miskin dan lanjut usia. Namun demikian, masih terdapat tantangan yang harus diatasi, seperti keterbatasan sumber daya dan aksesibilitas program. Karena itu, kolaborasi dengan berbagai pemangku kepentingan serta pengembangan strategi yang lebih inovatif dan inklusif diperlukan untuk meningkatkan efektivitas program pemberdayaan perempuan di masa depan.
+
+</div>

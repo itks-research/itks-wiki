@@ -1,0 +1,18 @@
+# Agricultural mechanization, a key to food security in developing countries: strategy formulating for Iran
+
+<div dir="rtl" markdown>
+
+| نویسندگان | Mohammad Hashem Emami, Morteza Almassi, Hossein Bakhoda, Issa kalantari |
+|---|---|
+| **سال** | 2018 |
+| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **مطالعه موردی** | Iran |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 94 |
+| **شناسه دیجیتال** | [10.1186/s40066-018-0176-2](https://doi.org/10.1186/s40066-018-0176-2) |
+
+## چکیده
+
+Mechanization is a multi-dimensional concept and widely used in agriculture. There is, however, a major difference between the application of mechanization in developed and developing countries The developing countries tend to design their own strategies in food security given the challenges they face in all aspects of their economy including feeding a growing population, reducing poverty, protecting the environment, managing the effects of climate change and fighting malnutrition all which may further contribute to a reduction in economic growth and political instability. The goal of the strategies, with the help of appropriate technologies, is to lead to a sustainable agricultural development and, ultimately, food security. The policy making in each country should be based on its own conditions. This article uses Iran as an example of a developing country and considers the country’s specific climate as well as political and economic conditions to present development-oriented policies for achieving sustainable food security based on agricultural mechanization that may be adaptable to other developing countries. The main objective of this paper is to identify and provide guidelines to the current and future challenges of Iran’s food security, and it argues that for any strategy to succeed in producing a sustainable agricultural production, it will need a proper analysis and a formulation of an appropriate mechanization plan. To achieve the objective of a self-sustaining agricultural mechanization strategy, a SWOT analysis technique was used to identify the strengths, weaknesses, opportunities and threats and help us provide a framework by which policies can be defined. The framework includes internal and external factors that affect the development of agricultural mechanization and seek to provide ideas for agricultural development with the help of mechanization. These factors were then prioritized using the Hierarchical Analysis Method, and based on the obtained results, the final strategies were extracted and prioritized by the Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS), a multi-criteria decision analysis method. According to the results, weaknesses and threats were the most important factors. Environmental threats, especially water shortages, economic problems as well as availability of the mechanization fleet and compatibility of the equipment within the country’s agricultural system were identified as the most important factors affecting the agricultural development. In order to achieve sustainable food security, with regards to the identified factors the necessary recommendations and Governmental-support policies in the agricultural sector were presented: 1. reforming the country’s planting pattern according to the climatic conditions considering the relative advantage of agricultural production, 2. modernizing the mechanization fleet; 3. investing in research and development of agriculture and modern knowledge; the production and import of agricultural machinery and modern technologies according to their suitability with the country's conditions and future needs of the country; strengthening of the supply chain and maintenance services.
+
+</div>

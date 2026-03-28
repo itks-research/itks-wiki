@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Stephan Roll |
 | **Year** | 2013 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Privatization and state-owned enterprise restructuring |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 69 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://www.ssoar.info/ssoar/handle/document/38562) |

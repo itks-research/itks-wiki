@@ -1,12 +1,13 @@
-# THE DYNAMICS OF SOCIAL AND POLITICAL RELATIONS IN THE CONTEXT OF DEMOCRATIC TRANSFORMATION IN TURKEY
+# THE Dynamics OF Social AND Political Relations IN THE Context OF Democratic Transformation IN Turkey
 
 | Field | Value |
 |-------|-------|
 | **Authors** | H. Çeli̇k, İbrahim Şahin, A. Öztürk, Emre Aydın |
 | **Year** | 2025 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Political party formation and pluralism |
+| **Secondary Categories** | Civil society development |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.60153/ijesss.v1i3.236](https://doi.org/10.60153/ijesss.v1i3.236) |

@@ -5,9 +5,9 @@
 | نویسندگان | Bailey, Mattei |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 107 |
 | **شناسه دیجیتال** | [10.2979/indjglolegstu.20.2.965](https://doi.org/10.2979/indjglolegstu.20.2.965) |
 

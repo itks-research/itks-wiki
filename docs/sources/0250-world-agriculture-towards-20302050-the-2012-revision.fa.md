@@ -5,9 +5,9 @@
 | نویسندگان | N. Alexandratos, Jelle Bruinsma, Alexandratos, Nikos, Bruinsma, Jelle |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 3142 |
 | **شناسه دیجیتال** | [10.22004/ag.econ.288998](https://doi.org/10.22004/ag.econ.288998) |
 

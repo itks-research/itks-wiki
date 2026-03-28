@@ -5,8 +5,9 @@
 | **Authors** | César Colino |
 | **Year** | 2008 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Federalism, unitarism, and autonomy models |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 93 |
 | **Source** | openalex |
 | **DOI** | [10.1093/publius/pjn037](https://doi.org/10.1093/publius/pjn037) |

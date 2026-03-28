@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Esen Kirdiş |
 | **Year** | 2019 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 7 |
 | **Source** | openalex |
 | **DOI** | [10.1080/21567689.2019.1698421](https://doi.org/10.1080/21567689.2019.1698421) |

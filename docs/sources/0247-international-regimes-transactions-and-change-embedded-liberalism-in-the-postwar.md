@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | John Gerard Ruggie |
 | **Year** | 1982 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Trade liberalization and foreign direct investment |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 4384 |
 | **Source** | openalex |
 | **DOI** | [10.1017/s0020818300018993](https://doi.org/10.1017/s0020818300018993) |

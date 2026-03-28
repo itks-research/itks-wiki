@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Emile Ouedraogo |
 | **Year** | 2014 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Civil-military relations and security sector reform |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 50 |
 | **Source** | openalex |
 | **DOI** | [10.21236/ada609337](https://doi.org/10.21236/ada609337) |

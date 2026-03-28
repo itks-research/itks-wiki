@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Mark LeVine |
 | **Year** | 2015 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 40 |
 | **Source** | openalex |
 | **DOI** | [10.3390/rel6041277](https://doi.org/10.3390/rel6041277) |

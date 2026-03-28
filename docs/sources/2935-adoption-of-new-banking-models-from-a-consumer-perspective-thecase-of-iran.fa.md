@@ -1,0 +1,18 @@
+# Adoption of new banking models from a consumer perspective: the case of Iran
+
+<div dir="rtl" markdown>
+
+| نویسندگان | Soroush Dehghan Salmasi, Mohammadbashir Sedighi, H. Sharif, M. Shah |
+|---|---|
+| **سال** | 2024 |
+| **دسته‌بندی** | Banking and financial system reform |
+| **مطالعه موردی** | Iran |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 7 |
+| **شناسه دیجیتال** | [10.1108/ijbm-02-2023-0094](https://doi.org/10.1108/ijbm-02-2023-0094) |
+
+## چکیده
+
+PurposeTraditionally, the banking and financial sectors have pioneered adoption of new technologies and business models. One important digital banking model that has proven its efficacy in recent times, is Digital-Only Banking (DOB) where consumers interact with their banks through digital channels only. Having detailed knowledge of what actually happens at the consumer level during the adoption of new digital models and technologies is paramount to the success of these technological initiatives. The present study aims to investigate DOB adoption behavior and possible barriers using a quantitative approach at the consumer level. A conceptual model is developed by extending the Unified Theory of Acceptance and Use of Technology (UTAUT) model, incorporating Trust (TR), Perceived Risk (PR) constructs and cultural moderators of Individualism (IDV) and Uncertainty Avoidance (UA).Design/methodology/approachFor this study, an online survey instrument was created and administered in Iran. The research sample was selected through the application of purposive sampling. Data from 788 respondents were analyzed. The proposed model was tested using Partial Least Square.?.s Structural Equation Modeling (PLS-SEM).FindingsThe results show that DOB adoption is positively influenced by Effort Expectancy (EE), Social Influence (SI), and Facilitating Conditions (FC), while PR negatively influences DOB adoption intention. Unexpectedly, the results indicate that TR has no significant impact on DOB usage intention. Additionally, this study demonstrates that with individuals having a low level of IDV, the relationship between PE and BI is stronger, and with individuals having a low level of UA, the impact of SI on BI is stronger. It also reveals that the impact of TR on BI is stronger in low individualistic cultures.Practical implicationsDOB providers should enhance support features of their services or provide facilities that make it simpler for users to accomplish online transactions. Here, in order to improve the UI/UX design of their apps, DOB product managers should carefully observe the technical guidelines of the operating systems of digital devices, such as the Human Interface Guidelines (HIG) for iOS and Material You for Android. Additionally, DOB providers should build partnerships with mega online retailers to provide hassle-free and easy to use payment solutions for consumers.Originality/valueDOB, as a novel and business model, has been investigated in very few studies, especially regarding any which focus on its adoption. To fill this gap, this research investigates DOB adoption through a modified version of the UTAUT model. The findings of this study suggest that future research regarding DOB should consider sources of TR, types of non-adopters, and context. This study, as the first of its kind in DOB literature, also highlights the significant role played by cultural values in customer behavior regarding DOB adoption.
+
+</div>

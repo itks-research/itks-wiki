@@ -5,9 +5,9 @@
 | نویسندگان | Luis Carlos Martínez Fernández, José Antonio Luengo Gallego |
 |---|---|
 | **سال** | 2005 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Regional foreign policy reorientation |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 4 |
 | **شناسه دیجیتال** | [10.17811/er.0.2005.155-171](https://doi.org/10.17811/er.0.2005.155-171) |
 

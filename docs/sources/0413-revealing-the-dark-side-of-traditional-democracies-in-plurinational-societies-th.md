@@ -5,8 +5,9 @@
 | **Authors** | Ferrán Requejo |
 | **Year** | 2009 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Federalism, unitarism, and autonomy models |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 29 |
 | **Source** | openalex |
 | **DOI** | [10.1111/j.1469-8129.2010.00414.x](https://doi.org/10.1111/j.1469-8129.2010.00414.x) |

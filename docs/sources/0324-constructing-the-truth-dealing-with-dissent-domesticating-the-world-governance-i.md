@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Filip Reyntjens |
 | **Year** | 2010 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Transitional justice |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 251 |
 | **Source** | openalex |
 | **DOI** | [10.1093/afraf/adq075](https://doi.org/10.1093/afraf/adq075) |

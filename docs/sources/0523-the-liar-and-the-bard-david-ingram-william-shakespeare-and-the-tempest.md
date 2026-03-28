@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Robert Bromber |
 | **Year** | 2002 |
-| **Category** | Transitional justice |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 20 |
 | **Source** | openalex |
 

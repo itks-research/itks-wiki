@@ -5,9 +5,9 @@
 | نویسندگان | Lovise Aalen |
 |---|---|
 | **سال** | 2002 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 173 |
 
 ## چکیده

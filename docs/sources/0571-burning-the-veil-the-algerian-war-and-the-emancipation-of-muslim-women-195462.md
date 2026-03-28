@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Neil MacMaster |
 | **Year** | 2010 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Women's rights codification and gender equality |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 55 |
 | **Source** | openalex |
 | **DOI** | [10.7765/9781526146182](https://doi.org/10.7765/9781526146182) |

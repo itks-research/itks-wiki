@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Kira Mahamud-Angulo, Yovana Hernández-Laina, R. Henriques |
 | **Year** | 2024 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.3167/jemms.2024.160106](https://doi.org/10.3167/jemms.2024.160106) |

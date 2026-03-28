@@ -1,0 +1,15 @@
+# Education and social change : connecting local and global perspectives
+
+| Field | Value |
+|-------|-------|
+| **Authors** | Geoffrey Elliott |
+| **Year** | 2012 |
+| **Category** | Education system reform and curriculum modernization |
+| **Case Study** | Iran |
+| **Relevance Score** | Pending |
+| **Citation Count** | 15 |
+| **Source** | openalex |
+
+## Abstract
+
+Dedications Acknowledgements Foreword Notes on the Contributors Introduction Part I. The Global Policy Context 1. Lessons from International and Comparative Education David Bainton and Michael Crossley 2. Education for All: A freedom-based approach James Stanfield 3. Women's Education in the Developing World Mairead Dunne 4. Self-assessment in the Further Education College of a Small State Gary Jones, Edward Sallis and Peter Hubert 5. The Contribution of European Programmes to Social Change Simone Kirpal Part II. Community Integration and Inclusion 6. Social Marketing Chahid Fourali 7. Basic Education Status of Afghan Refugees in Iran Maryam Danaye Tousi and Alireza Kiamanesh 8. Respecting Difference in Early Childhood Centres in Northern Ireland Siobhan Fitzpatrick 9. Elitism, Inclusion and the Specialist School Carla Solvason 10. Higher Education and Civic and Community Engagement in the UK John Annette Part III. Curriculum Reform 11. Beyond Borders: Expanding the uses of work based learning Elda Nikolou-Walker and Lynn Fee 12. Government Policy and Teacher Education in Ghana Kwame Akyeampong 13. Transforming China's Adult and Continuing Education Ning Rong Liu 14. An 'Essential Attributes' Approach to Curriculum Reform Francis Murphy 15. Reforming VET for Social Cohesion George K Zarifis Part IV. Learning and Pedagogy 16. Transformative Learning for a Global Society Doug Bourn and Sally Issler 17. Post-colonial and Post-critical 'Global Citizenship Education' Vanessa Andreotti 18. Validation of Non-formal and Informal Learning in Europe Manuel Souto-Otero 19. Transnational Cooperation in Learning Support for Disabled Learners Val Chapman 20. Vocational Education Erica Smith and Andy Smith Conclusions and Implications Selected Bibliography Selected Resources Author Index Subject Index.

@@ -6,7 +6,7 @@
 | **Year** | 2025 |
 | **Category** | Civil-military relations and security sector reform |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1016/j.healthpol.2025.105536](https://doi.org/10.1016/j.healthpol.2025.105536) |

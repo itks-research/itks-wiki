@@ -5,9 +5,9 @@
 | نویسندگان | Mohamed-Salah Omri |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 24 |
 | **شناسه دیجیتال** | [10.5281/zenodo.8217498](https://doi.org/10.5281/zenodo.8217498) |
 

@@ -5,9 +5,9 @@
 | نویسندگان | Irene Martín, Ignacio Urquizu–Sancho |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Electoral system design and implementation |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 59 |
 | **شناسه دیجیتال** | [10.1080/13608746.2012.708983](https://doi.org/10.1080/13608746.2012.708983) |
 

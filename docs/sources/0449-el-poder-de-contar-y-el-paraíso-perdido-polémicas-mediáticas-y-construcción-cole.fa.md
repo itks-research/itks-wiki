@@ -5,9 +5,9 @@
 | نویسندگان | Sebastiaan Faber, Pablo Sánchez León, Jesús Izquierdo Martín |
 |---|---|
 | **سال** | 1970 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Media freedom and press institution building |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 9 |
 | **شناسه دیجیتال** | [10.5209/rev_poso.2011.v48.n3.36423](https://doi.org/10.5209/rev_poso.2011.v48.n3.36423) |
 

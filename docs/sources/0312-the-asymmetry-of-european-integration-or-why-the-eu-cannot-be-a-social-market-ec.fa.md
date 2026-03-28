@@ -5,9 +5,9 @@
 | نویسندگان | Fritz W. Scharpf |
 |---|---|
 | **سال** | 2009 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Judicial independence and rule of law |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 686 |
 | **شناسه دیجیتال** | [10.1093/ser/mwp031](https://doi.org/10.1093/ser/mwp031) |
 
