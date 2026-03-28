@@ -1,0 +1,19 @@
+# Recombinant Property in East European Capitalism
+
+**Status:** 🤖 Machine Generated
+
+| Field | Value |
+|-------|-------|
+| **Authors** | David Stark |
+| **Year** | 1996 |
+| **Category** | Civil-military relations and security sector reform |
+| **Case Study** | Poland |
+| **Relevance Score** | Pending |
+| **Citation Count** | 976 |
+| **Source** | openalex |
+| **DOI** | [10.1086/230786](https://doi.org/10.1086/230786) |
+| **Full Text** | [Open Access](https://www.journals.uchicago.edu/doi/epdf/10.1086/230786) |
+
+## Abstract
+
+Recombinant property is a form of organizational hedging in which actors respond to uncertainty by diversifying assets, redefining and recombining resources. It is an attempt to hold resources that can be justified by more than one legitimating principle. Property transformation in postsocialist Hungary involves the decentralized reorganization of assets and the centralized management of liabilities. Together they blur the boundaries of public and private, the boundaries of enterprises, and the boundedness of justificatory principles. Enterprise-level field research, data on the ownership structure of Hungary's 220 largest enterprises and banks, and an examination of the government's recent debt consolidation programs suggest the emergence of a distinctively East European capitalism that will differ as much from West European capitalisms as do contemporary East Asian variants.

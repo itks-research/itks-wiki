@@ -1,0 +1,19 @@
+# COVID-19: 20 countries’ higher education intra-period digital pedagogy responses
+
+**Status:** 🤖 Machine Generated
+
+| Field | Value |
+|-------|-------|
+| **Authors** | Joseph Crawford, Kerryn Butler‐Henderson, Jürgen Rudolph, Bashar H. Malkawi, Matt Glowatz, Robert L. Burton, P.A. Magni, Sophia Lam |
+| **Year** | 2020 |
+| **Category** | Privatization and state-owned enterprise restructuring |
+| **Case Study** | South Korea |
+| **Relevance Score** | Pending |
+| **Citation Count** | 1910 |
+| **Source** | openalex |
+| **DOI** | [10.37074/jalt.2020.3.1.7](https://doi.org/10.37074/jalt.2020.3.1.7) |
+| **Full Text** | [Open Access](https://journals.sfu.ca/jalt/index.php/jalt/article/download/191/163) |
+
+## Abstract
+
+The Coronavirus 2019 (COVID-19) pandemic has created significant challenges for the global higher education community. Through a desktop analysis leveraging university and government sources where possible, we provide a timely map of the intra-period higher education responses to COVID-19 across 20 countries. We found that the responses by higher education providers have been diverse from having no response through to social isolation strategies on campus and rapid curriculum redevelopment for fully online offerings. We provide in our discussion a typology of the types of responses currently undertaken and assess the agility of higher education in preparing for the pandemic. We believe there are significant opportunities to learn from the pedagogical developments of other universities, in order to strengthen our collective response to COVID-19 now and into the future.

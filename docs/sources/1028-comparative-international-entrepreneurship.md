@@ -1,0 +1,19 @@
+# Comparative International Entrepreneurship
+
+**Status:** 🤖 Machine Generated
+
+| Field | Value |
+|-------|-------|
+| **Authors** | Siri Terjesen, Jolanda Hessels, Dan Li |
+| **Year** | 2013 |
+| **Category** | Privatization and state-owned enterprise restructuring |
+| **Case Study** | South Korea |
+| **Relevance Score** | Pending |
+| **Citation Count** | 505 |
+| **Source** | openalex |
+| **DOI** | [10.1177/0149206313486259](https://doi.org/10.1177/0149206313486259) |
+| **Full Text** | [Open Access](https://pure.eur.nl/ws/files/47466198/REPUB_87471.pdf) |
+
+## Abstract
+
+This review systematically examines comparative international entrepreneurship (CIE) research, analyzing 259 articles published in 21 leading journals from 1989 to 2010. We outline the importance of multi-country studies of entrepreneurial activity in enabling the comparison and replication of research and generating meaningful contributions to scholarship, practice, and policy. Our systematic review classifies research findings into four levels—individual, firm, industry, and country—each with respect to characteristics, antecedents, and outcomes of entrepreneurial activities as well as theory and methodology. Taken together, our review highlights the heterogeneous nature of entrepreneurship across countries and its role in explaining outcomes at firm (e.g., financial and export performance) and country (e.g., economic growth) levels as well as antecedents at the country level (e.g., culture). We find the CIE literature is highly fragmented with substantial knowledge gaps related to content, theory, and methodology, for which we outline a detailed future research agenda. Given the atheoretical nature of most published CIE research, we provide specific suggestions to extend the current dominant theoretical perspectives (institutions, culture, resource-based view, transaction cost economics, economic growth, and human capital); consider new lenses from management, international business, and entrepreneurship; and integrate and test multiple theories. From a content perspective, we outline the need to define and cross-reference prior studies of entrepreneurship and prioritize emerging phenomena that are critical to practice, and policy, and offer specific directives for integrated and multi-level studies of characteristics, antecedents, and outcomes. Methodological suggestions include theory-based rationale for the selection of countries, greater attention to data collection and sample selection equivalence, and the solutions to the ecological fallacy problem. We urge scholars to work together and across countries, cooperating with interested agencies and associations to develop new longitudinal, multi-level data sets and introduce dual qualitative/quantitative approaches and new diverse, sophisticated analytical tools.

@@ -1,0 +1,19 @@
+# The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade
+
+**Status:** 🤖 Machine Generated
+
+| Field | Value |
+|-------|-------|
+| **Authors** | David Autor, David Dorn, Gordon Hanson |
+| **Year** | 2016 |
+| **Category** | Civil-military relations and security sector reform |
+| **Case Study** | Spain |
+| **Relevance Score** | Pending |
+| **Citation Count** | 1239 |
+| **Source** | openalex |
+| **DOI** | [10.1146/annurev-economics-080315-015041](https://doi.org/10.1146/annurev-economics-080315-015041) |
+| **Full Text** | [Open Access](https://www.annualreviews.org/doi/pdf/10.1146/annurev-economics-080315-015041) |
+
+## Abstract
+
+China's emergence as a great economic power has induced an epochal shift in patterns of world trade. Simultaneously, it has challenged much of the received empirical wisdom about how labor markets adjust to trade shocks. Alongside the heralded consumer benefits of expanded trade are substantial adjustment costs and distributional consequences. These impacts are most visible in the local labor markets in which the industries exposed to foreign competition are concentrated. Adjustment in local labor markets is remarkably slow, with wages and labor-force participation rates remaining depressed and unemployment rates remaining elevated for at least a full decade after the China trade shock commences. Exposed workers experience greater job churning and reduced lifetime income. At the national level, employment has fallen in the US industries more exposed to import competition, as expected, but offsetting employment gains in other industries have yet to materialize. Better understanding when and where trade is costly, and how and why it may be beneficial, is a key item on the research agenda for trade and labor economists.

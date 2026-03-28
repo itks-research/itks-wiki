@@ -1,0 +1,19 @@
+# Shaping the Political Arena: Critical Junctures, the Labor Movement and Regime Dynamics in Latin America
+
+**Status:** 🤖 Machine Generated
+
+| Field | Value |
+|-------|-------|
+| **Authors** | Abraham F. Lowenthal, Ruth Berins Collier, David Collier |
+| **Year** | 1992 |
+| **Category** | Civil-military relations and security sector reform |
+| **Case Study** | Spain |
+| **Relevance Score** | Pending |
+| **Citation Count** | 1112 |
+| **Source** | openalex |
+| **DOI** | [10.2307/20045174](https://doi.org/10.2307/20045174) |
+| **Full Text** | [Open Access](https://escholarship.org/content/qt8qr1z7gc/qt8qr1z7gc.pdf?t=ok8l28) |
+
+## Abstract
+
+Ruth Berins Collier and David Collier are political scientists who use comparative historical research to discover and evaluate patterns and sources of political change. Their work is an overall analysis of Chile, Brazil, Uruguay, Colombia, Argentina, Peru, Venezuela, and Mexico, plus case studies of four distinct pairs in that group: Chile/Brazil, Uruguay/Colombia, Argentina/Peru, and Venezuela/Mexico. In addition, the Colliers meticulously describe and discuss their methods for the study including the limitations of their approach. The authors specifically focus on why and how organized labor movements in the first half of the twentieth century were incorporated into the political process in the eight Latin American countries they study. They analyze the role played by political parties, central government control, worker mobilization, and conflict between radical vs. centrist political philosophies and activities.

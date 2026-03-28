@@ -1,0 +1,18 @@
+# THE CZECH REPUBLIC’S NATIONAL ENERGY AND CLIMATE PLAN: PATHWAYS TO DECARBONIZATION, ENERGY SECURITY, AND INDUSTRIAL TRANSFORMATION
+
+**Status:** 🤖 Machine Generated
+
+| Field | Value |
+|-------|-------|
+| **Authors** | Dmytro Tkach |
+| **Year** | 2025 |
+| **Category** | Transitional justice |
+| **Case Study** | Czech Republic |
+| **Relevance Score** | Pending |
+| **Citation Count** | 1 |
+| **Source** | semantic_scholar |
+| **DOI** | [10.36690/2674-5208-2025-3-4-12](https://doi.org/10.36690/2674-5208-2025-3-4-12) |
+
+## Abstract
+
+The energy transformation of Central European countries is becoming critically important in the context of achieving the EU’s climate goals and ensuring energy security following the geopolitical upheavals of 2022. The Czech Republic, as one of the most carbon-intensive economies in the EU with a coal share of approximately 40% in its energy mix, faces unique challenges in balancing the needs of its energy-intensive industry with its environmental commitments to the European community. The approval of the updated National Energy and Climate Plan (NECP) in December 2024, after prolonged delays and the threat of sanctions from the European Commission, marked a key milestone in shaping the country’s long-term energy transition strategy. The purpose of the study is to conduct a comprehensive analysis of the updated Czech NECP and assess its impact on the country’s energy transformation by 2030, with a perspective toward 2050, including mechanisms for achieving European climate goals. The research object encompasses the strategic priorities, target indicators, and institutional mechanisms for implementing Czech energy policy in the context of the requirements of EU Regulation 2018/1999 on the Governance of the Energy Union. The research methodology is based on a systemic analysis of official Czech government documents, expert assessments by the European Commission, and statistical data from the Ministry of Industry and Trade, employing methods of structural analysis of energy strategies, comparative analysis of European energy planning practices, and evaluation of the compliance of national plans with European directives. The study findings indicate that the plan envisages a fundamental restructuring of the energy sector, increasing the share of renewable energy sources from the current 18% to over 30% by 2030 and a complete phase-out of coal-based generation by 2033. Consequently, in sectors covered by the EU Emissions Trading System, the Czech Republic plans to reduce emissions by 63% by 2030 compared to 1990 levels, surpassing the EU-wide target of 55%. For instance, total investments in the energy transformation are estimated at 2.8 trillion Czech crowns, with projected additional GDP growth of 2% and the creation of new jobs in the clean technology sector. As a result of the plan’s implementation, the country’s energy dependence on imports is expected to decrease from 40% to 26% by 2050, significantly enhancing national energy security. The practical value of the study lies in identifying effective mechanisms for coordinating industrial and environmental policies, tools for financing the green transition, and strategies for addressing socio-economic challenges in coal-dependent regions, which can serve as a practical model for other industrialized countries in Central and Eastern Europe during their energy transition.

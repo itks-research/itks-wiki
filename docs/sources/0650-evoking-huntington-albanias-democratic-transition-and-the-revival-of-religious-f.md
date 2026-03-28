@@ -1,0 +1,19 @@
+# Evoking Huntington: Albania’s Democratic Transition and the Revival of Religious Freedom
+
+**Status:** 🤖 Machine Generated
+
+| Field | Value |
+|-------|-------|
+| **Authors** | F. Tarifa, Fiona Todhri |
+| **Year** | 2025 |
+| **Category** | Religious freedom and separation of religion from state |
+| **Case Study** | Tunisia |
+| **Relevance Score** | Pending |
+| **Citation Count** | 0 |
+| **Source** | semantic_scholar |
+| **DOI** | [10.14421/n590qj07](https://doi.org/10.14421/n590qj07) |
+
+## Abstract
+
+After nearly half a century of totalitarian atheism, Albania’s transition to democracy in 1991 represented one of the most complex transformations in post-communist Eastern Europe. Framed within Samuel Huntington’s ‘third wave’ of democratization, this study revisits Albania’s early years of political transition to analyze the intertwined processes of democratic change and religious revival. The aim of this research is to understand how U.S. foreign policy, particularly through diplomatic and symbolic interventions, contributed to shaping Albania’s democratization and restoration of freedom of conscience. Using a qualitative historical-political approach, the study relies on library research that integrates primary sources—including diplomatic archives, official speeches, and media documents—with secondary literature from Scopus-indexed journals and academic books. Data were thematically analyzed across six interpretive clusters, connecting political, social, and religious dimensions of Albania’s transformation. The findings reveal that U.S. diplomatic engagement, especially Secretary James Baker’s 1991 visit, catalyzed pro-democracy movements and symbolized external support for Albania’s reentry into the democratic world, while the revival of religion expanded civil liberties and strengthened pluralism. The implication of this research is that international pressure, moral encouragement, and religious freedom jointly served as enduring safeguards against authoritarian relapse and remain essential to Albania’s democratic consolidation.
+Setelah hampir setengah abad hidup di bawah rezim ateis totaliter, transisi demokrasi Albania pada tahun 1991 menjadi salah satu perubahan politik dan sosial paling kompleks di Eropa Timur pascakomunis. Berangkat dari kerangka ‘gelombang ketiga’ demokratisasi yang dikemukakan Samuel Huntington, penelitian ini meninjau kembali tahun-tahun awal transisi politik Albania untuk memahami kaitan antara perubahan demokratis dan kebangkitan kehidupan beragama. Tujuan penelitian ini adalah menjelaskan bagaimana kebijakan luar negeri Amerika Serikat, melalui diplomasi dan simbol-simbol politik, berperan dalam mendorong demokratisasi sekaligus memulihkan kebebasan berkeyakinan di Albania. Penelitian ini menggunakan pendekatan kualitatif dengan analisis historis-politik melalui studi pustaka yang menggabungkan sumber primer—seperti arsip diplomatik, pidato resmi, dan laporan media—dengan literatur akademik terkini. Data dianalisis secara tematik melalui enam klaster utama yang menghubungkan dimensi politik, sosial, dan keagamaan dalam proses transformasi Albania. Hasil penelitian menunjukkan bahwa keterlibatan diplomatik Amerika Serikat, terutama melalui kunjungan bersejarah James Baker pada tahun 1991, menjadi katalis bagi gerakan pro-demokrasi dan menandai dukungan internasional bagi kembalinya Albania ke dunia demokratis, sementara kebangkitan agama memperluas kebebasan sipil dan memperkuat pluralisme. Implikasi penelitian ini adalah bahwa tekanan internasional, dukungan moral, dan kebebasan beragama menjadi pilar penting bagi keberlanjutan demokrasi dan konsolidasi politik di Albania.

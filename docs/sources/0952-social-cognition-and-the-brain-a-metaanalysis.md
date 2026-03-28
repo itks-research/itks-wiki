@@ -1,0 +1,19 @@
+# Social cognition and the brain: A meta‐analysis
+
+**Status:** 🤖 Machine Generated
+
+| Field | Value |
+|-------|-------|
+| **Authors** | Frank Van Overwalle |
+| **Year** | 2008 |
+| **Category** | Transitional justice |
+| **Case Study** | Czech Republic |
+| **Relevance Score** | Pending |
+| **Citation Count** | 1793 |
+| **Source** | openalex |
+| **DOI** | [10.1002/hbm.20547](https://doi.org/10.1002/hbm.20547) |
+| **Full Text** | [Open Access](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hbm.20547?download=true) |
+
+## Abstract
+
+This meta-analysis explores the location and function of brain areas involved in social cognition, or the capacity to understand people's behavioral intentions, social beliefs, and personality traits. On the basis of over 200 fMRI studies, it tests alternative theoretical proposals that attempt to explain how several brain areas process information relevant for social cognition. The results suggest that inferring temporary states such as goals, intentions, and desires of other people-even when they are false and unjust from our own perspective--strongly engages the temporo-parietal junction (TPJ). Inferring more enduring dispositions of others and the self, or interpersonal norms and scripts, engages the medial prefrontal cortex (mPFC), although temporal states can also activate the mPFC. Other candidate tasks reflecting general-purpose brain processes that may potentially subserve social cognition are briefly reviewed, such as sequence learning, causality detection, emotion processing, and executive functioning (action monitoring, attention, dual task monitoring, episodic memory retrieval), but none of them overlaps uniquely with the regions activated during social cognition. Hence, it appears that social cognition particularly engages the TPJ and mPFC regions. The available evidence is consistent with the role of a TPJ-related mirror system for inferring temporary goals and intentions at a relatively perceptual level of representation, and the mPFC as a module that integrates social information across time and allows reflection and representation of traits and norms, and presumably also of intentionality, at a more abstract cognitive level.

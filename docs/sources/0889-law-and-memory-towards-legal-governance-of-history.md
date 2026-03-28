@@ -1,0 +1,18 @@
+# Law and Memory: Towards Legal Governance of History
+
+**Status:** 🤖 Machine Generated
+
+| Field | Value |
+|-------|-------|
+| **Authors** | Jiří Přibáň |
+| **Year** | 2018 |
+| **Category** | Transitional justice |
+| **Case Study** | Czech Republic |
+| **Relevance Score** | Pending |
+| **Citation Count** | 49 |
+| **Source** | openalex |
+
+## Abstract
+
+This chapter opens by summarizing and critically reflecting on the Kundera case which significantly affected the public debate about the communist past in the Czech Republic. Different forms of historical justice - restitutions, rehabilitations, retributions and preventive lustrations are then briefly discussed to highlight underlying differences between the symbolic and pragmatic need of dealing with the past. I argue that the lustration process handled by state bureaucrats paradoxically inhibited the public discussion of the totalitarian past, its political impact and responsibility. Political uses of the lustration law and other legal acts, such as The Act of Public Access to Files Connected to Activities of Former Secret Police No. 140/1996, contributed to the postcommunist political neurosis and continue to operate as significant objects of party politics and ideological conflicts in the Czech political and public sphere.
+ The establishment of The Institute for the Study of Totalitarian Regimes in the Czech Republic in 2007 - almost two decades after the Velvet Revolution - is another example of this political neurosis and party politics selecting and administering particular public interpretations of modern political history. No other case illustrates its disciplining and policing functions better than the Kundera affair when the novelist was scandalized not so much for what he allegedly did or did not do in 1950 but because he refused to communicate with the Institute's researchers in 2008. The production of public knowledge by the Institute and its disciplinization effects were illustrated by the question asked by the Institute's researchers and journalists: If Kundera is not guilty, why does he not speak to us? Instead of searching for historical facts and details, the Institute thus operated as a public institution producing specific knowledge, interpretations and discourses on recent national history and thus only contributes to the neurotic collective memory - an example Halbwachs's classic notion of collective memory which has been typical of postcommunist political, legal and moral experiences. Subsequent changes in the Institute's focus and personnel between 2012 and 2014, caused by previous political changes in the Senate, the upper chamber of Parliament of the Czech Republic electing and recalling members of the Institute's Council as its supreme body, only confirm the Institute's function in general politics of public knowledge and collective memory. However, unlike relatively banal political and ideological conflicts regarding the Institute's mission, its politics of public knowledge and collective memory is stretching far beyond partisan politics and remains best illustrated by its early actions and controversies, such as the Kundera case.

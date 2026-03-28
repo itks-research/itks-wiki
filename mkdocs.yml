@@ -1,0 +1,28 @@
+site_name: 'Iran Transition Knowledge System'
+site_description: 'An autonomous research wiki mapping democratic transition pathways'
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: teal
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Dashboard: dashboard.md
+  - Knowledge Graph: graph.md
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - md_in_html

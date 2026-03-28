@@ -1,0 +1,17 @@
+# Prenatal diagnosis of bilateral renal agenesis.
+
+**Status:** 🤖 Machine Generated
+
+| Field | Value |
+|-------|-------|
+| **Authors** | Sara Kaffe, Lynn Godmilow, Barbara Walker, Kurt Hirschhorn |
+| **Year** | 1977 |
+| **Category** | Transitional justice |
+| **Case Study** | Spain |
+| **Relevance Score** | Pending |
+| **Citation Count** | 32 |
+| **Source** | openalex |
+
+## Abstract
+
+Memories of old conflicts often shape domestic politics long after these conflicts end. Contemporary debates about past civil wars and/or repressive regimes in different parts of the world suggest that these are sensitive topics that might increase political polarisation, particularly when transitional justice policies are implemented and political parties mobilise discontentment with such policies. One such policy recently debated in Spain is removing public symbols linked to a past civil war and subsequent authoritarian regime (i.e., Francoism). However, the empirical evidence on its impact is still limited. This data attempts to fill this gap by examining the political consequences of street renaming. Using a difference-in-differences approach, we show that the removal of Francoist street names has contributed to an increase of electoral support for a new far-right party, Vox, mainly at the expense of a traditional right-wing conservative party, PP. Our results suggest that revisiting the past can cause a backlash among those ideologically aligned with the perpetrator, and that some political parties can capitalise on this. The project is organised around three thematic areas: (i) how trust within and between social groups and towards governance institutions emerges and evolves in contexts of rising inequality; (ii) how trust in unequal societies shapes governance outcomes through two intervening factors - political behaviour and social mobilisation; and (iii) the pathways through which changes in such intervening factors may sometimes result in inclusive governance outcomes, but in the breakdown of governance at other times. Each of these areas will incorporate detailed theoretical and empirical analyses at the subnational level in four countries - Colombia, Mozambique, Pakistan and Spain - affected by rising inequalities and characterised by unstable or strained democratic institutions. The absence of systematic qualitative, quantitative and behavioural data has hindered progress in understanding the links between inequality, trust and governance in countries outside North America and Western Europe. The project seeks to compile a number of unexplored data sources and collect new data comparatively across these other countries in order to fulfil this critical gap. This data collection will involve: (i) comparative individual-level surveys to understand contemporaneous levels of trust, and attitudes towards formal and non-formal local governing institutions, (ii) behavioural experiments under different inequality and political contexts to better understand the formation of trust under different scenarios, (iii) indepth interviews with key political actors in government, members of social movements and citizen organisations to understand how inequalities affect perceptions of governance and strategies of political mobilisation, and (iv) detailed compilation of archival data that will allow us to better understand how inequalities and attitudes have evolved across time and how different historical junctures may shape the governance outcomes we observe today.
