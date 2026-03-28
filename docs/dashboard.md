@@ -1,22 +1,22 @@
 # Research Dashboard
 
-*Last updated: 2026-03-28 18:00*
+*Last updated: 2026-03-28 18:06*
 
 ## Summary
 
 | Metric | Count |
 |--------|-------|
-| Total Sources | 1590 |
+| Total Sources | 1688 |
 | Total Relationships | 0 |
 | Pending Review Items | 0 |
-| Pending Directives | 1 |
-| Completed Directives | 13 |
+| Pending Directives | 0 |
+| Completed Directives | 14 |
 
 ## Review Status
 
 | Status | Count |
 |--------|-------|
-| 🤖 Machine Generated | 1590 |
+| 🤖 Machine Generated | 1688 |
 
 ## Coverage by Case Study
 
@@ -37,6 +37,7 @@
 
 | Category | Sources | Avg Relevance |
 |----------|---------|---------------|
+| Federalism, unitarism, and autonomy models | 98 | — |
 | Civil-military relations and security sector reform | 85 | — |
 
 ### Poland
@@ -68,16 +69,12 @@
 | Religious freedom and separation of religion from state | 169 | — |
 | Constitutional design and drafting processes | 114 | — |
 
-## Active Research Directives
-
-| # | Case Study | Category | Priority | Description |
-|---|------------|----------|----------|-------------|
-| 14 | Indonesia | Federalism, unitarism, and autonomy models | 3 | Find sources on Indonesia's decentralization after the fall of Suharto, special ... |
-
 ## Recent Activity
 
 | Time | Actor | Action | Details |
 |------|-------|--------|---------|
+| 2026-03-28 15:01:32 | engine | directive_completed | +98 sources |
+| 2026-03-28 15:00:03 | wiki_export | export_complete | {'sources_exported': 1590, 'synthesis_exported': 0} |
 | 2026-03-28 14:59:42 | engine | directive_completed | +85 sources |
 | 2026-03-28 14:59:42 | engine | directive_started | {'directive_id': 14, 'case_study': 'Indonesia', 'category':  |
 | 2026-03-28 14:57:56 | engine | directive_completed | +150 sources |
@@ -96,5 +93,3 @@
 | 2026-03-28 14:48:19 | engine | directive_started | {'directive_id': 9, 'case_study': 'Czech Republic', 'categor |
 | 2026-03-28 14:48:06 | wiki_export | export_complete | {'sources_exported': 649, 'synthesis_exported': 0} |
 | 2026-03-28 14:47:33 | engine | directive_completed | +114 sources |
-| 2026-03-28 14:47:33 | engine | directive_started | {'directive_id': 8, 'case_study': 'Tunisia', 'category': 'Re |
-| 2026-03-28 14:45:51 | engine | directive_completed | +112 sources |

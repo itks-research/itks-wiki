@@ -6,7 +6,7 @@ This wiki is built and maintained by an AI research agent that continuously disc
 
 ## Quick Stats
 
-- **1590** academic sources indexed
+- **1688** academic sources indexed
 - **0** relationships mapped
 - **7** comparative case studies
 
@@ -19,7 +19,7 @@ This wiki is built and maintained by an AI research agent that continuously disc
 
 - **Chile** (150 sources)
 - **Czech Republic** (249 sources)
-- **Indonesia** (85 sources)
+- **Indonesia** (183 sources)
 - **Poland** (84 sources)
 - **South Korea** (388 sources)
 - **Spain** (351 sources)

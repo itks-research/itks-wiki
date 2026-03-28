@@ -1,0 +1,18 @@
+# Promoting learner autonomy through schoology m-learning platform in an EAP class at an Indonesian University
+
+**Status:** 🤖 Machine Generated
+
+| Field | Value |
+|-------|-------|
+| **Authors** | Priyatno Ardi |
+| **Year** | 2017 |
+| **Category** | Federalism, unitarism, and autonomy models |
+| **Case Study** | Indonesia |
+| **Relevance Score** | Pending |
+| **Citation Count** | 59 |
+| **Source** | openalex |
+| **Full Text** | [Open Access](http://repository.usd.ac.id/10239/9/Promoting%20learner%20autonomy%20through%20Schoology%20m-learning%20platform%20in%20an%20EAP%20class%20at%20an%20Indonesian%20university%20%28Internasional%20Bereputasi%20terindek%20Scopus%20Q2%29.pdf) |
+
+## Abstract
+
+The advent of mobile learning platforms and Web 2.0 technologies is believed to provide an autonomous learning space that minimizes the power structure between the teacher and students in Indonesian EFL classes, accommodating the students to display their capacity to navigate their own learning.Schoology m-learning platform, a social networking learning management system, is one of potential platforms facilitating the exercise of autonomy in English language learning.This paper aims to report how Schoology m-learning platform facilitated the exercise of learner autonomy in an EAP class at an Indonesian higher education.The qualitative case study involved twenty one-students enrolled in an EAP course that adopted a blended learning method.The findings suggested that Schoology m-learning platform helped the students to exercise autonomy in EAP learning.The students exercised their control over learning management, cognitive process, and selection of learning materials.The exercise of autonomy is due to the affordance of Schoology.First, Schoology's social networking interface facilitated interaction and communication among the students.Second, its mobile application enabled the students to learn English at their pace, time, and place.Third, the media-rich materials encouraged the students to further explore other materials online.

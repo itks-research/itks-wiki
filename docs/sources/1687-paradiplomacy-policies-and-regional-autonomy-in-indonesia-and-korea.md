@@ -1,0 +1,19 @@
+# Paradiplomacy Policies and Regional Autonomy in Indonesia and Korea
+
+**Status:** 🤖 Machine Generated
+
+| Field | Value |
+|-------|-------|
+| **Authors** | Takdir Ali Mukti, Laode Muhammad Fathun, Ali Muhammad, Stivani Ismawira Sinambela, Sugeng Riyanto |
+| **Year** | 2021 |
+| **Category** | Federalism, unitarism, and autonomy models |
+| **Case Study** | Indonesia |
+| **Relevance Score** | Pending |
+| **Citation Count** | 11 |
+| **Source** | openalex |
+| **DOI** | [10.18196/jhi.v9i2.8931](https://doi.org/10.18196/jhi.v9i2.8931) |
+| **Full Text** | [Open Access](https://journal.umy.ac.id/index.php/jhi/article/download/8931/pdf) |
+
+## Abstract
+
+This analysis focuses on the paradiplomatic policies in Indonesia and Korea. The two countries have similar characteristics, namely as unitary state systems, and enacted regional autonomy in the same era, 1998s. This qualitative research aims to examine paradiplomatic types in both countries and why the policies are rationalized. The findings revealed that although both countries are unitary states, paradiplomatic activism runs in different types. Provinces and cities in Indonesia face many restrictions and limitations by national regulations, while regional governments in Korea have more discretions and authorities to practice paradiplomacy around the world. The research finding also portrayed several provinces in Indonesia instrumentalizing paradiplomacy as instruments to provide international recognitions related to self-determination, and this similar fact is not met in Korea. This paper argues that the different types of paradiplomatic policies in both countries are influenced by domestic political conditions and typically influenced by the presence or absence of regional movements.
