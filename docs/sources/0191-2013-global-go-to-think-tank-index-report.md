@@ -1,7 +1,5 @@
 # 2013 Global Go To Think Tank Index Report
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | James G. McGann |

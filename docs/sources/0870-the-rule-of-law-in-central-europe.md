@@ -1,7 +1,5 @@
 # The Rule of Law in Central Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | J. Přibáň, J. Young |

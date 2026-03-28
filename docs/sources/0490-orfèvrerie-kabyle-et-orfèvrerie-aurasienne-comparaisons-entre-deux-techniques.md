@@ -1,7 +1,5 @@
 # Orfèvrerie kabyle et orfèvrerie aurasienne. Comparaisons entre deux techniques.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Henriette Camps-Fabrer |

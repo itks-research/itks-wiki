@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Peter Evans |
 |---|---|
 | **سال** | 1997 |

@@ -1,7 +1,5 @@
 # Implementation of the fiscal compact in the Euro area member states: Expertise on the behalf of the German Council of Economic Experts
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Heiko T. Burret, Jan Schnellenbach |

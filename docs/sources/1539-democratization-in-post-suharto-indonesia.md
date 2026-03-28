@@ -1,7 +1,5 @@
 # Democratization in Post-Suharto Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

@@ -1,7 +1,5 @@
 # Informality
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Guillermo Perry, Omar Arias, Pablo Fajnzylber, William F. Maloney, Andrew Mason, Jaime Saavedra-Chanduví |

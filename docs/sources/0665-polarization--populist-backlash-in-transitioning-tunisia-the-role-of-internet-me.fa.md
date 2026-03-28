@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Andrew Bennett |
 |---|---|
 | **سال** | 2023 |

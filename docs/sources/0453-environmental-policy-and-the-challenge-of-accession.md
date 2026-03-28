@@ -1,7 +1,5 @@
 # Environmental Policy and the Challenge of Accession
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Tanja A. Börzel |

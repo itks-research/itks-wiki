@@ -1,7 +1,5 @@
 # Insulating Russia from a Colour Revolution: How the Kremlin Resists Regional Democratic Trends
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Thomas Ambrosio |

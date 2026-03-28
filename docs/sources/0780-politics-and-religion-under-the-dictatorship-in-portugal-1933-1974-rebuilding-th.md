@@ -1,7 +1,5 @@
 # Politics and religion under the dictatorship in Portugal (1933-1974): rebuilding the separation between the State and the Church
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | P. Santos |

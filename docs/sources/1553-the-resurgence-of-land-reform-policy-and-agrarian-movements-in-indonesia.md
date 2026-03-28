@@ -1,7 +1,5 @@
 # The Resurgence of Land Reform Policy and Agrarian Movements in Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Noer Fauzi Rachman |

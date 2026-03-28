@@ -1,7 +1,5 @@
 # China’s Engagement with DRC’s Critical Minerals Sector: Extractivism, Developmentalism, and the Quest for a Just Transition
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Wei Shen, C.X. Fu |

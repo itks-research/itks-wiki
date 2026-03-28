@@ -1,7 +1,5 @@
 # The Appointment of Acting (Contract) Judges and Judicial Independence in Uganda: Understanding Article 142 of the Constitution in Light of its Drafting History
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | J. Mujuzi |

@@ -1,7 +1,5 @@
 # Corporate Governance in Korea at the Millennium: Enhancing International Competitiveness-Final Report and Legal Reform Recommendations to the Ministry of Justice of the Republic of Korea 15 May 2000
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Bernard S. Black, Barry Metzger, Timothy O'Brien, Young Moo Shin |

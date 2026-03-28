@@ -1,7 +1,5 @@
 # Larraín’s Film No and Its Inspiration, El plebiscito : Chile’s Transition to Democracy as a Simulacrum
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Irina Dzero |

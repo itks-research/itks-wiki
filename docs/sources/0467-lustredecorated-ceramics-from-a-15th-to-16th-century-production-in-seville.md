@@ -1,7 +1,5 @@
 # LUSTRE‐DECORATED CERAMICS FROM A 15TH TO 16TH CENTURY PRODUCTION IN SEVILLE*
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | A. Polvorinos del Río, J. Castaing |

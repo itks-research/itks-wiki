@@ -1,7 +1,5 @@
 # Confronting the Past: Justice After Transitions
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jamal Benomar |

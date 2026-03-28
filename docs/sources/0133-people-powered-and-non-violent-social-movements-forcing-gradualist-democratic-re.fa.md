@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Stephen Zunes |
 |---|---|
 | **سال** | 2022 |
 | **دسته‌بندی** | Constitutional design and drafting processes |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 6 |
 | **شناسه دیجیتال** | [10.3389/fpos.2021.721055](https://doi.org/10.3389/fpos.2021.721055) |
 

@@ -1,7 +1,5 @@
 # India and the Czech Republic: More Alike Than We Think?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Chinmay Pandya, Jana Kočí |

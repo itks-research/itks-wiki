@@ -1,7 +1,5 @@
 # Indigenous Data Sovereignty
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | John Taylor, Tahu Kukutai |

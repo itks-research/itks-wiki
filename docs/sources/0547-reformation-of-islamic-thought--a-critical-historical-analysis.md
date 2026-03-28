@@ -1,7 +1,5 @@
 # Reformation of Islamic Thought : A Critical Historical Analysis
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Wetenschappelijke Raad voor het Reg, Nasr Abû Zayd |

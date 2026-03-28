@@ -1,7 +1,5 @@
 # Becoming a Sangoma: Religious Anthropological Field-Work in Francistown, Botswana
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Wim van Binsbergen |

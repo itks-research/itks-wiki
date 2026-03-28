@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Cemal Karakaş |
 |---|---|
 | **سال** | 2007 |

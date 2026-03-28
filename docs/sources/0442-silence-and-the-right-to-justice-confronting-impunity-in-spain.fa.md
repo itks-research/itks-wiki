@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Rosa Ana Alija Fernández, Olga Martin‐Ortega |
 |---|---|
 | **سال** | 2017 |

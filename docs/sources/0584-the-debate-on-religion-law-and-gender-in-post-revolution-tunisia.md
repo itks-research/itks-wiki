@@ -1,7 +1,5 @@
 # The debate on religion, law and gender in post-revolution Tunisia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Amel Grami |

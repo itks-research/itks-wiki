@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Danilo Freire, David Skarbek, John Meadowcroft, Eugenia Guerrero |
 |---|---|
 | **سال** | 2019 |

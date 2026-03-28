@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Mohamed Almenfi, Ugo Gentilini, Ian Orton, Pamela Dale |
 |---|---|
 | **سال** | 2020 |

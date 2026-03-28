@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Pelin Ayan Musil, Salim Çevik |
 |---|---|
 | **سال** | 2023 |

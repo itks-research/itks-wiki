@@ -1,7 +1,5 @@
 # Conclusion: The Arab World at the Intersection of the National and Transnational
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | James L. Gelvin |

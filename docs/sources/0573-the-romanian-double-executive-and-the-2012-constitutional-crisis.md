@@ -1,7 +1,5 @@
 # The Romanian double executive and the 2012 constitutional crisis
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Vlad Perju |

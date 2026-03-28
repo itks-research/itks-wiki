@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Greg Barton, İhsan Yılmaz, Nicholas Morieson |
 |---|---|
 | **سال** | 2021 |

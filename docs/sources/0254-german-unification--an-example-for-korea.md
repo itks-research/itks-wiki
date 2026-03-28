@@ -1,7 +1,5 @@
 # German unification : an example for Korea?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Heiner Flassbeck, Gustav A. Horn |

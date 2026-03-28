@@ -1,7 +1,5 @@
 # Czech Republic 2006–2008: On President, Judges and the Lisbon Treaty
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ivo Šlosarčík |

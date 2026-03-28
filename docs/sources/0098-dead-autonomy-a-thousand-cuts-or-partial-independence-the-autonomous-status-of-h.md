@@ -1,14 +1,12 @@
 # Dead Autonomy, A Thousand Cuts or Partial Independence? The Autonomous Status of Hong Kong
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | David A. Rezvani |
 | **Year** | 2011 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 21 |
 | **Source** | openalex |
 | **DOI** | [10.1080/00472336.2012.634645](https://doi.org/10.1080/00472336.2012.634645) |

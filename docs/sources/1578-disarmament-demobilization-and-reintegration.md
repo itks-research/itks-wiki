@@ -1,7 +1,5 @@
 # Disarmament, demobilization and reintegration
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Alpaslan Özerdem |

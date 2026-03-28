@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Joanna R. Quinn |
 |---|---|
 | **سال** | 2001 |

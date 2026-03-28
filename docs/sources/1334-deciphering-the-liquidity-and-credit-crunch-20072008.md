@@ -1,7 +1,5 @@
 # Deciphering the Liquidity and Credit Crunch 2007–2008
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Markus K. Brunnermeier |

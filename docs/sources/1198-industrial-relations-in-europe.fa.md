@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | B. C. Roberts |
 |---|---|
 | **سال** | 1992 |

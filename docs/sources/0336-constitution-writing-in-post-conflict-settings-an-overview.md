@@ -1,7 +1,5 @@
 # Constitution Writing in Post-conflict Settings: An Overview
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jennifer A. Widner |

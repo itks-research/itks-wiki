@@ -1,7 +1,5 @@
 # Patterns of Empire
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Julian Go |

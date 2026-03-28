@@ -1,7 +1,5 @@
 # THE SEPARATION OF CHURCH AND STATE IN THE CURRENT PHILIPPINE CONTEXT
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | J. Sagut |

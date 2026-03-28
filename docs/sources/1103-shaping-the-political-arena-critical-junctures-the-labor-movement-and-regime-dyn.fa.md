@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Abraham F. Lowenthal, Ruth Berins Collier, David Collier |
 |---|---|
 | **سال** | 1992 |

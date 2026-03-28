@@ -1,7 +1,5 @@
 # Central European Civil-military Relations And Nato Expansion
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jeffrey Simon |

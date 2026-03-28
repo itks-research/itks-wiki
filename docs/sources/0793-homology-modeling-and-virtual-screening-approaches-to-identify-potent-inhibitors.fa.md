@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Abdelmonaem Messaoudi, Hatem Belguith, Jeannette Ben Hamida |
 |---|---|
 | **سال** | 2013 |

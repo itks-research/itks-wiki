@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Poltak Partogi Nainggolan |
 |---|---|
 | **سال** | 2012 |

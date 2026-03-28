@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ignasi Carol Abril |
 |---|---|
 | **سال** | 2026 |

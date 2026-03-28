@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Elisabeth A. Wheeler, Pieter Baas |
 |---|---|
 | **سال** | 1998 |

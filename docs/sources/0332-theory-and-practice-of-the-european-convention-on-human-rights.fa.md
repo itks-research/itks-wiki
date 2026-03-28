@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Schiedermair, Stephanie 1977-, Schwarz, Alexander 1968-, Steiger, Dominik 1978-, Nomos Verlagsgesellschaft |
 |---|---|
 | **سال** | 2021 |

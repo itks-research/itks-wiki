@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Samuel P. Huntington |
 |---|---|
 | **سال** | 1995 |

@@ -1,7 +1,5 @@
 # The Religious Legacy of Pope John Paul II during the Transition from the Communist Era
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anastasia Kulaga |

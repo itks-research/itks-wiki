@@ -1,7 +1,5 @@
 # Who Should Rule?: Men of Arms, the Republic of Letters, and the Fall of the Spanish Empire
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mónica Ricketts |

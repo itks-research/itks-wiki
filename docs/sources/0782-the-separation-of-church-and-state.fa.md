@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Stephen A. Chavura, J. Gascoigne, Ian Tregenza |
 |---|---|
 | **سال** | 2019 |

@@ -1,7 +1,5 @@
 # Rainbows, Unicorns, and Separation of Church and State in the European Union
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jonathan Fox |

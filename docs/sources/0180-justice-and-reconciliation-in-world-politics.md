@@ -1,7 +1,5 @@
 # Justice and Reconciliation in World Politics
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Catherine Lu |

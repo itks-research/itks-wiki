@@ -1,7 +1,5 @@
 # Assessing the Long-Term Impact of Truth Commissions
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anita Ferrara |

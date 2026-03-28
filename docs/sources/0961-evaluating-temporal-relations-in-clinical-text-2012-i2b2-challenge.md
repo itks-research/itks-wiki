@@ -1,7 +1,5 @@
 # Evaluating temporal relations in clinical text: 2012 i2b2 Challenge
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Weiyi Sun, Anna Rumshisky, Özlem Uzuner |

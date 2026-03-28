@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | I. Oh, Chris Rowley |
 |---|---|
 | **سال** | 2024 |

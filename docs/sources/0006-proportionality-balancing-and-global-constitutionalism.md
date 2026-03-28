@@ -1,7 +1,5 @@
 # Proportionality Balancing and Global Constitutionalism
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Alec Stone Sweet, Jud Mathews |

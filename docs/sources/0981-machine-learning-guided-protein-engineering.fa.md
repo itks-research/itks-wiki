@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Petr Kouba, Pavel Kohout, Faraneh Haddadi, Anton Bushuiev, Raman Samusevich, Jiří Sedlář, Jiřı́ Damborský, Tomáš Pluskal, Josef Šivic, Stanislav Mazurenko |
 |---|---|
 | **سال** | 2023 |

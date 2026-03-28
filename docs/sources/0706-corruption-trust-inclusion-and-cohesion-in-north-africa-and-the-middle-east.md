@@ -1,7 +1,5 @@
 # Corruption, Trust, Inclusion and Cohesion in North Africa and the Middle East
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Roger Sapsford, Gerasimos Tsourapas, Pamela Abbott, Andrea Teti |

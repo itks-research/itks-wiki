@@ -1,7 +1,5 @@
 # U.S. Military Transformation and the Lessons for South Korea on its Path Toward Defense Reform 2020
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Dov S. Zakheim |

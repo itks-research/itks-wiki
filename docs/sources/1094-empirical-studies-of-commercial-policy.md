@@ -1,7 +1,5 @@
 # Empirical Studies of Commercial Policy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Richard Baldwin |

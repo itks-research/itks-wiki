@@ -1,7 +1,5 @@
 # Institutions of International Justice
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Naomi Roht‐Arriaza |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | M. C. Mirow |
 |---|---|
 | **سال** | 2015 |

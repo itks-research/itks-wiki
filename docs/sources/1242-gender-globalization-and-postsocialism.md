@@ -1,7 +1,5 @@
 # Gender, Globalization, and Postsocialism
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jacqui True |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Sharon L. Oswald |
 |---|---|
 | **سال** | 2000 |

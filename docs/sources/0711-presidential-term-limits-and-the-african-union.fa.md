@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Micha Wiebusch, Christina Murray |
 |---|---|
 | **سال** | 2019 |

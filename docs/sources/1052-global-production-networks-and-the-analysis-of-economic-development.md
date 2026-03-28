@@ -1,7 +1,5 @@
 # Global production networks and the analysis of economic development
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jeffrey Henderson, Peter Dicken, Martin Heß, Neil M. Coe, Henry Wai‐chung Yeung |

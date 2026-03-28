@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ki‐Joo Kim |
 |---|---|
 | **سال** | 2014 |

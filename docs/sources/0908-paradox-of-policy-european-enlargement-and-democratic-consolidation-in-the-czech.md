@@ -1,7 +1,5 @@
 # Paradox of policy :European enlargement and democratic consolidation in the Czech Republic and Poland
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Lars Hällström |

@@ -1,7 +1,5 @@
 # A Market-Oriented Strategy for Small and Medium Scale Enterprises
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Kristin Hallberg |

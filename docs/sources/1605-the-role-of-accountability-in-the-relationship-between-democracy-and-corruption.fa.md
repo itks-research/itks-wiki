@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Bianca Vaz Mondo |
 |---|---|
 | **سال** | 2017 |

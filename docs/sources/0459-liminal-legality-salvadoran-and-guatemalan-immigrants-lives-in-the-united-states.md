@@ -1,7 +1,5 @@
 # Liminal Legality: Salvadoran and Guatemalan Immigrants' Lives in the United States
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Cecilia Menjívar |

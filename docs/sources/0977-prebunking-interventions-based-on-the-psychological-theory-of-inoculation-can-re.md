@@ -1,7 +1,5 @@
 # Prebunking interventions based on the psychological theory of “inoculation” can reduce susceptibility to misinformation across cultures.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jon Roozenbeek, Sander van der Linden, Thomas Nygren |

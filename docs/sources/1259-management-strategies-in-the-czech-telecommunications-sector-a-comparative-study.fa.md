@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Peter Keith Ross |
 |---|---|
 | **سال** | 2008 |

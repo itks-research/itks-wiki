@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ramón Vilarroig Moya |
 |---|---|
 | **سال** | 2017 |

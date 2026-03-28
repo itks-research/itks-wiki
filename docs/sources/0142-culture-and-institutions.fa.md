@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Alberto Alesina, Paola Giuliano |
 |---|---|
 | **سال** | 2015 |

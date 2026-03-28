@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Harvey F. Kline |
 |---|---|
 | **سال** | 1983 |

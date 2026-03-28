@@ -1,7 +1,5 @@
 # Politicians and Firms in Seven Central and Eastern European Countries
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Stijn Claessens, Simeon Djankov |

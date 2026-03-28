@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Isabel Balteiro, Miguel Ángel Campos Pardillos |
 |---|---|
 | **سال** | 2010 |

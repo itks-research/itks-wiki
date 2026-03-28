@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Nawab Khan, Ram L. Ray, Ghulam Raza Sargani, Muhammad Ihtisham, Muhammad Khayyam, Sohaib Ismail |
 |---|---|
 | **سال** | 2021 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | M. Hrabánková, I. Boháčková |
 |---|---|
 | **سال** | 2018 |

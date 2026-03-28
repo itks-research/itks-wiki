@@ -1,7 +1,5 @@
 # Indonesia: The New Regional Autonomy Laws, Two Years Later
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Gary F. Bell |

@@ -1,7 +1,5 @@
 # Bahrain: Political Development in a Modernizing Society
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Emile A. Nakhleh |

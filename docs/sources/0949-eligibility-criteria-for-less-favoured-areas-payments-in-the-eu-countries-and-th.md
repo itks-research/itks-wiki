@@ -1,7 +1,5 @@
 # Eligibility criteria for less-favoured areas payments in the EU countries and the position of the Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | M. Štolbová |

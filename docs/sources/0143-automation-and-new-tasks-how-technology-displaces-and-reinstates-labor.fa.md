@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Daron Acemoğlu, Pascual Restrepo |
 |---|---|
 | **سال** | 2019 |

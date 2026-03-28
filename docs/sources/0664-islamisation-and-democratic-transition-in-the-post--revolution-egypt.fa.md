@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ghazali Bello Abubakar |
 |---|---|
 | **سال** | 2019 |

@@ -1,7 +1,5 @@
 # The rise of digital constitutionalism in the European Union
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Giovanni De Gregorio |

@@ -1,7 +1,5 @@
 # Constitutions against Revolutions: Political Participation in North Africa
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Gianluca Parolin |

@@ -1,7 +1,5 @@
 # Comparative Analysis of Church-State Relations in Poland and Japan
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Weiyu Liu |

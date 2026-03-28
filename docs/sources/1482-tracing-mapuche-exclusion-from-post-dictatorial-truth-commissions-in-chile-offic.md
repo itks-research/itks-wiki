@@ -1,7 +1,5 @@
 # Tracing Mapuche Exclusion from Post-Dictatorial Truth Commissions in Chile: Official and Grassroots Initiatives
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Daniela Jara, Manuela Badilla Rajevic, Ana Figueiredo, Marcela Cornejo, Victoria Riveros |

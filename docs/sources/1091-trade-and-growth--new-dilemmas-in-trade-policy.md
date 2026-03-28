@@ -1,7 +1,5 @@
 # Trade and growth : new dilemmas in trade policy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Manuel R. Agosín, Diana Tussie |

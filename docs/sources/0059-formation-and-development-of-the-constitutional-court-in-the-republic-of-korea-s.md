@@ -1,7 +1,5 @@
 # FORMATION AND DEVELOPMENT OF THE CONSTITUTIONAL COURT IN THE REPUBLIC OF KOREA (SOUTH KOREA)
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Zhambayev Yeran Sagynkhanovich, Saulen Nurzhan, Sagadiev Azamat Nurlanovich |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Wendy Carlin, John Van Reenen, Toby Wolfe |
 |---|---|
 | **سال** | 1995 |

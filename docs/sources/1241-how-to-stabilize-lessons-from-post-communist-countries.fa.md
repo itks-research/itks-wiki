@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Andres Aslund, Peter Boone, Simon Johnson, Stanley Fischer, Barry W. Ickes |
 |---|---|
 | **سال** | 1996 |

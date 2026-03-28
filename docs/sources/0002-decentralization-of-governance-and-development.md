@@ -1,7 +1,5 @@
 # Decentralization of Governance and Development
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Pranab Bardhan |

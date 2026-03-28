@@ -1,14 +1,12 @@
 # System, Society and Dominance Effects in Cross-National Organisational Analysis
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Chris Smith, Peter Meiksins |
 | **Year** | 1995 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 332 |
 | **Source** | openalex |
 | **DOI** | [10.1177/095001709592002](https://doi.org/10.1177/095001709592002) |

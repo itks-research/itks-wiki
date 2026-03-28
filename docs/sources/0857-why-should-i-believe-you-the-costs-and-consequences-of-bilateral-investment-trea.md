@@ -1,7 +1,5 @@
 # Why Should I Believe You? The Costs and Consequences of Bilateral Investment Treaties
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Andrew Kerner |

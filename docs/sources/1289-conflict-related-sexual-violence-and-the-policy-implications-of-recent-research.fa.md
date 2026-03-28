@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Elisabeth Jean Wood |
 |---|---|
 | **سال** | 2014 |

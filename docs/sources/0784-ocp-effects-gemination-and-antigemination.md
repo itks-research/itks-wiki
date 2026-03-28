@@ -1,7 +1,5 @@
 # OCP effects: Gemination and antigemination
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | John J. McCarthy |

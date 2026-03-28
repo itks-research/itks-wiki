@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | John Ferejohn, Pasquale Pasquino |
 |---|---|
 | **سال** | 2004 |

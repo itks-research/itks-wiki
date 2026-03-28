@@ -1,7 +1,5 @@
 # The Sale of Juros and the Politics of Reform in the Viceroyalty of Peru, 1608–1695
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Kenneth J. Andrien |

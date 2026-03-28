@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | R. Babuka, A. Sujová, V. Kupčák |
 |---|---|
 | **سال** | 2020 |

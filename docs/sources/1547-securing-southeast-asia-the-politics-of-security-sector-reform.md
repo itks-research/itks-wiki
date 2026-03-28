@@ -1,7 +1,5 @@
 # Securing Southeast Asia: The Politics of Security Sector Reform
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mark Beeson, Alex J. Bellamy |

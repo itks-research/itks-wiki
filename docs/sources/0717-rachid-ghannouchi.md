@@ -1,7 +1,5 @@
 # Rachid Ghannouchi
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Azzam Tamimi |

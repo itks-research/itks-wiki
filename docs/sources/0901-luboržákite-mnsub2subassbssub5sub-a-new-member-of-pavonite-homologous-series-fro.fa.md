@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Anatoly V. Kasatkin, Emil Makovicky, Jakub Plášil, Radek Škoda, Atali A. Agakhanov, S. Yu. Stepanov, Р. С. Паламарчук |
 |---|---|
 | **سال** | 2020 |

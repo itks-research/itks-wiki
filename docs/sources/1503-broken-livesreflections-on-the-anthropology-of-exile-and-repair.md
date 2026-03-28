@@ -1,7 +1,5 @@
 # Broken Lives?Reflections on the Anthropology of Exile and Repair
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | David Lumsden |

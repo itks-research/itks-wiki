@@ -1,7 +1,5 @@
 # Corporate Governance and Firm Legitimacy: Chaebol Governance and Political Corruption in South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | I. Oh, Chris Rowley |

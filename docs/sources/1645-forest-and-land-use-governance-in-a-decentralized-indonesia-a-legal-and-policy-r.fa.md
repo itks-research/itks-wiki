@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Fitrian Ardiansyah, Marthen A.A., N. Amalia |
 |---|---|
 | **سال** | 2015 |

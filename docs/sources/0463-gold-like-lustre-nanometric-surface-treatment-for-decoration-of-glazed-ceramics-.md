@@ -1,7 +1,5 @@
 # Gold like lustre: Nanometric surface treatment for decoration of glazed ceramics in ancient Islam, Moresque Spain and Renaissance Italy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Évelyne Darque-Ceretti, D. Hélary, Anne Bouquillon, M. Aucouturier |

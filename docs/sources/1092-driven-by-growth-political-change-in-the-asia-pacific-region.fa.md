@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Donald S. Zagoria, James William Morley |
 |---|---|
 | **سال** | 1993 |

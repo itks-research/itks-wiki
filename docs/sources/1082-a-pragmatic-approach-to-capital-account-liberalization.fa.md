@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Eswar Prasad, Raghuram G. Rajan |
 |---|---|
 | **سال** | 2008 |

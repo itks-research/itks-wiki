@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | M. T. Valenzuela, Jaime Mañalich, Jorge Díaz, Itziar Linazasoro, Luis Castillo, Á. Morales, Rodolfo Villena |
 |---|---|
 | **سال** | 2019 |

@@ -1,14 +1,12 @@
 # The reform of intergovernmental fiscal relations in developing and emerging market economies
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anwar Shah |
 | **Year** | 1994 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Federalism, unitarism, and autonomy models |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 389 |
 | **Source** | openalex |
 | **DOI** | [10.1596/0-8213-2836-0](https://doi.org/10.1596/0-8213-2836-0) |

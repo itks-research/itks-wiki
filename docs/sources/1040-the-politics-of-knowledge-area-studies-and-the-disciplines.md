@@ -1,7 +1,5 @@
 # The Politics of Knowledge: Area Studies and the Disciplines
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | David L Szanton |

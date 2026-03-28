@@ -1,7 +1,5 @@
 # Amnesties, Pardons and Transitional Justice
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Roldán Jimeno Aranguren |

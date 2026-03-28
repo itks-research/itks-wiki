@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Irene Martín, Ignacio Urquizu–Sancho |
 |---|---|
 | **سال** | 2012 |

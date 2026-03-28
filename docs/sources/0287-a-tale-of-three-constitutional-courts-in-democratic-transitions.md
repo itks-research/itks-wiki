@@ -1,7 +1,5 @@
 # A Tale of Three Constitutional Courts in Democratic Transitions
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Darinka Piqani |

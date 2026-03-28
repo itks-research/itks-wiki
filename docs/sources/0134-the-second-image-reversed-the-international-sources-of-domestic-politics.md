@@ -1,14 +1,12 @@
 # The second image reversed: the international sources of domestic politics
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Peter Gourevitch |
 | **Year** | 1978 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 1579 |
 | **Source** | openalex |
 | **DOI** | [10.1017/s002081830003201x](https://doi.org/10.1017/s002081830003201x) |

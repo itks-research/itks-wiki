@@ -1,7 +1,5 @@
 # Second Round Reform. Devolution and constitutional reform in the United Kingdom, Spain and Italy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Michael Keating |

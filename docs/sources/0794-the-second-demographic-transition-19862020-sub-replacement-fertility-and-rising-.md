@@ -1,7 +1,5 @@
 # The second demographic transition, 1986–2020: sub-replacement fertility and rising cohabitation—a global update
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ronny Lesthaeghe |

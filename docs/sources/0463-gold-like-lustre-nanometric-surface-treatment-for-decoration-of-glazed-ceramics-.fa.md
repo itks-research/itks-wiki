@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Évelyne Darque-Ceretti, D. Hélary, Anne Bouquillon, M. Aucouturier |
 |---|---|
 | **سال** | 2005 |

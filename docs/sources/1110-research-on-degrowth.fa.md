@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Giorgos Kallis, Vasilis Kostakis, Steffen Lange, Barbara Muraca, Susan Paulson, Matthias Schmelzer |
 |---|---|
 | **سال** | 2018 |

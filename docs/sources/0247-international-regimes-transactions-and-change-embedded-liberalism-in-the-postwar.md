@@ -1,7 +1,5 @@
 # International regimes, transactions, and change: embedded liberalism in the postwar economic order
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | John Gerard Ruggie |

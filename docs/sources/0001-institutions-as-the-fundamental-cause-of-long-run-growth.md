@@ -1,7 +1,5 @@
 # Institutions as the Fundamental Cause of Long-Run Growth
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Daron Acemoğlu, Simon Johnson, James A. Robinson |

@@ -1,14 +1,12 @@
 # Diaspora and Transnationalism : Concepts, Theories and Methods
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rainer Bauböck, Bauböck, R., Faist, T. |
 | **Year** | 2010 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Civil society development |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 750 |
 | **Source** | openalex |
 | **DOI** | [10.5117/9789089642387](https://doi.org/10.5117/9789089642387) |

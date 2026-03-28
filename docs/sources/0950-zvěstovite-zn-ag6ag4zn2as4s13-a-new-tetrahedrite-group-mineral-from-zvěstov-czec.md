@@ -1,7 +1,5 @@
 # Zvěstovite-(Zn), Ag6(Ag4Zn2)As4S13, a new tetrahedrite-group mineral from Zvěstov, Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | J. Sejkora, C. Biagioni, L. Vrtiška, Y. Moëlo |

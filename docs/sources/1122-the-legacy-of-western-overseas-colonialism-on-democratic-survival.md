@@ -1,7 +1,5 @@
 # The Legacy of Western Overseas Colonialism on Democratic Survival
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Michaël Bernhard, Christopher Reenock, Timothy Nordstrom |

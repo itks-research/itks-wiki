@@ -1,7 +1,5 @@
 # Irrigation and Society in Medieval Valencia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Thomas F. Glick |

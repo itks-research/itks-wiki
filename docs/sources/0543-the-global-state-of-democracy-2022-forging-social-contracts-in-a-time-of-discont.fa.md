@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | International Institute for Democracy and Electoral Assistance (International IDEA) |
 |---|---|
 | **سال** | 2022 |

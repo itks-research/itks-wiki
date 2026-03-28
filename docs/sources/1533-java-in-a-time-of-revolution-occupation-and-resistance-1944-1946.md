@@ -1,7 +1,5 @@
 # Java in a Time of Revolution. Occupation and Resistance 1944-1946.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Harold Crouch, Benedict Anderson |

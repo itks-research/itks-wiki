@@ -1,7 +1,5 @@
 # Modernist Islamic Political Thought and the Egyptian and Tunisian Revolutions of 2011
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mohammad Fadel |

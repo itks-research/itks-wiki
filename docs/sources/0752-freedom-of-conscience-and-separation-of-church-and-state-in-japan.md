@@ -1,7 +1,5 @@
 # Freedom of Conscience and Separation of Church and State in Japan
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

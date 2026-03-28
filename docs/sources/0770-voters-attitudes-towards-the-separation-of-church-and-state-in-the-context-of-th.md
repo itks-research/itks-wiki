@@ -1,7 +1,5 @@
 # Voters’ Attitudes towards the Separation of Church and State in the Context of the Left–Right Division on the Polish Political Scene
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Łukasz Tomczak, R. Iwański |

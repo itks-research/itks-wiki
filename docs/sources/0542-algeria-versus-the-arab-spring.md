@@ -1,7 +1,5 @@
 # Algeria versus the Arab Spring
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Frédéric Volpi |

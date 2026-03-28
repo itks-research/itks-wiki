@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Arnold B. Bakker, Jari Hakanen, Evangelia Demerouti, Despoina Xanthopoulou |
 |---|---|
 | **سال** | 2007 |

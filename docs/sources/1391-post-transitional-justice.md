@@ -1,7 +1,5 @@
 # Post-transitional Justice
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Cath Collins |

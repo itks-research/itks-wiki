@@ -1,7 +1,5 @@
 # The Tunisian transition: the evolving face of the second republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Fatima El Issawi |

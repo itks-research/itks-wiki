@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | M. Martínez-Sanguinetti, A. Leiva, F. Petermann-Rocha, C. Troncoso-Pantoja, Marcelo Villagrán, Fabián Lanuza-Rilling, G. Nazar, Felipe Poblete-valderrama, Ximena Díaz-Martínez, Carlos Celis-Morales |
 |---|---|
 | **سال** | 2019 |

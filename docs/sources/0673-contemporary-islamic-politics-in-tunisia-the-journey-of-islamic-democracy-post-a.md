@@ -1,7 +1,5 @@
 # Contemporary Islamic Politics in Tunisia: The Journey of Islamic Democracy Post-Arab Spring
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ahmad Ash Shiddieqy, Padlan Padil Simamora, Dinda Difia Madina |

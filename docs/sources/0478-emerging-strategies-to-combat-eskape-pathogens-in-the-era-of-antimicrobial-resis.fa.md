@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Mansura S. Mulani, Ekta E. Kamble, Shital N. Kumkar, Madhumita S. Tawre, Karishma R. Pardesi |
 |---|---|
 | **سال** | 2019 |

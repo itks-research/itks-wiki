@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Daniel Gunnar Kressel |
 |---|---|
 | **سال** | 2019 |

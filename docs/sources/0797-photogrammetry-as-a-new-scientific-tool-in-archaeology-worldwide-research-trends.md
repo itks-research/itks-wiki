@@ -1,7 +1,5 @@
 # Photogrammetry as a New Scientific Tool in Archaeology: Worldwide Research Trends
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Carmen Marín‐Buzón, Antonio Pérez-Romero, José Luis López-Castro, Imed Ben Jerbania, Francisco Manzano‐Agugliaro |

@@ -1,7 +1,5 @@
 # Military Reform: Informal Military Power in Indonesian Politics After 1998
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Khairurrizqo Khairurrizqo |

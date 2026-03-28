@@ -1,7 +1,5 @@
 # Alumolukrahnite, CaCu2+Al(AsO4)2(OH)(H2O), the aluminium analogue of lukrahnite from the Jote mine, Copiapó Province, Chile
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | A. R. Kampf, S. Mills, B. Nash, M. Dini, A. A. M. Donoso |

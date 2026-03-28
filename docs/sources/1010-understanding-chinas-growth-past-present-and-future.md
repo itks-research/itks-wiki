@@ -1,7 +1,5 @@
 # Understanding China's Growth: Past, Present, and Future
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Xiaodong Zhu |

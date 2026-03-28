@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jewellord T. Nem Singh |
 |---|---|
 | **سال** | 2024 |

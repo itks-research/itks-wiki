@@ -1,7 +1,5 @@
 # ‘Bottom-up’ planning in Indonesia: decentralization in the ministry of health
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Thomas J. Bossert, R SOEBEKTI, N Saravana Amutha Kumara |

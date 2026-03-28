@@ -1,7 +1,5 @@
 # Fiscal decentralization and regional income inequality: evidence from Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Matondang Elsa Siburian |

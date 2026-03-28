@@ -1,7 +1,5 @@
 # Russia's Far East: A Region at Risk
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Robert Legvold, Judith Thornton, Charles E. Ziegler |

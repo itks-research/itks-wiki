@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Thomas Ambrosio |
 |---|---|
 | **سال** | 2007 |

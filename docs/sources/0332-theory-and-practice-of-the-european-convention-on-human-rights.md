@@ -1,7 +1,5 @@
 # Theory and Practice of the European Convention on Human Rights
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Schiedermair, Stephanie 1977-, Schwarz, Alexander 1968-, Steiger, Dominik 1978-, Nomos Verlagsgesellschaft |

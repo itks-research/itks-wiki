@@ -1,7 +1,5 @@
 # Korea's Recovery since the 1997/98 Financial Crisis: The Last Stage of the Developmental State
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Thomas Kalinowski |

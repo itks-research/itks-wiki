@@ -1,7 +1,5 @@
 # World Development Indicators 2008
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | World Bank |

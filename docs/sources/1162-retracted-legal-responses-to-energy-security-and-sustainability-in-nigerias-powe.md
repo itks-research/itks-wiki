@@ -1,7 +1,5 @@
 # RETRACTED: Legal responses to energy security and sustainability in Nigeria's power sector amidst fossil fuel disruptions and low carbon energy transition
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Olusola Joshua Olujobi, Uchechukwu Emena Okorie, Elizabeta Smaranda Olarinde, Adetutu Deborah Aina-Pelemo |

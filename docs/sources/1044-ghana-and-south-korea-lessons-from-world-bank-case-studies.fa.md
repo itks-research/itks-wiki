@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Herbert H. Werlin |
 |---|---|
 | **سال** | 1991 |

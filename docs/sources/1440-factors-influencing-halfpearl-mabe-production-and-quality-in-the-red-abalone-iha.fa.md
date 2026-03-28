@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Alejandro Rojas‐Figueroa, Rubén Araya, Héctor Acosta‐Salmón, Felipe Chávez‐Contreras, Nadia L. Ortiz‐Cornejo, Pedro E. Saucedo |
 |---|---|
 | **سال** | 2019 |

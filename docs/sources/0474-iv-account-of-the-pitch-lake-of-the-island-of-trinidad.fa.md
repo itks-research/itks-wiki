@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Nicholas Nugent |
 |---|---|
 | **سال** | 1811 |

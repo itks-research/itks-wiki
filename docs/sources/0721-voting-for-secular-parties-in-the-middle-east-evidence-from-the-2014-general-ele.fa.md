@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | H. Ege Özen |
 |---|---|
 | **سال** | 2018 |

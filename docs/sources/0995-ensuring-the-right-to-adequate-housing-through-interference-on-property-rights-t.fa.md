@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Bledar Abdurrahmani |
 |---|---|
 | **سال** | 2024 |

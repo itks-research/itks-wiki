@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Esen Kirdiş |
 |---|---|
 | **سال** | 2019 |

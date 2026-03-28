@@ -1,7 +1,5 @@
 # International Intervention and the Severity of Genocides and Politicides
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Matthew Krain |

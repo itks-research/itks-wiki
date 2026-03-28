@@ -1,7 +1,5 @@
 # Hybridity, or the Cultural Logic of Globalization
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Marwan M. Kraidy |

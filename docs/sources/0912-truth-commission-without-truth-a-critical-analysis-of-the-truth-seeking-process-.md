@@ -1,7 +1,5 @@
 # Truth Commission without Truth: A Critical Analysis of the Truth-Seeking Process in the Central African Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | R. K. Ndiyun, R. Mukonza |

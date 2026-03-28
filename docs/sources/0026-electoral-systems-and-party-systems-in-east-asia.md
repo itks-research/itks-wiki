@@ -1,7 +1,5 @@
 # Electoral Systems and Party Systems in East Asia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Benjamin Reilly |

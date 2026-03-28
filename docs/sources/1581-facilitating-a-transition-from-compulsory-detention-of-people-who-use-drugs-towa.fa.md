@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Pascal Tanguay, Adeeba Kamarulzaman, Apinun Aramrattana, Alex Wodak, Nicholas M. Thomson, Robert Ali, Gino Vumbaca, Gloria Lai, Anand Chabungbam |
 |---|---|
 | **سال** | 2015 |

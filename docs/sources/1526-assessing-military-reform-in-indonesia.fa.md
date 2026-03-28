@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Leonard C. Sebastian, Iis Gindarsah |
 |---|---|
 | **سال** | 2013 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Sonia Livingstone, Leslie Haddon, Anke Görzig, Kjartan Ólafsson |
 |---|---|
 | **سال** | 2011 |

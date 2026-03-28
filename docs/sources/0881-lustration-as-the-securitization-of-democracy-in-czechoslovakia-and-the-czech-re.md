@@ -1,7 +1,5 @@
 # Lustration as the securitization of democracy in Czechoslovakia and the Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Kieran Williams |

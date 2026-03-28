@@ -1,7 +1,5 @@
 # The state after communism
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Barbara Nunberg, Luca Barbone, Hans-Urlich Derlien |

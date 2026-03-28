@@ -1,7 +1,5 @@
 # A Journey of Family Law Reform in Korea: Tradition, Equality, and Social Change
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Hyunah Yang |

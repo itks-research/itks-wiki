@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Arvid J. Lukauskas, Susan Minushkin |
 |---|---|
 | **سال** | 2000 |

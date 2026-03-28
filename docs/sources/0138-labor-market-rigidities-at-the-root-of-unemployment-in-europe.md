@@ -1,7 +1,5 @@
 # Labor Market Rigidities: At the Root of Unemployment in Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Horst Siebert |

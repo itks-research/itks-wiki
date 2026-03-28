@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Xiaoqiao Zeng, Matthew Li, Deia Abd El‐Hady, Wael Alshitari, Abdullah S. Al‐Bogami, Jun Lü, Khalil Amine |
 |---|---|
 | **سال** | 2019 |

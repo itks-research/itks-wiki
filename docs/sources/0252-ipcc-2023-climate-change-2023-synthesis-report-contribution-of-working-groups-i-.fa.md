@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Katherine Calvin, Dipak Dasgupta, Gerhard Krinner, Aditi Mukherji, Peter Thorne, Christopher H. Trisos, José Romero, Paulina Aldunce, Ko Barrett, Gabriel Blanco, William W. L. Cheung, Sarah Connors, Fatima Denton, Aïda Diongue‐Niang, David Dodman, Matthias Garschagen, Oliver Geden, Bronwyn Hayward, Chris Jones, Frank Jotzo, Thelma Krug, Rodel D. Lasco, Yune-Yi Lee, Valérie Masson‐Delmotte, Malte Meinshausen, Katja Mintenbeck, Abdalah Mokssit, Friederike E. L. Otto, Minal Pathak, Anna Pirani, Elvira S. Poloczanska, Hans‐Otto Pörtner, Aromar Revi, Debra Roberts, Joyashree Roy, Alex C. Ruane, Jim Skea, P.R. Shukla, Raphael Slade, Aimée B. A. Slangen, Youba Sokona, Anna A. Sörensson, Melinda Tignor, Detlef P. van Vuuren, Yi‐Ming Wei, Harald Winkler, Panmao Zhai, Zinta Zommers, Jean-Charles Hourcade, Francis X. Johnson, Shonali Pachauri, Nicholas P. Simpson, Chandni Singh, Adelle Thomas, Edmond Totin, Andrés Alegría, Kyle C. Armour, Birgit Bednar‐Friedl, Kornelis Blok, Guéladio Cissé, Frank Dentener, Siri Eriksen, Erich Fischer, Gregory G. Garner, Céline Guivarch, Marjolijn Haasnoot, Gerrit Hansen, Mathias Hauser, Ed Hawkins, Tim H. J. Hermans, Robert E. Kopp, Noëmie Leprince-Ringuet, Jared Lewis, Débora Ley, Chloé Ludden, Leila Niamir, Zebedee Nicholls, Shreya Some, Sophie Szopa, Blair Trewin, Kaj-Ivar van der Wijst, Gundula Winter, Maximilian Witting, Arlene Birt, Meeyoung Ha |
 |---|---|
 | **سال** | 2023 |

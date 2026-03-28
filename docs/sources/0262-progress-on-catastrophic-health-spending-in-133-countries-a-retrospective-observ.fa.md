@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Adam Wagstaff, Gabriela Flores, Justine Hsu, Marc‐François Smitz, Kateryna Chepynoga, Leander R. Buisman, Kim van Wilgenburg, Patrick Eozenou |
 |---|---|
 | **سال** | 2017 |

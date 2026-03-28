@@ -1,7 +1,5 @@
 # 377 and the Unnatural Afterlife of British Colonialism in Asia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Douglas Sanders |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Asli Demirgüç‐Kunt, Leora Klapper |
 |---|---|
 | **سال** | 2013 |

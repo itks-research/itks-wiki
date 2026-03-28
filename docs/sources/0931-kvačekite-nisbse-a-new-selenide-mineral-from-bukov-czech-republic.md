@@ -1,7 +1,5 @@
 # Kvačekite, NiSbSe, a new selenide mineral from Bukov, Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Petr Pauliš, Z. Dolníček, J. Sejkora, O. Pour, F. Laufek, J. Ulmanová, A. Vymazalová |

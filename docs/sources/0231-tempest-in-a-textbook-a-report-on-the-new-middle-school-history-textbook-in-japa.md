@@ -1,7 +1,5 @@
 # Tempest in a Textbook: A Report on the New Middle-School History Textbook in Japan
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | John K. Nelson |

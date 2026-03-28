@@ -1,7 +1,5 @@
 # [Epidemiology of cysticercosis in Chile].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Alan Oyarce, Salvador Ayala, M. Canals |

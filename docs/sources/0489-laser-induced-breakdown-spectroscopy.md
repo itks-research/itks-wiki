@@ -1,7 +1,5 @@
 # Laser Induced Breakdown Spectroscopy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Célio Pasquini, Juliana Cortez, Lucas M.C. Silva, Fabiano Barbieri Gonzaga |

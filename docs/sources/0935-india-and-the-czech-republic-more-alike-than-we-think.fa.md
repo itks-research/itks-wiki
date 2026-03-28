@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Chinmay Pandya, Jana Kočí |
 |---|---|
 | **سال** | 2026 |

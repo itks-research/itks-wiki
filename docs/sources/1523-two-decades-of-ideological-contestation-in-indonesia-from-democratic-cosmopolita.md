@@ -1,7 +1,5 @@
 # Two Decades of Ideological Contestation in Indonesia: From Democratic Cosmopolitanism to Religious Nationalism
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | David Bourchier |

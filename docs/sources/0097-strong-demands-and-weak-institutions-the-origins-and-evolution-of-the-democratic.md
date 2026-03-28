@@ -1,14 +1,12 @@
 # Strong Demands and Weak Institutions: The Origins and Evolution of the Democratic Deficit in the Philippines
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Paul D. Hutchcroft, Joel Rocamora |
 | **Year** | 2003 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 248 |
 | **Source** | openalex |
 | **DOI** | [10.1017/s1598240800001363](https://doi.org/10.1017/s1598240800001363) |

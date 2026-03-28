@@ -1,7 +1,5 @@
 # Leverettite from the Torrecillas mine, Iquique Provence, Chile: the Co-analogue of herbertsmithite
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anthony R. Kampf, M. J. Sciberras, Peter A. Williams, Maurizio Dini, Arturo A. Molina Donoso |

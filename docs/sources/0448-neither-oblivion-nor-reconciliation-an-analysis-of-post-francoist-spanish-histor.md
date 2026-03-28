@@ -1,7 +1,5 @@
 # Neither oblivion nor reconciliation. An analysis of post-Francoist Spanish historical memory and Transitional Justice
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Iván Escobar Fernández |

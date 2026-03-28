@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jordi Molas‐Gallart |
 |---|---|
 | **سال** | 1997 |

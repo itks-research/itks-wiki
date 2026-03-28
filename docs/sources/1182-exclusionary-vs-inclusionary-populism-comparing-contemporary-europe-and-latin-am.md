@@ -1,7 +1,5 @@
 # Exclusionary vs. Inclusionary Populism: Comparing Contemporary Europe and Latin America
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Cas Mudde, Cristóbal Rovira Kaltwasser |

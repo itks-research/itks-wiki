@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Mustafa Kutlay, Zіya Önіş |
 |---|---|
 | **سال** | 2021 |

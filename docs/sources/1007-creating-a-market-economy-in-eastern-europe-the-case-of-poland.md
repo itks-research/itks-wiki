@@ -1,7 +1,5 @@
 # Creating a Market Economy in Eastern Europe: The Case of Poland
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | David Lipton, Jeffrey D. Sachs, Stanley Fischer, János Kornai |

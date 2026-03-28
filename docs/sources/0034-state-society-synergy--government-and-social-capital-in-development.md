@@ -1,7 +1,5 @@
 # State-society synergy : government and social capital in development
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Peter Evans |

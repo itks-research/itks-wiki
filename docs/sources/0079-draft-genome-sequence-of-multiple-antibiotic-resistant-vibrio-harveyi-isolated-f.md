@@ -1,14 +1,12 @@
 # Draft genome sequence of multiple antibiotic-resistant Vibrio harveyi isolated from diseased olive flounder (Paralichthys olivaceus) farmed in South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Yusun Kang, Nameun Kim, Yoonhang Lee, Jiyeon Park, Hyo‐Young Kang, Ju-Yeop Lee, Soo-Ji Woo, A. Kim, Soo-Jin Kim, Myoung-Sug Kim, Miyoung Cho, Do‐Hyung Kim |
 | **Year** | 2024 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 2 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1128/mra.00886-23](https://doi.org/10.1128/mra.00886-23) |

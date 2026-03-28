@@ -1,7 +1,5 @@
 # Reconciling Order and Justice? New Institutional Solutions in Post-Conflict States
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Leslie Vinjamuri, Michelle Sieff |

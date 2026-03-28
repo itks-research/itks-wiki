@@ -1,7 +1,5 @@
 # The Legitimacy of International Law: A Constitutionalist Framework of Analysis
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mattias Kumm |

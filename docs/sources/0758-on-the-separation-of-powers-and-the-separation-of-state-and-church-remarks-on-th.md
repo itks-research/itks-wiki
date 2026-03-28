@@ -1,7 +1,5 @@
 # On the separation of powers and the separation of state and Church: Remarks on the resignation of the Hungarian president
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Lóránt Csink |

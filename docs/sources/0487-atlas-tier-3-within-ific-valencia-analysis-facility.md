@@ -1,7 +1,5 @@
 # ATLAS Tier-3 within IFIC-Valencia analysis facility
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | M. Villaplana Perez, S. González de la Hoz, Álvaro Fernández Casaní, J. Salt, Alejandro Lamas, F. Fassi, M. Kaci, Eduardo Oliver, J. Sánchez, Vanessa Sánchez‐Martínez |

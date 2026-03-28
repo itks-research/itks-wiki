@@ -1,7 +1,5 @@
 # Linking Disconnected Spaces or Venue Shopping? Trade-Offs in Participatory Opportunities in the EU
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Luis Bouza García |

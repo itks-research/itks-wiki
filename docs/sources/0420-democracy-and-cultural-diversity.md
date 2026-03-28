@@ -1,7 +1,5 @@
 # Democracy and cultural diversity
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Michael O’Neill, Dennis Austin |

@@ -1,7 +1,5 @@
 # Transforming everyday life: Islamism and social movement theory
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Cihan Tuğal |

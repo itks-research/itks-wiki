@@ -1,7 +1,5 @@
 # Women and Islamism: The Case of Rashid al-Ghannushi of Tunisia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Muhammad Mahmoud |

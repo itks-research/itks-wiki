@@ -1,7 +1,5 @@
 # South Korea’s Failure to Implement “Defense Reform 2020”
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | H. Park |

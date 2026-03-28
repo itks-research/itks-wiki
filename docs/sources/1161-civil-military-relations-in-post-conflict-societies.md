@@ -1,7 +1,5 @@
 # Civil-Military Relations in Post-Conflict Societies
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Orlando J. Pérez |

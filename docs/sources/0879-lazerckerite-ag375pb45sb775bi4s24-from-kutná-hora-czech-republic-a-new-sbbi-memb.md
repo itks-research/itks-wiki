@@ -1,7 +1,5 @@
 # Lazerckerite, Ag3.75Pb4.5(Sb7.75Bi4)S24, from Kutná Hora, Czech Republic: a new Sb–Bi member of the andorite branch of the lillianite homologous series
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | R. Pažout, Michal Dušek, J. Sejkora, J. Plášil, G. Ilinca, Z. Dolníček |

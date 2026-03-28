@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Klaus E. Meyer, Saul Estrin, Sumon Kumar Bhaumik, Mike W. Peng |
 |---|---|
 | **سال** | 2008 |

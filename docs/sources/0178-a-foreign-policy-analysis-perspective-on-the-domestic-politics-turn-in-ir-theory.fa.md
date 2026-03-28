@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Juliet Kaarbo |
 |---|---|
 | **سال** | 2015 |

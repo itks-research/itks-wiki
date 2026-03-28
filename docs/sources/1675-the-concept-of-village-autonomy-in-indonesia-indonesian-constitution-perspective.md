@@ -1,7 +1,5 @@
 # The Concept of Village Autonomy in Indonesia (Indonesian Constitution Perspective)
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rifqi Ridlo Phahlevy |

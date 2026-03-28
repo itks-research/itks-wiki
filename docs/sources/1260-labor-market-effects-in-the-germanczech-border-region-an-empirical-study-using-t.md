@@ -1,7 +1,5 @@
 # Labor market effects in the German‐Czech border region: An empirical study using the IAB employment sample (IABS)
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Michael Moritz, Margit Gröger |

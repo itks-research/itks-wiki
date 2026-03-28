@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Adam Michnik, Václav Havel |
 |---|---|
 | **سال** | 1993 |

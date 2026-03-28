@@ -1,7 +1,5 @@
 # The Secular-Religious Competition Perspective in Comparative Perspective
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jonathan Fox |

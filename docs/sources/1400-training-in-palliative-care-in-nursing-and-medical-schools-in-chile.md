@@ -1,7 +1,5 @@
 # [Training in palliative care in nursing and medical schools in Chile].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Aintzane Gallastegui-Brana, Denisse Parra-Giordano, P. Perez-Cruz |

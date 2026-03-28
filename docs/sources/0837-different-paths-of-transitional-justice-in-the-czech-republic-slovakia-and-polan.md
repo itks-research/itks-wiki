@@ -1,7 +1,5 @@
 # Different Paths of Transitional Justice in the Czech Republic, Slovakia and Poland
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Katarína Šipulová, Vít Hloušek |

@@ -1,14 +1,12 @@
 # Whole genome sequence data of Galbitalea sp. strain isolated from gut of Spodoptera litura (Lepidoptera: Noctuidae) in South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jihoon Kim, Kyong-Hee Nam, Jun-Woo Lee, Seong-Jun Chun |
 | **Year** | 2024 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1016/j.dib.2024.111127](https://doi.org/10.1016/j.dib.2024.111127) |

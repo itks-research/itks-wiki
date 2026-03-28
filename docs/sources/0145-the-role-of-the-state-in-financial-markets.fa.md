@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Joseph E. Stiglitz |
 |---|---|
 | **سال** | 1993 |

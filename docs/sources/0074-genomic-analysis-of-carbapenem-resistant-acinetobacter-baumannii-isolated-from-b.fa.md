@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | W. Jeon, Yoonjin Kim, J. Seo, J. Yoo, D. Moon |
 |---|---|
 | **سال** | 2024 |
 | **دسته‌بندی** | Constitutional design and drafting processes |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.3390/antibiotics13121124](https://doi.org/10.3390/antibiotics13121124) |
 

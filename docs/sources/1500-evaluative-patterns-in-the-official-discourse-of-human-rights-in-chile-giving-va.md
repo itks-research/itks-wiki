@@ -1,7 +1,5 @@
 # Evaluative patterns in the official discourse of human rights in Chile: giving value to the past and building historical memories in society
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Teresa Oteí­za |

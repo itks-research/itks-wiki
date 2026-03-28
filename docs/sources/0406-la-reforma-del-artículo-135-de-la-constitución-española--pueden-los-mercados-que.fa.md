@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | María Josefa Ridaura Martínez |
 |---|---|
 | **سال** | 2012 |

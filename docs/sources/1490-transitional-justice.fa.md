@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Alexander Laban Hinton |
 |---|---|
 | **سال** | 2019 |

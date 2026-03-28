@@ -1,7 +1,5 @@
 # How not to write a constitution: lessons from Chile
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Guillermo Larraín, Gabriel L. Negretto, Stefan Voigt |

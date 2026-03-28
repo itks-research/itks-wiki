@@ -1,7 +1,5 @@
 # [Validation of the Childhood Trauma Questionnaire-Short Form in Chile].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Alex Behn, P. Vöhringer, P. Martínez, Ana Paula Domínguez, Arantza González, M. Carrasco, S. Gloger |

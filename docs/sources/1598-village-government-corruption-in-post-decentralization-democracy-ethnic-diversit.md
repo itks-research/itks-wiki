@@ -1,7 +1,5 @@
 # Village Government Corruption in-Post Decentralization: Democracy, Ethnic Diversity and Budget Authority
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rumayya Batubara |

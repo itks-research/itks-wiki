@@ -1,7 +1,5 @@
 # Problem gambling worldwide: An update and systematic review of empirical research (2000–2015)
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Filipa Calado, Mark D. Griffiths |

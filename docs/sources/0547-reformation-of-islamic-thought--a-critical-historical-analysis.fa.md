@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Wetenschappelijke Raad voor het Reg, Nasr Abû Zayd |
 |---|---|
 | **سال** | 2006 |

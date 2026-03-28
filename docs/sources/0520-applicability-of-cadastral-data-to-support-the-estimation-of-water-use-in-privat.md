@@ -1,7 +1,5 @@
 # Applicability of cadastral data to support the estimation of water use in private swimming pools
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Albert Llausàs, Angela Hof, Nils Wolf, David Saurı́, Alexander Siegmund |

@@ -1,7 +1,5 @@
 # Women's decision-making autonomy in the household and the use of maternal health services: An Indonesian case study
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anissa Rizkianti, Tin Afifah, Ika Saptarini, Mukhammad Fajar Rakhmadi |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Adrià Rivera‐Escartin |
 |---|---|
 | **سال** | 2021 |

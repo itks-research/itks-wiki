@@ -1,7 +1,5 @@
 # Zombie socialism and the rise of neoliberalism in post-socialist Central and Eastern Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Liviu Chelcea, Oana Druţǎ |

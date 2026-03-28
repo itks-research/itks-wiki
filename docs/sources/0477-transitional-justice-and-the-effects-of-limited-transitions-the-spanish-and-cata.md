@@ -1,7 +1,5 @@
 # Transitional Justice and the Effects of Limited Transitions: The Spanish and Catalan Case
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Farid Samir Benavides-Vanegas |

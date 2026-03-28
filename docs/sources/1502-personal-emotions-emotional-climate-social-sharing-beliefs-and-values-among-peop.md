@@ -1,7 +1,5 @@
 # Personal emotions, emotional climate, social sharing, beliefs, and values among people affected and unaffected by past political violence.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Manuel Cárdenas, Darío Páez, Bernard Rimé, Marían Bilbao, Domingo Asún |

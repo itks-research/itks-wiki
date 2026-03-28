@@ -1,7 +1,5 @@
 # Paratacamite-(Mg), Cu<sub>3</sub>(Mg,Cu)Cl<sub>2</sub>(OH)<sub>6</sub>; a new substituted basic copper chloride mineral from Camerones, Chile
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anthony R. Kampf, M. J. Sciberras, Peter Leverett, Peter A. Williams, Thomas Malcherek, Jochen Schlüter, Mark D. Welch, Maurizio Dini, Arturo A. Molina Donoso |

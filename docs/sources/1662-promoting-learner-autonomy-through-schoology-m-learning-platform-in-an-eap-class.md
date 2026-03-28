@@ -1,7 +1,5 @@
 # Promoting learner autonomy through schoology m-learning platform in an EAP class at an Indonesian University
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Priyatno Ardi |

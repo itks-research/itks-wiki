@@ -1,7 +1,5 @@
 # Prenatal diagnosis of bilateral renal agenesis.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sara Kaffe, Lynn Godmilow, Barbara Walker, Kurt Hirschhorn |

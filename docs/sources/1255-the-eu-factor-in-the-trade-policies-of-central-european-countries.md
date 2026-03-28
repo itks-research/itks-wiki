@@ -1,7 +1,5 @@
 # The EU factor in the trade policies of Central European countries
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Bartłomiej Kamiński |

@@ -1,14 +1,12 @@
 # Antibiotics in the clinical pipeline in 2013
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mark S. Butler, Mark A. T. Blaskovich, Matthew A. Cooper |
 | **Year** | 2013 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 425 |
 | **Source** | openalex |
 | **DOI** | [10.1038/ja.2013.86](https://doi.org/10.1038/ja.2013.86) |

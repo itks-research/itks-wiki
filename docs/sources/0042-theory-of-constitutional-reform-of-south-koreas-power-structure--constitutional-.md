@@ -1,7 +1,5 @@
 # Theory of Constitutional Reform of South Korea's Power Structure : Constitutional Reform Directions to Overcome Limitations of the 1987 Constitution
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Man-hee Jeong |

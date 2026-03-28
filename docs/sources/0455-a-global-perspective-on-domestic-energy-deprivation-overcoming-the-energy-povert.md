@@ -1,7 +1,5 @@
 # A global perspective on domestic energy deprivation: Overcoming the energy poverty–fuel poverty binary
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Stefan Bouzarovski, Saška Petrova |

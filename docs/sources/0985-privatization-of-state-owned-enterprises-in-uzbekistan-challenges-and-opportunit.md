@@ -1,7 +1,5 @@
 # PRIVATIZATION OF STATE-OWNED ENTERPRISES IN UZBEKISTAN: CHALLENGES AND OPPORTUNITIES THROUGH IPO/SPO MECHANISMS
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Kyun Sung Tae |

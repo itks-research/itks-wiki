@@ -1,7 +1,5 @@
 # The failure of the weak state in economic liberalization: liberalization, democratization and the financial crisis in South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Yeonho Lee |

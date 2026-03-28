@@ -1,7 +1,5 @@
 # My Friends, Editors, Algorithms, and I
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Neil Thurman, Judith Moeller, Natali Helberger, Damian Trilling |

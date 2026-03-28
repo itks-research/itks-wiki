@@ -1,7 +1,5 @@
 # Can the Whole World Become Democratic? Democracy, Development, and International Policies
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Larry Diamond |

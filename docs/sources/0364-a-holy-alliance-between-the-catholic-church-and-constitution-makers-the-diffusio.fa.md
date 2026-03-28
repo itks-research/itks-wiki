@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Madalena Meyer Resende |
 |---|---|
 | **سال** | 2017 |

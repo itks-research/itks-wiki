@@ -1,14 +1,12 @@
 # Federalism as a Commitment to Preserving Market Incentives
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Yingyi Qian, Barry R. Weingast |
 | **Year** | 1997 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Federalism, unitarism, and autonomy models |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 1475 |
 | **Source** | openalex |
 | **DOI** | [10.1257/jep.11.4.83](https://doi.org/10.1257/jep.11.4.83) |

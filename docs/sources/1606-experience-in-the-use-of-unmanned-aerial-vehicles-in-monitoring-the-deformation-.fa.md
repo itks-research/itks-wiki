@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | B. Akhmedov, U.Z. Zaydulloev, G.Z. Akhmedova |
 |---|---|
 | **سال** | 2024 |

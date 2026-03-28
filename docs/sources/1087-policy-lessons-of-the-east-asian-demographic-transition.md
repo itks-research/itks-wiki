@@ -1,7 +1,5 @@
 # Policy Lessons of the East Asian Demographic Transition
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Geoffrey McNicoll |

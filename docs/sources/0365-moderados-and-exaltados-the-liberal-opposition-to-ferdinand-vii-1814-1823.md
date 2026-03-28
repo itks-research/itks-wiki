@@ -1,7 +1,5 @@
 # Moderados and Exaltados: The Liberal Opposition to Ferdinand VII, 1814-1823
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Charles Fehrenbach |

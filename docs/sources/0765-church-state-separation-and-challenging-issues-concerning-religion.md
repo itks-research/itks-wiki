@@ -1,7 +1,5 @@
 # Church-State Separation and Challenging Issues Concerning Religion
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Eric Vincent C. Batalla, Rito Baring |

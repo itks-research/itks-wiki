@@ -1,7 +1,5 @@
 # Beyond words: non‐dialogical public reason in (post) revolutionary Tunisia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Charis Boutieri |

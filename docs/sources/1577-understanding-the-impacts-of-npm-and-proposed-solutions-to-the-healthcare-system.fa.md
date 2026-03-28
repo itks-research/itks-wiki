@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Erniaty Erniaty, Harun Harun |
 |---|---|
 | **سال** | 2019 |

@@ -1,7 +1,5 @@
 # Objective comparison of particle tracking methods
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Nicolas Chenouard, Ihor Smal, Fabrice de Chaumont, Martin Maška, Ivo F. Sbalzarini, Yuanhao Gong, Janick Cardinale, Craig Carthel, Stefano Coraluppi, Mark Winter, Andrew R. Cohen, William J. Godinez, Karl Rohr, Yannis Kalaidzidis, Liang Liang, James S. Duncan, Hongying Shen, Yingke Xu, Klas E. G. Magnusson, Joakim Jaldén, Helen M. Blau, Perrine Paul‐Gilloteaux, Philippe Roudot, Charles Kervrann, François Waharte, Jean-Yves Tinévez, Spencer Shorte, Joost Willemse, Katherine Celler, Gilles P. van Wezel, Han-Wei Dan, Yuh‐Show Tsai, Carlos Ortíz-de-Solórzano, Jean‐Christophe Olivo‐Marín, Erik Meijering |

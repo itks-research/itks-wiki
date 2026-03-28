@@ -1,7 +1,5 @@
 # Secularism under Dispute: Towards Agonistic, Pluralistic, and Democratic Politics. A Latin American Perspective
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Nicolás Panotto |

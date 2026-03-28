@@ -1,7 +1,5 @@
 # Spain as a Democratic State Governed by the Rule of Law and the Catalan Secessionist Process
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Juan María Bilbao Ubillos |

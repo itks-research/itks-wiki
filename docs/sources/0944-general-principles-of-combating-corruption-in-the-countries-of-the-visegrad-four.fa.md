@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | V. Makarenko, O. Bakumov |
 |---|---|
 | **سال** | 2022 |

@@ -1,7 +1,5 @@
 # A Study on the Redesigning direction of K-Reserve Forces Considering the Priority of Combat Development subjects: Focusing on AHP analysis
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | H. Jung |

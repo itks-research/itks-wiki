@@ -1,7 +1,5 @@
 # Explaining the distinction between religious and political activism in Islamism: evidence from the Tunisian case
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | F. Merone, R. McCarthy |

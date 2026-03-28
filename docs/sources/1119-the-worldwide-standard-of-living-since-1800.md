@@ -1,7 +1,5 @@
 # The Worldwide Standard of Living Since 1800
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Richard A. Easterlin |

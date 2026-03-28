@@ -1,7 +1,5 @@
 # The Political Infeasibility of 'Thin' Constitutions: Lessons from 2003-2006 Israeli Constitutional Debates
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Hanna Lerner |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | A. Urzúa, Alejandra Caqueo-Urízar, Diego Aragón |
 |---|---|
 | **سال** | 2020 |

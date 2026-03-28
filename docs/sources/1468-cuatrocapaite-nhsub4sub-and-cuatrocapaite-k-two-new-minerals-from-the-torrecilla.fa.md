@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Anthony R. Kampf, Н. В. Чуканов, Gerhard Möhn, Maurizio Dini, Arturo A. Molina Donoso, Henrik Friis |
 |---|---|
 | **سال** | 2019 |

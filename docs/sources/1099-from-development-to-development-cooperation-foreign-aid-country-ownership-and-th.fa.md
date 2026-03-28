@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Eun Mee Kim, Pil Ho Kim, Jin‐Kyung Kim |
 |---|---|
 | **سال** | 2013 |

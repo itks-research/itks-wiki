@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Tat Yan Kong |
 |---|---|
 | **سال** | 2006 |

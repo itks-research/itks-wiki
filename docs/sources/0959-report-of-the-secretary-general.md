@@ -1,7 +1,5 @@
 # Report of the Secretary-General
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Un. Secretary-General |

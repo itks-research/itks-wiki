@@ -1,7 +1,5 @@
 # [Characterization of Salmonella Heidelberg strains isolated in Chile].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Carmen Aravena, Bárbara Valencia, A. Villegas, Ma Pilar Ortega, Alda Fernández R, Pamela Araya R, A. Saavedra, R. del Campo |

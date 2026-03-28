@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Balázs Szalontai, Changyong Choi |
 |---|---|
 | **سال** | 2012 |

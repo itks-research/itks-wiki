@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Civa Syadza Masnun |
 |---|---|
 | **سال** | 2024 |

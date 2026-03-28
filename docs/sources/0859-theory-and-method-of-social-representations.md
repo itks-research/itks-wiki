@@ -1,7 +1,5 @@
 # Theory and Method of Social Representations
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Wolfgang Wagner, Gerard Duveen, Robert M. Farr, Sandra Jovchelovitch, Fabio Lorenzi‐Cioldi, Ivana S. Marková, Diana Rose |

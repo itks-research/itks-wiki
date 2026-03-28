@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Sanjaya Lall |
 |---|---|
 | **سال** | 2000 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Cyril Ositadimma Ozor |
 |---|---|
 | **سال** | 2025 |

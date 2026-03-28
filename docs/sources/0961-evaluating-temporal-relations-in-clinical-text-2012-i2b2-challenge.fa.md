@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Weiyi Sun, Anna Rumshisky, Özlem Uzuner |
 |---|---|
 | **سال** | 2013 |

@@ -1,14 +1,12 @@
 # Quality of governance and political support in China, Japan, and South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Yida Zhai |
 | **Year** | 2020 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 21 |
 | **Source** | openalex |
 | **DOI** | [10.1177/0020852320921473](https://doi.org/10.1177/0020852320921473) |

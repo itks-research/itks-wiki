@@ -1,7 +1,5 @@
 # Globalization and the State in Central and Eastern Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jan Drahokoupil |

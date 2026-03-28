@@ -1,7 +1,5 @@
 # El griego de Toledo: pintor de lo visible y lo invisible
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Fernando Marías |

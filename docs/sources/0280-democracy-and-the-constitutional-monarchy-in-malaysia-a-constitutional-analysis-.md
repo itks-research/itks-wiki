@@ -1,7 +1,5 @@
 # Democracy and the Constitutional Monarchy in Malaysia: A Constitutional Analysis of Monarchical Discretion and Democratic Legitimacy, 1983–2022
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Samsul Kamil Osman |

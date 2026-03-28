@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Nathalie Bernardie‐Tahir, Camille Schmoll |
 |---|---|
 | **سال** | 2014 |

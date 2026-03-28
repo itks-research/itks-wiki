@@ -1,7 +1,5 @@
 # Between justice and politics: the role of the Spanish Constitutional Court in the state of autonomies
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jean‐Baptiste Harguindéguy, Gonzalo Sola Rodríguez, José Cruz-Díaz |

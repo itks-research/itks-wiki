@@ -1,7 +1,5 @@
 # First report of grapevine Flavescence dorée phytoplasma in the Czech Republic.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Š. Linhartová, K. Tománková, H. Orságová, Miroslava Hejlová, V. Čermák, Jakub Beránek, N. Mehle, Zala Kogej, A. Eichmeier |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Tim Bunnell, Michelle Ann Miller, Nicholas A. Phelps, John Taylor |
 |---|---|
 | **سال** | 2013 |

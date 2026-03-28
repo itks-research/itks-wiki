@@ -1,7 +1,5 @@
 # LEARNER AUTONOMY IN THE INDONESIAN EFL SETTINGS
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Nenden Sri Lengkanawati |

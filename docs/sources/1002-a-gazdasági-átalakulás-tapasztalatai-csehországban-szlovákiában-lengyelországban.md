@@ -1,7 +1,5 @@
 # A gazdasági átalakulás tapasztalatai Csehországban, Szlovákiában, Lengyelországban és az egykori Német Demokratikus Köztársaságban (1990-2000)
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Endre Domonkos |

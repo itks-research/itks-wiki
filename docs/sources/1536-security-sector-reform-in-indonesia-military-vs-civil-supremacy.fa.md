@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ingo Wandelt |
 |---|---|
 | **سال** | 2007 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Sahar Khamis, Katherine Vaughn |
 |---|---|
 | **سال** | 2011 |

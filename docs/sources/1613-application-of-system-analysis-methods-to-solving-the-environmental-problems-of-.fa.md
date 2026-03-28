@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Natália Fedorova, Elena Veselovskaya |
 |---|---|
 | **سال** | 2024 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Stefano Palestini, Rodrigo M. Medel |
 |---|---|
 | **سال** | 2025 |

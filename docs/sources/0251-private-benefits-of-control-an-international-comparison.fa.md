@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Alexander Dyck, Luigi Zingales |
 |---|---|
 | **سال** | 2004 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Fredrick B. Pike, David Collier |
 |---|---|
 | **سال** | 1981 |

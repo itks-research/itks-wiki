@@ -1,7 +1,5 @@
 # Human resources for health at the district level in Indonesia: the smoke and mirrors of decentralization
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Peter Heywood, Nida P Harahap |

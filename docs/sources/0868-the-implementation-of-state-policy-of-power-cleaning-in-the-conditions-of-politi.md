@@ -1,7 +1,5 @@
 # The Implementation of State Policy of Power Cleaning in the Conditions of Political Transformation: Experience of Ukraine and Countries of Central and Eastern Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | V. Goshovska, V. Goshovskyi, L. Dubchak |

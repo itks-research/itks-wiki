@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Joaquín Varela Suanzes-Carpegna |
 |---|---|
 | **سال** | 2006 |

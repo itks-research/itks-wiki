@@ -1,7 +1,5 @@
 # Catalogue of Acculturation Constructs: Descriptions of 126 Taxonomies, 1918-2003
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Floyd W. Rudmin |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Chaihark Hahm |
 |---|---|
 | **سال** | 2024 |

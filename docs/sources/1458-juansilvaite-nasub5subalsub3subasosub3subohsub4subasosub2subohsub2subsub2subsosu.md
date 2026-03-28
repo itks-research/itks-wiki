@@ -1,7 +1,5 @@
 # Juansilvaite, Na<sub>5</sub>Al<sub>3</sub>[AsO<sub>3</sub>(OH)]<sub>4</sub>[AsO<sub>2</sub>(OH)<sub>2</sub>]<sub>2</sub>(SO<sub>4</sub>)<sub>2</sub>·4H<sub>2</sub>O, a new arsenate-sulfate from the Torrecillas mine, Iquique Province, Chile
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anthony R. Kampf, Barbara P. Nash, Maurizio Dini, Arturo A. Molina Donoso |

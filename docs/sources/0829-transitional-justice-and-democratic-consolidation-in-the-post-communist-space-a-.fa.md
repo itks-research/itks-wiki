@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Yerkebulan Sairambay |
 |---|---|
 | **سال** | 2021 |

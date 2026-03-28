@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Nelson Kasfir |
 |---|---|
 | **سال** | 1992 |

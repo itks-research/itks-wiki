@@ -1,7 +1,5 @@
 # Epi + demos + cracy: Linking Political Systems and Priorities to the Magnitude of Health Inequities--Evidence, Gaps, and a Research Agenda
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jason Beckfield, Nancy Krieger |

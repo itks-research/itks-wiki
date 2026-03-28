@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Gerald E. Caiden, Kwanbo Kim |
 |---|---|
 | **سال** | 1993 |

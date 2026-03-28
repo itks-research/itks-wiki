@@ -1,7 +1,5 @@
 # Targeting of Transfers in Developing Countries
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | David Coady, Margaret Grosh, John Hoddinott |

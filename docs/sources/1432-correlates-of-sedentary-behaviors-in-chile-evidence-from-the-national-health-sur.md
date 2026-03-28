@@ -1,7 +1,5 @@
 # [Correlates of sedentary behaviors in Chile: evidence from the National Health Survey 2009-2010].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | María Adela Martínez, A. Leiva, Fanny Petermann, Alex Garrido, X. Díaz, Cristian Álvarez, Carlos Salas, C. Cristi, Fernando Rodríguez Rodríguez, N. Aguilar, Rodrigo Ramírez, Carlos Celis |

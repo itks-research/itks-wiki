@@ -1,7 +1,5 @@
 # Fairness matters: social justice and political legitimacy in post‐communist Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | James R. Kluegel, David S. Mason |

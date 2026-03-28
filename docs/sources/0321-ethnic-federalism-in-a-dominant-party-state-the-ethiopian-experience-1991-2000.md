@@ -1,7 +1,5 @@
 # Ethnic federalism in a dominant party state: The Ethiopian experience 1991-2000
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Lovise Aalen |

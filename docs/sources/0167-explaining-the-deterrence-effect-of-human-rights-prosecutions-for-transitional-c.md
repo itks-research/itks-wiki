@@ -1,7 +1,5 @@
 # Explaining the Deterrence Effect of Human Rights Prosecutions for Transitional Countries1
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Hun Joon Kim, Kathryn Sikkink |

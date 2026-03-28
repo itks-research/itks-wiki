@@ -1,7 +1,5 @@
 # Private Benefits of Control: An International Comparison
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Alexander Dyck, Luigi Zingales |

@@ -1,7 +1,5 @@
 # The Kingdom of Yugoslavia first European regional state
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Marko Pavlović |

@@ -1,7 +1,5 @@
 # Institutions matter, but which ones?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Pranab Bardhan |

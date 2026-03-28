@@ -1,7 +1,5 @@
 # Basidiolichen Multiclavula corynoides new to the Czech Republic and a remarkable occurrence of Multiclavula mucida on soil.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jiří Malíček, Lukáš Janošík, E. Mikulášková, Z. Palice |

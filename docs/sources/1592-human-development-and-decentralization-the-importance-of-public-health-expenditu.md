@@ -1,7 +1,5 @@
 # Human development and decentralization: The importance of public health expenditure
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ronald Miranda, Leonel Muinelo‐Gallo, Oriol Roca‐Sagalés |

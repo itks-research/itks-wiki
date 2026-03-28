@@ -1,7 +1,5 @@
 # The Institutional Trap in the Czech Rental Sector: Nested Circuits of Power, Space, and Inequality
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Stefan Buzar |

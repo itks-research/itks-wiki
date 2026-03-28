@@ -1,7 +1,5 @@
 # Proposals for the Separation of Church and State in the Public Debate in Poland During the 7th Term of the Polish Parliament
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Arkadiusz Fordoński |

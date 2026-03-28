@@ -1,7 +1,5 @@
 # U.S. Military Aid and the Role of Foreign Armies in Civil Politics
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jennifer Jones Cunningham |

@@ -1,7 +1,5 @@
 # CGE Modeling and Analysis of Multilateral and Regional Negotiating Options
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Drusilla K. Brown, Alan V. Deardorff, Robert M. Stern |

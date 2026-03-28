@@ -1,7 +1,5 @@
 # A review of institutional response and Covid-19 pandemic risk communication in regional autonomy system in Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Agus Supriyadi, Tao Wang, Pandu Pribadi, Mochammad Ali Mauludin, Faqih Ma’arif, Zalik Nuryana |

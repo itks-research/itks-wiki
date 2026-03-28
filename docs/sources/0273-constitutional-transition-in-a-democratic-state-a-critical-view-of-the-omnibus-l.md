@@ -1,7 +1,5 @@
 # Constitutional Transition in a Democratic State: A Critical View of the Omnibus Law Establishing Employment Copyright Law
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Arif Rahman, Ahmad Zaini, Hajani Hajani, Rendi Haerudin, Ahmad Jamaludin Jambunanda |

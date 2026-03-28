@@ -1,7 +1,5 @@
 # The reform of the fiscal framework in Spain: constitutional limits and the new public spending growth rule
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Pablo Hernández de Cos |

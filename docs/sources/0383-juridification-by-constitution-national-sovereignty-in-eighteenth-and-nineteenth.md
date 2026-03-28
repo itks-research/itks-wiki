@@ -1,7 +1,5 @@
 # Juridification by Constitution. National Sovereignty in Eighteenth and Nineteenth Century Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ulrike Müßig |

@@ -1,7 +1,5 @@
 # Transformations in economic security during old age in Korea: the implications for public-pension reform
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Young-Jun Choi |

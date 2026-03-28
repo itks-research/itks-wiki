@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Tanja Karakamisheva-Jovanovska |
 |---|---|
 | **سال** | 2024 |

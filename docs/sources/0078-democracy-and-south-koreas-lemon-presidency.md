@@ -1,14 +1,12 @@
 # Democracy and South Korea's Lemon Presidency
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Seung-Whan Choi |
 | **Year** | 2022 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 2 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1353/apr.2022.0013](https://doi.org/10.1353/apr.2022.0013) |

@@ -1,7 +1,5 @@
 # Why America's Grand Strategy Has Not Changed: Power, Habit, and the U.S. Foreign Policy Establishment
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Patrick Porter |

@@ -1,7 +1,5 @@
 # THE EVOLUTION OF LUSTRE CERAMICS FROM MANISES (VALENCIA, SPAIN) BETWEEN THE 14TH AND 18TH CENTURIES
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Angel Polvorinos, M. Aucouturier, Anne Bouquillon, J. Castaing, Josep Pérez Camps |

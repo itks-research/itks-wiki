@@ -1,7 +1,5 @@
 # The Transformation of the Arab World
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Olivier Roy |

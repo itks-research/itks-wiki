@@ -1,7 +1,5 @@
 # Does Fiscal Decentralization Encourage Corruption in Local Governments? Evidence from Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anisah Alfada |

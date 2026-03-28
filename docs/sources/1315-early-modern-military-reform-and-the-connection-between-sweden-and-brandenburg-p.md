@@ -1,7 +1,5 @@
 # Early Modern Military Reform and the Connection between Sweden and Brandenburg-Prussia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Daniel Riches |

@@ -1,7 +1,5 @@
 # Estimating the Constraints to Agricultural Trade of Developing Countries
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Evdokia Moïsé, Claire Delpeuch, Silvia Sorescu, Novella Bottini |

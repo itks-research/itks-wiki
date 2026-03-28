@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | International Finance Corporation, Multilateral Investment Guarantee Agency, World Bank |
 |---|---|
 | **سال** | 2006 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Alfred E. Kellermann, Jaap W. de Zwaan, Jenő Czuczai, Asser Instituut Colloquium Europees Recht |
 |---|---|
 | **سال** | 2001 |

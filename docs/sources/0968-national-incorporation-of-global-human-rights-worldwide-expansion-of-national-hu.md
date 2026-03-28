@@ -1,7 +1,5 @@
 # National Incorporation of Global Human Rights: Worldwide Expansion of National Human Rights Institutions, 1966-2004
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | J.-W. Koo, Francisco O. Ramírez |

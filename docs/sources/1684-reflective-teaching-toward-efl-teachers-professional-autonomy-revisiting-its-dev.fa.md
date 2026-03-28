@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Arif Husein Lubis |
 |---|---|
 | **سال** | 2018 |

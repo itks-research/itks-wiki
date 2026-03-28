@@ -1,7 +1,5 @@
 # Memory
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Steve J. Stern |

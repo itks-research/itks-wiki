@@ -1,7 +1,5 @@
 # ‘State Feminism' dan Perjuangan Wanita di Tunisia Pasca Arab Spring 2011
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mohd Irwan Syazli Saidin, NUR AMIRA ALFITRI |

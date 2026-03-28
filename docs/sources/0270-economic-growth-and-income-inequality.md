@@ -1,7 +1,5 @@
 # Economic growth and income inequality
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Michał Zaremba |

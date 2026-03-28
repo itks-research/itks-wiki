@@ -1,7 +1,5 @@
 # Post-Communist Transitional Justice at 25: Unresolved Dilemmas
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Monica Ciobanu |

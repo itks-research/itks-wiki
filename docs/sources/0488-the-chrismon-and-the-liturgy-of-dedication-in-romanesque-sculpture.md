@@ -1,7 +1,5 @@
 # The Chrismon and the Liturgy of Dedication in Romanesque Sculpture
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Peter Scott Brown |

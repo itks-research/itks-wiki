@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Nicolás Panotto |
 |---|---|
 | **سال** | 2023 |

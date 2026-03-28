@@ -1,7 +1,5 @@
 # Computer‐Mediated Collaborative Learning: Theory and Practice
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mark Warschauer |

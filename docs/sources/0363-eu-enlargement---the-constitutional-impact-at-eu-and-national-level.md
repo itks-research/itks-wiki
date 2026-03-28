@@ -1,7 +1,5 @@
 # EU Enlargement - The Constitutional Impact at EU and National Level
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Alfred E. Kellermann, Jaap W. de Zwaan, Jenő Czuczai, Asser Instituut Colloquium Europees Recht |

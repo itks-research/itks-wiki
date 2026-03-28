@@ -1,14 +1,13 @@
 # Legal Reform in Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Tom Ginsburg |
 | **Year** | 2004 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Judicial independence and rule of law |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 41 |
 | **Source** | openalex |
 | **DOI** | [10.4324/9780203479384](https://doi.org/10.4324/9780203479384) |

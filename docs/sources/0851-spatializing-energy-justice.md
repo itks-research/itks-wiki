@@ -1,7 +1,5 @@
 # Spatializing energy justice
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Stefan Bouzarovski, Neil Simcock |

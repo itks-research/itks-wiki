@@ -1,7 +1,5 @@
 # The struggle to regain effective government under democracy in Indonesia*
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ross H. McLeod |

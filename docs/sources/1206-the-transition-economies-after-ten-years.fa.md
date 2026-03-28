@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Stanley Fischer, Ratna Sahay |
 |---|---|
 | **سال** | 2000 |

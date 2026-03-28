@@ -1,7 +1,5 @@
 # ANALYSIS OF NASRID POLYCHROME CARPENTRY AT THE HALL OF THE MEXUAR PALACE, ALHAMBRA COMPLEX (GRANADA, SPAIN), COMBINING MICROSCOPIC, CHROMATOGRAPHIC AND SPECTROSCOPIC METHODS*†
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Carolina Cardell, Luis Rodrigo Rodríguez-Simón, Isabel Guerra, Antonio Sánchez‐Navas |

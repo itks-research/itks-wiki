@@ -1,7 +1,5 @@
 # Institutionalising Gender Equality in Spain: From Party Quotas to Electoral Gender Quotas
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Tània Verge |

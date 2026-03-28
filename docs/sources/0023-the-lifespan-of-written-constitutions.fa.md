@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Tom Ginsburg, Zach Elkins, James Melton |
 |---|---|
 | **سال** | 2007 |

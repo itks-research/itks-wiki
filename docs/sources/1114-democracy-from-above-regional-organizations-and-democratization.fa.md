@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | G. John Ikenberry, Jon Pevehouse |
 |---|---|
 | **سال** | 2005 |

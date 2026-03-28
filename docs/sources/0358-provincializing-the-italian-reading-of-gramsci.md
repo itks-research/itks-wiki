@@ -1,7 +1,5 @@
 # Provincializing the Italian Reading of Gramsci
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Pheng Cheah |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Wim van Oorschot, Wil Arts |
 |---|---|
 | **سال** | 2005 |

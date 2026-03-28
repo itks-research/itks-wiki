@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Adriaan Bedner |
 |---|---|
 | **سال** | 2016 |

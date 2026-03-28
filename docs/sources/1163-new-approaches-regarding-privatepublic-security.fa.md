@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Andrea Giménez-Salinas Framís |
 |---|---|
 | **سال** | 2004 |

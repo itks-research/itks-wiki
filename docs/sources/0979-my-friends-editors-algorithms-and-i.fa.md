@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Neil Thurman, Judith Moeller, Natali Helberger, Damian Trilling |
 |---|---|
 | **سال** | 2018 |

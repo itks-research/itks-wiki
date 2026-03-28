@@ -1,7 +1,5 @@
 # Language Rights and the Law in the United States and Its Territories
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Eduardo D. Faingold |

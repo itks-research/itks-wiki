@@ -1,7 +1,5 @@
 # Claims by Non-State Groups in International Law
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Benedict Kingsbury |

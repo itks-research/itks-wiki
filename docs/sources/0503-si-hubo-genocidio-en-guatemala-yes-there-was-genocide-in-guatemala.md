@@ -1,7 +1,5 @@
 # ¡Si Hubo Genocidio en Guatemala! Yes! There Was Genocide in Guatemala
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Victoria Sanford |

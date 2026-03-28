@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Wolfgang Merkel |
 |---|---|
 | **سال** | 2004 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Electoral system design and implementation |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 766 |
 | **شناسه دیجیتال** | [10.1080/13510340412331304598](https://doi.org/10.1080/13510340412331304598) |
 

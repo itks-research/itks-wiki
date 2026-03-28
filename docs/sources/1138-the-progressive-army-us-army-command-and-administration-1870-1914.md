@@ -1,7 +1,5 @@
 # The progressive army: US Army command and administration, 1870-1914
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

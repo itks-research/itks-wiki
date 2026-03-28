@@ -1,7 +1,5 @@
 # Luboržákite, Mn<sub>2</sub>AsSbS<sub>5</sub>, a new member of pavonite homologous series from Vorontsovskoe gold deposit, Northern Urals, Russia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anatoly V. Kasatkin, Emil Makovicky, Jakub Plášil, Radek Škoda, Atali A. Agakhanov, S. Yu. Stepanov, Р. С. Паламарчук |

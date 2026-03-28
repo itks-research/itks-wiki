@@ -1,7 +1,5 @@
 # Tensions and Trade-Offs In Latin America
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Michael Shifter |

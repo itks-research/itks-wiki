@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Dov S. Zakheim |
 |---|---|
 | **سال** | 2007 |

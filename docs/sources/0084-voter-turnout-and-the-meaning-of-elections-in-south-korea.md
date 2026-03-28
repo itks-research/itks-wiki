@@ -1,14 +1,12 @@
 # Voter Turnout and the Meaning of Elections in South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | C. I. Eugene Kim, Young-Whan Kihl, Doock-Kyou Chung |
 | **Year** | 1973 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Electoral system design and implementation |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 8 |
 | **Source** | openalex |
 | **DOI** | [10.2307/2642860](https://doi.org/10.2307/2642860) |

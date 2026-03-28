@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Mahlijar Azhar Mubarak, Didin Samsudin, Risa Triarisanti |
 |---|---|
 | **سال** | 2024 |

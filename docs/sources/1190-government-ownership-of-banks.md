@@ -1,7 +1,5 @@
 # Government Ownership of Banks
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rafael La Porta, Florencio López‐de‐Silanes, Andrei Shleifer |

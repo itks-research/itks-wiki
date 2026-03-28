@@ -1,7 +1,5 @@
 # Tunisian intellectuals: responses to Islamism
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Robert D. Lee |

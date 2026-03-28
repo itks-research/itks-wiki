@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Tania Abbiate, Markus Böckenförde, Veronica Federico |
 |---|---|
 | **سال** | 2017 |

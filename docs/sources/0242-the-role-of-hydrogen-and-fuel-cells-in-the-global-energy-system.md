@@ -1,7 +1,5 @@
 # The role of hydrogen and fuel cells in the global energy system
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Iain Staffell, Daniel Scamman, Anthony Velazquez Abad, Paul Balcombe, Paul E. Dodds, Paul Ekins, Nilay Shah, Kate R. Ward |

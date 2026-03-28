@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jakub Chini, Martin Kvizda, Ondřej Špetík |
 |---|---|
 | **سال** | 2023 |

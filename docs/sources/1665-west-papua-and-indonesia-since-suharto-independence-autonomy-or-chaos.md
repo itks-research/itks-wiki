@@ -1,7 +1,5 @@
 # West Papua and Indonesia Since Suharto: Independence, Autonomy or Chaos?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Peter King |

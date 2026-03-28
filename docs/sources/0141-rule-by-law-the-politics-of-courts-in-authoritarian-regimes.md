@@ -1,7 +1,5 @@
 # Rule by Law: The Politics of Courts in Authoritarian Regimes
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Tom Ginsburg, Tom Ginsburg, Tom Ginsburg, Anthony W. Pereira, Tom Ginsburg, Gordon Silverstein, Lisa Hilbink, Tamir Moustafa, Robert Barros, Beatriz Magaloni, Pierre Landry, Jennifer Widner, Peter H. Solomon, Hootan Shambayati, Hilton L. Root, Martin Shapiro |

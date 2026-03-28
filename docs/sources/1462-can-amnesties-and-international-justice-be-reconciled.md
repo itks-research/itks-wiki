@@ -1,7 +1,5 @@
 # Can Amnesties and International Justice be Reconciled?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Louise Mallinder |

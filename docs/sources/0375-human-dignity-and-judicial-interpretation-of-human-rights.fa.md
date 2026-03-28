@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Christopher McCrudden |
 |---|---|
 | **سال** | 2008 |

@@ -1,7 +1,5 @@
 # Introduction
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Alexandra Barahona de Brito, Carmen González Enríquez, Paloma Aguilar |

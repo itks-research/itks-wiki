@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Lynne Chisholm, Abrar Hasan |
 |---|---|
 | **سال** | 2010 |

@@ -1,7 +1,5 @@
 # Magnesiokoritnigite, Mg(AsO<sub>3</sub>OH)·H<sub>2</sub>O, from the Torrecillas mine, Iquique Province, Chile: the Mg-analogue of koritnigite
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anthony R. Kampf, Barbara P. Nash, Maurizio Dini, Arturo A. Molina Donoso |

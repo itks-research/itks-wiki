@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Didi Sukardi, Fatin Hamamah, Abdul Karim |
 |---|---|
 | **سال** | 2025 |

@@ -1,7 +1,5 @@
 # A history of transhumanist thought
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Nick Bostrom |

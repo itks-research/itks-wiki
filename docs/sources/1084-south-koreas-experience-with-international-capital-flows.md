@@ -1,7 +1,5 @@
 # South Korea's Experience with International Capital Flows
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Marcus Noland |

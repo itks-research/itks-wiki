@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | James Macinko, Bárbara Starfield, Leiyu Shi |
 |---|---|
 | **سال** | 2003 |

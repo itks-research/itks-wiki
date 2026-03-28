@@ -1,7 +1,5 @@
 # New data for metakirchheimerite from Jáchymov (St. Joachimsthal), Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jakub Plášil, Jiří Čejka, Jiří Sejkora, Jan Hloušek, Viktor Goliáš |

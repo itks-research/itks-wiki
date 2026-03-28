@@ -1,7 +1,5 @@
 # Organizations and Markets
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Herbert A. Simon |

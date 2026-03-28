@@ -1,7 +1,5 @@
 # Asymmetric decentralization, accommodation and separatist conflict: lessons from Aceh and Papua, Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Gabriel Lele |

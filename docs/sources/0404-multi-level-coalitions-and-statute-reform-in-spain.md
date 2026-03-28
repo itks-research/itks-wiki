@@ -1,7 +1,5 @@
 # Multi-level Coalitions and Statute Reform in Spain
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Andreu Orte, Alex Wilson |

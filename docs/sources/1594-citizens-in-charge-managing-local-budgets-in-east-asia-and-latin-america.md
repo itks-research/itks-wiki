@@ -1,7 +1,5 @@
 # Citizens in Charge: Managing Local Budgets in East Asia and Latin America
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Joaquín L. González, Mario Zolezzi, Kiyotaka Yokomichi, Nohra Rey de Marulanda, George Gray-Molina, M.Soc.Sc Pratikno, Katsuhito Imai, Tan Pek Leng, Tomoyuki Kamiyama, Clay G. Wescott, Cristina Rojas, Edel C. Guiza, Zander Navarro, Luiz Arruda Villela, Isabel Licha, Toshihiro Menju |

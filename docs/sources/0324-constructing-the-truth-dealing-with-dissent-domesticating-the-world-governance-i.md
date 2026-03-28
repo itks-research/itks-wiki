@@ -1,7 +1,5 @@
 # Constructing the truth, dealing with dissent, domesticating the world: Governance in post-genocide Rwanda
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Filip Reyntjens |

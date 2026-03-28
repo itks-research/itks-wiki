@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Mounira M. Charrad, Amina Zarrugh |
 |---|---|
 | **سال** | 2016 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Viswanath Venkatesh, James Y.L. Thong, Xu Xin |
 |---|---|
 | **سال** | 2016 |

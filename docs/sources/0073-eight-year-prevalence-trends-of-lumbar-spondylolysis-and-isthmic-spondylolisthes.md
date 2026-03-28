@@ -1,14 +1,12 @@
 # Eight-Year Prevalence Trends of Lumbar Spondylolysis and Isthmic Spondylolisthesis in Adolescent Males: A Population-based Study from a Nationwide Military Draft Medical Examination Database in South Korea.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | E. Cho, Geon Jung Kim, Jung Eun Lee, H. Park, H. Kim |
 | **Year** | 2024 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 5 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1016/j.wneu.2024.07.133](https://doi.org/10.1016/j.wneu.2024.07.133) |

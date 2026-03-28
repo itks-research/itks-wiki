@@ -1,7 +1,5 @@
 # Tunisia’s democratisation process: when ‘consensus democracy’ undermines democratic consolidation
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Adrià Rivera‐Escartin |

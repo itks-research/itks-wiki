@@ -1,7 +1,5 @@
 # Reading Rousseau in Spanish America during the wars of independence (1808–1826)
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Nicola Miller |

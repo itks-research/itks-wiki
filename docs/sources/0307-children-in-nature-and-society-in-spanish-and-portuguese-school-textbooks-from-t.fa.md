@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Kira Mahamud-Angulo, Yovana Hernández-Laina, R. Henriques |
 |---|---|
 | **سال** | 2024 |

@@ -1,7 +1,5 @@
 # Balancing Ethical Imperatives and Political Constraints: The Dilemma of New Democracies Confronting Past Human Rights Violations
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | José Zalaquett |

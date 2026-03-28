@@ -1,7 +1,5 @@
 # A future for the world's children? A WHO–UNICEF–Lancet Commission
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Helen Clark, Awa Marie Coll‐Seck, Anshu Banerjee, Stefan Peterson, Sarah L Dalglish, Shanthi Ameratunga, Dina Balabanova, Maharaj Kishan Bhan, Zulfiqar A Bhutta, John Borrazzo, M Claeson, Tanya Doherty, Fadi El‐Jardali, Asha George, Angela Gichaga, Lu Gram, David Hipgrave, Aku Kwamie, Qingyue Meng, Raúl Mercer, Sunita Narain, Jesca Nsungwa‐Sabiiti, Adesola Olumide, David Osrin, Timothy Powell‐Jackson, Kumanan Rasanathan, Imran Rasul, Papaarangi Reid, Jennifer Requejo, Sarah Rohde, Nigel Rollins, Magali Romedenne, Harshpal Singh Sachdev, Rana Saleh, Yusra Ribhi Shawar, Jeremy Shiffman, Jonathon Simon, Peter D. Sly, Karin Stenberg, Mark Tomlinson, Rajani Ved, Anthony Costello |

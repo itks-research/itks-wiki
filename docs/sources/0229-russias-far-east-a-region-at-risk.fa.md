@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Robert Legvold, Judith Thornton, Charles E. Ziegler |
 |---|---|
 | **سال** | 2003 |

@@ -1,7 +1,5 @@
 # State and Development: The Need for a Reappraisal of the Current Literature
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Pranab Bardhan |

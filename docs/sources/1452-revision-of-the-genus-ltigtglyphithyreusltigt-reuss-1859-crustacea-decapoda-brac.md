@@ -1,7 +1,5 @@
 # Revision of the genus &lt;i&gt;Glyphithyreus&lt;/i&gt; Reuss, 1859 (Crustacea, Decapoda, Brachyura, Xanthoidea) and recognition of a new genus
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Hiroaki Karasawa, Carrie E. Schweitzer |

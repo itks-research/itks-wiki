@@ -1,7 +1,5 @@
 # The Impact of Foreign Direct Investment and Trade Liberalization on Economic Growth, Income Distribution and Environmental Quality: The Comparative Analysis between France and South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Abdul Rahim Ridzuan, Nor Asmat Ismail, Abdul Fatah Che Hamat, Mohamad Idham Md Razak, Faridah Pardi |

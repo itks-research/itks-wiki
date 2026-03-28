@@ -1,7 +1,5 @@
 # The revenge of the places that don’t matter (and what to do about it)
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Andrés Rodríguez‐Pose |

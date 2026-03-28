@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Alexandra Jones, Bruce Neal, Belinda Reeve, Cliona Ní Mhurchú, Anne Marie Thow |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 214 |
 | **شناسه دیجیتال** | [10.1136/bmjgh-2019-001882](https://doi.org/10.1136/bmjgh-2019-001882) |
 

@@ -1,7 +1,5 @@
 # A review of theoretical salt weathering studies for stone heritage
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Chiaki T. Oguchi, Swe Yu |

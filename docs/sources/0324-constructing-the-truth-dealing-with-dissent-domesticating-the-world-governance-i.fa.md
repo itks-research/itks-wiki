@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Filip Reyntjens |
 |---|---|
 | **سال** | 2010 |

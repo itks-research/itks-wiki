@@ -1,7 +1,5 @@
 # Arab Spring constitution-making: polarization, exclusion, and constraints
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ester Cross, Jason Sorens |

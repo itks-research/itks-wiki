@@ -1,7 +1,5 @@
 # Government–nonprofit partnership: a defining framework
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jennifer M. Brinkerhoff |

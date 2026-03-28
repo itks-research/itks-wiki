@@ -1,7 +1,5 @@
 # Neoliberalism as language policy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ingrid Piller, Jinhyun Cho |

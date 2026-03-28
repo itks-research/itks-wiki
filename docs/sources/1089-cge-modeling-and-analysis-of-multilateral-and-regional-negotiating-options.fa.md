@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Drusilla K. Brown, Alan V. Deardorff, Robert M. Stern |
 |---|---|
 | **سال** | 2001 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ignacio Fernández Sarasola |
 |---|---|
 | **سال** | 2024 |

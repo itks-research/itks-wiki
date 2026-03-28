@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | H. Kim, P. W. Yoon, J. Yoon, D.H. Lee, E. Cho, S. Park, S. Park, Jun-Ki Moon |
 |---|---|
 | **سال** | 2025 |

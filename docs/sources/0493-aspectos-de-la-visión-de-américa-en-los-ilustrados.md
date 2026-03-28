@@ -1,7 +1,5 @@
 # Aspectos de la visión de América en los ilustrados
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Javier Yagüe Bosch |

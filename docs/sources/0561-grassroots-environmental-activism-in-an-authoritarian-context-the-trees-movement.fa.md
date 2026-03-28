@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ngoc Anh Vu |
 |---|---|
 | **سال** | 2017 |

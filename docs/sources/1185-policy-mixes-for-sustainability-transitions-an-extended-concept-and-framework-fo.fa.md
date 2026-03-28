@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Karoline S. Rogge, Kristin Reichardt |
 |---|---|
 | **سال** | 2016 |

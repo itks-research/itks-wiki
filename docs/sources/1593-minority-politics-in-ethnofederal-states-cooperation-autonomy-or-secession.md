@@ -1,7 +1,5 @@
 # Minority Politics in Ethnofederal States: Cooperation, Autonomy or Secession?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Valerie Bunce |

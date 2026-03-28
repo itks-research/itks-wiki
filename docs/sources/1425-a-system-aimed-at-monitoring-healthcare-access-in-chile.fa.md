@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Luis Gómez, Alicia Núñez |
 |---|---|
 | **سال** | 2021 |

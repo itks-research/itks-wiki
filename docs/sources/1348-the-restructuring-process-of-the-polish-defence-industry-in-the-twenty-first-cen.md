@@ -1,7 +1,5 @@
 # The restructuring process of the Polish defence industry in the twenty-first century: doing more of the same while expecting different results
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Piotr Śledź |

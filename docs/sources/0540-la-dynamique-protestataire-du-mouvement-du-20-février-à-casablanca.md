@@ -1,7 +1,5 @@
 # La dynamique protestataire du Mouvement du 20 février à Casablanca
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mounia Bennani-Chraïbi, Mohamed Jeghllaly |

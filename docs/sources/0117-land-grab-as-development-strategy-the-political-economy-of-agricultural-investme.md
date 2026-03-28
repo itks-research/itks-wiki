@@ -1,14 +1,12 @@
 # ‘Land grab’ as development strategy? The political economy of agricultural investment in Ethiopia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Tom Lavers |
 | **Year** | 2012 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 255 |
 | **Source** | openalex |
 | **DOI** | [10.1080/03066150.2011.652091](https://doi.org/10.1080/03066150.2011.652091) |

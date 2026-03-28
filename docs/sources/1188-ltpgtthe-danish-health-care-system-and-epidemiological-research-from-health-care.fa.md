@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Morten Schmidt, Sigrún Alba Jóhannesdóttir Schmidt, Kasper Adelborg, Jens Sundbøll, Kristina Laugesen, Véra Ehrenstein, Henrik Toft Sørensen |
 |---|---|
 | **سال** | 2019 |

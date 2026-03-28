@@ -1,7 +1,5 @@
 # Policy mixes for sustainability transitions: An extended concept and framework for analysis
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Karoline S. Rogge, Kristin Reichardt |

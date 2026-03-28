@@ -1,7 +1,5 @@
 # Local Government Economics in Theory and Practice
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | David King |

@@ -1,7 +1,5 @@
 # Mauriziodiniite, NH<sub>4</sub>(As<sub>2</sub>O<sub>3</sub>)<sub>2</sub>I, the ammonium and iodine analogue of lucabindiite from the Torrecillas mine, Iquique Province, Chile
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anthony R. Kampf, Barbara P. Nash, Arturo A. Molina Donoso |

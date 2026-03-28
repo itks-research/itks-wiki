@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Margherita Comola, Luiz De Mello |
 |---|---|
 | **سال** | 2011 |

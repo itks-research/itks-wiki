@@ -1,7 +1,5 @@
 # Blockchain technology in the energy sector: A systematic review of challenges and opportunities
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Merlinda Andoni, Valentin Robu, David Flynn, Simone Abram, Dale Geach, David Jenkins, Peter McCallum, Andrew Peacock |

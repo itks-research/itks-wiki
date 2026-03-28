@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Dawood I. Ahmed, Tom Ginsburg |
 |---|---|
 | **سال** | 2014 |

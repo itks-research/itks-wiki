@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Peter Dia­mond, Jerry A. Hausman |
 |---|---|
 | **سال** | 1994 |

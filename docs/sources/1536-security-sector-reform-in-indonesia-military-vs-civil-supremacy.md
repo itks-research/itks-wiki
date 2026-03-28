@@ -1,7 +1,5 @@
 # Security Sector Reform in Indonesia: Military vs. Civil Supremacy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ingo Wandelt |

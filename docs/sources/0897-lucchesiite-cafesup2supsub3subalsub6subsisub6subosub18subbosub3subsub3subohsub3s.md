@@ -1,7 +1,5 @@
 # Lucchesiite, CaFe<sup>2+</sup><sub>3</sub>Al<sub>6</sub>(Si<sub>6</sub>O<sub>18</sub>)(BO<sub>3</sub>)<sub>3</sub>(OH)<sub>3</sub>O, a new mineral species of the tourmaline supergroup
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ferdinando Bosi, Henrik Skogby, Marco E. Ciriotti, Petr Gadas, Milan Novák, Jan Cempírek, Dalibor Všianský, Jan Filip |

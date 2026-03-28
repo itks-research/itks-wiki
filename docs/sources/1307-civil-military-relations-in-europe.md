@@ -1,7 +1,5 @@
 # Civil-Military Relations in Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

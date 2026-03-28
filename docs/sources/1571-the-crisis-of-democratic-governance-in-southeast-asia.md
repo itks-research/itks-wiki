@@ -1,7 +1,5 @@
 # The Crisis of Democratic Governance in Southeast Asia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Aurel Croissant, Marco Bünte |

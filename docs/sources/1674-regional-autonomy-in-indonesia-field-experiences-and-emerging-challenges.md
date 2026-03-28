@@ -1,7 +1,5 @@
 # Regional Autonomy in Indonesia: Field Experiences and Emerging Challenges
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Syaikhu Usman |

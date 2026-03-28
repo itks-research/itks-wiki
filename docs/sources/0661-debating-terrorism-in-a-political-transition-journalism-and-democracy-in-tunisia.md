@@ -1,7 +1,5 @@
 # Debating terrorism in a political transition: Journalism and democracy in Tunisia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jacob Høigilt, Kjetil Selvik |

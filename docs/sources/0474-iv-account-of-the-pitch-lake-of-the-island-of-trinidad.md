@@ -1,7 +1,5 @@
 # IV. Account of the Pitch Lake of the Island of Trinidad.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Nicholas Nugent |

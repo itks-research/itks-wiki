@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Robert E. Hoskisson, Mike Wright, Igor Filatotchev, Mike W. Peng |
 |---|---|
 | **سال** | 2012 |

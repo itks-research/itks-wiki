@@ -1,7 +1,5 @@
 # The Constitutionalization of the Civil State: The Self-Definition of Egypt, Tunisia and Yemen Following the Arab Uprisings
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Limor Lavie |

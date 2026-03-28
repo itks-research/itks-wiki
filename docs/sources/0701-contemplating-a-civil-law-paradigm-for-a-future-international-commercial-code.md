@@ -1,7 +1,5 @@
 # Contemplating a Civil Law Paradigm for a Future International Commercial Code
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Wayne Barnes |

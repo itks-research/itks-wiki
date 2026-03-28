@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Peter H. Lee, William Theodore De Bary |
 |---|---|
 | **سال** | 2000 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Zachary Elkins, Andrew T. Guzmán, Beth A. Simmons |
 |---|---|
 | **سال** | 2006 |

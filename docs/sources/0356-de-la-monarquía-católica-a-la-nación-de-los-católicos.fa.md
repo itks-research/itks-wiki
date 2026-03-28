@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | José María Portillo Valdés |
 |---|---|
 | **سال** | 2008 |

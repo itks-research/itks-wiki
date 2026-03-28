@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Sŭng-yŏng Kwak |
 |---|---|
 | **سال** | 1994 |

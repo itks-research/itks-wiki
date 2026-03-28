@@ -1,7 +1,5 @@
 # The Global State of Democracy 2022: Forging Social Contracts in a Time of Discontent
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | International Institute for Democracy and Electoral Assistance (International IDEA) |

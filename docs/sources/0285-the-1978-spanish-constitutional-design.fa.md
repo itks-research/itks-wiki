@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Josep M. Vallès |
 |---|---|
 | **سال** | 2020 |

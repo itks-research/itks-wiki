@@ -1,7 +1,5 @@
 # Tentative First Steps: An Assessment of the Uruguay Round Agreement on Services
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Bernard Hoekman |

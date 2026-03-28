@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Margaret Popkin, Nehal Bhuta |
 |---|---|
 | **سال** | 1999 |

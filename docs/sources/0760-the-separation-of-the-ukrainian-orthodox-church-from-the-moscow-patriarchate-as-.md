@@ -1,7 +1,5 @@
 # The Separation of the Ukrainian Orthodox Church From the Moscow Patriarchate as a Reflection of Ukrainian State Identity
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Civa Syadza Masnun |

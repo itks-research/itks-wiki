@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Min-Woo Kim |
 |---|---|
 | **سال** | 2026 |

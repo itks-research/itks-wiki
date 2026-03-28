@@ -1,7 +1,5 @@
 # The Chinese approach to artificial intelligence: an analysis of policy, ethics, and regulation
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Huw Roberts, Josh Cowls, Jessica Morley, Mariarosaria Taddeo, Vincent Wang, Luciano Floridi |

@@ -1,7 +1,5 @@
 # Security Council Deliberations: The Power of the Better Argument
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | I. P. Johnstone |

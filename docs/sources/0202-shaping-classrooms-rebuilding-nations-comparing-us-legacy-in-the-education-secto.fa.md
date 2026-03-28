@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | B. Cha, Soon-Yong Pak |
 |---|---|
 | **سال** | 2025 |

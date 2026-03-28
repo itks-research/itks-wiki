@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Cho Byung-Sun |
 |---|---|
 | **سال** | 2005 |

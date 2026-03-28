@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Chiaki T. Oguchi, Swe Yu |
 |---|---|
 | **سال** | 2021 |

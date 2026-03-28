@@ -1,7 +1,5 @@
 # Global Legal Pluralism
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Paul Schiff Berman |

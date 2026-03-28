@@ -1,7 +1,5 @@
 # Management strategies in the Czech telecommunications sector: a comparative study of Český Telecom and T-Mobile
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Peter Keith Ross |

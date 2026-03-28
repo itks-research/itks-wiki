@@ -1,7 +1,5 @@
 # The role of Whistleblowing as a mechanism to prevent state capture: A case from the global south
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ugljesa Radulović |

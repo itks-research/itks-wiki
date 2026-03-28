@@ -1,7 +1,5 @@
 # Evaluation of the application of the Czech Republic to be recognised as having a negligible risk of classical scrapie
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Giulio di Piazza, T. Lyytikäinen, G. Ru, Marion M Simmons, Á. Ortiz-Pelaez |

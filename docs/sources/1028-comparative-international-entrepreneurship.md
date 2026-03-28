@@ -1,7 +1,5 @@
 # Comparative International Entrepreneurship
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Siri Terjesen, Jolanda Hessels, Dan Li |

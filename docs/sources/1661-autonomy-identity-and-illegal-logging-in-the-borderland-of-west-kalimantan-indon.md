@@ -1,7 +1,5 @@
 # Autonomy, Identity, and ‘Illegal’ Logging in the Borderland of West Kalimantan, Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Reed L. Wadley, Michael Eilenberg |

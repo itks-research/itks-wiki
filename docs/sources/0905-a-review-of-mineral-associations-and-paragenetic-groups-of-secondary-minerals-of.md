@@ -1,7 +1,5 @@
 # A review of mineral associations and paragenetic groups of secondary minerals of the Jachymov (Joachimsthal) ore district
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Petr Ondruš, František Veselovský, Jan Hloušek |

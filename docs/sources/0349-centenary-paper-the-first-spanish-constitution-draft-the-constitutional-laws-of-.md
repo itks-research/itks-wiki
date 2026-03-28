@@ -1,7 +1,5 @@
 # Centenary Paper: The First Spanish Constitution Draft: The ‘Constitutional Laws’ of Manuel de Aguirre (1786)
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ignacio Fernández Sarasola |

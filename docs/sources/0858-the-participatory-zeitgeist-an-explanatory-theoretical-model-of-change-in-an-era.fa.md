@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Victoria Palmer, Wayne Weavell, Rosemary Callander, Donella Piper, Lauralie Richard, Lynne Maher, Hilary Boyd, Helen Herrman, John Furler, Jane Gunn, Rick Iedema, Glenn Robert |
 |---|---|
 | **سال** | 2018 |

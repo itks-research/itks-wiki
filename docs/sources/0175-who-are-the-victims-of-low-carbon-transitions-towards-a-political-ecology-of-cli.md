@@ -1,7 +1,5 @@
 # Who are the victims of low-carbon transitions? Towards a political ecology of climate change mitigation
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Benjamin K. Sovacool |

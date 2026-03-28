@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Marcel P. Timmer, Erik Dietzenbacher, Bart Los, Robert Stehrer, Gaaitzen J. de Vries |
 |---|---|
 | **سال** | 2015 |

@@ -1,7 +1,5 @@
 # Post-Communist Civil-Military Reform in Poland and Hungary: Progress and Problems
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mark Yaniszewski |

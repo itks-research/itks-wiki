@@ -1,7 +1,5 @@
 # Medic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Crawford F. Sams, Zabelle Zakarian, Zabelle Zakarian |

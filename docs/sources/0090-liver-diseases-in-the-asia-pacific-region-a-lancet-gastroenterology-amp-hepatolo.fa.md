@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Shiv Kumar Sarin, Manoj Kumar, Mohammed Eslam, Jacob George, Mamun Al Mahtab, Sheikh Mohammad Fazle Akbar, Jidong Jia, Qiuju Tian, Rakesh Aggarwal, David Handojo Muljono, Masao Omata, Yoshihiko Ooka, Kwang‐Hyub Han, Hye Won Lee, Wasim Jafri, Amna S. Butt, Chern Hao Chong, Seng Gee Lim, Raoh‐Fang Pwu, Ding‐Shinn Chen |
 |---|---|
 | **سال** | 2019 |
 | **دسته‌بندی** | Constitutional design and drafting processes |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 513 |
 | **شناسه دیجیتال** | [10.1016/s2468-1253(19)30342-5](https://doi.org/10.1016/s2468-1253(19)30342-5) |
 

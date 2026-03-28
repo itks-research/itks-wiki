@@ -1,7 +1,5 @@
 # Stereoid genus Heteroradulum (Basidiomycota, Auriculariales) in the Czech Republic.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jiří Kout, Matěj Brzica, M. Tomšovský |

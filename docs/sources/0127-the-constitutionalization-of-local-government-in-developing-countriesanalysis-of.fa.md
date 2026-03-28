@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Dele Olowu |
 |---|---|
 | **سال** | 2012 |
 | **دسته‌بندی** | Constitutional design and drafting processes |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 14 |
 | **شناسه دیجیتال** | [10.4236/blr.2012.32006](https://doi.org/10.4236/blr.2012.32006) |
 

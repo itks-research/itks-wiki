@@ -1,7 +1,5 @@
 # [Negative effects of the patients' rights law and neuro-rights bill in Chile].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sergio Ruiz, Paulina Ramos-Vergara, R. Concha, Fernando R. Altermatt, Rommy Von-Bernhardi, Mauricio Cuello, J. Godoy, Luca Valera, P. Araya, Edgardo Conde, Pablo Toro, C. Caneo |

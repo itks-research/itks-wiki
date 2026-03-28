@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ika Wahyuni Lestari, Nuri Hardiyanti |
 |---|---|
 | **سال** | 2020 |

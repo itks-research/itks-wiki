@@ -1,7 +1,5 @@
 # Advancing Military Professionalism in Africa
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Emile Ouedraogo |

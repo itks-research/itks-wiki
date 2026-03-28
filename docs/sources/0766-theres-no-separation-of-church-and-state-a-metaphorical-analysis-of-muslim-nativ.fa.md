@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ismael Louber, Mayez Almayez |
 |---|---|
 | **سال** | 2023 |

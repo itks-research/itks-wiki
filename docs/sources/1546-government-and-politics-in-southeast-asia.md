@@ -1,7 +1,5 @@
 # Government and Politics in Southeast Asia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Diane K. Mauzy, John Funston |

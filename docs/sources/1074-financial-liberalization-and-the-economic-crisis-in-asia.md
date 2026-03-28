@@ -1,7 +1,5 @@
 # Financial Liberalization and the Economic Crisis in Asia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

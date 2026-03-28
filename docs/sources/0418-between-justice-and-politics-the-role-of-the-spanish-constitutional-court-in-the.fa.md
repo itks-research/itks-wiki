@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jean‐Baptiste Harguindéguy, Gonzalo Sola Rodríguez, José Cruz-Díaz |
 |---|---|
 | **سال** | 2018 |

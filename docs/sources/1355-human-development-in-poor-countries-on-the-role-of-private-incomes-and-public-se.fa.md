@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Sudhir Anand, Martin Ravallion |
 |---|---|
 | **سال** | 1993 |

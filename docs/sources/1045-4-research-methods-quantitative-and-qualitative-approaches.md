@@ -1,7 +1,5 @@
 # 4 Research Methods: Quantitative and Qualitative Approaches
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Durk Gorter, Jasone Cenoz |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Mohamed-Salah Omri |
 |---|---|
 | **سال** | 2015 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Brian Lai, Dan Reiter |
 |---|---|
 | **سال** | 2005 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Muhamad Arif, Yandry Kurniawan |
 |---|---|
 | **سال** | 2017 |

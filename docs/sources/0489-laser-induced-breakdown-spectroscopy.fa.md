@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Célio Pasquini, Juliana Cortez, Lucas M.C. Silva, Fabiano Barbieri Gonzaga |
 |---|---|
 | **سال** | 2007 |

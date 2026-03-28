@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Christian Welzel, Ronald Inglehart, HANS‐DIETER KLIGEMANN |
 |---|---|
 | **سال** | 2003 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 654 |
 | **شناسه دیجیتال** | [10.1111/1475-6765.00086](https://doi.org/10.1111/1475-6765.00086) |
 

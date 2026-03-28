@@ -1,7 +1,5 @@
 # Bêhounekite, U(SO<sub>4</sub>)<sub>2</sub>(H<sub>2</sub>O)<sub>4</sub>, from Jáchymov (St Joachimsthal), Czech Republic: the first natural U<sup>4+</sup>sulphate
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jakub Plášil, K. Fejfarová, M. Novák, Michal Dušek, Radek Škoda, Jan Hloušek, Jiřı́ Čejka, Juraj Majzlan, Jiří Sejkora, Vladimı́r Machovič, Dominik Talla |

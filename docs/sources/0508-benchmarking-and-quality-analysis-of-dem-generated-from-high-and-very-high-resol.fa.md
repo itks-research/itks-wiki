@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Peter Reinartz, Pablo d’Angelo, Thomas Krauß, Daniela Poli, Karsten Jacobsen, Gürcan Büyüksali̇h |
 |---|---|
 | **سال** | 2010 |

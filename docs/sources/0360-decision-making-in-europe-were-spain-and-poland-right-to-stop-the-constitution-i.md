@@ -1,7 +1,5 @@
 # "Decision Making in Europe: Were Spain and Poland Right to Stop the Constitution in December 2003?"
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Florian Ade |

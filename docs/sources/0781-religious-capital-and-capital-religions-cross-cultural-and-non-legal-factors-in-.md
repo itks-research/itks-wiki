@@ -1,7 +1,5 @@
 # Religious Capital and Capital Religions: Cross-Cultural and Non-Legal Factors in the Separation of Church and State
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | J. Demerath |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Maurice Obstfeld |
 |---|---|
 | **سال** | 1998 |

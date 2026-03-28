@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Karl-Johan Hedqvist |
 |---|---|
 | **سال** | 1971 |

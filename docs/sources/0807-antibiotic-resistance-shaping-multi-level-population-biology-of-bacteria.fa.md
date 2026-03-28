@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Fernando Baquero, Ana P. Tedim, Teresa M. Coque |
 |---|---|
 | **سال** | 2013 |

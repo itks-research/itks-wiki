@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Sergei Guriev, Daniel Treisman |
 |---|---|
 | **سال** | 2019 |

@@ -1,14 +1,12 @@
 # South Korean views on Japan's constitutional reform under the Abe government
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | E. J. R. Cho, Ki-young Shin |
 | **Year** | 2017 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 5 |
 | **Source** | openalex |
 | **DOI** | [10.1080/09512748.2017.1397731](https://doi.org/10.1080/09512748.2017.1397731) |

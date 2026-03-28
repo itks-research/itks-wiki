@@ -1,7 +1,5 @@
 # Resolving Constitutional Disputes in Contemporary China
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Keith J. Hand |

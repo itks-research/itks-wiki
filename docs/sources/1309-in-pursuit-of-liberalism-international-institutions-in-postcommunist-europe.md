@@ -1,7 +1,5 @@
 # In Pursuit of Liberalism: International Institutions in Postcommunist Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rachel A. Epstein |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | A. Urzúa M., Osvaldo Heredia B, Alejandra Caqueo-Urízar |
 |---|---|
 | **سال** | 2016 |

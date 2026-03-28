@@ -1,7 +1,5 @@
 # At home abroad: identity and power in American foreign policy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

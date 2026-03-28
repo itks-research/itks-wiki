@@ -1,7 +1,5 @@
 # Socio-Political, Legal, And Educational Transformation In Tunisia After The Arab Spring
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Zulkifli Abdurrahman Usman, Rahma Salbiah, Nauwal Aufa, Naures Ben Znaidi |

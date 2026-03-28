@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Stanley Fischer, Ratna Sahay, Carlos Végh |
 |---|---|
 | **سال** | 1996 |

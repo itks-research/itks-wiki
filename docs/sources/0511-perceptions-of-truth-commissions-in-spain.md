@@ -1,7 +1,5 @@
 # Perceptions of Truth Commissions in Spain
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Virginia Zalunardo, Lesley-Ann Daniels |

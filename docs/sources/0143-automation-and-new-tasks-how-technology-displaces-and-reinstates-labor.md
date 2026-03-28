@@ -1,7 +1,5 @@
 # Automation and New Tasks: How Technology Displaces and Reinstates Labor
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Daron Acemoğlu, Pascual Restrepo |

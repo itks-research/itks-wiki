@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Edoardo Celeste |
 |---|---|
 | **سال** | 2022 |

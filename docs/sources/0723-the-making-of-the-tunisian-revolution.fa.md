@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Fadhel Kaboub |
 |---|---|
 | **سال** | 2013 |

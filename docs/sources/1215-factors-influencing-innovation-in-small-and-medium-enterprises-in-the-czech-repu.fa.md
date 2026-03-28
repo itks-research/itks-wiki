@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Marek Ehrenberger, Petra Koudelková, Wadim Striełkowski |
 |---|---|
 | **سال** | 2015 |

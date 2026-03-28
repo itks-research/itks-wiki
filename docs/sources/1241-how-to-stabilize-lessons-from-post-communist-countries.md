@@ -1,7 +1,5 @@
 # How to Stabilize: Lessons from Post-Communist Countries
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Andres Aslund, Peter Boone, Simon Johnson, Stanley Fischer, Barry W. Ickes |

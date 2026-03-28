@@ -1,7 +1,5 @@
 # RELIGIOUS FREEDOM IN THE USA: SEPARATION BETWEEN CHURCH AND STATE
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Üstün Yüksel, Hakkı Büyükbaş |

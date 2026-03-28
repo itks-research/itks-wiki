@@ -1,7 +1,5 @@
 # Energy in Europe: Economics, Policy and Strategy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Filip L. Magnusson, Oscar W. Bengtsson |

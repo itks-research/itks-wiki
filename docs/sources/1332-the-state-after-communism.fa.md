@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Barbara Nunberg, Luca Barbone, Hans-Urlich Derlien |
 |---|---|
 | **سال** | 1999 |

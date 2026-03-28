@@ -1,7 +1,5 @@
 # Building the Spanish Nation: The Centre‐Periphery Dialectic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Diego Muro, Alejandro Quiroga |

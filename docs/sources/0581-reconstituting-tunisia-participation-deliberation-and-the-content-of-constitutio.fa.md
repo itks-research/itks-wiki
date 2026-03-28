@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Tofigh Maboudi |
 |---|---|
 | **سال** | 2019 |

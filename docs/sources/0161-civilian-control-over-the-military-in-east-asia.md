@@ -1,7 +1,5 @@
 # Civilian Control over the Military in East Asia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Aurel Croissant |

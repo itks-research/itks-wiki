@@ -1,7 +1,5 @@
 # Secularism and religion in Tunisia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mustapha Bakir |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Christopher R. Duncan |
 |---|---|
 | **سال** | 2007 |

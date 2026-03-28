@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Georgina Blakeley |
 |---|---|
 | **سال** | 2005 |

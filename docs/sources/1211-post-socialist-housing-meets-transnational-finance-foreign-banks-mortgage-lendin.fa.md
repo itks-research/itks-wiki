@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Dorothee Böhle |
 |---|---|
 | **سال** | 2013 |

@@ -1,7 +1,5 @@
 # Estudio arqueométrico de loza dorada de Madinat al-Zahra, Córdoba
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | A. Polvorinos del Río, J. Castaing, Stefan Roehrs, Antonio Vallejo Triano, José Escudero Aranda |

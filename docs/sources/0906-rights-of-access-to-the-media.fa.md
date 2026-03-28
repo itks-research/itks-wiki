@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | András Sajó, Monroe E. Price |
 |---|---|
 | **سال** | 1995 |

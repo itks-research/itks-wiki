@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ingo Geishecker, Gábor Hunya |
 |---|---|
 | **سال** | 2005 |

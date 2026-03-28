@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jelisaveta Blagojević, Marijan Premovic |
 |---|---|
 | **سال** | 2024 |

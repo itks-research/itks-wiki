@@ -1,7 +1,5 @@
 # Privatisation in Central and Eastern Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Saul Estrin |

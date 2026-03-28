@@ -1,7 +1,5 @@
 # Post-privatisation Enterprise Restructuring
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Morris Bornstein |

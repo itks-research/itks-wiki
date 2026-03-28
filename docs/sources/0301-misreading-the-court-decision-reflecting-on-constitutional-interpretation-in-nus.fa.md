@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Dedy Simanungkalit, Vanny Vanny |
 |---|---|
 | **سال** | 2025 |

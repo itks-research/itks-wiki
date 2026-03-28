@@ -1,7 +1,5 @@
 # The Constitution of Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Simon Butt, Tim Lindsey |

@@ -1,7 +1,5 @@
 # Rethinking the Binary Federal Theory: A Search for the EU’s and ASEAN’s Place in the Confederal-Federal Dichotomy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Fran Marko Stojković |

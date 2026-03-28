@@ -1,7 +1,5 @@
 # The Expanding World: Translation, Mobility and Global Futures
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Michael Cronin, Ireland |

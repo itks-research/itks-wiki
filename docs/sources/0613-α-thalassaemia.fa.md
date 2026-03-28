@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Cornelis L. Harteveld, Douglas R. Higgs |
 |---|---|
 | **سال** | 2010 |

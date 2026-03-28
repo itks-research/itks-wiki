@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Mohamed Abdelaal |
 |---|---|
 | **سال** | 2017 |

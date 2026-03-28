@@ -1,7 +1,5 @@
 # THE SECURITY AND FREEDOM DILEMMA: UKRAINE'S DEMOCRATIC PATH THROUGH WAR AND THE CHALLENGES OF CONSOLIDATION
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | G. Malkina, I. Petrenko |

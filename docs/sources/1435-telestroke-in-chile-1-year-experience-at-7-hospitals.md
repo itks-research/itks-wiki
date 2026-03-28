@@ -1,7 +1,5 @@
 # [Telestroke in Chile: 1 year experience at 7 hospitals].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | E. Mansilla, E. Mazzon, Daniel Cárcamo, Felipe Jurado, L. Lara, M. Arévalo, D. A. Rojas, G. Stephens, A. Hoppe, A. Brunser |

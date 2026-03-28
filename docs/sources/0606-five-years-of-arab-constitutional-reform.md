@@ -1,7 +1,5 @@
 # Five years of Arab constitutional reform
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Zaid Al-Ali |

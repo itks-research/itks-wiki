@@ -1,7 +1,5 @@
 # Introduction: Democracy, Participation and Grassroots Movements in Contemporary Portugal
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Boaventura de Sousa Santos, João Arriscado Nunes |

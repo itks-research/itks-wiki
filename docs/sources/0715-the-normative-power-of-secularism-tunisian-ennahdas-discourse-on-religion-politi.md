@@ -1,7 +1,5 @@
 # The Normative Power of Secularism. Tunisian Ennahda's Discourse on Religion, Politics, and the State (2011–2016)
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Hanna Pfeifer |

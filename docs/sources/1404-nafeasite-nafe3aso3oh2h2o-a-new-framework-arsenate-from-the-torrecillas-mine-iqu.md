@@ -1,7 +1,5 @@
 # Nafeasite, NaFe3+(AsO3OH)2⋅H2O, a new framework arsenate from the Torrecillas mine, Iquique Province, Chile
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | A. R. Kampf, J. Schlüter, T. Malcherek, Bianca Paulenz, D. Pohl, Chi Ma, M. Dini, A. M. Molina Donoso |

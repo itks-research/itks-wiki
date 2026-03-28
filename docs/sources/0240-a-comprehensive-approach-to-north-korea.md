@@ -1,7 +1,5 @@
 # A Comprehensive Approach to North Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Richard L. Armitage |

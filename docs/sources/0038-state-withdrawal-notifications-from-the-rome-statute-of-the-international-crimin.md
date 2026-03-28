@@ -1,7 +1,5 @@
 # State Withdrawal Notifications from the Rome Statute of the International Criminal Court: South Africa, Burundi and the Gambia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Manisuli Ssenyonjo |

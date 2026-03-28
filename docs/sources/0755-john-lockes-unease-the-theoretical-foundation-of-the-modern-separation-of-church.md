@@ -1,7 +1,5 @@
 # John Locke’s “Unease”: The Theoretical Foundation of the Modern Separation of Church and State
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Haig Patapan, Jeffrey Sikkenga |

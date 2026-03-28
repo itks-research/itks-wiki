@@ -1,7 +1,5 @@
 # AUTOMATED CLASSIFICATION OF CROP TYPES AND CONDITION IN A MEDITERRANEAN AREA USING A FINE-TUNED CONVOLUTIONAL NEURAL NETWORK
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Luis Ángel Ruiz, Jaime Almonacid-Caballer, Pablo Crespo‐Peremarch, J. A. Recio, Josep E. Pardo‐Pascual, Elena Sánchez-García |

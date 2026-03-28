@@ -1,7 +1,5 @@
 # Do Museums Promote Reconciliation? A Field Experiment on Transitional Justice
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Elsa Voytas, Laia Balcells, Valeria Palanza |

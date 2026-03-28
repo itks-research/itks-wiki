@@ -1,7 +1,5 @@
 # THE USE OF SEMANTIC GROUPS FOR SENTIMENT ANALYSIS
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | R.Y. Suldin |

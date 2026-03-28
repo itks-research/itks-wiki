@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Yingyi Qian, Barry R. Weingast |
 |---|---|
 | **سال** | 1997 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 1475 |
 | **شناسه دیجیتال** | [10.1257/jep.11.4.83](https://doi.org/10.1257/jep.11.4.83) |
 

@@ -1,7 +1,5 @@
 # The Political Economy of State Capture in Central<scp>E</scp>urope
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Abby Innes |

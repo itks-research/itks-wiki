@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Michele Penner Angrist |
 |---|---|
 | **سال** | 2013 |

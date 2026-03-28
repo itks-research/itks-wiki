@@ -1,7 +1,5 @@
 # Freedom of Expression in the Spread of Hoax News on Social Media Between Indonesia and South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rini Jarwati Indah N. C, Dhea Zeftyaningrum, Richo Febria Putra, Dio Ashar Wicaksana |

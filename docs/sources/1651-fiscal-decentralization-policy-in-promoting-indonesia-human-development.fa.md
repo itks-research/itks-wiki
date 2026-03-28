@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ady Soejoto, Waspodo Tjipto Subroto, Suyanto Suyanto |
 |---|---|
 | **سال** | 2015 |

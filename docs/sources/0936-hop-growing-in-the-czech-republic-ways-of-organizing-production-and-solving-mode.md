@@ -1,7 +1,5 @@
 # Hop growing in the Czech Republic: ways of organizing production and solving modern problems
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | O. Afanasyeva, Evgeniy Ivanov, Andrey Makushev |

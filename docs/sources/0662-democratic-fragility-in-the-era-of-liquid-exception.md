@@ -1,7 +1,5 @@
 # DEMOCRATIC FRAGILITY IN THE ERA OF LIQUID EXCEPTION
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anaelisa De Sousa Ramos |

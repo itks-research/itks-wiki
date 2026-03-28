@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ivo Šlosarčík |
 |---|---|
 | **سال** | 2010 |

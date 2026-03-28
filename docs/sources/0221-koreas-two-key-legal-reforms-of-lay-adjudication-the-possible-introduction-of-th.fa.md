@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Hiroshi Fukurai, Sunsul Park |
 |---|---|
 | **سال** | 2012 |

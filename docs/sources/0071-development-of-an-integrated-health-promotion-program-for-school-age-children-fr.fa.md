@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Eunjeong Bae, Eun Kyoung Choi |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.4094/chnr.2025.008](https://doi.org/10.4094/chnr.2025.008) |
 

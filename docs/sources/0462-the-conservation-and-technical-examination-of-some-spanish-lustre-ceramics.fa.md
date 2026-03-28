@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Norman H. Tennent, T. Baird, Janette Kerr, Mandy Slager |
 |---|---|
 | **سال** | 1992 |

@@ -1,7 +1,5 @@
 # The Netherlands: Subnational Democracy and theReinvention of Tradition
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Frank Hendriks, Linze Schaap |

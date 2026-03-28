@@ -1,7 +1,5 @@
 # Country survey IX: Spain
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jordi Molas‐Gallart |

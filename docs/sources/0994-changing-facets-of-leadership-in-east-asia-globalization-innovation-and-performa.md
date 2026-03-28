@@ -1,7 +1,5 @@
 # Changing facets of leadership in East Asia: globalization, innovation and performance in Japan, South Korea and China
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | D. Ulrich |

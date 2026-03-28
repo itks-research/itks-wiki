@@ -1,7 +1,5 @@
 # Corruption A Review of Contemporary Research
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jens Christopher Andvig, Odd‐Helge Fjeldstad, Inge Amundsen, Tone Kristin Sissener, Tina Søreide |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | TaeGyun Park |
 |---|---|
 | **سال** | 1999 |

@@ -1,7 +1,5 @@
 # Legal regulation of religious education in Ukraine: Implementation of the separation of the church and other religious organizations from state educational institutions
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | O. Bilash, T. Karabin |

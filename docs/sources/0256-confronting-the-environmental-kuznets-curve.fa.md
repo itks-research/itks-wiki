@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Susmita Dasgupta, Benoı̂t Laplante, Hua Wang, David Wheeler |
 |---|---|
 | **سال** | 2002 |

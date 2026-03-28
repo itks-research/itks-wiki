@@ -1,7 +1,5 @@
 # Strategies to achieve a carbon neutral society: a review
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Lin Chen, Goodluck Msigwa, Mingyu Yang, Ahmed I. Osman, Samer Fawzy, David W. Rooney, Pow‐Seng Yap |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Darine Slama, Najoua Haouas, Habib Mezhoud, Hamouda Babba, E. Chaker |
 |---|---|
 | **سال** | 2015 |

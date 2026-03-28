@@ -1,7 +1,5 @@
 # La reforma del artículo 135 de la Constitución Española : ¿pueden los mercados quebrar el consenso constitucional?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | María Josefa Ridaura Martínez |

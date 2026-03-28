@@ -1,7 +1,5 @@
 # Paranoids may be persecuted: post-totalitarian retroactive justice
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Aviezer Tucker |

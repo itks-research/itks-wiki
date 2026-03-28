@@ -1,7 +1,5 @@
 # La organización territorial de España. Una reflexión sobre el estado de la cuestión y claves para la reforma constitucional
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Gregorio Cámara Villar |

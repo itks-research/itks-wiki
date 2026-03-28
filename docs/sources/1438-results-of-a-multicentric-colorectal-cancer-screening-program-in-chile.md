@@ -1,7 +1,5 @@
 # [Results of a multicentric colorectal cancer screening program in Chile].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | F. López-Kostner, A. Zárate, Alejandra Ponce, U. Kronberg, H. Kawachi, T. Okada, M. Tsubaki, Takashi Ito, T. Nishikage, Koji Tanaka, T. Kawano, Y. Eishi, Paulina M Peñaloza, R. Estela, S. Karelovic, S. Flores |

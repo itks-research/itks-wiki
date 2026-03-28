@@ -1,7 +1,5 @@
 # Human Development in Poor Countries: On the Role of Private Incomes and Public Services
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sudhir Anand, Martin Ravallion |

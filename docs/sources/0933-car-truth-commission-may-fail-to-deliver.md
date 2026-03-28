@@ -1,7 +1,5 @@
 # CAR truth commission may fail to deliver
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

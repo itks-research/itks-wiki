@@ -1,7 +1,5 @@
 # Competing for Capital: The Diffusion of Bilateral Investment Treaties, 1960–2000
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Zachary Elkins, Andrew T. Guzmán, Beth A. Simmons |

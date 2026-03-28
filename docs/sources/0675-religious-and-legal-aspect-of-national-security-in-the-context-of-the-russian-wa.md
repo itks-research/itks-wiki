@@ -1,7 +1,5 @@
 # Religious and legal aspect of national security in the context of the Russian war against Ukraine
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Oleg Buchma |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Herbert Marcuse |
 |---|---|
 | **سال** | 1968 |

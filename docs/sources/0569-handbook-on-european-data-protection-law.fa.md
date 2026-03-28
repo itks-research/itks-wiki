@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | European Union Agency For Fundamental Rights - FRA |
 |---|---|
 | **سال** | 2019 |

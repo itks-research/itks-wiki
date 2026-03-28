@@ -1,7 +1,5 @@
 # Relational mobility predicts social behaviors in 39 countries and is tied to historical farming and threat
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Robert Thomson, Masaki Yuki, Thomas Talhelm, Joanna Schug, Mie Kito, Arin H. Ayanian, Julia C. Becker, Maja Becker, Chi‐yue Chiu, Hoon‐Seok Choi, Carolina Müller Ferreira, Márta Fülöp, Pelin Gül, Ana Maria Houghton-Illera, Mihkel Joasoo, Jonathan Jong, Christopher Kavanagh, Dmytro Khutkyy, Claudia Manzi, Urszula M. Marcinkowska, Taciano L. Milfont, Félix Neto, Timo von Oertzen, Ruthie Pliskin, Álvaro San Martín, Purnima Singh, Mariko L. Visserman |

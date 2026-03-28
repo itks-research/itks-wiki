@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Dennis Wambugu Wandina, Yasin Kuho Ghabon |
 |---|---|
 | **سال** | 2026 |

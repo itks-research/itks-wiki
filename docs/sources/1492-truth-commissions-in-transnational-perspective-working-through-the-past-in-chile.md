@@ -1,7 +1,5 @@
 # TRUTH COMMISSIONS IN TRANSNATIONAL PERSPECTIVE. WORKING THROUGH THE PAST IN CHILE AND ROMANIA
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Andrés de Castro García |

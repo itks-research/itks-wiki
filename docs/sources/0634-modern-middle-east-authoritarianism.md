@@ -1,7 +1,5 @@
 # Modern Middle East Authoritarianism
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

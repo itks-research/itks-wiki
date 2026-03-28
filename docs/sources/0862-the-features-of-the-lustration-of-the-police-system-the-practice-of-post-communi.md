@@ -1,7 +1,5 @@
 # The features of the lustration of the police system: the practice of post-communist countries of Europe (on the example of Poland, Hungary, Slovakia and the Czech Republic)
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | V. Lytvyn |

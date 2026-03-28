@@ -1,7 +1,5 @@
 # The Role of Accountability in the Relationship between Democracy and Corruption
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Bianca Vaz Mondo |

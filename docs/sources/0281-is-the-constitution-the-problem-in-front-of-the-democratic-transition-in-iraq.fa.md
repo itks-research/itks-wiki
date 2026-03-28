@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Nawsherwan Saeed |
 |---|---|
 | **سال** | 2021 |

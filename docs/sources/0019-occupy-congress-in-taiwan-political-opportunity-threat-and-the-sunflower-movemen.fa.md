@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ming‐sho Ho |
 |---|---|
 | **سال** | 2015 |

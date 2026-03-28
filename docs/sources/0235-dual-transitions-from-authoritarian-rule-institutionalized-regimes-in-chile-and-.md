@@ -1,7 +1,5 @@
 # Dual transitions from authoritarian rule: institutionalized regimes in Chile and Mexico, 1970-2000
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

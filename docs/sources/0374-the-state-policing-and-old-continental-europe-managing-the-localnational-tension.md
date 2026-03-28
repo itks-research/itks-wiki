@@ -1,7 +1,5 @@
 # The state, policing and “Old Continental Europe”: managing the local/national tension
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jérôme Ferret |

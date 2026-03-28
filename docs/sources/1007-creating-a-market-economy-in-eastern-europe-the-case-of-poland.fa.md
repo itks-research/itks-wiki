@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | David Lipton, Jeffrey D. Sachs, Stanley Fischer, János Kornai |
 |---|---|
 | **سال** | 1990 |

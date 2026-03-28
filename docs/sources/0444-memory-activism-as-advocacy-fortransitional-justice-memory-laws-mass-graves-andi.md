@@ -1,7 +1,5 @@
 # Memory Activism as Advocacy for Transitional Justice: Memory Laws, Mass Graves and Impunity in Spain
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Andrea Hepworth |

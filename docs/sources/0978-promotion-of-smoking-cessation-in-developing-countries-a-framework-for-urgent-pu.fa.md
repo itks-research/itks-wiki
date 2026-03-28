@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Abu S. Abdullah |
 |---|---|
 | **سال** | 2004 |

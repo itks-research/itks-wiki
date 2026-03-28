@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Frank Schimmelfennig |
 |---|---|
 | **سال** | 2010 |

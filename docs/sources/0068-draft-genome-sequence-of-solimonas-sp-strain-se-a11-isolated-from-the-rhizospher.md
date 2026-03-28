@@ -1,14 +1,12 @@
 # Draft genome sequence of Solimonas sp. strain SE-A11 isolated from the rhizosphere of feral Brassica napus in South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jihoon Kim, Kyong-Hee Nam, Jun-Woo Lee, Seong-Jun Chun |
 | **Year** | 2025 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1128/mra.01052-24](https://doi.org/10.1128/mra.01052-24) |

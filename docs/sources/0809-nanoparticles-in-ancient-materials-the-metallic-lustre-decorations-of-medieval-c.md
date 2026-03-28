@@ -1,7 +1,5 @@
 # Nanoparticles in Ancient Materials: The Metallic Lustre Decorations of Medieval Ceramics
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Philippe Sciau |

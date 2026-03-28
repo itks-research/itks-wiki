@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Margaret Popkin, Naomi Roht‐Arriaza |
 |---|---|
 | **سال** | 1995 |

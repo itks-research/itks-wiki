@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | José-Francisco Valencia, Joana Momoitio, Nahia Idoyaga |
 |---|---|
 | **سال** | 2009 |

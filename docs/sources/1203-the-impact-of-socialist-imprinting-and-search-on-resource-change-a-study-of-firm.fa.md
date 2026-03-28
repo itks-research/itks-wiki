@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Aldas Kriauciunas, Prashant Kale |
 |---|---|
 | **سال** | 2006 |

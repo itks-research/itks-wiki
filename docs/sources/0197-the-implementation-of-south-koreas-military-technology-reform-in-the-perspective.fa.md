@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | R. Q. Aini, Febry Triantama |
 |---|---|
 | **سال** | 2021 |

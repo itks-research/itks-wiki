@@ -1,7 +1,5 @@
 # [Healthcare of transgenders by non-specialists in Chile].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Antonio Zapata Pizarro, Karina Díaz Díaz, Luis Barra Ahumada, Lorena Maureira Sales, Jeanette Linares Moreno, Franco Zapata Pizarro |

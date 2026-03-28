@@ -1,7 +1,5 @@
 # Making Amends After Communism
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mark D. Gillis, Vojtéch Cepl |

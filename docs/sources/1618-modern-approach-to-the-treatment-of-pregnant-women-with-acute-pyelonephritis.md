@@ -1,7 +1,5 @@
 # MODERN APPROACH TO THE TREATMENT OF PREGNANT WOMEN WITH ACUTE PYELONEPHRITIS
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | N.F. Khvorostukhina, Anton A. Plekhanov, Д. А. Новичков |

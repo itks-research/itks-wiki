@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ju Hui Judy Han, Jennifer Jihye Chun |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Women's rights codification and gender equality |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 13 |
 | **شناسه دیجیتال** | [10.1353/jks.2014.0024](https://doi.org/10.1353/jks.2014.0024) |
 

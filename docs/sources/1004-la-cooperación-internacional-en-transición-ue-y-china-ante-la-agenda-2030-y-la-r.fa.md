@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Kattya Cascante Hernández, Tahina Ojeda-Medina |
 |---|---|
 | **سال** | 2025 |

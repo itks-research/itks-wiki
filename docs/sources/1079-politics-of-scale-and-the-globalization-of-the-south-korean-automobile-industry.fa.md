@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Bae‐Gyoon Park |
 |---|---|
 | **سال** | 2003 |

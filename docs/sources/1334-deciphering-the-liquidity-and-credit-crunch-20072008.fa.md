@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Markus K. Brunnermeier |
 |---|---|
 | **سال** | 2009 |

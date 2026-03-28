@@ -1,7 +1,5 @@
 # Neoliberal economics, democratic transition, and Mapuche demands for rights in Chile
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Diane Haughney |

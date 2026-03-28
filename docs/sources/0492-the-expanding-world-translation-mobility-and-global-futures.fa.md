@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Michael Cronin, Ireland |
 |---|---|
 | **سال** | 2014 |

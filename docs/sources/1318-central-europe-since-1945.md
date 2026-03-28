@@ -1,7 +1,5 @@
 # Central Europe Since 1945
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Paul G. Lewis |

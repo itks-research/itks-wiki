@@ -1,7 +1,5 @@
 # Constitutional reform processes
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ewa K. Strzelecka, María Angustias Parejo Fernández |

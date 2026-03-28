@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | A. R. Kampf, J. Schlüter, T. Malcherek, Bianca Paulenz, D. Pohl, Chi Ma, M. Dini, A. M. Molina Donoso |
 |---|---|
 | **سال** | 2022 |

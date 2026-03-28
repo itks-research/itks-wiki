@@ -1,7 +1,5 @@
 # Media and Participation: A site of ideological-democratic struggle
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Nico Carpentier |

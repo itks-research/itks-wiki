@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | George Esenwein, Stanley G. Payne |
 |---|---|
 | **سال** | 1994 |

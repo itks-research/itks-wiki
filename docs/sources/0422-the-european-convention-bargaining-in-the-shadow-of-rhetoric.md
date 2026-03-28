@@ -1,7 +1,5 @@
 # The European Convention: Bargaining in the Shadow of Rhetoric
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Paul Magnette, Kalypso Nicolaïdis |

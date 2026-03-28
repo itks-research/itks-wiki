@@ -1,7 +1,5 @@
 # EDUCATION AND SUPPORT FOR BIOLOGICAL FAMILIES WITH CHILDREN: MODERN EXPERIENCE OF THE CZECH REPUBLIC AND UKRAINE
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Zhanna Petrochko, O. Denysiuk |

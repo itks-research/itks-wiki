@@ -1,7 +1,5 @@
 # Good Urban Governance and City Resilience: An Afrocentric Approach to Sustainable Development
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Natanya Meyer, C.J. Auriacombe |

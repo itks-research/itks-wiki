@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | George Kopits, J. Craig, GKopits@imf.org, JCraig@imf.org |
 |---|---|
 | **سال** | 1998 |

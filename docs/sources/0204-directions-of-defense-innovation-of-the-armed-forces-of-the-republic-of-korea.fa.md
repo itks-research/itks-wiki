@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Кim Кyu Chul |
 |---|---|
 | **سال** | 2022 |

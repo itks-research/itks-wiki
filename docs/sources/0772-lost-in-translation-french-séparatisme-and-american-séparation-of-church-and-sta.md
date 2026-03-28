@@ -1,7 +1,5 @@
 # Lost in Translation: French Séparatisme and American Séparation of Church and State
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Dennis Bogusz |

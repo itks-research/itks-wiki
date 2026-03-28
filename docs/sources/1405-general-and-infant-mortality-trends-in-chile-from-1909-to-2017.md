@@ -1,7 +1,5 @@
 # [General and infant mortality trends in Chile from 1909 to 2017].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | M. Llorca-Jaña, Rodrigo Rivero-Cantillano, J. Rivas, Martina Allende |

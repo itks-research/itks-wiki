@@ -1,7 +1,5 @@
 # Gramsci on Tahrir: Revolution and Counter-Revolution in Egypt
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Brecht De Smet |

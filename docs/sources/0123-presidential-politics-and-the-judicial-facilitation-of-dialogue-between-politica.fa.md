@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jiunn-rong Yeh |
 |---|---|
 | **سال** | 2010 |
 | **دسته‌بندی** | Constitutional design and drafting processes |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 26 |
 | **شناسه دیجیتال** | [10.1093/icon/mor006](https://doi.org/10.1093/icon/mor006) |
 

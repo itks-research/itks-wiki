@@ -1,7 +1,5 @@
 # Fiscal Adjustments in Transition Economies Transfers and the Efficiency of Public Spending: A Comparison with OECD Countries
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | de Alain Crombrugghe, Barbara Fakin |

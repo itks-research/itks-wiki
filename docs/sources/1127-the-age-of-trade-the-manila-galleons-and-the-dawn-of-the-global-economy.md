@@ -1,7 +1,5 @@
 # The age of trade: the Manila Galleons and the dawn of the global economy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

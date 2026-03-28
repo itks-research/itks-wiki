@@ -1,7 +1,5 @@
 # Law and Memory
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Belavusau, Uladzislau, Gliszczyńska-Grabias, Aleksandra |

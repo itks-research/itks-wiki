@@ -1,7 +1,5 @@
 # Archaeology, History and Science
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

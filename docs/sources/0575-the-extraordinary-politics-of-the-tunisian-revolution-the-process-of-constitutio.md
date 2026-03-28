@@ -1,7 +1,5 @@
 # The Extraordinary Politics of the Tunisian Revolution: The Process of Constitution Making
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sami Zemni |

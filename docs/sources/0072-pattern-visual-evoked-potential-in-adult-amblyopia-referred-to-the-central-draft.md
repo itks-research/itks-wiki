@@ -1,14 +1,12 @@
 # Pattern Visual Evoked Potential in Adult Amblyopia Referred to the Central Draft Physical Examination Office of the Military Manpower Administration in South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Shin-Myeong Choi |
 | **Year** | 2025 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.3341/kjo.2024.0149](https://doi.org/10.3341/kjo.2024.0149) |

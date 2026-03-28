@@ -1,7 +1,5 @@
 # PUBLIC POLICY AND ADMINISTRATION
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Juraj Nemec, Purshottama Reddy, Michiel S. de Vries |

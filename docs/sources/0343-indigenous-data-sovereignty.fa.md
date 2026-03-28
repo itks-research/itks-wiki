@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | John Taylor, Tahu Kukutai |
 |---|---|
 | **سال** | 2016 |

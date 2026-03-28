@@ -1,7 +1,5 @@
 # Constitutional Change Without Constitutional Reform: Spanish Federalism and the Revision of Catalonia's Statute of Autonomy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | César Colino |

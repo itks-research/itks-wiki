@@ -1,7 +1,5 @@
 # Nation and family: personal law, cultural pluralism, and gendered citizenship in India
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

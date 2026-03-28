@@ -1,7 +1,5 @@
 # Europeanisation in new member and candidate states
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ulrich Sedelmeier |

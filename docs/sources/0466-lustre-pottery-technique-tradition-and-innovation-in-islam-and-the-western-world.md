@@ -1,7 +1,5 @@
 # Lustre Pottery: Technique, Tradition and Innovation in Islam and the Western World
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Alan Caiger-Smith |

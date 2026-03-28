@@ -1,7 +1,5 @@
 # Converging Histories: South Korea’s Martial Law Crisis in a Global Conjunctural Frame
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jamie Doucette |

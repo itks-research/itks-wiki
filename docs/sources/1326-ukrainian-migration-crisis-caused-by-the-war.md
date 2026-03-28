@@ -1,7 +1,5 @@
 # Ukrainian Migration Crisis Caused by the War
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Iryna Gerlach, Olha Ryndzak |

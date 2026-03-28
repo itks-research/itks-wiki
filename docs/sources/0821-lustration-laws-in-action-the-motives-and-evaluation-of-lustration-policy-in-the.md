@@ -1,7 +1,5 @@
 # Lustration Laws in Action: The Motives and Evaluation of Lustration Policy in the Czech Republic and Poland (1989–2001)
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Roman David |

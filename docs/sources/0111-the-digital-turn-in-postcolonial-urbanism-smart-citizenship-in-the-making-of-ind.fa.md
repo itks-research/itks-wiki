@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ayona Datta |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 233 |
 | **شناسه دیجیتال** | [10.1111/tran.12225](https://doi.org/10.1111/tran.12225) |
 

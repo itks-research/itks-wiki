@@ -1,7 +1,5 @@
 # Colombia: Democracy Under Assault
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Harvey F. Kline |

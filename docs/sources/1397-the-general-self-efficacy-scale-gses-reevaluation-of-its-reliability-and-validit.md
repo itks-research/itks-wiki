@@ -1,7 +1,5 @@
 # [The general self-efficacy scale (GSES): Reevaluation of its reliability and validity evidence in Chile].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | M. Clavijo, Felipe Yévenes, Ismael Gallardo, A. Contreras, C. Santos |

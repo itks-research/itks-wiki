@@ -1,7 +1,5 @@
 # [National action plan for the emergence of invasive meningococcal disease in Chile, 2012-2013].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | M. T. Valenzuela, Jaime Mañalich, Jorge Díaz, Itziar Linazasoro, Luis Castillo, Á. Morales, Rodolfo Villena |

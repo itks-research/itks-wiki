@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ines Mergel, Noella Edelmann, Nathalie Haug |
 |---|---|
 | **سال** | 2019 |

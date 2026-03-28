@@ -1,7 +1,5 @@
 # John Carroll and Religious Liberty: Catholicism, Liberalism, and Church–State Rapprochement in Early America
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Theodore Madrid |

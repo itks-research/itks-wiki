@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Nancy Plaza-Troncoso, O. Juncos-Rabadán, C. Troncoso-Pantoja |
 |---|---|
 | **سال** | 2022 |

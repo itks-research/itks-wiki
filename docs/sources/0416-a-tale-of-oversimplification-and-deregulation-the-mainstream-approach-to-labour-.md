@@ -1,7 +1,5 @@
 # A Tale of Oversimplification and Deregulation: The Mainstream Approach to Labour Market Segmentation and Recent Responses to the Crisis in European Countries
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Valerio De Stefano |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | John Braithwaite, Hilary Charlesworth, Aderito de Jesus Soares |
 |---|---|
 | **سال** | 2012 |

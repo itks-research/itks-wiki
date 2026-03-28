@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Janie A. Chuang |
 |---|---|
 | **سال** | 2006 |

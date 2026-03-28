@@ -1,7 +1,5 @@
 # Why is the Spanish Upper Chamber So Difficult to Reform?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jean‐Baptiste Harguindéguy, Xavier Coller, Alistair Cole |

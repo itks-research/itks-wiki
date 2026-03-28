@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Aniruddha Dasgupta, Victoria A. Beard |
 |---|---|
 | **سال** | 2007 |

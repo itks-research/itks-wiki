@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Üstün Yüksel, Hakkı Büyükbaş |
 |---|---|
 | **سال** | 2023 |

@@ -1,7 +1,5 @@
 # Assessing the long-term impact of truth commissions: the Chilean Truth and Reconciliation Commission in historical perspective
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

@@ -1,7 +1,5 @@
 # The Politicisation of Islam
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mohamed Elhachmi Hamdi |

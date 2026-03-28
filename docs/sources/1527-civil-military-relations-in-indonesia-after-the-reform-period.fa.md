@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Leonard C. Sebastian, Emirza Adi Syailendra, Keoni Indrabayu Marzuki |
 |---|---|
 | **سال** | 2018 |

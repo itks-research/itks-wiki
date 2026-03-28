@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Kanchankumar Shewale |
 |---|---|
 | **سال** | 2025 |

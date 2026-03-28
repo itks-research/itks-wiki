@@ -1,7 +1,5 @@
 # Regional Autonomy and Legal Disorder: The Proliferation of Local Laws in Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Simon Butt |

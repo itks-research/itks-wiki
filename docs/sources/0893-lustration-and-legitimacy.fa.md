@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | M. Jimmie Killingsworth |
 |---|---|
 | **سال** | 2010 |

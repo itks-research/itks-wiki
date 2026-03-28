@@ -1,7 +1,5 @@
 # Fostering Scaleup Ecosystems for Regional Economic Growth (<i>Innovations Case Narrative</i>: Manizales-Mas and Scale Up Milwaukee)
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Daniel J. Isenberg, Vincent Onyemah |

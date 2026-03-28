@@ -1,7 +1,5 @@
 # History of South Korea’s Courts and Constitutional Transitions
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Justine Guichard |

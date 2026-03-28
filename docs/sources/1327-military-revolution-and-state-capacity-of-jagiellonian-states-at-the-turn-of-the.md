@@ -1,7 +1,5 @@
 # Military revolution and state capacity of Jagiellonian states at the turn of the Middle Ages in European context
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Piotr Guzowski |

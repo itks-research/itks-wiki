@@ -1,14 +1,12 @@
 # From Xiedou to Yijun , the Decline of Ethnicity in Northern Taiwan, 1885-1895
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Stevan Harrell |
 | **Year** | 1990 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 7 |
 | **Source** | openalex |
 | **DOI** | [10.1353/late.1990.0009](https://doi.org/10.1353/late.1990.0009) |

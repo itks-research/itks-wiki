@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ole Petter Ottersen, Jashodhara Dasgupta, Chantal Blouin, Paulo Marchiori Buss, Virasakdi Chongsuvivatwong, Julio Frenk, Sakiko Fukuda‐Parr, Bience Gawanas, Rita Giacaman, John O. Gyapong, Jennifer Leaning, Michael Marmot, Desmond McNeill, Gertrude I Mongella, Nkosana Moyo, Sigrun Møgedal, Ayanda Ntsaluba, Gorik Ooms, Espen Bjertness, Ann Louise Lie, Suerie Moon, Sidsel Roalkvam, Kristin Ingstad Sandberg, Inger B. Scheel |
 |---|---|
 | **سال** | 2014 |

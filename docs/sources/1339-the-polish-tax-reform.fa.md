@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Patrick Lenain, Leszek Bartoszuk |
 |---|---|
 | **سال** | 2000 |

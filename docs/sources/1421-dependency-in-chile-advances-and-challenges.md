@@ -1,7 +1,5 @@
 # [Dependency in Chile. Advances and challenges].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Pablo Villalobos Dintrans |

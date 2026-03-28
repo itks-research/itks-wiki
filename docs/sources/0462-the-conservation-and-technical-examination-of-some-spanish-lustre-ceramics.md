@@ -1,7 +1,5 @@
 # THE CONSERVATION AND TECHNICAL EXAMINATION OF SOME SPANISH LUSTRE CERAMICS
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Norman H. Tennent, T. Baird, Janette Kerr, Mandy Slager |

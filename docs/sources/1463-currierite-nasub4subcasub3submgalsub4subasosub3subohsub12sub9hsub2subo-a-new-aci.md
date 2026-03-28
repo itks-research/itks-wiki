@@ -1,7 +1,5 @@
 # Currierite, Na<sub>4</sub>Ca<sub>3</sub>MgAl<sub>4</sub>(AsO<sub>3</sub>OH)<sub>12</sub>·9H<sub>2</sub>O, a new acid arsenate with ferrinatrite-like heteropolyhedral chains from the Torrecillas mine, Iquique Province, Chile
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anthony R. Kampf, Stuart J. Mills, Barbara P. Nash, Maurizio Dini, Arturo A. Molina Donoso |

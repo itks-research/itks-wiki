@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Peter McDonough, Antonio López Pina, Samuel H. Barnes |
 |---|---|
 | **سال** | 1981 |

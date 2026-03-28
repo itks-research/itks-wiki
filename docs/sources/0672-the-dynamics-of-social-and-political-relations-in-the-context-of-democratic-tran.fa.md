@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | H. Çeli̇k, İbrahim Şahin, A. Öztürk, Emre Aydın |
 |---|---|
 | **سال** | 2025 |

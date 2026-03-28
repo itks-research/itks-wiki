@@ -1,7 +1,5 @@
 # Fiscal Relations across Government Levels
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Isabelle Joumard, Per Mathis Kongsrud |

@@ -1,7 +1,5 @@
 # How Far Has the Transition Progressed?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Peter Murrell |

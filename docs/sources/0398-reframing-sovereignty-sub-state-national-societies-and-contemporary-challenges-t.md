@@ -1,7 +1,5 @@
 # Reframing Sovereignty? Sub-State National Societies and Contemporary Challenges to the Nation-State
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Stephen Tierney |

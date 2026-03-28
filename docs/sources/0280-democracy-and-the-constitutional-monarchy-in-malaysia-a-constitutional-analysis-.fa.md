@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Samsul Kamil Osman |
 |---|---|
 | **سال** | 2025 |

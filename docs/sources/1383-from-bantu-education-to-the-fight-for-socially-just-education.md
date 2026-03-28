@@ -1,7 +1,5 @@
 # From Bantu Education to the Fight for Socially Just Education
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Bekisizwe S. Ndimande |

@@ -1,7 +1,5 @@
 # Civilizing religion : Jacobin projects of secularization in Turkey, France, Tunisia, and Syria
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Edward Webb |

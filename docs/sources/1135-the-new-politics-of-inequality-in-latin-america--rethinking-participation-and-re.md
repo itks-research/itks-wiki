@@ -1,7 +1,5 @@
 # The new politics of inequality in Latin America : rethinking participation and representation
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Douglas Chalmers |

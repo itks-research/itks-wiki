@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Malin Holm, Yasmine Skhiri, Pär Zetterberg |
 |---|---|
 | **سال** | 2023 |

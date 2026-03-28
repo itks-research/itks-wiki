@@ -1,7 +1,5 @@
 # Rally 'Round the Union Jack? Public Opinion and the Use of Force in the United Kingdom, 1948-2001
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Brian Lai, Dan Reiter |

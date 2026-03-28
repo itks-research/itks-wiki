@@ -1,7 +1,5 @@
 # Women’s Employment or Return to “Family Values” in Central-Eastern Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Barbara Łobodzińska |

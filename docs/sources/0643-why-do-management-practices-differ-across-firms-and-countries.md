@@ -1,7 +1,5 @@
 # Why Do Management Practices Differ across Firms and Countries?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Nicholas Bloom, John Van Reenen |

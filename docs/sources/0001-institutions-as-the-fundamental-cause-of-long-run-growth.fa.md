@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Daron Acemoğlu, Simon Johnson, James A. Robinson |
 |---|---|
 | **سال** | 2004 |

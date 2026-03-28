@@ -1,7 +1,5 @@
 # Driven by Growth: Political Change in the Asia-Pacific Region
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Donald S. Zagoria, James William Morley |

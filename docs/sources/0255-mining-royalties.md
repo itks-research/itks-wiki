@@ -1,7 +1,5 @@
 # Mining Royalties
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | James Otto, Craig B. Andrews, F.T. Cawood, Michael Doggett, Pietro Guj, Frank Stermole, John Stermole, John E. Tilton |

@@ -1,7 +1,5 @@
 # Pain Treatment in Primary Care Through Eight Constitution Medicine: A Retrospective Real-World Study from South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Nahyun Cho, Younkuk Choi, Heekyung Kim, Jeongmin Yun, Hyungsun Jun, Changsop Yang, Sungha Kim, Jungtae Leem |

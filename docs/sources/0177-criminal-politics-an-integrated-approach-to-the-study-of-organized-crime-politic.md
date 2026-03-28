@@ -1,7 +1,5 @@
 # Criminal Politics: An Integrated Approach to the Study of Organized Crime, Politics, and Violence
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Nicholas Barnes |

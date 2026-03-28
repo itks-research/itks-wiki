@@ -1,7 +1,5 @@
 # Accounting for Atrocities in Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Suzannah Linton |

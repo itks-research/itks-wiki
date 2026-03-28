@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | J. Sejkora, C. Biagioni, P. Škácha, Silvia Musetti, Z. Dolníček |
 |---|---|
 | **سال** | 2024 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Frank Hendriks, Linze Schaap |
 |---|---|
 | **سال** | 2011 |

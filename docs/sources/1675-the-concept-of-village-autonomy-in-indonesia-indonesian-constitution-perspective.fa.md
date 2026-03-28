@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Rifqi Ridlo Phahlevy |
 |---|---|
 | **سال** | 2016 |

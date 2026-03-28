@@ -1,7 +1,5 @@
 # The Economic Logic of Asian Preferential Trade Agreements: The Role of Intra-Industry Trade
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mark S. Manger |

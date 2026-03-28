@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Cristian Pîrvulescu |
 |---|---|
 | **سال** | 2026 |

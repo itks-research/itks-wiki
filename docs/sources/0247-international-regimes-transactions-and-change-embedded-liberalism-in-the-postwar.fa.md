@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | John Gerard Ruggie |
 |---|---|
 | **سال** | 1982 |

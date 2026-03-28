@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Charles Fehrenbach |
 |---|---|
 | **سال** | 1970 |

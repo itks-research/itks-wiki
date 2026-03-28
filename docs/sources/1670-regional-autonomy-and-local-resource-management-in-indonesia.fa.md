@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Bakti Setiawan, Sudharto P. Hadi |
 |---|---|
 | **سال** | 2007 |

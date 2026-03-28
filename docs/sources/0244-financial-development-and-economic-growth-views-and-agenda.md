@@ -1,7 +1,5 @@
 # Financial Development and Economic Growth: Views and Agenda
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ross Levine |

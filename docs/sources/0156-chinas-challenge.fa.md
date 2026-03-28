@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Andrew J. Nathan |
 |---|---|
 | **سال** | 2015 |

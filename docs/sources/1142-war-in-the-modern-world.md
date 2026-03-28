@@ -1,7 +1,5 @@
 # War in the Modern World
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Theodore Ropp |

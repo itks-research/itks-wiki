@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Stevan Harrell |
 |---|---|
 | **سال** | 1990 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 7 |
 | **شناسه دیجیتال** | [10.1353/late.1990.0009](https://doi.org/10.1353/late.1990.0009) |
 

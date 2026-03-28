@@ -1,7 +1,5 @@
 # Regime Consolidation through Transitional Justice in Europe: The Cases of Germany, Spain and Turkey
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anja Mihr |

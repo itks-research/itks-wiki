@@ -1,7 +1,5 @@
 # The Technological Structure and Performance of Developing Country Manufactured Exports, 1985‐98
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sanjaya Lall |

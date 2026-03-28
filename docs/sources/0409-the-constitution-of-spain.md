@@ -1,7 +1,5 @@
 # The Constitution of Spain
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Víctor Ferreres Comella |

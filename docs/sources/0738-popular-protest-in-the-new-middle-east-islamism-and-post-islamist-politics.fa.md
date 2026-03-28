@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Are John Knudsen, Basem Ezbidi |
 |---|---|
 | **سال** | 2014 |

@@ -1,7 +1,5 @@
 # Cascade Use of Wood in the Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | R. Babuka, A. Sujová, V. Kupčák |

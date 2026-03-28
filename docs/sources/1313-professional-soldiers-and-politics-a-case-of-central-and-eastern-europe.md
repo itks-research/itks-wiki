@@ -1,7 +1,5 @@
 # Professional Soldiers and Politics: A Case of Central and Eastern Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Štefan Sarvaš |

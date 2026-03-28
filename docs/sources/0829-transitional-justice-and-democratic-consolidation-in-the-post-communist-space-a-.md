@@ -1,7 +1,5 @@
 # Transitional Justice and Democratic Consolidation in the Post-Communist Space: A Comparative Review of the Czech Republic, Latvia and Slovakia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Yerkebulan Sairambay |

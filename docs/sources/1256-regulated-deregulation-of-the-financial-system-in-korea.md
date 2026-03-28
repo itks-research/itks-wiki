@@ -1,7 +1,5 @@
 # Regulated Deregulation of the Financial System in Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ismail Dalla, Deena R. Khatkhate |

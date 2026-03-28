@@ -1,7 +1,5 @@
 # Patterns of Socioeconomic Segregation in the Capital Cities of Fast-Track Reforming Postsocialist Countries
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Szymon Marcińczak, Tiit Tammaru, Jakub Novák, Michael Gentile, Zoltán Kovács, Jana Temelová, Vytautas Valatka, Anneli Kährik, Balázs Szabó |

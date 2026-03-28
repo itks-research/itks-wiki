@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Domenico Perrotta, Devi Sacchetto |
 |---|---|
 | **سال** | 2014 |

@@ -1,7 +1,5 @@
 # [Suicide rates in the Araucania Region of Chile].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Nelson Sánchez-Alarcón, Juan Pablo Frick-Raggi, F. Vega-Duarte |

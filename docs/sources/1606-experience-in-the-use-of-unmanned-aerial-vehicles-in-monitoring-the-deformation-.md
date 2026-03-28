@@ -1,7 +1,5 @@
 # EXPERIENCE IN THE USE OF UNMANNED AERIAL VEHICLES IN MONITORING THE DEFORMATION OF ENGINEERING STRUCTURES
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | B. Akhmedov, U.Z. Zaydulloev, G.Z. Akhmedova |

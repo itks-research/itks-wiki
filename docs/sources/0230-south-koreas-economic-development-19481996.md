@@ -1,7 +1,5 @@
 # South Korea’s Economic Development, 1948–1996
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Michael J. Seth |

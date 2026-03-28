@@ -1,7 +1,5 @@
 # Bureaucracy and Business in the Spanish Empire, 1759-1804: Failure of a Bourbon Beform in Mexico and Peru
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Stanley J. Stein |

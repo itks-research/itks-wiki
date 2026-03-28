@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | N. Alexandratos, Jelle Bruinsma, Alexandratos, Nikos, Bruinsma, Jelle |
 |---|---|
 | **سال** | 2012 |

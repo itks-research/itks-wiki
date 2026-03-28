@@ -1,7 +1,5 @@
 # CONSTITUTIONAL REFORMS IN TUNISIA AND EGYPT: PREREQUISITES AND CONSEQUENCES
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Kateryna Zakomorna, V.O. Chuiko |

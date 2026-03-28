@@ -1,7 +1,5 @@
 # Transitional Injustice? Criteria for Conformity of Lustration to the Right to Political Expression
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Roman David |

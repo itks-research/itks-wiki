@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Hein de Haas, Tineke Fokkema |
 |---|---|
 | **سال** | 2011 |

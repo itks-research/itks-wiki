@@ -1,7 +1,5 @@
 # Job resources boost work engagement, particularly when job demands are high.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Arnold B. Bakker, Jari Hakanen, Evangelia Demerouti, Despoina Xanthopoulou |

@@ -1,7 +1,5 @@
 # The rights to memory and truth in the Inter-American paradigms of transitional justice: the cases of Brazil and Chile
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Bruno Galindo, Juliana Passos de Castro |

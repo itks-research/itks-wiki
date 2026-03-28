@@ -1,14 +1,12 @@
 # Genomic Analysis of Carbapenem-Resistant Acinetobacter baumannii Isolated from Bloodstream Infections in South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | W. Jeon, Yoonjin Kim, J. Seo, J. Yoo, D. Moon |
 | **Year** | 2024 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 3 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.3390/antibiotics13121124](https://doi.org/10.3390/antibiotics13121124) |

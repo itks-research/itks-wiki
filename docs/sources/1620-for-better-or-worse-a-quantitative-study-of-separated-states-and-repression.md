@@ -1,7 +1,5 @@
 # For Better or Worse? A Quantitative Study of Separated States and Repression
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Adrian Tveit Lundemo |

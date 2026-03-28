@@ -1,7 +1,5 @@
 # L'islamisme et l'État en Tunisie
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Abdellatif Hermessi |

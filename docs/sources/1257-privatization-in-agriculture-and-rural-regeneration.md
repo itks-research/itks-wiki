@@ -1,7 +1,5 @@
 # Privatization in Agriculture and Rural Regeneration
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | H. Hudečková |

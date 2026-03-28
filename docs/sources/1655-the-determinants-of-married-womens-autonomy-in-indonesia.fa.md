@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Anu Rammohan, Meliyanni Johar |
 |---|---|
 | **سال** | 2009 |

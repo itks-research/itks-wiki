@@ -1,7 +1,5 @@
 # Lessons for REDD+ from measures to control illegal logging in Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | C. Luttrell, K. Obidzinski, Maria Brockhaus, E. Muharrom, Elena Petkova, Andrew Wardell, James Halperin |

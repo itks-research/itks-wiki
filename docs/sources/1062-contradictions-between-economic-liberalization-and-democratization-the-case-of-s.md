@@ -1,7 +1,5 @@
 # Contradictions between economic liberalization and democratization: The case of South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jonathan Moran |

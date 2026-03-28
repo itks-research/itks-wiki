@@ -1,7 +1,5 @@
 # Varieties of Religious Establishment
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Lori G. Beaman |

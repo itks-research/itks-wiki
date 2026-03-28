@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Hannes B. Mosler |
 |---|---|
 | **سال** | 2020 |

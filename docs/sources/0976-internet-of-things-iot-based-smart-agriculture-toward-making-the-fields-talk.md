@@ -1,7 +1,5 @@
 # Internet-of-Things (IoT)-Based Smart Agriculture: Toward Making the Fields Talk
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Muhammad Ayaz, Mohammad Ammad Uddin, Zubair Sharif, Ali Mansour, El‐Hadi M. Aggoune |

@@ -1,7 +1,5 @@
 # The Meaning and Evolution of Criminal Jury Trials in the U.S. Constitution : In Relation to the Citizen Participation Trial in South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jong Goo Kim |

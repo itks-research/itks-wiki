@@ -1,7 +1,5 @@
 # Bringing Secessionism into the Mainstream: The 2012 Regional Election in Catalonia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Guillem Rico, Robert Liñeira |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Sujit Choudhry, Richard Stacey |
 |---|---|
 | **سال** | 2013 |

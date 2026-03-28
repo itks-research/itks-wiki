@@ -1,7 +1,5 @@
 # Abellaite, NaPb2 (CO3)2 (OH), a new supergene mineral from the Eureka mine, Lleida province, Catalonia, Spain
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jordi Ibáñez, J. Elvira, Xavier Llovet, Jordi Pérez-Cano, Núria Oriols, Martí Busquets-Masó, S. Hernández |

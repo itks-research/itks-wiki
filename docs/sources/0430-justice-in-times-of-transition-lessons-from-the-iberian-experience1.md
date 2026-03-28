@@ -1,7 +1,5 @@
 # Justice in Times of Transition: Lessons from the Iberian Experience1
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Omar G. Encarnación |

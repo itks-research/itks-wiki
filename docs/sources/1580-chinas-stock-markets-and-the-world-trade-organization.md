@@ -1,7 +1,5 @@
 # China's Stock Markets and the World Trade Organization
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Michael Burke |

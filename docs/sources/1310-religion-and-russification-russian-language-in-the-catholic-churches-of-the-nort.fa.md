@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Theodore R. Weeks |
 |---|---|
 | **سال** | 2001 |

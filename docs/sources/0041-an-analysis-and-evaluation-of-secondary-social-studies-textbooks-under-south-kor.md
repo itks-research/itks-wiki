@@ -1,7 +1,5 @@
 # An Analysis and Evaluation of Secondary Social Studies Textbooks under South Korea’s First National Curriculum (1954–1963): Focusing on Yu Jin-o’s Politics and Society
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | K. Son |

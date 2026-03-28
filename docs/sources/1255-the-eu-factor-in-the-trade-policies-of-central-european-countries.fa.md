@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Bartłomiej Kamiński |
 |---|---|
 | **سال** | 1999 |

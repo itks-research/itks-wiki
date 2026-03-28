@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Mitu Gulati, Ugo Panizza, Mark C. Weidemaier, Gracie Willingham |
 |---|---|
 | **سال** | 2020 |

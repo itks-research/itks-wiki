@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Srishti D. Chatterji |
 |---|---|
 | **سال** | 1995 |

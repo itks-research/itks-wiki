@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Francisca Fernando, Juliet Johnson, Katharine Christopherson, Audrey Yiadom, Hanan Yazid, Clara Thiemann |
 |---|---|
 | **سال** | 2022 |

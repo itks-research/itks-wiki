@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Floyd W. Rudmin |
 |---|---|
 | **سال** | 2009 |

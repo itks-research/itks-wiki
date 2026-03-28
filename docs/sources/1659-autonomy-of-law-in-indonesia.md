@@ -1,7 +1,5 @@
 # Autonomy of law in Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Adriaan Bedner |

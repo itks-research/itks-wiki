@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Haig Patapan, Jeffrey Sikkenga |
 |---|---|
 | **سال** | 2024 |

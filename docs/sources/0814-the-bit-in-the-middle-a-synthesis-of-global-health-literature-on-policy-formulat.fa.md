@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | David Berlan, Kent Buse, Jeremy Shiffman, Sonja Tanaka |
 |---|---|
 | **سال** | 2014 |

@@ -1,7 +1,5 @@
 # Dynamics of the Ethiopian Religious Landscape during Democratic Transition
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | I. Zakharov |

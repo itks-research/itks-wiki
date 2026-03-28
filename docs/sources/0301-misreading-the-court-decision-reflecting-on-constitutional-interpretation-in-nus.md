@@ -1,7 +1,5 @@
 # Misreading the Court Decision: Reflecting on Constitutional Interpretation In Nusantara Capital Law Formation
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Dedy Simanungkalit, Vanny Vanny |

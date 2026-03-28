@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Muzammil Hussain, Philip N. Howard |
 |---|---|
 | **سال** | 2013 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Melvina Melvina, Julia Julia |
 |---|---|
 | **سال** | 2021 |

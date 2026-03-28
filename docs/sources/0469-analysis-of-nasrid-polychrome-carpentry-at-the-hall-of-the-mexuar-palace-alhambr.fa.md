@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Carolina Cardell, Luis Rodrigo Rodríguez-Simón, Isabel Guerra, Antonio Sánchez‐Navas |
 |---|---|
 | **سال** | 2008 |

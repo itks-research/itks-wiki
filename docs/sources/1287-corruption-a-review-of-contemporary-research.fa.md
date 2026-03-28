@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jens Christopher Andvig, Odd‐Helge Fjeldstad, Inge Amundsen, Tone Kristin Sissener, Tina Søreide |
 |---|---|
 | **سال** | 2001 |

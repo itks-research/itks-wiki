@@ -1,7 +1,5 @@
 # Digging up Spain's past: consequences of truth and reconciliation
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Georgina Blakeley |

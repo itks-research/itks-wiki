@@ -1,7 +1,5 @@
 # Civil-Military Relations in Post-Communist States: Central and Eastern Europe in Transition
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anton Bebler |

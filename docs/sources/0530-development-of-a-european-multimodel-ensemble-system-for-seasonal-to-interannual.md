@@ -1,7 +1,5 @@
 # DEVELOPMENT OF A EUROPEAN MULTIMODEL ENSEMBLE SYSTEM FOR SEASONAL-TO-INTERANNUAL PREDICTION (DEMETER)
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | T. N. Palmer, Andrea Alessandri, Uffe Andersen, Pierre Cantelaube, M. K. Davey, P. Délécluse, Michel Déqué, Emiliano Díez Villoria, Francisco J. Doblas‐Reyes, Henrik Feddersen, Richard Graham, Silvio Gualdi, Jean‐François Guérémy, Renate Hagedorn, Moshe Hoshen, Noel Keenlyside, Mojib Latif, Alban Lazar, Éric Maisonnave, Vittorio Marletto, Andrew P. Morse, B. Orfila, P. Rogel, J. M. Terres, M. C. Thomson |

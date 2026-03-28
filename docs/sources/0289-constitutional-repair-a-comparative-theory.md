@@ -1,7 +1,5 @@
 # Constitutional Repair: A Comparative Theory
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Tom Gerald Daly |

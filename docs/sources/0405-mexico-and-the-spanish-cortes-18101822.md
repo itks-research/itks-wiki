@@ -1,7 +1,5 @@
 # Mexico and the Spanish Cortes, 1810–1822
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anderson, W. Woodrow, Benson, Nettie Lee, Benson, Nettie Lee, Berry, Charles R., Breedlove, James M., Cunniff, Roger L., Garza, David T., Hann, John H., Macaulay, Neill, Neal, Clarice |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Y.A. Tsypkin, T.V. Bliznyukova, Anastasia V. Fomina, Ilya Vitalievich Chuksin |
 |---|---|
 | **سال** | 2024 |

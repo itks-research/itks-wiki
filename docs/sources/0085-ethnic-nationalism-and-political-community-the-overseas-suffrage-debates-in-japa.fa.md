@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Konrad Kalicki |
 |---|---|
 | **سال** | 2009 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Electoral system design and implementation |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 24 |
 | **شناسه دیجیتال** | [10.1080/10357820902923241](https://doi.org/10.1080/10357820902923241) |
 

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Hyun Song Shin |
 |---|---|
 | **سال** | 2009 |

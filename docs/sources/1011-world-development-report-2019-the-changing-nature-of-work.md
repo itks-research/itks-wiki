@@ -1,7 +1,5 @@
 # World Development Report 2019: The Changing Nature of Work
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | World Bank |

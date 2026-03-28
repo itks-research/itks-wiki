@@ -1,7 +1,5 @@
 # Governing the NGEU in Spain
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ignasi Carol Abril |

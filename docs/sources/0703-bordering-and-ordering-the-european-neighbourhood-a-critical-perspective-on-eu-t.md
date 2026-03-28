@@ -1,7 +1,5 @@
 # BORDERING AND ORDERING THE EUROPEAN NEIGHBOURHOOD: A CRITICAL PERSPECTIVE ON EU TERRITORIALITY AND GEOPOLITICS; pp. 232-247
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | James W. Scott |

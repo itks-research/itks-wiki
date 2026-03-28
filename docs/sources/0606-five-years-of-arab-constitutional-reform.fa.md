@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Zaid Al-Ali |
 |---|---|
 | **سال** | 2017 |

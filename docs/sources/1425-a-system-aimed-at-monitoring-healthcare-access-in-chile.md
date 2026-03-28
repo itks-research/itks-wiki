@@ -1,7 +1,5 @@
 # [A system aimed at monitoring healthcare access in Chile].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Luis Gómez, Alicia Núñez |

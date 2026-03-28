@@ -1,7 +1,5 @@
 # Regulatory Governance in Developing Countries
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | International Finance Corporation, Multilateral Investment Guarantee Agency, World Bank |

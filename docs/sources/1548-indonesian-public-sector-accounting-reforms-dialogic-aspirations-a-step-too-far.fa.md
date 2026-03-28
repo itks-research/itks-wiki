@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Harun Harun, Karen Van-Peursem, Ian R.C. Eggleton |
 |---|---|
 | **سال** | 2015 |

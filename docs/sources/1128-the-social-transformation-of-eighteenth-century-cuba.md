@@ -1,7 +1,5 @@
 # The social transformation of eighteenth-century Cuba
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

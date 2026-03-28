@@ -1,7 +1,5 @@
 # New Evidence and Perspectives on Mergers
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Gregor Andrade, Mark L. Mitchell, Erik Stafford |

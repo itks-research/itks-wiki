@@ -1,7 +1,5 @@
 # Poland
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | World Bank |

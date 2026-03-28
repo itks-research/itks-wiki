@@ -1,7 +1,5 @@
 # Democratic Consolidation, Judicial Reform, and the Judicialization of Politics in Southern Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Pedro C. Magalhães, Carlo Guarnieri, Yorgos Kaminis |

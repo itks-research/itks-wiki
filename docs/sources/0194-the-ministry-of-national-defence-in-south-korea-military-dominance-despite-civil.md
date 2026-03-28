@@ -1,7 +1,5 @@
 # The Ministry of National Defence in South Korea: Military dominance despite civilian supremacy?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Insoo Kim, D. Kuehn |

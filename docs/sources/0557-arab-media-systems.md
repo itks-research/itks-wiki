@@ -1,7 +1,5 @@
 # Arab Media Systems
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Carola Richter, Kozman, Claudia (Ed.) |

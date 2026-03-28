@@ -1,7 +1,5 @@
 # [Analysis of the organ allocation system for liver transplantation in Chile].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rodrigo Wolff, L. A. Díaz, Blanca Norero, Álvaro Urzúa, G. Mezzano, R. Humeres, F. Innocenti, Lorena Castro, C. Pavez, Carlos Derosas, Susana Elgueta |

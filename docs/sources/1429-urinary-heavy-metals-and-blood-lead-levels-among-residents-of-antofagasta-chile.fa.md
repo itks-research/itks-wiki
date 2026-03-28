@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | J. Ríos, L. Villarroel, Marisa Torres, Juan Pablo Astaburuaga, Cinthya Leiva, Paz Cook, P. Medel, Sandra Cortés |
 |---|---|
 | **سال** | 2020 |

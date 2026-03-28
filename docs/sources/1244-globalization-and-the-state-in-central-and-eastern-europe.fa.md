@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jan Drahokoupil |
 |---|---|
 | **سال** | 2008 |

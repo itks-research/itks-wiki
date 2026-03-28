@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Mark Yaniszewski |
 |---|---|
 | **سال** | 2002 |

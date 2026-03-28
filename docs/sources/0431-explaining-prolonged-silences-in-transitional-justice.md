@@ -1,7 +1,5 @@
 # Explaining Prolonged Silences in Transitional Justice
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Iosif Kovras |

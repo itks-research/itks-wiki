@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ikrar Nusa Bhakti, Sri Yanuarti, Mochamad Nurhasim |
 |---|---|
 | **سال** | 2009 |

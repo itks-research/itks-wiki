@@ -1,7 +1,5 @@
 # Mikhail Dragomanov on Consequences of Violating the Principle of Separation of Church and State
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ekateryna Bataeva |

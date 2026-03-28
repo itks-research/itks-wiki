@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ian Scoones, Marc Edelman, Saturnino M. Borras, Ruth Hall, Wendy Wolford, Ben White |
 |---|---|
 | **سال** | 2017 |

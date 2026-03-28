@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Romain Wacziarg, Karen Horn Welch |
 |---|---|
 | **سال** | 2003 |

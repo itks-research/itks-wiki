@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Manuel Aragón Reyes |
 |---|---|
 | **سال** | 2019 |

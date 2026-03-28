@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | José A. Gómez‐Limón, Carlos Gutiérrez‐Martín, Nazaret M. Montilla-López |
 |---|---|
 | **سال** | 2020 |

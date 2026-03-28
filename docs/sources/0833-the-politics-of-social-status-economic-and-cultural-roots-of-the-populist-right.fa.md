@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Noam Gidron, Peter A. Hall |
 |---|---|
 | **سال** | 2017 |

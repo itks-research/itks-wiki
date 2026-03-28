@@ -1,7 +1,5 @@
 # Decline and Disintegration: National Status Loss and Domestic Conflict in Post-Disaster Spain
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Steven Ward |

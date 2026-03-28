@@ -1,7 +1,5 @@
 # Global Report on Adult Learning and Education.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Lynne Chisholm, Abrar Hasan |

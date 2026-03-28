@@ -1,7 +1,5 @@
 # Forest and land-use governance in a decentralized Indonesia: A legal and policy review
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Fitrian Ardiansyah, Marthen A.A., N. Amalia |

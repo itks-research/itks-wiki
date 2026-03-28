@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Yustina Hiola, Mentari Rizki Sawitri Pilomonu, Asdar Asdar |
 |---|---|
 | **سال** | 2024 |

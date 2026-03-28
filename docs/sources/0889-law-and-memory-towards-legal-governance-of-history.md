@@ -1,7 +1,5 @@
 # Law and Memory: Towards Legal Governance of History
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jiří Přibáň |

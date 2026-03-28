@@ -1,7 +1,5 @@
 # Health financing for universal coverage and health system performance: concepts and implications for policy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Joseph Kutzin |

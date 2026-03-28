@@ -1,7 +1,5 @@
 # Interpreting constitutions in divided societies
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Hanna Lerner |

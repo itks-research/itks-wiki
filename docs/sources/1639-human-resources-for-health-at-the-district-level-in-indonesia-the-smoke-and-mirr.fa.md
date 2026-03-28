@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Peter Heywood, Nida P Harahap |
 |---|---|
 | **سال** | 2009 |

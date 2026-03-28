@@ -1,7 +1,5 @@
 # Decentralized Coastal Zone Management in Malaysia and Indonesia: A Comparative Perspective
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Hendra Yusran Siry |

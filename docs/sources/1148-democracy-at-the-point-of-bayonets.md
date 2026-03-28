@@ -1,7 +1,5 @@
 # Democracy at the Point of Bayonets
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mark Peceny |

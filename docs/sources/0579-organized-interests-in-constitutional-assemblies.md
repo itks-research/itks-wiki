@@ -1,7 +1,5 @@
 # Organized Interests in Constitutional Assemblies
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ian M. Hartshorn |

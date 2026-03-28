@@ -1,7 +1,5 @@
 # Contribución al conocimiento de los hongos chilenos
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Marcial R. Espinosa B. |

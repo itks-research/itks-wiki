@@ -1,7 +1,5 @@
 # Rights of Access To the Media
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | András Sajó, Monroe E. Price |

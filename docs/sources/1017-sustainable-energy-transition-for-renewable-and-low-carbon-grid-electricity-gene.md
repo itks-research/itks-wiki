@@ -1,7 +1,5 @@
 # Sustainable Energy Transition for Renewable and Low Carbon Grid Electricity Generation and Supply
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Moses Jeremiah Barasa Kabeyi, Oludolapo Akanni Olanrewaju |

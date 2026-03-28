@@ -1,7 +1,5 @@
 # Anti-Terrorism Laws in the Maghreb Countries: The Mirror of a Democratic Transition that Never Was
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | F. Tamburini |

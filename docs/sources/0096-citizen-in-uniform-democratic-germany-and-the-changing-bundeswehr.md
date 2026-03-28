@@ -1,14 +1,12 @@
 # Citizen in Uniform:" Democratic Germany and the Changing Bundeswehr"
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jens-Olaf Koltermann |
 | **Year** | 2012 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 3 |
 | **Source** | openalex |
 | **DOI** | [10.21236/ada561468](https://doi.org/10.21236/ada561468) |

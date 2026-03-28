@@ -1,7 +1,5 @@
 # A History of the Gypsies of Eastern Europe and Russia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | David M. Crowe |

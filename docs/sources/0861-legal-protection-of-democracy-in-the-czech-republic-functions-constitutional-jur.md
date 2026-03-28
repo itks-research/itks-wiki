@@ -1,7 +1,5 @@
 # Legal protection of democracy in the Czech Republic: functions constitutional jurisprudence
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | V. Kopča |

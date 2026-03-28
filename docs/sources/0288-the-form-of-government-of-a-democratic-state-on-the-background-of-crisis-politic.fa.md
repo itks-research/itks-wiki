@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Artem Alekseenko |
 |---|---|
 | **سال** | 2024 |

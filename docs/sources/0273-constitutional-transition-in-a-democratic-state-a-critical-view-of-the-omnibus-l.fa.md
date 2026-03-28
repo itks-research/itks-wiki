@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Arif Rahman, Ahmad Zaini, Hajani Hajani, Rendi Haerudin, Ahmad Jamaludin Jambunanda |
 |---|---|
 | **سال** | 2024 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Paolo E. Porporato, Nicoletta Filigheddu, José Manuel Bravo‐San Pedro, Guido Kroemer, Lorenzo Galluzzi |
 |---|---|
 | **سال** | 2017 |

@@ -1,7 +1,5 @@
 # How Does the Tobacco Industry Attempt to Influence Marketing Regulations? A Systematic Review
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Emily Savell, Anna Gilmore, Gary Fooks |

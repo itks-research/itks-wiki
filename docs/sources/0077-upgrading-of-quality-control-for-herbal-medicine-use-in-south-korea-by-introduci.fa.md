@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Soo-Hyun Sung |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.3831/kpi.2024.27.3.270](https://doi.org/10.3831/kpi.2024.27.3.270) |
 

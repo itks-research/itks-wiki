@@ -1,7 +1,5 @@
 # Occupy Congress in Taiwan: Political Opportunity, Threat, and the Sunflower Movement
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ming‐sho Ho |

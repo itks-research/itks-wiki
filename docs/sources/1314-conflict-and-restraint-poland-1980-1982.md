@@ -1,7 +1,5 @@
 # Conflict and Restraint: Poland, 1980-1982
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Paul Wehr |

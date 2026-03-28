@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Luis Carlos Martínez Fernández, José Antonio Luengo Gallego |
 |---|---|
 | **سال** | 2005 |

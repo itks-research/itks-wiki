@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Richard W. Wilson |
 |---|---|
 | **سال** | 1988 |

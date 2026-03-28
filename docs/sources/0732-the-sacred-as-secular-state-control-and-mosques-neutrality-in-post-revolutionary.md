@@ -1,7 +1,5 @@
 # The Sacred as Secular: State Control and Mosques Neutrality in Post-Revolutionary Tunisia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Teije Hidde Donker |

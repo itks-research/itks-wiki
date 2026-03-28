@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Andreu Orte, Alex Wilson |
 |---|---|
 | **سال** | 2009 |

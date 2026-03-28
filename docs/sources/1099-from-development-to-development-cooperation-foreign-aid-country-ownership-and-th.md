@@ -1,7 +1,5 @@
 # From development to development cooperation: foreign aid, country ownership, and the developmental state in South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Eun Mee Kim, Pil Ho Kim, Jin‐Kyung Kim |

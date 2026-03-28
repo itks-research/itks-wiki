@@ -1,7 +1,5 @@
 # Ceramics with metallic lustre decoration. A detailed study of Islamic productions from the 9th century until the Renaissance
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Delhia Chabanne, M. Aucouturier, Anne Bouquillon, Évelyne Darque-Ceretti, S. Makariou, Xavier Dectot, Antoinette Faÿ-Hallé, D. Miroudot |

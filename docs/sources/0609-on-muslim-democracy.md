@@ -1,7 +1,5 @@
 # On Muslim Democracy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rached Ghannouchi, Andrew F. March |

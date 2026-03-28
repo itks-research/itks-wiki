@@ -1,7 +1,5 @@
 # Administration of Personnel Security in the Context of Legal Security
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | I. Korzh |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Grote Rainer, Röder Tilmann J |
 |---|---|
 | **سال** | 2016 |

@@ -1,7 +1,5 @@
 # Islamisation And Democratic Transition In The Post- Revolution Egypt
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ghazali Bello Abubakar |

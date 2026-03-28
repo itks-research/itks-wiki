@@ -1,7 +1,5 @@
 # Transformation of cities in Central and Eastern Europe: towards globalization
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

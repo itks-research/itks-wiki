@@ -1,7 +1,5 @@
 # Transitional Justice
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Alexander Laban Hinton |

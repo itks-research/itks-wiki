@@ -1,7 +1,5 @@
 # Trade, Migration, and Welfare: The Impact of Social Capital
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Maurice Schiff |

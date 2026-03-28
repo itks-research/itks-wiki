@@ -1,7 +1,5 @@
 # Effects of presidential elections on accounting conservatism: Evidence from South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sang Ho Kim, Y. An |

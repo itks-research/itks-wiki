@@ -1,7 +1,5 @@
 # Dealing with a Legacy of Mass Atrocity: Truth Commissions in Uganda and Chile
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Joanna R. Quinn |

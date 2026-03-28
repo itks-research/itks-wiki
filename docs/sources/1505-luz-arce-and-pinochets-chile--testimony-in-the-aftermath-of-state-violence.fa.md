@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Michael J. Lazzara, Luz Arce, Carl Fischer, Jean Franco |
 |---|---|
 | **سال** | 2011 |

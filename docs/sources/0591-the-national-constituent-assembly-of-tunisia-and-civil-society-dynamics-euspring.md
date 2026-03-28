@@ -1,7 +1,5 @@
 # The National Constituent Assembly of Tunisia and Civil Society Dynamics. EUSpring Working Paper No. 2, 8 July 2015
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Hamadi Redissi, Rihab Boukhayatia |

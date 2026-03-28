@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jens-Olaf Koltermann |
 |---|---|
 | **سال** | 2012 |
 | **دسته‌بندی** | Constitutional design and drafting processes |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.21236/ada561468](https://doi.org/10.21236/ada561468) |
 

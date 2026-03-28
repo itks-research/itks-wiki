@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Fang-Pey Chen, Tzeng‐Ji Chen, Yen‐Ying Kung, Yu‐Chun Chen, Li‐Fang Chou, Fan-Jou Chen, Shinn‐Jang Hwang |
 |---|---|
 | **سال** | 2007 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 297 |
 | **شناسه دیجیتال** | [10.1186/1472-6963-7-26](https://doi.org/10.1186/1472-6963-7-26) |
 

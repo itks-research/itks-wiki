@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Leslie Vinjamuri, Michelle Sieff |
 |---|---|
 | **سال** | 1999 |

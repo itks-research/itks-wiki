@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Kenneth D. Bush, Diana Saltarelli |
 |---|---|
 | **سال** | 2000 |

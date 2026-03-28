@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Oleh Havrylyshyn, Rutger Wissels |
 |---|---|
 | **سال** | 1994 |

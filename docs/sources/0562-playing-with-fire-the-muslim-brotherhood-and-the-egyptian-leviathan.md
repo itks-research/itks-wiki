@@ -1,7 +1,5 @@
 # Playing with Fire. The Muslim Brotherhood and the Egyptian Leviathan
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Daniela Pioppi |

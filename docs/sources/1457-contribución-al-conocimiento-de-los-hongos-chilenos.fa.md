@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Marcial R. Espinosa B. |
 |---|---|
 | **سال** | 1937 |

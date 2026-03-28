@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Manuel Cárdenas, Darío Páez, Bernard Rimé, Marían Bilbao, Domingo Asún |
 |---|---|
 | **سال** | 2014 |

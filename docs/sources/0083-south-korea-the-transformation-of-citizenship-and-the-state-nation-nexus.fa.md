@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Chulwoo Lee |
 |---|---|
 | **سال** | 2010 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 34 |
 | **شناسه دیجیتال** | [10.1080/00472331003597562](https://doi.org/10.1080/00472331003597562) |
 

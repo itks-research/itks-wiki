@@ -1,7 +1,5 @@
 # From Denial to Reluctant Dialogue: The Chilean Military's Confrontation with Human Rights (1990-2006)
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Onur Bakıner |

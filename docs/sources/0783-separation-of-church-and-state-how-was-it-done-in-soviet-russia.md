@@ -1,7 +1,5 @@
 # Separation of Church and State: How was It Done in Soviet Russia?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Никита Кузнецов |

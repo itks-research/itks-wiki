@@ -1,7 +1,5 @@
 # Explaining External Support for Insurgent Groups
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Idean Salehyan, Kristian Skrede Gleditsch, David Cunningham |

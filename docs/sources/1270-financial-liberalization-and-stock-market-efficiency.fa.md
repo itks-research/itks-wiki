@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Maria Ciupac-Ulici, Ioan Alin Nistor |
 |---|---|
 | **سال** | 2011 |

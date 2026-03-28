@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | David E. Bloom, Elizabeth Cafiero, Eva Jané‐Llopis, Shafika Abrahams‐Gessel, Lakshmi Reddy Bloom, Sana Fathima, Andrea B Feigl, Thomas A. Gaziano, Ali Hamandi, Mona Mowafi, Danny O’Farrell, Emre Özaltin, Apurvakumar Pandya, Klaus Prettner, Larry Rosenberg, Benjamin Seligman, Adam Stein, Cara Weinstein, Jonathan A. Weiss |
 |---|---|
 | **سال** | 2012 |

@@ -1,7 +1,5 @@
 # The Revenge of Homo Economicus: Contested Exchange and the Revival of Political Economy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Samuel Bowles, Herbert Gintis |

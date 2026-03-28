@@ -1,7 +1,5 @@
 # Public Participation in Constitution Making for the Democratic Transition in Thailand
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Tanaroj Lortanapaisan |

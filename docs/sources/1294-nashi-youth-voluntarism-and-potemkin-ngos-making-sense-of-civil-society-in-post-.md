@@ -1,7 +1,5 @@
 # Nashi, Youth Voluntarism, and Potemkin NGOs: Making Sense of Civil Society in Post-Soviet Russia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Julie Hemment |

@@ -1,14 +1,12 @@
 # Fish for Life : Interactive Governance for Fisheries
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Boissevain, Jeremy |
 | **Year** | 2005 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 563 |
 | **Source** | openalex |
 | **DOI** | [10.5117/9789053566862](https://doi.org/10.5117/9789053566862) |

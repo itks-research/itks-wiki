@@ -1,7 +1,5 @@
 # Social Movements as Constituent Power: The Italian Struggle for the Commons
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Bailey, Mattei |

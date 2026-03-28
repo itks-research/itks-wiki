@@ -1,7 +1,5 @@
 # Legislating for labour protection: betting on the weak or the strong?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Christopher D. Manning |

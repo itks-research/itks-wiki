@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Wim van Binsbergen |
 |---|---|
 | **سال** | 1991 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ali Farazmand﻿ |
 |---|---|
 | **سال** | 2022 |

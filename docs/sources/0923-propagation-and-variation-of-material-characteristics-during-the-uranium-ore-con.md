@@ -1,7 +1,5 @@
 # Propagation and variation of material characteristics during the uranium ore concentrate production at Dolní Rožinka, Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Z. Varga, A. Nicholl, M. Wallenius, K. Mayer, Todd Mock |

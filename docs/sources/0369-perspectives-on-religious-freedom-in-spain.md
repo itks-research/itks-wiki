@@ -1,7 +1,5 @@
 # Perspectives on Religious Freedom in Spain
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | José Antonio Souto Paz |

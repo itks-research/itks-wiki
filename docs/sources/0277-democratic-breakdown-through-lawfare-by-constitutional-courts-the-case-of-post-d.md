@@ -1,7 +1,5 @@
 # Democratic Breakdown through Lawfare by Constitutional Courts: The Case of Post-"Democratic Transition" Thailand
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Eugénie Mérieau |

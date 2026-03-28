@@ -1,14 +1,12 @@
 # Macroeconomics and Politics
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Alberto Alesina |
 | **Year** | 1988 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 608 |
 | **Source** | openalex |
 | **DOI** | [10.1086/654070](https://doi.org/10.1086/654070) |

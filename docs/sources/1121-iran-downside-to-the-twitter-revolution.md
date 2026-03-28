@@ -1,7 +1,5 @@
 # Iran: Downside to the "Twitter Revolution"
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Evgeny Morozov |

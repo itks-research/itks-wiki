@@ -1,7 +1,5 @@
 # Authoritarianism, Democracy, Islamic Movements and Contestations of Islamic Religious Ideas in Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Greg Barton, İhsan Yılmaz, Nicholas Morieson |

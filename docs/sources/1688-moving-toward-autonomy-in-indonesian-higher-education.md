@@ -1,7 +1,5 @@
 # Moving toward Autonomy in Indonesian Higher Education
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Eric Beerkens |

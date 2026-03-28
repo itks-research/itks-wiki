@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Pan Suk Kim, Kwanbo Kim |
 |---|---|
 | **سال** | 2001 |

@@ -1,7 +1,5 @@
 # The Military Transition: Democratic Reform of the Armed Forces
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Narcìs Serra i Serra, Karin Miller, Richard McRoberts, Nola Errey |

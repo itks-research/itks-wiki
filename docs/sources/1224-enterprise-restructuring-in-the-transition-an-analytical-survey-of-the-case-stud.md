@@ -1,7 +1,5 @@
 # Enterprise restructuring in the transition: an analytical survey of the case study evidence from central and eastern Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Wendy Carlin, John Van Reenen, Toby Wolfe |

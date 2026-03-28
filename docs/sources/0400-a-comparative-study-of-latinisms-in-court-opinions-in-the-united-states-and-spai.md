@@ -1,7 +1,5 @@
 # A comparative study of Latinisms in court opinions in the United States and Spain
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Isabel Balteiro, Miguel Ángel Campos Pardillos |

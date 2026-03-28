@@ -1,7 +1,5 @@
 # Camaronesite, [Fe<sup>3+</sup>(H<sub>2</sub>O)<sub>2</sub>(PO<sub>3</sub>OH)]<sub>2</sub>(SO<sub>4</sub>)·1–2H<sub>2</sub>O, a new phosphate-sulfate from the Camarones Valley, Chile, structurally related to taranakite
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anthony R. Kampf, Stuart J. Mills, Barbara P. Nash, R. M. Housley, George R. Rossman, Maurizio Dini |

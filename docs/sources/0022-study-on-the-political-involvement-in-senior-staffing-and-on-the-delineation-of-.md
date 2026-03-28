@@ -1,7 +1,5 @@
 # Study on the Political Involvement in Senior Staffing and on the Delineation of Responsibilities Between Ministers and Senior Civil Servants
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Alex Matheson, Boris Weber, Nick Manning, E. J. Arnould |

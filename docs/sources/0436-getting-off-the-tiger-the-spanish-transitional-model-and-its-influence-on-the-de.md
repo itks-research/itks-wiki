@@ -1,7 +1,5 @@
 # “Getting off the Tiger”: The Spanish Transitional Model and its Influence on the Democratic Transitions in Argentina and Chile, 1977–1990
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Daniel Gunnar Kressel |

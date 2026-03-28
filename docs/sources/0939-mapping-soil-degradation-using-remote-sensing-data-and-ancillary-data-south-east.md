@@ -1,7 +1,5 @@
 # Mapping soil degradation using remote sensing data and ancillary data: South-East Moravia, Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Daniel Žížala, Anna Juřicová, T. Zádorová, K. Zelenkova, R. Minařík |

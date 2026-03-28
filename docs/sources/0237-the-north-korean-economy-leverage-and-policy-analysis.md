@@ -1,7 +1,5 @@
 # The North Korean Economy: Leverage and Policy Analysis
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Dick K. Nanto, Emma Chanlett-Avery |

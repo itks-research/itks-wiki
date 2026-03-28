@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Mathias Koenig‐Archibugi |
 |---|---|
 | **سال** | 2004 |

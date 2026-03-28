@@ -1,7 +1,5 @@
 # Public preferences for post 2020 agri-environmental policy in the Czech Republic: A choice experiment approach
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | I. Grammatikopoulou, T. Badura, Davina Vačkářová |

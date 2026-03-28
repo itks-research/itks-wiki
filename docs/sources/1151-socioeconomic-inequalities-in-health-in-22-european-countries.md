@@ -1,7 +1,5 @@
 # Socioeconomic Inequalities in Health in 22 European Countries
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Johan P. Mackenbach, Irina Stirbu, Albert‐Jan Roskam, M. Schaap, Gwenn Menvielle, Mall Leinsalu, Anton E. Kunst |

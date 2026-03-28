@@ -1,7 +1,5 @@
 # Korea’s Two Key Legal Reforms of Lay Adjudication: The Possible Introduction of the Grand Jury (Japan’s Prosecutorial Review Commission) System and the Elimination of Consent Requirement to Allow Lay Adjudication of American Military Felons in South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Hiroshi Fukurai, Sunsul Park |

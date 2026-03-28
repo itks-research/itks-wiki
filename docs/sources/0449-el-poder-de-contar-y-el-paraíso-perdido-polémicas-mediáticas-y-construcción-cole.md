@@ -1,7 +1,5 @@
 # El poder de contar y el paraíso perdido. Polémicas mediáticas y construcción colectiva de la memoria en España
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sebastiaan Faber, Pablo Sánchez León, Jesús Izquierdo Martín |

@@ -1,7 +1,5 @@
 # Reforming civil–military relations
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | David Kuehn, Aurel Croissant |

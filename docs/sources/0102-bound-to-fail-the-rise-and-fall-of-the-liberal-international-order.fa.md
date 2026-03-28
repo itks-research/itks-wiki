@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | John J. Mearsheimer |
 |---|---|
 | **سال** | 2019 |
 | **دسته‌بندی** | Constitutional design and drafting processes |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 859 |
 | **شناسه دیجیتال** | [10.1162/isec_a_00342](https://doi.org/10.1162/isec_a_00342) |
 

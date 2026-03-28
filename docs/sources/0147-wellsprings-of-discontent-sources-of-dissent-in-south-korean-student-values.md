@@ -1,7 +1,5 @@
 # Wellsprings of Discontent: Sources of Dissent in South Korean Student Values
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Richard W. Wilson |

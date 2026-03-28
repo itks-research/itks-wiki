@@ -1,7 +1,5 @@
 # Social Structure of the Túpac Amaru Army in Cuzco, 1780-81*
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | León G. Campbell |

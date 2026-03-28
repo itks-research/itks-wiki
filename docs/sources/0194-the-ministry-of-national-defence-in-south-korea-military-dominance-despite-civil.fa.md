@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Insoo Kim, D. Kuehn |
 |---|---|
 | **سال** | 2022 |

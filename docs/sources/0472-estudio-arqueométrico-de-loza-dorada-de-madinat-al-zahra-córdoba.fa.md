@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | A. Polvorinos del Río, J. Castaing, Stefan Roehrs, Antonio Vallejo Triano, José Escudero Aranda |
 |---|---|
 | **سال** | 2008 |

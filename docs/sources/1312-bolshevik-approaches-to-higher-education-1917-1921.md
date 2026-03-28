@@ -1,7 +1,5 @@
 # Bolshevik Approaches to Higher Education, 1917-1921
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | James C. Mc Clelland |

@@ -1,7 +1,5 @@
 # The 2011 General Election in Spain: The Collapse of the Socialist Party
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Irene Martín, Ignacio Urquizu–Sancho |

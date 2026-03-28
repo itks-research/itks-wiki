@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Karolina Pawlak, Małgorzata Kołodziejczak |
 |---|---|
 | **سال** | 2020 |

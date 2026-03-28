@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Tanaroj Lortanapaisan |
 |---|---|
 | **سال** | 2024 |

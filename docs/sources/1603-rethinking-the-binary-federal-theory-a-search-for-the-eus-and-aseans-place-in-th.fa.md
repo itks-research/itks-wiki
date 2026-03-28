@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Fran Marko Stojković |
 |---|---|
 | **سال** | 2020 |

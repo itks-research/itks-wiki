@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Kyung-Young Lee |
 |---|---|
 | **سال** | 2025 |

@@ -1,7 +1,5 @@
 # Decolonization is not a metaphor
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Eve Tuck, K. Wayne Yang |

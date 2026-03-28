@@ -1,7 +1,5 @@
 # Special autonomy policy evaluation to improve community welfare in Papua province Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Purwoko Aji Prabowo, Bambang Supriyono, Irwan Noor, MR. Khairul Muluk |

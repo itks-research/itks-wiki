@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Arne Niemann, Natascha Zaun |
 |---|---|
 | **سال** | 2017 |

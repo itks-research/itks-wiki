@@ -1,7 +1,5 @@
 # UN Constitutional Assistance Projects in Comprehensive Peace Missions: An Inventory 1989–2011
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Vijayashri Sripati |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Swati Basu, Estrin Saul, Jan Svejnar |
 |---|---|
 | **سال** | 1997 |

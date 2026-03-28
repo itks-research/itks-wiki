@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Mai Hassan, Daniel Mattingly, Elizabeth R. Nugent |
 |---|---|
 | **سال** | 2021 |

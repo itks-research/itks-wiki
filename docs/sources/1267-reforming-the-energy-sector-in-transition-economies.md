@@ -1,7 +1,5 @@
 # Reforming the energy sector in transition economies
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Dale F. Gray |

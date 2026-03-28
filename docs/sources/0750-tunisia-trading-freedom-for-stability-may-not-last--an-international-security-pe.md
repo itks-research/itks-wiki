@@ -1,7 +1,5 @@
 # Tunisia: Trading Freedom for Stability May Not Last – An International Security Perspective
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Alejandro Sánchez |

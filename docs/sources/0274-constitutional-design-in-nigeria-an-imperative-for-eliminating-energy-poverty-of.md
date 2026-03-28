@@ -1,7 +1,5 @@
 # Constitutional Design in Nigeria: An Imperative for Eliminating Energy Poverty of Women
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Hilary Okoeguale |

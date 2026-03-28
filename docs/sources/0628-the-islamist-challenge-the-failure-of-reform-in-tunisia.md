@@ -1,7 +1,5 @@
 # The Islamist Challenge: The Failure of Reform in Tunisia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mark Gasiorowski |

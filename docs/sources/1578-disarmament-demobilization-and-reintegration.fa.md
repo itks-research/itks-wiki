@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Alpaslan Özerdem |
 |---|---|
 | **سال** | 2013 |

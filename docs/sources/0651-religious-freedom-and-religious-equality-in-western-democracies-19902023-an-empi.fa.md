@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jonathan Fox, Ariel Zellman |
 |---|---|
 | **سال** | 2025 |

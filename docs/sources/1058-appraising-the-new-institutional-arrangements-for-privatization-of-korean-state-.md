@@ -1,7 +1,5 @@
 # APPRAISING THE NEW INSTITUTIONAL ARRANGEMENTS FOR PRIVATIZATION OF KOREAN STATE-OWNED ENTERPRISES
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Pan Suk Kim, Kwanbo Kim |

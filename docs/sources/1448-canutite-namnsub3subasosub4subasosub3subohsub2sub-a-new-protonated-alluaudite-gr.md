@@ -1,7 +1,5 @@
 # Canutite, NaMn<sub>3</sub>[AsO<sub>4</sub>][AsO<sub>3</sub>(OH)]<sub>2</sub>, a new protonated alluaudite-group mineral from the Torrecillas mine, Iquique Province, Chile
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anthony R. Kampf, Stuart J. Mills, Frédéric Hatert, Barbara P. Nash, Maurizio Dini, Arturo A. Molina Donoso |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Fidyati Fidyati |
 |---|---|
 | **سال** | 2017 |

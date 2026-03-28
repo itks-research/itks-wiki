@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | D'Angelo, P, Büchel, F, Esser, F |
 |---|---|
 | **سال** | 2014 |

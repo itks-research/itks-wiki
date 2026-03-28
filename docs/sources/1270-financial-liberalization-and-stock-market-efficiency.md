@@ -1,7 +1,5 @@
 # FINANCIAL LIBERALIZATION AND STOCK MARKET EFFICIENCY
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Maria Ciupac-Ulici, Ioan Alin Nistor |

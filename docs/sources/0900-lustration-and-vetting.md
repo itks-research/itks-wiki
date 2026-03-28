@@ -1,7 +1,5 @@
 # Lustration and vetting
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Lavinia Stan |

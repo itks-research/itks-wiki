@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Adrian Tveit Lundemo |
 |---|---|
 | **سال** | 2017 |

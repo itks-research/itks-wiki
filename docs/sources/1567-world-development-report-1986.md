@@ -1,7 +1,5 @@
 # World Development Report 1986
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | World Bank |

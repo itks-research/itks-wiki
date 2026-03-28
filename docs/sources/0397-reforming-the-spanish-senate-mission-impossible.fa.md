@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Edeltraud Roller |
 |---|---|
 | **سال** | 2002 |

@@ -1,7 +1,5 @@
 # The Dilemmas of Korea's New Democracy in an Age of Neoliberal Globalisation
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Kwang‐Yeong Shin |

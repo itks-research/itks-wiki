@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Yaroslav Pushak, Volodymyr Lagodiienko, Nataliya Basiurkina, Valerii Nemchenko, Nataliіa Lagodiіenko |
 |---|---|
 | **سال** | 2021 |

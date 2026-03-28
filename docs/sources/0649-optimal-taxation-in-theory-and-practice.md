@@ -1,7 +1,5 @@
 # Optimal Taxation in Theory and Practice
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | N. Gregory Mankiw, Matthew Weinzierl, Danny Yagan |

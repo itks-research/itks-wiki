@@ -1,7 +1,5 @@
 # Evaluating the Effects of the EU Common Agriculture Policy in a New Member State: The Case of the Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Michael Baun, K Kouba, Dan Marek |

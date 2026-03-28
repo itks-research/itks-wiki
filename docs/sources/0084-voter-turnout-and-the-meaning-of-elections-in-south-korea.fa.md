@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | C. I. Eugene Kim, Young-Whan Kihl, Doock-Kyou Chung |
 |---|---|
 | **سال** | 1973 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Electoral system design and implementation |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 8 |
 | **شناسه دیجیتال** | [10.2307/2642860](https://doi.org/10.2307/2642860) |
 

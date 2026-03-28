@@ -1,7 +1,5 @@
 # The Spanish Public in Political Transition
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Peter McDonough, Antonio López Pina, Samuel H. Barnes |

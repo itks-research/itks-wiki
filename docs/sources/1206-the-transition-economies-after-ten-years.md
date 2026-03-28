@@ -1,7 +1,5 @@
 # The Transition Economies After Ten Years
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Stanley Fischer, Ratna Sahay |

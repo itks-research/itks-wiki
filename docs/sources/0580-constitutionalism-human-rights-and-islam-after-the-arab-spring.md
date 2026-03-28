@@ -1,7 +1,5 @@
 # Constitutionalism, Human Rights, and Islam after the Arab Spring
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Grote Rainer, Röder Tilmann J |

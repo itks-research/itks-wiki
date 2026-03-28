@@ -1,7 +1,5 @@
 # Evolution or Revolution? Transitional Justice Culture Across Borders
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Stephanie R. Golob |

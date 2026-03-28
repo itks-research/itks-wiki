@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Alex Behn, P. Vöhringer, P. Martínez, Ana Paula Domínguez, Arantza González, M. Carrasco, S. Gloger |
 |---|---|
 | **سال** | 2020 |

@@ -1,7 +1,5 @@
 # [Development of Normative Data for the Mini Mental State Examination (MMSE) in the Elderly Population of Chile: A Multi-City Study].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Matías Molina-Donoso, J. González-Hernández, C. Delgado, Vicente Cancino, Sebastián Bello-Lepe, María Francisca Alonso-Sánchez, Gonzalo Forno, F. Henríquez, Patricia Lillo, Gada Musa, Patricia Alegría, P. Delano, Noelia Retuerto, Hélène Amieva, A. Slachevsky |

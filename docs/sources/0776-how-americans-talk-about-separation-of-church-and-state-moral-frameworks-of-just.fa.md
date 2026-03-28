@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | K. Hull, Penny Edgell |
 |---|---|
 | **سال** | 2020 |

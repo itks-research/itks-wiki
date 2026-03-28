@@ -1,7 +1,5 @@
 # France: High and stable fertility
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Laurent Toulemon, Ariane Pailhé, Clémentine Rossier |

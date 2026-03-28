@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jonathan Mayhew |
 |---|---|
 | **سال** | 2002 |

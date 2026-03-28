@@ -1,7 +1,5 @@
 # Presidential Term Limits and the African Union
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Micha Wiebusch, Christina Murray |

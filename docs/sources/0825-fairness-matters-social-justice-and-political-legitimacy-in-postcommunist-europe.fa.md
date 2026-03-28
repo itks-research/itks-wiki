@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | James R. Kluegel, David S. Mason |
 |---|---|
 | **سال** | 2004 |

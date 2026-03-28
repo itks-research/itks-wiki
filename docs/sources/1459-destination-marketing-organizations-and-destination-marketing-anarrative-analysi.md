@@ -1,7 +1,5 @@
 # Destination Marketing Organizations and destination marketing: A narrative analysis of the literature
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Steven Pike, Stephen J. Page |

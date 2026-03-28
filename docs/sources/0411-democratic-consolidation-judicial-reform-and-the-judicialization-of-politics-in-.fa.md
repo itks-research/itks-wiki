@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Pedro C. Magalhães, Carlo Guarnieri, Yorgos Kaminis |
 |---|---|
 | **سال** | 2006 |

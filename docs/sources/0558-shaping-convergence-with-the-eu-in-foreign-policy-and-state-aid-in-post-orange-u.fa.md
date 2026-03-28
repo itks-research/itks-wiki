@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Антоанета Димитрова, Rilka Dragneva |
 |---|---|
 | **سال** | 2013 |

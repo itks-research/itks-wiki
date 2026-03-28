@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Erin Bell, Ann Gray |
 |---|---|
 | **سال** | 2010 |

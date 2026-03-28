@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Susanne Y. P. Choi, Roman David |
 |---|---|
 | **سال** | 2012 |

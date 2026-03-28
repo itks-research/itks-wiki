@@ -1,7 +1,5 @@
 # Using Natural Resources for Development: Why Has It Proven So Difficult?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anthony J. Venables |

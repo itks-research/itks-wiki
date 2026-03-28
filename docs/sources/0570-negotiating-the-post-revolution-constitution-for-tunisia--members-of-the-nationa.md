@@ -1,7 +1,5 @@
 # Negotiating the Post-Revolution Constitution for Tunisia – Members of the National Constituent Assembly Share Their Experiences
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Abrak Saati |

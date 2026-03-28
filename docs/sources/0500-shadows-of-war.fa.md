@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Efrat Ben-Ze’ev, Efrat Ben-Ze’ev, Efrat Ben-Ze'ev, Jay Winter, Jay Winter, Eviatar Zerubavel, Mary Vincent, Mary Vincent, Jeffrey K. Olick, Svenja Goltermann, Raphaëlle Branche, Raphaëlle Branche, Ruth Ginio, Louise Bethlehem, Taner Akçam, Taner Akçam, Efrat Ben-Ze'ev, Asher Kaufman |
 |---|---|
 | **سال** | 2010 |

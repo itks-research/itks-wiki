@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Barbara E. Kritzer |
 |---|---|
 | **سال** | 2003 |

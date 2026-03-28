@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Barbara F. Walter |
 |---|---|
 | **سال** | 1997 |

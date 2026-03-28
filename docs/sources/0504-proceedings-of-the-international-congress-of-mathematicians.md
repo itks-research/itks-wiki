@@ -1,7 +1,5 @@
 # Proceedings of the International Congress of Mathematicians
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Srishti D. Chatterji |

@@ -1,7 +1,5 @@
 # Stabilization and Growth in Transition Economies: The Early Experience
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Stanley Fischer, Ratna Sahay, Carlos Végh |

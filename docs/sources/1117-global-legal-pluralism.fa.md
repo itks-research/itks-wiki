@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Paul Schiff Berman |
 |---|---|
 | **سال** | 2012 |

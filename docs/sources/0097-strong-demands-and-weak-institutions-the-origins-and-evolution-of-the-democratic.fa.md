@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Paul D. Hutchcroft, Joel Rocamora |
 |---|---|
 | **سال** | 2003 |
 | **دسته‌بندی** | Constitutional design and drafting processes |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 248 |
 | **شناسه دیجیتال** | [10.1017/s1598240800001363](https://doi.org/10.1017/s1598240800001363) |
 

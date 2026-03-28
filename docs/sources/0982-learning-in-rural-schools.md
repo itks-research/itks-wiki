@@ -1,7 +1,5 @@
 # Learning in rural schools
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Alfonso Echazarra, Thomas Radinger |

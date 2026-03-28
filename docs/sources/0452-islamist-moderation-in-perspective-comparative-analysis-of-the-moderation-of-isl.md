@@ -1,7 +1,5 @@
 # Islamist moderation in perspective: comparative analysis of the moderation of Islamist and Western communist parties
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Süveyda Karakaya, Abdülkadir Yıldırım |

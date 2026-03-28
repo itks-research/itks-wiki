@@ -1,7 +1,5 @@
 # Autonomy and Stability: The Perils of Implementation and “Divide-and-Rule” Tactics in Papua, Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jacques Bertrand |

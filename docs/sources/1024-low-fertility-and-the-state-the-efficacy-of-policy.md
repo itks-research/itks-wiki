@@ -1,7 +1,5 @@
 # Low Fertility and the State: The Efficacy of Policy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Peter McDonald |

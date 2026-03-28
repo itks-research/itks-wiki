@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Larry E. Westphal |
 |---|---|
 | **سال** | 1990 |

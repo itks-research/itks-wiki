@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Alan Oyarce, Salvador Ayala, M. Canals |
 |---|---|
 | **سال** | 2022 |

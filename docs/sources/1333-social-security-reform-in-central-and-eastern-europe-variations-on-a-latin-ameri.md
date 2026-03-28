@@ -1,7 +1,5 @@
 # Social security reform in Central and Eastern Europe: variations on a Latin American theme.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Barbara E. Kritzer |

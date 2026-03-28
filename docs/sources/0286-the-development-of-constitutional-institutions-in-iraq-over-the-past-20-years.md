@@ -1,7 +1,5 @@
 # The Development of Constitutional Institutions in Iraq Over the Past 20 Years
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sakina Ali Karim |

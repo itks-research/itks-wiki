@@ -1,7 +1,5 @@
 # Management and resolution of banking crises
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | José De Luna-Martínez |

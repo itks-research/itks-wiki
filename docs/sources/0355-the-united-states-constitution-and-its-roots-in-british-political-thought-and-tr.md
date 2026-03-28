@@ -1,7 +1,5 @@
 # The United States Constitution and its Roots in British Political Thought and Tradition
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Colin Bonwick |

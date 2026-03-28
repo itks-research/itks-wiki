@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Macarena Gómez‐Barris |
 |---|---|
 | **سال** | 2010 |

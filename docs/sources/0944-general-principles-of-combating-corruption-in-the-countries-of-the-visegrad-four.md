@@ -1,7 +1,5 @@
 # General principles of combating corruption in the countries of the Visegrad Four: the experience of the Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | V. Makarenko, O. Bakumov |

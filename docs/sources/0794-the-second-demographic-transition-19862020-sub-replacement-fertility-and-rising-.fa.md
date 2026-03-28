@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ronny Lesthaeghe |
 |---|---|
 | **سال** | 2020 |

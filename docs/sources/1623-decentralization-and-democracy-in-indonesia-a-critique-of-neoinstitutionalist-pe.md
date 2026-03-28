@@ -1,7 +1,5 @@
 # Decentralization and Democracy in Indonesia: A Critique of Neo‐Institutionalist Perspectives
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Vedi R. Hadiz |

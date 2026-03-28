@@ -1,7 +1,5 @@
 # ‘How much freedom do we have?’ The perceived autonomy of secondary school EFL teachers in Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Andrzej Cirocki, Syafi’ul Anam |

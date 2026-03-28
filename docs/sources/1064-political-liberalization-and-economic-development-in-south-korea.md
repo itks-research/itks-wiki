@@ -1,7 +1,5 @@
 # POLITICAL LIBERALIZATION AND ECONOMIC DEVELOPMENT IN SOUTH KOREA
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sook Jong Lee |

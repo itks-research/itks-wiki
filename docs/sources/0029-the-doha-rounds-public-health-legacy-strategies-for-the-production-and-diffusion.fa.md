@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Frederick M. Abbott, Jerome H. Reichman |
 |---|---|
 | **سال** | 2007 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | F. Vio, Juliana Kain |
 |---|---|
 | **سال** | 2019 |

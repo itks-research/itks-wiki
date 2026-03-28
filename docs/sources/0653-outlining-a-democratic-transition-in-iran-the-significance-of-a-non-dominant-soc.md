@@ -1,7 +1,5 @@
 # Outlining a Democratic Transition in Iran: The Significance of a Non-Dominant Social Contract and the Expansion of Universal Rights
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | P. Aslani |

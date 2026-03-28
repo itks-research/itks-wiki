@@ -1,7 +1,5 @@
 # Competing Ways of Life: Islamism, Secularism, and Public Order in the Tunisian Transition
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Malika Zeghal |

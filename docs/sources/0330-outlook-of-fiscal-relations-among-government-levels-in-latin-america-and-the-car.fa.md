@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Axel Radics, Francisco Vásquez, Noel Pérez Benítez, Ignacio Ruelas |
 |---|---|
 | **سال** | 2023 |

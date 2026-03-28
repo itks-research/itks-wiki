@@ -1,7 +1,5 @@
 # Efekty restrukturyzacji przedsiębiorstw sektora elektroenergetycznego a bezpieczeństwo energetyczne Polski po 1989 r.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Wojciech Szymla |

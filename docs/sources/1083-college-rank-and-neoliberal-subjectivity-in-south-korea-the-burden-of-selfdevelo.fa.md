@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Nancy Abelmann, So Jin Park, Hyunhee Kim |
 |---|---|
 | **سال** | 2009 |

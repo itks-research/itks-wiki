@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Rini Jarwati Indah N. C, Dhea Zeftyaningrum, Richo Febria Putra, Dio Ashar Wicaksana |
 |---|---|
 | **سال** | 2024 |

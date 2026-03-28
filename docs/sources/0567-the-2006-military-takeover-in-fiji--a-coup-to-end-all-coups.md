@@ -1,7 +1,5 @@
 # The 2006 Military Takeover in Fiji : A Coup to End All Coups?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Firth Stewart Firth, Jon Fraenkel, V.Lal Brij |

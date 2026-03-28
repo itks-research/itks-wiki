@@ -1,7 +1,5 @@
 # Children in Nature and Society in Spanish and Portuguese School Textbooks from the Transition to Consolidated Democracy between 1965 and 1995
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Kira Mahamud-Angulo, Yovana Hernández-Laina, R. Henriques |

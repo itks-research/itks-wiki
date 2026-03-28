@@ -1,14 +1,12 @@
 # World Development Report 1989
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | World Bank |
 | **Year** | 1989 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Banking and financial system reform |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 217 |
 | **Source** | openalex |
 | **DOI** | [10.1596/978-0-1952-0788-0](https://doi.org/10.1596/978-0-1952-0788-0) |

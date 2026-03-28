@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Saskia Keesstra, J. Bouma, Jakob Wallinga, Pablo Tittonell, Pete Smith, Artemi Cerdà, Luca Montanarella, John Quinton, Yakov Pachepsky, Wim H. van der Putten, Richard D. Bardgett, S.W. Moolenaar, G. Mol, Boris Jansen, L.O. Fresco |
 |---|---|
 | **سال** | 2016 |

@@ -1,7 +1,5 @@
 # Evoking Huntington: Albania’s Democratic Transition and the Revival of Religious Freedom
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | F. Tarifa, Fiona Todhri |

@@ -1,7 +1,5 @@
 # Briefer Notices - Report of the Chilean National Commission on Truth and Reconciliation (2 vols.). Phillip E. Berryman trans. (South Bend IN: University of Notre Dame Press, 1994. Pp. x1, xxiii, 907. Index. $59.95, cloth; $29.95, paper.)
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Cynthia J. Brown |

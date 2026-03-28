@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | A. Leiva, C. Troncoso-Pantoja, M. Martínez-Sanguinetti, G. Nazar, Y. Concha-Cisternas, M. Martorell, Karina Ramírez-Alarcón, F. Petermann-Rocha, Igor Cigarroa, X. Díaz, Carlos Celis-Morales |
 |---|---|
 | **سال** | 2020 |

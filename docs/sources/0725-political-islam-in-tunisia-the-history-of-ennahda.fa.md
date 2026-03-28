@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Yahia H. Zoubir |
 |---|---|
 | **سال** | 2018 |

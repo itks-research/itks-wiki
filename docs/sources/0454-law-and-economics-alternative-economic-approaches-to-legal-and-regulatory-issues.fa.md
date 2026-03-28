@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Margaret Oppenheimer, Nicholas Mercuro, Warren J. Samuels |
 |---|---|
 | **سال** | 2004 |

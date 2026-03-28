@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Svitlana Motruk |
 |---|---|
 | **سال** | 2025 |

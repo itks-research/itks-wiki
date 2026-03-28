@@ -1,7 +1,5 @@
 # The State and Liberalization: The Airline Industry in the East Asian NICs
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | John T. Bowen, Thomas R. Leinbach |

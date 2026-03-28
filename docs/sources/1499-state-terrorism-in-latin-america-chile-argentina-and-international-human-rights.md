@@ -1,7 +1,5 @@
 # State Terrorism in Latin America: Chile, Argentina, and International Human Rights
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Karen Robert |

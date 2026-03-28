@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Young Whan Kihl, Hong Nack Kim |
 |---|---|
 | **سال** | 2014 |

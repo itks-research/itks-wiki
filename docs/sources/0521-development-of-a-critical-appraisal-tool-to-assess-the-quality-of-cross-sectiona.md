@@ -1,7 +1,5 @@
 # Development of a critical appraisal tool to assess the quality of cross-sectional studies (AXIS)
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Martin Downes, Marnie Brennan, Hywel C Williams, Rachel Dean |

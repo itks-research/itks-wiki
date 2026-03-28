@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Šárka Kolmašová |
 |---|---|
 | **سال** | 2024 |

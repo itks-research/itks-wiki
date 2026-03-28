@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Cullen S. Hendrix, Henk-Jan Brinkman |
 |---|---|
 | **سال** | 2013 |

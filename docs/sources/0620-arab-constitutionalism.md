@@ -1,7 +1,5 @@
 # Arab Constitutionalism
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Zaid Al-Ali |

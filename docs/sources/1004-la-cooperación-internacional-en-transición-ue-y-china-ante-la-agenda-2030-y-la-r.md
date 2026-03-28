@@ -1,7 +1,5 @@
 # La cooperación internacional en transición: UE y China ante la Agenda 2030 y la reconfiguración del orden de ayuda al desarrollo
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Kattya Cascante Hernández, Tahina Ojeda-Medina |

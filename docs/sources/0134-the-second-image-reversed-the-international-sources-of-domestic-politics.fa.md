@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Peter Gourevitch |
 |---|---|
 | **سال** | 1978 |
 | **دسته‌بندی** | Constitutional design and drafting processes |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 1579 |
 | **شناسه دیجیتال** | [10.1017/s002081830003201x](https://doi.org/10.1017/s002081830003201x) |
 

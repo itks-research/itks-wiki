@@ -1,7 +1,5 @@
 # Grey is the new black: covert action and implausible deniability
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rory Cormac, Richard Aldrich |

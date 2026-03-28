@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Miriam Marconi, Damiano Sferlazzo, Silvia Becagli, C. Bommarito, Giulia Calzolai, M. Chiari, Alcide di Sarra, Costanza Ghedini, José Luís Gómez-Amo, F. Lucarelli, Daniela Meloni, Francesco Monteleone, S. Nava, Giandomenico Pace, Salvatore Piacentino, Francesco Rugi, Mirko Severi, Rita Traversi, R. Udisti |
 |---|---|
 | **سال** | 2014 |

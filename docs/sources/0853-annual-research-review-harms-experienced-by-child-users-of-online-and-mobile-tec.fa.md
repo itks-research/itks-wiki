@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Sonia Livingstone, Peter K. Smith |
 |---|---|
 | **سال** | 2014 |

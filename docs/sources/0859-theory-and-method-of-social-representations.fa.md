@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Wolfgang Wagner, Gerard Duveen, Robert M. Farr, Sandra Jovchelovitch, Fabio Lorenzi‐Cioldi, Ivana S. Marková, Diana Rose |
 |---|---|
 | **سال** | 1999 |

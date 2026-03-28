@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Isabelle Joumard, Per Mathis Kongsrud |
 |---|---|
 | **سال** | 2003 |

@@ -1,7 +1,5 @@
 # Introducing the Power, Conflict, and Democracy Programme
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Olle Törnquist |

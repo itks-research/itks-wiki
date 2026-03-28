@@ -1,7 +1,5 @@
 # Religion‐State Relations and Democracy in Egypt and Tunisia: Models from the Democratizing Muslim World – and their Limits
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mirjam Künkler |

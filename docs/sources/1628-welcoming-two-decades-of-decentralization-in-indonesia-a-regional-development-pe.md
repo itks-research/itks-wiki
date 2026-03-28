@@ -1,7 +1,5 @@
 # Welcoming two decades of decentralization in Indonesia: a regional development perspective
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Tessa Talitha, Tommy Firman, Delik Hudalah |

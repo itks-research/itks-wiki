@@ -1,7 +1,5 @@
 # Overview Chapter 5: Determinants of family formation and childbearing during the societal transition in Central and Eastern Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Tomáš Frejka |

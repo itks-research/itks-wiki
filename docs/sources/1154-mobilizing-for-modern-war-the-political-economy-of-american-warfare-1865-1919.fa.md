@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | K. F. Smith, Paul A. C. Koistinen |
 |---|---|
 | **سال** | 1998 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Verena Fritz, Alina Rocha Menocal |
 |---|---|
 | **سال** | 2007 |

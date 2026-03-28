@@ -1,7 +1,5 @@
 # Cereals Sector Reform in the Former Soviet Union and Central and Eastern Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Lawrence D. Smith, N.J.C. Spooner |

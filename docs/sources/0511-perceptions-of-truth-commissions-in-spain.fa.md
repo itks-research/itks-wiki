@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Virginia Zalunardo, Lesley-Ann Daniels |
 |---|---|
 | **سال** | 2024 |

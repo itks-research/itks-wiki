@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Benedictus Raksaka Mahi |
 |---|---|
 | **سال** | 2016 |

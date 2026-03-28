@@ -1,7 +1,5 @@
 # Beyond Constituent Assemblies and Referenda: Assessing the Legitimacy of the Arab Spring Constitutions in Egypt and Tunisia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Darin Johnson |

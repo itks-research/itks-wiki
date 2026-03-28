@@ -1,7 +1,5 @@
 # Genome sequence of Pseudomonas sp. MAHUQ-62 isolated from a pumpkin garden located in Anseong, South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Md. Amdadul Huq, Md. Mominul Islam, Md. Shahedur Rahman |

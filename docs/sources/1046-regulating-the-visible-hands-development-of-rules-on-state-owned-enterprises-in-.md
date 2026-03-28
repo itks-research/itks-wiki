@@ -1,7 +1,5 @@
 # Regulating the Visible Hands: Development of Rules on State-Owned Enterprises in Trade Agreements
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Minwoo Kim |

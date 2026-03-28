@@ -1,7 +1,5 @@
 # Overview of forest tenure reforms in Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mia Siscawati, Banjade M.R., N. Liswanti, T. Herawati, E. Mwangi, C. Wulandari, M. Tjoa, T. Silaya |

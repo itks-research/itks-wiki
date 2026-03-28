@@ -1,7 +1,5 @@
 # EU Refugee Policies and Politics in Times of Crisis: Theoretical and Empirical Perspectives
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Arne Niemann, Natascha Zaun |

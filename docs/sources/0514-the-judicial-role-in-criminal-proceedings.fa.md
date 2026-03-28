@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Seán Doran, Jonathan Jackson |
 |---|---|
 | **سال** | 2000 |

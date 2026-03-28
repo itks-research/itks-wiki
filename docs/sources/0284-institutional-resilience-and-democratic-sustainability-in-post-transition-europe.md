@@ -1,7 +1,5 @@
 # Institutional Resilience and Democratic Sustainability in Post-Transition Europe: Lessons from Romania and Central-Eastern Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Cristian Pîrvulescu |

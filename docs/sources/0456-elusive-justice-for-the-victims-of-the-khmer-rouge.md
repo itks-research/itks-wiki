@@ -1,7 +1,5 @@
 # Elusive Justice for the Victims of the Khmer Rouge
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Stephen P. Marks |

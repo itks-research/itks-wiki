@@ -1,7 +1,5 @@
 # Campaigning for All Indonesians: The Politics of Healthcare in Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Eunsook Jung |

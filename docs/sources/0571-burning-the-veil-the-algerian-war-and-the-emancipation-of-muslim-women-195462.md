@@ -1,7 +1,5 @@
 # Burning the veil: The Algerian war and the 'emancipation' of Muslim women, 1954–62
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Neil MacMaster |

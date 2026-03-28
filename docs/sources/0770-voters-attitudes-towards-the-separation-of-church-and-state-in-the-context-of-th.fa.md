@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Łukasz Tomczak, R. Iwański |
 |---|---|
 | **سال** | 2022 |

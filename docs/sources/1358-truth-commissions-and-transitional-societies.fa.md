@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Eric Wiebelhaus‐Brahm |
 |---|---|
 | **سال** | 2010 |

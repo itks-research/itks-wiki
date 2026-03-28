@@ -1,7 +1,5 @@
 # Virtual Legality
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anthony W. Pereira |

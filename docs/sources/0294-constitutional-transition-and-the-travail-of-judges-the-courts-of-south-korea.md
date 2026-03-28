@@ -1,7 +1,5 @@
 # Constitutional transition and the travail of judges: the courts of South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Amal Sethi |

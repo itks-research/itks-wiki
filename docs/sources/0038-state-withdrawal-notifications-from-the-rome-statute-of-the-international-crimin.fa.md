@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Manisuli Ssenyonjo |
 |---|---|
 | **سال** | 2017 |

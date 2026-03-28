@@ -1,7 +1,5 @@
 # Migrant farmworkers in Southern Italy: ghettoes, caporalato and collective action
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Domenico Perrotta, Devi Sacchetto |

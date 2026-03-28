@@ -1,7 +1,5 @@
 # Partition as a Solution to Ethnic War: An Empirical Critique of the Theoretical Literature
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Nicholas Sambanis |

@@ -1,7 +1,5 @@
 # Pabellóndepicaite, Cu2+2(N3C2H2)2(NH3)2(NO3)Cl·2H2O, a new 1,2,4-triazolate mineral from the guano deposit at Pabellón de Pica, Iquique Province, Chile
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | A. R. Kampf, G. Möhn, Chiu‐Shun Ma, Joy Désor |

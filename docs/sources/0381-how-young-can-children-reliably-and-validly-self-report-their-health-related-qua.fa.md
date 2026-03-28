@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | James W. Varni, Christine A. Limbers, Tasha M. Burwinkle |
 |---|---|
 | **سال** | 2007 |

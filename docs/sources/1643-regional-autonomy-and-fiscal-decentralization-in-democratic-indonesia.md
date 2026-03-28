@@ -1,7 +1,5 @@
 # REGIONAL AUTONOMY AND FISCAL DECENTRALIZATION IN DEMOCRATIC INDONESIA
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Bambang Brodjonegoro, Shinji Asanuma |

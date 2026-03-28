@@ -1,7 +1,5 @@
 # Genome sequence of Paenibacillus sp. M.A.Huq-84 isolated from the rhizosphere of pine tree located in Anseong, South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Md. Amdadul Huq, Kwon-Kyoo Kang, M. M. Rahman |

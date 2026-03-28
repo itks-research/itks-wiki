@@ -1,7 +1,5 @@
 # Classifying Countries within the Transitional Justice Typology
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Cynthia Horne |

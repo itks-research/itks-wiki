@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Angel Polvorinos, M. Aucouturier, Anne Bouquillon, J. Castaing, Josep Pérez Camps |
 |---|---|
 | **سال** | 2010 |

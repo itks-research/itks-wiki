@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | de Alain Crombrugghe, Barbara Fakin |
 |---|---|
 | **سال** | 1999 |

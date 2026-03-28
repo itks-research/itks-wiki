@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Meidi Kosandi, Subur Wahono |
 |---|---|
 | **سال** | 2020 |

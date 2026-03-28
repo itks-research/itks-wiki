@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Madhav Joshi, SungYong Lee, Roger Mac Ginty |
 |---|---|
 | **سال** | 2014 |

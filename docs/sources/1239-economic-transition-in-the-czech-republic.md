@@ -1,7 +1,5 @@
 # Economic Transition in the Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sharon L. Oswald |

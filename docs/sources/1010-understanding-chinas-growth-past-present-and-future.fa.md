@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Xiaodong Zhu |
 |---|---|
 | **سال** | 2012 |

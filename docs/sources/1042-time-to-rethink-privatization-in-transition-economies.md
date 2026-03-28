@@ -1,7 +1,5 @@
 # Time to Rethink Privatization in Transition Economies?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | John Nellis |

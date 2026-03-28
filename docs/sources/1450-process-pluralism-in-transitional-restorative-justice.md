@@ -1,7 +1,5 @@
 # Process Pluralism in Transitional-Restorative Justice
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Carrie Menkel‐Meadow |

@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | World Bank |
 |---|---|
 | **سال** | 1989 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Banking and financial system reform |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 217 |
 | **شناسه دیجیتال** | [10.1596/978-0-1952-0788-0](https://doi.org/10.1596/978-0-1952-0788-0) |
 

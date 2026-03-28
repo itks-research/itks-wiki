@@ -1,7 +1,5 @@
 # Deceptive Liberal Reforms: Institutional Adjustments and the Dynamics of Authoritarianism in Tunisia (1997–2005)
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Éric Gobe |

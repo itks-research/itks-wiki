@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Matondang Elsa Siburian |
 |---|---|
 | **سال** | 2019 |

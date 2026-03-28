@@ -1,7 +1,5 @@
 # Employment Effects of Foreign Direct Investment in Central and Eastern Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ingo Geishecker, Gábor Hunya |

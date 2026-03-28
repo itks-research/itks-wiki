@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Michaël Bernhard, Christopher Reenock, Timothy Nordstrom |
 |---|---|
 | **سال** | 2004 |

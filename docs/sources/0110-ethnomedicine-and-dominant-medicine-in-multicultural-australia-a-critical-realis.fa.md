@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Gil‐Soo Han, Harry Ballis |
 |---|---|
 | **سال** | 2007 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 208 |
 | **شناسه دیجیتال** | [10.1186/1746-4269-3-1](https://doi.org/10.1186/1746-4269-3-1) |
 

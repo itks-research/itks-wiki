@@ -1,7 +1,5 @@
 # Civil Military Relations and Defense Reform in Poland
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Marek Tomaszycki |

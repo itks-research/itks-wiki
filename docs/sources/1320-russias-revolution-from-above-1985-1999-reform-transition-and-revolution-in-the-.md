@@ -1,7 +1,5 @@
 # Russia's revolution from above, 1985-1999: reform, transition, and revolution in the fall of the Soviet communist regime
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

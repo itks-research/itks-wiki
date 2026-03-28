@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Yong‐Sup Han |
 |---|---|
 | **سال** | 2006 |

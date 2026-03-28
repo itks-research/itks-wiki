@@ -1,7 +1,5 @@
 # A short history of the European Association of Preventive Cardiology (EAPC)
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Guy De Backer, Joep Perk, David Wood, Stephan Gielen, Antonio Pelliccia, Diederick E. Grobbee, Paul Dendale, Hugo Saner |

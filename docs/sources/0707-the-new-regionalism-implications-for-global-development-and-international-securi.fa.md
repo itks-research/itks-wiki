@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Björn Hettne, Inotai, Andras, Hettne, Bjorn, Inotai, Andras |
 |---|---|
 | **سال** | 1994 |

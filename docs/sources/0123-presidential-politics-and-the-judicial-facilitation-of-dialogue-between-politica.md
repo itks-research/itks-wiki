@@ -1,14 +1,13 @@
 # Presidential politics and the judicial facilitation of dialogue between political actors in new Asian democracies: Comparing the South Korean and Taiwanese experiences
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jiunn-rong Yeh |
 | **Year** | 2010 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Judicial independence and rule of law |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 26 |
 | **Source** | openalex |
 | **DOI** | [10.1093/icon/mor006](https://doi.org/10.1093/icon/mor006) |

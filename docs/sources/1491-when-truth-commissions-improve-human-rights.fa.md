@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Turee Olsen, Leigh A. Payne, Andrew G. Reiter, Eric Wiebelhaus‐Brahm |
 |---|---|
 | **سال** | 2010 |

@@ -1,7 +1,5 @@
 # Changes in the Wage Structure during Economic Transition in Central and Eastern Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jan Rutkowski |

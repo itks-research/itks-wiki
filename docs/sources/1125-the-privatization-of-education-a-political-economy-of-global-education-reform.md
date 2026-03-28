@@ -1,7 +1,5 @@
 # The Privatization of Education: A Political Economy of Global Education Reform
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Simone Fried |

@@ -1,7 +1,5 @@
 # The great transformation of Central Eastern Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | János Kornai |

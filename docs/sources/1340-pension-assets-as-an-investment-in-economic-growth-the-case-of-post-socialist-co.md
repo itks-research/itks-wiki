@@ -1,7 +1,5 @@
 # Pension assets as an investment in economic growth: The case of post-socialist countries and Ukraine
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Oleh Kolodiziev, Hanna Telnova, Ihor Krupka, Myroslav Kulchytskyy, Iryna Sochynska-Sybirtseva |

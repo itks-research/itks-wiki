@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Man-hee Jeong |
 |---|---|
 | **سال** | 2025 |

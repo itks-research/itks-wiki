@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | S. Astorga-Pinto, B. Cabieses, Alejandra Calderón, A. M. McIntyre |
 |---|---|
 | **سال** | 2019 |

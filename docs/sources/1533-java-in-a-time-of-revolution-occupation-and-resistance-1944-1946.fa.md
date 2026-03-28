@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Harold Crouch, Benedict Anderson |
 |---|---|
 | **سال** | 1972 |

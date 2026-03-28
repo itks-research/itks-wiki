@@ -1,7 +1,5 @@
 # Criminalizing Atrocity
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mark S. Berlin |

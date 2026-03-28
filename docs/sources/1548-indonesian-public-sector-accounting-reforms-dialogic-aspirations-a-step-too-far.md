@@ -1,7 +1,5 @@
 # Indonesian public sector accounting reforms: dialogic aspirations a step too far?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Harun Harun, Karen Van-Peursem, Ian R.C. Eggleton |

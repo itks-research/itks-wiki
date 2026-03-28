@@ -1,7 +1,5 @@
 # What is Middle Class about the Middle Classes around the World?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Abhijit Banerjee, Esther Duflo |

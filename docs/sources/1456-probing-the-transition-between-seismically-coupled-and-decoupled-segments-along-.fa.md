@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Samuel Angiboust, Josephine Kirsch, Onno Oncken, Johannes Glodny, Patrick Monié, Erik Rybacki |
 |---|---|
 | **سال** | 2015 |

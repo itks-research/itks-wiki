@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Takdir Ali Mukti, Laode Muhammad Fathun, Ali Muhammad, Stivani Ismawira Sinambela, Sugeng Riyanto |
 |---|---|
 | **سال** | 2021 |

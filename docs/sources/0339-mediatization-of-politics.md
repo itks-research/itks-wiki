@@ -1,7 +1,5 @@
 # Mediatization of Politics
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | D'Angelo, P, Büchel, F, Esser, F |

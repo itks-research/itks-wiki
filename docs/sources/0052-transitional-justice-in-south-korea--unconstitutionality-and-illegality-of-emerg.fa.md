@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | B. Lee, Jewan Kim |
 |---|---|
 | **سال** | 2024 |

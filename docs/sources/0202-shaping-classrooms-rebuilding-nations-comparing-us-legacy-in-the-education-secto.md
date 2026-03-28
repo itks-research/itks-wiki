@@ -1,7 +1,5 @@
 # Shaping Classrooms, Rebuilding Nations: Comparing U.S. legacy in the Education Sector in Korea and Japan, 1945-1948
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | B. Cha, Soon-Yong Pak |

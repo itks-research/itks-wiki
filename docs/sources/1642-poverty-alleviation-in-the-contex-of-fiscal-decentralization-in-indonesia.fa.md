@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Nursini Nursini, Tawakkal Tawakkal |
 |---|---|
 | **سال** | 2019 |

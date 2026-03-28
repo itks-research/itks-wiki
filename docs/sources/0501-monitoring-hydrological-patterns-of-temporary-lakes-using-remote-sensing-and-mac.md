@@ -1,7 +1,5 @@
 # Monitoring Hydrological Patterns of Temporary Lakes Using Remote Sensing and Machine Learning Models: Case Study of La Mancha Húmeda Biosphere Reserve in Central Spain
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Carolina Doña, Ni-Bin Chang, V. Caselles, Juan Manuel Sánchez, Lluís Pérez-Planells, Mar Bisquert, Vicente García‐Santos, Sanaz Imen, Antonio Camacho |

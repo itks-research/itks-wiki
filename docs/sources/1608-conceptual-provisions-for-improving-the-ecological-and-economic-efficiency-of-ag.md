@@ -1,7 +1,5 @@
 # CONCEPTUAL PROVISIONS FOR IMPROVING THE ECOLOGICAL AND ECONOMIC EFFICIENCY OF AGRICULTURAL LAND USE
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Y.A. Tsypkin, T.V. Bliznyukova, Anastasia V. Fomina, Ilya Vitalievich Chuksin |

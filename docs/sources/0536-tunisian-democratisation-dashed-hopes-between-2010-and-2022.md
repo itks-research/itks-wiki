@@ -1,7 +1,5 @@
 # Tunisian democratisation: dashed hopes between 2010 and 2022
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | M. Moncef Khaddar |

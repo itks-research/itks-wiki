@@ -1,7 +1,5 @@
 # The States Right and the Thirteenth Amendment
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | H. Yang |

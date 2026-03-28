@@ -1,7 +1,5 @@
 # THE ZINC PHTHALOCYANINE AND AN ANTI-CANCER DRUG ON THE BASIS IT
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | А. В. Хромов |

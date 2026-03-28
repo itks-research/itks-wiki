@@ -1,7 +1,5 @@
 # Unofficial Truth Projects
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Louis Bickford |

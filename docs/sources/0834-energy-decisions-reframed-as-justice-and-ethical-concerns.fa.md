@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Benjamin K. Sovacool, Raphael J. Heffron, Darren McCauley, Andreas Goldthau |
 |---|---|
 | **سال** | 2016 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Josep Maria Tamarit Sumalla |
 |---|---|
 | **سال** | 2013 |

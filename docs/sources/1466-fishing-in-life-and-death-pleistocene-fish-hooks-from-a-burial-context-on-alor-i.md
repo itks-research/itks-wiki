@@ -1,7 +1,5 @@
 # Fishing in life and death: Pleistocene fish-hooks from a burial context on Alor Island, Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sue O’Connor, Mahirta Mahirta, Sofía Samper Carro, Stuart Hawkins, Shimona Kealy, Julien Louys, Rachel Wood |

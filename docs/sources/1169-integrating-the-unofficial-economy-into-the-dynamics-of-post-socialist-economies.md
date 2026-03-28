@@ -1,7 +1,5 @@
 # Integrating the Unofficial Economy into the Dynamics of Post-Socialist Economies: A Framework of Analysis and Evidence
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Aleksander Kaliberda, Daniel Kaufmann |

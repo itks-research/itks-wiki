@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jacek Dworzecki |
 |---|---|
 | **سال** | 2019 |

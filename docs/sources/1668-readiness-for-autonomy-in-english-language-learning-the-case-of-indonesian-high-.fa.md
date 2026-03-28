@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Andrzej Cirocki, Syafi’ul Anam, Pratiwi Retnaningdyah |
 |---|---|
 | **سال** | 2019 |

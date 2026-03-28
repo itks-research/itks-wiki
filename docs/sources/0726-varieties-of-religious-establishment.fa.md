@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Lori G. Beaman |
 |---|---|
 | **سال** | 2016 |

@@ -1,7 +1,5 @@
 # Green Revolution: Impacts, limits, and the path ahead
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Prabhu Pingali |

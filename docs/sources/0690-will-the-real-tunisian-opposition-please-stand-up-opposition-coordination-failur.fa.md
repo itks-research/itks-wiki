@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Rikke Hostrup Haugbølle, Francesco Cavatorta |
 |---|---|
 | **سال** | 2011 |

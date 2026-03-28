@@ -1,7 +1,5 @@
 # Replacing and Amending Constitutions: The Logic of Constitutional Change in Latin America
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Gabriel L. Negretto |

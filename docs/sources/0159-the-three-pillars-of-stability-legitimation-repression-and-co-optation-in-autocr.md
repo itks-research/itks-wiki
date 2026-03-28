@@ -1,7 +1,5 @@
 # The three pillars of stability: legitimation, repression, and co-optation in autocratic regimes
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Johannes Gerschewski |

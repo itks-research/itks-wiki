@@ -1,14 +1,12 @@
 # A Policy Proposal to Strengthen the Income Redistribution Function of the National Pension Scheme in South Korea: An Analysis of South Korea’s 5th National Pension Comprehensive Plan (Draft)
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jeonyong Park |
 | **Year** | 2024 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.3390/economies12100275](https://doi.org/10.3390/economies12100275) |

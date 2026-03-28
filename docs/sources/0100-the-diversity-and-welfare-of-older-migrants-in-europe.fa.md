@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Anthony Warnes, Klaus Friedrich, Leonie Kellaher, Sandra Torres |
 |---|---|
 | **سال** | 2004 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 253 |
 | **شناسه دیجیتال** | [10.1017/s0144686x04002296](https://doi.org/10.1017/s0144686x04002296) |
 

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Sergio Fuenzalida Gauna, Patricio Navia, Rodrigo Osorio |
 |---|---|
 | **سال** | 2025 |

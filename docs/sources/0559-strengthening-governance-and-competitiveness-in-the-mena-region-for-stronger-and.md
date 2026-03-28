@@ -1,7 +1,5 @@
 # Strengthening governance and competitiveness in the MENA region for stronger and more inclusive growth
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | OECD |

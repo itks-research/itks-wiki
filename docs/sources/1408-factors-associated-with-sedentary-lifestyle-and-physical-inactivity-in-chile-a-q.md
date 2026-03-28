@@ -1,7 +1,5 @@
 # [Factors associated with sedentary lifestyle and physical inactivity in Chile: a qualitative systematic review].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jorge Ahumada Tello, María Cecilia Toffoletto |

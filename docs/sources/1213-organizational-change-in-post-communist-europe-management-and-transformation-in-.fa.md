@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ed Clark, Anna Soulsby |
 |---|---|
 | **سال** | 1999 |

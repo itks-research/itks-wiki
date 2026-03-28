@@ -1,7 +1,5 @@
 # Latin American Amnesties in Comparative Perspective: Can the Past Be Buried?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Margaret Popkin, Nehal Bhuta |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jorge Ahumada Tello, María Cecilia Toffoletto |
 |---|---|
 | **سال** | 2020 |

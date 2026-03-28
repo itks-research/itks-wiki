@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Sergio Ruiz, Paulina Ramos-Vergara, R. Concha, Fernando R. Altermatt, Rommy Von-Bernhardi, Mauricio Cuello, J. Godoy, Luca Valera, P. Araya, Edgardo Conde, Pablo Toro, C. Caneo |
 |---|---|
 | **سال** | 2021 |

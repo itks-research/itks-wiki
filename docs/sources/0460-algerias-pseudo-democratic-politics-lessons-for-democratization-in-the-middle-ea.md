@@ -1,7 +1,5 @@
 # Algeria's pseudo-democratic politics: Lessons for democratization in the Middle East
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Frédéric Volpi |

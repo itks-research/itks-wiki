@@ -1,7 +1,5 @@
 # Self-Determination in the Post-Cold War Era: A New Internal Focus?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Gregory H. Fox |

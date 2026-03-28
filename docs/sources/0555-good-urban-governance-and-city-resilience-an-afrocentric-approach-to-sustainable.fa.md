@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Natanya Meyer, C.J. Auriacombe |
 |---|---|
 | **سال** | 2019 |

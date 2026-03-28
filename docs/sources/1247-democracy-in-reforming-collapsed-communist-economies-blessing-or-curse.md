@@ -1,7 +1,5 @@
 # DEMOCRACY IN REFORMING COLLAPSED COMMUNIST ECONOMIES: BLESSING OR CURSE?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Michael D. Intriligator |

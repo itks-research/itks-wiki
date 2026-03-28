@@ -1,7 +1,5 @@
 # The China Syndrome: Local Labor Market Effects of Import Competition in the United States
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | David Autor, David Dorn, Gordon Hanson |

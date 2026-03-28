@@ -1,7 +1,5 @@
 # Indignation, Ideologies, and Armed Mobilization: Civil War in Italy, 1943–45
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Stefano Costalli, Andrea Ruggeri |

@@ -1,7 +1,5 @@
 # The Defence Industry in East-Central Europe: Restructuring and Conversion
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Judit Kiss |

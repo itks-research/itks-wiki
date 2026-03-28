@@ -1,7 +1,5 @@
 # Constitutions in the global financial crisis : a comparative analysis
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Xenophōn I. Kontiadēs |

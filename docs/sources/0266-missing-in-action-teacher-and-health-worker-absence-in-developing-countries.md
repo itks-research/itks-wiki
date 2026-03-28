@@ -1,7 +1,5 @@
 # Missing in Action: Teacher and Health Worker Absence in Developing Countries
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Nazmul Chaudhury, Jeffrey S. Hammer, Michael Kremer, Karthik Muralidharan, Frances Rogers |

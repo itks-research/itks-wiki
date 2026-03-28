@@ -1,7 +1,5 @@
 # Comparative Study of the General Election Commission (KPU) in the United States and South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sinta Alfi Rosyida, Basuki Kurniawan |

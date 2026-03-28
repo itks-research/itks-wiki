@@ -1,7 +1,5 @@
 # On the Tasks of a Democratic Opposition
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Alfred Stepan |

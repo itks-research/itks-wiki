@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jong‐Wha Lee, J. Pyun |
 |---|---|
 | **سال** | 2018 |

@@ -1,7 +1,5 @@
 # Tightening Environmental Standards: The Benefit-Cost or the No-Cost Paradigm?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Karen Palmer, Wallace E. Oates, Paul R. Portney |

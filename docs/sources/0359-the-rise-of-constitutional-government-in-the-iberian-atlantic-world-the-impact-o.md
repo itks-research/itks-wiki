@@ -1,7 +1,5 @@
 # The Rise of Constitutional Government in the Iberian Atlantic World: The Impact of the Cádiz Constitution of 1812
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Scott Eastman, Natalia Sobrevilla Perea, Gregorio Alonso, Roberto Breña, Jordana Dym |

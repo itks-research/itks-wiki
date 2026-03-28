@@ -1,7 +1,5 @@
 # The social capital of European welfare states: the crowding out hypothesis revisited
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Wim van Oorschot, Wil Arts |

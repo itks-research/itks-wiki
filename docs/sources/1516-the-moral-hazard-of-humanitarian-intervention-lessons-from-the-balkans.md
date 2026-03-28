@@ -1,7 +1,5 @@
 # The Moral Hazard of Humanitarian Intervention: Lessons from the Balkans
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Alan J. Kuperman |

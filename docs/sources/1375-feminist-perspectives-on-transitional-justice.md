@@ -1,7 +1,5 @@
 # Feminist Perspectives on Transitional Justice
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Fineman, Martha 1943-, Zinsstag, Estelle |

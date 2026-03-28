@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Kristin Mammen, Christina Paxson |
 |---|---|
 | **سال** | 2000 |

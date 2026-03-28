@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Mark S. Butler, Mark A. T. Blaskovich, Matthew A. Cooper |
 |---|---|
 | **سال** | 2013 |
 | **دسته‌بندی** | Constitutional design and drafting processes |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 425 |
 | **شناسه دیجیتال** | [10.1038/ja.2013.86](https://doi.org/10.1038/ja.2013.86) |
 

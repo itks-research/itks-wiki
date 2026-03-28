@@ -1,7 +1,5 @@
 # The Politics of Constitutional Review
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Georg Vanberg |

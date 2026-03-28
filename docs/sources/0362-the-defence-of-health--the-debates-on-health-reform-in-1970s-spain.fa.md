@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Enrique Perdiguero Gil, Josep M. Comelles |
 |---|---|
 | **سال** | 2019 |

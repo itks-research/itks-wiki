@@ -1,7 +1,5 @@
 # Revealing the dark side of traditional democracies in plurinational societies: the case of Catalonia and the Spanish ‘Estado de las Autonomías’
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ferrán Requejo |

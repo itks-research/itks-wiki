@@ -1,7 +1,5 @@
 # Truth Delayed: Accounting for Human Rights Violations in Guatemala and Spain
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Teresa Godwin Phelps |

@@ -1,7 +1,5 @@
 # Language rights in the 2004 draft of the European Union Constitution
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Eduardo D. Faingold |

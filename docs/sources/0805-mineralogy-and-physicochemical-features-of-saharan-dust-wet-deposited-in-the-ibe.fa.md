@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Carlos Rodríguez‐Navarro, Fulvio Di Lorenzo, Kerstin Elert |
 |---|---|
 | **سال** | 2018 |

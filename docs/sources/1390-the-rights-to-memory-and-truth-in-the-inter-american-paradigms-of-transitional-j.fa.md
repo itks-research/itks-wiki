@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Bruno Galindo, Juliana Passos de Castro |
 |---|---|
 | **سال** | 2018 |

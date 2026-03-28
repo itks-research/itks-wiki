@@ -1,7 +1,5 @@
 # Regime Consolidation and Transitional Justice
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anja Mihr |

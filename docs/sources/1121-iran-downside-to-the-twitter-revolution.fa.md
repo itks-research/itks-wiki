@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Evgeny Morozov |
 |---|---|
 | **سال** | 2009 |

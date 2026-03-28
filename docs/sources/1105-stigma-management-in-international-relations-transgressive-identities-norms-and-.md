@@ -1,7 +1,5 @@
 # Stigma Management in International Relations: Transgressive Identities, Norms, and Order in International Society
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rebecca Adler‐Nissen |

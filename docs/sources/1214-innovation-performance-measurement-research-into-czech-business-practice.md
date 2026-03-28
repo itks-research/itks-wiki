@@ -1,7 +1,5 @@
 # Innovation performance measurement: research into Czech business practice
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ondřej Žižlavský |

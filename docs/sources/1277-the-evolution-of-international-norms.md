@@ -1,7 +1,5 @@
 # The Evolution of International Norms
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ann Florini |

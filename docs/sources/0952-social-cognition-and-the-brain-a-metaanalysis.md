@@ -1,7 +1,5 @@
 # Social cognition and the brain: A meta‐analysis
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Frank Van Overwalle |

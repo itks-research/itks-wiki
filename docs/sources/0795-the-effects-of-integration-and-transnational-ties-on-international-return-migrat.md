@@ -1,7 +1,5 @@
 # The effects of integration and transnational ties on international return migration intentions
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Hein de Haas, Tineke Fokkema |

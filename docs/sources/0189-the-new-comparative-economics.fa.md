@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Simeon Djankov, Edward L. Glaeser, Rafael La Porta, Florencio Lopez-de-Silane, Andrei Shleifer |
 |---|---|
 | **سال** | 2003 |

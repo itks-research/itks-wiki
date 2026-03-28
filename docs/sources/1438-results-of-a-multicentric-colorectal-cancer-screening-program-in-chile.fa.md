@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | F. López-Kostner, A. Zárate, Alejandra Ponce, U. Kronberg, H. Kawachi, T. Okada, M. Tsubaki, Takashi Ito, T. Nishikage, Koji Tanaka, T. Kawano, Y. Eishi, Paulina M Peñaloza, R. Estela, S. Karelovic, S. Flores |
 |---|---|
 | **سال** | 2018 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Kwang‐Yeong Shin |
 |---|---|
 | **سال** | 2012 |

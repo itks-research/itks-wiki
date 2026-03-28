@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ronald Miranda, Leonel Muinelo‐Gallo, Oriol Roca‐Sagalés |
 |---|---|
 | **سال** | 2022 |

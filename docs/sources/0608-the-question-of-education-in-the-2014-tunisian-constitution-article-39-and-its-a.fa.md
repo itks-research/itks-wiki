@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Oren Fliegelman |
 |---|---|
 | **سال** | 2016 |

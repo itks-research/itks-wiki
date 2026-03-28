@@ -1,7 +1,5 @@
 # Democratic control of the military in postcommunist Europe: guarding the guards
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

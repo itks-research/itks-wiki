@@ -1,7 +1,5 @@
 # Comparison of Urban and Suburban Rail Transport in Germany and in the Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Daniel Seidenglanz, Filip Chvátal, Kateřina Nedvědová |

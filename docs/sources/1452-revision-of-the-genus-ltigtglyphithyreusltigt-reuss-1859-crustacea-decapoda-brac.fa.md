@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Hiroaki Karasawa, Carrie E. Schweitzer |
 |---|---|
 | **سال** | 2004 |

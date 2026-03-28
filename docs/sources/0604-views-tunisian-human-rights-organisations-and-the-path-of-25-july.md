@@ -1,7 +1,5 @@
 # Views: Tunisian Human Rights Organisations and the ‘Path of 25 July’
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Asma Nouira |

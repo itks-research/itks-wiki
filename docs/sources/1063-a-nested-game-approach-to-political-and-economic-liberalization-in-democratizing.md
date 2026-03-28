@@ -1,7 +1,5 @@
 # A Nested Game Approach to Political and Economic Liberalization in Democratizing States: The Case of South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Neal G. Jesse, Uk Heo, Karl DeRouen |

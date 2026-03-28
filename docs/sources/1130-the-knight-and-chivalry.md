@@ -1,7 +1,5 @@
 # The Knight and Chivalry.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Arthur B. Ferguson, Richard Barber |

@@ -1,7 +1,5 @@
 # Elites and Prospects of Democracy in East Timor
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Francisco da Costa Guterres |

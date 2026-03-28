@@ -1,7 +1,5 @@
 # Transitional Justice against the State: Lessons from Spanish Civil Society-Led Forensic Exhumations
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Joan Rubin |

@@ -1,7 +1,5 @@
 # Atrocities and international accountability: beyond transitional justice
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

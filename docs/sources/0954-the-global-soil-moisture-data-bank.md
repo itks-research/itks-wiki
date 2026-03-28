@@ -1,7 +1,5 @@
 # The Global Soil Moisture Data Bank
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Alan Robock, Konstantin Y. Vinnikov, Govindarajalu Srinivasan, Jared Entin, Steven E. Hollinger, N. A. Speranskaya, Suxia Liu, A. Namkhai |

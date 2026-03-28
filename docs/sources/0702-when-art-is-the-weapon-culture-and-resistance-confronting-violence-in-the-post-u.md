@@ -1,7 +1,5 @@
 # When Art Is the Weapon: Culture and Resistance Confronting Violence in the Post-Uprisings Arab World
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mark LeVine |

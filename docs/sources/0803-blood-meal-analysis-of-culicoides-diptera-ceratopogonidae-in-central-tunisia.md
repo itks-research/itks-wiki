@@ -1,7 +1,5 @@
 # Blood Meal Analysis of Culicoides (Diptera: Ceratopogonidae) in Central Tunisia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Darine Slama, Najoua Haouas, Habib Mezhoud, Hamouda Babba, E. Chaker |

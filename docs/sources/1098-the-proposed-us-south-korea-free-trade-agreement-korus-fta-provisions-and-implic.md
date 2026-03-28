@@ -1,7 +1,5 @@
 # The Proposed U.S.-South Korea Free Trade Agreement (KORUS FTA): Provisions and Implications
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | William H. Cooper, Mark E. Manyin, Remy Jurenas, Michaela D. Platzer |

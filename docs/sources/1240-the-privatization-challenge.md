@@ -1,7 +1,5 @@
 # The privatization challenge
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Pierre Guislain |

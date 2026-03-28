@@ -1,7 +1,5 @@
 # Between Legal Certainty and Democratic Legitimacy: The Normative Void of the Constitutional Court Decision No. 135/PUU-XXII/2024 in Indonesia’s Constitutional System
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | I. Setiawan, Muchammad Daing Azimattara |

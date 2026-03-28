@@ -1,7 +1,5 @@
 # A Critical Assessment of the Role of the Venice Commission in Processes of Domestic Constitutional Reform
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Maartje De Visser |

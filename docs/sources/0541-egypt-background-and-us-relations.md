@@ -1,7 +1,5 @@
 # Egypt: Background and U.S. Relations
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jeremy M. Sharp |

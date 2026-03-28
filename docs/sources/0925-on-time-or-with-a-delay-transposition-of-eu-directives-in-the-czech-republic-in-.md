@@ -1,7 +1,5 @@
 # On time or with a delay? Transposition of EU directives in the Czech Republic in relation to subsidiarity check
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Pavla Hosnedlová, Markéta Pitrová |

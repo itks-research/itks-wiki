@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Lisa‐Marie Selvik |
 |---|---|
 | **سال** | 2016 |

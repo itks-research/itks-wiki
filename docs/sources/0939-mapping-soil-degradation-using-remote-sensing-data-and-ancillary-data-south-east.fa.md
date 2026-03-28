@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Daniel Žížala, Anna Juřicová, T. Zádorová, K. Zelenkova, R. Minařík |
 |---|---|
 | **سال** | 2018 |

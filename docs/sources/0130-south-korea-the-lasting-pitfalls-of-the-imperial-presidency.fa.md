@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jörg Michael Dostal |
 |---|---|
 | **سال** | 2023 |
 | **دسته‌بندی** | Constitutional design and drafting processes |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 9 |
 | **شناسه دیجیتال** | [10.1111/1467-923x.13232](https://doi.org/10.1111/1467-923x.13232) |
 

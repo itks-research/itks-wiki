@@ -1,7 +1,5 @@
 # Opportunity Organizations and Threat‐Induced Contention: Protest Waves in Authoritarian Settings
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Paul Almeida |

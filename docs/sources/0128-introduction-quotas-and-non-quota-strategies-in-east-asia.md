@@ -1,14 +1,12 @@
 # Introduction: Quotas and Non-Quota Strategies in East Asia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Netina Tan |
 | **Year** | 2015 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Electoral system design and implementation |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 19 |
 | **Source** | openalex |
 | **DOI** | [10.1017/s1743923x14000622](https://doi.org/10.1017/s1743923x14000622) |

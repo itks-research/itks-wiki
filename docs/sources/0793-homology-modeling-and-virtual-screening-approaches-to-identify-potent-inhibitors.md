@@ -1,7 +1,5 @@
 # Homology modeling and virtual screening approaches to identify potent inhibitors of VEB-1 β-lactamase
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Abdelmonaem Messaoudi, Hatem Belguith, Jeannette Ben Hamida |

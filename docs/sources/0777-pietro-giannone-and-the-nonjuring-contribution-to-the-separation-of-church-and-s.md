@@ -1,7 +1,5 @@
 # Pietro Giannone and the Nonjuring Contribution to the Separation of Church and State
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | P. Monod |

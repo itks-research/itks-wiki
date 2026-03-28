@@ -1,7 +1,5 @@
 # Análisis epidemiológico: Mortalidad por cáncer de pulmón e indicadores de consumo de cigarrillo en Chile 2010-2018
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

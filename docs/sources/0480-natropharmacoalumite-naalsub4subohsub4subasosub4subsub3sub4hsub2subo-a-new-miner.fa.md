@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Michael S. Rumsey, Stuart J. Mills, John Spratt |
 |---|---|
 | **سال** | 2010 |

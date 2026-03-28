@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Netina Tan |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Electoral system design and implementation |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 19 |
 | **شناسه دیجیتال** | [10.1017/s1743923x14000622](https://doi.org/10.1017/s1743923x14000622) |
 

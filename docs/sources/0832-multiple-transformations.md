@@ -1,7 +1,5 @@
 # Multiple Transformations
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Luděk Sýkora, Stefan Bouzarovski |

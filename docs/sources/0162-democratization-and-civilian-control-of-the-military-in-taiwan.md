@@ -1,7 +1,5 @@
 # Democratization and Civilian Control of the Military in Taiwan
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | David Kuehn |

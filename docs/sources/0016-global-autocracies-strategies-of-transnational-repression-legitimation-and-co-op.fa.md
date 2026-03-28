@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Gerasimos Tsourapas |
 |---|---|
 | **سال** | 2020 |

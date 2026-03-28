@@ -1,7 +1,5 @@
 # Estonia: Little Country That Could
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Fredo Arias-King |

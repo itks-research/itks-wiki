@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Liviu Chelcea, Oana Druţǎ |
 |---|---|
 | **سال** | 2016 |

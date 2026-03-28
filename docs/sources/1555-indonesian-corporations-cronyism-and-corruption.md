@@ -1,7 +1,5 @@
 # Indonesian Corporations, Cronyism, and Corruption
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rajeswary Ampalavanar Brown |

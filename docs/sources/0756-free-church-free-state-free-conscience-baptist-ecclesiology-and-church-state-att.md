@@ -1,7 +1,5 @@
 # Free Church, Free State, Free Conscience: Baptist Ecclesiology and Church-State Attitudes in the Mid-Twentieth-Century United States
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Joshua Sander |

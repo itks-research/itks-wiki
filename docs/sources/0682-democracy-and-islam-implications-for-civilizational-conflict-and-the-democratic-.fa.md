@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Manus I. Midlarsky |
 |---|---|
 | **سال** | 1998 |

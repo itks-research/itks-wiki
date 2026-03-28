@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Dick K. Nanto, Emma Chanlett-Avery |
 |---|---|
 | **سال** | 2008 |

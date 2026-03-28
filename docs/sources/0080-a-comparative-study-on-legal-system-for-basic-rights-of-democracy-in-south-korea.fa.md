@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Woo-Li Ko |
 |---|---|
 | **سال** | 2022 |
 | **دسته‌بندی** | Constitutional design and drafting processes |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.56022/ceas.2022.28.2.33](https://doi.org/10.56022/ceas.2022.28.2.33) |
 

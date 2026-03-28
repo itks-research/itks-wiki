@@ -1,7 +1,5 @@
 # The Arab Spring and the Challenge of Minority Rights: Will the Arab Revolutions Overcome the Legacy of the Past?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Fatima El Issawi |

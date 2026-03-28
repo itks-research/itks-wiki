@@ -1,7 +1,5 @@
 # Genome sequence of Microbacterium sp. MAHUQ-60 isolated from the rhizosphere of eggplant located in Anseong, South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Md. Amdadul Huq, Muhammad Zubair Siddiqi, M. M. Rahman |

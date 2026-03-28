@@ -1,7 +1,5 @@
 # Cities, Climate Change and Multilevel Governance
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jan Corfee-Morlot, Lamia Kamal-Chaoui, Michael G. Donovan, Ian Cochran |

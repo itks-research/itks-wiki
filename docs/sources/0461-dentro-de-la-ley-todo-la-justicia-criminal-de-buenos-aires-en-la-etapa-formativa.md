@@ -1,7 +1,5 @@
 # Dentro de la ley, todo: La justicia criminal de Buenos Aires en la etapa formativa del sistema penal moderno de la Argentina
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ernesto Bohoslavsky |

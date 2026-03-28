@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | I Putu Ngurah Wage Myartawan, Mohammad Adnan Latief, Suharmanto Suharmanto |
 |---|---|
 | **سال** | 2013 |

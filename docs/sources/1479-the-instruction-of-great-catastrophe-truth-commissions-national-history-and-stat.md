@@ -1,7 +1,5 @@
 # The Instruction of Great Catastrophe: Truth Commissions, National History, and State Formation in Argentina, Chile, and Guatemala
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Greg Grandin |

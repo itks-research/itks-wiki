@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Siri Terjesen, Jolanda Hessels, Dan Li |
 |---|---|
 | **سال** | 2013 |

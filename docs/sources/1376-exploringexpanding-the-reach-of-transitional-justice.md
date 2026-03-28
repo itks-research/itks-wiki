@@ -1,7 +1,5 @@
 # Exploring/Expanding the Reach of Transitional Justice
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | M. Brinton Lykes, Hugo van der Merwe |

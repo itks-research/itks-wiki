@@ -1,7 +1,5 @@
 # The Modern Industrial Revolution, Exit, and the Failure of Internal Control Systems
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Michael C. Jensen |

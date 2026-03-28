@@ -1,7 +1,5 @@
 # Developmental States in the New Millennium: Concepts and Challenges for a New Aid Agenda
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Verena Fritz, Alina Rocha Menocal |

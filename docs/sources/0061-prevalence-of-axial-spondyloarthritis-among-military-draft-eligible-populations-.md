@@ -1,7 +1,5 @@
 # Prevalence of axial spondyloarthritis among military draft-eligible populations in South Korea: national and regional trends over recent decades
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | H. Kim, P. W. Yoon, J. Yoon, D.H. Lee, E. Cho, S. Park, S. Park, Jun-Ki Moon |

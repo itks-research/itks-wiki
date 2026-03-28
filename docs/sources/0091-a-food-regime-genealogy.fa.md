@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Philip McMichael |
 |---|---|
 | **سال** | 2009 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1185 |
 | **شناسه دیجیتال** | [10.1080/03066150902820354](https://doi.org/10.1080/03066150902820354) |
 

@@ -1,7 +1,5 @@
 # Evaluation of Decentralization Outcomes in Indonesia: Analysis of Health and Education Sectors
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rentanida Renata Simatupang |

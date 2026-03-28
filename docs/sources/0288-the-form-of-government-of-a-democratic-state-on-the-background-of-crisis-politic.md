@@ -1,7 +1,5 @@
 # THE FORM OF GOVERNMENT OF A DEMOCRATIC STATE ON THE BACKGROUND OF CRISIS POLITICAL AND INSTITUTIONAL DESIGN
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Artem Alekseenko |

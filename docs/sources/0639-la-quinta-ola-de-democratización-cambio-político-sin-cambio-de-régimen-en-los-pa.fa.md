@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Inmaculada Szmolka Vida |
 |---|---|
 | **سال** | 2013 |

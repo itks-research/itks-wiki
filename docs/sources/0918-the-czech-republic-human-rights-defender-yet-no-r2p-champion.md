@@ -1,7 +1,5 @@
 # The Czech Republic: Human Rights Defender, Yet No R2P Champion
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Šárka Kolmašová |

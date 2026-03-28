@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Samuel Bowles, Herbert Gintis |
 |---|---|
 | **سال** | 1993 |

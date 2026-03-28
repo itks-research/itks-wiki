@@ -1,7 +1,5 @@
 # Risks and safety on the internet: the perspective of European children: full findings and policy implications from the EU Kids Online survey of 9-16 year olds and their parents in 25 countries
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sonia Livingstone, Leslie Haddon, Anke Görzig, Kjartan Ólafsson |

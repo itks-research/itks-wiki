@@ -1,7 +1,5 @@
 # The World Bank Annual Report 2009
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | World Bank |

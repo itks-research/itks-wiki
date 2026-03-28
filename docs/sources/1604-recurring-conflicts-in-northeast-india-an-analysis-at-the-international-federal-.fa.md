@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Nikoline Fon Holmøy |
 |---|---|
 | **سال** | 2013 |

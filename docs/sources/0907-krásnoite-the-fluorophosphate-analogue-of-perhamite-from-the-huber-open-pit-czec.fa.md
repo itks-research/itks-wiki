@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Stuart J. Mills, Jiří Sejkora, Anthony R. Kampf, Ian E. Grey, T.J. Bastow, Neil A. Ball, P. M. Adams, Mati Raudsepp, Mark A. Cooper |
 |---|---|
 | **سال** | 2012 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Adrien K. Wing, Hisham A. Kassim |
 |---|---|
 | **سال** | 2007 |

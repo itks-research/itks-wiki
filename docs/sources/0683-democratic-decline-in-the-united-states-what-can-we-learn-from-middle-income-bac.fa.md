@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Robert R. Kaufman, Stephan Haggard |
 |---|---|
 | **سال** | 2018 |

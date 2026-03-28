@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Joshua Matanzima, Julia Loginova |
 |---|---|
 | **سال** | 2024 |

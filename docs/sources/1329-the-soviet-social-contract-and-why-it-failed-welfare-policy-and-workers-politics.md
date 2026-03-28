@@ -1,7 +1,5 @@
 # The Soviet social contract and why it failed: welfare policy and workers' politics from Brezhnev to Yeltsin
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

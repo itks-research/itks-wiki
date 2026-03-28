@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Rory Cormac, Richard Aldrich |
 |---|---|
 | **سال** | 2018 |

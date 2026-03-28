@@ -1,7 +1,5 @@
 # Business of the State
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jewellord T. Nem Singh |

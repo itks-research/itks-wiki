@@ -1,7 +1,5 @@
 # Global Alcohol Markets: Evolving Consumption Patterns, Regulations, and Industrial Organizations
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Kym Anderson, Giulia Meloni, Johan Swinnen |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Antonios E. Kouroutakis |
 |---|---|
 | **سال** | 2014 |

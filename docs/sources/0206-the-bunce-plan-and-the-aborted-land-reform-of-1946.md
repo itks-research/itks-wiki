@@ -1,7 +1,5 @@
 # The “Bunce Plan” and the Aborted Land Reform of 1946
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Il-Young Jung |

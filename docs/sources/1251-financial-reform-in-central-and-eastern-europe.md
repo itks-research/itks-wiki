@@ -1,7 +1,5 @@
 # Financial Reform in Central and Eastern Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Stephany Griffith‐Jones, Zdeněk Drábek |

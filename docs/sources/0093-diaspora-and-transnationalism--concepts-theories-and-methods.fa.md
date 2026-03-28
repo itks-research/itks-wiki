@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Rainer Bauböck, Bauböck, R., Faist, T. |
 |---|---|
 | **سال** | 2010 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Civil society development |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 750 |
 | **شناسه دیجیتال** | [10.5117/9789089642387](https://doi.org/10.5117/9789089642387) |
 

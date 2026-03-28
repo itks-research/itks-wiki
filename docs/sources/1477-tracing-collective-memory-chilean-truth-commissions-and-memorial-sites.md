@@ -1,7 +1,5 @@
 # Tracing collective memory: Chilean truth commissions and memorial sites
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Katrien Klep |

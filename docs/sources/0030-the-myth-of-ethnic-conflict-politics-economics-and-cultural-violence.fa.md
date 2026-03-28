@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Beverly Crawford, Ronnie D. Lipschutz |
 |---|---|
 | **سال** | 1998 |

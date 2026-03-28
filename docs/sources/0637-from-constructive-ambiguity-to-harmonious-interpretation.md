@@ -1,7 +1,5 @@
 # From Constructive Ambiguity to Harmonious Interpretation
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Markus Böckenförde |

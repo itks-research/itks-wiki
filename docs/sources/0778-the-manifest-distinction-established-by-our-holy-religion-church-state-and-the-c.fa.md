@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Brent S. Sirota |
 |---|---|
 | **سال** | 2022 |

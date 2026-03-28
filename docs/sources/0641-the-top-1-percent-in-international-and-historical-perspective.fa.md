@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Facundo Alvaredo, Anthony B. Atkinson, Thomas Piketty, Emmanuel Saez |
 |---|---|
 | **سال** | 2013 |

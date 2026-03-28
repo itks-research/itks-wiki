@@ -1,7 +1,5 @@
 # The Evolution of Central Bank Governance around the World
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Christopher Crowe, Ellen E. Meade |

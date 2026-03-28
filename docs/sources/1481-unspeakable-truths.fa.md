@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Priscilla Hayner |
 |---|---|
 | **سال** | 2002 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | M. Faix, Ondřej Svaček |
 |---|---|
 | **سال** | 2016 |

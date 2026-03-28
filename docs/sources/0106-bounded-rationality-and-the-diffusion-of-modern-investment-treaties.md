@@ -1,14 +1,12 @@
 # Bounded Rationality and the Diffusion of Modern Investment Treaties
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Lauge N. Skovgaard Poulsen |
 | **Year** | 2013 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Trade liberalization and foreign direct investment |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 148 |
 | **Source** | openalex |
 | **DOI** | [10.1111/isqu.12051](https://doi.org/10.1111/isqu.12051) |

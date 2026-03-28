@@ -1,7 +1,5 @@
 # Spanish Colonization and Indian Property in Central Mexico, 1521–1620∗
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Hanns J. Prem |

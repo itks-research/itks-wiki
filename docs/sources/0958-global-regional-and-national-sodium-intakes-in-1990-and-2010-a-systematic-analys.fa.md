@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | John Powles, Saman Fahimi, Renata Micha, Shahab Khatibzadeh, Peilin Shi, Majid Ezzati, Rebecca E Engell, Stephen S Lim, Goodarz Danaei, Dariush Mozaffarian, on behalf of the Global Burden of Diseases Nutrition and Chronic Diseases Expert Group (NutriCoDE) |
 |---|---|
 | **سال** | 2013 |

@@ -1,7 +1,5 @@
 # Mycobacterial infections in cattle and pigs caused by Mycobacterium avium complex members and atypical mycobacteria in the Czech Republic during 2000-2004
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | I. Pavlik, L. Mátlová, L. Dvorská, I. Parmova |

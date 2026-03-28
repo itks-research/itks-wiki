@@ -1,7 +1,5 @@
 # Truth, Justice, Memory, and Democratization in the Southern Cone
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Alexandra Barahona de Brito |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Filipa Calado, Mark D. Griffiths |
 |---|---|
 | **سال** | 2016 |

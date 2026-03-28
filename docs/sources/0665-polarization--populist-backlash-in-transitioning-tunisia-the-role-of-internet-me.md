@@ -1,7 +1,5 @@
 # Polarization & populist backlash in transitioning Tunisia: the role of internet media & media ownership
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Andrew Bennett |

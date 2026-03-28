@@ -1,7 +1,5 @@
 # Westward ho-the China dream and ‘one belt, one road’: Chinese foreign policy under Xi Jinping
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Peter Ferdinand |

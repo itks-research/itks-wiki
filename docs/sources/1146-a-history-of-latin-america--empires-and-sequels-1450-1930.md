@@ -1,7 +1,5 @@
 # A history of Latin America : empires and sequels, 1450-1930
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Peter Bakewell |

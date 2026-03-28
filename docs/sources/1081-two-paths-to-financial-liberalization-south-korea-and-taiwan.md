@@ -1,7 +1,5 @@
 # Two paths to financial liberalization: South Korea and Taiwan
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Elizabeth Thurbon |

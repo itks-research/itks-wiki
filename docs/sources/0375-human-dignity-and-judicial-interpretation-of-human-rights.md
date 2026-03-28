@@ -1,7 +1,5 @@
 # Human Dignity and Judicial Interpretation of Human Rights
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Christopher McCrudden |

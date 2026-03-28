@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ewa K. Strzelecka, María Angustias Parejo Fernández |
 |---|---|
 | **سال** | 2017 |

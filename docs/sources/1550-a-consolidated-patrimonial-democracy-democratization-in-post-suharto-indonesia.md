@@ -1,7 +1,5 @@
 # A consolidated patrimonial democracy? Democratization in post-Suharto Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Douglas Webber |

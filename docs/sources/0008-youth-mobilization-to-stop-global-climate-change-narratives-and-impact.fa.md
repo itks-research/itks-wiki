@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Heejin Han, Sang Wuk Ahn |
 |---|---|
 | **سال** | 2020 |

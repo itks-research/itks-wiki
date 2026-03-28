@@ -1,7 +1,5 @@
 # Employment and Wage Behavior of Enterprises in Transitional Economies
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Swati Basu, Estrin Saul, Jan Svejnar |

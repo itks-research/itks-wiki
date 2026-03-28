@@ -1,7 +1,5 @@
 # Adjustment Issues of International Students in the Czech Republic: Prevailing Social Conditions and Financial Challenges
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ntite Orji Kalu, Tomáš Janík, Martina Kurowski |

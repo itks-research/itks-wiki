@@ -1,7 +1,5 @@
 # THE TUNISIAN CONSTITUTIONAL TRANSITION AND DEBATES: ISLAM, WOMEN AND OTHER ACTORS IN THE WAKE OF THE POST JASMINE REVOLUTION
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ashraf Booley |

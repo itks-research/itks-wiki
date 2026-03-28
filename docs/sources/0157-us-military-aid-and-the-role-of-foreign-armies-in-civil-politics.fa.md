@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jennifer Jones Cunningham |
 |---|---|
 | **سال** | 2015 |

@@ -1,7 +1,5 @@
 # Nanoemulsion of Camphor (Eucalyptus globulus) Essential Oil, Formulation, Characterization and Insecticidal Activity against Wheat Weevil, Sitophilus granarius
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Abdel-Tawab Halim Moss, Nilly Ahmed Hassan Abdelfatta, Samia M.M. Mohafrash |

@@ -1,7 +1,5 @@
 # Egypt's business elite after Mubarak: a powerful player between generals and brotherhood
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Stephan Roll |

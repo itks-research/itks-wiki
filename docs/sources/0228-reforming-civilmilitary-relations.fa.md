@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | David Kuehn, Aurel Croissant |
 |---|---|
 | **سال** | 2023 |

@@ -1,7 +1,5 @@
 # Reimagining Nigeria: CISNA (Commonwealth of Independent States of Niger Area) as a Confederal Path to Prosperity
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Oluwadare Ogunlade |

@@ -1,7 +1,5 @@
 # Joteite, Ca<sub>2</sub>CuAl[AsO<sub>4</sub>][AsO<sub>3</sub>(OH)]<sub>2</sub>(OH)<sub>2</sub>·5H<sub>2</sub>O, a new arsenate with a sheet structure and unconnected acid arsenate groups
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anthony R. Kampf, Stuart J. Mills, R. M. Housley, George R. Rossman, Barbara P. Nash, Maurizio Dini, Robert A. Jenkins |

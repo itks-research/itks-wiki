@@ -1,7 +1,5 @@
 # Party Attitudes towards the Authoritarian Past in Spanish Democracy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Carsten Humlebæk |

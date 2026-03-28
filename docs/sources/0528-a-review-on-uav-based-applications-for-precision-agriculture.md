@@ -1,7 +1,5 @@
 # A Review on UAV-Based Applications for Precision Agriculture
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Dimosthenis C. Tsouros, Stamatia Bibi, Panagiotis Sarigiannidis |

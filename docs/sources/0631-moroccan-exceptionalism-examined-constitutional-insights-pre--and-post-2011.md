@@ -1,7 +1,5 @@
 # Moroccan Exceptionalism Examined: Constitutional Insights pre- and post-2011
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mohammed Hashas |

@@ -1,7 +1,5 @@
 # WIDE-REACH SPRINKLER MACHINE WITH “INTELLIGENT MODULE”
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Larisa Zhuravleva, B. Heirbeek |

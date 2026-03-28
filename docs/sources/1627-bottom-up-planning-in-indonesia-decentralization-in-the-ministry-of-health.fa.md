@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Thomas J. Bossert, R SOEBEKTI, N Saravana Amutha Kumara |
 |---|---|
 | **سال** | 1991 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Andrés Rodríguez‐Pose |
 |---|---|
 | **سال** | 2017 |

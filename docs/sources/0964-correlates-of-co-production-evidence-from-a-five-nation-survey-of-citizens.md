@@ -1,7 +1,5 @@
 # Correlates of Co-production: Evidence From a Five-Nation Survey of Citizens
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Salvador Parrado, Gregg G. Van Ryzin, Tony Bovaird, Elke Löffler |

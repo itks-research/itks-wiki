@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Catarina Santos Botelho |
 |---|---|
 | **سال** | 2021 |

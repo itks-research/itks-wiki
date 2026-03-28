@@ -1,7 +1,5 @@
 # Road safety in Poland, the Czech Republic and Slovakia. Presentation of international research results
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jacek Dworzecki |

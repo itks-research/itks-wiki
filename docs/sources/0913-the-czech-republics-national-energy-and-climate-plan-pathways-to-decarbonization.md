@@ -1,7 +1,5 @@
 # THE CZECH REPUBLIC’S NATIONAL ENERGY AND CLIMATE PLAN: PATHWAYS TO DECARBONIZATION, ENERGY SECURITY, AND INDUSTRIAL TRANSFORMATION
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Dmytro Tkach |

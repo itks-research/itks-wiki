@@ -1,7 +1,5 @@
 # Justice as prevention : vetting public employees in transitional societies
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Pablo de Greiff, Alexander Mayer-Rieckh |

@@ -1,7 +1,5 @@
 # Dr. Ambedkar’s Nation-Building Vision: Princely States, Constitutional Sovereignty, and Indian Unity
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Kanchankumar Shewale |

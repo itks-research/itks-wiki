@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ulrich Sedelmeier |
 |---|---|
 | **سال** | 2011 |

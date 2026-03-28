@@ -1,7 +1,5 @@
 # The whole systems energy injustice of four European low-carbon transitions
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Benjamin K. Sovacool, Andrew Hook, Mari Martiskainen, Lucy Baker |

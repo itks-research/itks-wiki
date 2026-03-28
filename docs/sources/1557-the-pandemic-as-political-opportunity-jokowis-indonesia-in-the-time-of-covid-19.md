@@ -1,7 +1,5 @@
 # The Pandemic as Political Opportunity: Jokowi’s Indonesia in the Time of Covid-19
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Charlotte Setijadi |

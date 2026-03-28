@@ -1,7 +1,5 @@
 # Comparative Performance of Private and Public Healthcare Systems in Low- and Middle-Income Countries: A Systematic Review
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sanjay Basu, Jason R. Andrews, Sandeep P. Kishore, Rajesh Panjabi, David Stückler |

@@ -1,7 +1,5 @@
 # Enhancing food security to support the sustainable development goals through public sector accounting policy reform in Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Yustina Hiola, Mentari Rizki Sawitri Pilomonu, Asdar Asdar |

@@ -1,7 +1,5 @@
 # Lustration Systems and Trust: Evidence from Survey Experiments in the Czech Republic, Hungary, and Poland
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Susanne Y. P. Choi, Roman David |

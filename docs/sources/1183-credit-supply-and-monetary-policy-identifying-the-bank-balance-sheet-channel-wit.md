@@ -1,7 +1,5 @@
 # Credit Supply and Monetary Policy: Identifying the Bank Balance-Sheet Channel with Loan Applications
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Gabriel Jiménez, Steven Ongena, José‐Luis Peydró, Jesús Saurina |

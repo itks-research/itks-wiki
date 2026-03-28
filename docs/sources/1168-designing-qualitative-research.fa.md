@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Shaliha, Farnaz, Mozaffari, Maryam, Ramezani, Faeze, Hajnasiri, Hamideh, Moafi, Farnoosh |
 |---|---|
 | **سال** | 1989 |

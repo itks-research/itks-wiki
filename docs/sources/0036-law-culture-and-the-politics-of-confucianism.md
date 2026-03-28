@@ -1,7 +1,5 @@
 # Law, Culture, and the Politics of Confucianism
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Chaihark Hahm |

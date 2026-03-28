@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Dagmar Rychnovská, M. Kohút |
 |---|---|
 | **سال** | 2018 |

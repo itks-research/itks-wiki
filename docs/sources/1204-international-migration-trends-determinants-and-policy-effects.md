@@ -1,7 +1,5 @@
 # International Migration: Trends, Determinants, and Policy Effects
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Hein de Haas, Mathias Czaika, Marie‐Laurence Flahaux, Edo Mahendra, Katharina Natter, Simona Vezzoli, María Villares‐Varela |

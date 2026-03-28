@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | N. Gregory Mankiw, Matthew Weinzierl, Danny Yagan |
 |---|---|
 | **سال** | 2009 |

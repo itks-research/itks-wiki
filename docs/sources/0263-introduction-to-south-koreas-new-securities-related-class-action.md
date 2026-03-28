@@ -1,7 +1,5 @@
 # Introduction to South Korea's New Securities-Related Class Action
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Dae Hwan Chung |

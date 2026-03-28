@@ -1,7 +1,5 @@
 # “A Hand upon the Throat of the Nation”: Economic Sanctions and State Repression, 1976-2001
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Reed M. Wood |

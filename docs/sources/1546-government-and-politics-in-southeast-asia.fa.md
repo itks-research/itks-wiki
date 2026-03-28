@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Diane K. Mauzy, John Funston |
 |---|---|
 | **سال** | 2002 |

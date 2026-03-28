@@ -1,7 +1,5 @@
 # The Truth Commission and Postapartheid Literature in South Africa
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Shane Graham |

@@ -1,7 +1,5 @@
 # Re-thinking Water and Food Security
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

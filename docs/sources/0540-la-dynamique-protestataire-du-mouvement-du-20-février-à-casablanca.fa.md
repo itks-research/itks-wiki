@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Mounia Bennani-Chraïbi, Mohamed Jeghllaly |
 |---|---|
 | **سال** | 2012 |

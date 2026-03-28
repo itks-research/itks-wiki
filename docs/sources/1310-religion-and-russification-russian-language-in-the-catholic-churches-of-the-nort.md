@@ -1,7 +1,5 @@
 # Religion and Russification: Russian Language in the Catholic Churches of the “Northwest Provinces” after 1863
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Theodore R. Weeks |

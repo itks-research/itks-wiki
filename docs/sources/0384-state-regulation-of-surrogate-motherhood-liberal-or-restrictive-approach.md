@@ -1,7 +1,5 @@
 # State Regulation of Surrogate Motherhood: Liberal or Restrictive Approach
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Gordana Stanić |

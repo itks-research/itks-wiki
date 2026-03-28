@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Anthony R. Kampf, Stuart J. Mills, R. M. Housley, George R. Rossman, Barbara P. Nash, Maurizio Dini, Robert A. Jenkins |
 |---|---|
 | **سال** | 2013 |

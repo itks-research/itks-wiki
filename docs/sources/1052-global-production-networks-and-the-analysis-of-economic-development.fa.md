@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jeffrey Henderson, Peter Dicken, Martin Heß, Neil M. Coe, Henry Wai‐chung Yeung |
 |---|---|
 | **سال** | 2002 |

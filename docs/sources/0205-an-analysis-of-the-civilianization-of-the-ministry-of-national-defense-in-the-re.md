@@ -1,7 +1,5 @@
 # An analysis of the civilianization of the Ministry of National Defense in the Republic of Korea in support of Defense Reform 2020
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | S. Jang |

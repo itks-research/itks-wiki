@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Rached Ghannouchi |
 |---|---|
 | **سال** | 2013 |

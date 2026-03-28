@@ -1,7 +1,5 @@
 # EU external governance in 'wider Europe'
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sandra Lavenex |

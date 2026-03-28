@@ -1,7 +1,5 @@
 # Challenging the Conventional Wisdom
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Barbara Geddes |

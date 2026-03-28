@@ -1,7 +1,5 @@
 # Constitutional Politics
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Won‐Taek Kang |

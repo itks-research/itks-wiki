@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | James Ron, Howard Ramos, Kathleen Rodgers |
 |---|---|
 | **سال** | 2005 |

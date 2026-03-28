@@ -1,7 +1,5 @@
 # Ethnicity without groups
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rogers Brubaker |

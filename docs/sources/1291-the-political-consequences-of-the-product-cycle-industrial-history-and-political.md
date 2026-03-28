@@ -1,7 +1,5 @@
 # The political consequences of the product cycle: industrial history and political outcomes
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | James Kurth |

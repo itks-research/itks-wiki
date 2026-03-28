@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Richard A. Easterlin |
 |---|---|
 | **سال** | 2000 |

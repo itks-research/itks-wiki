@@ -1,7 +1,5 @@
 # Relations among Security and Law Enforcement Institutions in Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | David N. Jansen |

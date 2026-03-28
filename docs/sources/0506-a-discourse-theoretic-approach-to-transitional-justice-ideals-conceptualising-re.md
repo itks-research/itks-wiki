@@ -1,7 +1,5 @@
 # A Discourse Theoretic Approach to Transitional Justice Ideals: Conceptualising ‘Reconciliation’ as an Empty Universal in Times of Political Transition
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Judith Renner |

@@ -1,7 +1,5 @@
 # The Policy Dystopia Model: An Interpretive Analysis of Tobacco Industry Political Activity
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Selda Ulucanlar, Gary Fooks, Anna Gilmore |

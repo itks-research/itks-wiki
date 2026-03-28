@@ -1,7 +1,5 @@
 # A history of Latin America
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Benjamin Keen |

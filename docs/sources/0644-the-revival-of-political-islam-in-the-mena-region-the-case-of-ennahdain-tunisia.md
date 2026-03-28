@@ -1,7 +1,5 @@
 # The revival of Political Islam in the MENA region: the case of Ennahda in Tunisia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Tania Abbiate |

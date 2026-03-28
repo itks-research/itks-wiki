@@ -1,7 +1,5 @@
 # Mnemonic Model of Czech Reception of Soviet Heritage in the Post-Communist Era
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Svitlana Motruk |

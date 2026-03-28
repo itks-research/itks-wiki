@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Naomi Roht‐Arriaza |
 |---|---|
 | **سال** | 1999 |

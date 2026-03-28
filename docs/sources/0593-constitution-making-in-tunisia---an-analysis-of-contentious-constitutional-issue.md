@@ -1,7 +1,5 @@
 # Constitution-making in Tunisia - an analysis of contentious constitutional issues in the process of drafting the 2014-constitution
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Lisa‐Marie Selvik |

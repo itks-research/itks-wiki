@@ -1,7 +1,5 @@
 # Developmental Mindset
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Elizabeth Thurbon |

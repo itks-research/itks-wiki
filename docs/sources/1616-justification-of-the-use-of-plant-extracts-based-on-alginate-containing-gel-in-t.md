@@ -1,7 +1,5 @@
 # JUSTIFICATION OF THE USE OF PLANT EXTRACTS BASED ON ALGINATE-CONTAINING GEL IN THE PRODUCTION TECHNOLOGY OF COLD-SMOKED SOCKEYE SALMON
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | N.S. Saltanova |

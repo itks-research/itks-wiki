@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Pavla Hosnedlová, Markéta Pitrová |
 |---|---|
 | **سال** | 2023 |

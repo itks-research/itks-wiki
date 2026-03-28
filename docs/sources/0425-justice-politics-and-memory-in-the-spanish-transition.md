@@ -1,7 +1,5 @@
 # Justice, Politics, and Memory in the Spanish Transition
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Paloma Aguilar |

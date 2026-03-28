@@ -1,7 +1,5 @@
 # Indonesian Decentralization: Accountability Deferred
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Blane D. Lewis |

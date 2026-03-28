@@ -1,7 +1,5 @@
 # Current knowledge and perspectives of Paenibacillus: a review
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Elliot Grady, Jacqueline MacDonald, Linda Liu, Alex Richman, Ze-Chun Yuan |

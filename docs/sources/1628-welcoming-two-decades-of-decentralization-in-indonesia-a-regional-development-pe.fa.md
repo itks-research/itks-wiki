@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Tessa Talitha, Tommy Firman, Delik Hudalah |
 |---|---|
 | **سال** | 2019 |

@@ -1,7 +1,5 @@
 # From Public Participation to Constitutional Legitimacy: Evidence from Tunisia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Tofigh Maboudi, Ghazal P. Nadi |

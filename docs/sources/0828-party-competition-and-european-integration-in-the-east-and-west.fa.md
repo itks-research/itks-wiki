@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Gary Marks, Liesbet Hooghe, Moira Nelson, Erica Edwards |
 |---|---|
 | **سال** | 2006 |

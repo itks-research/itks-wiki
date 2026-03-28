@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Nelson Sánchez-Alarcón, Juan Pablo Frick-Raggi, F. Vega-Duarte |
 |---|---|
 | **سال** | 2021 |

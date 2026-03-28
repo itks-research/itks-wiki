@@ -1,7 +1,5 @@
 # Research note: Indonesian trade union developments since the fall of Suharto
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Michele Ford |

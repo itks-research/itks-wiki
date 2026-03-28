@@ -1,7 +1,5 @@
 # New Modes of Pluralist Global Governance
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Gráinne de Búrca, Robert O. Keohane, Charles F. Sabel |

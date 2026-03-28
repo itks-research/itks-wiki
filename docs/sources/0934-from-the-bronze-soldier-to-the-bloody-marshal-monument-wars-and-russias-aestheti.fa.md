@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Aliaksei Kazharski, Andrey Makarychev |
 |---|---|
 | **سال** | 2021 |

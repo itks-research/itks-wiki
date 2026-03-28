@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Russell Muir, Joseph P. Saba |
 |---|---|
 | **سال** | 1995 |

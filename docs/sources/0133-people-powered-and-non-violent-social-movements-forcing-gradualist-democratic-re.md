@@ -1,14 +1,13 @@
 # People-Powered and Non-Violent Social Movements: Forcing Gradualist Democratic Reforms in Authoritarian Societies
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Stephen Zunes |
 | **Year** | 2022 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Political party formation and pluralism, Power-sharing mechanisms during transition periods |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 6 |
 | **Source** | openalex |
 | **DOI** | [10.3389/fpos.2021.721055](https://doi.org/10.3389/fpos.2021.721055) |

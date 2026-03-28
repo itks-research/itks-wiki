@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Aprilianata Aprilianata, Octavia Wulandari, Mike Meida Diningrum, Siska Yulia Putri, Rani Lestari, Stanislaus Jebarus, Maria Antoneta Karbeka, M. Murdiono |
 |---|---|
 | **سال** | 2026 |

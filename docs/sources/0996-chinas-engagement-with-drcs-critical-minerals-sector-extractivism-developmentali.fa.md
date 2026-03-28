@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Wei Shen, C.X. Fu |
 |---|---|
 | **سال** | 2024 |

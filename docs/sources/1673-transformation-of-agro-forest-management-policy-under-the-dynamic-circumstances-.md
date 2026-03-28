@@ -1,7 +1,5 @@
 # Transformation of Agro-Forest Management Policy under the Dynamic Circumstances of a Two-Decade Regional Autonomy in Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Dodik Ridho Nurrochmat, Ristianto Pribadi, Hermanto Siregar, Agus Justianto, Mi Sun Park |

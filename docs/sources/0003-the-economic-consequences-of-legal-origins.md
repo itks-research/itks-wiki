@@ -1,7 +1,5 @@
 # The Economic Consequences of Legal Origins
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rafael La Porta, Florencio López‐de‐Silanes, Andrei Shleifer |

@@ -1,7 +1,5 @@
 # “The Manifest Distinction Established by Our Holy Religion”: Church, State and the Consecration of Samuel Seabury
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Brent S. Sirota |

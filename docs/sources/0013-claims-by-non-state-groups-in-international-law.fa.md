@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Benedict Kingsbury |
 |---|---|
 | **سال** | 1992 |

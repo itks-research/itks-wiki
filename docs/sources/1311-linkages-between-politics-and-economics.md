@@ -1,7 +1,5 @@
 # Linkages Between Politics and Economics
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Joan M. Nelson |

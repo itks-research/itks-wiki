@@ -1,7 +1,5 @@
 # Realpolitik ideology: Indonesia's use of military force
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

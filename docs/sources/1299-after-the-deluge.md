@@ -1,7 +1,5 @@
 # After the Deluge
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Robert Frost |

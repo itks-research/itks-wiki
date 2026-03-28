@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | N.F. Khvorostukhina, Anton A. Plekhanov, Д. А. Новичков |
 |---|---|
 | **سال** | 2024 |

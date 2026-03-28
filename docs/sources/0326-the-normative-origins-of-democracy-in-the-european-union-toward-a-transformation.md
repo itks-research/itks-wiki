@@ -1,7 +1,5 @@
 # The normative origins of democracy in the European Union: toward a transformationalist theory of democratization
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Frank Schimmelfennig |

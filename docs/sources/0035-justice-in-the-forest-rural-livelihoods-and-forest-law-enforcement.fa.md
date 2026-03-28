@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Marcus Colchester, Marco Boscolo, A. Contreras-Hermosilla, Gatto F.D., Jason Dempsey, Guillaume Lescuyer, K. Obidzinski, D. Pommier, Meryl Richards, Sembiring S.S., Luca Tacconi, Rios M.T.S., Andrew Wells |
 |---|---|
 | **سال** | 2006 |

@@ -1,7 +1,5 @@
 # Emerging Multinationals from Mid‐Range Economies: The Influence of Institutions and Factor Markets
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Robert E. Hoskisson, Mike Wright, Igor Filatotchev, Mike W. Peng |

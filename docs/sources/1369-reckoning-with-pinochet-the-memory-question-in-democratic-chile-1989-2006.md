@@ -1,7 +1,5 @@
 # Reckoning with Pinochet: the memory question in democratic Chile, 1989-2006
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

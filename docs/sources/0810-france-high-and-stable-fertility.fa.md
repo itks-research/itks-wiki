@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Laurent Toulemon, Ariane Pailhé, Clémentine Rossier |
 |---|---|
 | **سال** | 2008 |

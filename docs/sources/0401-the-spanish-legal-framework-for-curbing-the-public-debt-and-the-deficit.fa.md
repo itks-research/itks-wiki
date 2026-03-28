@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Violeta Ruiz Almendral |
 |---|---|
 | **سال** | 2013 |

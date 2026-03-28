@@ -1,7 +1,5 @@
 # After Liberal Hegemony: The Advent of a Multiplex World Order
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Amitav Acharya |

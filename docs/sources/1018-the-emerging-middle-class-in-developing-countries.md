@@ -1,7 +1,5 @@
 # The Emerging Middle Class in Developing Countries
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Homi Kharas |

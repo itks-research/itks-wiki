@@ -1,7 +1,5 @@
 # Critical Point of View: The Challenges of Agricultural Sector on Governance and Food Security in Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Lilies Setiartiti |

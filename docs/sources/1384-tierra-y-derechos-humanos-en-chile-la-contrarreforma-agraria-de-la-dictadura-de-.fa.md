@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Joana Salém Vasconcelos |
 |---|---|
 | **سال** | 2019 |

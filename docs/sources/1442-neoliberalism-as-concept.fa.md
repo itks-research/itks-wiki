@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Rajesh Venugopal |
 |---|---|
 | **سال** | 2015 |

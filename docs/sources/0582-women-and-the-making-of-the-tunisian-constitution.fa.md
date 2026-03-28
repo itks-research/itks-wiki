@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Rangita de Silva de Alwis |
 |---|---|
 | **سال** | 2017 |

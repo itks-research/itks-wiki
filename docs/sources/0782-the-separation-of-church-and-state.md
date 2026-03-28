@@ -1,7 +1,5 @@
 # The separation of church and state
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Stephen A. Chavura, J. Gascoigne, Ian Tregenza |

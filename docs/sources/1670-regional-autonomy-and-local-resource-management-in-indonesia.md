@@ -1,7 +1,5 @@
 # Regional autonomy and local resource management in Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Bakti Setiawan, Sudharto P. Hadi |

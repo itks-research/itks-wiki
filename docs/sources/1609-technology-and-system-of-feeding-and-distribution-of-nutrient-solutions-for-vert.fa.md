@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | L.A. Zhuravleva, A. Aldiab |
 |---|---|
 | **سال** | 2024 |

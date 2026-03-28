@@ -1,7 +1,5 @@
 # The hidden costs of power-sharing: Reproducing insurgent violence in Africa
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Denis M. Tull |

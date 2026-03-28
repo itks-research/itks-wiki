@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Eduardo D. Faingold |
 |---|---|
 | **سال** | 2018 |

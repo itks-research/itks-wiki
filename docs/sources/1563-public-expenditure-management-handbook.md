@@ -1,7 +1,5 @@
 # Public expenditure management handbook.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | World Bank |

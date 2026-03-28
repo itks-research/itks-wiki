@@ -1,7 +1,5 @@
 # The Financial and Banking Sectors in Transition Countries
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Lumír Kulhánek, Stanislav Polouček, Daniel Stavárek |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jesús Sánchez-Camacho |
 |---|---|
 | **سال** | 2022 |

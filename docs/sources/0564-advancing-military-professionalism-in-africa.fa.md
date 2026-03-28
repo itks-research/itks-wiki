@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Emile Ouedraogo |
 |---|---|
 | **سال** | 2014 |

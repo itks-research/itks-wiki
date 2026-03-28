@@ -1,7 +1,5 @@
 # Transfer of nurse education to universities under a model of person-centred care: A consequence of changes in Spanish society during the democratic transition.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Olga Rodrigo, Jordi Caïs, C. Monforte-Royo |

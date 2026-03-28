@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Paloma Aguilar, Clara Ramírez-Barat |
 |---|---|
 | **سال** | 2016 |

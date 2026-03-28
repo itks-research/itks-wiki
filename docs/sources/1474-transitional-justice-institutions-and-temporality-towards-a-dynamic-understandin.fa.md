@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Pádraig McAuliffe |
 |---|---|
 | **سال** | 2021 |

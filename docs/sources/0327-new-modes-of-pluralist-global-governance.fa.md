@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Gráinne de Búrca, Robert O. Keohane, Charles F. Sabel |
 |---|---|
 | **سال** | 2013 |

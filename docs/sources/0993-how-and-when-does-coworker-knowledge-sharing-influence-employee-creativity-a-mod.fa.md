@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Soojin Lee, Ji Hoon Lee, Gukdo Byun, S. Karau |
 |---|---|
 | **سال** | 2025 |

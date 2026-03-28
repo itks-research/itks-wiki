@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ngesti Dwi Prasetyo, Moh. Fadli, Tunggul Ansasri Sn, Muchamad Ali Safa’at |
 |---|---|
 | **سال** | 2021 |

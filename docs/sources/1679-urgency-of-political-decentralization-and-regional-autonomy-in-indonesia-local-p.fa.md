@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Andi Yakub, Ahmad Bashawir Abdul Ghani, Mohammad Syafi’i Anwar |
 |---|---|
 | **سال** | 2018 |

@@ -1,7 +1,5 @@
 # Russia Under the Old Regime
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Richard Pipes |

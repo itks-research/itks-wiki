@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Aleksander Kaliberda, Daniel Kaufmann |
 |---|---|
 | **سال** | 1996 |

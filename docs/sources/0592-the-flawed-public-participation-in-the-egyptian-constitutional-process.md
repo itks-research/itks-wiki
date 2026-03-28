@@ -1,7 +1,5 @@
 # The flawed public participation in the Egyptian constitutional process
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mohamed Abdelaal |

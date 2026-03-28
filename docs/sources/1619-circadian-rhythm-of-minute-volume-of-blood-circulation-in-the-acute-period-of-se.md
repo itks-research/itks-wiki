@@ -1,7 +1,5 @@
 # CIRCADIAN RHYTHM OF MINUTE VOLUME OF BLOOD CIRCULATION IN THE ACUTE PERIOD OF SEVERE CONCOMITANT TRAUMATIC BRAIN INJURY IN CHILDREN OF 3.1-7 YEARS OF AGE
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | H.N. Muhitdinova, G.S. Hamraeva, A.Y. Shomurodov |

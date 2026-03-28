@@ -1,7 +1,5 @@
 # 1: Heirs to world culture 1950-1965 An introduction
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jennifer Lindsay |

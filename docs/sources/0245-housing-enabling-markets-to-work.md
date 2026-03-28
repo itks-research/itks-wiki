@@ -1,7 +1,5 @@
 # Housing Enabling Markets to Work
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | World Bank |

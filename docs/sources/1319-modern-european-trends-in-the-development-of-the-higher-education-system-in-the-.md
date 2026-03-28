@@ -1,7 +1,5 @@
 # Modern European trends in the development of the higher education system in the realities of large-scale military aggression (the experience of Ukraine)
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Олександр Олександрович Малімон, Леся Малімон, Olena Tykhonenko, Svitlana Honcharuk, Nelya Guts |

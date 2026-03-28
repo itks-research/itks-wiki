@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Bernard S. Black, Barry Metzger, Timothy O'Brien, Young Moo Shin |
 |---|---|
 | **سال** | 2001 |

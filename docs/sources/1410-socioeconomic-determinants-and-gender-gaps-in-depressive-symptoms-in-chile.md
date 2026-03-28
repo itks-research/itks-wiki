@@ -1,7 +1,5 @@
 # [Socioeconomic determinants and gender gaps in depressive symptoms in Chile].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Álvaro Jiménez-Molina, P. Reyes, G. Rojas |

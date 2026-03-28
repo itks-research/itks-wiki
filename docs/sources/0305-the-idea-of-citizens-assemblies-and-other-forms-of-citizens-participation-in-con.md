@@ -1,7 +1,5 @@
 # The idea of citizens’ assemblies and other forms of citizens’ participation in constitutional changes and public initiatives: experience and prospects for constitutionalization in the New and Old World
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Igor Kravets |

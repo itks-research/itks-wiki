@@ -1,7 +1,5 @@
 # Holubite, Ag<sub>3</sub>Pb<sub>6</sub>(Sb<sub>8</sub>Bi<sub>3</sub>)<sub>Σ11</sub>S<sub>24</sub>, from Kutná Hora, Czech Republic, a new member of the andorite branch of the lillianite homologous series
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | R. Pažout, Jakub Plášil, Michal Dušek, Jiří Sejkora, Zdeněk Dolníček |

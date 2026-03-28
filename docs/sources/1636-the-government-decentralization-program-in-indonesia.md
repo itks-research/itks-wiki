@@ -1,7 +1,5 @@
 # The government decentralization program in Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anwar Nasution |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | H. Pleines, Charlotte Cordes, Mareike zum Felde, Ekaterina Paustyan, Michael Rochlitz, Esther Somfalvy |
 |---|---|
 | **سال** | 2024 |

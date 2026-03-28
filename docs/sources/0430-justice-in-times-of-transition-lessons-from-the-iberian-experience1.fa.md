@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Omar G. Encarnación |
 |---|---|
 | **سال** | 2011 |

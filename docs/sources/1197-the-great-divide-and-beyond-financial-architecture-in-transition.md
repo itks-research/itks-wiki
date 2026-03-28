@@ -1,7 +1,5 @@
 # The Great Divide and Beyond: Financial Architecture in Transition
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Erik Berglöf, Patrick Bolton |

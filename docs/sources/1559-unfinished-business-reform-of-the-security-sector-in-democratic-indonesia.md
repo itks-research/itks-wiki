@@ -1,7 +1,5 @@
 # Unfinished Business: Reform of the Security Sector in Democratic Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Donald Greenlees |

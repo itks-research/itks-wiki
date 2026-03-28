@@ -1,7 +1,5 @@
 # The Role of Cultural Routes in Sustainable Tourism Development: A Case Study of Syria’s Spiritual Route
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Bashar Dayoub, Peifeng Yang, Alaa Dayoub, Sarah Omran, He Li |

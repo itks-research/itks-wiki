@@ -1,7 +1,5 @@
 # Hamas, Constitutionalism, and Palestinian Women
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Adrien K. Wing, Hisham A. Kassim |

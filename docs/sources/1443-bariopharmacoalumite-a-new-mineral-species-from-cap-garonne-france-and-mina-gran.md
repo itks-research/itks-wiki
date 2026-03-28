@@ -1,7 +1,5 @@
 # Bariopharmacoalumite, a new mineral species from Cap Garonne, France and Mina Grande, Chile
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Stuart J. Mills, Michael S. Rumsey, Georges Favreau, John Spratt, Mati Raudsepp, Maurizio Dini |

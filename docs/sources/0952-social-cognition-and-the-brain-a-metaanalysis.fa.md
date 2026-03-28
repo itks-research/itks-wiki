@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Frank Van Overwalle |
 |---|---|
 | **سال** | 2008 |

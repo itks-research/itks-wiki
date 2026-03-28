@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Sue O’Connor, Mahirta Mahirta, Sofía Samper Carro, Stuart Hawkins, Shimona Kealy, Julien Louys, Rachel Wood |
 |---|---|
 | **سال** | 2017 |

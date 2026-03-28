@@ -1,7 +1,5 @@
 # 'We the Jurists': Islamic Constitutionalism in Iraq
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Intisar A. Rabb |

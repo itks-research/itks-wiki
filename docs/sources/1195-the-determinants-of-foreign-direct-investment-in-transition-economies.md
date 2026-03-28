@@ -1,7 +1,5 @@
 # The Determinants of Foreign Direct Investment in Transition Economies
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Alan Bevan, Saul Estrin |

@@ -1,7 +1,5 @@
 # The asymmetry of European integration, or why the EU cannot be a 'social market economy'
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Fritz W. Scharpf |

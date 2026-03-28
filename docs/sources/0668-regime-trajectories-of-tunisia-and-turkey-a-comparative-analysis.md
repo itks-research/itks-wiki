@@ -1,7 +1,5 @@
 # Regime trajectories of Tunisia and Turkey: a comparative analysis
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Pelin Ayan Musil, Salim Çevik |

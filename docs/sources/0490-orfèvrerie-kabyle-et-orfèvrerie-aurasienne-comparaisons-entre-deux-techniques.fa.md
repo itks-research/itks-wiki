@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Henriette Camps-Fabrer |
 |---|---|
 | **سال** | 1977 |

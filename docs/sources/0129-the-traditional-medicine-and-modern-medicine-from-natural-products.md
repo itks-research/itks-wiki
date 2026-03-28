@@ -1,14 +1,12 @@
 # The Traditional Medicine and Modern Medicine from Natural Products
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Hai-Dan Yuan, Qianqian Ma, Ye Li, Guangchun Piao |
 | **Year** | 2016 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 2336 |
 | **Source** | openalex |
 | **DOI** | [10.3390/molecules21050559](https://doi.org/10.3390/molecules21050559) |

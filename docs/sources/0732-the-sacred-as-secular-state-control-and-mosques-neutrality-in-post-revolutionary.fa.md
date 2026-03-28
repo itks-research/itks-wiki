@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Teije Hidde Donker |
 |---|---|
 | **سال** | 2018 |

@@ -1,7 +1,5 @@
 # Rural development : putting the last first
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Robert Chambers |

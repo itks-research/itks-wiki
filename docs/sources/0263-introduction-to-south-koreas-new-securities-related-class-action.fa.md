@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Dae Hwan Chung |
 |---|---|
 | **سال** | 2004 |

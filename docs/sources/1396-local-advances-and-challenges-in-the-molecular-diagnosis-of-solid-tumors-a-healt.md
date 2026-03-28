@@ -1,7 +1,5 @@
 # [Local advances and challenges in the molecular diagnosis of solid tumors: a health perspective towards precision oncology in Chile].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | K. Marcelain, Carolina Selman-Bravo, Benjamín García-Bloj, E. Bustamante, J. Fernández, Fancy Gaete, L. Moyano, J. C. Bustos, Francisca Plaza-Parroquia, J. Godoy, M. Garrido, T. Labbe, Juvenal A. Ríos |

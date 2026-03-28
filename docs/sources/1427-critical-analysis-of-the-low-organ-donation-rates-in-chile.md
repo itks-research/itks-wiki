@@ -1,7 +1,5 @@
 # [Critical analysis of the low organ donation rates in Chile].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Francisca González Cohens, Felipe Vera Cid, Rosa Alcayaga Droguett, Fernando González Fuenzalida |

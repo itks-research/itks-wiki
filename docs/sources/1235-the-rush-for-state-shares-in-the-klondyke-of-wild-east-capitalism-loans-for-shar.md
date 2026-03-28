@@ -1,7 +1,5 @@
 # The Rush for State Shares in the "Klondyke" of Wild East Capitalism: Loans-for-Shares Transactions in Russia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ira W. Lieberman, Rogi Veimetra |

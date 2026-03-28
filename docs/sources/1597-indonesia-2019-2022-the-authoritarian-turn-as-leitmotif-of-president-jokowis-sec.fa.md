@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Riwanto Tirtosudarmo, Peter Carey |
 |---|---|
 | **سال** | 2023 |

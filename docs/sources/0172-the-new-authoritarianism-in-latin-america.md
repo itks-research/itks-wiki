@@ -1,7 +1,5 @@
 # The New Authoritarianism in Latin America.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Fredrick B. Pike, David Collier |

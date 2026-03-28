@@ -1,7 +1,5 @@
 # The Participatory Zeitgeist: an explanatory theoretical model of change in an era of coproduction and codesign in healthcare improvement
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Victoria Palmer, Wayne Weavell, Rosemary Callander, Donella Piper, Lauralie Richard, Lynne Maher, Hilary Boyd, Helen Herrman, John Furler, Jane Gunn, Rick Iedema, Glenn Robert |

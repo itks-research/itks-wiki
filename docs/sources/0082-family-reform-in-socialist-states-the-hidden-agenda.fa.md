@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Maxine Molyneux |
 |---|---|
 | **سال** | 1985 |
 | **دسته‌بندی** | Constitutional design and drafting processes |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 37 |
 | **شناسه دیجیتال** | [10.1057/fr.1985.28](https://doi.org/10.1057/fr.1985.28) |
 

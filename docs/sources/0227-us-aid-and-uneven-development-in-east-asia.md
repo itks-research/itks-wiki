@@ -1,7 +1,5 @@
 # U.S. Aid and Uneven Development in East Asia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Kevin Gray |

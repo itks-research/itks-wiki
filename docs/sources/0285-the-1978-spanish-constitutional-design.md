@@ -1,7 +1,5 @@
 # The 1978 Spanish Constitutional Design
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Josep M. Vallès |

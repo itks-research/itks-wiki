@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Hanna Pfeifer |
 |---|---|
 | **سال** | 2019 |

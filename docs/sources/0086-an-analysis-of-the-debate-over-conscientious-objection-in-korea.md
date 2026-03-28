@@ -1,14 +1,12 @@
 # An Analysis of the Debate over Conscientious Objection in Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Soo-Hyun Mun |
 | **Year** | 2013 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 4 |
 | **Source** | openalex |
 

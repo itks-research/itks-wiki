@@ -1,7 +1,5 @@
 # A Foreign Policy Analysis Perspective on the Domestic Politics Turn in IR Theory
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Juliet Kaarbo |

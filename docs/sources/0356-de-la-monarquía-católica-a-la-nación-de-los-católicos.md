@@ -1,7 +1,5 @@
 # De la Monarquía Católica a la Nación de los Católicos.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | José María Portillo Valdés |

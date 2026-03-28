@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | I. Fogilev, Vera Nikolaevna Malinovskaya, Sergey Gennadyevich Mironenko, Roman Vladimirovich Androsenko |
 |---|---|
 | **سال** | 2022 |

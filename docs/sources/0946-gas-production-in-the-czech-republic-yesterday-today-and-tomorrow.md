@@ -1,7 +1,5 @@
 # Gas production in the Czech Republic yesterday, today and tomorrow
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | K. Ciahotný, Josef Kahlen |

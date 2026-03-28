@@ -1,7 +1,5 @@
 # Constitutional Basis and Modern Development of the Right to Self-Determination as a Fundamental Right
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Min-Woo Kim |

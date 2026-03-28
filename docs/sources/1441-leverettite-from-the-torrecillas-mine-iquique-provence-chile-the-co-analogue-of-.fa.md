@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Anthony R. Kampf, M. J. Sciberras, Peter A. Williams, Maurizio Dini, Arturo A. Molina Donoso |
 |---|---|
 | **سال** | 2013 |

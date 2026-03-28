@@ -1,7 +1,5 @@
 # The role of the federal government in internalizing the 2030 Agenda - Brazil and the Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Carlos Gabriel Arpini, Alice Alves de Oliveira, César Albenes de Mendonça Cruz, Paulo André Stein Messetti |

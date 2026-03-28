@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Pablo Villalobos Dintrans |
 |---|---|
 | **سال** | 2019 |

@@ -1,7 +1,5 @@
 # Tunisia in turmoil: how should the EU react?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Hrant Kostanyan, Elitsa Garnizova |

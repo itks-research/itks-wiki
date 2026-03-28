@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Aleks Szczerbiak |
 |---|---|
 | **سال** | 2002 |

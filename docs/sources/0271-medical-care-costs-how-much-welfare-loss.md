@@ -1,7 +1,5 @@
 # Medical Care Costs: How Much Welfare Loss?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Joseph P. Newhouse |

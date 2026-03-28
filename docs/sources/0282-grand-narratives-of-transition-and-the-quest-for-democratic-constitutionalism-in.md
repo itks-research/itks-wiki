@@ -1,7 +1,5 @@
 # Grand Narratives of Transition and the Quest for Democratic Constitutionalism in India and South Africa
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | T. Roux |

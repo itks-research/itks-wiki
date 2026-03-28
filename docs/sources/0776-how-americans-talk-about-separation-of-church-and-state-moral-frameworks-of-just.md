@@ -1,7 +1,5 @@
 # How Americans Talk about Separation of Church and State: Moral Frameworks of Justice and Care
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | K. Hull, Penny Edgell |

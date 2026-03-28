@@ -1,7 +1,5 @@
 # Interpreting the Tunisian Revolution: Beyond Bou’azizi
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Irene Weipert-Fenner |

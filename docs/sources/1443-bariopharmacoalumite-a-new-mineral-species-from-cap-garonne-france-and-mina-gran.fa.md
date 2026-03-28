@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Stuart J. Mills, Michael S. Rumsey, Georges Favreau, John Spratt, Mati Raudsepp, Maurizio Dini |
 |---|---|
 | **سال** | 2011 |

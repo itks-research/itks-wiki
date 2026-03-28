@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Brigitte Mral, Majid KhosraviNik, Ruth Wodak |
 |---|---|
 | **سال** | 2013 |

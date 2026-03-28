@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Sang Ho Kim, Y. An |
 |---|---|
 | **سال** | 2024 |

@@ -1,7 +1,5 @@
 # The Enemy Within: Personal Rule, Coups, and Civil War in Africa
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Philip Roessler |

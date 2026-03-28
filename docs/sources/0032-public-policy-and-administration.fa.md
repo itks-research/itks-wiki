@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Juraj Nemec, Purshottama Reddy, Michiel S. de Vries |
 |---|---|
 | **سال** | 2015 |

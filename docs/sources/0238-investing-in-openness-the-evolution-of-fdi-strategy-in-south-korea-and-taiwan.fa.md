@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Elizabeth Thurbon, Linda Weiss |
 |---|---|
 | **سال** | 2006 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Olusola Joshua Olujobi, Uchechukwu Emena Okorie, Elizabeta Smaranda Olarinde, Adetutu Deborah Aina-Pelemo |
 |---|---|
 | **سال** | 2023 |

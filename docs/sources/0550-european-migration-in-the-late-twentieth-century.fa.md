@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Fassmann, H., Muenz, R. |
 |---|---|
 | **سال** | 1994 |

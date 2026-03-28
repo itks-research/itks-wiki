@@ -1,7 +1,5 @@
 # The Constitution of South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Chaihark Hahm |

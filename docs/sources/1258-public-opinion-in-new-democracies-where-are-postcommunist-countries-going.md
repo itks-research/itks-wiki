@@ -1,7 +1,5 @@
 # Public Opinion in New Democracies: Where Are Postcommunist Countries Going?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Richard Rose |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Thomas R. Pegram |
 |---|---|
 | **سال** | 2010 |

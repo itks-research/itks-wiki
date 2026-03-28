@@ -1,7 +1,5 @@
 # The effect of the adversity quotient on student performance, student learning autonomy and student achievement in the COVID-19 pandemic era: evidence from Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Asrop Safi’i, Imron Muttaqin, Sukino Sukino, Nur Hamzah, Chusnul Chotimah, Imam Junaris, Muh. Khoirul Rifa’i |

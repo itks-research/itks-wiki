@@ -1,7 +1,5 @@
 # Factors influencing half‐pearl (mabe) production and quality in the red abalone <i>Haliotis rufescens</i>
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Alejandro Rojas‐Figueroa, Rubén Araya, Héctor Acosta‐Salmón, Felipe Chávez‐Contreras, Nadia L. Ortiz‐Cornejo, Pedro E. Saucedo |

@@ -1,7 +1,5 @@
 # The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | David Autor, David Dorn, Gordon Hanson |

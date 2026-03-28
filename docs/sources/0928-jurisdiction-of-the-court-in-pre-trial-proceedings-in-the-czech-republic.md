@@ -1,7 +1,5 @@
 # JURISDICTION OF THE COURT IN PRE-TRIAL PROCEEDINGS IN THE CZECH REPUBLIC
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Denisa Coufalová |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jean‐Baptiste Harguindéguy, Xavier Coller, Alistair Cole |
 |---|---|
 | **سال** | 2016 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Douglas Chalmers |
 |---|---|
 | **سال** | 1997 |

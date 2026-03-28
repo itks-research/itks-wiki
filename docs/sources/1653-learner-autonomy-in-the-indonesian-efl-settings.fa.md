@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Nenden Sri Lengkanawati |
 |---|---|
 | **سال** | 2017 |

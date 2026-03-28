@@ -1,7 +1,5 @@
 # Positive Constitutional Economics II — A Survey of Recent Developments
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Stefan Voigt |

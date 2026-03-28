@@ -1,7 +1,5 @@
 # From sovereign villages to national states: city, state, and federation in Central America, 1759-1839
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

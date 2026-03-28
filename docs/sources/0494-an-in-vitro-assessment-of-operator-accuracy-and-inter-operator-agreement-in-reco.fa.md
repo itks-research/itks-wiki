@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Nesreen A. Salim, Kamran Azizi, Bashar Al-Shboul, Julian D. Satterthwaite |
 |---|---|
 | **سال** | 2022 |

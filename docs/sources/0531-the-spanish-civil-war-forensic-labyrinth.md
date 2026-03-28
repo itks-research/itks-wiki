@@ -1,7 +1,5 @@
 # The Spanish Civil War Forensic Labyrinth
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Luis Ríos, Francisco Etxeberría Gabilondo |

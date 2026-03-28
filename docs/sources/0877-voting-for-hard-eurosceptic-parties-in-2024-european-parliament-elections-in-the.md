@@ -1,7 +1,5 @@
 # Voting for Hard Eurosceptic Parties in 2024 European Parliament Elections in the Czech Republic: The Role of Salience and Attitude toward Czexit
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ivan Petrúšek, Aleš Kudrnáč, Alexander Davenport, Ákos Bocskor |

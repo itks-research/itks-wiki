@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Mona Lena Krook, Fiona Mackay |
 |---|---|
 | **سال** | 2011 |

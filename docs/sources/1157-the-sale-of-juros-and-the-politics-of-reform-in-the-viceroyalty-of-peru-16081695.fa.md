@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Kenneth J. Andrien |
 |---|---|
 | **سال** | 1981 |

@@ -1,7 +1,5 @@
 # AGRICULTURAL POLICIES IN INDONESIA: PRODUCER SUPPORT ESTIMATES 1985-2003
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Marcelle Thomas, David Orden, Thomas, Marcelle, Orden, David |

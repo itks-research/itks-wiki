@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Peter Kenway, Jiří Chlumský |
 |---|---|
 | **سال** | 1997 |

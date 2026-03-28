@@ -1,7 +1,5 @@
 # DECENTRALIZATION REFORM AND LOCAL‐GOVERNMENT PROLIFERATION IN INDONESIA: TOWARDS A FRAGMENTATION OF REGIONAL DEVELOPMENT
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Tommy Firman |

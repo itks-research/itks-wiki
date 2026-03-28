@@ -1,7 +1,5 @@
 # Political transition: politics and cultures
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

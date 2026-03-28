@@ -1,7 +1,5 @@
 # Islamism and the state after the Arab uprisings: Between people power and state power
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Frédéric Volpi, Ewan Stein |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Tom Ginsburg, Zachary Elkins, Justin Blount |
 |---|---|
 | **سال** | 2009 |

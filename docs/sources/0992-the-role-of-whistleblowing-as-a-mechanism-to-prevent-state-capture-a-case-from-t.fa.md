@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ugljesa Radulović |
 |---|---|
 | **سال** | 2023 |

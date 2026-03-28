@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ester Cross, Jason Sorens |
 |---|---|
 | **سال** | 2015 |

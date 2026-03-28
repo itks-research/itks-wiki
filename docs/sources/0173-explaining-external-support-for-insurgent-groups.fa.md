@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Idean Salehyan, Kristian Skrede Gleditsch, David Cunningham |
 |---|---|
 | **سال** | 2011 |

@@ -1,7 +1,5 @@
 # Urban development in a decentralized Indonesia: Two Success Stories?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Tim Bunnell, Michelle Ann Miller, Nicholas A. Phelps, John Taylor |

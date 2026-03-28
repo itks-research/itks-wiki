@@ -1,7 +1,5 @@
 # What is the real power of incumbents? Case study on the Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jakub Chini, Martin Kvizda, Ondřej Špetík |

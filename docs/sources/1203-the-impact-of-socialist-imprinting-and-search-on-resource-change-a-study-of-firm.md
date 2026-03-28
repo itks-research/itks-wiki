@@ -1,7 +1,5 @@
 # The impact of socialist imprinting and search on resource change: a study of firms in lithuania
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Aldas Kriauciunas, Prashant Kale |

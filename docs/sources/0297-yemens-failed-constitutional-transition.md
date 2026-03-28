@@ -1,7 +1,5 @@
 # Yemen’s Failed Constitutional Transition
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | G. Anderson |

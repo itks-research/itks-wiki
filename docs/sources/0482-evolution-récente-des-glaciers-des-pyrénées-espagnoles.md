@@ -1,7 +1,5 @@
 # Evolution récente des glaciers des Pyrénées espagnoles
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Justo Mora, Miguel Arenillas, Guillermo Cobos, José Navarro |

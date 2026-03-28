@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ramzy Mahmoud Radaideh |
 |---|---|
 | **سال** | 2022 |

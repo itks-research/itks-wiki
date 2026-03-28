@@ -1,7 +1,5 @@
 # The Bureaucratic Politics Paradigm and the Soviet Invasion of Czechoslovakia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jiří Valenta |

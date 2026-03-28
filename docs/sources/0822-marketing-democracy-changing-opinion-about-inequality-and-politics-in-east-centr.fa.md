@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ákos Róna‐Tas, David S. Mason, James R. Kluegel, Ludmilla Khakulina, Petr Matějů, Antal Örkény, Alexander Stoyanov, Bernd Wegener |
 |---|---|
 | **سال** | 2002 |

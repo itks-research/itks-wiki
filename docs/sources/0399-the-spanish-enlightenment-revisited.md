@@ -1,7 +1,5 @@
 # The Spanish Enlightenment Revisited
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Marie Christine Duggan |

@@ -1,7 +1,5 @@
 # European Integration and the War in Ukraine: Just Another Crisis?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Tanja A. Börzel |

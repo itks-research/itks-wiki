@@ -1,7 +1,5 @@
 # New approaches regarding private/public security
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Andrea Giménez-Salinas Framís |

@@ -1,7 +1,5 @@
 # Mitochondrial metabolism and cancer
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Paolo E. Porporato, Nicoletta Filigheddu, José Manuel Bravo‐San Pedro, Guido Kroemer, Lorenzo Galluzzi |

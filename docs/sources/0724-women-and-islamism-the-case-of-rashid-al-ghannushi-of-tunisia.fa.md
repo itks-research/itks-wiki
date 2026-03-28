@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Muhammad Mahmoud |
 |---|---|
 | **سال** | 2018 |

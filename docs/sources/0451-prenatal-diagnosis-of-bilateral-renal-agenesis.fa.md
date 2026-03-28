@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Sara Kaffe, Lynn Godmilow, Barbara Walker, Kurt Hirschhorn |
 |---|---|
 | **سال** | 1977 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Anthony R. Kampf, Stuart J. Mills, Barbara P. Nash, Maurizio Dini, Arturo A. Molina Donoso |
 |---|---|
 | **سال** | 2020 |

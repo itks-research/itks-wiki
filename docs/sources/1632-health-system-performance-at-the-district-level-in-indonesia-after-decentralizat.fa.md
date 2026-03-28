@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Peter Heywood, Yoonjoung Choi |
 |---|---|
 | **سال** | 2010 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Alan Bevan, Saul Estrin |
 |---|---|
 | **سال** | 2000 |

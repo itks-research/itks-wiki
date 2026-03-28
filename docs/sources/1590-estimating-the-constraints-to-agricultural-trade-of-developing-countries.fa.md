@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Evdokia Moïsé, Claire Delpeuch, Silvia Sorescu, Novella Bottini |
 |---|---|
 | **سال** | 2013 |

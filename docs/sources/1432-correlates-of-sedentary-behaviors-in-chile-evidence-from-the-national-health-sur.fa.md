@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | María Adela Martínez, A. Leiva, Fanny Petermann, Alex Garrido, X. Díaz, Cristian Álvarez, Carlos Salas, C. Cristi, Fernando Rodríguez Rodríguez, N. Aguilar, Rodrigo Ramírez, Carlos Celis |
 |---|---|
 | **سال** | 2018 |

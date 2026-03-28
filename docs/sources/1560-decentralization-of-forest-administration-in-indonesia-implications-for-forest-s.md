@@ -1,7 +1,5 @@
 # Decentralization of forest administration in Indonesia: implications for forest sustainability, economic development and community livelihoods
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Christopher M. Barr, I. A. P. Resosudarmo, Ahmad Dermawan, John F. McCarthy, M. Moeliono, Bambang Setiono, eds. |

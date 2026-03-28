@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Yvonne Yazbeck Haddad |
 |---|---|
 | **سال** | 2018 |

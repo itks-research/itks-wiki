@@ -1,7 +1,5 @@
 # The Third Mission of the university: A systematic literature review on potentials and constraints
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Lorenzo Compagnucci, Francesca Spigarelli |

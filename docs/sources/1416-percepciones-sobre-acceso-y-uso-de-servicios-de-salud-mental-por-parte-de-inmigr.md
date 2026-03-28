@@ -1,7 +1,5 @@
 # Percepciones sobre acceso y uso de servicios de salud mental por parte de inmigrantes en Chile, desde la perspectiva de trabajadores, autoridades e inmigrantes
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | S. Astorga-Pinto, B. Cabieses, Alejandra Calderón, A. M. McIntyre |

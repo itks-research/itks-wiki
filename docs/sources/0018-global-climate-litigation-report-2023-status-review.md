@@ -1,7 +1,5 @@
 # Global Climate Litigation Report: 2023 Status Review
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | United Nations Environment Programme |

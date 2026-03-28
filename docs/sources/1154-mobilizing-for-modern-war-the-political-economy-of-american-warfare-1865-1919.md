@@ -1,7 +1,5 @@
 # Mobilizing for Modern War: The Political Economy of American Warfare, 1865-1919
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | K. F. Smith, Paul A. C. Koistinen |

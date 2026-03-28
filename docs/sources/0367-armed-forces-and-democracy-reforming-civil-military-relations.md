@@ -1,7 +1,5 @@
 # Armed Forces and Democracy: Reforming Civil-Military Relations
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Samuel P. Huntington |

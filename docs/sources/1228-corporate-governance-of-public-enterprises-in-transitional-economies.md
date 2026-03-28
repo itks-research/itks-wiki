@@ -1,7 +1,5 @@
 # Corporate Governance of Public Enterprises in Transitional Economies
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Dominique Pannier |

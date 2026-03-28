@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Maria Chiara Cugusi |
 |---|---|
 | **سال** | 2015 |

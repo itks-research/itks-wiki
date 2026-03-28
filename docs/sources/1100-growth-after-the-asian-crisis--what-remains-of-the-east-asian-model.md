@@ -1,7 +1,5 @@
 # Growth after the asian crisis : what remains of the east asian model?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | K. S. Jomo |

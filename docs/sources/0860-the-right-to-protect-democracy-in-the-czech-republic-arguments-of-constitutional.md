@@ -1,7 +1,5 @@
 # The right to protect democracy in the Czech Republic: arguments of constitutional jurisprudence
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | V. Kopcha, N. Kopcha |

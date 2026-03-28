@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Belavusau, Uladzislau, Gliszczyńska-Grabias, Aleksandra |
 |---|---|
 | **سال** | 2017 |

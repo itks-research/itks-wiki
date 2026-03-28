@@ -1,7 +1,5 @@
 # Geographic information systems and science
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rocha, Jorge, Abrantes, Patrícia |

@@ -1,7 +1,5 @@
 # Transitional or Post-transitional Justice? Recent Developments in the Spanish Case
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Paloma Aguilar |

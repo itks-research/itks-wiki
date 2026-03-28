@@ -1,7 +1,5 @@
 # Three new members of the hakite series, Cu6(Cu4Me2+2)Sb4Se13: hakite-(Cd), hakite-(Fe) and hakite-(Zn) from the Bytíz deposit, uranium and base-metal Příbram ore district, Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | J. Sejkora, C. Biagioni, P. Škácha, Silvia Musetti, Z. Dolníček |

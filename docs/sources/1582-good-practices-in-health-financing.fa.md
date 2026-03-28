@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Pablo Gottret, George Schieber, Hugh Waters |
 |---|---|
 | **سال** | 2008 |

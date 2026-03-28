@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | O. V. Taranova, A. S. Lebedeva |
 |---|---|
 | **سال** | 2024 |

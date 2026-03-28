@@ -1,7 +1,5 @@
 # The Global Capital Market: Benefactor or Menace?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Maurice Obstfeld |

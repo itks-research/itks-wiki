@@ -1,7 +1,5 @@
 # Board Diversity and Monitoring: An Investigation of Gender and Task-Related Diversity
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sunmin An |

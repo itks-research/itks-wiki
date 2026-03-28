@@ -1,7 +1,5 @@
 # Post-Revolution Constitutionalism: The Impact of Drafting Processes on the Constitutional Documents in Tunisia and Egypt
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ahmed H. Elsayed |

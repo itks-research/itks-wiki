@@ -1,7 +1,5 @@
 # Japan's New Security Agenda
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Christopher W. Hughes, Ellis S. Krauss |

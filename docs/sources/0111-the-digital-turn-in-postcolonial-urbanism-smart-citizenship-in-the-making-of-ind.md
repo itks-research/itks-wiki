@@ -1,14 +1,13 @@
 # The digital turn in postcolonial urbanism: Smart citizenship in the making of India's 100 smart cities
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ayona Datta |
 | **Year** | 2018 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Education system reform and curriculum modernization |
+| **Secondary Categories** | Media freedom and press institution building |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 233 |
 | **Source** | openalex |
 | **DOI** | [10.1111/tran.12225](https://doi.org/10.1111/tran.12225) |

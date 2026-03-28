@@ -1,7 +1,5 @@
 # Catholic Europe, 1592–1648
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Tadhg Ó hAnnracháin |

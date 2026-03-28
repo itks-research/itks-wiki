@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Sizwe Snail ka Mtuze, Masego Morige |
 |---|---|
 | **سال** | 2024 |

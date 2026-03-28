@@ -1,7 +1,5 @@
 # Readiness for Autonomy in English Language Learning: The Case of Indonesian High School Students
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Andrzej Cirocki, Syafi’ul Anam, Pratiwi Retnaningdyah |

@@ -1,7 +1,5 @@
 # History in the Hands of the Politicians: Lustration, Civil Society, and Unfinished Revolutions in Poland, Hungary, Slovakia, and the Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | David Merryman, Heather L. Tafel |

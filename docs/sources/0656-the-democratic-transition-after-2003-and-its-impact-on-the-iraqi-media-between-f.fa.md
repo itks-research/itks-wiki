@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Imad Mohammed Saleh |
 |---|---|
 | **سال** | 2026 |

@@ -1,7 +1,5 @@
 # Analyzing South Korea's Defense Reform 2020
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Yong‐Sup Han |

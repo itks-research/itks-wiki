@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Carsten Humlebæk |
 |---|---|
 | **سال** | 2010 |

@@ -1,7 +1,5 @@
 # Demilitarizing politics in South Korea: Toward a positive consolidation of civilian supremacy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Il Joon Chung |

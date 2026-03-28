@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Giulio di Piazza, T. Lyytikäinen, G. Ru, Marion M Simmons, Á. Ortiz-Pelaez |
 |---|---|
 | **سال** | 2023 |

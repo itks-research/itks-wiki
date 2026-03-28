@@ -1,7 +1,5 @@
 # The Transformation of Rice Crop Technology in Indonesia: Innovation and Sustainable Food Security
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sutardi, Yayan Apriyana, Popi Rejekiningrum, Annisa Dhienar Alifia, Fadhlullah Ramadhani, Valeriana Darwis, Nanik Setyowati, Dwi Eny Djoko Setyono, Gunawan Gunawan, Afrizal Malik, Syahrial Abdullah, Muslimin Muslimin, Wahyu Wibawa, Joko Triastono, Yusuf Yusuf, Forita Dyah Arianti, Andi Yulyani Fadwiwati |

@@ -1,7 +1,5 @@
 # The Neglected Stepchild: Military Justice and Democratic Transition in Chile
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anthony W. Pereira, Jorge Zaverucha |

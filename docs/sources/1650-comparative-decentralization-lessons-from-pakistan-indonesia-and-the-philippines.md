@@ -1,7 +1,5 @@
 # Comparative Decentralization Lessons from Pakistan, Indonesia, and the Philippines
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | George M. Guess |

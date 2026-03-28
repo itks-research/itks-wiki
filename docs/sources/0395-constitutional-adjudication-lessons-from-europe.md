@@ -1,7 +1,5 @@
 # Constitutional Adjudication: Lessons from Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | John Ferejohn, Pasquale Pasquino |

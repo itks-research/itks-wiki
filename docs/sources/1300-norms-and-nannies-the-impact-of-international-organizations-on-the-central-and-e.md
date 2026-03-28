@@ -1,7 +1,5 @@
 # Norms and Nannies: The Impact of International Organizations on the Central and East European States
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ronald H. Linden |

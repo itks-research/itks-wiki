@@ -1,7 +1,5 @@
 # Indonesia's Accountability Trap: Party Cartels and Presidential Power after Democratic Transition
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Dan Slater |

@@ -1,7 +1,5 @@
 # The right to care: a proposal from feminist perspectives for a constitutional reform in Spain
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ana Marrades |

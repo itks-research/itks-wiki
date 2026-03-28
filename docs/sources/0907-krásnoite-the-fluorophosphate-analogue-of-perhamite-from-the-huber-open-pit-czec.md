@@ -1,7 +1,5 @@
 # Krásnoite, the fluorophosphate analogue of perhamite, from the Huber open pit, Czech Republic and the Silver Coin mine, Nevada, USA
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Stuart J. Mills, Jiří Sejkora, Anthony R. Kampf, Ian E. Grey, T.J. Bastow, Neil A. Ball, P. M. Adams, Mati Raudsepp, Mark A. Cooper |

@@ -1,7 +1,5 @@
 # The separation of church and state as the foundation of religious toleration in Locke’s political thought
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | I. Matić |

@@ -1,7 +1,5 @@
 # The Unequal Burden of War: The Effect of Armed Conflict on the Gender Gap in Life Expectancy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Thomas Plümper, Eric Neumayer |

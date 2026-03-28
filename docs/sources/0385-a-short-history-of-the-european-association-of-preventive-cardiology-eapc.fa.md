@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Guy De Backer, Joep Perk, David Wood, Stephan Gielen, Antonio Pelliccia, Diederick E. Grobbee, Paul Dendale, Hugo Saner |
 |---|---|
 | **سال** | 2022 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | I. P. Johnstone |
 |---|---|
 | **سال** | 2003 |

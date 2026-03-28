@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Dagoberto Duarte Quapper |
 |---|---|
 | **سال** | 2021 |

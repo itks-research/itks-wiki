@@ -1,7 +1,5 @@
 # Retribution and Reparation in the Transition to Democracy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jon Elster |

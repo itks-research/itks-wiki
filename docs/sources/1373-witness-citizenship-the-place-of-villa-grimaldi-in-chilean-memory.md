@@ -1,7 +1,5 @@
 # Witness Citizenship: The Place of Villa Grimaldi in Chilean Memory
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Macarena Gómez‐Barris |

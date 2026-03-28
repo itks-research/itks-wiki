@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Priyatno Ardi |
 |---|---|
 | **سال** | 2017 |

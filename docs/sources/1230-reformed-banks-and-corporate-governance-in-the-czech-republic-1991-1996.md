@@ -1,7 +1,5 @@
 # Reformed Banks and Corporate Governance in the Czech Republic, 1991-1996
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Raj M. Desai |

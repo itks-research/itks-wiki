@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | G. Malkina, I. Petrenko |
 |---|---|
 | **سال** | 2025 |

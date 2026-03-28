@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Sundus Serhan Ahmed |
 |---|---|
 | **سال** | 2025 |

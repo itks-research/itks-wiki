@@ -1,7 +1,5 @@
 # The Relative Autonomy of the Third World Politician: Soeharto and Indonesian Economic Development in Comparative Perspective
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | R. William Liddle |

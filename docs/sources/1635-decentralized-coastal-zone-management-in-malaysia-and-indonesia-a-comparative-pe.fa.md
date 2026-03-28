@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Hendra Yusran Siry |
 |---|---|
 | **سال** | 2006 |

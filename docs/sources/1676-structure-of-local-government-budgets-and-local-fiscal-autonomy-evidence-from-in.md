@@ -1,7 +1,5 @@
 # Structure of local government budgets and local fiscal autonomy: Evidence from Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Musviyanti Musviyanti, Fibriyani Nur Khairin, Hariman Bone, Muhammad Abadan Syakura, Rizky Yudaruddin |

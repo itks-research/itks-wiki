@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Blanca Garcés‐Mascareñas, Rinus Penninx |
 |---|---|
 | **سال** | 2015 |

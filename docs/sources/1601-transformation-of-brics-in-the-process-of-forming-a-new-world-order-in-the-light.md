@@ -1,7 +1,5 @@
 # TRANSFORMATION OF BRICS IN THE PROCESS OF FORMING A NEW WORLD ORDER IN THE LIGHT OF UKRAINIAN EVENTS
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | A.S. Kharlanov, E.I. Sherysheva |

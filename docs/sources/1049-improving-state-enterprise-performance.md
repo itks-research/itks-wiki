@@ -1,7 +1,5 @@
 # Improving state enterprise performance
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Russell Muir, Joseph P. Saba |

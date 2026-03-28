@@ -1,7 +1,5 @@
 # Luz Arce and Pinochet's Chile : testimony in the aftermath of state violence
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Michael J. Lazzara, Luz Arce, Carl Fischer, Jean Franco |

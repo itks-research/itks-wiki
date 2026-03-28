@@ -1,7 +1,5 @@
 # Politics of Scale and the Globalization of the South Korean Automobile Industry
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Bae‐Gyoon Park |

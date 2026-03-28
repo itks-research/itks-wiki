@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | V. Lytvyn |
 |---|---|
 | **سال** | 2014 |

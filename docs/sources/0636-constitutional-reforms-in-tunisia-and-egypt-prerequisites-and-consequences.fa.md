@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Kateryna Zakomorna, V.O. Chuiko |
 |---|---|
 | **سال** | 2021 |

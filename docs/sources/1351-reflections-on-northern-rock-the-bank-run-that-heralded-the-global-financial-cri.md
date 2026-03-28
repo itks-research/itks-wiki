@@ -1,7 +1,5 @@
 # Reflections on Northern Rock: The Bank Run that Heralded the Global Financial Crisis
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Hyun Song Shin |

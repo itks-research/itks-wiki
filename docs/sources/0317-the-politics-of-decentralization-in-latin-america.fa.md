@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Eliza Willis, Christopher Garman, Stephan Haggard |
 |---|---|
 | **سال** | 1999 |

@@ -1,7 +1,5 @@
 # 5- Nigeria’s Niger Delta: Understanding the Complex Drivers of Violent Oil-related Conflict
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Cyril Obi |

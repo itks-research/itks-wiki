@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Rachel A. Epstein |
 |---|---|
 | **سال** | 2008 |

@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Lorenzo Cotula, Sonja Vermeulen, Rebeca Leonard, James F. Keeley |
 |---|---|
 | **سال** | 2009 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 1069 |
 
 ## چکیده

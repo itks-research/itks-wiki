@@ -1,7 +1,5 @@
 # North Korea: The Politics of Regime Survival
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Young Whan Kihl, Hong Nack Kim |

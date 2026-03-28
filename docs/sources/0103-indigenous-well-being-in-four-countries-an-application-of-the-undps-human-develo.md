@@ -1,14 +1,12 @@
 # Indigenous well-being in four countries: An application of the UNDP'S Human Development Index to Indigenous Peoples in Australia, Canada, New Zealand, and the United States
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Martin Cooke, Francis Mitrou, David Lawrence, Éric Guimond, Dan Beavon |
 | **Year** | 2007 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 292 |
 | **Source** | openalex |
 | **DOI** | [10.1186/1472-698x-7-9](https://doi.org/10.1186/1472-698x-7-9) |

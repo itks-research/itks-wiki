@@ -1,7 +1,5 @@
 # Truth Recovery and Transitional Justice
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Iosif Kovras |

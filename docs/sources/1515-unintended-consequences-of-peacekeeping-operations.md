@@ -1,7 +1,5 @@
 # Unintended consequences of peacekeeping operations
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

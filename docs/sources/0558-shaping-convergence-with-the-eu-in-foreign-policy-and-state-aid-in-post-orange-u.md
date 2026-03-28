@@ -1,7 +1,5 @@
 # Shaping Convergence with the EU in Foreign Policy and State Aid in Post-Orange Ukraine: Weak External Incentives, Powerful Veto Players
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Антоанета Димитрова, Rilka Dragneva |

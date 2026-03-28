@@ -1,7 +1,5 @@
 # Alternative (non-military) service in Ukraine and the Czech Republic: а сomparative study
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Y. V. Mitrovka |

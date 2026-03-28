@@ -1,7 +1,5 @@
 # After the Arab Spring: Are Secular Parties the Answer?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mieczysāaw P. Boduszyñski, Kristin Fabbe, Christopher K. Lamont |

@@ -1,7 +1,5 @@
 # An Illustrated User Guide to the World Input–Output Database: the Case of Global Automotive Production
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Marcel P. Timmer, Erik Dietzenbacher, Bart Los, Robert Stehrer, Gaaitzen J. de Vries |

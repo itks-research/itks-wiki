@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Iván Escobar Fernández |
 |---|---|
 | **سال** | 2023 |

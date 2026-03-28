@@ -1,7 +1,5 @@
 # The Retirement Decision in OECD Countries
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sveinbjörn Blöndal, Stéfano Scarpetta |

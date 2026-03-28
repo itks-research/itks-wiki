@@ -1,7 +1,5 @@
 # Authoritarian persistence, democratization theory and the Middle East: An overview and critique
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Raymond Hinnebusch |

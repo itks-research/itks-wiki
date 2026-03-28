@@ -1,7 +1,5 @@
 # Commercialization of Lithium Battery Technologies for Electric Vehicles
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Xiaoqiao Zeng, Matthew Li, Deia Abd El‐Hady, Wael Alshitari, Abdullah S. Al‐Bogami, Jun Lü, Khalil Amine |

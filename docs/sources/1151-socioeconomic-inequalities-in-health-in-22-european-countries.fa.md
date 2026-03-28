@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Johan P. Mackenbach, Irina Stirbu, Albert‐Jan Roskam, M. Schaap, Gwenn Menvielle, Mall Leinsalu, Anton E. Kunst |
 |---|---|
 | **سال** | 2008 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Rafael La Porta, Florencio López‐de‐Silanes, Andrei Shleifer |
 |---|---|
 | **سال** | 2002 |

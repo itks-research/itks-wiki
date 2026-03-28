@@ -1,7 +1,5 @@
 # Allowing the Right Margin: The European Court of Human Rights and The National Margin of Appreciation Doctrine: Waiver or Subsidiarity of European Review?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Dean Spielmann |

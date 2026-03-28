@@ -1,7 +1,5 @@
 # How and When Does Coworker Knowledge Sharing Influence Employee Creativity? A Moderated Mediation Model
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Soojin Lee, Ji Hoon Lee, Gukdo Byun, S. Karau |

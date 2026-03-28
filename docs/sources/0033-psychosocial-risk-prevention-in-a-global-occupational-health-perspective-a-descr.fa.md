@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Francesco Chirico, Tarja Heponiemi, Milena Pavlova, Salvatore Zaffina, Nicola Magnavita |
 |---|---|
 | **سال** | 2019 |

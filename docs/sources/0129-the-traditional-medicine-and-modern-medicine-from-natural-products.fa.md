@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Hai-Dan Yuan, Qianqian Ma, Ye Li, Guangchun Piao |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 2336 |
 | **شناسه دیجیتال** | [10.3390/molecules21050559](https://doi.org/10.3390/molecules21050559) |
 

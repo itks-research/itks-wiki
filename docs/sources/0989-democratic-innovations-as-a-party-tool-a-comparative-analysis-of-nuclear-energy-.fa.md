@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Gillan Chi-Lun Huang, Rung-Yi Chen, Byung-Bae Park |
 |---|---|
 | **سال** | 2021 |

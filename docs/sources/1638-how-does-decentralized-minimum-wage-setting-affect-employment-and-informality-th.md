@@ -1,7 +1,5 @@
 # HOW DOES DECENTRALIZED MINIMUM WAGE SETTING AFFECT EMPLOYMENT AND INFORMALITY? THE CASE OF INDONESIA
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Margherita Comola, Luiz De Mello |

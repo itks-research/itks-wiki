@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Thomas Kalinowski |
 |---|---|
 | **سال** | 2008 |

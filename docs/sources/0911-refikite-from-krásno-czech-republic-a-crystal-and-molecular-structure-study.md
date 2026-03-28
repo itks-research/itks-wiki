@@ -1,7 +1,5 @@
 # Refikite from Krásno, Czech Republic: a crystal-and molecular-structure study
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | R. Pažout, J. Sejkora, J. Maixner, Michal Dušek, Jaromír Tvrdý |

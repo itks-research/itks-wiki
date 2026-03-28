@@ -1,7 +1,5 @@
 # Coming to terms with communist past: comparative study of lustration policy in the Czech Republic and Poland
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Tamta Kupatadze |

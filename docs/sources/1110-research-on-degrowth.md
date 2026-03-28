@@ -1,7 +1,5 @@
 # Research On Degrowth
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Giorgos Kallis, Vasilis Kostakis, Steffen Lange, Barbara Muraca, Susan Paulson, Matthias Schmelzer |

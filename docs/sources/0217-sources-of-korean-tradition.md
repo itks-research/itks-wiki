@@ -1,7 +1,5 @@
 # Sources of Korean Tradition
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Peter H. Lee, William Theodore De Bary |

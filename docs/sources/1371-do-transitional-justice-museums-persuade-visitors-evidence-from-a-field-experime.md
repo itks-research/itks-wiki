@@ -1,7 +1,5 @@
 # Do Transitional Justice Museums Persuade Visitors? Evidence from a Field Experiment
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Laia Balcells, Valeria Palanza, Elsa Voytas |

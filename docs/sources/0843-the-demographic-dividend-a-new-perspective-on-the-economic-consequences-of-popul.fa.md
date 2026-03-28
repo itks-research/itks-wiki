@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | David E. Bloom, David Canning, Jaypee Sevilla |
 |---|---|
 | **سال** | 2003 |

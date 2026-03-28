@@ -1,7 +1,5 @@
 # Decentralization and Economic Performance in Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Thomas B. Pepinsky, Maria Monica Wihardja |

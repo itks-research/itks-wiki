@@ -1,14 +1,12 @@
 # The diversity and welfare of older migrants in Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anthony Warnes, Klaus Friedrich, Leonie Kellaher, Sandra Torres |
 | **Year** | 2004 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 253 |
 | **Source** | openalex |
 | **DOI** | [10.1017/s0144686x04002296](https://doi.org/10.1017/s0144686x04002296) |

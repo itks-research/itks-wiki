@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Dermot McCarthy, Phyllis Alexander, Young Hoon Jung |
 |---|---|
 | **سال** | 2021 |

@@ -1,7 +1,5 @@
 # Constitutions and Economic Policy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Torsten Persson, Guido Tabellini |

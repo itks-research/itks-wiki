@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Josep Roqué-Rosell, Judit Molera, Josefina Pérez‐Arantegui, Cristina Garés Calabuig, J. Portillo, M. Vendrell‐Saz |
 |---|---|
 | **سال** | 2007 |

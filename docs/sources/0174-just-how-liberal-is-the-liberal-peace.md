@@ -1,7 +1,5 @@
 # Just How Liberal Is the Liberal Peace?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Madhav Joshi, SungYong Lee, Roger Mac Ginty |

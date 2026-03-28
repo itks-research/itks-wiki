@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Bernhard Seliger |
 |---|---|
 | **سال** | 2005 |
 | **دسته‌بندی** | Constitutional design and drafting processes |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 21 |
 | **شناسه دیجیتال** | [10.3172/nkr.1.1.22](https://doi.org/10.3172/nkr.1.1.22) |
 

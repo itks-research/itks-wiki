@@ -1,7 +1,5 @@
 # International variations in primary care physician consultation time: a systematic review of 67 countries
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Greg Irving, Ana Luísa Neves, Hajira Dambha‐Miller, Ai Oishi, Hiroko Tagashira, Anistasiya Verho, John Holden |

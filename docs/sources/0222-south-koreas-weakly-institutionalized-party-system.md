@@ -1,7 +1,5 @@
 # South Korea’s Weakly Institutionalized Party System
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Joseph Wong |

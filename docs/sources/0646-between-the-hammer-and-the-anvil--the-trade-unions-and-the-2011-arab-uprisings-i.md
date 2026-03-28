@@ -1,7 +1,5 @@
 # Between the hammer and the anvil : the trade unions and the 2011 Arab uprisings in Morocco and Tunisia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Lorenzo Feltrin |

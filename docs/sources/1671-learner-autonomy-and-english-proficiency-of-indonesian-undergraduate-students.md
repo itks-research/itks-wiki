@@ -1,7 +1,5 @@
 # Learner autonomy and English proficiency of Indonesian undergraduate students
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Melvina Melvina, Julia Julia |

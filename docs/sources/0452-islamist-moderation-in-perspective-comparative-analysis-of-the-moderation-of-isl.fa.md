@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Süveyda Karakaya, Abdülkadir Yıldırım |
 |---|---|
 | **سال** | 2012 |

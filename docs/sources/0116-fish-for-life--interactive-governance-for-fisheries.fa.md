@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Boissevain, Jeremy |
 |---|---|
 | **سال** | 2005 |
 | **دسته‌بندی** | Constitutional design and drafting processes |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 563 |
 | **شناسه دیجیتال** | [10.5117/9789053566862](https://doi.org/10.5117/9789053566862) |
 

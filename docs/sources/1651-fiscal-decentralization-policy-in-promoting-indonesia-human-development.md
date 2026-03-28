@@ -1,7 +1,5 @@
 # Fiscal Decentralization Policy in Promoting Indonesia Human Development
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ady Soejoto, Waspodo Tjipto Subroto, Suyanto Suyanto |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Asrop Safi’i, Imron Muttaqin, Sukino Sukino, Nur Hamzah, Chusnul Chotimah, Imam Junaris, Muh. Khoirul Rifa’i |
 |---|---|
 | **سال** | 2021 |

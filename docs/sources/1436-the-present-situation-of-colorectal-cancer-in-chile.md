@@ -1,7 +1,5 @@
 # [The present situation of colorectal cancer in Chile].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Juvenal A. Ríos, M. F. Barake, M. Arce, Francisco López-Köstner, T. Labbe, J. Villena, Sergio Becerra |

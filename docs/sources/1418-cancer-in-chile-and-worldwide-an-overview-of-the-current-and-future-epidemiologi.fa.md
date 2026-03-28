@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | S. Parra-Soto, F. Petermann-Rocha, M. Martínez-Sanguinetti, Ana María Leiva-Ordeñez, C. Troncoso-Pantoja, N. Ulloa, Ximena Díaz-Martínez, Carlos Celis-Morales |
 |---|---|
 | **سال** | 2020 |

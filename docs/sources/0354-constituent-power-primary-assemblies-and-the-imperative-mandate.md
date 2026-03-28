@@ -1,7 +1,5 @@
 # Constituent power, primary assemblies, and the imperative mandate
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Joel I. Colón‐Ríos |

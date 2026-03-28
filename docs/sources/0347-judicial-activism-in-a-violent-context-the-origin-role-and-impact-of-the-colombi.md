@@ -1,7 +1,5 @@
 # Judicial Activism in a Violent Context: The Origin, Role, and Impact of the Colombian Constitutional Court
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Manuel Cepeda-Espinosa |

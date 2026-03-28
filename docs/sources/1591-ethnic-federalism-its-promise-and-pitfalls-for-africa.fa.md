@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Alemante G. Selassie |
 |---|---|
 | **سال** | 2003 |

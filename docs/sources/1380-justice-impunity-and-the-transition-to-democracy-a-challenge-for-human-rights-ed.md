@@ -1,7 +1,5 @@
 # Justice, Impunity and the Transition to Democracy: a challenge for human rights education
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ana Vergara del Solar, Jorge Vergara Estévez |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Thomas F. Glick |
 |---|---|
 | **سال** | 1970 |

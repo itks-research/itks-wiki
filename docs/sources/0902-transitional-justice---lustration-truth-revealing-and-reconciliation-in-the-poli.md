@@ -1,7 +1,5 @@
 # Transitional Justice - Lustration, Truth-Revealing and Reconciliation in the Political Transitions of the Czech Republic, South Africa and Northern Ireland
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Minna Nauclér |

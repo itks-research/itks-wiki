@@ -1,7 +1,5 @@
 # The Role of the State in Financial Markets
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Joseph E. Stiglitz |

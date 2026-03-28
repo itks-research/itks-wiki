@@ -1,7 +1,5 @@
 # Emancipatory rural politics: confronting authoritarian populism
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ian Scoones, Marc Edelman, Saturnino M. Borras, Ruth Hall, Wendy Wolford, Ben White |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Karolína Vozková, P. Teplý |
 |---|---|
 | **سال** | 2020 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Lorenzo Feltrin |
 |---|---|
 | **سال** | 2018 |

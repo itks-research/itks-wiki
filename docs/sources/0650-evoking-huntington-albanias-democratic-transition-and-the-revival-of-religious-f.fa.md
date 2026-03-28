@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | F. Tarifa, Fiona Todhri |
 |---|---|
 | **سال** | 2025 |

@@ -1,7 +1,5 @@
 # Research on Financing Models and Benefit Assessment of Traditional Energy Enterprises’ Investments in Renewable Energy Projects in the Asia-Pacific Region
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Zhongwang Zhang |

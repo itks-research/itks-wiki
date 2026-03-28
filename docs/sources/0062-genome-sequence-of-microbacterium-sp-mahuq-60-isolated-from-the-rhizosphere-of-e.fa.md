@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Md. Amdadul Huq, Muhammad Zubair Siddiqi, M. M. Rahman |
 |---|---|
 | **سال** | 2025 |

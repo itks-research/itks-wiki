@@ -1,7 +1,5 @@
 # Reconstituting Tunisia: Participation, Deliberation, and the Content of Constitution
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Tofigh Maboudi |

@@ -1,7 +1,5 @@
 # Women and the Making of the Tunisian Constitution
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rangita de Silva de Alwis |

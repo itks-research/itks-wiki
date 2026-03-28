@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | J. Sejkora, V. Žáček, R. Škoda, F. Laufek, Z. Dolníček |
 |---|---|
 | **سال** | 2022 |

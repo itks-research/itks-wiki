@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Frédéric Volpi, Ewan Stein |
 |---|---|
 | **سال** | 2015 |

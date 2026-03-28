@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Elpeni Fitrah |
 |---|---|
 | **سال** | 2015 |

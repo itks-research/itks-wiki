@@ -1,7 +1,5 @@
 # Law and Courts in Authoritarian Regimes
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Tamir Moustafa |

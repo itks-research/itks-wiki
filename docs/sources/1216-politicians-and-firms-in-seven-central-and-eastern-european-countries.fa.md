@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Stijn Claessens, Simeon Djankov |
 |---|---|
 | **سال** | 1999 |

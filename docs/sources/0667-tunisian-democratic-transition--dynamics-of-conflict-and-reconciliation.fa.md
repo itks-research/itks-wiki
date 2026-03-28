@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Rafaa Chehoudi |
 |---|---|
 | **سال** | 2017 |

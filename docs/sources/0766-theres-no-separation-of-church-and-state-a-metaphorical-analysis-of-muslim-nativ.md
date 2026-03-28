@@ -1,7 +1,5 @@
 # “There’s no separation of Church and state”, a metaphorical analysis of Muslim native speaker teachers’ representations of English language teaching and Islam in Saudi Arabia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ismael Louber, Mayez Almayez |

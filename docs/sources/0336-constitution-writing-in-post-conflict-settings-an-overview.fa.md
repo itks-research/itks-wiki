@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jennifer A. Widner |
 |---|---|
 | **سال** | 2008 |

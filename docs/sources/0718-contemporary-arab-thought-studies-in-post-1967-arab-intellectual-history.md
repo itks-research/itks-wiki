@@ -1,7 +1,5 @@
 # Contemporary Arab thought: studies in post-1967 Arab intellectual history
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

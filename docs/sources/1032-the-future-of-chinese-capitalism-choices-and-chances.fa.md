@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Sean Redding, Michael A. Witt |
 |---|---|
 | **سال** | 2007 |

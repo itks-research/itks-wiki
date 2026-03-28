@@ -1,7 +1,5 @@
 # The Critical Barrier to Civil War Settlement
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Barbara F. Walter |

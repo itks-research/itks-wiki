@@ -1,7 +1,5 @@
 # Building An Army in a Democracy in Hungary and Poland.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Frank E. Fields, Jack J. Jensen |

@@ -1,7 +1,5 @@
 # Taming chaos: A foucauldian view of UN peacekeeping, democracy and normalization
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Laura Zanotti |

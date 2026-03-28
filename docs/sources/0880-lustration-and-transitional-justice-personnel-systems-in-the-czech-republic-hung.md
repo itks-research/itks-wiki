@@ -1,7 +1,5 @@
 # Lustration and transitional justice: personnel systems in the Czech Republic, Hungary, and Poland
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

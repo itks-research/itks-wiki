@@ -1,7 +1,5 @@
 # Truth as Justice: Investigatory Commissions in Latin America
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Margaret Popkin, Naomi Roht‐Arriaza |

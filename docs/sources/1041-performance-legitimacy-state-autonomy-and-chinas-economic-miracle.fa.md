@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Hongxing Yang, Dingxin Zhao |
 |---|---|
 | **سال** | 2014 |

@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | E. Cho, Geon Jung Kim, Jung Eun Lee, H. Park, H. Kim |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 5 |
 | **شناسه دیجیتال** | [10.1016/j.wneu.2024.07.133](https://doi.org/10.1016/j.wneu.2024.07.133) |
 

@@ -1,7 +1,5 @@
 # Opting Out of the European Union
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rebecca Adler‐Nissen |

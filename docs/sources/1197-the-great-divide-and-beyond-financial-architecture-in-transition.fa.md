@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Erik Berglöf, Patrick Bolton |
 |---|---|
 | **سال** | 2002 |

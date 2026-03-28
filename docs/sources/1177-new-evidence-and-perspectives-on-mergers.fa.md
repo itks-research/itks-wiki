@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Gregor Andrade, Mark L. Mitchell, Erik Stafford |
 |---|---|
 | **سال** | 2001 |

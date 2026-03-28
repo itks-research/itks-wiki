@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Takis S. Pappas |
 |---|---|
 | **سال** | 2013 |

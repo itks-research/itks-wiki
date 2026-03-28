@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jonas B. Ruh, Laëtitia Le Pourhiet, Ph. Agard, E. Burov, Taras Gerya |
 |---|---|
 | **سال** | 2015 |

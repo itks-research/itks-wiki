@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Torsten Persson, Guido Tabellini |
 |---|---|
 | **سال** | 2004 |

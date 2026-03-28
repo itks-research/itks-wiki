@@ -1,7 +1,5 @@
 # The state and religion in the fundamentals of Islam and contemporary interpretation
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rached Ghannouchi |

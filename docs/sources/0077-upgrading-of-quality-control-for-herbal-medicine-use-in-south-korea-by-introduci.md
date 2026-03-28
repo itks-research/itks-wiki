@@ -1,14 +1,12 @@
 # Upgrading of Quality Control for Herbal Medicine Use in South Korea by Introducing an Accreditation System: a brief report
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Soo-Hyun Sung |
 | **Year** | 2024 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.3831/kpi.2024.27.3.270](https://doi.org/10.3831/kpi.2024.27.3.270) |

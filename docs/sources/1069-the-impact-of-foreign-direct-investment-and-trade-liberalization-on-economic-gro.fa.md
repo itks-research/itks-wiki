@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Abdul Rahim Ridzuan, Nor Asmat Ismail, Abdul Fatah Che Hamat, Mohamad Idham Md Razak, Faridah Pardi |
 |---|---|
 | **سال** | 2017 |

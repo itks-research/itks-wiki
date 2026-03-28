@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Aintzane Gallastegui-Brana, Denisse Parra-Giordano, P. Perez-Cruz |
 |---|---|
 | **سال** | 2022 |

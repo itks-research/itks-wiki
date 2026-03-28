@@ -1,7 +1,5 @@
 # Riot, regeneration and reaction: Spain in the aftermath of the 1898 Disaster
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sebastián Balfour |

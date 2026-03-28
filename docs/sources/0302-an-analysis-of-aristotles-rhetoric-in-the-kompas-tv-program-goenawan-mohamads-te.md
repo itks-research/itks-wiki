@@ -1,7 +1,5 @@
 # AN ANALYSIS OF ARISTOTLE'S RHETORIC IN THE KOMPAS TV PROGRAM "GOENAWAN MOHAMAD'S TEARS: DO THE PEOPLE BELIEVE JOKOWI, THE CHIEF JUSTICE OF THE CONSTITUTIONAL COURT, OR GIBRAN?"
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Nurul Hafidloh, Poppy Febriana |

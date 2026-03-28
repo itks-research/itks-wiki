@@ -1,7 +1,5 @@
 # The Brazilian health system: history, advances, and challenges
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jairnilson Silva Paim, Cláudia Travassos, C.M.V.B. Almeida, Lígia Bahia, James Macinko |

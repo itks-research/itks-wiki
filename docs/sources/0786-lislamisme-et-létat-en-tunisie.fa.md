@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Abdellatif Hermessi |
 |---|---|
 | **سال** | 1994 |

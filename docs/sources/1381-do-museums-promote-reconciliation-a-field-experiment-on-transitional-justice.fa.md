@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Elsa Voytas, Laia Balcells, Valeria Palanza |
 |---|---|
 | **سال** | 2018 |

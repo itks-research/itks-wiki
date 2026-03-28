@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jiří Vaněk, Eva Cervenkova, Jan Jarolímek, Pavel Šimek |
 |---|---|
 | **سال** | 2010 |

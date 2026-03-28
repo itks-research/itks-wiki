@@ -1,7 +1,5 @@
 # Heterogeneity and changes in preferences for dying at home: a systematic review
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Bárbara Gomes, Natália Calanzani, Marjolein Gysels, Sue Hall, Irene J Higginson |

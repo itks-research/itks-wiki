@@ -1,7 +1,5 @@
 # Stifled Development: The SSR — Civil Society Organizations Community in Post-authoritarian Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Fabio Scarpello |

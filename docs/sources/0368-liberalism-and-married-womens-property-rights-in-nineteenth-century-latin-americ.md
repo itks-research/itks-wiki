@@ -1,7 +1,5 @@
 # Liberalism and Married Women’s Property Rights in Nineteenth-Century Latin America
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Carmen Diana Deere, Magdalena León |

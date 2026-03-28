@@ -1,7 +1,5 @@
 # South Korea's 2024 medical school expansion: From healthcare reform to constitutional crisis.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Daihun Kang |

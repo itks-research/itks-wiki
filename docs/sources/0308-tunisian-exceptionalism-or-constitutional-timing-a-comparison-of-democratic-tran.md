@@ -1,7 +1,5 @@
 # Tunisian Exceptionalism Or Constitutional Timing: A Comparison Of Democratic Transitions In The Middle East
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | M. Blaisdell |

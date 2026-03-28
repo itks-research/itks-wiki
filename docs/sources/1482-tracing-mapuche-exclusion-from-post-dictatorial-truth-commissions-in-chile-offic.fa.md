@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Daniela Jara, Manuela Badilla Rajevic, Ana Figueiredo, Marcela Cornejo, Victoria Riveros |
 |---|---|
 | **سال** | 2018 |

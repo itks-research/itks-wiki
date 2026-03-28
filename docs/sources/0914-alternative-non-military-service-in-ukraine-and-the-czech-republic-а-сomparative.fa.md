@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Y. V. Mitrovka |
 |---|---|
 | **سال** | 2025 |

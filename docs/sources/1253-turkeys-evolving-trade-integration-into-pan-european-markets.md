@@ -1,7 +1,5 @@
 # Turkey's evolving trade integration into Pan-European markets
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Bartłomiej Kamiński, Francis Ng |

@@ -1,7 +1,5 @@
 # Political Transition in Tunisia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Alexis Arieff |

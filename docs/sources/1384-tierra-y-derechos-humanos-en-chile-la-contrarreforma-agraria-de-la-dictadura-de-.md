@@ -1,7 +1,5 @@
 # Tierra y derechos humanos en Chile: la contrarreforma agraria de la dictadura de Pinochet y las políticas de reparación campesina
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Joana Salém Vasconcelos |

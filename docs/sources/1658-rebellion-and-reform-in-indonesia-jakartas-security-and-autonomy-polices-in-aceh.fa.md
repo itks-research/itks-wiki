@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Michelle Ann Miller |
 |---|---|
 | **سال** | 2008 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Scott Eastman, Natalia Sobrevilla Perea, Gregorio Alonso, Roberto Breña, Jordana Dym |
 |---|---|
 | **سال** | 2015 |

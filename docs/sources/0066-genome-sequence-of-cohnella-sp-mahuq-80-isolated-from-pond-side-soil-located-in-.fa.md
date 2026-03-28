@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Md. Amdadul Huq, Md Ful Mia, Md. Morshedul Alam |
 |---|---|
 | **سال** | 2025 |
 | **دسته‌بندی** | Constitutional design and drafting processes |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.1128/mra.01103-25](https://doi.org/10.1128/mra.01103-25) |
 

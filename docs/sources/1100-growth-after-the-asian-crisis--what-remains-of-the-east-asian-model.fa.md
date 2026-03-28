@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | K. S. Jomo |
 |---|---|
 | **سال** | 2001 |

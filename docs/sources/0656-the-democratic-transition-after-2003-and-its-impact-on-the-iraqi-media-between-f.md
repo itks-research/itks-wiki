@@ -1,7 +1,5 @@
 # The democratic transition after 2003 and its impact on the Iraqi media between freedom of expression and political exploitation
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Imad Mohammed Saleh |

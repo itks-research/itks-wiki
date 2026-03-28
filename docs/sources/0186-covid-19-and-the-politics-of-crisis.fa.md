@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Phillip Y. Lipscy |
 |---|---|
 | **سال** | 2020 |

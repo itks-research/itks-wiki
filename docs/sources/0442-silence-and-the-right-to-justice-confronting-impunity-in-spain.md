@@ -1,7 +1,5 @@
 # Silence and the right to justice: confronting impunity in Spain
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rosa Ana Alija Fernández, Olga Martin‐Ortega |

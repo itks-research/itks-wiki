@@ -1,7 +1,5 @@
 # North Africa’s Arab Spring
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

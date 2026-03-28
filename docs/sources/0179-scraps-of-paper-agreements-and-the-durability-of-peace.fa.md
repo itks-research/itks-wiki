@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Virginia Page Fortna |
 |---|---|
 | **سال** | 2003 |

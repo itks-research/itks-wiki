@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | N.P. Larina, Yulia Solovieva, N.S. Chistyakova |
 |---|---|
 | **سال** | 2024 |

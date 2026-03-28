@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Md. Amdadul Huq, Kwon-Kyoo Kang, M. M. Rahman |
 |---|---|
 | **سال** | 2025 |

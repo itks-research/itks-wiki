@@ -1,7 +1,5 @@
 # How young can children reliably and validly self-report their health-related quality of life?: An analysis of 8,591 children across age subgroups with the PedsQL™ 4.0 Generic Core Scales
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | James W. Varni, Christine A. Limbers, Tasha M. Burwinkle |

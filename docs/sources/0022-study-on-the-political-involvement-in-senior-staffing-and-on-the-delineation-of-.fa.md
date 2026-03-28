@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Alex Matheson, Boris Weber, Nick Manning, E. J. Arnould |
 |---|---|
 | **سال** | 2007 |

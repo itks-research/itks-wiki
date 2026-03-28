@@ -1,7 +1,5 @@
 # Victims Unsilenced: The Inter-American Human Rights System and Transitional Justice in Latin America
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | José Zalaquett |

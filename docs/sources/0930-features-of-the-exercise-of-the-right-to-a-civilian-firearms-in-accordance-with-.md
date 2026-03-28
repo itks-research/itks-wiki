@@ -1,7 +1,5 @@
 # Features of the exercise of the right to a civilian firearms in accordance with the legislation of the Czech republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | O. Bukhanevych, R. Havrik, O. Halus |

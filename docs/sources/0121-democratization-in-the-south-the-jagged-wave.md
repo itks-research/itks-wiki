@@ -1,14 +1,12 @@
 # Democratization in the South: the jagged wave
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |
 | **Year** | 1997 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 56 |
 | **Source** | openalex |
 | **DOI** | [10.5860/choice.35-0527](https://doi.org/10.5860/choice.35-0527) |

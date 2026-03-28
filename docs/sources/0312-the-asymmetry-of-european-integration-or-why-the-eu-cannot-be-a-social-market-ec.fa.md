@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Fritz W. Scharpf |
 |---|---|
 | **سال** | 2009 |

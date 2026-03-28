@@ -1,7 +1,5 @@
 # The Soldier and the State in South Korea: Crafting Democratic Civilian Control of the Military
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ki‐Joo Kim |

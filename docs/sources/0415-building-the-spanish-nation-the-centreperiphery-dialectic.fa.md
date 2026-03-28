@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Diego Muro, Alejandro Quiroga |
 |---|---|
 | **سال** | 2004 |

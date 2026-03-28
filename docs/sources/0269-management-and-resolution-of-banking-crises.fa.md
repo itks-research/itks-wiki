@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | José De Luna-Martínez |
 |---|---|
 | **سال** | 2000 |

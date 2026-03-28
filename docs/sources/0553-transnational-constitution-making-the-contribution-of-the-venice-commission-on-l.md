@@ -1,7 +1,5 @@
 # Transnational Constitution-Making: The Contribution of the Venice Commission on Law and Democracy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Paul Craig |

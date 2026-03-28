@@ -1,7 +1,5 @@
 # Does the Process of Constitution-Making Matter?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Tom Ginsburg, Zachary Elkins, Justin Blount |

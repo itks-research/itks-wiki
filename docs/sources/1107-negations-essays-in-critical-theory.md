@@ -1,7 +1,5 @@
 # Negations: Essays in Critical Theory
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Herbert Marcuse |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Frank E. Fields, Jack J. Jensen |
 |---|---|
 | **سال** | 1996 |

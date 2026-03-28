@@ -1,7 +1,5 @@
 # The Transformation of South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Robert E. Bedeski |

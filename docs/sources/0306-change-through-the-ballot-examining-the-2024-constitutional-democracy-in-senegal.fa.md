@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | A. Emordi, H. A. Ikedinma, Mubarak Ayodeji Eniola |
 |---|---|
 | **سال** | 2024 |

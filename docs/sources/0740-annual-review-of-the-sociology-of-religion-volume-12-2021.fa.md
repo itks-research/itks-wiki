@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Olga Breskaya, Roger Finke, Giuseppe Giordan |
 |---|---|
 | **سال** | 2021 |

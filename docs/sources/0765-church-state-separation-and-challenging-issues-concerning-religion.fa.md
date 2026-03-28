@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Eric Vincent C. Batalla, Rito Baring |
 |---|---|
 | **سال** | 2019 |

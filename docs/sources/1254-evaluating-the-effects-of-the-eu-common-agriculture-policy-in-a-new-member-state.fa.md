@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Michael Baun, K Kouba, Dan Marek |
 |---|---|
 | **سال** | 2009 |

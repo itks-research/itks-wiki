@@ -1,7 +1,5 @@
 # The Implicit Sharia: Established Religion and Varietie of Secularism in Tunisia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Malika Zeghal |

@@ -1,7 +1,5 @@
 # Culture and Institutions
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Alberto Alesina, Paola Giuliano |

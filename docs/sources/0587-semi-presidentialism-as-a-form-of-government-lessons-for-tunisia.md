@@ -1,7 +1,5 @@
 # Semi-Presidentialism as a Form of Government: Lessons for Tunisia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sujit Choudhry, Richard Stacey |

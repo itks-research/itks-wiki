@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Özlem Uzuner, Brett R. South, Shuying Shen, Scott L. DuVall |
 |---|---|
 | **سال** | 2011 |

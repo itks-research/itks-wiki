@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Joel I. Colón‐Ríos |
 |---|---|
 | **سال** | 2019 |

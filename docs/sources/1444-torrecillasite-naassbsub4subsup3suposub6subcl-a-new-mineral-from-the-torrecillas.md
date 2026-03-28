@@ -1,7 +1,5 @@
 # Torrecillasite, Na(As,Sb)<sub>4</sub><sup>3+</sup>O<sub>6</sub>Cl, a new mineral from the Torrecillas mine, Iquique Province, Chile: description and crystal structure
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anthony R. Kampf, Barbara P. Nash, Maurizio Dini, Arturo A. Molina Donoso |

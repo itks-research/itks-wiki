@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Carlos Gabriel Arpini, Alice Alves de Oliveira, César Albenes de Mendonça Cruz, Paulo André Stein Messetti |
 |---|---|
 | **سال** | 2024 |

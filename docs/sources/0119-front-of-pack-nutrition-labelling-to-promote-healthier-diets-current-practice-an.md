@@ -1,14 +1,12 @@
 # Front-of-pack nutrition labelling to promote healthier diets: current practice and opportunities to strengthen regulation worldwide
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Alexandra Jones, Bruce Neal, Belinda Reeve, Cliona Ní Mhurchú, Anne Marie Thow |
 | **Year** | 2019 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 214 |
 | **Source** | openalex |
 | **DOI** | [10.1136/bmjgh-2019-001882](https://doi.org/10.1136/bmjgh-2019-001882) |

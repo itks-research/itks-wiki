@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Musviyanti Musviyanti, Fibriyani Nur Khairin, Hariman Bone, Muhammad Abadan Syakura, Rizky Yudaruddin |
 |---|---|
 | **سال** | 2022 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Kyun Sung Tae |
 |---|---|
 | **سال** | 2025 |

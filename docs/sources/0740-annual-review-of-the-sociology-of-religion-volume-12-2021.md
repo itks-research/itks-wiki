@@ -1,7 +1,5 @@
 # Annual Review of the Sociology of Religion. Volume 12 (2021)
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Olga Breskaya, Roger Finke, Giuseppe Giordan |

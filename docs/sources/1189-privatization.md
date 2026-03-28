@@ -1,7 +1,5 @@
 # Privatization
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sunita Kikeri, John Nellis, Mary M. Shirley |

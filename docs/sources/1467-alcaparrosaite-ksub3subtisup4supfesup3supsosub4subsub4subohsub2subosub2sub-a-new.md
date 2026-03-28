@@ -1,7 +1,5 @@
 # Alcaparrosaite, K<sub>3</sub>Ti<sup>4+</sup>Fe<sup>3+</sup>(SO<sub>4</sub>)<sub>4</sub>O(H<sub>2</sub>O)<sub>2</sub>, a new hydrophobic Ti<sup>4+</sup> sulfate from Alcaparrosa, Chile
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | A. R. Kampf, Stuart J. Mills, R. M. Housley, Peter A. Williams, M. Dini |

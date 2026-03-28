@@ -1,7 +1,5 @@
 # Everyday Life during the Park Chung-hee’s Military Dictatorship in South Korea after the 1972 Yushin Constitution
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Seungik Lee |

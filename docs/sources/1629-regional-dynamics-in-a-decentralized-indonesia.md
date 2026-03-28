@@ -1,7 +1,5 @@
 # Regional Dynamics in a Decentralized Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Hal Hill |

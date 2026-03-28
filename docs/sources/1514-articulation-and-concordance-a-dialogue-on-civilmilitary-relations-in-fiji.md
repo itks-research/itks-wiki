@@ -1,7 +1,5 @@
 # Articulation and Concordance: A Dialogue on Civil–Military Relations in Fiji
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Teresia Teaiwa, Raijeli Nicole |

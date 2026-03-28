@@ -1,7 +1,5 @@
 # The defence of health : the debates on health reform in 1970s Spain
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Enrique Perdiguero Gil, Josep M. Comelles |

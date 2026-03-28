@@ -1,14 +1,12 @@
 # Use frequency of traditional Chinese medicine in Taiwan
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Fang-Pey Chen, Tzeng‐Ji Chen, Yen‐Ying Kung, Yu‐Chun Chen, Li‐Fang Chou, Fan-Jou Chen, Shinn‐Jang Hwang |
 | **Year** | 2007 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 297 |
 | **Source** | openalex |
 | **DOI** | [10.1186/1472-6963-7-26](https://doi.org/10.1186/1472-6963-7-26) |

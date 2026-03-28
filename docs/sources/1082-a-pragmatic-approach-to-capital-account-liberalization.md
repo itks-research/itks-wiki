@@ -1,7 +1,5 @@
 # A Pragmatic Approach to Capital Account Liberalization
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Eswar Prasad, Raghuram G. Rajan |

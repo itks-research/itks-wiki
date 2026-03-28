@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Moses Jeremiah Barasa Kabeyi, Oludolapo Akanni Olanrewaju |
 |---|---|
 | **سال** | 2022 |

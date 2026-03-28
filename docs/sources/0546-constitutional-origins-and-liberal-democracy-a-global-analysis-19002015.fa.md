@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Gabriel L. Negretto, Mariano Sánchez-Talanquer |
 |---|---|
 | **سال** | 2021 |

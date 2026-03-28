@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Carmen Diana Deere, Magdalena León |
 |---|---|
 | **سال** | 2005 |

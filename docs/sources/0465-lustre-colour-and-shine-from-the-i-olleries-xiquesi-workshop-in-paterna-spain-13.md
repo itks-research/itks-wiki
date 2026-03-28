@@ -1,7 +1,5 @@
 # LUSTRE COLOUR AND SHINE FROM THE <i> OLLERIES XIQUES</i> WORKSHOP IN PATERNA (SPAIN), 13TH CENTURY AD: NANOSTRUCTURE, CHEMICAL COMPOSITION AND ANNEALING CONDITIONS*
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Josep Roqué-Rosell, Judit Molera, Josefina Pérez‐Arantegui, Cristina Garés Calabuig, J. Portillo, M. Vendrell‐Saz |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Alan J. Kuperman |
 |---|---|
 | **سال** | 2008 |

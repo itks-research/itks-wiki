@@ -1,7 +1,5 @@
 # The Role of Civil Society in the Tunisian Democratic Transition
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Veronica Baker |

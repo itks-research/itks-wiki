@@ -1,7 +1,5 @@
 # First child of immigrant workers and their descendants in West Germany
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Nadja Milewski |

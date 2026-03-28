@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Олександр Олександрович Малімон, Леся Малімон, Olena Tykhonenko, Svitlana Honcharuk, Nelya Guts |
 |---|---|
 | **سال** | 2022 |

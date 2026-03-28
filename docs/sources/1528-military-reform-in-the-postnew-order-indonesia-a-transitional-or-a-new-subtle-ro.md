@@ -1,7 +1,5 @@
 # Military Reform in the Post‐New Order Indonesia: A Transitional or a New Subtle Role in Indonesian Democracy?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Meidi Kosandi, Subur Wahono |

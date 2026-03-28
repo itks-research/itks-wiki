@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jakub Plášil, Jiří Čejka, Jiří Sejkora, Jan Hloušek, Viktor Goliáš |
 |---|---|
 | **سال** | 2010 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Purwoko Aji Prabowo, Bambang Supriyono, Irwan Noor, MR. Khairul Muluk |
 |---|---|
 | **سال** | 2020 |

@@ -1,7 +1,5 @@
 # Industrial Relations in Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | B. C. Roberts |

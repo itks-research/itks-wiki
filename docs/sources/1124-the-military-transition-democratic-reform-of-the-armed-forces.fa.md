@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Narcìs Serra i Serra, Karin Miller, Richard McRoberts, Nola Errey |
 |---|---|
 | **سال** | 2005 |

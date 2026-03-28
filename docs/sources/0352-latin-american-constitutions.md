@@ -1,7 +1,5 @@
 # Latin American Constitutions
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | M. C. Mirow |

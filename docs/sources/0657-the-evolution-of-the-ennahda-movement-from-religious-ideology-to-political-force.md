@@ -1,7 +1,5 @@
 # The Evolution of the Ennahda Movement: From Religious Ideology to Political Force in Tunisia's Post-Revolution Era
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sundus Serhan Ahmed |

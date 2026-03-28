@@ -1,7 +1,5 @@
 # Grassroots Environmental Activism in an Authoritarian Context: The Trees Movement in Vietnam
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ngoc Anh Vu |

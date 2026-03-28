@@ -1,7 +1,5 @@
 # THE MAKING OF A PANCASILA STATE:POLITICAL DEBATES ON SECULARISM, ISLAM AND THE STATE IN INDONESIA
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Moch Nur Ichwan |

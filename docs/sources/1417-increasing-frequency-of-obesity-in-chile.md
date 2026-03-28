@@ -1,7 +1,5 @@
 # [Increasing frequency of obesity in Chile].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | F. Vio, Juliana Kain |

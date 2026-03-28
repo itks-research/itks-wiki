@@ -1,7 +1,5 @@
 # Religious Freedom and Secularism in Post-Revolutionary Tunisia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anna Grasso |

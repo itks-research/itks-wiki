@@ -1,7 +1,5 @@
 # Democracy without growth: The political ecology of the Indignados movement
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Viviana Asara |

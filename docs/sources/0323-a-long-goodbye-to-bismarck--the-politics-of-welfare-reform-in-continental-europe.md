@@ -1,7 +1,5 @@
 # A Long Goodbye to Bismarck? : The Politics of Welfare Reform in Continental Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Bruno Palier |

@@ -1,7 +1,5 @@
 # FORMATION THE SYSTEM FOR ASSESSING THE ECONOMIC SECURITY OF ENTERPRISE IN THE AGRICULTURAL SECTOR
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Yaroslav Pushak, Volodymyr Lagodiienko, Nataliya Basiurkina, Valerii Nemchenko, Nataliіa Lagodiіenko |

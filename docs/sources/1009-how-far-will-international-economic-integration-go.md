@@ -1,7 +1,5 @@
 # How Far Will International Economic Integration Go?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Dani Rodrik |

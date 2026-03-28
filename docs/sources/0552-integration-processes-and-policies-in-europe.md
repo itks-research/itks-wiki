@@ -1,7 +1,5 @@
 # Integration Processes and Policies in Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Blanca Garcés‐Mascareñas, Rinus Penninx |

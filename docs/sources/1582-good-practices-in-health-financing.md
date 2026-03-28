@@ -1,7 +1,5 @@
 # Good Practices in Health Financing
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Pablo Gottret, George Schieber, Hugh Waters |

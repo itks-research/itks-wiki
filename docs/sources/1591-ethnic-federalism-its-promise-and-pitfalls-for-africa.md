@@ -1,7 +1,5 @@
 # Ethnic Federalism: Its Promise and Pitfalls for Africa
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Alemante G. Selassie |

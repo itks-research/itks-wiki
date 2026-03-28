@@ -1,7 +1,5 @@
 # Externalised Justice and Democratisation: Lessons from the Pinochet Case
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Madeleine Davis |

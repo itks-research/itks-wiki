@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Simona Fojtova, Patrice C. McMahon, Hana Waisserova |
 |---|---|
 | **سال** | 2025 |

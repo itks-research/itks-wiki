@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Heiner Flassbeck, Gustav A. Horn |
 |---|---|
 | **سال** | 1996 |

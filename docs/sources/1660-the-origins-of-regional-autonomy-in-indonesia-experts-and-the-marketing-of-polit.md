@@ -1,7 +1,5 @@
 # The Origins of Regional Autonomy in Indonesia: Experts and the Marketing of Political Interests
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Benjamin Smith |

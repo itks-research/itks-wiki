@@ -1,7 +1,5 @@
 # Public Participation in African Constitutionalism
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Tania Abbiate, Markus Böckenförde, Veronica Federico |

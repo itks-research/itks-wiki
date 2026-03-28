@@ -1,7 +1,5 @@
 # Herbertsmithite, Cu<sub>3</sub>Zn(OH)<sub>6</sub>Cl<sub>2</sub>, a new species, and the definition of paratacamite
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | R. S. W. Braithwaite, K. Mereiter, W. H. Paar, Andrew M. Clark |

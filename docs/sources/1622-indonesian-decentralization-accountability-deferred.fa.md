@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Blane D. Lewis |
 |---|---|
 | **سال** | 2010 |

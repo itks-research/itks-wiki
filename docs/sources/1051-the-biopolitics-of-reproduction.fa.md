@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Catherine Waldby, Melinda Cooper |
 |---|---|
 | **سال** | 2008 |

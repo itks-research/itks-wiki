@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | A. R. Kampf, Stuart J. Mills, R. M. Housley, Peter A. Williams, M. Dini |
 |---|---|
 | **سال** | 2012 |

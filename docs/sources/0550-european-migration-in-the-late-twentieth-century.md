@@ -1,7 +1,5 @@
 # EUROPEAN MIGRATION IN THE LATE TWENTIETH CENTURY
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Fassmann, H., Muenz, R. |

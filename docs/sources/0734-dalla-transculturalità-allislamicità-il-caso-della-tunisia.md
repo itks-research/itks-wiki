@@ -1,7 +1,5 @@
 # Dalla Transculturalità all'Islamicità? Il caso della Tunisia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Leila El Houssi |

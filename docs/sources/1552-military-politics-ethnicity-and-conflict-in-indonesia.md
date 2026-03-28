@@ -1,7 +1,5 @@
 # Military Politics, Ethnicity and Conflict in Indonesia.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ikrar Nusa Bhakti, Sri Yanuarti, Mochamad Nurhasim |

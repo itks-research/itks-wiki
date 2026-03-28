@@ -1,7 +1,5 @@
 # Probing the transition between seismically coupled and decoupled segments along an ancient subduction interface
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Samuel Angiboust, Josephine Kirsch, Onno Oncken, Johannes Glodny, Patrick Monié, Erik Rybacki |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Francisca González Cohens, Felipe Vera Cid, Rosa Alcayaga Droguett, Fernando González Fuenzalida |
 |---|---|
 | **سال** | 2020 |

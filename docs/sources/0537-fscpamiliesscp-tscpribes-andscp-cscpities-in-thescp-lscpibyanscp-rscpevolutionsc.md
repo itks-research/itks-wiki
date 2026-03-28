@@ -1,7 +1,5 @@
 # F<scp>amilies</scp>, T<scp>ribes and</scp> C<scp>ities in the</scp> L<scp>ibyan</scp> R<scp>evolution</scp>
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Wolfram Lacher |

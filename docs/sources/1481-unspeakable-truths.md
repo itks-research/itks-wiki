@@ -1,7 +1,5 @@
 # Unspeakable Truths
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Priscilla Hayner |

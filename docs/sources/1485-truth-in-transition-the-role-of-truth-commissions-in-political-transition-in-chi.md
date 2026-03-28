@@ -1,7 +1,5 @@
 # Truth in transition: The role of truth commissions in political transition in Chile and El Salvador
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | David Gairdner |

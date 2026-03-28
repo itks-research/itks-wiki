@@ -1,7 +1,5 @@
 # Global, regional and national sodium intakes in 1990 and 2010: a systematic analysis of 24 h urinary sodium excretion and dietary surveys worldwide
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | John Powles, Saman Fahimi, Renata Micha, Shahab Khatibzadeh, Peilin Shi, Majid Ezzati, Rebecca E Engell, Stephen S Lim, Goodarz Danaei, Dariush Mozaffarian, on behalf of the Global Burden of Diseases Nutrition and Chronic Diseases Expert Group (NutriCoDE) |

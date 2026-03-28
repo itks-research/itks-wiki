@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Anissa Rizkianti, Tin Afifah, Ika Saptarini, Mukhammad Fajar Rakhmadi |
 |---|---|
 | **سال** | 2020 |

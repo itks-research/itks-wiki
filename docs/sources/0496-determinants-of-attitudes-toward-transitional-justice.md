@@ -1,7 +1,5 @@
 # Determinants of Attitudes Toward Transitional Justice
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Paloma Aguilar, Laia Balcells, Héctor Cebolla‐Boado |

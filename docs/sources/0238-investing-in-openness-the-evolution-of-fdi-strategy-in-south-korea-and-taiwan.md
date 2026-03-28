@@ -1,7 +1,5 @@
 # Investing in openness: The evolution of FDI strategy in South Korea and Taiwan
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Elizabeth Thurbon, Linda Weiss |

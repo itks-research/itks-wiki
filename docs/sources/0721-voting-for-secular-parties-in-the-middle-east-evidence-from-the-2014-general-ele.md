@@ -1,7 +1,5 @@
 # Voting for secular parties in the Middle East: evidence from the 2014 general elections in post-revolutionary Tunisia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | H. Ege Özen |

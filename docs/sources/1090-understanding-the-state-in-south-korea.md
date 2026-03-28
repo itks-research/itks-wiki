@@ -1,7 +1,5 @@
 # Understanding the State in South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | James Cotton |

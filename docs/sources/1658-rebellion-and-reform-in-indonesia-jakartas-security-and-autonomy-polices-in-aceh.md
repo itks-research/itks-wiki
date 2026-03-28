@@ -1,7 +1,5 @@
 # Rebellion and Reform in Indonesia: Jakarta's security and autonomy polices in Aceh
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Michelle Ann Miller |

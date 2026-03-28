@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Anaelisa De Sousa Ramos |
 |---|---|
 | **سال** | 2026 |

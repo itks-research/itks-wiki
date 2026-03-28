@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | A. R. Kampf, S. Mills, B. Nash, M. Dini, A. A. M. Donoso |
 |---|---|
 | **سال** | 2022 |

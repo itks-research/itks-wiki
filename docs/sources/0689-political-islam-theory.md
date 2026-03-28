@@ -1,7 +1,5 @@
 # Political Islam: Theory
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Andrew F. March |

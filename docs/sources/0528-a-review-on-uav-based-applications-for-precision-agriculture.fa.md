@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Dimosthenis C. Tsouros, Stamatia Bibi, Panagiotis Sarigiannidis |
 |---|---|
 | **سال** | 2019 |

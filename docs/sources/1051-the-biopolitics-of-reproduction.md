@@ -1,7 +1,5 @@
 # THE BIOPOLITICS OF REPRODUCTION
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Catherine Waldby, Melinda Cooper |

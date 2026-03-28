@@ -1,7 +1,5 @@
 # Confronting the Environmental Kuznets Curve
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Susmita Dasgupta, Benoı̂t Laplante, Hua Wang, David Wheeler |

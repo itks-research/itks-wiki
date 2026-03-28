@@ -1,7 +1,5 @@
 # Islam and secularism in Tunisian law persons : contribution to the history of Tunisian private international law
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mohamed Fdhil |

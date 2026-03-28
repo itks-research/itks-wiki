@@ -1,7 +1,5 @@
 # Popular Protest in the New Middle East: Islamism and Post-Islamist Politics
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Are John Knudsen, Basem Ezbidi |

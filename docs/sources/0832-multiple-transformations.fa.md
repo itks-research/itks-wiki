@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Luděk Sýkora, Stefan Bouzarovski |
 |---|---|
 | **سال** | 2011 |

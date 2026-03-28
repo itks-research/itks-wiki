@@ -1,7 +1,5 @@
 # Women's Work and Economic Development
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Kristin Mammen, Christina Paxson |

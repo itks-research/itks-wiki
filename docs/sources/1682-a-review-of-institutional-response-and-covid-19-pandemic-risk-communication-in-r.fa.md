@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Agus Supriyadi, Tao Wang, Pandu Pribadi, Mochammad Ali Mauludin, Faqih Ma’arif, Zalik Nuryana |
 |---|---|
 | **سال** | 2021 |

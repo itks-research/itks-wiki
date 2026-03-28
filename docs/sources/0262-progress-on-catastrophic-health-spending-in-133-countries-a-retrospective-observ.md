@@ -1,7 +1,5 @@
 # Progress on catastrophic health spending in 133 countries: a retrospective observational study
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Adam Wagstaff, Gabriela Flores, Justine Hsu, Marc‐François Smitz, Kateryna Chepynoga, Leander R. Buisman, Kim van Wilgenburg, Patrick Eozenou |

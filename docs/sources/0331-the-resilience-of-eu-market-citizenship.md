@@ -1,7 +1,5 @@
 # The resilience of EU market citizenship
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Niamh Nic Shuibhne |

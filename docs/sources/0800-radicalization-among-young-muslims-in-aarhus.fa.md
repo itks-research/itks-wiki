@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Lene Kühle, Lasse Lindekilde, Radicalisation |
 |---|---|
 | **سال** | 2010 |

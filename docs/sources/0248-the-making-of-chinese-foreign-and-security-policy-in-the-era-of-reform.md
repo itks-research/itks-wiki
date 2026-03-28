@@ -1,7 +1,5 @@
 # The Making of Chinese Foreign and Security Policy in the Era of Reform
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

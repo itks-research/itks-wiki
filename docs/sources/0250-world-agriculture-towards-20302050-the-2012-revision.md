@@ -1,7 +1,5 @@
 # World agriculture towards 2030/2050: the 2012 revision
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | N. Alexandratos, Jelle Bruinsma, Alexandratos, Nikos, Bruinsma, Jelle |

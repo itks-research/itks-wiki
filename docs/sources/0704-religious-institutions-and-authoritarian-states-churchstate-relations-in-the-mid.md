@@ -1,7 +1,5 @@
 # Religious Institutions and Authoritarian States: church–state relations in the Middle East
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Fiona McCallum |

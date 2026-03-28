@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Fineman, Martha 1943-, Zinsstag, Estelle |
 |---|---|
 | **سال** | 2013 |

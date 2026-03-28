@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Claudia Castro, Teresa Oteí­za |
 |---|---|
 | **سال** | 2022 |

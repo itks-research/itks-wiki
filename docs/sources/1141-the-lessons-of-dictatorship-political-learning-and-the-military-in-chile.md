@@ -1,7 +1,5 @@
 # The ‘Lessons’ of Dictatorship: Political Learning and the Military in Chile
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Gregory Weeks |

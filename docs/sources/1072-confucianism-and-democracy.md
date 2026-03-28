@@ -1,7 +1,5 @@
 # Confucianism and Democracy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Francis Fukuyama |

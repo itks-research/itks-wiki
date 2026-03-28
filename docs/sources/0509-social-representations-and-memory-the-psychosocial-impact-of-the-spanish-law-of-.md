@@ -1,7 +1,5 @@
 # Social Representations and Memory: The Psychosocial impact of the Spanish “Law of Memory”, related to the Spanish Civil War
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | José-Francisco Valencia, Joana Momoitio, Nahia Idoyaga |

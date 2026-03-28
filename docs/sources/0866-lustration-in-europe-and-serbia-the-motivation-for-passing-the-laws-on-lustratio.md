@@ -1,7 +1,5 @@
 # Lustration in Europe and Serbia: The motivation for passing the laws on lustration and their social functions
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | M. Cakic |

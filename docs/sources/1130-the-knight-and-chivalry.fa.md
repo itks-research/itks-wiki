@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Arthur B. Ferguson, Richard Barber |
 |---|---|
 | **سال** | 1972 |

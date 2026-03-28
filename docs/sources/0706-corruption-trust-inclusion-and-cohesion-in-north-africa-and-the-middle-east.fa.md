@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Roger Sapsford, Gerasimos Tsourapas, Pamela Abbott, Andrea Teti |
 |---|---|
 | **سال** | 2017 |

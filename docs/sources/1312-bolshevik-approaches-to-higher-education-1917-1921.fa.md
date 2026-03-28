@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | James C. Mc Clelland |
 |---|---|
 | **سال** | 1971 |

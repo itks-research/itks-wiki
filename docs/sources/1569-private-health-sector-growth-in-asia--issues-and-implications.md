@@ -1,7 +1,5 @@
 # Private health sector growth in Asia : issues and implications
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | William Newbrander |

@@ -1,7 +1,5 @@
 # Revisiting the South Korean developmental state after the 1997 financial crisis
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Yong Soo Park |

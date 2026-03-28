@@ -1,7 +1,5 @@
 # The European risk-based approaches: Connecting constitutional dots in the digital age
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Giovanni De Gregorio, P M Dunn |

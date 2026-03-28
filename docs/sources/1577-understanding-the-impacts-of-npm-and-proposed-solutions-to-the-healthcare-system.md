@@ -1,7 +1,5 @@
 # Understanding the impacts of NPM and proposed solutions to the healthcare system reforms in Indonesia: the case of BPJS
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Erniaty Erniaty, Harun Harun |

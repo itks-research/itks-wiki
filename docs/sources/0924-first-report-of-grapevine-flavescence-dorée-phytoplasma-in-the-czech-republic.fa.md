@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Š. Linhartová, K. Tománková, H. Orságová, Miroslava Hejlová, V. Čermák, Jakub Beránek, N. Mehle, Zala Kogej, A. Eichmeier |
 |---|---|
 | **سال** | 2023 |

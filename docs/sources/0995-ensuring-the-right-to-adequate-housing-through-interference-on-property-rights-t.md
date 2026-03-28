@@ -1,7 +1,5 @@
 # Ensuring the right to adequate housing through interference on property rights: The case of Albania
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Bledar Abdurrahmani |

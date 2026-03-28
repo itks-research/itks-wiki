@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Elisabetta Gliozzo |
 |---|---|
 | **سال** | 2021 |

@@ -1,7 +1,5 @@
 # Safeguarding human health in the Anthropocene epoch: report of The Rockefeller Foundation–Lancet Commission on planetary health
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sarah Whitmee, Andy Haines, Chris Beyrer, Frederick Boltz, Anthony Capon, Braulio Ferreira de Souza Dias, Alex Ezeh, Howard Frumkin, Peng Gong, Peter Head, Richard Horton, Georgina M. Mace, Robert Marten, Samuel S. Myers, Sania Nishtar, Steven A. Osofsky, Subhrendu K. Pattanayak, Montira J. Pongsiri, Cristina Romanelli, Agnès Soucat, Jeanette Vega, Derek Yach |

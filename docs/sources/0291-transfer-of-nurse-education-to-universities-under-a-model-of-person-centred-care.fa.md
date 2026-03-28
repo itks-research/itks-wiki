@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Olga Rodrigo, Jordi Caïs, C. Monforte-Royo |
 |---|---|
 | **سال** | 2017 |

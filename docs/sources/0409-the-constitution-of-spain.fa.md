@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Víctor Ferreres Comella |
 |---|---|
 | **سال** | 2013 |

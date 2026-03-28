@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Barbara Łobodzińska |
 |---|---|
 | **سال** | 1996 |

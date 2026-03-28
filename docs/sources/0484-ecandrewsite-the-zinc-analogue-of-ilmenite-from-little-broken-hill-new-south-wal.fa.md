@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | W. D. Birch, E. A. J. Burke, V. J. Wall, M. A. Etheridge |
 |---|---|
 | **سال** | 1988 |

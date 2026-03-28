@@ -1,7 +1,5 @@
 # Reviving Trade Amongst the Newly Independent States
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Oleh Havrylyshyn, Rutger Wissels |

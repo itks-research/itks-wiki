@@ -1,7 +1,5 @@
 # Promoting Fiscal Discipline
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Manmohan Kumar |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jorge Martínez Vázquez, José Félix Sanz Sanz |
 |---|---|
 | **سال** | 2007 |

@@ -1,7 +1,5 @@
 # The role of risk factors in development of dementia in the Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | M. Kučera |

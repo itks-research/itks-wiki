@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Iryna Gerlach, Olha Ryndzak |
 |---|---|
 | **سال** | 2022 |

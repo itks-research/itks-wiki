@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Daniel Seidenglanz, Filip Chvátal, Kateřina Nedvědová |
 |---|---|
 | **سال** | 2014 |

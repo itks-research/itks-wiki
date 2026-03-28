@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Vasily Lebedev |
 |---|---|
 | **سال** | 2022 |

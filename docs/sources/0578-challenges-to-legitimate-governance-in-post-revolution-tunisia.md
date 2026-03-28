@@ -1,7 +1,5 @@
 # Challenges to legitimate governance in post-revolution Tunisia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Duncan Pickard |

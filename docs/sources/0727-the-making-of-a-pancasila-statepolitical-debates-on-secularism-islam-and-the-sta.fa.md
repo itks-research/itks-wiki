@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Moch Nur Ichwan |
 |---|---|
 | **سال** | 2012 |

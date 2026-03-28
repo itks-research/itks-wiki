@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | I. Grammatikopoulou, T. Badura, Davina Vačkářová |
 |---|---|
 | **سال** | 2020 |

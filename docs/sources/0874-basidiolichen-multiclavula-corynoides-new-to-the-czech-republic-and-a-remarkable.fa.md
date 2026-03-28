@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jiří Malíček, Lukáš Janošík, E. Mikulášková, Z. Palice |
 |---|---|
 | **سال** | 2025 |

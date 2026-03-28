@@ -1,7 +1,5 @@
 # Trends in clinical trials performed in Chile.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Bernardo Aguilera |

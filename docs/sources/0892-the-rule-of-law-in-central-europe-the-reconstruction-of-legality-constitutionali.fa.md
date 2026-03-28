@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jiří Přibáň, Jim Young |
 |---|---|
 | **سال** | 2019 |

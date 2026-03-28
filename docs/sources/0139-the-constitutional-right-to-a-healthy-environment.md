@@ -1,7 +1,5 @@
 # The Constitutional Right to a Healthy Environment
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | David R. Boyd |

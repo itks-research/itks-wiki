@@ -1,7 +1,5 @@
 # The Future of Chinese Capitalism: Choices and Chances
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sean Redding, Michael A. Witt |

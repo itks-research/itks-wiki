@@ -1,7 +1,5 @@
 # [Factors associated with cognitive impairment in older adults in Chile].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | M. Martínez-Sanguinetti, A. Leiva, F. Petermann-Rocha, C. Troncoso-Pantoja, Marcelo Villagrán, Fabián Lanuza-Rilling, G. Nazar, Felipe Poblete-valderrama, Ximena Díaz-Martínez, Carlos Celis-Morales |

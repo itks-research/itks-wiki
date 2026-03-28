@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Teresia Teaiwa, Raijeli Nicole |
 |---|---|
 | **سال** | 2016 |

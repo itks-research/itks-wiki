@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Sanjay Basu, Jason R. Andrews, Sandeep P. Kishore, Rajesh Panjabi, David Stückler |
 |---|---|
 | **سال** | 2012 |

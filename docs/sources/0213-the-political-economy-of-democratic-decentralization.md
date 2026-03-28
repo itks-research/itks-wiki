@@ -1,7 +1,5 @@
 # The Political Economy of Democratic Decentralization
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | James Manor |

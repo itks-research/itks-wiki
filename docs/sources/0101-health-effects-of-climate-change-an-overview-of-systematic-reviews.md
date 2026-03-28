@@ -1,14 +1,12 @@
 # Health effects of climate change: an overview of systematic reviews
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rhéa Rocque, Caroline Beaudoin, Ruth Ndjaboué, Laura Cameron, Louann Poirier-Bergeron, Rose-Alice Poulin-Rheault, Cathérine Fallon, Andrea C. Tricco, Holly O. Witteman |
 | **Year** | 2021 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 824 |
 | **Source** | openalex |
 | **DOI** | [10.1136/bmjopen-2020-046333](https://doi.org/10.1136/bmjopen-2020-046333) |

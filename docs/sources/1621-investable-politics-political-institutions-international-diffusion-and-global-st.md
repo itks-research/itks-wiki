@@ -1,7 +1,5 @@
 # Investable politics: political institutions, international diffusion, and global stock markets
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Chi Wook Kim |

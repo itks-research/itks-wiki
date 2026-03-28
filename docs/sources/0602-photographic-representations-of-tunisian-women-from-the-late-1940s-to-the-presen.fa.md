@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Dora Carpenter-Latiri |
 |---|---|
 | **سال** | 2020 |

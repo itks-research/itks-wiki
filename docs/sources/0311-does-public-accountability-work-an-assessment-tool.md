@@ -1,7 +1,5 @@
 # DOES PUBLIC ACCOUNTABILITY WORK? AN ASSESSMENT TOOL
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mark Bovens, Thomas Schillemans, Paul ‘t Hart |

@@ -1,7 +1,5 @@
 # Benchmarking and quality analysis of DEM generated from high and very high resolution optical stereo satellite data
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Peter Reinartz, Pablo d’Angelo, Thomas Krauß, Daniela Poli, Karsten Jacobsen, Gürcan Büyüksali̇h |

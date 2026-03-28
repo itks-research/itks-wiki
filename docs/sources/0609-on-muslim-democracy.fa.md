@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Rached Ghannouchi, Andrew F. March |
 |---|---|
 | **سال** | 2023 |

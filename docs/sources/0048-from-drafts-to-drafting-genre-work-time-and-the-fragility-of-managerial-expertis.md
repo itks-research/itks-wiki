@@ -1,7 +1,5 @@
 # From drafts to drafting: genre work, time, and the fragility of managerial expertise in South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Michael M. Prentice |

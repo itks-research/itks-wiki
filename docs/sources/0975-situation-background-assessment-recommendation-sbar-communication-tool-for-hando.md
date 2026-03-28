@@ -1,7 +1,5 @@
 # Situation, Background, Assessment, Recommendation (SBAR) Communication Tool for Handoff in Health Care – A Narrative Review
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Shaneela Shahid, Sumesh Thomas |

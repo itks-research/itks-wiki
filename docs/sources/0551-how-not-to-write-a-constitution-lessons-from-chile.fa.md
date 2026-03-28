@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Guillermo Larraín, Gabriel L. Negretto, Stefan Voigt |
 |---|---|
 | **سال** | 2023 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Teresa Oteí­za |
 |---|---|
 | **سال** | 2009 |

@@ -1,7 +1,5 @@
 # LEARNING AUTONOMY AND ITS SIGNIFICANCE FOR INDONESIAN EFL LEARNERS
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Fidyati Fidyati |

@@ -1,7 +1,5 @@
 # Pluralism versus Separation: Tension in the Australian Church-State Relationship
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Renae Barker |

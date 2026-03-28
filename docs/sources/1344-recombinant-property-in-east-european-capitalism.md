@@ -1,7 +1,5 @@
 # Recombinant Property in East European Capitalism
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | David Stark |

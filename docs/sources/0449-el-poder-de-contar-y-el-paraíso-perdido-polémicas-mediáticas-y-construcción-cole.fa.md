@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Sebastiaan Faber, Pablo Sánchez León, Jesús Izquierdo Martín |
 |---|---|
 | **سال** | 1970 |

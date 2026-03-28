@@ -1,7 +1,5 @@
 # Revisiting Constitutional Political Economy: A Literature Review on Institutional Design and Economic Policy Outcomes in the Philippine Context
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | John Carlo Colot |

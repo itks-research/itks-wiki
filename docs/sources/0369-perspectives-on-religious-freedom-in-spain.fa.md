@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | José Antonio Souto Paz |
 |---|---|
 | **سال** | 2001 |

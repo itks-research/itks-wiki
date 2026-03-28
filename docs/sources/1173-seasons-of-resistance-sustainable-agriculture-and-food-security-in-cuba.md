@@ -1,7 +1,5 @@
 # Seasons of Resistance: Sustainable Agriculture and Food Security in Cuba
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Carmen G. González |

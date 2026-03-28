@@ -1,7 +1,5 @@
 # Institutions, resources, and entry strategies in emerging economies
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Klaus E. Meyer, Saul Estrin, Sumon Kumar Bhaumik, Mike W. Peng |

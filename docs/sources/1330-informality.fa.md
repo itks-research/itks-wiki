@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Guillermo Perry, Omar Arias, Pablo Fajnzylber, William F. Maloney, Andrew Mason, Jaime Saavedra-Chanduví |
 |---|---|
 | **سال** | 2007 |

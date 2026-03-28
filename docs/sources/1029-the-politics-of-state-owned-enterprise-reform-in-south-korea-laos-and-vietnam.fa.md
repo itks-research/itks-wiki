@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Mark Turner, Michael O’Donnell, Seung‐Ho Kwon |
 |---|---|
 | **سال** | 2017 |

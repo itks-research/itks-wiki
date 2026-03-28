@@ -1,7 +1,5 @@
 # Autonomy and feedback on innovative work behavior: The role of resilience as a mediating factor in Indonesian Islamic banks
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sri Suhandiah, Fendy Suhariadi, Praptini Yulianti, Ansar Abbas |

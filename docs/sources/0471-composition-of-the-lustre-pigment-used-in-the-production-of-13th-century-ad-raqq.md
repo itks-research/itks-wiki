@@ -1,7 +1,5 @@
 # Composition of the Lustre Pigment Used in the Production Of 13th Century AD Raqqa Lustreware from Syria
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Trinitat Pradell, G. Molina, Judit Molera, M. S. TITE |

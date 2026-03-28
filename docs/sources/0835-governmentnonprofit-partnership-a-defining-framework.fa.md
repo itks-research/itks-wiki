@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jennifer M. Brinkerhoff |
 |---|---|
 | **سال** | 2002 |

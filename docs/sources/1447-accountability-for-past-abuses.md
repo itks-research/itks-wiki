@@ -1,7 +1,5 @@
 # Accountability for Past Abuses
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Juan E. Méndez |

@@ -1,7 +1,5 @@
 # Challenging the Gates: Religious Freedom and Access in South Africa's Theology Faculties
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | J. Thinane |

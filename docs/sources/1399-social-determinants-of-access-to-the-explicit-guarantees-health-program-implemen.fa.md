@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Sandra Alvear-Vega, Margot Acuña San-Martín |
 |---|---|
 | **سال** | 2022 |

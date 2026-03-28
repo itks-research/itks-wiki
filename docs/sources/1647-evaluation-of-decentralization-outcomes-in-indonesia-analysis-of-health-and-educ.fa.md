@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Rentanida Renata Simatupang |
 |---|---|
 | **سال** | 2022 |

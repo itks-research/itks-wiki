@@ -1,7 +1,5 @@
 # The Demographic Dividend: A New Perspective on the Economic Consequences of Population Change
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | David E. Bloom, David Canning, Jaypee Sevilla |

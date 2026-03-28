@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Prosper Washaya, T. Hlásny |
 |---|---|
 | **سال** | 2024 |

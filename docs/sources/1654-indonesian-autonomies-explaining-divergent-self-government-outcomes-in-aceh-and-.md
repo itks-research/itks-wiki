@@ -1,7 +1,5 @@
 # Indonesian Autonomies: Explaining Divergent Self-Government Outcomes in Aceh and Papua
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Shane Joshua Barter, Hipolitus Yolisandry Ringgi Wangge |

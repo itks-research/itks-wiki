@@ -1,7 +1,5 @@
 # Taming the tigers? Reforming the security sector in Southeast Asia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mark Beeson, Alex J. Bellamy, Bryn Hughes |

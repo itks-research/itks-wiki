@@ -1,7 +1,5 @@
 # Reforming the Spanish Senate: Mission Impossible?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Edeltraud Roller |

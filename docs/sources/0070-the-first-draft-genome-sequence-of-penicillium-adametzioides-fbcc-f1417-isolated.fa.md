@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Yoeguang Hue, Yebin Nam, Jaeduk Goh, Ki-Tae Kim |
 |---|---|
 | **سال** | 2025 |
 | **دسته‌بندی** | Constitutional design and drafting processes |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.1186/s12863-025-01382-7](https://doi.org/10.1186/s12863-025-01382-7) |
 

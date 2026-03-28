@@ -1,7 +1,5 @@
 # Citizen Outsider: Children of North African Immigrants in France
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jean Beaman |

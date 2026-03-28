@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Stephan Haggard, Andrew MacIntyre, Lydia Brashear Tiede |
 |---|---|
 | **سال** | 2008 |

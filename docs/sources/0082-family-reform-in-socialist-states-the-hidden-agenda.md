@@ -1,14 +1,12 @@
 # Family Reform in Socialist States: The Hidden Agenda
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Maxine Molyneux |
 | **Year** | 1985 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 37 |
 | **Source** | openalex |
 | **DOI** | [10.1057/fr.1985.28](https://doi.org/10.1057/fr.1985.28) |

@@ -1,7 +1,5 @@
 # Globalization, Structural Change and Productivity Growth
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Margaret McMillan, Dani Rodrik |

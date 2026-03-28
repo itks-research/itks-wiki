@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | M. Svoboda, J. Blahova, A. Honzlová, J. Kalinová, P. Macharáčková, J. Rosmus, Vít Mejzlík, Patrik Kúkol, Veronika Vlasáková, K. Mikulková |
 |---|---|
 | **سال** | 2019 |

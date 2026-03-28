@@ -1,7 +1,5 @@
 # Outlook of Fiscal Relations among Government Levels in Latin America and the Caribbean
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Axel Radics, Francisco Vásquez, Noel Pérez Benítez, Ignacio Ruelas |

@@ -1,7 +1,5 @@
 # How Transitional Justice Processes and Official Apologies Influence Reconciliation: The Case of the Chilean ‘Truth and Reconciliation’ and ‘Political Imprisonment and Torture’ Commissions
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Manuel Cárdenas, Darío Páez, Bernard Rimé, Maitane Arnoso |

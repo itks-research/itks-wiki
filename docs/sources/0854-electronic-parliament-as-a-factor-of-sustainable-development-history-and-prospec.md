@@ -1,7 +1,5 @@
 # Electronic parliament as a factor of sustainable development: History and prospects
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Tamara Mazur, Spiros Flogaitis |

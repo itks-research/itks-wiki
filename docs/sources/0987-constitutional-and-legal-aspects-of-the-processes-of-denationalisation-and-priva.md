@@ -1,7 +1,5 @@
 # Constitutional and Legal Aspects of the Processes of (De)nationalisation and Privatisation of land and of state-owned enterprises – Macedonian examples of controversial politicisation and elitisation
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Tanja Karakamisheva-Jovanovska |

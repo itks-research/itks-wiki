@@ -1,7 +1,5 @@
 # World Development Report 2018: Learning to Realize Education's Promise
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | World Bank |

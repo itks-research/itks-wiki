@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Hanem El-Farahaty |
 |---|---|
 | **سال** | 2023 |

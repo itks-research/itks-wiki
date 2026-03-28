@@ -1,7 +1,5 @@
 # Ghana and South Korea: Lessons from world bank case studies
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Herbert H. Werlin |

@@ -1,7 +1,5 @@
 # Assessing 12-year Military Reform in Indonesia: Major Strategic Gaps for the Next Stage of Reform
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Iisgindarsah, Leonard C. Sebastian |

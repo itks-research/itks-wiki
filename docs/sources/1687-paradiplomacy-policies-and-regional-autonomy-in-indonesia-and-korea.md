@@ -1,7 +1,5 @@
 # Paradiplomacy Policies and Regional Autonomy in Indonesia and Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Takdir Ali Mukti, Laode Muhammad Fathun, Ali Muhammad, Stivani Ismawira Sinambela, Sugeng Riyanto |

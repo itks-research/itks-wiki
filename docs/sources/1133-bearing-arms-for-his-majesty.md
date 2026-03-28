@@ -1,7 +1,5 @@
 # Bearing Arms for His Majesty
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ben Vinson |

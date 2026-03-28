@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Joseph Crawford, Kerryn Butler‐Henderson, Jürgen Rudolph, Bashar H. Malkawi, Matt Glowatz, Robert L. Burton, P.A. Magni, Sophia Lam |
 |---|---|
 | **سال** | 2020 |

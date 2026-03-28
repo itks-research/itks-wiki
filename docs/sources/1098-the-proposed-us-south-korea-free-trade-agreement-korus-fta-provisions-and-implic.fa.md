@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | William H. Cooper, Mark E. Manyin, Remy Jurenas, Michaela D. Platzer |
 |---|---|
 | **سال** | 2009 |

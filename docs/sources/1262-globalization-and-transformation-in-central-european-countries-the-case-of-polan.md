@@ -1,7 +1,5 @@
 # Globalization and Transformation in Central European Countries: The Case of Poland
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Tadeusz Kowalski |

@@ -1,7 +1,5 @@
 # Mixed Outcomes: The Impact of Regional Autonomy and Decentralization on Indigenous Ethnic Minorities in Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Christopher R. Duncan |

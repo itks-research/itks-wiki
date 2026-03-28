@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Rodrigo Wolff, L. A. Díaz, Blanca Norero, Álvaro Urzúa, G. Mezzano, R. Humeres, F. Innocenti, Lorena Castro, C. Pavez, Carlos Derosas, Susana Elgueta |
 |---|---|
 | **سال** | 2020 |

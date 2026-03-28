@@ -1,7 +1,5 @@
 # Modern state formation and land management in South Korea: 1945–1960
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jungdong Park, Manshin Han |

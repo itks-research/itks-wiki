@@ -1,7 +1,5 @@
 # Mineralogy and physicochemical features of Saharan dust wet deposited in the Iberian Peninsula during an extreme red rain event
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Carlos Rodríguez‐Navarro, Fulvio Di Lorenzo, Kerstin Elert |

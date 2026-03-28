@@ -1,7 +1,5 @@
 # Are Recessions Good for Your Health?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Christopher J. Ruhm |

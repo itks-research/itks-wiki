@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Zulkifli Abdurrahman Usman, Rahma Salbiah, Nauwal Aufa, Naures Ben Znaidi |
 |---|---|
 | **سال** | 2025 |

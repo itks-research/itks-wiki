@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Delhia Chabanne, M. Aucouturier, Anne Bouquillon, Évelyne Darque-Ceretti, S. Makariou, Xavier Dectot, Antoinette Faÿ-Hallé, D. Miroudot |
 |---|---|
 | **سال** | 2012 |

@@ -1,7 +1,5 @@
 # Territorial Accommodation, Party Politics, and Statute Reform in Spain
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Diego Muro |

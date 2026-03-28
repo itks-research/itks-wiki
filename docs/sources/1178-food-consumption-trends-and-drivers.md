@@ -1,7 +1,5 @@
 # Food consumption trends and drivers
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | John Kearney |

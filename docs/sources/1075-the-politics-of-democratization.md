@@ -1,7 +1,5 @@
 # The Politics of Democratization
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Edward Friedman |

@@ -1,7 +1,5 @@
 # Health system performance at the district level in Indonesia after decentralization
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Peter Heywood, Yoonjoung Choi |

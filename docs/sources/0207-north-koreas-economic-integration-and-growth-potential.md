@@ -1,7 +1,5 @@
 # North Korea’s Economic Integration and Growth Potential
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jong‐Wha Lee, J. Pyun |

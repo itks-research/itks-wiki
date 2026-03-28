@@ -1,7 +1,5 @@
 # The Impact of Democratic Transition on Government Corruption: A Case Study of Tunisia (2006-2020)
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ramzy Mahmoud Radaideh |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Karabekir Akkoyunlu |
 |---|---|
 | **سال** | 2007 |

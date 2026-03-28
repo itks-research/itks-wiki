@@ -1,7 +1,5 @@
 # Struggles for Recognition: The Liberal International Order and the Merger of Its Discontents
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rebecca Adler‐Nissen, Ayşe Zarakol |

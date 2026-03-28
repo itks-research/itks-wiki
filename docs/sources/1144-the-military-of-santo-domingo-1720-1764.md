@@ -1,7 +1,5 @@
 # The Military of Santo Domingo, 1720-1764
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Margarita Gascón |

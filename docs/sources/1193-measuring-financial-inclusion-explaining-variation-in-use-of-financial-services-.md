@@ -1,7 +1,5 @@
 # Measuring Financial Inclusion: Explaining Variation in Use of Financial Services across and within Countries
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Asli Demirgüç‐Kunt, Leora Klapper |

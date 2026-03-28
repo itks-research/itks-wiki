@@ -1,7 +1,5 @@
 # Revenge of the Optimum Currency Area
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Paúl Krugman |

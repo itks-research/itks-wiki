@@ -1,7 +1,5 @@
 # The Rule of Law in Central Europe: The Reconstruction of Legality, Constitutionalism and Civil Society in the Post-Communist Countries
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jiří Přibáň, Jim Young |

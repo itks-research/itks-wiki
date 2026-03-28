@@ -1,7 +1,5 @@
 # Tackling Legal Impediments to Women’s Economic Empowerment
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Francisca Fernando, Juliet Johnson, Katharine Christopherson, Audrey Yiadom, Hanan Yazid, Clara Thiemann |

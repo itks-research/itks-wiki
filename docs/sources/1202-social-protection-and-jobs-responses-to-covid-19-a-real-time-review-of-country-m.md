@@ -1,7 +1,5 @@
 # Social Protection and Jobs Responses to COVID-19: A Real-Time Review of Country Measures
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mohamed Almenfi, Ugo Gentilini, Ian Orton, Pamela Dale |

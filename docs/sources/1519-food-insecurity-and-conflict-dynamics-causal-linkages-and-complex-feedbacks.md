@@ -1,7 +1,5 @@
 # Food Insecurity and Conflict Dynamics: Causal Linkages and Complex Feedbacks
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Cullen S. Hendrix, Henk-Jan Brinkman |

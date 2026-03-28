@@ -1,7 +1,5 @@
 # Federalism and Constitutional Design
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Peter C. Ordeshook, Olga Shvetsova |

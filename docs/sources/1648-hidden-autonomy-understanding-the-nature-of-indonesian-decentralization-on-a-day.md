@@ -1,7 +1,5 @@
 # ‘Hidden autonomy’: understanding the nature of Indonesian decentralization on a day-to-day basis
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Syarif Hidayat |

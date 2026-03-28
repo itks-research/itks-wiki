@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Dodik Ridho Nurrochmat, Ristianto Pribadi, Hermanto Siregar, Agus Justianto, Mi Sun Park |
 |---|---|
 | **سال** | 2021 |

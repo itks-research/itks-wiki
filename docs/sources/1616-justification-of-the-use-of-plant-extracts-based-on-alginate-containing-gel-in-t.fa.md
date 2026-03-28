@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | N.S. Saltanova |
 |---|---|
 | **سال** | 2024 |

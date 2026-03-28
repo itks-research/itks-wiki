@@ -1,7 +1,5 @@
 # A Study on the Factors Influencing Residents' Intention of Continuous Residence in Innovation Cities: The Case of South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Kyung-Young Lee |

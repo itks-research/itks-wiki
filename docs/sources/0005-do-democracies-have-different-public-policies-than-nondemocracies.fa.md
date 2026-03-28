@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Casey B. Mulligan, Ricard Gil, Xavier Sala-i-Martín |
 |---|---|
 | **سال** | 2004 |

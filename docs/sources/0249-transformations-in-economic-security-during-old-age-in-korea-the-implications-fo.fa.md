@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Young-Jun Choi |
 |---|---|
 | **سال** | 2006 |

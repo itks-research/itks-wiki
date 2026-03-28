@@ -1,7 +1,5 @@
 # Poor PLS of Security Sector Reform and Its Impacts on Human Rights and Civil-Military Relations in Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Poltak Partogi Nainggolan, Riris Katharina |

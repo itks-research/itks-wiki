@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ingrid Piller, Jinhyun Cho |
 |---|---|
 | **سال** | 2013 |

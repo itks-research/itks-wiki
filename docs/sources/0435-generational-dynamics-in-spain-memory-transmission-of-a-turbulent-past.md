@@ -1,7 +1,5 @@
 # Generational dynamics in Spain: Memory transmission of a turbulent past
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Paloma Aguilar, Clara Ramírez-Barat |

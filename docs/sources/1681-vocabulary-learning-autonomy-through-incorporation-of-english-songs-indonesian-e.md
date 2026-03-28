@@ -1,7 +1,5 @@
 # Vocabulary Learning Autonomy through Incorporation of English Songs: Indonesian EFL Students' Perspectives
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ika Wahyuni Lestari, Nuri Hardiyanti |

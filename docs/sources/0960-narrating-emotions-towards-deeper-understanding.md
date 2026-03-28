@@ -1,7 +1,5 @@
 # Narrating Emotions: Towards Deeper Understanding
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jan K. Coetzee |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Johan Surkyn, Ronny Lesthaeghe |
 |---|---|
 | **سال** | 2004 |

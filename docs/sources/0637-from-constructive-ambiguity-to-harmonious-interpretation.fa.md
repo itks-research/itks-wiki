@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Markus Böckenförde |
 |---|---|
 | **سال** | 2016 |

@@ -1,7 +1,5 @@
 # In Pinochet’s Shadows: The Incidence of Authoritarian/Democratic Values on the Vote Choice in the 2022 Constitutional Plebiscite in Chile
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sergio Fuenzalida Gauna, Patricio Navia, Rodrigo Osorio |

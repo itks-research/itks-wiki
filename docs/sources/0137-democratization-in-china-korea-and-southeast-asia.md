@@ -1,7 +1,5 @@
 # Democratization in China, Korea and Southeast Asia?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

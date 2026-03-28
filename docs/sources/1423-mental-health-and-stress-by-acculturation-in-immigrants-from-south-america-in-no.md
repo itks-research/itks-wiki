@@ -1,7 +1,5 @@
 # [Mental health and stress by acculturation in immigrants from South America in northern Chile].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | A. Urzúa M., Osvaldo Heredia B, Alejandra Caqueo-Urízar |

@@ -1,7 +1,5 @@
 # [Excess deaths due to the COVID-19 pandemic in Chile].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Dagoberto Duarte Quapper |

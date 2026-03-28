@@ -1,7 +1,5 @@
 # Public Acceptance of Plant Biotechnology and GM Crops
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jan M. Lucht |

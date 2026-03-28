@@ -1,7 +1,5 @@
 # Governance to Governmentality: Analyzing NGOs, States, and Power
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ole Jacob Sending, İver B. Neumann |

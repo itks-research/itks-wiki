@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Paul Collier, Jan Willem Gunning |
 |---|---|
 | **سال** | 1999 |

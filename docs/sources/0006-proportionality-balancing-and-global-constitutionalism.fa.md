@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Alec Stone Sweet, Jud Mathews |
 |---|---|
 | **سال** | 2008 |

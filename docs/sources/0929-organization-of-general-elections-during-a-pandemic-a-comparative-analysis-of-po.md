@@ -1,7 +1,5 @@
 # Organization of General Elections during a Pandemic. A Comparative Analysis of Poland and the Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rafał Miszczuk, Joanna Martyniuk-Placha |

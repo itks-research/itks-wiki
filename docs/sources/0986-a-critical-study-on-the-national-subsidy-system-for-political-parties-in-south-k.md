@@ -1,7 +1,5 @@
 # A Critical Study on the National Subsidy System for Political Parties in South Korea — Focusing on Financial Independence and the Restoration of Representative Democracy —
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | WonYong Cho |

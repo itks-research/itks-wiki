@@ -1,7 +1,5 @@
 # Contribution of Primary Care to Health Systems and Health
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Bárbara Starfield, Leiyu Shi, James Macinko |

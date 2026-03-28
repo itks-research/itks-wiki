@@ -1,7 +1,5 @@
 # Tunisia's Morning After
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Bruce Maddy‐Weitzman |

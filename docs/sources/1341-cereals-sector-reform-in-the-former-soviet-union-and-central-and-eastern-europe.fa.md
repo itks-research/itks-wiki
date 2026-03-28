@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Lawrence D. Smith, N.J.C. Spooner |
 |---|---|
 | **سال** | 1996 |

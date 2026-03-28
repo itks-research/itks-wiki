@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Sunita Kikeri, John Nellis, Mary M. Shirley |
 |---|---|
 | **سال** | 1992 |

@@ -1,7 +1,5 @@
 # Turkish foreign policy in a post-western order: strategic autonomy or new forms of dependence?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mustafa Kutlay, Zіya Önіş |

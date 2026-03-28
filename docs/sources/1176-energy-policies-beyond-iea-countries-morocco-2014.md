@@ -1,7 +1,5 @@
 # Energy Policies Beyond IEA Countries: Morocco 2014
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | International Energy Agency |

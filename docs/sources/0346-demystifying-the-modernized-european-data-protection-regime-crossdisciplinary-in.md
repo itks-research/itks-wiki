@@ -1,7 +1,5 @@
 # Demystifying the modernized European data protection regime: Cross‐disciplinary insights from legal and regulatory governance scholarship
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Karen Yeung, Lee A. Bygrave |

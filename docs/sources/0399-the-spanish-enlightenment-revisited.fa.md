@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Marie Christine Duggan |
 |---|---|
 | **سال** | 2015 |

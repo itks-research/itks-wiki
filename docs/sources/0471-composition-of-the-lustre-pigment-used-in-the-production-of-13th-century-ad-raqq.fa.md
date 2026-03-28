@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Trinitat Pradell, G. Molina, Judit Molera, M. S. TITE |
 |---|---|
 | **سال** | 2015 |

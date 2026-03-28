@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Nadine Genet, W.G.W. Boerma, Dionne Kringos, Ans Bouman, Anneke L. Francke, Cecilia Fagerström, Maria Gabriella Melchiorre, Cosetta Greco, W. Devillé |
 |---|---|
 | **سال** | 2011 |

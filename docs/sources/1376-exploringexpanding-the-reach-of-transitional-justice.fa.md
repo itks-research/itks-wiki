@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | M. Brinton Lykes, Hugo van der Merwe |
 |---|---|
 | **سال** | 2017 |

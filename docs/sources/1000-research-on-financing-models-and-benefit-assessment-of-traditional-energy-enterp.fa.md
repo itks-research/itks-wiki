@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Zhongwang Zhang |
 |---|---|
 | **سال** | 2025 |

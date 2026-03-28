@@ -1,7 +1,5 @@
 # Free Trade Agreements and the Prospects for Regional Integration in East Asia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Razeen Sally |

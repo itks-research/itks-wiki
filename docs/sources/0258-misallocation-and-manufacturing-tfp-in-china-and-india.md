@@ -1,7 +1,5 @@
 # Misallocation and Manufacturing TFP in China and India
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Chang‐Tai Hsieh, Peter J. Klenow |

@@ -1,7 +1,5 @@
 # The Role of Agriculture in Ensuring Food Security in Developing Countries: Considerations in the Context of the Problem of Sustainable Food Production
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Karolina Pawlak, Małgorzata Kołodziejczak |

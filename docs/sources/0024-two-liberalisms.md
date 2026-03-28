@@ -1,7 +1,5 @@
 # Two Liberalisms
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Gerry Simpson |

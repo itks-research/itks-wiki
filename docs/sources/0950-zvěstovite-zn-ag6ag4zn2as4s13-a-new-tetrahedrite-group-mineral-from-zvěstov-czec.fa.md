@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | J. Sejkora, C. Biagioni, L. Vrtiška, Y. Moëlo |
 |---|---|
 | **سال** | 2021 |

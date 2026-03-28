@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Carlos Closa, Flavia Carbonell Bellolio |
 |---|---|
 | **سال** | 2010 |

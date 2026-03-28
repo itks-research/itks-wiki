@@ -1,7 +1,5 @@
 # Legal and economic aspects of the state-owned enterprise in the Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Michal Toufar |

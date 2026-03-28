@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jungdong Park, Manshin Han |
 |---|---|
 | **سال** | 2018 |

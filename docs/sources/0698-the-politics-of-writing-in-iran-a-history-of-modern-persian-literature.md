@@ -1,7 +1,5 @@
 # The politics of writing in Iran: a history of modern Persian literature
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rahimieh, N |

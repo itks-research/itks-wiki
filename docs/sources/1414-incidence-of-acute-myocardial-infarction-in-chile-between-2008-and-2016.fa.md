@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | C. Nazzal, Alejandro Lefian, F. Alonso |
 |---|---|
 | **سال** | 2021 |

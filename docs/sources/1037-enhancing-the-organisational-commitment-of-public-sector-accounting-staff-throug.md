@@ -1,7 +1,5 @@
 # Enhancing the organisational commitment of public sector accounting staff through the pursuit of CSR objectives
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Dermot McCarthy, Phyllis Alexander, Young Hoon Jung |

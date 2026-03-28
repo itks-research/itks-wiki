@@ -1,7 +1,5 @@
 # Is the constitution the problem in front of the democratic transition in Iraq?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Nawsherwan Saeed |

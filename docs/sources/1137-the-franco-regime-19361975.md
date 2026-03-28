@@ -1,7 +1,5 @@
 # The Franco Regime, 1936–1975
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Stanley G. Payne |

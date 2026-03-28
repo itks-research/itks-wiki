@@ -1,7 +1,5 @@
 # The Dynastic State and the Army under Louis XIV: Royal Service and Private Interest 1661–1701
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | G. Rowlands |

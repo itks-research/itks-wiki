@@ -1,7 +1,5 @@
 # Deaths and Disappearances in the Pinochet Regime: A New Dataset
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Danilo Freire, David Skarbek, John Meadowcroft, Eugenia Guerrero |

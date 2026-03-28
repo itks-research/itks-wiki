@@ -1,7 +1,5 @@
 # Transparency in Government Operations
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | George Kopits, J. Craig, GKopits@imf.org, JCraig@imf.org |

@@ -1,7 +1,5 @@
 # Cyberactivism in the Egyptian Revolution: How Civic Engagement and Citizen Journalism Tilted the Balance
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sahar Khamis, Katherine Vaughn |

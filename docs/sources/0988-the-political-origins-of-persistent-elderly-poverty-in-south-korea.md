@@ -1,7 +1,5 @@
 # The Political Origins of Persistent Elderly Poverty in South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sunil Kim |

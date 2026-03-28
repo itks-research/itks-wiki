@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Aurel Croissant, Marco Bünte |
 |---|---|
 | **سال** | 2011 |

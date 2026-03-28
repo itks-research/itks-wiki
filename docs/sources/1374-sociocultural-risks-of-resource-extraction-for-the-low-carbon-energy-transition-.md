@@ -1,7 +1,5 @@
 # Sociocultural risks of resource extraction for the low-carbon energy transition: Evidence from the Global South
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Joshua Matanzima, Julia Loginova |

@@ -1,14 +1,12 @@
 # The Role of Legislation, Regulatory Initiatives and Guidelines on the Control of Plastic Pollution
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | João Pinto da Costa, Catherine Mouneyrac, Mônica F. Costa, Armando C. Duarte, Teresa Rocha‐Santos |
 | **Year** | 2020 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 221 |
 | **Source** | openalex |
 | **DOI** | [10.3389/fenvs.2020.00104](https://doi.org/10.3389/fenvs.2020.00104) |

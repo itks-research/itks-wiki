@@ -1,7 +1,5 @@
 # Localización de la actividad manufacturera en Castilla y León. Los dinamismos espaciales inducidos por la industria
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Luis Carlos Martínez Fernández, José Antonio Luengo Gallego |

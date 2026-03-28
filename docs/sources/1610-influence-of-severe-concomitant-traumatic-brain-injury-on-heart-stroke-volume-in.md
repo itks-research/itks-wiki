@@ -1,7 +1,5 @@
 # INFLUENCE OF SEVERE CONCOMITANT TRAUMATIC BRAIN INJURY ON HEART STROKE VOLUME IN PRESCHOOL AGE
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | H.N. Muhitdinova, G.S. Hamrayeva, В. В. Васильченко |

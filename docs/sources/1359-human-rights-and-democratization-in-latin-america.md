@@ -1,7 +1,5 @@
 # Human Rights and Democratization in Latin America
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Alexandra Barahona de Brito |

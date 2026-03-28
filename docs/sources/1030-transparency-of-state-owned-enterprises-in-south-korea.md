@@ -1,7 +1,5 @@
 # Transparency of state-owned enterprises in South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Wonhee Lee |

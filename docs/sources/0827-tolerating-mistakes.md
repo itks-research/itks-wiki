@@ -1,7 +1,5 @@
 # Tolerating Mistakes
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Monika Nalepa |

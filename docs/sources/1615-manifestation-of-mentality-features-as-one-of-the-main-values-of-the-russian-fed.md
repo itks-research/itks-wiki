@@ -1,7 +1,5 @@
 # MANIFESTATION OF MENTALITY FEATURES AS ONE OF THE MAIN VALUES OF THE RUSSIAN FEDERATION CITIZENS
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Andrei Aleksandrovich Afonin |

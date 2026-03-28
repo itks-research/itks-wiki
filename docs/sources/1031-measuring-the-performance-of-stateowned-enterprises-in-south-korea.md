@@ -1,7 +1,5 @@
 # Measuring the performance of state‐owned enterprises in South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Gerald E. Caiden, Kwanbo Kim |

@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Anwar Shah |
 |---|---|
 | **سال** | 1994 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 389 |
 | **شناسه دیجیتال** | [10.1596/0-8213-2836-0](https://doi.org/10.1596/0-8213-2836-0) |
 

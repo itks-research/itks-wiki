@@ -1,7 +1,5 @@
 # How Change Happens
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Duncan Green |

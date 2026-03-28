@@ -1,7 +1,5 @@
 # Truth commissions and transitional societies: the impact on human rights and democracy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

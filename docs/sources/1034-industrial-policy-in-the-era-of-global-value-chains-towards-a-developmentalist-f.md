@@ -1,7 +1,5 @@
 # Industrial policy in the era of global value chains: Towards a developmentalist framework drawing on the industrialisation experiences of South Korea and Taiwan
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jostein Hauge |

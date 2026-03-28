@@ -1,7 +1,5 @@
 # Natropharmacoalumite, NaAl<sub>4</sub>[(OH)<sub>4</sub>(AsO<sub>4</sub>)<sub>3</sub>].4H<sub>2</sub>O, a new mineral of the pharmacosiderite supergroup and the renaming of aluminopharmacosiderite to pharmacoalumite
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Michael S. Rumsey, Stuart J. Mills, John Spratt |

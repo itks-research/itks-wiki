@@ -1,7 +1,5 @@
 # Decentralization and Adat Revivalism in Indonesia: The Politics of Becoming Indigenous
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Adam Tyson |

@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | M. Shirin, Benjamin Brown, Kanchana N. Ruwanpura |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 334 |
 | **شناسه دیجیتال** | [10.1016/j.worlddev.2018.09.006](https://doi.org/10.1016/j.worlddev.2018.09.006) |
 

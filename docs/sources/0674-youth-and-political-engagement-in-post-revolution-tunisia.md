@@ -1,7 +1,5 @@
 # Youth and political engagement in post-revolution Tunisia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | F. Mansouri |

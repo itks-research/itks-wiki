@@ -1,7 +1,5 @@
 # The EU Water Framework Directive: From great expectations to problems with implementation
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Nikolaos Voulvoulis, Karl Dominic Arpon, Theodoros Giakoumis |

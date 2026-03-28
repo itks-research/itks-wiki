@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ernesto Bohoslavsky |
 |---|---|
 | **سال** | 2004 |

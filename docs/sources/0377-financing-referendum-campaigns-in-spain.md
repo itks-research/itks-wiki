@@ -1,7 +1,5 @@
 # Financing Referendum Campaigns in Spain
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Carlos Closa, Flavia Carbonell Bellolio |

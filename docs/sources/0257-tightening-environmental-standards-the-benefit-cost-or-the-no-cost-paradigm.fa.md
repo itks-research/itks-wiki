@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Karen Palmer, Wallace E. Oates, Paul R. Portney |
 |---|---|
 | **سال** | 1995 |

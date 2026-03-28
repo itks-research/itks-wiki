@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Chang‐Tai Hsieh, Peter J. Klenow |
 |---|---|
 | **سال** | 2007 |

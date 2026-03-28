@@ -1,7 +1,5 @@
 # Urgency of Political Decentralization and Regional Autonomy in Indonesia: Local Perspectives
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Andi Yakub, Ahmad Bashawir Abdul Ghani, Mohammad Syafi’i Anwar |

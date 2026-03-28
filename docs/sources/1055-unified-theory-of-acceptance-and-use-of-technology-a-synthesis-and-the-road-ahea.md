@@ -1,7 +1,5 @@
 # Unified Theory of Acceptance and Use of Technology: A Synthesis and the Road Ahead
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Viswanath Venkatesh, James Y.L. Thong, Xu Xin |

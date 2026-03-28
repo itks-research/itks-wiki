@@ -1,7 +1,5 @@
 # The Land Reform of 1946 in North Korea and the Soviet Military Administration
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Vasily Lebedev |

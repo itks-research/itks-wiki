@@ -1,7 +1,5 @@
 # Constitutional Pluralism Revisited
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Neil Walker |

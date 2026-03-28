@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | I. Setiawan, Muchammad Daing Azimattara |
 |---|---|
 | **سال** | 2026 |

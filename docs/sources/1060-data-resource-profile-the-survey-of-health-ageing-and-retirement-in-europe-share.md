@@ -1,7 +1,5 @@
 # Data Resource Profile: The Survey of Health, Ageing and Retirement in Europe (SHARE)
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Axel Börsch‐Supan, Martina Brandt, Christian Hunkler, Thorsten Kneip, Julie M. Korbmacher, Frederic Malter, Barbara Schaan, Stephanie Stuck, Sabrina Zuber |

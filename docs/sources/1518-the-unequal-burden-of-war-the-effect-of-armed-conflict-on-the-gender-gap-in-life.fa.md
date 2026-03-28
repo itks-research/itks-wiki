@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Thomas Plümper, Eric Neumayer |
 |---|---|
 | **سال** | 2006 |

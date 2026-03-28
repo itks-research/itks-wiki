@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Md. Amdadul Huq, Md. Mominul Islam, Md. Shahedur Rahman |
 |---|---|
 | **سال** | 2025 |

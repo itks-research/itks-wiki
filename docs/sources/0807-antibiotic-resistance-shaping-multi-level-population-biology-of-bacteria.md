@@ -1,7 +1,5 @@
 # Antibiotic resistance shaping multi-level population biology of bacteria
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Fernando Baquero, Ana P. Tedim, Teresa M. Coque |

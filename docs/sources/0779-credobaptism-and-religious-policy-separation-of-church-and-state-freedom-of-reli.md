@@ -1,7 +1,5 @@
 # Credobaptism and religious policy. Separation of church and state, freedom of religion, and religious tolerance in the writings of the early Baptists
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | R. Prostak |

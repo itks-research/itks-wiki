@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Igor V. Pekov, Vadim M. Kovrugin, Oleg I. Siidra, Н. В. Чуканов, Dmitry I. Belakovskiy, Natalia N. Koshlyakova, Vasiliy O. Yapaskurt, Anna G. Turchkova, Gerhard Möhn |
 |---|---|
 | **سال** | 2019 |

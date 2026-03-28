@@ -1,7 +1,5 @@
 # Privatization Is Transition—Or Is It?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Josef C. Brada |

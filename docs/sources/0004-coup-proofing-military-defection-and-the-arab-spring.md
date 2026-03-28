@@ -1,7 +1,5 @@
 # Coup-Proofing, Military Defection, and the Arab Spring
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Michael Makara |

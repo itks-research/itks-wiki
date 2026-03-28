@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Shane Joshua Barter, Hipolitus Yolisandry Ringgi Wangge |
 |---|---|
 | **سال** | 2021 |

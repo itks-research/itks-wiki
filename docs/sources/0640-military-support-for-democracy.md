@@ -1,7 +1,5 @@
 # Military Support for Democracy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Dennis C. Blair |

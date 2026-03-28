@@ -1,7 +1,5 @@
 # Constructive Unamendability in Canada and the United States
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Richard Albert |

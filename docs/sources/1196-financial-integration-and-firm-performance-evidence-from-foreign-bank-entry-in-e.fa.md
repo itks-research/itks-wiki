@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Mariassunta Giannetti, Steven Ongena |
 |---|---|
 | **سال** | 2007 |

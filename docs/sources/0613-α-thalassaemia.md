@@ -1,7 +1,5 @@
 # α-thalassaemia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Cornelis L. Harteveld, Douglas R. Higgs |

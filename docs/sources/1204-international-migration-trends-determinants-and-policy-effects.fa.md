@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Hein de Haas, Mathias Czaika, Marie‐Laurence Flahaux, Edo Mahendra, Katharina Natter, Simona Vezzoli, María Villares‐Varela |
 |---|---|
 | **سال** | 2019 |

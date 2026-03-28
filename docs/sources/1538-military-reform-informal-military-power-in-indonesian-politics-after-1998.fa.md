@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Khairurrizqo Khairurrizqo |
 |---|---|
 | **سال** | 2024 |

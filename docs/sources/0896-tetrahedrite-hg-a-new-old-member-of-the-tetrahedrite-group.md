@@ -1,7 +1,5 @@
 # Tetrahedrite-(Hg), a new ‘old’ member of the tetrahedrite group
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Cristian Biagioni, Jiří Sejkora, Silvia Musetti, Dalibor Velebil, Marco Pasero |

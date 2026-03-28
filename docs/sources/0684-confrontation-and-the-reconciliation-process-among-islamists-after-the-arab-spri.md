@@ -1,7 +1,5 @@
 # Confrontation and the Reconciliation Process among Islamists after the Arab Spring
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Marcin Styszyński |

@@ -1,7 +1,5 @@
 # Confronting the Past: Justice or Revenge?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Adam Michnik, Václav Havel |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Bekisizwe S. Ndimande |
 |---|---|
 | **سال** | 2013 |

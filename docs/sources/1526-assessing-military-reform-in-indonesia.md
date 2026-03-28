@@ -1,7 +1,5 @@
 # Assessing military reform in Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Leonard C. Sebastian, Iis Gindarsah |

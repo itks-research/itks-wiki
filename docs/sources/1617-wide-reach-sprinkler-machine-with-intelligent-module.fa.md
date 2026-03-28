@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Larisa Zhuravleva, B. Heirbeek |
 |---|---|
 | **سال** | 2024 |

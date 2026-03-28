@@ -1,7 +1,5 @@
 # From Intractable Conflict Through Conflict Resolution To Reconciliation: Psychological Analysis
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Daniel Bar‐Tal |

@@ -1,7 +1,5 @@
 # [Social determinants of access to the explicit guarantees health program implemented in Chile].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sandra Alvear-Vega, Margot Acuña San-Martín |

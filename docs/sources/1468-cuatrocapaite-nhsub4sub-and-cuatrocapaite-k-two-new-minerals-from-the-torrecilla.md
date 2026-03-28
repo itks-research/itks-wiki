@@ -1,7 +1,5 @@
 # Cuatrocapaite-(NH<sub>4</sub>) and cuatrocapaite-(K), two new minerals from the Torrecillas mine, Iquique Province, Chile, related to lucabindiite and gajardoite
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anthony R. Kampf, Н. В. Чуканов, Gerhard Möhn, Maurizio Dini, Arturo A. Molina Donoso, Henrik Friis |

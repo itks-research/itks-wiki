@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Kym Anderson, Giulia Meloni, Johan Swinnen |
 |---|---|
 | **سال** | 2018 |

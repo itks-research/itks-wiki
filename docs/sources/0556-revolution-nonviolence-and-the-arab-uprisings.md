@@ -1,7 +1,5 @@
 # Revolution, Nonviolence, and the Arab Uprisings*
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | George Lawson |

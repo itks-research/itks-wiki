@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Anastasia Kulaga |
 |---|---|
 | **سال** | 2025 |

@@ -1,7 +1,5 @@
 # The Politics of Victimhood: Historical Memory and Peace in Spain and the Basque Region
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ross B. MacDonald, Monica C. Bernardo |

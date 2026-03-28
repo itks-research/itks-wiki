@@ -1,7 +1,5 @@
 # Understanding the Success of Mass Civic Protest in Tunisia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Michele Penner Angrist |

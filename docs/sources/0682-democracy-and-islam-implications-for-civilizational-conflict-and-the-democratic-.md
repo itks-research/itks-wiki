@@ -1,7 +1,5 @@
 # Democracy and Islam: Implications for Civilizational Conflict and the Democratic Peace
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Manus I. Midlarsky |

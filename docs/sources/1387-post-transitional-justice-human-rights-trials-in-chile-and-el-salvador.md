@@ -1,7 +1,5 @@
 # Post-Transitional Justice: Human Rights Trials in Chile and El Salvador
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Thomas Wright |

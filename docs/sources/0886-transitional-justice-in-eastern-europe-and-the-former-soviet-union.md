@@ -1,7 +1,5 @@
 # Transitional Justice in Eastern Europe and the former Soviet Union
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Lavinia Stan |

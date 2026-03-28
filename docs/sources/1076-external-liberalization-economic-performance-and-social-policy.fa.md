@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | You, Jong Il, Lee, Ju-Ho |
 |---|---|
 | **سال** | 2001 |

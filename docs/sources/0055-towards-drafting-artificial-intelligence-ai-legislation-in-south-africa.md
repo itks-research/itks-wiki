@@ -1,7 +1,5 @@
 # TOWARDS DRAFTING ARTIFICIAL INTELLIGENCE (AI) LEGISLATION IN SOUTH AFRICA
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sizwe Snail ka Mtuze, Masego Morige |

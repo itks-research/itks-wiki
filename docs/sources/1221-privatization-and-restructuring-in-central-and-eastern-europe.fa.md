@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Gerhard Pohl, Robert E. Anderson, Stijn Claessens, Simeon Djankov |
 |---|---|
 | **سال** | 1997 |

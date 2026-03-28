@@ -1,7 +1,5 @@
 # External Liberalization, Economic Performance, and Distribution in Latin America and Elsewhere
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Lance Taylor |

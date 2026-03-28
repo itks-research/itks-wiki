@@ -1,7 +1,5 @@
 # Bridging the Early Modern Atlantic World
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

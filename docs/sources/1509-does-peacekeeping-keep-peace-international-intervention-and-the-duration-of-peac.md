@@ -1,7 +1,5 @@
 # Does Peacekeeping Keep Peace? International Intervention and the Duration of Peace After Civil War
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Virginia Page Fortna |

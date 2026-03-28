@@ -1,7 +1,5 @@
 # Representation and Effectiveness in Latin American Democracies
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

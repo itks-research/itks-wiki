@@ -1,7 +1,5 @@
 # [Cancer in Chile and worldwide: an overview of the current and future epidemiological context].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | S. Parra-Soto, F. Petermann-Rocha, M. Martínez-Sanguinetti, Ana María Leiva-Ordeñez, C. Troncoso-Pantoja, N. Ulloa, Ximena Díaz-Martínez, Carlos Celis-Morales |

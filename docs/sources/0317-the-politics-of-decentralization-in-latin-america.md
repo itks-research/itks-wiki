@@ -1,7 +1,5 @@
 # The Politics of Decentralization in Latin America
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Eliza Willis, Christopher Garman, Stephan Haggard |

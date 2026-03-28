@@ -1,7 +1,5 @@
 # Chemical Pesticides and Human Health: The Urgent Need for a New Concept in Agriculture
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | P. Nicolopoulou‐Stamati, Sotirios Maipas, Chrysanthi Kotampasi, Panagiotis J. Stamatis, Luc Hens |

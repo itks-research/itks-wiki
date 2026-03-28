@@ -1,7 +1,5 @@
 # The Correlation between Learner Autonomy and English Proficiency of Indonesian EFL College Learners.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | I Putu Ngurah Wage Myartawan, Mohammad Adnan Latief, Suharmanto Suharmanto |

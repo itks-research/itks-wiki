@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Antonio Zapata Pizarro, Karina Díaz Díaz, Luis Barra Ahumada, Lorena Maureira Sales, Jeanette Linares Moreno, Franco Zapata Pizarro |
 |---|---|
 | **سال** | 2019 |

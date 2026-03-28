@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | H.N. Muhitdinova, G.S. Hamraeva, A.Y. Shomurodov |
 |---|---|
 | **سال** | 2024 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Salvador Parrado, Gregg G. Van Ryzin, Tony Bovaird, Elke Löffler |
 |---|---|
 | **سال** | 2013 |

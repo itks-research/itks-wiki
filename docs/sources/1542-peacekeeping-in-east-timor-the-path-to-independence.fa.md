@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Michael G. Smith, Moreen Dee |
 |---|---|
 | **سال** | 2002 |

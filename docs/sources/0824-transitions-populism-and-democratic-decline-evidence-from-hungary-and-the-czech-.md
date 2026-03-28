@@ -1,7 +1,5 @@
 # Transitions, populism, and democratic decline: evidence from Hungary and the Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Dalibor Roháč |

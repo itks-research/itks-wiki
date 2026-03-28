@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | You, Jong-sung |
 |---|---|
 | **سال** | 2017 |

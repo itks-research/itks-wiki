@@ -1,7 +1,5 @@
 # Farming the planet: 1. Geographic distribution of global agricultural lands in the year 2000
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Navin Ramankutty, Amato T. Evan, Chad Monfreda, Jonathan A. Foley |

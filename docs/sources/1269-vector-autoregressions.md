@@ -1,7 +1,5 @@
 # Vector Autoregressions
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | James H. Stock, Mark W. Watson |

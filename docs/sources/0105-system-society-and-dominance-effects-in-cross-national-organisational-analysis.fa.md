@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Chris Smith, Peter Meiksins |
 |---|---|
 | **سال** | 1995 |
 | **دسته‌بندی** | Constitutional design and drafting processes |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 332 |
 | **شناسه دیجیتال** | [10.1177/095001709592002](https://doi.org/10.1177/095001709592002) |
 

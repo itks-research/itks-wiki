@@ -1,7 +1,5 @@
 # The Determinants of Enterprise Restructuring in Transition
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Simeon Djankov, Peter Murrell |

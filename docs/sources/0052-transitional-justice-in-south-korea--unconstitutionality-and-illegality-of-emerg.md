@@ -1,7 +1,5 @@
 # Transitional Justice in South Korea : Unconstitutionality and Illegality of Emergency Measures by Dictators
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | B. Lee, Jewan Kim |

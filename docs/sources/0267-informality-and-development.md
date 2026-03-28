@@ -1,7 +1,5 @@
 # Informality and Development
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rafael La Porta, Andrei Shleifer |

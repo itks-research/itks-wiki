@@ -1,7 +1,5 @@
 # Islam and Institutional Religious Freedom in Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Robert W. Hefner |

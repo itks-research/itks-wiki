@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Roldán Jimeno Aranguren |
 |---|---|
 | **سال** | 2017 |

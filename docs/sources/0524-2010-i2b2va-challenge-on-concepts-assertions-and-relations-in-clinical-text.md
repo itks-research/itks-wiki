@@ -1,7 +1,5 @@
 # 2010 i2b2/VA challenge on concepts, assertions, and relations in clinical text
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Özlem Uzuner, Brett R. South, Shuying Shen, Scott L. DuVall |

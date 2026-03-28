@@ -1,7 +1,5 @@
 # Islam and Democracy after the Arab Spring
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Gowhar Quadir Wani |

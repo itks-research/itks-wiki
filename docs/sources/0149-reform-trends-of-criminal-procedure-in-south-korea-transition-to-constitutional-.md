@@ -1,7 +1,5 @@
 # Reform Trends of Criminal Procedure in South Korea: Transition to Constitutional Guarantee of Human Rights
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Cho Byung-Sun |

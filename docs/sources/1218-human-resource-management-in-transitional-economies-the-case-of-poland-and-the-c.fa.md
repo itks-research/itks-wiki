@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Rosalie L. Tung, Stephen J. Havlovic |
 |---|---|
 | **سال** | 1996 |

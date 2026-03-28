@@ -1,7 +1,5 @@
 # SOCIAL ADAPTATION OF MINORS IN A SOCIAL REHABILITATION CENTER
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | O. V. Taranova, A. S. Lebedeva |

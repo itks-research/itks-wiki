@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Tofigh Maboudi, Ghazal P. Nadi |
 |---|---|
 | **سال** | 2021 |

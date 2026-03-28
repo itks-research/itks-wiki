@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Richard M. Bird, Robert D. Ebel, Christine I. Wallich |
 |---|---|
 | **سال** | 1995 |

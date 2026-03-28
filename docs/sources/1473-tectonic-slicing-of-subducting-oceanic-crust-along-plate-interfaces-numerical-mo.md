@@ -1,7 +1,5 @@
 # Tectonic slicing of subducting oceanic crust along plate interfaces: Numerical modeling
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jonas B. Ruh, Laëtitia Le Pourhiet, Ph. Agard, E. Burov, Taras Gerya |

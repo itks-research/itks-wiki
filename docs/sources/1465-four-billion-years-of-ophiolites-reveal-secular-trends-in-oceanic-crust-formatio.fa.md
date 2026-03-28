@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Harald Furnes, Maarten de Wit, Yıldırım Dilek |
 |---|---|
 | **سال** | 2014 |

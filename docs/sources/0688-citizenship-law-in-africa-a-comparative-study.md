@@ -1,7 +1,5 @@
 # Citizenship Law in Africa. a Comparative Study
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Bronwen Manby |

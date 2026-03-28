@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ferdinando Bosi, Henrik Skogby, Marco E. Ciriotti, Petr Gadas, Milan Novák, Jan Cempírek, Dalibor Všianský, Jan Filip |
 |---|---|
 | **سال** | 2017 |

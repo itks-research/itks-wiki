@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Tom Ginsburg, Mila Versteeg |
 |---|---|
 | **سال** | 2019 |

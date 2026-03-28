@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Mohamed Elhachmi Hamdi |
 |---|---|
 | **سال** | 2018 |

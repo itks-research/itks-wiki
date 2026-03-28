@@ -1,7 +1,5 @@
 # Punishment, Reconciliation, and Democratic Deliberation
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | David A. Crocker |

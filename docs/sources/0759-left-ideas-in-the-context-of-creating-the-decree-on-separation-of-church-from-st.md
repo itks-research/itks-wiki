@@ -1,7 +1,5 @@
 # Left Ideas in the Context of Creating the Decree on Separation of Church from State and School from Church
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Evgenia Tarasyutina |

@@ -1,7 +1,5 @@
 # Christian Citizens in a Democratic State: Is a True Separation of Church and State Really Possible?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | David Haines |

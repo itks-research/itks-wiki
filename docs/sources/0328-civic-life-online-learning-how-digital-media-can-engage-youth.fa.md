@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Luisa Doldi, Kirsten Foot, Jennifer Earl, Alan Schussman, Nina Eliasoph, W Bennett, Stephen Coleman, See Anthony, Giddens, Ronald Inglehart, W Bennett, Marc Hugo, Lopez, Jenkins, Davidson Ito, Coleman, Peter Levine, Judith Torney-Purta, Suzanne Mellor, Scott Keeter, Lopez, Howard Rheingold, Bruce Bimber, Andrew Flanagin, Christopher Reynolds, Jochai Benkler, See Robert, D Putnam, Benkler, Lawrence Lessig, Benkler, Kathryn Montgomery, Sharareh Frouzesh, Bennett, Eliasoph, Coleman, Jay Blumler, Dennis Kavanagh, Courtesy Of, Peter Levine, Peter Levine, W, Lance Bennett, Mike Xenos, Montgomery, T David, Mindich, James Hamilton, Michael Schudson, Inglehart, Giddens, Bennett, Kathryn Montgomery, Don Tapscott, Karen Brown, X Michael, Carpini, O' Tim, Reilly, Yochai Benkler, Jeff Chester, See Susan, Linn, Juliet See, Schor, Kathryn Montgomery, Benkler, Kathryn Montgomery, Barbara Gottlieb-Robles, Gary Larson, Constance Flanagan, Nakesha Faison, Kathryn Montgomery, Barbara Gottlieb-Robles, Amanda Lenhart, Susannah Fox, Shayne See, Bowman, Gnn Faq, Joseph Graf, Carol Darr, Joe Trippi, Michael Xenos, Kirsten Foot, Felicia Lee, Lance Bennett, Michael Xenos, Gottlieb-Robles Montgomery, Larson, Ariana Eunjung, Cha, Mark Hugo Lopez, Emily Kirby, Jared Sagoff, Betsy Spethmann, Todd Wasserman, Since, Faison Flanagan, Greg Livingstone, Giselle Abramovich |
 |---|---|
 | **سال** | 2009 |

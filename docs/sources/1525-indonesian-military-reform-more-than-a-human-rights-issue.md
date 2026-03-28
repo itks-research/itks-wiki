@@ -1,7 +1,5 @@
 # INDONESIAN MILITARY REFORM: More Than a Human Rights Issue
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | John B. Haseman |

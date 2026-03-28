@@ -1,7 +1,5 @@
 # The Two Faces of Education in Ethnic Conflict : Towards a Peacebuilding Education for Children
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Kenneth D. Bush, Diana Saltarelli |

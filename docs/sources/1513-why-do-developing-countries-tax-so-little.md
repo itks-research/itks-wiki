@@ -1,7 +1,5 @@
 # Why Do Developing Countries Tax So Little?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Timothy Besley, Torsten Persson |

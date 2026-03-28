@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | James H. Stock, Mark W. Watson |
 |---|---|
 | **سال** | 2001 |

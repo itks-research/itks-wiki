@@ -1,7 +1,5 @@
 # Priority water rights. Are they useful for improving water-use efficiency at the irrigation district level?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | José A. Gómez‐Limón, Carlos Gutiérrez‐Martín, Nazaret M. Montilla-López |

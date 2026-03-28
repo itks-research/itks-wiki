@@ -1,7 +1,5 @@
 # The Myth of "Ethnic Conflict": Politics, Economics, and "Cultural" Violence
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Beverly Crawford, Ronnie D. Lipschutz |

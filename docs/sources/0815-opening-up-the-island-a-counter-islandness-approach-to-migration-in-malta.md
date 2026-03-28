@@ -1,7 +1,5 @@
 # Opening up the island: a ‘counter-islandness’ approach to migration in Malta.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Nathalie Bernardie‐Tahir, Camille Schmoll |

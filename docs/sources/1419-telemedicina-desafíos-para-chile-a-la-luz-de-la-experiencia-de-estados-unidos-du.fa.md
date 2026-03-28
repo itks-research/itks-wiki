@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Pamela Mendoza-Alonzo, J. Mendoza-Alonzo |
 |---|---|
 | **سال** | 2021 |

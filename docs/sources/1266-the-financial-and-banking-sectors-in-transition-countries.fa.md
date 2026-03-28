@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Lumír Kulhánek, Stanislav Polouček, Daniel Stavárek |
 |---|---|
 | **سال** | 2004 |

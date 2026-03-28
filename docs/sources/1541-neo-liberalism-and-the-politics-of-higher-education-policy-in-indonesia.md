@@ -1,7 +1,5 @@
 # Neo-liberalism and the politics of higher education policy in Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Andrew Rosser |

@@ -1,7 +1,5 @@
 # Constitutional Reform and Emergency Powers in Egypt and Tunisia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Andrej Zwitter |

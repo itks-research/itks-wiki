@@ -1,7 +1,5 @@
 # A Conceptual Framework for Human Security
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sabina Alkire |

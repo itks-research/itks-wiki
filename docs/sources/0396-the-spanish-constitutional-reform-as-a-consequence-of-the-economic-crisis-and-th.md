@@ -1,7 +1,5 @@
 # The Spanish Constitutional Reform as a Consequence of the Economic Crisis and the Budgetary Stability
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ramón Vilarroig Moya |

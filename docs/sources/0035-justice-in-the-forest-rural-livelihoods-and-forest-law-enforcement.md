@@ -1,7 +1,5 @@
 # Justice in the forest: rural livelihoods and forest law enforcement
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Marcus Colchester, Marco Boscolo, A. Contreras-Hermosilla, Gatto F.D., Jason Dempsey, Guillaume Lescuyer, K. Obidzinski, D. Pommier, Meryl Richards, Sembiring S.S., Luca Tacconi, Rios M.T.S., Andrew Wells |

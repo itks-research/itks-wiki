@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Arkadiusz Fordoński |
 |---|---|
 | **سال** | 2024 |

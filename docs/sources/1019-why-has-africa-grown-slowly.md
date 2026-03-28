@@ -1,7 +1,5 @@
 # Why Has Africa Grown Slowly?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Paul Collier, Jan Willem Gunning |

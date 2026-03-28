@@ -1,7 +1,5 @@
 # Protestantism and Politics in Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Chung-shin Park |

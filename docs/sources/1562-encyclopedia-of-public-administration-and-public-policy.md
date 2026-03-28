@@ -1,7 +1,5 @@
 # Encyclopedia of Public Administration and Public Policy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

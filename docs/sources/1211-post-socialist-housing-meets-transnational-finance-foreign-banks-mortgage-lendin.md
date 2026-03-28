@@ -1,7 +1,5 @@
 # Post-socialist housing meets transnational finance: Foreign banks, mortgage lending, and the privatization of welfare in Hungary and Estonia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Dorothee Böhle |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Guillem Rico, Robert Liñeira |
 |---|---|
 | **سال** | 2014 |

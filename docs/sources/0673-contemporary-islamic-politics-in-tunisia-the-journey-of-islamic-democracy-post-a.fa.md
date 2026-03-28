@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ahmad Ash Shiddieqy, Padlan Padil Simamora, Dinda Difia Madina |
 |---|---|
 | **سال** | 2024 |

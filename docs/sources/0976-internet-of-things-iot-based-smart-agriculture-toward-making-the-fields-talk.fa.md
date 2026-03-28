@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Muhammad Ayaz, Mohammad Ammad Uddin, Zubair Sharif, Ali Mansour, El‐Hadi M. Aggoune |
 |---|---|
 | **سال** | 2019 |

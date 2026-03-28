@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jodi Hilty, Graeme L. Worboys, Annika T. H. Keeley, Stephen Woodley, Barbara J. Lausche, Harvey Locke, Mark H. Carr, Ian Pulsford, Jamie Pittock, J. Wilson White, David M. Theobald, Jessica Levine, Melly Reuling, James Watson, Rob Ament, Gary Tabor |
 |---|---|
 | **سال** | 2020 |

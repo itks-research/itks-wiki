@@ -1,7 +1,5 @@
 # The Provisional Constitution of the Federal Republic of Somalia: Process, Architecture and Perspectives
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Antonios E. Kouroutakis |

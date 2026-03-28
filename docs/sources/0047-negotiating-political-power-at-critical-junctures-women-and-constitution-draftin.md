@@ -1,7 +1,5 @@
 # Negotiating Political Power at ‘Critical Junctures’: Women and Constitution Drafting in South Africa and India
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Nila Mohanan |

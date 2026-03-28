@@ -1,7 +1,5 @@
 # Turkey: Islam and Laicism between the interests of state, politics, and society
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Cemal Karakaş |

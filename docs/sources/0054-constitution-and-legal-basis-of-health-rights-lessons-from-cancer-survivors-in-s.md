@@ -1,7 +1,5 @@
 # Constitution and Legal Basis of Health Rights: Lessons from Cancer Survivors in South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Minsoo Jung |

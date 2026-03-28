@@ -1,7 +1,5 @@
 # Essays On Corruption And Economic Development
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sebastián Freille |

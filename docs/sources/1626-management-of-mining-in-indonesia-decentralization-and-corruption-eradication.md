@@ -1,7 +1,5 @@
 # Management of Mining In Indonesia: Decentralization and Corruption Eradication
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jazim Hamidi |

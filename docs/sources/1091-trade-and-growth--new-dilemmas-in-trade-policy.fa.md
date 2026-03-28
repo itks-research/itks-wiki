@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Manuel R. Agosín, Diana Tussie |
 |---|---|
 | **سال** | 1993 |

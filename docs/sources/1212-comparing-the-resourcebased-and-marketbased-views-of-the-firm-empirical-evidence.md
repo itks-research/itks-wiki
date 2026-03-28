@@ -1,7 +1,5 @@
 # Comparing the resource‐based and market‐based views of the firm: empirical evidence from Czech privatization
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mona Makhija |

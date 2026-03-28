@@ -1,7 +1,5 @@
 # Internal Colonialism and Ghetto Revolt
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Robert Blauner |

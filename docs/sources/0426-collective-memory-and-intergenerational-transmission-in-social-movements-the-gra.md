@@ -1,7 +1,5 @@
 # Collective memory and intergenerational transmission in social movements: The “grandparents’ movement” <i>iaioflautas</i>, the <i>indignados</i> protests, and the Spanish transition
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Christoph H. Schwarz |

@@ -1,7 +1,5 @@
 # Forest Harvest Detection Using SAR Coherence Time Series: A Case Study of Bark Beetle Outbreak in the Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Prosper Washaya, T. Hlásny |

@@ -1,7 +1,5 @@
 # The Geopolitics of the Global Energy Transition
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Manfred Häfner, Simone Tagliapietra |

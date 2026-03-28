@@ -1,7 +1,5 @@
 # South Korea: the odyssey to corruption control
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jong‐sung You |

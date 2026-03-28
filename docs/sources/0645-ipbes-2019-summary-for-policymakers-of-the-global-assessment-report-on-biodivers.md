@@ -1,7 +1,5 @@
 # IPBES, 2019. Summary for policymakers of the global assessment report on biodiversity and ecosystem services of the Intergovernmental Science‐Policy Platform on Biodiversity and Ecosystem Services
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | John Bongaarts |

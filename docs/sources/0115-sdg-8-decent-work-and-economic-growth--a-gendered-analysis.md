@@ -1,14 +1,13 @@
 # SDG 8: Decent work and economic growth – A gendered analysis
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | M. Shirin, Benjamin Brown, Kanchana N. Ruwanpura |
 | **Year** | 2018 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Labor market reform and social safety nets |
+| **Secondary Categories** | Women's rights codification and gender equality |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 334 |
 | **Source** | openalex |
 | **DOI** | [10.1016/j.worlddev.2018.09.006](https://doi.org/10.1016/j.worlddev.2018.09.006) |

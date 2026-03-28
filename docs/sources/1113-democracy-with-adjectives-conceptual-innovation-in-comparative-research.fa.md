@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | David Collier, Steven Levitsky |
 |---|---|
 | **سال** | 1997 |

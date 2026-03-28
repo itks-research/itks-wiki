@@ -1,7 +1,5 @@
 # Constitutional review and democracy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Miodrag A. Jovanović |

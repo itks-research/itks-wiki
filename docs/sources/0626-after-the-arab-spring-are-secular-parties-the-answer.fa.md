@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Mieczysāaw P. Boduszyñski, Kristin Fabbe, Christopher K. Lamont |
 |---|---|
 | **سال** | 2015 |

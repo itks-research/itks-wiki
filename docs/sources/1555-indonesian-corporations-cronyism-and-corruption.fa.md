@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Rajeswary Ampalavanar Brown |
 |---|---|
 | **سال** | 2006 |

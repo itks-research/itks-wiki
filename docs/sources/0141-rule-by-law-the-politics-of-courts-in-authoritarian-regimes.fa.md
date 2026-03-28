@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Tom Ginsburg, Tom Ginsburg, Tom Ginsburg, Anthony W. Pereira, Tom Ginsburg, Gordon Silverstein, Lisa Hilbink, Tamir Moustafa, Robert Barros, Beatriz Magaloni, Pierre Landry, Jennifer Widner, Peter H. Solomon, Hootan Shambayati, Hilton L. Root, Martin Shapiro |
 |---|---|
 | **سال** | 2008 |

@@ -1,7 +1,5 @@
 # Poetry, politics, and power
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jonathan Mayhew |

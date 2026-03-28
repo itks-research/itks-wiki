@@ -1,7 +1,5 @@
 # Democratic innovations as a party tool: A comparative analysis of nuclear energy public participation in Taiwan and South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Gillan Chi-Lun Huang, Rung-Yi Chen, Byung-Bae Park |

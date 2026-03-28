@@ -1,7 +1,5 @@
 # Tapestries of Hope, Threads of Love: The Arpillera Movement in Chile
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Brenda Elsey |

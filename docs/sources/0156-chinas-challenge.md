@@ -1,7 +1,5 @@
 # China’s Challenge
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Andrew J. Nathan |

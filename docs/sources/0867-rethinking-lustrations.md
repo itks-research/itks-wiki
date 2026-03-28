@@ -1,7 +1,5 @@
 # Rethinking Lustrations
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Martin Hochel |

@@ -1,7 +1,5 @@
 # [Prevalence of anxious and depressive symptoms in Colombian migrants in Chile].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | A. Urzúa, Alejandra Caqueo-Urízar, Diego Aragón |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Joaquín L. González, Mario Zolezzi, Kiyotaka Yokomichi, Nohra Rey de Marulanda, George Gray-Molina, M.Soc.Sc Pratikno, Katsuhito Imai, Tan Pek Leng, Tomoyuki Kamiyama, Clay G. Wescott, Cristina Rojas, Edel C. Guiza, Zander Navarro, Luiz Arruda Villela, Isabel Licha, Toshihiro Menju |
 |---|---|
 | **سال** | 2005 |

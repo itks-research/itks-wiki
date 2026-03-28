@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | O. Bukhanevych, R. Havrik, O. Halus |
 |---|---|
 | **سال** | 2025 |

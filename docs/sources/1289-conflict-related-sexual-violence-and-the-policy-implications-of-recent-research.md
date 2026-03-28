@@ -1,7 +1,5 @@
 # Conflict-related sexual violence and the policy implications of recent research
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Elisabeth Jean Wood |

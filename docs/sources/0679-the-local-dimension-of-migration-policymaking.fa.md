@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Tiziana Caponio, Maren Borkert |
 |---|---|
 | **سال** | 2011 |

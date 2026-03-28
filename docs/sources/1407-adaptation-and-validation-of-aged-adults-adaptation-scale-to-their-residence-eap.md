@@ -1,7 +1,5 @@
 # [Adaptation and validation of aged adults' adaptation scale to their residence (EAPAR) in Chile].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Nancy Plaza-Troncoso, O. Juncos-Rabadán, C. Troncoso-Pantoja |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Azzam Tamimi, John L. Esposito |
 |---|---|
 | **سال** | 2000 |

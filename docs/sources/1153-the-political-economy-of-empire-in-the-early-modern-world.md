@@ -1,7 +1,5 @@
 # The Political Economy of Empire in the Early Modern World
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

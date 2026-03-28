@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Anthony R. Kampf, Barbara P. Nash, Maurizio Dini, Arturo A. Molina Donoso |
 |---|---|
 | **سال** | 2014 |

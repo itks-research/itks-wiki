@@ -1,7 +1,5 @@
 # The Louisiana state constitution : a reference guide
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Lee Hargrave |

@@ -1,7 +1,5 @@
 # Why Redraw the Map of Africa: A Legal and Moral Inquiry
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Makau W. Mutua |

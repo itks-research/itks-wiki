@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Carola Richter, Kozman, Claudia (Ed.) |
 |---|---|
 | **سال** | 2021 |

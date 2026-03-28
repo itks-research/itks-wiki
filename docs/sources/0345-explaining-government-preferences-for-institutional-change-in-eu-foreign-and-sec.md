@@ -1,7 +1,5 @@
 # Explaining Government Preferences for Institutional Change in EU Foreign and Security Policy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mathias Koenig‐Archibugi |

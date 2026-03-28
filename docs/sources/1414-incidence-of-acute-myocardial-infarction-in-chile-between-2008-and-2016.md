@@ -1,7 +1,5 @@
 # [Incidence of acute myocardial infarction in Chile between 2008 and 2016].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | C. Nazzal, Alejandro Lefian, F. Alonso |

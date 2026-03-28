@@ -1,7 +1,5 @@
 # Transitions to Good Governance
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | You, Jong-sung |

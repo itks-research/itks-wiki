@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Boaventura de Sousa Santos, João Arriscado Nunes |
 |---|---|
 | **سال** | 2004 |

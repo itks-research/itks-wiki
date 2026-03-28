@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | M. Clavijo, Felipe Yévenes, Ismael Gallardo, A. Contreras, C. Santos |
 |---|---|
 | **سال** | 2020 |

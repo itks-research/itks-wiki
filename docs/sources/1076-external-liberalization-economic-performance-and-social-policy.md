@@ -1,7 +1,5 @@
 # External Liberalization, Economic Performance and Social Policy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | You, Jong Il, Lee, Ju-Ho |

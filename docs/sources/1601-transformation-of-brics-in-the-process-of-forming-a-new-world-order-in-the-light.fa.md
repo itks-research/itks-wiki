@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | A.S. Kharlanov, E.I. Sherysheva |
 |---|---|
 | **سال** | 2024 |

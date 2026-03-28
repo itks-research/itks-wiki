@@ -1,7 +1,5 @@
 # Access to Justice and Legal Process: Making Legal Institutions Responsive to Poor People in Ldcs
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Michael Anderson |

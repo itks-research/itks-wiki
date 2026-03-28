@@ -1,14 +1,12 @@
 # Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Daron Acemoğlu, Simon Johnson, Robinson James |
 | **Year** | 2001 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 2552 |
 | **Source** | openalex |
 | **DOI** | [10.3386/w8460](https://doi.org/10.3386/w8460) |

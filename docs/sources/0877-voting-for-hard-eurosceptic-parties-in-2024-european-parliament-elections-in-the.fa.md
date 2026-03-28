@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ivan Petrúšek, Aleš Kudrnáč, Alexander Davenport, Ákos Bocskor |
 |---|---|
 | **سال** | 2025 |

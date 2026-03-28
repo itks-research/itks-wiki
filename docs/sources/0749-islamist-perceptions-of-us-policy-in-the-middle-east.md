@@ -1,7 +1,5 @@
 # Islamist Perceptions of US Policy in the Middle East
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Yvonne Yazbeck Haddad |

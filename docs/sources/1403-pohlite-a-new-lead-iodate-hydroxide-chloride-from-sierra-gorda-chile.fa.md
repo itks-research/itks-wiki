@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | A. R. Kampf, G. Harlow, Chiu‐Shun Ma |
 |---|---|
 | **سال** | 2022 |

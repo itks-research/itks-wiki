@@ -1,14 +1,12 @@
 # Development of an integrated health promotion program for school-age children from vulnerable families in South Korea: a methodological study
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Eunjeong Bae, Eun Kyoung Choi |
 | **Year** | 2025 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.4094/chnr.2025.008](https://doi.org/10.4094/chnr.2025.008) |

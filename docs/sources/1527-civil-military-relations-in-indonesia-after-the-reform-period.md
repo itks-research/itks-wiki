@@ -1,7 +1,5 @@
 # Civil-Military Relations in Indonesia after the Reform Period
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Leonard C. Sebastian, Emirza Adi Syailendra, Keoni Indrabayu Marzuki |

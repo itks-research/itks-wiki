@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Marcela Cornejo, Rodrigo Rojas, Francisca Mendoza |
 |---|---|
 | **سال** | 2009 |

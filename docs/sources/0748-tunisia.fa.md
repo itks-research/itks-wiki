@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Douja Mamelouk |
 |---|---|
 | **سال** | 2017 |

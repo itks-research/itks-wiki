@@ -1,7 +1,5 @@
 # Political Reform in Indonesia after Soeharto
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Harold Crouch |

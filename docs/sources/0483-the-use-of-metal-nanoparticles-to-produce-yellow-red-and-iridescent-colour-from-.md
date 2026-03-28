@@ -1,7 +1,5 @@
 # The Use of Metal Nanoparticles to Produce Yellow, Red and Iridescent Colour, from Bronze Age to Present Times in Lustre Pottery and Glass: Solid State Chemistry, Spectroscopy and Nanostructure
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Philippe Colomban |

@@ -1,7 +1,5 @@
 # The Indonesian Military Response to Reform in Democratic Transition : a comparative analysis of three civilian regimes 1998-2004
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Poltak Partogi Nainggolan |

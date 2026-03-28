@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Durk Gorter, Jasone Cenoz |
 |---|---|
 | **سال** | 2023 |

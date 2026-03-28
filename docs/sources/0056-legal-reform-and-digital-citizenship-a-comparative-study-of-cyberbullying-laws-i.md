@@ -1,7 +1,5 @@
 # Legal Reform and Digital Citizenship: A Comparative Study of Cyberbullying Laws in Indonesia, South Korea, and Japan
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Aprilianata Aprilianata, Octavia Wulandari, Mike Meida Diningrum, Siska Yulia Putri, Rani Lestari, Stanislaus Jebarus, Maria Antoneta Karbeka, M. Murdiono |

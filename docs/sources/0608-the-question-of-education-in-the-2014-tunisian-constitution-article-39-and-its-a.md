@@ -1,7 +1,5 @@
 # The Question of Education in the 2014 Tunisian Constitution: Article 39 and its Ambiguous Values
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Oren Fliegelman |

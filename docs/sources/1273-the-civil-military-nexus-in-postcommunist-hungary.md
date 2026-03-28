@@ -1,7 +1,5 @@
 # The Civil-Military Nexus in Postcommunist Hungary
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Zoltán Bárány, Péter Deák |

@@ -1,7 +1,5 @@
 # A study on the Necessity of Establishing South Korea's National Military Medical University
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | H. Yang |

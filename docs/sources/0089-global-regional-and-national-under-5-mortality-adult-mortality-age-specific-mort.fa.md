@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Haidong Wang, Amanuel Alemu Abajobir, Kalkidan Hassen Abate, Cristiana Abbafati, Kaja Abbas, Foad Abd-Allah, Semaw Ferede Abera, Haftom Niguse Abraha, Laith J. Abu‐Raddad, Niveen M. E. Abu-Rmeileh, Isaac Akinkunmi Adedeji, Rufus Adesoji Adedoyin, Ifedayo Adetifa, Olatunji Adetokunboh, Ashkan Afshin, Rakesh Aggarwal, Anurag Agrawal, Sutapa Agrawal, Ali Kiadaliri, Muktar Beshir Ahmed, Miloud Taki Eddine Aichour, Amani Nidhal Aichour, Ibthiel Aichour, Sneha Aiyar, A. S. Akanda, Tomi Akinyemiju, Nadia Akseer, Faris Lami, Samer Alabed, Fares Alahdab, Ziyad Al‐Aly, Khurshid Alam, Noore Alam, Deena Alasfoor, Robert W Aldridge, Kefyalew Addis Alene, Ayman Al‐Eyadhy, Samia Alhabib, Raghib Ali, Reza Alizadeh‐Navaei, Syed Mohamed Aljunid, Juma Alkaabi, Ala’a Alkerwi, François Alla, Shalini D. Allam, Peter Allebeck, Rajaa Al‐Raddadi, Ubai Alsharif, Khalid A Altirkawi, Nelson Alvis‐Guzmán, Azmeraw T. Amare, Emmanuel A Ameh, Erfan Amini, Walid Ammar, Yaw Ampem Amoako, Nahla Anber, Cătălina Liliana Andrei, Sofia Androudi, Hossein Ansari, Mustafa Geleto Ansha, Carl Abelardo T. Antonio, Palwasha Anwari, Johan Ärnlöv, Megha Arora, Al Artaman, Krishna Kumar Aryal, Hamid Asayesh, Solomon Weldegebreal Asgedom, Rana Jawad Asghar, Reza Assadi, Ashagre Molla Assaye, Tesfay Mehari Atey, Sachin Atre, Leticia Ávila‐Burgos, Euripide Avokpaho, Ashish Awasthi, Tesleem Kayode Babalola, Umar Bacha, Alaa Badawi, Kalpana Balakrishnan, Shivanthi Balalla, Aleksandra Barać, Ryan M Barber, Miguel A. Barboza, Suzanne Barker‐Collo, Till Bärnighausen, Sı́món Barquera, Lars Barregård, Lope H. Barrero, Bernhard T. Baune, Shahrzad Bazargan‐Hejazi, Neeraj Bedi, Ettore Beghi, Yannick Béjot, Bayu Begashaw Bekele, Michelle L. Bell, Aminu K. Bello, Derrick Bennett, James R. Bennett, Isabela M. Benseñor |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 825 |
 | **شناسه دیجیتال** | [10.1016/s0140-6736(17)31833-0](https://doi.org/10.1016/s0140-6736(17)31833-0) |
 

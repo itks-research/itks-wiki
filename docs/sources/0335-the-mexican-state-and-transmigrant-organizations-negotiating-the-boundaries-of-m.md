@@ -1,7 +1,5 @@
 # The Mexican State and Transmigrant Organizations: Negotiating the Boundaries of Membership and Participation
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Luin Goldring |

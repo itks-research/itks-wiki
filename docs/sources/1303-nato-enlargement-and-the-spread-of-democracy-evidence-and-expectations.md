@@ -1,7 +1,5 @@
 # Nato Enlargement and the Spread of Democracy: Evidence and Expectations
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rachel A. Epstein |

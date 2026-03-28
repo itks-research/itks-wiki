@@ -1,7 +1,5 @@
 # Enterprise and social benefits after communism
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

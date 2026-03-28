@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Karen Yeung, Lee A. Bygrave |
 |---|---|
 | **سال** | 2021 |

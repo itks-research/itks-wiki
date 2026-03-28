@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Cecilia Menjívar |
 |---|---|
 | **سال** | 2006 |

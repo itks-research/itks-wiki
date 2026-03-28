@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Nikolaos Voulvoulis, Karl Dominic Arpon, Theodoros Giakoumis |
 |---|---|
 | **سال** | 2016 |

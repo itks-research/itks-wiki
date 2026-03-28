@@ -1,7 +1,5 @@
 # The Defense of Religious Freedom in the Catholic Magazine Vida Nueva during a Catholic Confessional Dictatorship
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jesús Sánchez-Camacho |

@@ -1,7 +1,5 @@
 # Negative and Positive Integration in the Political Economy of European Welfare States
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Fritz W. Scharpf |

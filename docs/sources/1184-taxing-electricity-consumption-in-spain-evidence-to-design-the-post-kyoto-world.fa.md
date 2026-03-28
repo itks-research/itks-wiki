@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | José Manuel Cansino Muñoz-Repiso, Manuel Alejandro Cardenete, M. Ordóñez, Rocío Román Collado |
 |---|---|
 | **سال** | 2016 |

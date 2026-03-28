@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Mark Beeson, Alex J. Bellamy |
 |---|---|
 | **سال** | 2007 |

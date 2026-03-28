@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jordi Ibáñez, J. Elvira, Xavier Llovet, Jordi Pérez-Cano, Núria Oriols, Martí Busquets-Masó, S. Hernández |
 |---|---|
 | **سال** | 2017 |

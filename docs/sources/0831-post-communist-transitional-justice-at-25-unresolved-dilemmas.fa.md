@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Monica Ciobanu |
 |---|---|
 | **سال** | 2014 |

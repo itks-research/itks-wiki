@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Stephany Griffith‐Jones, Zdeněk Drábek |
 |---|---|
 | **سال** | 1995 |

@@ -1,7 +1,5 @@
 # Current Progress and Future Prospects of Agriculture Technology: Gateway to Sustainable Agriculture
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Nawab Khan, Ram L. Ray, Ghulam Raza Sargani, Muhammad Ihtisham, Muhammad Khayyam, Sohaib Ismail |

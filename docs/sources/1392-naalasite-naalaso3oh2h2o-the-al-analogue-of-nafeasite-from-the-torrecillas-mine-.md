@@ -1,7 +1,5 @@
 # Naalasite, NaAl(AsO3OH)2⋅H2O, the Al analogue of nafeasite from the Torrecillas mine, Iquique Province, Chile
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | A. R. Kampf, G. Möhn, Chiu‐Shun Ma, Joy Désor |

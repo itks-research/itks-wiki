@@ -1,7 +1,5 @@
 # COVID-19 and the Politics of Crisis
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Phillip Y. Lipscy |

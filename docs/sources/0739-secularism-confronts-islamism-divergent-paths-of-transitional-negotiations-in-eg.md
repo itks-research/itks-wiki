@@ -1,7 +1,5 @@
 # Secularism Confronts Islamism: Divergent Paths of Transitional Negotiations in Egypt and Tunisia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mohammad Affan |

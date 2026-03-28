@@ -1,7 +1,5 @@
 # Democratic Change in the Arab World, Past and Present
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Éric Chaney |

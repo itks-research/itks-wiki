@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | R. S. W. Braithwaite, K. Mereiter, W. H. Paar, Andrew M. Clark |
 |---|---|
 | **سال** | 2004 |

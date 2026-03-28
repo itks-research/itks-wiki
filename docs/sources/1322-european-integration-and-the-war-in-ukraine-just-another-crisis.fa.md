@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Tanja A. Börzel |
 |---|---|
 | **سال** | 2023 |

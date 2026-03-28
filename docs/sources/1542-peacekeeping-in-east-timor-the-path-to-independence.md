@@ -1,7 +1,5 @@
 # Peacekeeping in East Timor: The Path to Independence
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Michael G. Smith, Moreen Dee |

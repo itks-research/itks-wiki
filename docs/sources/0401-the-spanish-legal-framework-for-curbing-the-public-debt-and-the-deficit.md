@@ -1,7 +1,5 @@
 # The Spanish Legal Framework for curbing the Public Debt and the Deficit
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Violeta Ruiz Almendral |

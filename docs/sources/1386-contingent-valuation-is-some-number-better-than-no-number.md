@@ -1,7 +1,5 @@
 # Contingent Valuation: Is Some Number Better than No Number?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Peter Dia­mond, Jerry A. Hausman |

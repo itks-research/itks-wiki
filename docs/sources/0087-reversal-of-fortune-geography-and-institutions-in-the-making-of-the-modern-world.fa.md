@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Daron Acemoğlu, Simon Johnson, Robinson James |
 |---|---|
 | **سال** | 2001 |
 | **دسته‌بندی** | Constitutional design and drafting processes |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 2552 |
 | **شناسه دیجیتال** | [10.3386/w8460](https://doi.org/10.3386/w8460) |
 

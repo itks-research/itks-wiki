@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Noa Barreda Marín, María Lumbreras Catalá, Alberto Martínez Herrero |
 |---|---|
 | **سال** | 2024 |

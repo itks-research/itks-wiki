@@ -1,7 +1,5 @@
 # The Local Dimension of Migration Policymaking
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Tiziana Caponio, Maren Borkert |

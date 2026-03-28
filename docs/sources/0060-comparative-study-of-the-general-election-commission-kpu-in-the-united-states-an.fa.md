@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Sinta Alfi Rosyida, Basuki Kurniawan |
 |---|---|
 | **سال** | 2023 |

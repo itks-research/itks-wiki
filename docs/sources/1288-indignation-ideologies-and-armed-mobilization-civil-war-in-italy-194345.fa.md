@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Stefano Costalli, Andrea Ruggeri |
 |---|---|
 | **سال** | 2015 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Carolina Doña, Ni-Bin Chang, V. Caselles, Juan Manuel Sánchez, Lluís Pérez-Planells, Mar Bisquert, Vicente García‐Santos, Sanaz Imen, Antonio Camacho |
 |---|---|
 | **سال** | 2016 |

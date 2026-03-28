@@ -1,7 +1,5 @@
 # Truth Commissions and Transitional Societies
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Eric Wiebelhaus‐Brahm |

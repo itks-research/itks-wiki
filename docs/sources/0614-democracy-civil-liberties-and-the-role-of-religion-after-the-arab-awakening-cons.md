@@ -1,7 +1,5 @@
 # Democracy, Civil Liberties and the Role of Religion after the Arab Awakening: Constitutional Reforms in Tunisia and Morocco
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Emanuela Dalmasso, Francesco Cavatorta |

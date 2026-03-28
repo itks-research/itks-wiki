@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | M. Llorca-Jaña, Rodrigo Rivero-Cantillano, J. Rivas, Martina Allende |
 |---|---|
 | **سال** | 2021 |

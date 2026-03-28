@@ -1,7 +1,5 @@
 # More Instruments and Broader Goals: Moving toward the Post-Washington Consensus
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Joseph E. Stiglitz |

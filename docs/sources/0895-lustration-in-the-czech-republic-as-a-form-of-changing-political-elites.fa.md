@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | М. Швед, M. Shved |
 |---|---|
 | **سال** | 2020 |

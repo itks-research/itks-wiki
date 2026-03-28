@@ -1,7 +1,5 @@
 # The Social Market Roots of Democratic Peace
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Michael Mousseau |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Abdel-Tawab Halim Moss, Nilly Ahmed Hassan Abdelfatta, Samia M.M. Mohafrash |
 |---|---|
 | **سال** | 2017 |

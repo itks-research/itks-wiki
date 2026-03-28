@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Carmen Aravena, Bárbara Valencia, A. Villegas, Ma Pilar Ortega, Alda Fernández R, Pamela Araya R, A. Saavedra, R. del Campo |
 |---|---|
 | **سال** | 2019 |

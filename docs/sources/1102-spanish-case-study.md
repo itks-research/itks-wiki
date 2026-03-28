@@ -1,7 +1,5 @@
 # Spanish Case Study
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Thomas C. Bruneau |

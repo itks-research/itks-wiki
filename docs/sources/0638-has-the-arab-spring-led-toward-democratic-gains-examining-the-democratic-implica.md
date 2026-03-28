@@ -1,7 +1,5 @@
 # Has the Arab Spring Led toward Democratic Gains? Examining the democratic implications of the recent uprisings in the Arab world using different data sources
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Nelika Karimi |

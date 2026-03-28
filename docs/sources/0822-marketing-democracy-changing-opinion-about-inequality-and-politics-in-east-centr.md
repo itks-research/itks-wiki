@@ -1,7 +1,5 @@
 # Marketing Democracy: Changing Opinion about Inequality and Politics in East Central Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ákos Róna‐Tas, David S. Mason, James R. Kluegel, Ludmilla Khakulina, Petr Matějů, Antal Örkény, Alexander Stoyanov, Bernd Wegener |

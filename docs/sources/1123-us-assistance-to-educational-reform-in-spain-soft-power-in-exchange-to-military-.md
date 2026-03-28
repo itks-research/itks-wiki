@@ -1,7 +1,5 @@
 # U.S. Assistance to Educational Reform in Spain: Soft Power in Exchange to Military Bases
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Lorenzo Delgado Gómez-Escalonilla, Patricia de la Hoz Pascua |

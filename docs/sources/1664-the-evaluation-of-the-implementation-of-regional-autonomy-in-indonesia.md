@@ -1,7 +1,5 @@
 # The evaluation of the implementation of regional autonomy in Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rudy Badrudin, Baldric Siregar |

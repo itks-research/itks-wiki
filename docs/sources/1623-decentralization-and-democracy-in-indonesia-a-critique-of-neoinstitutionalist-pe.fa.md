@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Vedi R. Hadiz |
 |---|---|
 | **سال** | 2004 |

@@ -1,7 +1,5 @@
 # Authoritarian Straitjacket or Vehicle for Democratic Transition?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | M. Crouch |

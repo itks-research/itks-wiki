@@ -1,7 +1,5 @@
 # Low-carbon, Sustainable Future in East Asia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

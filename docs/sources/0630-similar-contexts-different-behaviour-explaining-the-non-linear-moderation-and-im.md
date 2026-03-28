@@ -1,7 +1,5 @@
 # Similar Contexts, Different Behaviour: Explaining the Non-Linear Moderation and Immoderation of Islamic Political Parties in Jordan, Morocco, Tunisia, and Turkey
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Esen Kirdiş |

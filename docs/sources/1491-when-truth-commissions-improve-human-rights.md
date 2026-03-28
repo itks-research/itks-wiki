@@ -1,7 +1,5 @@
 # When Truth Commissions Improve Human Rights
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Turee Olsen, Leigh A. Payne, Andrew G. Reiter, Eric Wiebelhaus‐Brahm |

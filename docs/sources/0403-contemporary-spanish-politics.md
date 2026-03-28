@@ -1,7 +1,5 @@
 # Contemporary Spanish Politics
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | José M. Magone |

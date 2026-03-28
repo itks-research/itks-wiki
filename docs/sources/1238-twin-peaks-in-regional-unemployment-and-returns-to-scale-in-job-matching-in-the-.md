@@ -1,7 +1,5 @@
 # Twin Peaks in Regional Unemployment and Returns to Scale in Job-Matching in the Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Stefan Profit |

@@ -1,7 +1,5 @@
 # Environment of Peace: Security in a New Era of Risk
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Richard Black, Joshua W. Busby, Geoffrey D. Dabelko, Cedric de Coning, Hafsa Maalim, Claire McAllister, Melvis Ndiloseh, D. J. B. Smith, José Francisco Alvarado Cóbar, Anniek Barnhoorn, Noah Bell, Daniel Bell-Moran, Emilie Broek, Alexis Eberlein, Karolina Eklöw, Jakob Faller, Andrea Gadnert, Farah Hegazi, Kyungmee Kim, Florian Krampe, David Michel, Corey Pattison, Caleb Ray, Elise Remling, Evelyn Salas Alfaro, Elizabeth Smith, Jürg Staudenmann |

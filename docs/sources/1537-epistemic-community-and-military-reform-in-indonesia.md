@@ -1,7 +1,5 @@
 # Epistemic Community and Military Reform in Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Broto Wardoyo |

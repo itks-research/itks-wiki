@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Bruce Maddy‐Weitzman |
 |---|---|
 | **سال** | 2011 |

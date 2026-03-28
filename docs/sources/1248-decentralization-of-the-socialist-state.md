@@ -1,7 +1,5 @@
 # Decentralization of the socialist state
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Richard M. Bird, Robert D. Ebel, Christine I. Wallich |

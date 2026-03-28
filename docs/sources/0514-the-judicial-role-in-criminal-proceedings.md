@@ -1,7 +1,5 @@
 # The judicial role in criminal proceedings
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Seán Doran, Jonathan Jackson |

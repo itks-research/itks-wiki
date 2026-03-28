@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | John T. Bowen, Thomas R. Leinbach |
 |---|---|
 | **سال** | 1995 |

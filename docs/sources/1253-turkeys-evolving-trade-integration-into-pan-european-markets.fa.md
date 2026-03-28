@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Bartłomiej Kamiński, Francis Ng |
 |---|---|
 | **سال** | 2006 |

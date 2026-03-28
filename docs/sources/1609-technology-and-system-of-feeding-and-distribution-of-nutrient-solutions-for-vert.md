@@ -1,7 +1,5 @@
 # TECHNOLOGY AND SYSTEM OF FEEDING AND DISTRIBUTION OF NUTRIENT SOLUTIONS FOR VERTICAL CULTIVATION OF VEGETABLE CROPS ON DRIP IRRIGATION
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | L.A. Zhuravleva, A. Aldiab |

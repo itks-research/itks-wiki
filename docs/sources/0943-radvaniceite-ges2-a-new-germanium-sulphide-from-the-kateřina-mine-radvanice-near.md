@@ -1,7 +1,5 @@
 # Radvaniceite, GeS2, a New Germanium Sulphide, from the Kateřina Mine, Radvanice near Trutnov, Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | J. Sejkora, V. Žáček, R. Škoda, F. Laufek, Z. Dolníček |

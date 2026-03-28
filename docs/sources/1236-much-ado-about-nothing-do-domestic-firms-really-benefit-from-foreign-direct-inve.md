@@ -1,7 +1,5 @@
 # Much Ado about Nothing? Do Domestic Firms Really Benefit from Foreign Direct Investment?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Holger Görg |

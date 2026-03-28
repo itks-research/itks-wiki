@@ -1,7 +1,5 @@
 # Forging Democracy at Gunpoint
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jeffrey Pickering, Mark Peceny |

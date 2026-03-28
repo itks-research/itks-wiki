@@ -1,7 +1,5 @@
 # No Ordinary Union: UGTT and the Tunisian path to revolution and transition
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mohamed-Salah Omri |

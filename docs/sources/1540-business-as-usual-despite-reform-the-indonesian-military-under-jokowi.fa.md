@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Dahlia Gratia Setiyawan |
 |---|---|
 | **سال** | 2023 |

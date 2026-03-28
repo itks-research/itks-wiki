@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Hun Joon Kim, Kathryn Sikkink |
 |---|---|
 | **سال** | 2010 |

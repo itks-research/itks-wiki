@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Valerio De Stefano |
 |---|---|
 | **سال** | 2014 |

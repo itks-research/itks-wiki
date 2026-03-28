@@ -1,7 +1,5 @@
 # Tunisian Democratic Transition : Dynamics of Conflict and Reconciliation
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rafaa Chehoudi |

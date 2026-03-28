@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Eugénie Mérieau |
 |---|---|
 | **سال** | 2022 |

@@ -1,7 +1,5 @@
 # The Liar and the Bard: David Ingram, William Shakespeare, and The Tempest
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Robert Bromber |

@@ -1,7 +1,5 @@
 # &lt;p&gt;The Danish health care system and epidemiological research: from health care contacts to database records&lt;/p&gt;
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Morten Schmidt, Sigrún Alba Jóhannesdóttir Schmidt, Kasper Adelborg, Jens Sundbøll, Kristina Laugesen, Véra Ehrenstein, Henrik Toft Sørensen |

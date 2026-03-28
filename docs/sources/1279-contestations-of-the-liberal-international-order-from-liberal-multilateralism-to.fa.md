@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Tanja A. Börzel, Michael Zürn |
 |---|---|
 | **سال** | 2021 |

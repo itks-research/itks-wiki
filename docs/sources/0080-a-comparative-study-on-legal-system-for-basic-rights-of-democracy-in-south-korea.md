@@ -1,14 +1,13 @@
 # A Comparative Study on Legal System for Basic Rights of Democracy in South Korea and Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Woo-Li Ko |
 | **Year** | 2022 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Civil society development |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.56022/ceas.2022.28.2.33](https://doi.org/10.56022/ceas.2022.28.2.33) |

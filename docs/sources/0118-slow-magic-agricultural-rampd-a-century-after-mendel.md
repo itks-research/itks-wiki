@@ -1,14 +1,12 @@
 # SLOW MAGIC: AGRICULTURAL R&amp;D A CENTURY AFTER MENDEL
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Philip G. Pardey, Nienke M. Beintema, Pardey, Philip G., Beintema, Nienke M. |
 | **Year** | 2001 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 190 |
 | **Source** | openalex |
 | **DOI** | [10.22004/ag.econ.15911](https://doi.org/10.22004/ag.econ.15911) |

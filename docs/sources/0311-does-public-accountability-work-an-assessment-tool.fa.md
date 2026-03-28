@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Mark Bovens, Thomas Schillemans, Paul ‘t Hart |
 |---|---|
 | **سال** | 2008 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | David Merryman, Heather L. Tafel |
 |---|---|
 | **سال** | 2009 |

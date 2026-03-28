@@ -1,7 +1,5 @@
 # Partnership for Peace (PFP): After the Washington Summit and Kosovo
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jeffrey Simon |

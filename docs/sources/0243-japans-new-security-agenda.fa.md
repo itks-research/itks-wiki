@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Christopher W. Hughes, Ellis S. Krauss |
 |---|---|
 | **سال** | 2007 |

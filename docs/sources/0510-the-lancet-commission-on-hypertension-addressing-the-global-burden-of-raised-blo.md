@@ -1,7 +1,5 @@
 # The Lancet Commission on hypertension: Addressing the global burden of raised blood pressure on current and future generations
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Eoin OʼBrien |

@@ -1,7 +1,5 @@
 # The bit in the middle: a synthesis of global health literature on policy formulation and adoption
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | David Berlan, Kent Buse, Jeremy Shiffman, Sonja Tanaka |

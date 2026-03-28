@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | José Manuel Vera Santos |
 |---|---|
 | **سال** | 2016 |

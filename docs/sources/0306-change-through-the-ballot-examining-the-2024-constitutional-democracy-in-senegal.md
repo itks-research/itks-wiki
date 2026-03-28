@@ -1,7 +1,5 @@
 # Change through the Ballot: Examining the 2024 Constitutional Democracy in Senegal
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | A. Emordi, H. A. Ikedinma, Mubarak Ayodeji Eniola |

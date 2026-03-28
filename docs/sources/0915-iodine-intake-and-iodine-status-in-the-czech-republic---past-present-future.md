@@ -1,7 +1,5 @@
 # Iodine Intake and Iodine Status in the Czech Republic - Past, Present, Future.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | R. Bílek |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jon Roozenbeek, Sander van der Linden, Thomas Nygren |
 |---|---|
 | **سال** | 2020 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ole Jacob Sending, İver B. Neumann |
 |---|---|
 | **سال** | 2006 |

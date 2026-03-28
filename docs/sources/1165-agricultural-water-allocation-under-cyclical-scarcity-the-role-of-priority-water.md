@@ -1,7 +1,5 @@
 # Agricultural Water Allocation under Cyclical Scarcity: The Role of Priority Water Rights
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | José A. Gómez‐Limón, Carlos Gutiérrez‐Martín, Nazaret M. Montilla-López |

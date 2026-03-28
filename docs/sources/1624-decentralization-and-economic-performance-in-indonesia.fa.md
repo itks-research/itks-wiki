@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Thomas B. Pepinsky, Maria Monica Wihardja |
 |---|---|
 | **سال** | 2011 |

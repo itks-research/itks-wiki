@@ -1,7 +1,5 @@
 # Law and Economics: Alternative Economic Approaches to Legal and Regulatory Issues
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Margaret Oppenheimer, Nicholas Mercuro, Warren J. Samuels |

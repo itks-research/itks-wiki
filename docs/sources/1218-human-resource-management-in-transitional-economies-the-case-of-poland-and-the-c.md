@@ -1,7 +1,5 @@
 # Human resource management in transitional economies: the case of Poland and the Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rosalie L. Tung, Stephen J. Havlovic |

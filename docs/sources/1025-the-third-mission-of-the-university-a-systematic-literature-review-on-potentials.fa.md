@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Lorenzo Compagnucci, Francesca Spigarelli |
 |---|---|
 | **سال** | 2020 |

@@ -1,7 +1,5 @@
 # BAIS2: Burned Area Index for Sentinel-2
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Federico Filipponi |

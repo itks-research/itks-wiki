@@ -1,7 +1,5 @@
 # Business as Usual despite Reform: The Indonesian Military under Jokowi
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Dahlia Gratia Setiyawan |

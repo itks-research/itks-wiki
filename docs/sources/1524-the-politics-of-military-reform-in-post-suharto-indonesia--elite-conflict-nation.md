@@ -1,7 +1,5 @@
 # The politics of military reform in post-Suharto Indonesia : elite conflict, nationalism, and institutional resistance
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Marcus Mietzner |

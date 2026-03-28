@@ -1,7 +1,5 @@
 # Union Membership Statistics in 24 Countries
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jelle Visser |

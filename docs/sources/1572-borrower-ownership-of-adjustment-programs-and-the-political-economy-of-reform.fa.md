@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | John H. Johnson, Sulaiman S. Wasty |
 |---|---|
 | **سال** | 1993 |

@@ -1,7 +1,5 @@
 # Taxing electricity consumption in Spain: evidence to design the post-Kyoto world
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | José Manuel Cansino Muñoz-Repiso, Manuel Alejandro Cardenete, M. Ordóñez, Rocío Román Collado |

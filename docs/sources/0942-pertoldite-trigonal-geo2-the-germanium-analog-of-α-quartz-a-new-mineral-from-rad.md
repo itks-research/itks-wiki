@@ -1,7 +1,5 @@
 # Pertoldite, trigonal GeO2, the germanium analog of α-quartz: a new mineral from Radvanice, Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Z. V., Š. R., L. F., S. J., Haifler J. |

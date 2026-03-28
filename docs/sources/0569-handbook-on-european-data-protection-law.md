@@ -1,7 +1,5 @@
 # Handbook on European data protection law
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | European Union Agency For Fundamental Rights - FRA |

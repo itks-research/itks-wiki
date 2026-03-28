@@ -1,7 +1,5 @@
 # When Governments Promise to Prioritize Public Debt: Do Markets Care?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mitu Gulati, Ugo Panizza, Mark C. Weidemaier, Gracie Willingham |

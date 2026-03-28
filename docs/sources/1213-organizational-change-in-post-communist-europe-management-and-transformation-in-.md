@@ -1,7 +1,5 @@
 # Organizational Change in Post-Communist Europe: Management and Transformation in the Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ed Clark, Anna Soulsby |

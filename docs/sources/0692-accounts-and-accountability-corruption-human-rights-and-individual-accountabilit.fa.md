@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Hun Joon Kim, J. C. Sharman |
 |---|---|
 | **سال** | 2014 |

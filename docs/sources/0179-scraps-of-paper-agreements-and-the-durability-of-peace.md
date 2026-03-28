@@ -1,7 +1,5 @@
 # Scraps of Paper? Agreements and the Durability of Peace
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Virginia Page Fortna |

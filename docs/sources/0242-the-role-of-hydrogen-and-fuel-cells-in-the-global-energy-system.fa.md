@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Iain Staffell, Daniel Scamman, Anthony Velazquez Abad, Paul Balcombe, Paul E. Dodds, Paul Ekins, Nilay Shah, Kate R. Ward |
 |---|---|
 | **سال** | 2018 |

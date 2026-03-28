@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Albert Llausàs, Angela Hof, Nils Wolf, David Saurı́, Alexander Siegmund |
 |---|---|
 | **سال** | 2018 |

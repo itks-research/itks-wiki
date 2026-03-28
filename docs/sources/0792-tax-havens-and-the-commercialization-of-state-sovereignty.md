@@ -1,7 +1,5 @@
 # Tax Havens and the Commercialization of State Sovereignty
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ronen Palan |

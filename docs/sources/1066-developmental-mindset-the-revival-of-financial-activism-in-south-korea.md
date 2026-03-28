@@ -1,7 +1,5 @@
 # Developmental Mindset: The Revival of Financial Activism in South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Elizabeth Thurbon |

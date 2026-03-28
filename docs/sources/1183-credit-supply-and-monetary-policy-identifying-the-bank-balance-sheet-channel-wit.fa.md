@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Gabriel Jiménez, Steven Ongena, José‐Luis Peydró, Jesús Saurina |
 |---|---|
 | **سال** | 2012 |

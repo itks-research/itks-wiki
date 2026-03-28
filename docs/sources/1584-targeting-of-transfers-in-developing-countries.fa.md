@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | David Coady, Margaret Grosh, John Hoddinott |
 |---|---|
 | **سال** | 2004 |

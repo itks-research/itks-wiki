@@ -1,7 +1,5 @@
 # Differences between the Readiness of CSR Reporting of a Local Companies and Subsidiary of a Multinational Companies in the Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Renata Skýpalová |

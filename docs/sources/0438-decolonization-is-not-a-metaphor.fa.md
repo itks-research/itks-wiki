@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Eve Tuck, K. Wayne Yang |
 |---|---|
 | **سال** | 2012 |

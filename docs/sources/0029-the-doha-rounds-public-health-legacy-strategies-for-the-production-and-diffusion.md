@@ -1,7 +1,5 @@
 # The Doha Round's Public Health Legacy: Strategies for the Production and Diffusion of Patented Medicines under the Amended TRIPS Provisions -super-†
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Frederick M. Abbott, Jerome H. Reichman |

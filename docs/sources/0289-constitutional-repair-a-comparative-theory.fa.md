@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Tom Gerald Daly |
 |---|---|
 | **سال** | 2025 |

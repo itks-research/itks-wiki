@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Abdeljalil Akkari, Kathrine Maleq |
 |---|---|
 | **سال** | 2020 |

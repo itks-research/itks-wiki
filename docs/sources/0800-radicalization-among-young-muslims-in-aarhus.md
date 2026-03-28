@@ -1,7 +1,5 @@
 # Radicalization Among Young Muslims in Aarhus
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Lene Kühle, Lasse Lindekilde, Radicalisation |

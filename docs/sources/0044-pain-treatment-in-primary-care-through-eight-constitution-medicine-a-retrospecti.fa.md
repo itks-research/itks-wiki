@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Nahyun Cho, Younkuk Choi, Heekyung Kim, Jeongmin Yun, Hyungsun Jun, Changsop Yang, Sungha Kim, Jungtae Leem |
 |---|---|
 | **سال** | 2025 |

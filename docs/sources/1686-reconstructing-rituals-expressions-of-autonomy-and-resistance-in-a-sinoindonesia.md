@@ -1,7 +1,5 @@
 # Reconstructing Rituals: Expressions of Autonomy and Resistance in a Sino‐Indonesian School
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Christopher Björk |

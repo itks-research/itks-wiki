@@ -1,7 +1,5 @@
 # Global Citizenship Education
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Abdeljalil Akkari, Kathrine Maleq |

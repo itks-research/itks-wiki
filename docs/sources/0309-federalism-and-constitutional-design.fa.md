@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Peter C. Ordeshook, Olga Shvetsova |
 |---|---|
 | **سال** | 1997 |

@@ -1,7 +1,5 @@
 # COVID-19: 20 countries’ higher education intra-period digital pedagogy responses
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Joseph Crawford, Kerryn Butler‐Henderson, Jürgen Rudolph, Bashar H. Malkawi, Matt Glowatz, Robert L. Burton, P.A. Magni, Sophia Lam |

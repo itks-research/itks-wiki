@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | O. Afanasyeva, Evgeniy Ivanov, Andrey Makushev |
 |---|---|
 | **سال** | 2023 |

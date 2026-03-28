@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | V. Kopcha, N. Kopcha |
 |---|---|
 | **سال** | 2023 |

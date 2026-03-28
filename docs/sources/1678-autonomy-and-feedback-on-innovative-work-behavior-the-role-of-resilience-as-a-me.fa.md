@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Sri Suhandiah, Fendy Suhariadi, Praptini Yulianti, Ansar Abbas |
 |---|---|
 | **سال** | 2023 |

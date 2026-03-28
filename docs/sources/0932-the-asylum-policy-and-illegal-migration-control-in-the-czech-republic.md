@@ -1,7 +1,5 @@
 # The Asylum Policy and Illegal Migration Control in the Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | I. Zakharov, M. Agafoshin |

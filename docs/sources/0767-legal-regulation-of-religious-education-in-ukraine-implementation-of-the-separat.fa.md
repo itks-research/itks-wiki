@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | O. Bilash, T. Karabin |
 |---|---|
 | **سال** | 2022 |

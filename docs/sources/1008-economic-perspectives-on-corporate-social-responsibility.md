@@ -1,7 +1,5 @@
 # Economic Perspectives on Corporate Social Responsibility
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Markus Kitzmueller, Jay P. Shimshack |

@@ -1,7 +1,5 @@
 # The influence of owners on voucher provatized firms in the Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Peter Kenway, Jiří Chlumský |

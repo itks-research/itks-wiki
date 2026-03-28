@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Greg Irving, Ana Luísa Neves, Hajira Dambha‐Miller, Ai Oishi, Hiroko Tagashira, Anistasiya Verho, John Holden |
 |---|---|
 | **سال** | 2017 |

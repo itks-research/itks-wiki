@@ -1,7 +1,5 @@
 # Democracy with Adjectives: Conceptual Innovation in Comparative Research
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | David Collier, Steven Levitsky |

@@ -1,7 +1,5 @@
 # Televising history: mediating the past in postwar Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Erin Bell, Ann Gray |

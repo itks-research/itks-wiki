@@ -1,7 +1,5 @@
 # [Urinary heavy metals and blood lead levels among residents of Antofagasta, Chile].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | J. Ríos, L. Villarroel, Marisa Torres, Juan Pablo Astaburuaga, Cinthya Leiva, Paz Cook, P. Medel, Sandra Cortés |

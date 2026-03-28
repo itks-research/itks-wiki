@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Firth Stewart Firth, Jon Fraenkel, V.Lal Brij |
 |---|---|
 | **سال** | 2009 |

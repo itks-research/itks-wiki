@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | R. K. Ndiyun, R. Mukonza |
 |---|---|
 | **سال** | 2025 |

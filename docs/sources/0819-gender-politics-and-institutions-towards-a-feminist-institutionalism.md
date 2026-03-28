@@ -1,7 +1,5 @@
 # Gender, Politics and Institutions: Towards a Feminist Institutionalism
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mona Lena Krook, Fiona Mackay |

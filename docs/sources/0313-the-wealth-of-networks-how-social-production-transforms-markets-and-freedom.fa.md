@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Benkler, Yochai |
 |---|---|
 | **سال** | 2006 |

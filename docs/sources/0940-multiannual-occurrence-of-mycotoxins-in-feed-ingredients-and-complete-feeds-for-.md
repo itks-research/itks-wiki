@@ -1,7 +1,5 @@
 # Multiannual occurrence of mycotoxins in feed ingredients and complete feeds for pigs in the Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | M. Svoboda, J. Blahova, A. Honzlová, J. Kalinová, P. Macharáčková, J. Rosmus, Vít Mejzlík, Patrik Kúkol, Veronika Vlasáková, K. Mikulková |

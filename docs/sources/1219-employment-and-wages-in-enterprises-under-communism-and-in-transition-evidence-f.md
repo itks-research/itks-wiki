@@ -1,7 +1,5 @@
 # Employment and Wages in Enterprises Under Communism and in Transition: Evidence from Central Europe and Russia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Swati Basu, Saul Estrin, Jan Švejnar |

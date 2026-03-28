@@ -1,7 +1,5 @@
 # Islam and the Arab awakening
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

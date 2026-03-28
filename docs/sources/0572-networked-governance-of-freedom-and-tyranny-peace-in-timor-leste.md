@@ -1,7 +1,5 @@
 # Networked Governance of Freedom and Tyranny: Peace in Timor-Leste
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | John Braithwaite, Hilary Charlesworth, Aderito de Jesus Soares |

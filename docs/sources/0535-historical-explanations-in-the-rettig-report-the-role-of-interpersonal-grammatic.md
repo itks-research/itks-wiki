@@ -1,7 +1,5 @@
 # Historical explanations in the Rettig Report: The role of interpersonal grammatical metaphors
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Claudia Castro, Teresa Oteí­za |

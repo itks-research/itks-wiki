@@ -1,7 +1,5 @@
 # The struggle for constitutional power: law, politics, and economic development in Egypt
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Tamir Moustafa |

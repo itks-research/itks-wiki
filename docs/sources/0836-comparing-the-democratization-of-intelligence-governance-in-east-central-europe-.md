@@ -1,7 +1,5 @@
 # Comparing the Democratization of Intelligence Governance in East Central Europe and the Balkans
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Marina Caparini |

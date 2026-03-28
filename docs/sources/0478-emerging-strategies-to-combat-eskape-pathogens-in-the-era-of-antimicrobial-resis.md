@@ -1,7 +1,5 @@
 # Emerging Strategies to Combat ESKAPE Pathogens in the Era of Antimicrobial Resistance: A Review
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mansura S. Mulani, Ekta E. Kamble, Shital N. Kumkar, Madhumita S. Tawre, Karishma R. Pardesi |

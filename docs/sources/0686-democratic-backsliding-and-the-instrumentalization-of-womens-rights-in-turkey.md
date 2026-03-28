@@ -1,7 +1,5 @@
 # Democratic Backsliding and the Instrumentalization of Women's Rights in Turkey
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Yeşim Arat |

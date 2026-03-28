@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Juan José Solozábal |
 |---|---|
 | **سال** | 1996 |

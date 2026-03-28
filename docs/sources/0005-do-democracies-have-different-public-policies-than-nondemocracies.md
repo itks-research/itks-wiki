@@ -1,7 +1,5 @@
 # Do Democracies Have Different Public Policies than Nondemocracies?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Casey B. Mulligan, Ricard Gil, Xavier Sala-i-Martín |

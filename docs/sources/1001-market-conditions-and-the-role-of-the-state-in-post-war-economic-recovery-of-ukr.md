@@ -1,7 +1,5 @@
 # Market conditions and the role of the state in post-war economic recovery of Ukraine
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | A. Danylenko, V. Venger |

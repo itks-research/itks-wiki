@@ -1,7 +1,5 @@
 # The Rise of the Bourbon Military in Peru, 1768–1820
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mónica Ricketts |

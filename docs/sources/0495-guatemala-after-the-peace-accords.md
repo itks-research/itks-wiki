@@ -1,7 +1,5 @@
 # Guatemala after the peace accords
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rachel Sieder |

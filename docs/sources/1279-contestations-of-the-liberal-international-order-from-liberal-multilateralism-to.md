@@ -1,7 +1,5 @@
 # Contestations of the Liberal International Order: From Liberal Multilateralism to Postnational Liberalism
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Tanja A. Börzel, Michael Zürn |

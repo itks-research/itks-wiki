@@ -1,7 +1,5 @@
 # The Separation of Church and State as an Imperial Project in the Philippines during the Early American Colonial Period
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Yiwei Xiao, Yuanlin Wang |

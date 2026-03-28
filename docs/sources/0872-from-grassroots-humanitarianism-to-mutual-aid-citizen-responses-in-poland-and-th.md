@@ -1,7 +1,5 @@
 # From Grassroots Humanitarianism to Mutual Aid: Citizen Responses in Poland and the Czech Republic to Russia’s War in Ukraine
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Simona Fojtova, Patrice C. McMahon, Hana Waisserova |

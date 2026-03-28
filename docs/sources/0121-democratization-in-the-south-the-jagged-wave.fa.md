@@ -2,14 +2,12 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | نامشخص |
 |---|---|
 | **سال** | 1997 |
 | **دسته‌بندی** | Constitutional design and drafting processes |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 56 |
 | **شناسه دیجیتال** | [10.5860/choice.35-0527](https://doi.org/10.5860/choice.35-0527) |
 

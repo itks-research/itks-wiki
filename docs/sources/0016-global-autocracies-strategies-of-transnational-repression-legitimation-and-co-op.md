@@ -1,7 +1,5 @@
 # Global Autocracies: Strategies of Transnational Repression, Legitimation, and Co-Optation in World Politics
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Gerasimos Tsourapas |

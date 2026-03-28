@@ -1,7 +1,5 @@
 # Guidelines for conserving connectivity through ecological networks and corridors
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jodi Hilty, Graeme L. Worboys, Annika T. H. Keeley, Stephen Woodley, Barbara J. Lausche, Harvey Locke, Mark H. Carr, Ian Pulsford, Jamie Pittock, J. Wilson White, David M. Theobald, Jessica Levine, Melly Reuling, James Watson, Rob Ament, Gary Tabor |

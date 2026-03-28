@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Rocha, Jorge, Abrantes, Patrícia |
 |---|---|
 | **سال** | 2011 |

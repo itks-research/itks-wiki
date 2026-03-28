@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Félix D. Almaráz |
 |---|---|
 | **سال** | 1995 |

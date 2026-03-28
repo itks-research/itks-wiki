@@ -1,7 +1,5 @@
 # The Adoption of the Multi‐divisional Form in Large Czech Enterprises: The Role of Economic, Institutional and Strategic Factors
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ed Clark, Anna Soulsby |

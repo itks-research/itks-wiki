@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Rafał Miszczuk, Joanna Martyniuk-Placha |
 |---|---|
 | **سال** | 2023 |

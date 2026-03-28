@@ -1,7 +1,5 @@
 # Pigments — Mercury-based red (cinnabar-vermilion) and white (calomel) and their degradation products
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Elisabetta Gliozzo |

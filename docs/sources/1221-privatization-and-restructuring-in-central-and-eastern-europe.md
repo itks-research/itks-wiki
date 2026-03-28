@@ -1,7 +1,5 @@
 # Privatization and restructuring in Central and Eastern Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Gerhard Pohl, Robert E. Anderson, Stijn Claessens, Simeon Djankov |

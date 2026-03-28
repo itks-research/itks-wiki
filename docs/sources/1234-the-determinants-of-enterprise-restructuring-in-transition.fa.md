@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Simeon Djankov, Peter Murrell |
 |---|---|
 | **سال** | 2000 |

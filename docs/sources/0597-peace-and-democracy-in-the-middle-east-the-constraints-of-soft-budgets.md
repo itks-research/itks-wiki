@@ -1,7 +1,5 @@
 # Peace and Democracy in the Middle East: The Constraints of Soft Budgets
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Lisa Anderson |

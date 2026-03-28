@@ -1,7 +1,5 @@
 # Telemedicina: desafíos para Chile a la luz de la experiencia de Estados Unidos durante la pandemia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Pamela Mendoza-Alonzo, J. Mendoza-Alonzo |

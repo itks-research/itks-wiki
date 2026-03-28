@@ -1,7 +1,5 @@
 # The Politics of Indonesias Decentralization Law Based on Regional Competency
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ngesti Dwi Prasetyo, Moh. Fadli, Tunggul Ansasri Sn, Muchamad Ali Safa’at |

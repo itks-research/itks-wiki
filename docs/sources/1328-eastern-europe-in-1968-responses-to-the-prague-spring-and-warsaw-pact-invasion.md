@@ -1,7 +1,5 @@
 # Eastern Europe in 1968: Responses to the Prague Spring and Warsaw Pact Invasion
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Kevin McDermott, Matthew Stibbe |

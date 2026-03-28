@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Stefan Bouzarovski, Saška Petrova |
 |---|---|
 | **سال** | 2015 |

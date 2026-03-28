@@ -1,7 +1,5 @@
 # Tunisia in turmoil: how should the EU react? CEPS Commentary, 4 March 2013
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Hrant Kostanyan, Elitsa Garnizova |

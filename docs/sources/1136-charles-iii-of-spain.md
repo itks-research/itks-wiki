@@ -1,7 +1,5 @@
 # Charles III of Spain
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Charles C. Noel |

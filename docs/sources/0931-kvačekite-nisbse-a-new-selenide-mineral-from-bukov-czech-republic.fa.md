@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Petr Pauliš, Z. Dolníček, J. Sejkora, O. Pour, F. Laufek, J. Ulmanová, A. Vymazalová |
 |---|---|
 | **سال** | 2024 |

@@ -1,7 +1,5 @@
 # ‘Tortured bodies’: The biopolitics of torture and truth in Chile
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Teresa Macías |

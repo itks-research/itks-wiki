@@ -1,7 +1,5 @@
 # Civil-Military Relations and Democracy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Larry Diamond |

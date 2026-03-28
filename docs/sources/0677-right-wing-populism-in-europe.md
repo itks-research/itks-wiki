@@ -1,7 +1,5 @@
 # Right-Wing Populism in Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Brigitte Mral, Majid KhosraviNik, Ruth Wodak |

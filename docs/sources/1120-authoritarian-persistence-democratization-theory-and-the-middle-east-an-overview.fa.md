@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Raymond Hinnebusch |
 |---|---|
 | **سال** | 2006 |

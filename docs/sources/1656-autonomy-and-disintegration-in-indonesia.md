@@ -1,7 +1,5 @@
 # Autonomy and Disintegration in Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anthony L. Smith |

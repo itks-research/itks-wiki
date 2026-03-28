@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Marcelle Thomas, David Orden, Thomas, Marcelle, Orden, David |
 |---|---|
 | **سال** | 2004 |

@@ -1,7 +1,5 @@
 # Populist Democracies: Post-Authoritarian Greece and Post-Communist Hungary
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Takis S. Pappas |

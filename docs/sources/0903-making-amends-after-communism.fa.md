@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Mark D. Gillis, Vojtéch Cepl |
 |---|---|
 | **سال** | 1996 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Alexandra Barahona de Brito |
 |---|---|
 | **سال** | 1997 |

@@ -1,7 +1,5 @@
 # Islamic Reformism and Christianity
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Umar Ryad |

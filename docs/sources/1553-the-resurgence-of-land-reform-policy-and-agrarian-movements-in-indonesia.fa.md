@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Noer Fauzi Rachman |
 |---|---|
 | **سال** | 2011 |

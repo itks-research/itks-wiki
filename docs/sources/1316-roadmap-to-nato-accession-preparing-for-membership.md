@@ -1,7 +1,5 @@
 # Roadmap to NATO Accession Preparing for membership
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jeffrey Simon |

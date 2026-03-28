@@ -1,7 +1,5 @@
 # Informational Autocrats
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sergei Guriev, Daniel Treisman |

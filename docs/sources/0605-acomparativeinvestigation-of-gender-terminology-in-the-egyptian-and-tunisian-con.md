@@ -1,7 +1,5 @@
 # A Comparative Investigation of Gender Terminology in the Egyptian and Tunisian Constitutions
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Hanem El-Farahaty |

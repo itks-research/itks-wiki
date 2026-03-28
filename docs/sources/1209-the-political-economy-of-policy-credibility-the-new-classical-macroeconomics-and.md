@@ -1,7 +1,5 @@
 # The political economy of 'policy credibility': the new-classical macroeconomics and the remaking of emerging economies
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ilene Grabel |

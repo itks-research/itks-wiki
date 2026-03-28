@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Lin Chen, Goodluck Msigwa, Mingyu Yang, Ahmed I. Osman, Samer Fawzy, David W. Rooney, Pow‐Seng Yap |
 |---|---|
 | **سال** | 2022 |

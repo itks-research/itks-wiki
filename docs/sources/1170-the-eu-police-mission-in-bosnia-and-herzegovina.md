@@ -1,7 +1,5 @@
 # The EU police mission in Bosnia and Herzegovina
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Kari M. Osland |

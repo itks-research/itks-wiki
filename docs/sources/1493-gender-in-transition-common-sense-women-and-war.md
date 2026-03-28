@@ -1,7 +1,5 @@
 # Gender in Transition: Common Sense, Women, and War
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Kimberly Theidon |

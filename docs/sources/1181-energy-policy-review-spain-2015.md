@@ -1,7 +1,5 @@
 # Energy Policy Review: Spain 2015
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | IEA |

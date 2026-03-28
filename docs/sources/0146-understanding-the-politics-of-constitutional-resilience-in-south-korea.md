@@ -1,7 +1,5 @@
 # Understanding the Politics of Constitutional Resilience in South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Hannes B. Mosler |

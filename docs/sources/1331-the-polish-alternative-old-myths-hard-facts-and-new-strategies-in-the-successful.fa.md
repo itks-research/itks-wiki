@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | G-W Kolodko, D-M Nuti, Kolodko, Grzegorz W., Nuti, D. Mario |
 |---|---|
 | **سال** | 1997 |

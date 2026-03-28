@@ -1,7 +1,5 @@
 # [Incidence of thyroid cancer in an oncological clinic of Santiago, Chile].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jorge Sapunar Z, Pedro Ferrer R |

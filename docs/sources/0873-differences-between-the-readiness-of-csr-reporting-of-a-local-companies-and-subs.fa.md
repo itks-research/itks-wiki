@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Renata Skýpalová |
 |---|---|
 | **سال** | 2025 |

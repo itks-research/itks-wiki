@@ -1,7 +1,5 @@
 # Decarbonization and its discontents: a critical energy justice perspective on four low-carbon transitions
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Benjamin K. Sovacool, Mari Martiskainen, Andrew Hook, Lucy Baker |

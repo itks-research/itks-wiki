@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | C. Luttrell, K. Obidzinski, Maria Brockhaus, E. Muharrom, Elena Petkova, Andrew Wardell, James Halperin |
 |---|---|
 | **سال** | 2011 |

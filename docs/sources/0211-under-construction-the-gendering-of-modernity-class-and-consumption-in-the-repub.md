@@ -1,7 +1,5 @@
 # Under Construction: The Gendering of Modernity, Class, and Consumption in the Republic of Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Laurel Kendall |

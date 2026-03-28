@@ -1,7 +1,5 @@
 # Political Islam in Tunisia: the history of Ennahda
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Yahia H. Zoubir |

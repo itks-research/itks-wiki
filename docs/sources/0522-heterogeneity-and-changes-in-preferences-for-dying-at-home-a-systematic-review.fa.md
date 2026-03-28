@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Bárbara Gomes, Natália Calanzani, Marjolein Gysels, Sue Hall, Irene J Higginson |
 |---|---|
 | **سال** | 2013 |

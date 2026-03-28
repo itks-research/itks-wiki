@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ondřej Žižlavský |
 |---|---|
 | **سال** | 2016 |

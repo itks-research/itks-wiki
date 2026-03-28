@@ -1,7 +1,5 @@
 # Historical Memory and Criminal Justice in Spain: A Case of Late Transitional Justice
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Josep Maria Tamarit Sumalla |

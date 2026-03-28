@@ -1,7 +1,5 @@
 # La reforma del procedimiento de reforma constitucional en España
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | José Manuel Vera Santos |

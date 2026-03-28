@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | R. Pažout, Michal Dušek, J. Sejkora, J. Plášil, G. Ilinca, Z. Dolníček |
 |---|---|
 | **سال** | 2024 |

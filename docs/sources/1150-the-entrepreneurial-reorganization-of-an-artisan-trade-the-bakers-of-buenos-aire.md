@@ -1,7 +1,5 @@
 # The Entrepreneurial Reorganization of an Artisan Trade: The Bakers of Buenos Aires, 1770-1820
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Lyman L. Johnson |

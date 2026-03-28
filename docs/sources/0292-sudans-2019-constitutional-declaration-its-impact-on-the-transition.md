@@ -1,7 +1,5 @@
 # Sudan's 2019 Constitutional Declaration: Its Impact on the Transition
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Brooke Davies |

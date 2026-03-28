@@ -1,7 +1,5 @@
 # Social Media Techno-Discursive Design, Affective Communication and Contemporary Politics
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Majid KhosraviNik |

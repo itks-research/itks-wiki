@@ -1,7 +1,5 @@
 # Human Resource Management in China Revisited
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

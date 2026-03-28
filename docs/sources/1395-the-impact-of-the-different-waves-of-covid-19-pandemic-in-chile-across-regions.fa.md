@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | A. Ayala, Pablo Villalobos Dintrans, Felipe Elorrieta, Matilde Maddaleno, Claudio Vargas, Andrés Iturriaga |
 |---|---|
 | **سال** | 2023 |

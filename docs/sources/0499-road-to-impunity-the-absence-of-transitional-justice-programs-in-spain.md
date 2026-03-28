@@ -1,7 +1,5 @@
 # Road to Impunity: The Absence of Transitional Justice Programs in Spain
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rafael Escudero Alday |

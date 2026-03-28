@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Michael Moritz, Margit Gröger |
 |---|---|
 | **سال** | 2007 |

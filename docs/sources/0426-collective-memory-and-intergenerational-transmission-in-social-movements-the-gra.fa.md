@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Christoph H. Schwarz |
 |---|---|
 | **سال** | 2019 |

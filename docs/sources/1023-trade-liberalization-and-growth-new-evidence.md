@@ -1,7 +1,5 @@
 # Trade Liberalization and Growth: New Evidence
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Romain Wacziarg, Karen Horn Welch |

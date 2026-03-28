@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jorge Sapunar Z, Pedro Ferrer R |
 |---|---|
 | **سال** | 2020 |

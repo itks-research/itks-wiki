@@ -1,7 +1,5 @@
 # The People and the King: The Comunero Revolution in Colombia, 1781.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | George A. Brubaker, John Leddy Phelan |

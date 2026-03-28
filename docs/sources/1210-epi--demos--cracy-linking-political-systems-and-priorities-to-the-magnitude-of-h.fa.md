@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jason Beckfield, Nancy Krieger |
 |---|---|
 | **سال** | 2009 |

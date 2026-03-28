@@ -1,7 +1,5 @@
 # Constitutional transition to democracy in Spain
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | N. Zhukov |

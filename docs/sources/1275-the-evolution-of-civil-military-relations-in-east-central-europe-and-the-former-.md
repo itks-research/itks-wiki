@@ -1,7 +1,5 @@
 # The Evolution of Civil-Military Relations in East-Central Europe and the Former Soviet Union
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

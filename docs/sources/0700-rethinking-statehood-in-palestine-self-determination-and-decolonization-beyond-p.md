@@ -1,7 +1,5 @@
 # Rethinking Statehood in Palestine: Self-Determination and Decolonization Beyond Partition
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Farsakh, Leila H. |

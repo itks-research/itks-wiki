@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Tadhg Ó hAnnracháin |
 |---|---|
 | **سال** | 2015 |

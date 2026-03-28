@@ -1,7 +1,5 @@
 # The impact of thin and thick truth: The limits of truth commission design in polarized societies
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Lesley-Ann Daniels, Virginia Zalunardo |

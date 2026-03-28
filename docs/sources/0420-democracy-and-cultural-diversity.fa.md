@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Michael O’Neill, Dennis Austin |
 |---|---|
 | **سال** | 2000 |

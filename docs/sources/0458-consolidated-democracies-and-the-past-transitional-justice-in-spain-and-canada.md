@@ -1,7 +1,5 @@
 # CONSOLIDATED DEMOCRACIES AND THE PAST: TRANSITIONAL JUSTICE IN SPAIN AND CANADA
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ian Dunbar |

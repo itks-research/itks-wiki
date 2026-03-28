@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Oleh Kolodiziev, Hanna Telnova, Ihor Krupka, Myroslav Kulchytskyy, Iryna Sochynska-Sybirtseva |
 |---|---|
 | **سال** | 2021 |

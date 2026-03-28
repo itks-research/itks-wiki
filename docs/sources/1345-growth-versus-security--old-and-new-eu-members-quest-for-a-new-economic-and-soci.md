@@ -1,7 +1,5 @@
 # Growth versus security : old and new EU members' quest for a new economic and social model
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Wojciech Bieńkowski, Josef C. Brada, Mariusz-Jan Radło |

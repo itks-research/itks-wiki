@@ -1,7 +1,5 @@
 # Islam and secularism in the Middle East
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Azzam Tamimi, John L. Esposito |

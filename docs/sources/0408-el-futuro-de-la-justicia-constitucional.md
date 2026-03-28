@@ -1,7 +1,5 @@
 # El futuro de la justicia constitucional
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Manuel Aragón Reyes |

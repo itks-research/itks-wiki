@@ -1,7 +1,5 @@
 # The Battle for Truth: Mapping the Network of Information War Experts in the Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Dagmar Rychnovská, M. Kohút |

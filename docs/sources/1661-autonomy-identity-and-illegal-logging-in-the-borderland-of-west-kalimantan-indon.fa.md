@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Reed L. Wadley, Michael Eilenberg |
 |---|---|
 | **سال** | 2005 |

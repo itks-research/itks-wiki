@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Anderson, W. Woodrow, Benson, Nettie Lee, Benson, Nettie Lee, Berry, Charles R., Breedlove, James M., Cunniff, Roger L., Garza, David T., Hann, John H., Macaulay, Neill, Neal, Clarice |
 |---|---|
 | **سال** | 1966 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ross B. MacDonald, Monica C. Bernardo |
 |---|---|
 | **سال** | 2006 |

@@ -1,7 +1,5 @@
 # From testimony to life story: The experience of professionals in the Chilean National Commission on Political Imprisonment and Torture.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Marcela Cornejo, Rodrigo Rojas, Francisca Mendoza |

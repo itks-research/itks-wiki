@@ -1,7 +1,5 @@
 # The Ricardian Approach to Budget Deficits
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Robert J. Barro |

@@ -1,7 +1,5 @@
 # Layers of Memory and the Discourse of Human Rights: Artistic and Testimonial Practices in Latin America and Iberia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ana Forcinito |

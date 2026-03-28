@@ -1,14 +1,12 @@
 # Bound to Fail: The Rise and Fall of the Liberal International Order
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | John J. Mearsheimer |
 | **Year** | 2019 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 859 |
 | **Source** | openalex |
 | **DOI** | [10.1162/isec_a_00342](https://doi.org/10.1162/isec_a_00342) |

@@ -1,7 +1,5 @@
 # Revolusi Korea : Dari Pemerintahan Militer Ke Demokrasi (1980-1987)
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mahlijar Azhar Mubarak, Didin Samsudin, Risa Triarisanti |

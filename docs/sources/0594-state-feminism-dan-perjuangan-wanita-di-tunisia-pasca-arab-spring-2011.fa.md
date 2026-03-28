@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Mohd Irwan Syazli Saidin, NUR AMIRA ALFITRI |
 |---|---|
 | **سال** | 2020 |

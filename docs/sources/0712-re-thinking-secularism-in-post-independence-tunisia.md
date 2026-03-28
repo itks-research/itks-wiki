@@ -1,7 +1,5 @@
 # Re-thinking secularism in post-independence Tunisia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rory McCarthy |

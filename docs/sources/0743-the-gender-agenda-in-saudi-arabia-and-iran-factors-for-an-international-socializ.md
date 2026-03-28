@@ -1,7 +1,5 @@
 # The gender agenda in Saudi Arabia and Iran: factors for an international socialization
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Alice Fill |

@@ -1,7 +1,5 @@
 # Assessing Socialist Past and Sociodemographic Present
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | H. Pleines, Charlotte Cordes, Mareike zum Felde, Ekaterina Paustyan, Michael Rochlitz, Esther Somfalvy |

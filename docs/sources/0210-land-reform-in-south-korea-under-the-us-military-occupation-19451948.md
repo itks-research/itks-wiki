@@ -1,7 +1,5 @@
 # Land Reform in South Korea under the U.S. Military Occupation, 1945–1948
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Inhan Kim |

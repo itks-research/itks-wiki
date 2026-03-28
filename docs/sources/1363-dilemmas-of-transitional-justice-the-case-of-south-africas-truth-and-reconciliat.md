@@ -1,7 +1,5 @@
 # Dilemmas of Transitional Justice: The Case of South Africa's Truth and Reconciliation Commission
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Paul van Zyl |

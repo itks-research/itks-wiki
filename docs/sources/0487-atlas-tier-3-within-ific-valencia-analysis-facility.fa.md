@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | M. Villaplana Perez, S. González de la Hoz, Álvaro Fernández Casaní, J. Salt, Alejandro Lamas, F. Fassi, M. Kaci, Eduardo Oliver, J. Sánchez, Vanessa Sánchez‐Martínez |
 |---|---|
 | **سال** | 2012 |

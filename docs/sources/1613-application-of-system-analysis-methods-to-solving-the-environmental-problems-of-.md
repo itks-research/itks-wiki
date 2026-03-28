@@ -1,7 +1,5 @@
 # APPLICATION OF SYSTEM ANALYSIS METHODS TO SOLVING THE ENVIRONMENTAL PROBLEMS OF MODERN CONDENSING THERMAL POWER PLANTS
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Natália Fedorova, Elena Veselovskaya |

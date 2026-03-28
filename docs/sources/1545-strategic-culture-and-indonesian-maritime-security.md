@@ -1,7 +1,5 @@
 # Strategic Culture and Indonesian Maritime Security
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Muhamad Arif, Yandry Kurniawan |

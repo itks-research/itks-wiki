@@ -1,7 +1,5 @@
 # Democracy from above: Regional Organizations and Democratization
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | G. John Ikenberry, Jon Pevehouse |

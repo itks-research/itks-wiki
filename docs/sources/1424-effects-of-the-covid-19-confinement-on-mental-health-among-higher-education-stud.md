@@ -1,7 +1,5 @@
 # [Effects of the COVID-19 confinement on mental health among higher education students in Chile].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Raffaela Carvacho, Javier Morán-Kneer, C. Miranda‐Castillo, Virginia Fernández-Fernández, B. Mora, Yasnni Moya, V. Pinilla, I. Toro, C. Valdivia |

@@ -1,14 +1,12 @@
 # South Korea: The Transformation of Citizenship and the State-Nation Nexus
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Chulwoo Lee |
 | **Year** | 2010 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 34 |
 | **Source** | openalex |
 | **DOI** | [10.1080/00472331003597562](https://doi.org/10.1080/00472331003597562) |

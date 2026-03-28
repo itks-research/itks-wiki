@@ -1,7 +1,5 @@
 # [The impact of the different waves of COVID-19 pandemic in Chile across regions].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | A. Ayala, Pablo Villalobos Dintrans, Felipe Elorrieta, Matilde Maddaleno, Claudio Vargas, Andrés Iturriaga |

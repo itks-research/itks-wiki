@@ -1,7 +1,5 @@
 # International consensus on terminology to be used in the field of echinococcoses
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Dominique A. Vuitton, Donald P. McManus, M.T. Rogan, Thomas Romig, Bruno Gottstein, Ariel Naidich, Tuerhongjiang Tuxun, Hao Wen, António Menezes da Silva, Dominique A. Vuitton, Donald P. McManus, Thomas Romig, Michael R. Rogan, Bruno Gottstein, António Menezes da Silva, Hao Wen, Ariel Naidich, Tuerhongjiang Tuxun, Amza Avcioglu, Belgees Boufana, Christine M. Budke, Adriano Casulli, Esin Güven, Andreas Hillenbrand, Fateme Jalousian, Mohamed Habib Jemli, Jenny Knapp, AbdElkarim Laatamna, Samia Lahmar, Ariel Naidich, M.T. Rogan, Seyed Mahmoud Sadjjadi, Julian Schmidberger, Manel Amri, Anne‐Pauline Bellanger, Sara Benazzouz, Klaus Brehm, Andreas Hillenbrand, Fateme Jalousian, Malika Kachani, Moussa Labsi, Giovanna Masala, António Menezes da Silva, Mahmoud Sadjjadi Seyed, Imene Soufli, Chafia Touil–Boukoffa, Junhua Wang, E. Zeyhle, Tuerganaili Aji, Okan Akhan, Solange Bresson‐Hadni, Chadli Dziri, Tilmann Gräter, Beate Grüner, Assia Haïf, Andreas Hillenbrand, Stéphane Koch, M.T. Rogan, Francesca Tamarozzi, Tuerhongjiang Tuxun, Patrick Giraudoux, Paul R. Torgerson, Katherina Vizcaychipi, Ning Xiao, Nazmiye Altıntaş, Renyong Lin, Laurence Millon, Wenbao Zhang, Karima Achour, Haining Fan, Thomas Junghanss, Georges Mantion |

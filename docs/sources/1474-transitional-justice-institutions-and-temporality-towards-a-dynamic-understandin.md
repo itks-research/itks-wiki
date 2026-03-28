@@ -1,7 +1,5 @@
 # Transitional Justice, Institutions and Temporality: Towards a Dynamic Understanding
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Pádraig McAuliffe |

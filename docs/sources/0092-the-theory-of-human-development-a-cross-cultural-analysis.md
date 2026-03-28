@@ -1,14 +1,12 @@
 # The theory of human development: A cross-cultural analysis
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Christian Welzel, Ronald Inglehart, HANS‐DIETER KLIGEMANN |
 | **Year** | 2003 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 654 |
 | **Source** | openalex |
 | **DOI** | [10.1111/1475-6765.00086](https://doi.org/10.1111/1475-6765.00086) |

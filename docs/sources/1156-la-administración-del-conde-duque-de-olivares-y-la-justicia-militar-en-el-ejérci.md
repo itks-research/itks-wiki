@@ -1,7 +1,5 @@
 # La administración del Conde-Duque de Olivares y la justicia militar en el ejército de Flandes (1567-1643)
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Fernando González de León |

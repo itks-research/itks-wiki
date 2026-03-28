@@ -1,7 +1,5 @@
 # Diez puntos sobre el cambio constitucional en Chile
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Roberto Gargarella |

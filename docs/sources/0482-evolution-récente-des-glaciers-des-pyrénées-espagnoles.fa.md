@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Justo Mora, Miguel Arenillas, Guillermo Cobos, José Navarro |
 |---|---|
 | **سال** | 2006 |

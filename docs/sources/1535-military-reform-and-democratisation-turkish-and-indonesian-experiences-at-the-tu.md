@@ -1,7 +1,5 @@
 # Military Reform and Democratisation: Turkish and Indonesian Experiences at the Turn of the Millennium
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Karabekir Akkoyunlu |

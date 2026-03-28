@@ -1,7 +1,5 @@
 # Explaining Styles of Financial Market Opening in Chile, Mexico, South Korea, and Turkey
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Arvid J. Lukauskas, Susan Minushkin |

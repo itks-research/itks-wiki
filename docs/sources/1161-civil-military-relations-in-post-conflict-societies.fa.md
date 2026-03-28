@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Orlando J. Pérez |
 |---|---|
 | **سال** | 2015 |

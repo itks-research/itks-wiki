@@ -1,7 +1,5 @@
 # Political Business in East Asia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Edmund Terence Gomez |

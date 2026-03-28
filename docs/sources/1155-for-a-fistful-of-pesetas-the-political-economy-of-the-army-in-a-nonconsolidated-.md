@@ -1,7 +1,5 @@
 # For a fistful of pesetas? The political economy of the army in a nonconsolidated democracy: the Second Spanish Republic and Civil War (1931–9)
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Álvaro La Parra‐Pérez |

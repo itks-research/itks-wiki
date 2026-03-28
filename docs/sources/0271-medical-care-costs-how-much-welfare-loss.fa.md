@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Joseph P. Newhouse |
 |---|---|
 | **سال** | 1992 |

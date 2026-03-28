@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Juvenal A. Ríos, M. F. Barake, M. Arce, Francisco López-Köstner, T. Labbe, J. Villena, Sergio Becerra |
 |---|---|
 | **سال** | 2020 |

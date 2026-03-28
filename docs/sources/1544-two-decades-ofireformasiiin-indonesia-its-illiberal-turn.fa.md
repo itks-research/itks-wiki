@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Rachael Diprose, Dave McRae, Vedi R. Hadiz |
 |---|---|
 | **سال** | 2019 |

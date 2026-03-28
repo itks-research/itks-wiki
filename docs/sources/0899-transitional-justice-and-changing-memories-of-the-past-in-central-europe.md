@@ -1,7 +1,5 @@
 # Transitional Justice and Changing Memories of the Past in Central Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Roman David |

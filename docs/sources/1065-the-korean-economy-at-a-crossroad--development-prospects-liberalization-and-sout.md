@@ -1,7 +1,5 @@
 # The Korean economy at a crossroad : development prospects, liberalization, and South-North economic integration
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sŭng-yŏng Kwak |

@@ -1,7 +1,5 @@
 # The Polish Alternative Old Myths, Hard Facts and New Strategies in the Successful Transformation of the Polish Economy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | G-W Kolodko, D-M Nuti, Kolodko, Grzegorz W., Nuti, D. Mario |

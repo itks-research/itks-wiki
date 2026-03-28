@@ -1,7 +1,5 @@
 # The Remarkable Rise of ‘Law and Historical Memory’ in Europe: Theorizing Trends and Prospects in the Recent Literature
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Uładzisłaŭ Bełavusaŭ, Aleksandra Gliszczyńska‐Grabias |

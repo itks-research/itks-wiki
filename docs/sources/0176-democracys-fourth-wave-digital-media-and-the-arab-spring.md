@@ -1,7 +1,5 @@
 # Democracy's fourth wave?: digital media and the Arab Spring
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Muzammil Hussain, Philip N. Howard |

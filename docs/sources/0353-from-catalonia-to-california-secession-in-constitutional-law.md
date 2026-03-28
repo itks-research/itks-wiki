@@ -1,7 +1,5 @@
 # From Catalonia to California: Secession in Constitutional Law
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Tom Ginsburg, Mila Versteeg |

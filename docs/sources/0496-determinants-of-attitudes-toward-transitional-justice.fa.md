@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Paloma Aguilar, Laia Balcells, Héctor Cebolla‐Boado |
 |---|---|
 | **سال** | 2011 |

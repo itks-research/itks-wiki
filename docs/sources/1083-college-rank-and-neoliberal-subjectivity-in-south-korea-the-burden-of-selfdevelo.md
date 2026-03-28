@@ -1,7 +1,5 @@
 # College rank and neo‐liberal subjectivity in South Korea: the burden of self‐development
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Nancy Abelmann, So Jin Park, Hyunhee Kim |

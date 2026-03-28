@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | George A. Brubaker, John Leddy Phelan |
 |---|---|
 | **سال** | 1979 |

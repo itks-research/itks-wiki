@@ -1,7 +1,5 @@
 # Comparative Case Study on Institutionalization of Ruling Parties Under Military Authoritarianism: Democratic Republican Party Under Park Chung-Hee Regime in South Korea (1961-1979) and GOLKAR Under Suharto Regime in Indonesia (1966-1998)
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | S. Lee |

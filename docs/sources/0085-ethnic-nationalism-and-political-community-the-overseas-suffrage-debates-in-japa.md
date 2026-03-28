@@ -1,14 +1,12 @@
 # Ethnic Nationalism and Political Community: The Overseas Suffrage Debates in Japan and South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Konrad Kalicki |
 | **Year** | 2009 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Electoral system design and implementation |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 24 |
 | **Source** | openalex |
 | **DOI** | [10.1080/10357820902923241](https://doi.org/10.1080/10357820902923241) |

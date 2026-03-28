@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Anthony W. Pereira, Jorge Zaverucha |
 |---|---|
 | **سال** | 2005 |

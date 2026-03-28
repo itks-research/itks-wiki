@@ -1,7 +1,5 @@
 # Is Morocco Immune to Upheaval
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Bruce Maddy‐Weitzman |

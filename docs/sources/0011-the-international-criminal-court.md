@@ -1,7 +1,5 @@
 # The International Criminal Court
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Marlies Glasius |

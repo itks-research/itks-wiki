@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Timothy Besley, Torsten Persson |
 |---|---|
 | **سال** | 2014 |

@@ -1,7 +1,5 @@
 # An Index of Global Economic Policy Uncertainty
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Steven J. Davis |

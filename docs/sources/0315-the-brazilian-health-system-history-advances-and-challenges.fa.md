@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jairnilson Silva Paim, Cláudia Travassos, C.M.V.B. Almeida, Lígia Bahia, James Macinko |
 |---|---|
 | **سال** | 2011 |

@@ -1,7 +1,5 @@
 # The Gracillariidae (Lepidoptera, Gracillarioidea) of the Galapagos Islands, Ecuador, with notes on some of their relatives
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Bernard Landry |

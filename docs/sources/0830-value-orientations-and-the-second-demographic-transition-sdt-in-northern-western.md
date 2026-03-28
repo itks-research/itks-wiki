@@ -1,7 +1,5 @@
 # Value Orientations and the Second Demographic Transition (SDT) in Northern, Western and Southern Europe: An Update
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Johan Surkyn, Ronny Lesthaeghe |

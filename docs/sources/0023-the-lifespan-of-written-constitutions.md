@@ -1,7 +1,5 @@
 # The Lifespan of Written Constitutions
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Tom Ginsburg, Zach Elkins, James Melton |

@@ -1,7 +1,5 @@
 # Contemporary Legal Transplants -- Legal Families and the Diffusion of (Corporate) Law
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Holger Spamann |

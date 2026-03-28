@@ -1,7 +1,5 @@
 # Performance Legitimacy, State Autonomy and China's Economic Miracle
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Hongxing Yang, Dingxin Zhao |

@@ -1,7 +1,5 @@
 # The Prospects of Economic Reform in North Korea: Comparisons with China, Vietnam and Yugoslavia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Balázs Szalontai, Changyong Choi |

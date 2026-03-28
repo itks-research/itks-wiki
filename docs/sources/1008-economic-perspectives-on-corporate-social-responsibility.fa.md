@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Markus Kitzmueller, Jay P. Shimshack |
 |---|---|
 | **سال** | 2012 |

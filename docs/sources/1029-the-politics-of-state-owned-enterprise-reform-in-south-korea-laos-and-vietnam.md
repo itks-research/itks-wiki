@@ -1,7 +1,5 @@
 # The Politics of State-Owned Enterprise Reform in South Korea, Laos, and Vietnam
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mark Turner, Michael O’Donnell, Seung‐Ho Kwon |

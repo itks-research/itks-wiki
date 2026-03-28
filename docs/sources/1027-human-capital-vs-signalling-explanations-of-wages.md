@@ -1,7 +1,5 @@
 # Human Capital vs. Signalling Explanations of Wages
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Andrew Weiss |

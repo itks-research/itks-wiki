@@ -1,7 +1,5 @@
 # Gagasan Human Security Dan Kebijakan Keamanan Nasional Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Elpeni Fitrah |

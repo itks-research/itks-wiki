@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ana Vergara del Solar, Jorge Vergara Estévez |
 |---|---|
 | **سال** | 1994 |

@@ -1,7 +1,5 @@
 # State Entrepreneurship
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anne de Bruin |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Filip L. Magnusson, Oscar W. Bengtsson |
 |---|---|
 | **سال** | 2008 |

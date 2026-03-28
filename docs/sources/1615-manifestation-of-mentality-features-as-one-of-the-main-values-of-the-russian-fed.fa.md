@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Andrei Aleksandrovich Afonin |
 |---|---|
 | **سال** | 2024 |

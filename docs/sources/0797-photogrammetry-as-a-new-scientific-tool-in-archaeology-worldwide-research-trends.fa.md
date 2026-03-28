@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Carmen Marín‐Buzón, Antonio Pérez-Romero, José Luis López-Castro, Imed Ben Jerbania, Francisco Manzano‐Agugliaro |
 |---|---|
 | **سال** | 2021 |

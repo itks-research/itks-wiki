@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Zhambayev Yeran Sagynkhanovich, Saulen Nurzhan, Sagadiev Azamat Nurlanovich |
 |---|---|
 | **سال** | 2023 |

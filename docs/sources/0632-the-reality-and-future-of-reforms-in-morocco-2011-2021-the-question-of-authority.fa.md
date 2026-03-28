@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Taoufik Abdessadek |
 |---|---|
 | **سال** | 2021 |

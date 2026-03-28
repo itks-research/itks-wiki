@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Hamadi Redissi, Rihab Boukhayatia |
 |---|---|
 | **سال** | 2015 |

@@ -1,7 +1,5 @@
 # Political institutions and the gendered use of social media among political candidates: evidence from Tunisia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Malin Holm, Yasmine Skhiri, Pär Zetterberg |

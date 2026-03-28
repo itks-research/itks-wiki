@@ -1,7 +1,5 @@
 # Financial Integration and Firm Performance: Evidence from Foreign Bank Entry in Emerging Markets
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mariassunta Giannetti, Steven Ongena |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Giovanni De Gregorio |
 |---|---|
 | **سال** | 2021 |

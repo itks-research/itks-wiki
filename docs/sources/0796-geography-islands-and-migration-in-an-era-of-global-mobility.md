@@ -1,7 +1,5 @@
 # Geography, Islands and Migration in an Era of Global Mobility
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Russell King |

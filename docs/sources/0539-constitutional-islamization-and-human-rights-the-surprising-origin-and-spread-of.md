@@ -1,7 +1,5 @@
 # Constitutional Islamization and Human Rights: The Surprising Origin and Spread of Islamic Supremacy in Constitutions
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Dawood I. Ahmed, Tom Ginsburg |

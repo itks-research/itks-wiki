@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Irene Weipert-Fenner |
 |---|---|
 | **سال** | 2014 |

@@ -1,7 +1,5 @@
 # Beyond the Northern Invasion: The Mediterranean in the Seventeenth Century
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Molly Greene |

@@ -1,7 +1,5 @@
 # Apostasy in Islam
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Gert J.J. De Vries, Rudolph Peters |

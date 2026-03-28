@@ -1,7 +1,5 @@
 # State and evaluation of information and communication technologies development in agricultural enterprises in the Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jiří Vaněk, Eva Cervenkova, Jan Jarolímek, Pavel Šimek |

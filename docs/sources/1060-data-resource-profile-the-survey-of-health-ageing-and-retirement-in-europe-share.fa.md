@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Axel Börsch‐Supan, Martina Brandt, Christian Hunkler, Thorsten Kneip, Julie M. Korbmacher, Frederic Malter, Barbara Schaan, Stephanie Stuck, Sabrina Zuber |
 |---|---|
 | **سال** | 2013 |

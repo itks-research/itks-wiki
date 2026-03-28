@@ -1,7 +1,5 @@
 # Psychosocial Risk Prevention in a Global Occupational Health Perspective. A Descriptive Analysis
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Francesco Chirico, Tarja Heponiemi, Milena Pavlova, Salvatore Zaffina, Nicola Magnavita |

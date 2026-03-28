@@ -1,14 +1,12 @@
 # The Constitutionalization of Local Government in Developing Countries—Analysis of African Experiences in Global Perspective
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Dele Olowu |
 | **Year** | 2012 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 14 |
 | **Source** | openalex |
 | **DOI** | [10.4236/blr.2012.32006](https://doi.org/10.4236/blr.2012.32006) |

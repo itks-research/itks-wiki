@@ -1,7 +1,5 @@
 # Accounts and Accountability: Corruption, Human Rights, and Individual Accountability Norms
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Hun Joon Kim, J. C. Sharman |

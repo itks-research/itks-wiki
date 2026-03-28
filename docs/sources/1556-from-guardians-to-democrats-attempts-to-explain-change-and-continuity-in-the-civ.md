@@ -1,7 +1,5 @@
 # From guardians to democrats? Attempts to explain change and continuity in the civil–military relations of post-authoritarian Indonesia, Thailand and the Philippines
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Felix Heiduk |

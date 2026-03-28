@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Cristian Biagioni, Jiří Sejkora, Silvia Musetti, Dalibor Velebil, Marco Pasero |
 |---|---|
 | **سال** | 2020 |

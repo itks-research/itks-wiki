@@ -1,7 +1,5 @@
 # INDONESIAN DECENTRALIZATION: EVALUATION, RECENT MOVEMENT AND FUTURE PERSPECTIVES
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Benedictus Raksaka Mahi |

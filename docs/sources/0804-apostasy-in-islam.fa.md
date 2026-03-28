@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Gert J.J. De Vries, Rudolph Peters |
 |---|---|
 | **سال** | 1976 |

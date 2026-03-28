@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Abhijit Banerjee, Esther Duflo |
 |---|---|
 | **سال** | 2008 |

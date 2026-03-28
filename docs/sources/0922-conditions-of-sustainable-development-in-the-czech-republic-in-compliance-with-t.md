@@ -1,7 +1,5 @@
 # Conditions of sustainable development in the Czech Republic in compliance with the recommendation of the European Commission.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | M. Hrabánková, I. Boháčková |

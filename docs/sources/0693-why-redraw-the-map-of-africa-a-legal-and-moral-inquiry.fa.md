@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Makau W. Mutua |
 |---|---|
 | **سال** | 1995 |

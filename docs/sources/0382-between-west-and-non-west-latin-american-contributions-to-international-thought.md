@@ -1,7 +1,5 @@
 # Between West and non-West: Latin American Contributions to International Thought
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Louise Fawcett |

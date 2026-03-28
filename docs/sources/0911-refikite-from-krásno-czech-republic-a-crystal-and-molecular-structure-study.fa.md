@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | R. Pažout, J. Sejkora, J. Maixner, Michal Dušek, Jaromír Tvrdý |
 |---|---|
 | **سال** | 2015 |

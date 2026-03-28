@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Marek Tomaszycki |
 |---|---|
 | **سال** | 2006 |

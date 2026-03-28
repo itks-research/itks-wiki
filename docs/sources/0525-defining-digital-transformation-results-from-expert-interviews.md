@@ -1,7 +1,5 @@
 # Defining digital transformation: Results from expert interviews
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ines Mergel, Noella Edelmann, Nathalie Haug |

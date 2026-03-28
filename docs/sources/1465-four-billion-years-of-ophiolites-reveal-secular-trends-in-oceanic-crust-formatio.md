@@ -1,7 +1,5 @@
 # Four billion years of ophiolites reveal secular trends in oceanic crust formation
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Harald Furnes, Maarten de Wit, Yıldırım Dilek |

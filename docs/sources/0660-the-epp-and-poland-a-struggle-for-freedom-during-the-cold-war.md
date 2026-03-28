@@ -1,7 +1,5 @@
 # The EPP and Poland: A Struggle for Freedom During the Cold War
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Eva C. MÜLLER-PRAEFCKE |

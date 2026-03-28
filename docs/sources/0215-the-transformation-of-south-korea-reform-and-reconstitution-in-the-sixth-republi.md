@@ -1,7 +1,5 @@
 # The transformation of South Korea: reform and reconstitution in the Sixth Republic under Roh Tae Woo, 1987-1992
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

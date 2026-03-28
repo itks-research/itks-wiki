@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Geoffrey McNicoll |
 |---|---|
 | **سال** | 2006 |

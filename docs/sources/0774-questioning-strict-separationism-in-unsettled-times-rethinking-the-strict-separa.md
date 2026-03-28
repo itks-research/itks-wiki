@@ -1,7 +1,5 @@
 # Questioning Strict Separationism in Unsettled Times: Rethinking the Strict Separation of Church and State in United States Constitutional Law
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | J. Prud'homme |

@@ -1,7 +1,5 @@
 # The significance of soils and soil science towards realization of the United Nations Sustainable Development Goals
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Saskia Keesstra, J. Bouma, Jakob Wallinga, Pablo Tittonell, Pete Smith, Artemi Cerdà, Luca Montanarella, John Quinton, Yakov Pachepsky, Wim H. van der Putten, Richard D. Bardgett, S.W. Moolenaar, G. Mol, Boris Jansen, L.O. Fresco |

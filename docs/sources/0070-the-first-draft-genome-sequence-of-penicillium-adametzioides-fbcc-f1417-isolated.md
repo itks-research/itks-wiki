@@ -1,14 +1,12 @@
 # The first draft genome sequence of Penicillium adametzioides FBCC-F1417, isolated from freshwater plant litter in South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Yoeguang Hue, Yebin Nam, Jaeduk Goh, Ki-Tae Kim |
 | **Year** | 2025 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1186/s12863-025-01382-7](https://doi.org/10.1186/s12863-025-01382-7) |

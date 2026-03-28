@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Hrant Kostanyan, Elitsa Garnizova |
 |---|---|
 | **سال** | 2013 |

@@ -1,7 +1,5 @@
 # Government Failures in Development
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anne O. Krueger |

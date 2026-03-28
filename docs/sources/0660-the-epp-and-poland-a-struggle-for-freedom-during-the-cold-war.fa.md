@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Eva C. MÜLLER-PRAEFCKE |
 |---|---|
 | **سال** | 2025 |

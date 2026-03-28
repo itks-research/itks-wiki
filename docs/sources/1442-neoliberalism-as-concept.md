@@ -1,7 +1,5 @@
 # Neoliberalism as concept
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rajesh Venugopal |

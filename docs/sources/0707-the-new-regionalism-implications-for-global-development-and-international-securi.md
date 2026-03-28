@@ -1,7 +1,5 @@
 # The New Regionalism Implications for Global development and International Security
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Björn Hettne, Inotai, Andras, Hettne, Bjorn, Inotai, Andras |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Benjamin K. Sovacool, Andrew Hook, Mari Martiskainen, Lucy Baker |
 |---|---|
 | **سال** | 2019 |

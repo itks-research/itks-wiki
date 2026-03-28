@@ -1,7 +1,5 @@
 # Culture matters in educational policy transfer: the case of curricular reforms in the two Koreas during the Soviet and US military occupation
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sun Kim |

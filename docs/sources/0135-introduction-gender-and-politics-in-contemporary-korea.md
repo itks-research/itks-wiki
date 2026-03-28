@@ -1,14 +1,12 @@
 # Introduction: Gender and Politics in Contemporary Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ju Hui Judy Han, Jennifer Jihye Chun |
 | **Year** | 2014 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Women's rights codification and gender equality |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 13 |
 | **Source** | openalex |
 | **DOI** | [10.1353/jks.2014.0024](https://doi.org/10.1353/jks.2014.0024) |

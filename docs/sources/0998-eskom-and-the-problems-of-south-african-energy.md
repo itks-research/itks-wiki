@@ -1,7 +1,5 @@
 # ESKOM and the problems of South African energy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Yury Skubko |

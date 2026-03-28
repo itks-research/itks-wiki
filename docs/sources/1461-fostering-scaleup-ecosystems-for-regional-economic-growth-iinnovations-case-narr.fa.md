@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Daniel J. Isenberg, Vincent Onyemah |
 |---|---|
 | **سال** | 2016 |

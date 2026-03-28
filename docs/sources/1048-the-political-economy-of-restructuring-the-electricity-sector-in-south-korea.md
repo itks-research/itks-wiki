@@ -1,7 +1,5 @@
 # The Political Economy of Restructuring the Electricity Sector in South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Chung-min Tsai |

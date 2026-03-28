@@ -1,7 +1,5 @@
 # Institutions for High-Quality Growth: What They are and How to Acquire Them
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Dani Rodrik |

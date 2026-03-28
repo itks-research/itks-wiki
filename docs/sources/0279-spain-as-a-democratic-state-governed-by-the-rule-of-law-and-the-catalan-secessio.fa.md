@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Juan María Bilbao Ubillos |
 |---|---|
 | **سال** | 2024 |

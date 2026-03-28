@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Katarína Šipulová, Vít Hloušek |
 |---|---|
 | **سال** | 2013 |

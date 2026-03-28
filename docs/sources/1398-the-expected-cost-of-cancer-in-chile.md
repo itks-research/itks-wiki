@@ -1,7 +1,5 @@
 # [The expected cost of cancer in Chile].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | M. A. Espinoza, Nicolás Armijo, T. Abbott, J. Jimenez, C. Balmaceda |

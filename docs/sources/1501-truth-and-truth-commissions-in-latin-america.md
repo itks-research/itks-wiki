@@ -1,7 +1,5 @@
 # TRUTH AND TRUTH COMMISSIONS IN LATIN AMERICA
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rachel A. May |

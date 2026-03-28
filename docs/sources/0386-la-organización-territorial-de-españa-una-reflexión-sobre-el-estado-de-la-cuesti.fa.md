@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Gregorio Cámara Villar |
 |---|---|
 | **سال** | 2018 |

@@ -1,7 +1,5 @@
 # Lustration and Legitimacy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | M. Jimmie Killingsworth |

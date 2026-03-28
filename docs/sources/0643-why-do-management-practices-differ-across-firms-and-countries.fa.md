@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Nicholas Bloom, John Van Reenen |
 |---|---|
 | **سال** | 2010 |

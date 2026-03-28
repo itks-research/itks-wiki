@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | А. В. Хромов |
 |---|---|
 | **سال** | 2024 |

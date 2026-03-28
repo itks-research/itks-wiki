@@ -1,7 +1,5 @@
 # Going global: transition from plan to market in the world economy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

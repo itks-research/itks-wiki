@@ -1,7 +1,5 @@
 # Examining the role of foreign assistance in security sector reforms : the Indonesian case
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Eduardo Lachica |

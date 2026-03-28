@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jiří Kout, Matěj Brzica, M. Tomšovský |
 |---|---|
 | **سال** | 2025 |

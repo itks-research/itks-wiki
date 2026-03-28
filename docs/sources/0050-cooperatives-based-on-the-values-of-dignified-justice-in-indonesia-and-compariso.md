@@ -1,7 +1,5 @@
 # Cooperatives based on the values of dignified justice in Indonesia and comparison with USA, Sweden, South Korea and India
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Didi Sukardi, Fatin Hamamah, Abdul Karim |

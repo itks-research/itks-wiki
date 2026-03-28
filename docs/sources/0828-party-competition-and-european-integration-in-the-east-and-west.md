@@ -1,7 +1,5 @@
 # Party Competition and European Integration in the East and West
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Gary Marks, Liesbet Hooghe, Moira Nelson, Erica Edwards |

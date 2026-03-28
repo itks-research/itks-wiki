@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Emanuela Dalmasso, Francesco Cavatorta |
 |---|---|
 | **سال** | 2013 |

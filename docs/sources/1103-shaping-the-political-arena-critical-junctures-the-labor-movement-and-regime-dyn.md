@@ -1,7 +1,5 @@
 # Shaping the Political Arena: Critical Junctures, the Labor Movement and Regime Dynamics in Latin America
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Abraham F. Lowenthal, Ruth Berins Collier, David Collier |

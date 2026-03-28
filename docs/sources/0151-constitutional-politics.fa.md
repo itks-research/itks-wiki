@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Won‐Taek Kang |
 |---|---|
 | **سال** | 2021 |

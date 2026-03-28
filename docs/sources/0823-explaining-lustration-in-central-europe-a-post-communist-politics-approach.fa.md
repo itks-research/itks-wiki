@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Kieran Williams, Brigid Fowler, Aleks Szczerbiak |
 |---|---|
 | **سال** | 2005 |

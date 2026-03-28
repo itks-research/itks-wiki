@@ -1,7 +1,5 @@
 # Economic Crisis, Neoliberal Reforms, and the Rise of Precarious Work in South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Kwang‐Yeong Shin |

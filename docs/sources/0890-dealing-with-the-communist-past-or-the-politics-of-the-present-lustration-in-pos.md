@@ -1,7 +1,5 @@
 # Dealing with the Communist Past or the Politics of the Present? Lustration in Post-Communist Poland
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Aleks Szczerbiak |

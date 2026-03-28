@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | M. A. Espinoza, Nicolás Armijo, T. Abbott, J. Jimenez, C. Balmaceda |
 |---|---|
 | **سال** | 2022 |

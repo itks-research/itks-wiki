@@ -1,7 +1,5 @@
 # Transitions from Authoritarian Rule and the Problem of Violence
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jakub Zieliński |

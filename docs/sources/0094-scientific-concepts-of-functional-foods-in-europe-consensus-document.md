@@ -1,14 +1,12 @@
 # Scientific Concepts of Functional Foods in Europe Consensus Document
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | F Bellisle, A Diplock, G Hornstra, B Koletzko, M Roberfroid, S Salminen, Whm Saris, D Knorr, F Clydesdale, Ha Chan, S, F Clydesdale, Jonas Da |
 | **Year** | 1999 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 1116 |
 | **Source** | openalex |
 | **DOI** | [10.1017/s0007114599000471](https://doi.org/10.1017/s0007114599000471) |

@@ -1,7 +1,5 @@
 # Social Norms and Economic Theory
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jon Elster |

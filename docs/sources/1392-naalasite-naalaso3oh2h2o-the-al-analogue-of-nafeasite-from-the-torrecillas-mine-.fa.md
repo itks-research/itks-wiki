@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | A. R. Kampf, G. Möhn, Chiu‐Shun Ma, Joy Désor |
 |---|---|
 | **سال** | 2024 |

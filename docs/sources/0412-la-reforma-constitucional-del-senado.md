@@ -1,7 +1,5 @@
 # La reforma constitucional del Senado
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Joaquín Varela Suanzes-Carpegna |

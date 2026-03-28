@@ -1,7 +1,5 @@
 # From the Bronze Soldier to the “Bloody Marshal”: Monument Wars and Russia’s Aesthetic Vulnerability in Estonia and the Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Aliaksei Kazharski, Andrey Makarychev |

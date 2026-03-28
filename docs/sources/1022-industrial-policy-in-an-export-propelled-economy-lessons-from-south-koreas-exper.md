@@ -1,7 +1,5 @@
 # Industrial Policy in an Export-Propelled Economy: Lessons from South Korea's Experience
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Larry E. Westphal |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Kevin McDermott, Matthew Stibbe |
 |---|---|
 | **سال** | 2018 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Rudy Badrudin, Baldric Siregar |
 |---|---|
 | **سال** | 2015 |

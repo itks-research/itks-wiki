@@ -1,7 +1,5 @@
 # Photographic Representations of Tunisian Women from the Late 1940s to the Present
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Dora Carpenter-Latiri |

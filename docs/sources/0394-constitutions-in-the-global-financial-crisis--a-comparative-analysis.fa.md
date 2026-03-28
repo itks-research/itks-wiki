@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Xenophōn I. Kontiadēs |
 |---|---|
 | **سال** | 2013 |

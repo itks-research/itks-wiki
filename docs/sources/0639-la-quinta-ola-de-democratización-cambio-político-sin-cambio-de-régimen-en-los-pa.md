@@ -1,7 +1,5 @@
 # ¿La quinta ola de democratización?: Cambio político sin cambio de régimen en los países árabes
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Inmaculada Szmolka Vida |

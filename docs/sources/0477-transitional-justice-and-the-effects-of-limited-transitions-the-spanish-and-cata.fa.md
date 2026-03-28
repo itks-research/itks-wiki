@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Farid Samir Benavides-Vanegas |
 |---|---|
 | **سال** | 2019 |

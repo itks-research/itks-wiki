@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Cas Mudde, Cristóbal Rovira Kaltwasser |
 |---|---|
 | **سال** | 2012 |

@@ -1,7 +1,5 @@
 # The Determinants of Married Women's Autonomy in Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anu Rammohan, Meliyanni Johar |

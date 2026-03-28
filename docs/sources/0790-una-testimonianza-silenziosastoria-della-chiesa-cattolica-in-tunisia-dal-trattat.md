@@ -1,7 +1,5 @@
 # Una testimonianza silenziosa.Storia della Chiesa cattolica in Tunisia dal Trattato del Bardo alla ‘rivoluzione dei gelsomini’
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Maria Chiara Cugusi |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Piotr Guzowski |
 |---|---|
 | **سال** | 2021 |

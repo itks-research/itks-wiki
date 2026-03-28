@@ -1,7 +1,5 @@
 # Social interaction between civil, military, and mission communities in Spanish colonial Texas during the height of the Bourbon reforms, 1763-1772
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Félix D. Almaráz |

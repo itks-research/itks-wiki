@@ -1,7 +1,5 @@
 # Diffusion Across Political Systems: The Global Spread of National Human Rights Institutions
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Thomas R. Pegram |

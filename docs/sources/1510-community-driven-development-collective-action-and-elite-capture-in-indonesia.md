@@ -1,7 +1,5 @@
 # Community Driven Development, Collective Action and Elite Capture in Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Aniruddha Dasgupta, Victoria A. Beard |

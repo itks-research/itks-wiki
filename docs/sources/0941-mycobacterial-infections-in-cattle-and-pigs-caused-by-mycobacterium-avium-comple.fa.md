@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | I. Pavlik, L. Mátlová, L. Dvorská, I. Parmova |
 |---|---|
 | **سال** | 2018 |

@@ -1,7 +1,5 @@
 # Transnational Information Politics: NGO Human Rights Reporting, 1986-2000
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | James Ron, Howard Ramos, Kathleen Rodgers |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | P. Nicolopoulou‐Stamati, Sotirios Maipas, Chrysanthi Kotampasi, Panagiotis J. Stamatis, Luc Hens |
 |---|---|
 | **سال** | 2016 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Bambang Brodjonegoro, Shinji Asanuma |
 |---|---|
 | **سال** | 2000 |

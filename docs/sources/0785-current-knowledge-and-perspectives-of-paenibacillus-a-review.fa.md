@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Elliot Grady, Jacqueline MacDonald, Linda Liu, Alex Richman, Ze-Chun Yuan |
 |---|---|
 | **سال** | 2016 |

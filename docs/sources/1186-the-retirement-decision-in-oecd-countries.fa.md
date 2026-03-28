@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Sveinbjörn Blöndal, Stéfano Scarpetta |
 |---|---|
 | **سال** | 1999 |

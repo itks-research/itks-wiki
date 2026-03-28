@@ -1,7 +1,5 @@
 # Ten years of post-socialist transition lessons for policy reform
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Grzegorz W. Kołodko |

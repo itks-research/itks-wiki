@@ -1,7 +1,5 @@
 # Transitional Justice in Tunisia: When Religion Meets State
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Elham Kazemi |

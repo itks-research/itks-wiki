@@ -1,7 +1,5 @@
 # Machine Learning-Guided Protein Engineering
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Petr Kouba, Pavel Kohout, Faraneh Haddadi, Anton Bushuiev, Raman Samusevich, Jiří Sedlář, Jiřı́ Damborský, Tomáš Pluskal, Josef Šivic, Stanislav Mazurenko |

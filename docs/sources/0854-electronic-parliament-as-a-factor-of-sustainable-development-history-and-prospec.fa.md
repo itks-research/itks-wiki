@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Tamara Mazur, Spiros Flogaitis |
 |---|---|
 | **سال** | 2023 |

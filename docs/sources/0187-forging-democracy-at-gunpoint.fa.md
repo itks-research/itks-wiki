@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jeffrey Pickering, Mark Peceny |
 |---|---|
 | **سال** | 2006 |

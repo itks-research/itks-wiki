@@ -1,7 +1,5 @@
 # Doing Business 2020: Comparing Business Regulation in 190 Economies
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | World Bank |

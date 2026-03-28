@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Nicholas Sambanis |
 |---|---|
 | **سال** | 2000 |

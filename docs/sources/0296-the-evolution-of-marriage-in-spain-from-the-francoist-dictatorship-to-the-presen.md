@@ -1,7 +1,5 @@
 # The evolution of marriage in Spain from the francoist dictatorship to the present day
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Noa Barreda Marín, María Lumbreras Catalá, Alberto Martínez Herrero |

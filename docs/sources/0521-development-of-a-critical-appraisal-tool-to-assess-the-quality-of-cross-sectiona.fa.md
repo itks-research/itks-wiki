@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Martin Downes, Marnie Brennan, Hywel C Williams, Rachel Dean |
 |---|---|
 | **سال** | 2016 |

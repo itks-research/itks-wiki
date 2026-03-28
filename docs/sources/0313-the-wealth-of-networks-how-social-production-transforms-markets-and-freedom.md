@@ -1,7 +1,5 @@
 # The wealth of networks: how social production transforms markets and freedom
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Benkler, Yochai |

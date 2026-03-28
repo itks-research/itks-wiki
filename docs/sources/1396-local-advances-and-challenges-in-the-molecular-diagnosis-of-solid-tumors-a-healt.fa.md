@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | K. Marcelain, Carolina Selman-Bravo, Benjamín García-Bloj, E. Bustamante, J. Fernández, Fancy Gaete, L. Moyano, J. C. Bustos, Francisca Plaza-Parroquia, J. Godoy, M. Garrido, T. Labbe, Juvenal A. Ríos |
 |---|---|
 | **سال** | 2023 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Uładzisłaŭ Bełavusaŭ, Aleksandra Gliszczyńska‐Grabias |
 |---|---|
 | **سال** | 2020 |

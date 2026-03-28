@@ -1,7 +1,5 @@
 # Problem Solving Effectiveness and Democratic Accountability in the EU
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Fritz W. Scharpf |

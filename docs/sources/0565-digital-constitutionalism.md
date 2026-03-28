@@ -1,7 +1,5 @@
 # Digital Constitutionalism
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Edoardo Celeste |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Dominique Heymann, Lincoln Chen, Keizo Takemi, David P. Fidler, Jordan W. Tappero, Mathew Thomas, Thomas Kenyon, Thomas R. Frieden, Derek Yach, Sania Nishtar, Alex Kalache, Piero Olliaro, Peter Horby, Els Torreele, Lawrence O. Gostin, Margareth Ndomondo-Sigonda, Daniel Carpenter, Simon Rushton, Louis Lillywhite, Bhimsen Devkota, Khalid Koser, Robert Yates, Ranu S Dhillon, Ravindra P. Rannan‐Eliya |
 |---|---|
 | **سال** | 2015 |

@@ -1,7 +1,5 @@
 # Poverty Lines in Theory and Practice
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Martin Ravallion |

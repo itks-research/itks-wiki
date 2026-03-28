@@ -1,7 +1,5 @@
 # Constitutional Origins and Liberal Democracy: A Global Analysis, 1900–2015
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Gabriel L. Negretto, Mariano Sánchez-Talanquer |

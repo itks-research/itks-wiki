@@ -1,7 +1,5 @@
 # Autocratic Audience Costs: Regime Type and Signaling Resolve
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jessica Weeks |

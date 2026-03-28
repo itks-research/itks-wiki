@@ -1,7 +1,5 @@
 # [Older people in Chile: the new social, economic and health challenge for the 21st century].
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | A. Leiva, C. Troncoso-Pantoja, M. Martínez-Sanguinetti, G. Nazar, Y. Concha-Cisternas, M. Martorell, Karina Ramírez-Alarcón, F. Petermann-Rocha, Igor Cigarroa, X. Díaz, Carlos Celis-Morales |

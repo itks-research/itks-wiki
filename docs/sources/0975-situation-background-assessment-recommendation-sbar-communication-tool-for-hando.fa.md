@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Shaneela Shahid, Sumesh Thomas |
 |---|---|
 | **سال** | 2018 |

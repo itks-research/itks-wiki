@@ -1,7 +1,5 @@
 # 7 Professionalism without reform: the security sector under Yudhoyono
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | J. Wayne Baker |

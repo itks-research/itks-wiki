@@ -1,7 +1,5 @@
 # How Does a Truth Commission Find Out What the Truth Is? The Case of East Timor's CAVR
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | John Roosa |

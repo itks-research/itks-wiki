@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Szymon Marcińczak, Tiit Tammaru, Jakub Novák, Michael Gentile, Zoltán Kovács, Jana Temelová, Vytautas Valatka, Anneli Kährik, Balázs Szabó |
 |---|---|
 | **سال** | 2014 |

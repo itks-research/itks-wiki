@@ -1,7 +1,5 @@
 # A History of Latin America: c.1450 to the Present
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Peter Bakewell |

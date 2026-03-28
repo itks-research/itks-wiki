@@ -1,7 +1,5 @@
 # Separation of Church and State, American Exceptionalism, and the Contemporary Social Moment: Viewing Church–State Separation from the Priority of Slavery
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | J. Prud'homme |

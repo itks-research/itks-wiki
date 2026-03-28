@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Roberto Gargarella |
 |---|---|
 | **سال** | 2021 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | James Otto, Craig B. Andrews, F.T. Cawood, Michael Doggett, Pietro Guj, Frank Stermole, John Stermole, John E. Tilton |
 |---|---|
 | **سال** | 2006 |

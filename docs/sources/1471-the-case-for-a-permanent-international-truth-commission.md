@@ -1,7 +1,5 @@
 # The Case for A Permanent International Truth Commission
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Michael P. Scharf |

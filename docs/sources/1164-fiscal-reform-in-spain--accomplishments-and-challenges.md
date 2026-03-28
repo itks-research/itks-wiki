@@ -1,7 +1,5 @@
 # Fiscal reform in Spain : accomplishments and challenges
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jorge Martínez Vázquez, José Félix Sanz Sanz |

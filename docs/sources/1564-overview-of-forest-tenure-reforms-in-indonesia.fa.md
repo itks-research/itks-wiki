@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Mia Siscawati, Banjade M.R., N. Liswanti, T. Herawati, E. Mwangi, C. Wulandari, M. Tjoa, T. Silaya |
 |---|---|
 | **سال** | 2017 |

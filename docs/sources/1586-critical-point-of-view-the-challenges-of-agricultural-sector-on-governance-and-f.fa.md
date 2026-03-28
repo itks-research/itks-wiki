@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Lilies Setiartiti |
 |---|---|
 | **سال** | 2021 |

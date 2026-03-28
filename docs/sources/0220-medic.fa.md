@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Crawford F. Sams, Zabelle Zakarian, Zabelle Zakarian |
 |---|---|
 | **سال** | 2016 |

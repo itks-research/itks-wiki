@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Neal G. Jesse, Uk Heo, Karl DeRouen |
 |---|---|
 | **سال** | 2002 |

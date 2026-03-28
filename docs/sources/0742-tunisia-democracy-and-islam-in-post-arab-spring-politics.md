@@ -1,7 +1,5 @@
 # Tunisia: democracy and Islam in post-Arab Spring politics
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mary E Shults |

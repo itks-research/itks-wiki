@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Rafael La Porta, Andrei Shleifer |
 |---|---|
 | **سال** | 2014 |

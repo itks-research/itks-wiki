@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | F. Merone, R. McCarthy |
 |---|---|
 | **سال** | 2024 |

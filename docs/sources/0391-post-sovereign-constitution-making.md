@@ -1,7 +1,5 @@
 # Post Sovereign Constitution Making
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Andrew Arato |

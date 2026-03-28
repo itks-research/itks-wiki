@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Manfred Häfner, Simone Tagliapietra |
 |---|---|
 | **سال** | 2020 |

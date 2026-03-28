@@ -1,7 +1,5 @@
 # Spain's First Democracy: The Second Republic, 1931-1936.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | George Esenwein, Stanley G. Payne |

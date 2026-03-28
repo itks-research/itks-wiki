@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Zhanna Petrochko, O. Denysiuk |
 |---|---|
 | **سال** | 2022 |

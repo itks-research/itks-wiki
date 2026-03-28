@@ -1,7 +1,5 @@
 # Popular sovereignty and popular participation: Mixed constitutional democracy in the Third World
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Nelson Kasfir |

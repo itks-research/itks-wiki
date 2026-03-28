@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Un. Secretary-General |
 |---|---|
 | **سال** | 2012 |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Christopher Crowe, Ellen E. Meade |
 |---|---|
 | **سال** | 2007 |

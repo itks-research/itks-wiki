@@ -1,7 +1,5 @@
 # Islamism and secularism in North Africa
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

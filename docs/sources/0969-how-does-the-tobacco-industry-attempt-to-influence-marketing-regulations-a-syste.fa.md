@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Emily Savell, Anna Gilmore, Gary Fooks |
 |---|---|
 | **سال** | 2014 |

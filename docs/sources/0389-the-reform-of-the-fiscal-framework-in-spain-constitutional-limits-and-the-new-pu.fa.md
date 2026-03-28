@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Pablo Hernández de Cos |
 |---|---|
 | **سال** | 2011 |

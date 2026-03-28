@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Nazmul Chaudhury, Jeffrey S. Hammer, Michael Kremer, Karthik Muralidharan, Frances Rogers |
 |---|---|
 | **سال** | 2006 |

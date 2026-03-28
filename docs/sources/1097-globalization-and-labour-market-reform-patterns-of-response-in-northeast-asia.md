@@ -1,7 +1,5 @@
 # Globalization and Labour Market Reform: Patterns of Response in Northeast Asia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Tat Yan Kong |

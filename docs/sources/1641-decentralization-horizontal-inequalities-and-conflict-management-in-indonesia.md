@@ -1,7 +1,5 @@
 # Decentralization, Horizontal Inequalities and Conflict Management in Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rachael Diprose |

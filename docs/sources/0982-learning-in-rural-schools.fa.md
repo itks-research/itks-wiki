@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Alfonso Echazarra, Thomas Radinger |
 |---|---|
 | **سال** | 2019 |

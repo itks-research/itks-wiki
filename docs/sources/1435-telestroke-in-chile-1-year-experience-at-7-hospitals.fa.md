@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | E. Mansilla, E. Mazzon, Daniel Cárcamo, Felipe Jurado, L. Lara, M. Arévalo, D. A. Rojas, G. Stephens, A. Hoppe, A. Brunser |
 |---|---|
 | **سال** | 2019 |

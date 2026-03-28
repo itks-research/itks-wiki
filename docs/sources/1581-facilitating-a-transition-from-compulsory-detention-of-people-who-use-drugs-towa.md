@@ -1,7 +1,5 @@
 # Facilitating a transition from compulsory detention of people who use drugs towards voluntary community-based drug dependence treatment and support services in Asia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Pascal Tanguay, Adeeba Kamarulzaman, Apinun Aramrattana, Alex Wodak, Nicholas M. Thomson, Robert Ali, Gino Vumbaca, Gloria Lai, Anand Chabungbam |

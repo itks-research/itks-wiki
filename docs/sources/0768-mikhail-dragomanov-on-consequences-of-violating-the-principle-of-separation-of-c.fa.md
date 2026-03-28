@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ekateryna Bataeva |
 |---|---|
 | **سال** | 2022 |

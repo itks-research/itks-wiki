@@ -1,7 +1,5 @@
 # What is Really at Stake in the Debate over Votes
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Edward Best |

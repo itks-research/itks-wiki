@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | J.-W. Koo, Francisco O. Ramírez |
 |---|---|
 | **سال** | 2009 |

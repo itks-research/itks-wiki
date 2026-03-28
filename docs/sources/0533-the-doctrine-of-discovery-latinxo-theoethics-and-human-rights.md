@@ -1,7 +1,5 @@
 # The Doctrine of Discovery, LatinXo Theoethics, and Human Rights
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Néstor Medina |

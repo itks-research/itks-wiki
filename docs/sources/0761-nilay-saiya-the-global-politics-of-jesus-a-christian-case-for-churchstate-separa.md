@@ -1,7 +1,5 @@
 # Nilay Saiya, The Global Politics of Jesus: A Christian Case for Church–State Separation
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | T. Gorringe |

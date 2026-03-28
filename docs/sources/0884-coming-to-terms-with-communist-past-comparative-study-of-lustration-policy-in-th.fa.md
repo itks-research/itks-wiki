@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Tamta Kupatadze |
 |---|---|
 | **سال** | 2014 |

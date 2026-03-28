@@ -1,7 +1,5 @@
 # Poverty alleviation in the contex of fiscal decentralization in Indonesia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Nursini Nursini, Tawakkal Tawakkal |

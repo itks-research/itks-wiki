@@ -1,7 +1,5 @@
 # CloudSim: a toolkit for modeling and simulation of cloud computing environments and evaluation of resource provisioning algorithms
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rodrigo N. Calheiros, Rajiv Ranjan, Anton Beloglazov, César A. F. De Rose, Rajkumar Buyya |

@@ -1,7 +1,5 @@
 # Global Review of Institutional Reforms in the Irrigation Sector for Sustainable Agricultural Water Management, Including Water Users’ Associations
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | A. Hafied A. Gany, Prachi Sharma, Sahdev Singh |

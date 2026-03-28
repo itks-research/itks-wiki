@@ -1,7 +1,5 @@
 # Geschieberite, K<sub>2</sub>(UO<sub>2</sub>)(SO<sub>4</sub>)<sub>2</sub>(H<sub>2</sub>O)<sub>2</sub>, a new uranyl sulfate mineral from Jáchymov
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jakub Plášil, Jan Hloušek, Anatoly V. Kasatkin, Radek Škoda, M. Novák, J. Čejka |

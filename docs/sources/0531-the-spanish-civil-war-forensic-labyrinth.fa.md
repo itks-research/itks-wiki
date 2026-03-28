@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Luis Ríos, Francisco Etxeberría Gabilondo |
 |---|---|
 | **سال** | 2016 |

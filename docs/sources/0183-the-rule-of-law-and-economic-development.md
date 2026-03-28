@@ -1,7 +1,5 @@
 # The Rule of Law and Economic Development
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Stephan Haggard, Andrew MacIntyre, Lydia Brashear Tiede |

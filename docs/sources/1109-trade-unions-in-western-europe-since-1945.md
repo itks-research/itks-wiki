@@ -1,7 +1,5 @@
 # Trade Unions in Western Europe since 1945
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Bernhard Ebbinghaus, Jelle Visser |

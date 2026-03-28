@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Steven Pike, Stephen J. Page |
 |---|---|
 | **سال** | 2013 |

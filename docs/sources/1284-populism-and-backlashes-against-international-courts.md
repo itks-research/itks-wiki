@@ -1,7 +1,5 @@
 # Populism and Backlashes against International Courts
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Erik Voeten |

@@ -1,7 +1,5 @@
 # Gajardoite, KCa<sub>0.5</sub>As<sup>3+</sup><sub>4</sub>O<sub>6</sub>Cl<sub>2</sub>·5H<sub>2</sub>O, a new mineral related to lucabindiite and torrecillasite from the Torrecillas mine, Iquique Province, Chile
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anthony R. Kampf, Barbara P. Nash, Maurizio Dini, Arturo Molina A. Donoso |

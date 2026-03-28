@@ -1,7 +1,5 @@
 # A Theory of Crimes Against Humanity
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | David Luban |

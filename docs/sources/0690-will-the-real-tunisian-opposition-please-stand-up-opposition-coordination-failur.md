@@ -1,7 +1,5 @@
 # Will the Real Tunisian Opposition Please Stand Up? Opposition Coordination Failures under Authoritarian Constraints
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rikke Hostrup Haugbølle, Francesco Cavatorta |

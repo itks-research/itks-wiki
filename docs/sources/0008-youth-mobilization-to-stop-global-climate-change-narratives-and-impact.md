@@ -1,7 +1,5 @@
 # Youth Mobilization to Stop Global Climate Change: Narratives and Impact
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Heejin Han, Sang Wuk Ahn |

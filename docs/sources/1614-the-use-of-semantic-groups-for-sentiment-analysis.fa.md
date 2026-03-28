@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | R.Y. Suldin |
 |---|---|
 | **سال** | 2024 |

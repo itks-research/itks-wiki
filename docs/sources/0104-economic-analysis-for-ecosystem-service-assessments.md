@@ -1,14 +1,12 @@
 # Economic Analysis for Ecosystem Service Assessments
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ian J. Bateman, Georgina M. Mace, Carlo Fezzi, Giles Atkinson, Kerry Turner |
 | **Year** | 2010 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 590 |
 | **Source** | openalex |
 | **DOI** | [10.1007/s10640-010-9418-x](https://doi.org/10.1007/s10640-010-9418-x) |

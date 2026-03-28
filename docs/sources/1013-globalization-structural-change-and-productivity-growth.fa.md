@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Margaret McMillan, Dani Rodrik |
 |---|---|
 | **سال** | 2011 |

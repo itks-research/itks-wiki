@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Navin Ramankutty, Amato T. Evan, Chad Monfreda, Jonathan A. Foley |
 |---|---|
 | **سال** | 2008 |

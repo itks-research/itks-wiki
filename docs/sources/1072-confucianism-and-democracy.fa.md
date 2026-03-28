@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Francis Fukuyama |
 |---|---|
 | **سال** | 1995 |

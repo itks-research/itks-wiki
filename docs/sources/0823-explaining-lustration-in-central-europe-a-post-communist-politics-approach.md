@@ -1,7 +1,5 @@
 # Explaining lustration in Central Europe: a ‘post-communist politics’ approach
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Kieran Williams, Brigid Fowler, Aleks Szczerbiak |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jan Corfee-Morlot, Lamia Kamal-Chaoui, Michael G. Donovan, Ian Cochran |
 |---|---|
 | **سال** | 2009 |

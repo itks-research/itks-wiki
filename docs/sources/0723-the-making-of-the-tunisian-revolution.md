@@ -1,7 +1,5 @@
 # The Making of the Tunisian Revolution
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Fadhel Kaboub |

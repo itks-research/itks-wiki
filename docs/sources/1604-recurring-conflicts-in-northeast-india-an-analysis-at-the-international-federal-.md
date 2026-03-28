@@ -1,7 +1,5 @@
 # Recurring Conflicts in Northeast India: An Analysis at the International, Federal and Group Level
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Nikoline Fon Holmøy |

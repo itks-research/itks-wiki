@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Wojciech Bieńkowski, Josef C. Brada, Mariusz-Jan Radło |
 |---|---|
 | **سال** | 2008 |

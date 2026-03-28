@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Raffaela Carvacho, Javier Morán-Kneer, C. Miranda‐Castillo, Virginia Fernández-Fernández, B. Mora, Yasnni Moya, V. Pinilla, I. Toro, C. Valdivia |
 |---|---|
 | **سال** | 2021 |

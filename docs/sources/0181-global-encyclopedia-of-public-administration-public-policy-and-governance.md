@@ -1,7 +1,5 @@
 # Global Encyclopedia of Public Administration, Public Policy, and Governance
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ali Farazmand﻿ |

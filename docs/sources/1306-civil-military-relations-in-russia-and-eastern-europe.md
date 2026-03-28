@@ -1,7 +1,5 @@
 # Civil-Military Relations in Russia and Eastern Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | David Betz |

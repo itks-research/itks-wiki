@@ -1,7 +1,5 @@
 # AN APPRAISAL OF THE AFRICAN UNION AND DEMOCRATIC CONSOLIDATION IN AFRICA
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Cyril Ositadimma Ozor |

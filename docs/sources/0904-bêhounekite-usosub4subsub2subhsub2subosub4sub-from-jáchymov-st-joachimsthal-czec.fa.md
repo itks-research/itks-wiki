@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jakub Plášil, K. Fejfarová, M. Novák, Michal Dušek, Radek Škoda, Jan Hloušek, Jiřı́ Čejka, Juraj Majzlan, Jiří Sejkora, Vladimı́r Machovič, Dominik Talla |
 |---|---|
 | **سال** | 2011 |

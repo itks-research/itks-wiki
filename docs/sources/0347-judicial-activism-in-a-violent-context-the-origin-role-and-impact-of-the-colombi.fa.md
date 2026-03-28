@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Manuel Cepeda-Espinosa |
 |---|---|
 | **سال** | 2004 |

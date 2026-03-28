@@ -1,7 +1,5 @@
 # The United States as Global Sheriff: Using Unilateral Sanctions to Combat Human Trafficking
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Janie A. Chuang |

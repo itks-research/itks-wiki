@@ -1,14 +1,12 @@
 # The July 2002 Reforms in North Korea: Liberman-Style Reforms or Road to Transformation?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Bernhard Seliger |
 | **Year** | 2005 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 21 |
 | **Source** | openalex |
 | **DOI** | [10.3172/nkr.1.1.22](https://doi.org/10.3172/nkr.1.1.22) |

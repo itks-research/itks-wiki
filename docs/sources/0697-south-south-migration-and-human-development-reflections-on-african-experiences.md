@@ -1,7 +1,5 @@
 # South-South Migration and Human Development: Reflections on African Experiences
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Oliver Bakewell |

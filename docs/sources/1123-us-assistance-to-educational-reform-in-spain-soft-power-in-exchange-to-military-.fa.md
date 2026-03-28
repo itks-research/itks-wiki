@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Lorenzo Delgado Gómez-Escalonilla, Patricia de la Hoz Pascua |
 |---|---|
 | **سال** | 2020 |

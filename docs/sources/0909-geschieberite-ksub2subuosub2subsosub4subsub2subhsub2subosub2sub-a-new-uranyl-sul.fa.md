@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Jakub Plášil, Jan Hloušek, Anatoly V. Kasatkin, Radek Škoda, M. Novák, J. Čejka |
 |---|---|
 | **سال** | 2015 |

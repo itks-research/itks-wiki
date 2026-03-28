@@ -1,7 +1,5 @@
 # The place of <i>Shi’i</i> clerics in the first Iranian constitution
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Janet Afary |

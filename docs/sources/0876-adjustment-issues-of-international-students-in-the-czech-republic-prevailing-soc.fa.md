@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ntite Orji Kalu, Tomáš Janík, Martina Kurowski |
 |---|---|
 | **سال** | 2025 |

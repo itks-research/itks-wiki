@@ -1,7 +1,5 @@
 # Political Control
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mai Hassan, Daniel Mattingly, Elizabeth R. Nugent |

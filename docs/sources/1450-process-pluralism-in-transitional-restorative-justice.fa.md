@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Carrie Menkel‐Meadow |
 |---|---|
 | **سال** | 2015 |

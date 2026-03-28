@@ -1,7 +1,5 @@
 # The politics of social status: economic and cultural roots of the populist right
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Noam Gidron, Peter A. Hall |

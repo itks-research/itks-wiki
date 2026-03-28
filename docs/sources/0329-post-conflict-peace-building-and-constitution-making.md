@@ -1,7 +1,5 @@
 # Post-Conflict Peace-Building and Constitution-Making
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Kirsti Samuels |

@@ -1,7 +1,5 @@
 # An In-Vitro Assessment of Operator Accuracy and Inter-Operator Agreement in Recording Shade and Shade Characteristics.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Nesreen A. Salim, Kamran Azizi, Bashar Al-Shboul, Julian D. Satterthwaite |

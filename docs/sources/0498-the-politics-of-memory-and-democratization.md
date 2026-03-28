@@ -1,7 +1,5 @@
 # The Politics of Memory and Democratization
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

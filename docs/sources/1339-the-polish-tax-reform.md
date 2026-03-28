@@ -1,7 +1,5 @@
 # The Polish Tax Reform
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Patrick Lenain, Leszek Bartoszuk |

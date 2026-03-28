@@ -1,7 +1,5 @@
 # On the organization of the activities of the fire and rescue services of the Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | I. Fogilev, Vera Nikolaevna Malinovskaya, Sergey Gennadyevich Mironenko, Roman Vladimirovich Androsenko |

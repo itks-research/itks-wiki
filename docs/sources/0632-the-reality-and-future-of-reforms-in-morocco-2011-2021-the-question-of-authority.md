@@ -1,7 +1,5 @@
 # The Reality and Future of Reforms in Morocco 2011-2021: The Question of Authority
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Taoufik Abdessadek |

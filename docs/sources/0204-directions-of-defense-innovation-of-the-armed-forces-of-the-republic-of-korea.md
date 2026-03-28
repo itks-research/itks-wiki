@@ -1,7 +1,5 @@
 # Directions Of Defense Innovation Of the Armed Forces Of the Republic Of Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Кim Кyu Chul |

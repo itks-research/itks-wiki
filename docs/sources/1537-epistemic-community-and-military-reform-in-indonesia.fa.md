@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Broto Wardoyo |
 |---|---|
 | **سال** | 2018 |

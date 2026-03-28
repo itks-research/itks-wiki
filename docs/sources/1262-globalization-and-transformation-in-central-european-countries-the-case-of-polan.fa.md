@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Tadeusz Kowalski |
 |---|---|
 | **سال** | 2013 |

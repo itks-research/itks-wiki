@@ -1,7 +1,5 @@
 # Borrower Ownership of Adjustment programs and the Political Economy of Reform
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | John H. Johnson, Sulaiman S. Wasty |

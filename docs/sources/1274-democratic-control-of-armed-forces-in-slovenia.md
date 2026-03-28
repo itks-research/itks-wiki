@@ -1,7 +1,5 @@
 # Democratic Control of Armed Forces in Slovenia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anton Bebler |

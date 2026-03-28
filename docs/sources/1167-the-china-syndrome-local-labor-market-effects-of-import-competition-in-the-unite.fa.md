@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | David Autor, David Dorn, Gordon Hanson |
 |---|---|
 | **سال** | 2013 |

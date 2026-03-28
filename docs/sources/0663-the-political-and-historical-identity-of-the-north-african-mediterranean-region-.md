@@ -1,7 +1,5 @@
 # The Political and Historical Identity of the North African Mediterranean Region: A Case Study: Tunisia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jelisaveta Blagojević, Marijan Premovic |

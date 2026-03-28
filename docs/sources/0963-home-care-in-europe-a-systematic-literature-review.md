@@ -1,7 +1,5 @@
 # Home care in Europe: a systematic literature review
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Nadine Genet, W.G.W. Boerma, Dionne Kringos, Ans Bouman, Anneke L. Francke, Cecilia Fagerström, Maria Gabriella Melchiorre, Cosetta Greco, W. Devillé |

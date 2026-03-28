@@ -1,7 +1,5 @@
 # Indonesia 2019-2022: The authoritarian turn as leitmotif of president Jokowi’s second term
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Riwanto Tirtosudarmo, Peter Carey |

@@ -1,7 +1,5 @@
 # Two Decades of<i>Reformasi</i>in Indonesia: Its Illiberal Turn
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Rachael Diprose, Dave McRae, Vedi R. Hadiz |

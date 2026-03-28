@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ira W. Lieberman, Rogi Veimetra |
 |---|---|
 | **سال** | 1996 |

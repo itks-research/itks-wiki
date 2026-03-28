@@ -1,7 +1,5 @@
 # Policy Learning or Diffusion: How China Opened to Foreign Direct Investment
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Min Ye |

@@ -1,7 +1,5 @@
 # Promotion of smoking cessation in developing countries: a framework for urgent public health interventions
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Abu S. Abdullah |

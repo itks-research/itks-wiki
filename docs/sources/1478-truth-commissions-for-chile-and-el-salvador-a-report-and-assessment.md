@@ -1,7 +1,5 @@
 # Truth Commissions for Chile and El Salvador: A Report and Assessment
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mark Ensalaco |

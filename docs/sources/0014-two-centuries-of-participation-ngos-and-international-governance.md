@@ -1,7 +1,5 @@
 # Two Centuries of Participation: NGOs and International Governance
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Steve Charnovitz |

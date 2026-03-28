@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Christopher M. Barr, I. A. P. Resosudarmo, Ahmad Dermawan, John F. McCarthy, M. Moeliono, Bambang Setiono, eds. |
 |---|---|
 | **سال** | 2006 |

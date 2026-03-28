@@ -1,7 +1,5 @@
 # Public Finance and Fiscal Policy in South Africa
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | T. Ajam |

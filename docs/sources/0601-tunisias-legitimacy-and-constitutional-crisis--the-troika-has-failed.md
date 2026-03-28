@@ -1,7 +1,5 @@
 # Tunisia's legitimacy and constitutional crisis : the Troika has failed
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anna Antonakis |

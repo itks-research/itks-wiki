@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Lyman L. Johnson |
 |---|---|
 | **سال** | 1980 |

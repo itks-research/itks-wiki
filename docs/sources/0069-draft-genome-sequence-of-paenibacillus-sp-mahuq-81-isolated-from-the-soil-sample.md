@@ -1,14 +1,12 @@
 # Draft genome sequence of Paenibacillus sp. M.A.Huq-81 isolated from the soil sample of a pine garden located in Anseong, South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Md. Amdadul Huq, Jong-Whi Park, Md. Shahedur Rahman |
 | **Year** | 2025 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1128/mra.01191-25](https://doi.org/10.1128/mra.01191-25) |

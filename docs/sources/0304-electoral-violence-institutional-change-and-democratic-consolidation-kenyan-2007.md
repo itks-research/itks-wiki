@@ -1,7 +1,5 @@
 # Electoral Violence, Institutional Change, and Democratic Consolidation: Kenyan 2007-2022 Election Lessons
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Dennis Wambugu Wandina, Yasin Kuho Ghabon |

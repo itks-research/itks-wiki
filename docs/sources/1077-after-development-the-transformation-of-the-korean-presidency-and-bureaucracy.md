@@ -1,7 +1,5 @@
 # After development: the transformation of the Korean presidency and bureaucracy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

@@ -1,7 +1,5 @@
 # Winners and losers in EU integration
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Helena Tang |

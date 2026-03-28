@@ -1,7 +1,5 @@
 # An Analysis of Bank Fee and Commission Income in the EU and in the Czech Republic in a Low Interest Rate Environment
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Karolína Vozková, P. Teplý |

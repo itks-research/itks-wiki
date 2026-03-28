@@ -1,7 +1,5 @@
 # Making Transition Work for Everyone
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | World Bank |

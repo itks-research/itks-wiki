@@ -1,7 +1,5 @@
 # A Holy Alliance between the Catholic Church and Constitution-Makers? The Diffusion of the Clause of Cooperation in Third Wave Democracies
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Madalena Meyer Resende |

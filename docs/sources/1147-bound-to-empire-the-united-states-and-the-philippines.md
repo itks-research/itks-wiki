@@ -1,7 +1,5 @@
 # Bound to Empire: The United States and the Philippines
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | H. W. Brands |

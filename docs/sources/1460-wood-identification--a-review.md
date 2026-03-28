@@ -1,7 +1,5 @@
 # Wood Identification -A Review
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Elisabeth A. Wheeler, Pieter Baas |

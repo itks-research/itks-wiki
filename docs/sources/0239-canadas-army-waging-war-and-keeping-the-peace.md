@@ -1,7 +1,5 @@
 # Canada's army: waging war and keeping the peace
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

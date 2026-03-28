@@ -1,7 +1,5 @@
 # Pohlite, a new lead iodate hydroxide chloride from Sierra Gorda, Chile
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | A. R. Kampf, G. Harlow, Chiu‐Shun Ma |

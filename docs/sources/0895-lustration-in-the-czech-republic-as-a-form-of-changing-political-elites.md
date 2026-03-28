@@ -1,7 +1,5 @@
 # Lustration in the Czech Republic as a form of changing political elites
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | М. Швед, M. Shved |

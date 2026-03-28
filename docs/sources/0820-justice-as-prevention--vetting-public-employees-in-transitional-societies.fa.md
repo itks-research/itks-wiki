@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Pablo de Greiff, Alexander Mayer-Rieckh |
 |---|---|
 | **سال** | 2007 |

@@ -1,7 +1,5 @@
 # Designing qualitative research
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Shaliha, Farnaz, Mozaffari, Maryam, Ramezani, Faeze, Hajnasiri, Hamideh, Moafi, Farnoosh |

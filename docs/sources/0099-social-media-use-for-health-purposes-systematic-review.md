@@ -1,14 +1,12 @@
 # Social Media Use for Health Purposes: Systematic Review
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Junhan Chen, Yuan Wang |
 | **Year** | 2021 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 914 |
 | **Source** | openalex |
 | **DOI** | [10.2196/17917](https://doi.org/10.2196/17917) |

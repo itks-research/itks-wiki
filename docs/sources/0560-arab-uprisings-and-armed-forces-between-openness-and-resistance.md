@@ -1,7 +1,5 @@
 # Arab Uprisings and Armed Forces: Between Openness and Resistance
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Derek Lutterbeck |

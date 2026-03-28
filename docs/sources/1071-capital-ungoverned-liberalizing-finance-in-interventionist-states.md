@@ -1,7 +1,5 @@
 # Capital ungoverned: liberalizing finance in interventionist states
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

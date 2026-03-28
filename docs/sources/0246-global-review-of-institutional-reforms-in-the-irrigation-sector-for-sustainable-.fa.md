@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | A. Hafied A. Gany, Prachi Sharma, Sahdev Singh |
 |---|---|
 | **سال** | 2018 |

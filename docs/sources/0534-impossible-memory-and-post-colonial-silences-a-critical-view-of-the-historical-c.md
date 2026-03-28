@@ -1,7 +1,5 @@
 # Impossible Memory and Post-Colonial Silences: A Critical View of the Historical Clarification Commission (CEH) or Truth Commission in Guatemala
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Marcia Esparza |

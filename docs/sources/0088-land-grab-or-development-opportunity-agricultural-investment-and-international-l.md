@@ -1,14 +1,12 @@
 # Land grab or development opportunity? Agricultural investment and international land deals in Africa.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Lorenzo Cotula, Sonja Vermeulen, Rebeca Leonard, James F. Keeley |
 | **Year** | 2009 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Trade liberalization and foreign direct investment |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 1069 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://hdl.handle.net/10535/6178) |

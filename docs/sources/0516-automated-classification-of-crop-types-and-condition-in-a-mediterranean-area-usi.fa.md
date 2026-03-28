@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Luis Ángel Ruiz, Jaime Almonacid-Caballer, Pablo Crespo‐Peremarch, J. A. Recio, Josep E. Pardo‐Pascual, Elena Sánchez-García |
 |---|---|
 | **سال** | 2020 |

@@ -1,7 +1,5 @@
 # European Constitutional Courts and Transitions to Democracy
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Catarina Santos Botelho |

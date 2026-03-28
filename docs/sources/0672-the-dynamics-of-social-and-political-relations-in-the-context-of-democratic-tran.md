@@ -1,7 +1,5 @@
 # THE DYNAMICS OF SOCIAL AND POLITICAL RELATIONS IN THE CONTEXT OF DEMOCRATIC TRANSFORMATION IN TURKEY
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | H. Çeli̇k, İbrahim Şahin, A. Öztürk, Emre Aydın |

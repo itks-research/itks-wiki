@@ -1,7 +1,5 @@
 # Between integration and secession: the Muslim communities of the southern Philippines, southern Thailand, and western Burma/Myanmar
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

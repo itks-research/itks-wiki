@@ -1,7 +1,5 @@
 # Gendering Trauma: Ariel Dorfman's Narratives of Crisis and Reconciliation
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Amy Novak |

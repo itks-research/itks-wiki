@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | I. Zakharov, M. Agafoshin |
 |---|---|
 | **سال** | 2024 |

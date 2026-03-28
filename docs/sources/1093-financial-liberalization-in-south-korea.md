@@ -1,7 +1,5 @@
 # Financial liberalization in South Korea
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Eundak Kwon |

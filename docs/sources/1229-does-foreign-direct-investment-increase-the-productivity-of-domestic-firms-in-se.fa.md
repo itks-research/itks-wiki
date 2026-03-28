@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Beata Smarzynska |
 |---|---|
 | **سال** | 2002 |

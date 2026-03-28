@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ismail Dalla, Deena R. Khatkhate |
 |---|---|
 | **سال** | 1995 |

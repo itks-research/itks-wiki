@@ -1,7 +1,5 @@
 # REFLECTIVE TEACHING TOWARD EFL TEACHERS’ PROFESSIONAL AUTONOMY: REVISITING ITS DEVELOPMENT IN INDONESIA
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Arif Husein Lubis |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Z. Varga, A. Nicholl, M. Wallenius, K. Mayer, Todd Mock |
 |---|---|
 | **سال** | 2023 |

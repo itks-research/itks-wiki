@@ -1,7 +1,5 @@
 # State Support for the Arts and the Freedom of Artistic Expression: A Comparative Constitutional Analysis of South Korea and the United States
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ju-hee Eom |

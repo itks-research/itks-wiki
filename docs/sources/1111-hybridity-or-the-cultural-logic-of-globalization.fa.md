@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Marwan M. Kraidy |
 |---|---|
 | **سال** | 2006 |

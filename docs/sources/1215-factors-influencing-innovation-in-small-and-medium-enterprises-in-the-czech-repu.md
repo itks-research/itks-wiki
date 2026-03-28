@@ -1,7 +1,5 @@
 # Factors Influencing Innovation in Small and Medium Enterprises in the Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Marek Ehrenberger, Petra Koudelková, Wadim Striełkowski |

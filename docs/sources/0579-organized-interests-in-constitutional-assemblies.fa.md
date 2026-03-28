@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ian M. Hartshorn |
 |---|---|
 | **سال** | 2017 |

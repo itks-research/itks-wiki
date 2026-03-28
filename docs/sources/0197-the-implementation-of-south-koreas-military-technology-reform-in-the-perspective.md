@@ -1,7 +1,5 @@
 # The Implementation of South Korea’s Military Technology Reform in The Perspective of Techno-nationalism
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | R. Q. Aini, Febry Triantama |

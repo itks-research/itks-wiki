@@ -1,7 +1,5 @@
 # Change in U.S. Policy Toward South Korea in the Early 1960s
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | TaeGyun Park |

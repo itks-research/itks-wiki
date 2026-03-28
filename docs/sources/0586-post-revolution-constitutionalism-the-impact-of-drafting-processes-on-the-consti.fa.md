@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Ahmed H. Elsayed |
 |---|---|
 | **سال** | 2014 |

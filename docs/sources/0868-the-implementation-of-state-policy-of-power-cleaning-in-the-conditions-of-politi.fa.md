@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | V. Goshovska, V. Goshovskyi, L. Dubchak |
 |---|---|
 | **سال** | 2020 |

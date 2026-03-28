@@ -1,7 +1,5 @@
 # Democratic Decline in the United States: What Can We Learn from Middle-Income Backsliding?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Robert R. Kaufman, Stephan Haggard |

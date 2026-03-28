@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Yiwei Xiao, Yuanlin Wang |
 |---|---|
 | **سال** | 2024 |

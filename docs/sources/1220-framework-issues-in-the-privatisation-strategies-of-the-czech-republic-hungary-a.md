@@ -1,7 +1,5 @@
 # Framework Issues in the Privatisation Strategies of the Czech Republic, Hungary and Poland
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Morris Bornstein |

@@ -1,7 +1,5 @@
 # Constructing Citizenship: Gender and Changing Discourses in Tunisia
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Mounira M. Charrad, Amina Zarrugh |

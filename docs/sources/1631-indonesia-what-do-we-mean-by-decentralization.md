@@ -1,7 +1,5 @@
 # Indonesia: what do we mean by decentralization?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Nick Devas |

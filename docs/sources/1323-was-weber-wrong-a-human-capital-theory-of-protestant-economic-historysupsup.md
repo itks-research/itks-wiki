@@ -1,7 +1,5 @@
 # Was Weber Wrong? A Human Capital Theory of Protestant Economic History<sup>*</sup>
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Sascha O. Becker, Ludger Woessmann |

@@ -1,7 +1,5 @@
 # Cuyaite, Ca<sub>2</sub>Mn<sup>3+</sup>As<sup>3+</sup><sub>14</sub>O<sub>24</sub>Cl, a new mineral with an arsenite framework from near Cuya, Camarones Valley, Chile.
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Anthony R. Kampf, Stuart J. Mills, Barbara P. Nash, Maurizio Dini, Arturo A. Molina Donoso |

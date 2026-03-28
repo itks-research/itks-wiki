@@ -1,7 +1,5 @@
 # Religious Freedom and Religious Equality in Western Democracies, 1990–2023: An Empirical Study of Government Policy and Societal Discrimination
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Jonathan Fox, Ariel Zellman |

@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Intisar A. Rabb |
 |---|---|
 | **سال** | 2008 |

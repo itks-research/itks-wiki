@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Z. V., Š. R., L. F., S. J., Haifler J. |
 |---|---|
 | **سال** | 2022 |

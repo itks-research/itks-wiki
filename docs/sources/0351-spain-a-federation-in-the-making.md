@@ -1,7 +1,5 @@
 # Spain: A Federation In The Making?
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Juan José Solozábal |

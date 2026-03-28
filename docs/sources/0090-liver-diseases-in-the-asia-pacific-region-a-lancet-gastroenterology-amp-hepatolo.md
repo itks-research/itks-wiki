@@ -1,14 +1,12 @@
 # Liver diseases in the Asia-Pacific region: a Lancet Gastroenterology &amp; Hepatology Commission
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Shiv Kumar Sarin, Manoj Kumar, Mohammed Eslam, Jacob George, Mamun Al Mahtab, Sheikh Mohammad Fazle Akbar, Jidong Jia, Qiuju Tian, Rakesh Aggarwal, David Handojo Muljono, Masao Omata, Yoshihiko Ooka, Kwang‐Hyub Han, Hye Won Lee, Wasim Jafri, Amna S. Butt, Chern Hao Chong, Seng Gee Lim, Raoh‐Fang Pwu, Ding‐Shinn Chen |
 | **Year** | 2019 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 513 |
 | **Source** | openalex |
 | **DOI** | [10.1016/s2468-1253(19)30342-5](https://doi.org/10.1016/s2468-1253(19)30342-5) |

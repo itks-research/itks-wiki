@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Vijayashri Sripati |
 |---|---|
 | **سال** | 2012 |

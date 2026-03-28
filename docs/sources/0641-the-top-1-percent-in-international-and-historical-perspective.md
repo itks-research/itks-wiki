@@ -1,7 +1,5 @@
 # The Top 1 Percent in International and Historical Perspective
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Facundo Alvaredo, Anthony B. Atkinson, Thomas Piketty, Emmanuel Saez |

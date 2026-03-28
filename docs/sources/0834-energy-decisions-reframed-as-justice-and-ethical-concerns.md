@@ -1,7 +1,5 @@
 # Energy decisions reframed as justice and ethical concerns
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Benjamin K. Sovacool, Raphael J. Heffron, Darren McCauley, Andreas Goldthau |

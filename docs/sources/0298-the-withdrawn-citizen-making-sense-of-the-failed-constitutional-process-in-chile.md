@@ -1,7 +1,5 @@
 # The ‘Withdrawn Citizen’: Making Sense of the Failed Constitutional Process in Chile
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Stefano Palestini, Rodrigo M. Medel |

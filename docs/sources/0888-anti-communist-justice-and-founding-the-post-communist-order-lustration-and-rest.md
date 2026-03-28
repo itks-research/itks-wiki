@@ -1,7 +1,5 @@
 # Anti-Communist Justice and Founding the Post-Communist Order: Lustration and Restitution in Central Europe
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Hilary Appel |

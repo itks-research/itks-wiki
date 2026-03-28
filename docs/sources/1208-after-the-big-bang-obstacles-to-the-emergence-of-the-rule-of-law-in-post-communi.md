@@ -1,7 +1,5 @@
 # After the Big Bang? Obstacles to the Emergence of the Rule of Law in Post-Communist Societies
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Karla Hoff, Joseph E. Stiglitz |

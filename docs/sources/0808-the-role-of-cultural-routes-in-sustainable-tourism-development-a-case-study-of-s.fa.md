@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Bashar Dayoub, Peifeng Yang, Alaa Dayoub, Sarah Omran, He Li |
 |---|---|
 | **سال** | 2020 |

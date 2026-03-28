@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Majid KhosraviNik |
 |---|---|
 | **سال** | 2018 |

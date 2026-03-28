@@ -1,7 +1,5 @@
 # Missing the Third Wave: Islam, Institutions, and Democracy in the Middle East
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Ellen Lust |

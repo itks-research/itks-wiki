@@ -1,7 +1,5 @@
 # Searching for Peace and Achieving Justice: The Need for Accountability
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | M. Cheríf Bassiouni |

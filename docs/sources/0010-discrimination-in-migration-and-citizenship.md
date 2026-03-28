@@ -1,7 +1,5 @@
 # Discrimination in migration and citizenship
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Antje Ellermann |

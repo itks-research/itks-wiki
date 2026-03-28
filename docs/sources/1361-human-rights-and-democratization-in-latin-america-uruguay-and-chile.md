@@ -1,7 +1,5 @@
 # Human rights and democratization in Latin America: Uruguay and Chile
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Unknown |

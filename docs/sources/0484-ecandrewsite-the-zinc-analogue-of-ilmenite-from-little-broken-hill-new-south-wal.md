@@ -1,7 +1,5 @@
 # Ecandrewsite, the zinc analogue of ilmenite, from Little Broken Hill, New South Wales, Australia, and the San Valentin Mine, Sierra de Cartegena, Spain
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | W. D. Birch, E. A. J. Burke, V. J. Wall, M. A. Etheridge |

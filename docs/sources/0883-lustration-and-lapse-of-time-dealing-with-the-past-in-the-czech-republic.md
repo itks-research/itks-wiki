@@ -1,7 +1,5 @@
 # Lustration and Lapse of Time: ‘Dealing with the Past’ in the Czech Republic
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | David Kosař |

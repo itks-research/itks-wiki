@@ -2,8 +2,6 @@
 
 <div dir="rtl" markdown>
 
-**وضعیت:** 🤖 Machine Generated
-
 | نویسندگان | Nurul Hafidloh, Poppy Febriana |
 |---|---|
 | **سال** | 2025 |

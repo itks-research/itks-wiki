@@ -1,7 +1,5 @@
 # Description of a New Species of Neodipara Erd. from Spain (Hym. Chalcidoidea, Pteromalidae)
 
-**Status:** 🤖 Machine Generated
-
 | Field | Value |
 |-------|-------|
 | **Authors** | Karl-Johan Hedqvist |
