@@ -5,9 +5,9 @@
 | نویسندگان | Joseph E. Stiglitz |
 |---|---|
 | **سال** | 1993 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Banking and financial system reform |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 1234 |
 | **شناسه دیجیتال** | [10.1093/wber/7.suppl_1.19](https://doi.org/10.1093/wber/7.suppl_1.19) |
 

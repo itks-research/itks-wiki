@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Steven J. Davis |
 | **Year** | 2016 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Sanctions unwinding and international reintegration |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 452 |
 | **Source** | openalex |
 | **DOI** | [10.3386/w22740](https://doi.org/10.3386/w22740) |

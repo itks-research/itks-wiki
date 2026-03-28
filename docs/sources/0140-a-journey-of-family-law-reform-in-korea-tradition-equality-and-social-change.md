@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Hyunah Yang |
 | **Year** | 2008 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Civil society development |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 8 |
 | **Source** | openalex |
 

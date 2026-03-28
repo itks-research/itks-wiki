@@ -1,6 +1,6 @@
-# Iran Transition Knowledge System
+# Iran Development Knowledge System
 
-An autonomous research system mapping democratic transition pathways relevant to Iran's future governance.
+An autonomous research system mapping democratic development pathways relevant to Iran's future governance.
 
 This wiki is built and maintained by an AI research agent that continuously discovers, indexes, evaluates, and synthesizes academic and policy sources. Every claim traces back to a verifiable source.
 

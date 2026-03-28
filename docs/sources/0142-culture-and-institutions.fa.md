@@ -5,9 +5,9 @@
 | نویسندگان | Alberto Alesina, Paola Giuliano |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 1404 |
 | **شناسه دیجیتال** | [10.1257/jel.53.4.898](https://doi.org/10.1257/jel.53.4.898) |
 

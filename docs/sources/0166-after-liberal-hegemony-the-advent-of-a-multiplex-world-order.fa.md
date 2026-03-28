@@ -5,9 +5,9 @@
 | نویسندگان | Amitav Acharya |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 427 |
 | **شناسه دیجیتال** | [10.1017/s089267941700020x](https://doi.org/10.1017/s089267941700020x) |
 

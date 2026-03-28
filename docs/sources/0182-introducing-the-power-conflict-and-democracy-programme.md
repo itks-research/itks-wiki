@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Olle Törnquist |
 | **Year** | 2017 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 250 |
 | **Source** | openalex |
 | **DOI** | [10.22146/pcd.25672](https://doi.org/10.22146/pcd.25672) |

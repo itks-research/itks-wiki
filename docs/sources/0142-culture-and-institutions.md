@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Alberto Alesina, Paola Giuliano |
 | **Year** | 2015 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 1404 |
 | **Source** | openalex |
 | **DOI** | [10.1257/jel.53.4.898](https://doi.org/10.1257/jel.53.4.898) |

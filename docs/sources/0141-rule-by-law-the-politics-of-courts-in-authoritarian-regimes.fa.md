@@ -5,9 +5,9 @@
 | نویسندگان | Tom Ginsburg, Tom Ginsburg, Tom Ginsburg, Anthony W. Pereira, Tom Ginsburg, Gordon Silverstein, Lisa Hilbink, Tamir Moustafa, Robert Barros, Beatriz Magaloni, Pierre Landry, Jennifer Widner, Peter H. Solomon, Hootan Shambayati, Hilton L. Root, Martin Shapiro |
 |---|---|
 | **سال** | 2008 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Judicial independence and rule of law |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 652 |
 | **شناسه دیجیتال** | [10.1017/cbo9780511814822](https://doi.org/10.1017/cbo9780511814822) |
 

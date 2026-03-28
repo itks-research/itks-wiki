@@ -6,7 +6,7 @@
 | **Year** | 2011 |
 | **Category** | Civil-military relations and security sector reform |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 468 |
 | **Source** | openalex |
 | **DOI** | [10.1017/s0043887111000049](https://doi.org/10.1017/s0043887111000049) |

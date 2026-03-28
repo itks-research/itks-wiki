@@ -6,7 +6,7 @@
 | **Year** | 2020 |
 | **Category** | Civil-military relations and security sector reform |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 495 |
 | **Source** | openalex |
 | **DOI** | [10.1007/s00146-020-00992-2](https://doi.org/10.1007/s00146-020-00992-2) |

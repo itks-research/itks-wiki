@@ -5,9 +5,9 @@
 | نویسندگان | Muzammil Hussain, Philip N. Howard |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Media freedom and press institution building |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 345 |
 | **شناسه دیجیتال** | [10.5860/choice.51-2322](https://doi.org/10.5860/choice.51-2322) |
 

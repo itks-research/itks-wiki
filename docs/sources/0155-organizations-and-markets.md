@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Herbert A. Simon |
 | **Year** | 1991 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Banking and financial system reform |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1199 |
 | **Source** | openalex |
 | **DOI** | [10.1257/jep.5.2.25](https://doi.org/10.1257/jep.5.2.25) |

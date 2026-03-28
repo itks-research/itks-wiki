@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | Muzammil Hussain, Philip N. Howard |
 | **Year** | 2013 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Media freedom and press institution building |
+| **Secondary Categories** | Political party formation and pluralism |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 345 |
 | **Source** | openalex |
 | **DOI** | [10.5860/choice.51-2322](https://doi.org/10.5860/choice.51-2322) |

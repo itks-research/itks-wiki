@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Catherine Lu |
 | **Year** | 2017 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Transitional justice |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 268 |
 | **Source** | openalex |
 | **DOI** | [10.1017/cbo9781108329491](https://doi.org/10.1017/cbo9781108329491) |

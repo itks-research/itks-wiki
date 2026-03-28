@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | World Bank |
 | **Year** | 2017 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1089 |
 | **Source** | openalex |
 | **DOI** | [10.1596/978-1-4648-1096-1](https://doi.org/10.1596/978-1-4648-1096-1) |

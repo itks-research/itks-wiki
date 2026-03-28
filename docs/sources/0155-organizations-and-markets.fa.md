@@ -5,9 +5,9 @@
 | نویسندگان | Herbert A. Simon |
 |---|---|
 | **سال** | 1991 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Banking and financial system reform |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1199 |
 | **شناسه دیجیتال** | [10.1257/jep.5.2.25](https://doi.org/10.1257/jep.5.2.25) |
 

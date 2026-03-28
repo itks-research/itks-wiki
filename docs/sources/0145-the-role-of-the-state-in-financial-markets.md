@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Joseph E. Stiglitz |
 | **Year** | 1993 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Banking and financial system reform |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 1234 |
 | **Source** | openalex |
 | **DOI** | [10.1093/wber/7.suppl_1.19](https://doi.org/10.1093/wber/7.suppl_1.19) |

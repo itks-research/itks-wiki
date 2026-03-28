@@ -5,9 +5,9 @@
 | نویسندگان | Steven J. Davis |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
+| **دسته‌بندی** | Sanctions unwinding and international reintegration |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 452 |
 | **شناسه دیجیتال** | [10.3386/w22740](https://doi.org/10.3386/w22740) |
 

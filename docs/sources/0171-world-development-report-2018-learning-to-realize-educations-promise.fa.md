@@ -5,9 +5,9 @@
 | نویسندگان | World Bank |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1089 |
 | **شناسه دیجیتال** | [10.1596/978-1-4648-1096-1](https://doi.org/10.1596/978-1-4648-1096-1) |
 

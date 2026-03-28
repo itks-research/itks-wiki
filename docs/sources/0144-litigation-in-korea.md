@@ -5,8 +5,9 @@
 | **Authors** | Unknown |
 | **Year** | 2010 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Judicial independence and rule of law |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 3 |
 | **Source** | openalex |
 | **DOI** | [10.4337/9781849805179](https://doi.org/10.4337/9781849805179) |

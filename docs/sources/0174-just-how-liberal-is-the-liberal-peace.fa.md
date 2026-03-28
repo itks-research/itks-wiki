@@ -5,9 +5,9 @@
 | نویسندگان | Madhav Joshi, SungYong Lee, Roger Mac Ginty |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 64 |
 | **شناسه دیجیتال** | [10.1080/13533312.2014.932065](https://doi.org/10.1080/13533312.2014.932065) |
 

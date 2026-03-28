@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Juliet Kaarbo |
 | **Year** | 2015 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 323 |
 | **Source** | openalex |
 | **DOI** | [10.1111/misr.12213](https://doi.org/10.1111/misr.12213) |

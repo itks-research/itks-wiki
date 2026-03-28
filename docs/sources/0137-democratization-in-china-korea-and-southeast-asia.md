@@ -5,8 +5,9 @@
 | **Authors** | Unknown |
 | **Year** | 2014 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Political party formation and pluralism, Federalism, unitarism, and autonomy models |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 13 |
 | **Source** | openalex |
 | **DOI** | [10.4324/9781315889788](https://doi.org/10.4324/9781315889788) |

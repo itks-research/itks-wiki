@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Daron Acemoğlu, Pascual Restrepo |
 | **Year** | 2019 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1985 |
 | **Source** | openalex |
 | **DOI** | [10.1257/jep.33.2.3](https://doi.org/10.1257/jep.33.2.3) |
