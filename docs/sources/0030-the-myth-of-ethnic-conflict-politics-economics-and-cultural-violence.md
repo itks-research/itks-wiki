@@ -6,9 +6,9 @@
 |-------|-------|
 | **Authors** | Beverly Crawford, Ronnie D. Lipschutz |
 | **Year** | 1998 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 108 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://escholarship.org/uc/item/7hc733q3) |

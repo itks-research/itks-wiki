@@ -6,9 +6,9 @@
 |-------|-------|
 | **Authors** | Benjamin Reilly |
 | **Year** | 2007 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Electoral system design and implementation |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 49 |
 | **Source** | openalex |
 | **DOI** | [10.1017/s1598240800008705](https://doi.org/10.1017/s1598240800008705) |

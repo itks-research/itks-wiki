@@ -6,9 +6,9 @@
 |-------|-------|
 | **Authors** | Steve Charnovitz |
 | **Year** | 1997 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Civil society development |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 417 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://repository.law.umich.edu/mjil/vol18/iss2/1) |

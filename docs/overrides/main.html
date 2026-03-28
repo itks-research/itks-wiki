@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {% if config.extra and config.extra.lang == "fa" %}
+  <style>
+    .md-content { direction: rtl; text-align: right; }
+    .md-content table { direction: rtl; }
+    .md-typeset h1, .md-typeset h2, .md-typeset h3 { text-align: right; }
+  </style>
+  {% endif %}
+{% endblock %}

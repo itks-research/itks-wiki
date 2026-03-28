@@ -1,0 +1,20 @@
+# Measuring the performance of state‐owned enterprises in South Korea
+
+<div dir="rtl" markdown>
+
+**وضعیت:** 🤖 Machine Generated
+
+| نویسندگان | Gerald E. Caiden, Kwanbo Kim |
+|---|---|
+| **سال** | 1993 |
+| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **مطالعه موردی** | South Korea |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 2 |
+| **شناسه دیجیتال** | [10.1080/02185379308434028](https://doi.org/10.1080/02185379308434028) |
+
+## چکیده
+
+Click to increase image sizeClick to decrease image size Notes Gerald Caiden is Professor in the School of Public Administration at the University of Southern California. Kwanbo Kim is a doctoral candidate at the same university.
+
+</div>

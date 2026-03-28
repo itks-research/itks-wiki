@@ -1,0 +1,19 @@
+# Norms and Nannies: The Impact of International Organizations on the Central and East European States
+
+<div dir="rtl" markdown>
+
+**وضعیت:** 🤖 Machine Generated
+
+| نویسندگان | Ronald H. Linden |
+|---|---|
+| **سال** | 2002 |
+| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **مطالعه موردی** | Poland |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 103 |
+
+## چکیده
+
+Chapter 1 Introduction: The Impact of International Organizations on the Central and Eastern European States-Conceptual and Theoretical Issues Part 2 PART I: European Organizations and East European Democracy Chapter 3 The Democratic Dimension of EU Enlargement: The Role of Parliament and Public Opinion Chapter 4 Transferring Transparency: The Impact of European Institutions on East-Central Europe Part 5 PART II: Impact on Countries Chapter 6 Slovenia and the European Union: A Different Kind of Two-Level Game Chapter 7 Which Way to Progress? The Impact of International Organizations in Romania Chapter 8 NATO Standards and Military Reform in Poland: A Revolution from Without Chapter 9 Security and Identity in Southeast Europe: Bulgaria, NATO and the War in Kosovo Part 10 PART III: Impact in Policy Areas Chapter 11 Transformation, Accession to the European Union, and Institutional Design: The Fate of Tripartism Chapter 12 European Integration and Minority Rights: The Case of Hungary and its Neighbors Chapter 13 Harmonizing Laws with the European Union: The Case of Intellectual Property Rights in the Czech Republic Chapter 14 The Diffusion of EU Social and Employment Legislation in Poland and Hungary Chapter 15 The Pivotal EU Role in the Creation of Czech Regional Policy Chapter 16 Political Business Cycles in EU Accession Countries Chapter 17 Conclusion: International Organizations and East Europe-Bringing Parallel Tracks Together
+
+</div>

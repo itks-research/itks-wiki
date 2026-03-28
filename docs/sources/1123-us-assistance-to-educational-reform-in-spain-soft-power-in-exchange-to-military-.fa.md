@@ -1,0 +1,19 @@
+# U.S. Assistance to Educational Reform in Spain: Soft Power in Exchange to Military Bases
+
+<div dir="rtl" markdown>
+
+**وضعیت:** 🤖 Machine Generated
+
+| نویسندگان | Lorenzo Delgado Gómez-Escalonilla, Patricia de la Hoz Pascua |
+|---|---|
+| **سال** | 2020 |
+| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **مطالعه موردی** | Spain |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 3 |
+
+## چکیده
+
+As the editors, we would like to point out that the research that has made this publication possible has been funded by the research project “International Relations and the Modernization of the Spanish Educational and Scientific System, 1953–1986” (Spanish Ministry of Economy, Industry, and Competitiveness, HAR2014-58685-R). We are sincerely grateful for this support, which was essential for the completion of this study
+
+</div>

@@ -8,7 +8,7 @@
 | **Year** | 2026 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.12688/f1000research.174333.1](https://doi.org/10.12688/f1000research.174333.1) |

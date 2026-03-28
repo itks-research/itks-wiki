@@ -6,9 +6,9 @@
 |-------|-------|
 | **Authors** | Nahyun Cho, Younkuk Choi, Heekyung Kim, Jeongmin Yun, Hyungsun Jun, Changsop Yang, Sungha Kim, Jungtae Leem |
 | **Year** | 2025 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.3390/medicina61091564](https://doi.org/10.3390/medicina61091564) |

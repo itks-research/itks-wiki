@@ -1,0 +1,23 @@
+# Theory of Constitutional Reform of South Korea's Power Structure : Constitutional Reform Directions to Overcome Limitations of the 1987 Constitution
+
+<div dir="rtl" markdown>
+
+**وضعیت:** 🤖 Machine Generated
+
+| نویسندگان | Man-hee Jeong |
+|---|---|
+| **سال** | 2025 |
+| **دسته‌بندی** | Constitutional design and drafting processes |
+| **مطالعه موردی** | South Korea |
+| **امتیاز ارتباط** | 4.0 |
+| **تعداد استنادها** | 0 |
+| **شناسه دیجیتال** | [10.35901/kjcl.2025.31.2.1](https://doi.org/10.35901/kjcl.2025.31.2.1) |
+
+## چکیده
+
+Amid severe constitutional crises such as the December 3rd Martial Law Declaration and impeachment proceedings, political circles, academia, and media have strongly advocated constitutional reform to overcome the limitations of the 1987 constitutional framework. The core focus of reform lies in addressing systemic flaws, including the concentration of presidential power through winner-takes-all dynamics, the risks of imperial presidency, and governance paralysis under divided governments. These issues necessitate fundamental restructuring of the current presidential power structure to resolve chronic governmental gridlock and administrative breakdowns. This perspective asserts that the 1987 Constitution, originally designed to prevent prolonged presidential dominance, has exhausted its functional utility, thereby necessitating structural reforms to the current presidential system under the emergent paradigm of power dispersion and collaborative governance. 
+The reality of South Korea's presidential system reveals persistent flaws of imperial presidency that remain entrenched in authoritarian governance patterns from previous constitutional eras, even after the adoption of direct elections through constitutional amendment. The concentration of power in a single executive has repeatedly led to governance failures, as presidents exercise expansive authority without adequate procedural constraints from the National Assembly or internal executive branch mechanisms. Despite constitutional safeguards rooted in the separation of powers principle, presidential overreach frequently bypasses legislative oversight and administrative checks in practice. 
+Recent debates on constitutional reform directions for South Korea's power structure have crystallized into a binary choice: adopting a dual executive system to disperse presidential authority or implementing a four-year renewable presidential term with reduced executive powers. While the fundamental reform trajectory should ultimately be determined through political consensus informed by public opinion, I maintain as previously articulated in governmental reform discussions that a partial, phased amendment approach preserving the current presidential framework while addressing institutional flaws remains preferable. Though the dual executive system, grounded in power diffusion principles and parliamentary elements, appears theoretically ideal, its inherent dual-headed governance structure risks generating new political conflicts. Serious doubts persist regarding its capacity to adapt to Korea's unique political culture and yield positive outcomes. 
+As a concrete constitutional reform measure, first, the adoption of a four-year renewable presidential term is deemed imperative to ensure systemic legitimacy of the presidential system while enhancing administrative accountability and efficiency. This proposal aligns with the majority will of the people and would reduce divided government frequency by synchronizing presidential and National Assembly election cycles. Concurrently, establishing a vice presidency is essential to bolster democratic legitimacy during interim presidential authority delegation. Second, to dispel concerns over presidential power concentration and the operation of an imperial presidency, it is imperative to disperse and reduce constitutional presidential authority while strengthening oversight mechanisms over executive power. This necessitates redefining the roles of the Prime Minister and State Council members beyond mere advisory capacities, granting them autonomous administrative authority within defined parameters.
+
+</div>

@@ -7,8 +7,9 @@
 | **Authors** | Torsten Persson, Guido Tabellini |
 | **Year** | 2004 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Electoral system design and implementation, Political party formation and pluralism |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 304 |
 | **Source** | openalex |
 | **DOI** | [10.1257/089533004773563449](https://doi.org/10.1257/089533004773563449) |

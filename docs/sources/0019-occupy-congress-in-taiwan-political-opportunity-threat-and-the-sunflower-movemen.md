@@ -6,9 +6,9 @@
 |-------|-------|
 | **Authors** | Ming‐sho Ho |
 | **Year** | 2015 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 88 |
 | **Source** | openalex |
 | **DOI** | [10.1017/s1598240800004173](https://doi.org/10.1017/s1598240800004173) |

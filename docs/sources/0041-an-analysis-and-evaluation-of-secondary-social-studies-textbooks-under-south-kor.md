@@ -7,8 +7,9 @@
 | **Authors** | K. Son |
 | **Year** | 2025 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Education system reform and curriculum modernization |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.55152/kerj.46.3.381](https://doi.org/10.55152/kerj.46.3.381) |

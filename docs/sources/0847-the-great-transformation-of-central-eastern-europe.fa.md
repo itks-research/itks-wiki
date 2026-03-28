@@ -1,0 +1,20 @@
+# The great transformation of Central Eastern Europe
+
+<div dir="rtl" markdown>
+
+**وضعیت:** 🤖 Machine Generated
+
+| نویسندگان | János Kornai |
+|---|---|
+| **سال** | 2006 |
+| **دسته‌بندی** | Transitional justice |
+| **مطالعه موردی** | Czech Republic |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 258 |
+| **شناسه دیجیتال** | [10.1111/j.1468-0351.2006.00252.x](https://doi.org/10.1111/j.1468-0351.2006.00252.x) |
+
+## چکیده
+
+Abstract The study examines the changes of the Central Eastern European region first in the context of world history. It confirms by comparative historical analyses that the transformation was indeed unique. This has been the only total transformation that took place peacefully, without violence, and at the same time astonishingly fast, in the main direction of the economic and the political changes of Western civilization. From that perspective it is an exceptional success story. However, from the perspective of everyday life, the result is different. Deep economic troubles are experienced by a considerable portion of the population. The perception of losses is intensified by various cognitive problems. Based on the experience of today's generation, evaluating the change as an unequivocal success would be unwarranted. Both approaches are justified: it would be wrong to blend the two and to weigh them by the same scale.
+
+</div>

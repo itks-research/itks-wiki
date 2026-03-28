@@ -8,7 +8,7 @@
 | **Year** | 2023 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 99 |
 | **Source** | openalex |
 | **DOI** | [10.59117/20.500.11822/43008](https://doi.org/10.59117/20.500.11822/43008) |

@@ -6,9 +6,9 @@
 |-------|-------|
 | **Authors** | Christopher Crowe, Ellen E. Meade |
 | **Year** | 2007 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Banking and financial system reform |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 296 |
 | **Source** | openalex |
 | **DOI** | [10.1257/jep.21.4.69](https://doi.org/10.1257/jep.21.4.69) |

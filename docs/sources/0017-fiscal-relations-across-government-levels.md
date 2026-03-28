@@ -6,9 +6,9 @@
 |-------|-------|
 | **Authors** | Isabelle Joumard, Per Mathis Kongsrud |
 | **Year** | 2003 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Federalism, unitarism, and autonomy models |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 212 |
 | **Source** | openalex |
 | **DOI** | [10.1787/455513871742](https://doi.org/10.1787/455513871742) |

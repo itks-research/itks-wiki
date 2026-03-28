@@ -1,0 +1,20 @@
+# Mineralogy and physicochemical features of Saharan dust wet deposited in the Iberian Peninsula during an extreme red rain event
+
+<div dir="rtl" markdown>
+
+**وضعیت:** 🤖 Machine Generated
+
+| نویسندگان | Carlos Rodríguez‐Navarro, Fulvio Di Lorenzo, Kerstin Elert |
+|---|---|
+| **سال** | 2018 |
+| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **مطالعه موردی** | Tunisia |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 93 |
+| **شناسه دیجیتال** | [10.5194/acp-18-10089-2018](https://doi.org/10.5194/acp-18-10089-2018) |
+
+## چکیده
+
+Abstract. The mineralogy and physicochemical features of Saharan dust particles help to identify source areas and determine their biogeochemical, radiative, and health effects, but their characterization is challenging. Using a multianalytical approach, here we characterized with unprecedented level of detail the mineralogy and physicochemical properties of Saharan dust particles massively wet deposited ( ∼ 18 g m−2) following an extreme red rain event triggered by a northern African cyclone that affected the southern Iberian Peninsula during 21–23 February 2017. Abundant palygorskite and illite, and relatively high carbonate contents, well-known northern and north-western Saharan dust indicators, along with low chlorite content and significant amounts of smectites and kaolinite, whose abundance increases southwards in the western Sahara, complemented by satellite imagery and back/forward trajectories, show that the most probable dust source areas were (i) southern/central Algeria, northern Mali, and northwestern Niger, and (ii) northern Algeria, southern Tunisia, and northwestern Libya. Scanning and transmission electron microscopy analyses, including Z-contrast high angle annular dark field (HAADF) imaging and analytical electron microscopy (AEM), show that clay minerals include abundant structural Fe (55 % of the total Fe) and typically form nanogranular aggregates covered or interspersed with amorphous/poorly crystalline iron oxyhydroxide nanoparticles (ferrihydrite), which account for ∼ 18 % of the free Fe, the rest being goethite and hematite. These nanogranular aggregates tend to form rims lining large silicate and carbonate particles. Such internally mixed iron-containing phases are the main contributors to the observed absorption of solar and thermal radiation, and along with the abundant coarse/giant particles ( &gt; 10 µm) strongly affect the dust direct radiative forcing. The lack of secondary sulfates in aggregates of unaltered calcite internally mixed with clays/iron-rich nanoparticles shows that iron-rich nanoparticles did not form via atmospheric (acid) processing but were already present in the dust source soils. Such iron-rich nanoparticles, in addition to iron-containing clay (nano)particles, are the source of the ∼ 20 % soluble (bioavailable) iron in the studied desert dust. The dust particles are a potential health hazard, specifically the abundant and potentially carcinogenic iron-containing palygorskite fibers. Ultimately, we show that different source areas are activated over large desert extensions, and large quantities of complex dust mixtures are transported thousands of kilometers and wet-deposited during such extreme events, which dwarf any other Saharan dust event affecting southwestern Europe. The past, present, and future trends, as well as impacts, of such extreme events must be taken into account when evaluating and modeling the manifold effects of the desert dust cycle.
+
+</div>

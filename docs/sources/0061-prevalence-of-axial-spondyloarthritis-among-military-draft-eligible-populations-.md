@@ -6,9 +6,9 @@
 |-------|-------|
 | **Authors** | H. Kim, P. W. Yoon, J. Yoon, D.H. Lee, E. Cho, S. Park, S. Park, Jun-Ki Moon |
 | **Year** | 2025 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1136/military-2024-002901](https://doi.org/10.1136/military-2024-002901) |

@@ -1,0 +1,20 @@
+# Financial Liberalization and the Economic Crisis in Asia
+
+<div dir="rtl" markdown>
+
+**وضعیت:** 🤖 Machine Generated
+
+| نویسندگان | نامشخص |
+|---|---|
+| **سال** | 2003 |
+| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **مطالعه موردی** | South Korea |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 50 |
+| **شناسه دیجیتال** | [10.4324/9780203218150](https://doi.org/10.4324/9780203218150) |
+
+## چکیده
+
+Chung H. Lee Introduction: Issues and Findings 1. Bhanupong Nidhiprabha Premature Liberalization and Economic Crisis in Thailand 2. Anwar Nasution Financial Sector Reform and the Current Economic Crisis in Indonesia 3. Yoon Je Cho The Political Economy of the Financial Liberalization in South Korea 4. Chin Kok FayandJomo, K.S. From Financial Liberalization to Crisis in Malaysia 5. Maria Socorro Gochoco-Bautista Financial Liberalization and Economic Reform: The Philippine Experience 6. Thomas F. Cargill Japan, the Asian Crisis and Financial Liberalization 7. Nicholas R. Lardy The Case of China 8. Rajendra R. Vaiday Liberalization in India: Issues and Prospects
+
+</div>

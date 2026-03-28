@@ -8,7 +8,7 @@
 | **Year** | 2004 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 2030 |
 | **Source** | openalex |
 | **DOI** | [10.3386/w10481](https://doi.org/10.3386/w10481) |

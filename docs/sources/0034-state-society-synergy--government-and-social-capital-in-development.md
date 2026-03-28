@@ -6,9 +6,9 @@
 |-------|-------|
 | **Authors** | Peter Evans |
 | **Year** | 1997 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Civil society development |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 184 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://escholarship.org/content/qt8mp05335/qt8mp05335.pdf?t=leyrhc) |

@@ -1,0 +1,20 @@
+# The Spanish Legal Framework for curbing the Public Debt and the Deficit
+
+<div dir="rtl" markdown>
+
+**وضعیت:** 🤖 Machine Generated
+
+| نویسندگان | Violeta Ruiz Almendral |
+|---|---|
+| **سال** | 2013 |
+| **دسته‌بندی** | Constitutional design and drafting processes |
+| **مطالعه موردی** | Spain |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 24 |
+| **شناسه دیجیتال** | [10.1017/s1574019612001113](https://doi.org/10.1017/s1574019612001113) |
+
+## چکیده
+
+Constitutional reform in Spain – Budgetary stability – Debt and deficit limits – Fiscal Compact – Six Pack – Two Pack – Fiscal federalism – ‘State of autonomies’ – Financing of the autonomous communities – Adoption of an ‘internal stability pact’
+
+</div>

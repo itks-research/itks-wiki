@@ -6,9 +6,9 @@
 |-------|-------|
 | **Authors** | Janie A. Chuang |
 | **Year** | 2006 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Sanctions unwinding and international reintegration |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 137 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://digitalcommons.wcl.american.edu/cgi/viewcontent.cgi?article=2061&context=facsch_lawrev) |

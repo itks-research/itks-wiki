@@ -6,9 +6,9 @@
 |-------|-------|
 | **Authors** | Manmohan Kumar |
 | **Year** | 2007 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Banking and financial system reform |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 120 |
 | **Source** | openalex |
 | **DOI** | [10.5089/9781589066090.071](https://doi.org/10.5089/9781589066090.071) |

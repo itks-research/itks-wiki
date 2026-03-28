@@ -8,7 +8,7 @@
 | **Year** | 1995 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 69 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://repository.law.umich.edu/mjil/vol16/iss3/8) |

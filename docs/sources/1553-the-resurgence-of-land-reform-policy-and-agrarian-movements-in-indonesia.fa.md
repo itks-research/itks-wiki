@@ -1,0 +1,19 @@
+# The Resurgence of Land Reform Policy and Agrarian Movements in Indonesia
+
+<div dir="rtl" markdown>
+
+**وضعیت:** 🤖 Machine Generated
+
+| نویسندگان | Noer Fauzi Rachman |
+|---|---|
+| **سال** | 2011 |
+| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **مطالعه موردی** | Indonesia |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 40 |
+
+## چکیده
+
+On January 31, 2007, Indonesian President Susilo Bambang Yudhoyono announced a new land redistribution program that was part of the implementation of a land reform policy called Reforma Agraria. The program was to be launched in conjunction with a land registration program as part of a government strategy to eradicate poverty. The launch of the program was a watershed event that had been engineered by the head of the National Land Agency (NLA) in collaboration with agrarian movement activists who had struggled for years for agrarian social justice.The resurgence of land reform policy was fostered through a unique partnership of activists, scholars, and reformist government officials. This new political space for manuever was made possible in 1998 by the end of Suharto's "New Order" which had previously harnessed the bureaucracy, police, and military to control the rural masses through various mechanisms of coercion and consent, while constructing the apparatus for centralizing management and reaping profits from the nation's land and forest resources. The new land redistribution program called the National Agrarian Reform Program (NARP) focused on the redistribution of state lands for the rural poor claiming 8.15 million hectares of state forest land under the jurisdiction of the Ministry of Forestry and another 1.1 million hectares from other state lands under National Land Agency (NLA) authority, and 7.3 million hectares of other "idle lands" under their jurisdiction to be redistributed. When the ambitious program met with considerable political challenge, the NLA quickly reframed the reform as a government sponsored land title legalization, a program that not only better fit with the interests of the existing neoliberal economic growth model, but also allowed the NLA to tout its land title legalization programs as a major contribution to the success of President Yudhoyono's government. This reframing ruptured the NLA's working relationship with agrarian activists, unveiling the processes by which land reform policy in Indonesia is made and unmade. This dissertation examines how land policy processes and agrarian movements in Java, Indonesia, have been mutually constituted through continuous (and ongoing) processes of movement success and movement setback. My research traces how the actors and forces are produced, and how the trajectories and conjunctures at which they meet, enable or constrain them to becoming influential. I explore state-society interactions pertaining to land reform, articulating the multiple and interconnected sites of struggle, and showing how they contribute to the empowering or disempowering of the existing politics governing land access. The purpose is to understand, as Stuart Hall formulates it, "how they work, what their limits and possibilities are, what they can and cannot accomplish." (Hall 2007:280).Focusing on the conflict over land occupation events in West Java, this dissertation shows how the movements' objectives over time have both conflicted, competed, and come together with the politics and practices of the National Land Agency (NLA) of the Indonesian government, and the State Forestry Corporation (SFC), at multiple sites of land policy making processes. This dissertation concludes that the tension, interaction, and convergence of these objectives have rendered unfinished the projects of both reform and anti-reform.
+
+</div>

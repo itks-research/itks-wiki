@@ -1,0 +1,20 @@
+# Grand Narratives of Transition and the Quest for Democratic Constitutionalism in India and South Africa
+
+<div dir="rtl" markdown>
+
+**وضعیت:** 🤖 Machine Generated
+
+| نویسندگان | T. Roux |
+|---|---|
+| **سال** | 2024 |
+| **دسته‌بندی** | Constitutional design and drafting processes |
+| **مطالعه موردی** | Spain |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 2 |
+| **شناسه دیجیتال** | [10.5771/0506-7286-2024-1-5](https://doi.org/10.5771/0506-7286-2024-1-5) |
+
+## چکیده
+
+There are currently two contrasting ways of narrating the Indian and South African constitutional transitions. The first contends that they were moments when liberal constitutionalism was adapted to the circumstances of the Global South. In contrast to what happened in many other post-colonial countries, this narrative goes, constitution-making in both India and South Africa was driven by a broadly representative liberation movement that had endeavoured to catch the colonial state in the contradiction between its claimed ‘civilising mission’ and the reality of its oppressive operation. At independence, the Congress party in India and the African National Congress in South Africa expressed this conception of the anti-colonial struggle in constitutions that repurposed liberal constitutionalism to the challenges of post-colonial governance. In so doing, they not only pluralised that approach to governance beyond the West. They developed it in ways that are relevant to the revival of liberal constitutionalism in the Global North. The second narrative, detectable in recent work in decolonial theory, but also in an older tradition of culturalist critique in each country, rejects this account of liberal constitutionalism’s already-achieved de-Westernisation. Far from demonstrating the universalisability of liberal constitutionalism’s animating principles, adherents of this second narrative maintain, the Indian and South African Constitutions simply reflect the values of the Westernised political elite that adopted them. As such, they prolong the colonial past into the colonial present and perpetuate the suppression of indigenous lifeways that began under colonial rule. After setting out these two narratives as they apply to each country, this paper brings them into dialogue with each other. Rather than offering a purportedly neutral framework by which to assess them, each narrative is treated as the other’s most demanding interlocutor, alert to its blind spots and convenient omissions. Proceeding in this way, the paper contends that, notwithstanding their many differences, the two narratives – charitably interpreted – are committed to the same ideal: a distinctively Southern conception of constitutionalism that gives the post-colonial state a central role in overcoming past injustices and creating the conditions for active citizenship. The final section of the paper examines the suggestions that adherents of the charitable version of each narrative make about how to realise this ideal in India and South Africa. The problem with the second narrative, the decolonial/culturalist story, is that its adherents’ call for fundamental constitutional overhaul tends to be lacking in detail and also in attentiveness to the political context in which such a call would be implemented. One very real challenge for adherents of the charitable version of this narrative is the risk that any new constitution-making process might be dominated by political actors with an exclusionary conception of the relevant national people. The first narrative, the ‘liberal constitutionalism already de-Westernised’ story, points in the direction of incremental adjustment rather than complete constitutional overhaul. While absolving its adherents of the need to design things afresh, this does not mean they have an easier run of things. Indeed, if anything, the demands on them are higher given the evident failure of the Indian and South African Constitutions thus far to realise their ambitions.
+
+</div>

@@ -8,7 +8,7 @@
 | **Year** | 1992 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 154 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=1291&context=cilj) |

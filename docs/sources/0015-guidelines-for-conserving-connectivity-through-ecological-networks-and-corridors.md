@@ -6,9 +6,9 @@
 |-------|-------|
 | **Authors** | Jodi Hilty, Graeme L. Worboys, Annika T. H. Keeley, Stephen Woodley, Barbara J. Lausche, Harvey Locke, Mark H. Carr, Ian Pulsford, Jamie Pittock, J. Wilson White, David M. Theobald, Jessica Levine, Melly Reuling, James Watson, Rob Ament, Gary Tabor |
 | **Year** | 2020 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 426 |
 | **Source** | openalex |
 | **DOI** | [10.2305/iucn.ch.2020.pag.30.en](https://doi.org/10.2305/iucn.ch.2020.pag.30.en) |

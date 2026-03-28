@@ -6,9 +6,9 @@
 |-------|-------|
 | **Authors** | Chaihark Hahm |
 | **Year** | 2025 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 47 |
 | **Source** | openalex |
 | **DOI** | [10.52214/cjal.v16i2.13692](https://doi.org/10.52214/cjal.v16i2.13692) |

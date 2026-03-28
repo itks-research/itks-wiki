@@ -6,9 +6,9 @@
 |-------|-------|
 | **Authors** | Casey B. Mulligan, Ricard Gil, Xavier Sala-i-Martín |
 | **Year** | 2004 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Electoral system design and implementation |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 666 |
 | **Source** | openalex |
 | **DOI** | [10.1257/089533004773563430](https://doi.org/10.1257/089533004773563430) |

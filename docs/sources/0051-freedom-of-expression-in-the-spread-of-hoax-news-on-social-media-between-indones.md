@@ -6,9 +6,9 @@
 |-------|-------|
 | **Authors** | Rini Jarwati Indah N. C, Dhea Zeftyaningrum, Richo Febria Putra, Dio Ashar Wicaksana |
 | **Year** | 2024 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Media freedom and press institution building |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 2 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.71239/jicl.v1i3.12](https://doi.org/10.71239/jicl.v1i3.12) |

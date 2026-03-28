@@ -6,9 +6,9 @@
 |-------|-------|
 | **Authors** | Heejin Han, Sang Wuk Ahn |
 | **Year** | 2020 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Civil society development |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 309 |
 | **Source** | openalex |
 | **DOI** | [10.3390/su12104127](https://doi.org/10.3390/su12104127) |

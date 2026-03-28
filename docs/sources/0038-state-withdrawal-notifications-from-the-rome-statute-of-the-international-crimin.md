@@ -6,9 +6,9 @@
 |-------|-------|
 | **Authors** | Manisuli Ssenyonjo |
 | **Year** | 2017 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Transitional justice |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 78 |
 | **Source** | openalex |
 | **DOI** | [10.1007/s10609-017-9321-z](https://doi.org/10.1007/s10609-017-9321-z) |

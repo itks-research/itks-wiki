@@ -8,7 +8,7 @@
 | **Year** | 2007 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 55 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://escholarship.org/uc/item/6jw9d0mf) |

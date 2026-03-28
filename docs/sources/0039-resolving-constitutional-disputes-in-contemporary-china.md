@@ -8,7 +8,7 @@
 | **Year** | 2011 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 47 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=1056&context=ealr) |

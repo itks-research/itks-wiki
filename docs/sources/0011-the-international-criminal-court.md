@@ -6,9 +6,9 @@
 |-------|-------|
 | **Authors** | Marlies Glasius |
 | **Year** | 2006 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Judicial independence and rule of law |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 224 |
 | **Source** | openalex |
 | **DOI** | [10.4324/9780203414514](https://doi.org/10.4324/9780203414514) |

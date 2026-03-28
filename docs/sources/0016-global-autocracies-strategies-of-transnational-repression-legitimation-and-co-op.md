@@ -6,9 +6,9 @@
 |-------|-------|
 | **Authors** | Gerasimos Tsourapas |
 | **Year** | 2020 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 194 |
 | **Source** | openalex |
 | **DOI** | [10.1093/isr/viaa061](https://doi.org/10.1093/isr/viaa061) |

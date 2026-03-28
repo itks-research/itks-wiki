@@ -7,8 +7,9 @@
 | **Authors** | Seungik Lee |
 | **Year** | 2025 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Political party formation and pluralism, Civil society development |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.12797/politeja.22.2025.95.04](https://doi.org/10.12797/politeja.22.2025.95.04) |

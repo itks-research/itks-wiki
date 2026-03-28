@@ -6,9 +6,9 @@
 |-------|-------|
 | **Authors** | Cyril Obi |
 | **Year** | 2009 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Federalism, unitarism, and autonomy models |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 147 |
 | **Source** | openalex |
 | **DOI** | [10.4314/ad.v34i2.57373](https://doi.org/10.4314/ad.v34i2.57373) |

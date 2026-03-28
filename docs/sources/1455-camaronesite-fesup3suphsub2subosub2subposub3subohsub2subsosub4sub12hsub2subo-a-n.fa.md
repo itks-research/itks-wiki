@@ -1,0 +1,20 @@
+# Camaronesite, [Fe<sup>3+</sup>(H<sub>2</sub>O)<sub>2</sub>(PO<sub>3</sub>OH)]<sub>2</sub>(SO<sub>4</sub>)·1–2H<sub>2</sub>O, a new phosphate-sulfate from the Camarones Valley, Chile, structurally related to taranakite
+
+<div dir="rtl" markdown>
+
+**وضعیت:** 🤖 Machine Generated
+
+| نویسندگان | Anthony R. Kampf, Stuart J. Mills, Barbara P. Nash, R. M. Housley, George R. Rossman, Maurizio Dini |
+|---|---|
+| **سال** | 2013 |
+| **دسته‌بندی** | Transitional justice |
+| **مطالعه موردی** | Chile |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 10 |
+| **شناسه دیجیتال** | [10.1180/minmag.2013.077.4.05](https://doi.org/10.1180/minmag.2013.077.4.05) |
+
+## چکیده
+
+Abstract Camaronesite (IMA 2012-094), [Fe 3+ (H 2 O) 2 (PO 3 OH)] 2 (SO 4 )·1–2H 2 O, is a new mineral from near the village of Cuya in the Camarones Valley, Arica Province, Chile. The mineral is a low-temperature, secondary mineral occurring in a sulfate assemblage with anhydrite, botryogen, chalcanthite, copiapite, halotrichite, hexahydrite, hydroniumjarosite, pyrite, römerite, rozenite and szomolnokite. Lavender-coloured crystals up to several mm across form dense intergrowths. More rarely crystals occur as drusy aggregates of tablets up to 0.5 mm in diameter and 0.02 mm thick. Tablets are flattened on {001} and exhibit the forms {001}, {104}, {015} and {018}. The mineral is transparent with white streak and vitreous lustre. The Mohs hardness is 2½, the tenacity is brittle and the fracture is irregular, conchoidal and stepped. Camaronesite has one perfect cleavage on {001}. The measured and calculated densities are 2.43(1) and 2.383 g/cm 3 , respectively. The mineral is optically uniaxial (+) with ω = 1.612(1) and ε = 1.621(1) (white light). The pleochroism is O (pale lavender) &gt; E (colourless). Electron-microprobe analyses provided Fe 2 O 3 31.84, P 2 O 5 29.22, SO 3 15.74, H 2 O 23.94 (based on O analyses), total 100.74 wt.%. The empirical formula (based on 2 P a.p.f.u.) is: Fe 1.94 (PO 3 OH) 2 (S 0.96 O 4 )(H 2 O) 4 ·1.46H 2 O. The mineral is slowly soluble in concentrated HCl and extremely slowly soluble in concentrated H 2 SO 4 . Camaronesite is trigonal, R32, with cell parameters:a = 9.0833(5), c = 42.944(3) Å, V = 3068.5(3) Å 3 and Z = 9. The eight strongest lines in the X-ray powder diffraction pattern are [ d obs Å (I)(hkl) ]: 7.74(45)(101), 7.415(100)(012), 4.545(72)(110), 4.426(26)(018), 3.862(32)(021,202,116), 3.298(93)(027,119), 3.179(25)(208) and 2.818(25)(1·1·12,125). In the structure of camaronesite ( R 1 = 2.28% for 1138 F o &gt; 4σ F ), three types of Fe octahedra are linked by corner sharing with (PO3OH) tetrahedra to form polyhedral layers perpendicular to c with composition [Fe 3+ (H 2 O) 2 (PO 3 OH)]. Two such layers are joined through SO 4 tetrahedra (in two half-occupied orientations) to form thick slabs of composition [Fe 3+ (H 2 O) 2 (PO 3 OH)] 2 (SO 4 ). Between the slabs are partially occupied H 2 O groups. The only linkages between the slabs are hydrogen bonds. The most distinctive component in the structure consists of two Fe octahedra linked to one another by three PO 4 tetrahedra yielding an [Fe 2 (PO 4 ) 3 ] unit. This unit is also the key component in the sodium super-ionic conductor (NASICON) structure and has been referred to as the lantern unit. The polyhedral layers in the structure of camaronesite are similar to those in the structure of taranakite. The Raman spectrum exhibits peaks consistent with sulfate, phosphate, water and OH groups.
+
+</div>

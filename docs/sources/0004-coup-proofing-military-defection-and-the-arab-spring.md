@@ -6,9 +6,9 @@
 |-------|-------|
 | **Authors** | Michael Makara |
 | **Year** | 2013 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Civil-military relations and security sector reform |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 164 |
 | **Source** | openalex |
 | **DOI** | [10.1080/17419166.2013.802983](https://doi.org/10.1080/17419166.2013.802983) |

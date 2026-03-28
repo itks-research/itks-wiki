@@ -6,9 +6,9 @@
 |-------|-------|
 | **Authors** | Sinta Alfi Rosyida, Basuki Kurniawan |
 | **Year** | 2023 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Electoral system design and implementation |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 2 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.35719/rch.v4i3.292](https://doi.org/10.35719/rch.v4i3.292) |

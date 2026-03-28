@@ -6,9 +6,9 @@
 |-------|-------|
 | **Authors** | Francesco Chirico, Tarja Heponiemi, Milena Pavlova, Salvatore Zaffina, Nicola Magnavita |
 | **Year** | 2019 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 111 |
 | **Source** | openalex |
 | **DOI** | [10.3390/ijerph16142470](https://doi.org/10.3390/ijerph16142470) |

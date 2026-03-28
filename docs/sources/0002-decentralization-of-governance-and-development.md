@@ -6,9 +6,9 @@
 |-------|-------|
 | **Authors** | Pranab Bardhan |
 | **Year** | 2002 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Federalism, unitarism, and autonomy models |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 1765 |
 | **Source** | openalex |
 | **DOI** | [10.1257/089533002320951037](https://doi.org/10.1257/089533002320951037) |

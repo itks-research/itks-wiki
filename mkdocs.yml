@@ -14,9 +14,25 @@ theme:
     - navigation.expand
     - search.suggest
     - search.highlight
+  custom_dir: docs/overrides
 
 plugins:
   - search
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: fa
+          name: فارسی
+          build: true
+          nav_translations:
+            Home: خانه
+            Dashboard: داشبورد
+            Knowledge Graph: نمودار دانش
 
 nav:
   - Home: index.md

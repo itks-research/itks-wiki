@@ -6,9 +6,9 @@
 |-------|-------|
 | **Authors** | Marcus Colchester, Marco Boscolo, A. Contreras-Hermosilla, Gatto F.D., Jason Dempsey, Guillaume Lescuyer, K. Obidzinski, D. Pommier, Meryl Richards, Sembiring S.S., Luca Tacconi, Rios M.T.S., Andrew Wells |
 | **Year** | 2006 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Resource curse management |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 110 |
 | **Source** | openalex |
 | **DOI** | [10.17528/cifor/001965](https://doi.org/10.17528/cifor/001965) |

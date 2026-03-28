@@ -8,7 +8,7 @@
 | **Year** | 2020 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.31557/apjcp.2020.21.10.2823](https://doi.org/10.31557/apjcp.2020.21.10.2823) |

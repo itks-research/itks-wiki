@@ -1,0 +1,20 @@
+# The politics of writing in Iran: a history of modern Persian literature
+
+<div dir="rtl" markdown>
+
+**وضعیت:** 🤖 Machine Generated
+
+| نویسندگان | Rahimieh, N |
+|---|---|
+| **سال** | 2000 |
+| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **مطالعه موردی** | Tunisia |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 57 |
+| **شناسه دیجیتال** | [10.5860/choice.38-0764](https://doi.org/10.5860/choice.38-0764) |
+
+## چکیده
+
+This study emphasizes the pattern of literary change in Iran, as it focuses on the relationship between the constructive elements of literary creativity, literary movement, ideology, and metaphorical language of modern Persian authors.
+
+</div>

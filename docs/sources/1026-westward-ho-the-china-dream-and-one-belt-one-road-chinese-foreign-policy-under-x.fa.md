@@ -1,0 +1,20 @@
+# Westward ho-the China dream and ‘one belt, one road’: Chinese foreign policy under Xi Jinping
+
+<div dir="rtl" markdown>
+
+**وضعیت:** 🤖 Machine Generated
+
+| نویسندگان | Peter Ferdinand |
+|---|---|
+| **سال** | 2016 |
+| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **مطالعه موردی** | South Korea |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 552 |
+| **شناسه دیجیتال** | [10.1111/1468-2346.12660](https://doi.org/10.1111/1468-2346.12660) |
+
+## چکیده
+
+China's domestic politics and foreign policy have evolved considerably under President Xi Jinping. Domestically the regime has actively promoted the idea of the ‘China dream’ to restore optimism and enthusiasm about its future, particularly among young people. Yet it has also sought to differentiate the socialist China dream from any resemblance to the American dream. Its main emphasis is on making China ‘strong and powerful’ again. In foreign policy, the leadership has become more active. While China has pursued a more robust policy in the South China Sea, it has also launched two extremely ambitious long-term projects to expand land and maritime transport links between China and Europe, termed the ‘one belt, one road’ initiative. They aim to promote development of western China, but if successful, they should also help to transform economic relations across large parts of Eurasia. In geopolitical terms, they will expand China's shadow over regions of the world where hitherto its presence has been relatively modest. They should strengthen links with Europe, as well as with other countries along the routes, to counterbalance potentially conflictual relations with the US. However, success will require active and enthusiastic cooperation from many neighbours. For that reason the risks are as great as the ambition.
+
+</div>

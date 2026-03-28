@@ -7,8 +7,9 @@
 | **Authors** | Ju-hee Eom |
 | **Year** | 2025 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Education system reform and curriculum modernization, Civil society development |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.21592/eucj.2025.49.261](https://doi.org/10.21592/eucj.2025.49.261) |

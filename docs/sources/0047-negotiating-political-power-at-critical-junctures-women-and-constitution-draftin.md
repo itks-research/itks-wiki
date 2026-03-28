@@ -7,8 +7,9 @@
 | **Authors** | Nila Mohanan |
 | **Year** | 2021 |
 | **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Political party formation and pluralism, Women's rights codification and gender equality |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1177/00219096211025806](https://doi.org/10.1177/00219096211025806) |

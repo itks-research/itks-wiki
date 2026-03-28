@@ -1,0 +1,20 @@
+# The Worldwide Standard of Living Since 1800
+
+<div dir="rtl" markdown>
+
+**وضعیت:** 🤖 Machine Generated
+
+| نویسندگان | Richard A. Easterlin |
+|---|---|
+| **سال** | 2000 |
+| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **مطالعه موردی** | Spain |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 275 |
+| **شناسه دیجیتال** | [10.1257/jep.14.1.7](https://doi.org/10.1257/jep.14.1.7) |
+
+## چکیده
+
+By many measures a revolution in living conditions is sweeping the world. Most people today are better fed, clothed, and house than their predecessors two centuries ago. They are healthier, live longer, and are better educated. Women's lives are less centered on reproduction, and political democracy has gained a foothold. Current international differences in a number of standard of living indicators are significantly correlated. Historically, however, these improvements often started at quite different times, suggesting that the determinants of change in different aspects of the standard of living are varied.
+
+</div>

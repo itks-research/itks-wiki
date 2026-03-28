@@ -1,0 +1,20 @@
+# Constitutional and Legal Aspects of the Processes of (De)nationalisation and Privatisation of land and of state-owned enterprises – Macedonian examples of controversial politicisation and elitisation
+
+<div dir="rtl" markdown>
+
+**وضعیت:** 🤖 Machine Generated
+
+| نویسندگان | Tanja Karakamisheva-Jovanovska |
+|---|---|
+| **سال** | 2024 |
+| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **مطالعه موردی** | South Korea |
+| **امتیاز ارتباط** | در انتظار |
+| **تعداد استنادها** | 0 |
+| **شناسه دیجیتال** | [10.21029/jael.2024.37.227](https://doi.org/10.21029/jael.2024.37.227) |
+
+## چکیده
+
+The process of transition from former socialist to democratic systems brought to surface numerous questions about the political, legal, economic, social and cultural transformation in the societies in which these systems existed. With the fall of the Berlin wall and the so-called Iron Curtain, the former socialist states faced numerous challenges in dealing with the unfair nationalisation of citizens’ private property, dilemmas on how to apply a denationalisation process that will be fair and just, and which model of privatisation of state-owned capital to apply, having in mind the experience of the more advanced western democracies. The key issues in this context were: which type of market economy to choose, how fast should the transition be implemented and through which methods; the answers to these questions differed from country to country, because the transition, just as in a game of chess, does not have a winning formula, but offers merely a limited set of general rules of behaviour. The quest for an intellectually perfect concept of transition that would cover all possible scenarios and details would mean indefinite delay in its application. However, the lack of a coherent and clear strategy also generates serious social and economic problems. This is what the transfer from a planned and politically monolithic economy to a  pluralistic and market-oriented economy has done in the countries of Central, Eastern and Southeast Europe, leaving behind a number of open issues and dilemmas. On the other hand, certain governments which captured the state institutions and did not set any boundaries between the party (personal) interests and the state interests, caused additional political turbulence. Partisan domination in the public/state administration had a  strong effect on the ongoing privatisation processes, because business and the party in power were always on the same side of the coin. The high degree of political control over state resources created fertile ground for the emergence of political elites which entirely usurped the national economic potential of the given countries. Unlike the Central and East European countries, which successfully completed their denationalisation processes, the number of incomplete denationalisation cases in Macedonia is devastating. This paper will focus on the Macedonian transition under the influence of the transition processes in the region and will reveal a number of specific features of the Macedonian model. It will show the connection between the captured state and the privatisation of state capital. This connection results in a strong influx of private capital in the hands of the political elite through dubious processes of state capital privatisation, thus generating sources of corruption, clientelism, elitism, technocraticism and other similar processes that reflect the political power in a captured state.
+
+</div>

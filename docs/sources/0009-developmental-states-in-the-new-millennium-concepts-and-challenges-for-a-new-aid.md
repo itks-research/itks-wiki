@@ -6,9 +6,9 @@
 |-------|-------|
 | **Authors** | Verena Fritz, Alina Rocha Menocal |
 | **Year** | 2007 |
-| **Category** | Constitutional design and drafting processes |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 215 |
 | **Source** | openalex |
 | **DOI** | [10.1111/j.1467-7679.2007.00384.x](https://doi.org/10.1111/j.1467-7679.2007.00384.x) |
