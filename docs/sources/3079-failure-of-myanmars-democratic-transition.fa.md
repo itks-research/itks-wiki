@@ -5,8 +5,8 @@
 | نویسندگان | Evisia Novitri, Supriyadi Supriyadi, Adhiningasih Prabhawati |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.19184/e-sospol.v10i1.37686](https://doi.org/10.19184/e-sospol.v10i1.37686) |

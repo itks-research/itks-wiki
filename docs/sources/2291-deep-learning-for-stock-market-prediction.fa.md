@@ -5,8 +5,8 @@
 | نویسندگان | Mojtaba Nabipour, Pooyan Nayyeri, Hamed Jabani, Amir Mosavi, Ely Salwana, S. Shahab |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 366 |
 | **شناسه دیجیتال** | [10.3390/e22080840](https://doi.org/10.3390/e22080840) |

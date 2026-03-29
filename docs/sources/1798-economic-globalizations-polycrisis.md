@@ -6,7 +6,7 @@
 | **Year** | 2024 |
 | **Category** | Sanctions unwinding and international reintegration |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 40 |
 | **Source** | openalex |
 | **DOI** | [10.1093/isq/sqae024](https://doi.org/10.1093/isq/sqae024) |

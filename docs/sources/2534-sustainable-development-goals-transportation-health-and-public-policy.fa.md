@@ -5,8 +5,8 @@
 | نویسندگان | Vahid Mohamad Taghvaee, Abbas Assari Arani, Mehrab Nodehi, Jalil Khodaparast Shirazi, Lotfali Agheli, Haji Mohammad Neshat Ghojogh, Nafiseh Salehnia, Amir Mirzaee, Saeed Taheri, Raziyeh Mohammadi Saber, Hady Faramarzi, Reza Alvandi, Hosein Ahmadi Rahbarian |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Judicial independence and rule of law |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | استقلال قضایی و حاکمیت قانون |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 72 |
 | **شناسه دیجیتال** | [10.1108/reps-12-2019-0168](https://doi.org/10.1108/reps-12-2019-0168) |

@@ -6,7 +6,7 @@
 | **Year** | 2004 |
 | **Category** | Media freedom and press institution building |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 9 |
 | **Source** | openalex |
 | **DOI** | [10.1111/j.0023-5962.2004.00241.x](https://doi.org/10.1111/j.0023-5962.2004.00241.x) |
@@ -15,3 +15,11 @@
 ## Abstract
 
 Summary This paper explores the role of media in economic development. In particular, we seek to outline the conditions under which the media contributes to the successful adoption of policies aimed at economic progress. Our core thesis is that successful economic development requires the coordination of efforts by politicians with the interests of the populace on policies that bring about economic growth. However, the nature of the relationship between political actors in charge of reform is characterized by a conflict of interests. The role of media as a key mechanism for transforming these situations of conflict into situations of coordination between politicians and the populace is analyzed. Specifically, we consider four factors — media autonomy, legal structure, quality of the media and consumer demand — and how they impact media as a coordination‐enhancing mechanism. Historical examples of the media in developing countries provide further insight into the circumstances necessary for media to be an effective coordination‐enhancing mechanism. We consider the impact of a free media in cases where successful economic development has occurred — Hungary and Poland. We also consider the Ukraine as a case where media has failed to overcome the conflict characterizing the reform process, and Bulgaria as a situation where politicians and the populace have failed to coordinate around ‘good’ reforms despite having a free media. Our paper concludes with some policy recommendations regarding the achievement of a free and effective media.
+
+## Related Sources
+
+- **extends** [Struggling with Media Capture: Romania](4547-struggling-with-media-capture-romania.md)
+- **extends** [Managing Labor Market Reforms: Case Study of Poland](4573-managing-labor-market-reforms-case-study-of-poland.md)
+- **supports** [The ‘right to be forgotten’ and the right to freedom of expression and information-legal problems on the basis of the judgment of the Supreme Administrative Court of 9 February 2023](4512-the-right-to-be-forgotten-and-the-right-to-freedom-of-expression-and-information.md)
+- **extends** [The Politics of Laughter: Nasser, Sadat, and Mubarek in Egyptian Political Jokes](4530-the-politics-of-laughter-nasser-sadat-and-mubarek-in-egyptian-political-jokes.md)
+- **extends** [The Role of the Media in Transitions from Authoritarian Political Systems: Russia and Poland since the Fall of Communism](4498-the-role-of-the-media-in-transitions-from-authoritarian-political-systems-russia.md)

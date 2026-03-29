@@ -5,8 +5,8 @@
 | نویسندگان | Ebrahim Ezzati, Shahram Molavynejad, Amir Jalali, M. Cheraghi, Simin Jahani, Dariush Rokhafroz |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 6 |
 | **شناسه دیجیتال** | [10.1186/s12912-022-01157-w](https://doi.org/10.1186/s12912-022-01157-w) |

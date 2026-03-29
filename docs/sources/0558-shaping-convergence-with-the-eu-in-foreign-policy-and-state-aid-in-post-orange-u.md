@@ -15,3 +15,8 @@
 ## Abstract
 
 This essay analyses convergence with EU rules in Ukraine in two policy areas—foreign and security policy and state aid regulation. Comparing the two, we find different levels of convergence, somewhat higher in foreign policy (but slowing down after 2010) than in state aid law regulation. We explain this by analysing the presence and actions of oligarchs as veto players that have had an extensive influence on policy in the Ukrainian political system in recent years. In policy areas where convergence with EU rules negatively affects the interests of oligarchs and their political allies, we see only limited convergence with EU legislation and policies.
+
+## Related Sources
+
+- **extends** [Challenging the anocracy model: Iran’s foreign policy in Iraq as an obstacle to democracy?](3912-challenging-the-anocracy-model-irans-foreign-policy-in-iraq-as-an-obstacle-to-de.md)
+- **contradicts** [TRANSFORMATION OF IRAN'S FOREIGN POLICY COURSE IN THE CONTEXT OF THE RUSSIAN-UKRAINIAN WAR, 2022–2025](3914-transformation-of-irans-foreign-policy-course-in-the-context-of-the-russian-ukra.md)

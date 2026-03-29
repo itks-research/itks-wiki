@@ -6,7 +6,7 @@
 | **Year** | 2012 |
 | **Category** | Judicial independence and rule of law |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 33 |
 | **Source** | openalex |
 | **DOI** | [10.5771/9783845259185](https://doi.org/10.5771/9783845259185) |

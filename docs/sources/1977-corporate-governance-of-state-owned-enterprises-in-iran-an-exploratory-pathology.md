@@ -6,7 +6,7 @@
 | **Year** | 2022 |
 | **Category** | Privatization and state-owned enterprise restructuring |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 8 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1108/imefm-10-2019-0445](https://doi.org/10.1108/imefm-10-2019-0445) |

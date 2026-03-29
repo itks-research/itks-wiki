@@ -5,8 +5,8 @@
 | نویسندگان | Dr. Omid Haass, P. Akhavan, Prof. Yuan Miao, Maryam Soltani, Associate Prof. Tony, Dr. Neda Azizi |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 19 |
 | **شناسه دیجیتال** | [10.34105/j.kmel.2023.15.005](https://doi.org/10.34105/j.kmel.2023.15.005) |

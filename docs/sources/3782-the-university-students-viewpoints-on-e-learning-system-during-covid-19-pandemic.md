@@ -6,7 +6,7 @@
 | **Year** | 2022 |
 | **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 23 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1016/j.heliyon.2022.e08984](https://doi.org/10.1016/j.heliyon.2022.e08984) |

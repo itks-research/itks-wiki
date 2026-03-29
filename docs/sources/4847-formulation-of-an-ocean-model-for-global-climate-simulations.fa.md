@@ -5,8 +5,8 @@
 | نویسندگان | Stephen M. Griffies, Anand Gnanadesikan, Keith W. Dixon, John P. Dunne, RÃ ⁄ diger Gerdes, Matthew Harrison, A. Rosati, J. L. Russell, Bonita L. Samuels, M. J. Spelman, Michael Winton, Rong Zhang |
 |---|---|
 | **سال** | 2005 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 394 |
 | **شناسه دیجیتال** | [10.5194/os-1-45-2005](https://doi.org/10.5194/os-1-45-2005) |

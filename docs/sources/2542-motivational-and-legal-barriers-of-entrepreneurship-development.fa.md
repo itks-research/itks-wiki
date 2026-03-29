@@ -5,8 +5,8 @@
 | نویسندگان | Khaled Nawaser, Seyed Mohammad Sadegh Khaksar, Fatemeh Shaksian, Asghar Afshar Jahanshahi |
 |---|---|
 | **سال** | 2011 |
-| **دسته‌بندی** | Judicial independence and rule of law |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | استقلال قضایی و حاکمیت قانون |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 49 |
 | **شناسه دیجیتال** | [10.5539/ijbm.v6n11p112](https://doi.org/10.5539/ijbm.v6n11p112) |

@@ -5,8 +5,8 @@
 | نویسندگان | Selda Ulucanlar, Gary Fooks, Anna Gilmore |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Political party formation and pluralism |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | شکل‌گیری احزاب سیاسی و تکثرگرایی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 257 |
 | **شناسه دیجیتال** | [10.1371/journal.pmed.1002125](https://doi.org/10.1371/journal.pmed.1002125) |

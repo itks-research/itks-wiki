@@ -5,8 +5,8 @@
 | نویسندگان | Hassan Mina, Samira Mehrabi, Roya Ashrafidehkordi, Parisa Karimi-Ashtiani |
 |---|---|
 | **سال** | 2026 |
-| **دسته‌بندی** | Political party formation and pluralism |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | شکل‌گیری احزاب سیاسی و تکثرگرایی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.1108/jhlscm-05-2025-0076](https://doi.org/10.1108/jhlscm-05-2025-0076) |

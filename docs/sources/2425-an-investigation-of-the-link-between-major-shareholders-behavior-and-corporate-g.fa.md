@@ -5,8 +5,8 @@
 | نویسندگان | Rezvan Pourmansouri, Amir Mehdiabadi, Vahid Shahabi, Cristi Spulbăr, Ramona Birău |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 35 |
 | **شناسه دیجیتال** | [10.3390/jrfm15050208](https://doi.org/10.3390/jrfm15050208) |

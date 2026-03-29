@@ -6,7 +6,7 @@
 | **Year** | 2006 |
 | **Category** | Privatization and state-owned enterprise restructuring |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 4 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.18559/ebr.2006.2.530](https://doi.org/10.18559/ebr.2006.2.530) |

@@ -6,7 +6,7 @@
 | **Year** | 2003 |
 | **Category** | Diaspora repatriation and reintegration |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 32 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://www.ssoar.info/ssoar/handle/document/6538) |

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Conrad Schetter |
 | **Year** | 2003 |
-| **Category** | Religious freedom and separation of religion from state |
-| **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Category** | Federalism, unitarism, and autonomy models |
+| **Case Study** | Poland |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 133 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://hdl.handle.net/10419/88366) |

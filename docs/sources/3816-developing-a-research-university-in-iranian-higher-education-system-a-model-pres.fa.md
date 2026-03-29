@@ -5,8 +5,8 @@
 | نویسندگان | Shakibaei Zohreh, Ghourchian Nadergholi, Ali Khalkhali |
 |---|---|
 | **سال** | 2011 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 6 |
 | **شناسه دیجیتال** | [10.1016/j.sbspro.2011.04.090](https://doi.org/10.1016/j.sbspro.2011.04.090) |

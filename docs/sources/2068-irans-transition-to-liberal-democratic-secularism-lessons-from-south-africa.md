@@ -5,8 +5,9 @@
 | **Authors** | Pooyan Tamimi Arab |
 | **Year** | 2025 |
 | **Category** | Religious freedom and separation of religion from state |
+| **Secondary Categories** | Political party formation and pluralism |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.53895/ftj1606](https://doi.org/10.53895/ftj1606) |

@@ -6,7 +6,7 @@
 | **Year** | 2021 |
 | **Category** | Political party formation and pluralism |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 664 |
 | **Source** | openalex |
 | **DOI** | [10.3390/sym13040525](https://doi.org/10.3390/sym13040525) |

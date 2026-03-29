@@ -5,8 +5,9 @@
 | **Authors** | Claire Q. Smith, Susannah G. Williams |
 | **Year** | 2021 |
 | **Category** | Civil-military relations and security sector reform |
-| **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Secondary Categories** | Political party formation and pluralism |
+| **Case Study** | Indonesia |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 13 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1163/1875-984X-13020004](https://doi.org/10.1163/1875-984X-13020004) |

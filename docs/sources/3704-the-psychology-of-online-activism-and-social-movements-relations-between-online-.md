@@ -6,7 +6,7 @@
 | **Year** | 2020 |
 | **Category** | Internet and digital infrastructure as civic space |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 177 |
 | **Source** | openalex |
 | **DOI** | [10.1016/j.copsyc.2020.03.003](https://doi.org/10.1016/j.copsyc.2020.03.003) |

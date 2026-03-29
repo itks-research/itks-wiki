@@ -5,8 +5,8 @@
 | نویسندگان | Jan Delhey, Klaus Boehnke, Georgi Dragolov, Zsófia S. Ignácz, Mandi M. Larsen, Jan Lorenz, Michael Koch |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 102 |
 | **شناسه دیجیتال** | [10.1163/15691330-12341468](https://doi.org/10.1163/15691330-12341468) |

@@ -5,8 +5,8 @@
 | نویسندگان | Hai-Dan Yuan, Qianqian Ma, Ye Li, Guangchun Piao |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 2336 |
 | **شناسه دیجیتال** | [10.3390/molecules21050559](https://doi.org/10.3390/molecules21050559) |

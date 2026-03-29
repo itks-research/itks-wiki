@@ -5,8 +5,8 @@
 | نویسندگان | Teresa Coelho, Luı́s F. Maia, Ana Silva, Márcia Waddington‐Cruz, Violaine Planté‐Bordeneuve, Pierre Lozeron, Ole B. Suhr, Josep M. Campistol, Isabel Conceição, Hartmut Schmidt, Pedro Trigo, Jeffery W. Kelly, Richard Labaudinière, Jason Chan, Jeff Packman, Amy C. Wilson, Donna R. Grogan, Oscar C Imventarza, Pablo J Wainberg, Lucas M Berra, Henryk Maultasch, Jaime Gold, Juan Carlos Pare Bardera, Andree Zibert |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 785 |
 | **شناسه دیجیتال** | [10.1212/wnl.0b013e3182661eb1](https://doi.org/10.1212/wnl.0b013e3182661eb1) |

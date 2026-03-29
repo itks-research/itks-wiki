@@ -5,8 +5,8 @@
 | نویسندگان | Faisal Faisal, Mutiafatma Arum Hapsari, Corina Joseph, Maylia Pramono Sari |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 6 |
 | **شناسه دیجیتال** | [10.1080/23311975.2024.2362423](https://doi.org/10.1080/23311975.2024.2362423) |

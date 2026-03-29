@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | S. Parra-Soto, F. Petermann-Rocha, M. Martínez-Sanguinetti, Ana María Leiva-Ordeñez, C. Troncoso-Pantoja, N. Ulloa, Ximena Díaz-Martínez, Carlos Celis-Morales |
 | **Year** | 2020 |
-| **Category** | Transitional justice |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 10 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.4067/S0034-98872020001001489](https://doi.org/10.4067/S0034-98872020001001489) |

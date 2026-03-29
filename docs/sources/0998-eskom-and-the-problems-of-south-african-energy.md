@@ -6,7 +6,7 @@
 | **Year** | 2023 |
 | **Category** | Privatization and state-owned enterprise restructuring |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 2 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.31132/2412-5717-2023-65-4-31-43](https://doi.org/10.31132/2412-5717-2023-65-4-31-43) |

@@ -5,8 +5,8 @@
 | نویسندگان | Agus Arwani, Shinta Dewi Rismawati, Hafidz Ma’shum, Zaenal Mustakim, K. Ismanto, Happy Rista Devy, Mohammad Rosyada, Farida Rohmah |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 4 |
 | **شناسه دیجیتال** | [10.61707/vtgm9335](https://doi.org/10.61707/vtgm9335) |

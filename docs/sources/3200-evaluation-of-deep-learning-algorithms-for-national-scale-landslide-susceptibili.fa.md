@@ -5,8 +5,8 @@
 | نویسندگان | P. T. Ngo, M. Panahi, K. Khosravi, O. Ghorbanzadeh, Narges Karimnejad, A. Cerdà, Saro Lee |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 350 |
 | **شناسه دیجیتال** | [10.1016/j.gsf.2020.06.013](https://doi.org/10.1016/j.gsf.2020.06.013) |

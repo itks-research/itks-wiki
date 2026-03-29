@@ -5,8 +5,8 @@
 | نویسندگان | Babak RezaeeDaryakenari, Peyman Asadzade, Cameron G. Thies |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Sanctions unwinding and international reintegration |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | رفع تحریم‌ها و بازادغام بین‌المللی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 6 |
 | **شناسه دیجیتال** | [10.1093/isq/sqae103](https://doi.org/10.1093/isq/sqae103) |

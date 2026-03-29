@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Cas Mudde, Cristóbal Rovira Kaltwasser |
 | **Year** | 2012 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 1273 |
 | **Source** | openalex |
 | **DOI** | [10.1017/gov.2012.11](https://doi.org/10.1017/gov.2012.11) |

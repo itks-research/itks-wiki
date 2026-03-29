@@ -6,7 +6,7 @@
 | **Year** | 1999 |
 | **Category** | Ethnic federalism in Iran |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 55 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://escholarship.org/uc/item/7zh116zd) |

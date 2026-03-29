@@ -5,8 +5,8 @@
 | نویسندگان | Jeffrey Drope, Jeffrey Drope, Alex C Liber, Zachary Cahn, Michał Stokłosa, Rosemary Kennedy, Clifford E. Douglas, Rosemarie Henson, Jacqui Drope, Jacqui Drope |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 395 |
 | **شناسه دیجیتال** | [10.3322/caac.21444](https://doi.org/10.3322/caac.21444) |

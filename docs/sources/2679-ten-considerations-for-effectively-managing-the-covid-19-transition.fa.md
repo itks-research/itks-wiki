@@ -5,8 +5,8 @@
 | نویسندگان | Katrine Bach Habersaat, Cornelia Betsch, Margie Danchin, Cass R. Sunstein, Robert Böhm, Armin Falk, Noel T. Brewer, Saad B. Omer, Martha Scherzer, Sunita Sah, Edward F. Fischer, Andrea E. Scheel, Daisy Fancourt, Shinobu Kitayama, Ève Dubé, Julie Leask, Mohan J. Dutta, Noni E. MacDonald, Анна Темкина, Andreas Lieberoth, Mark Jackson, Stephan Lewandowsky, Holly Seale, Nils Fietje, Philipp Schmid, Michele J. Gelfand, Lars Korn, Sarah Eitze, Lisa Felgendreff, Philipp Sprengholz, Cristiana Salvi, Robb Butler |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 312 |
 | **شناسه دیجیتال** | [10.1038/s41562-020-0906-x](https://doi.org/10.1038/s41562-020-0906-x) |

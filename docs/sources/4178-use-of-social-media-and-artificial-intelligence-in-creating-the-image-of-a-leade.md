@@ -6,7 +6,7 @@
 | **Year** | 2024 |
 | **Category** | Electoral system design and implementation |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.29119/1641-3466.2024.208.3](https://doi.org/10.29119/1641-3466.2024.208.3) |

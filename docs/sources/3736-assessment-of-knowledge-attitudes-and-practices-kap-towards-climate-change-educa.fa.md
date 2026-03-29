@@ -5,8 +5,8 @@
 | نویسندگان | Shaho Karami, Seyed Mohammad Shobeiri, Hamidreza Jafari, Hamidreza Jafari |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 40 |
 | **شناسه دیجیتال** | [10.1108/ijccsm-04-2016-0043](https://doi.org/10.1108/ijccsm-04-2016-0043) |

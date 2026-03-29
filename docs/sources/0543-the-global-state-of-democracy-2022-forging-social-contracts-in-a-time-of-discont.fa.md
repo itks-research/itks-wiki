@@ -5,8 +5,8 @@
 | نویسندگان | International Institute for Democracy and Electoral Assistance (International IDEA) |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | Tunisia |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | تونس |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 60 |
 | **شناسه دیجیتال** | [10.31752/idea.2022.56](https://doi.org/10.31752/idea.2022.56) |

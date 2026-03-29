@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | A. R. Kampf, S. Mills, B. Nash, M. Dini, A. A. M. Donoso |
 | **Year** | 2022 |
-| **Category** | Transitional justice |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1180/mgm.2022.142](https://doi.org/10.1180/mgm.2022.142) |

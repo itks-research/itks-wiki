@@ -5,8 +5,8 @@
 | نویسندگان | L. Handayani, P. Manajemen, Prodi Agribisnis, Politeknik Pertanian Perikanan, Negeri Pangkajene, Indonesia Kepulauan, Samuel Pd Anantadjaya, Henky Hendrawan, H. Tannady |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 5 |
 | **شناسه دیجیتال** | [10.35870/jemsi.v9i1.914](https://doi.org/10.35870/jemsi.v9i1.914) |

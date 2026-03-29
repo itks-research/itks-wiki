@@ -6,7 +6,7 @@
 | **Year** | 2005 |
 | **Category** | Judicial independence and rule of law |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 171 |
 | **Source** | openalex |
 | **DOI** | [10.5840/philafricana2005823](https://doi.org/10.5840/philafricana2005823) |

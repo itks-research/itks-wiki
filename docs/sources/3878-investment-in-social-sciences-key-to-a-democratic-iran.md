@@ -6,7 +6,7 @@
 | **Year** | 2009 |
 | **Category** | Nuclear program civilian transition |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.37974/ALF.103](https://doi.org/10.37974/ALF.103) |

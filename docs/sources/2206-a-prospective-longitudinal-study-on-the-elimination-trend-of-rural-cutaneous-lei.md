@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | M. Bamorovat, I. Sharifi, M. Aflatoonian, Ehsan Salarkia, S. A. K. Afshari, Mohsen Pourkhosravani, Ali Karamoozian, Ahmad Khosravi, Behnaz Aflatoonian, Fatemeh Sharifi, Hassan Divsalar, B. Amiri, M. Shirzadi |
 | **Year** | 2023 |
-| **Category** | IRGC economic empire and its dismantling |
+| **Category** | Resource curse management |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 11 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1016/j.scitotenv.2023.169684](https://doi.org/10.1016/j.scitotenv.2023.169684) |

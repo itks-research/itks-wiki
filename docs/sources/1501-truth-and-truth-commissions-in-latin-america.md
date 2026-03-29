@@ -6,7 +6,7 @@
 | **Year** | 2013 |
 | **Category** | Transitional justice |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 10 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=1019&context=las_facpub) |

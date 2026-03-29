@@ -5,8 +5,8 @@
 | نویسندگان | Ali Sarabi Asiabar, Mohammad Hossein Kafaei Mehr, Jalal Arabloo, Hossein Safari |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | روابط نظامی-غیرنظامی و اصلاح بخش امنیتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 18 |
 | **شناسه دیجیتال** | [10.1108/lhs-04-2019-0020](https://doi.org/10.1108/lhs-04-2019-0020) |

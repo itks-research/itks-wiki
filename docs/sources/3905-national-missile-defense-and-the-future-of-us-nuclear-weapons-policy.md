@@ -6,7 +6,7 @@
 | **Year** | 2001 |
 | **Category** | Nuclear program civilian transition |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 62 |
 | **Source** | openalex |
 | **DOI** | [10.1162/016228801753212859](https://doi.org/10.1162/016228801753212859) |

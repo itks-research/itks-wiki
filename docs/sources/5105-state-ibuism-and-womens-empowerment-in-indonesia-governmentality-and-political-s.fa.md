@@ -5,8 +5,8 @@
 | نویسندگان | Vinny Flaviana Hyunanda, José Palacios Ramírez, Gabriel López-Martínez, Víctor Meseguer-Sánchez |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 27 |
 | **شناسه دیجیتال** | [10.3390/su13063559](https://doi.org/10.3390/su13063559) |

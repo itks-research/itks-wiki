@@ -5,8 +5,8 @@
 | نویسندگان | Diana Vela Almeida, Vijay Kolinjivadi, Tomaso Ferrando, Brototi Roy, Héctor Herrera, Marcela Vecchione Gonçalves, Gert Van Hecken |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 184 |
 | **شناسه دیجیتال** | [10.1016/j.polgeo.2023.102925](https://doi.org/10.1016/j.polgeo.2023.102925) |

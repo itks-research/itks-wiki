@@ -6,7 +6,7 @@
 | **Year** | 2012 |
 | **Category** | Women's rights codification and gender equality |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 12 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://vc.bridgew.edu/cgi/viewcontent.cgi?article=1055&context=jiws) |

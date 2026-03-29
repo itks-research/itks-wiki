@@ -6,7 +6,7 @@
 | **Year** | 2024 |
 | **Category** | Media freedom and press institution building |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1177/01968599241260809](https://doi.org/10.1177/01968599241260809) |

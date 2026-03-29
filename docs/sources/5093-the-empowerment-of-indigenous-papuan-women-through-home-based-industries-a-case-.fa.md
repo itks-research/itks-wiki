@@ -5,8 +5,8 @@
 | نویسندگان | Bresca Merina, Agus Sholahuddin, Praptining Sukowati |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 4 |
 | **شناسه دیجیتال** | [10.36941/ajis-2023-0124](https://doi.org/10.36941/ajis-2023-0124) |

@@ -6,7 +6,7 @@
 | **Year** | 2022 |
 | **Category** | Privatization and state-owned enterprise restructuring |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 957 |
 | **Source** | openalex |
 | **DOI** | [10.3389/fenrg.2021.743114](https://doi.org/10.3389/fenrg.2021.743114) |

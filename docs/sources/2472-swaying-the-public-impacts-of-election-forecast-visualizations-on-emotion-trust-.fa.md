@@ -5,8 +5,8 @@
 | نویسندگان | Midterms, Fumeng Yang, Mandi Cai, C. Mortenson, Hoda Fakhari, A. Lokmanoglu, J. Hullman, S. Franconeri, Nicholas Diakopoulos, E. Nisbet, Matthew Kay |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 25 |
 | **شناسه دیجیتال** | [10.1109/TVCG.2023.3327356](https://doi.org/10.1109/TVCG.2023.3327356) |

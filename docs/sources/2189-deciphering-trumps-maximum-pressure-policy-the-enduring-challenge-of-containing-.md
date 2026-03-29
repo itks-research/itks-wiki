@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | Hossein Aghaie Joobani, Mohammadhossein Daheshvar |
 | **Year** | 2020 |
-| **Category** | IRGC economic empire and its dismantling |
+| **Category** | Sanctions unwinding and international reintegration |
+| **Secondary Categories** | Regional foreign policy reorientation |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **DOI** | [10.29311/nmes.v10i1.3615](https://doi.org/10.29311/nmes.v10i1.3615) |

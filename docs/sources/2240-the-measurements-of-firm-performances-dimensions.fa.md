@@ -5,8 +5,8 @@
 | نویسندگان | Ebrahim Mohammed Al‐Matari, Abdullah Kaid Al‐Swidi, Faudziah Hanim Fadzil |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | IRGC economic empire and its dismantling |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | امپراتوری اقتصادی سپاه و انحلال آن |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 308 |
 | **شناسه دیجیتال** | [10.5296/ajfa.v6i1.4761](https://doi.org/10.5296/ajfa.v6i1.4761) |

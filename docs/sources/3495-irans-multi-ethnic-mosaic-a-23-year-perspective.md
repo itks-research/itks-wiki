@@ -6,7 +6,7 @@
 | **Year** | 2017 |
 | **Category** | Minority rights |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1007/s11205-017-1800-4](https://doi.org/10.1007/s11205-017-1800-4) |

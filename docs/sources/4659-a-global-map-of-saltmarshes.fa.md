@@ -5,8 +5,8 @@
 | نویسندگان | Chris McOwen, Lauren V. Weatherdon, Jan-Willem Van Bochove, Emma Sullivan, S.C. Blyth, Christoph Zöckler, Damon Stanwell‐Smith, Naomi Kingston, Corinne Martin, Mark Spalding, Stephen Fletcher |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 490 |
 | **شناسه دیجیتال** | [10.3897/bdj.5.e11764](https://doi.org/10.3897/bdj.5.e11764) |

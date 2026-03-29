@@ -5,8 +5,8 @@
 | نویسندگان | A. Q. Muslim, Andhyka Muttaqin, A. Aziz, Dhea Monica Setia Putri, Arinas Sabila |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 6 |
 | **شناسه دیجیتال** | [10.2991/aebmr.k.210928.097](https://doi.org/10.2991/aebmr.k.210928.097) |

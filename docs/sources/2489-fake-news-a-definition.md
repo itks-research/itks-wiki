@@ -6,7 +6,7 @@
 | **Year** | 2018 |
 | **Category** | Electoral system design and implementation |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 447 |
 | **Source** | openalex |
 | **DOI** | [10.22329/il.v38i1.5068](https://doi.org/10.22329/il.v38i1.5068) |

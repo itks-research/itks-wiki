@@ -5,8 +5,9 @@
 | **Authors** | A. Abdi |
 | **Year** | 2025 |
 | **Category** | Sanctions unwinding and international reintegration |
+| **Secondary Categories** | Women's rights codification and gender equality |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 3 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1080/14616742.2025.2454462](https://doi.org/10.1080/14616742.2025.2454462) |

@@ -5,8 +5,8 @@
 | نویسندگان | A. Polvorinos del Río, J. Castaing, Stefan Roehrs, Antonio Vallejo Triano, José Escudero Aranda |
 |---|---|
 | **سال** | 2008 |
-| **دسته‌بندی** | Cultural heritage preservation during institutional change |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | حفظ میراث فرهنگی در دوره تحولات نهادی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 4 |
 

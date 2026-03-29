@@ -5,8 +5,8 @@
 | نویسندگان | Atefeh Elekaei, Sajad Faramarzi, Hossein Heidari Tabrizi |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 9 |
 | **شناسه دیجیتال** | [10.7575/aiac.ijalel.v.5n.2p.40](https://doi.org/10.7575/aiac.ijalel.v.5n.2p.40) |

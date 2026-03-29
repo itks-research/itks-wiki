@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Will H. Moore, Stephen M. Shellman |
 | **Year** | 2007 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 238 |
 | **Source** | openalex |
 | **DOI** | [10.1111/j.1468-2478.2007.00478.x](https://doi.org/10.1111/j.1468-2478.2007.00478.x) |

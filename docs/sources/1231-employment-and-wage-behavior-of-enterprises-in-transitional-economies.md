@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Swati Basu, Estrin Saul, Jan Svejnar |
 | **Year** | 1997 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 13 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://hdl.handle.net/2027.42/39504) |

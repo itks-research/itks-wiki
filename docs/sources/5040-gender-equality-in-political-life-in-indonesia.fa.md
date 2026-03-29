@@ -5,8 +5,8 @@
 | نویسندگان | Ariyanto Ardiansya, Sunarwan Sulaiman, Nasrullah Nasrullah, Maskawati Maskawati |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.53730/ijhs.v6ns6.10182](https://doi.org/10.53730/ijhs.v6ns6.10182) |

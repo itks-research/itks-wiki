@@ -6,7 +6,7 @@
 | **Year** | 2025 |
 | **Category** | Federalism, unitarism, and autonomy models |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 5.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.29303/ius.v13i1.1664](https://doi.org/10.29303/ius.v13i1.1664) |
@@ -15,3 +15,19 @@
 ## Abstract
 
 This study aims to analyze the impact of political dynamics on institutional independence in criminal prosecution processes, focusing on the Corruption Eradication Commission (KPK) and the National Human Rights Commission (Komnas HAM) in post-1998 democratic transition Indonesia. The central issue examined is how constitutional weaknesses are exploited by lawmakers to manipulate institutional design, thereby undermining the capacity of these bodies to function independently. Utilizing a socio-legal methodology that integrates legal analysis with social science perspectives, this interdisciplinary approach explores the interplay between institutional frameworks, regulatory structures, and political dynamics. The findings reveal that the concept of the unitary executive, previously abandoned, has reemerged as a justification for political intervention in institutional design. Consequently, both the KPK and Komnas HAM have experienced a significant erosion of their institutional independence, impairing their effectiveness in addressing corruption and human rights violations. This study contributes to theoretical debates on institutional challenges in emerging democracies and offers practical insights for safeguarding institutional autonomy to ensure the accountability and integrity of governance structures.
+
+## Related Sources
+
+- **extends** [BJ Habibie's Transformational Leadership in Indonesia's Political Transition Post-New Order](4677-bj-habibies-transformational-leadership-in-indonesias-political-transition-post-.md)
+- **extends** [Ethnic federalism in a dominant party state: The Ethiopian experience 1991-2000](0321-ethnic-federalism-in-a-dominant-party-state-the-ethiopian-experience-1991-2000.md)
+- **extends** [Fiscal Decentralization Dilemma in Indonesia: Between Corruption Accountability and Probability at Local Levels](4722-fiscal-decentralization-dilemma-in-indonesia-between-corruption-accountability-a.md)
+- **extends** [Fiscal Decentralization, Accountability and Corruption Indication: Evidence from Indonesia](4717-fiscal-decentralization-accountability-and-corruption-indication-evidence-from-i.md)
+- **contradicts** [Decentralization and Fiscal Autonomy at the Subnational Level in Indonesia](4708-decentralization-and-fiscal-autonomy-at-the-subnational-level-in-indonesia.md)
+- **extends** [Why Democratization and Decentralization in Indonesia Have Mixed Results on the Ground: A Systematic Literature Review](4691-why-democratization-and-decentralization-in-indonesia-have-mixed-results-on-the-.md)
+- **extends** [Fiscal Decentralization and Corruption: The Facts of Regional Autonomy Policies in Indonesia](4698-fiscal-decentralization-and-corruption-the-facts-of-regional-autonomy-policies-i.md)
+- **extends** [Fiscal decentralization and corruption: a case of indonesia](4710-fiscal-decentralization-and-corruption-a-case-of-indonesia.md)
+- **extends** [Institutions, Outputs and Outcomes: Two Decades of Decentralization and State Capacity in Indonesia](4713-institutions-outputs-and-outcomes-two-decades-of-decentralization-and-state-capa.md)
+- **extends** [The Impact of Indonesia’s Decentralization Reforms Two Decades On: Introduction](4714-the-impact-of-indonesias-decentralization-reforms-two-decades-on-introduction.md)
+- **extends** [Democratizing corruption: a role structure analysis of Indonesia’s “Big Bang” decentralization](4701-democratizing-corruption-a-role-structure-analysis-of-indonesias-big-bang-decent.md)
+- **extends** [Does Fiscal Decentralization Increases Regional Income Inequality in Indonesia?](4727-does-fiscal-decentralization-increases-regional-income-inequality-in-indonesia.md)
+- **extends** [The Dilemma of Decentralization in Public Policy Implementation in Indonesia](4693-the-dilemma-of-decentralization-in-public-policy-implementation-in-indonesia.md)

@@ -5,8 +5,8 @@
 | نویسندگان | Thomas Gammeltoft‐Hansen, Rebecca Adler‐Nissen |
 |---|---|
 | **سال** | 2010 |
-| **دسته‌بندی** | Sanctions unwinding and international reintegration |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | رفع تحریم‌ها و بازادغام بین‌المللی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 3 |
 

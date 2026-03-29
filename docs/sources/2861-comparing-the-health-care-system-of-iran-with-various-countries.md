@@ -6,7 +6,7 @@
 | **Year** | 2016 |
 | **Category** | Federalism, unitarism, and autonomy models |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 44 |
 | **Source** | openalex |
 | **DOI** | [10.17795/jhealthscope-34459](https://doi.org/10.17795/jhealthscope-34459) |

@@ -5,8 +5,8 @@
 | نویسندگان | Sajad Kazemi, Mohammadreza Akhzarian Kashani |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 5.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.61838/kman.jspsich.2.1.3](https://doi.org/10.61838/kman.jspsich.2.1.3) |

@@ -16,3 +16,13 @@
 ## Abstract
 
 For nearly three decades, scholars and policymakers have placed considerablestock in judicial reform as a panacea for the political and economic turmoil plagu-ing developing countries. Courts are charged with spurring economic develop-ment, safeguarding human rights, and even facilitating transitions to democracy.How realistic are these expectations, and in what political contexts can judicialreforms deliver their expected benefits? In this book, Tamir Moustafa addressesthese issues through an examination of the politics of the Egyptian SupremeConstitutional Court, the most important experiment in constitutionalism in theArab world.\nThe Egyptian regime established a surprisingly independent constitutional court to address a series of economic and administrative pathologies that lie at theheart of authoritarian political systems. Although the Court helped the regime toinstitutionalize state functions and attract investment, it simultaneously openednew avenues through which rights advocates and opposition parties could chal-lenge the regime. The book examines the dynamics of legal mobilization in thismost unlikely political environment.\nStanding at the intersection of political science, economics, and comparativelaw, The Struggle for Constitutional Power challenges conventional wisdom andprovides new insights into perennial questions concerning the barriers to institu-tional development, economic growth, and democracy in the developing world.
+
+## Related Sources
+
+- **extends** [Post Sovereign Constitution Making](0391-post-sovereign-constitution-making.md)
+- **extends** [Replacing and Amending Constitutions: The Logic of Constitutional Change in Latin America](0334-replacing-and-amending-constitutions-the-logic-of-constitutional-change-in-latin.md)
+- **extends** [Constitutional Change Without Constitutional Reform: Spanish Federalism and the Revision of Catalonia's Statute of Autonomy](0387-constitutional-change-without-constitutional-reform-spanish-federalism-and-the-r.md)
+- **shared_methodology** [Constitutional Adjudication: Lessons from Europe](0395-constitutional-adjudication-lessons-from-europe.md)
+- **extends** [The Spanish Public in Political Transition](0348-the-spanish-public-in-political-transition.md)
+- **shared_methodology** [The Politics of Constitutional Review](0350-the-politics-of-constitutional-review.md)
+- **contradicts** [Revealing the dark side of traditional democracies in plurinational societies: the case of Catalonia and the Spanish ‘Estado de las Autonomías’](0413-revealing-the-dark-side-of-traditional-democracies-in-plurinational-societies-th.md)

@@ -5,8 +5,8 @@
 | نویسندگان | Mohammad Ali, Allyson R. Nelson, Anna Lena Lopez, David A. Sack |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1283 |
 | **شناسه دیجیتال** | [10.1371/journal.pntd.0003832](https://doi.org/10.1371/journal.pntd.0003832) |

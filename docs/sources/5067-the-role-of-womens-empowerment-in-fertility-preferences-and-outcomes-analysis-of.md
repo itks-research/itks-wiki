@@ -6,7 +6,7 @@
 | **Year** | 2025 |
 | **Category** | Women's rights codification and gender equality |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1186/s12905-025-03748-6](https://doi.org/10.1186/s12905-025-03748-6) |

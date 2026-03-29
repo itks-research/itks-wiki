@@ -5,8 +5,8 @@
 | نویسندگان | Musviyanti Musviyanti, Fibriyani Nur Khairin, Hariman Bone, Muhammad Abadan Syakura, Rizky Yudaruddin |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 22 |
 | **شناسه دیجیتال** | [10.21511/pmf.11(1).2022.07](https://doi.org/10.21511/pmf.11(1).2022.07) |

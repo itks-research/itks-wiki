@@ -5,8 +5,8 @@
 | نویسندگان | N. Ahmar, Merintan Berliana Simbolon, Dwi Prastowo Darminto |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 4 |
 | **شناسه دیجیتال** | [10.21511/imfi.21(3).2024.03](https://doi.org/10.21511/imfi.21(3).2024.03) |

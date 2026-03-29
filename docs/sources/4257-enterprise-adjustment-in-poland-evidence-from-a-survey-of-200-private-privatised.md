@@ -6,7 +6,7 @@
 | **Year** | 1995 |
 | **Category** | Privatization and state-owned enterprise restructuring |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 36 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://eprints.lse.ac.uk/20765/1/Enterprise_Adjustment_in_Poland_Evidence_from_a_Survey_of_200_Private.pdf) |

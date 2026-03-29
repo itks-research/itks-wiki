@@ -5,8 +5,8 @@
 | نویسندگان | Mochammad Nginwanun Likullil Mahamid |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 12 |
 | **شناسه دیجیتال** | [10.32939/islamika.v23i1.2375](https://doi.org/10.32939/islamika.v23i1.2375) |

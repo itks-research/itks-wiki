@@ -5,8 +5,8 @@
 | نویسندگان | Johan P. Mackenbach, Irina Stirbu, Albert‐Jan Roskam, M. Schaap, Gwenn Menvielle, Mall Leinsalu, Anton E. Kunst |
 |---|---|
 | **سال** | 2008 |
-| **دسته‌بندی** | Labor market reform and social safety nets |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | اصلاح بازار کار و شبکه‌های حمایت اجتماعی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 3296 |
 | **شناسه دیجیتال** | [10.1056/nejmsa0707519](https://doi.org/10.1056/nejmsa0707519) |

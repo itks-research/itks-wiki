@@ -5,8 +5,8 @@
 | **Authors** | Greg Barton, İhsan Yılmaz, Nicholas Morieson |
 | **Year** | 2021 |
 | **Category** | Religious freedom and separation of religion from state |
-| **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Case Study** | Indonesia |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 52 |
 | **Source** | openalex |
 | **DOI** | [10.3390/rel12060397](https://doi.org/10.3390/rel12060397) |

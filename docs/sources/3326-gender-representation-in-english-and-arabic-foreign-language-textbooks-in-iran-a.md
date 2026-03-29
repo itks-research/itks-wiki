@@ -6,7 +6,7 @@
 | **Year** | 2015 |
 | **Category** | Women's rights codification and gender equality |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 18 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://vc.bridgew.edu/jiws/vol16/iss3/2) |

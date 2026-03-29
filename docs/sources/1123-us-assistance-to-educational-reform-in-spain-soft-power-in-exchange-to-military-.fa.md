@@ -5,8 +5,8 @@
 | نویسندگان | Lorenzo Delgado Gómez-Escalonilla, Patricia de la Hoz Pascua |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 3 |
 

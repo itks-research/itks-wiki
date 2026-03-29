@@ -6,7 +6,7 @@
 | **Year** | 2017 |
 | **Category** | Resource curse management |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 39 |
 | **Source** | openalex |
 | **DOI** | [10.1108/prr-12-2016-0012](https://doi.org/10.1108/prr-12-2016-0012) |

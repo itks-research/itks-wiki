@@ -6,7 +6,7 @@
 | **Year** | 2020 |
 | **Category** | Minority rights |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.15408/jisi.v0i0.19031](https://doi.org/10.15408/jisi.v0i0.19031) |

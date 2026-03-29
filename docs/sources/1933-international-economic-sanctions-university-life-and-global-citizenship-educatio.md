@@ -5,8 +5,9 @@
 | **Authors** | Shadi Mehrabi |
 | **Year** | 2014 |
 | **Category** | Sanctions unwinding and international reintegration |
+| **Secondary Categories** | Education system reform and curriculum modernization |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 10 |
 | **Source** | openalex |
 | **DOI** | [10.18733/c3d30t](https://doi.org/10.18733/c3d30t) |

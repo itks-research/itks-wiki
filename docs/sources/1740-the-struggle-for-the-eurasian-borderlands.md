@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Alfred J. Rieber |
 | **Year** | 2014 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Federalism, unitarism, and autonomy models |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 55 |
 | **Source** | openalex |
 | **DOI** | [10.1017/cbo9781107337794](https://doi.org/10.1017/cbo9781107337794) |

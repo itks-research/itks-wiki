@@ -5,8 +5,8 @@
 | نویسندگان | H. B. Pakuna, Momy A. Hunowu, Sarpika Datumula, Denok Sunarsi, Wahyuni, Yowan Tamu, Pardamean Daulay |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.1080/23311886.2024.2356915](https://doi.org/10.1080/23311886.2024.2356915) |

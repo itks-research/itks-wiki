@@ -6,7 +6,7 @@
 | **Year** | 2004 |
 | **Category** | Nuclear program civilian transition |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 32 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://scholarship.law.upenn.edu/faculty_scholarship/960) |

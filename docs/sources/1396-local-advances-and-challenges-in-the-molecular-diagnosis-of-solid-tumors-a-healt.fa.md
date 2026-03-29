@@ -5,8 +5,8 @@
 | نویسندگان | K. Marcelain, Carolina Selman-Bravo, Benjamín García-Bloj, E. Bustamante, J. Fernández, Fancy Gaete, L. Moyano, J. C. Bustos, Francisca Plaza-Parroquia, J. Godoy, M. Garrido, T. Labbe, Juvenal A. Ríos |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Labor market reform and social safety nets |
-| **مطالعه موردی** | Chile |
+| **دسته‌بندی** | اصلاح بازار کار و شبکه‌های حمایت اجتماعی |
+| **مطالعه موردی** | شیلی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 4 |
 | **شناسه دیجیتال** | [10.4067/s0034-98872023001001344](https://doi.org/10.4067/s0034-98872023001001344) |

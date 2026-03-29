@@ -5,8 +5,8 @@
 | نویسندگان | Alla Shogenova, Kris Piessens, Sam Holloway, Michelle Bentham, Roberto Zepeda, Kristin M. Flornes, Niels E. Poulsen, Adam Wójcicki, Saulius Šliaupa, Ľudovít Kucharič, Alexandra Dudu, S. Persoglia, Vit Hladík, Bruno Saftić, Astri J. S. Kvassnes, Kazbulat Shogenov, Jüri Ivask, Isabel Suárez, Constantin Ștefan Sava, Sorin Anghel, A. P. Chikkatur |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Civil society development |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | توسعه جامعه مدنی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 32 |
 | **شناسه دیجیتال** | [10.1016/j.egypro.2014.11.700](https://doi.org/10.1016/j.egypro.2014.11.700) |

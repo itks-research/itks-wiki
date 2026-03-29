@@ -5,8 +5,8 @@
 | نویسندگان | Rostiena Pasciana, M. Karmila, Ieke Sartika Iriany, Lia Juliasih, R. I. Febrina |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.47172/2965-730x.sdgsreview.v5.n02.pe03165](https://doi.org/10.47172/2965-730x.sdgsreview.v5.n02.pe03165) |

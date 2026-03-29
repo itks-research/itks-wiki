@@ -5,8 +5,8 @@
 | نویسندگان | Neeraj Kumari, Chandra Mohan |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Cultural heritage preservation during institutional change |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | حفظ میراث فرهنگی در دوره تحولات نهادی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 337 |
 | **شناسه دیجیتال** | [10.5772/intechopen.97672](https://doi.org/10.5772/intechopen.97672) |

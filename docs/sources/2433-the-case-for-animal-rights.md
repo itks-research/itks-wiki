@@ -6,7 +6,7 @@
 | **Year** | 1987 |
 | **Category** | Electoral system design and implementation |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 1906 |
 | **Source** | openalex |
 | **DOI** | [10.1007/978-94-009-3331-6_15](https://doi.org/10.1007/978-94-009-3331-6_15) |

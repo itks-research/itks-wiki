@@ -5,8 +5,8 @@
 | نویسندگان | Anthony R. Kampf, M. J. Sciberras, Peter Leverett, Peter A. Williams, Thomas Malcherek, Jochen Schlüter, Mark D. Welch, Maurizio Dini, Arturo A. Molina Donoso |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Chile |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | شیلی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 19 |
 | **شناسه دیجیتال** | [10.1180/minmag.2013.077.8.06](https://doi.org/10.1180/minmag.2013.077.8.06) |

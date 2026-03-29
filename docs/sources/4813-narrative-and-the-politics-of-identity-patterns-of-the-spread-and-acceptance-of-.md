@@ -6,7 +6,7 @@
 | **Year** | 2020 |
 | **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 26 |
 | **Source** | openalex |
 | **DOI** | [10.3390/rel11060290](https://doi.org/10.3390/rel11060290) |

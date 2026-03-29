@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Efrat Shadmi, Yingyao Chen, Inês Dourado, Inbal Faran-Perach, John Furler, Peter Hangoma, Piya Hanvoravongchai, Claudia Zea Obando, Varduhi Petrosyan, Krishna D. Rao, Ana Lorena Ruano, Leiyu Shi, Luís Eugênio Portela Fernandes de Souza, Sivan Spitzer, Elizabeth Sturgiss, Rapeepong Suphanchaimat, Manuela Villar Uribe, Sara Willems |
 | **Year** | 2020 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 760 |
 | **Source** | openalex |
 | **DOI** | [10.1186/s12939-020-01218-z](https://doi.org/10.1186/s12939-020-01218-z) |

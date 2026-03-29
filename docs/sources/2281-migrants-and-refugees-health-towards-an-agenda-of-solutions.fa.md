@@ -5,8 +5,8 @@
 | نویسندگان | Stephen A. Matlin, Anneliese Depoux, Stefanie Schütte, Antoine Flahault, Luciano Saso |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 234 |
 | **شناسه دیجیتال** | [10.1186/s40985-018-0104-9](https://doi.org/10.1186/s40985-018-0104-9) |

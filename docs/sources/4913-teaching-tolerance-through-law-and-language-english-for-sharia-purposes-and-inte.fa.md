@@ -5,8 +5,8 @@
 | نویسندگان | Heru Saputra, Zulfa Sakhiyya, Puji Astuti, Fahrur Rozi, Ali Masyhar, Dolendra Paudel |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Minority rights |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | حقوق اقلیت‌ها |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.15294/ciils.v4i2.33170](https://doi.org/10.15294/ciils.v4i2.33170) |

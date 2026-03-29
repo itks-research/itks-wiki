@@ -6,7 +6,7 @@
 | **Year** | 2022 |
 | **Category** | Judicial independence and rule of law |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 3 |
 | **Source** | openalex |
 | **DOI** | [10.26650/siyasal.2022.31.915894](https://doi.org/10.26650/siyasal.2022.31.915894) |

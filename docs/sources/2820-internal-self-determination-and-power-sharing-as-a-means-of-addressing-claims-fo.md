@@ -6,7 +6,7 @@
 | **Year** | 2026 |
 | **Category** | Federalism, unitarism, and autonomy models |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.55302/iplr2516373m](https://doi.org/10.55302/iplr2516373m) |

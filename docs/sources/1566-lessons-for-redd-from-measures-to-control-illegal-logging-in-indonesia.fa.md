@@ -5,8 +5,8 @@
 | نویسندگان | C. Luttrell, K. Obidzinski, Maria Brockhaus, E. Muharrom, Elena Petkova, Andrew Wardell, James Halperin |
 |---|---|
 | **سال** | 2011 |
-| **دسته‌بندی** | Resource curse management |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | مدیریت نفرین منابع طبیعی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 46 |
 | **شناسه دیجیتال** | [10.17528/cifor/003505](https://doi.org/10.17528/cifor/003505) |

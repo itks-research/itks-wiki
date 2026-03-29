@@ -5,8 +5,8 @@
 | نویسندگان | Karen M. Douglas, Joseph E. Uscinski, Robbie M. Sutton, Aleksandra Cichocka, Türkay Salim Nefes, Chee Siang Ang, Farzin Deravi |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1407 |
 | **شناسه دیجیتال** | [10.1111/pops.12568](https://doi.org/10.1111/pops.12568) |

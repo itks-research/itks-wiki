@@ -5,8 +5,8 @@
 | نویسندگان | Leila Haghjou, L. Mounesan, Aziz Shamsi, Maryam Nazari, Najmeh Bahmanziari, Mohammad Shirkhoda, Saeid Amanpour, Alireza Abdollahi, K. Zendehdel, H. Rashidian |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Sanctions unwinding and international reintegration |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | رفع تحریم‌ها و بازادغام بین‌المللی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 5 |
 | **شناسه دیجیتال** | [10.1186/s12939-024-02335-9](https://doi.org/10.1186/s12939-024-02335-9) |

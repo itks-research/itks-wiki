@@ -5,8 +5,8 @@
 | نویسندگان | Surjono Surjono, Yourike Prasisca, Fauzul Rizal Sutikno |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 19 |
 | **شناسه دیجیتال** | [10.1016/j.sbspro.2015.11.048](https://doi.org/10.1016/j.sbspro.2015.11.048) |

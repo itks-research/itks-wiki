@@ -5,8 +5,8 @@
 | نویسندگان | Zahra Behboodi Moghadam, Maryam Ordibeheshti Khiaban, Maryam Esmaeili, Mahvash Salsali |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 6 |
 | **شناسه دیجیتال** | [10.15296/ijwhr.2018.18](https://doi.org/10.15296/ijwhr.2018.18) |

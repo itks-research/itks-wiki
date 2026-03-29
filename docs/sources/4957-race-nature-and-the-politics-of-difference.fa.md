@@ -5,8 +5,8 @@
 | نویسندگان | Donald S. Moore, Anand, Pandian, Bruce, Braun, Diane M., Nelson, Donald S., Moore, Donna, Haraway, Giovanna, Di Chiro, Jake, Kosek, Keith, Wailoo, Kosek, Jake, Moore, Donald S., Pandian, Anand, Paul, Gilroy, Robyn, Wiegman, Steven, Gregory, Tania Murray, Li, Uli, Linke, Zine, Magubane |
 |---|---|
 | **سال** | 2003 |
-| **دسته‌بندی** | Minority rights |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | حقوق اقلیت‌ها |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 168 |
 | **شناسه دیجیتال** | [10.1515/9780822384656](https://doi.org/10.1515/9780822384656) |

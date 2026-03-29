@@ -5,8 +5,8 @@
 | نویسندگان | Ali Taghipour, Narjes Sadat Borghei, Robab Latifnejad Roudsari, Afsaneh Keramat, Hadi Jabbari Nooghabi |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 9 |
 

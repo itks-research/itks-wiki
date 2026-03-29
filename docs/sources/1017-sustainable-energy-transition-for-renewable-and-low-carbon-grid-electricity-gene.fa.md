@@ -5,8 +5,8 @@
 | نویسندگان | Moses Jeremiah Barasa Kabeyi, Oludolapo Akanni Olanrewaju |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | خصوصی‌سازی و بازسازی شرکت‌های دولتی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 957 |
 | **شناسه دیجیتال** | [10.3389/fenrg.2021.743114](https://doi.org/10.3389/fenrg.2021.743114) |

@@ -5,8 +5,8 @@
 | نویسندگان | Samereh Abdoli, Tahereh Ashktorab, Fazlollah Ahmadi, Soroor Parvizy, Trisha Dunning |
 |---|---|
 | **سال** | 2011 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 65 |
 | **شناسه دیجیتال** | [10.1111/j.1440-172x.2011.01937.x](https://doi.org/10.1111/j.1440-172x.2011.01937.x) |

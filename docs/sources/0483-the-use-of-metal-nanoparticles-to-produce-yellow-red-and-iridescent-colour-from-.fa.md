@@ -5,8 +5,8 @@
 | نویسندگان | Philippe Colomban |
 |---|---|
 | **سال** | 2009 |
-| **دسته‌بندی** | Cultural heritage preservation during institutional change |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | حفظ میراث فرهنگی در دوره تحولات نهادی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 174 |
 | **شناسه دیجیتال** | [10.4028/www.scientific.net/jnanor.8.109](https://doi.org/10.4028/www.scientific.net/jnanor.8.109) |

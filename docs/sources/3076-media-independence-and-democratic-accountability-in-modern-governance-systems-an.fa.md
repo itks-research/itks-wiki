@@ -5,8 +5,8 @@
 | نویسندگان | Adam Folorunsho Isiaka, Hilary Esivue Damissah, Adenike Deborah Adejare, Ibrahim Oladayo Ogunlana |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.30574/gscarr.2025.23.1.0102](https://doi.org/10.30574/gscarr.2025.23.1.0102) |

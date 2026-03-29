@@ -6,7 +6,7 @@
 | **Year** | 2009 |
 | **Category** | Nuclear program civilian transition |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 57 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=1151&context=jil) |

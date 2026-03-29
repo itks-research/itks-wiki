@@ -6,7 +6,7 @@
 | **Year** | 2005 |
 | **Category** | Resource curse management |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 31 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=1207&context=jil) |

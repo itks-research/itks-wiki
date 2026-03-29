@@ -6,7 +6,7 @@
 | **Year** | 2007 |
 | **Category** | Privatization and state-owned enterprise restructuring |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 22 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://mpra.ub.uni-muenchen.de/31651/1/MPRA_paper_31651.pdf) |

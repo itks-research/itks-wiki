@@ -6,7 +6,7 @@
 | **Year** | 2019 |
 | **Category** | Civil-military relations and security sector reform |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 13 |
 | **Source** | openalex |
 | **DOI** | [10.1111/ehr.12881](https://doi.org/10.1111/ehr.12881) |

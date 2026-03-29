@@ -6,7 +6,7 @@
 | **Year** | 2021 |
 | **Category** | Transitional justice |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 20 |
 | **Source** | openalex |
 | **DOI** | [10.1086/714765](https://doi.org/10.1086/714765) |

@@ -5,8 +5,9 @@
 | **Authors** | Valerie Bunce |
 | **Year** | 2007 |
 | **Category** | Federalism, unitarism, and autonomy models |
+| **Secondary Categories** | Minority rights |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 9 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://hdl.handle.net/1813/55033) |

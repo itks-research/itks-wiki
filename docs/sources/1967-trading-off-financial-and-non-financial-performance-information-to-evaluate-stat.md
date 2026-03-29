@@ -6,7 +6,7 @@
 | **Year** | 2020 |
 | **Category** | Privatization and state-owned enterprise restructuring |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 15 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1080/10967494.2020.1799888](https://doi.org/10.1080/10967494.2020.1799888) |

@@ -5,8 +5,8 @@
 | نویسندگان | Hamid Joveini, Nader Sharifi, Batool Kalate Meymary, Ali Mehri, Reza Shahrabadi, Vahid Rahmanian, Masoumeh Hashemian |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 11 |
 | **شناسه دیجیتال** | [10.1186/s12905-023-02361-9](https://doi.org/10.1186/s12905-023-02361-9) |

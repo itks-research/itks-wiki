@@ -5,8 +5,8 @@
 | نویسندگان | Mohammad Ali Jahani, Fatemeh Rostami, Hakimeh Mehdizadeh, Shahrbanoo Mahmoudjanloo, Hossein‐Ali Nikbakht, Ghahraman Mahmoudi |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Civil society development |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | توسعه جامعه مدنی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.3329/bjms.v20i1.50349](https://doi.org/10.3329/bjms.v20i1.50349) |

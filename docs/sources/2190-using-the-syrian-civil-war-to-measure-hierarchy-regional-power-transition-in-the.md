@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Eric Clary |
 | **Year** | 2000 |
-| **Category** | IRGC economic empire and its dismantling |
+| **Category** | Regional foreign policy reorientation |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 1 |
 | **Source** | openalex |
 | **DOI** | [10.15760/etd.6252](https://doi.org/10.15760/etd.6252) |

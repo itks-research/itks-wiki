@@ -5,8 +5,8 @@
 | نویسندگان | Khayal Iskandarov, Gregory Simons, Piotr Gawliczek |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Regional foreign policy reorientation |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | بازتعریف سیاست خارجی منطقه‌ای |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 8 |
 | **شناسه دیجیتال** | [10.11610/connections.18.3-4.01](https://doi.org/10.11610/connections.18.3-4.01) |

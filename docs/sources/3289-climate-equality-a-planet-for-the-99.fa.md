@@ -5,8 +5,8 @@
 | نویسندگان | Ashfaq Khalfan, Astrid Nilsson Lewis, Carlos Aguilar, Jaqueline Persson, Max Lawson, Nafkote Dabi, Safa Jayoussi, Sunil Acharya |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 75 |
 | **شناسه دیجیتال** | [10.21201/2023.000001](https://doi.org/10.21201/2023.000001) |

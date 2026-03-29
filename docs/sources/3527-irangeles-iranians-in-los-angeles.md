@@ -6,7 +6,7 @@
 | **Year** | 1994 |
 | **Category** | Minority rights |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 48 |
 | **Source** | openalex |
 | **DOI** | [10.5860/choice.31-3998](https://doi.org/10.5860/choice.31-3998) |

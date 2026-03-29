@@ -6,7 +6,7 @@
 | **Year** | 1991 |
 | **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 574 |
 | **Source** | openalex |
 | **DOI** | [10.5860/choice.29-2185](https://doi.org/10.5860/choice.29-2185) |

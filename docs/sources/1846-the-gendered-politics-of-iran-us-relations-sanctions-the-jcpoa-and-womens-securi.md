@@ -5,8 +5,9 @@
 | **Authors** | Valentine M. Moghadam |
 | **Year** | 2024 |
 | **Category** | Sanctions unwinding and international reintegration |
+| **Secondary Categories** | Women's rights codification and gender equality |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 6 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1080/01436597.2024.2314005](https://doi.org/10.1080/01436597.2024.2314005) |

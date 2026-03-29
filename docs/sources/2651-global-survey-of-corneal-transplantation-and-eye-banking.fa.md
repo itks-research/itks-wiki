@@ -5,8 +5,8 @@
 | نویسندگان | Philippe Gain, R. Jullienne, Zhiguo Hé, Mansour Aldossary, Sophie Acquart, Fabrice Cognasse, Gilles Thuret |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Political party formation and pluralism |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | شکل‌گیری احزاب سیاسی و تکثرگرایی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1610 |
 | **شناسه دیجیتال** | [10.1001/jamaophthalmol.2015.4776](https://doi.org/10.1001/jamaophthalmol.2015.4776) |

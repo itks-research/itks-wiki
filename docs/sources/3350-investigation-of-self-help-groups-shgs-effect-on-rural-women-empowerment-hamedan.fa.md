@@ -5,8 +5,8 @@
 | نویسندگان | Homa Soroushmehr, Khalil Kalantari, Hossein Shabanali Fami, Valiollah Sarani |
 |---|---|
 | **سال** | 2011 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 11 |
 | **شناسه دیجیتال** | [10.5539/jas.v4n1p1](https://doi.org/10.5539/jas.v4n1p1) |

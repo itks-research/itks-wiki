@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | Samantha Louden-Cooke |
 | **Year** | 2023 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Women's rights codification and gender equality |
+| **Secondary Categories** | Political party formation and pluralism |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 3 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1080/13530194.2023.2185591](https://doi.org/10.1080/13530194.2023.2185591) |

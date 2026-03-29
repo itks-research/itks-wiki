@@ -5,8 +5,8 @@
 | نویسندگان | Bahram Meihami, Zeinab Varmaghani, Hussein Meihami |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Civil society development |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | توسعه جامعه مدنی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.18052/www.scipress.com/ilshs.8.66](https://doi.org/10.18052/www.scipress.com/ilshs.8.66) |

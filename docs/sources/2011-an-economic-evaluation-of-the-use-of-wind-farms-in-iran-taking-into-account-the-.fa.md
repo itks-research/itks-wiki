@@ -5,8 +5,8 @@
 | نویسندگان | Nima Norouzi, Zahra Bashashjafarabadi, Seyyed Mohammad Yahya Meybodi |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Banking and financial system reform |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام بانکی و مالی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 4 |
 | **شناسه دیجیتال** | [10.31586/ujbm.2021.010104](https://doi.org/10.31586/ujbm.2021.010104) |

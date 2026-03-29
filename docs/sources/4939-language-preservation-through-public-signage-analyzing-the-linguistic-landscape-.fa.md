@@ -5,8 +5,8 @@
 | نویسندگان | Budi A. Sudarmanto, N. N. Benu, Tri Wahyuni, Endro N. W. Aji, Nia Kurnia, Ade Mulyanah, Amran Purba, Siti Djuwarijah, I. Istiana, Rini Esti Utami |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Minority rights |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | حقوق اقلیت‌ها |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.30564/fls.v7i4.9052](https://doi.org/10.30564/fls.v7i4.9052) |

@@ -5,8 +5,8 @@
 | نویسندگان | Marudut Parulian Silitonga, John Pieris, Aartje Tehuperiory, Narang Terrace |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.46799/ijssr.v3i4.345](https://doi.org/10.46799/ijssr.v3i4.345) |

@@ -6,7 +6,7 @@
 | **Year** | 2024 |
 | **Category** | Transitional justice |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 4 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.32598/ijn.37.147.3348.9](https://doi.org/10.32598/ijn.37.147.3348.9) |

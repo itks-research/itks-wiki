@@ -6,7 +6,7 @@
 | **Year** | 2007 |
 | **Category** | Judicial independence and rule of law |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 8 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://doaj.org/article/3d70b141d98946c2af8a9f9c1035eefe) |

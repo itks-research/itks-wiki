@@ -6,7 +6,7 @@
 | **Year** | 2021 |
 | **Category** | Electoral system design and implementation |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 6 |
 | **Source** | openalex |
 | **DOI** | [10.3846/cs.2021.14524](https://doi.org/10.3846/cs.2021.14524) |

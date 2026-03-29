@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Andrzej Cirocki, Syafi’ul Anam, Pratiwi Retnaningdyah |
 | **Year** | 2019 |
-| **Category** | Federalism, unitarism, and autonomy models |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 40 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://doaj.org/article/0c5defa93b4c40679be2abeeed93b951) |

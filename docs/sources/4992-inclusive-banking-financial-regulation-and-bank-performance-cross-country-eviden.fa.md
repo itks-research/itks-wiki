@@ -5,8 +5,8 @@
 | نویسندگان | M. Mostak Ahamed, Shirley J. Ho, Sushanta Mallick, Roman Matoušek |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 136 |
 | **شناسه دیجیتال** | [10.1016/j.jbankfin.2021.106055](https://doi.org/10.1016/j.jbankfin.2021.106055) |

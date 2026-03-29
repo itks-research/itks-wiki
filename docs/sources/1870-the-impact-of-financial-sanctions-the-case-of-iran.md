@@ -5,8 +5,9 @@
 | **Authors** | Saeed Ghasseminejad, Mohammad R. Jahan-Parvar |
 | **Year** | 2021 |
 | **Category** | Sanctions unwinding and international reintegration |
+| **Secondary Categories** | Banking and financial system reform |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 55 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1016/J.JPOLMOD.2021.03.001](https://doi.org/10.1016/J.JPOLMOD.2021.03.001) |

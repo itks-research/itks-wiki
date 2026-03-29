@@ -5,8 +5,8 @@
 | نویسندگان | Giorgos Kallis, Vasilis Kostakis, Steffen Lange, Barbara Muraca, Susan Paulson, Matthias Schmelzer |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | روابط نظامی-غیرنظامی و اصلاح بخش امنیتی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 612 |
 | **شناسه دیجیتال** | [10.1146/annurev-environ-102017-025941](https://doi.org/10.1146/annurev-environ-102017-025941) |

@@ -5,8 +5,8 @@
 | نویسندگان | Ari Hyytinen, Jaakko Meriläinen, Tuukka Saarimaa, O. Toivanen, Janne Tukiainen |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 88 |
 | **شناسه دیجیتال** | [10.3982/QE864](https://doi.org/10.3982/QE864) |

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Anthony R. Kampf, M. J. Sciberras, Peter A. Williams, Maurizio Dini, Arturo A. Molina Donoso |
 | **Year** | 2013 |
-| **Category** | Transitional justice |
+| **Category** | Resource curse management |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 27 |
 | **Source** | openalex |
 | **DOI** | [10.1180/minmag.2013.077.7.14](https://doi.org/10.1180/minmag.2013.077.7.14) |

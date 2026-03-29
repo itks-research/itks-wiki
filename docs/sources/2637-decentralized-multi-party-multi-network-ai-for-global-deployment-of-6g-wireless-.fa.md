@@ -5,8 +5,8 @@
 | نویسندگان | Merim Dzaferagic, Marco Ruffini, Nina Slamnik-Kriještorac, Joao F. Santos, Johann M. Márquez-Barja, Christos Tranoris, S. Denazis, Thomas Kyriakakis, Panagiotis Karafotis, L. DaSilva, Shashi Raj Pandey, Junya Shiraishi, P. Popovski, S. K. Jensen, Christian Thomsen, T. Pedersen, Holger Claussen, Jinfeng Du, Gil Zussman, Tingjun Chen, Yiran Chen, Seshu Tirupathi, I. Seskar, Daniel C. Kilper |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Political party formation and pluralism |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | شکل‌گیری احزاب سیاسی و تکثرگرایی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 5 |
 | **شناسه دیجیتال** | [10.48550/arXiv.2407.01544](https://doi.org/10.48550/arXiv.2407.01544) |

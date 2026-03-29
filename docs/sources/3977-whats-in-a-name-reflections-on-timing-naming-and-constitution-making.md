@@ -6,7 +6,7 @@
 | **Year** | 2008 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 63 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://scholarship.law.wm.edu/wmlr/vol49/iss4/8) |

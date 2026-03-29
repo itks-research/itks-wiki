@@ -5,8 +5,9 @@
 | **Authors** | Karla Hoff, Joseph E. Stiglitz |
 | **Year** | 2002 |
 | **Category** | Privatization and state-owned enterprise restructuring |
+| **Secondary Categories** | Judicial independence and rule of law |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 128 |
 | **Source** | openalex |
 | **DOI** | [10.3386/w9282](https://doi.org/10.3386/w9282) |

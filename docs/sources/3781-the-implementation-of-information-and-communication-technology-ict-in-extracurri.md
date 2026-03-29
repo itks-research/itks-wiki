@@ -6,7 +6,7 @@
 | **Year** | 2011 |
 | **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 7 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1016/j.procs.2010.12.103](https://doi.org/10.1016/j.procs.2010.12.103) |

@@ -5,8 +5,8 @@
 | نویسندگان | Krzysztof Głowacki, Christopher A. Hartwell, Kateryna Karunska, Jacek Kurczewski, Elisabeth Botsch, Tom Göhring, Weronika Priesmeyer-Tkocz |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Judicial independence and rule of law |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | استقلال قضایی و حاکمیت قانون |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 7 |
 | **شناسه دیجیتال** | [10.1515/ldr-2021-0043](https://doi.org/10.1515/ldr-2021-0043) |

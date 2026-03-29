@@ -5,8 +5,8 @@
 | نویسندگان | Zhambayev Yeran Sagynkhanovich, Saulen Nurzhan, Sagadiev Azamat Nurlanovich |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.52026/2788-5291_2023_74_3_169https://vestnik.zqai.kz/index.php/vestnik/article/view/1086](https://doi.org/10.52026/2788-5291_2023_74_3_169https://vestnik.zqai.kz/index.php/vestnik/article/view/1086) |

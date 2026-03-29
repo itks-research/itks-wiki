@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Hanns J. Prem |
 | **Year** | 1992 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Resource curse management |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 36 |
 | **Source** | openalex |
 | **DOI** | [10.1111/j.1467-8306.1992.tb01969.x](https://doi.org/10.1111/j.1467-8306.1992.tb01969.x) |

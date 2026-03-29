@@ -5,8 +5,8 @@
 | نویسندگان | Atika Qazi, H. Fayaz, Nasrudin Abd Rahim, Glenn Hardaker, Daniyal Alghazzawi, Khaled Shaban, Khalid Haruna |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Minority rights |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | حقوق اقلیت‌ها |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1085 |
 | **شناسه دیجیتال** | [10.1109/access.2019.2906402](https://doi.org/10.1109/access.2019.2906402) |

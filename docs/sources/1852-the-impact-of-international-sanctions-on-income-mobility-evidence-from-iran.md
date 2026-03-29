@@ -6,7 +6,7 @@
 | **Year** | 2024 |
 | **Category** | Sanctions unwinding and international reintegration |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 4 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1111/rode.13123](https://doi.org/10.1111/rode.13123) |

@@ -5,8 +5,8 @@
 | نویسندگان | Simone Soeters, Mia Siscawati, Ratnasari Ratnasari, Septiani Anggriani, Nailah, Juliet Willetts |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 14 |
 | **شناسه دیجیتال** | [10.1080/21665095.2021.1978300](https://doi.org/10.1080/21665095.2021.1978300) |

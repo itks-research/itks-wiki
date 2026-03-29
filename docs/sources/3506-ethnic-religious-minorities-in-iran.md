@@ -6,7 +6,7 @@
 | **Year** | 2023 |
 | **Category** | Minority rights |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 7 |
 | **Source** | openalex |
 | **DOI** | [10.1007/978-981-19-1633-5](https://doi.org/10.1007/978-981-19-1633-5) |

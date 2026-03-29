@@ -5,8 +5,8 @@
 | نویسندگان | Shachar Hochman, Reyhane Havedanloo, Soomaayeh Heysieattalab, Mojtaba Soltanlou |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Minority rights |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | حقوق اقلیت‌ها |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 7 |
 | **شناسه دیجیتال** | [10.1037/xge0001653](https://doi.org/10.1037/xge0001653) |

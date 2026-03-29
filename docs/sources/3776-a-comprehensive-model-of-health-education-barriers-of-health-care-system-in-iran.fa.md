@@ -5,8 +5,8 @@
 | نویسندگان | H. Heshmati, E. Shakibazadeh, A. Foroushani, R. Sadeghi |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 10 |
 | **شناسه دیجیتال** | [10.4103/jehp.jehp_23_20](https://doi.org/10.4103/jehp.jehp_23_20) |

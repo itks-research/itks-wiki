@@ -5,8 +5,8 @@
 | نویسندگان | Alireza Keshtkar, Ali Hayat, Farnaz Atighi, Nazanin Ayare, Mohammadreza Keshtkar, Parsa Yazdanpanahi, Erfan Sadeghi, Noushin Deilami, Hamid Reihani, Alireza Karimi, Hamidreza Mokhtari, Mohammad Hashem Hashempur |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.47176/mjiri.39.24](https://doi.org/10.47176/mjiri.39.24) |

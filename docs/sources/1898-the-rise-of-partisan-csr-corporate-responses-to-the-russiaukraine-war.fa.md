@@ -5,8 +5,8 @@
 | نویسندگان | Vassiliki Bamiatzi, Steven A. Brieger, Özgü Karakulak, Daniel Kinderman, Stephan Manning |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Political party formation and pluralism |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | شکل‌گیری احزاب سیاسی و تکثرگرایی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 16 |
 | **شناسه دیجیتال** | [10.1007/s10551-024-05795-9](https://doi.org/10.1007/s10551-024-05795-9) |

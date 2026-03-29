@@ -6,7 +6,7 @@
 | **Year** | 2008 |
 | **Category** | Civil-military relations and security sector reform |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 43 |
 | **Source** | openalex |
 | **DOI** | [10.1596/978-0-8213-7511-2](https://doi.org/10.1596/978-0-8213-7511-2) |

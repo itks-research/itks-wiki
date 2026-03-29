@@ -6,7 +6,7 @@
 | **Year** | 2022 |
 | **Category** | Banking and financial system reform |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 99 |
 | **Source** | openalex |
 | **DOI** | [10.3389/fsufs.2022.1053031](https://doi.org/10.3389/fsufs.2022.1053031) |

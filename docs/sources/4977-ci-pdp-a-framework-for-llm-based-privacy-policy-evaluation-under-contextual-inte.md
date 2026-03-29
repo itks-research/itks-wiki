@@ -6,7 +6,7 @@
 | **Year** | 2025 |
 | **Category** | Minority rights |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **DOI** | [10.1145/3733802.3764051](https://doi.org/10.1145/3733802.3764051) |

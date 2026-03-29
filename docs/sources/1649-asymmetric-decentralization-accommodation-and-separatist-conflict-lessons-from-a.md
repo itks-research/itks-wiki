@@ -5,8 +5,9 @@
 | **Authors** | Gabriel Lele |
 | **Year** | 2021 |
 | **Category** | Federalism, unitarism, and autonomy models |
+| **Secondary Categories** | Power-sharing mechanisms during transition periods |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 30 |
 | **Source** | openalex |
 | **DOI** | [10.1080/21622671.2021.1875036](https://doi.org/10.1080/21622671.2021.1875036) |

@@ -5,8 +5,8 @@
 | نویسندگان | Shaghayegh Vahdat, Leila Hamzehgardeshi, Somayeh Hessam, Zeinab Hamzehgardeshi |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Minority rights |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | حقوق اقلیت‌ها |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 617 |
 | **شناسه دیجیتال** | [10.5812/ircmj.12454](https://doi.org/10.5812/ircmj.12454) |

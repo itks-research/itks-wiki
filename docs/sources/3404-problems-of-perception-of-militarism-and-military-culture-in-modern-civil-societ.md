@@ -6,7 +6,7 @@
 | **Year** | 2025 |
 | **Category** | Civil society development |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.26565/2227-6521-2025-54-02](https://doi.org/10.26565/2227-6521-2025-54-02) |

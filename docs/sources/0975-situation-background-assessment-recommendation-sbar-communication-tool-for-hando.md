@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Shaneela Shahid, Sumesh Thomas |
 | **Year** | 2018 |
-| **Category** | Transitional justice |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 194 |
 | **Source** | openalex |
 | **DOI** | [10.1186/s40886-018-0073-1](https://doi.org/10.1186/s40886-018-0073-1) |

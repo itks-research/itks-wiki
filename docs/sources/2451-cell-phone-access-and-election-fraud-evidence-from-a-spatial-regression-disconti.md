@@ -6,7 +6,7 @@
 | **Year** | 2021 |
 | **Category** | Electoral system design and implementation |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 26 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.2139/ssrn.3561120](https://doi.org/10.2139/ssrn.3561120) |

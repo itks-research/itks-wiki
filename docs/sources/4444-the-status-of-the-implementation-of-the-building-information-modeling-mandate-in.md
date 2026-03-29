@@ -6,7 +6,7 @@
 | **Year** | 2024 |
 | **Category** | Civil society development |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 7 |
 | **Source** | openalex |
 | **DOI** | [10.3390/ijgi13100343](https://doi.org/10.3390/ijgi13100343) |

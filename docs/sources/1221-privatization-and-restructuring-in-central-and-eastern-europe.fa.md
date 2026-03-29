@@ -5,8 +5,8 @@
 | نویسندگان | Gerhard Pohl, Robert E. Anderson, Stijn Claessens, Simeon Djankov |
 |---|---|
 | **سال** | 1997 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | خصوصی‌سازی و بازسازی شرکت‌های دولتی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 129 |
 | **شناسه دیجیتال** | [10.1596/0-8213-3975-3](https://doi.org/10.1596/0-8213-3975-3) |

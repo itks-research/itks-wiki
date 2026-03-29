@@ -5,8 +5,8 @@
 | نویسندگان | Seyed Hasan Harati, Farideh Ashraf Ganjouei, A M Amirtash, Zinat Nikaeen |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Judicial independence and rule of law |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | استقلال قضایی و حاکمیت قانون |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 2 |
 

@@ -5,8 +5,9 @@
 | **Authors** | Fineman, Martha 1943-, Zinsstag, Estelle |
 | **Year** | 2013 |
 | **Category** | Transitional justice |
+| **Secondary Categories** | Women's rights codification and gender equality |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 10 |
 | **Source** | openalex |
 | **DOI** | [10.1017/9781839700682](https://doi.org/10.1017/9781839700682) |

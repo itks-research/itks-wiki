@@ -15,3 +15,8 @@
 ## Abstract
 
 Doing Business 2020 is the 17th in a series of annual studies investigating the regulations that enhance business activity and those that constrain it. It provides quantitative indicators covering 12 areas of the business environment in 190 economies. The goal of the Doing Business series is to provide objective data for use by governments in designing sound business regulatory policies and to encourage research on the important dimensions of the regulatory environment for firms.
+
+## Related Sources
+
+- **extends** [Trade Unions in Western Europe since 1945](1109-trade-unions-in-western-europe-since-1945.md)
+- **supports** [Much Ado about Nothing? Do Domestic Firms Really Benefit from Foreign Direct Investment?](1236-much-ado-about-nothing-do-domestic-firms-really-benefit-from-foreign-direct-inve.md)

@@ -5,8 +5,8 @@
 | نویسندگان | Ronald Miranda, Leonel Muinelo‐Gallo, Oriol Roca‐Sagalés |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 33 |
 | **شناسه دیجیتال** | [10.1111/apce.12373](https://doi.org/10.1111/apce.12373) |

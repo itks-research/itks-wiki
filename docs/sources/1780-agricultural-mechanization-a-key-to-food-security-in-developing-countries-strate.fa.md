@@ -5,8 +5,8 @@
 | نویسندگان | Mohammad Hashem Emami, Morteza Almassi, Hossein Bakhoda, Issa kalantari |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | روابط نظامی-غیرنظامی و اصلاح بخش امنیتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 94 |
 | **شناسه دیجیتال** | [10.1186/s40066-018-0176-2](https://doi.org/10.1186/s40066-018-0176-2) |

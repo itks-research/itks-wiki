@@ -6,7 +6,7 @@
 | **Year** | 2005 |
 | **Category** | Judicial independence and rule of law |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 27 |
 | **Source** | openalex |
 | **DOI** | [10.1080/14623520500127431](https://doi.org/10.1080/14623520500127431) |

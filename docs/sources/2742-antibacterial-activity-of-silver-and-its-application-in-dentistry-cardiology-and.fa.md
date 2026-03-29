@@ -5,8 +5,8 @@
 | نویسندگان | Jasminka Talapko, Tatjana Matijević, Martina Juzbašić, Arlen Antolović-Požgain, Ivana Škrlec |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 148 |
 | **شناسه دیجیتال** | [10.3390/microorganisms8091400](https://doi.org/10.3390/microorganisms8091400) |

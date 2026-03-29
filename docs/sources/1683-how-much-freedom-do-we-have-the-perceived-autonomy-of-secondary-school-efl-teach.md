@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Andrzej Cirocki, Syafi’ul Anam |
 | **Year** | 2021 |
-| **Category** | Federalism, unitarism, and autonomy models |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 22 |
 | **Source** | openalex |
 | **DOI** | [10.1177/13621688211007472](https://doi.org/10.1177/13621688211007472) |
@@ -14,3 +14,9 @@
 ## Abstract
 
 This article presents the findings of a study measuring perceptions of teacher autonomy of practitioners of English as a foreign language (EFL). This study also sought to identify areas in which Indonesian secondary schools need to improve to enable teachers to enjoy a greater degree of freedom while completing teaching-related activities. Additionally, it aimed to explore correlations between practitioners’ perceptions of teacher autonomy and their gender, school location, school status and teaching experience. This was a mixed-methods study comprising a sequential explanatory design with two consecutive stages: quantitative and qualitative. The data were gathered using two instruments: a closed-ended questionnaire and a focus group. The sample consisted of 185 (74 male and 111 female) Indonesian secondary school EFL teachers, recruited using convenience sampling. The findings indicated that teachers’ sense of autonomy in relation to seven specific areas of their work was relatively high. Specifically, they perceived themselves to have a considerable amount of autonomy with respect to teaching methodology, instructional materials, course content, assessment, and, more recently, lesson planning. However, they expressed disappointment at being excluded from the decision-making process regarding the school curriculum. The findings also revealed that teachers expected more school support in relation to teaching facilities and professional development. The article concludes by considering several key implications for school management teams regarding the need to foster teacher autonomy among English language practitioners.
+
+## Related Sources
+
+- **supports** [LEARNER AUTONOMY IN THE INDONESIAN EFL SETTINGS](1653-learner-autonomy-in-the-indonesian-efl-settings.md)
+- **supports** [Neo-liberalism and the politics of higher education policy in Indonesia](1541-neo-liberalism-and-the-politics-of-higher-education-policy-in-indonesia.md)
+- **supports** [Learner autonomy and English proficiency of Indonesian undergraduate students](1671-learner-autonomy-and-english-proficiency-of-indonesian-undergraduate-students.md)

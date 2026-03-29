@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Oleh Kolodiziev, Hanna Telnova, Ihor Krupka, Myroslav Kulchytskyy, Iryna Sochynska-Sybirtseva |
 | **Year** | 2021 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Privatization and state-owned enterprise restructuring |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 9 |
 | **Source** | openalex |
 | **DOI** | [10.21511/imfi.18(3).2021.15](https://doi.org/10.21511/imfi.18(3).2021.15) |

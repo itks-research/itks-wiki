@@ -5,8 +5,8 @@
 | نویسندگان | Rahim Sohrabi, Sogand Tourani, Mehdi Jafarı, Hossein Joudaki, Leila Doshmangir, Javad Moghri, Nicola Luigi Bragazzi |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 16 |
 | **شناسه دیجیتال** | [10.1186/s12913-021-06620-z](https://doi.org/10.1186/s12913-021-06620-z) |

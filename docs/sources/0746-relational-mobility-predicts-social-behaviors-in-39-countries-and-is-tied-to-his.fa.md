@@ -5,8 +5,8 @@
 | نویسندگان | Robert Thomson, Masaki Yuki, Thomas Talhelm, Joanna Schug, Mie Kito, Arin H. Ayanian, Julia C. Becker, Maja Becker, Chi‐yue Chiu, Hoon‐Seok Choi, Carolina Müller Ferreira, Márta Fülöp, Pelin Gül, Ana Maria Houghton-Illera, Mihkel Joasoo, Jonathan Jong, Christopher Kavanagh, Dmytro Khutkyy, Claudia Manzi, Urszula M. Marcinkowska, Taciano L. Milfont, Félix Neto, Timo von Oertzen, Ruthie Pliskin, Álvaro San Martín, Purnima Singh, Mariko L. Visserman |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Cultural heritage preservation during institutional change |
-| **مطالعه موردی** | Tunisia |
+| **دسته‌بندی** | حفظ میراث فرهنگی در دوره تحولات نهادی |
+| **مطالعه موردی** | تونس |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 363 |
 | **شناسه دیجیتال** | [10.1073/pnas.1713191115](https://doi.org/10.1073/pnas.1713191115) |

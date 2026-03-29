@@ -6,7 +6,7 @@
 | **Year** | 1993 |
 | **Category** | Privatization and state-owned enterprise restructuring |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 238 |
 | **Source** | openalex |
 | **DOI** | [10.1515/zfsoz-1993-0201](https://doi.org/10.1515/zfsoz-1993-0201) |

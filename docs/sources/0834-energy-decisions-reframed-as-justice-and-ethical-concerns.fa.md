@@ -5,8 +5,8 @@
 | نویسندگان | Benjamin K. Sovacool, Raphael J. Heffron, Darren McCauley, Andreas Goldthau |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 641 |
 | **شناسه دیجیتال** | [10.1038/nenergy.2016.24](https://doi.org/10.1038/nenergy.2016.24) |

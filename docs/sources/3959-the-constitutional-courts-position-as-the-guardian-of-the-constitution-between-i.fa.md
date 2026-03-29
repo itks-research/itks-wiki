@@ -5,8 +5,8 @@
 | نویسندگان | Theresia Nolda Agnes Narwadan, Yusep Mulyana, Fauzan Fauzan |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.61942/jhk.v2i5.427](https://doi.org/10.61942/jhk.v2i5.427) |

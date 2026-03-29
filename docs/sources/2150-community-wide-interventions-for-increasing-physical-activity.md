@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Philip Baker, Daniel Francis, Jesus Soares, Alison Weightman, Charlie Foster |
 | **Year** | 2015 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 299 |
 | **Source** | openalex |
 | **DOI** | [10.1002/14651858.cd008366.pub3](https://doi.org/10.1002/14651858.cd008366.pub3) |

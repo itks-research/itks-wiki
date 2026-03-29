@@ -6,7 +6,7 @@
 | **Year** | 2015 |
 | **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 10 |
 | **Source** | openalex |
 | **DOI** | [10.21953/lse.ro.64581](https://doi.org/10.21953/lse.ro.64581) |
@@ -15,3 +15,14 @@
 ## Abstract
 
 Iran is currently facing a time of demographic and ideological change. As the post-revolutionary generation has emerged into political awareness, there has been a revival of interest in democracy, nationalism, secularism and constitutionalism, and a heterogenic protest movement has gathered strength – particularly among young Iranians. This working paper aims to investigate these ongoing trends of secularisation and nationalism, as well as the response of the government. While the younger generation is not yet able to compete on a political level with the élite of the Islamic Republic, they do have potential, in the next decade, to establish a new ruling class able to change the political landscape of Iran.
+
+## Related Sources
+
+- **extends** [Liberal Islam: A Sourcebook](2122-liberal-islam-a-sourcebook.md)
+- **extends** [Intellectual Discourse and the Politics of Modernization: Negotiating Modernity in Iran](2100-intellectual-discourse-and-the-politics-of-modernization-negotiating-modernity-i.md)
+- **extends** [Intellectual Discourse and the Politics of Modernization](2103-intellectual-discourse-and-the-politics-of-modernization.md)
+- **extends** [Muslim reformers in Iran and Turkey: the paradox of moderation](2110-muslim-reformers-in-iran-and-turkey-the-paradox-of-moderation.md)
+- **extends** [Islam and Democracy in Turkey: Toward a Reconciliation?](2055-islam-and-democracy-in-turkey-toward-a-reconciliation.md)
+- **extends** [Islam, Democracy and Religious Modernism in Iran (1953-2000): From Bāzargān to Soroush](2052-islam-democracy-and-religious-modernism-in-iran-1953-2000-from-bāzargān-to-sorou.md)
+- **extends** [<sup>с</sup>AbdoIkarim Sorush and the Secularization of Islamic Thought in Iran](2118-supсsupabdoikarim-sorush-and-the-secularization-of-islamic-thought-in-iran.md)
+- **extends** [Religion and Regimes: Support, Separation, and Opposition](2123-religion-and-regimes-support-separation-and-opposition.md)

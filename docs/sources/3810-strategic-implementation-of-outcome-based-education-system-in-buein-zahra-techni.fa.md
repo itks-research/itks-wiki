@@ -5,8 +5,8 @@
 | نویسندگان | Hossein Zeynal, Zuhaina Zakaria, Mohammad Anisseh, Shiva Mansoorzadeh |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 9 |
 | **شناسه دیجیتال** | [10.1109/iceed.2017.8251178](https://doi.org/10.1109/iceed.2017.8251178) |

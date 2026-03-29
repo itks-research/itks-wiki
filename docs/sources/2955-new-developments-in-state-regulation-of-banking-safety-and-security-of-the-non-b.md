@@ -6,7 +6,7 @@
 | **Year** | 2019 |
 | **Category** | Banking and financial system reform |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.31521/MODECON.V13(2019)-17](https://doi.org/10.31521/MODECON.V13(2019)-17) |

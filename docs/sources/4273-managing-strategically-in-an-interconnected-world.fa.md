@@ -5,8 +5,8 @@
 | نویسندگان | Michael A. Hitt, Joan Enric Ricart i Costa, Robert D. Nixon |
 |---|---|
 | **سال** | 1998 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | خصوصی‌سازی و بازسازی شرکت‌های دولتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 5.0 |
 | **تعداد استنادها** | 91 |
 

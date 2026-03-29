@@ -6,7 +6,7 @@
 | **Year** | 2017 |
 | **Category** | Media freedom and press institution building |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 431 |
 | **Source** | openalex |
 | **DOI** | [10.1177/1940161217740695](https://doi.org/10.1177/1940161217740695) |

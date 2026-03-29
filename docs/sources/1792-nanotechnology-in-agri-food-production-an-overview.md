@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Bhupinder Singh Sekhon |
 | **Year** | 2014 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1043 |
 | **Source** | openalex |
 | **DOI** | [10.2147/nsa.s39406](https://doi.org/10.2147/nsa.s39406) |

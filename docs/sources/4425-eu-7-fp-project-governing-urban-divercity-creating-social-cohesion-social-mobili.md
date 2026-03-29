@@ -6,7 +6,7 @@
 | **Year** | 2017 |
 | **Category** | Civil society development |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 3078 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://rcin.org.pl/dlibra/publication/edition/62832/content) |

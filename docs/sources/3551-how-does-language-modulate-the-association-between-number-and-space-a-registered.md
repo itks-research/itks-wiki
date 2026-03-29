@@ -6,7 +6,7 @@
 | **Year** | 2024 |
 | **Category** | Minority rights |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 7 |
 | **Source** | openalex |
 | **DOI** | [10.1037/xge0001653](https://doi.org/10.1037/xge0001653) |

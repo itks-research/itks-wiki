@@ -5,8 +5,8 @@
 | نویسندگان | Olukunle O. Oyegoke, Leah Maharaj, Oluwasegun P. Akoniyon, Illiya Kwoji, Alexandra T. Roux, Taiye S. Adewumi, Rajendra Maharaj, Bolanle T. Oyebola, Matthew A. Adeleke, Moses Okpeku |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Internet and digital infrastructure as civic space |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اینترنت و زیرساخت دیجیتال به‌عنوان فضای مدنی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 82 |
 | **شناسه دیجیتال** | [10.1007/s00436-022-07512-9](https://doi.org/10.1007/s00436-022-07512-9) |

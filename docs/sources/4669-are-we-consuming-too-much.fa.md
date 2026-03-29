@@ -5,8 +5,8 @@
 | نویسندگان | Kenneth J. Arrow, Partha Dasgupta, Lawrence H. Goulder, Gretchen C. Daily, Paul R. Ehrlich, Geoffrey Heal, Simon A. Levin, Karl-Göran Mäler, Stephen P. Schneider, David A. Starrett, Brian Walker |
 |---|---|
 | **سال** | 2004 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 824 |
 | **شناسه دیجیتال** | [10.1257/0895330042162377](https://doi.org/10.1257/0895330042162377) |

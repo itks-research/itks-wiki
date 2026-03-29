@@ -5,8 +5,8 @@
 | نویسندگان | Zulkifli Abdurrahman Usman, Rahma Salbiah, Nauwal Aufa, Naures Ben Znaidi |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | Tunisia |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | تونس |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.33086/jic.v6i2.6578](https://doi.org/10.33086/jic.v6i2.6578) |

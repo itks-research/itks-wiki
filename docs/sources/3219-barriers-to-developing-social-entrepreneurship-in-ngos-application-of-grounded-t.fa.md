@@ -5,8 +5,8 @@
 | نویسندگان | Nader Naderi, Ehsan Khosravi, Hossein Azadi, Faranak Karamian, Ants‐Hannes Viira, Halil Nadi̇ri̇ |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 23 |
 | **شناسه دیجیتال** | [10.1080/19420676.2020.1765409](https://doi.org/10.1080/19420676.2020.1765409) |

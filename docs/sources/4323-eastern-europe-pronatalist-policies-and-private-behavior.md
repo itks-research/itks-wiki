@@ -6,7 +6,7 @@
 | **Year** | 1982 |
 | **Category** | Privatization and state-owned enterprise restructuring |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 31 |
 | **Source** | openalex |
 

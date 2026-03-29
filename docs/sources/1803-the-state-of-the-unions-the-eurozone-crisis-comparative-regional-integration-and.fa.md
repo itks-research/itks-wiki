@@ -5,8 +5,8 @@
 | نویسندگان | Joaquín Roy, Astrid B. Boening, Jolyon Howorth, Joachim A. Koops, Finn Laursen, Maria. Lorca, Andrés Malamud, John S. McCormick, Manuel Carlos Lopes Porto, Tatiana P. Rizova, Vivien A. Schmidt, Markus Thiel, Alfred Tovias, George K. Zestos |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | Trade liberalization and foreign direct investment |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادسازی تجارت و سرمایه‌گذاری خارجی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 13 |
 

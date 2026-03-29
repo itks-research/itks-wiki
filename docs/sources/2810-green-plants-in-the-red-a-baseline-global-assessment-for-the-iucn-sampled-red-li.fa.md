@@ -5,8 +5,8 @@
 | نویسندگان | Neil Brummitt, Steven P. Bachman, Janine Griffiths-Lee, Maiko L. Lutz, Justin Moat, Aljos Farjon, John S. Donaldson, Craig Hilton‐Taylor, Thomas R. Meagher, Sara Albuquerque, Elina Aletrari, Austin K. Andrews, Guy Atchison, Elisabeth Baloch, Barbara Barlozzini, Alice Brunazzi, Julia Carretero, Marco Celesti, Helen Chadburn, Eduardo Cianfoni, Chris Cockel, Vanessa L. Coldwell, Benedetta Concetti, Sara Contu, Vicki Crook, Philippa Dyson, Lauren M. Gardiner, Nadia Ghanim, Hannah Greene, Alice E. R. Groom, Ruth Harker, Della Hopkins, Sonia Khela, Poppy Lakeman-Fraser, Heather L. Lindon, Helen Lockwood, Christine T. Loftus, Debora Lombrici, Lucia Lopez-Poveda, James E. Lyon, Patricia Malcolm-Tompkins, Kirsty F. McGregor, Laura Beatriz Moreno, Linda Murray, Keara Nazar, Emily Power, Mireya Quiton Tuijtelaars, Ruth Salter, Robert Segrott, Hannah Thacker, Leighton J. Thomas, Sarah Tingvoll, Gemma Watkinson, Katerina Wojtaszekova, Eimear Nic Lughadha |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 354 |
 | **شناسه دیجیتال** | [10.1371/journal.pone.0135152](https://doi.org/10.1371/journal.pone.0135152) |

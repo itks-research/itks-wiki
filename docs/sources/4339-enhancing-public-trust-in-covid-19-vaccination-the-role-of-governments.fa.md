@@ -5,8 +5,8 @@
 | نویسندگان | OECD, M Blastland, S Bowers, D Cohen, N Brewer, K Fazekas, G Chapman, E Coups, M Cinelli, De Figueredo, J Eiser, W Evans, J French, A Gagneur, S Halabi, A Heinrich, S Omer, L Hordijk, P Patnaik, Johnson Shen, M, E Lind, A Lundh, K Mcauliffe, C Meppelinka, K Milkman, J Mindell, A Mondal, J Murphy, Oecd, P Reiter, M Pennell, M Katz, E Robertson, H Seale, R Smith, D Stecula, O Kuru, K Jamieson, O Takahashi, A Van Der Bles, A Vilhelmsson, S Mulinari, E Wheeler, L Cosgrove, O Wouters |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Judicial independence and rule of law |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | استقلال قضایی و حاکمیت قانون |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 299 |
 | **شناسه دیجیتال** | [10.1787/eae0ec5a-en](https://doi.org/10.1787/eae0ec5a-en) |

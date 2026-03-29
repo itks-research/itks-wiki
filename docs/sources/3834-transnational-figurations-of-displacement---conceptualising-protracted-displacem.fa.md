@@ -5,8 +5,8 @@
 | نویسندگان | Benjamin Etzold, Milena Belloni, Russell King, Albert Kraler, Ferruccio Pastore |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Diaspora repatriation and reintegration |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | بازگشت و ادغام دیاسپورا |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 8 |
 | **شناسه دیجیتال** | [10.5281/zenodo.5840817](https://doi.org/10.5281/zenodo.5840817) |

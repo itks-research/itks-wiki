@@ -5,8 +5,8 @@
 | نویسندگان | Maciej Bałtowski, Piotr Kozarzewski, Tomasz Mickiewicz |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | خصوصی‌سازی و بازسازی شرکت‌های دولتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 14 |
 | **شناسه دیجیتال** | [10.1093/oxfordhb/9780198837367.013.33](https://doi.org/10.1093/oxfordhb/9780198837367.013.33) |

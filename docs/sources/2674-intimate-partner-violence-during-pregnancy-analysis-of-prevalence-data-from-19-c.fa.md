@@ -5,8 +5,8 @@
 | نویسندگان | Karen Devries, Sunita Kishor, Holly Johnson, Heidi Stöckl, Loraine Bacchus, Claudia García‐Moreno, Charlotte Watts |
 |---|---|
 | **سال** | 2010 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 508 |
 | **شناسه دیجیتال** | [10.1016/s0968-8080(10)36533-5](https://doi.org/10.1016/s0968-8080(10)36533-5) |

@@ -6,7 +6,7 @@
 | **Year** | 2003 |
 | **Category** | Seminary role in post-theocratic society |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://scholarship.shu.edu/dissertations/1423) |

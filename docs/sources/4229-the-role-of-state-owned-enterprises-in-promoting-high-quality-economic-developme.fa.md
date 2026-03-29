@@ -5,8 +5,8 @@
 | نویسندگان | Francesco Macheda, Junxiu Liu |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | خصوصی‌سازی و بازسازی شرکت‌های دولتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 8 |
 | **شناسه دیجیتال** | [10.13169/worlrevipoliecon.16.1.0026](https://doi.org/10.13169/worlrevipoliecon.16.1.0026) |

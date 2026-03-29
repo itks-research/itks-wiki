@@ -5,8 +5,8 @@
 | نویسندگان | Lucas Hallberg Fernández, Lucinao Scoccola, Feresin Gabriela Arrachea |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.36079/lamintang.ij-humass-0801.544](https://doi.org/10.36079/lamintang.ij-humass-0801.544) |

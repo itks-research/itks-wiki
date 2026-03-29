@@ -5,8 +5,8 @@
 | نویسندگان | Ahmad Reza Hosseinpoor, Eddy van Doorslaer, Niko Speybroeck, Mohsen Naghavi, Kazem Mohammad, Reza Majdzadeh, Bahram Delavar, Hamidreza Jamshidi, Jeanette Vega |
 |---|---|
 | **سال** | 2006 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 223 |
 | **شناسه دیجیتال** | [10.1093/ije/dyl164](https://doi.org/10.1093/ije/dyl164) |

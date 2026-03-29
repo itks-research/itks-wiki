@@ -5,8 +5,8 @@
 | نویسندگان | Leila Zivdar Chegini, Mahnaz Akbari Kamrani, Maryam Shiri, Malihe Farid, Setareh Homami |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 4 |
 | **شناسه دیجیتال** | [10.5812/semj.101531](https://doi.org/10.5812/semj.101531) |

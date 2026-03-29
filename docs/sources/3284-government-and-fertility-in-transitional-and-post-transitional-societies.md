@@ -6,7 +6,7 @@
 | **Year** | 1998 |
 | **Category** | Women's rights codification and gender equality |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 70 |
 | **Source** | openalex |
 | **DOI** | [10.31899/pgy6.1014](https://doi.org/10.31899/pgy6.1014) |

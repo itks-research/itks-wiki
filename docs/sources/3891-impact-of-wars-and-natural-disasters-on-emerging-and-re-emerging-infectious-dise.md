@@ -6,7 +6,7 @@
 | **Year** | 2023 |
 | **Category** | Nuclear program civilian transition |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 64 |
 | **Source** | openalex |
 | **DOI** | [10.3389/fpubh.2023.1215929](https://doi.org/10.3389/fpubh.2023.1215929) |

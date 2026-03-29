@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Marcial R. Espinosa B. |
 | **Year** | 1937 |
-| **Category** | Transitional justice |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 1 |
 | **Source** | openalex |
 | **DOI** | [10.54830/bmnhn.v16.1937.715](https://doi.org/10.54830/bmnhn.v16.1937.715) |

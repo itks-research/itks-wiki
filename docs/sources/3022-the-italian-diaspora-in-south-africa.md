@@ -6,7 +6,7 @@
 | **Year** | 2023 |
 | **Category** | Brain-drain reversal and diaspora economic engagement |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 3 |
 | **Source** | openalex |
 | **DOI** | [10.4324/9781003266884](https://doi.org/10.4324/9781003266884) |

@@ -6,7 +6,7 @@
 | **Year** | 2023 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **DOI** | [10.4467/20844131ks.23.014.17832](https://doi.org/10.4467/20844131ks.23.014.17832) |

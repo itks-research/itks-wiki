@@ -6,7 +6,7 @@
 | **Year** | 2021 |
 | **Category** | Regional foreign policy reorientation |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 3 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.31703/gfpr.2021(iv-iv).04](https://doi.org/10.31703/gfpr.2021(iv-iv).04) |

@@ -6,7 +6,7 @@
 | **Year** | 2024 |
 | **Category** | Bonyad system reform |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **DOI** | [10.1093/fpa/orae031](https://doi.org/10.1093/fpa/orae031) |

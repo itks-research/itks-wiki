@@ -5,8 +5,8 @@
 | نویسندگان | I Putu Ngurah Wage Myartawan, Mohammad Adnan Latief, Suharmanto Suharmanto |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 42 |
 | **شناسه دیجیتال** | [10.15639/teflinjournal.v24i1/63-81](https://doi.org/10.15639/teflinjournal.v24i1/63-81) |

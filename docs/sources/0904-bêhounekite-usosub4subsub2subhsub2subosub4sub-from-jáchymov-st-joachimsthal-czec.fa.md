@@ -5,8 +5,8 @@
 | نویسندگان | Jakub Plášil, K. Fejfarová, M. Novák, Michal Dušek, Radek Škoda, Jan Hloušek, Jiřı́ Čejka, Juraj Majzlan, Jiří Sejkora, Vladimı́r Machovič, Dominik Talla |
 |---|---|
 | **سال** | 2011 |
-| **دسته‌بندی** | Cultural heritage preservation during institutional change |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | حفظ میراث فرهنگی در دوره تحولات نهادی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 19 |
 | **شناسه دیجیتال** | [10.1180/minmag.2011.075.6.2739](https://doi.org/10.1180/minmag.2011.075.6.2739) |

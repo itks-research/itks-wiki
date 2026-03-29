@@ -6,7 +6,7 @@
 | **Year** | 2011 |
 | **Category** | Women's rights codification and gender equality |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 47 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://digitalcommons.law.yale.edu/yjil/vol37/iss1/4) |

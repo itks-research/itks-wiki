@@ -5,8 +5,8 @@
 | نویسندگان | Pandarinath Potluri, R. Jayakarthik, Shivam Agarwal, S. S, Venkata Padmavathi S, A. R |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.1109/I-SMAC61858.2024.10714856](https://doi.org/10.1109/I-SMAC61858.2024.10714856) |

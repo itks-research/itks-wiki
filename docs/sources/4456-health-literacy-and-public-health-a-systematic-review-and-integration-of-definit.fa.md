@@ -5,8 +5,8 @@
 | نویسندگان | Kristine Sørensen, Stephan Van den Broucke, James Fullam, Gerardine Doyle, Jürgen M. Pelikan, Zofia Słońska, Helmut Brand |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | Civil society development |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | توسعه جامعه مدنی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 5815 |
 | **شناسه دیجیتال** | [10.1186/1471-2458-12-80](https://doi.org/10.1186/1471-2458-12-80) |

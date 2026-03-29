@@ -6,7 +6,7 @@
 | **Year** | 2022 |
 | **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.36859/jgss.v2i1.1053](https://doi.org/10.36859/jgss.v2i1.1053) |

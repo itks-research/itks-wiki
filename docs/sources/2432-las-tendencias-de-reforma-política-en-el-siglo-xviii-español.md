@@ -6,7 +6,7 @@
 | **Year** | 1967 |
 | **Category** | Electoral system design and implementation |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 9 |
 | **Source** | openalex |
 | **DOI** | [10.1016/j.apergo.2012.03.010](https://doi.org/10.1016/j.apergo.2012.03.010) |

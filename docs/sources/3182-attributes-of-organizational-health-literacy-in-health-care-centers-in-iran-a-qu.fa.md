@@ -5,8 +5,8 @@
 | نویسندگان | Elham Charoghchian Khorasani, Seyedeh Belin Tavakoly Sany, Mehrsadat Mahdizadeh, Hassan Doosti, Hadi Tehrani, Mohammad Moghzi, Alireza Jafari, Nooshin Peyman |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 6 |
 | **شناسه دیجیتال** | [10.3390/ijerph19042310](https://doi.org/10.3390/ijerph19042310) |

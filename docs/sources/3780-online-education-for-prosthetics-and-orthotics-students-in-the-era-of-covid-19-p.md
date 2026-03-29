@@ -6,7 +6,7 @@
 | **Year** | 2023 |
 | **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 6 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1186/s12909-023-04339-5](https://doi.org/10.1186/s12909-023-04339-5) |

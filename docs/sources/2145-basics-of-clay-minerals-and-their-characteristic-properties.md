@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Neeraj Kumari, Chandra Mohan |
 | **Year** | 2021 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 337 |
 | **Source** | openalex |
 | **DOI** | [10.5772/intechopen.97672](https://doi.org/10.5772/intechopen.97672) |

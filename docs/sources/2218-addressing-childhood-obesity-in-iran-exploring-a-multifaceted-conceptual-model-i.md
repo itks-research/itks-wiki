@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Fatemeh Toorang, P. Amiri, Hamed Pouraram, Amirhossein Takian |
 | **Year** | 2025 |
-| **Category** | IRGC economic empire and its dismantling |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1186/s12889-024-21221-1](https://doi.org/10.1186/s12889-024-21221-1) |

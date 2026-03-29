@@ -5,8 +5,8 @@
 | نویسندگان | A. Emordi, H. A. Ikedinma, Mubarak Ayodeji Eniola |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.71016/hnjss/pkcks587](https://doi.org/10.71016/hnjss/pkcks587) |

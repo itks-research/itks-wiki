@@ -5,8 +5,8 @@
 | نویسندگان | Maurice M. Ohayon, Mary A. Carskadon, Christian Guilleminault, Michael V. Vitiello |
 |---|---|
 | **سال** | 2004 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 3273 |
 | **شناسه دیجیتال** | [10.1093/sleep/27.7.1255](https://doi.org/10.1093/sleep/27.7.1255) |

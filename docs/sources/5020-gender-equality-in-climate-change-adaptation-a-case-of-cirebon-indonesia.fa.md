@@ -5,8 +5,8 @@
 | نویسندگان | Nila Ardhyarini H. Pratiwi, Yovi Dzulhijjah Rahmawati, Ivo Setiono |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 14 |
 | **شناسه دیجیتال** | [10.14710/ijpd.2.2.74-86](https://doi.org/10.14710/ijpd.2.2.74-86) |

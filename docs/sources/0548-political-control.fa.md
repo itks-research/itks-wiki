@@ -5,8 +5,8 @@
 | نویسندگان | Mai Hassan, Daniel Mattingly, Elizabeth R. Nugent |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Political party formation and pluralism |
-| **مطالعه موردی** | Tunisia |
+| **دسته‌بندی** | شکل‌گیری احزاب سیاسی و تکثرگرایی |
+| **مطالعه موردی** | تونس |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 88 |
 | **شناسه دیجیتال** | [10.1146/annurev-polisci-051120-013321](https://doi.org/10.1146/annurev-polisci-051120-013321) |

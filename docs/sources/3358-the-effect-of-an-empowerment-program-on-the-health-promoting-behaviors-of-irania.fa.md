@@ -5,8 +5,8 @@
 | نویسندگان | Fatemeh Noori, Zahra Behboodi Moghadam, Shima Haghani, Shahzad Pashaeypoor |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 9 |
 | **شناسه دیجیتال** | [10.3961/jpmph.21.088](https://doi.org/10.3961/jpmph.21.088) |

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Harald Furnes, Maarten de Wit, Yıldırım Dilek |
 | **Year** | 2014 |
-| **Category** | Transitional justice |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 181 |
 | **Source** | openalex |
 | **DOI** | [10.1016/j.gsf.2014.02.002](https://doi.org/10.1016/j.gsf.2014.02.002) |

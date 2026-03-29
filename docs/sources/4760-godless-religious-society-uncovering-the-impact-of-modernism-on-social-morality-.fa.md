@@ -5,8 +5,8 @@
 | نویسندگان | Sigit Hardiyanto, Fernanda Putra Adela, J. Hutasuhut, Zhalgas Yarhamdhani, Nina Angelia |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 4 |
 | **شناسه دیجیتال** | [10.46222/pharosjot.106.11](https://doi.org/10.46222/pharosjot.106.11) |

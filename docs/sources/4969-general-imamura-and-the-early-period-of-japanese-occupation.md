@@ -6,7 +6,7 @@
 | **Year** | 1970 |
 | **Category** | Minority rights |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 9 |
 | **Source** | openalex |
 | **DOI** | [10.2307/3350632](https://doi.org/10.2307/3350632) |

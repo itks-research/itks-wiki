@@ -5,8 +5,8 @@
 | نویسندگان | Mohanna Rajabi, Parvin Ebrahimi, A. Aryankhesal |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 6 |
 | **شناسه دیجیتال** | [10.4103/jehp.jehp_584_21](https://doi.org/10.4103/jehp.jehp_584_21) |

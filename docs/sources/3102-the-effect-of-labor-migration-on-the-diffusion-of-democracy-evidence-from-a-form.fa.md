@@ -5,8 +5,8 @@
 | نویسندگان | Toman Barsbai, Hillel Rapoport, Andreas Steinmayr, Christoph Trebesch |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 168 |
 | **شناسه دیجیتال** | [10.1257/app.20150517](https://doi.org/10.1257/app.20150517) |

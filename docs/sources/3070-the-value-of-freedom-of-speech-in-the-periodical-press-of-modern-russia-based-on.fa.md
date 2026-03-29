@@ -5,8 +5,8 @@
 | نویسندگان | V. Diakova, Ekaterina V. Kargopolova, Arina S. Dikanova, Alina A. Zhdanova |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.24158/tipor.2025.7.2](https://doi.org/10.24158/tipor.2025.7.2) |

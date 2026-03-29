@@ -6,7 +6,7 @@
 | **Year** | 2020 |
 | **Category** | Federalism, unitarism, and autonomy models |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 0 |
 | **Source** | openalex |
 | **DOI** | [10.21744/irjmis.v7n6.1013](https://doi.org/10.21744/irjmis.v7n6.1013) |

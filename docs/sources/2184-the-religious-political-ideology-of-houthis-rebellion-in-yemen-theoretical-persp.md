@@ -6,7 +6,7 @@
 | **Year** | 2022 |
 | **Category** | IRGC economic empire and its dismantling |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **DOI** | [10.17576/islamiyyat-2022-4401-20](https://doi.org/10.17576/islamiyyat-2022-4401-20) |

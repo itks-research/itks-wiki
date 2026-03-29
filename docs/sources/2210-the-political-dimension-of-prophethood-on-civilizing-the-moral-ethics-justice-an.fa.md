@@ -5,8 +5,8 @@
 | نویسندگان | Afifi Fauzi Abbas, Abdullah A Afifi, Mona Eliza, Adamu Abubakar Muhammad |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Political party formation and pluralism |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | شکل‌گیری احزاب سیاسی و تکثرگرایی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.58764/j.prwkl.2025.3.98](https://doi.org/10.58764/j.prwkl.2025.3.98) |

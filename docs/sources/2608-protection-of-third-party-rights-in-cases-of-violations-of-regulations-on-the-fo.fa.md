@@ -5,8 +5,8 @@
 | نویسندگان | Somayeh Rahmani, M I Tafreshi, Habib Ramezani Akerdi, Ehtesham Husain Abbasi |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Political party formation and pluralism |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | شکل‌گیری احزاب سیاسی و تکثرگرایی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.61838/csjlp.6.5.6](https://doi.org/10.61838/csjlp.6.5.6) |

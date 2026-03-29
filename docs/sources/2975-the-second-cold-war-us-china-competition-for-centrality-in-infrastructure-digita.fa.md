@@ -5,8 +5,8 @@
 | نویسندگان | Seth Schindler, Ilias Alami, Jessica DiCarlo, Nicholas Jepson, Steve Rolf, Mustafa Kemal Bayırbağ, Louis Cyuzuzo, Meredith J. DeBoom, Alireza F. Farahani, Imogen T. Liu, Hannah McNicol, Julie Tian Miao, Philip J. Nock, Gilead Teri, Maximiliano Facundo Vila Seoane, Kevin Ward, Tim Zajontz, Yawei Zhao |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Banking and financial system reform |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام بانکی و مالی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 174 |
 | **شناسه دیجیتال** | [10.1080/14650045.2023.2253432](https://doi.org/10.1080/14650045.2023.2253432) |

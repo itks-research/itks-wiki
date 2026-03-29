@@ -4,23 +4,23 @@
 
 **154 منبع** در 15 دسته‌بندی
 
-## Banking and financial system reform
+## اصلاح نظام بانکی و مالی
 *1 منبع*
 
 - [[Analysis of the organ allocation system for liver transplantation in Chile].](../sources/1437-analysis-of-the-organ-allocation-system-for-liver-transplantation-in-chile.fa.md) (2020)
 
-## Civil society development
+## توسعه جامعه مدنی
 *2 منبع*
 
 - [Norm Internalization and U.S. Economic Sanctions](../sources/2061-norm-internalization-and-us-economic-sanctions.fa.md) (2001)
 - [Broken Lives?Reflections on the Anthropology of Exile and Repair](../sources/1503-broken-livesreflections-on-the-anthropology-of-exile-and-repair.fa.md) (1999)
 
-## Constitutional design and drafting processes
+## طراحی و تدوین قانون اساسی
 *1 منبع*
 
 - [Diez puntos sobre el cambio constitucional en Chile](../sources/1409-diez-puntos-sobre-el-cambio-constitucional-en-chile.fa.md) (2021)
 
-## Cultural heritage preservation during institutional change
+## حفظ میراث فرهنگی در دوره تحولات نهادی
 *12 منبع*
 
 - [Destination Marketing Organizations and destination marketing: A narrative analysis of the literature](../sources/1459-destination-marketing-organizations-and-destination-marketing-anarrative-analysi.fa.md) (2013)
@@ -36,7 +36,7 @@
 - [Contribución al conocimiento de los hongos chilenos](../sources/1457-contribución-al-conocimiento-de-los-hongos-chilenos.fa.md) (1937)
 - [Pabellóndepicaite, Cu2+2(N3C2H2)2(NH3)2(NO3)Cl·2H2O, a new 1,2,4-triazolate mineral from the guano deposit at Pabellón de Pica, Iquique Province, Chile](../sources/1393-pabellóndepicaite-cu22n3c2h22nh32no3cl2h2o-a-new-124-triazolate-mineral-from-the.fa.md) (2024)
 
-## Education system reform and curriculum modernization
+## اصلاح نظام آموزشی و نوسازی برنامه درسی
 *6 منبع*
 
 - [From Bantu Education to the Fight for Socially Just Education](../sources/1383-from-bantu-education-to-the-fight-for-socially-just-education.fa.md) (2013)
@@ -46,18 +46,18 @@
 - [[Validation of the Childhood Trauma Questionnaire-Short Form in Chile].](../sources/1415-validation-of-the-childhood-trauma-questionnaire-short-form-in-chile.fa.md) (2020)
 - [[Development of Normative Data for the Mini Mental State Examination (MMSE) in the Elderly Population of Chile: A Multi-City Study].](../sources/1394-development-of-normative-data-for-the-mini-mental-state-examination-mmse-in-the-.fa.md) (2023)
 
-## Electoral system design and implementation
+## طراحی و اجرای نظام انتخاباتی
 *1 منبع*
 
 - [Representation and Effectiveness in Latin American Democracies](../sources/1388-representation-and-effectiveness-in-latin-american-democracies.fa.md) (2014)
 
-## Judicial independence and rule of law
+## استقلال قضایی و حاکمیت قانون
 *2 منبع*
 
 - [Virtual Legality](../sources/1366-virtual-legality.fa.md) (2001)
 - [The Neglected Stepchild: Military Justice and Democratic Transition in Chile](../sources/1356-the-neglected-stepchild-military-justice-and-democratic-transition-in-chile.fa.md) (2005)
 
-## Labor market reform and social safety nets
+## اصلاح بازار کار و شبکه‌های حمایت اجتماعی
 *21 منبع*
 
 - [[Dependency in Chile. Advances and challenges].](../sources/1421-dependency-in-chile-advances-and-challenges.fa.md) (2019)
@@ -82,19 +82,19 @@
 - [[Incidence of acute myocardial infarction in Chile between 2008 and 2016].](../sources/1414-incidence-of-acute-myocardial-infarction-in-chile-between-2008-and-2016.fa.md) (2021)
 - [[The present situation of colorectal cancer in Chile].](../sources/1436-the-present-situation-of-colorectal-cancer-in-chile.fa.md) (2020)
 
-## Political party formation and pluralism
+## شکل‌گیری احزاب سیاسی و تکثرگرایی
 *3 منبع*
 
 - [Shaping the Political Arena: Critical Junctures, the Labor Movement and Regime Dynamics in Latin America](../sources/1103-shaping-the-political-arena-critical-junctures-the-labor-movement-and-regime-dyn.fa.md) (1992)
 - [On the Tasks of a Democratic Opposition](../sources/1378-on-the-tasks-of-a-democratic-opposition.fa.md) (1990)
 - [Tensions and Trade-Offs In Latin America](../sources/1385-tensions-and-trade-offs-in-latin-america.fa.md) (1997)
 
-## Privatization and state-owned enterprise restructuring
+## خصوصی‌سازی و بازسازی شرکت‌های دولتی
 *1 منبع*
 
 - [Business of the State](../sources/0997-business-of-the-state.fa.md) (2024)
 
-## Resource curse management
+## مدیریت نفرین منابع طبیعی
 *8 منبع*
 
 - [The Natural Resource Curse: A Survey](../sources/1795-the-natural-resource-curse-a-survey.fa.md) (2010)
@@ -106,17 +106,17 @@
 - [Naalasite, NaAl(AsO3OH)2⋅H2O, the Al analogue of nafeasite from the Torrecillas mine, Iquique Province, Chile](../sources/1392-naalasite-naalaso3oh2h2o-the-al-analogue-of-nafeasite-from-the-torrecillas-mine-.fa.md) (2024)
 - [Pohlite, a new lead iodate hydroxide chloride from Sierra Gorda, Chile](../sources/1403-pohlite-a-new-lead-iodate-hydroxide-chloride-from-sierra-gorda-chile.fa.md) (2022)
 
-## Sanctions unwinding and international reintegration
+## رفع تحریم‌ها و بازادغام بین‌المللی
 *1 منبع*
 
 - [[Excess deaths due to the COVID-19 pandemic in Chile].](../sources/1426-excess-deaths-due-to-the-covid-19-pandemic-in-chile.fa.md) (2021)
 
-## Trade liberalization and foreign direct investment
+## آزادسازی تجارت و سرمایه‌گذاری خارجی
 *1 منبع*
 
 - [Fostering Scaleup Ecosystems for Regional Economic Growth (<i>Innovations Case Narrative</i>: Manizales-Mas and Scale Up Milwaukee)](../sources/1461-fostering-scaleup-ecosystems-for-regional-economic-growth-iinnovations-case-narr.fa.md) (2016)
 
-## Transitional justice
+## عدالت انتقالی
 *92 منبع*
 
 - [Tierra y derechos humanos en Chile: la contrarreforma agraria de la dictadura de Pinochet y las políticas de reparación campesina](../sources/1384-tierra-y-derechos-humanos-en-chile-la-contrarreforma-agraria-de-la-dictadura-de-.fa.md) (2019)
@@ -212,7 +212,7 @@
 - [Cuyaite, Ca<sub>2</sub>Mn<sup>3+</sup>As<sup>3+</sup><sub>14</sub>O<sub>24</sub>Cl, a new mineral with an arsenite framework from near Cuya, Camarones Valley, Chile.](../sources/1469-cuyaite-casub2submnsup3supassup3supsub14subosub24subcl-a-new-mineral-with-an-ars.fa.md) (2020)
 - [Nafeasite, NaFe3+(AsO3OH)2⋅H2O, a new framework arsenate from the Torrecillas mine, Iquique Province, Chile](../sources/1404-nafeasite-nafe3aso3oh2h2o-a-new-framework-arsenate-from-the-torrecillas-mine-iqu.fa.md) (2022)
 
-## Women's rights codification and gender equality
+## تدوین حقوق زنان و برابری جنسیتی
 *2 منبع*
 
 - [[Socioeconomic determinants and gender gaps in depressive symptoms in Chile].](../sources/1410-socioeconomic-determinants-and-gender-gaps-in-depressive-symptoms-in-chile.fa.md) (2021)

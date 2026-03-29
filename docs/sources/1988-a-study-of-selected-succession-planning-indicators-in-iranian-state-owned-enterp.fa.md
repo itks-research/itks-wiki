@@ -5,8 +5,8 @@
 | نویسندگان | Askar Karami, Ghanbar Amirnejad, Ali Reiss pour, Ezat Ollah Kiyani |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | خصوصی‌سازی و بازسازی شرکت‌های دولتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.61838/msesj.7.1.4](https://doi.org/10.61838/msesj.7.1.4) |

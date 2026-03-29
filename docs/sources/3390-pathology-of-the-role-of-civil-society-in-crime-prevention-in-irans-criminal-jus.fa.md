@@ -5,8 +5,8 @@
 | نویسندگان | Sayyed Heydar Hoseyni, Saleh Abdinezhad, Alireza Shekarbeigi |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Civil society development |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | توسعه جامعه مدنی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.61838/kman.isslp.3.2.14](https://doi.org/10.61838/kman.isslp.3.2.14) |

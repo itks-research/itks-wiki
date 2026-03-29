@@ -6,7 +6,7 @@
 | **Year** | 2012 |
 | **Category** | Minority rights |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 176 |
 | **Source** | openalex |
 | **DOI** | [10.1177/1354067x12456713](https://doi.org/10.1177/1354067x12456713) |

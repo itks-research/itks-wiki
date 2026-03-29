@@ -6,7 +6,7 @@
 | **Year** | 2002 |
 | **Category** | Women's rights codification and gender equality |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 171 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://escholarship.org/uc/item/4qf1c74d) |

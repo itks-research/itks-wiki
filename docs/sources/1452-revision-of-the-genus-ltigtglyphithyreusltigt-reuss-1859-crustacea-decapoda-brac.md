@@ -6,7 +6,7 @@
 | **Year** | 2004 |
 | **Category** | Transitional justice |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 408 |
 | **Source** | openalex |
 | **DOI** | [10.2517/prpsj.8.143](https://doi.org/10.2517/prpsj.8.143) |

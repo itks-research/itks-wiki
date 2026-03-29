@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | K. Marcelain, Carolina Selman-Bravo, Benjamín García-Bloj, E. Bustamante, J. Fernández, Fancy Gaete, L. Moyano, J. C. Bustos, Francisca Plaza-Parroquia, J. Godoy, M. Garrido, T. Labbe, Juvenal A. Ríos |
 | **Year** | 2023 |
-| **Category** | Transitional justice |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 4 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.4067/s0034-98872023001001344](https://doi.org/10.4067/s0034-98872023001001344) |

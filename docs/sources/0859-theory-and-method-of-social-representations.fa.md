@@ -5,8 +5,8 @@
 | نویسندگان | Wolfgang Wagner, Gerard Duveen, Robert M. Farr, Sandra Jovchelovitch, Fabio Lorenzi‐Cioldi, Ivana S. Marková, Diana Rose |
 |---|---|
 | **سال** | 1999 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 531 |
 | **شناسه دیجیتال** | [10.1111/1467-839x.00028](https://doi.org/10.1111/1467-839x.00028) |

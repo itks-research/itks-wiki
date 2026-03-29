@@ -6,7 +6,7 @@
 | **Year** | 2026 |
 | **Category** | Political party formation and pluralism |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1108/jhlscm-05-2025-0076](https://doi.org/10.1108/jhlscm-05-2025-0076) |

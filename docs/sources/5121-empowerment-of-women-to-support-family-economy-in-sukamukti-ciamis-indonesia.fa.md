@@ -5,8 +5,8 @@
 | نویسندگان | Nuning Kurniasih, Pawit M. Yusup, Engkus Kuswarno |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.31227/osf.io/bhmyp](https://doi.org/10.31227/osf.io/bhmyp) |

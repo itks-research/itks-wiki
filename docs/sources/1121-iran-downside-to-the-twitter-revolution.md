@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Evgeny Morozov |
 | **Year** | 2009 |
-| **Category** | Civil-military relations and security sector reform |
-| **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Category** | Internet and digital infrastructure as civic space |
+| **Case Study** | Iran |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 280 |
 | **Source** | openalex |
 | **DOI** | [10.1353/dss.0.0092](https://doi.org/10.1353/dss.0.0092) |

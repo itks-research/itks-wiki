@@ -6,7 +6,7 @@
 | **Year** | 2016 |
 | **Category** | Privatization and state-owned enterprise restructuring |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.7172/1689-9024.YARS.2016.9.13.4](https://doi.org/10.7172/1689-9024.YARS.2016.9.13.4) |

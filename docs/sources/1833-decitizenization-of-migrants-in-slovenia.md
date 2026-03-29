@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | Mojca Pajnik |
 | **Year** | 2012 |
-| **Category** | Sanctions unwinding and international reintegration |
-| **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Category** | Labor market reform and social safety nets |
+| **Secondary Categories** | Civil society development |
+| **Case Study** | Poland |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=44441) |

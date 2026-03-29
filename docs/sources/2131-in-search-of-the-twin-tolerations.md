@@ -6,7 +6,7 @@
 | **Year** | 2008 |
 | **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 1 |
 | **Source** | openalex |
 | **DOI** | [10.1080/15570274.2008.9523331](https://doi.org/10.1080/15570274.2008.9523331) |

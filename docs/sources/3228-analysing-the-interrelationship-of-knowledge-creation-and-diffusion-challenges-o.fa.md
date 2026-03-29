@@ -5,8 +5,8 @@
 | نویسندگان | Kiarash Fartash, Amir Ghorbani, Mohammadsadegh Khayatian, Mahdi Elyasi |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 10 |
 | **شناسه دیجیتال** | [10.1108/ijesm-02-2021-0023](https://doi.org/10.1108/ijesm-02-2021-0023) |

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | C. Nazzal, Alejandro Lefian, F. Alonso |
 | **Year** | 2021 |
-| **Category** | Transitional justice |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 4 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.4067/s0034-98872021000300323](https://doi.org/10.4067/s0034-98872021000300323) |

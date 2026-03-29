@@ -6,7 +6,7 @@
 | **Year** | 2011 |
 | **Category** | Media freedom and press institution building |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 2 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1016/J.SBSPRO.2011.04.353](https://doi.org/10.1016/J.SBSPRO.2011.04.353) |

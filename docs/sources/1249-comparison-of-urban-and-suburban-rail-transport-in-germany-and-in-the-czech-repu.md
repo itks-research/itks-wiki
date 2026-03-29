@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Daniel Seidenglanz, Filip Chvátal, Kateřina Nedvědová |
 | **Year** | 2014 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Banking and financial system reform |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 10 |
 | **Source** | openalex |
 | **DOI** | [10.2478/revecp-2014-0009](https://doi.org/10.2478/revecp-2014-0009) |

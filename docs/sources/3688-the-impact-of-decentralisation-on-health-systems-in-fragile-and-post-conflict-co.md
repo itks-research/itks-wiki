@@ -6,7 +6,7 @@
 | **Year** | 2023 |
 | **Category** | Ethnic federalism in Iran |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 26 |
 | **Source** | openalex |
 | **DOI** | [10.1186/s13031-023-00528-7](https://doi.org/10.1186/s13031-023-00528-7) |

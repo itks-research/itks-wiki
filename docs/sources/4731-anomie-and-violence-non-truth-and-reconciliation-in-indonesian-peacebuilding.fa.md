@@ -5,8 +5,8 @@
 | نویسندگان | John Braithwaite, John Braithwaite, Michael S. Cookson, Leah Dunn |
 |---|---|
 | **سال** | 2010 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 103 |
 | **شناسه دیجیتال** | [10.22459/av.03.2010](https://doi.org/10.22459/av.03.2010) |

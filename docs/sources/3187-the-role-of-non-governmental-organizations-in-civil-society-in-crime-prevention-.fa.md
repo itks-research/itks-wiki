@@ -5,8 +5,8 @@
 | نویسندگان | Sayed Heydar Hoseyni, Saleh Abdinezhad, Alireza Shekarbeigi |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.61838/kman.lsda.253](https://doi.org/10.61838/kman.lsda.253) |

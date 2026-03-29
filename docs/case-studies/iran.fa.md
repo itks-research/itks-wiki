@@ -4,7 +4,7 @@
 
 **2244 منبع** در 30 دسته‌بندی
 
-## Banking and financial system reform
+## اصلاح نظام بانکی و مالی
 *81 منبع*
 
 - [Public financial management reform: an ongoing journey towards good governance](../sources/2217-public-financial-management-reform-an-ongoing-journey-towards-good-governance.fa.md) (2018)
@@ -89,7 +89,7 @@
 - [INFRASTRUCTURE PROVISION FOR SUSTAINABLE DEVELOPMENT OF THE UKRAINIAN BANKING (CREDIT) SYSTEM](../sources/2948-infrastructure-provision-for-sustainable-development-of-the-ukrainian-banking-cr.fa.md) (2024)
 - [Decentralized Autonomous Organizations (DAOs): A Conceptual Model for Community-Owned Banking and Financial Governance](../sources/2952-decentralized-autonomous-organizations-daos-a-conceptual-model-for-community-own.fa.md) (2024)
 
-## Bonyad system reform
+## اصلاح نظام بنیادها
 *65 منبع*
 
 - [The Iranian Economy: Challenges and Opportunities](../sources/3606-the-iranian-economy-challenges-and-opportunities.fa.md) (2018)
@@ -160,7 +160,7 @@
 - [A spiritual call: the courses of action taken by individuals influenced by religious soft power](../sources/3633-a-spiritual-call-the-courses-of-action-taken-by-individuals-influenced-by-religi.fa.md) (2024)
 - [Human Rights Conflicts in Afghan 2004 Constitution: Shariah vs. International Standards](../sources/3634-human-rights-conflicts-in-afghan-2004-constitution-shariah-vs-international-stan.fa.md) (2025)
 
-## Brain-drain reversal and diaspora economic engagement
+## بازگشت نخبگان و مشارکت اقتصادی دیاسپورا
 *44 منبع*
 
 - [Diasporas and Deliberative Democracy: A case study of Jewish diaspora involvement in constitutional deliberations in Israel](../sources/3025-diasporas-and-deliberative-democracy-a-case-study-of-jewish-diaspora-involvement.fa.md) (2017)
@@ -208,7 +208,7 @@
 - [Liberal World Order after Ukraine](../sources/3048-liberal-world-order-after-ukraine.fa.md) (2023)
 - [Militarization and Violence against Women in Conflict Zones in the Middle East: A Palestinian Case Study by <i>Nadera Shalhoub‐Kevorkian</i>](../sources/3049-militarization-and-violence-against-women-in-conflict-zones-in-the-middle-east-a.fa.md) (2011)
 
-## Civil society development
+## توسعه جامعه مدنی
 *101 منبع*
 
 - [Women's rights in the Middle East and North Africa: progress amid resistance](../sources/3445-womens-rights-in-the-middle-east-and-north-africa-progress-amid-resistance.fa.md) (2011)
@@ -313,7 +313,7 @@
 - [Strategies of Containment and the Case of the Kaliwa Dam in the Philippines and the Curtailment of Civil Society Groups](../sources/3414-strategies-of-containment-and-the-case-of-the-kaliwa-dam-in-the-philippines-and-.fa.md) (2026)
 - [The Perception of Nurses About the Quality of Nursing Services in Nurses Working in Medical Education Centers of Iran University of Medical Sciences](../sources/3440-the-perception-of-nurses-about-the-quality-of-nursing-services-in-nurses-working.fa.md) (2024)
 
-## Civil-military relations and security sector reform
+## روابط نظامی-غیرنظامی و اصلاح بخش امنیتی
 *64 منبع*
 
 - [The New Political Role of Business in a Globalized World: A Review of a New Perspective on CSR and its Implications for the Firm, Governance, and Democracy](../sources/1790-the-new-political-role-of-business-in-a-globalized-world-a-review-of-a-new-persp.fa.md) (2010)
@@ -381,7 +381,7 @@
 - [Military Reform in Imperial Iran](../sources/1771-military-reform-in-imperial-iran.fa.md) (2024)
 - [Designing qualitative research](../sources/1168-designing-qualitative-research.fa.md) (1989)
 
-## Constitutional design and drafting processes
+## طراحی و تدوین قانون اساسی
 *93 منبع*
 
 - [After Khomeini: Iran under his successors](../sources/2297-after-khomeini-iran-under-his-successors.fa.md) (2010)
@@ -478,7 +478,7 @@
 - [Interview with Ms Fatima Gailani, President of the Afghan Red Crescent Society](../sources/2276-interview-with-ms-fatima-gailani-president-of-the-afghan-red-crescent-society.fa.md) (2007)
 - [INTERNATIONAL PEACE INITIATIVES TO RESOLVE THE CONFLICT IN SYRIA](../sources/2295-international-peace-initiatives-to-resolve-the-conflict-in-syria.fa.md) (2019)
 
-## Cultural heritage preservation during institutional change
+## حفظ میراث فرهنگی در دوره تحولات نهادی
 *10 منبع*
 
 - [From planetary to societal boundaries: an argument for collectively defined self-limitation](../sources/1797-from-planetary-to-societal-boundaries-an-argument-for-collectively-defined-self-.fa.md) (2021)
@@ -492,7 +492,7 @@
 - [Basics of Clay Minerals and Their Characteristic Properties](../sources/2145-basics-of-clay-minerals-and-their-characteristic-properties.fa.md) (2021)
 - [Perfect Phylogenetic Networks: A New Methodology for Reconstructing the Evolutionary History of Natural Languages](../sources/2140-perfect-phylogenetic-networks-a-new-methodology-for-reconstructing-the-evolution.fa.md) (2005)
 
-## Diaspora repatriation and reintegration
+## بازگشت و ادغام دیاسپورا
 *46 منبع*
 
 - [AGENCY AND TUTELAGE IN FORCED MIGRATION](../sources/3851-agency-and-tutelage-in-forced-migration.fa.md) (2020)
@@ -542,7 +542,7 @@
 - [The External Aspect of Migration Policy](../sources/3863-the-external-aspect-of-migration-policy.fa.md) (2004)
 - [Foreign banks in Bulgaria, 1875-2002](../sources/3864-foreign-banks-in-bulgaria-1875-2002.fa.md) (2003)
 
-## Education system reform and curriculum modernization
+## اصلاح نظام آموزشی و نوسازی برنامه درسی
 *116 منبع*
 
 - [The language assessment literacy needs of Iranian EFL teachers with a focus on reformed assessment policies](../sources/3726-the-language-assessment-literacy-needs-of-iranian-efl-teachers-with-a-focus-on-r.fa.md) (2019)
@@ -662,7 +662,7 @@
 - [Online education for prosthetics and orthotics students in the era of COVID-19 pandemic in Iran: challenges, opportunities, and recommendations](../sources/3780-online-education-for-prosthetics-and-orthotics-students-in-the-era-of-covid-19-p.fa.md) (2023)
 - [Educational Challenges of Sustainable Architecture in Higher Education System of Iran](../sources/3815-educational-challenges-of-sustainable-architecture-in-higher-education-system-of.fa.md) (2013)
 
-## Electoral system design and implementation
+## طراحی و اجرای نظام انتخاباتی
 *178 منبع*
 
 - [Captive Society](../sources/2414-captive-society.fa.md) (2015)
@@ -844,7 +844,7 @@
 - [COVID-19-Related Anxiety and Its Relationship With Job Burnout in Health Workers From Bushehr Province, Southern Iran](../sources/2468-covid-19-related-anxiety-and-its-relationship-with-job-burnout-in-health-workers.fa.md) (2024)
 - [A Community-Based Safety Reporting System; Development, Implementation, and Evaluation: An Experience of Safe Communities in Iran](../sources/2469-a-community-based-safety-reporting-system-development-implementation-and-evaluat.fa.md) (2024)
 
-## Ethnic federalism in Iran
+## فدرالیسم قومی در ایران
 *28 منبع*
 
 - [Petro-Violence: Some Thoughts on Community, Extraction, and Political Ecology](../sources/3680-petro-violence-some-thoughts-on-community-extraction-and-political-ecology.fa.md) (1999)
@@ -876,7 +876,7 @@
 - [Kurdish Regional Self-rule Administration in Syria: A new Model of Statehood and its Status in International Law Compared to the Kurdistan Regional Government (KRG) in Iraq](../sources/3699-kurdish-regional-self-rule-administration-in-syria-a-new-model-of-statehood-and-.fa.md) (2016)
 - [Turbulent Transition in Iraq: Can It Succeed?](../sources/3677-turbulent-transition-in-iraq-can-it-succeed.fa.md) (2004)
 
-## Federalism, unitarism, and autonomy models
+## فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری
 *103 منبع*
 
 - [Class Structure and Political Power in Iran Since 1796](../sources/2858-class-structure-and-political-power-in-iran-since-1796.fa.md) (1978)
@@ -983,7 +983,7 @@
 - [State-minority contestations in post-colonial Sri Lanka / Mansoor Mohamed Fazil](../sources/2835-state-minority-contestations-in-post-colonial-sri-lanka--mansoor-mohamed-fazil.fa.md) (2018)
 - [Military intervention in Nigerian politics : what has the press got to do with it?](../sources/2836-military-intervention-in-nigerian-politics--what-has-the-press-got-to-do-with-it.fa.md) (1997)
 
-## IRGC economic empire and its dismantling
+## امپراتوری اقتصادی سپاه و انحلال آن
 *40 منبع*
 
 - [How Foreign Aid Can Foster Democratization in Authoritarian Regimes](../sources/2242-how-foreign-aid-can-foster-democratization-in-authoritarian-regimes.fa.md) (2009)
@@ -1027,7 +1027,7 @@
 - [R2P after Libya and Syria: Engaging Emerging Powers](../sources/2237-r2p-after-libya-and-syria-engaging-emerging-powers.fa.md) (2013)
 - [Qatar and Expanded Contours of Small State Diplomacy](../sources/2230-qatar-and-expanded-contours-of-small-state-diplomacy.fa.md) (2011)
 
-## Internet and digital infrastructure as civic space
+## اینترنت و زیرساخت دیجیتال به‌عنوان فضای مدنی
 *23 منبع*
 
 - [Empowering activists or autocrats? The Internet in authoritarian regimes](../sources/1945-empowering-activists-or-autocrats-the-internet-in-authoritarian-regimes.fa.md) (2015)
@@ -1054,7 +1054,7 @@
 - [From the web to the streets: internet and protests under authoritarian regimes](../sources/3710-from-the-web-to-the-streets-internet-and-protests-under-authoritarian-regimes.fa.md) (2016)
 - [Malaria diagnostic methods with the elimination goal in view](../sources/3717-malaria-diagnostic-methods-with-the-elimination-goal-in-view.fa.md) (2022)
 
-## Judicial independence and rule of law
+## استقلال قضایی و حاکمیت قانون
 *85 منبع*
 
 - [The legitimation of the Clergy's right to rule in the Iranian constitution of 1979](../sources/2539-the-legitimation-of-the-clergys-right-to-rule-in-the-iranian-constitution-of-197.fa.md) (1993)
@@ -1143,7 +1143,7 @@
 - [Investigating the Physical Security Dimensions Affecting Volleyball Stadiums Security](../sources/2585-investigating-the-physical-security-dimensions-affecting-volleyball-stadiums-sec.fa.md) (2019)
 - [Treatment of the Rules of the International Law of Money by the Iran-Us Claims Tribunal](../sources/2531-treatment-of-the-rules-of-the-international-law-of-money-by-the-iran-us-claims-t.fa.md) (1993)
 
-## Labor market reform and social safety nets
+## اصلاح بازار کار و شبکه‌های حمایت اجتماعی
 *14 منبع*
 
 - [Why was the Arab World Poised for Revolution? Schooling, Economic Opportunities, and the Arab Spring](../sources/1723-why-was-the-arab-world-poised-for-revolution-schooling-economic-opportunities-an.fa.md) (2012)
@@ -1161,7 +1161,7 @@
 - [Whither Will They Go? A Global Study of Refugees’ Destinations, 1965–1995](../sources/1726-whither-will-they-go-a-global-study-of-refugees-destinations-19651995.fa.md) (2007)
 - [Global, regional, and national burden of osteoarthritis, 1990–2020 and projections to 2050: a systematic analysis for the Global Burden of Disease Study 2021](../sources/1993-global-regional-and-national-burden-of-osteoarthritis-19902020-and-projections-t.fa.md) (2023)
 
-## Media freedom and press institution building
+## آزادی رسانه و نهادسازی مطبوعاتی
 *203 منبع*
 
 - [Reason, Freedom, and Democracy in Islam: Essential Writings of Abdolkarim Soroush](../sources/3109-reason-freedom-and-democracy-in-islam-essential-writings-of-abdolkarim-soroush.fa.md) (2001)
@@ -1368,7 +1368,7 @@
 - [An Exploratory Study on the Accountability of South Korean NGO's Humanitarian Assistance and Development Cooperation Activities on North Korea](../sources/3212-an-exploratory-study-on-the-accountability-of-south-korean-ngos-humanitarian-ass.fa.md) (2022)
 - [An Ex-ante Evaluation of Collective Capability Development: A Case Study of an Emergent Indigenous NGO in Southern Chile](../sources/3213-an-ex-ante-evaluation-of-collective-capability-development-a-case-study-of-an-em.fa.md) (2022)
 
-## Minority rights
+## حقوق اقلیت‌ها
 *97 منبع*
 
 - [Civil Society and Democracy in Iran](../sources/3476-civil-society-and-democracy-in-iran.fa.md) (2011)
@@ -1469,7 +1469,7 @@
 - [Abkhazia](../sources/3481-abkhazia.fa.md) (2010)
 - [Turkey, the Black Sea and Transcaucasia](../sources/3482-turkey-the-black-sea-and-transcaucasia.fa.md) (2010)
 
-## Nuclear program civilian transition
+## انتقال غیرنظامی برنامه هسته‌ای
 *48 منبع*
 
 - [U.S.-Iran Hostility and the Pursuit of Nuclear Technology Development in the Context of the Global Energy Transition: An Integrative Analysis](../sources/3866-us-iran-hostility-and-the-pursuit-of-nuclear-technology-development-in-the-conte.fa.md) (2025)
@@ -1521,7 +1521,7 @@
 - [Are There Any Ways to Break Through the Korean Nuclear Impasse?](../sources/3879-are-there-any-ways-to-break-through-the-korean-nuclear-impasse.fa.md) (2024)
 - [Part II Predominant Security Challenges and International Law, International Security, Ch.18 Nuclear Non-proliferation and Disarmament under International Law](../sources/3882-part-ii-predominant-security-challenges-and-international-law-international-secu.fa.md) (2021)
 
-## Political party formation and pluralism
+## شکل‌گیری احزاب سیاسی و تکثرگرایی
 *119 منبع*
 
 - [The pluralistic momentum in Iran and the future of the reform movement](../sources/2596-the-pluralistic-momentum-in-iran-and-the-future-of-the-reform-movement.fa.md) (2006)
@@ -1648,7 +1648,7 @@
 - [Secure Multi-Party Private Set Intersection with Semi-Honest Nodes](../sources/2623-secure-multi-party-private-set-intersection-with-semi-honest-nodes.fa.md) (2022)
 - [Integrating Industry 4.0 and circular economy principles in emergency third-party logistics service provider selection: a new multi-criteria decision-making approach](../sources/2625-integrating-industry-40-and-circular-economy-principles-in-emergency-third-party.fa.md) (2026)
 
-## Power-sharing mechanisms during transition periods
+## سازوکارهای تقسیم قدرت در دوره گذار
 *4 منبع*
 
 - [State, Power and Politics in the Making of the Modern Middle East](../sources/2033-state-power-and-politics-in-the-making-of-the-modern-middle-east.fa.md) (2006)
@@ -1656,7 +1656,7 @@
 - [Peacemaking and the Maintenance of International Order: Alignment under Hegemony versus Multipolar Misalignment](../sources/1822-peacemaking-and-the-maintenance-of-international-order-alignment-under-hegemony-.fa.md) (2024)
 - [(Dis)unity in the UN Security Council: Voting Patterns in the UN's Peace and Security Organ](../sources/1832-disunity-in-the-un-security-council-voting-patterns-in-the-uns-peace-and-securit.fa.md) (2018)
 
-## Privatization and state-owned enterprise restructuring
+## خصوصی‌سازی و بازسازی شرکت‌های دولتی
 *43 منبع*
 
 - [Technology sovereignty as an emerging frame for innovation policy. Defining rationales, ends and means](../sources/1954-technology-sovereignty-as-an-emerging-frame-for-innovation-policy-defining-ratio.fa.md) (2023)
@@ -1703,7 +1703,7 @@
 - [Prenatal Diagnosis and Abortion for Congenital Abnormalities: Is It Ethical to Provide One Without the Other?](../sources/2021-prenatal-diagnosis-and-abortion-for-congenital-abnormalities-is-it-ethical-to-pr.fa.md) (2009)
 - [The Case of Certain Iranian Assets: The Standard for Joining Preliminary Objections to the Merits Revisited and the Treatment of State-Owned Enterprises before the International Court of Justice](../sources/1986-the-case-of-certain-iranian-assets-the-standard-for-joining-preliminary-objectio.fa.md) (2022)
 
-## Regional foreign policy reorientation
+## بازتعریف سیاست خارجی منطقه‌ای
 *60 منبع*
 
 - [Turkey and Iran after the Arab Spring: Finding a Middle Ground](../sources/1727-turkey-and-iran-after-the-arab-spring-finding-a-middle-ground.fa.md) (2014)
@@ -1767,7 +1767,7 @@
 - [A “Tech First” Approach to Foreign Policy? The Three Meanings of Tech Diplomacy](../sources/3929-a-tech-first-approach-to-foreign-policy-the-three-meanings-of-tech-diplomacy.fa.md) (2025)
 - [Democratic Transition and Indonesia-Russia Bilateral Relations from 2001 to 2014: Trends and Emerging Actors](../sources/3919-democratic-transition-and-indonesia-russia-bilateral-relations-from-2001-to-2014.fa.md) (2024)
 
-## Religious freedom and separation of religion from state
+## آزادی مذهبی و جدایی دین از حکومت
 *69 منبع*
 
 - [Islam, secularism, and liberal democracy: toward a democratic theory for Muslim societies](../sources/2098-islam-secularism-and-liberal-democracy-toward-a-democratic-theory-for-muslim-soc.fa.md) (2010)
@@ -1840,7 +1840,7 @@
 - [Secular Writers’ Engagement with Religious Tradition in 20th Century Iran: From Undermining to Deconstructing; A Generational Paradigm Shift](../sources/2078-secular-writers-engagement-with-religious-tradition-in-20th-century-iran-from-un.fa.md) (2021)
 - [In Praise of Secularism: An Appreciation of Reza Afshari](../sources/2079-in-praise-of-secularism-an-appreciation-of-reza-afshari.fa.md) (2019)
 
-## Resource curse management
+## مدیریت نفرین منابع طبیعی
 *52 منبع*
 
 - [One hundred years of oil income and the Iranian economy: A curse or a blessing?](../sources/2991-one-hundred-years-of-oil-income-and-the-iranian-economy-a-curse-or-a-blessing.fa.md) (2013)
@@ -1896,7 +1896,7 @@
 - [Geographies of African corruption](../sources/2997-geographies-of-african-corruption.fa.md) (2017)
 - [The World Bank, Multinational Oil Corporations, and the Resource Curse in Africa](../sources/3004-the-world-bank-multinational-oil-corporations-and-the-resource-curse-in-africa.fa.md) (2005)
 
-## Sanctions unwinding and international reintegration
+## رفع تحریم‌ها و بازادغام بین‌المللی
 *112 منبع*
 
 - [The economic impact of the lifting of sanctions on tourism in Iran: a computable general equilibrium analysis](../sources/1916-the-economic-impact-of-the-lifting-of-sanctions-on-tourism-in-iran-a-computable-.fa.md) (2017)
@@ -2012,7 +2012,7 @@
 - [Theorising Systemic Appeasement in International Politics](../sources/1826-theorising-systemic-appeasement-in-international-politics.fa.md) (2022)
 - [Iran sanctions row will weaken Iraq’s premier](../sources/1876-iran-sanctions-row-will-weaken-iraqs-premier.fa.md) (2018)
 
-## Seminary role in post-theocratic society
+## نقش حوزه علمیه در جامعه پساتئوکراتیک
 *35 منبع*
 
 - [8. Sharia and national law in Iran](../sources/3639-8-sharia-and-national-law-in-iran.fa.md) (2012)
@@ -2051,7 +2051,7 @@
 - [The Evolution, Expansion, and Effects of Intellectual Property Rights at American Higher Education Institutions: A Historical Context of Legislation and Case Law at Harvard and Yale Universities](../sources/3669-the-evolution-expansion-and-effects-of-intellectual-property-rights-at-american-.fa.md) (2021)
 - [Volume 7: Shaping Global Islamic Discourses : The Role of al-Azhar, al-Medina and al-Mustafa](../sources/3670-volume-7-shaping-global-islamic-discourses--the-role-of-al-azhar-al-medina-and-a.fa.md) (2015)
 
-## Trade liberalization and foreign direct investment
+## آزادسازی تجارت و سرمایه‌گذاری خارجی
 *29 منبع*
 
 - [World Development Report 1981](../sources/2016-world-development-report-1981.fa.md) (1981)
@@ -2084,7 +2084,7 @@
 - [Distributive Profiles Associated with Domestic Versus International Specialization in Global Value Chains](../sources/1831-distributive-profiles-associated-with-domestic-versus-international-specializati.fa.md) (2023)
 - [A new era for oil prices](../sources/1902-a-new-era-for-oil-prices.fa.md) (2006)
 
-## Transitional justice
+## عدالت انتقالی
 *142 منبع*
 
 - [Iran Protests and Patterns of State Repression](../sources/2707-iran-protests-and-patterns-of-state-repression.fa.md) (2023)
@@ -2230,7 +2230,7 @@
 - [La colección de cerámicas del Irán musulmán en el Museo Arqueológico Nacional: una historia de su formación](../sources/2689-la-colección-de-cerámicas-del-irán-musulmán-en-el-museo-arqueológico-nacional-un.fa.md) (2025)
 - [Questions of Attribution of Some Tiles from Mausoleum in Khanqah of Pir Huseyn](../sources/2748-questions-of-attribution-of-some-tiles-from-mausoleum-in-khanqah-of-pir-huseyn.fa.md) (2024)
 
-## Women's rights codification and gender equality
+## تدوین حقوق زنان و برابری جنسیتی
 *140 منبع*
 
 - [Islamic Politics and Women's Quest for Gender Equality in Iran](../sources/3305-islamic-politics-and-womens-quest-for-gender-equality-in-iran.fa.md) (2010)

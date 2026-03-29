@@ -5,8 +5,8 @@
 | نویسندگان | Josep Roqué-Rosell, Judit Molera, Josefina Pérez‐Arantegui, Cristina Garés Calabuig, J. Portillo, M. Vendrell‐Saz |
 |---|---|
 | **سال** | 2007 |
-| **دسته‌بندی** | Cultural heritage preservation during institutional change |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | حفظ میراث فرهنگی در دوره تحولات نهادی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 23 |
 | **شناسه دیجیتال** | [10.1111/j.1475-4754.2007.00317.x](https://doi.org/10.1111/j.1475-4754.2007.00317.x) |

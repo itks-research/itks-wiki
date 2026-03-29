@@ -6,7 +6,7 @@
 | **Year** | 2023 |
 | **Category** | Minority rights |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.59141/jrssem.v3i5.593](https://doi.org/10.59141/jrssem.v3i5.593) |

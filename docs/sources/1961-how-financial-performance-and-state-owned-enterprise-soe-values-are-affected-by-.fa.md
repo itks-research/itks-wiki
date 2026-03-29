@@ -5,8 +5,8 @@
 | نویسندگان | Y. Hermanto, Lusy Lusy, M. Widyastuti |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | خصوصی‌سازی و بازسازی شرکت‌های دولتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 33 |
 | **شناسه دیجیتال** | [10.3390/economies9040134](https://doi.org/10.3390/economies9040134) |

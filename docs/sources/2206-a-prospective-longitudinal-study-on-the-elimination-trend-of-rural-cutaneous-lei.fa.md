@@ -5,8 +5,8 @@
 | نویسندگان | M. Bamorovat, I. Sharifi, M. Aflatoonian, Ehsan Salarkia, S. A. K. Afshari, Mohsen Pourkhosravani, Ali Karamoozian, Ahmad Khosravi, Behnaz Aflatoonian, Fatemeh Sharifi, Hassan Divsalar, B. Amiri, M. Shirzadi |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Resource curse management |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | مدیریت نفرین منابع طبیعی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 11 |
 | **شناسه دیجیتال** | [10.1016/j.scitotenv.2023.169684](https://doi.org/10.1016/j.scitotenv.2023.169684) |

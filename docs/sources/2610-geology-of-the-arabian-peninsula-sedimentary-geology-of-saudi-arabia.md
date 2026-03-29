@@ -6,7 +6,7 @@
 | **Year** | 1966 |
 | **Category** | Political party formation and pluralism |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 731 |
 | **Source** | openalex |
 | **DOI** | [10.3133/pp560d](https://doi.org/10.3133/pp560d) |

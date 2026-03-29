@@ -5,8 +5,8 @@
 | نویسندگان | Igor Filatotchev, Irena Grosfeld, Judit Karsai, Mike Wright, Trevor Buck |
 |---|---|
 | **سال** | 1996 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | خصوصی‌سازی و بازسازی شرکت‌های دولتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 29 |
 | **شناسه دیجیتال** | [10.1111/j.1468-0351.1996.tb00162.x](https://doi.org/10.1111/j.1468-0351.1996.tb00162.x) |

@@ -5,8 +5,8 @@
 | نویسندگان | Neil Dawson, Brendan Coolsaet, Eleanor J. Sterling, Robin Loveridge, Gross-Camp Nicole D, Supin Wongbusarakum, Kamaljit K. Sangha, Lea M. Scherl, Hao Phuong Phan, Noelia Zafra‐Calvo, Warren G. Lavey, Patrick Byakagaba, C. Julián Idrobo, Aude Chenet, Nathan Bennett, Stéphanie Mansourian, Francisco J. Rosado-May |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Minority rights |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | حقوق اقلیت‌ها |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 788 |
 | **شناسه دیجیتال** | [10.5751/es-12625-260319](https://doi.org/10.5751/es-12625-260319) |

@@ -1,4 +1,4 @@
-# DEALING WITH THE PAST: PROSECUTION AND PUNISHMENT OF COMMUNIST CRIMES IN CENTRAL AND EASTERN EUROPEAN COUNTRIES / LIDAR COM O PASSADO: PROCESSOS PENAIS E PUNIÇÃO DE CRIMES COMUNISTAS NA EUROPA CENTRAL E ORIENTAL
+# Dealing with the Past: Prosecution and Punishment of Communist Crimes in Central and Eastern European Countries
 
 | Field | Value |
 |-------|-------|

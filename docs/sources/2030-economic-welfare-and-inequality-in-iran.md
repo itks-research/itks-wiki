@@ -5,8 +5,9 @@
 | **Authors** | Pooya Alaedini, Mohammad Reza Farzanegan |
 | **Year** | 2016 |
 | **Category** | Privatization and state-owned enterprise restructuring |
+| **Secondary Categories** | Trade liberalization and foreign direct investment |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 12 |
 | **Source** | openalex |
 | **DOI** | [10.1057/978-1-349-95025-6](https://doi.org/10.1057/978-1-349-95025-6) |

@@ -6,7 +6,7 @@
 | **Year** | 2011 |
 | **Category** | Brain-drain reversal and diaspora economic engagement |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 0 |
 | **Source** | openalex |
 | **DOI** | [10.1111/j.1548-1425.2010.01300_17.x](https://doi.org/10.1111/j.1548-1425.2010.01300_17.x) |

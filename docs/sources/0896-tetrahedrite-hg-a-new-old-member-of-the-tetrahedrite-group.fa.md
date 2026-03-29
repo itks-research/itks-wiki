@@ -5,8 +5,8 @@
 | نویسندگان | Cristian Biagioni, Jiří Sejkora, Silvia Musetti, Dalibor Velebil, Marco Pasero |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Resource curse management |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | مدیریت نفرین منابع طبیعی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 26 |
 | **شناسه دیجیتال** | [10.1180/mgm.2020.36](https://doi.org/10.1180/mgm.2020.36) |

@@ -5,8 +5,8 @@
 | نویسندگان | Dewi Purnamasari, Ekha Shobichatus Sholekhah, Putri Nurkamaliah, Apandi, Herlina |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Minority rights |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | حقوق اقلیت‌ها |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.32996/jeltal.2024.6.2.10](https://doi.org/10.32996/jeltal.2024.6.2.10) |

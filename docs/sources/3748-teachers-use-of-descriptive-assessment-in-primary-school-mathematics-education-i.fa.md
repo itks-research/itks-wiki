@@ -5,8 +5,8 @@
 | نویسندگان | Marja van den Heuvel‐Panhuizen, A A Sangari, Michiel Veldhuis |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 7 |
 | **شناسه دیجیتال** | [10.3390/educsci11030100](https://doi.org/10.3390/educsci11030100) |

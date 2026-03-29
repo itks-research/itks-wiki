@@ -6,7 +6,7 @@
 | **Year** | 2014 |
 | **Category** | Political party formation and pluralism |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 54 |
 | **Source** | openalex |
 | **DOI** | [10.12691/ajcea-2-5-1](https://doi.org/10.12691/ajcea-2-5-1) |

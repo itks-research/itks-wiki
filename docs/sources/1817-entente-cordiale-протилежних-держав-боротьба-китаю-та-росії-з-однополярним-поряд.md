@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Емре Озігчі |
 | **Year** | 2022 |
-| **Category** | Sanctions unwinding and international reintegration |
+| **Category** | Regional foreign policy reorientation |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 1 |
 | **Source** | openalex |
 | **DOI** | [10.31866/2616-745x.9.2022.265450](https://doi.org/10.31866/2616-745x.9.2022.265450) |

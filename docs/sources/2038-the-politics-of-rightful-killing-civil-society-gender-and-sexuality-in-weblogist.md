@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Mostafa Abedinifard |
 | **Year** | 2021 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Internet and digital infrastructure as civic space |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 38 |
 | **Source** | openalex |
 | **DOI** | [10.1215/15525864-9306888](https://doi.org/10.1215/15525864-9306888) |

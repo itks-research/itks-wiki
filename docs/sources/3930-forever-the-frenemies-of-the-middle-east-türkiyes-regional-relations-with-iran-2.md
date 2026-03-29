@@ -6,7 +6,7 @@
 | **Year** | 2026 |
 | **Category** | Regional foreign policy reorientation |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.20991/allazimuth.1726446](https://doi.org/10.20991/allazimuth.1726446) |

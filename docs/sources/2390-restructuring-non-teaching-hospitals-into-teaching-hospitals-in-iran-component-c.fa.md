@@ -5,8 +5,8 @@
 | نویسندگان | niusha shahidi sadeghi, Mohammadreza Maleki, S. Vatankhah, B. Mohaghegh, Seyed Jafar Ehsanzadehsorati |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.34172/jqr.2024.24](https://doi.org/10.34172/jqr.2024.24) |

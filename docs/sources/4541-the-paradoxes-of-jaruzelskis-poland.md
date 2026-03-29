@@ -6,7 +6,7 @@
 | **Year** | 1985 |
 | **Category** | Media freedom and press institution building |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 5 |
 | **Source** | openalex |
 | **DOI** | [10.1017/s0003975600004410](https://doi.org/10.1017/s0003975600004410) |

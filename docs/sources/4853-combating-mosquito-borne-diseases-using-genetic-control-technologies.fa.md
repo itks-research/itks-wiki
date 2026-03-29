@@ -5,8 +5,8 @@
 | نویسندگان | Guan-Hong Wang, Stephanie Gamez, Robyn Raban, John M. Marshall, Luke Alphey, Ming Li, Jason L. Rasgon, Omar S. Akbari |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 195 |
 | **شناسه دیجیتال** | [10.1038/s41467-021-24654-z](https://doi.org/10.1038/s41467-021-24654-z) |

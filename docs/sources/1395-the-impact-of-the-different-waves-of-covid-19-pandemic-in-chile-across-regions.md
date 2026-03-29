@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | A. Ayala, Pablo Villalobos Dintrans, Felipe Elorrieta, Matilde Maddaleno, Claudio Vargas, Andrés Iturriaga |
 | **Year** | 2023 |
-| **Category** | Transitional justice |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 5 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.4067/s0034-98872023000300269](https://doi.org/10.4067/s0034-98872023000300269) |

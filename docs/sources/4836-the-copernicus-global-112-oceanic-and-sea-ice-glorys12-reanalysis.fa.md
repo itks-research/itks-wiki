@@ -5,8 +5,8 @@
 | نویسندگان | Lellouche Jean-Michel, Greiner Eric, Bourdallé-Badie Romain, Gilles Garric, Melet Angélique, Marie Drévillon, Clément Bricaud, Hamon Mathieu, Le Galloudec Olivier, Regnier Charly, Candela Tony, Testut Charles-Emmanuel, Florent Gasparin, Giovanni Ruggiero, Benkiran Mounir, Drillet Yann, Le Traon Pierre-Yves |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 519 |
 | **شناسه دیجیتال** | [10.3389/feart.2021.698876](https://doi.org/10.3389/feart.2021.698876) |

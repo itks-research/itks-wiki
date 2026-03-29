@@ -5,8 +5,9 @@
 | **Authors** | Torbjörn Becker, Anders Åslund |
 | **Year** | 2024 |
 | **Category** | Sanctions unwinding and international reintegration |
+| **Secondary Categories** | Trade liberalization and foreign direct investment |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **DOI** | [10.1007/978-3-031-54200-8_7](https://doi.org/10.1007/978-3-031-54200-8_7) |

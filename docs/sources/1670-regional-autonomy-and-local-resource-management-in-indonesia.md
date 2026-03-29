@@ -6,7 +6,7 @@
 | **Year** | 2007 |
 | **Category** | Federalism, unitarism, and autonomy models |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 34 |
 | **Source** | openalex |
 | **DOI** | [10.1111/j.1467-8373.2007.00331.x](https://doi.org/10.1111/j.1467-8373.2007.00331.x) |

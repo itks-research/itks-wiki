@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Matías Molina-Donoso, J. González-Hernández, C. Delgado, Vicente Cancino, Sebastián Bello-Lepe, María Francisca Alonso-Sánchez, Gonzalo Forno, F. Henríquez, Patricia Lillo, Gada Musa, Patricia Alegría, P. Delano, Noelia Retuerto, Hélène Amieva, A. Slachevsky |
 | **Year** | 2023 |
-| **Category** | Transitional justice |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 5 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.4067/s0034-98872023001101464](https://doi.org/10.4067/s0034-98872023001101464) |

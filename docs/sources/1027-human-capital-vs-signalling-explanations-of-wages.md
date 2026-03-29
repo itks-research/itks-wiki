@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Andrew Weiss |
 | **Year** | 1995 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 765 |
 | **Source** | openalex |
 | **DOI** | [10.1257/jep.9.4.133](https://doi.org/10.1257/jep.9.4.133) |

@@ -5,8 +5,8 @@
 | نویسندگان | Fouad Abd‐El‐Khalick, Saouma BouJaoude, Richard A. Duschl, Norman G. Lederman, Rachel Mamlok‐Naaman, Avi Hofstein, Mansoor Níaz, David F. Treagust, Hsiao‐Lin Tuan |
 |---|---|
 | **سال** | 2004 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 771 |
 | **شناسه دیجیتال** | [10.1002/sce.10118](https://doi.org/10.1002/sce.10118) |

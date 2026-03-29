@@ -5,8 +5,8 @@
 | نویسندگان | Mehdi Keshavarz-Ghorabaee, Maghsoud Amiri, Edmundas Kazimieras Zavadskas, Zenonas Turskis, Jurgita Antuchevičienė |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Political party formation and pluralism |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | شکل‌گیری احزاب سیاسی و تکثرگرایی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 664 |
 | **شناسه دیجیتال** | [10.3390/sym13040525](https://doi.org/10.3390/sym13040525) |

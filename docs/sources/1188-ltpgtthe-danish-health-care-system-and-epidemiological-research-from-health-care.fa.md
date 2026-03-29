@@ -5,8 +5,8 @@
 | نویسندگان | Morten Schmidt, Sigrún Alba Jóhannesdóttir Schmidt, Kasper Adelborg, Jens Sundbøll, Kristina Laugesen, Véra Ehrenstein, Henrik Toft Sørensen |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Labor market reform and social safety nets |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | اصلاح بازار کار و شبکه‌های حمایت اجتماعی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1310 |
 | **شناسه دیجیتال** | [10.2147/clep.s179083](https://doi.org/10.2147/clep.s179083) |

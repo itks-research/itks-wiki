@@ -5,8 +5,8 @@
 | نویسندگان | Begimqulov Oltiboy, Usmonov Mansur, Salimov Utkirjon, Boboqulov Chori, Babayev Anvar, Jo‘raev Akbar, Xodjaev A' Zambek, Omonturdiev Suxrob, Bekmirzaev Shavkat, Xonimqulov Zuxriddi |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Minority rights |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | حقوق اقلیت‌ها |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.30564/fls.v7i7.9381](https://doi.org/10.30564/fls.v7i7.9381) |

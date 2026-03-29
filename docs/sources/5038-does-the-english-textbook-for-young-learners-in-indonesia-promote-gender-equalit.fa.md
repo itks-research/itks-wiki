@@ -5,8 +5,8 @@
 | نویسندگان | Dwi Titi Maesaroh, Yuni Utami Asih, Bibit Suhatmady |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 4 |
 | **شناسه دیجیتال** | [10.21093/ijeltal.v7i1.1152](https://doi.org/10.21093/ijeltal.v7i1.1152) |

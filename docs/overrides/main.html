@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 
 {% block extrahead %}
-  {% if config.extra and config.extra.lang == "fa" %}
+  {% if page and page.file and page.file.src_path.endswith('.fa.md') %}
   <style>
     .md-content { direction: rtl; text-align: right; }
     .md-content table { direction: rtl; }

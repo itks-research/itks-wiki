@@ -5,8 +5,8 @@
 | نویسندگان | Vahid Khaligh, Majid Oloomi Buygi, Amjad Anvari‐Moghaddam, Josep M. Guerrero |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Political party formation and pluralism |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | شکل‌گیری احزاب سیاسی و تکثرگرایی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 25 |
 | **شناسه دیجیتال** | [10.3390/en11102573](https://doi.org/10.3390/en11102573) |

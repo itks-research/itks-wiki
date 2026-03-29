@@ -5,8 +5,8 @@
 | نویسندگان | R. Villano, Isaac Koomson, Stella Thei, M. Taqiuddin, Febrina Prameswari, Anwar Fachry, Luthfi Fatah, I. Sumantri, H. Burrow |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 4 |
 | **شناسه دیجیتال** | [10.1080/00036846.2024.2364090](https://doi.org/10.1080/00036846.2024.2364090) |

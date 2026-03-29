@@ -5,8 +5,8 @@
 | نویسندگان | Tahereh Sabouri Aghbolagh Rostam Khan, T. Changiz, A. Mirzazadeh, Marta van Zanten, N. Yamani |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.1186/s12909-025-06738-2](https://doi.org/10.1186/s12909-025-06738-2) |

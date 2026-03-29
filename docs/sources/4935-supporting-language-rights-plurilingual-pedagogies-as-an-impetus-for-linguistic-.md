@@ -6,7 +6,7 @@
 | **Year** | 2024 |
 | **Category** | Minority rights |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 3 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.7577/hrer.5282](https://doi.org/10.7577/hrer.5282) |

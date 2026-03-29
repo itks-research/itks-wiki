@@ -5,8 +5,8 @@
 | نویسندگان | Dwi Windyastuti Budi Hendrarti, Kalimah Wasis Lestari, Nuke Faridha Wardhani, Bhushan Ravindra Thakare |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 4 |
 | **شناسه دیجیتال** | [10.22146/jsp.85545](https://doi.org/10.22146/jsp.85545) |

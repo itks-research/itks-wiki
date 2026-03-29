@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | William H. Cooper, Mark E. Manyin, Remy Jurenas, Michaela D. Platzer |
 | **Year** | 2009 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Trade liberalization and foreign direct investment |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 23 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://digital.library.unt.edu/ark:/67531/metadc103220/) |

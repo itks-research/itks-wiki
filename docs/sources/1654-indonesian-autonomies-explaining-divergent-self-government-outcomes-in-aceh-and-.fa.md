@@ -5,8 +5,8 @@
 | نویسندگان | Shane Joshua Barter, Hipolitus Yolisandry Ringgi Wangge |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 15 |
 | **شناسه دیجیتال** | [10.1093/publius/pjab009](https://doi.org/10.1093/publius/pjab009) |

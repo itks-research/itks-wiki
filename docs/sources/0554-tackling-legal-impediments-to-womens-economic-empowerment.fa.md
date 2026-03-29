@@ -5,8 +5,8 @@
 | نویسندگان | Francisca Fernando, Juliet Johnson, Katharine Christopherson, Audrey Yiadom, Hanan Yazid, Clara Thiemann |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Tunisia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | تونس |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 61 |
 | **شناسه دیجیتال** | [10.5089/9798400203640.001](https://doi.org/10.5089/9798400203640.001) |

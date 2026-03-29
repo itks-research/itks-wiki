@@ -6,7 +6,7 @@
 | **Year** | 2014 |
 | **Category** | Civil society development |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 480 |
 | **Source** | openalex |
 | **DOI** | [10.3386/w20004](https://doi.org/10.3386/w20004) |

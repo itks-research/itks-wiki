@@ -5,8 +5,8 @@
 | نویسندگان | Anthony R. Kampf, Stuart J. Mills, Frédéric Hatert, Barbara P. Nash, Maurizio Dini, Arturo A. Molina Donoso |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Chile |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | شیلی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 12 |
 | **شناسه دیجیتال** | [10.1180/minmag.2014.078.4.02](https://doi.org/10.1180/minmag.2014.078.4.02) |

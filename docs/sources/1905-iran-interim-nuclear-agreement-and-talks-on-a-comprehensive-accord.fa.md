@@ -5,8 +5,8 @@
 | نویسندگان | Kenneth Katzman, Paul K. Kerr, Mary Beth Dunham Nikitin |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Sanctions unwinding and international reintegration |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | رفع تحریم‌ها و بازادغام بین‌المللی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 3 |
 

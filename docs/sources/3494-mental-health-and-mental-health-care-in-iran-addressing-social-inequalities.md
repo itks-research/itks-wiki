@@ -6,7 +6,7 @@
 | **Year** | 2025 |
 | **Category** | Minority rights |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.3390/healthcare13233131](https://doi.org/10.3390/healthcare13233131) |

@@ -5,8 +5,8 @@
 | نویسندگان | Andrzej Cirocki, Syafi’ul Anam, Pratiwi Retnaningdyah |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 40 |
 

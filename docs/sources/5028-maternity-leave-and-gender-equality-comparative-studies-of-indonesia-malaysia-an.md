@@ -6,7 +6,7 @@
 | **Year** | 2022 |
 | **Category** | Women's rights codification and gender equality |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 5 |
 | **Source** | openalex |
 | **DOI** | [10.22146/jp.80183](https://doi.org/10.22146/jp.80183) |

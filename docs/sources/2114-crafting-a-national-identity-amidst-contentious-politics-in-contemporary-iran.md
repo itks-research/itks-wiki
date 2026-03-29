@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Farideh Farhi |
 | **Year** | 2005 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 52 |
 | **Source** | openalex |
 | **DOI** | [10.1080/0021086042000336519](https://doi.org/10.1080/0021086042000336519) |

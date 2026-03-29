@@ -6,7 +6,7 @@
 | **Year** | 2017 |
 | **Category** | Electoral system design and implementation |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 15 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.3389/fbuil.2016.00037](https://doi.org/10.3389/fbuil.2016.00037) |

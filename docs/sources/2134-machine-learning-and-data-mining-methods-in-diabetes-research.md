@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Ioannis Kavakiotis, O. Tsave, Athanasios Salifoglou, Nicos Maglaveras, Ioannis Vlahavas, Ioanna Chouvarda |
 | **Year** | 2017 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1379 |
 | **Source** | openalex |
 | **DOI** | [10.1016/j.csbj.2016.12.005](https://doi.org/10.1016/j.csbj.2016.12.005) |

@@ -5,8 +5,8 @@
 | نویسندگان | Maged N. Kamel Boulos, Bernd Resch, David N. Crowley, John G. Breslin, Gunho Sohn, Russ Burtner, William Pike, Eduardo Jezierski, Kuo-Yu Chuang |
 |---|---|
 | **سال** | 2011 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 489 |
 | **شناسه دیجیتال** | [10.1186/1476-072x-10-67](https://doi.org/10.1186/1476-072x-10-67) |

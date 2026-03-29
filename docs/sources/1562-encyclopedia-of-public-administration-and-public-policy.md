@@ -6,7 +6,7 @@
 | **Year** | 2007 |
 | **Category** | Civil-military relations and security sector reform |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 117 |
 | **Source** | openalex |
 | **DOI** | [10.1081/e-epap2](https://doi.org/10.1081/e-epap2) |

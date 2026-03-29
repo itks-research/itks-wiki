@@ -6,7 +6,7 @@
 | **Year** | 2015 |
 | **Category** | Regional foreign policy reorientation |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 65 |
 | **Source** | openalex |
 | **DOI** | [10.1080/13510347.2014.981161](https://doi.org/10.1080/13510347.2014.981161) |

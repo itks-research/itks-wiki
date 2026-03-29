@@ -5,8 +5,8 @@
 | نویسندگان | Benjamin K. Sovacool, Andrew Hook, Mari Martiskainen, Lucy Baker |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 189 |
 | **شناسه دیجیتال** | [10.1016/j.gloenvcha.2019.101958](https://doi.org/10.1016/j.gloenvcha.2019.101958) |

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | David Lumsden |
 | **Year** | 1999 |
-| **Category** | Transitional justice |
+| **Category** | Civil society development |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 23 |
 | **Source** | openalex |
 | **DOI** | [10.25071/1920-7336.22032](https://doi.org/10.25071/1920-7336.22032) |

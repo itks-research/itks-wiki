@@ -6,7 +6,7 @@
 | **Year** | 2021 |
 | **Category** | Resource curse management |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 90 |
 | **Source** | openalex |
 | **DOI** | [10.3390/foods10112732](https://doi.org/10.3390/foods10112732) |

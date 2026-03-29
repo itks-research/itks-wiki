@@ -6,7 +6,7 @@
 | **Year** | 2018 |
 | **Category** | IRGC economic empire and its dismantling |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 1976 |
 | **Source** | openalex |
 | **DOI** | [10.5194/nhess-18-2161-2018](https://doi.org/10.5194/nhess-18-2161-2018) |

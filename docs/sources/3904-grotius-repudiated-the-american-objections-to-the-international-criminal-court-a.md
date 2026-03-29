@@ -6,7 +6,7 @@
 | **Year** | 1999 |
 | **Category** | Nuclear program civilian transition |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 57 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://repository.law.umich.edu/cgi/viewcontent.cgi?article=1422&context=mjil) |

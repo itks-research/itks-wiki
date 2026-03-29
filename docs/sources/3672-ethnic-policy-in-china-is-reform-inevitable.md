@@ -6,7 +6,7 @@
 | **Year** | 2020 |
 | **Category** | Ethnic federalism in Iran |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 111 |
 | **Source** | openalex |
 | **DOI** | [10.26181/605174a510a38](https://doi.org/10.26181/605174a510a38) |

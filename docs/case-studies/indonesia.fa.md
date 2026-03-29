@@ -4,20 +4,20 @@
 
 **653 منبع** در 21 دسته‌بندی
 
-## Banking and financial system reform
+## اصلاح نظام بانکی و مالی
 *3 منبع*
 
 - [Does Fiscal Decentralization Encourage Corruption in Local Governments? Evidence from Indonesia](../sources/1652-does-fiscal-decentralization-encourage-corruption-in-local-governments-evidence-.fa.md) (2019)
 - [The Financial Performance and Stock Valuation of Coal Mining Company in Indonesia (Case Study: Pt. Abm Investama Tbk (ABMM))](../sources/1816-the-financial-performance-and-stock-valuation-of-coal-mining-company-in-indonesi.fa.md) (2022)
 - [CONCEPTUAL PROVISIONS FOR IMPROVING THE ECOLOGICAL AND ECONOMIC EFFICIENCY OF AGRICULTURAL LAND USE](../sources/1608-conceptual-provisions-for-improving-the-ecological-and-economic-efficiency-of-ag.fa.md) (2024)
 
-## Civil society development
+## توسعه جامعه مدنی
 *2 منبع*
 
 - [Governance to Governmentality: Analyzing NGOs, States, and Power](../sources/1511-governance-to-governmentality-analyzing-ngos-states-and-power.fa.md) (2006)
 - [SOCIAL ADAPTATION OF MINORS IN A SOCIAL REHABILITATION CENTER](../sources/1607-social-adaptation-of-minors-in-a-social-rehabilitation-center.fa.md) (2024)
 
-## Civil-military relations and security sector reform
+## روابط نظامی-غیرنظامی و اصلاح بخش امنیتی
 *49 منبع*
 
 - [Why Do Developing Countries Tax So Little?](../sources/1513-why-do-developing-countries-tax-so-little.fa.md) (2014)
@@ -70,18 +70,18 @@
 - [Unintended consequences of peacekeeping operations](../sources/1515-unintended-consequences-of-peacekeeping-operations.fa.md) (2007)
 - [Disarmament, demobilization and reintegration](../sources/1578-disarmament-demobilization-and-reintegration.fa.md) (2013)
 
-## Constitutional design and drafting processes
+## طراحی و تدوین قانون اساسی
 *2 منبع*
 
 - [The Constitution of Indonesia](../sources/1558-the-constitution-of-indonesia.fa.md) (2012)
 - [Positive Constitutional Economics II — A Survey of Recent Developments](../sources/1600-positive-constitutional-economics-ii--a-survey-of-recent-developments.fa.md) (2023)
 
-## Cultural heritage preservation during institutional change
+## حفظ میراث فرهنگی در دوره تحولات نهادی
 *1 منبع*
 
 - [Fishing in life and death: Pleistocene fish-hooks from a burial context on Alor Island, Indonesia](../sources/1466-fishing-in-life-and-death-pleistocene-fish-hooks-from-a-burial-context-on-alor-i.fa.md) (2017)
 
-## Education system reform and curriculum modernization
+## اصلاح نظام آموزشی و نوسازی برنامه درسی
 *16 منبع*
 
 - [Human development and decentralization: The importance of public health expenditure](../sources/1592-human-development-and-decentralization-the-importance-of-public-health-expenditu.fa.md) (2022)
@@ -101,7 +101,7 @@
 - [THE EXPERIENCE OF THE DEPARTMENT OF BIOLOGY IN DIGITALIZATION OF THE EDUCATIONAL PROCESS USING THE INTERACTIVE VIDEO STUDIO “JALINGA” AND CAREER GUIDANCE IN THE CONDITIONS OF DISTANCE AND FULL- TIME EDUCATION](../sources/1612-the-experience-of-the-department-of-biology-in-digitalization-of-the-educational.fa.md) (2024)
 - [INFLUENCE OF SEVERE CONCOMITANT TRAUMATIC BRAIN INJURY ON HEART STROKE VOLUME IN PRESCHOOL AGE](../sources/1610-influence-of-severe-concomitant-traumatic-brain-injury-on-heart-stroke-volume-in.fa.md) (2024)
 
-## Electoral system design and implementation
+## طراحی و اجرای نظام انتخاباتی
 *5 منبع*
 
 - [Political Reform in Indonesia after Soeharto](../sources/1531-political-reform-in-indonesia-after-soeharto.fa.md) (2010)
@@ -110,7 +110,7 @@
 - [Campaigning for All Indonesians: The Politics of Healthcare in Indonesia](../sources/1570-campaigning-for-all-indonesians-the-politics-of-healthcare-in-indonesia.fa.md) (2016)
 - [The Role of Accountability in the Relationship between Democracy and Corruption](../sources/1605-the-role-of-accountability-in-the-relationship-between-democracy-and-corruption.fa.md) (2017)
 
-## Federalism, unitarism, and autonomy models
+## فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری
 *112 منبع*
 
 - [Fiscal Decentralization Dilemma in Indonesia: Between Corruption Accountability and Probability at Local Levels](../sources/4722-fiscal-decentralization-dilemma-in-indonesia-between-corruption-accountability-a.fa.md) (2020)
@@ -226,12 +226,12 @@
 - [APPLICATION OF SYSTEM ANALYSIS METHODS TO SOLVING THE ENVIRONMENTAL PROBLEMS OF MODERN CONDENSING THERMAL POWER PLANTS](../sources/1613-application-of-system-analysis-methods-to-solving-the-environmental-problems-of-.fa.md) (2024)
 - [The autonomy of science in a globalised world](../sources/4680-the-autonomy-of-science-in-a-globalised-world.fa.md) (2025)
 
-## Judicial independence and rule of law
+## استقلال قضایی و حاکمیت قانون
 *1 منبع*
 
 - [The Legitimacy of International Law: A Constitutionalist Framework of Analysis](../sources/1517-the-legitimacy-of-international-law-a-constitutionalist-framework-of-analysis.fa.md) (2004)
 
-## Labor market reform and social safety nets
+## اصلاح بازار کار و شبکه‌های حمایت اجتماعی
 *15 منبع*
 
 - [HOW DOES DECENTRALIZED MINIMUM WAGE SETTING AFFECT EMPLOYMENT AND INFORMALITY? THE CASE OF INDONESIA](../sources/1638-how-does-decentralized-minimum-wage-setting-affect-employment-and-informality-th.fa.md) (2011)
@@ -250,12 +250,12 @@
 - [Critical Point of View: The Challenges of Agricultural Sector on Governance and Food Security in Indonesia](../sources/1586-critical-point-of-view-the-challenges-of-agricultural-sector-on-governance-and-f.fa.md) (2021)
 - [Enhancing food security to support the sustainable development goals through public sector accounting policy reform in Indonesia](../sources/1561-enhancing-food-security-to-support-the-sustainable-development-goals-through-pub.fa.md) (2024)
 
-## Media freedom and press institution building
+## آزادی رسانه و نهادسازی مطبوعاتی
 *1 منبع*
 
 - [Essays On Corruption And Economic Development](../sources/1596-essays-on-corruption-and-economic-development.fa.md) (2007)
 
-## Minority rights
+## حقوق اقلیت‌ها
 *123 منبع*
 
 - [Corruption, institutions, and economic development](../sources/4964-corruption-institutions-and-economic-development.fa.md) (2009)
@@ -382,7 +382,7 @@
 - [Spatial Patterns and Toponymic Complexity in Sepaku: A GIS-Based Analysis of Linguistic Variation in Indonesia’s Future Capital](../sources/4950-spatial-patterns-and-toponymic-complexity-in-sepaku-a-gis-based-analysis-of-ling.fa.md) (2025)
 - [A Juridical Review of Constitutional Court Decision No. 18/PUU-V/2007 on the Establishment of Ad Hoc Human Rights Courts in Indonesia](../sources/4951-a-juridical-review-of-constitutional-court-decision-no-18puu-v2007-on-the-establ.fa.md) (2025)
 
-## Political party formation and pluralism
+## شکل‌گیری احزاب سیاسی و تکثرگرایی
 *17 منبع*
 
 - [Indonesia's Accountability Trap: Party Cartels and Presidential Power after Democratic Transition](../sources/1522-indonesias-accountability-trap-party-cartels-and-presidential-power-after-democr.fa.md) (2004)
@@ -403,12 +403,12 @@
 - [WIDE-REACH SPRINKLER MACHINE WITH “INTELLIGENT MODULE”](../sources/1617-wide-reach-sprinkler-machine-with-intelligent-module.fa.md) (2024)
 - [CIRCADIAN RHYTHM OF MINUTE VOLUME OF BLOOD CIRCULATION IN THE ACUTE PERIOD OF SEVERE CONCOMITANT TRAUMATIC BRAIN INJURY IN CHILDREN OF 3.1-7 YEARS OF AGE](../sources/1619-circadian-rhythm-of-minute-volume-of-blood-circulation-in-the-acute-period-of-se.fa.md) (2024)
 
-## Power-sharing mechanisms during transition periods
+## سازوکارهای تقسیم قدرت در دوره گذار
 *1 منبع*
 
 - [Borrower Ownership of Adjustment programs and the Political Economy of Reform](../sources/1572-borrower-ownership-of-adjustment-programs-and-the-political-economy-of-reform.fa.md) (1993)
 
-## Privatization and state-owned enterprise restructuring
+## خصوصی‌سازی و بازسازی شرکت‌های دولتی
 *7 منبع*
 
 - [Employee Participation in Decision-Making: Evidence from a State-Owned Enterprise in Indonesia](../sources/1978-employee-participation-in-decision-making-evidence-from-a-state-owned-enterprise.fa.md) (2015)
@@ -419,7 +419,7 @@
 - [Key Factors in Improving the Maturity of Information Technology Governance: A Case Study of State-owned Enterprise in Indonesia](../sources/1974-key-factors-in-improving-the-maturity-of-information-technology-governance-a-cas.fa.md) (2020)
 - [Desire and climate on employee performance – a study on plantation state-owned enterprise in Indonesia](../sources/1976-desire-and-climate-on-employee-performance--a-study-on-plantation-state-owned-en.fa.md) (2017)
 
-## Religious freedom and separation of religion from state
+## آزادی مذهبی و جدایی دین از حکومت
 *135 منبع*
 
 - [The Corporate Governance Role of the Media](../sources/4846-the-corporate-governance-role-of-the-media.fa.md) (2002)
@@ -558,19 +558,19 @@
 - [VERSI SEKULARISME INDONESIA SEBAGAI KEBIJAKAN YANG DEMOKRATIS](../sources/4779-versi-sekularisme-indonesia-sebagai-kebijakan-yang-demokratis.fa.md) (2022)
 - [Relevansi Pemikiran Abraham Kuyper tentang Relasi Gereja dan Negara bagi Konteks Gereja di Indonesia](../sources/4821-relevansi-pemikiran-abraham-kuyper-tentang-relasi-gereja-dan-negara-bagi-konteks.fa.md) (2026)
 
-## Resource curse management
+## مدیریت نفرین منابع طبیعی
 *3 منبع*
 
 - [Overview of forest tenure reforms in Indonesia](../sources/1564-overview-of-forest-tenure-reforms-in-indonesia.fa.md) (2017)
 - [Lessons for REDD+ from measures to control illegal logging in Indonesia](../sources/1566-lessons-for-redd-from-measures-to-control-illegal-logging-in-indonesia.fa.md) (2011)
 - [End of Energy Coal Era](../sources/1830-end-of-energy-coal-era.fa.md) (2021)
 
-## Sanctions unwinding and international reintegration
+## رفع تحریم‌ها و بازادغام بین‌المللی
 *1 منبع*
 
 - [International Intervention and the Severity of Genocides and Politicides](../sources/1520-international-intervention-and-the-severity-of-genocides-and-politicides.fa.md) (2005)
 
-## Trade liberalization and foreign direct investment
+## آزادسازی تجارت و سرمایه‌گذاری خارجی
 *5 منبع*
 
 - [World Development Report 1986](../sources/1567-world-development-report-1986.fa.md) (1986)
@@ -579,13 +579,13 @@
 - [China's Stock Markets and the World Trade Organization](../sources/1580-chinas-stock-markets-and-the-world-trade-organization.fa.md) (1999)
 - [AGRICULTURAL POLICIES IN INDONESIA: PRODUCER SUPPORT ESTIMATES 1985-2003](../sources/1588-agricultural-policies-in-indonesia-producer-support-estimates-1985-2003.fa.md) (2004)
 
-## Transitional justice
+## عدالت انتقالی
 *2 منبع*
 
 - [Accounting for Atrocities in Indonesia](../sources/1554-accounting-for-atrocities-in-indonesia.fa.md) (2006)
 - [Elites and Prospects of Democracy in East Timor](../sources/1507-elites-and-prospects-of-democracy-in-east-timor.fa.md) (2006)
 
-## Women's rights codification and gender equality
+## تدوین حقوق زنان و برابری جنسیتی
 *152 منبع*
 
 - [Theorizing power in political ecology: the 'where' of power in resource governance projects](../sources/4984-theorizing-power-in-political-ecology-the-where-of-power-in-resource-governance-.fa.md) (2018)

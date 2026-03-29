@@ -5,8 +5,8 @@
 | نویسندگان | Jiawen Qiao, Na Wang, Junsong Fu, Lunzhi Deng, Jingjing Wang, Jianwei Liu |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Political party formation and pluralism |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | شکل‌گیری احزاب سیاسی و تکثرگرایی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 6 |
 | **شناسه دیجیتال** | [10.1002/ett.70053](https://doi.org/10.1002/ett.70053) |

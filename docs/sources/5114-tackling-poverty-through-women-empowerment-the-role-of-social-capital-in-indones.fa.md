@@ -5,8 +5,8 @@
 | نویسندگان | Endah Widiyanti, Pudjihardjo Pudjihardjo, Putu Mahardika Adi Saputra |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 13 |
 | **شناسه دیجیتال** | [10.17977/um002v10i12018p044](https://doi.org/10.17977/um002v10i12018p044) |

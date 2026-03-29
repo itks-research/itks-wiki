@@ -5,8 +5,8 @@
 | نویسندگان | Y. Ngongo, Bernard deRosari, Tony Basuki, G. N. Njurumana, Yudi Nugraha, A. H. Harianja, Mohammad Ardha, Kustiyo Kustiyo, R. Shofiyati, R. Heryanto, J. B. Rawung, J. Sondakh, R. E. Senewe, Helena daSilva, R. Hutapea, Procula Rudlof Mattitaputty, Yosua Pieter Kenduballa, N. Kotta, Y. L. Seran, D. K. Hau, D. Oktaviani, H. Y. Nugroho |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 14 |
 | **شناسه دیجیتال** | [10.3390/land12051043](https://doi.org/10.3390/land12051043) |

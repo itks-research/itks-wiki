@@ -5,8 +5,8 @@
 | نویسندگان | N. Dwipayanti, I. D. K. D. S. Kurnianingsih, Angelina G. Mustafa, A. Nastiti, D. Daniel, M. Kowara, I. Savitri |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.1016/j.healthplace.2025.103554](https://doi.org/10.1016/j.healthplace.2025.103554) |

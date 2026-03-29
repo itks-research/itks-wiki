@@ -5,8 +5,8 @@
 | نویسندگان | Putri Adibatur Rohmah, Ardiyana Muhammad, Dinda Dwi Utami, I. Maulana |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.36722/sh.v9i2.2813](https://doi.org/10.36722/sh.v9i2.2813) |

@@ -6,7 +6,7 @@
 | **Year** | 2009 |
 | **Category** | Privatization and state-owned enterprise restructuring |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 307 |
 | **Source** | openalex |
 | **DOI** | [10.1007/s10460-009-9236-3](https://doi.org/10.1007/s10460-009-9236-3) |
@@ -15,3 +15,7 @@
 ## Abstract
 
 Democratic legitimacy is rarely associated with private governance. After all, private actors are not legitimized through elections by a demos. Instead of abandoning democratic principles when entering the private sphere of governance, however, this article argues in favour of employing alternative criteria of democracy in assessments. Specifically, this article uses the criteria of participation, transparency and accountability to evaluate the democratic legitimacy of private food retail governance institutions. It pursues this evaluation of the democratic legitimacy of these institutions against the background of their ambivalent impact on the sustainability of the global agrifood system. The paper refers to a range of cases of private retail standards with different governance structures and substantial foci to illustrate its argument.
+
+## Related Sources
+
+- **extends** [New Private Enterprises in Three Transitional Contexts: Central Europe, the Former Soviet Union and China](4279-new-private-enterprises-in-three-transitional-contexts-central-europe-the-former.md)

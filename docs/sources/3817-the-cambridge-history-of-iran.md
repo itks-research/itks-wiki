@@ -6,7 +6,7 @@
 | **Year** | 1983 |
 | **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 215 |
 | **Source** | openalex |
 | **DOI** | [10.1017/chol9780521200929](https://doi.org/10.1017/chol9780521200929) |

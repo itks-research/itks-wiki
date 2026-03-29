@@ -5,8 +5,8 @@
 | نویسندگان | N. Alexandratos, Jelle Bruinsma, Alexandratos, Nikos, Bruinsma, Jelle |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | Trade liberalization and foreign direct investment |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | آزادسازی تجارت و سرمایه‌گذاری خارجی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 3142 |
 | **شناسه دیجیتال** | [10.22004/ag.econ.288998](https://doi.org/10.22004/ag.econ.288998) |

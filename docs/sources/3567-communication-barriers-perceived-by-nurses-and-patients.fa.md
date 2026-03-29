@@ -5,8 +5,8 @@
 | نویسندگان | Roohangiz Norouzinia, Maryam Aghabarari, Maryam Shiri, Mehrdad Karimi, Elham Samami |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Minority rights |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | حقوق اقلیت‌ها |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 244 |
 | **شناسه دیجیتال** | [10.5539/gjhs.v8n6p65](https://doi.org/10.5539/gjhs.v8n6p65) |

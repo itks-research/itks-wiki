@@ -5,8 +5,8 @@
 | نویسندگان | Fataneh Bakhshi, Davoud Shojaeizadeh, Roya Sadeghi, Mohammad Hossein Taghdisi, Saharnaz Nedjat |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 7 |
 | **شناسه دیجیتال** | [10.19082/3690](https://doi.org/10.19082/3690) |

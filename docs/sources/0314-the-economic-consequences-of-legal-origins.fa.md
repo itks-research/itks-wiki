@@ -5,8 +5,8 @@
 | نویسندگان | Rafael La Porta, Florencio Lopez-de-Silanes, Andrei Shleifer |
 |---|---|
 | **سال** | 2007 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 941 |
 | **شناسه دیجیتال** | [10.3386/w13608](https://doi.org/10.3386/w13608) |

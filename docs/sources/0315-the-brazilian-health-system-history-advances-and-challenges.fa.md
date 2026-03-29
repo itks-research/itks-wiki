@@ -5,8 +5,8 @@
 | نویسندگان | Jairnilson Silva Paim, Cláudia Travassos, C.M.V.B. Almeida, Lígia Bahia, James Macinko |
 |---|---|
 | **سال** | 2011 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 2359 |
 | **شناسه دیجیتال** | [10.1016/s0140-6736(11)60054-8](https://doi.org/10.1016/s0140-6736(11)60054-8) |

@@ -5,8 +5,8 @@
 | نویسندگان | Dea Hernawati Yuniar, Edi Dwi Riyanto, Nadya Afdholy |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.18860/egalita.v19i2.27389](https://doi.org/10.18860/egalita.v19i2.27389) |

@@ -5,8 +5,8 @@
 | نویسندگان | Jeffrey Henderson, Peter Dicken, Martin Heß, Neil M. Coe, Henry Wai‐chung Yeung |
 |---|---|
 | **سال** | 2002 |
-| **دسته‌بندی** | Trade liberalization and foreign direct investment |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | آزادسازی تجارت و سرمایه‌گذاری خارجی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 2175 |
 | **شناسه دیجیتال** | [10.1080/09692290210150842](https://doi.org/10.1080/09692290210150842) |

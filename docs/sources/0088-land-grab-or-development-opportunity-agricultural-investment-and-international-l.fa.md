@@ -5,8 +5,8 @@
 | نویسندگان | Lorenzo Cotula, Sonja Vermeulen, Rebeca Leonard, James F. Keeley |
 |---|---|
 | **سال** | 2009 |
-| **دسته‌بندی** | Trade liberalization and foreign direct investment |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | آزادسازی تجارت و سرمایه‌گذاری خارجی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 1069 |
 

@@ -5,8 +5,8 @@
 | نویسندگان | Marcel P. Timmer, Erik Dietzenbacher, Bart Los, Robert Stehrer, Gaaitzen J. de Vries |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Trade liberalization and foreign direct investment |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | آزادسازی تجارت و سرمایه‌گذاری خارجی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 2401 |
 | **شناسه دیجیتال** | [10.1111/roie.12178](https://doi.org/10.1111/roie.12178) |

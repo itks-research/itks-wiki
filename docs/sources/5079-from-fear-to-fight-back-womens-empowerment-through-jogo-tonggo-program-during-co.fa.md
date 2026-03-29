@@ -5,8 +5,8 @@
 | نویسندگان | Joko Santoso, N. Bintarsari, Soetji Lestari |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.30560/hssr.v7n2p1](https://doi.org/10.30560/hssr.v7n2p1) |

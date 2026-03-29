@@ -5,8 +5,8 @@
 | نویسندگان | A. Asadollahi, Fani Saberi Laleh, Rezaie Abhari Farideh, Shirinkam Fatemeh |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.18869/ACADPUB.JNMS.1.1.33](https://doi.org/10.18869/ACADPUB.JNMS.1.1.33) |

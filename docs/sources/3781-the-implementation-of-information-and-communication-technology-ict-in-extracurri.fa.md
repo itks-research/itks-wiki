@@ -5,8 +5,8 @@
 | نویسندگان | Mahin Teimoornia, Farideh Hamidi, Seyed Mohammad Reza Imam Jomeh, Somayeh Foroozesh-nia |
 |---|---|
 | **سال** | 2011 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 7 |
 | **شناسه دیجیتال** | [10.1016/j.procs.2010.12.103](https://doi.org/10.1016/j.procs.2010.12.103) |

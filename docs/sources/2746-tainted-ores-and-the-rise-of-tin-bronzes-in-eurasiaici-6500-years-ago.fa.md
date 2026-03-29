@@ -5,8 +5,8 @@
 | نویسندگان | Miljana Radivojević, Thilo Rehren, Julka Kuzmanovic-Cvetković, Marija Jovanović, J. P. Northover |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 76 |
 | **شناسه دیجیتال** | [10.1017/s0003598x0004984x](https://doi.org/10.1017/s0003598x0004984x) |

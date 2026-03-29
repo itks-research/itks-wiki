@@ -6,7 +6,7 @@
 | **Year** | 1992 |
 | **Category** | Media freedom and press institution building |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 59 |
 | **Source** | openalex |
 | **DOI** | [10.1080/0015587x.1992.9715831](https://doi.org/10.1080/0015587x.1992.9715831) |
@@ -14,3 +14,8 @@
 ## Abstract
 
 MANY familiar with post 1952 Egypt will already know of the tremendous popularity of Egyptian political jokes and the frequency with which they are told. Political jokes are an integral part of Egyptian life and can be heard in government offices by bureaucrats passing the time, in local coffee houses, among friends, and in the homes of millions of urban Egyptians. The political joke became particularly important beginning in 1952, when a group of military officers led by Mohammed Naguib and Jamal Abdel Nasser (The Free Officers) overthrew the corrupt monarchy of King Farouk and replaced it with a military regime. With the new regime came the end of parliamentary politics and political freedoms, including the right to organize political parties, and freedoms of speech and the press. When open political expression became dangerous in Egypt, the political joke emerged as a vehicle for the criticism of political leaders, their policies, and government. What is true of Egypt is true of many societies in which political freedoms are repressed. In the U.S.S.R., Czechoslovakia, East Germany, Rumania, Poland, Hungary, Cuba, and China, the political joke has been alive and well for some time.' In Greece, the political joke became an important form of criticism when a military dictatorship suspended freedoms of speech and the press.2 In both Spain, particularly under Francisco Franco, and Mexico, political jokes have thrived in a climate not conducive to other forms of political expression.3 Historically, therefore, when political dissent and criticism have not been tolerated, the political joke has become a vehicle for such criticism; a vehicle which replaces, at least partially, other forms of expression and protest.4
+
+## Related Sources
+
+- **extends** [Read All About It! Understanding the Role of Media in Economic Development](4574-read-all-about-it-understanding-the-role-of-media-in-economic-development.md)
+- **supports** [The ‘right to be forgotten’ and the right to freedom of expression and information-legal problems on the basis of the judgment of the Supreme Administrative Court of 9 February 2023](4512-the-right-to-be-forgotten-and-the-right-to-freedom-of-expression-and-information.md)

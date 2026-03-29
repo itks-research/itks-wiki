@@ -6,7 +6,7 @@
 | **Year** | 2018 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 16 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://repository.upenn.edu/edissertations/2913) |

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | L.A. Zhuravleva, A. Aldiab |
 | **Year** | 2024 |
-| **Category** | Federalism, unitarism, and autonomy models |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | openalex |
 | **DOI** | [10.34660/inf.2022.70.56.037](https://doi.org/10.34660/inf.2022.70.56.037) |

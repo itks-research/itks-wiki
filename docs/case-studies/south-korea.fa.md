@@ -4,7 +4,7 @@
 
 **370 منبع** در 22 دسته‌بندی
 
-## Banking and financial system reform
+## اصلاح نظام بانکی و مالی
 *22 منبع*
 
 - [The Global Capital Market: Benefactor or Menace?](../sources/1016-the-global-capital-market-benefactor-or-menace.fa.md) (1998)
@@ -30,12 +30,12 @@
 - [Organizations and Markets](../sources/0155-organizations-and-markets.fa.md) (1991)
 - [Promoting Fiscal Discipline](../sources/0037-promoting-fiscal-discipline.fa.md) (2007)
 
-## Bonyad system reform
+## اصلاح نظام بنیادها
 *1 منبع*
 
 - [Draft genome sequences of Salmonella enterica subsp. enterica isolates from fresh produce and agricultural environments in South Korea](../sources/0065-draft-genome-sequences-of-salmonella-enterica-subsp-enterica-isolates-from-fresh.fa.md) (2025)
 
-## Civil society development
+## توسعه جامعه مدنی
 *5 منبع*
 
 - [Two Centuries of Participation: NGOs and International Governance](../sources/0014-two-centuries-of-participation-ngos-and-international-governance.fa.md) (1997)
@@ -44,7 +44,7 @@
 - [A Journey of Family Law Reform in Korea: Tradition, Equality, and Social Change](../sources/0140-a-journey-of-family-law-reform-in-korea-tradition-equality-and-social-change.fa.md) (2008)
 - [Diaspora and Transnationalism : Concepts, Theories and Methods](../sources/0093-diaspora-and-transnationalism--concepts-theories-and-methods.fa.md) (2010)
 
-## Civil-military relations and security sector reform
+## روابط نظامی-غیرنظامی و اصلاح بخش امنیتی
 *54 منبع*
 
 - [Institutions for High-Quality Growth: What They are and How to Acquire Them](../sources/0261-institutions-for-high-quality-growth-what-they-are-and-how-to-acquire-them.fa.md) (2000)
@@ -102,7 +102,7 @@
 - [IPCC, 2023: Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [Core Writing Team, H. Lee and J. Romero (eds.)]. IPCC, Geneva, Switzerland.](../sources/0252-ipcc-2023-climate-change-2023-synthesis-report-contribution-of-working-groups-i-.fa.md) (2023)
 - [A Study on the Redesigning direction of K-Reserve Forces Considering the Priority of Combat Development subjects: Focusing on AHP analysis](../sources/0208-a-study-on-the-redesigning-direction-of-k-reserve-forces-considering-the-priorit.fa.md) (2025)
 
-## Constitutional design and drafting processes
+## طراحی و تدوین قانون اساسی
 *86 منبع*
 
 - [Strong Demands and Weak Institutions: The Origins and Evolution of the Democratic Deficit in the Philippines](../sources/0097-strong-demands-and-weak-institutions-the-origins-and-evolution-of-the-democratic.fa.md) (2003)
@@ -192,7 +192,7 @@
 - [Whole genome sequence data of Galbitalea sp. strain isolated from gut of Spodoptera litura (Lepidoptera: Noctuidae) in South Korea](../sources/0075-whole-genome-sequence-data-of-galbitalea-sp-strain-isolated-from-gut-of-spodopte.fa.md) (2024)
 - [Draft genome sequences of Klebsiella spp. isolated from produce and agricultural water in South Korea](../sources/0076-draft-genome-sequences-of-klebsiella-spp-isolated-from-produce-and-agricultural-.fa.md) (2024)
 
-## Cultural heritage preservation during institutional change
+## حفظ میراث فرهنگی در دوره تحولات نهادی
 *4 منبع*
 
 - [Confucianism and Democracy](../sources/1072-confucianism-and-democracy.fa.md) (1995)
@@ -200,7 +200,7 @@
 - [Ethnicity without groups](../sources/1059-ethnicity-without-groups.fa.md) (2002)
 - [Guidelines for conserving connectivity through ecological networks and corridors](../sources/0015-guidelines-for-conserving-connectivity-through-ecological-networks-and-corridors.fa.md) (2020)
 
-## Education system reform and curriculum modernization
+## اصلاح نظام آموزشی و نوسازی برنامه درسی
 *29 منبع*
 
 - [4 Research Methods: Quantitative and Qualitative Approaches](../sources/1045-4-research-methods-quantitative-and-qualitative-approaches.fa.md) (2023)
@@ -233,7 +233,7 @@
 - [Eight-Year Prevalence Trends of Lumbar Spondylolysis and Isthmic Spondylolisthesis in Adolescent Males: A Population-based Study from a Nationwide Military Draft Medical Examination Database in South Korea.](../sources/0073-eight-year-prevalence-trends-of-lumbar-spondylolysis-and-isthmic-spondylolisthes.fa.md) (2024)
 - [Pain Treatment in Primary Care Through Eight Constitution Medicine: A Retrospective Real-World Study from South Korea](../sources/0044-pain-treatment-in-primary-care-through-eight-constitution-medicine-a-retrospecti.fa.md) (2025)
 
-## Electoral system design and implementation
+## طراحی و اجرای نظام انتخاباتی
 *14 منبع*
 
 - [Embedded and defective democracies](../sources/0136-embedded-and-defective-democracies.fa.md) (2004)
@@ -251,7 +251,7 @@
 - [Comparative Study of the General Election Commission (KPU) in the United States and South Korea](../sources/0060-comparative-study-of-the-general-election-commission-kpu-in-the-united-states-an.fa.md) (2023)
 - [Effects of presidential elections on accounting conservatism: Evidence from South Korea](../sources/0053-effects-of-presidential-elections-on-accounting-conservatism-evidence-from-south.fa.md) (2024)
 
-## Federalism, unitarism, and autonomy models
+## فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری
 *5 منبع*
 
 - [The Political Economy of Democratic Decentralization](../sources/0213-the-political-economy-of-democratic-decentralization.fa.md) (1999)
@@ -260,7 +260,7 @@
 - [Fiscal Relations across Government Levels](../sources/0017-fiscal-relations-across-government-levels.fa.md) (2003)
 - [5- Nigeria’s Niger Delta: Understanding the Complex Drivers of Violent Oil-related Conflict](../sources/0021-5--nigerias-niger-delta-understanding-the-complex-drivers-of-violent-oil-related.fa.md) (2009)
 
-## Judicial independence and rule of law
+## استقلال قضایی و حاکمیت قانون
 *4 منبع*
 
 - [Rule by Law: The Politics of Courts in Authoritarian Regimes](../sources/0141-rule-by-law-the-politics-of-courts-in-authoritarian-regimes.fa.md) (2008)
@@ -268,7 +268,7 @@
 - [Korea’s Two Key Legal Reforms of Lay Adjudication: The Possible Introduction of the Grand Jury (Japan’s Prosecutorial Review Commission) System and the Elimination of Consent Requirement to Allow Lay Adjudication of American Military Felons in South Korea](../sources/0221-koreas-two-key-legal-reforms-of-lay-adjudication-the-possible-introduction-of-th.fa.md) (2012)
 - [The International Criminal Court](../sources/0011-the-international-criminal-court.fa.md) (2006)
 
-## Labor market reform and social safety nets
+## اصلاح بازار کار و شبکه‌های حمایت اجتماعی
 *29 منبع*
 
 - [World Development Report 2019: The Changing Nature of Work](../sources/1011-world-development-report-2019-the-changing-nature-of-work.fa.md) (2018)
@@ -301,18 +301,18 @@
 - [Global, regional, and national under-5 mortality, adult mortality, age-specific mortality, and life expectancy, 1970–2016: a systematic analysis for the Global Burden of Disease Study 2016](../sources/0089-global-regional-and-national-under-5-mortality-adult-mortality-age-specific-mort.fa.md) (2017)
 - [Prevalence of axial spondyloarthritis among military draft-eligible populations in South Korea: national and regional trends over recent decades](../sources/0061-prevalence-of-axial-spondyloarthritis-among-military-draft-eligible-populations-.fa.md) (2025)
 
-## Language policy
+## سیاست زبانی
 *1 منبع*
 
 - [Neoliberalism as language policy](../sources/1012-neoliberalism-as-language-policy.fa.md) (2013)
 
-## Media freedom and press institution building
+## آزادی رسانه و نهادسازی مطبوعاتی
 *2 منبع*
 
 - [Democracy's fourth wave?: digital media and the Arab Spring](../sources/0176-democracys-fourth-wave-digital-media-and-the-arab-spring.fa.md) (2013)
 - [Freedom of Expression in the Spread of Hoax News on Social Media Between Indonesia and South Korea](../sources/0051-freedom-of-expression-in-the-spread-of-hoax-news-on-social-media-between-indones.fa.md) (2024)
 
-## Political party formation and pluralism
+## شکل‌گیری احزاب سیاسی و تکثرگرایی
 *19 منبع*
 
 - [Occupy Congress in Taiwan: Political Opportunity, Threat, and the Sunflower Movement](../sources/0019-occupy-congress-in-taiwan-political-opportunity-threat-and-the-sunflower-movemen.fa.md) (2015)
@@ -335,14 +335,14 @@
 - [Global Autocracies: Strategies of Transnational Repression, Legitimation, and Co-Optation in World Politics](../sources/0016-global-autocracies-strategies-of-transnational-repression-legitimation-and-co-op.fa.md) (2020)
 - [Just How Liberal Is the Liberal Peace?](../sources/0174-just-how-liberal-is-the-liberal-peace.fa.md) (2014)
 
-## Power-sharing mechanisms during transition periods
+## سازوکارهای تقسیم قدرت در دوره گذار
 *3 منبع*
 
 - [Dual transitions from authoritarian rule: institutionalized regimes in Chile and Mexico, 1970-2000](../sources/0235-dual-transitions-from-authoritarian-rule-institutionalized-regimes-in-chile-and-.fa.md) (2008)
 - [Changing facets of leadership in East Asia: globalization, innovation and performance in Japan, South Korea and China](../sources/0994-changing-facets-of-leadership-in-east-asia-globalization-innovation-and-performa.fa.md) (2018)
 - [Change in U.S. Policy Toward South Korea in the Early 1960s](../sources/0241-change-in-us-policy-toward-south-korea-in-the-early-1960s.fa.md) (1999)
 
-## Privatization and state-owned enterprise restructuring
+## خصوصی‌سازی و بازسازی شرکت‌های دولتی
 *31 منبع*
 
 - [Institutions, resources, and entry strategies in emerging economies](../sources/1054-institutions-resources-and-entry-strategies-in-emerging-economies.fa.md) (2008)
@@ -377,12 +377,12 @@
 - [Ensuring the right to adequate housing through interference on property rights: The case of Albania](../sources/0995-ensuring-the-right-to-adequate-housing-through-interference-on-property-rights-t.fa.md) (2024)
 - [Private Benefits of Control: An International Comparison](../sources/0251-private-benefits-of-control-an-international-comparison.fa.md) (2004)
 
-## Regional foreign policy reorientation
+## بازتعریف سیاست خارجی منطقه‌ای
 *1 منبع*
 
 - [At home abroad: identity and power in American foreign policy](../sources/0218-at-home-abroad-identity-and-power-in-american-foreign-policy.fa.md) (2002)
 
-## Resource curse management
+## مدیریت نفرین منابع طبیعی
 *5 منبع*
 
 - [Misallocation and Manufacturing TFP in China and India](../sources/0258-misallocation-and-manufacturing-tfp-in-china-and-india.fa.md) (2007)
@@ -391,7 +391,7 @@
 - [The role of hydrogen and fuel cells in the global energy system](../sources/0242-the-role-of-hydrogen-and-fuel-cells-in-the-global-energy-system.fa.md) (2018)
 - [Farming the planet: 1. Geographic distribution of global agricultural lands in the year 2000](../sources/0264-farming-the-planet-1-geographic-distribution-of-global-agricultural-lands-in-the.fa.md) (2008)
 
-## Sanctions unwinding and international reintegration
+## رفع تحریم‌ها و بازادغام بین‌المللی
 *4 منبع*
 
 - [An Index of Global Economic Policy Uncertainty](../sources/0154-an-index-of-global-economic-policy-uncertainty.fa.md) (2016)
@@ -399,7 +399,7 @@
 - [A Comprehensive Approach to North Korea](../sources/0240-a-comprehensive-approach-to-north-korea.fa.md) (1999)
 - [The North Korean Economy: Leverage and Policy Analysis](../sources/0237-the-north-korean-economy-leverage-and-policy-analysis.fa.md) (2008)
 
-## Trade liberalization and foreign direct investment
+## آزادسازی تجارت و سرمایه‌گذاری خارجی
 *45 منبع*
 
 - [Global production networks and the analysis of economic development](../sources/1052-global-production-networks-and-the-analysis-of-economic-development.fa.md) (2002)
@@ -448,7 +448,7 @@
 - [Bounded Rationality and the Diffusion of Modern Investment Treaties](../sources/0106-bounded-rationality-and-the-diffusion-of-modern-investment-treaties.fa.md) (2013)
 - [World agriculture towards 2030/2050: the 2012 revision](../sources/0250-world-agriculture-towards-20302050-the-2012-revision.fa.md) (2012)
 
-## Transitional justice
+## عدالت انتقالی
 *4 منبع*
 
 - [Explaining the Deterrence Effect of Human Rights Prosecutions for Transitional Countries1](../sources/0167-explaining-the-deterrence-effect-of-human-rights-prosecutions-for-transitional-c.fa.md) (2010)
@@ -456,7 +456,7 @@
 - [Justice and Reconciliation in World Politics](../sources/0180-justice-and-reconciliation-in-world-politics.fa.md) (2017)
 - [State Withdrawal Notifications from the Rome Statute of the International Criminal Court: South Africa, Burundi and the Gambia](../sources/0038-state-withdrawal-notifications-from-the-rome-statute-of-the-international-crimin.fa.md) (2017)
 
-## Women's rights codification and gender equality
+## تدوین حقوق زنان و برابری جنسیتی
 *2 منبع*
 
 - [Under Construction: The Gendering of Modernity, Class, and Consumption in the Republic of Korea](../sources/0211-under-construction-the-gendering-of-modernity-class-and-consumption-in-the-repub.fa.md) (2002)

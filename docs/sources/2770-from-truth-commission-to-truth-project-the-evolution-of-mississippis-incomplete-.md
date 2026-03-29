@@ -6,7 +6,7 @@
 | **Year** | 2022 |
 | **Category** | Transitional justice |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1093/ijtj/ijac017](https://doi.org/10.1093/ijtj/ijac017) |

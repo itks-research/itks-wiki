@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Abu S. Abdullah |
 | **Year** | 2004 |
-| **Category** | Transitional justice |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 213 |
 | **Source** | openalex |
 | **DOI** | [10.1136/thx.2003.018820](https://doi.org/10.1136/thx.2003.018820) |

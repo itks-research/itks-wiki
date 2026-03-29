@@ -6,7 +6,7 @@
 | **Year** | 2011 |
 | **Category** | Electoral system design and implementation |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 601 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://hdl.handle.net/1721.1/123460) |

@@ -5,8 +5,8 @@
 | نویسندگان | Matthew R. Mazloff, Patrick Heimbach, Carl Wunsch |
 |---|---|
 | **سال** | 2010 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 512 |
 | **شناسه دیجیتال** | [10.1175/2009jpo4236.1](https://doi.org/10.1175/2009jpo4236.1) |

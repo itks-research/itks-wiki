@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | Amy Novak |
 | **Year** | 2007 |
-| **Category** | Transitional justice |
+| **Category** | Women's rights codification and gender equality |
+| **Secondary Categories** | Transitional justice |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 4 |
 | **Source** | openalex |
 | **DOI** | [10.3200/crit.48.3.295-317](https://doi.org/10.3200/crit.48.3.295-317) |

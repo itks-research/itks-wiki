@@ -5,8 +5,8 @@
 | نویسندگان | Scott Eastman, Natalia Sobrevilla Perea, Gregorio Alonso, Roberto Breña, Jordana Dym |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 8 |
 

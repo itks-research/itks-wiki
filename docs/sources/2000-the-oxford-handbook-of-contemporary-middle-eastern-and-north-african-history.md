@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Asher Susser |
 | **Year** | 2021 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 44 |
 | **Source** | openalex |
 | **DOI** | [10.5325/bustan.12.2.0195](https://doi.org/10.5325/bustan.12.2.0195) |

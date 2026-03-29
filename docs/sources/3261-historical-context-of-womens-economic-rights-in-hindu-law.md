@@ -6,7 +6,7 @@
 | **Year** | 2025 |
 | **Category** | Women's rights codification and gender equality |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.36948/ijfmr.2025.v07i02.36783](https://doi.org/10.36948/ijfmr.2025.v07i02.36783) |

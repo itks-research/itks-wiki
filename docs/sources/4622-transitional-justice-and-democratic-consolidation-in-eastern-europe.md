@@ -6,7 +6,7 @@
 | **Year** | 2012 |
 | **Category** | Transitional justice |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 1 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://escholarship.org/uc/item/0kk5v4dj) |

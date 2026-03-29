@@ -5,8 +5,8 @@
 | نویسندگان | Nicolas Chenouard, Ihor Smal, Fabrice de Chaumont, Martin Maška, Ivo F. Sbalzarini, Yuanhao Gong, Janick Cardinale, Craig Carthel, Stefano Coraluppi, Mark Winter, Andrew R. Cohen, William J. Godinez, Karl Rohr, Yannis Kalaidzidis, Liang Liang, James S. Duncan, Hongying Shen, Yingke Xu, Klas E. G. Magnusson, Joakim Jaldén, Helen M. Blau, Perrine Paul‐Gilloteaux, Philippe Roudot, Charles Kervrann, François Waharte, Jean-Yves Tinévez, Spencer Shorte, Joost Willemse, Katherine Celler, Gilles P. van Wezel, Han-Wei Dan, Yuh‐Show Tsai, Carlos Ortíz-de-Solórzano, Jean‐Christophe Olivo‐Marín, Erik Meijering |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 908 |
 | **شناسه دیجیتال** | [10.1038/nmeth.2808](https://doi.org/10.1038/nmeth.2808) |

@@ -5,8 +5,8 @@
 | نویسندگان | R. Rijanta, Hafidz Wibisono, E. Saputra, Azis Musthofa, Maulidia Savira Chairani, M. Aditya, Shafa Widad Safina, A. Susanti, R. Kumalawati, P. W. Budiman, Rahmat Aris Pratomo, J. T. Raharjo |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.18280/ijsdp.200834](https://doi.org/10.18280/ijsdp.200834) |

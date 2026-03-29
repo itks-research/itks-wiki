@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Benjamin Keen |
 | **Year** | 1988 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 72 |
 | **Source** | openalex |
 

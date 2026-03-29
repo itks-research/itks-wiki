@@ -5,8 +5,8 @@
 | نویسندگان | Peter Potapov, Svetlana Turubanova, Matthew C. Hansen, Alexandra Tyukavina, Viviana Zalles, Ahmad Khan, Xiao‐Peng Song, Amy Pickens, Quan Shen, Jocelyn Alejandra Cortez-Núñez |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 947 |
 | **شناسه دیجیتال** | [10.1038/s43016-021-00429-z](https://doi.org/10.1038/s43016-021-00429-z) |

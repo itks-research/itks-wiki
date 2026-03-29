@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Soumi Dutta, Bramha Gupta, Suneel Kumar Srivastava, Ashok Kumar Gupta |
 | **Year** | 2021 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Resource curse management |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1103 |
 | **Source** | openalex |
 | **DOI** | [10.1039/d1ma00354b](https://doi.org/10.1039/d1ma00354b) |

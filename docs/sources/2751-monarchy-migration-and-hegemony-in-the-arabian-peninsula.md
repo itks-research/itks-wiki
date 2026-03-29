@@ -6,7 +6,7 @@
 | **Year** | 2010 |
 | **Category** | Transitional justice |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 72 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://eprints.lse.ac.uk/32556/1/Monarchy%2C_migration_and_hegemony_%28working_paper%29.pdf) |

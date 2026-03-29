@@ -5,8 +5,8 @@
 | نویسندگان | Sonia Livingstone, Leslie Haddon, Anke Görzig, Kjartan Ólafsson |
 |---|---|
 | **سال** | 2011 |
-| **دسته‌بندی** | Internet and digital infrastructure as civic space |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | اینترنت و زیرساخت دیجیتال به‌عنوان فضای مدنی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 637 |
 

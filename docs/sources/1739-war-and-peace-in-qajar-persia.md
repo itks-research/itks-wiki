@@ -5,8 +5,9 @@
 | **Authors** | Unknown |
 | **Year** | 2008 |
 | **Category** | Civil-military relations and security sector reform |
+| **Secondary Categories** | Power-sharing mechanisms during transition periods |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 65 |
 | **Source** | openalex |
 | **DOI** | [10.4324/9780203938300](https://doi.org/10.4324/9780203938300) |

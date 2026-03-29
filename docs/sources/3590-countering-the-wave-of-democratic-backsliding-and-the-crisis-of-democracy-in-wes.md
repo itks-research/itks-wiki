@@ -6,7 +6,7 @@
 | **Year** | 2025 |
 | **Category** | Bonyad system reform |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 4 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1177/09750878241312188](https://doi.org/10.1177/09750878241312188) |

@@ -5,8 +5,8 @@
 | نویسندگان | Tomislav Hengl, Jorge Mendes de Jesus, R.A. MacMillan, N.H. Batjes, G.B.M. Heuvelink, Eloi Ribeiro, Alessandro Samuel‐Rosa, Bas Kempen, J.G.B. Leenaars, Markus Walsh, M. Ruiperez González |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Political party formation and pluralism |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | شکل‌گیری احزاب سیاسی و تکثرگرایی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1276 |
 | **شناسه دیجیتال** | [10.1371/journal.pone.0105992](https://doi.org/10.1371/journal.pone.0105992) |

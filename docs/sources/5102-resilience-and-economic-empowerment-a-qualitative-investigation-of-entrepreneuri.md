@@ -6,7 +6,7 @@
 | **Year** | 2013 |
 | **Category** | Women's rights codification and gender equality |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 63 |
 | **Source** | openalex |
 | **DOI** | [10.1142/s0218495813500052](https://doi.org/10.1142/s0218495813500052) |

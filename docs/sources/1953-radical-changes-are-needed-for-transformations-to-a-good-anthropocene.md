@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Timon McPhearson, Christopher M. Raymond, Natalie Marie Gulsrud, Christian Albert, Neil Coles, Nora Fagerholm, Michiru Nagatsu, Anton Stahl Olafsson, Niko Soininen, Kati Vierikko |
 | **Year** | 2021 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Resource curse management |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 227 |
 | **Source** | openalex |
 | **DOI** | [10.1038/s42949-021-00017-x](https://doi.org/10.1038/s42949-021-00017-x) |

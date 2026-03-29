@@ -6,7 +6,7 @@
 | **Year** | 2024 |
 | **Category** | Privatization and state-owned enterprise restructuring |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.21029/jael.2024.37.227](https://doi.org/10.21029/jael.2024.37.227) |

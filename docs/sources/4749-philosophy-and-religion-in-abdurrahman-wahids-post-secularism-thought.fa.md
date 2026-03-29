@@ -5,8 +5,8 @@
 | نویسندگان | Kholid Al Walid, Mohsen Miri, Nurul Ain Norman |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.21043/fikrah.v13i1.28842](https://doi.org/10.21043/fikrah.v13i1.28842) |

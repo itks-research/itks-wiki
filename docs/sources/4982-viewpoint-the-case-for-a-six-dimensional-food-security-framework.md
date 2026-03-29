@@ -6,7 +6,7 @@
 | **Year** | 2021 |
 | **Category** | Women's rights codification and gender equality |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 431 |
 | **Source** | openalex |
 | **DOI** | [10.1016/j.foodpol.2021.102164](https://doi.org/10.1016/j.foodpol.2021.102164) |

@@ -6,7 +6,7 @@
 | **Year** | 2023 |
 | **Category** | Minority rights |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 8 |
 | **Source** | openalex |
 | **DOI** | [10.13169/statecrime.12.1.0029](https://doi.org/10.13169/statecrime.12.1.0029) |

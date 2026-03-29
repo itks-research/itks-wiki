@@ -6,7 +6,7 @@
 | **Year** | 2003 |
 | **Category** | Sanctions unwinding and international reintegration |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 45 |
 | **Source** | openalex |
 | **DOI** | [10.1177/0486613403254535](https://doi.org/10.1177/0486613403254535) |

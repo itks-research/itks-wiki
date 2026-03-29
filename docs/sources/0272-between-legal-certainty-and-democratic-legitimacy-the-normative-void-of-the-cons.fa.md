@@ -5,8 +5,8 @@
 | نویسندگان | I. Setiawan, Muchammad Daing Azimattara |
 |---|---|
 | **سال** | 2026 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.25041/constitutionale.v6i2.4647](https://doi.org/10.25041/constitutionale.v6i2.4647) |

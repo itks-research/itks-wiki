@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | J. Ríos, L. Villarroel, Marisa Torres, Juan Pablo Astaburuaga, Cinthya Leiva, Paz Cook, P. Medel, Sandra Cortés |
 | **Year** | 2020 |
-| **Category** | Transitional justice |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 5 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.4067/s0034-98872020000600746](https://doi.org/10.4067/s0034-98872020000600746) |

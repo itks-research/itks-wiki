@@ -5,8 +5,8 @@
 | نویسندگان | M. Villaplana Perez, S. González de la Hoz, Álvaro Fernández Casaní, J. Salt, Alejandro Lamas, F. Fassi, M. Kaci, Eduardo Oliver, J. Sánchez, Vanessa Sánchez‐Martínez |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | Banking and financial system reform |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | اصلاح نظام بانکی و مالی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.1088/1742-6596/396/4/042062](https://doi.org/10.1088/1742-6596/396/4/042062) |

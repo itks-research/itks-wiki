@@ -5,8 +5,9 @@
 | **Authors** | Athar Shafaei, K. Block |
 | **Year** | 2022 |
 | **Category** | Sanctions unwinding and international reintegration |
+| **Secondary Categories** | Labor market reform and social safety nets |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 5 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1080/15562948.2022.2025636](https://doi.org/10.1080/15562948.2022.2025636) |

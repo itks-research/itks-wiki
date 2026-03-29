@@ -5,8 +5,8 @@
 | نویسندگان | Z. Fernando, Firdaus Arifin, Muhamad Adystia Sunggara, Arini Azka Muthia |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.18196/jmh.v32i2.27575](https://doi.org/10.18196/jmh.v32i2.27575) |

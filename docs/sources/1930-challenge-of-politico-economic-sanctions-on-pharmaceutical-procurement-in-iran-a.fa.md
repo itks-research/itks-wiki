@@ -5,8 +5,8 @@
 | نویسندگان | Peivand Bastani, Zahra Dehghan, Seyyed Mansour Kashfi, Hesam Dorosti, Mohammadtagi Mohammadpour, Gholamhossein Mehralian |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Sanctions unwinding and international reintegration |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | رفع تحریم‌ها و بازادغام بین‌المللی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 19 |
 | **شناسه دیجیتال** | [10.30476/ijms.2021.89901.2078](https://doi.org/10.30476/ijms.2021.89901.2078) |

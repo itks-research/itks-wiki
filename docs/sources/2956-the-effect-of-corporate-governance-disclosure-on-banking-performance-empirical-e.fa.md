@@ -5,8 +5,8 @@
 | نویسندگان | Khanifah Khanifah, P. Hardiningsih, Asri Darmaryantiko, Iryantika Iryantik, Udin Udin |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Banking and financial system reform |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام بانکی و مالی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 50 |
 | **شناسه دیجیتال** | [10.13106/jafeb.2020.vol7.no3.41](https://doi.org/10.13106/jafeb.2020.vol7.no3.41) |

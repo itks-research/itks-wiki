@@ -5,8 +5,8 @@
 | نویسندگان | Martin Mascher, Heidrun Gundlach, Axel Himmelbach, Sebastian Beier, Sven Twardziok, Thomas Wicker, Volodymyr Radchuk, Christoph Dockter, Pete E. Hedley, Joanne Russell, Micha Bayer, Luke Ramsay, Hui Liu, Georg Haberer, Xiao‐Qi Zhang, Qisen Zhang, Roberto A. Barrero, Li Lin, Stefan Taudien, Marco Groth, Marius Felder, Alex Hastie, Hana Šimková, Helena Staňková, Jan Vrána, Saki Chan, María Muñoz‐Amatriaín, Rachid Ounit, Steve Wanamaker, Dan Bolser, Christian Colmsee, Thomas Schmutzer, Lala Aliyeva‐Schnorr, Stefano Grasso, Jaakko Tanskanen, Anna Chailyan, Dharanya Sampath, Darren Heavens, Leah Clissold, Sujie Cao, Brett Chapman, Fei Dai, Yong Nam Han, Hua Li, Xuan Li, Chongyun Lin, John K. McCooke, Cong Tan, Penghao Wang, Songbo Wang, Shuya Yin, Gaofeng Zhou, Jesse Poland, M. Bellgard, Ljudmilla Borisjuk, Andreas Houben, Jaroslav Doležel, Sarah Ayling, Stefano Lonardi, Paul Kersey, Peter Langridge, Gary J. Muehlbauer, Matthew D. Clark, Mario Cáccamo, Alan H. Schulman, Klaus Mayer, Matthias Platzer, Timothy J. Close, Uwe Scholz, Mats Hansson, Guoping Zhang, Ilka Braumann, M. Spannagl, Chengdao Li, Robbie Waugh, Nils Stein |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Political party formation and pluralism |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | شکل‌گیری احزاب سیاسی و تکثرگرایی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1541 |
 | **شناسه دیجیتال** | [10.1038/nature22043](https://doi.org/10.1038/nature22043) |

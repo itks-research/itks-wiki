@@ -5,8 +5,8 @@
 | نویسندگان | Guy De Backer, Joep Perk, David Wood, Stephan Gielen, Antonio Pelliccia, Diederick E. Grobbee, Paul Dendale, Hugo Saner |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.1093/eurjpc/zwac027](https://doi.org/10.1093/eurjpc/zwac027) |

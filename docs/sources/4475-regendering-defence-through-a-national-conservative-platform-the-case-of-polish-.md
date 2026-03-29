@@ -6,7 +6,7 @@
 | **Year** | 2021 |
 | **Category** | Civil society development |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 7 |
 | **Source** | openalex |
 | **DOI** | [10.1080/23337486.2021.1977888](https://doi.org/10.1080/23337486.2021.1977888) |

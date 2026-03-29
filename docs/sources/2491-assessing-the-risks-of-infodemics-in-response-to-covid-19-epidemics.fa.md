@@ -5,8 +5,8 @@
 | نویسندگان | Riccardo Gallotti, Francesco Valle, Nicola Castaldo, Pier Luigi Sacco, Manlio De Domenico |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 526 |
 | **شناسه دیجیتال** | [10.1038/s41562-020-00994-6](https://doi.org/10.1038/s41562-020-00994-6) |

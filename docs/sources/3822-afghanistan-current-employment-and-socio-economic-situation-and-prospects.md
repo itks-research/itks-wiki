@@ -6,7 +6,7 @@
 | **Year** | 2000 |
 | **Category** | Diaspora repatriation and reintegration |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 40 |
 | **Source** | openalex |
 | **DOI** | [10.2458/azu_acku_pamphlet_hn670_6_a8_p35_2002](https://doi.org/10.2458/azu_acku_pamphlet_hn670_6_a8_p35_2002) |

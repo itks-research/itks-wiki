@@ -5,8 +5,8 @@
 | نویسندگان | Dwi Saleha, Djuhrijjani Djuhrijjani, Reni Awaliyah, Wahyul Furqon, Eko Sudarmanto |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Minority rights |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | حقوق اقلیت‌ها |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.58812/eslhr.v4i01.778](https://doi.org/10.58812/eslhr.v4i01.778) |

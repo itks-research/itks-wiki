@@ -5,8 +5,8 @@
 | نویسندگان | Guangfan Sun, Changwei Guo, Junchen Ye, Chaoran Ji, Nuo Xu, Hanqi Li |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | خصوصی‌سازی و بازسازی شرکت‌های دولتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 32 |
 | **شناسه دیجیتال** | [10.3390/su142315993](https://doi.org/10.3390/su142315993) |

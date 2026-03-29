@@ -5,8 +5,8 @@
 | نویسندگان | Xinnong Zhang, Jiayu Lin, Libo Sun, Weihong Qi, Yihang Yang, Yue Chen, Hanjia Lyu, Xinyi Mou, Siming Chen, Jiebo Luo, Xuanjing Huang, Shiping Tang, Zhongyu Wei |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 36 |
 | **شناسه دیجیتال** | [10.48550/arXiv.2410.20746](https://doi.org/10.48550/arXiv.2410.20746) |

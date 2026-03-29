@@ -6,7 +6,7 @@
 | **Year** | 1998 |
 | **Category** | Judicial independence and rule of law |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 31 |
 | **Source** | openalex |
 

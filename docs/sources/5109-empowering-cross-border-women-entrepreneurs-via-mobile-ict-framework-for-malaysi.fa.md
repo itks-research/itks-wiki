@@ -5,8 +5,8 @@
 | نویسندگان | Dewi Sad Tanti, Robert Jeyakumar Nathan, Ponco Budi Sulistyo, Soekmawati Soekmawati, Farah Hanim, Viviantie Sarjuni |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 12 |
 | **شناسه دیجیتال** | [10.24200/jonus.vol6iss2pp340-357](https://doi.org/10.24200/jonus.vol6iss2pp340-357) |

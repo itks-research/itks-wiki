@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Kenneth D. Bush, Diana Saltarelli |
 | **Year** | 2000 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 536 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://eprints.whiterose.ac.uk/80473/1/Bush_2000_Two_Faces_of_Education_.pdf) |

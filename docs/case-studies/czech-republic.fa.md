@@ -4,7 +4,7 @@
 
 **246 منبع** در 19 دسته‌بندی
 
-## Banking and financial system reform
+## اصلاح نظام بانکی و مالی
 *10 منبع*
 
 - [Financial Integration and Firm Performance: Evidence from Foreign Bank Entry in Emerging Markets](../sources/1196-financial-integration-and-firm-performance-evidence-from-foreign-bank-entry-in-e.fa.md) (2007)
@@ -18,24 +18,24 @@
 - [An Analysis of Bank Fee and Commission Income in the EU and in the Czech Republic in a Low Interest Rate Environment](../sources/0921-an-analysis-of-bank-fee-and-commission-income-in-the-eu-and-in-the-czech-republi.fa.md) (2020)
 - [Comparison of Urban and Suburban Rail Transport in Germany and in the Czech Republic](../sources/1249-comparison-of-urban-and-suburban-rail-transport-in-germany-and-in-the-czech-repu.fa.md) (2014)
 
-## Civil society development
+## توسعه جامعه مدنی
 *3 منبع*
 
 - [Government–nonprofit partnership: a defining framework](../sources/0835-governmentnonprofit-partnership-a-defining-framework.fa.md) (2002)
 - [Correlates of Co-production: Evidence From a Five-Nation Survey of Citizens](../sources/0964-correlates-of-co-production-evidence-from-a-five-nation-survey-of-citizens.fa.md) (2013)
 - [From Grassroots Humanitarianism to Mutual Aid: Citizen Responses in Poland and the Czech Republic to Russia’s War in Ukraine](../sources/0872-from-grassroots-humanitarianism-to-mutual-aid-citizen-responses-in-poland-and-th.fa.md) (2025)
 
-## Civil-military relations and security sector reform
+## روابط نظامی-غیرنظامی و اصلاح بخش امنیتی
 *1 منبع*
 
 - [Alternative (non-military) service in Ukraine and the Czech Republic: а сomparative study](../sources/0914-alternative-non-military-service-in-ukraine-and-the-czech-republic-а-сomparative.fa.md) (2025)
 
-## Constitutional design and drafting processes
+## طراحی و تدوین قانون اساسی
 *1 منبع*
 
 - [Czech Republic 2006–2008: On President, Judges and the Lisbon Treaty](../sources/0864-czech-republic-20062008-on-president-judges-and-the-lisbon-treaty.fa.md) (2010)
 
-## Cultural heritage preservation during institutional change
+## حفظ میراث فرهنگی در دوره تحولات نهادی
 *12 منبع*
 
 - [Mnemonic Model of Czech Reception of Soviet Heritage in the Post-Communist Era](../sources/0863-mnemonic-model-of-czech-reception-of-soviet-heritage-in-the-post-communist-era.fa.md) (2025)
@@ -51,13 +51,13 @@
 - [Basidiolichen Multiclavula corynoides new to the Czech Republic and a remarkable occurrence of Multiclavula mucida on soil.](../sources/0874-basidiolichen-multiclavula-corynoides-new-to-the-czech-republic-and-a-remarkable.fa.md) (2025)
 - [Stereoid genus Heteroradulum (Basidiomycota, Auriculariales) in the Czech Republic.](../sources/0875-stereoid-genus-heteroradulum-basidiomycota-auriculariales-in-the-czech-republic.fa.md) (2025)
 
-## Education system reform and curriculum modernization
+## اصلاح نظام آموزشی و نوسازی برنامه درسی
 *2 منبع*
 
 - [Learning in rural schools](../sources/0982-learning-in-rural-schools.fa.md) (2019)
 - [Adjustment Issues of International Students in the Czech Republic: Prevailing Social Conditions and Financial Challenges](../sources/0876-adjustment-issues-of-international-students-in-the-czech-republic-prevailing-soc.fa.md) (2025)
 
-## Electoral system design and implementation
+## طراحی و اجرای نظام انتخاباتی
 *6 منبع*
 
 - [DEMOCRACY IN REFORMING COLLAPSED COMMUNIST ECONOMIES: BLESSING OR CURSE?](../sources/1247-democracy-in-reforming-collapsed-communist-economies-blessing-or-curse.fa.md) (1998)
@@ -67,18 +67,18 @@
 - [Organization of General Elections during a Pandemic. A Comparative Analysis of Poland and the Czech Republic](../sources/0929-organization-of-general-elections-during-a-pandemic-a-comparative-analysis-of-po.fa.md) (2023)
 - [On the organization of the activities of the fire and rescue services of the Czech Republic](../sources/0947-on-the-organization-of-the-activities-of-the-fire-and-rescue-services-of-the-cze.fa.md) (2022)
 
-## Federalism, unitarism, and autonomy models
+## فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری
 *2 منبع*
 
 - [Decentralization of the socialist state](../sources/1248-decentralization-of-the-socialist-state.fa.md) (1995)
 - [The role of the federal government in internalizing the 2030 Agenda - Brazil and the Czech Republic](../sources/0920-the-role-of-the-federal-government-in-internalizing-the-2030-agenda---brazil-and.fa.md) (2024)
 
-## Internet and digital infrastructure as civic space
+## اینترنت و زیرساخت دیجیتال به‌عنوان فضای مدنی
 *1 منبع*
 
 - [Risks and safety on the internet: the perspective of European children: full findings and policy implications from the EU Kids Online survey of 9-16 year olds and their parents in 25 countries](../sources/0956-risks-and-safety-on-the-internet-the-perspective-of-european-children-full-findi.fa.md) (2011)
 
-## Judicial independence and rule of law
+## استقلال قضایی و حاکمیت قانون
 *4 منبع*
 
 - [The Rule of Law in Central Europe: The Reconstruction of Legality, Constitutionalism and Civil Society in the Post-Communist Countries](../sources/0892-the-rule-of-law-in-central-europe-the-reconstruction-of-legality-constitutionali.fa.md) (2019)
@@ -86,7 +86,7 @@
 - [Security Council Deliberations: The Power of the Better Argument](../sources/1207-security-council-deliberations-the-power-of-the-better-argument.fa.md) (2003)
 - [Jurisdiction of the Court in Pre-Trial Proceedings in the Czech Republic](../sources/0928-jurisdiction-of-the-court-in-pre-trial-proceedings-in-the-czech-republic.fa.md) (2023)
 
-## Labor market reform and social safety nets
+## اصلاح بازار کار و شبکه‌های حمایت اجتماعی
 *34 منبع*
 
 - [The Demographic Dividend: A New Perspective on the Economic Consequences of Population Change](../sources/0843-the-demographic-dividend-a-new-perspective-on-the-economic-consequences-of-popul.fa.md) (2003)
@@ -124,7 +124,7 @@
 - [Global, regional and national sodium intakes in 1990 and 2010: a systematic analysis of 24 h urinary sodium excretion and dietary surveys worldwide](../sources/0958-global-regional-and-national-sodium-intakes-in-1990-and-2010-a-systematic-analys.fa.md) (2013)
 - [Mycobacterial infections in cattle and pigs caused by Mycobacterium avium complex members and atypical mycobacteria in the Czech Republic during 2000-2004](../sources/0941-mycobacterial-infections-in-cattle-and-pigs-caused-by-mycobacterium-avium-comple.fa.md) (2018)
 
-## Media freedom and press institution building
+## آزادی رسانه و نهادسازی مطبوعاتی
 *5 منبع*
 
 - [Media and Participation: A site of ideological-democratic struggle](../sources/0845-media-and-participation-a-site-of-ideological-democratic-struggle.fa.md) (2011)
@@ -133,7 +133,7 @@
 - [Rights of Access To the Media](../sources/0906-rights-of-access-to-the-media.fa.md) (1995)
 - [Annual Research Review: Harms experienced by child users of online and mobile technologies: the nature, prevalence and management of sexual and aggressive risks in the digital age](../sources/0853-annual-research-review-harms-experienced-by-child-users-of-online-and-mobile-tec.fa.md) (2014)
 
-## Political party formation and pluralism
+## شکل‌گیری احزاب سیاسی و تکثرگرایی
 *8 منبع*
 
 - [Marketing Democracy: Changing Opinion about Inequality and Politics in East Central Europe](../sources/0822-marketing-democracy-changing-opinion-about-inequality-and-politics-in-east-centr.fa.md) (2002)
@@ -145,7 +145,7 @@
 - [Assessing Socialist Past and Sociodemographic Present](../sources/0865-assessing-socialist-past-and-sociodemographic-present.fa.md) (2024)
 - [The Czech Republic: Human Rights Defender, Yet No R2P Champion](../sources/0918-the-czech-republic-human-rights-defender-yet-no-r2p-champion.fa.md) (2024)
 
-## Privatization and state-owned enterprise restructuring
+## خصوصی‌سازی و بازسازی شرکت‌های دولتی
 *32 منبع*
 
 - [Creating a Market Economy in Eastern Europe: The Case of Poland](../sources/1007-creating-a-market-economy-in-eastern-europe-the-case-of-poland.fa.md) (1990)
@@ -181,7 +181,7 @@
 - [Management strategies in the Czech telecommunications sector: a comparative study of Český Telecom and T-Mobile](../sources/1259-management-strategies-in-the-czech-telecommunications-sector-a-comparative-study.fa.md) (2008)
 - [Vector Autoregressions](../sources/1269-vector-autoregressions.fa.md) (2001)
 
-## Resource curse management
+## مدیریت نفرین منابع طبیعی
 *11 منبع*
 
 - [Using Natural Resources for Development: Why Has It Proven So Difficult?](../sources/1200-using-natural-resources-for-development-why-has-it-proven-so-difficult.fa.md) (2016)
@@ -196,7 +196,7 @@
 - [A review of mineral associations and paragenetic groups of secondary minerals of the Jachymov (Joachimsthal) ore district](../sources/0905-a-review-of-mineral-associations-and-paragenetic-groups-of-secondary-minerals-of.fa.md) (1997)
 - [Radvaniceite, GeS2, a New Germanium Sulphide, from the Kateřina Mine, Radvanice near Trutnov, Czech Republic](../sources/0943-radvaniceite-ges2-a-new-germanium-sulphide-from-the-kateřina-mine-radvanice-near.fa.md) (2022)
 
-## Sanctions unwinding and international reintegration
+## رفع تحریم‌ها و بازادغام بین‌المللی
 *4 منبع*
 
 - [EU Refugee Policies and Politics in Times of Crisis: Theoretical and Empirical Perspectives](../sources/0855-eu-refugee-policies-and-politics-in-times-of-crisis-theoretical-and-empirical-pe.fa.md) (2017)
@@ -204,7 +204,7 @@
 - [The EU Water Framework Directive: From great expectations to problems with implementation](../sources/0838-the-eu-water-framework-directive-from-great-expectations-to-problems-with-implem.fa.md) (2016)
 - [Evaluation of the application of the Czech Republic to be recognised as having a negligible risk of classical scrapie](../sources/0926-evaluation-of-the-application-of-the-czech-republic-to-be-recognised-as-having-a.fa.md) (2023)
 
-## Trade liberalization and foreign direct investment
+## آزادسازی تجارت و سرمایه‌گذاری خارجی
 *19 منبع*
 
 - [Does Foreign Direct Investment Increase the Productivity of Domestic Firms? In Search of Spillovers through Backward Linkages](../sources/1229-does-foreign-direct-investment-increase-the-productivity-of-domestic-firms-in-se.fa.md) (2002)
@@ -227,7 +227,7 @@
 - [The EU factor in the trade policies of Central European countries](../sources/1255-the-eu-factor-in-the-trade-policies-of-central-european-countries.fa.md) (1999)
 - [Evaluating the Effects of the EU Common Agriculture Policy in a New Member State: The Case of the Czech Republic](../sources/1254-evaluating-the-effects-of-the-eu-common-agriculture-policy-in-a-new-member-state.fa.md) (2009)
 
-## Transitional justice
+## عدالت انتقالی
 *89 منبع*
 
 - [Energy decisions reframed as justice and ethical concerns](../sources/0834-energy-decisions-reframed-as-justice-and-ethical-concerns.fa.md) (2016)
@@ -320,7 +320,7 @@
 - [First report of grapevine Flavescence dorée phytoplasma in the Czech Republic.](../sources/0924-first-report-of-grapevine-flavescence-dorée-phytoplasma-in-the-czech-republic.fa.md) (2023)
 - [Kvačekite, NiSbSe, a new selenide mineral from Bukov, Czech Republic](../sources/0931-kvačekite-nisbse-a-new-selenide-mineral-from-bukov-czech-republic.fa.md) (2024)
 
-## Women's rights codification and gender equality
+## تدوین حقوق زنان و برابری جنسیتی
 *2 منبع*
 
 - [Gender, Politics and Institutions: Towards a Feminist Institutionalism](../sources/0819-gender-politics-and-institutions-towards-a-feminist-institutionalism.fa.md) (2011)

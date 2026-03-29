@@ -6,7 +6,7 @@
 | **Year** | 2024 |
 | **Category** | Electoral system design and implementation |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.54648/eelr2024021](https://doi.org/10.54648/eelr2024021) |

@@ -5,8 +5,8 @@
 | نویسندگان | T.Lagnai, L.Naranchimeg, M.Erdenebat, B.Khurelbaatar |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | خصوصی‌سازی و بازسازی شرکت‌های دولتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.51505/ijebmr.2024.8406](https://doi.org/10.51505/ijebmr.2024.8406) |

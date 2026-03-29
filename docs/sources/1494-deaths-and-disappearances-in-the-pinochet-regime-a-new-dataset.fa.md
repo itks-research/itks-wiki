@@ -5,8 +5,8 @@
 | نویسندگان | Danilo Freire, David Skarbek, John Meadowcroft, Eugenia Guerrero |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Chile |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | شیلی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 5 |
 | **شناسه دیجیتال** | [10.31235/osf.io/vqnwu](https://doi.org/10.31235/osf.io/vqnwu) |

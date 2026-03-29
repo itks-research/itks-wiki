@@ -6,7 +6,7 @@
 | **Year** | 2024 |
 | **Category** | Brain-drain reversal and diaspora economic engagement |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 13 |
 | **Source** | openalex |
 | **DOI** | [10.1111/gwao.13145](https://doi.org/10.1111/gwao.13145) |

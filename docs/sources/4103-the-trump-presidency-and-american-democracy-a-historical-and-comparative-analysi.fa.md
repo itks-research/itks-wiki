@@ -5,8 +5,8 @@
 | نویسندگان | Robert C. Lieberman, Suzanne Mettler, Thomas B. Pepinsky, Kenneth M. Roberts, Richard M. Valelly |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 138 |
 | **شناسه دیجیتال** | [10.1017/s1537592718003286](https://doi.org/10.1017/s1537592718003286) |

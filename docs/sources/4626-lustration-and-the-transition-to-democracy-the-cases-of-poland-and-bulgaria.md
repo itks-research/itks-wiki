@@ -6,7 +6,7 @@
 | **Year** | 1994 |
 | **Category** | Transitional justice |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 34 |
 | **Source** | openalex |
 

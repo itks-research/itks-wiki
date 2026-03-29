@@ -5,8 +5,8 @@
 | نویسندگان | Adam Wagstaff, Gabriela Flores, Justine Hsu, Marc‐François Smitz, Kateryna Chepynoga, Leander R. Buisman, Kim van Wilgenburg, Patrick Eozenou |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Labor market reform and social safety nets |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | اصلاح بازار کار و شبکه‌های حمایت اجتماعی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 977 |
 | **شناسه دیجیتال** | [10.1016/s2214-109x(17)30429-1](https://doi.org/10.1016/s2214-109x(17)30429-1) |

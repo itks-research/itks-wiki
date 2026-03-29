@@ -6,7 +6,7 @@
 | **Year** | 2019 |
 | **Category** | Federalism, unitarism, and autonomy models |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 1 |
 | **Source** | openalex |
 | **DOI** | [10.22054/ijer.2019.10888](https://doi.org/10.22054/ijer.2019.10888) |
@@ -15,3 +15,25 @@
 ## Abstract
 
 From a financial perspective, decentralization is a transfer of resources from the central government to local governments. Fiscal decentralization policies can lead to more FDI attraction by increasing the share of provincial government funding to local infrastructure.Accordingly, the major purpose of this study is to evaluate the long run and short run impact of fiscal decentralization on FDI in Iran during the period 1992-2014. For this purpose the three indicators of fiscal decentralization of revenue, fiscal decentralization of expenditures, fiscal decentralization of autonomy power and also some control variables including inflation, exchange rate fluctuations, and degree of trade openness have been used.In order to estimate the model, the Johansen-Juselius method and Vector Error Correction Model (VECM) have been applied. Based on the results of the model, all three fiscal decentralization indicators increase FDI in the long run and in the short run. Therefore, providing the necessary conditions for the expansion of fiscal decentralization can help to promote the FDI level in Iran.Also, both in the long run and the short run, inflation and exchange rate fluctuations have a negative effect, and the degree of trade openness has a positive effect on FDI.
+
+## Related Sources
+
+- **supports** [Analytical Study on Necessity of Decentralization of Higher Education (Iran–Tehran 2013)](2854-analytical-study-on-necessity-of-decentralization-of-higher-education-irantehran.md)
+- **contradicts** [Azerbaijan: ethnicity and autonomy in twentieth-century Iran](2869-azerbaijan-ethnicity-and-autonomy-in-twentieth-century-iran.md)
+- **contradicts** [The Rentier State, Interest Groups, and the Paradox of Autonomy: State and Business in Turkey and Iran](2873-the-rentier-state-interest-groups-and-the-paradox-of-autonomy-state-and-business.md)
+- **shared_methodology** [Administration of the Persian achaemenid world-state empire: implications for modern public administration](2865-administration-of-the-persian-achaemenid-world-state-empire-implications-for-mod.md)
+- **contradicts** [The Political Economy of Fiscal Decentralization under the Islamic Republic of Iran](2841-the-political-economy-of-fiscal-decentralization-under-the-islamic-republic-of-i.md)
+- **shared_methodology** [European Strategic Autonomy: The Test Case of Iran](2913-european-strategic-autonomy-the-test-case-of-iran.md)
+- **contradicts** [Decentralization, Ideology, and Law in the Islamic Republic of Iran](2853-decentralization-ideology-and-law-in-the-islamic-republic-of-iran.md)
+- **supports** [Opening the Black Box: The Experiences and Lessons From the Public Hospitals Autonomy Policy in Iran.](2878-opening-the-black-box-the-experiences-and-lessons-from-the-public-hospitals-auto.md)
+- **supports** [Investigating the Impacts of the Political System Components in Iran on the Existing Water Bankruptcy](2862-investigating-the-impacts-of-the-political-system-components-in-iran-on-the-exis.md)
+- **contradicts** [A scoping review of public hospitals autonomy in Iran: from budgetary hospitals to corporate hospitals](2884-a-scoping-review-of-public-hospitals-autonomy-in-iran-from-budgetary-hospitals-t.md)
+- **contradicts** [Issues on Ethnicity and Governance in Nigeria: A Universal Human Rights Perspective](2824-issues-on-ethnicity-and-governance-in-nigeria-a-universal-human-rights-perspecti.md)
+- **contradicts** [Review of Centralization and Decentralization Approaches to Curriculum Development in Iran](2838-review-of-centralization-and-decentralization-approaches-to-curriculum-developme.md)
+- **shared_methodology** [Women’s autonomy and reproductive behavior in Iran](2886-womens-autonomy-and-reproductive-behavior-in-iran.md)
+- **shared_methodology** [Contextual factors affecting autonomy for patients in Iranian hospitals: A qualitative study](2901-contextual-factors-affecting-autonomy-for-patients-in-iranian-hospitals-a-qualit.md)
+- **shared_methodology** [Barriers and facilitators of professional autonomy of clinical nurses in Iran: A qualitative study](2904-barriers-and-facilitators-of-professional-autonomy-of-clinical-nurses-in-iran-a-.md)
+- **contradicts** [Self-Determination, Multinational Federalism and an Emerging Threat in Ethiopia: A Decolonial Approach](2818-self-determination-multinational-federalism-and-an-emerging-threat-in-ethiopia-a.md)
+- **shared_methodology** [Fiscal Decentralization And Economic Growth: A Nonlinear Model For Provinces Of Iran](2840-fiscal-decentralization-and-economic-growth-a-nonlinear-model-for-provinces-of-i.md)
+- **supports** [Decentralization of Health System in Islamic Republic of Iran](2843-decentralization-of-health-system-in-islamic-republic-of-iran.md)
+- **contradicts** [Chronic Patients’ Autonomy in Iranian Hospitals: A Qualitative Study](2908-chronic-patients-autonomy-in-iranian-hospitals-a-qualitative-study.md)

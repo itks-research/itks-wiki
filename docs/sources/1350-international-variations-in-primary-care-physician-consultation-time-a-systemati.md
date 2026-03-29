@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Greg Irving, Ana Luísa Neves, Hajira Dambha‐Miller, Ai Oishi, Hiroko Tagashira, Anistasiya Verho, John Holden |
 | **Year** | 2017 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1086 |
 | **Source** | openalex |
 | **DOI** | [10.1136/bmjopen-2017-017902](https://doi.org/10.1136/bmjopen-2017-017902) |

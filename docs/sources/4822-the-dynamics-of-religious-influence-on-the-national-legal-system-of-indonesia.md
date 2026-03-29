@@ -6,7 +6,7 @@
 | **Year** | 2024 |
 | **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.23969/decision.v6i2.24342](https://doi.org/10.23969/decision.v6i2.24342) |

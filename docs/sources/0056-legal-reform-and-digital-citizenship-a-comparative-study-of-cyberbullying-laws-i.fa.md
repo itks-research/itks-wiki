@@ -5,8 +5,8 @@
 | نویسندگان | Aprilianata Aprilianata, Octavia Wulandari, Mike Meida Diningrum, Siska Yulia Putri, Rani Lestari, Stanislaus Jebarus, Maria Antoneta Karbeka, M. Murdiono |
 |---|---|
 | **سال** | 2026 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.12688/f1000research.174333.1](https://doi.org/10.12688/f1000research.174333.1) |

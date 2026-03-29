@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Eric W. Holman, Cecil H. Brown, Søren Wichmann, André Müller, Viveka Velupillai, Harald Hammarström, Sebastian Sauppe, Hagen Jung, Dik Bakker, Pamela Brown, Oleg Belyaev, Matthias Urban, Robert Mailhammer, Johann‐Mattis List, Dmitry Egorov |
 | **Year** | 2011 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 324 |
 | **Source** | openalex |
 | **DOI** | [10.1086/662127](https://doi.org/10.1086/662127) |

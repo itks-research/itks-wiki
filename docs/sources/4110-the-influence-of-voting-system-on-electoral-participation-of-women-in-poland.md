@@ -6,7 +6,7 @@
 | **Year** | 2013 |
 | **Category** | Electoral system design and implementation |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.2478/joim-2013-0012](https://doi.org/10.2478/joim-2013-0012) |

@@ -5,8 +5,8 @@
 | نویسندگان | M. Martínez-Sanguinetti, A. Leiva, F. Petermann-Rocha, C. Troncoso-Pantoja, Marcelo Villagrán, Fabián Lanuza-Rilling, G. Nazar, Felipe Poblete-valderrama, Ximena Díaz-Martínez, Carlos Celis-Morales |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Chile |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | شیلی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 12 |
 | **شناسه دیجیتال** | [10.4067/S0034-98872019000801013](https://doi.org/10.4067/S0034-98872019000801013) |

@@ -5,8 +5,8 @@
 | نویسندگان | Mohammad Mehrtak, Soudabeh Vatankhah, Bahram Delgoshaei, Gholipour Arian |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 21 |
 | **شناسه دیجیتال** | [10.5539/gjhs.v6n5p174](https://doi.org/10.5539/gjhs.v6n5p174) |

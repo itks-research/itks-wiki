@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Unknown |
 | **Year** | 2023 |
-| **Category** | Sanctions unwinding and international reintegration |
+| **Category** | Regional foreign policy reorientation |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 4 |
 | **Source** | openalex |
 | **DOI** | [10.55317/9781784135584](https://doi.org/10.55317/9781784135584) |
@@ -15,3 +15,7 @@
 ## Abstract
 
 Chatham House, the Royal Institute of International Affairs, is a world-leading policy institute based in London.Our mission is to help
+
+## Related Sources
+
+- **extends** [Energy Transition in the Middle East and North Africa Region: Regional Solutions for Climate Change Challenges Amid Economic Sanctions](3943-energy-transition-in-the-middle-east-and-north-africa-region-regional-solutions-.md)

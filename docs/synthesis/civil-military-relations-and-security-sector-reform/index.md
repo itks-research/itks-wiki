@@ -20,8 +20,8 @@ How transitions handle security forces with autonomous economic empires (not mer
 
 ## Sub-Articles in This Theme
 
-1. [**Military Economic Empires and Divestment**](military-economic-empires-and-divestment-challenges.md) — The IRGC's economic conglomerate compared with Indonesia's TNI, Egypt's SCAF, and Pakistan's Fauji Foundation
-2. [**Defense Ministry Civilianization**](defense-ministry-civilianization-south-koreas-incomplete-success.md) — South Korea's incomplete 30-year effort and lessons for restructuring Iran's defense institutions
-3. [**Coup-Proofing and Parallel Security Structures**](coup-proofing-and-parallel-security-structures.md) — How fragmented coercive architectures shape transition dynamics, from Arab Spring to Iran
-4. [**Crisis as Reform Catalyst: Spain's 23-F Lesson**](crisis-as-reform-catalyst-spains-23-f-and-lessons-for-iran.md) — How failed coups can accelerate democratic consolidation when civilian blueprints exist
-5. [**Theoretical Frameworks and Their Limits**](theoretical-frameworks-and-their-limits-for-iran.md) — Why Huntington's model breaks down for military-economic-ideological conglomerates like the IRGC
+1. **Military Economic Empires and Divestment** — The IRGC's economic conglomerate compared with Indonesia's TNI, Egypt's SCAF, and Pakistan's Fauji Foundation
+2. **Defense Ministry Civilianization** — South Korea's incomplete 30-year effort and lessons for restructuring Iran's defense institutions
+3. **Coup-Proofing and Parallel Security Structures** — How fragmented coercive architectures shape transition dynamics, from Arab Spring to Iran
+4. **Crisis as Reform Catalyst: Spain's 23-F Lesson** — How failed coups can accelerate democratic consolidation when civilian blueprints exist
+5. **Theoretical Frameworks and Their Limits** — Why Huntington's model breaks down for military-economic-ideological conglomerates like the IRGC

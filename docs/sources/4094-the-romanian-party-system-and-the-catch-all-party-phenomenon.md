@@ -6,7 +6,7 @@
 | **Year** | 1994 |
 | **Category** | Electoral system design and implementation |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 12 |
 | **Source** | openalex |
 

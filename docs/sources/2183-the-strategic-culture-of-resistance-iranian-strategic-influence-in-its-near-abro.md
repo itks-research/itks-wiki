@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | W. A. Rivera |
 | **Year** | 2022 |
-| **Category** | IRGC economic empire and its dismantling |
+| **Category** | Regional foreign policy reorientation |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **DOI** | [10.21140/mcuj.2022sistratcul004](https://doi.org/10.21140/mcuj.2022sistratcul004) |

@@ -5,8 +5,8 @@
 | نویسندگان | Ian Zhou, Farzad Tofigh, Massimo Piccardi, M. Abolhasan, D. Franklin, J. Lipman |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Political party formation and pluralism |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | شکل‌گیری احزاب سیاسی و تکثرگرایی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 95 |
 | **شناسه دیجیتال** | [10.1109/ACCESS.2024.3388992](https://doi.org/10.1109/ACCESS.2024.3388992) |

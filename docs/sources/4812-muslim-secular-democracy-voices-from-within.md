@@ -6,7 +6,7 @@
 | **Year** | 2013 |
 | **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 18 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://ci.nii.ac.jp/ncid/BB13568907) |

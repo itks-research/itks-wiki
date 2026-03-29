@@ -6,7 +6,7 @@
 | **Year** | 2004 |
 | **Category** | Privatization and state-owned enterprise restructuring |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 23 |
 | **Source** | openalex |
 | **DOI** | [10.1080/014416402200028817](https://doi.org/10.1080/014416402200028817) |

@@ -6,7 +6,7 @@
 | **Year** | 1982 |
 | **Category** | Minority rights |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 70 |
 | **Source** | openalex |
 | **DOI** | [10.2307/2067156](https://doi.org/10.2307/2067156) |

@@ -5,8 +5,8 @@
 | نویسندگان | Mia Siscawati, Banjade M.R., N. Liswanti, T. Herawati, E. Mwangi, C. Wulandari, M. Tjoa, T. Silaya |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Resource curse management |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | مدیریت نفرین منابع طبیعی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 54 |
 | **شناسه دیجیتال** | [10.17528/cifor/006402](https://doi.org/10.17528/cifor/006402) |

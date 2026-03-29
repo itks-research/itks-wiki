@@ -5,8 +5,8 @@
 | نویسندگان | Axel Börsch‐Supan, Martina Brandt, Christian Hunkler, Thorsten Kneip, Julie M. Korbmacher, Frederic Malter, Barbara Schaan, Stephanie Stuck, Sabrina Zuber |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 2235 |
 | **شناسه دیجیتال** | [10.1093/ije/dyt088](https://doi.org/10.1093/ije/dyt088) |

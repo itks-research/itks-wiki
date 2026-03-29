@@ -6,7 +6,7 @@
 | **Year** | 2018 |
 | **Category** | Federalism, unitarism, and autonomy models |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.26811/PEURADEUN.V6I3.236](https://doi.org/10.26811/PEURADEUN.V6I3.236) |

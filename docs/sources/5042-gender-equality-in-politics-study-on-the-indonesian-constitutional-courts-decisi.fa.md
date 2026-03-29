@@ -5,8 +5,8 @@
 | نویسندگان | Riris Ardhanariswari, Tenang Haryanto, Supriyanto Supriyanto |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 6 |
 | **شناسه دیجیتال** | [10.20884/1.jdh.2021.21.3.2844](https://doi.org/10.20884/1.jdh.2021.21.3.2844) |

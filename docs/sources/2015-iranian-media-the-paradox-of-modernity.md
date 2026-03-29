@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Gholam Khiabany |
 | **Year** | 2007 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Media freedom and press institution building |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 82 |
 | **Source** | openalex |
 | **DOI** | [10.1080/10350330701637064](https://doi.org/10.1080/10350330701637064) |

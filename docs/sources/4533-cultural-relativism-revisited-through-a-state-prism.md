@@ -6,7 +6,7 @@
 | **Year** | 1996 |
 | **Category** | Media freedom and press institution building |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 93 |
 | **Source** | openalex |
 | **DOI** | [10.1353/hrq.1996.0021](https://doi.org/10.1353/hrq.1996.0021) |

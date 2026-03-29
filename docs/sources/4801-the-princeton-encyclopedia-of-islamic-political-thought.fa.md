@@ -5,8 +5,8 @@
 | نویسندگان | Richard W. Bulliet, D. Cook, Roxanne L. Euben, Mirza, Mahan, Stewart, Devin J., Zaman, Muhammad Qasim 1965- |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 91 |
 | **شناسه دیجیتال** | [10.1515/9781400838554](https://doi.org/10.1515/9781400838554) |

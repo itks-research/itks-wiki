@@ -6,7 +6,7 @@
 | **Year** | 2023 |
 | **Category** | Transitional justice |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 170 |
 | **Source** | openalex |
 | **DOI** | [10.1021/acscatal.3c02743](https://doi.org/10.1021/acscatal.3c02743) |

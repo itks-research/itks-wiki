@@ -6,7 +6,7 @@
 | **Year** | 2012 |
 | **Category** | Electoral system design and implementation |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 62 |
 | **Source** | openalex |
 | **DOI** | [10.5131/ajcl.2012.0020](https://doi.org/10.5131/ajcl.2012.0020) |

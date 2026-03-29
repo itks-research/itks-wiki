@@ -5,8 +5,8 @@
 | نویسندگان | Christian Dustmann, Kristīne Vasiļjeva, Anna Piil Damm |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 450 |
 | **شناسه دیجیتال** | [10.1093/restud/rdy047](https://doi.org/10.1093/restud/rdy047) |

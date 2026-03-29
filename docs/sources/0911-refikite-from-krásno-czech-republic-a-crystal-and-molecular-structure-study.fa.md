@@ -5,8 +5,8 @@
 | نویسندگان | R. Pažout, J. Sejkora, J. Maixner, Michal Dušek, Jaromír Tvrdý |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Cultural heritage preservation during institutional change |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | حفظ میراث فرهنگی در دوره تحولات نهادی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 7 |
 | **شناسه دیجیتال** | [10.1180/minmag.2015.079.1.06](https://doi.org/10.1180/minmag.2015.079.1.06) |

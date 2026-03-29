@@ -6,7 +6,7 @@
 | **Year** | 2024 |
 | **Category** | Women's rights codification and gender equality |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 2 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.29300/madania.v28i1.4597](https://doi.org/10.29300/madania.v28i1.4597) |

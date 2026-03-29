@@ -5,8 +5,8 @@
 | نویسندگان | Jan Corfee-Morlot, Lamia Kamal-Chaoui, Michael G. Donovan, Ian Cochran |
 |---|---|
 | **سال** | 2009 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 298 |
 | **شناسه دیجیتال** | [10.1787/220062444715](https://doi.org/10.1787/220062444715) |

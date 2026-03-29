@@ -6,7 +6,7 @@
 | **Year** | 2013 |
 | **Category** | Transitional justice |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 480 |
 | **Source** | openalex |
 | **DOI** | [10.1136/amiajnl-2013-001628](https://doi.org/10.1136/amiajnl-2013-001628) |

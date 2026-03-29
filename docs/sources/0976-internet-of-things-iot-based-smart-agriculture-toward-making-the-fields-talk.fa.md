@@ -5,8 +5,8 @@
 | نویسندگان | Muhammad Ayaz, Mohammad Ammad Uddin, Zubair Sharif, Ali Mansour, El‐Hadi M. Aggoune |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Labor market reform and social safety nets |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | اصلاح بازار کار و شبکه‌های حمایت اجتماعی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 1175 |
 | **شناسه دیجیتال** | [10.1109/access.2019.2932609](https://doi.org/10.1109/access.2019.2932609) |

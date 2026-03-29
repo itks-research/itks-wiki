@@ -5,8 +5,8 @@
 | نویسندگان | Bekele Shiferaw, Mélinda Smale, Hans‐Joachim Braun, E. Duveiller, Matthew Reynolds, Geoffrey Muricho |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Resource curse management |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | مدیریت نفرین منابع طبیعی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1337 |
 | **شناسه دیجیتال** | [10.1007/s12571-013-0263-y](https://doi.org/10.1007/s12571-013-0263-y) |

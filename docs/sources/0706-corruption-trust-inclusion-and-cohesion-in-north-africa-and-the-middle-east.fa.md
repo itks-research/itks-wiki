@@ -5,8 +5,8 @@
 | نویسندگان | Roger Sapsford, Gerasimos Tsourapas, Pamela Abbott, Andrea Teti |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Tunisia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | تونس |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 44 |
 | **شناسه دیجیتال** | [10.1007/s11482-017-9578-8](https://doi.org/10.1007/s11482-017-9578-8) |

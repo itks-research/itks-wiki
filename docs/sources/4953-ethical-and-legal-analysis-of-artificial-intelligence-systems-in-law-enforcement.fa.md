@@ -5,8 +5,8 @@
 | نویسندگان | Zulkham Sadat Zuwanda, Arief Fahmi Lubis, Nuryati Solapari, Marius Supriyanto Sakmaf, Andri Triyantoro |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Minority rights |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | حقوق اقلیت‌ها |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 8 |
 | **شناسه دیجیتال** | [10.58812/eslhr.v2i03.283](https://doi.org/10.58812/eslhr.v2i03.283) |

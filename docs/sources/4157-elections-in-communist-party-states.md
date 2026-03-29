@@ -6,7 +6,7 @@
 | **Year** | 1978 |
 | **Category** | Electoral system design and implementation |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 44 |
 | **Source** | openalex |
 | **DOI** | [10.1007/978-1-349-03342-3_9](https://doi.org/10.1007/978-1-349-03342-3_9) |

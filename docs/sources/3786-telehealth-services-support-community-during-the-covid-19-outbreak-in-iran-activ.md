@@ -6,7 +6,7 @@
 | **Year** | 2021 |
 | **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 17 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1016/j.imu.2021.100567](https://doi.org/10.1016/j.imu.2021.100567) |

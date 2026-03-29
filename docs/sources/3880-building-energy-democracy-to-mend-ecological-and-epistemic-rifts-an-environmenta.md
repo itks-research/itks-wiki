@@ -6,7 +6,7 @@
 | **Year** | 2021 |
 | **Category** | Nuclear program civilian transition |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 10 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1016/j.erss.2020.101884](https://doi.org/10.1016/j.erss.2020.101884) |

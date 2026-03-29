@@ -6,7 +6,7 @@
 | **Year** | 2014 |
 | **Category** | Media freedom and press institution building |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.oai-journals-pan-pl-95277/c/oai-journals-pan-pl-95277_full-text_1b8cc8d4-ace1-4a18-9cd2-a77bacd4224f.pdf) |

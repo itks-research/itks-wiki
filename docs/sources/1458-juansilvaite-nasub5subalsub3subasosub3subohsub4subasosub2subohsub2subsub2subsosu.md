@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Anthony R. Kampf, Barbara P. Nash, Maurizio Dini, Arturo A. Molina Donoso |
 | **Year** | 2017 |
-| **Category** | Transitional justice |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 6 |
 | **Source** | openalex |
 | **DOI** | [10.1180/minmag.2016.080.113](https://doi.org/10.1180/minmag.2016.080.113) |

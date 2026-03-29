@@ -5,8 +5,8 @@
 | نویسندگان | Shahram Yazdani, J. Koohpayehzadeh, S. Bosak, Sadegh Abaei Hasani, Kamran Mohammadi Janbazloufar, M. Ayati |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.47176/mjiri.38.17](https://doi.org/10.47176/mjiri.38.17) |

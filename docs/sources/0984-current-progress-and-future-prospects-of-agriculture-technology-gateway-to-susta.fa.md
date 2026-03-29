@@ -5,8 +5,8 @@
 | نویسندگان | Nawab Khan, Ram L. Ray, Ghulam Raza Sargani, Muhammad Ihtisham, Muhammad Khayyam, Sohaib Ismail |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Labor market reform and social safety nets |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | اصلاح بازار کار و شبکه‌های حمایت اجتماعی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 462 |
 | **شناسه دیجیتال** | [10.3390/su13094883](https://doi.org/10.3390/su13094883) |

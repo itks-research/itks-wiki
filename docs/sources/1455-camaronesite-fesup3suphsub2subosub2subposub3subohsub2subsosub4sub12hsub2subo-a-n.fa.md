@@ -5,8 +5,8 @@
 | نویسندگان | Anthony R. Kampf, Stuart J. Mills, Barbara P. Nash, R. M. Housley, George R. Rossman, Maurizio Dini |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Chile |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | شیلی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 10 |
 | **شناسه دیجیتال** | [10.1180/minmag.2013.077.4.05](https://doi.org/10.1180/minmag.2013.077.4.05) |

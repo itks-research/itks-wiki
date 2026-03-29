@@ -5,8 +5,8 @@
 | نویسندگان | Regan Early, Bethany A. Bradley, Jeffrey S. Dukes, Joshua J. Lawler, Julian D. Olden, Dana M. Blumenthal, Patrick González, Edwin D. Grosholz, Inés Ibáñez, Luke P. Miller, Cascade J. B. Sorte, Andrew J. Tatem |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Political party formation and pluralism |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | شکل‌گیری احزاب سیاسی و تکثرگرایی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1286 |
 | **شناسه دیجیتال** | [10.1038/ncomms12485](https://doi.org/10.1038/ncomms12485) |

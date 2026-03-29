@@ -5,8 +5,8 @@
 | نویسندگان | Ahmad Ridwan, M Taufiq Rahman, Yusuf Budiana, Irfan Safrudin, Muhammad Andi Septiadi |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 16 |
 | **شناسه دیجیتال** | [10.32350/jitc.122.05](https://doi.org/10.32350/jitc.122.05) |

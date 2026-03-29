@@ -5,8 +5,8 @@
 | نویسندگان | Darlin Rizki, Fauzul Hanif Noor Athief, Mega Marta Atika, Annisa Ul Lathifah |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 4 |
 | **شناسه دیجیتال** | [10.32332/ijie.v4i2.5276](https://doi.org/10.32332/ijie.v4i2.5276) |

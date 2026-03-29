@@ -5,8 +5,8 @@
 | نویسندگان | Brandon A. Kohrt, Laura Asher, Anvita Bhardwaj, Mina Fazel, Mark J. D. Jordans, Byamah Brian Mutamba, Abhijit Nadkarni, Gloria A. Pedersen, Daisy R. Singla, Vikram Patel |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Minority rights |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | حقوق اقلیت‌ها |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 347 |
 | **شناسه دیجیتال** | [10.3390/ijerph15061279](https://doi.org/10.3390/ijerph15061279) |

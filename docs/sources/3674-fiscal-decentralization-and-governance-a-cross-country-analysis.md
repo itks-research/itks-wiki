@@ -6,7 +6,7 @@
 | **Year** | 2001 |
 | **Category** | Ethnic federalism in Iran |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 75 |
 | **Source** | openalex |
 | **DOI** | [10.5089/9781451849240.001](https://doi.org/10.5089/9781451849240.001) |

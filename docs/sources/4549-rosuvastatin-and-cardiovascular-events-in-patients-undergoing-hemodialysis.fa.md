@@ -5,8 +5,8 @@
 | نویسندگان | Bengt Fellström, Alan G. Jardine, Roland E. Schmieder, Hallvard Holdaas, Kym M. Bannister, Jaap J. Beutler, Dong‐Wan Chae, Alejandro Chevaile, Stuart M. Cobbe, Carola Grönhagen‐Riska, José J. De Lima, R. Lins, Gert Mayer, Alan W. McMahon, Hans‐Henrik Parving, Giuseppe Remuzzi, Ola Samuelsson, S. Sonkodi, Gültekin Süleymanlar, Dimitrios Tsakiris, Vladimı́r Tesař, Vasil Todorov, Andrzej Więcek, Rudolf P. Wüthrich, Mattis Gottlow, Eva Johnsson, Faı̈ez Zannad |
 |---|---|
 | **سال** | 2009 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 2003 |
 | **شناسه دیجیتال** | [10.1056/nejmoa0810177](https://doi.org/10.1056/nejmoa0810177) |

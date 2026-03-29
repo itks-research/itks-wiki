@@ -6,7 +6,7 @@
 | **Year** | 2012 |
 | **Category** | Media freedom and press institution building |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 5128 |
 | **Source** | openalex |
 | **DOI** | [10.1371/journal.pone.0035671](https://doi.org/10.1371/journal.pone.0035671) |

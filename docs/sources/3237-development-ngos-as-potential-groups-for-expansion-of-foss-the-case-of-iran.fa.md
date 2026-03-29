@@ -5,8 +5,8 @@
 | نویسندگان | Saeid Nouri Neshat, Parvin Pakzadmanesh, M. Almási, Mohammad Amin Ameri |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.18356/5c194c5b-en](https://doi.org/10.18356/5c194c5b-en) |

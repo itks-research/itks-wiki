@@ -6,7 +6,7 @@
 | **Year** | 2016 |
 | **Category** | Civil society development |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 18 |
 | **Source** | openalex |
 | **DOI** | [10.5130/pmrp.v3i0.5043](https://doi.org/10.5130/pmrp.v3i0.5043) |

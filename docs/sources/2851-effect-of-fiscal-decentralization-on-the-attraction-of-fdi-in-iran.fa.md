@@ -5,8 +5,8 @@
 | نویسندگان | Mohammad Reza Alizadeh, Seyed Ehsan Hosseinidoust, Abolghasem Golkhandan |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.22054/ijer.2019.10888](https://doi.org/10.22054/ijer.2019.10888) |

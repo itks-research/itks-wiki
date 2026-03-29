@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Richard Pipes |
 | **Year** | 1974 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 431 |
 | **Source** | openalex |
 

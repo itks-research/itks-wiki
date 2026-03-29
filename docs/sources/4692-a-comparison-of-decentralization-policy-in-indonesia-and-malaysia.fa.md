@@ -5,8 +5,8 @@
 | نویسندگان | King Faisal Sulaiman, I. Satriawan, Nurhafilah Musa, Muhammad Fathi |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.22373/petita.v10i1.677](https://doi.org/10.22373/petita.v10i1.677) |

@@ -5,8 +5,8 @@
 | نویسندگان | Willem K. Brauers, Edmundas Kazimieras Zavadskas |
 |---|---|
 | **سال** | 2010 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | خصوصی‌سازی و بازسازی شرکت‌های دولتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 621 |
 | **شناسه دیجیتال** | [10.3846/tede.2010.01](https://doi.org/10.3846/tede.2010.01) |

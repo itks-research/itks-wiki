@@ -6,7 +6,7 @@
 | **Year** | 2014 |
 | **Category** | Women's rights codification and gender equality |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 52 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://repository.uchastings.edu/hastings_international_comparative_law_review/vol38/iss1/1) |

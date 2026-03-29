@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Razeen Sally |
 | **Year** | 2006 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Trade liberalization and foreign direct investment |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 49 |
 | **Source** | openalex |
 | **DOI** | [10.1111/j.1748-3131.2006.00036.x](https://doi.org/10.1111/j.1748-3131.2006.00036.x) |

@@ -5,8 +5,8 @@
 | نویسندگان | M. Wynn, Seyedeh Zahra Hosseini, Seyed Mostafa Parpanchi |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.24294/jipd.v7i2.2070](https://doi.org/10.24294/jipd.v7i2.2070) |

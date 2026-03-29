@@ -5,8 +5,8 @@
 | نویسندگان | Joaquín L. González, Mario Zolezzi, Kiyotaka Yokomichi, Nohra Rey de Marulanda, George Gray-Molina, M.Soc.Sc Pratikno, Katsuhito Imai, Tan Pek Leng, Tomoyuki Kamiyama, Clay G. Wescott, Cristina Rojas, Edel C. Guiza, Zander Navarro, Luiz Arruda Villela, Isabel Licha, Toshihiro Menju |
 |---|---|
 | **سال** | 2005 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 12 |
 | **شناسه دیجیتال** | [10.18235/0012521](https://doi.org/10.18235/0012521) |

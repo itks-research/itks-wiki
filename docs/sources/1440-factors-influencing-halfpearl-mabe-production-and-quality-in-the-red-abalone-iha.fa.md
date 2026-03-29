@@ -5,8 +5,8 @@
 | نویسندگان | Alejandro Rojas‐Figueroa, Rubén Araya, Héctor Acosta‐Salmón, Felipe Chávez‐Contreras, Nadia L. Ortiz‐Cornejo, Pedro E. Saucedo |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Resource curse management |
-| **مطالعه موردی** | Chile |
+| **دسته‌بندی** | مدیریت نفرین منابع طبیعی |
+| **مطالعه موردی** | شیلی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 9 |
 | **شناسه دیجیتال** | [10.1111/are.14297](https://doi.org/10.1111/are.14297) |

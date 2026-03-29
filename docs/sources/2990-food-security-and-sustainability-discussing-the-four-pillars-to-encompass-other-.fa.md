@@ -5,8 +5,8 @@
 | نویسندگان | Raquel P. F. Guiné, Maria Lúcia Pato, Cristina A. Costa, Daniela V. T. A. Costa, Paulo Barracosa, Vítor João Pereira Domingues Martinho |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Resource curse management |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | مدیریت نفرین منابع طبیعی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 90 |
 | **شناسه دیجیتال** | [10.3390/foods10112732](https://doi.org/10.3390/foods10112732) |

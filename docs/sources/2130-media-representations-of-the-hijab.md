@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Julie Posetti |
 | **Year** | 2006 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Media freedom and press institution building |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 3 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://ro.uow.edu.au/lhapapers/1822) |

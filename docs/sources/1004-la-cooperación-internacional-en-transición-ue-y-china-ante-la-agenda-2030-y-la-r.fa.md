@@ -5,8 +5,8 @@
 | نویسندگان | Kattya Cascante Hernández, Tahina Ojeda-Medina |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Trade liberalization and foreign direct investment |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | آزادسازی تجارت و سرمایه‌گذاری خارجی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.15366/relacionesinternacionales2025.60.005](https://doi.org/10.15366/relacionesinternacionales2025.60.005) |

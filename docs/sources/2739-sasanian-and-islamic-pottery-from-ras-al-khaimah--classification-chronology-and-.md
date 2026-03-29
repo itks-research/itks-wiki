@@ -6,7 +6,7 @@
 | **Year** | 2004 |
 | **Category** | Transitional justice |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 79 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://durham-repository.worktribe.com/file/1127595/1/Published%20Book) |

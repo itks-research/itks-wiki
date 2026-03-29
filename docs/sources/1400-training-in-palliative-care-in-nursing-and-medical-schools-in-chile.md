@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Aintzane Gallastegui-Brana, Denisse Parra-Giordano, P. Perez-Cruz |
 | **Year** | 2022 |
-| **Category** | Transitional justice |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 3 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.4067/s0034-98872022000400541](https://doi.org/10.4067/s0034-98872022000400541) |

@@ -5,8 +5,8 @@
 | نویسندگان | René Loewenson, Asa Christina Laurell, Christer Hogstedt, Lucia D’Ambruoso, Zubin Cyrus Shroff |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 168 |
 

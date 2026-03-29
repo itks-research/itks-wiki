@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Evan Kerrane |
 | **Year** | 2022 |
-| **Category** | IRGC economic empire and its dismantling |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 8 |
 | **Source** | openalex |
 | **DOI** | [10.21140/mcuj.2022sistratcul005](https://doi.org/10.21140/mcuj.2022sistratcul005) |

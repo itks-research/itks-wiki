@@ -5,8 +5,8 @@
 | نویسندگان | Anna Katharina Spälti, Benjamin A. Lyons, Florian Stoeckel, Sabrina Stöckli, Paula Szewach, Vittorio Mérola, Christine Stednitz, Paola López González, Jason Reifler |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Political party formation and pluralism |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | شکل‌گیری احزاب سیاسی و تکثرگرایی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 14 |
 | **شناسه دیجیتال** | [10.1177/09636625231154131](https://doi.org/10.1177/09636625231154131) |

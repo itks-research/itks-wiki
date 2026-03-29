@@ -5,8 +5,8 @@
 | نویسندگان | Mahbobeh Abdolrahimi, Shahrzad Ghiyasvandian, Masoumeh Zakerimoghadam, Abbas Ebadi |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 19 |
 | **شناسه دیجیتال** | [10.1155/2017/4823723](https://doi.org/10.1155/2017/4823723) |

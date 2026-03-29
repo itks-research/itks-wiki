@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Kenneth J. Andrien |
 | **Year** | 1981 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Trade liberalization and foreign direct investment |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 12 |
 | **Source** | openalex |
 | **DOI** | [10.1017/s0022216x00006143](https://doi.org/10.1017/s0022216x00006143) |

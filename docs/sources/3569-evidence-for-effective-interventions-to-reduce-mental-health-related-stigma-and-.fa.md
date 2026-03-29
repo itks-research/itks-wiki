@@ -5,8 +5,8 @@
 | نویسندگان | Neil Mehta, Sarah Clément, Elena Marcus, A.-C Stona, N. Bezborodovs, Sara Evans‐Lacko, Jorge Palacios, Mary Docherty, Elizabeth Barley, Diana Rose, Mirja Koschorke, Rahul Shidhaye, Claire Henderson, Graham Thornicroft |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Minority rights |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | حقوق اقلیت‌ها |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 375 |
 | **شناسه دیجیتال** | [10.1192/bjp.bp.114.151944](https://doi.org/10.1192/bjp.bp.114.151944) |

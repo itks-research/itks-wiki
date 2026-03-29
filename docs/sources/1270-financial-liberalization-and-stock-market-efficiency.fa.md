@@ -5,8 +5,8 @@
 | نویسندگان | Maria Ciupac-Ulici, Ioan Alin Nistor |
 |---|---|
 | **سال** | 2011 |
-| **دسته‌بندی** | Trade liberalization and foreign direct investment |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | آزادسازی تجارت و سرمایه‌گذاری خارجی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 3 |
 

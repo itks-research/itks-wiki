@@ -5,8 +5,8 @@
 | نویسندگان | Ole Petter Ottersen, Jashodhara Dasgupta, Chantal Blouin, Paulo Marchiori Buss, Virasakdi Chongsuvivatwong, Julio Frenk, Sakiko Fukuda‐Parr, Bience Gawanas, Rita Giacaman, John O. Gyapong, Jennifer Leaning, Michael Marmot, Desmond McNeill, Gertrude I Mongella, Nkosana Moyo, Sigrun Møgedal, Ayanda Ntsaluba, Gorik Ooms, Espen Bjertness, Ann Louise Lie, Suerie Moon, Sidsel Roalkvam, Kristin Ingstad Sandberg, Inger B. Scheel |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | روابط نظامی-غیرنظامی و اصلاح بخش امنیتی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 664 |
 | **شناسه دیجیتال** | [10.1016/s0140-6736(13)62407-1](https://doi.org/10.1016/s0140-6736(13)62407-1) |

@@ -5,8 +5,8 @@
 | نویسندگان | Colin Anderson, Janneke Bruil, M. Jahi Chappell, Csilla Kiss, Michel Pimbert |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | IRGC economic empire and its dismantling |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | امپراتوری اقتصادی سپاه و انحلال آن |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 325 |
 | **شناسه دیجیتال** | [10.3390/su11195272](https://doi.org/10.3390/su11195272) |

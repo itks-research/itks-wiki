@@ -6,7 +6,7 @@
 | **Year** | 2022 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 2 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.16926/gea.2022.02.03](https://doi.org/10.16926/gea.2022.02.03) |

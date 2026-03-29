@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | A.S. Kharlanov, E.I. Sherysheva |
 | **Year** | 2024 |
-| **Category** | Federalism, unitarism, and autonomy models |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1 |
 | **Source** | openalex |
 | **DOI** | [10.34660/inf.2022.77.50.021](https://doi.org/10.34660/inf.2022.77.50.021) |

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Christopher J. Ruhm |
 | **Year** | 2000 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1669 |
 | **Source** | openalex |
 | **DOI** | [10.1162/003355300554872](https://doi.org/10.1162/003355300554872) |

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Tadhg Ó hAnnracháin |
 | **Year** | 2015 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 68 |
 | **Source** | openalex |
 | **DOI** | [10.1093/acprof:oso/9780199272723.001.0001](https://doi.org/10.1093/acprof:oso/9780199272723.001.0001) |

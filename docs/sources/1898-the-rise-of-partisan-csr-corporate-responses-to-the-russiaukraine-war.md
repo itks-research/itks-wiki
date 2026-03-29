@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Vassiliki Bamiatzi, Steven A. Brieger, Özgü Karakulak, Daniel Kinderman, Stephan Manning |
 | **Year** | 2024 |
-| **Category** | Sanctions unwinding and international reintegration |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 16 |
 | **Source** | openalex |
 | **DOI** | [10.1007/s10551-024-05795-9](https://doi.org/10.1007/s10551-024-05795-9) |

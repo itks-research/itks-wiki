@@ -5,8 +5,8 @@
 | نویسندگان | R. Pažout, Michal Dušek, J. Sejkora, J. Plášil, G. Ilinca, Z. Dolníček |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Cultural heritage preservation during institutional change |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | حفظ میراث فرهنگی در دوره تحولات نهادی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.5194/ejm-36-641-2024](https://doi.org/10.5194/ejm-36-641-2024) |

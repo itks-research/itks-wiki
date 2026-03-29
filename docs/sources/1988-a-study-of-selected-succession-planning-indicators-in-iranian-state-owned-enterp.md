@@ -6,7 +6,7 @@
 | **Year** | 2025 |
 | **Category** | Privatization and state-owned enterprise restructuring |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | openalex |
 | **DOI** | [10.61838/msesj.7.1.4](https://doi.org/10.61838/msesj.7.1.4) |

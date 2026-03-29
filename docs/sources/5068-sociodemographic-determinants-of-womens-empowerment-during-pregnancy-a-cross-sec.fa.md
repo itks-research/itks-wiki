@@ -5,8 +5,8 @@
 | نویسندگان | Erni Dwi Widyana, Siti Nor Ismalina Isa, S. K. A. Sharoni, S. Suryanto |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.56338/mppki.v8i10.8028](https://doi.org/10.56338/mppki.v8i10.8028) |

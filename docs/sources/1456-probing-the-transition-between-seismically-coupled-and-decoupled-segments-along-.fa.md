@@ -5,8 +5,8 @@
 | نویسندگان | Samuel Angiboust, Josephine Kirsch, Onno Oncken, Johannes Glodny, Patrick Monié, Erik Rybacki |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Cultural heritage preservation during institutional change |
-| **مطالعه موردی** | Chile |
+| **دسته‌بندی** | حفظ میراث فرهنگی در دوره تحولات نهادی |
+| **مطالعه موردی** | شیلی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 107 |
 | **شناسه دیجیتال** | [10.1002/2015gc005776](https://doi.org/10.1002/2015gc005776) |

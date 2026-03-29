@@ -6,7 +6,7 @@
 | **Year** | 2008 |
 | **Category** | Electoral system design and implementation |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 1464 |
 | **Source** | openalex |
 | **DOI** | [10.1016/s1470-2045(08)70179-7](https://doi.org/10.1016/s1470-2045(08)70179-7) |

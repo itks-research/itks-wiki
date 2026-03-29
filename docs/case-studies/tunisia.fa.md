@@ -4,12 +4,12 @@
 
 **277 منبع** در 22 دسته‌بندی
 
-## Banking and financial system reform
+## اصلاح نظام بانکی و مالی
 *1 منبع*
 
 - [Why Do Management Practices Differ across Firms and Countries?](../sources/0643-why-do-management-practices-differ-across-firms-and-countries.fa.md) (2010)
 
-## Civil society development
+## توسعه جامعه مدنی
 *6 منبع*
 
 - [The Role of Civil Society in the Tunisian Democratic Transition](../sources/0589-the-role-of-civil-society-in-the-tunisian-democratic-transition.fa.md) (2015)
@@ -19,7 +19,7 @@
 - [Beyond words: non‐dialogical public reason in (post) revolutionary Tunisia](../sources/0671-beyond-words-nondialogical-public-reason-in-post-revolutionary-tunisia.fa.md) (2025)
 - [The Local Dimension of Migration Policymaking](../sources/0679-the-local-dimension-of-migration-policymaking.fa.md) (2011)
 
-## Civil-military relations and security sector reform
+## روابط نظامی-غیرنظامی و اصلاح بخش امنیتی
 *4 منبع*
 
 - [The 2006 Military Takeover in Fiji : A Coup to End All Coups?](../sources/0567-the-2006-military-takeover-in-fiji--a-coup-to-end-all-coups.fa.md) (2009)
@@ -27,7 +27,7 @@
 - [Anti-Terrorism Laws in the Maghreb Countries: The Mirror of a Democratic Transition that Never Was](../sources/0666-anti-terrorism-laws-in-the-maghreb-countries-the-mirror-of-a-democratic-transiti.fa.md) (2018)
 - [Contemplating a Civil Law Paradigm for a Future International Commercial Code](../sources/0701-contemplating-a-civil-law-paradigm-for-a-future-international-commercial-code.fa.md) (2005)
 
-## Constitutional design and drafting processes
+## طراحی و تدوین قانون اساسی
 *75 منبع*
 
 - [The Extraordinary Politics of the Tunisian Revolution: The Process of Constitution Making](../sources/0575-the-extraordinary-politics-of-the-tunisian-revolution-the-process-of-constitutio.fa.md) (2014)
@@ -106,7 +106,7 @@
 - [α-thalassaemia](../sources/0613-α-thalassaemia.fa.md) (2010)
 - [International consensus on terminology to be used in the field of echinococcoses](../sources/0611-international-consensus-on-terminology-to-be-used-in-the-field-of-echinococcoses.fa.md) (2020)
 
-## Cultural heritage preservation during institutional change
+## حفظ میراث فرهنگی در دوره تحولات نهادی
 *7 منبع*
 
 - [Relational mobility predicts social behaviors in 39 countries and is tied to historical farming and threat](../sources/0746-relational-mobility-predicts-social-behaviors-in-39-countries-and-is-tied-to-his.fa.md) (2018)
@@ -117,7 +117,7 @@
 - [Pigments — Mercury-based red (cinnabar-vermilion) and white (calomel) and their degradation products](../sources/0816-pigments--mercury-based-red-cinnabar-vermilion-and-white-calomel-and-their-degra.fa.md) (2021)
 - [Nanoparticles in Ancient Materials: The Metallic Lustre Decorations of Medieval Ceramics](../sources/0809-nanoparticles-in-ancient-materials-the-metallic-lustre-decorations-of-medieval-c.fa.md) (2012)
 
-## Education system reform and curriculum modernization
+## اصلاح نظام آموزشی و نوسازی برنامه درسی
 *12 منبع*
 
 - [Reformation of Islamic Thought : A Critical Historical Analysis](../sources/0547-reformation-of-islamic-thought--a-critical-historical-analysis.fa.md) (2006)
@@ -133,7 +133,7 @@
 - [The Role of Cultural Routes in Sustainable Tourism Development: A Case Study of Syria’s Spiritual Route](../sources/0808-the-role-of-cultural-routes-in-sustainable-tourism-development-a-case-study-of-s.fa.md) (2020)
 - [Catalogue of Acculturation Constructs: Descriptions of 126 Taxonomies, 1918-2003](../sources/0694-catalogue-of-acculturation-constructs-descriptions-of-126-taxonomies-1918-2003.fa.md) (2009)
 
-## Electoral system design and implementation
+## طراحی و اجرای نظام انتخاباتی
 *4 منبع*
 
 - [Arab Uprisings and Armed Forces: Between Openness and Resistance](../sources/0560-arab-uprisings-and-armed-forces-between-openness-and-resistance.fa.md) (2011)
@@ -141,25 +141,25 @@
 - [Presidential Term Limits and the African Union](../sources/0711-presidential-term-limits-and-the-african-union.fa.md) (2019)
 - [Voting for secular parties in the Middle East: evidence from the 2014 general elections in post-revolutionary Tunisia](../sources/0721-voting-for-secular-parties-in-the-middle-east-evidence-from-the-2014-general-ele.fa.md) (2018)
 
-## Federalism, unitarism, and autonomy models
+## فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری
 *3 منبع*
 
 - [Partition as a Solution to Ethnic War: An Empirical Critique of the Theoretical Literature](../sources/0678-partition-as-a-solution-to-ethnic-war-an-empirical-critique-of-the-theoretical-l.fa.md) (2000)
 - [Why Redraw the Map of Africa: A Legal and Moral Inquiry](../sources/0693-why-redraw-the-map-of-africa-a-legal-and-moral-inquiry.fa.md) (1995)
 - [BORDERING AND ORDERING THE EUROPEAN NEIGHBOURHOOD: A CRITICAL PERSPECTIVE ON EU TERRITORIALITY AND GEOPOLITICS; pp. 232-247](../sources/0703-bordering-and-ordering-the-european-neighbourhood-a-critical-perspective-on-eu-t.fa.md) (2009)
 
-## Internet and digital infrastructure as civic space
+## اینترنت و زیرساخت دیجیتال به‌عنوان فضای مدنی
 *1 منبع*
 
 - [Cyberactivism in the Egyptian Revolution: How Civic Engagement and Citizen Journalism Tilted the Balance](../sources/0538-cyberactivism-in-the-egyptian-revolution-how-civic-engagement-and-citizen-journa.fa.md) (2011)
 
-## Judicial independence and rule of law
+## استقلال قضایی و حاکمیت قانون
 *2 منبع*
 
 - [Allowing the Right Margin: The European Court of Human Rights and The National Margin of Appreciation Doctrine: Waiver or Subsidiarity of European Review?](../sources/0574-allowing-the-right-margin-the-european-court-of-human-rights-and-the-national-ma.fa.md) (2012)
 - [Access to Justice and Legal Process: Making Legal Institutions Responsive to Poor People in Ldcs](../sources/0544-access-to-justice-and-legal-process-making-legal-institutions-responsive-to-poor.fa.md) (2003)
 
-## Labor market reform and social safety nets
+## اصلاح بازار کار و شبکه‌های حمایت اجتماعی
 *8 منبع*
 
 - [Between the hammer and the anvil : the trade unions and the 2011 Arab uprisings in Morocco and Tunisia](../sources/0646-between-the-hammer-and-the-anvil--the-trade-unions-and-the-2011-arab-uprisings-i.fa.md) (2018)
@@ -171,12 +171,12 @@
 - [European Migration IN THE LATE Twentieth Century](../sources/0550-european-migration-in-the-late-twentieth-century.fa.md) (1994)
 - [South-South Migration and Human Development: Reflections on African Experiences](../sources/0697-south-south-migration-and-human-development-reflections-on-african-experiences.fa.md) (2009)
 
-## Language policy
+## سیاست زبانی
 *1 منبع*
 
 - [OCP effects: Gemination and antigemination](../sources/0784-ocp-effects-gemination-and-antigemination.fa.md) (1986)
 
-## Media freedom and press institution building
+## آزادی رسانه و نهادسازی مطبوعاتی
 *5 منبع*
 
 - [Debating terrorism in a political transition: Journalism and democracy in Tunisia](../sources/0661-debating-terrorism-in-a-political-transition-journalism-and-democracy-in-tunisia.fa.md) (2020)
@@ -185,12 +185,12 @@
 - [Social Media Techno-Discursive Design, Affective Communication and Contemporary Politics](../sources/0802-social-media-techno-discursive-design-affective-communication-and-contemporary-p.fa.md) (2018)
 - [Arab Media Systems](../sources/0557-arab-media-systems.fa.md) (2021)
 
-## Minority rights
+## حقوق اقلیت‌ها
 *1 منبع*
 
 - [The Arab Spring and the Challenge of Minority Rights: Will the Arab Revolutions Overcome the Legacy of the Past?](../sources/0730-the-arab-spring-and-the-challenge-of-minority-rights-will-the-arab-revolutions-o.fa.md) (2011)
 
-## Political party formation and pluralism
+## شکل‌گیری احزاب سیاسی و تکثرگرایی
 *36 منبع*
 
 - [Democratic Decline in the United States: What Can We Learn from Middle-Income Backsliding?](../sources/0683-democratic-decline-in-the-united-states-what-can-we-learn-from-middle-income-bac.fa.md) (2018)
@@ -230,19 +230,19 @@
 - [Tunisia: Trading Freedom for Stability May Not Last – An International Security Perspective](../sources/0750-tunisia-trading-freedom-for-stability-may-not-last--an-international-security-pe.fa.md) (2009)
 - [Democratic Change in the Arab World, Past and Present](../sources/0680-democratic-change-in-the-arab-world-past-and-present.fa.md) (2012)
 
-## Privatization and state-owned enterprise restructuring
+## خصوصی‌سازی و بازسازی شرکت‌های دولتی
 *1 منبع*
 
 - [Egypt's business elite after Mubarak: a powerful player between generals and brotherhood](../sources/0708-egypts-business-elite-after-mubarak-a-powerful-player-between-generals-and-broth.fa.md) (2013)
 
-## Regional foreign policy reorientation
+## بازتعریف سیاست خارجی منطقه‌ای
 *3 منبع*
 
 - [EU external governance in 'wider Europe'](../sources/0595-eu-external-governance-in-wider-europe.fa.md) (2004)
 - [Shaping Convergence with the EU in Foreign Policy and State Aid in Post-Orange Ukraine: Weak External Incentives, Powerful Veto Players](../sources/0558-shaping-convergence-with-the-eu-in-foreign-policy-and-state-aid-in-post-orange-u.fa.md) (2013)
 - [The New Regionalism Implications for Global development and International Security](../sources/0707-the-new-regionalism-implications-for-global-development-and-international-securi.fa.md) (1994)
 
-## Religious freedom and separation of religion from state
+## آزادی مذهبی و جدایی دین از حکومت
 *92 منبع*
 
 - [Tax Havens and the Commercialization of State Sovereignty](../sources/0792-tax-havens-and-the-commercialization-of-state-sovereignty.fa.md) (2002)
@@ -338,14 +338,14 @@
 - [Saharan dust aerosol over the central Mediterranean Sea: PM <sub>10</sub> chemical composition and concentration versus optical columnar measurements](../sources/0798-saharan-dust-aerosol-over-the-central-mediterranean-sea-pm-sub10sub-chemical-com.fa.md) (2014)
 - [Blood Meal Analysis of Culicoides (Diptera: Ceratopogonidae) in Central Tunisia](../sources/0803-blood-meal-analysis-of-culicoides-diptera-ceratopogonidae-in-central-tunisia.fa.md) (2015)
 
-## Resource curse management
+## مدیریت نفرین منابع طبیعی
 *3 منبع*
 
 - [Antibiotic resistance shaping multi-level population biology of bacteria](../sources/0807-antibiotic-resistance-shaping-multi-level-population-biology-of-bacteria.fa.md) (2013)
 - [Mineralogy and physicochemical features of Saharan dust wet deposited in the Iberian Peninsula during an extreme red rain event](../sources/0805-mineralogy-and-physicochemical-features-of-saharan-dust-wet-deposited-in-the-ibe.fa.md) (2018)
 - [Current knowledge and perspectives of Paenibacillus: a review](../sources/0785-current-knowledge-and-perspectives-of-paenibacillus-a-review.fa.md) (2016)
 
-## Trade liberalization and foreign direct investment
+## آزادسازی تجارت و سرمایه‌گذاری خارجی
 *4 منبع*
 
 - [Tentative First Steps: An Assessment of the Uruguay Round Agreement on Services](../sources/1080-tentative-first-steps-an-assessment-of-the-uruguay-round-agreement-on-services.fa.md) (1995)
@@ -353,12 +353,12 @@
 - [Beyond the Northern Invasion: The Mediterranean in the Seventeenth Century](../sources/0801-beyond-the-northern-invasion-the-mediterranean-in-the-seventeenth-century.fa.md) (2002)
 - [Global Alcohol Markets: Evolving Consumption Patterns, Regulations, and Industrial Organizations](../sources/0806-global-alcohol-markets-evolving-consumption-patterns-regulations-and-industrial-.fa.md) (2018)
 
-## Transitional justice
+## عدالت انتقالی
 *1 منبع*
 
 - [Transitional Justice in Tunisia: When Religion Meets State](../sources/0747-transitional-justice-in-tunisia-when-religion-meets-state.fa.md) (2019)
 
-## Women's rights codification and gender equality
+## تدوین حقوق زنان و برابری جنسیتی
 *7 منبع*
 
 - [Democratic Backsliding and the Instrumentalization of Women's Rights in Turkey](../sources/0686-democratic-backsliding-and-the-instrumentalization-of-womens-rights-in-turkey.fa.md) (2021)

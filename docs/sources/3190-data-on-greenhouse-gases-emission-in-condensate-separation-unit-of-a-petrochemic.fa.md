@@ -5,8 +5,8 @@
 | نویسندگان | Mehdi Ahmadi, Mehrshad Dastorian, N. Jafarzadeh, S. Jorfi, B. Ramavandi |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.1016/j.dib.2016.06.041](https://doi.org/10.1016/j.dib.2016.06.041) |

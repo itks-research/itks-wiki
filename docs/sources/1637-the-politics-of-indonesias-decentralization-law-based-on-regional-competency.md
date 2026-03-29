@@ -6,7 +6,7 @@
 | **Year** | 2021 |
 | **Category** | Federalism, unitarism, and autonomy models |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 8 |
 | **Source** | openalex |
 | **DOI** | [10.21776/ub.blj.2021.008.02.01](https://doi.org/10.21776/ub.blj.2021.008.02.01) |

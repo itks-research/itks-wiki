@@ -6,7 +6,7 @@
 | **Year** | 2022 |
 | **Category** | Bonyad system reform |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 6 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1177/08920206211068132](https://doi.org/10.1177/08920206211068132) |

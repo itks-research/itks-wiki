@@ -5,8 +5,8 @@
 | نویسندگان | Hedayat Allah Nikkhah, Ma’rof Redzuan, Asnarulkhadi Abu-Samah |
 |---|---|
 | **سال** | 2010 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 11 |
 

@@ -5,8 +5,8 @@
 | نویسندگان | Ajneesh, Janardhan P. Gouda, Sudhanshu Kumar, Tejas, Nagaratna B. Chittaragi |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.1109/ICSSES64899.2025.11009278](https://doi.org/10.1109/ICSSES64899.2025.11009278) |

@@ -6,7 +6,7 @@
 | **Year** | 2020 |
 | **Category** | Civil society development |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 6 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.31838/jcr.07.05.173](https://doi.org/10.31838/jcr.07.05.173) |

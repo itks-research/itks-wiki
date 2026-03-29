@@ -5,8 +5,8 @@
 | نویسندگان | Roghayeh Gandomkar, T. Changiz, A. Omid, M. Alizadeh, M. Khazaei, Abtin Heidarzadah, Pouria Rouzrokh, M. Amini, H. Honarpisheh, Reza Laripour, F. Abedi, Babak Sabet, A. Mirzazadeh |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 17 |
 | **شناسه دیجیتال** | [10.1186/s12909-023-04343-9](https://doi.org/10.1186/s12909-023-04343-9) |

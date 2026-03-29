@@ -5,8 +5,8 @@
 | نویسندگان | Ikrar Nusa Bhakti, Sri Yanuarti, Mochamad Nurhasim |
 |---|---|
 | **سال** | 2009 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | روابط نظامی-غیرنظامی و اصلاح بخش امنیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 37 |
 

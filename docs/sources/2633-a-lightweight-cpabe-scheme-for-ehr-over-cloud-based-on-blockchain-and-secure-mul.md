@@ -6,7 +6,7 @@
 | **Year** | 2025 |
 | **Category** | Political party formation and pluralism |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 6 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1002/ett.70053](https://doi.org/10.1002/ett.70053) |

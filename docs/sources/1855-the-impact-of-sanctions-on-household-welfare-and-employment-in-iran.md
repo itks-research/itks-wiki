@@ -6,7 +6,7 @@
 | **Year** | 2023 |
 | **Category** | Sanctions unwinding and international reintegration |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 19 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1080/17938120.2023.2248697](https://doi.org/10.1080/17938120.2023.2248697) |

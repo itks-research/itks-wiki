@@ -6,7 +6,7 @@
 | **Year** | 2017 |
 | **Category** | Minority rights |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 1 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://escholarship.mcgill.ca/concern/theses/f1881p649) |

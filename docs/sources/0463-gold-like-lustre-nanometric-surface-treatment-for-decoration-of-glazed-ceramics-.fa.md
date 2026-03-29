@@ -5,8 +5,8 @@
 | نویسندگان | Évelyne Darque-Ceretti, D. Hélary, Anne Bouquillon, M. Aucouturier |
 |---|---|
 | **سال** | 2005 |
-| **دسته‌بندی** | Cultural heritage preservation during institutional change |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | حفظ میراث فرهنگی در دوره تحولات نهادی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 23 |
 | **شناسه دیجیتال** | [10.1179/174329305x64312](https://doi.org/10.1179/174329305x64312) |

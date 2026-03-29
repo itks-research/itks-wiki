@@ -5,8 +5,8 @@
 | نویسندگان | Sitta Fiakhsani Taqwim, Masoud Vaezghasemi, Sara Castel-Feced, F. Dewi, Julia Schröders |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.1186/s12905-025-03748-6](https://doi.org/10.1186/s12905-025-03748-6) |

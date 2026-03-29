@@ -5,8 +5,8 @@
 | نویسندگان | Mostafa Ali Benzaghta, Abdulaziz Elwalda, Mousa Mousa, İsmail Erkan, Mushfiqur Rahman |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | خصوصی‌سازی و بازسازی شرکت‌های دولتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 562 |
 | **شناسه دیجیتال** | [10.5038/2640-6489.6.1.1148](https://doi.org/10.5038/2640-6489.6.1.1148) |

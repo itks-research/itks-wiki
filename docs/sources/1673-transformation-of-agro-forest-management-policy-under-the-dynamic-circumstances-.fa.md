@@ -5,8 +5,8 @@
 | نویسندگان | Dodik Ridho Nurrochmat, Ristianto Pribadi, Hermanto Siregar, Agus Justianto, Mi Sun Park |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 37 |
 | **شناسه دیجیتال** | [10.3390/f12040419](https://doi.org/10.3390/f12040419) |

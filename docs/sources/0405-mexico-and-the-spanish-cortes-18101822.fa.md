@@ -5,8 +5,8 @@
 | نویسندگان | Anderson, W. Woodrow, Benson, Nettie Lee, Benson, Nettie Lee, Berry, Charles R., Breedlove, James M., Cunniff, Roger L., Garza, David T., Hann, John H., Macaulay, Neill, Neal, Clarice |
 |---|---|
 | **سال** | 1966 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 26 |
 | **شناسه دیجیتال** | [10.7560/736061](https://doi.org/10.7560/736061) |

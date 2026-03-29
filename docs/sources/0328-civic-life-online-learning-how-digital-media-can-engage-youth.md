@@ -15,3 +15,10 @@
 ## Abstract
 
 The relationship of participation in online communities to civic and political engagement.Young people today have grown up living substantial portions of their lives online, seeking entertainment, social relationships, and a place to express themselves. It is clear that participation in online communities is important for many young people, but less clear how this translates into civic or political engagement. This volume examines the relationship of online action and real-world politics. The contributors discuss not only how online networks might inspire conventional political participation but also how creative uses of digital technologies are expanding the boundaries of politics and public issues. Do protests in gaming communities, music file sharing, or fan petitioning of music companies constitute political behavior? Do the communication skills and patterns of action developed in these online activities transfer to such offline realms as voting and public protests? Civic Life Online describes the many forms of civic life online that could predict a generation's political behavior.ContributorsMarina Umaschi Bers, Stephen Coleman, Jennifer Earl, Kirsten Foot, Peter Levine, Kathryn C. Montgomery, Kate Raynes-Goldie, Howard Rheingold, Allen Schussman, Luke Walker, Michael Xenos
+
+## Related Sources
+
+- **extends** [Mediatization of Politics](0339-mediatization-of-politics.md)
+- **extends** [Televising history: mediating the past in postwar Europe](0518-televising-history-mediating-the-past-in-postwar-europe.md)
+- **extends** [El poder de contar y el paraíso perdido. Polémicas mediáticas y construcción colectiva de la memoria en España](0449-el-poder-de-contar-y-el-paraíso-perdido-polémicas-mediáticas-y-construcción-cole.md)
+- **extends** [Informational Autocrats](1108-informational-autocrats.md)

@@ -5,8 +5,8 @@
 | نویسندگان | G. Argenti, Caroline Paskarina, Nani Darmayanti, Nandang Alamsah Deliarnoor |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 13 |
 | **شناسه دیجیتال** | [10.36941/ajis-2022-0011](https://doi.org/10.36941/ajis-2022-0011) |

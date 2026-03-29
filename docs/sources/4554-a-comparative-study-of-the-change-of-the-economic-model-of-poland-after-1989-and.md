@@ -6,7 +6,7 @@
 | **Year** | 2023 |
 | **Category** | Media freedom and press institution building |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.54254/2753-7048/25/20230307](https://doi.org/10.54254/2753-7048/25/20230307) |

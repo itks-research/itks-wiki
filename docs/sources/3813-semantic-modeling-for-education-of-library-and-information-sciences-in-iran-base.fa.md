@@ -5,8 +5,8 @@
 | نویسندگان | Amir Hessam Radfar, Fatima Fahimnia, Mohammad Esmaeili, Moluk al-Sadat Beheshti |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 5 |
 | **شناسه دیجیتال** | [10.1177/0340035219881641](https://doi.org/10.1177/0340035219881641) |

@@ -5,8 +5,8 @@
 | نویسندگان | Jamie Murphy, Frédérique Vallières, Richard P. Bentall, Mark Shevlin, Orla McBride, Todd K. Hartman, Ryan McKay, Kate Bennett, Liam Mason, Jilly Gibson Miller, Liat Levita, Antón P. Martínez, Thomas Victor Arthur Stocks, Thanos Karatzias, Philip Hyland |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1333 |
 | **شناسه دیجیتال** | [10.1038/s41467-020-20226-9](https://doi.org/10.1038/s41467-020-20226-9) |

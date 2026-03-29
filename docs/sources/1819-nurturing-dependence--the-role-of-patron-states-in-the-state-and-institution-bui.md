@@ -6,7 +6,7 @@
 | **Year** | 2019 |
 | **Category** | Sanctions unwinding and international reintegration |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 3 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://etheses.lse.ac.uk/4131/1/Spanke_Nurturing-dependence-defacto.pdf) |

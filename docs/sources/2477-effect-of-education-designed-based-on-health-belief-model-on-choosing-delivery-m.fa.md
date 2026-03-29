@@ -5,8 +5,8 @@
 | نویسندگان | F Rahimi Kian, M Mirmohamad Aliei, A Mehran, K Abouzari Gazafroudi, N Salmani Barough |
 |---|---|
 | **سال** | 2008 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 15 |
 

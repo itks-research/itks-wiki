@@ -6,7 +6,7 @@
 | **Year** | 2023 |
 | **Category** | Women's rights codification and gender equality |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 14 |
 | **Source** | openalex |
 | **DOI** | [10.1080/13549839.2023.2206642](https://doi.org/10.1080/13549839.2023.2206642) |

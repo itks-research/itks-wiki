@@ -5,8 +5,8 @@
 | نویسندگان | Ariane Utomo, Aris Ananta, Diahhadi Setyonaluri, Calvin Aryaputra |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 19 |
 | **شناسه دیجیتال** | [10.1007/s42379-022-00115-y](https://doi.org/10.1007/s42379-022-00115-y) |

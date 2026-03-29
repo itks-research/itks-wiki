@@ -6,7 +6,7 @@
 | **Year** | 2020 |
 | **Category** | Transitional justice |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 3 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1080/10383441.2020.1868281](https://doi.org/10.1080/10383441.2020.1868281) |

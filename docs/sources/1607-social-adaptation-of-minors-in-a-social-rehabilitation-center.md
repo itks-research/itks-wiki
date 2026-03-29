@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | O. V. Taranova, A. S. Lebedeva |
 | **Year** | 2024 |
-| **Category** | Federalism, unitarism, and autonomy models |
+| **Category** | Civil society development |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | openalex |
 | **DOI** | [10.34660/inf.2022.89.48.024](https://doi.org/10.34660/inf.2022.89.48.024) |

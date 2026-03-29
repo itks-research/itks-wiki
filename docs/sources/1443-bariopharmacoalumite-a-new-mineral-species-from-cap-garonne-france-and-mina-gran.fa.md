@@ -5,8 +5,8 @@
 | نویسندگان | Stuart J. Mills, Michael S. Rumsey, Georges Favreau, John Spratt, Mati Raudsepp, Maurizio Dini |
 |---|---|
 | **سال** | 2011 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Chile |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | شیلی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 10 |
 | **شناسه دیجیتال** | [10.1180/minmag.2011.075.1.135](https://doi.org/10.1180/minmag.2011.075.1.135) |

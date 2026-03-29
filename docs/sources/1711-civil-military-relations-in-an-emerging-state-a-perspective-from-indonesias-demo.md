@@ -5,8 +5,8 @@
 | **Authors** | Jun Honna |
 | **Year** | 2018 |
 | **Category** | Civil-military relations and security sector reform |
-| **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Case Study** | Indonesia |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 4 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1007/978-981-13-2859-6_12](https://doi.org/10.1007/978-981-13-2859-6_12) |

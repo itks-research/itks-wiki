@@ -6,7 +6,7 @@
 | **Year** | 2018 |
 | **Category** | Sanctions unwinding and international reintegration |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1108/oxan-es236818](https://doi.org/10.1108/oxan-es236818) |

@@ -6,7 +6,7 @@
 | **Year** | 2018 |
 | **Category** | Seminary role in post-theocratic society |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 5 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://utoronto.scholaris.ca/bitstreams/9b437933-f5b0-45fa-8731-48f6d39f6d35/download) |

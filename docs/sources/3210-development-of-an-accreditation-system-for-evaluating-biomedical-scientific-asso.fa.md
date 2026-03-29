@@ -5,8 +5,8 @@
 | نویسندگان | Shadi Asadzandi, A. Mohammadi, A. Esteghamati, R. Mojtahedzadeh, A. Hashemian, Mohammad Jabbari |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.47176/mjiri.36.63](https://doi.org/10.47176/mjiri.36.63) |

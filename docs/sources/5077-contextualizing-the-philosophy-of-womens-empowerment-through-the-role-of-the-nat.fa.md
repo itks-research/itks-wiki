@@ -5,8 +5,8 @@
 | نویسندگان | S. Suryani, Zurifah Nurdin, Nelly Marhayati |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.29300/madania.v28i1.4597](https://doi.org/10.29300/madania.v28i1.4597) |

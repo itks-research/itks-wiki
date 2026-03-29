@@ -5,8 +5,8 @@
 | نویسندگان | Paulus Kirchhof, Stefano Benussi, Dipak Kotecha, Anders Ahlsson, Dan Atar, Barbara Casadei, Manuel Castellà, Hans‐Christoph Diener, Hein Heidbüchel, Jeroen Hendriks, Gerhard Hindricks, Antonis S. Manolis, Jonas Oldgren, Bogdan A. Popescu, Ulrich Schotten, Bart Van de Putte, Panagiotis Vardas, Stefan Agewall, A. John Camm, Gonzalo Barón‐Esquivias, Werner Budts, Scipione Carerj, Filip Casselman, António Coca, Raffaele De Caterina, Spiridon Deftereos, Dobromir Dobrev, José M. Ferro, Gerasimos Filippatos, Donna Fitzsimons, Bülent Görenek, Maxine Guenoun, Stefan H. Hohnloser, Philippe Kolh, Gregory Y.H. Lip, Athanasios Manolis, John J.V. McMurray, Piotr Ponikowski, Raphaël Rosenhek, Frank Ruschitzka, Irina Savelieva, Sanjay Sharma, Piotr Suwalski, Juan Tamargo, Clare Taylor, Isabelle C. Van Gelder, Adriaan A. Voors, Stephan Windecker, José Luis Zamorano, Katja Zeppenfeld |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 6474 |
 | **شناسه دیجیتال** | [10.1093/europace/euw295](https://doi.org/10.1093/europace/euw295) |

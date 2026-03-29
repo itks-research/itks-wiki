@@ -5,8 +5,8 @@
 | نویسندگان | Mohammadreza Sheykhmousa, Masoud Mahdianpari, Hamid Ghanbari, Fariba Mohammadimanesh, Pedram Ghamisi, Saeid Homayouni |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1018 |
 | **شناسه دیجیتال** | [10.1109/jstars.2020.3026724](https://doi.org/10.1109/jstars.2020.3026724) |

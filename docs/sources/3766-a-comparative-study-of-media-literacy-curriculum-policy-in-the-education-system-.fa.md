@@ -5,8 +5,8 @@
 | نویسندگان | M. Azizi, K. F. Vajargah, Kambiz Poushane, Ali Granmayehpour |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 5 |
 | **شناسه دیجیتال** | [10.52547/IJES.4.1.176](https://doi.org/10.52547/IJES.4.1.176) |

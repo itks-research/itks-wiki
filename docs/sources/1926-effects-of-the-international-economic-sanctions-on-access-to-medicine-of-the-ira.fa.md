@@ -5,8 +5,8 @@
 | نویسندگان | Ali A. Asadi‐Pooya, Majid Nazari, Nafiseh Mirzaei Damabi |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Sanctions unwinding and international reintegration |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | رفع تحریم‌ها و بازادغام بین‌المللی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 14 |
 | **شناسه دیجیتال** | [10.1111/jcpt.13813](https://doi.org/10.1111/jcpt.13813) |

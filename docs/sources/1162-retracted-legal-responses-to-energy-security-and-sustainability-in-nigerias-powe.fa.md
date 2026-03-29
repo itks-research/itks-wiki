@@ -5,8 +5,8 @@
 | نویسندگان | Olusola Joshua Olujobi, Uchechukwu Emena Okorie, Elizabeta Smaranda Olarinde, Adetutu Deborah Aina-Pelemo |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Resource curse management |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | مدیریت نفرین منابع طبیعی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 129 |
 | **شناسه دیجیتال** | [10.1016/j.heliyon.2023.e17912](https://doi.org/10.1016/j.heliyon.2023.e17912) |

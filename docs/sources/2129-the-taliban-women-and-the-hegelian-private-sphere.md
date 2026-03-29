@@ -6,7 +6,7 @@
 | **Year** | 2003 |
 | **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 22 |
 | **Source** | openalex |
 | **DOI** | [10.1353/sor.2003.0054](https://doi.org/10.1353/sor.2003.0054) |

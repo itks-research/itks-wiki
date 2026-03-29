@@ -5,8 +5,8 @@
 | نویسندگان | Hossein Aghaie Joobani, Mohammadhossein Daheshvar |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Sanctions unwinding and international reintegration |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | رفع تحریم‌ها و بازادغام بین‌المللی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.29311/nmes.v10i1.3615](https://doi.org/10.29311/nmes.v10i1.3615) |

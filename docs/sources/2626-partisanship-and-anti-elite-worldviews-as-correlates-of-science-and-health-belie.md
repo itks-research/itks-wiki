@@ -6,7 +6,7 @@
 | **Year** | 2023 |
 | **Category** | Political party formation and pluralism |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 14 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1177/09636625231154131](https://doi.org/10.1177/09636625231154131) |

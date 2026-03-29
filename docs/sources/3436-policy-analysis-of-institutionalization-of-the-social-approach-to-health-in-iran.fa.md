@@ -5,8 +5,8 @@
 | نویسندگان | Ataollah Asadi Louyeh, Amirhossein Takian, Batoul Ahmadi, Mohammad Arab, A. Davoudi Kiakalayeh |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Civil society development |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | توسعه جامعه مدنی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.47176/mjiri.39.66](https://doi.org/10.47176/mjiri.39.66) |

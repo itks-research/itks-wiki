@@ -5,8 +5,8 @@
 | نویسندگان | Facundo Alvaredo, Anthony B. Atkinson, Thomas Piketty, Emmanuel Saez |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Labor market reform and social safety nets |
-| **مطالعه موردی** | Tunisia |
+| **دسته‌بندی** | اصلاح بازار کار و شبکه‌های حمایت اجتماعی |
+| **مطالعه موردی** | تونس |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 828 |
 | **شناسه دیجیتال** | [10.1257/jep.27.3.3](https://doi.org/10.1257/jep.27.3.3) |

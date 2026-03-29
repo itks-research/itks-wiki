@@ -6,7 +6,7 @@
 | **Year** | 2006 |
 | **Category** | Electoral system design and implementation |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 19 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://chaos.if.uj.edu.pl/~karol/pdf/SZapp06.pdf) |

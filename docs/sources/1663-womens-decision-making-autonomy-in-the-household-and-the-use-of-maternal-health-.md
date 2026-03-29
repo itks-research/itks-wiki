@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Anissa Rizkianti, Tin Afifah, Ika Saptarini, Mukhammad Fajar Rakhmadi |
 | **Year** | 2020 |
-| **Category** | Federalism, unitarism, and autonomy models |
+| **Category** | Women's rights codification and gender equality |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 100 |
 | **Source** | openalex |
 | **DOI** | [10.1016/j.midw.2020.102816](https://doi.org/10.1016/j.midw.2020.102816) |

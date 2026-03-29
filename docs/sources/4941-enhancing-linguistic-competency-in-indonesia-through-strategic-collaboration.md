@@ -6,7 +6,7 @@
 | **Year** | 2025 |
 | **Category** | Minority rights |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.30564/fls.v7i7.9381](https://doi.org/10.30564/fls.v7i7.9381) |

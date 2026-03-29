@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Sanjaya Lall |
 | **Year** | 2000 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Trade liberalization and foreign direct investment |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 1361 |
 | **Source** | openalex |
 | **DOI** | [10.1080/713688318](https://doi.org/10.1080/713688318) |

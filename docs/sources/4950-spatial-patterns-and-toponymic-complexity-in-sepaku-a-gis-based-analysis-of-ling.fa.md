@@ -5,8 +5,8 @@
 | نویسندگان | Nab'han Musyaffa, Yulius, Taqyuddin, Aprizon Putra, Nani Darheni, I. Yance, Muhammad Ramdhan, Mudjijono, Hasanuddin, Bambang Hendarta Suta Purwana, Wasita, O. Dewi, A. Rostiyati |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Minority rights |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | حقوق اقلیت‌ها |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.30564/fls.v7i12.11804](https://doi.org/10.30564/fls.v7i12.11804) |

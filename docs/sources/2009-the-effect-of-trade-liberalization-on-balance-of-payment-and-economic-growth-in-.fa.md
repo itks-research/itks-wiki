@@ -5,8 +5,8 @@
 | نویسندگان | Yalda Sadat Amini, Abuzar Hatami Qushchi, Leila Zeinalzadeh Ahranjani, Nader Sadat Amini |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | Trade liberalization and foreign direct investment |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادسازی تجارت و سرمایه‌گذاری خارجی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 3 |
 

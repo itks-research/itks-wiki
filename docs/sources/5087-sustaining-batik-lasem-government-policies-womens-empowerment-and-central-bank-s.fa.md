@@ -5,8 +5,8 @@
 | نویسندگان | Tinjung Desy Nursanti, Evy Steelyana Wiyarti |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.21098/jcli.v4i2.286](https://doi.org/10.21098/jcli.v4i2.286) |

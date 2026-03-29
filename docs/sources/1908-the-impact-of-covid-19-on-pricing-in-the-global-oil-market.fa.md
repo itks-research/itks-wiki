@@ -5,8 +5,8 @@
 | نویسندگان | Larisa G. Chuvakhina, Irina Yarygina, Olga Ustinova, Valentina Mironova, Zhanna Ivanovskaya |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Trade liberalization and foreign direct investment |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادسازی تجارت و سرمایه‌گذاری خارجی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.32479/ijeep.13450](https://doi.org/10.32479/ijeep.13450) |

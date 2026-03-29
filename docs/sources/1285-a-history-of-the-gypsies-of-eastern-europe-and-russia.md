@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | David M. Crowe |
 | **Year** | 2007 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 215 |
 | **Source** | openalex |
 | **DOI** | [10.1007/978-1-137-10596-7](https://doi.org/10.1007/978-1-137-10596-7) |

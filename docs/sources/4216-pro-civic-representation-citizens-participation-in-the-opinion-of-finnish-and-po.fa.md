@@ -5,8 +5,8 @@
 | نویسندگان | ", Katarzyna Radzik-Maruszak, Arto Haveri, Agnieszka Pawłowska |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 6 |
 | **شناسه دیجیتال** | [10.24193/tras.60e.6](https://doi.org/10.24193/tras.60e.6) |

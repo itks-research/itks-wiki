@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Abdulaziz H. Al-Fahad |
 | **Year** | 2005 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Constitutional design and drafting processes |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 57 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=1254&context=yjil) |

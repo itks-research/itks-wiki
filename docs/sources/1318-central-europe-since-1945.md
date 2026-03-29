@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Paul G. Lewis |
 | **Year** | 2014 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Judicial independence and rule of law |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 11 |
 | **Source** | openalex |
 | **DOI** | [10.4324/9781315846385](https://doi.org/10.4324/9781315846385) |

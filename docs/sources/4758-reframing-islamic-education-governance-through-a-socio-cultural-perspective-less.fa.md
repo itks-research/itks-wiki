@@ -5,8 +5,8 @@
 | نویسندگان | Rizal Anshorudin, Mohamad Erihadiana, Ilham Nurjaman, Dede Supriyatna |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.15575/kpi.v7i3.51883](https://doi.org/10.15575/kpi.v7i3.51883) |

@@ -5,8 +5,8 @@
 | نویسندگان | Andrea Ciorba, Chiara Bianchini, Stefano Pelucchi, Antonio Luigi Pastore |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | Political party formation and pluralism |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | شکل‌گیری احزاب سیاسی و تکثرگرایی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 596 |
 | **شناسه دیجیتال** | [10.2147/cia.s26059](https://doi.org/10.2147/cia.s26059) |

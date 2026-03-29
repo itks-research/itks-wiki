@@ -6,7 +6,7 @@
 | **Year** | 2013 |
 | **Category** | Diaspora repatriation and reintegration |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 1 |
 | **Source** | openalex |
 | **DOI** | [10.1590/s1980-85852013000200009](https://doi.org/10.1590/s1980-85852013000200009) |

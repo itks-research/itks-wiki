@@ -5,8 +5,8 @@
 | نویسندگان | Huw Roberts, Josh Cowls, Jessica Morley, Mariarosaria Taddeo, Vincent Wang, Luciano Floridi |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | روابط نظامی-غیرنظامی و اصلاح بخش امنیتی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 495 |
 | **شناسه دیجیتال** | [10.1007/s00146-020-00992-2](https://doi.org/10.1007/s00146-020-00992-2) |

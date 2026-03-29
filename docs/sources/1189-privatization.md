@@ -6,7 +6,7 @@
 | **Year** | 1992 |
 | **Category** | Privatization and state-owned enterprise restructuring |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 137 |
 | **Source** | openalex |
 | **DOI** | [10.1596/0-8213-2181-1](https://doi.org/10.1596/0-8213-2181-1) |

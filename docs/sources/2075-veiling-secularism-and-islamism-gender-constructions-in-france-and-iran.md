@@ -6,7 +6,7 @@
 | **Year** | 2010 |
 | **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 5 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.4314/JSR.V20I1.54415](https://doi.org/10.4314/JSR.V20I1.54415) |

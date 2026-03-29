@@ -6,7 +6,7 @@
 | **Year** | 2016 |
 | **Category** | IRGC economic empire and its dismantling |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1 |
 | **Source** | openalex |
 | **DOI** | [10.25777/mfab-pf41](https://doi.org/10.25777/mfab-pf41) |

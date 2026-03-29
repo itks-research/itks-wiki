@@ -5,8 +5,8 @@
 | نویسندگان | Abdel-Tawab Halim Moss, Nilly Ahmed Hassan Abdelfatta, Samia M.M. Mohafrash |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Tunisia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | تونس |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 50 |
 | **شناسه دیجیتال** | [10.3923/ajcs.2017.50.62](https://doi.org/10.3923/ajcs.2017.50.62) |

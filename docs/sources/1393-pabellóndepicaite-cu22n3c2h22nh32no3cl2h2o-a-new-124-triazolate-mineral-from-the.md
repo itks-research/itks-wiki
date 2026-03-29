@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | A. R. Kampf, G. Möhn, Chiu‐Shun Ma, Joy Désor |
 | **Year** | 2024 |
-| **Category** | Transitional justice |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1180/mgm.2024.55](https://doi.org/10.1180/mgm.2024.55) |

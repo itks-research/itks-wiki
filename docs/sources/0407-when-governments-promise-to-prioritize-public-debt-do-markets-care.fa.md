@@ -5,8 +5,8 @@
 | نویسندگان | Mitu Gulati, Ugo Panizza, Mark C. Weidemaier, Gracie Willingham |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 16 |
 | **شناسه دیجیتال** | [10.1093/jfr/fjaa001](https://doi.org/10.1093/jfr/fjaa001) |

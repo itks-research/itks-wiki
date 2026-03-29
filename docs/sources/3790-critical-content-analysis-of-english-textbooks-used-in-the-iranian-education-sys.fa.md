@@ -5,8 +5,8 @@
 | نویسندگان | Ahmad Asakereh, Nouroddin Yousofi, Hiwa Weisi |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 15 |
 

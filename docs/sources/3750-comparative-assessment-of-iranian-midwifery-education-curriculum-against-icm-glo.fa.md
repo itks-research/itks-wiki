@@ -5,8 +5,8 @@
 | نویسندگان | Narjes Bahri, Mahbubeh Tabatabaeichehr, Robab Latifnejad Roudsari |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 5 |
 | **شناسه دیجیتال** | [10.22038/fmej.2018.33550.1212](https://doi.org/10.22038/fmej.2018.33550.1212) |

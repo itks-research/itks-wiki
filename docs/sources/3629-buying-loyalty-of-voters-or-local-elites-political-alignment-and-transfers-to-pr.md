@@ -6,7 +6,7 @@
 | **Year** | 2020 |
 | **Category** | Bonyad system reform |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://wp.hse.ru/data/2020/08/10/1600784574/73PS2020.pdf) |

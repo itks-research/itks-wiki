@@ -5,8 +5,8 @@
 | نویسندگان | Adam Hawari, Faisal Madjid Alyasa, Muhammad Reyhan Akbar, Estro Dariatno Sihaloho |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 4 |
 | **شناسه دیجیتال** | [10.18196/jerss.v8i1.19273](https://doi.org/10.18196/jerss.v8i1.19273) |

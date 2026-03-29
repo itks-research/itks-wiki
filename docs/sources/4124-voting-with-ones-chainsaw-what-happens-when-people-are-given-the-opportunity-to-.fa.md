@@ -5,8 +5,8 @@
 | نویسندگان | Jakub Kronenberg, E. Łaszkiewicz, Joanna Szilo |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 35 |
 | **شناسه دیجیتال** | [10.1016/J.LANDURBPLAN.2021.104041](https://doi.org/10.1016/J.LANDURBPLAN.2021.104041) |

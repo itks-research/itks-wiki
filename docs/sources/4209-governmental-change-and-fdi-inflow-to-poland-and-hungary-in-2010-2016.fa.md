@@ -5,8 +5,8 @@
 | نویسندگان | Marta Götz, Barbara Jankowska, Anna Matysek-Jędrych, Katarzyna Mroczek‐Dąbrowska |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 11 |
 | **شناسه دیجیتال** | [10.15678/eber.2018.060109](https://doi.org/10.15678/eber.2018.060109) |

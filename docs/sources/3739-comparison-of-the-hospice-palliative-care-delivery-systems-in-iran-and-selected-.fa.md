@@ -5,8 +5,8 @@
 | نویسندگان | Kourosh Zarea, Maryam Rassouli, Maryam Hazrati, Shahram Molavynejad, Samira Beiranvand |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 14 |
 | **شناسه دیجیتال** | [10.5812/ijcm.101635](https://doi.org/10.5812/ijcm.101635) |

@@ -5,8 +5,8 @@
 | **Authors** | Dewi Fortuna Anwar |
 | **Year** | 2018 |
 | **Category** | Religious freedom and separation of religion from state |
-| **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Case Study** | Indonesia |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 71 |
 | **Source** | openalex |
 | **DOI** | [10.14203/jissh.v3i1.45](https://doi.org/10.14203/jissh.v3i1.45) |

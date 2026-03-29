@@ -6,7 +6,7 @@
 | **Year** | 2024 |
 | **Category** | Transitional justice |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 9 |
 | **Source** | openalex |
 | **DOI** | [10.4324/9781003461548](https://doi.org/10.4324/9781003461548) |

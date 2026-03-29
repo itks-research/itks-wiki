@@ -5,8 +5,8 @@
 | نویسندگان | Louis Lebel, John M. Anderies, Bruce Campbell, Carl Folke, Steve Hatfield–Dodds, Terry P. Hughes, James A. Wilson |
 |---|---|
 | **سال** | 2006 |
-| **دسته‌بندی** | Minority rights |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | حقوق اقلیت‌ها |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 1346 |
 | **شناسه دیجیتال** | [10.5751/es-01606-110119](https://doi.org/10.5751/es-01606-110119) |

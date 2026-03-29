@@ -5,8 +5,8 @@
 | نویسندگان | Leila Rouhi Balasi, Nasrin Elahi, Abbas Ebadi, Maryam Hazrati, Simin Jahani |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 6 |
 | **شناسه دیجیتال** | [10.20529/ijme.2022.027](https://doi.org/10.20529/ijme.2022.027) |

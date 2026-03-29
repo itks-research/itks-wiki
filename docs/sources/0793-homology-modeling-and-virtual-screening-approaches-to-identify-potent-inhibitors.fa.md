@@ -5,8 +5,8 @@
 | نویسندگان | Abdelmonaem Messaoudi, Hatem Belguith, Jeannette Ben Hamida |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Tunisia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | تونس |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 150 |
 | **شناسه دیجیتال** | [10.1186/1742-4682-10-22](https://doi.org/10.1186/1742-4682-10-22) |

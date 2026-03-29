@@ -5,8 +5,8 @@
 | نویسندگان | Jakub Sawulski, Nikodem Szewczyk, Kinga Rafalska, Maciej Smółko |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 7 |
 | **شناسه دیجیتال** | [10.1017/bap.2023.3](https://doi.org/10.1017/bap.2023.3) |

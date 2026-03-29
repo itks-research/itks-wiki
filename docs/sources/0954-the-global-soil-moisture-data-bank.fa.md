@@ -5,8 +5,8 @@
 | نویسندگان | Alan Robock, Konstantin Y. Vinnikov, Govindarajalu Srinivasan, Jared Entin, Steven E. Hollinger, N. A. Speranskaya, Suxia Liu, A. Namkhai |
 |---|---|
 | **سال** | 2000 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 873 |
 | **شناسه دیجیتال** | [10.1175/1520-0477(2000)081<1281:tgsmdb>2.3.co;2](https://doi.org/10.1175/1520-0477(2000)081<1281:tgsmdb>2.3.co;2) |

@@ -6,7 +6,7 @@
 | **Year** | 2023 |
 | **Category** | Electoral system design and implementation |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 5 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1177/13540688231196111](https://doi.org/10.1177/13540688231196111) |

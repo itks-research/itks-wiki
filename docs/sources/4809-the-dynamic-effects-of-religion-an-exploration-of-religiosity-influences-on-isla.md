@@ -6,7 +6,7 @@
 | **Year** | 2023 |
 | **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 23 |
 | **Source** | openalex |
 | **DOI** | [10.1080/23311975.2023.2181127](https://doi.org/10.1080/23311975.2023.2181127) |

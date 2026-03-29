@@ -6,7 +6,7 @@
 | **Year** | 2019 |
 | **Category** | Judicial independence and rule of law |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 228 |
 | **Source** | openalex |
 | **DOI** | [10.1017/cel.2019.11](https://doi.org/10.1017/cel.2019.11) |

@@ -5,8 +5,8 @@
 | نویسندگان | Barreto, Maurício Lima, Teixeira, M. Gloria, Bastos, Francisco Inácio Pinkusfeld Monteiro, Ximenes, Ricardo Arraes de Alencar, Barata, Rita de Cássia Barradas, Rodrigues, Laura C. |
 |---|---|
 | **سال** | 2008 |
-| **دسته‌بندی** | Political party formation and pluralism |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | شکل‌گیری احزاب سیاسی و تکثرگرایی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 22517 |
 | **شناسه دیجیتال** | [10.1016/s0140](https://doi.org/10.1016/s0140) |

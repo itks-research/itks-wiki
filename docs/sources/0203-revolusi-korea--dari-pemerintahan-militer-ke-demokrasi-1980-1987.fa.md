@@ -5,8 +5,8 @@
 | نویسندگان | Mahlijar Azhar Mubarak, Didin Samsudin, Risa Triarisanti |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Political party formation and pluralism |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | شکل‌گیری احزاب سیاسی و تکثرگرایی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.17509/historia.v7i1.69495](https://doi.org/10.17509/historia.v7i1.69495) |

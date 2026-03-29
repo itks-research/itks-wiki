@@ -5,8 +5,8 @@
 | نویسندگان | Mohammadreza Abdolmaleki, Shahram Yazdani, Nader Momtazmanesh, Sedigheh Momeni |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 4 |
 | **شناسه دیجیتال** | [10.22037/jme.v16i2.16057](https://doi.org/10.22037/jme.v16i2.16057) |

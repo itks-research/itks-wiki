@@ -5,8 +5,8 @@
 | نویسندگان | Fidhia Aruni, S. Safrida, Nila Safrida, Saiful Bahri, Rudi Kurniawan |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.24258/jba.v21i1.1597](https://doi.org/10.24258/jba.v21i1.1597) |

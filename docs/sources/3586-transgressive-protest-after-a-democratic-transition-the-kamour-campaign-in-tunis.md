@@ -6,7 +6,7 @@
 | **Year** | 2021 |
 | **Category** | Bonyad system reform |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 11 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1080/14742837.2021.1967128](https://doi.org/10.1080/14742837.2021.1967128) |

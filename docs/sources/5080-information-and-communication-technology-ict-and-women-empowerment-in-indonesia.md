@@ -6,7 +6,7 @@
 | **Year** | 2019 |
 | **Category** | Women's rights codification and gender equality |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 6 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.18510/HSSR.2019.7339](https://doi.org/10.18510/HSSR.2019.7339) |

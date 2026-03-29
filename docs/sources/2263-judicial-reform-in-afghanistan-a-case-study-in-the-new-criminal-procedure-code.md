@@ -6,7 +6,7 @@
 | **Year** | 2005 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 46 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://repository.uchastings.edu/hastings_international_comparative_law_review/vol29/iss1/5) |

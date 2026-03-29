@@ -5,8 +5,8 @@
 | نویسندگان | Parisa Riahipour, Mansoor Tavakoli, Abbas Eslami Rasekh |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 1 |
 

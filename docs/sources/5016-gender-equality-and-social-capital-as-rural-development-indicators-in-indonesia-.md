@@ -6,7 +6,7 @@
 | **Year** | 2015 |
 | **Category** | Women's rights codification and gender equality |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 19 |
 | **Source** | openalex |
 | **DOI** | [10.1016/j.sbspro.2015.11.048](https://doi.org/10.1016/j.sbspro.2015.11.048) |
@@ -15,3 +15,14 @@
 ## Abstract
 
 Gender is one of national development's issues in Indonesia, while social capital has been proven as a development generator. This paper observed the linkage between gender inequality, which was assessed by GII, and social capital, which was analyzed by SOCAT. The research shows that GII scores, ranging from 0.32 to 0.49, were higher than national average. The GII scores correspond to social capital's score. It indicates that gender equality is significant to social capital in Indonesia. The findings prescribe that if development paradigm in Indonesia is based on social capital, then gender development should be part of national development focuses.
+
+## Related Sources
+
+- **contradicts** [Women's Economic Empowerment Through Sharia Micro-Finance Institutions In Indonesia: A Qualitative Research](5092-womens-economic-empowerment-through-sharia-micro-finance-institutions-in-indones.md)
+- **extends** [Problematika Kekerasan Berbasis Gender Dan Pencapaian Gender Equality Dalam Sustainable Development Goals Di Indonesia](5026-problematika-kekerasan-berbasis-gender-dan-pencapaian-gender-equality-dalam-sust.md)
+- **contradicts** [Gender Equality in Indigenous Peoples in Indonesia (Challenges and Efforts Towards the 2030 Sustainable Development Goals)](5021-gender-equality-in-indigenous-peoples-in-indonesia-challenges-and-efforts-toward.md)
+- **extends** [Sustainable development goals on gender equality disclosure practices of Indonesian companies](5025-sustainable-development-goals-on-gender-equality-disclosure-practices-of-indones.md)
+- **contradicts** [Love Jihad and the Governance of Gender and Intimacy in Hindu Nationalist Statecraft](5004-love-jihad-and-the-governance-of-gender-and-intimacy-in-hindu-nationalist-statec.md)
+- **contradicts** [Civic Engagement and Democracy in Post-Suharto Indonesia: A Review of Musrenbang, the Kecamatan Development Programme, and Labour Organising](4983-civic-engagement-and-democracy-in-post-suharto-indonesia-a-review-of-musrenbang-.md)
+- **extends** [Participatory action research in health systems : a methods reader](4987-participatory-action-research-in-health-systems--a-methods-reader.md)
+- **contradicts** [Adapting land administration to the institutional framework of customary tenure: The case of peri-urban Ghana](5000-adapting-land-administration-to-the-institutional-framework-of-customary-tenure-.md)

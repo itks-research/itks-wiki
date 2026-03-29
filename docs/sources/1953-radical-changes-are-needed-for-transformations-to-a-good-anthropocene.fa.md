@@ -5,8 +5,8 @@
 | نویسندگان | Timon McPhearson, Christopher M. Raymond, Natalie Marie Gulsrud, Christian Albert, Neil Coles, Nora Fagerholm, Michiru Nagatsu, Anton Stahl Olafsson, Niko Soininen, Kati Vierikko |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Resource curse management |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | مدیریت نفرین منابع طبیعی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 227 |
 | **شناسه دیجیتال** | [10.1038/s42949-021-00017-x](https://doi.org/10.1038/s42949-021-00017-x) |

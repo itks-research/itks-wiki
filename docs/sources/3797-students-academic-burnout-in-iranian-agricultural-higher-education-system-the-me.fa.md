@@ -5,8 +5,8 @@
 | نویسندگان | Mahnaz Tajeri Moghadam, Enayat Abbasi, Zahra Khoshnodifar |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 39 |
 | **شناسه دیجیتال** | [10.1016/j.heliyon.2020.e04960](https://doi.org/10.1016/j.heliyon.2020.e04960) |

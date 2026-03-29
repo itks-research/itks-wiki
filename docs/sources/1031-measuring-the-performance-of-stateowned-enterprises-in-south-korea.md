@@ -6,7 +6,7 @@
 | **Year** | 1993 |
 | **Category** | Privatization and state-owned enterprise restructuring |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **DOI** | [10.1080/02185379308434028](https://doi.org/10.1080/02185379308434028) |

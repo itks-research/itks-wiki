@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Reid B.C. Pauly |
 | **Year** | 2024 |
-| **Category** | IRGC economic empire and its dismantling |
+| **Category** | Sanctions unwinding and international reintegration |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 7 |
 | **Source** | openalex |
 | **DOI** | [10.1162/isec_a_00488](https://doi.org/10.1162/isec_a_00488) |

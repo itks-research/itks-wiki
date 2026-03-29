@@ -5,8 +5,8 @@
 | نویسندگان | Jodi Hilty, Graeme L. Worboys, Annika T. H. Keeley, Stephen Woodley, Barbara J. Lausche, Harvey Locke, Mark H. Carr, Ian Pulsford, Jamie Pittock, J. Wilson White, David M. Theobald, Jessica Levine, Melly Reuling, James Watson, Rob Ament, Gary Tabor |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Cultural heritage preservation during institutional change |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | حفظ میراث فرهنگی در دوره تحولات نهادی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 426 |
 | **شناسه دیجیتال** | [10.2305/iucn.ch.2020.pag.30.en](https://doi.org/10.2305/iucn.ch.2020.pag.30.en) |

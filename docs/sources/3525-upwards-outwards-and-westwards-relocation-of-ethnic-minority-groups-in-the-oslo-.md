@@ -6,7 +6,7 @@
 | **Year** | 2013 |
 | **Category** | Minority rights |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 55 |
 | **Source** | openalex |
 | **DOI** | [10.1111/geob.12006](https://doi.org/10.1111/geob.12006) |

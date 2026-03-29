@@ -6,7 +6,7 @@
 | **Year** | 2000 |
 | **Category** | Privatization and state-owned enterprise restructuring |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 9 |
 | **Source** | openalex |
 | **DOI** | [10.1177/00953990022019416](https://doi.org/10.1177/00953990022019416) |

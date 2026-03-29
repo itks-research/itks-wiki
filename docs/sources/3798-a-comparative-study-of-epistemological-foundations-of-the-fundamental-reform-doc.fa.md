@@ -5,8 +5,8 @@
 | نویسندگان | Mahbobe Janbozorgi, Hamid Reza Rezazadeh Bahadoran, Abbas Gholtash, Alireza Araghieh |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.22034/ijce.2022.294486.1331](https://doi.org/10.22034/ijce.2022.294486.1331) |

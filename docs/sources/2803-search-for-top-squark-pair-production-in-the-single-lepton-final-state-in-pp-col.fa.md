@@ -5,8 +5,8 @@
 | نویسندگان | S. Chatrchyan, V. Khachatryan, A. M. Sirunyan, A. Tumasyan, W. Adam, T. Bergauer, M. Dragicevic, J. Erö, C. Fabjan, M. Friedl, R. Frühwirth, V. M. Ghete, N. Hörmann, J. Hrubec, M. Jeitler, W. Kiesenhofer, V. Knünz, M. Krammer, I. Krätschmer, D. Liko, I. Mikulec, D. Rabady, B. Rahbaran, C. Rohringer, H. Rohringer, R. Schöfbeck, J. Strauss, A. Taurok, W. Treberer-Treberspurg, W. Waltenberger, C.-E. Wulz, V. Mossolov, N. Shumeiko, J. Suarez Gonzalez, S. Alderweireldt, M. Bansal, S. Bansal, T. Cornelis, E. A. De Wolf, X. Janssen, A. Knutsson, S. Luyckx, L. Mucibello, S. Ochesanu, B. Roland, R. Rougny, Z. Staykova, H. Van Haevermaet, P. Van Mechelen, N. Van Remortel, A. Van Spilbeeck, F. Blekman, S. Blyweert, J. D’Hondt, A. Kalogeropoulos, J. Keaveney, S. Lowette, M. Maes, A. Olbrechts, S. Tavernier, W. Van Doninck, P. Van Mulders, G. P. Van Onsem, I. Villella, C. Caillol, B. Clerbaux, G. De Lentdecker, L. Favart, A. P. R. Gay, T. Hreus, A. Léonard, P. E. Marage, A. Mohammadi, L. Perniè, T. Reis, T. Ševa, L. Thomas, C. Vander Velde, P. Vanlaer, J. Wang, V. Adler, K. Beernaert, L. Benucci, A. Cimmino, Silvia Costantini, S. Dildick, G. Garcia, B. Klein, J. Lellouch, A. Marinov, J. Mccartin, A. A. Ocampo Rios, D. Ryckbosch, M. Sigamani, N. Strobbe, F. Thyssen, M. Tytgat, S. Walsh, E. Yazgan, N. Zaganidis |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 278 |
 | **شناسه دیجیتال** | [10.1140/epjc/s10052-013-2677-2](https://doi.org/10.1140/epjc/s10052-013-2677-2) |

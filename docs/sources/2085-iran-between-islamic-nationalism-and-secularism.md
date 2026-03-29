@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | Vanessa Martín |
 | **Year** | 2013 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Constitutional design and drafting processes |
+| **Secondary Categories** | Political party formation and pluralism |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 32 |
 | **Source** | openalex |
 | **DOI** | [10.5040/9780755608409](https://doi.org/10.5040/9780755608409) |

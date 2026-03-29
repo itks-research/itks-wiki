@@ -5,8 +5,8 @@
 | نویسندگان | Mehdi Norouzi, Zahra Amiri, Ehsan Mosa Farkhani, S. Hoseini, Tahereh Khosravi Asl |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 5 |
 | **شناسه دیجیتال** | [10.34172/ehsj.26105](https://doi.org/10.34172/ehsj.26105) |

@@ -6,7 +6,7 @@
 | **Year** | 2005 |
 | **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 99 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://hdl.handle.net/10125/3501) |

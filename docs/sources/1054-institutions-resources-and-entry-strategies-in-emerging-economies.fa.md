@@ -5,8 +5,8 @@
 | نویسندگان | Klaus E. Meyer, Saul Estrin, Sumon Kumar Bhaumik, Mike W. Peng |
 |---|---|
 | **سال** | 2008 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | خصوصی‌سازی و بازسازی شرکت‌های دولتی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 1808 |
 | **شناسه دیجیتال** | [10.1002/smj.720](https://doi.org/10.1002/smj.720) |

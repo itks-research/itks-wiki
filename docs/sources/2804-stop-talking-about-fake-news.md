@@ -6,7 +6,7 @@
 | **Year** | 2018 |
 | **Category** | Transitional justice |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 226 |
 | **Source** | openalex |
 | **DOI** | [10.1080/0020174x.2018.1508363](https://doi.org/10.1080/0020174x.2018.1508363) |

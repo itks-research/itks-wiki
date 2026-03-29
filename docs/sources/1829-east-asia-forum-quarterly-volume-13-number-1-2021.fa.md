@@ -5,8 +5,8 @@
 | نویسندگان | James Curran, Ryan Hass, Peter Drysdale, Arius Derr, Nicol Brodie, David Chieng, Alison Darby, S.A. Ford, Oliver Friedmann, Annie Gao, Brandon Harrington, Ingrid Mao, Dorothy Mason, James Naylor-Pratt, Jake Read, Maya Salama, Lily Shen, David Wu, Max Suich, Niki Van Den Heuvel |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Sanctions unwinding and international reintegration |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | رفع تحریم‌ها و بازادغام بین‌المللی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.22459/eafq.13.01.2021](https://doi.org/10.22459/eafq.13.01.2021) |

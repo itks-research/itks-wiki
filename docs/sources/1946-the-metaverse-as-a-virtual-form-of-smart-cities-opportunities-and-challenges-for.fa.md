@@ -5,8 +5,8 @@
 | نویسندگان | Zaheer Allam, Ayyoob Sharifi, Simon Elias Bibri, David S. Jones, John Krogstie |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | خصوصی‌سازی و بازسازی شرکت‌های دولتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 623 |
 | **شناسه دیجیتال** | [10.3390/smartcities5030040](https://doi.org/10.3390/smartcities5030040) |

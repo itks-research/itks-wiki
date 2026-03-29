@@ -5,8 +5,8 @@
 | نویسندگان | Muhammad Bayanullah, Moh. Khusaini, A. Madjid, Slamet Wahyudi, Mariyam Jameelah |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 5.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.29303/ius.v13i1.1664](https://doi.org/10.29303/ius.v13i1.1664) |

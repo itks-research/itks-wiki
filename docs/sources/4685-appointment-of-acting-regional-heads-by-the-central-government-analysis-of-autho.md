@@ -6,7 +6,7 @@
 | **Year** | 2026 |
 | **Category** | Federalism, unitarism, and autonomy models |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.51601/ijse.v6i1.352](https://doi.org/10.51601/ijse.v6i1.352) |

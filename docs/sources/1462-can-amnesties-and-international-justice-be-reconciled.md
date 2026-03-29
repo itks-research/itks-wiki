@@ -6,7 +6,7 @@
 | **Year** | 2007 |
 | **Category** | Transitional justice |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 97 |
 | **Source** | openalex |
 | **DOI** | [10.1093/ijtj/ijm020](https://doi.org/10.1093/ijtj/ijm020) |

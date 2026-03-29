@@ -5,8 +5,8 @@
 | نویسندگان | Elahe Setoodegan, Sakineh Gholamzadeh, Mahnaz Rakhshan, Hamid Peiravi |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 32 |
 | **شناسه دیجیتال** | [10.1016/j.ijnss.2019.05.002](https://doi.org/10.1016/j.ijnss.2019.05.002) |

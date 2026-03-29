@@ -5,8 +5,8 @@
 | نویسندگان | Justo Mora, Miguel Arenillas, Guillermo Cobos, José Navarro |
 |---|---|
 | **سال** | 2006 |
-| **دسته‌بندی** | Cultural heritage preservation during institutional change |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | حفظ میراث فرهنگی در دوره تحولات نهادی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 7 |
 | **شناسه دیجیتال** | [10.1051/lhb:200603010](https://doi.org/10.1051/lhb:200603010) |

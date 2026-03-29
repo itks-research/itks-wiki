@@ -6,7 +6,7 @@
 | **Year** | 2026 |
 | **Category** | Minority rights |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.64420/ijgcs.v3i1.485](https://doi.org/10.64420/ijgcs.v3i1.485) |

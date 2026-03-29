@@ -6,7 +6,7 @@
 | **Year** | 2010 |
 | **Category** | Nuclear program civilian transition |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 50 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://www.sussex.ac.uk/webteam/gateway/file.php?name=cgpe-wp07-antoniades-miskimmon-oloughlin.pdf&site=359) |

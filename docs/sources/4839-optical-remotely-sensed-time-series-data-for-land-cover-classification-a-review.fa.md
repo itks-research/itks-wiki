@@ -5,8 +5,8 @@
 | نویسندگان | Cristina Gómez, Joanne C. White, Michael A. Wulder |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1166 |
 | **شناسه دیجیتال** | [10.1016/j.isprsjprs.2016.03.008](https://doi.org/10.1016/j.isprsjprs.2016.03.008) |

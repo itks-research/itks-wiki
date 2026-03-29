@@ -5,8 +5,8 @@
 | نویسندگان | Helena Borges Martins da Silva Paro, Renata Mahfuz Daud-Gallotti, Iolanda de Fátima Lopes Calvo Tibério, Rogério MC Pinto, Mílton A. Martins |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 136 |
 | **شناسه دیجیتال** | [10.1186/1472-6920-12-73](https://doi.org/10.1186/1472-6920-12-73) |

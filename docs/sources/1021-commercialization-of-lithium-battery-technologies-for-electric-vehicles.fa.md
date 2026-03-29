@@ -5,8 +5,8 @@
 | نویسندگان | Xiaoqiao Zeng, Matthew Li, Deia Abd El‐Hady, Wael Alshitari, Abdullah S. Al‐Bogami, Jun Lü, Khalil Amine |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Banking and financial system reform |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | اصلاح نظام بانکی و مالی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 1433 |
 | **شناسه دیجیتال** | [10.1002/aenm.201900161](https://doi.org/10.1002/aenm.201900161) |

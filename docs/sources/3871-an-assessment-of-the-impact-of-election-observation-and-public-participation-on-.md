@@ -6,7 +6,7 @@
 | **Year** | 2025 |
 | **Category** | Nuclear program civilian transition |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.70382/caijlphr.v8i6.045](https://doi.org/10.70382/caijlphr.v8i6.045) |

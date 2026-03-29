@@ -5,8 +5,8 @@
 | نویسندگان | Ebrahim Azimi Mohammad Abad, Abdollah Baradaran |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 18 |
 | **شناسه دیجیتال** | [10.7575/aiac.ijalel.v.2n.3p.176](https://doi.org/10.7575/aiac.ijalel.v.2n.3p.176) |

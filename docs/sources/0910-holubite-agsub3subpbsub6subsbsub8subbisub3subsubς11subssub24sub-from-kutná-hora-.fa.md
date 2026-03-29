@@ -5,8 +5,8 @@
 | نویسندگان | R. Pažout, Jakub Plášil, Michal Dušek, Jiří Sejkora, Zdeněk Dolníček |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Cultural heritage preservation during institutional change |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | حفظ میراث فرهنگی در دوره تحولات نهادی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 5 |
 | **شناسه دیجیتال** | [10.1180/mgm.2023.34](https://doi.org/10.1180/mgm.2023.34) |

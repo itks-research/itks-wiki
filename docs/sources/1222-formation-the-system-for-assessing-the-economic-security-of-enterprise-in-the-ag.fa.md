@@ -5,8 +5,8 @@
 | نویسندگان | Yaroslav Pushak, Volodymyr Lagodiienko, Nataliya Basiurkina, Valerii Nemchenko, Nataliіa Lagodiіenko |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | خصوصی‌سازی و بازسازی شرکت‌های دولتی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 51 |
 | **شناسه دیجیتال** | [10.3846/btp.2021.13013](https://doi.org/10.3846/btp.2021.13013) |

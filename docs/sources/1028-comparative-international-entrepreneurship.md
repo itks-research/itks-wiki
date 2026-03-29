@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Siri Terjesen, Jolanda Hessels, Dan Li |
 | **Year** | 2013 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Trade liberalization and foreign direct investment |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 505 |
 | **Source** | openalex |
 | **DOI** | [10.1177/0149206313486259](https://doi.org/10.1177/0149206313486259) |

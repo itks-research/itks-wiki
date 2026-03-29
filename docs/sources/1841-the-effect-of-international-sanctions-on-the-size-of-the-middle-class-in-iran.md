@@ -6,7 +6,7 @@
 | **Year** | 2025 |
 | **Category** | Sanctions unwinding and international reintegration |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 5 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.2139/ssrn.4882432](https://doi.org/10.2139/ssrn.4882432) |

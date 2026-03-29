@@ -6,7 +6,7 @@
 | **Year** | 2023 |
 | **Category** | Bonyad system reform |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.51918/ceh.2023.1-2.3](https://doi.org/10.51918/ceh.2023.1-2.3) |

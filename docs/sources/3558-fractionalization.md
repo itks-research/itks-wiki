@@ -6,7 +6,7 @@
 | **Year** | 2003 |
 | **Category** | Minority rights |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 413 |
 | **Source** | openalex |
 | **DOI** | [10.3386/w9411](https://doi.org/10.3386/w9411) |

@@ -5,8 +5,8 @@
 | نویسندگان | Haruna Martins Ojoajogwu, Atuluku Andrew Samuel |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.58806/ijsshmr.2025.v4i8n04](https://doi.org/10.58806/ijsshmr.2025.v4i8n04) |

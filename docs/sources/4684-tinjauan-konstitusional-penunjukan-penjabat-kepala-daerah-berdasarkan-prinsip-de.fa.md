@@ -5,8 +5,8 @@
 | نویسندگان | P. Handayani, Ernawati., Kedaulatan Rakyat Penjabat, Kepala Daerah |
 |---|---|
 | **سال** | 2026 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.31004/jerkin.v4i3.4866](https://doi.org/10.31004/jerkin.v4i3.4866) |

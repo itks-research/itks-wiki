@@ -6,7 +6,7 @@
 | **Year** | 2015 |
 | **Category** | Media freedom and press institution building |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 2 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.15633/ACAN.1062](https://doi.org/10.15633/ACAN.1062) |

@@ -5,8 +5,8 @@
 | نویسندگان | Shahin Soltani, Kamran Arvan, B. Karami Matin, Javad Ghoddoosinejad, Fardin Moradi, Hamid Salehiniya |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 4 |
 | **شناسه دیجیتال** | [10.47176/mjiri.38.31](https://doi.org/10.47176/mjiri.38.31) |

@@ -5,8 +5,8 @@
 | نویسندگان | Sarah Whitmee, Andy Haines, Chris Beyrer, Frederick Boltz, Anthony Capon, Braulio Ferreira de Souza Dias, Alex Ezeh, Howard Frumkin, Peng Gong, Peter Head, Richard Horton, Georgina M. Mace, Robert Marten, Samuel S. Myers, Sania Nishtar, Steven A. Osofsky, Subhrendu K. Pattanayak, Montira J. Pongsiri, Cristina Romanelli, Agnès Soucat, Jeanette Vega, Derek Yach |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Labor market reform and social safety nets |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | اصلاح بازار کار و شبکه‌های حمایت اجتماعی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 2753 |
 | **شناسه دیجیتال** | [10.1016/s0140-6736(15)60901-1](https://doi.org/10.1016/s0140-6736(15)60901-1) |

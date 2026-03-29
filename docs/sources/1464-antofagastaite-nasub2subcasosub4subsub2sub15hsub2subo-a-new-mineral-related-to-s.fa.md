@@ -5,8 +5,8 @@
 | نویسندگان | Igor V. Pekov, Vadim M. Kovrugin, Oleg I. Siidra, Н. В. Чуканов, Dmitry I. Belakovskiy, Natalia N. Koshlyakova, Vasiliy O. Yapaskurt, Anna G. Turchkova, Gerhard Möhn |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Chile |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | شیلی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.1180/mgm.2019.17](https://doi.org/10.1180/mgm.2019.17) |

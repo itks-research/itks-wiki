@@ -6,7 +6,7 @@
 | **Year** | 2020 |
 | **Category** | Transitional justice |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 2 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.36280/afpifs.2019.3.22](https://doi.org/10.36280/afpifs.2019.3.22) |

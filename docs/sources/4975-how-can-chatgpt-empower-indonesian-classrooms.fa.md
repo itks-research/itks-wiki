@@ -5,8 +5,8 @@
 | نویسندگان | Kurniawan Arif Maspul, Valerie Indiana Chemistry, Yona Melinda, Karila Wisudayanti, Fedora Fedora, Dwi Febriana Rochmah |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Minority rights |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | حقوق اقلیت‌ها |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.47134/frontiers.v1i3.423](https://doi.org/10.47134/frontiers.v1i3.423) |

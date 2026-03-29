@@ -6,7 +6,7 @@
 | **Year** | 1994 |
 | **Category** | Judicial independence and rule of law |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 4 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://engagedscholarship.csuohio.edu/clevstlrev/vol42/iss4/7) |

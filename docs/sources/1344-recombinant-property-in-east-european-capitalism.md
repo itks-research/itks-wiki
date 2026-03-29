@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | David Stark |
 | **Year** | 1996 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Privatization and state-owned enterprise restructuring |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 976 |
 | **Source** | openalex |
 | **DOI** | [10.1086/230786](https://doi.org/10.1086/230786) |

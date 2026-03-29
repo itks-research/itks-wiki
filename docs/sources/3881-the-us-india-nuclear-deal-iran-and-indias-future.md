@@ -6,7 +6,7 @@
 | **Year** | 2006 |
 | **Category** | Nuclear program civilian transition |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1017/s1557466006004062](https://doi.org/10.1017/s1557466006004062) |

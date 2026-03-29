@@ -5,8 +5,8 @@
 | نویسندگان | Andrew Ifesinachi Daraojimba, Damodar Bihani, Grace Omotunde Osho, Julius Olatunde Omisola, Bright Chibunna Ubamadu, Emmanuel Augustine Etukudoh |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Banking and financial system reform |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام بانکی و مالی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.62225/2583049x.2024.4.6.4155](https://doi.org/10.62225/2583049x.2024.4.6.4155) |

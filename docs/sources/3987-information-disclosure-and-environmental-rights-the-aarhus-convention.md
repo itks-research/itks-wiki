@@ -6,7 +6,7 @@
 | **Year** | 2010 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 104 |
 | **Source** | openalex |
 | **DOI** | [10.1162/glep_a_00012](https://doi.org/10.1162/glep_a_00012) |

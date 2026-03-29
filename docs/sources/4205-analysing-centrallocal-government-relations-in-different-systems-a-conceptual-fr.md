@@ -6,7 +6,7 @@
 | **Year** | 1991 |
 | **Category** | Electoral system design and implementation |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 19 |
 | **Source** | openalex |
 | **DOI** | [10.1111/j.1467-9477.1991.tb00404.x](https://doi.org/10.1111/j.1467-9477.1991.tb00404.x) |

@@ -5,8 +5,8 @@
 | نویسندگان | Laia Castro, Edda Humprecht, Sven Engesser, Michael Brüggemann, Florin Büchel |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 78 |
 | **شناسه دیجیتال** | [10.5167/uzh-144867](https://doi.org/10.5167/uzh-144867) |

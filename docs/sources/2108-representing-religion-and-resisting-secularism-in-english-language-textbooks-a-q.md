@@ -5,8 +5,9 @@
 | **Authors** | Mehdi Davari-Torshizi, Jack David Eller |
 | **Year** | 2024 |
 | **Category** | Religious freedom and separation of religion from state |
+| **Secondary Categories** | Education system reform and curriculum modernization |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **DOI** | [10.12944/crjssh.7.2.05](https://doi.org/10.12944/crjssh.7.2.05) |

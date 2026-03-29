@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Helena Tang |
 | **Year** | 2000 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Trade liberalization and foreign direct investment |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 70 |
 | **Source** | openalex |
 | **DOI** | [10.1596/0-8213-4427-7](https://doi.org/10.1596/0-8213-4427-7) |

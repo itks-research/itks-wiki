@@ -5,8 +5,8 @@
 | نویسندگان | Arthur Capozzi, Gianmarco De Francisci Morales, Yelena Mejova, Corrado Monti, André Panisson |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 11 |
 | **شناسه دیجیتال** | [10.1145/3543507.3583267](https://doi.org/10.1145/3543507.3583267) |

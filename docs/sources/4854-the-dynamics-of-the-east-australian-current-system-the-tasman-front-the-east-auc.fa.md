@@ -5,8 +5,8 @@
 | نویسندگان | Charles E. Tilburg, Harley E. Hurlburt, James J. O’Brien, Jay F. Shriver |
 |---|---|
 | **سال** | 2001 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 144 |
 | **شناسه دیجیتال** | [10.1175/1520-0485(2001)031<2917:tdotea>2.0.co;2](https://doi.org/10.1175/1520-0485(2001)031<2917:tdotea>2.0.co;2) |

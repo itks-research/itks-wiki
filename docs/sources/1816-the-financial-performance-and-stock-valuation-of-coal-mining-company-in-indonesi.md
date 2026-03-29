@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | Damarikhsan Rahadian, Erman Sumirat |
 | **Year** | 2022 |
-| **Category** | Sanctions unwinding and international reintegration |
-| **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Category** | Banking and financial system reform |
+| **Secondary Categories** | Trade liberalization and foreign direct investment |
+| **Case Study** | Indonesia |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1 |
 | **Source** | openalex |
 | **DOI** | [10.47191/ijcsrr/v5-i12-18](https://doi.org/10.47191/ijcsrr/v5-i12-18) |

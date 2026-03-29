@@ -5,8 +5,8 @@
 | نویسندگان | Jennifer Clapp, William G. Moseley, Barbara Burlingame, Paola Termine |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 431 |
 | **شناسه دیجیتال** | [10.1016/j.foodpol.2021.102164](https://doi.org/10.1016/j.foodpol.2021.102164) |

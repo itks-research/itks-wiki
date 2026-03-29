@@ -5,8 +5,8 @@
 | نویسندگان | Merlinda Andoni, Valentin Robu, David Flynn, Simone Abram, Dale Geach, David Jenkins, Peter McCallum, Andrew Peacock |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | روابط نظامی-غیرنظامی و اصلاح بخش امنیتی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 2307 |
 | **شناسه دیجیتال** | [10.1016/j.rser.2018.10.014](https://doi.org/10.1016/j.rser.2018.10.014) |

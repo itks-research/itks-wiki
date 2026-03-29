@@ -5,8 +5,8 @@
 | نویسندگان | Sutardi, Yayan Apriyana, Popi Rejekiningrum, Annisa Dhienar Alifia, Fadhlullah Ramadhani, Valeriana Darwis, Nanik Setyowati, Dwi Eny Djoko Setyono, Gunawan Gunawan, Afrizal Malik, Syahrial Abdullah, Muslimin Muslimin, Wahyu Wibawa, Joko Triastono, Yusuf Yusuf, Forita Dyah Arianti, Andi Yulyani Fadwiwati |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Labor market reform and social safety nets |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | اصلاح بازار کار و شبکه‌های حمایت اجتماعی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 50 |
 | **شناسه دیجیتال** | [10.3390/agronomy13010001](https://doi.org/10.3390/agronomy13010001) |

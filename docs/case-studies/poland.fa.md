@@ -4,14 +4,14 @@
 
 **815 منبع** در 20 دسته‌بندی
 
-## Banking and financial system reform
+## اصلاح نظام بانکی و مالی
 *3 منبع*
 
 - [The Polish Tax Reform](../sources/1339-the-polish-tax-reform.fa.md) (2000)
 - [Deciphering the Liquidity and Credit Crunch 2007–2008](../sources/1334-deciphering-the-liquidity-and-credit-crunch-20072008.fa.md) (2009)
 - [Reflections on Northern Rock: The Bank Run that Heralded the Global Financial Crisis](../sources/1351-reflections-on-northern-rock-the-bank-run-that-heralded-the-global-financial-cri.fa.md) (2009)
 
-## Civil society development
+## توسعه جامعه مدنی
 *88 منبع*
 
 - [Determinants of Economic Growth: A Cross-Country Empirical Study](../sources/4484-determinants-of-economic-growth-a-cross-country-empirical-study.fa.md) (1996)
@@ -103,7 +103,7 @@
 - [Does Social Trust Influence Charitable Giving for NGOs?](../sources/4445-does-social-trust-influence-charitable-giving-for-ngos.fa.md) (2021)
 - [Activists’ Perceptions of their Roles in Civic Organizations: A Case from Poland](../sources/4452-activists-perceptions-of-their-roles-in-civic-organizations-acase-from-poland.fa.md) (2017)
 
-## Civil-military relations and security sector reform
+## روابط نظامی-غیرنظامی و اصلاح بخش امنیتی
 *36 منبع*
 
 - [The political consequences of the product cycle: industrial history and political outcomes](../sources/1291-the-political-consequences-of-the-product-cycle-industrial-history-and-political.fa.md) (1979)
@@ -143,7 +143,7 @@
 - [Early Modern Military Reform and the Connection between Sweden and Brandenburg-Prussia](../sources/1315-early-modern-military-reform-and-the-connection-between-sweden-and-brandenburg-p.fa.md) (2005)
 - [The restructuring process of the Polish defence industry in the twenty-first century: doing more of the same while expecting different results](../sources/1348-the-restructuring-process-of-the-polish-defence-industry-in-the-twenty-first-cen.fa.md) (2024)
 
-## Constitutional design and drafting processes
+## طراحی و تدوین قانون اساسی
 *138 منبع*
 
 - [Institutional Design In New Democracies: Eastern Europe And Latin America](../sources/4052-institutional-design-in-new-democracies-eastern-europe-and-latin-america.fa.md) (1996)
@@ -285,14 +285,14 @@
 - [Duty of Loyalty to the State or the ‘Polish Section’ in the 1937 Estonian Constitution](../sources/3992-duty-of-loyalty-to-the-state-or-the-polish-section-in-the-1937-estonian-constitu.fa.md) (2021)
 - [Draft Amendments to the Constitution Concerning the Senate of the Republic of Poland](../sources/4001-draft-amendments-to-the-constitution-concerning-the-senate-of-the-republic-of-po.fa.md) (2025)
 
-## Cultural heritage preservation during institutional change
+## حفظ میراث فرهنگی در دوره تحولات نهادی
 *3 منبع*
 
 - [Russia Under the Old Regime](../sources/1298-russia-under-the-old-regime.fa.md) (1974)
 - [A History of the Gypsies of Eastern Europe and Russia](../sources/1285-a-history-of-the-gypsies-of-eastern-europe-and-russia.fa.md) (2007)
 - [Catholic Europe, 1592–1648](../sources/1304-catholic-europe-15921648.fa.md) (2015)
 
-## Education system reform and curriculum modernization
+## اصلاح نظام آموزشی و نوسازی برنامه درسی
 *4 منبع*
 
 - [Was Weber Wrong? A Human Capital Theory of Protestant Economic History<sup>*</sup>](../sources/1323-was-weber-wrong-a-human-capital-theory-of-protestant-economic-historysupsup.fa.md) (2009)
@@ -300,7 +300,7 @@
 - [Bolshevik Approaches to Higher Education, 1917-1921](../sources/1312-bolshevik-approaches-to-higher-education-1917-1921.fa.md) (1971)
 - [Modern European trends in the development of the higher education system in the realities of large-scale military aggression (the experience of Ukraine)](../sources/1319-modern-european-trends-in-the-development-of-the-higher-education-system-in-the-.fa.md) (2022)
 
-## Electoral system design and implementation
+## طراحی و اجرای نظام انتخاباتی
 *134 منبع*
 
 - [Accounting for Corruption: Economic Structure, Democracy, and Trade](../sources/4097-accounting-for-corruption-economic-structure-democracy-and-trade.fa.md) (2000)
@@ -438,12 +438,12 @@
 - [Extradosed Bridges in Poland—Design and Construction](../sources/4194-extradosed-bridges-in-polanddesign-and-construction.fa.md) (2017)
 - [Pro-Civic Representation? Citizens’ Participation in the Opinion of Finnish and Polish Local Councilors](../sources/4216-pro-civic-representation-citizens-participation-in-the-opinion-of-finnish-and-po.fa.md) (2020)
 
-## Federalism, unitarism, and autonomy models
+## فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری
 *1 منبع*
 
 - [Ethnicity and the political reconstruction in Afghanistan](../sources/2049-ethnicity-and-the-political-reconstruction-in-afghanistan.fa.md) (2003)
 
-## Judicial independence and rule of law
+## استقلال قضایی و حاکمیت قانون
 *78 منبع*
 
 - [Illiberal Constitutionalism: The Case of Hungary and Poland](../sources/4330-illiberal-constitutionalism-the-case-of-hungary-and-poland.fa.md) (2019)
@@ -525,7 +525,7 @@
 - [Systemic Threat to the Rule of Law in Poland: What should the Commission do next?](../sources/4375-systemic-threat-to-the-rule-of-law-in-poland-what-should-the-commission-do-next.fa.md) (2016)
 - [Is the EU Commission’s Rule of Law Fight about Poland already lost?](../sources/4368-is-the-eu-commissions-rule-of-law-fight-about-poland-already-lost.fa.md) (2016)
 
-## Labor market reform and social safety nets
+## اصلاح بازار کار و شبکه‌های حمایت اجتماعی
 *13 منبع*
 
 - [The revenge of the places that don’t matter (and what to do about it)](../sources/1321-the-revenge-of-the-places-that-dont-matter-and-what-to-do-about-it.fa.md) (2017)
@@ -542,7 +542,7 @@
 - [International variations in primary care physician consultation time: a systematic review of 67 countries](../sources/1350-international-variations-in-primary-care-physician-consultation-time-a-systemati.fa.md) (2017)
 - [The Contribution of Primary Care Systems to Health Outcomes within Organization for Economic Cooperation and Development (OECD) Countries, 1970–1998](../sources/1354-the-contribution-of-primary-care-systems-to-health-outcomes-within-organization-.fa.md) (2003)
 
-## Media freedom and press institution building
+## آزادی رسانه و نهادسازی مطبوعاتی
 *101 منبع*
 
 - [The new politics of Poland](../sources/4578-the-new-politics-of-poland.fa.md) (2023)
@@ -647,19 +647,19 @@
 - [Education, Religiosity and Moral Attitudes: Explaining Cross-National Effect Differences](../sources/4502-education-religiosity-and-moral-attitudes-explaining-cross-national-effect-diffe.fa.md) (2002)
 - [Europe on trial: the story of collaboration, resistance, and retribution during World War II](../sources/4539-europe-on-trial-the-story-of-collaboration-resistance-and-retribution-during-wor.fa.md) (2015)
 
-## Political party formation and pluralism
+## شکل‌گیری احزاب سیاسی و تکثرگرایی
 *3 منبع*
 
 - [In Pursuit of Liberalism: International Institutions in Postcommunist Europe](../sources/1309-in-pursuit-of-liberalism-international-institutions-in-postcommunist-europe.fa.md) (2008)
 - [Struggles for Recognition: The Liberal International Order and the Merger of Its Discontents](../sources/1280-struggles-for-recognition-the-liberal-international-order-and-the-merger-of-its-.fa.md) (2020)
 - [Eastern Europe in 1968: Responses to the Prague Spring and Warsaw Pact Invasion](../sources/1328-eastern-europe-in-1968-responses-to-the-prague-spring-and-warsaw-pact-invasion.fa.md) (2018)
 
-## Power-sharing mechanisms during transition periods
+## سازوکارهای تقسیم قدرت در دوره گذار
 *1 منبع*
 
 - [Russia's revolution from above, 1985-1999: reform, transition, and revolution in the fall of the Soviet communist regime](../sources/1320-russias-revolution-from-above-1985-1999-reform-transition-and-revolution-in-the-.fa.md) (2002)
 
-## Privatization and state-owned enterprise restructuring
+## خصوصی‌سازی و بازسازی شرکت‌های دولتی
 *105 منبع*
 
 - [Winds of Change: Economic Transition in Central and Eastern Europe](../sources/4305-winds-of-change-economic-transition-in-central-and-eastern-europe.fa.md) (1995)
@@ -768,25 +768,25 @@
 - [Making Lace after Socialism: Creativity, Gender, and the Politics of the Commons](../sources/4297-making-lace-after-socialism-creativity-gender-and-the-politics-of-the-commons.fa.md) (2025)
 - [Delokalizacja produkcji między Niemcami a Polską w procesie integracji europejskiej](../sources/4298-delokalizacja-produkcji-między-niemcami-a-polską-w-procesie-integracji-europejsk.fa.md) (2025)
 
-## Regional foreign policy reorientation
+## بازتعریف سیاست خارجی منطقه‌ای
 *1 منبع*
 
 - [Turkish foreign policy in a post-western order: strategic autonomy or new forms of dependence?](../sources/1283-turkish-foreign-policy-in-a-post-western-order-strategic-autonomy-or-new-forms-o.fa.md) (2021)
 
-## Religious freedom and separation of religion from state
+## آزادی مذهبی و جدایی دین از حکومت
 *3 منبع*
 
 - [Voters’ Attitudes towards the Separation of Church and State in the Context of the Left–Right Division on the Polish Political Scene](../sources/0770-voters-attitudes-towards-the-separation-of-church-and-state-in-the-context-of-th.fa.md) (2022)
 - [Proposals for the Separation of Church and State in the Public Debate in Poland During the 7th Term of the Polish Parliament](../sources/0757-proposals-for-the-separation-of-church-and-state-in-the-public-debate-in-poland-.fa.md) (2024)
 - [Comparative Analysis of Church-State Relations in Poland and Japan](../sources/0771-comparative-analysis-of-church-state-relations-in-poland-and-japan.fa.md) (2023)
 
-## Sanctions unwinding and international reintegration
+## رفع تحریم‌ها و بازادغام بین‌المللی
 *2 منبع*
 
 - [“A Hand upon the Throat of the Nation”: Economic Sanctions and State Repression, 1976-2001](../sources/1282-a-hand-upon-the-throat-of-the-nation-economic-sanctions-and-state-repression-197.fa.md) (2008)
 - [The Ricardian Approach to Budget Deficits](../sources/1342-the-ricardian-approach-to-budget-deficits.fa.md) (1989)
 
-## Trade liberalization and foreign direct investment
+## آزادسازی تجارت و سرمایه‌گذاری خارجی
 *8 منبع*
 
 - [The Geopolitics of the Global Energy Transition](../sources/1290-the-geopolitics-of-the-global-energy-transition.fa.md) (2020)
@@ -798,7 +798,7 @@
 - [European Integration and the War in Ukraine: Just Another Crisis?](../sources/1322-european-integration-and-the-war-in-ukraine-just-another-crisis.fa.md) (2023)
 - [Cereals Sector Reform in the Former Soviet Union and Central and Eastern Europe](../sources/1341-cereals-sector-reform-in-the-former-soviet-union-and-central-and-eastern-europe.fa.md) (1996)
 
-## Transitional justice
+## عدالت انتقالی
 *92 منبع*
 
 - [The Rule of Law after Communism: Problems and Prospects in East-Central Europe](../sources/4631-the-rule-of-law-after-communism-problems-and-prospects-in-east-central-europe.fa.md) (1999)
@@ -894,7 +894,7 @@
 - [The Art and Aggravation of Vetting in Post-Conflict Environments](../sources/4644-the-art-and-aggravation-of-vetting-in-post-conflict-environments.fa.md) (2007)
 - [Risk Factors for Poland to Achieve the European Commission’s Recycling and Landfill Targets and Their Effects on Waste-to-Energy Conversion: A Review](../sources/4649-risk-factors-for-poland-to-achieve-the-european-commissions-recycling-and-landfi.fa.md) (2024)
 
-## Women's rights codification and gender equality
+## تدوین حقوق زنان و برابری جنسیتی
 *1 منبع*
 
 - [Women’s Employment or Return to “Family Values” in Central-Eastern Europe](../sources/1352-womens-employment-or-return-to-family-values-in-central-eastern-europe.fa.md) (1996)

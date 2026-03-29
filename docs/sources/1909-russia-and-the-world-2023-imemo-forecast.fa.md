@@ -5,8 +5,8 @@
 | نویسندگان | A. Dynkin, Vladimir Baranovsky, Irina Kobrinskaya, G. Machavariani |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Sanctions unwinding and international reintegration |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | رفع تحریم‌ها و بازادغام بین‌المللی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.20542/afij-2023-1-13-26](https://doi.org/10.20542/afij-2023-1-13-26) |

@@ -6,7 +6,7 @@
 | **Year** | 1993 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 104 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://scholarship.law.edu/cgi/viewcontent.cgi?article=1409&context=scholar) |

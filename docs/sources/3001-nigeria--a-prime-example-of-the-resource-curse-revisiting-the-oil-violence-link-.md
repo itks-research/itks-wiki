@@ -6,7 +6,7 @@
 | **Year** | 2010 |
 | **Category** | Resource curse management |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 32 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://edoc.vifapol.de/opus/volltexte/2010/2087/pdf/wp120_maehler.pdf) |

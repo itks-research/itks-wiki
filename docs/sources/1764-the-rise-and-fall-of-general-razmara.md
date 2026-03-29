@@ -6,7 +6,7 @@
 | **Year** | 1993 |
 | **Category** | Civil-military relations and security sector reform |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 9 |
 | **Source** | openalex |
 | **DOI** | [10.1080/00263209308700932](https://doi.org/10.1080/00263209308700932) |

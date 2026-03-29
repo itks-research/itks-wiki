@@ -6,7 +6,7 @@
 | **Year** | 2023 |
 | **Category** | Transitional justice |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 6 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1017/irn.2023.14](https://doi.org/10.1017/irn.2023.14) |
@@ -15,3 +15,8 @@
 ## Abstract
 
 In this intervention, we discuss the ongoing protest movement and the quasi-revolutionary situation in Iran with the goal of offering contextual as well as background analysis. Our objective is to examine the current wave of revolutionary politics in the frame of a longer history, that is, the one of the “unaccomplished” 1979 revolution. We do not argue that the current movement is in continuity with the so-called Islamic revolution; rather, we ask what afterlives of the 1979 revolution and successive waves of mobilizations reverberate within the current situation. We do so from a political transformative vantage point, which we understand as inherently feminist, in that we refuse to recognize any hierarchy between the struggles, the issues, and the demands as expressed by the protesters. Indeed, we understand liberation as a collective project resulting from the intersection of struggles, demands, and issues. Following this line of reasoning, we interrogate the current moment along three thematic axes: the social composition, the prospects for political convergence, and the genealogy, or the ideational connection, of the current struggle with those of the past.
+
+## Related Sources
+
+- **shared_methodology** [Exploring Truth Commission Recommendations in a Comparative Perspective: Beyond Words](2768-exploring-truth-commission-recommendations-in-a-comparative-perspective-beyond-w.md)
+- **shared_methodology** [Strategic Analysis of the Woman, Life, Freedom Uprising in Iran](2722-strategic-analysis-of-the-woman-life-freedom-uprising-in-iran.md)

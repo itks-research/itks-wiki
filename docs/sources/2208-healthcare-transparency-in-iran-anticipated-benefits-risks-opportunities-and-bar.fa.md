@@ -5,8 +5,8 @@
 | نویسندگان | Hossein Bouzarjomehri, Mohammadreza Maleki, Iravan Masoudi-Asl, Mohammad Ranjbar, Y. Herandi |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | IRGC economic empire and its dismantling |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | امپراتوری اقتصادی سپاه و انحلال آن |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.1108/JHOM-11-2024-0486](https://doi.org/10.1108/JHOM-11-2024-0486) |

@@ -5,8 +5,8 @@
 | نویسندگان | Marina Nistotskaya, Luciana Cingolani |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 127 |
 | **شناسه دیجیتال** | [10.1093/jopart/muv026](https://doi.org/10.1093/jopart/muv026) |

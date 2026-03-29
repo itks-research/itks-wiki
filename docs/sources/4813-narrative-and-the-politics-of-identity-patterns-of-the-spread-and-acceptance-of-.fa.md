@@ -5,8 +5,8 @@
 | نویسندگان | Firdaus Syam, Fachruddin Majeri Mangunjaya, Ajeng Rizqi Rahmanillah, Robi Nurhadi |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 26 |
 | **شناسه دیجیتال** | [10.3390/rel11060290](https://doi.org/10.3390/rel11060290) |

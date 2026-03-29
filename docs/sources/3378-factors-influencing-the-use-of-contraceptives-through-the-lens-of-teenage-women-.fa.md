@@ -5,8 +5,8 @@
 | نویسندگان | Afrouz Mardi, Abbas Ebadi, Shirin Shahbazi, Sara Esmaelzadeh Saeieh, Zahra Behboodi Moghadam |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 49 |
 | **شناسه دیجیتال** | [10.1186/s12889-018-5116-3](https://doi.org/10.1186/s12889-018-5116-3) |

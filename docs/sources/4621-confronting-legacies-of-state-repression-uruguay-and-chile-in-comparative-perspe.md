@@ -6,7 +6,7 @@
 | **Year** | 1997 |
 | **Category** | Transitional justice |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **DOI** | [10.1093/0198280386.003.0002](https://doi.org/10.1093/0198280386.003.0002) |

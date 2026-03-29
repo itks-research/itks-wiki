@@ -6,7 +6,7 @@
 | **Year** | 2022 |
 | **Category** | Nuclear program civilian transition |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.3318/ISIA.2010.21.179](https://doi.org/10.3318/ISIA.2010.21.179) |

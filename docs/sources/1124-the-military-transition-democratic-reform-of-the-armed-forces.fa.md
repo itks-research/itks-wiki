@@ -5,8 +5,8 @@
 | نویسندگان | Narcìs Serra i Serra, Karin Miller, Richard McRoberts, Nola Errey |
 |---|---|
 | **سال** | 2005 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | روابط نظامی-غیرنظامی و اصلاح بخش امنیتی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 44 |
 

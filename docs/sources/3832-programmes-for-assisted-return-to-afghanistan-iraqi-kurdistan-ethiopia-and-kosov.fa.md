@@ -5,8 +5,8 @@
 | نویسندگان | Arne Strand, Synnøve Bendixsen, Hilde Lidén, Erlend Paasche, Sara Khadir, Ali Kurdistani, Hana Limani, Akbar Sarwari. |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Diaspora repatriation and reintegration |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | بازگشت و ادغام دیاسپورا |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 10 |
 

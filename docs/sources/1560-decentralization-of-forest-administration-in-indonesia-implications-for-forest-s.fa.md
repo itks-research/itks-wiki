@@ -5,8 +5,8 @@
 | نویسندگان | Christopher M. Barr, I. A. P. Resosudarmo, Ahmad Dermawan, John F. McCarthy, M. Moeliono, Bambang Setiono, eds. |
 |---|---|
 | **سال** | 2006 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 180 |
 | **شناسه دیجیتال** | [10.17528/cifor/002113](https://doi.org/10.17528/cifor/002113) |

@@ -5,8 +5,8 @@
 | نویسندگان | Sartiah Yusran, Sitti R Ahmaniar Abubakar, Sabrina Hidayat, Eliyanti Agus Mokodompit, Akifah . |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.18502/kss.v8i2.12771](https://doi.org/10.18502/kss.v8i2.12771) |

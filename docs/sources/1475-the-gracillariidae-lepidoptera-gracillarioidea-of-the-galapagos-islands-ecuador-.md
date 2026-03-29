@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Bernard Landry |
 | **Year** | 2006 |
-| **Category** | Transitional justice |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 18 |
 | **Source** | openalex |
 | **DOI** | [10.5962/bhl.part.80359](https://doi.org/10.5962/bhl.part.80359) |

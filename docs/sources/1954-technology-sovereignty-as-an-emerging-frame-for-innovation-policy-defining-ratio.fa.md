@@ -5,8 +5,8 @@
 | نویسندگان | Jakob Edler, Knut Blind, Henning Kroll, Torben Schubert |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | خصوصی‌سازی و بازسازی شرکت‌های دولتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 221 |
 | **شناسه دیجیتال** | [10.1016/j.respol.2023.104765](https://doi.org/10.1016/j.respol.2023.104765) |

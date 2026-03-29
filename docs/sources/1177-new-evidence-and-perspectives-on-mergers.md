@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Gregor Andrade, Mark L. Mitchell, Erik Stafford |
 | **Year** | 2001 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Banking and financial system reform |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 2708 |
 | **Source** | openalex |
 | **DOI** | [10.1257/jep.15.2.103](https://doi.org/10.1257/jep.15.2.103) |

@@ -5,8 +5,8 @@
 | نویسندگان | Carolina Doña, Ni-Bin Chang, V. Caselles, Juan Manuel Sánchez, Lluís Pérez-Planells, Mar Bisquert, Vicente García‐Santos, Sanaz Imen, Antonio Camacho |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 29 |
 | **شناسه دیجیتال** | [10.3390/rs8080618](https://doi.org/10.3390/rs8080618) |

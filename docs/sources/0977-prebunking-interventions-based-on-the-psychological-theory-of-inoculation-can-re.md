@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Jon Roozenbeek, Sander van der Linden, Thomas Nygren |
 | **Year** | 2020 |
-| **Category** | Transitional justice |
-| **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Category** | Media freedom and press institution building |
+| **Case Study** | Poland |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 183 |
 | **Source** | openalex |
 | **DOI** | [10.37016//mr-2020-008](https://doi.org/10.37016//mr-2020-008) |

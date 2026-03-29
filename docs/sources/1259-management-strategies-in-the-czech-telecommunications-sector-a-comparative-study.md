@@ -5,8 +5,9 @@
 | **Authors** | Peter Keith Ross |
 | **Year** | 2008 |
 | **Category** | Privatization and state-owned enterprise restructuring |
+| **Secondary Categories** | Labor market reform and social safety nets |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 9 |
 | **Source** | openalex |
 | **DOI** | [10.1080/09585190802479454](https://doi.org/10.1080/09585190802479454) |

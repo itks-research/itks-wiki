@@ -5,8 +5,8 @@
 | نویسندگان | Asrop Safi’i, Imron Muttaqin, Sukino Sukino, Nur Hamzah, Chusnul Chotimah, Imam Junaris, Muh. Khoirul Rifa’i |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 56 |
 | **شناسه دیجیتال** | [10.1016/j.heliyon.2021.e08510](https://doi.org/10.1016/j.heliyon.2021.e08510) |

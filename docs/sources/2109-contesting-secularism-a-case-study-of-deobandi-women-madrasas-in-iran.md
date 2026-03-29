@@ -5,8 +5,9 @@
 | **Authors** | Hoshag Noraiee |
 | **Year** | 2017 |
 | **Category** | Religious freedom and separation of religion from state |
+| **Secondary Categories** | Women's rights codification and gender equality |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1 |
 | **Source** | openalex |
 | **DOI** | [10.14738/assrj.415.3537](https://doi.org/10.14738/assrj.415.3537) |

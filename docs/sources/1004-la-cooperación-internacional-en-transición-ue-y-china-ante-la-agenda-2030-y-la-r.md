@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Kattya Cascante Hernández, Tahina Ojeda-Medina |
 | **Year** | 2025 |
-| **Category** | Privatization and state-owned enterprise restructuring |
-| **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Category** | Trade liberalization and foreign direct investment |
+| **Case Study** | Poland |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.15366/relacionesinternacionales2025.60.005](https://doi.org/10.15366/relacionesinternacionales2025.60.005) |
@@ -24,3 +24,17 @@ These trends highlight a broader transformation in the global aid architecture. 
 The article further considers the role of recipient states and non-state actors in this dynamic. Officially, both the GGE and the BRI advocate for local ownership, context-sensitive implementation, and participatory governance. In practice, however, the influence of local actors remains limited. The GGE incorporates civil society organizations to a greater degree, particularly in monitoring and advocacy, but final decision-making is driven by institutional and financial imperatives at the EU level. In the BRI, local participation is even more constrained, with negotiations conducted primarily between Chinese officials and partner governments, often behind closed doors. This imbalance reflects the structural challenge of ensuring genuine agency for recipient states in a context where power asymmetries remain pronounced.
 Ultimately, the article concludes that both the GGE and the BRI are not transformative frameworks but rather mechanisms that reconfigure existing hierarchies of global governance. While their instruments, discourses, and institutional arrangements differ, their substantive impact converges: reinforcing rather than challenging the dominant structures of international order. This convergence underscores the limitations of the 2030 Agenda, which, despite its universal aspirations, has become deeply entangled with the foreign policy agendas of major powers.
 As international cooperation becomes increasingly subordinated to strategic competition in a multipolar world, the scope for building genuinely solidarity-based frameworks narrows. The article calls for renewed debate on the purpose, governance, and political economy of development cooperation. It argues for moving beyond the adaptation of existing frameworks toward the envisioning of new paradigms rooted in equity, pluralism, and democratic governance. Such paradigms would not treat the Global South merely as a beneficiary but as a co-architect of global development, capable of shaping agendas, institutions, and norms on equal footing. Only in this way can cooperation transcend its role as a vehicle of power projection and become a tool for genuine transformation.
+
+## Related Sources
+
+- **supports** [Cereals Sector Reform in the Former Soviet Union and Central and Eastern Europe](1341-cereals-sector-reform-in-the-former-soviet-union-and-central-and-eastern-europe.md)
+- **contradicts** [Revenge of the Optimum Currency Area](1179-revenge-of-the-optimum-currency-area.md)
+- **shared_methodology** [Tentative First Steps: An Assessment of the Uruguay Round Agreement on Services](1080-tentative-first-steps-an-assessment-of-the-uruguay-round-agreement-on-services.md)
+- **extends** [The Geopolitics of the Global Energy Transition](1290-the-geopolitics-of-the-global-energy-transition.md)
+- **extends** [The Polish Alternative Old Myths, Hard Facts and New Strategies in the Successful Transformation of the Polish Economy](1331-the-polish-alternative-old-myths-hard-facts-and-new-strategies-in-the-successful.md)
+- **extends** [Poland](1346-poland.md)
+- **extends** [Growth versus security : old and new EU members' quest for a new economic and social model](1345-growth-versus-security--old-and-new-eu-members-quest-for-a-new-economic-and-soci.md)
+- **contradicts** [Growth after the asian crisis : what remains of the east asian model?](1100-growth-after-the-asian-crisis--what-remains-of-the-east-asian-model.md)
+- **shared_methodology** [World Development Report 1986](1567-world-development-report-1986.md)
+- **contradicts** [China's Stock Markets and the World Trade Organization](1580-chinas-stock-markets-and-the-world-trade-organization.md)
+- **contradicts** [Estimating the Constraints to Agricultural Trade of Developing Countries](1590-estimating-the-constraints-to-agricultural-trade-of-developing-countries.md)

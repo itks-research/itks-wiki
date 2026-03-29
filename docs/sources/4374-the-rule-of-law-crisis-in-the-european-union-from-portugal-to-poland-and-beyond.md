@@ -6,7 +6,7 @@
 | **Year** | 2020 |
 | **Category** | Judicial independence and rule of law |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **DOI** | [10.15388/teise.2020.114.10](https://doi.org/10.15388/teise.2020.114.10) |

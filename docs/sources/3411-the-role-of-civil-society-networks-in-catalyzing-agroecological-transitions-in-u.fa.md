@@ -5,8 +5,8 @@
 | نویسندگان | C. Tumuhe, Denis Katusiime, David Ssekamatte, Joshua Muloi, Keiron Audain, Hannah Kamau, R. Byaruhanga, Gonzalo A. R. Molina |
 |---|---|
 | **سال** | 2026 |
-| **دسته‌بندی** | Civil society development |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | توسعه جامعه مدنی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.5304/jafscd.2026.152.004](https://doi.org/10.5304/jafscd.2026.152.004) |

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Rodrigo Wolff, L. A. Díaz, Blanca Norero, Álvaro Urzúa, G. Mezzano, R. Humeres, F. Innocenti, Lorena Castro, C. Pavez, Carlos Derosas, Susana Elgueta |
 | **Year** | 2020 |
-| **Category** | Transitional justice |
+| **Category** | Banking and financial system reform |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 3 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.4067/S0034-98872020001101541](https://doi.org/10.4067/S0034-98872020001101541) |

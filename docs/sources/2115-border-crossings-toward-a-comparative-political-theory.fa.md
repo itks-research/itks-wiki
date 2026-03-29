@@ -5,8 +5,8 @@
 | نویسندگان | Ahmet Davutoğlu, Manochehr Dorraj, Fred Dallmayr, Nancy J. Hirschmann |
 |---|---|
 | **سال** | 1999 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 86 |
 

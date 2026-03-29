@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Morten Schmidt, Sigrún Alba Jóhannesdóttir Schmidt, Kasper Adelborg, Jens Sundbøll, Kristina Laugesen, Véra Ehrenstein, Henrik Toft Sørensen |
 | **Year** | 2019 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1310 |
 | **Source** | openalex |
 | **DOI** | [10.2147/clep.s179083](https://doi.org/10.2147/clep.s179083) |

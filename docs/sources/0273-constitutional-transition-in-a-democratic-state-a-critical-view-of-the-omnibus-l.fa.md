@@ -5,8 +5,8 @@
 | نویسندگان | Arif Rahman, Ahmad Zaini, Hajani Hajani, Rendi Haerudin, Ahmad Jamaludin Jambunanda |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.15294/jllr.v5i4.1552](https://doi.org/10.15294/jllr.v5i4.1552) |

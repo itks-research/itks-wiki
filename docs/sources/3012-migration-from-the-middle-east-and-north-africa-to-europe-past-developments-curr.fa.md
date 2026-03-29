@@ -5,8 +5,8 @@
 | نویسندگان | Wiebke Sievers, Heinz Fassman, Michael Bommes, Fassmann, IMISCOE AUP Royaltyfonds |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Brain-drain reversal and diaspora economic engagement |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | بازگشت نخبگان و مشارکت اقتصادی دیاسپورا |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 27 |
 | **شناسه دیجیتال** | [10.26530/oapen_496763](https://doi.org/10.26530/oapen_496763) |

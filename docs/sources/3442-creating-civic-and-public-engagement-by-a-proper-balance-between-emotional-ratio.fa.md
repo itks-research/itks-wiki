@@ -5,8 +5,8 @@
 | نویسندگان | J. Cegarra-Navarro, C. Bratianu, Aurora Martínez‐Martínez, Elena‐Mădălina Vătămănescu, Dan-Cristian Dabija |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Civil society development |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | توسعه جامعه مدنی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 22 |
 | **شناسه دیجیتال** | [10.1108/jkm-07-2022-0532](https://doi.org/10.1108/jkm-07-2022-0532) |

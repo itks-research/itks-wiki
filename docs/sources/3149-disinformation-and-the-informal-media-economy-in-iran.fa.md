@@ -5,8 +5,8 @@
 | نویسندگان | Blake Atwood, Sasha Crawford-Holland, Rowan Melling, Freya Schiwy, Jordan Brower, C. Giovanni, Dylan Howell, I. Alonso, D. S. Mini |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.1353/cj.2024.a952896](https://doi.org/10.1353/cj.2024.a952896) |

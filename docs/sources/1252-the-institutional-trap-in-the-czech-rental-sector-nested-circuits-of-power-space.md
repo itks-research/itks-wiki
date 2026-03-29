@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Stefan Buzar |
 | **Year** | 2009 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 13 |
 | **Source** | openalex |
 | **DOI** | [10.1111/j.1944-8287.2005.tb00280.x](https://doi.org/10.1111/j.1944-8287.2005.tb00280.x) |

@@ -6,7 +6,7 @@
 | **Year** | 2018 |
 | **Category** | Civil-military relations and security sector reform |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 244 |
 | **Source** | openalex |
 | **DOI** | [10.1093/ia/iiy067](https://doi.org/10.1093/ia/iiy067) |

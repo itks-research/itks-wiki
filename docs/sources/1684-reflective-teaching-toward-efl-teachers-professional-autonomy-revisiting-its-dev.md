@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Arif Husein Lubis |
 | **Year** | 2018 |
-| **Category** | Federalism, unitarism, and autonomy models |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 19 |
 | **Source** | openalex |
 | **DOI** | [10.17509/ije.v11i1.9400](https://doi.org/10.17509/ije.v11i1.9400) |

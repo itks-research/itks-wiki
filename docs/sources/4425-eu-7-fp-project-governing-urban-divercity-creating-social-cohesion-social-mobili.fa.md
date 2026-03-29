@@ -5,8 +5,8 @@
 | نویسندگان | Louis Wirth, Z Bauman, G Bridge, S Watson, T Cantle, Derek Duda-Gromada, K Kosowska, P Kowal-Czyk, A Madurowicz, M, T Faist, Fincher R, J Jacobs, Fincher R, K Iveson, Korcelli-Olejniczak E, P Piotrowski, Korcelli-Olejniczak E, A Bierzyski, P Dworza-Ski, M Grochowski, F Piotrowski, G Wca-Wowicz, Putnam R, S Syrett, L Sevulveda, D Simonton, Tasan-Kok T, Van R, M Raco, G Bolt, S Vertovec, S Vertovec, S Webber, L Donahue, L Wirth, L Wirth |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Civil society development |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | توسعه جامعه مدنی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 3078 |
 

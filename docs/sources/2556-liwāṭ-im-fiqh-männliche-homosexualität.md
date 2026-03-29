@@ -6,7 +6,7 @@
 | **Year** | 1970 |
 | **Category** | Judicial independence and rule of law |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 78 |
 | **Source** | openalex |
 | **DOI** | [10.5617/jais.4565](https://doi.org/10.5617/jais.4565) |

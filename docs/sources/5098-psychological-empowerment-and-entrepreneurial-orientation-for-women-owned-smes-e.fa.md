@@ -5,8 +5,8 @@
 | نویسندگان | A. Kadiyono, Aryo Bima Fathoni Cahyono |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.35609/gcbssproceeding.2023.1(3)](https://doi.org/10.35609/gcbssproceeding.2023.1(3)) |

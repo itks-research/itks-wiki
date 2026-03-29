@@ -5,8 +5,8 @@
 | نویسندگان | P. Alves, Ronnie Paskin, I. Frajhof, Y. Miranda, João Gabriel Jardim, Jose Jorge Brum Cardoso, Eduardo Henrique Haddad Tress, Rogério R. da Cunha, R. Nasser, G. Robichez |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Political party formation and pluralism |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | شکل‌گیری احزاب سیاسی و تکثرگرایی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 13 |
 | **شناسه دیجیتال** | [10.5220/0009565108170825](https://doi.org/10.5220/0009565108170825) |

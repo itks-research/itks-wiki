@@ -5,8 +5,8 @@
 | نویسندگان | Anthony R. Kampf, Barbara P. Nash, Maurizio Dini, Arturo A. Molina Donoso |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Cultural heritage preservation during institutional change |
-| **مطالعه موردی** | Chile |
+| **دسته‌بندی** | حفظ میراث فرهنگی در دوره تحولات نهادی |
+| **مطالعه موردی** | شیلی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 18 |
 | **شناسه دیجیتال** | [10.1180/minmag.2014.078.3.20](https://doi.org/10.1180/minmag.2014.078.3.20) |

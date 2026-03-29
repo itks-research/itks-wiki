@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Jonathan Moran |
 | **Year** | 1996 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Trade liberalization and foreign direct investment |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 18 |
 | **Source** | openalex |
 | **DOI** | [10.1080/13510349608403490](https://doi.org/10.1080/13510349608403490) |

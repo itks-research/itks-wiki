@@ -5,8 +5,8 @@
 | نویسندگان | Ranjay Krishna, Yuke Zhu, Oliver Groth, Justin Johnson, Kenji Hata, Joshua Kravitz, Stephanie Chen, Yannis Kalantidis, Li-Jia Li, David A. Shamma, Michael S. Bernstein, Li Fei-Fei |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 5084 |
 | **شناسه دیجیتال** | [10.1007/s11263-016-0981-7](https://doi.org/10.1007/s11263-016-0981-7) |

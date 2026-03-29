@@ -5,8 +5,8 @@
 | نویسندگان | Sergio Ruiz, Paulina Ramos-Vergara, R. Concha, Fernando R. Altermatt, Rommy Von-Bernhardi, Mauricio Cuello, J. Godoy, Luca Valera, P. Araya, Edgardo Conde, Pablo Toro, C. Caneo |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Chile |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | شیلی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 6 |
 | **شناسه دیجیتال** | [10.4067/s0034-98872021000300439](https://doi.org/10.4067/s0034-98872021000300439) |

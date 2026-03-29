@@ -5,8 +5,8 @@
 | نویسندگان | Oleh Kolodiziev, Hanna Telnova, Ihor Krupka, Myroslav Kulchytskyy, Iryna Sochynska-Sybirtseva |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | خصوصی‌سازی و بازسازی شرکت‌های دولتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 9 |
 | **شناسه دیجیتال** | [10.21511/imfi.18(3).2021.15](https://doi.org/10.21511/imfi.18(3).2021.15) |

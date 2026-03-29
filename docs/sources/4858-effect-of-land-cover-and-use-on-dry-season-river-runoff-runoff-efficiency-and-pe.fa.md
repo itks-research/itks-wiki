@@ -5,8 +5,8 @@
 | نویسندگان | Fred L. Ogden, Trey D. Crouch, Robert F. Stallard, Jefferson S. Hall |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 230 |
 | **شناسه دیجیتال** | [10.1002/2013wr013956](https://doi.org/10.1002/2013wr013956) |

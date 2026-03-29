@@ -6,7 +6,7 @@
 | **Year** | 2019 |
 | **Category** | Women's rights codification and gender equality |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 2 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1525/curh.2019.118.812.331](https://doi.org/10.1525/curh.2019.118.812.331) |

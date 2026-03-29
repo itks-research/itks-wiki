@@ -6,7 +6,7 @@
 | **Year** | 1999 |
 | **Category** | Judicial independence and rule of law |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 19 |
 | **Source** | openalex |
 

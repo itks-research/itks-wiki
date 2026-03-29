@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Herbert H. Werlin |
 | **Year** | 1991 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Trade liberalization and foreign direct investment |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 14 |
 | **Source** | openalex |
 | **DOI** | [10.1002/pad.4230110312](https://doi.org/10.1002/pad.4230110312) |

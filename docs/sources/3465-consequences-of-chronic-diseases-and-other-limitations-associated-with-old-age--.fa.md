@@ -5,8 +5,8 @@
 | نویسندگان | Petra Marešová, Ehsan Javanmardi, Sabina Baraković, Jasmina Baraković Husić, Signe Tomsone, Ondřej Krejcar, Kamil Kuča |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Civil society development |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | توسعه جامعه مدنی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 692 |
 | **شناسه دیجیتال** | [10.1186/s12889-019-7762-5](https://doi.org/10.1186/s12889-019-7762-5) |

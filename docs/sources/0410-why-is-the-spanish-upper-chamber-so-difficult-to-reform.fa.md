@@ -5,8 +5,8 @@
 | نویسندگان | Jean‐Baptiste Harguindéguy, Xavier Coller, Alistair Cole |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 23 |
 | **شناسه دیجیتال** | [10.1093/pa/gsw035](https://doi.org/10.1093/pa/gsw035) |

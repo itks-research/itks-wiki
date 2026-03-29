@@ -6,7 +6,7 @@
 | **Year** | 1998 |
 | **Category** | Transitional justice |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 154 |
 | **Source** | openalex |
 | **DOI** | [10.1163/22941932-90001528](https://doi.org/10.1163/22941932-90001528) |

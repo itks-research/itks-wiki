@@ -6,7 +6,7 @@
 | **Year** | 2005 |
 | **Category** | Diaspora repatriation and reintegration |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 15 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://hdl.handle.net/10419/84562) |

@@ -5,8 +5,8 @@
 | نویسندگان | Qian Zhang, Paul Bastard, Zhiyong Liu, Jérémie Le Pen, Marcela Moncada‐Vélez, Jie Chen, Masato Ogishi, Ira K. D. Sabli, Stephanie Hodeib, Cecilia B. Korol, Jérémie Rosain, Kaya Bilgüvar, Junqiang Ye, Alexandre Bolze, Benedetta Bigio, Rui Yang, Andrés A. Arias, Qinhua Zhou, Yu Zhang, Fanny Onodi, Sarantis Korniotis, Léa Karpf, Quentin Philippot, Marwa Chbihi, Lucie Bonnet‐Madin, Karim Dorgham, Nikaïa Smith, William M. Schneider, Brandon S. Razooky, Hans-Heinrich Hoffmann, Eleftherios Michailidis, Leen Moens, Ji Eun Han, Lazaro Lorenzo, Lucy Bizien, Philip Meade, Anna‐Lena Neehus, Aileen Ugurbil, Aurélien Corneau, Gaspard Kerner, Peng Zhang, Franck Rapaport, Yoann Seeleuthner, Jérémy Manry, Cécile Masson, Yohann Schmitt, Agatha Schlüter, Tom Le Voyer, Taushif Khan, Juan Li, Jacques Fellay, Lucie Roussel, Mohammad Shahrooei, Mohammed F. Alosaimi, Davood Mansouri, Haya Al‐Saud, Fahd Al‐Mulla, Feras Almourfi, Saleh Zaid Al-Muhsen, Fahad Alsohime, Saeed Al Turki, Rana Hasanato, Diederik van de Beek, Andrea Biondi, Laura Rachele Bettini, Mariella D’Angiò, Paolo Bonfanti, Luisa Imberti, Alessandra Sottini, Simone Paghera, Eugenia Quirós-Roldán, Camillo Rossi, Andrew J. Oler, Miranda F. Tompkins, Camille Alba, Isabelle Vandernoot, Jean‐Christophe Goffard, Guillaume Smits, Isabelle Migeotte, Filomeen Haerynck, Pere Soler‐Palacín, Andrea Martín-Nalda, Roger Colobrán, Pierre‐Emmanuel Morange, Sevgi Keleş, Fatma Çölkesen, Tayfun Özçelık, Kadriye Kart Yaşar, Sevtap Şenoğlu, Şemsi̇ Nur Karabela, Carlos Rodríguez‐Gallego, Giuseppe Novelli, Sami Hraiech, Yacine Tandjaoui-Lambiotte, Xavier Duval, Cédric Laouenan, Imagine COVID Group, French COVID Cohort Study Group, CoV-Contact Cohort, Amsterdam UMC Covid-19 Biobank |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Civil society development |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | توسعه جامعه مدنی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 2377 |
 | **شناسه دیجیتال** | [10.1126/science.abd4570](https://doi.org/10.1126/science.abd4570) |

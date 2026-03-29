@@ -5,8 +5,8 @@
 | نویسندگان | Peter Dillon, Pieter J. Stuyfzand, Thomas Grischek, Mario R. Lluria, R. David G. Pyne, Ramandeep Jain, Jacob Bear, J. Schwarz, Wenlong Wang, Enrique Fernández, Catalin Stefan, Marie Pettenati, Jac van der Gun, Christoph Sprenger, Gudrun Massmann, Bridget R. Scanlon, Julian Xanke, Petri Jokela, Yan Zheng, Rudy Rossetto, Mohamed Shamrukh, Paul Pavelic, Erin Murray, Andrew Ross, José Pablo Bonilla Valverde, Adriana Palma Nava, Nienke Ansems, Kristijan Posavec, Kyoochul Ha, R. Russell Martin, Manuel Sapiano |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 599 |
 | **شناسه دیجیتال** | [10.1007/s10040-018-1841-z](https://doi.org/10.1007/s10040-018-1841-z) |

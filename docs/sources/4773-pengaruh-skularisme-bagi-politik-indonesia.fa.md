@@ -5,8 +5,8 @@
 | نویسندگان | A. M. Harahap, M. F. A. Soli, B. Pratama, Syahrina Hayati Marbun, Juliadi Suteja, M. Lubis, Desi Sapitri Harahap |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.47467/mk.v23i1.3226](https://doi.org/10.47467/mk.v23i1.3226) |

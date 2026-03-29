@@ -5,8 +5,8 @@
 | نویسندگان | Muhammad Umar Farooq, Amjad Hussain, Tariq Masood, Muhammad Salman Habib |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Internet and digital infrastructure as civic space |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اینترنت و زیرساخت دیجیتال به‌عنوان فضای مدنی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 127 |
 | **شناسه دیجیتال** | [10.3390/su13052504](https://doi.org/10.3390/su13052504) |

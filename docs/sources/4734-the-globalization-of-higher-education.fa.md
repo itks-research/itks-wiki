@@ -5,8 +5,8 @@
 | نویسندگان | Peter Scott, Jean-Franois Ricci, Martina Trucco, Luc Weber, James Duderstadt, Robert Berdahl, Henrique Carlos, Cruz Brito, De Brito, Brito Cruz, Brenda Gourley, Wayne Johnson, Peter Lorange, Deepak Nayyar, Carl Schramm, Yuko Harayama, Ren Carraz, Vladimir Troyan, Carlos Brito Cruz, Charles Vest, E Globalization, David Ward, Deepak Nayyar, Deepak Nayyar, Deepak Nayyar, Fernando Napolitano, Reginald Van Lee, Wayne Johnson, Wayne Johnson, Wayne Johnson, Barbara Waugh, Lynn Yarris, R Bowden, T Braun, Z Peresztegi-Szabadi, E Nemet-Kovacs, De Talleyrand-Prigord, C, D Dill, M Soo, D Gamage, E Mininberg, D Langewiesche, B Sianesi, J Van Reenen, T Schuller, P Coaldrake, L Stedman, G Davis, D Kemp, A Marquez, R Milbourne, J Niland, W Cohen, A Goto, A Nagata, R Nelson, J Walsh, S Goldfinch, R Kneller, R Kneller, R Kneller, K Motohashi, S Nakayama, M Low, J Oba, K Yamamoto, P Altbach, J Levin, N Liu, C H A P T E R Globalization Of, Research Universities, In Korea, Nam Suh, References Alonso, Wladimir Fernndez-Juricic, Esteban, J Leta, C Brito Cruz, D Mowery, R Nelson, B Sampat, A Ziedonis, A Simpson, J Birkinshaw, Laurie Mullins, J Ridderstrale, A Bement, J Brown, J Duderstadt, W Wulf, R Zemsky, K Kelly, L Lynn, H Salzman, S Palmisano, C Vest, Part V, P Altbach, N Augustine |
 |---|---|
 | **سال** | 2005 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 285 |
 | **شناسه دیجیتال** | [10.4324/9780203984581-13](https://doi.org/10.4324/9780203984581-13) |

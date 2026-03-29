@@ -6,7 +6,7 @@
 | **Year** | 2025 |
 | **Category** | Transitional justice |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.18543/djhr.3419](https://doi.org/10.18543/djhr.3419) |

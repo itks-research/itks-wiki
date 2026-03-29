@@ -5,8 +5,8 @@
 | نویسندگان | Mahboobeh Khabaz Mafinejad, Soleiman Ahmady, Seyyed Kamran Soltani Arabshahi, Sholeh Bigdeli |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 11 |
 | **شناسه دیجیتال** | [10.5681/rdme.2013.006](https://doi.org/10.5681/rdme.2013.006) |

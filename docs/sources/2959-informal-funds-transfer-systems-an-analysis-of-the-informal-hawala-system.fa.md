@@ -5,8 +5,8 @@
 | نویسندگان | Mohammed El Qorchi, Samuel Munzele Maimbo, John Wilson, MEl Qorchi@imf.org, SMaimbo@imf.org, JWilson@imf.org |
 |---|---|
 | **سال** | 2003 |
-| **دسته‌بندی** | Banking and financial system reform |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام بانکی و مالی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 220 |
 | **شناسه دیجیتال** | [10.5089/9781589062269.084](https://doi.org/10.5089/9781589062269.084) |

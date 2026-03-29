@@ -6,7 +6,7 @@
 | **Year** | 2018 |
 | **Category** | Transitional justice |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 599 |
 | **Source** | openalex |
 | **DOI** | [10.1007/s10040-018-1841-z](https://doi.org/10.1007/s10040-018-1841-z) |

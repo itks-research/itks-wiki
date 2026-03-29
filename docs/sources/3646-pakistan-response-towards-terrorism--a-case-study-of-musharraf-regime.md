@@ -6,7 +6,7 @@
 | **Year** | 2012 |
 | **Category** | Seminary role in post-theocratic society |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 6 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://etheses.bham.ac.uk/3451/1/Fayyaz_12_PhD.pdf) |

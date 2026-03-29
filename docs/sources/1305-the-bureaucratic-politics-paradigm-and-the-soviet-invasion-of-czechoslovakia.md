@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Jiří Valenta |
 | **Year** | 1979 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Judicial independence and rule of law |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 46 |
 | **Source** | openalex |
 | **DOI** | [10.2307/2150156](https://doi.org/10.2307/2150156) |

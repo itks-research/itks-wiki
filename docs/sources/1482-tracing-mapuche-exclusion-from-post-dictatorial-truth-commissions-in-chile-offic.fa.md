@@ -5,8 +5,8 @@
 | نویسندگان | Daniela Jara, Manuela Badilla Rajevic, Ana Figueiredo, Marcela Cornejo, Victoria Riveros |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Chile |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | شیلی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 30 |
 | **شناسه دیجیتال** | [10.1093/ijtj/ijy025](https://doi.org/10.1093/ijtj/ijy025) |

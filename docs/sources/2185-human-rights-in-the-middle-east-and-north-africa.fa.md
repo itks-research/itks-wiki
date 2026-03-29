@@ -5,8 +5,8 @@
 | نویسندگان | Tiffany Butler, Auric Kaur, Robert Adams, E Ames, Blanka Bots, Lauren Capobianco, Daniel Chrisman, Sasha Hooper, Kristine Krebsbach, Michael F. Land, Ottavia Lezzi, Jacob Morgen, Brandon Song, Skye Tereby |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 5 |
 

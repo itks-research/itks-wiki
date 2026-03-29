@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Seth G. Jones, Martin C. Libicki |
 | **Year** | 2008 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | IRGC economic empire and its dismantling |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 297 |
 | **Source** | openalex |
 | **DOI** | [10.7249/mg741-1](https://doi.org/10.7249/mg741-1) |

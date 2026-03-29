@@ -5,8 +5,8 @@
 | **Authors** | Syaifuddin, I. Sidharta |
 | **Year** | 2017 |
 | **Category** | Privatization and state-owned enterprise restructuring |
-| **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Case Study** | Indonesia |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 13 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.21511/PPM.15(4-1).2017.06](https://doi.org/10.21511/PPM.15(4-1).2017.06) |

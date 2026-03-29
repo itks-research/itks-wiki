@@ -5,8 +5,8 @@
 | نویسندگان | Anne‐Marie Le Gloannec, Bastien Irondelle, David Cadier |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Brain-drain reversal and diaspora economic engagement |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | بازگشت نخبگان و مشارکت اقتصادی دیاسپورا |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 2 |
 

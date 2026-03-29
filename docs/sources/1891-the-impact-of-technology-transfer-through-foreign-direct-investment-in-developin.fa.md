@@ -5,8 +5,8 @@
 | نویسندگان | Batoul Modarress, Abdolhossein Ansari, Emil Thies |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Trade liberalization and foreign direct investment |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادسازی تجارت و سرمایه‌گذاری خارجی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 17 |
 | **شناسه دیجیتال** | [10.5539/ijef.v6n7p108](https://doi.org/10.5539/ijef.v6n7p108) |

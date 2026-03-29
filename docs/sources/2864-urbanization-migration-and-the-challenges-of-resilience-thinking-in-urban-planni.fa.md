@@ -5,8 +5,8 @@
 | نویسندگان | Asad Asadzadeh, Theo Kötter, Alexander Fekete, Mahsa Moghadas, Mohsen Alizadeh, Esfandiar Zebardast, Dominik Weiß, Maysam Basirat, Gérard Hutter |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 59 |
 | **شناسه دیجیتال** | [10.1016/j.cities.2022.103642](https://doi.org/10.1016/j.cities.2022.103642) |

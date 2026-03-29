@@ -5,8 +5,8 @@
 | نویسندگان | Ana María Bustamante Duarte, Nina Brendel, Auriol Degbelo, Christian Kray |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Internet and digital infrastructure as civic space |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اینترنت و زیرساخت دیجیتال به‌عنوان فضای مدنی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 146 |
 | **شناسه دیجیتال** | [10.1145/3145472](https://doi.org/10.1145/3145472) |

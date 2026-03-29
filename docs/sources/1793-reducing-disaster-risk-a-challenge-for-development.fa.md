@@ -5,8 +5,8 @@
 | نویسندگان | Mark Pelling, Andrew Maskrey, Pablo Ruiz, Lisa J. Hall, Pascal Peduzzi, Hy Dao, Frédéric Mouton, Christian Herold, Stéphane Kluser |
 |---|---|
 | **سال** | 2004 |
-| **دسته‌بندی** | Labor market reform and social safety nets |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح بازار کار و شبکه‌های حمایت اجتماعی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 722 |
 

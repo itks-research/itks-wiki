@@ -6,7 +6,7 @@
 | **Year** | 2021 |
 | **Category** | Civil-military relations and security sector reform |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.59848/21.1207.hv7n5](https://doi.org/10.59848/21.1207.hv7n5) |

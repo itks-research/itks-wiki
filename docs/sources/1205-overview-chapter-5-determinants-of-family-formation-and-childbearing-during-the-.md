@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Tomáš Frejka |
 | **Year** | 2008 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 164 |
 | **Source** | openalex |
 | **DOI** | [10.4054/demres.2008.19.7](https://doi.org/10.4054/demres.2008.19.7) |

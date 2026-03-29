@@ -6,7 +6,7 @@
 | **Year** | 1989 |
 | **Category** | Transitional justice |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 2025 |
 | **Source** | openalex |
 | **DOI** | [10.1257/jep.3.4.99](https://doi.org/10.1257/jep.3.4.99) |

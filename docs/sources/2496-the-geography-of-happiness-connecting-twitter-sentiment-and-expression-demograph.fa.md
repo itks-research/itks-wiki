@@ -5,8 +5,8 @@
 | نویسندگان | Lewis Mitchell, Morgan R. Frank, Kameron Decker Harris, Peter Sheridan Dodds, Christopher M. Danforth |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 515 |
 | **شناسه دیجیتال** | [10.1371/journal.pone.0064417](https://doi.org/10.1371/journal.pone.0064417) |

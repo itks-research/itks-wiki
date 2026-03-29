@@ -5,8 +5,8 @@
 | نویسندگان | Daniel Kwasi Ahorsu, Chung‐Ying Lin, Vida Imani, Mohsen Saffari, Mark D. Griffiths, Amir H. Pakpour |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Civil society development |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | توسعه جامعه مدنی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 4421 |
 | **شناسه دیجیتال** | [10.1007/s11469-020-00270-8](https://doi.org/10.1007/s11469-020-00270-8) |

@@ -5,8 +5,8 @@
 | نویسندگان | Lita Tyesta Addy Listya Wardhani, Aga Natalis |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 5 |
 | **شناسه دیجیتال** | [10.31893/multirev.2024120](https://doi.org/10.31893/multirev.2024120) |

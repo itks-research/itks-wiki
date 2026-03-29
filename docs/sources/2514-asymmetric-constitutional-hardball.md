@@ -6,7 +6,7 @@
 | **Year** | 2018 |
 | **Category** | Judicial independence and rule of law |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 63 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://scholarship.law.columbia.edu/faculty_scholarship/2452) |

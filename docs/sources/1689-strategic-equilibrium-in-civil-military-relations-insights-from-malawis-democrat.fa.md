@@ -5,8 +5,8 @@
 | نویسندگان | Thokozani Chazema, M. Tembo, Chrispin Mphande, Robert Kerr, David Kumwenda |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | روابط نظامی-غیرنظامی و اصلاح بخش امنیتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.11648/j.ipa.20250902.11](https://doi.org/10.11648/j.ipa.20250902.11) |

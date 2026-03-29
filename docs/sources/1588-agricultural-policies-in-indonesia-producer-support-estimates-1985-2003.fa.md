@@ -5,8 +5,8 @@
 | نویسندگان | Marcelle Thomas, David Orden, Thomas, Marcelle, Orden, David |
 |---|---|
 | **سال** | 2004 |
-| **دسته‌بندی** | Trade liberalization and foreign direct investment |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادسازی تجارت و سرمایه‌گذاری خارجی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 11 |
 | **شناسه دیجیتال** | [10.22004/ag.econ.60455](https://doi.org/10.22004/ag.econ.60455) |

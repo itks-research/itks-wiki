@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Manuel R. Agosín, Diana Tussie |
 | **Year** | 1993 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Trade liberalization and foreign direct investment |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 42 |
 | **Source** | openalex |
 

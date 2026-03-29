@@ -6,7 +6,7 @@
 | **Year** | 1979 |
 | **Category** | Media freedom and press institution building |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 454 |
 | **Source** | openalex |
 | **DOI** | [10.18874/jjrs.6.4.1979.465-499](https://doi.org/10.18874/jjrs.6.4.1979.465-499) |

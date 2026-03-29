@@ -6,7 +6,7 @@
 | **Year** | 2012 |
 | **Category** | Ethnic federalism in Iran |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 17 |
 | **Source** | openalex |
 | **DOI** | [10.1111/j.1477-7053.2012.01372.x](https://doi.org/10.1111/j.1477-7053.2012.01372.x) |

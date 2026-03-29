@@ -6,7 +6,7 @@
 | **Year** | 2010 |
 | **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 67 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://files.eric.ed.gov/fulltext/EJ898203.pdf) |

@@ -5,8 +5,8 @@
 | نویسندگان | Efat Sadeghian, Hossein Ebrahimi, Naiemeh Seyedfatemi, Eesa Mohammadi, Maureen Crowley |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 6 |
 | **شناسه دیجیتال** | [10.4103/1735-9066.180388](https://doi.org/10.4103/1735-9066.180388) |

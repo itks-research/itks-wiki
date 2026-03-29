@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Levent Çetinkaya |
 | **Year** | 2017 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 215 |
 | **Source** | openalex |
 | **DOI** | [10.19173/irrodl.v18i7.3279](https://doi.org/10.19173/irrodl.v18i7.3279) |

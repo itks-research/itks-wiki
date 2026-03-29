@@ -5,8 +5,8 @@
 | نویسندگان | Pingky, Monica Hasugian, Pingky Monica, Hasugian, Bella Ayu Anzalia, Friska Lorentina Purba, Martua Felix Jonatan Simanullang, Jl. William, V. IskandarPs., Kenangan Baru, Kecamatan Percut, Sei Tuan |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Minority rights |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | حقوق اقلیت‌ها |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.55606/cendekia.v4i3.2982](https://doi.org/10.55606/cendekia.v4i3.2982) |

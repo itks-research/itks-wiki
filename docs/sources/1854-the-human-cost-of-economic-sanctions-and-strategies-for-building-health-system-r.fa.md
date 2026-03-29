@@ -5,8 +5,8 @@
 | نویسندگان | H. Sajadi, Faeze Yahyaei, Elham Ehsani-chimeh, R. Majdzadeh |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Sanctions unwinding and international reintegration |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | رفع تحریم‌ها و بازادغام بین‌المللی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 16 |
 | **شناسه دیجیتال** | [10.1002/hpm.3651](https://doi.org/10.1002/hpm.3651) |

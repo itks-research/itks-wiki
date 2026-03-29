@@ -5,8 +5,8 @@
 | نویسندگان | Carmen Aravena, Bárbara Valencia, A. Villegas, Ma Pilar Ortega, Alda Fernández R, Pamela Araya R, A. Saavedra, R. del Campo |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Chile |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | شیلی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 9 |
 | **شناسه دیجیتال** | [10.4067/S0034-98872019000100024](https://doi.org/10.4067/S0034-98872019000100024) |

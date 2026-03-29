@@ -5,8 +5,8 @@
 | نویسندگان | Ezmieralda Melissa, Anis Hamidati, Muninggar Sri Saraswati, Alexander G. Flor |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 40 |
 | **شناسه دیجیتال** | [10.1007/978-981-287-381-1_11](https://doi.org/10.1007/978-981-287-381-1_11) |

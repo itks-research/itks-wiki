@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Terry Lynn Karl |
 | **Year** | 1987 |
-| **Category** | Civil-military relations and security sector reform |
-| **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Category** | Resource curse management |
+| **Case Study** | Chile |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 194 |
 | **Source** | openalex |
 | **DOI** | [10.1017/s0023879100016435](https://doi.org/10.1017/s0023879100016435) |

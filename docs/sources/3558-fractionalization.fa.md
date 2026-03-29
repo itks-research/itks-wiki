@@ -5,8 +5,8 @@
 | نویسندگان | Alberto Alesina, Arnaud Devleeschauwer, William Easterly, Sergio Kurlat, Romain Wacziarg |
 |---|---|
 | **سال** | 2003 |
-| **دسته‌بندی** | Minority rights |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | حقوق اقلیت‌ها |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 413 |
 | **شناسه دیجیتال** | [10.3386/w9411](https://doi.org/10.3386/w9411) |

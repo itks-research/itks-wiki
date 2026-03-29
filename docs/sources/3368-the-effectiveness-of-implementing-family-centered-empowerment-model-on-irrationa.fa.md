@@ -5,8 +5,8 @@
 | نویسندگان | Maryam Modarres, Maryam Chamari, Fatemeh Alhani, Elham Ebrahimi |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.34172/jcs.2022.22](https://doi.org/10.34172/jcs.2022.22) |

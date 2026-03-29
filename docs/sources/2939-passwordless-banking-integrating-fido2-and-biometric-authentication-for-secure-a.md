@@ -6,7 +6,7 @@
 | **Year** | 2025 |
 | **Category** | Banking and financial system reform |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.52783/jisem.v10i62s.13639](https://doi.org/10.52783/jisem.v10i62s.13639) |

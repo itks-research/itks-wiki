@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Afifi Fauzi Abbas, Abdullah A Afifi, Mona Eliza, Adamu Abubakar Muhammad |
 | **Year** | 2025 |
-| **Category** | IRGC economic empire and its dismantling |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 3 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.58764/j.prwkl.2025.3.98](https://doi.org/10.58764/j.prwkl.2025.3.98) |

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Roberto Gargarella |
 | **Year** | 2021 |
-| **Category** | Transitional justice |
+| **Category** | Constitutional design and drafting processes |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 9 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.53110/gghh4058](https://doi.org/10.53110/gghh4058) |

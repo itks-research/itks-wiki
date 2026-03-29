@@ -5,8 +5,8 @@
 | نویسندگان | Xiuyun Wu, Li Han, Jianhua Zhang, Sheng Luo, Jin Wei Hu, Kui Sun |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 668 |
 | **شناسه دیجیتال** | [10.1371/journal.pone.0187668](https://doi.org/10.1371/journal.pone.0187668) |

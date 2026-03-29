@@ -5,8 +5,8 @@
 | نویسندگان | Saeed Yarmohamamadi Monfared, S. H. Mousavi, S. N. Sajjadi, A. Heidary |
 |---|---|
 | **سال** | 2011 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.1016/J.SBSPRO.2011.04.353](https://doi.org/10.1016/J.SBSPRO.2011.04.353) |

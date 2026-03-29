@@ -5,8 +5,8 @@
 | نویسندگان | Tayebeh Nikraftar, Elnaz Hosseini, Akram Hadizadeh Moghadam |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 7 |
 

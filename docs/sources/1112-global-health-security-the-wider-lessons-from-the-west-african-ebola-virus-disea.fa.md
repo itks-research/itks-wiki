@@ -5,8 +5,8 @@
 | نویسندگان | Dominique Heymann, Lincoln Chen, Keizo Takemi, David P. Fidler, Jordan W. Tappero, Mathew Thomas, Thomas Kenyon, Thomas R. Frieden, Derek Yach, Sania Nishtar, Alex Kalache, Piero Olliaro, Peter Horby, Els Torreele, Lawrence O. Gostin, Margareth Ndomondo-Sigonda, Daniel Carpenter, Simon Rushton, Louis Lillywhite, Bhimsen Devkota, Khalid Koser, Robert Yates, Ranu S Dhillon, Ravindra P. Rannan‐Eliya |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | روابط نظامی-غیرنظامی و اصلاح بخش امنیتی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 549 |
 | **شناسه دیجیتال** | [10.1016/s0140-6736(15)60858-3](https://doi.org/10.1016/s0140-6736(15)60858-3) |

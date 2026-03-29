@@ -6,7 +6,7 @@
 | **Year** | 1968 |
 | **Category** | Civil-military relations and security sector reform |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 944 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://publikationen.ub.uni-frankfurt.de/files/20127/9781906948054Negations.pdf) |

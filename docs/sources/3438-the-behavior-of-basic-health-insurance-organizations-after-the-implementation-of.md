@@ -6,7 +6,7 @@
 | **Year** | 2018 |
 | **Category** | Civil society development |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 3 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.14196/mjiri.32.110](https://doi.org/10.14196/mjiri.32.110) |

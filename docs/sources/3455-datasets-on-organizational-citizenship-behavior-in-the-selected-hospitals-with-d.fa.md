@@ -5,8 +5,8 @@
 | نویسندگان | Mohammad Ali Jahani, Shahrbanoo Mahmoudjanloo, Fatemeh Rostami, Hosein Ali Nikbakht, Ghahraman Mahmoudi |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Civil society development |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | توسعه جامعه مدنی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 10 |
 | **شناسه دیجیتال** | [10.1016/j.dib.2018.05.024](https://doi.org/10.1016/j.dib.2018.05.024) |

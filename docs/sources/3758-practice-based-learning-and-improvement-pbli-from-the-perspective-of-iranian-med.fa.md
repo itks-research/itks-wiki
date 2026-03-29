@@ -5,8 +5,8 @@
 | نویسندگان | Shahram Yazdani, Arezou Farajpour, Sareh Shakerian |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 13 |
 | **شناسه دیجیتال** | [10.5812/ircmj.55664](https://doi.org/10.5812/ircmj.55664) |

@@ -6,7 +6,7 @@
 | **Year** | 2023 |
 | **Category** | Women's rights codification and gender equality |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 5 |
 | **Source** | openalex |
 | **DOI** | [10.20414/sangkep.v6i1.6286](https://doi.org/10.20414/sangkep.v6i1.6286) |

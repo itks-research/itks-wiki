@@ -5,8 +5,8 @@
 | نویسندگان | Tufan Adıgüzel, Mehmet Haldun Kaya, Fatih Kürşat Cansu |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 792 |
 | **شناسه دیجیتال** | [10.30935/cedtech/13152](https://doi.org/10.30935/cedtech/13152) |

@@ -6,7 +6,7 @@
 | **Year** | 2019 |
 | **Category** | Civil society development |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 12 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.17645/MAC.V7I3.2180](https://doi.org/10.17645/MAC.V7I3.2180) |

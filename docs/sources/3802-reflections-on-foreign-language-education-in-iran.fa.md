@@ -5,8 +5,8 @@
 | نویسندگان | Hossein Farhady, Fattaneh Sajadi Hezaveh, Hora Hedayati |
 |---|---|
 | **سال** | 2010 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 67 |
 

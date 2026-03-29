@@ -5,8 +5,8 @@
 | نویسندگان | Paul S. Adler, Amr Adly, Daniel Erian Armanios, Julie Battilana, Zlatko Bodrožić, Stewart Clegg, Gerald F. Davis, Claudine Madras Gartenberg, Mary Ann Glynn, Ali Aslan Gümüşay, Heather A. Haveman, Paul M. Leonardi, Michael Lounsbury, Anita M. McGahan, Renate E. Meyer, Nelson Phillips, Kara Sheppard-Jones |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 61 |
 | **شناسه دیجیتال** | [10.1177/10564926221119395](https://doi.org/10.1177/10564926221119395) |

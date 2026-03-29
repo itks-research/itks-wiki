@@ -5,8 +5,8 @@
 | نویسندگان | David Berlan, Kent Buse, Jeremy Shiffman, Sonja Tanaka |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Tunisia |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | تونس |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 50 |
 | **شناسه دیجیتال** | [10.1093/heapol/czu060](https://doi.org/10.1093/heapol/czu060) |

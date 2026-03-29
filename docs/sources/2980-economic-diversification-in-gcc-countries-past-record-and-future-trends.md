@@ -6,7 +6,7 @@
 | **Year** | 2013 |
 | **Category** | Banking and financial system reform |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 136 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://eprints.lse.ac.uk/55252/1/Hvidt%20final%20paper%2020.11.17_v0.2.pdf) |

@@ -6,7 +6,7 @@
 | **Year** | 2018 |
 | **Category** | Sanctions unwinding and international reintegration |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 43 |
 | **Source** | openalex |
 | **DOI** | [10.1080/00036846.2018.1486988](https://doi.org/10.1080/00036846.2018.1486988) |

@@ -5,8 +5,8 @@
 | نویسندگان | Mahdieh Fathi, Nazila Yousefi, Hossein Vatanpour, Farzad Peiravian |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | خصوصی‌سازی و بازسازی شرکت‌های دولتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 24 |
 | **شناسه دیجیتال** | [10.22037/ijpr.2021.116145.15723](https://doi.org/10.22037/ijpr.2021.116145.15723) |

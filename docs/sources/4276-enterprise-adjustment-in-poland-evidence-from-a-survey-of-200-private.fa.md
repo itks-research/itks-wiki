@@ -5,8 +5,8 @@
 | نویسندگان | Marek Bělka, Saul Estrin, Mark E. Schaffer, I. J. Singh |
 |---|---|
 | **سال** | 1995 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | خصوصی‌سازی و بازسازی شرکت‌های دولتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 19 |
 

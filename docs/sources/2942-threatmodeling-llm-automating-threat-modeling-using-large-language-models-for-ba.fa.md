@@ -5,8 +5,8 @@
 | نویسندگان | Shuiqiao Yang, Tingmin Wu, Shigang Liu, David Nguyen, Seunghwan Jang, A. Abuadbba |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Banking and financial system reform |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام بانکی و مالی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 19 |
 | **شناسه دیجیتال** | [10.48550/arXiv.2411.17058](https://doi.org/10.48550/arXiv.2411.17058) |

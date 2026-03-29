@@ -5,8 +5,8 @@
 | نویسندگان | Wilnan Fatahillah, Ririh Krishnani, Teguh Luhuringbudi |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.34050/els-jish.v7i4.42367](https://doi.org/10.34050/els-jish.v7i4.42367) |

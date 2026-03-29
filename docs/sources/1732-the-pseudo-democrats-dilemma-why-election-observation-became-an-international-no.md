@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Susan Hyde |
 | **Year** | 2021 |
-| **Category** | Civil-military relations and security sector reform |
-| **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Category** | Electoral system design and implementation |
+| **Case Study** | Indonesia |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 197 |
 | **Source** | openalex |
 | **DOI** | [10.7298/bvg9-0151](https://doi.org/10.7298/bvg9-0151) |

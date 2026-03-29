@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | International Monetary Fund |
 | **Year** | 2003 |
-| **Category** | Sanctions unwinding and international reintegration |
+| **Category** | Resource curse management |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 6 |
 | **Source** | openalex |
 | **DOI** | [10.5089/9781451828931.002](https://doi.org/10.5089/9781451828931.002) |

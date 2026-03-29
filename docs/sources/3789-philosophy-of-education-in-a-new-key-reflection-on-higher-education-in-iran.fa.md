@@ -5,8 +5,8 @@
 | نویسندگان | B. Varaki, Alireza Sadeqzadeh Qamsari, Meisam Sefidkhosh, S. Sajjadi, Reza Mohammadi Chaboki, Tahereh Javidi Kalatehjafarabadi, Hojjat Saffarheidari, Meisam Mohammadamini, O. Karimzadeh, R. Barkhordari, S. Zarghami-Hamrah, M. Peters, M. Tesar |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 10 |
 | **شناسه دیجیتال** | [10.1080/00131857.2021.1905517](https://doi.org/10.1080/00131857.2021.1905517) |

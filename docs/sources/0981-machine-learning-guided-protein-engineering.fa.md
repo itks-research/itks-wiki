@@ -5,8 +5,8 @@
 | نویسندگان | Petr Kouba, Pavel Kohout, Faraneh Haddadi, Anton Bushuiev, Raman Samusevich, Jiří Sedlář, Jiřı́ Damborský, Tomáš Pluskal, Josef Šivic, Stanislav Mazurenko |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 170 |
 | **شناسه دیجیتال** | [10.1021/acscatal.3c02743](https://doi.org/10.1021/acscatal.3c02743) |

@@ -5,8 +5,8 @@
 | نویسندگان | Bill Lahneman, Karri Plotkin, Kevin M. Reeves, Sadaf Zahid, Scott Morrissey |
 |---|---|
 | **سال** | 2005 |
-| **دسته‌بندی** | Brain-drain reversal and diaspora economic engagement |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | بازگشت نخبگان و مشارکت اقتصادی دیاسپورا |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 2 |
 

@@ -6,7 +6,7 @@
 | **Year** | 2020 |
 | **Category** | Civil-military relations and security sector reform |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1093/acrefore/9780190228637.013.1846](https://doi.org/10.1093/acrefore/9780190228637.013.1846) |

@@ -6,7 +6,7 @@
 | **Year** | 2019 |
 | **Category** | Bonyad system reform |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 0 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://avesis.aybu.edu.tr/file?id=9ddf82e4-2abb-4819-aa08-6300cfe909bc) |

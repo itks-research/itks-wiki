@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Martin Klinthäll |
 | **Year** | 2007 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Sanctions unwinding and international reintegration |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 47 |
 | **Source** | openalex |
 | **DOI** | [10.1093/jrs/fem029](https://doi.org/10.1093/jrs/fem029) |

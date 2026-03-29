@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Marcel P. Timmer, Erik Dietzenbacher, Bart Los, Robert Stehrer, Gaaitzen J. de Vries |
 | **Year** | 2015 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Trade liberalization and foreign direct investment |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 2401 |
 | **Source** | openalex |
 | **DOI** | [10.1111/roie.12178](https://doi.org/10.1111/roie.12178) |

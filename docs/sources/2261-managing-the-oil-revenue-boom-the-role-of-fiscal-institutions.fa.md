@@ -5,8 +5,8 @@
 | نویسندگان | Mauricio Villafuerte, Rolando Ossowski, Theo Thomas, Paulo Medas, MVillafuerte@imf.org, ROssowski@imf.org, TThomas@imf.org, PMedas@imf.org |
 |---|---|
 | **سال** | 2008 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 110 |
 | **شناسه دیجیتال** | [10.5089/9781589067189.084](https://doi.org/10.5089/9781589067189.084) |

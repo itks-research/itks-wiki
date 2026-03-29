@@ -6,7 +6,7 @@
 | **Year** | 2010 |
 | **Category** | Civil society development |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 16 |
 | **Source** | openalex |
 | **DOI** | [10.5860/choice.47-4058](https://doi.org/10.5860/choice.47-4058) |

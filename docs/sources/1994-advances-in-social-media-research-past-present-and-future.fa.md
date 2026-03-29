@@ -5,8 +5,8 @@
 | نویسندگان | Kawaljeet Kaur Kapoor, Kuttimani Tamilmani, Nripendra P. Rana, Pushp P. Patil, Yogesh K. Dwivedi, Sridhar Nerur |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1243 |
 | **شناسه دیجیتال** | [10.1007/s10796-017-9810-y](https://doi.org/10.1007/s10796-017-9810-y) |

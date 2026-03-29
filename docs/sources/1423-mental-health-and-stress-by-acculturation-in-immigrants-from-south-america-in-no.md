@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | A. Urzúa M., Osvaldo Heredia B, Alejandra Caqueo-Urízar |
 | **Year** | 2016 |
-| **Category** | Transitional justice |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 57 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.4067/S0034-98872016000500002](https://doi.org/10.4067/S0034-98872016000500002) |

@@ -6,7 +6,7 @@
 | **Year** | 2016 |
 | **Category** | Electoral system design and implementation |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 6474 |
 | **Source** | openalex |
 | **DOI** | [10.1093/europace/euw295](https://doi.org/10.1093/europace/euw295) |

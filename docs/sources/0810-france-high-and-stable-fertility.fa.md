@@ -5,8 +5,8 @@
 | نویسندگان | Laurent Toulemon, Ariane Pailhé, Clémentine Rossier |
 |---|---|
 | **سال** | 2008 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Tunisia |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | تونس |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 164 |
 | **شناسه دیجیتال** | [10.4054/demres.2008.19.16](https://doi.org/10.4054/demres.2008.19.16) |

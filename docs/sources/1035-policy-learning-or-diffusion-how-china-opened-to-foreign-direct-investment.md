@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Min Ye |
 | **Year** | 2009 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Trade liberalization and foreign direct investment |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 37 |
 | **Source** | openalex |
 | **DOI** | [10.1017/s159824080000672x](https://doi.org/10.1017/s159824080000672x) |

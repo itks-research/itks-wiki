@@ -15,3 +15,7 @@
 ## Abstract
 
 In this open access book, experts on integration processes, integration policies, transnationalism, and the migration and development framework provide an academic assessment of the 2011 European Agen
+
+## Related Sources
+
+- **extends** [The Geopolitics of the Global Energy Transition](1290-the-geopolitics-of-the-global-energy-transition.md)

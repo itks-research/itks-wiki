@@ -5,8 +5,8 @@
 | نویسندگان | Szymon Marcińczak, Tiit Tammaru, Jakub Novák, Michael Gentile, Zoltán Kovács, Jana Temelová, Vytautas Valatka, Anneli Kährik, Balázs Szabó |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Labor market reform and social safety nets |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | اصلاح بازار کار و شبکه‌های حمایت اجتماعی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 122 |
 | **شناسه دیجیتال** | [10.1080/00045608.2014.968977](https://doi.org/10.1080/00045608.2014.968977) |

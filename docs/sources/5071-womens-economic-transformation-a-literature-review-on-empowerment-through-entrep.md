@@ -6,7 +6,7 @@
 | **Year** | 2024 |
 | **Category** | Women's rights codification and gender equality |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 4 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.61707/vtgm9335](https://doi.org/10.61707/vtgm9335) |

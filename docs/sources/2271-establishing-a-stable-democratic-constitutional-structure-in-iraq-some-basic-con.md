@@ -6,7 +6,7 @@
 | **Year** | 2004 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 3 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://works.bepress.com/paul_williams/16/download/) |

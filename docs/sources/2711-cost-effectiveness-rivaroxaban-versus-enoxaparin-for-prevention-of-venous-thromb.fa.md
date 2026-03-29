@@ -5,8 +5,8 @@
 | نویسندگان | A. Abutorabi, Marjan Haj Ahmadi, S. Bagheri Faradonbeh, Asma Rashki Kemmak, V. Alipour |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 5 |
 | **شناسه دیجیتال** | [10.47176/mjiri.37.20](https://doi.org/10.47176/mjiri.37.20) |

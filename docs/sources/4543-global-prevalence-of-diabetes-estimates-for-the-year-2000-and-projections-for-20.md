@@ -6,7 +6,7 @@
 | **Year** | 2004 |
 | **Category** | Media freedom and press institution building |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 2028 |
 | **Source** | openalex |
 | **DOI** | [10.2337/diacare.27.10.2568](https://doi.org/10.2337/diacare.27.10.2568) |

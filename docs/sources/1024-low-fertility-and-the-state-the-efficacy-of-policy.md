@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Peter McDonald |
 | **Year** | 2006 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 532 |
 | **Source** | openalex |
 | **DOI** | [10.1111/j.1728-4457.2006.00134.x](https://doi.org/10.1111/j.1728-4457.2006.00134.x) |

@@ -6,7 +6,7 @@
 | **Year** | 2008 |
 | **Category** | Nuclear program civilian transition |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 35 |
 | **Source** | openalex |
 | **DOI** | [10.15496/publikation-117742](https://doi.org/10.15496/publikation-117742) |

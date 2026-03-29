@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Bartłomiej Kamiński, Francis Ng |
 | **Year** | 2006 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Trade liberalization and foreign direct investment |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 20 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://hdl.handle.net/10986/8677) |

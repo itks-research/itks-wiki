@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Samuel Angiboust, Josephine Kirsch, Onno Oncken, Johannes Glodny, Patrick Monié, Erik Rybacki |
 | **Year** | 2015 |
-| **Category** | Transitional justice |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 107 |
 | **Source** | openalex |
 | **DOI** | [10.1002/2015gc005776](https://doi.org/10.1002/2015gc005776) |

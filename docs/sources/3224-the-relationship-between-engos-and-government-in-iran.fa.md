@@ -5,8 +5,8 @@
 | نویسندگان | Faezeh Hashemi, Hasan Sadighi, Mohammad Chizari, Enayat Abbasi |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 12 |
 | **شناسه دیجیتال** | [10.1016/j.heliyon.2019.e02844](https://doi.org/10.1016/j.heliyon.2019.e02844) |

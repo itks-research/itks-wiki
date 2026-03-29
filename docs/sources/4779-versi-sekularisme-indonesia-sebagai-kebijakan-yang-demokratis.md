@@ -6,7 +6,7 @@
 | **Year** | 2022 |
 | **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.55115/gentahredaya.v6i1.2131](https://doi.org/10.55115/gentahredaya.v6i1.2131) |

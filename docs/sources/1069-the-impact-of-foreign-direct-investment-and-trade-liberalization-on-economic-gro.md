@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | Abdul Rahim Ridzuan, Nor Asmat Ismail, Abdul Fatah Che Hamat, Mohamad Idham Md Razak, Faridah Pardi |
 | **Year** | 2017 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Trade liberalization and foreign direct investment |
+| **Secondary Categories** | Labor market reform and social safety nets |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 3 |
 | **Source** | openalex |
 | **DOI** | [10.6007/ijarbss/v7-i6/2953](https://doi.org/10.6007/ijarbss/v7-i6/2953) |

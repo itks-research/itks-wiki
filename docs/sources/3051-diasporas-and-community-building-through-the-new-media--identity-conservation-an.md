@@ -6,7 +6,7 @@
 | **Year** | 2021 |
 | **Category** | Brain-drain reversal and diaspora economic engagement |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/6A/6103acb8bb282.pdf) |

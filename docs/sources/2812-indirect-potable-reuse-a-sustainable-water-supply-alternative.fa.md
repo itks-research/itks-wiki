@@ -5,8 +5,8 @@
 | نویسندگان | Clemencia Rodríguez, Paul Van Buynder, Richard Lugg, Palenque Blair, Brian Devine, Angus Cook, Philip Weinstein |
 |---|---|
 | **سال** | 2009 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 200 |
 | **شناسه دیجیتال** | [10.3390/ijerph6031174](https://doi.org/10.3390/ijerph6031174) |

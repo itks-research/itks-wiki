@@ -5,8 +5,8 @@
 | نویسندگان | Andres Aslund, Peter Boone, Simon Johnson, Stanley Fischer, Barry W. Ickes |
 |---|---|
 | **سال** | 1996 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | خصوصی‌سازی و بازسازی شرکت‌های دولتی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 324 |
 | **شناسه دیجیتال** | [10.2307/2534649](https://doi.org/10.2307/2534649) |

@@ -6,7 +6,7 @@
 | **Year** | 1989 |
 | **Category** | Transitional justice |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 678 |
 | **Source** | openalex |
 | **DOI** | [10.1257/jep.3.3.23](https://doi.org/10.1257/jep.3.3.23) |

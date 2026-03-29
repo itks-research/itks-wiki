@@ -6,7 +6,7 @@
 | **Year** | 2022 |
 | **Category** | Electoral system design and implementation |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1017/S157401962200027X](https://doi.org/10.1017/S157401962200027X) |

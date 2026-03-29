@@ -5,8 +5,8 @@
 | نویسندگان | Zhechen Zhang, Zhonghao Chen, Jiawen Zhang, Yunfei Liu, Lin Chen, Mingyu Yang, Ahmed I. Osman, Mohamed Farghali, Engui Liu, Dalia Hassan, Ikko Ihara, Kun Lü, David W. Rooney, Pow‐Seng Yap |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Labor market reform and social safety nets |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح بازار کار و شبکه‌های حمایت اجتماعی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 247 |
 | **شناسه دیجیتال** | [10.1016/j.scitotenv.2024.172794](https://doi.org/10.1016/j.scitotenv.2024.172794) |

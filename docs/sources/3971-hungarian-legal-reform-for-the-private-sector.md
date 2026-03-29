@@ -6,7 +6,7 @@
 | **Year** | 1992 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 122 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://scholarship.law.columbia.edu/faculty_scholarship/935) |

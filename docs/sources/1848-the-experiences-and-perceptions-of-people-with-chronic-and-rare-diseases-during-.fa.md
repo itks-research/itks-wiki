@@ -5,8 +5,8 @@
 | نویسندگان | M. Kiani, Hakimeh Mostafavi, Fatemeh Ebrahimi, Reza Majdzadeh, E. Mohamadi, Alexander Kraemer, A. Olyaeemanesh, Amirhossein Takian |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Sanctions unwinding and international reintegration |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | رفع تحریم‌ها و بازادغام بین‌المللی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 5 |
 | **شناسه دیجیتال** | [10.1186/s12913-024-10786-7](https://doi.org/10.1186/s12913-024-10786-7) |

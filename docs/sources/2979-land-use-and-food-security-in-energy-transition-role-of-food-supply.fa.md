@@ -5,8 +5,8 @@
 | نویسندگان | Daoyong Zhuang, Jaffar Abbas, Khalid Ibrahim Al‐Sulaiti, Mochammad Fahlevi, Mohammed Aljuaid, Sebastian Saniuk |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Banking and financial system reform |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام بانکی و مالی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 99 |
 | **شناسه دیجیتال** | [10.3389/fsufs.2022.1053031](https://doi.org/10.3389/fsufs.2022.1053031) |

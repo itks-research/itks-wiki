@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Judith Fathallah |
 | **Year** | 2013 |
-| **Category** | Sanctions unwinding and international reintegration |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 3 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://orca.cardiff.ac.uk/58900/1/2014fathallahjm.pdf) |

@@ -5,8 +5,8 @@
 | نویسندگان | Maria Skublewska‐Paszkowska, Marek Miłosz, Paweł Powroźnik, Edyta Łukasik |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Cultural heritage preservation during institutional change |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | حفظ میراث فرهنگی در دوره تحولات نهادی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 245 |
 | **شناسه دیجیتال** | [10.1186/s40494-021-00633-x](https://doi.org/10.1186/s40494-021-00633-x) |

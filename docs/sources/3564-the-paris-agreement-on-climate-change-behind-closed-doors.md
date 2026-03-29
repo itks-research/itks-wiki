@@ -6,7 +6,7 @@
 | **Year** | 2016 |
 | **Category** | Minority rights |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 466 |
 | **Source** | openalex |
 | **DOI** | [10.1162/glep_a_00361](https://doi.org/10.1162/glep_a_00361) |

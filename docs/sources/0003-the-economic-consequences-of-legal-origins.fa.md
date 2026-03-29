@@ -5,8 +5,8 @@
 | نویسندگان | Rafael La Porta, Florencio López‐de‐Silanes, Andrei Shleifer |
 |---|---|
 | **سال** | 2008 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 3209 |
 | **شناسه دیجیتال** | [10.1257/jel.46.2.285](https://doi.org/10.1257/jel.46.2.285) |

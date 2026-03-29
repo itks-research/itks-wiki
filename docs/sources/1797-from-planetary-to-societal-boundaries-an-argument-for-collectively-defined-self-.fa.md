@@ -5,8 +5,8 @@
 | نویسندگان | Ulrich Brand, Barbara Muraca, Éric Pineault, Marlyne Sahakian, Anke Schaffartzik, Andreas Novy, Christoph Streissler, Helmut Haberl, Viviana Asara, Kristina Dietz, Miriam Lang, Ashish Kothari, Tone Smith, Clive L. Spash, Alina Brad, Mélanie Pichler, Christina Plank, Giorgos Velegrakis, Thomas Jähn, Angela Carter, Qingzhi Huan, Giorgos Kallis, Joan Martínez Alier, Gabriel Riva, Vishwas Satgar, Emiliano Terán Mantovani, Michelle Williams, Markus Wissen, Christoph Görg |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Cultural heritage preservation during institutional change |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | حفظ میراث فرهنگی در دوره تحولات نهادی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 194 |
 | **شناسه دیجیتال** | [10.1080/15487733.2021.1940754](https://doi.org/10.1080/15487733.2021.1940754) |

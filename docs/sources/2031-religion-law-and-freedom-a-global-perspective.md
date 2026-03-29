@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Unknown |
 | **Year** | 2001 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 42 |
 | **Source** | openalex |
 | **DOI** | [10.5860/choice.38-4866](https://doi.org/10.5860/choice.38-4866) |

@@ -5,8 +5,8 @@
 | نویسندگان | Fatemeh Ebrahimi, Alexander Kraemer, E. Mohamadi, M. Kiani, Seyyed Reza Majdzadeh, Morteza Mohamadzade, Nasrin Sargazi, A. Olyaeemanesh, Amirhossein Takian |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Sanctions unwinding and international reintegration |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | رفع تحریم‌ها و بازادغام بین‌المللی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.5812/jhealthscope-134234](https://doi.org/10.5812/jhealthscope-134234) |

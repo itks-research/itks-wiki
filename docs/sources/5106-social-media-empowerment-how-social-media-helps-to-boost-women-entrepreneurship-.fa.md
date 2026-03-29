@@ -5,8 +5,8 @@
 | نویسندگان | Ezmieralda Melissa, Anis Hamidati, Muninggar Sri Hamidati |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 28 |
 | **شناسه دیجیتال** | [10.22492/ijmcf.1.1.06](https://doi.org/10.22492/ijmcf.1.1.06) |

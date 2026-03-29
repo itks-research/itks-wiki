@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Arthur B. Ferguson, Richard Barber |
 | **Year** | 1972 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 62 |
 | **Source** | openalex |
 | **DOI** | [10.2307/1983866](https://doi.org/10.2307/1983866) |

@@ -6,7 +6,7 @@
 | **Year** | 2011 |
 | **Category** | Women's rights codification and gender equality |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 10 |
 | **Source** | openalex |
 | **DOI** | [10.5539/ass.v7n3p260](https://doi.org/10.5539/ass.v7n3p260) |

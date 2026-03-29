@@ -5,8 +5,8 @@
 | نویسندگان | Bartosz Jóźwik, Antonina Viktoria Gavryshkiv, Phouphet Kyophilavong, Lech Gruszecki |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | خصوصی‌سازی و بازسازی شرکت‌های دولتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 36 |
 | **شناسه دیجیتال** | [10.3390/en14123415](https://doi.org/10.3390/en14123415) |

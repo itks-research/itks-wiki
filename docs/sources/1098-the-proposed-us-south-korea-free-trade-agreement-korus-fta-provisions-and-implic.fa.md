@@ -5,8 +5,8 @@
 | نویسندگان | William H. Cooper, Mark E. Manyin, Remy Jurenas, Michaela D. Platzer |
 |---|---|
 | **سال** | 2009 |
-| **دسته‌بندی** | Trade liberalization and foreign direct investment |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | آزادسازی تجارت و سرمایه‌گذاری خارجی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 23 |
 

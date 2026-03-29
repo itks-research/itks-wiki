@@ -6,7 +6,7 @@
 | **Year** | 2024 |
 | **Category** | Brain-drain reversal and diaspora economic engagement |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **DOI** | [10.33134/hup-26](https://doi.org/10.33134/hup-26) |

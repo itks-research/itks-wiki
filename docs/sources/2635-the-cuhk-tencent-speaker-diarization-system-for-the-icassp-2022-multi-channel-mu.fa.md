@@ -5,8 +5,8 @@
 | نویسندگان | Naijun Zheng, N. Li, Xixin Wu, Lingwei Meng, Jiawen Kang, Haibin Wu, Chao Weng, Dan Su, H. Meng |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Political party formation and pluralism |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | شکل‌گیری احزاب سیاسی و تکثرگرایی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 15 |
 | **شناسه دیجیتال** | [10.1109/icassp43922.2022.9746649](https://doi.org/10.1109/icassp43922.2022.9746649) |

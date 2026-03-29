@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Mohammed Ayoob |
 | **Year** | 2012 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Regional foreign policy reorientation |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 32 |
 | **Source** | openalex |
 | **DOI** | [10.1111/j.1475-4967.2012.00549.x](https://doi.org/10.1111/j.1475-4967.2012.00549.x) |

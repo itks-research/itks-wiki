@@ -5,8 +5,8 @@
 | نویسندگان | Putri Silaturrahmi, Uswatun Hasanah, M. A. Aziz |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.58788/alwijdn.v8i3.2748](https://doi.org/10.58788/alwijdn.v8i3.2748) |

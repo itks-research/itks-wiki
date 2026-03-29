@@ -5,8 +5,8 @@
 | نویسندگان | Zahra Behboodi Moghadam, Elham Rezaei, Bahareh Sharifi, Saharnaz Nejat, Sara Esmaelzadeh Saeieh, Maryam Ordibeheshti Khiaban |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 18 |
 | **شناسه دیجیتال** | [10.1177/2325958218759681](https://doi.org/10.1177/2325958218759681) |

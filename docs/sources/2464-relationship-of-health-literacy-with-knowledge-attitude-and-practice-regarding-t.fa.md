@@ -5,8 +5,8 @@
 | نویسندگان | Sara Moghimi, Maryam Seraji, Zahra Arab Borzu, Fatemeh Eghdam, Sara Rezaei |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.32598/ijn.36.146.3323.3](https://doi.org/10.32598/ijn.36.146.3323.3) |

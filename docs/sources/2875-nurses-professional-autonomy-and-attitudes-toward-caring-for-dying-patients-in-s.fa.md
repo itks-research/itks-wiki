@@ -5,8 +5,8 @@
 | نویسندگان | Sedigheh Iranmanesh, Farideh Razban, Afsaneh Tabasi Nejad, Zahra Ghazanfari |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 25 |
 | **شناسه دیجیتال** | [10.12968/ijpn.2014.20.6.294](https://doi.org/10.12968/ijpn.2014.20.6.294) |

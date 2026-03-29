@@ -5,8 +5,8 @@
 | نویسندگان | Lindsey A. Torre, Freddie Bray, Rebecca L. Siegel, Jacques Ferlay, Joannie Lortet‐Tieulent, Ahmedin Jemal |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Civil society development |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | توسعه جامعه مدنی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 27309 |
 | **شناسه دیجیتال** | [10.3322/caac.21262](https://doi.org/10.3322/caac.21262) |

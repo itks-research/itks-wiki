@@ -5,8 +5,8 @@
 | نویسندگان | Carmen Marín‐Buzón, Antonio Pérez-Romero, José Luis López-Castro, Imed Ben Jerbania, Francisco Manzano‐Agugliaro |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Tunisia |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | تونس |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 108 |
 | **شناسه دیجیتال** | [10.3390/su13095319](https://doi.org/10.3390/su13095319) |

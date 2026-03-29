@@ -5,8 +5,8 @@
 | نویسندگان | Anatoly V. Kasatkin, Emil Makovicky, Jakub Plášil, Radek Škoda, Atali A. Agakhanov, S. Yu. Stepanov, Р. С. Паламарчук |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Resource curse management |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | مدیریت نفرین منابع طبیعی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 11 |
 | **شناسه دیجیتال** | [10.1180/mgm.2020.48](https://doi.org/10.1180/mgm.2020.48) |

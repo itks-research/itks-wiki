@@ -5,8 +5,8 @@
 | نویسندگان | Elżbieta Szaruga, E. Załoga, Arkadiusz Drewnowski, Sylwia Kowalska, Paulina Dąbrosz-Drewnowska |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | خصوصی‌سازی و بازسازی شرکت‌های دولتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.3390/en17133118](https://doi.org/10.3390/en17133118) |

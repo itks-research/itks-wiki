@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Jeffrey Taylor |
 | **Year** | 2022 |
-| **Category** | IRGC economic empire and its dismantling |
+| **Category** | Regional foreign policy reorientation |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1 |
 | **Source** | openalex |
 | **DOI** | [10.21140/mcuj.2022sistratcul012](https://doi.org/10.21140/mcuj.2022sistratcul012) |

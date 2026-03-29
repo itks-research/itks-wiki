@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Juvenal A. Ríos, M. F. Barake, M. Arce, Francisco López-Köstner, T. Labbe, J. Villena, Sergio Becerra |
 | **Year** | 2020 |
-| **Category** | Transitional justice |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 3 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.4067/s0034-98872020000600858](https://doi.org/10.4067/s0034-98872020000600858) |

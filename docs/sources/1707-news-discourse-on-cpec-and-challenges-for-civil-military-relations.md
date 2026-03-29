@@ -6,7 +6,7 @@
 | **Year** | 2022 |
 | **Category** | Civil-military relations and security sector reform |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.31703/gpr.2022(vii-i).03](https://doi.org/10.31703/gpr.2022(vii-i).03) |

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Hamid Algar |
 | **Year** | 1991 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 21 |
 | **Source** | openalex |
 | **DOI** | [10.1017/chol9780521200950.020](https://doi.org/10.1017/chol9780521200950.020) |

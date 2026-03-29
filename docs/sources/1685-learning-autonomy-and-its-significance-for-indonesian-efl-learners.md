@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Fidyati Fidyati |
 | **Year** | 2017 |
-| **Category** | Federalism, unitarism, and autonomy models |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 11 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://doaj.org/article/1fdfb800e2f64ae4ba11709a9ee7de96) |

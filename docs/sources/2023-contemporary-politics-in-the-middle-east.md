@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Beverley Milton‐Edwards |
 | **Year** | 2000 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Electoral system design and implementation |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 94 |
 | **Source** | openalex |
 

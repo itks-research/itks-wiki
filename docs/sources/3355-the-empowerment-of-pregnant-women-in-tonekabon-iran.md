@@ -6,7 +6,7 @@
 | **Year** | 2016 |
 | **Category** | Women's rights codification and gender equality |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 3 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://doaj.org/article/02c3077e77d347f9ae149401417c271a) |

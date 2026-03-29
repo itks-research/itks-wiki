@@ -5,8 +5,8 @@
 | نویسندگان | Grzegorz Majewski, Łukasz J. Orman, Marek Telejko, Norbert Radek, Jacek Pietraszek, A. Dudek |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 56 |
 | **شناسه دیجیتال** | [10.3390/en13081973](https://doi.org/10.3390/en13081973) |

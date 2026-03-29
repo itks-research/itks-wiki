@@ -6,7 +6,7 @@
 | **Year** | 1998 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 40 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://ir.lawnet.fordham.edu/ilj/vol22/iss2/2) |

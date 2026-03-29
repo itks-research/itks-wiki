@@ -6,7 +6,7 @@
 | **Year** | 1997 |
 | **Category** | Federalism, unitarism, and autonomy models |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 0 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://figshare.com/articles/thesis/Military_intervention_in_Nigerian_politics_what_has_the_press_got_to_do_with_it_/10148867) |

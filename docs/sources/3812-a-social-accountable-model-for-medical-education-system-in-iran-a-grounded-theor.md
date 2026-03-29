@@ -6,7 +6,7 @@
 | **Year** | 2017 |
 | **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 4 |
 | **Source** | openalex |
 | **DOI** | [10.22037/jme.v16i2.16057](https://doi.org/10.22037/jme.v16i2.16057) |

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Mona El-Ghobashy |
 | **Year** | 2005 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 288 |
 | **Source** | openalex |
 | **DOI** | [10.1017/s0020743805052128](https://doi.org/10.1017/s0020743805052128) |

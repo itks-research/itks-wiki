@@ -5,8 +5,8 @@
 | نویسندگان | Eppie R. Jones, Gloria G. Fortes, Sarah Connell, Veronika Siska, Anders Eriksson, Rui Martiniano, Russell L. McLaughlin, M. Gallego-Llorente, Lara M. Cassidy, Cristina Gamba, Tengiz Meshveliani, Ofer Bar‐Yosef, Werner A. Müller, Anna Belfer‐Cohen, Zinovi Matskevich, Nino Jakeli, Thomas Higham, Mathias Currat, David Lordkipanidze, Michael Hofreiter, Andrea Manica, Ron Pinhasi, Daniel G. Bradley |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Minority rights |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | حقوق اقلیت‌ها |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 447 |
 | **شناسه دیجیتال** | [10.1038/ncomms9912](https://doi.org/10.1038/ncomms9912) |

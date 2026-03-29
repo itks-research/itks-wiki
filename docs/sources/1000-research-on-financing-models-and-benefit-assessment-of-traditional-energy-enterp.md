@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Zhongwang Zhang |
 | **Year** | 2025 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Banking and financial system reform |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.63808/smp.v1i3.257](https://doi.org/10.63808/smp.v1i3.257) |

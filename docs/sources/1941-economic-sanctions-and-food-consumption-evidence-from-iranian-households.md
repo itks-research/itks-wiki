@@ -5,8 +5,9 @@
 | **Authors** | Babak RezaeeDaryakenari, Peyman Asadzade, Cameron G. Thies |
 | **Year** | 2024 |
 | **Category** | Sanctions unwinding and international reintegration |
+| **Secondary Categories** | Trade liberalization and foreign direct investment |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 6 |
 | **Source** | openalex |
 | **DOI** | [10.1093/isq/sqae103](https://doi.org/10.1093/isq/sqae103) |

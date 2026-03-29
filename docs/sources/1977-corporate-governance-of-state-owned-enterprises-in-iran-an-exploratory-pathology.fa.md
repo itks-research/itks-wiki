@@ -5,8 +5,8 @@
 | نویسندگان | Vahid Beygi, Mohammad Abooyee Ardakan, Seyyed Mohammad Moghimi |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | خصوصی‌سازی و بازسازی شرکت‌های دولتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 8 |
 | **شناسه دیجیتال** | [10.1108/imefm-10-2019-0445](https://doi.org/10.1108/imefm-10-2019-0445) |

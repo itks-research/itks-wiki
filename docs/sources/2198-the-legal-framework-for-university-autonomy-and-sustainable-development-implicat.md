@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Tan Dat Truong, Quoc Giang Tran |
 | **Year** | 2025 |
-| **Category** | IRGC economic empire and its dismantling |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.18623/rvd.v22.n7.3916](https://doi.org/10.18623/rvd.v22.n7.3916) |

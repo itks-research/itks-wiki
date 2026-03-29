@@ -5,8 +5,8 @@
 | نویسندگان | Helena Ivanov, Vuk Vuksanović, Tamara Drndarević, Uroš Popadić, Anja Šofranac |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Brain-drain reversal and diaspora economic engagement |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | بازگشت نخبگان و مشارکت اقتصادی دیاسپورا |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.55042/blvy6861](https://doi.org/10.55042/blvy6861) |

@@ -5,8 +5,8 @@
 | نویسندگان | Ken A. Dill, Sarina Bromberg, Kaizhi Yue, Hue Sun Chan, Klaus M. Ftebig, David P. Yee, Paul D. Thomas |
 |---|---|
 | **سال** | 1995 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1540 |
 | **شناسه دیجیتال** | [10.1002/pro.5560040401](https://doi.org/10.1002/pro.5560040401) |

@@ -5,8 +5,8 @@
 | نویسندگان | Edward L. Morse, Eugene Kamenka, John H. Herz, Daniel Thürer, Louis L. Snyder |
 |---|---|
 | **سال** | 1977 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 105 |
 | **شناسه دیجیتال** | [10.2307/20039654](https://doi.org/10.2307/20039654) |

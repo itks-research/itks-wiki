@@ -6,7 +6,7 @@
 | **Year** | 2024 |
 | **Category** | Regional foreign policy reorientation |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.11648/j.hss.20241206.20](https://doi.org/10.11648/j.hss.20241206.20) |

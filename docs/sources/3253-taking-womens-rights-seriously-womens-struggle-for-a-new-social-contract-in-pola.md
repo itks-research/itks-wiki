@@ -6,7 +6,7 @@
 | **Year** | 2024 |
 | **Category** | Women's rights codification and gender equality |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.5937/pravzap0-50567](https://doi.org/10.5937/pravzap0-50567) |

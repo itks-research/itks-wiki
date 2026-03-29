@@ -5,8 +5,8 @@
 | نویسندگان | OECD, C Calderon, A Zeufack, M Corden, P Neary, M De Corral, R Schwarz, D De La Croix, C Delavallade, S Hertog, A Lashitew, M Ross, E Werker |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Resource curse management |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | مدیریت نفرین منابع طبیعی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 53 |
 | **شناسه دیجیتال** | [10.1787/8bafbd95-en](https://doi.org/10.1787/8bafbd95-en) |

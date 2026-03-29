@@ -6,7 +6,7 @@
 | **Year** | 2011 |
 | **Category** | Transitional justice |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 691 |
 | **Source** | openalex |
 | **DOI** | [10.1088/1748-0221/6/11/p11002](https://doi.org/10.1088/1748-0221/6/11/p11002) |

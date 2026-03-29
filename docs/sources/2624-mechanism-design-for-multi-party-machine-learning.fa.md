@@ -5,8 +5,8 @@
 | نویسندگان | Mengjing Chen, Yang Liu, Weiran Shen, Yiheng Shen, Pingzhong Tang, Qiang Yang |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Political party formation and pluralism |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | شکل‌گیری احزاب سیاسی و تکثرگرایی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 15 |
 

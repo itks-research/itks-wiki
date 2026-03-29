@@ -5,8 +5,8 @@
 | نویسندگان | Hooman Farzaneh, Ladan Malehmirchegini, Adrian Bejan, Taofeek Afolabi, Alphonce Ngila Mulumba, Precious P. Daka |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Internet and digital infrastructure as civic space |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اینترنت و زیرساخت دیجیتال به‌عنوان فضای مدنی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 313 |
 | **شناسه دیجیتال** | [10.3390/app11020763](https://doi.org/10.3390/app11020763) |

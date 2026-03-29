@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Michael Baun, K Kouba, Dan Marek |
 | **Year** | 2009 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Trade liberalization and foreign direct investment |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 6 |
 | **Source** | openalex |
 | **DOI** | [10.1080/14782800903108734](https://doi.org/10.1080/14782800903108734) |

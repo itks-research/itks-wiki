@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Eric Beerkens |
 | **Year** | 2002 |
-| **Category** | Federalism, unitarism, and autonomy models |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 16 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://research.utwente.nl/en/publications/moving-toward-autonomy-in-indonesian-higher-education(e7c64081-530d-442b-8ee9-722a2c69be76).html) |

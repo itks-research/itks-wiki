@@ -14,3 +14,8 @@
 ## Abstract
 
 The Palikot’s Movement made the separation of church and state one of the pillars of its political communication and gained a significant electoral support. As a result, the government raised some of those issues, but its projects in this area were more moderate and only a fraction of them were ultimately implemented. In the analysed scope, the legislative initiatives of the Palikot Movement turned out to be ineffective. The Sejm quickly rejected some of them, while others did not enter the legislative process, which was a sign of the party’s low impact on legislation. Over time, as the parliamentary support base dissolved, the issue was gradually pushed to the background in public debate. It shows that in the Polish political system, opposition parties can introduce specific proposals into the public debate, but their ability to turn such matters into legislative initiatives is very limited.
+
+## Related Sources
+
+- **contradicts** [Perspectives on Religious Freedom in Spain](0369-perspectives-on-religious-freedom-in-spain.md)
+- **contradicts** [The Ascendancy of Secular Trends in Iran](2071-the-ascendancy-of-secular-trends-in-iran.md)

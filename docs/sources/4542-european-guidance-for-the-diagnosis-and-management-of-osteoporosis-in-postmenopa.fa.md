@@ -5,8 +5,8 @@
 | نویسندگان | J. A. Kanis, E. V. McCloskey, Håkan Johansson, Cyrus Cooper, René Rizzoli, Jean‐Yves Reginster |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 2929 |
 | **شناسه دیجیتال** | [10.1007/s00198-012-2074-y](https://doi.org/10.1007/s00198-012-2074-y) |

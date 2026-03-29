@@ -5,8 +5,8 @@
 | نویسندگان | Leila Doshmangir, Arash Rashidian, Mehdi Jafarı, Amirhossein Takian, Hamid Ravaghi |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 41 |
 

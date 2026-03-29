@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Lars Fischer |
 | **Year** | 2017 |
-| **Category** | Sanctions unwinding and international reintegration |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 4 |
 | **Source** | openalex |
 | **DOI** | [10.18647/3337/jjs-2017](https://doi.org/10.18647/3337/jjs-2017) |

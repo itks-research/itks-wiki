@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Ingrid Piller, Jinhyun Cho |
 | **Year** | 2013 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Language policy |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 644 |
 | **Source** | openalex |
 | **DOI** | [10.1017/s0047404512000887](https://doi.org/10.1017/s0047404512000887) |

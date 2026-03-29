@@ -5,8 +5,8 @@
 | نویسندگان | I. Made, Arie Widyasthana, Wartana Putra, Dwi Suharnoko, Faradian Salsabila, Dina Dwi, U. Putri |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 4 |
 | **شناسه دیجیتال** | [10.26618/kjap.v10i3.16114](https://doi.org/10.26618/kjap.v10i3.16114) |

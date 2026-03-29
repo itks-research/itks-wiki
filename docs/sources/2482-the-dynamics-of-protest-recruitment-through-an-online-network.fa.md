@@ -5,8 +5,8 @@
 | نویسندگان | Sandra González-Bailón, Javier Borge-Holthoefer, Alejandro Rivero, Yamir Moreno |
 |---|---|
 | **سال** | 2011 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 545 |
 | **شناسه دیجیتال** | [10.1038/srep00197](https://doi.org/10.1038/srep00197) |

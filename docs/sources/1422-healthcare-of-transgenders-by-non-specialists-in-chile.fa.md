@@ -5,8 +5,8 @@
 | نویسندگان | Antonio Zapata Pizarro, Karina Díaz Díaz, Luis Barra Ahumada, Lorena Maureira Sales, Jeanette Linares Moreno, Franco Zapata Pizarro |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Chile |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | شیلی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 13 |
 | **شناسه دیجیتال** | [10.4067/S0034-98872019000100065](https://doi.org/10.4067/S0034-98872019000100065) |

@@ -5,8 +5,8 @@
 | نویسندگان | Ntite Orji Kalu, Tomáš Janík, Martina Kurowski |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.5817/cphpj-2024-010](https://doi.org/10.5817/cphpj-2024-010) |

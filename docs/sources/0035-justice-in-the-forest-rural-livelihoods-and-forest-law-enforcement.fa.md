@@ -5,8 +5,8 @@
 | نویسندگان | Marcus Colchester, Marco Boscolo, A. Contreras-Hermosilla, Gatto F.D., Jason Dempsey, Guillaume Lescuyer, K. Obidzinski, D. Pommier, Meryl Richards, Sembiring S.S., Luca Tacconi, Rios M.T.S., Andrew Wells |
 |---|---|
 | **سال** | 2006 |
-| **دسته‌بندی** | Resource curse management |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | مدیریت نفرین منابع طبیعی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 110 |
 | **شناسه دیجیتال** | [10.17528/cifor/001965](https://doi.org/10.17528/cifor/001965) |

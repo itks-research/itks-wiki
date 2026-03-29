@@ -5,8 +5,8 @@
 | نویسندگان | Rico Septian Noor, Achmad Irwan Hamzani, Tiyas Vika Widyastuti, Kiki Kristanto, Fransisco Fransisco |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 9 |
 | **شناسه دیجیتال** | [10.55908/sdgs.v12i1.2173](https://doi.org/10.55908/sdgs.v12i1.2173) |

@@ -5,8 +5,8 @@
 | نویسندگان | João Pinto da Costa, Catherine Mouneyrac, Mônica F. Costa, Armando C. Duarte, Teresa Rocha‐Santos |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 221 |
 | **شناسه دیجیتال** | [10.3389/fenvs.2020.00104](https://doi.org/10.3389/fenvs.2020.00104) |

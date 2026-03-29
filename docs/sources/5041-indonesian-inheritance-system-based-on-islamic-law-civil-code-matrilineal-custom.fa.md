@@ -5,8 +5,8 @@
 | نویسندگان | Achmad Gusti Malayudha, Widya Sari, Angga Puja Asiandu |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 5 |
 | **شناسه دیجیتال** | [10.20414/sangkep.v6i1.6286](https://doi.org/10.20414/sangkep.v6i1.6286) |

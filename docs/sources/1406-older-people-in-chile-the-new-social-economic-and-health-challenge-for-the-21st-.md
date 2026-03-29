@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | A. Leiva, C. Troncoso-Pantoja, M. Martínez-Sanguinetti, G. Nazar, Y. Concha-Cisternas, M. Martorell, Karina Ramírez-Alarcón, F. Petermann-Rocha, Igor Cigarroa, X. Díaz, Carlos Celis-Morales |
 | **Year** | 2020 |
-| **Category** | Transitional justice |
+| **Category** | Labor market reform and social safety nets |
+| **Secondary Categories** | Education system reform and curriculum modernization |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 16 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.4067/s0034-98872020000600799](https://doi.org/10.4067/s0034-98872020000600799) |

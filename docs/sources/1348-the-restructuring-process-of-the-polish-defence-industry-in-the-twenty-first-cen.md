@@ -6,7 +6,7 @@
 | **Year** | 2024 |
 | **Category** | Civil-military relations and security sector reform |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 4 |
 | **Source** | openalex |
 | **DOI** | [10.1080/14751798.2024.2334127](https://doi.org/10.1080/14751798.2024.2334127) |

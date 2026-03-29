@@ -6,7 +6,7 @@
 | **Year** | 2020 |
 | **Category** | Civil society development |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 1963 |
 | **Source** | openalex |
 | **DOI** | [10.1016/s0140-6736(20)30977-6](https://doi.org/10.1016/s0140-6736(20)30977-6) |

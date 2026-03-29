@@ -5,8 +5,8 @@
 | نویسندگان | Mohammad Ali Sahraian, Abdorreza Naser Moghadas, Sharareh Eskandarieh |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Sanctions unwinding and international reintegration |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | رفع تحریم‌ها و بازادغام بین‌المللی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 16 |
 | **شناسه دیجیتال** | [10.18502/cjn.v20i1.6375](https://doi.org/10.18502/cjn.v20i1.6375) |

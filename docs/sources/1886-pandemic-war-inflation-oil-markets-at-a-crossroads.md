@@ -5,8 +5,9 @@
 | **Authors** | Christiane Baumeister |
 | **Year** | 2023 |
 | **Category** | Sanctions unwinding and international reintegration |
+| **Secondary Categories** | Banking and financial system reform |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 29 |
 | **Source** | openalex |
 | **DOI** | [10.3386/w31496](https://doi.org/10.3386/w31496) |

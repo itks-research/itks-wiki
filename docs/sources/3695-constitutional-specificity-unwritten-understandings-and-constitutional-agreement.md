@@ -6,7 +6,7 @@
 | **Year** | 2010 |
 | **Category** | Ethnic federalism in Iran |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 32 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1074&context=public_law_and_legal_theory) |

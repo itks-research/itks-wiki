@@ -5,8 +5,8 @@
 | **Authors** | Y. Hermanto, Lusy Lusy, M. Widyastuti |
 | **Year** | 2021 |
 | **Category** | Privatization and state-owned enterprise restructuring |
-| **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Case Study** | Indonesia |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 33 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.3390/economies9040134](https://doi.org/10.3390/economies9040134) |
@@ -15,3 +15,13 @@
 ## Abstract
 
 The implementation of good governance and attention to resources will affect company survival. The purpose of this study was to examine the effect of good corporate governance and intellectual capital on financial performance and company value through statistical and econometrical tests on SOEs in Indonesia. This is quantitative research with state-owned enterprises (SOEs) listed on the Indonesia Stock Exchange. The total study population was 16 SOEs. This study used a saturated sample. Furthermore, the exogenous variables in this study were good corporate governance (GCG) and intellectual capital, whereas the endogenous variables were the company and financial performance. This study used the statistical analysis inferential because the variables used indicators and were formative. The results indicated that GCG and financial performance have positive effects on firm value, intellectual capital does not affect company value, and GCG and intellectual capital have positive effects on financial performance. The evaluation of indirect effects in this study showed that financial performance mediates the effect of intellectual capital and GCG on company value.
+
+## Related Sources
+
+- **extends** [Administrative monopoly and state-owned enterprise innovation: Evidence from the fair competition review system in China](1955-administrative-monopoly-and-state-owned-enterprise-innovation-evidence-from-the-.md)
+- **contradicts** [The Real Effects of Implicit Government Guarantee: Evidence from Chinese State-Owned Enterprise Defaults](1956-the-real-effects-of-implicit-government-guarantee-evidence-from-chinese-state-ow.md)
+- **contradicts** [Efficacy of Economic Sanctions on Imposing Costs to State-Owned Enterprises: The Case of Iran](1957-efficacy-of-economic-sanctions-on-imposing-costs-to-state-owned-enterprises-the-.md)
+- **extends** [Managing strategically in an interconnected world](4273-managing-strategically-in-an-interconnected-world.md)
+- **contradicts** [Privatization of State-Owned Enterprises in Uzbekistan: Challenges and Opportunities Through IPO/SPO Mechanisms](0985-privatization-of-state-owned-enterprises-in-uzbekistan-challenges-and-opportunit.md)
+- **contradicts** [Market conditions and the role of the state in post-war economic recovery of Ukraine](1001-market-conditions-and-the-role-of-the-state-in-post-war-economic-recovery-of-ukr.md)
+- **contradicts** [Politicians and Firms in Seven Central and Eastern European Countries](1216-politicians-and-firms-in-seven-central-and-eastern-european-countries.md)

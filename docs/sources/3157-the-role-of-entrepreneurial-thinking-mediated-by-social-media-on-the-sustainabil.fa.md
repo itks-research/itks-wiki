@@ -5,8 +5,8 @@
 | نویسندگان | Mehdi Tajpour, Elahe Hosseini, V. Ratten, Behrooz Bahman-Zangi, Seydeh Mersedeh Soleymanian |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 25 |
 | **شناسه دیجیتال** | [10.3390/su15054518](https://doi.org/10.3390/su15054518) |

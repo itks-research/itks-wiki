@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Alejandro Rojas‐Figueroa, Rubén Araya, Héctor Acosta‐Salmón, Felipe Chávez‐Contreras, Nadia L. Ortiz‐Cornejo, Pedro E. Saucedo |
 | **Year** | 2019 |
-| **Category** | Transitional justice |
+| **Category** | Resource curse management |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 9 |
 | **Source** | openalex |
 | **DOI** | [10.1111/are.14297](https://doi.org/10.1111/are.14297) |

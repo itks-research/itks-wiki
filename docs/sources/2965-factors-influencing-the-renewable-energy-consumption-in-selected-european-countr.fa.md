@@ -5,8 +5,8 @@
 | نویسندگان | Jan Polcyn, Yana Us, Oleksii Lyulyov, Tetyana Pimonenko, Aleksy Кwilinski |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Banking and financial system reform |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام بانکی و مالی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 151 |
 | **شناسه دیجیتال** | [10.3390/en15010108](https://doi.org/10.3390/en15010108) |

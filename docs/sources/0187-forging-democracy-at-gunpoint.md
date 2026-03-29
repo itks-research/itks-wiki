@@ -15,3 +15,11 @@
 ## Abstract
 
 Can liberal interventionism build liberal democracy? This manuscript examines the military interventions undertaken by the U.S., U.K., France, and the UN in the post-World War II era to see if they had a positive impact on democracy in target countries. Empirical analysis centers on multivariate time series, cross section PCSE and relogit regressions of political liberalization and democratization from 1946 to 1996. The former is operationalized with annual difference data drawn from the Polity IV data collection, whereas the latter is a binary variable denoting countries that cross a threshold commonly used to indicate the establishment of democratic institutions. An updated version of the International Military Intervention data set enumerates foreign military interventions. We find little evidence that military intervention by liberal states helps to foster democracy in target countries. Although a few states have democratized in the wake of hostile U.S. military interventions, the small number of cases involved makes it difficult to draw generalizable conclusions from the U.S. record. We find stronger evidence, however, that supportive interventions by the UN's ''Blue Helmets'' can help to democratize target states.
+
+## Related Sources
+
+- **extends** [Electoral Systems and Party Systems in East Asia](0026-electoral-systems-and-party-systems-in-east-asia.md)
+- **contradicts** [AN Appraisal OF THE African Union AND Democratic Consolidation IN Africa](0303-an-appraisal-of-the-african-union-and-democratic-consolidation-in-africa.md)
+- **extends** [The Role of Accountability in the Relationship between Democracy and Corruption](1605-the-role-of-accountability-in-the-relationship-between-democracy-and-corruption.md)
+- **contradicts** [A Critique and Review of Ayatollah Beheshti's Theory on the Role of the People in Governance and Its Impact on the Electoral System of the Islamic Republic of Iran](2343-a-critique-and-review-of-ayatollah-beheshtis-theory-on-the-role-of-the-people-in.md)
+- **extends** [Accounting for Corruption: Economic Structure, Democracy, and Trade](4097-accounting-for-corruption-economic-structure-democracy-and-trade.md)

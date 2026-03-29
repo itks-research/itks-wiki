@@ -6,7 +6,7 @@
 | **Year** | 2018 |
 | **Category** | Federalism, unitarism, and autonomy models |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 0 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://studentsrepo.um.edu.my/12005/2/Mansoor.pdf) |

@@ -5,8 +5,8 @@
 | نویسندگان | Paolo E. Porporato, Nicoletta Filigheddu, José Manuel Bravo‐San Pedro, Guido Kroemer, Lorenzo Galluzzi |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1266 |
 | **شناسه دیجیتال** | [10.1038/cr.2017.155](https://doi.org/10.1038/cr.2017.155) |

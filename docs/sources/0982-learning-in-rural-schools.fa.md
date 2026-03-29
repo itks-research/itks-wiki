@@ -5,8 +5,8 @@
 | نویسندگان | Alfonso Echazarra, Thomas Radinger |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 164 |
 | **شناسه دیجیتال** | [10.1787/8b1a5cb9-en](https://doi.org/10.1787/8b1a5cb9-en) |

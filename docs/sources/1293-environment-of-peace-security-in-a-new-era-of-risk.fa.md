@@ -5,8 +5,8 @@
 | نویسندگان | Richard Black, Joshua W. Busby, Geoffrey D. Dabelko, Cedric de Coning, Hafsa Maalim, Claire McAllister, Melvis Ndiloseh, D. J. B. Smith, José Francisco Alvarado Cóbar, Anniek Barnhoorn, Noah Bell, Daniel Bell-Moran, Emilie Broek, Alexis Eberlein, Karolina Eklöw, Jakob Faller, Andrea Gadnert, Farah Hegazi, Kyungmee Kim, Florian Krampe, David Michel, Corey Pattison, Caleb Ray, Elise Remling, Evelyn Salas Alfaro, Elizabeth Smith, Jürg Staudenmann |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | روابط نظامی-غیرنظامی و اصلاح بخش امنیتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 208 |
 | **شناسه دیجیتال** | [10.55163/lcls7037](https://doi.org/10.55163/lcls7037) |

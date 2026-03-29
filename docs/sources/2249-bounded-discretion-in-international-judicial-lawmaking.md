@@ -6,7 +6,7 @@
 | **Year** | 2004 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 80 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://chicagounbound.uchicago.edu/journal_articles/1437) |

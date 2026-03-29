@@ -5,8 +5,8 @@
 | نویسندگان | Rutendo Talent Sithole, Isaiah Osemudiamen Okogun, Natasha Mwanandimayi, Claudious Mufandaidza, Abednego Forson |
 |---|---|
 | **سال** | 2026 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | خصوصی‌سازی و بازسازی شرکت‌های دولتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.30574/wjarr.2026.29.2.0344](https://doi.org/10.30574/wjarr.2026.29.2.0344) |

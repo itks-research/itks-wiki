@@ -5,8 +5,8 @@
 | نویسندگان | Hedy Greijdanus, Carlos A. de Matos Fernandes, Felicity M. Turner‐Zwinkels, Ali Honari, Carla Anne Roos, Hannes Rosenbusch, Tom Postmes |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Internet and digital infrastructure as civic space |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اینترنت و زیرساخت دیجیتال به‌عنوان فضای مدنی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 177 |
 | **شناسه دیجیتال** | [10.1016/j.copsyc.2020.03.003](https://doi.org/10.1016/j.copsyc.2020.03.003) |

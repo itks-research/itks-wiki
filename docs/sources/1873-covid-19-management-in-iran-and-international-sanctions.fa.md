@@ -5,8 +5,8 @@
 | نویسندگان | Hosien Pormasoumi, Daryoush Rostami, Khosro Jamebozorgi, Hosein Mirshekarpour, Jalal Heshmatnia |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Sanctions unwinding and international reintegration |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | رفع تحریم‌ها و بازادغام بین‌المللی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 10 |
 | **شناسه دیجیتال** | [10.4081/ejtm.2022.10777](https://doi.org/10.4081/ejtm.2022.10777) |

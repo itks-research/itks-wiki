@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Erik Voeten |
 | **Year** | 2019 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Judicial independence and rule of law |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 212 |
 | **Source** | openalex |
 | **DOI** | [10.1017/s1537592719000975](https://doi.org/10.1017/s1537592719000975) |

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Alex Behn, P. Vöhringer, P. Martínez, Ana Paula Domínguez, Arantza González, M. Carrasco, S. Gloger |
 | **Year** | 2020 |
-| **Category** | Transitional justice |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 12 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.4067/s0034-98872020000300336](https://doi.org/10.4067/s0034-98872020000300336) |

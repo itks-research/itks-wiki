@@ -6,7 +6,7 @@
 | **Year** | 2018 |
 | **Category** | Regional foreign policy reorientation |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 93 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1093/IA/IIY147](https://doi.org/10.1093/IA/IIY147) |

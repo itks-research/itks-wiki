@@ -5,8 +5,8 @@
 | نویسندگان | Angela O. Ballantyne, Ainsley J. Newson, Florencia Luna, Richard Ashcroft |
 |---|---|
 | **سال** | 2009 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | خصوصی‌سازی و بازسازی شرکت‌های دولتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 48 |
 | **شناسه دیجیتال** | [10.1080/15265160902984996](https://doi.org/10.1080/15265160902984996) |

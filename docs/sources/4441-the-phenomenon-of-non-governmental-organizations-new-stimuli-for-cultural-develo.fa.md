@@ -5,8 +5,8 @@
 | نویسندگان | Stefania Środa-Murawska, Agnieszka Szczepańska, Jadwiga Biegańska, Adam Senetra |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Civil society development |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | توسعه جامعه مدنی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 3 |
 

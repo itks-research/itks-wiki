@@ -5,8 +5,8 @@
 | نویسندگان | Javad Riahi Zaniani, Shahabi Ghahfarokhi, M. Jahangiri, A. Shamsabadi |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 22 |
 | **شناسه دیجیتال** | [10.1108/JEDT-01-2018-0003](https://doi.org/10.1108/JEDT-01-2018-0003) |

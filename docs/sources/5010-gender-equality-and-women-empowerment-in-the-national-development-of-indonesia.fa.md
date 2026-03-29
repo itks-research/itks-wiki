@@ -5,8 +5,8 @@
 | نویسندگان | Mia Siscawati, Shelly Adelina, Ruth Eveline, Septiani Anggriani, M Connely, T Li, M Macdonald, J Parpart, N Kabeer, R Reddock, J Partpart |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 34 |
 | **شناسه دیجیتال** | [10.7454/jsgs.v2i2.1021](https://doi.org/10.7454/jsgs.v2i2.1021) |

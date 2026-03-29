@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Priyatno Ardi |
 | **Year** | 2017 |
-| **Category** | Federalism, unitarism, and autonomy models |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 59 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://repository.usd.ac.id/10239/9/Promoting%20learner%20autonomy%20through%20Schoology%20m-learning%20platform%20in%20an%20EAP%20class%20at%20an%20Indonesian%20university%20%28Internasional%20Bereputasi%20terindek%20Scopus%20Q2%29.pdf) |

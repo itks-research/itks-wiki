@@ -6,7 +6,7 @@
 | **Year** | 2022 |
 | **Category** | Federalism, unitarism, and autonomy models |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.36448/pranatahukum.v17i1.272](https://doi.org/10.36448/pranatahukum.v17i1.272) |

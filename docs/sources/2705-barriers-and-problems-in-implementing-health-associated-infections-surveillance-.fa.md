@@ -5,8 +5,8 @@
 | نویسندگان | N. Nasiri, Parvin Mangolian shahrbabaki, A. Sharifi, I. Ghasemzadeh, Malahat Khalili, Ali Karamoozian, A. Khalooei, A. Haghdoost, H. Sharifi |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 6 |
 | **شناسه دیجیتال** | [10.47176/mjiri.37.57](https://doi.org/10.47176/mjiri.37.57) |

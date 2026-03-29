@@ -5,8 +5,8 @@
 | نویسندگان | Tobias Bunde, Sophie Eisentraut, Natalie Knapp, Randolf Carr, Julia Hammelehle, Isabell Kump, Luca Miehe |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Sanctions unwinding and international reintegration |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | رفع تحریم‌ها و بازادغام بین‌المللی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 9 |
 | **شناسه دیجیتال** | [10.47342/qawu4724](https://doi.org/10.47342/qawu4724) |

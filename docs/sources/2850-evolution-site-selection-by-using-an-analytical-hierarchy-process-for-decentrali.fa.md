@@ -5,8 +5,8 @@
 | نویسندگان | Mohsen Ansari, Mohammad Fahiminia, Roya Malek Ahmadi, Ehsan Ahmadi |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 6 |
 

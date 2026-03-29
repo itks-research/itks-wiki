@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Linda Sheldon |
 | **Year** | 1988 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 729 |
 | **Source** | openalex |
 | **DOI** | [10.1093/elt/42.4.237](https://doi.org/10.1093/elt/42.4.237) |

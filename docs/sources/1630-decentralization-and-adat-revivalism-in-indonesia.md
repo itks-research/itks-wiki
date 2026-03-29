@@ -5,8 +5,9 @@
 | **Authors** | Adam Tyson |
 | **Year** | 2010 |
 | **Category** | Federalism, unitarism, and autonomy models |
+| **Secondary Categories** | Political party formation and pluralism |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 92 |
 | **Source** | openalex |
 | **DOI** | [10.4324/9780203849903](https://doi.org/10.4324/9780203849903) |

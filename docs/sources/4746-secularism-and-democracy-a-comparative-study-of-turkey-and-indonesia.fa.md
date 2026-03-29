@@ -5,8 +5,8 @@
 | نویسندگان | Muhammad Fahmi Basyhah Fauzi, Muhammad Asy'ari |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 4 |
 | **شناسه دیجیتال** | [10.56326/jils.v8i2.4756](https://doi.org/10.56326/jils.v8i2.4756) |

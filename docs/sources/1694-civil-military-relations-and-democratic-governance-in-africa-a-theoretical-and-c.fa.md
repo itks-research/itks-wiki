@@ -5,8 +5,8 @@
 | نویسندگان | Oluwanifemi Adeyemo, J. Emmanuel, Kum Anyekeze, Adams Adeola |
 |---|---|
 | **سال** | 2026 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | روابط نظامی-غیرنظامی و اصلاح بخش امنیتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.64633/ksr.v3.i4.04](https://doi.org/10.64633/ksr.v3.i4.04) |

@@ -5,8 +5,8 @@
 | نویسندگان | Hein de Haas, Mathias Czaika, Marie‐Laurence Flahaux, Edo Mahendra, Katharina Natter, Simona Vezzoli, María Villares‐Varela |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Labor market reform and social safety nets |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | اصلاح بازار کار و شبکه‌های حمایت اجتماعی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 333 |
 | **شناسه دیجیتال** | [10.1111/padr.12291](https://doi.org/10.1111/padr.12291) |

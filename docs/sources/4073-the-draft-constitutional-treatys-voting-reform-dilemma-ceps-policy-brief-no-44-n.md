@@ -6,7 +6,7 @@
 | **Year** | 2003 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 9 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://aei.pitt.edu/1869/1/PB44.pdf) |

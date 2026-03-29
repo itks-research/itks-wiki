@@ -5,8 +5,8 @@
 | نویسندگان | Nevi Asiska Marsudi, Komarudin Sassi |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.37251/jpaii.v5i4.1195](https://doi.org/10.37251/jpaii.v5i4.1195) |

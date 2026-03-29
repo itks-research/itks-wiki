@@ -5,8 +5,8 @@
 | نویسندگان | Agus Supriyadi, Tao Wang, Pandu Pribadi, Mochammad Ali Mauludin, Faqih Ma’arif, Zalik Nuryana |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 21 |
 | **شناسه دیجیتال** | [10.31763/ijcs.v3i1.192](https://doi.org/10.31763/ijcs.v3i1.192) |

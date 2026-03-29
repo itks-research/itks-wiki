@@ -5,8 +5,8 @@
 | نویسندگان | Tariq Yousef, A. Schlaf, Janos Borst, A. Niekler, Gerhard Heyer |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.18653/v1/2021.emnlp-demo.18](https://doi.org/10.18653/v1/2021.emnlp-demo.18) |

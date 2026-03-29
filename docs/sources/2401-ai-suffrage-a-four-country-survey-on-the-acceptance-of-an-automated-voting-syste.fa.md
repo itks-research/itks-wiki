@@ -5,8 +5,8 @@
 | نویسندگان | Viktor Suter, Miriam Meckel, Morteza Shahrezaye, Léa Steinacker |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.24251/hicss.2022.290](https://doi.org/10.24251/hicss.2022.290) |

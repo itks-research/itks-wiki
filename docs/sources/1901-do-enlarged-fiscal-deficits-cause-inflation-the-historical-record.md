@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Michael D. Bordo, Mickey D. Levy |
 | **Year** | 2020 |
-| **Category** | Sanctions unwinding and international reintegration |
+| **Category** | Banking and financial system reform |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 25 |
 | **Source** | openalex |
 | **DOI** | [10.3386/w28195](https://doi.org/10.3386/w28195) |

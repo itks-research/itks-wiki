@@ -5,8 +5,8 @@
 | نویسندگان | Eka Cahyani M Djamil, Eka Galih Rahayu, Fahmi Fahreza |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 14 |
 | **شناسه دیجیتال** | [10.69526/bir.v2i1.30](https://doi.org/10.69526/bir.v2i1.30) |

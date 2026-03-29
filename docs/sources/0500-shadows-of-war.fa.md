@@ -5,8 +5,8 @@
 | نویسندگان | Efrat Ben-Ze’ev, Efrat Ben-Ze’ev, Efrat Ben-Ze'ev, Jay Winter, Jay Winter, Eviatar Zerubavel, Mary Vincent, Mary Vincent, Jeffrey K. Olick, Svenja Goltermann, Raphaëlle Branche, Raphaëlle Branche, Ruth Ginio, Louise Bethlehem, Taner Akçam, Taner Akçam, Efrat Ben-Ze'ev, Asher Kaufman |
 |---|---|
 | **سال** | 2010 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 43 |
 | **شناسه دیجیتال** | [10.1017/cbo9780511676178](https://doi.org/10.1017/cbo9780511676178) |

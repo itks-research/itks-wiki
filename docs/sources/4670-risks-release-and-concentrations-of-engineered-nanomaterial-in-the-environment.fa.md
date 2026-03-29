@@ -5,8 +5,8 @@
 | نویسندگان | B. Giese, Fred Klaessig, Barry Park, Rälf Kaegi, Michael Steinfeldt, Henning Wigger, Arnim von Gleich, Fadri Gottschalk |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 412 |
 | **شناسه دیجیتال** | [10.1038/s41598-018-19275-4](https://doi.org/10.1038/s41598-018-19275-4) |

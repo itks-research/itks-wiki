@@ -6,7 +6,7 @@
 | **Year** | 2020 |
 | **Category** | Judicial independence and rule of law |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 64 |
 | **Source** | openalex |
 | **DOI** | [10.1093/bybil/braa007](https://doi.org/10.1093/bybil/braa007) |

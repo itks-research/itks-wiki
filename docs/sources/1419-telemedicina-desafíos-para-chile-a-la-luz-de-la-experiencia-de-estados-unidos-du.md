@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Pamela Mendoza-Alonzo, J. Mendoza-Alonzo |
 | **Year** | 2021 |
-| **Category** | Transitional justice |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 3 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.4067/s0034-98872021000801198](https://doi.org/10.4067/s0034-98872021000801198) |

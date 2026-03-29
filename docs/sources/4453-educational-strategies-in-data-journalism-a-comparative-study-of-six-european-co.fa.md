@@ -5,8 +5,8 @@
 | نویسندگان | Sergio Splendore, Philip Di Salvo, Tobias Eberwein, Harmen Groenhart, Michał Kuś, Colin Porlezza |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Civil society development |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | توسعه جامعه مدنی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 91 |
 | **شناسه دیجیتال** | [10.1177/1464884915612683](https://doi.org/10.1177/1464884915612683) |

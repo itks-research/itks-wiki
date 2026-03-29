@@ -6,7 +6,7 @@
 | **Year** | 2020 |
 | **Category** | Women's rights codification and gender equality |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 35 |
 | **Source** | openalex |
 | **DOI** | [10.37680/amalee.v1i01.166](https://doi.org/10.37680/amalee.v1i01.166) |

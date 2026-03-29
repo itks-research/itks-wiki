@@ -15,3 +15,7 @@
 ## Abstract
 
 The European Union is presently constructing a new model of regional cooperaÂ­tion that includes not only economic objectives but also social, cultural and environmental agendas. One of the main challenges this project faces is the development of closer ties to neighbouring states without offering outright membership to the EU. As a result, however, cooperation and security-oriented agendas of the EU will automatically compete with each other for influence. The European Neighbourhood Policy (ENP) can be thus understood in terms of an ongoing project of re-territorialisation that combines traditional geopolitical conÂ­cerns and a âpolitics of regional differenceâ with a post-national focus on mutual interÂ­dependence and partnership. Evidence for the consequences of these competing territorialities will be presented from the results of European research on civil society networks between the EU and neighbouring states. The focus will be on EU-Ukrainian relations within the ENP context.
+
+## Related Sources
+
+- **contradicts** [The Dilemma of Decentralization in Public Policy Implementation in Indonesia](4693-the-dilemma-of-decentralization-in-public-policy-implementation-in-indonesia.md)

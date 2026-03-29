@@ -5,8 +5,8 @@
 | نویسندگان | Nina G. Hamedani, Tristan Michael Purvis, Sharon Glazer, Joseph Dien |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | Cultural heritage preservation during institutional change |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | حفظ میراث فرهنگی در دوره تحولات نهادی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 7 |
 | **شناسه دیجیتال** | [10.13016/m2kp7ts73](https://doi.org/10.13016/m2kp7ts73) |

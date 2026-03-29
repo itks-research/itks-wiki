@@ -5,8 +5,8 @@
 | نویسندگان | Andrzej Arendarski, Tomasz Mroczkowski, James Sood |
 |---|---|
 | **سال** | 1994 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | خصوصی‌سازی و بازسازی شرکت‌های دولتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 28 |
 

@@ -5,8 +5,8 @@
 | نویسندگان | Alireza Mahpour, Iman Farzin, Amirhossein Baghestani, Sina Ashouri, Zahra Javadi, Latifeh Asgari |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Trade liberalization and foreign direct investment |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادسازی تجارت و سرمایه‌گذاری خارجی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 19 |
 | **شناسه دیجیتال** | [10.1016/j.ajsl.2023.02.003](https://doi.org/10.1016/j.ajsl.2023.02.003) |

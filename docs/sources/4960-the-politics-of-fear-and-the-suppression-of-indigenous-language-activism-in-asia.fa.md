@@ -5,8 +5,8 @@
 | نویسندگان | Gerald Roche, Madoka Hammine, Jesus Federico C. Hernandez, Jessica Kruk |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Minority rights |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | حقوق اقلیت‌ها |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 8 |
 | **شناسه دیجیتال** | [10.13169/statecrime.12.1.0029](https://doi.org/10.13169/statecrime.12.1.0029) |

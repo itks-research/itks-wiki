@@ -5,8 +5,8 @@
 | نویسندگان | Marianna Belloc, Francesco Drago, Roberto Galbiati |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 182 |
 | **شناسه دیجیتال** | [10.1093/qje/qjw020](https://doi.org/10.1093/qje/qjw020) |

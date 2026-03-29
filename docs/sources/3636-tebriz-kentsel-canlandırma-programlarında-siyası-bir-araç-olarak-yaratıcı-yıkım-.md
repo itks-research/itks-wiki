@@ -6,7 +6,7 @@
 | **Year** | 2023 |
 | **Category** | Bonyad system reform |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://open.metu.edu.tr/bitstream/handle/11511/102767/Asadmosaffar Samira.pdf) |

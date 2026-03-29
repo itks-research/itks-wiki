@@ -5,8 +5,8 @@
 | نویسندگان | María Jesús Carrasco-Santos, Siamak Seyfi, Seyedasaad Hosseini, C. Michael Hall, Boshra Mohajer, Fernando Almeida‐García, Rafael Cortés Macías |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 31 |
 | **شناسه دیجیتال** | [10.1016/j.tourman.2024.104913](https://doi.org/10.1016/j.tourman.2024.104913) |

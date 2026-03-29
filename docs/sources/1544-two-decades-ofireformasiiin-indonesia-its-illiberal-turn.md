@@ -6,7 +6,7 @@
 | **Year** | 2019 |
 | **Category** | Civil-military relations and security sector reform |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 75 |
 | **Source** | openalex |
 | **DOI** | [10.1080/00472336.2019.1637922](https://doi.org/10.1080/00472336.2019.1637922) |

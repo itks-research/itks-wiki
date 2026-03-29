@@ -5,8 +5,8 @@
 | نویسندگان | Faezeh Jahanpour, Farkhondeh Sharif, Mahvash Salsali, Mohammad Hossein Kaveh, Leonie Mosel Williams |
 |---|---|
 | **سال** | 2010 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 75 |
 | **شناسه دیجیتال** | [10.1111/j.1440-172x.2010.01886.x](https://doi.org/10.1111/j.1440-172x.2010.01886.x) |

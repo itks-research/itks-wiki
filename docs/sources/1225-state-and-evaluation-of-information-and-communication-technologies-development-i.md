@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Jiří Vaněk, Eva Cervenkova, Jan Jarolímek, Pavel Šimek |
 | **Year** | 2010 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 22 |
 | **Source** | openalex |
 | **DOI** | [10.17221/212/2009-pse](https://doi.org/10.17221/212/2009-pse) |

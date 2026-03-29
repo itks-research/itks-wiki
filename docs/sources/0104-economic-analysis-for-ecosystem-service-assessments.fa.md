@@ -5,8 +5,8 @@
 | نویسندگان | Ian J. Bateman, Georgina M. Mace, Carlo Fezzi, Giles Atkinson, Kerry Turner |
 |---|---|
 | **سال** | 2010 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 590 |
 | **شناسه دیجیتال** | [10.1007/s10640-010-9418-x](https://doi.org/10.1007/s10640-010-9418-x) |

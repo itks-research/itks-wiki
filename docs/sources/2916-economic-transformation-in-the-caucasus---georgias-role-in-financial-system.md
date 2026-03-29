@@ -6,7 +6,7 @@
 | **Year** | 2025 |
 | **Category** | Banking and financial system reform |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.24818/beman/2025.15.4-07](https://doi.org/10.24818/beman/2025.15.4-07) |

@@ -5,8 +5,8 @@
 | نویسندگان | Ahmed I. Osman, Lin Chen, Mingyu Yang, Goodluck Msigwa, Mohamed Farghali, Samer Fawzy, David W. Rooney, Pow‐Seng Yap |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Political party formation and pluralism |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | شکل‌گیری احزاب سیاسی و تکثرگرایی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 867 |
 | **شناسه دیجیتال** | [10.1007/s10311-022-01532-8](https://doi.org/10.1007/s10311-022-01532-8) |

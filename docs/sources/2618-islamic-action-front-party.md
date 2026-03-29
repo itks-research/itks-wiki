@@ -6,7 +6,7 @@
 | **Year** | 2000 |
 | **Category** | Political party formation and pluralism |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 4 |
 | **Source** | openalex |
 | **DOI** | [10.1007/978-1-349-61955-9_28](https://doi.org/10.1007/978-1-349-61955-9_28) |

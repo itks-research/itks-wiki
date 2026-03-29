@@ -6,7 +6,7 @@
 | **Year** | 2019 |
 | **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 387 |
 | **Source** | openalex |
 | **DOI** | [10.1038/s41598-019-43368-3](https://doi.org/10.1038/s41598-019-43368-3) |

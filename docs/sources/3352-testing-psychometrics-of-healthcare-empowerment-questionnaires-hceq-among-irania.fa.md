@@ -5,8 +5,8 @@
 | نویسندگان | Bahram Mohebbi, Azar Tol, Elham Shakibazadeh, Mehdi Yaseri, Maryam Sabouri, Feleke Doyore Agide |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 17 |
 | **شناسه دیجیتال** | [10.4314/ejhs.v28i3.12](https://doi.org/10.4314/ejhs.v28i3.12) |

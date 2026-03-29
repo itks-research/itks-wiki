@@ -5,8 +5,8 @@
 | نویسندگان | Jaya Addin Linando, Yunice Karina Tumewang, Katiya Nahda, Nurfauziah |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 23 |
 | **شناسه دیجیتال** | [10.1080/23311975.2023.2181127](https://doi.org/10.1080/23311975.2023.2181127) |

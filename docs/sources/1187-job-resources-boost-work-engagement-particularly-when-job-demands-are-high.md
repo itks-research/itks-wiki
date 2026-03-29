@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Arnold B. Bakker, Jari Hakanen, Evangelia Demerouti, Despoina Xanthopoulou |
 | **Year** | 2007 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 2023 |
 | **Source** | openalex |
 | **DOI** | [10.1037/0022-0663.99.2.274](https://doi.org/10.1037/0022-0663.99.2.274) |

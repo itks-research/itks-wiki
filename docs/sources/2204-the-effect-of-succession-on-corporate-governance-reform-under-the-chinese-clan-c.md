@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Linchuan Wang, Qianying Gao, Cisheng Wu |
 | **Year** | 2022 |
-| **Category** | IRGC economic empire and its dismantling |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 11 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1108/ccsm-06-2021-0106](https://doi.org/10.1108/ccsm-06-2021-0106) |

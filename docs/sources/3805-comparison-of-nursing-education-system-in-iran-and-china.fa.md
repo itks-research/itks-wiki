@@ -5,8 +5,8 @@
 | نویسندگان | Kourosh Amini, Zeinab Ghahremani, Mahdi Moosaeifard, Gholam Ali Tagiloo |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 5 |
 

@@ -6,7 +6,7 @@
 | **Year** | 2004 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 74 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://scholarship.law.upenn.edu/jcl/vol6/iss5/4) |

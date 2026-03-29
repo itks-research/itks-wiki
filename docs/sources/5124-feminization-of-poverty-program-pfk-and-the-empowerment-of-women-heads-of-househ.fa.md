@@ -5,8 +5,8 @@
 | نویسندگان | Sulikah Asmorowati, Violeta Schubert, Dian Yulie Reindrawati |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 3 |
 

@@ -6,7 +6,7 @@
 | **Year** | 2015 |
 | **Category** | Civil society development |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 51 |
 | **Source** | openalex |
 | **DOI** | [10.1017/ipo.2015.17](https://doi.org/10.1017/ipo.2015.17) |

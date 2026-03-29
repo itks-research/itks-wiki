@@ -5,8 +5,8 @@
 | نویسندگان | Najmeh Nasri, Abbas Eslami Rasekh, Hossein Vahid Dastjerdy, Zahra Amirian |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 11 |
 | **شناسه دیجیتال** | [10.5861/ijrsll.2015.925](https://doi.org/10.5861/ijrsll.2015.925) |

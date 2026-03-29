@@ -6,7 +6,7 @@
 | **Year** | 2022 |
 | **Category** | Minority rights |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 4 |
 | **Source** | openalex |
 | **DOI** | [10.1093/oso/9780197598757.003.0003](https://doi.org/10.1093/oso/9780197598757.003.0003) |

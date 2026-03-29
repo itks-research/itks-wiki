@@ -5,8 +5,8 @@
 | نویسندگان | Gabriela Boldureanu, Alina Măriuca Ionescu, Ana‐Maria Bercu, Maria Viorica Bedrule-Grigoruță, Daniel Boldureanu |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 594 |
 | **شناسه دیجیتال** | [10.3390/su12031267](https://doi.org/10.3390/su12031267) |

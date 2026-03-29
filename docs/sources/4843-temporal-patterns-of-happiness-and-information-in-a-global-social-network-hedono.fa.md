@@ -5,8 +5,8 @@
 | نویسندگان | Peter Sheridan Dodds, Kameron Decker Harris, Isabel M. Kloumann, Catherine A. Bliss, Christopher M. Danforth |
 |---|---|
 | **سال** | 2011 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 826 |
 | **شناسه دیجیتال** | [10.1371/journal.pone.0026752](https://doi.org/10.1371/journal.pone.0026752) |

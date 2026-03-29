@@ -6,7 +6,7 @@
 | **Year** | 2021 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 3 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1093/AJLH/NJAA023](https://doi.org/10.1093/AJLH/NJAA023) |

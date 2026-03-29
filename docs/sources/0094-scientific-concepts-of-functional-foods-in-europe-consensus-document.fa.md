@@ -5,8 +5,8 @@
 | نویسندگان | F Bellisle, A Diplock, G Hornstra, B Koletzko, M Roberfroid, S Salminen, Whm Saris, D Knorr, F Clydesdale, Ha Chan, S, F Clydesdale, Jonas Da |
 |---|---|
 | **سال** | 1999 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1116 |
 | **شناسه دیجیتال** | [10.1017/s0007114599000471](https://doi.org/10.1017/s0007114599000471) |

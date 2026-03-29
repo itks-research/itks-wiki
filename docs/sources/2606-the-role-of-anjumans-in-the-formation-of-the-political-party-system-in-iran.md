@@ -6,7 +6,7 @@
 | **Year** | 2026 |
 | **Category** | Political party formation and pluralism |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 5.0 |
 | **Citation Count** | 0 |
 | **Source** | openalex |
 

@@ -6,7 +6,7 @@
 | **Year** | 2022 |
 | **Category** | Women's rights codification and gender equality |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 4 |
 | **Source** | openalex |
 | **DOI** | [10.28934/jwee22.34.pp223-245](https://doi.org/10.28934/jwee22.34.pp223-245) |

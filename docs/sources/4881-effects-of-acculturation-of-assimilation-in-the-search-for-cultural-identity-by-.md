@@ -6,7 +6,7 @@
 | **Year** | 2021 |
 | **Category** | Minority rights |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 7 |
 | **Source** | openalex |
 | **DOI** | [10.1080/10911359.2020.1825257](https://doi.org/10.1080/10911359.2020.1825257) |

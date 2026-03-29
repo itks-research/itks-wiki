@@ -5,8 +5,8 @@
 | نویسندگان | Alfred E. Kellermann, Jaap W. de Zwaan, Jenő Czuczai, Asser Instituut Colloquium Europees Recht |
 |---|---|
 | **سال** | 2001 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 21 |
 

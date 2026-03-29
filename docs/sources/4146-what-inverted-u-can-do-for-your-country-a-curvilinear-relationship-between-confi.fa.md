@@ -5,8 +5,8 @@
 | نویسندگان | Aleksandra Cichocka, Paulina Górska, John T. Jost, Robbie M. Sutton, Michał Bilewicz |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 59 |
 | **شناسه دیجیتال** | [10.1037/pspp0000168](https://doi.org/10.1037/pspp0000168) |

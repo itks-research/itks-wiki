@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Judith Palmer Harik |
 | **Year** | 2004 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 212 |
 | **Source** | openalex |
 

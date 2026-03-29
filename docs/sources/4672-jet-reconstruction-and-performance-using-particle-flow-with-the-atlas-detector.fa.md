@@ -5,8 +5,8 @@
 | نویسندگان | M. Aaboud, G. Aad, B. Abbott, J. Abdallah, O. Abdinov, B. Abeloos, S. H. Abidi, O. S. AbouZeid, N. L. Abraham, H. Abramowicz, H. Abreu, R. Abreu, Y. Abulaiti, B. S. Acharya, S. Adachi, L. Adamczyk, J. Adelman, M. Adersberger, T. Adye, A. A. Affolder, T. Agatonović-Jovin, C. Agheorghiesei, J. A. Aguilar–Saavedra, S. P. Ahlen, F. Ahmadov, G. Aielli, S. Akatsuka, H. Åkerstedt, T. P. A. Åkesson, A. V. Akimov, G. L. Alberghi, J. Albert, M. J. Alconada Verzini, M. Aleksa, I. N. Aleksandrov, C. Alexa, G. Alexander, T. Alexopoulos, M. Alhroob, B. Ali, M. Aliev, G. Alimonti, J. Alison, S. P. Alkire, B. M. M. Allbrooke, B. W. Allen, P. P. Allport, A. Aloisio, A. Alonso, F. Alonso, C. Alpigiani, A. A. Alshehri, M. I. Alstaty, B. Álvarez González, D. Álvarez Piqueras, M. G. Alviggi, B. T. Amadio, Y. Amaral Coutinho, C. Amelung, D. Amidei, S. P. Amor Dos Santos, A. Amorim, S. Amoroso, G. Amundsen, C. Anastopoulos, L. S. Ancu, N. Andari, T. Andeen, C. F. Anders, J. K. Anders, K. J. Anderson, A. Andreazza, V. Andrei, S. Angelidakis, I. Angelozzi, A. Angerami, F. Anghinolfi, A. V. Anisenkov, N. Anjos, A. Annovi, C. Antel, M. Antonelli, А. Антонов, D. J. A. Antrim, F. Anulli, M. Aoki, L. Aperio Bella, G. Arabidze, Y. Arai, J. P. Araque, V. Araujo Ferraz, A. T. H. Arce, R. E. Ardell, F. A. Arduh, J-F. Arguin, S. Argyropoulos, M. Arık, A. J. Armbruster, L. J. Armitage, O. Arnaez |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 316 |
 | **شناسه دیجیتال** | [10.1140/epjc/s10052-017-5031-2](https://doi.org/10.1140/epjc/s10052-017-5031-2) |

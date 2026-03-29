@@ -6,7 +6,7 @@
 | **Year** | 2014 |
 | **Category** | Media freedom and press institution building |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 2 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.18869/ACADPUB.JNMS.1.1.33](https://doi.org/10.18869/ACADPUB.JNMS.1.1.33) |

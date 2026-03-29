@@ -6,7 +6,7 @@
 | **Year** | 2025 |
 | **Category** | Electoral system design and implementation |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.53982/ajsd.2025.1701.29-j](https://doi.org/10.53982/ajsd.2025.1701.29-j) |

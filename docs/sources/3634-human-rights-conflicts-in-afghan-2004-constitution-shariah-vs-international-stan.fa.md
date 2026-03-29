@@ -5,8 +5,8 @@
 | نویسندگان | Muhibullah Faizan, Noor Shuhadawati Mohamad Amin, Mohammad Tahir Sabit Mohammad |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Bonyad system reform |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام بنیادها |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.17576/ebangi.2025.2201.18](https://doi.org/10.17576/ebangi.2025.2201.18) |

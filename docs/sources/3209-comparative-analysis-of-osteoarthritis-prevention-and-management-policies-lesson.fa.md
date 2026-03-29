@@ -5,8 +5,8 @@
 | نویسندگان | P. Raeissi, Monireh Shamsaei, Ismail Ebrahimi-Takamjani, Hasan Abolghasem Gorgi, Masood Hashemi, J. Arabloo, Javad Barzegari |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.47176/mjiri.39.46](https://doi.org/10.47176/mjiri.39.46) |

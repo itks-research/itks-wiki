@@ -6,7 +6,7 @@
 | **Year** | 2005 |
 | **Category** | Brain-drain reversal and diaspora economic engagement |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 6 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://commons.erau.edu/cgi/viewcontent.cgi?article=1002&context=db-security-studies) |

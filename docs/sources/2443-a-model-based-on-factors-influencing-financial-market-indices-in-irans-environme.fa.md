@@ -5,8 +5,8 @@
 | نویسندگان | Seyed Mohammad Asghari Barmaei, Reza Fallah, M. Maranjory, Yousef Taghipourian |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.61838/dmbaj.177](https://doi.org/10.61838/dmbaj.177) |

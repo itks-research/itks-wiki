@@ -5,8 +5,8 @@
 | نویسندگان | Š. Linhartová, K. Tománková, H. Orságová, Miroslava Hejlová, V. Čermák, Jakub Beránek, N. Mehle, Zala Kogej, A. Eichmeier |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.1094/PDIS-02-23-0315-PDN](https://doi.org/10.1094/PDIS-02-23-0315-PDN) |

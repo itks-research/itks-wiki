@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | John Powles, Saman Fahimi, Renata Micha, Shahab Khatibzadeh, Peilin Shi, Majid Ezzati, Rebecca E Engell, Stephen S Lim, Goodarz Danaei, Dariush Mozaffarian, on behalf of the Global Burden of Diseases Nutrition and Chronic Diseases Expert Group (NutriCoDE) |
 | **Year** | 2013 |
-| **Category** | Transitional justice |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 941 |
 | **Source** | openalex |
 | **DOI** | [10.1136/bmjopen-2013-003733](https://doi.org/10.1136/bmjopen-2013-003733) |

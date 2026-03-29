@@ -6,7 +6,7 @@
 | **Year** | 2024 |
 | **Category** | IRGC economic empire and its dismantling |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 6 |
 | **Source** | openalex |
 | **DOI** | [10.3390/soc14030032](https://doi.org/10.3390/soc14030032) |

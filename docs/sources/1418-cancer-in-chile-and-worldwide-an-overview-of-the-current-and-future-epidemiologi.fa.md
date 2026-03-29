@@ -5,8 +5,8 @@
 | نویسندگان | S. Parra-Soto, F. Petermann-Rocha, M. Martínez-Sanguinetti, Ana María Leiva-Ordeñez, C. Troncoso-Pantoja, N. Ulloa, Ximena Díaz-Martínez, Carlos Celis-Morales |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Labor market reform and social safety nets |
-| **مطالعه موردی** | Chile |
+| **دسته‌بندی** | اصلاح بازار کار و شبکه‌های حمایت اجتماعی |
+| **مطالعه موردی** | شیلی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 10 |
 | **شناسه دیجیتال** | [10.4067/S0034-98872020001001489](https://doi.org/10.4067/S0034-98872020001001489) |

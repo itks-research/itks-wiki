@@ -6,7 +6,7 @@
 | **Year** | 1974 |
 | **Category** | Transitional justice |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 6 |
 | **Source** | openalex |
 | **DOI** | [10.1080/00210867408701478](https://doi.org/10.1080/00210867408701478) |

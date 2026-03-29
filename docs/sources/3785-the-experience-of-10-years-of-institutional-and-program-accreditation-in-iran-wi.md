@@ -6,7 +6,7 @@
 | **Year** | 2025 |
 | **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 3 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1186/s12909-025-06738-2](https://doi.org/10.1186/s12909-025-06738-2) |

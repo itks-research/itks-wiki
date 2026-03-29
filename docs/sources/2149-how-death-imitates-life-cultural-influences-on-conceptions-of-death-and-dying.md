@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | James T. Gire |
 | **Year** | 2014 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 132 |
 | **Source** | openalex |
 | **DOI** | [10.9707/2307-0919.1120](https://doi.org/10.9707/2307-0919.1120) |

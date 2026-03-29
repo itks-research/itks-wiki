@@ -5,8 +5,8 @@
 | نویسندگان | Tim Haughton, Karolina Pomorska, Darina Malová, Kevin Deegan‐Krause |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 8 |
 | **شناسه دیجیتال** | [10.1111/jcms.13656](https://doi.org/10.1111/jcms.13656) |

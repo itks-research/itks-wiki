@@ -6,7 +6,7 @@
 | **Year** | 2016 |
 | **Category** | Civil-military relations and security sector reform |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 6 |
 | **Source** | openalex |
 | **DOI** | [10.5325/goodsociety.25.1.0105](https://doi.org/10.5325/goodsociety.25.1.0105) |

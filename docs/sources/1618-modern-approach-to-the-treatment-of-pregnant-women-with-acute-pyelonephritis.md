@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | N.F. Khvorostukhina, Anton A. Plekhanov, Д. А. Новичков |
 | **Year** | 2024 |
-| **Category** | Federalism, unitarism, and autonomy models |
+| **Category** | Women's rights codification and gender equality |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | openalex |
 | **DOI** | [10.34660/inf.2022.66.52.033](https://doi.org/10.34660/inf.2022.66.52.033) |

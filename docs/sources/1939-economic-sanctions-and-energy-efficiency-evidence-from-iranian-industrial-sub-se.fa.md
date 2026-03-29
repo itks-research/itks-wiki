@@ -5,8 +5,8 @@
 | نویسندگان | Leyla Jabari, Ali Asghar Salem, Omid Zamani, Mohammad Reza Farzanegan |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Sanctions unwinding and international reintegration |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | رفع تحریم‌ها و بازادغام بین‌المللی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 14 |
 | **شناسه دیجیتال** | [10.1016/j.eneco.2024.107920](https://doi.org/10.1016/j.eneco.2024.107920) |

@@ -5,8 +5,8 @@
 | نویسندگان | Jonas J. Lembrechts, Juha Aalto, Michael B. Ashcroft, Pieter De Frenne, Martin Kopecký, Jonathan Lenoir, Miska Luoto, Ilya M. D. Maclean, Olivier Roupsard, Eduardo Fuentes‐Lillo, Rafael A. García, Loïc Pellissier, Camille Pitteloud, Juha M. Alatalo, Stuart W. Smith, Robert G. Björk, Lena Muffler, Amanda Ratier Backes, Simone Cesarz, Felix Gottschall, Joseph Okello, Josef Urban, Roman Plichta, Martin Svátek, Shyam S. Phartyal, Sonja Wipf, Nico Eisenhauer, Mihai Puşcaş, Pavel Dan Turtureanu, Andrej Varlagin, Romina D. Dimarco, Alistair S. Jump, Krystal Randall, Ellen Dorrepaal, Keith Larson, Josefine Walz, Luca Vitale, Miroslav Svoboda, Rebecca Finger Higgens, Aud H. Halbritter, Salvatore R. Curasi, Ian Klupar, Austin Koontz, William D. Pearse, Elizabeth Simpson, Michael Stemkovski, Bente J. Graae, Mia Vedel Sørensen, Toke T. Høye, María Rosa Fernández Calzado, Juan Lorite, Michele Carbognani, Marcello Tomaselli, T’ai G. W. Forte, Alessandro Petraglia, Stef Haesen, Ben Somers, Koenraad Van Meerbeek, Mats P. Björkman, Kristoffer Hylander, Sonia Merinero, Mana Gharun, Nina Buchmann, Jiří Doležal, Radim Matula, Andrew D. Thomas, Joseph J. Bailey, Dany Ghosn, George Kazakis, M. A. de Pablo, Julia Kemppinen, Pekka Niittynen, Lisa J. Rew, Tim Seipel, Christian D. Larson, James D. M. Speed, Jonas Ardö, Nicoletta Cannone, Mauro Guglielmin, Francesco Malfasi, Maaike Y. Bader, Rafaella Canessa, Angela Stanisci, Jüergen Kreyling, Jonas Schmeddes, Laurenz M. Teuber, Valeria Aschero, Marek Čiliak, Frantíšek Máliš, Pallieter De Smedt, Sanne Govaert, Camille Meeussen, Pieter Vangansbeke, Khatuna Gigauri, Andrea Lamprecht, Harald Pauli, Klaus Steinbauer, Manuela Winkler, Masahito Ueyama, Martín A. Núñez |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Cultural heritage preservation during institutional change |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | حفظ میراث فرهنگی در دوره تحولات نهادی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 231 |
 | **شناسه دیجیتال** | [10.1111/gcb.15123](https://doi.org/10.1111/gcb.15123) |

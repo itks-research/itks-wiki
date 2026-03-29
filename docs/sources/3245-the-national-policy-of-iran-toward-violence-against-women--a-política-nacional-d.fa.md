@@ -5,8 +5,8 @@
 | نویسندگان | Shahnaz Rahpaymaelizehee, Bahare Fallahi, Razieh Jafari Kojouri |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 4 |
 | **شناسه دیجیتال** | [10.18593/ejjl.v16i2.6942](https://doi.org/10.18593/ejjl.v16i2.6942) |

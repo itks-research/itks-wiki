@@ -5,8 +5,8 @@
 | نویسندگان | A. Salahshori, K. Eslami, H. Boostani, M. Zahiri, Simin Jahani, R. Arjmand, A. B. Heydarabadi, B. Dehaghi |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 23 |
 | **شناسه دیجیتال** | [10.1016/j.heliyon.2022.e08984](https://doi.org/10.1016/j.heliyon.2022.e08984) |

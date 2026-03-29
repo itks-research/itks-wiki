@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | M. Llorca-Jaña, Rodrigo Rivero-Cantillano, J. Rivas, Martina Allende |
 | **Year** | 2021 |
-| **Category** | Transitional justice |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 11 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.4067/s0034-98872021000701047](https://doi.org/10.4067/s0034-98872021000701047) |
@@ -32,3 +32,8 @@ Both general and infant mortality rates declined sharply from the 1930s to the l
 
 CONCLUSIONS
 Public health efforts should be carried out to further reduce socioeconomic and regional gaps in adult and infant mortality in Chile.
+
+## Related Sources
+
+- **contradicts** [Conditions of sustainable development in the Czech Republic in compliance with the recommendation of the European Commission.](0922-conditions-of-sustainable-development-in-the-czech-republic-in-compliance-with-t.md)
+- **contradicts** [The Unequal Burden of War: The Effect of Armed Conflict on the Gender Gap in Life Expectancy](1518-the-unequal-burden-of-war-the-effect-of-armed-conflict-on-the-gender-gap-in-life.md)

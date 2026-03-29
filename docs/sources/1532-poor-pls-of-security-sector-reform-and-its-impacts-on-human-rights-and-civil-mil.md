@@ -5,8 +5,9 @@
 | **Authors** | Poltak Partogi Nainggolan, Riris Katharina |
 | **Year** | 2020 |
 | **Category** | Civil-military relations and security sector reform |
+| **Secondary Categories** | Political party formation and pluralism |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 5 |
 | **Source** | openalex |
 | **DOI** | [10.19184/jseahr.v4i1.13597](https://doi.org/10.19184/jseahr.v4i1.13597) |

@@ -5,8 +5,8 @@
 | نویسندگان | Cyril Anfasha Firmansyah, Estro Dariatno Sihaloho |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 16 |
 | **شناسه دیجیتال** | [10.23917/jep.v22i1.11298](https://doi.org/10.23917/jep.v22i1.11298) |

@@ -6,7 +6,7 @@
 | **Year** | 1990 |
 | **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 3 |
 | **Source** | openalex |
 | **DOI** | [10.1111/j.1536-7150.1990.tb02270.x](https://doi.org/10.1111/j.1536-7150.1990.tb02270.x) |

@@ -5,8 +5,8 @@
 | نویسندگان | Saskia Keesstra, J. Bouma, Jakob Wallinga, Pablo Tittonell, Pete Smith, Artemi Cerdà, Luca Montanarella, John Quinton, Yakov Pachepsky, Wim H. van der Putten, Richard D. Bardgett, S.W. Moolenaar, G. Mol, Boris Jansen, L.O. Fresco |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1465 |
 | **شناسه دیجیتال** | [10.5194/soil-2-111-2016](https://doi.org/10.5194/soil-2-111-2016) |

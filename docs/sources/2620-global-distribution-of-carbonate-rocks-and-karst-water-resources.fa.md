@@ -5,8 +5,8 @@
 | نویسندگان | Nico Goldscheider, Zhao Chen, Augusto S. Auler, Michel Bakalowicz, Stefan Broda, David Drew, Jens Hartmann, Guanghui Jiang, Nils Moosdorf, Zoran Stevanović, George Veni |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Political party formation and pluralism |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | شکل‌گیری احزاب سیاسی و تکثرگرایی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 678 |
 | **شناسه دیجیتال** | [10.1007/s10040-020-02139-5](https://doi.org/10.1007/s10040-020-02139-5) |

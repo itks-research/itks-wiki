@@ -6,7 +6,7 @@
 | **Year** | 1998 |
 | **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 265 |
 | **Source** | openalex |
 | **DOI** | [10.1525/aa.1998.100.3.837](https://doi.org/10.1525/aa.1998.100.3.837) |

@@ -5,8 +5,8 @@
 | نویسندگان | Shohana Parvin, Anika Reza, Sridebi Das, Md. Main Uddin Miah, Shanjida Karim |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Civil society development |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | توسعه جامعه مدنی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 40 |
 | **شناسه دیجیتال** | [10.24018/ejfood.2023.5.5.701](https://doi.org/10.24018/ejfood.2023.5.5.701) |

@@ -5,8 +5,8 @@
 | نویسندگان | I. Fogilev, Vera Nikolaevna Malinovskaya, Sergey Gennadyevich Mironenko, Roman Vladimirovich Androsenko |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.25257/tts.2022.4.98.134-143](https://doi.org/10.25257/tts.2022.4.98.134-143) |

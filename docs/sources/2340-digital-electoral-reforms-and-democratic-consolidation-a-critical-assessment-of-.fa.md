@@ -5,8 +5,8 @@
 | نویسندگان | Olasupo Thompson, R. Idris, Olugbenga S. Aina, James Sanmi Adekola, Surajudeen O. Oladele |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.57233/gijmss.v8i2.17](https://doi.org/10.57233/gijmss.v8i2.17) |

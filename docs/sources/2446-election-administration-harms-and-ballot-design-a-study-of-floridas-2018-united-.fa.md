@@ -5,8 +5,8 @@
 | نویسندگان | M. Morse, Michael C. Herron, Marc Meredith, Daniel A. Smith, Michael D. Martinez |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.1111/ajps.12919](https://doi.org/10.1111/ajps.12919) |

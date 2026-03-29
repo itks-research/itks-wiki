@@ -6,7 +6,7 @@
 | **Year** | 2020 |
 | **Category** | Sanctions unwinding and international reintegration |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 64 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1080/13696998.2020.1856855](https://doi.org/10.1080/13696998.2020.1856855) |

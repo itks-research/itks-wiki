@@ -5,8 +5,8 @@
 | نویسندگان | Sulung Najmawati Zakiyya, M. Address.Jl.H.A., Harapan Rifaddin, Kec Baru, Loa Janan, Ilir, M. Alamat.Jl.H.A. |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.59698/quru.v2i1.173](https://doi.org/10.59698/quru.v2i1.173) |

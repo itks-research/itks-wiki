@@ -5,8 +5,8 @@
 | نویسندگان | Atousa Poursheikhali, R. Dehnavieh, A. Haghdoost, S. M. Seyedi, A. Heidari, A. Masoud, Moosa Bamir, Mohamad Reza Chashmyazdan, S. K. Sajady |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.47176/mjiri.37.32](https://doi.org/10.47176/mjiri.37.32) |

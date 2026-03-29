@@ -6,7 +6,7 @@
 | **Year** | 2018 |
 | **Category** | Judicial independence and rule of law |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 34 |
 | **Source** | openalex |
 | **DOI** | [10.1016/j.healthpol.2017.12.010](https://doi.org/10.1016/j.healthpol.2017.12.010) |

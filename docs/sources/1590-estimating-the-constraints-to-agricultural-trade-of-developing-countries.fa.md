@@ -5,8 +5,8 @@
 | نویسندگان | Evdokia Moïsé, Claire Delpeuch, Silvia Sorescu, Novella Bottini |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Trade liberalization and foreign direct investment |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادسازی تجارت و سرمایه‌گذاری خارجی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 32 |
 | **شناسه دیجیتال** | [10.1787/5k4c9kwfdx8r-en](https://doi.org/10.1787/5k4c9kwfdx8r-en) |

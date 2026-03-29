@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Karima Bennoune |
 | **Year** | 2024 |
-| **Category** | Sanctions unwinding and international reintegration |
+| **Category** | Women's rights codification and gender equality |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 11 |
 | **Source** | openalex |
 | **DOI** | [10.31273/fd.n7.2023.1506](https://doi.org/10.31273/fd.n7.2023.1506) |

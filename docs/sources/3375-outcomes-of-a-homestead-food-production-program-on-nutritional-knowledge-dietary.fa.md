@@ -5,8 +5,8 @@
 | نویسندگان | Neda Ezzeddin, Naser Kalantari, Morteza Abdollahi, Parisa Amiri, Bahareh Amini, Farid Zayeri |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 4 |
 | **شناسه دیجیتال** | [10.1186/s12889-024-17658-z](https://doi.org/10.1186/s12889-024-17658-z) |

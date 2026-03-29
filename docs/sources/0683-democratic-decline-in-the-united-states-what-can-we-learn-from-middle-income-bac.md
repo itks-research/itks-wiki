@@ -15,3 +15,13 @@
 ## Abstract
 
 We explore what can be learned from authoritarian backsliding in middle income countries about the threats to American democracy posed by the election of Donald Trump. We develop some causal hunches and an empirical baseline by considering the rise of elected autocrats in Venezuela, Turkey, and Hungary. Although American political institutions may forestall a reversion to electoral autocracy, we see some striking parallels in terms of democratic dysfunction, polarization, the nature of autocratic appeals, and the processes through which autocratic incumbents sought to exploit elected office. These processes could generate a diminished democratic system in which electoral competition survives, but within a political space that is narrowed by weakened horizontal checks on executive power and rule of law.
+
+## Related Sources
+
+- **extends** [Democracy without growth: The political ecology of the Indignados movement](0695-democracy-without-growth-the-political-ecology-of-the-indignados-movement.md)
+- **extends** [Egypt: Background and U.S. Relations](0541-egypt-background-and-us-relations.md)
+- **extends** [Islamism and the state after the Arab uprisings: Between people power and state power](0549-islamism-and-the-state-after-the-arab-uprisings-between-people-power-and-state-p.md)
+- **extends** [Political Transition in Tunisia](0545-political-transition-in-tunisia.md)
+- **supports** [Can the Whole World Become Democratic? Democracy, Development, and International Policies](0699-can-the-whole-world-become-democratic-democracy-development-and-international-po.md)
+- **contradicts** [Youth and political engagement in post-revolution Tunisia](0674-youth-and-political-engagement-in-post-revolution-tunisia.md)
+- **extends** [Contemporary Islamic Politics in Tunisia: The Journey of Islamic Democracy Post-Arab Spring](0673-contemporary-islamic-politics-in-tunisia-the-journey-of-islamic-democracy-post-a.md)

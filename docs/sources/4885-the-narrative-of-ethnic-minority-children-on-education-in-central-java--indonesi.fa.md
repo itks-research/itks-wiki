@@ -5,8 +5,8 @@
 | نویسندگان | Universitas Diponegoro, Indonesia, ⁠Hapsari Dwiningtyas Sulistyani, Turnomo Rahardjo, Universitas Diponegoro, Indonesia, Lintang Ratri Rahmiaji, Universitas Diponegoro, Indonesia, Taufik Suprihatini, Universitas Diponegoro, Indonesia |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Minority rights |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | حقوق اقلیت‌ها |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.17576/jkmjc-2020-3602-18](https://doi.org/10.17576/jkmjc-2020-3602-18) |

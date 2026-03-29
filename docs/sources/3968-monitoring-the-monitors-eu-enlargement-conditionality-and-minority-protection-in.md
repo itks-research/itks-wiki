@@ -6,7 +6,7 @@
 | **Year** | 2009 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 129 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://www.ssoar.info/ssoar/handle/document/6204) |

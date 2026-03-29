@@ -6,7 +6,7 @@
 | **Year** | 2021 |
 | **Category** | Banking and financial system reform |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 121 |
 | **Source** | openalex |
 | **DOI** | [10.1016/j.jwb.2021.101225](https://doi.org/10.1016/j.jwb.2021.101225) |

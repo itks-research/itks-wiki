@@ -5,8 +5,8 @@
 | نویسندگان | A. Arabameri, S. Saha, Jagabandhu Roy, J. Tiefenbacher, A. Cerdà, T. Biggs, B. Pradhan, Phuong Thao Thi Ngo, A. Collins |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 94 |
 | **شناسه دیجیتال** | [10.1016/j.scitotenv.2020.138595](https://doi.org/10.1016/j.scitotenv.2020.138595) |

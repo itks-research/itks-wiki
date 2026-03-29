@@ -5,8 +5,8 @@
 | نویسندگان | Hamidreza Abbasianjahromi, Shahryar Aghevli, Mehdi Ravanshadnia |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Banking and financial system reform |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام بانکی و مالی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 12 |
 | **شناسه دیجیتال** | [10.1016/j.cscm.2020.e00346](https://doi.org/10.1016/j.cscm.2020.e00346) |

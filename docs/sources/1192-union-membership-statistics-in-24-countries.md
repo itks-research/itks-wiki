@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Jelle Visser |
 | **Year** | 2006 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 507 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://hdl.handle.net/1813/78588) |

@@ -5,8 +5,8 @@
 | نویسندگان | Nikolaos Voulvoulis, Karl Dominic Arpon, Theodoros Giakoumis |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Sanctions unwinding and international reintegration |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | رفع تحریم‌ها و بازادغام بین‌المللی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 523 |
 | **شناسه دیجیتال** | [10.1016/j.scitotenv.2016.09.228](https://doi.org/10.1016/j.scitotenv.2016.09.228) |

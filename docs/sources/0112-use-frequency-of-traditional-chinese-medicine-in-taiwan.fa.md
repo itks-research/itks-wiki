@@ -5,8 +5,8 @@
 | نویسندگان | Fang-Pey Chen, Tzeng‐Ji Chen, Yen‐Ying Kung, Yu‐Chun Chen, Li‐Fang Chou, Fan-Jou Chen, Shinn‐Jang Hwang |
 |---|---|
 | **سال** | 2007 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 297 |
 | **شناسه دیجیتال** | [10.1186/1472-6963-7-26](https://doi.org/10.1186/1472-6963-7-26) |

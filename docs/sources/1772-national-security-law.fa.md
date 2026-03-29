@@ -5,8 +5,8 @@
 | نویسندگان | Stephen Dycus, Arthur L. Berney, William C. Banks, Peter Raven-Hansen |
 |---|---|
 | **سال** | 1990 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | روابط نظامی-غیرنظامی و اصلاح بخش امنیتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 26 |
 

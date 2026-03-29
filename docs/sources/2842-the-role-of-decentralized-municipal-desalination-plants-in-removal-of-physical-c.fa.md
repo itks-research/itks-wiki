@@ -5,8 +5,8 @@
 | نویسندگان | Vahid Noroozi Karbasdehi, Sina Dobaradaran, Farshid Soleimani, Hossein Arfaeinia, Mohammad Javad Mohammadi, Mozhgan Keshtkar, Roghayeh Mirahmadi |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 9 |
 | **شناسه دیجیتال** | [10.2166/washdev.2018.121](https://doi.org/10.2166/washdev.2018.121) |

@@ -5,8 +5,8 @@
 | نویسندگان | Neil J. Holbrook, Hillary A. Scannell, Alex Sen Gupta, Jessica A. Benthuysen, Ming Feng, Eric C. J. Oliver, Lisa V. Alexander, Michael T. Burrows, Markus G. Donat, Alistair J. Hobday, Pippa J. Moore, Sarah Perkins‐Kirkpatrick, Dan A. Smale, Sandra C. Straub, Thomas Wernberg |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 722 |
 | **شناسه دیجیتال** | [10.1038/s41467-019-10206-z](https://doi.org/10.1038/s41467-019-10206-z) |

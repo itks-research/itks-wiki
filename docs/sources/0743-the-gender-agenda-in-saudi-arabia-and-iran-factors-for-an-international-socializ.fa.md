@@ -5,8 +5,8 @@
 | نویسندگان | Alice Fill |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Tunisia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | تونس |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 4 |
 | **شناسه دیجیتال** | [10.15366/relacionesinternacionales2019.42.010](https://doi.org/10.15366/relacionesinternacionales2019.42.010) |

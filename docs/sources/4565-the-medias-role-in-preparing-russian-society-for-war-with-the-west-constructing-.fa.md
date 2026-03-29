@@ -5,8 +5,8 @@
 | نویسندگان | Marcin Składanowski, Cezary Smuniewski, Agnieszka Lukasik-Turecka |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.3390/journalmedia6020079](https://doi.org/10.3390/journalmedia6020079) |

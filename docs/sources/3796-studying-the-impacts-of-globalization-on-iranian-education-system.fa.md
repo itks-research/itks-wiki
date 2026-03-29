@@ -5,8 +5,8 @@
 | نویسندگان | Mitra Abdolahi Chahardahcheriki, Sakine Shahi |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.5539/ies.v5n1p172](https://doi.org/10.5539/ies.v5n1p172) |

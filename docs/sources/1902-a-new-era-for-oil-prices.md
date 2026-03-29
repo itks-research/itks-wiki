@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | John V. Mitchell |
 | **Year** | 2006 |
-| **Category** | Sanctions unwinding and international reintegration |
+| **Category** | Trade liberalization and foreign direct investment |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 11 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://hdl.handle.net/1721.1/45060) |

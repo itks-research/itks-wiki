@@ -5,8 +5,8 @@
 | نویسندگان | Fatemeh Kermanshahi, Mehdi Zare Bahramabadi, Hasan Heidari, Sayed Hossein Davoodi |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.32598/jams.25.2.6763.1](https://doi.org/10.32598/jams.25.2.6763.1) |

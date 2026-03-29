@@ -5,8 +5,8 @@
 | نویسندگان | Harri Kaartinen, Juha Hyyppä, Xiaowei Yu, Mikko Vastaranta, Hannu Hyyppä, Antero Kukko, Markus Holopainen, Christian Heipke, Manuela Hirschmugl, Felix Morsdorf, Erik Næsset, Juho Pitkänen, Sorin Popescu, Svein Solberg, Bernd Michael Wolf, Jee-Cheng Wu |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 481 |
 | **شناسه دیجیتال** | [10.3390/rs4040950](https://doi.org/10.3390/rs4040950) |

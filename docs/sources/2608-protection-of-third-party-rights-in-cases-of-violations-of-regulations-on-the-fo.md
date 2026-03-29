@@ -6,7 +6,7 @@
 | **Year** | 2024 |
 | **Category** | Political party formation and pluralism |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 0 |
 | **Source** | openalex |
 | **DOI** | [10.61838/csjlp.6.5.6](https://doi.org/10.61838/csjlp.6.5.6) |

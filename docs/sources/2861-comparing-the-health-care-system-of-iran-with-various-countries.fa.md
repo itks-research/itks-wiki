@@ -5,8 +5,8 @@
 | نویسندگان | Hassan Almaspoor Khangah, Ali Jannati, Ali Imani, Shiva Salimlar, Naser Derakhshani, Behnaz Raef |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 44 |
 | **شناسه دیجیتال** | [10.17795/jhealthscope-34459](https://doi.org/10.17795/jhealthscope-34459) |

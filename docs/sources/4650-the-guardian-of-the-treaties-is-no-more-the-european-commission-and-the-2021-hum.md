@@ -6,7 +6,7 @@
 | **Year** | 2022 |
 | **Category** | Transitional justice |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 30 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1093/rsq/hdac025](https://doi.org/10.1093/rsq/hdac025) |

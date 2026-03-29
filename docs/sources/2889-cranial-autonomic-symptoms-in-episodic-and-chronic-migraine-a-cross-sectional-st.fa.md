@@ -5,8 +5,8 @@
 | نویسندگان | Mansoureh Togha, Elham Jafari, Atieh Moosavian, Abolfazl Farbod, Shadi Ariyanfar, Fatemeh Farham |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 20 |
 | **شناسه دیجیتال** | [10.1186/s12883-021-02513-0](https://doi.org/10.1186/s12883-021-02513-0) |

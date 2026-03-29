@@ -5,8 +5,8 @@
 | نویسندگان | Zulfikar Hirji |
 |---|---|
 | **سال** | 2010 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 25 |
 | **شناسه دیجیتال** | [10.5040/9780755655311?locatt=label:secondary_bloomsburycollections](https://doi.org/10.5040/9780755655311?locatt=label:secondary_bloomsburycollections) |

@@ -6,7 +6,7 @@
 | **Year** | 2003 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 12 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://ro.uow.edu.au/cgi/viewcontent.cgi?article=1416&context=commpapers) |

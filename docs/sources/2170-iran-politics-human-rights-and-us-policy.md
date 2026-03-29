@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | Kenneth Katzman |
 | **Year** | 2017 |
-| **Category** | IRGC economic empire and its dismantling |
+| **Category** | Political party formation and pluralism |
+| **Secondary Categories** | Transitional justice |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 4 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://digital.library.unt.edu/ark:/67531/metadc1020837/) |

@@ -5,8 +5,8 @@
 | نویسندگان | Rini Jarwati Indah N. C, Dhea Zeftyaningrum, Richo Febria Putra, Dio Ashar Wicaksana |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.71239/jicl.v1i3.12](https://doi.org/10.71239/jicl.v1i3.12) |

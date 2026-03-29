@@ -5,8 +5,8 @@
 | نویسندگان | Jefferson Fox, Yayoi Fujita, Dimbab Ngidang, Nancy Lee Peluso, Lesley Potter, Niken Sakuntaladewi, Janet C. Sturgeon, David Thomas |
 |---|---|
 | **سال** | 2009 |
-| **دسته‌بندی** | Minority rights |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | حقوق اقلیت‌ها |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 285 |
 | **شناسه دیجیتال** | [10.1007/s10745-009-9240-7](https://doi.org/10.1007/s10745-009-9240-7) |

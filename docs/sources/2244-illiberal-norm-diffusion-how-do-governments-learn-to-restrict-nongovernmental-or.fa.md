@@ -5,8 +5,8 @@
 | نویسندگان | Marlies Glasius, Jelmer Schalk, Meta de Lange |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 125 |
 | **شناسه دیجیتال** | [10.1093/isq/sqaa019](https://doi.org/10.1093/isq/sqaa019) |

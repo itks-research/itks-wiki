@@ -16,3 +16,10 @@
 ## Abstract
 
 Did digital media really "cause" the Arab Spring, or is it an important factor of the story behind what might become democracy's fourth wave? An unlikely network of citizens used digital media to start a cascade of social protest that ultimately toppled four of the world's most entrenched dictators. Howard and Hussain find that the complex causal recipe includes several economic, political and cultural factors, but that digital media is consistently one of the most important sufficient and necessary conditions for explaining both the fragility of regimes and the success of social movements. This book looks at not only the unexpected evolution of events during the Arab Spring, but the deeper history of creative digital activism throughout the region.
+
+## Related Sources
+
+- **supports** [Freedom of Expression in the Spread of Hoax News on Social Media Between Indonesia and South Korea](0051-freedom-of-expression-in-the-spread-of-hoax-news-on-social-media-between-indones.md)
+- **extends** [Arab Media Systems](0557-arab-media-systems.md)
+- **extends** [Media and Participation: A site of ideological-democratic struggle](0845-media-and-participation-a-site-of-ideological-democratic-struggle.md)
+- **extends** [Constitutional Foundations and Legal Restrictions on Mass Media Freedom in the Republic of Iraq](4494-constitutional-foundations-and-legal-restrictions-on-mass-media-freedom-in-the-r.md)

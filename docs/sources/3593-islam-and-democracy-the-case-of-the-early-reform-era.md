@@ -6,7 +6,7 @@
 | **Year** | 2024 |
 | **Category** | Bonyad system reform |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.15408/jii.v14i2.43764](https://doi.org/10.15408/jii.v14i2.43764) |

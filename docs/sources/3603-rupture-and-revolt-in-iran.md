@@ -6,7 +6,7 @@
 | **Year** | 2009 |
 | **Category** | Bonyad system reform |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 8 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://pure.uva.nl/ws/files/1087641/75988_309840.pdf) |

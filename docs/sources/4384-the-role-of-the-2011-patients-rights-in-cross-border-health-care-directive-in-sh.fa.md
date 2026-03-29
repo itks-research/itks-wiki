@@ -5,8 +5,8 @@
 | نویسندگان | Natasha Azzopardi‐Muscat, Rita Baeten, Timo Clemens, Triin Habicht, Ilmo Keskimäki, Iwona Kowalska‐Bobko, Anna Sagan, Ewout van Ginneken |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Judicial independence and rule of law |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | استقلال قضایی و حاکمیت قانون |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 34 |
 | **شناسه دیجیتال** | [10.1016/j.healthpol.2017.12.010](https://doi.org/10.1016/j.healthpol.2017.12.010) |

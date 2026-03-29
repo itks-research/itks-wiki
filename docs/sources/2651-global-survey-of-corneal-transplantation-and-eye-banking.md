@@ -6,7 +6,7 @@
 | **Year** | 2015 |
 | **Category** | Political party formation and pluralism |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 1610 |
 | **Source** | openalex |
 | **DOI** | [10.1001/jamaophthalmol.2015.4776](https://doi.org/10.1001/jamaophthalmol.2015.4776) |

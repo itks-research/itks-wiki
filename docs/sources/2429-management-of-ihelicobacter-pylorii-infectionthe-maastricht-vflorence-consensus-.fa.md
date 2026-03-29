@@ -5,8 +5,8 @@
 | نویسندگان | Peter Malfertheiner, Françis Mégraud, Colm O’Morain, Javier P. Gisbert, Ernst J. Kuipers, Anthony Axon, Franco Bazzoli, Antonio Gasbarrini, J. Atherton, David Y. Graham, Richard H. Hunt, Paul Moayyedi, Theodore Rokkas, Massimo Rugge, Michael Selgrad, Sebastian Suerbaum, Kentaro Sugano, Emad El‐Omar |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 2889 |
 | **شناسه دیجیتال** | [10.1136/gutjnl-2016-312288](https://doi.org/10.1136/gutjnl-2016-312288) |

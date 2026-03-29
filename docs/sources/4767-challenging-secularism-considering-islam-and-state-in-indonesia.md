@@ -6,7 +6,7 @@
 | **Year** | 2010 |
 | **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 3 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.21111/tsaqafah.v6i2.125](https://doi.org/10.21111/tsaqafah.v6i2.125) |

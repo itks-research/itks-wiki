@@ -5,8 +5,8 @@
 | **Authors** | Shaliha, Farnaz, Mozaffari, Maryam, Ramezani, Faeze, Hajnasiri, Hamideh, Moafi, Farnoosh |
 | **Year** | 1989 |
 | **Category** | Civil-military relations and security sector reform |
-| **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Case Study** | Iran |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 9930 |
 | **Source** | openalex |
 | **DOI** | [10.5860/choice.27-1232](https://doi.org/10.5860/choice.27-1232) |

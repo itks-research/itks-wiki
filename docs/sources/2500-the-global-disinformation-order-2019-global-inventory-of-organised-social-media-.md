@@ -6,7 +6,7 @@
 | **Year** | 2019 |
 | **Category** | Electoral system design and implementation |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 303 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1209&context=scholcom) |

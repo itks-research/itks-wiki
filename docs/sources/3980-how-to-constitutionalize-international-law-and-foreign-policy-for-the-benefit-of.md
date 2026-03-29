@@ -6,7 +6,7 @@
 | **Year** | 1998 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 94 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://repository.law.umich.edu/cgi/viewcontent.cgi?article=1399&context=mjil) |

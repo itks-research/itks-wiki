@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Peter R. Shewry |
 | **Year** | 2009 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Resource curse management |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 1238 |
 | **Source** | openalex |
 | **DOI** | [10.1093/jxb/erp058](https://doi.org/10.1093/jxb/erp058) |

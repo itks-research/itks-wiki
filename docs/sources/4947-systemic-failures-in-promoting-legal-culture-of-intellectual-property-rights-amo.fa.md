@@ -5,8 +5,8 @@
 | نویسندگان | Dewandira Darruning Sripradnya Rahmaidha, Adi Sulistiyono, Ayub Torry Satriyo Kusumo, Sannia Aziz |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Minority rights |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | حقوق اقلیت‌ها |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.25041/iplr.v6i1.4224](https://doi.org/10.25041/iplr.v6i1.4224) |

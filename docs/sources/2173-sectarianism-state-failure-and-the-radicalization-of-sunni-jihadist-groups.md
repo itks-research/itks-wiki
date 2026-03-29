@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Anthony N. Celso, D Doering, D Byman, M Knights, M Levitt, T Hegghammer, M Eisenstadt, F Balanche, A Moghadan, W Mccants, P Smyth, A Celso, A Celso, W Mccants, Anderson, A Hemmingsen, I Edgar, M Bassiouni, N Ghabadzeh, S Kbarzadea, Hs, Timoni, A Moghadan, Mws Ryan |
 | **Year** | 2018 |
-| **Category** | IRGC economic empire and its dismantling |
+| **Category** | Judicial independence and rule of law |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 4 |
 | **Source** | openalex |
 | **DOI** | [10.20431/2454-9452.0403004](https://doi.org/10.20431/2454-9452.0403004) |

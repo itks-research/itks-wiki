@@ -5,8 +5,8 @@
 | نویسندگان | Bernard S. Black, Barry Metzger, Timothy O'Brien, Young Moo Shin |
 |---|---|
 | **سال** | 2001 |
-| **دسته‌بندی** | Banking and financial system reform |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | اصلاح نظام بانکی و مالی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 17 |
 

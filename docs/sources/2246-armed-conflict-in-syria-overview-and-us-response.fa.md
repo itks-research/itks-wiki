@@ -5,8 +5,8 @@
 | نویسندگان | Carla E. Humud, Christopher M. Blanchard, Mary Beth Dunham Nikitin |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 69 |
 

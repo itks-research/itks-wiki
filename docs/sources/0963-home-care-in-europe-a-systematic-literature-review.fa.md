@@ -5,8 +5,8 @@
 | نویسندگان | Nadine Genet, W.G.W. Boerma, Dionne Kringos, Ans Bouman, Anneke L. Francke, Cecilia Fagerström, Maria Gabriella Melchiorre, Cosetta Greco, W. Devillé |
 |---|---|
 | **سال** | 2011 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 496 |
 | **شناسه دیجیتال** | [10.1186/1472-6963-11-207](https://doi.org/10.1186/1472-6963-11-207) |

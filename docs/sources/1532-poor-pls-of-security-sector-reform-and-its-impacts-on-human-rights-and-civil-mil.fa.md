@@ -5,8 +5,8 @@
 | نویسندگان | Poltak Partogi Nainggolan, Riris Katharina |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | روابط نظامی-غیرنظامی و اصلاح بخش امنیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 5 |
 | **شناسه دیجیتال** | [10.19184/jseahr.v4i1.13597](https://doi.org/10.19184/jseahr.v4i1.13597) |

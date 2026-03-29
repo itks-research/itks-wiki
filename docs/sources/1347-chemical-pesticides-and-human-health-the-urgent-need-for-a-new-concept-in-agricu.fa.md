@@ -5,8 +5,8 @@
 | نویسندگان | P. Nicolopoulou‐Stamati, Sotirios Maipas, Chrysanthi Kotampasi, Panagiotis J. Stamatis, Luc Hens |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Labor market reform and social safety nets |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | اصلاح بازار کار و شبکه‌های حمایت اجتماعی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1813 |
 | **شناسه دیجیتال** | [10.3389/fpubh.2016.00148](https://doi.org/10.3389/fpubh.2016.00148) |

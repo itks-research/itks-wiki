@@ -5,8 +5,8 @@
 | نویسندگان | Rhéa Rocque, Caroline Beaudoin, Ruth Ndjaboué, Laura Cameron, Louann Poirier-Bergeron, Rose-Alice Poulin-Rheault, Cathérine Fallon, Andrea C. Tricco, Holly O. Witteman |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 824 |
 | **شناسه دیجیتال** | [10.1136/bmjopen-2020-046333](https://doi.org/10.1136/bmjopen-2020-046333) |

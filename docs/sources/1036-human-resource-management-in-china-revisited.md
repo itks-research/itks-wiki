@@ -6,7 +6,7 @@
 | **Year** | 2020 |
 | **Category** | Privatization and state-owned enterprise restructuring |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 46 |
 | **Source** | openalex |
 | **DOI** | [10.4324/9781003060390](https://doi.org/10.4324/9781003060390) |

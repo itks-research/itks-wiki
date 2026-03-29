@@ -6,7 +6,7 @@
 | **Year** | 2024 |
 | **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 4 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.46222/pharosjot.106.11](https://doi.org/10.46222/pharosjot.106.11) |

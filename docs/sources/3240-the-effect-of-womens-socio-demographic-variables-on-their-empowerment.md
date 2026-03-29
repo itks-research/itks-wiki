@@ -6,7 +6,7 @@
 | **Year** | 2010 |
 | **Category** | Media freedom and press institution building |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 11 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://psasir.upm.edu.my/id/eprint/17120/1/The%20effect%20of%20women.pdf) |

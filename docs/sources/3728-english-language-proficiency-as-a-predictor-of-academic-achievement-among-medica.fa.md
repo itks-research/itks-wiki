@@ -5,8 +5,8 @@
 | نویسندگان | Bahador Sadeghi, Nima Moshtaghi Kashanian, Ataollah Malekı, Ali Akbar Haghdoost |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 44 |
 | **شناسه دیجیتال** | [10.4304/tpls.3.12.2315-2321](https://doi.org/10.4304/tpls.3.12.2315-2321) |

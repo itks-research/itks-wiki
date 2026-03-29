@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | David A. Oakley, Pat Proctor |
 | **Year** | 2012 |
-| **Category** | IRGC economic empire and its dismantling |
+| **Category** | Electoral system design and implementation |
+| **Secondary Categories** | Political party formation and pluralism |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 19 |
 | **Source** | openalex |
 | **DOI** | [10.5038/1944-0472.5.1.1](https://doi.org/10.5038/1944-0472.5.1.1) |

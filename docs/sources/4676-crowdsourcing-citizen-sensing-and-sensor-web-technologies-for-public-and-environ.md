@@ -6,7 +6,7 @@
 | **Year** | 2011 |
 | **Category** | Transitional justice |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 489 |
 | **Source** | openalex |
 | **DOI** | [10.1186/1476-072x-10-67](https://doi.org/10.1186/1476-072x-10-67) |

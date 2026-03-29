@@ -6,7 +6,7 @@
 | **Year** | 1994 |
 | **Category** | Civil society development |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 1179 |
 | **Source** | openalex |
 | **DOI** | [10.1353/jod.1994.0041](https://doi.org/10.1353/jod.1994.0041) |

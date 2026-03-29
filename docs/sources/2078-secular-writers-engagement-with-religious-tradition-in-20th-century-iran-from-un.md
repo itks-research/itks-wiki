@@ -6,7 +6,7 @@
 | **Year** | 2021 |
 | **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.7575/AIAC.IJCLTS.V.9N.1P.11](https://doi.org/10.7575/AIAC.IJCLTS.V.9N.1P.11) |

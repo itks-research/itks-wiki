@@ -5,8 +5,8 @@
 | نویسندگان | Efrat Shadmi, Yingyao Chen, Inês Dourado, Inbal Faran-Perach, John Furler, Peter Hangoma, Piya Hanvoravongchai, Claudia Zea Obando, Varduhi Petrosyan, Krishna D. Rao, Ana Lorena Ruano, Leiyu Shi, Luís Eugênio Portela Fernandes de Souza, Sivan Spitzer, Elizabeth Sturgiss, Rapeepong Suphanchaimat, Manuela Villar Uribe, Sara Willems |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Labor market reform and social safety nets |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح بازار کار و شبکه‌های حمایت اجتماعی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 760 |
 | **شناسه دیجیتال** | [10.1186/s12939-020-01218-z](https://doi.org/10.1186/s12939-020-01218-z) |

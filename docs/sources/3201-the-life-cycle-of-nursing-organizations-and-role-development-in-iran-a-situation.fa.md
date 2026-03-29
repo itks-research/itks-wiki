@@ -5,8 +5,8 @@
 | نویسندگان | Kheizaran Miri, E. mohamadi, Zohre Vanaki, Seyyed Reza Mazloum |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 7 |
 | **شناسه دیجیتال** | [10.61186/jgbfnm.20.2.44](https://doi.org/10.61186/jgbfnm.20.2.44) |

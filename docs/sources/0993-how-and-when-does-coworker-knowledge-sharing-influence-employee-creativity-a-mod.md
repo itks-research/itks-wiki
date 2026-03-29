@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Soojin Lee, Ji Hoon Lee, Gukdo Byun, S. Karau |
 | **Year** | 2025 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1002/jocb.70020](https://doi.org/10.1002/jocb.70020) |

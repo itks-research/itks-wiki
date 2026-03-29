@@ -5,8 +5,8 @@
 | نویسندگان | Francesco Chirico, Tarja Heponiemi, Milena Pavlova, Salvatore Zaffina, Nicola Magnavita |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Labor market reform and social safety nets |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | اصلاح بازار کار و شبکه‌های حمایت اجتماعی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 111 |
 | **شناسه دیجیتال** | [10.3390/ijerph16142470](https://doi.org/10.3390/ijerph16142470) |

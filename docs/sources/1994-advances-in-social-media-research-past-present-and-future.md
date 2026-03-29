@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Kawaljeet Kaur Kapoor, Kuttimani Tamilmani, Nripendra P. Rana, Pushp P. Patil, Yogesh K. Dwivedi, Sridhar Nerur |
 | **Year** | 2017 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1243 |
 | **Source** | openalex |
 | **DOI** | [10.1007/s10796-017-9810-y](https://doi.org/10.1007/s10796-017-9810-y) |

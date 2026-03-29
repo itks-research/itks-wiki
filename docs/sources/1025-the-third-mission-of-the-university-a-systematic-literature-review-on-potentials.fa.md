@@ -5,8 +5,8 @@
 | نویسندگان | Lorenzo Compagnucci, Francesca Spigarelli |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 784 |
 | **شناسه دیجیتال** | [10.1016/j.techfore.2020.120284](https://doi.org/10.1016/j.techfore.2020.120284) |

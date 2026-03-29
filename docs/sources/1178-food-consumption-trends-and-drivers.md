@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | John Kearney |
 | **Year** | 2010 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1955 |
 | **Source** | openalex |
 | **DOI** | [10.1098/rstb.2010.0149](https://doi.org/10.1098/rstb.2010.0149) |

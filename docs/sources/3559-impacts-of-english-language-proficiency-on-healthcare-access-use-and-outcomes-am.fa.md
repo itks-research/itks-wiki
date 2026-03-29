@@ -5,8 +5,8 @@
 | نویسندگان | Mamata Pandey, Rose Maina, Jonathan Amoyaw, Yiyan Li, Rejina Kamrul, Clara Rocha Michaels, Razawa Maroof |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Minority rights |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | حقوق اقلیت‌ها |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 296 |
 | **شناسه دیجیتال** | [10.1186/s12913-021-06750-4](https://doi.org/10.1186/s12913-021-06750-4) |

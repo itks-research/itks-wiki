@@ -5,8 +5,8 @@
 | نویسندگان | Salsabila Putri Nareswari, Ruvira Arindita |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.35760/dimedcom.2024.v3i2.13078](https://doi.org/10.35760/dimedcom.2024.v3i2.13078) |

@@ -5,8 +5,8 @@
 | نویسندگان | Hayadin Hayadin (Corresponding Author), Khoirun Niam, Munawiroh, Ronald Lukens-Bull |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 5 |
 | **شناسه دیجیتال** | [10.22452/jat.vol20no1.14](https://doi.org/10.22452/jat.vol20no1.14) |

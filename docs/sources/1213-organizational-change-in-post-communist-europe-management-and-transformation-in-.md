@@ -6,7 +6,7 @@
 | **Year** | 1999 |
 | **Category** | Privatization and state-owned enterprise restructuring |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 103 |
 | **Source** | openalex |
 

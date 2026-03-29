@@ -5,8 +5,8 @@
 | نویسندگان | Loso Judijanto, Ahmad Ahmad, Djuhrijjani Djuhrijjani, Wahyul Furqon, Nizla Rohaya |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Minority rights |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | حقوق اقلیت‌ها |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.58812/eslhr.v3i02.471](https://doi.org/10.58812/eslhr.v3i02.471) |

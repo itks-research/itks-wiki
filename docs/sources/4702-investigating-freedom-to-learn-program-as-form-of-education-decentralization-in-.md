@@ -6,7 +6,7 @@
 | **Year** | 2023 |
 | **Category** | Federalism, unitarism, and autonomy models |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 3 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.51425/ierj.v4i2.44](https://doi.org/10.51425/ierj.v4i2.44) |

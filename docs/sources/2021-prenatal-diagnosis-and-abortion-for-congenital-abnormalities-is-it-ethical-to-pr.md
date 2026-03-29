@@ -6,7 +6,7 @@
 | **Year** | 2009 |
 | **Category** | Privatization and state-owned enterprise restructuring |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 48 |
 | **Source** | openalex |
 | **DOI** | [10.1080/15265160902984996](https://doi.org/10.1080/15265160902984996) |

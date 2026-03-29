@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | M. Hakan Yavuz |
 | **Year** | 2001 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Civil society development |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 145 |
 | **Source** | openalex |
 | **DOI** | [10.1080/13537110108428635](https://doi.org/10.1080/13537110108428635) |

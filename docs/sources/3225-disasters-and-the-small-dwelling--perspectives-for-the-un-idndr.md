@@ -6,7 +6,7 @@
 | **Year** | 1992 |
 | **Category** | Media freedom and press institution building |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 28 |
 | **Source** | openalex |
 

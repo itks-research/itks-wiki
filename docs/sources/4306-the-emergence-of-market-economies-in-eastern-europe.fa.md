@@ -5,8 +5,8 @@
 | نویسندگان | William Diebold, Christopher Clague, Gordon C. Rausser, Michael P. Claudon, Tamar Gutner |
 |---|---|
 | **سال** | 1992 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | خصوصی‌سازی و بازسازی شرکت‌های دولتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 179 |
 | **شناسه دیجیتال** | [10.2307/20045432](https://doi.org/10.2307/20045432) |

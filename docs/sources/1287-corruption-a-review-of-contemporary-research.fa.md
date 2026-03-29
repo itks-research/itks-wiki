@@ -5,8 +5,8 @@
 | نویسندگان | Jens Christopher Andvig, Odd‐Helge Fjeldstad, Inge Amundsen, Tone Kristin Sissener, Tina Søreide |
 |---|---|
 | **سال** | 2001 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | روابط نظامی-غیرنظامی و اصلاح بخش امنیتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 205 |
 

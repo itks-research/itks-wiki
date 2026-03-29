@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Unknown |
 | **Year** | 2003 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Minority rights |
 | **Case Study** | Spain |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 135 |
 | **Source** | openalex |
 | **DOI** | [10.5860/choice.40-4777](https://doi.org/10.5860/choice.40-4777) |

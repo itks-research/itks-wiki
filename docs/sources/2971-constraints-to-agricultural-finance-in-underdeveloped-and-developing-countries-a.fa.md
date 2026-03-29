@@ -5,8 +5,8 @@
 | نویسندگان | Farman Ullah Khan, Muhammad Nouman, Lucia Negruț, Junaid Abban, Laura Mariana Cismaș, Muhammad Fahad Siddiqi |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Banking and financial system reform |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام بانکی و مالی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 92 |
 | **شناسه دیجیتال** | [10.1080/14735903.2024.2329388](https://doi.org/10.1080/14735903.2024.2329388) |

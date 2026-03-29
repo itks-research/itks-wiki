@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Mark S. Berlin |
 | **Year** | 2020 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Judicial independence and rule of law |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 26 |
 | **Source** | openalex |
 | **DOI** | [10.1093/oso/9780198850441.001.0001](https://doi.org/10.1093/oso/9780198850441.001.0001) |

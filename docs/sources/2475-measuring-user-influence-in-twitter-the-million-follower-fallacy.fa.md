@@ -5,8 +5,8 @@
 | نویسندگان | Meeyoung Cha, Hamed Haddadi, Fabrí­cio Benevenuto, Krishna P. Gummadi |
 |---|---|
 | **سال** | 2010 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 2983 |
 | **شناسه دیجیتال** | [10.1609/icwsm.v4i1.14033](https://doi.org/10.1609/icwsm.v4i1.14033) |

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Muhammad Ayaz, Mohammad Ammad Uddin, Zubair Sharif, Ali Mansour, El‐Hadi M. Aggoune |
 | **Year** | 2019 |
-| **Category** | Transitional justice |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 1175 |
 | **Source** | openalex |
 | **DOI** | [10.1109/access.2019.2932609](https://doi.org/10.1109/access.2019.2932609) |
@@ -15,3 +15,7 @@
 ## Abstract
 
 Despite the perception people may have regarding the agricultural process, the reality is that today's agriculture industry is data-centered, precise, and smarter than ever. The rapid emergence of the Internet-of-Things (IoT) based technologies redesigned almost every industry including “smart agriculture” which moved the industry from statistical to quantitative approaches. Such revolutionary changes are shaking the existing agriculture methods and creating new opportunities along a range of challenges. This article highlights the potential of wireless sensors and IoT in agriculture, as well as the challenges expected to be faced when integrating this technology with the traditional farming practices. IoT devices and communication techniques associated with wireless sensors encountered in agriculture applications are analyzed in detail. What sensors are available for specific agriculture application, like soil preparation, crop status, irrigation, insect and pest detection are listed. How this technology helping the growers throughout the crop stages, from sowing until harvesting, packing and transportation is explained. Furthermore, the use of unmanned aerial vehicles for crop surveillance and other favorable applications such as optimizing crop yield is considered in this article. State-of-the-art IoT-based architectures and platforms used in agriculture are also highlighted wherever suitable. Finally, based on this thorough review, we identify current and future trends of IoT in agriculture and highlight potential research challenges.
+
+## Related Sources
+
+- **contradicts** [International Migration: Trends, Determinants, and Policy Effects](1204-international-migration-trends-determinants-and-policy-effects.md)

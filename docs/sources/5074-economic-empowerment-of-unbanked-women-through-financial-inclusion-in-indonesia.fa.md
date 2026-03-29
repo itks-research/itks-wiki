@@ -5,8 +5,8 @@
 | نویسندگان | Yenti Afrida, Irwan Abdullah, Z. Prasojo, Muthia Ulfah, Putri Ananda Saka, Jumni Nelli |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 8 |
 | **شناسه دیجیتال** | [10.1080/23311975.2024.2407921](https://doi.org/10.1080/23311975.2024.2407921) |

@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | William B. Quandt, Ellis Goldberg, Reşat Kasaba, Joel S. Migdal |
 | **Year** | 1994 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Electoral system design and implementation |
+| **Secondary Categories** | Political party formation and pluralism |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 78 |
 | **Source** | openalex |
 | **DOI** | [10.2307/20046801](https://doi.org/10.2307/20046801) |

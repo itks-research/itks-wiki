@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Bartłomiej Kamiński |
 | **Year** | 1999 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Trade liberalization and foreign direct investment |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 11 |
 | **Source** | openalex |
 

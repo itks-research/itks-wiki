@@ -6,7 +6,7 @@
 | **Year** | 2015 |
 | **Category** | Transitional justice |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 43 |
 | **Source** | openalex |
 | **DOI** | [10.5860/choice.189188](https://doi.org/10.5860/choice.189188) |

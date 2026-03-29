@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Paul Collier, Jan Willem Gunning |
 | **Year** | 1999 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Trade liberalization and foreign direct investment |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 630 |
 | **Source** | openalex |
 | **DOI** | [10.1257/jep.13.3.3](https://doi.org/10.1257/jep.13.3.3) |

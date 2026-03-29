@@ -6,7 +6,7 @@
 | **Year** | 2008 |
 | **Category** | Political party formation and pluralism |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 22517 |
 | **Source** | openalex |
 | **DOI** | [10.1016/s0140](https://doi.org/10.1016/s0140) |

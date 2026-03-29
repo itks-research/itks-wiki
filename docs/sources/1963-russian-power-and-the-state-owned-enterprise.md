@@ -6,7 +6,7 @@
 | **Year** | 2021 |
 | **Category** | Privatization and state-owned enterprise restructuring |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 12 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1016/j.ejpoleco.2021.102122](https://doi.org/10.1016/j.ejpoleco.2021.102122) |

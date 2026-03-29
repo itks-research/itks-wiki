@@ -5,8 +5,8 @@
 | نویسندگان | A. Nugroho, Hatidah Hatidah, Muhammad Iqbal, R. Indriani, A. Ramadhan |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.36908/isbank.v9i1.893](https://doi.org/10.36908/isbank.v9i1.893) |

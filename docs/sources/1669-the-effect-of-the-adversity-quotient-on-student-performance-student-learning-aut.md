@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Asrop Safi’i, Imron Muttaqin, Sukino Sukino, Nur Hamzah, Chusnul Chotimah, Imam Junaris, Muh. Khoirul Rifa’i |
 | **Year** | 2021 |
-| **Category** | Federalism, unitarism, and autonomy models |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 56 |
 | **Source** | openalex |
 | **DOI** | [10.1016/j.heliyon.2021.e08510](https://doi.org/10.1016/j.heliyon.2021.e08510) |

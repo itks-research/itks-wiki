@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Rebecca Adler‐Nissen, Ayşe Zarakol |
 | **Year** | 2020 |
-| **Category** | Civil-military relations and security sector reform |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 307 |
 | **Source** | openalex |
 | **DOI** | [10.1017/s0020818320000454](https://doi.org/10.1017/s0020818320000454) |

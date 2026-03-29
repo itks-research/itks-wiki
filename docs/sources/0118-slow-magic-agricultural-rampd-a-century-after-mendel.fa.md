@@ -5,8 +5,8 @@
 | نویسندگان | Philip G. Pardey, Nienke M. Beintema, Pardey, Philip G., Beintema, Nienke M. |
 |---|---|
 | **سال** | 2001 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 190 |
 | **شناسه دیجیتال** | [10.22004/ag.econ.15911](https://doi.org/10.22004/ag.econ.15911) |

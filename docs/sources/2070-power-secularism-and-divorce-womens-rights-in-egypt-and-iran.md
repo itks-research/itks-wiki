@@ -4,9 +4,10 @@
 |-------|-------|
 | **Authors** | S. Cooke |
 | **Year** | 2019 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Women's rights codification and gender equality |
+| **Secondary Categories** | Religious freedom and separation of religion from state |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 4 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1080/14608944.2019.1634034](https://doi.org/10.1080/14608944.2019.1634034) |

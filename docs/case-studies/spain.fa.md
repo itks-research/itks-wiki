@@ -4,7 +4,7 @@
 
 **340 منبع** در 22 دسته‌بندی
 
-## Banking and financial system reform
+## اصلاح نظام بانکی و مالی
 *6 منبع*
 
 - [Fiscal reform in Spain : accomplishments and challenges](../sources/1164-fiscal-reform-in-spain--accomplishments-and-challenges.fa.md) (2007)
@@ -14,7 +14,7 @@
 - [Taxing electricity consumption in Spain: evidence to design the post-Kyoto world](../sources/1184-taxing-electricity-consumption-in-spain-evidence-to-design-the-post-kyoto-world.fa.md) (2016)
 - [ATLAS Tier-3 within IFIC-Valencia analysis facility](../sources/0487-atlas-tier-3-within-ific-valencia-analysis-facility.fa.md) (2012)
 
-## Civil society development
+## توسعه جامعه مدنی
 *4 منبع*
 
 - [Diffusion Across Political Systems: The Global Spread of National Human Rights Institutions](../sources/0344-diffusion-across-political-systems-the-global-spread-of-national-human-rights-in.fa.md) (2010)
@@ -22,7 +22,7 @@
 - [Indigenous Data Sovereignty](../sources/0343-indigenous-data-sovereignty.fa.md) (2016)
 - [The Mexican State and Transmigrant Organizations: Negotiating the Boundaries of Membership and Participation](../sources/0335-the-mexican-state-and-transmigrant-organizations-negotiating-the-boundaries-of-m.fa.md) (2002)
 
-## Civil-military relations and security sector reform
+## روابط نظامی-غیرنظامی و اصلاح بخش امنیتی
 *40 منبع*
 
 - [Armed Forces and Democracy: Reforming Civil-Military Relations](../sources/0367-armed-forces-and-democracy-reforming-civil-military-relations.fa.md) (1995)
@@ -66,7 +66,7 @@
 - [Social interaction between civil, military, and mission communities in Spanish colonial Texas during the height of the Bourbon reforms, 1763-1772](../sources/1131-social-interaction-between-civil-military-and-mission-communities-in-spanish-col.fa.md) (1995)
 - [Negations: Essays in Critical Theory](../sources/1107-negations-essays-in-critical-theory.fa.md) (1968)
 
-## Constitutional design and drafting processes
+## طراحی و تدوین قانون اساسی
 *109 منبع*
 
 - [Does the Process of Constitution-Making Matter?](../sources/0316-does-the-process-of-constitution-making-matter.fa.md) (2009)
@@ -179,7 +179,7 @@
 - [Tafamidis for transthyretin familial amyloid polyneuropathy](../sources/0379-tafamidis-for-transthyretin-familial-amyloid-polyneuropathy.fa.md) (2012)
 - [A short history of the European Association of Preventive Cardiology (EAPC)](../sources/0385-a-short-history-of-the-european-association-of-preventive-cardiology-eapc.fa.md) (2022)
 
-## Cultural heritage preservation during institutional change
+## حفظ میراث فرهنگی در دوره تحولات نهادی
 *24 منبع*
 
 - [A history of Latin America](../sources/1132-a-history-of-latin-america.fa.md) (1988)
@@ -207,7 +207,7 @@
 - [Orfèvrerie kabyle et orfèvrerie aurasienne. Comparaisons entre deux techniques.](../sources/0490-orfèvrerie-kabyle-et-orfèvrerie-aurasienne-comparaisons-entre-deux-techniques.fa.md) (1977)
 - [Description of a New Species of Neodipara Erd. from Spain (Hym. Chalcidoidea, Pteromalidae)](../sources/0481-description-of-a-new-species-of-neodipara-erd-from-spain-hym-chalcidoidea-pterom.fa.md) (1971)
 
-## Education system reform and curriculum modernization
+## اصلاح نظام آموزشی و نوسازی برنامه درسی
 *13 منبع*
 
 - [The Two Faces of Education in Ethnic Conflict : Towards a Peacebuilding Education for Children](../sources/1104-the-two-faces-of-education-in-ethnic-conflict--towards-a-peacebuilding-education.fa.md) (2000)
@@ -224,7 +224,7 @@
 - [Poetry, politics, and power](../sources/0486-poetry-politics-and-power.fa.md) (2002)
 - [How young can children reliably and validly self-report their health-related quality of life?: An analysis of 8,591 children across age subgroups with the PedsQL™ 4.0 Generic Core Scales](../sources/0381-how-young-can-children-reliably-and-validly-self-report-their-health-related-qua.fa.md) (2007)
 
-## Electoral system design and implementation
+## طراحی و اجرای نظام انتخاباتی
 *7 منبع*
 
 - [The 2011 General Election in Spain: The Collapse of the Socialist Party](../sources/0421-the-2011-general-election-in-spain-the-collapse-of-the-socialist-party.fa.md) (2012)
@@ -235,7 +235,7 @@
 - [Electoral Violence, Institutional Change, and Democratic Consolidation: Kenyan 2007-2022 Election Lessons](../sources/0304-electoral-violence-institutional-change-and-democratic-consolidation-kenyan-2007.fa.md) (2026)
 - [Objective comparison of particle tracking methods](../sources/0527-objective-comparison-of-particle-tracking-methods.fa.md) (2014)
 
-## Federalism, unitarism, and autonomy models
+## فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری
 *4 منبع*
 
 - [The Politics of Decentralization in Latin America](../sources/0317-the-politics-of-decentralization-in-latin-america.fa.md) (1999)
@@ -243,12 +243,12 @@
 - [Federalism and Constitutional Design](../sources/0309-federalism-and-constitutional-design.fa.md) (1997)
 - [Building the Spanish Nation: The Centre‐Periphery Dialectic](../sources/0415-building-the-spanish-nation-the-centreperiphery-dialectic.fa.md) (2004)
 
-## Internet and digital infrastructure as civic space
+## اینترنت و زیرساخت دیجیتال به‌عنوان فضای مدنی
 *1 منبع*
 
 - [Defining digital transformation: Results from expert interviews](../sources/0525-defining-digital-transformation-results-from-expert-interviews.fa.md) (2019)
 
-## Judicial independence and rule of law
+## استقلال قضایی و حاکمیت قانون
 *8 منبع*
 
 - [Democratic Consolidation, Judicial Reform, and the Judicialization of Politics in Southern Europe](../sources/0411-democratic-consolidation-judicial-reform-and-the-judicialization-of-politics-in-.fa.md) (2006)
@@ -260,7 +260,7 @@
 - [The judicial role in criminal proceedings](../sources/0514-the-judicial-role-in-criminal-proceedings.fa.md) (2000)
 - [A comparative study of Latinisms in court opinions in the United States and Spain](../sources/0400-a-comparative-study-of-latinisms-in-court-opinions-in-the-united-states-and-spai.fa.md) (2010)
 
-## Labor market reform and social safety nets
+## اصلاح بازار کار و شبکه‌های حمایت اجتماعی
 *16 منبع*
 
 - [The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade](../sources/1175-the-china-shock-learning-from-labor-market-adjustment-to-large-changes-in-trade.fa.md) (2016)
@@ -280,12 +280,12 @@
 - [Applicability of cadastral data to support the estimation of water use in private swimming pools](../sources/0520-applicability-of-cadastral-data-to-support-the-estimation-of-water-use-in-privat.fa.md) (2018)
 - [An In-Vitro Assessment of Operator Accuracy and Inter-Operator Agreement in Recording Shade and Shade Characteristics.](../sources/0494-an-in-vitro-assessment-of-operator-accuracy-and-inter-operator-agreement-in-reco.fa.md) (2022)
 
-## Language policy
+## سیاست زبانی
 *1 منبع*
 
 - [Language Rights and the Law in the United States and Its Territories](../sources/0366-language-rights-and-the-law-in-the-united-states-and-its-territories.fa.md) (2018)
 
-## Media freedom and press institution building
+## آزادی رسانه و نهادسازی مطبوعاتی
 *5 منبع*
 
 - [Informational Autocrats](../sources/1108-informational-autocrats.fa.md) (2019)
@@ -294,12 +294,12 @@
 - [Televising history: mediating the past in postwar Europe](../sources/0518-televising-history-mediating-the-past-in-postwar-europe.fa.md) (2010)
 - [El poder de contar y el paraíso perdido. Polémicas mediáticas y construcción colectiva de la memoria en España](../sources/0449-el-poder-de-contar-y-el-paraíso-perdido-polémicas-mediáticas-y-construcción-cole.fa.md) (1970)
 
-## Minority rights
+## حقوق اقلیت‌ها
 *1 منبع*
 
 - [Between integration and secession: the Muslim communities of the southern Philippines, southern Thailand, and western Burma/Myanmar](../sources/1126-between-integration-and-secession-the-muslim-communities-of-the-southern-philipp.fa.md) (2003)
 
-## Political party formation and pluralism
+## شکل‌گیری احزاب سیاسی و تکثرگرایی
 *17 منبع*
 
 - [Problem Solving Effectiveness and Democratic Accountability in the EU](../sources/0325-problem-solving-effectiveness-and-democratic-accountability-in-the-eu.fa.md) (2003)
@@ -320,23 +320,23 @@
 - [Negative and Positive Integration in the Political Economy of European Welfare States](../sources/0318-negative-and-positive-integration-in-the-political-economy-of-european-welfare-s.fa.md) (1998)
 - [Between West and non-West: Latin American Contributions to International Thought](../sources/0382-between-west-and-non-west-latin-american-contributions-to-international-thought.fa.md) (2012)
 
-## Power-sharing mechanisms during transition periods
+## سازوکارهای تقسیم قدرت در دوره گذار
 *2 منبع*
 
 - [Taming chaos: A foucauldian view of UN peacekeeping, democracy and normalization](../sources/1115-taming-chaos-a-foucauldian-view-of-un-peacekeeping-democracy-and-normalization.fa.md) (2006)
 - [Policy mixes for sustainability transitions: An extended concept and framework for analysis](../sources/1185-policy-mixes-for-sustainability-transitions-an-extended-concept-and-framework-fo.fa.md) (2016)
 
-## Regional foreign policy reorientation
+## بازتعریف سیاست خارجی منطقه‌ای
 *1 منبع*
 
 - [Localización de la actividad manufacturera en Castilla y León. Los dinamismos espaciales inducidos por la industria](../sources/0491-localización-de-la-actividad-manufacturera-en-castilla-y-león-los-dinamismos-esp.fa.md) (2005)
 
-## Religious freedom and separation of religion from state
+## آزادی مذهبی و جدایی دین از حکومت
 *1 منبع*
 
 - [Perspectives on Religious Freedom in Spain](../sources/0369-perspectives-on-religious-freedom-in-spain.fa.md) (2001)
 
-## Resource curse management
+## مدیریت نفرین منابع طبیعی
 *4 منبع*
 
 - [RETRACTED: Legal responses to energy security and sustainability in Nigeria's power sector amidst fossil fuel disruptions and low carbon energy transition](../sources/1162-retracted-legal-responses-to-energy-security-and-sustainability-in-nigerias-powe.fa.md) (2023)
@@ -344,7 +344,7 @@
 - [A global perspective on domestic energy deprivation: Overcoming the energy poverty–fuel poverty binary](../sources/0455-a-global-perspective-on-domestic-energy-deprivation-overcoming-the-energy-povert.fa.md) (2015)
 - [Spanish Colonization and Indian Property in Central Mexico, 1521–1620∗](../sources/1143-spanish-colonization-and-indian-property-in-central-mexico-15211620.fa.md) (1992)
 
-## Trade liberalization and foreign direct investment
+## آزادسازی تجارت و سرمایه‌گذاری خارجی
 *7 منبع*
 
 - [Integrating the Unofficial Economy into the Dynamics of Post-Socialist Economies: A Framework of Analysis and Evidence](../sources/1169-integrating-the-unofficial-economy-into-the-dynamics-of-post-socialist-economies.fa.md) (1996)
@@ -355,7 +355,7 @@
 - [The age of trade: the Manila Galleons and the dawn of the global economy](../sources/1127-the-age-of-trade-the-manila-galleons-and-the-dawn-of-the-global-economy.fa.md) (2015)
 - [The Sale of Juros and the Politics of Reform in the Viceroyalty of Peru, 1608–1695](../sources/1157-the-sale-of-juros-and-the-politics-of-reform-in-the-viceroyalty-of-peru-16081695.fa.md) (1981)
 
-## Transitional justice
+## عدالت انتقالی
 *67 منبع*
 
 - [Constructing the truth, dealing with dissent, domesticating the world: Governance in post-genocide Rwanda](../sources/0324-constructing-the-truth-dealing-with-dissent-domesticating-the-world-governance-i.fa.md) (2010)
@@ -426,7 +426,7 @@
 - [El griego de Toledo: pintor de lo visible y lo invisible](../sources/0485-el-griego-de-toledo-pintor-de-lo-visible-y-lo-invisible.fa.md) (2014)
 - [The Expanding World: Translation, Mobility and Global Futures](../sources/0492-the-expanding-world-translation-mobility-and-global-futures.fa.md) (2014)
 
-## Women's rights codification and gender equality
+## تدوین حقوق زنان و برابری جنسیتی
 *2 منبع*
 
 - [Institutionalising Gender Equality in Spain: From Party Quotas to Electoral Gender Quotas](../sources/0392-institutionalising-gender-equality-in-spain-from-party-quotas-to-electoral-gende.fa.md) (2012)

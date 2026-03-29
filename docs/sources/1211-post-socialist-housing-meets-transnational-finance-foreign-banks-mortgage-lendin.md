@@ -5,8 +5,9 @@
 | **Authors** | Dorothee Böhle |
 | **Year** | 2013 |
 | **Category** | Privatization and state-owned enterprise restructuring |
+| **Secondary Categories** | Banking and financial system reform |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 141 |
 | **Source** | openalex |
 | **DOI** | [10.1080/09692290.2013.801022](https://doi.org/10.1080/09692290.2013.801022) |

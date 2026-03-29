@@ -5,8 +5,8 @@
 | نویسندگان | Elyas Barabadi, Seyyed Ayatollah Razmjoo |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 15 |
 | **شناسه دیجیتال** | [10.18869/acadpub.ijal.18.1.127](https://doi.org/10.18869/acadpub.ijal.18.1.127) |

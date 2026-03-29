@@ -5,8 +5,8 @@
 | نویسندگان | Jonathan Stern, Giacomo Luciani, Shamil Midkhatovich Yenikeyeff |
 |---|---|
 | **سال** | 2006 |
-| **دسته‌بندی** | Resource curse management |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | مدیریت نفرین منابع طبیعی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 5 |
 

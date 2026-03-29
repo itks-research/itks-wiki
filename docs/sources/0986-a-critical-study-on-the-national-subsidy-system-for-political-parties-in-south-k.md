@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | WonYong Cho |
 | **Year** | 2025 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.35901/kjcl.2025.31.4.67](https://doi.org/10.35901/kjcl.2025.31.4.67) |

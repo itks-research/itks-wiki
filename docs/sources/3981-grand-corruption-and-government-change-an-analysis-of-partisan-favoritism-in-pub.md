@@ -6,7 +6,7 @@
 | **Year** | 2019 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 101 |
 | **Source** | openalex |
 | **DOI** | [10.1007/s10610-019-09416-4](https://doi.org/10.1007/s10610-019-09416-4) |

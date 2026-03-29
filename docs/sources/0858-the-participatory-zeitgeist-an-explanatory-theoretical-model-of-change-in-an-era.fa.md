@@ -5,8 +5,8 @@
 | نویسندگان | Victoria Palmer, Wayne Weavell, Rosemary Callander, Donella Piper, Lauralie Richard, Lynne Maher, Hilary Boyd, Helen Herrman, John Furler, Jane Gunn, Rick Iedema, Glenn Robert |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 355 |
 | **شناسه دیجیتال** | [10.1136/medhum-2017-011398](https://doi.org/10.1136/medhum-2017-011398) |

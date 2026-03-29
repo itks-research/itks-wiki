@@ -5,8 +5,8 @@
 | نویسندگان | Carlos Gabriel Arpini, Alice Alves de Oliveira, César Albenes de Mendonça Cruz, Paulo André Stein Messetti |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.54727/cbps.2.2.56](https://doi.org/10.54727/cbps.2.2.56) |

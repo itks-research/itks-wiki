@@ -6,7 +6,7 @@
 | **Year** | 1993 |
 | **Category** | Electoral system design and implementation |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 50 |
 | **Source** | openalex |
 | **DOI** | [10.1353/jod.1993.0028](https://doi.org/10.1353/jod.1993.0028) |

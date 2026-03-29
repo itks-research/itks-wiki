@@ -5,8 +5,8 @@
 | نویسندگان | Jevgeniy Bluwstein, Jens Friis Lund, Kelly Askew, Howard Stein, Christine Noe, Rie Odgaard, Faustin Maganga, Linda Engström |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 111 |
 | **شناسه دیجیتال** | [10.1111/joac.12271](https://doi.org/10.1111/joac.12271) |

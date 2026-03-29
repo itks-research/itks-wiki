@@ -6,7 +6,7 @@
 | **Year** | 2018 |
 | **Category** | Media freedom and press institution building |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.17645/MAC.V6I1.1195](https://doi.org/10.17645/MAC.V6I1.1195) |

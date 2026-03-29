@@ -5,8 +5,8 @@
 | نویسندگان | Amin E. Bakhshipour, Milad Bakhshizadeh, Ulrich Dittmer, Ali Haghighi, Wolfgang Nowak |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 47 |
 | **شناسه دیجیتال** | [10.1061/(asce)wr.1943-5452.0001103](https://doi.org/10.1061/(asce)wr.1943-5452.0001103) |

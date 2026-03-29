@@ -5,8 +5,8 @@
 | نویسندگان | Eni Maryani, Preciosa Alnashava Janitra, Detta Rahmawan |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 5 |
 | **شناسه دیجیتال** | [10.36625/sj.v1i2.19](https://doi.org/10.36625/sj.v1i2.19) |

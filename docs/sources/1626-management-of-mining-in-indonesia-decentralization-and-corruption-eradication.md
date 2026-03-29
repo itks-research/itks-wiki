@@ -5,8 +5,9 @@
 | **Authors** | Jazim Hamidi |
 | **Year** | 2015 |
 | **Category** | Federalism, unitarism, and autonomy models |
+| **Secondary Categories** | Power-sharing mechanisms during transition periods |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 13 |
 | **Source** | openalex |
 

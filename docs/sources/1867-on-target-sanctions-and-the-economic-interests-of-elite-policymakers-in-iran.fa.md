@@ -5,8 +5,8 @@
 | نویسندگان | M. Draca, J. Garred, L. Stickland, Nele Warrinnier |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Sanctions unwinding and international reintegration |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | رفع تحریم‌ها و بازادغام بین‌المللی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 27 |
 | **شناسه دیجیتال** | [10.1093/ej/ueac042](https://doi.org/10.1093/ej/ueac042) |

@@ -5,8 +5,9 @@
 | **Authors** | Maryam Zamanialaei, Molly E. Brown, J. McCarty, J. Fain |
 | **Year** | 2023 |
 | **Category** | Sanctions unwinding and international reintegration |
+| **Secondary Categories** | Trade liberalization and foreign direct investment |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 7 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.3389/fsufs.2022.998235](https://doi.org/10.3389/fsufs.2022.998235) |

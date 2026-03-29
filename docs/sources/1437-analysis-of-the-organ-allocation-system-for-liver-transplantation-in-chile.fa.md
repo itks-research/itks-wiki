@@ -5,8 +5,8 @@
 | نویسندگان | Rodrigo Wolff, L. A. Díaz, Blanca Norero, Álvaro Urzúa, G. Mezzano, R. Humeres, F. Innocenti, Lorena Castro, C. Pavez, Carlos Derosas, Susana Elgueta |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Banking and financial system reform |
-| **مطالعه موردی** | Chile |
+| **دسته‌بندی** | اصلاح نظام بانکی و مالی |
+| **مطالعه موردی** | شیلی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.4067/S0034-98872020001101541](https://doi.org/10.4067/S0034-98872020001101541) |

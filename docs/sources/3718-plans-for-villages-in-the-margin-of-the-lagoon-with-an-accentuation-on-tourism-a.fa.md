@@ -5,8 +5,8 @@
 | نویسندگان | Seyed Mohammad Mousavi Shalheh, Elham Rostami, Seyed Majid Mousavi, Somayeh Shirin Jani |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Internet and digital infrastructure as civic space |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اینترنت و زیرساخت دیجیتال به‌عنوان فضای مدنی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.55121/nc.v4i2.289](https://doi.org/10.55121/nc.v4i2.289) |

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Steven Pike, Stephen J. Page |
 | **Year** | 2013 |
-| **Category** | Transitional justice |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 725 |
 | **Source** | openalex |
 | **DOI** | [10.1016/j.tourman.2013.09.009](https://doi.org/10.1016/j.tourman.2013.09.009) |

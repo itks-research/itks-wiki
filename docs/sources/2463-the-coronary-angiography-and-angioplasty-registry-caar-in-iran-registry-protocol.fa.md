@@ -5,8 +5,8 @@
 | نویسندگان | Mohammad Haji Aghajani, Roxana Sadeghi, M. Mahjoob, Amir Heidari, Fatemeh Omidi, Mohammad Sistanizad, Asma Pourhoseingholi, S. H. Hashemi Nazari, M. Yousefifard, Reza Miri, Niloufar Taherpour |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 5 |
 | **شناسه دیجیتال** | [10.47176/mjiri.38.80](https://doi.org/10.47176/mjiri.38.80) |

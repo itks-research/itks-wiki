@@ -5,8 +5,9 @@
 | **Authors** | Reed L. Wadley, Michael Eilenberg |
 | **Year** | 2005 |
 | **Category** | Federalism, unitarism, and autonomy models |
+| **Secondary Categories** | Cultural heritage preservation during institutional change |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 58 |
 | **Source** | openalex |
 | **DOI** | [10.1080/14442210500074853](https://doi.org/10.1080/14442210500074853) |

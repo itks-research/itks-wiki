@@ -6,7 +6,7 @@
 | **Year** | 2018 |
 | **Category** | Political party formation and pluralism |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **DOI** | [10.22069/ijerr.2018.4147](https://doi.org/10.22069/ijerr.2018.4147) |

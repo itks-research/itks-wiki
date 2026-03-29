@@ -6,7 +6,7 @@
 | **Year** | 2025 |
 | **Category** | Civil-military relations and security sector reform |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1017/s153759272510234x](https://doi.org/10.1017/s153759272510234x) |

@@ -5,8 +5,8 @@
 | نویسندگان | Miriam Marconi, Damiano Sferlazzo, Silvia Becagli, C. Bommarito, Giulia Calzolai, M. Chiari, Alcide di Sarra, Costanza Ghedini, José Luís Gómez-Amo, F. Lucarelli, Daniela Meloni, Francesco Monteleone, S. Nava, Giandomenico Pace, Salvatore Piacentino, Francesco Rugi, Mirko Severi, Rita Traversi, R. Udisti |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Tunisia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | تونس |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 110 |
 | **شناسه دیجیتال** | [10.5194/acp-14-2039-2014](https://doi.org/10.5194/acp-14-2039-2014) |

@@ -5,8 +5,8 @@
 | نویسندگان | Alosius Des Afriando Sinuraya, Zulkifli Oddeng |
 |---|---|
 | **سال** | 2026 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.30648/dun.v10i2.1796](https://doi.org/10.30648/dun.v10i2.1796) |

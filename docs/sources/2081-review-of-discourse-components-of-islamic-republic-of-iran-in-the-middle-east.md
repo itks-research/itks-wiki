@@ -6,7 +6,7 @@
 | **Year** | 2017 |
 | **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 3 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.5539/JPL.V10N5P105](https://doi.org/10.5539/JPL.V10N5P105) |

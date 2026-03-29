@@ -6,7 +6,7 @@
 | **Year** | 2013 |
 | **Category** | Women's rights codification and gender equality |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 38 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://eprints.lse.ac.uk/56357/1/JSRP_Paper3_Post-conflict_traditional_justice_Allen_Macdonald_2013.pdf) |

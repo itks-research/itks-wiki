@@ -5,8 +5,8 @@
 | نویسندگان | Matías Molina-Donoso, J. González-Hernández, C. Delgado, Vicente Cancino, Sebastián Bello-Lepe, María Francisca Alonso-Sánchez, Gonzalo Forno, F. Henríquez, Patricia Lillo, Gada Musa, Patricia Alegría, P. Delano, Noelia Retuerto, Hélène Amieva, A. Slachevsky |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Chile |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | شیلی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 5 |
 | **شناسه دیجیتال** | [10.4067/s0034-98872023001101464](https://doi.org/10.4067/s0034-98872023001101464) |

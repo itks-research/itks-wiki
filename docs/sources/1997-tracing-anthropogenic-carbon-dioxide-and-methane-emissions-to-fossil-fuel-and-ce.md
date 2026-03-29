@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Richard Heede |
 | **Year** | 2013 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Resource curse management |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 776 |
 | **Source** | openalex |
 | **DOI** | [10.1007/s10584-013-0986-y](https://doi.org/10.1007/s10584-013-0986-y) |

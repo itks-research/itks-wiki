@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Lorenzo Compagnucci, Francesca Spigarelli |
 | **Year** | 2020 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 784 |
 | **Source** | openalex |
 | **DOI** | [10.1016/j.techfore.2020.120284](https://doi.org/10.1016/j.techfore.2020.120284) |

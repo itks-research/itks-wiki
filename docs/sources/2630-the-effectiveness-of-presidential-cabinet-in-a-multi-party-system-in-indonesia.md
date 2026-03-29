@@ -6,7 +6,7 @@
 | **Year** | 2020 |
 | **Category** | Political party formation and pluralism |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 4 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.46827/EJPSS.V4I1.904](https://doi.org/10.46827/EJPSS.V4I1.904) |

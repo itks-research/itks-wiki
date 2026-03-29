@@ -5,8 +5,8 @@
 | نویسندگان | Diah Ayu Rahmawati, Haryono Haryono, B. Endarto, Indi Nuroini, Hananto Hananto |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Minority rights |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | حقوق اقلیت‌ها |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.58812/wslhr.v3i01.1653](https://doi.org/10.58812/wslhr.v3i01.1653) |

@@ -6,7 +6,7 @@
 | **Year** | 2007 |
 | **Category** | Judicial independence and rule of law |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 190 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://scholarship.law.georgetown.edu/facpub/1902) |

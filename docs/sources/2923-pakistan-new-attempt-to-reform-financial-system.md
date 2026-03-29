@@ -6,7 +6,7 @@
 | **Year** | 2026 |
 | **Category** | Banking and financial system reform |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.20542/0131-2227-2026-70-1-27-35](https://doi.org/10.20542/0131-2227-2026-70-1-27-35) |

@@ -5,8 +5,8 @@
 | نویسندگان | André Krouwel, Nanne Boonstra, Jan Willem Duyvendak, Lex Veldboer |
 |---|---|
 | **سال** | 2006 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 119 |
 | **شناسه دیجیتال** | [10.1177/1012690206075419](https://doi.org/10.1177/1012690206075419) |

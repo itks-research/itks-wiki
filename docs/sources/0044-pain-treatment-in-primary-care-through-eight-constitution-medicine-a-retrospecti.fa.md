@@ -5,8 +5,8 @@
 | نویسندگان | Nahyun Cho, Younkuk Choi, Heekyung Kim, Jeongmin Yun, Hyungsun Jun, Changsop Yang, Sungha Kim, Jungtae Leem |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | South Korea |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | کره جنوبی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.3390/medicina61091564](https://doi.org/10.3390/medicina61091564) |

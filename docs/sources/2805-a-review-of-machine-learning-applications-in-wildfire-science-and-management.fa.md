@@ -5,8 +5,8 @@
 | نویسندگان | Piyush Jain, Sean C.P. Coogan, Sriram Ganapathi Subramanian, Mark Crowley, Steve Taylor, Mike D. Flannigan |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 648 |
 | **شناسه دیجیتال** | [10.1139/er-2020-0019](https://doi.org/10.1139/er-2020-0019) |

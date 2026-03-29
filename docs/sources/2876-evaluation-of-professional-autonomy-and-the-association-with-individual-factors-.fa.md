@@ -5,8 +5,8 @@
 | نویسندگان | SeyedehLeila Dehghani, Mohadeseh Motamed‐Jahromi, Tayebe Jalali, Fatemeh Eshghi, Homa Zaher |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 22 |
 | **شناسه دیجیتال** | [10.18869/acadpub.jnms.2.4.37](https://doi.org/10.18869/acadpub.jnms.2.4.37) |

@@ -5,8 +5,8 @@
 | نویسندگان | Takdir Ali Mukti, Laode Muhammad Fathun, Ali Muhammad, Stivani Ismawira Sinambela, Sugeng Riyanto |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 11 |
 | **شناسه دیجیتال** | [10.18196/jhi.v9i2.8931](https://doi.org/10.18196/jhi.v9i2.8931) |

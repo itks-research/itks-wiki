@@ -5,8 +5,8 @@
 | نویسندگان | S. Chatrchyan, V. Khachatryan, A. M. Sirunyan, A. Tumasyan, W. Adam, T. Bergauer, M. Dragicevic, J. Erö, C. Fabjan, M. Friedl, R. Frühwirth, V. M. Ghete, J. Hammer, S. Hänsel, C. Hartl, M. Hoch, N. Hörmann, J. Hrubec, M. Jeitler, G. Kasieczka, W. Kiesenhofer, M. Krammer, D. Liko, I. Mikulec, M. Pernicka, H. Rohringer, R. Schöfbeck, J. Strauss, F. A. Teischinger, P. Wagner, W. Waltenberger, G. Walzel, E. Widl, C.-E. Wulz, V. Mossolov, N. Shumeiko, J. Suarez Gonzalez, L. Benucci, E. A. De Wolf, X. Janssen, T. Maes, L. Mucibello, S. Ochesanu, B. Roland, R. Rougny, M. Selvaggi, H. Van Haevermaet, P. Van Mechelen, N. Van Remortel, S. Beauceron, F. Blekman, S. Blyweert, J. D’Hondt, O. Devroede, R. Gonzalez Suarez, A. Kalogeropoulos, J. Maes, M. Maes, W. Van Doninck, P. Van Mulders, G. P. Van Onsem, I. Villella, O. Charaf, B. Clerbaux, G. De Lentdecker, V. Dero, A. P. R. Gay, G. H. Hammad, T. Hreus, P. Marage, L. Thomas, C. Vander Velde, P. Vanlaer, J. Wickens, V. Adler, S. Costantini, M. Grünewald, B. Klein, Alexandar D. Marinov, J. Mccartin, D. Ryckbosch, F. Thyssen, M. Tytgat, L. Vanelderen, P. Verwilligen, S. Walsh, N. Zaganidis, S. Başeğmez, G. Bruno, J. Caudron, L. Ceard, E. Cortina, C. Delaere, D. Favart, A. Giammanco, G. Grégoire, J. Hollar, V. Lemaı̂tre, J. Liao, O. Militaru |
 |---|---|
 | **سال** | 2011 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 688 |
 | **شناسه دیجیتال** | [10.1103/physrevc.84.024906](https://doi.org/10.1103/physrevc.84.024906) |

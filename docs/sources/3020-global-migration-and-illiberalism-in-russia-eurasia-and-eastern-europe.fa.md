@@ -5,8 +5,8 @@
 | نویسندگان | Heusala, Anna-Liisa, Aitamurto, Kaarina, Eraliev, Sherzod |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Brain-drain reversal and diaspora economic engagement |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | بازگشت نخبگان و مشارکت اقتصادی دیاسپورا |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.33134/hup-26](https://doi.org/10.33134/hup-26) |

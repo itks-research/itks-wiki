@@ -5,8 +5,8 @@
 | نویسندگان | John Braithwaite, Hilary Charlesworth, Aderito de Jesus Soares |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | Tunisia |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | تونس |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 86 |
 | **شناسه دیجیتال** | [10.22459/ngft.03.2012](https://doi.org/10.22459/ngft.03.2012) |

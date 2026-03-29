@@ -5,8 +5,8 @@
 | نویسندگان | Jun Mashima, Yuichi Kodama, Takehide Kosuge, Takatomo Fujisawa, Toshiaki Katayama, Hideki Nagasaki, Yoshihiro Okuda, Eli Kaminuma, Osamu Ogasawara, Kousaku Okubo, Yasukazu Nakamura, Toshihisa Takagi |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 92 |
 | **شناسه دیجیتال** | [10.1093/nar/gkv1105](https://doi.org/10.1093/nar/gkv1105) |

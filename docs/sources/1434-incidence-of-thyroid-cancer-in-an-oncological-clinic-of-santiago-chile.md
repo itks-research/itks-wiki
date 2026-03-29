@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Jorge Sapunar Z, Pedro Ferrer R |
 | **Year** | 2020 |
-| **Category** | Transitional justice |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 4 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.4067/s0034-98872020000500573](https://doi.org/10.4067/s0034-98872020000500573) |

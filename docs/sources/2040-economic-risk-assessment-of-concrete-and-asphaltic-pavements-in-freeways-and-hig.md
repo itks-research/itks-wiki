@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Hamidreza Abbasianjahromi, Shahryar Aghevli, Mehdi Ravanshadnia |
 | **Year** | 2020 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Banking and financial system reform |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 12 |
 | **Source** | openalex |
 | **DOI** | [10.1016/j.cscm.2020.e00346](https://doi.org/10.1016/j.cscm.2020.e00346) |

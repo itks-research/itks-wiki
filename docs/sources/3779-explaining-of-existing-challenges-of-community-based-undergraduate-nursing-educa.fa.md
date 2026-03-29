@@ -5,8 +5,8 @@
 | نویسندگان | F. Atashzadeh-Shoorideh, Arezoo Zeydani, M. Hosseini, Sima Zohari-Anboohi |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 6 |
 | **شناسه دیجیتال** | [10.1186/s12909-023-04484-x](https://doi.org/10.1186/s12909-023-04484-x) |

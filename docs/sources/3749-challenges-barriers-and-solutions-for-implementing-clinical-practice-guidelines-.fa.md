@@ -5,8 +5,8 @@
 | نویسندگان | Hedayat Salari, Fatemeh Najm, Mohammadreza Yazdankhahfard, Atefeh Esfandiari |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 6 |
 | **شناسه دیجیتال** | [10.1136/bmjoq-2023-002595](https://doi.org/10.1136/bmjoq-2023-002595) |

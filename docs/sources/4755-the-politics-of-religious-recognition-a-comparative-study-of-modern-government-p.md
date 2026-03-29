@@ -6,7 +6,7 @@
 | **Year** | 2025 |
 | **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.38035/jlph.v6i1.2435](https://doi.org/10.38035/jlph.v6i1.2435) |

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Julie Browning |
 | **Year** | 2007 |
-| **Category** | Sanctions unwinding and international reintegration |
+| **Category** | Civil society development |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 22 |
 | **Source** | openalex |
 | **DOI** | [10.5130/tfc.v2i1.597](https://doi.org/10.5130/tfc.v2i1.597) |

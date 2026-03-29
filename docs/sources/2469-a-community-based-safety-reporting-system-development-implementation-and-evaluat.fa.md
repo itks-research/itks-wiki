@@ -5,8 +5,8 @@
 | نویسندگان | H. Sadeghi-Bazargani, Mina Golestani, M. Saadati, B. Samadirad, S. Azami-aghdash, Ali Jafari-Khounigh |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.47176/mjiri.38.14](https://doi.org/10.47176/mjiri.38.14) |

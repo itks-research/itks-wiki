@@ -5,8 +5,8 @@
 | نویسندگان | Anthony N. Celso, D Doering, D Byman, M Knights, M Levitt, T Hegghammer, M Eisenstadt, F Balanche, A Moghadan, W Mccants, P Smyth, A Celso, A Celso, W Mccants, Anderson, A Hemmingsen, I Edgar, M Bassiouni, N Ghabadzeh, S Kbarzadea, Hs, Timoni, A Moghadan, Mws Ryan |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Judicial independence and rule of law |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | استقلال قضایی و حاکمیت قانون |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 4 |
 | **شناسه دیجیتال** | [10.20431/2454-9452.0403004](https://doi.org/10.20431/2454-9452.0403004) |

@@ -6,7 +6,7 @@
 | **Year** | 2020 |
 | **Category** | Nuclear program civilian transition |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 53 |
 | **Source** | openalex |
 | **DOI** | [10.2458/v27i1.23583](https://doi.org/10.2458/v27i1.23583) |

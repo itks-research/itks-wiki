@@ -5,8 +5,8 @@
 | نویسندگان | Sri Yuliyanti, Dea Nur Savinna, Teguh NurFauzi |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.23969/decision.v6i2.24342](https://doi.org/10.23969/decision.v6i2.24342) |

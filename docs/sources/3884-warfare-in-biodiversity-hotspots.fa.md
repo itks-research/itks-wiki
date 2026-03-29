@@ -5,8 +5,8 @@
 | نویسندگان | Thor Hanson, Thomas M. Brooks, Gustavo A. B. da Fonseca, Michael Hoffmann, John F. Lamoreux, Gary E. Machlis, Cristina G. Mittermeier, Russell A. Mittermeier, John D. Pilgrim |
 |---|---|
 | **سال** | 2009 |
-| **دسته‌بندی** | Nuclear program civilian transition |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | انتقال غیرنظامی برنامه هسته‌ای |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 355 |
 | **شناسه دیجیتال** | [10.1111/j.1523-1739.2009.01166.x](https://doi.org/10.1111/j.1523-1739.2009.01166.x) |

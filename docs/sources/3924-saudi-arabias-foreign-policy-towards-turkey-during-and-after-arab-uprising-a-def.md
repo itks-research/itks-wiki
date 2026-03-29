@@ -6,7 +6,7 @@
 | **Year** | 2023 |
 | **Category** | Regional foreign policy reorientation |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 2 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.14746/ps.2022.1.4](https://doi.org/10.14746/ps.2022.1.4) |

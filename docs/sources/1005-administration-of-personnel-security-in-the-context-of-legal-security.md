@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | I. Korzh |
 | **Year** | 2025 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Civil-military relations and security sector reform |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.37750/2616-6798.2025.3(54).340553](https://doi.org/10.37750/2616-6798.2025.3(54).340553) |

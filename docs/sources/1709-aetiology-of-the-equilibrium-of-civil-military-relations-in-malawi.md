@@ -6,7 +6,7 @@
 | **Year** | 2023 |
 | **Category** | Civil-military relations and security sector reform |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 3 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.4236/jss.2023.118026](https://doi.org/10.4236/jss.2023.118026) |

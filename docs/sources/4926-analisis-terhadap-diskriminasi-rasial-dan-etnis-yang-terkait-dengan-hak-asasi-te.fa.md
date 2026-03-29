@@ -5,8 +5,8 @@
 | نویسندگان | Analisis Terhadap, Diskriminasi Rasial, Etnis Yang, Terkait Dengan, Hak Asasi, Terhadap Manusia, F. Fathurrohman |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Minority rights |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | حقوق اقلیت‌ها |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.59581/jrp-widyakarya.v2i3.3429](https://doi.org/10.59581/jrp-widyakarya.v2i3.3429) |

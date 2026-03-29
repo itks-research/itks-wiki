@@ -5,8 +5,8 @@
 | نویسندگان | Ahmad Jafari Samimi, Saeed Karimi Petanlar, GholamReza Keshavarz Haddad, Mohammad Alizadeh |
 |---|---|
 | **سال** | 2010 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 5 |
 | **شناسه دیجیتال** | [10.22059/ier.2010.32702](https://doi.org/10.22059/ier.2010.32702) |

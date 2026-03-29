@@ -5,8 +5,8 @@
 | نویسندگان | Leila Kianfard, Saadat Parhizgar, Ali Musavizadeh, Mohsen Shams |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 3 |
 

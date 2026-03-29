@@ -5,8 +5,8 @@
 | نویسندگان | Morteza Hendijani Fard, Azade Asadi Damavandi, Ali Mahdilouytazehkandi, Meysam Asharin |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Civil society development |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | توسعه جامعه مدنی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 16 |
 | **شناسه دیجیتال** | [10.1108/jima-02-2019-0036](https://doi.org/10.1108/jima-02-2019-0036) |

@@ -5,8 +5,8 @@
 | نویسندگان | Callum M. Roberts, Bethan C. O’Leary, Douglas J. McCauley, Philippe Cury, Carlos M. Duarte, Jane Lubchenco, Daniel Pauly, Andrea Sáenz‐Arroyo, U. Rashid Sumaila, Rod W. Wilson, Boris Worm, Juan Carlos Castilla |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | آزادی مذهبی و جدایی دین از حکومت |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 607 |
 | **شناسه دیجیتال** | [10.1073/pnas.1701262114](https://doi.org/10.1073/pnas.1701262114) |

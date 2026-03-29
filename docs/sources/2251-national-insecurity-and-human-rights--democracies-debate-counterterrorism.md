@@ -6,7 +6,7 @@
 | **Year** | 2007 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 69 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://escholarship.org/uc/item/8z59t0x6) |

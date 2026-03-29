@@ -5,8 +5,8 @@
 | نویسندگان | Tom Ginsburg, Zachary Elkins, Justin Blount |
 |---|---|
 | **سال** | 2009 |
-| **دسته‌بندی** | Constitutional design and drafting processes |
-| **مطالعه موردی** | Spain |
+| **دسته‌بندی** | طراحی و تدوین قانون اساسی |
+| **مطالعه موردی** | اسپانیا |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 329 |
 | **شناسه دیجیتال** | [10.1146/annurev.lawsocsci.4.110707.172247](https://doi.org/10.1146/annurev.lawsocsci.4.110707.172247) |

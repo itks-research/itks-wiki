@@ -6,7 +6,7 @@
 | **Year** | 2026 |
 | **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.30648/dun.v10i2.1796](https://doi.org/10.30648/dun.v10i2.1796) |

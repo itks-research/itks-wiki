@@ -6,7 +6,7 @@
 | **Year** | 2025 |
 | **Category** | Privatization and state-owned enterprise restructuring |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 8 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.13169/worlrevipoliecon.16.1.0026](https://doi.org/10.13169/worlrevipoliecon.16.1.0026) |

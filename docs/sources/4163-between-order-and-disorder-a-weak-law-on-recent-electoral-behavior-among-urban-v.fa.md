@@ -5,8 +5,8 @@
 | نویسندگان | Christian Borghesi, Jean Chiche, Jean‐Pierre Nadal |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 19 |
 | **شناسه دیجیتال** | [10.1371/journal.pone.0039916](https://doi.org/10.1371/journal.pone.0039916) |

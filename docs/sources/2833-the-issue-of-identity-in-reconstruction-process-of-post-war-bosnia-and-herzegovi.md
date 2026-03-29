@@ -6,7 +6,7 @@
 | **Year** | 2006 |
 | **Category** | Federalism, unitarism, and autonomy models |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 0 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/4E/T0053413.pdf) |

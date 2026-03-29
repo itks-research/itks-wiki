@@ -5,8 +5,8 @@
 | نویسندگان | Leonhard Schilbach, Bert Timmermans, Vasudevi Reddy, Alan Costall, Gary Bente, Tobias Schlicht, Kai Vogeley |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1504 |
 | **شناسه دیجیتال** | [10.1017/s0140525x12000660](https://doi.org/10.1017/s0140525x12000660) |

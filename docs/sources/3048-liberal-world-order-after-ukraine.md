@@ -6,7 +6,7 @@
 | **Year** | 2023 |
 | **Category** | Brain-drain reversal and diaspora economic engagement |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 0 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://liberalforum.eu/wp-content/uploads/2023/06/BOURCHIER_ELF_New_European_Security.pdf) |

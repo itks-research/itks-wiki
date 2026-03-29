@@ -6,7 +6,7 @@
 | **Year** | 2017 |
 | **Category** | Constitutional design and drafting processes |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 56 |
 | **Source** | openalex |
 | **DOI** | [10.12987/9780300157734](https://doi.org/10.12987/9780300157734) |

@@ -5,8 +5,8 @@
 | نویسندگان | M. Svoboda, J. Blahova, A. Honzlová, J. Kalinová, P. Macharáčková, J. Rosmus, Vít Mejzlík, Patrik Kúkol, Veronika Vlasáková, K. Mikulková |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 8 |
 | **شناسه دیجیتال** | [10.2754/avb201988030291](https://doi.org/10.2754/avb201988030291) |

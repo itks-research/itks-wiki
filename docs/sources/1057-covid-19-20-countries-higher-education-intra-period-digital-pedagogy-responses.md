@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Joseph Crawford, Kerryn Butler‐Henderson, Jürgen Rudolph, Bashar H. Malkawi, Matt Glowatz, Robert L. Burton, P.A. Magni, Sophia Lam |
 | **Year** | 2020 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1910 |
 | **Source** | openalex |
 | **DOI** | [10.37074/jalt.2020.3.1.7](https://doi.org/10.37074/jalt.2020.3.1.7) |

@@ -5,8 +5,8 @@
 | نویسندگان | Marula Tsagkari, A. Gaona, J. González, Jaakko Järvinen |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | خصوصی‌سازی و بازسازی شرکت‌های دولتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 7 |
 | **شناسه دیجیتال** | [10.2478/environ-2018-0021](https://doi.org/10.2478/environ-2018-0021) |

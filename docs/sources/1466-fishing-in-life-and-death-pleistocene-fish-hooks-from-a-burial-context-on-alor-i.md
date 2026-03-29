@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Sue O’Connor, Mahirta Mahirta, Sofía Samper Carro, Stuart Hawkins, Shimona Kealy, Julien Louys, Rachel Wood |
 | **Year** | 2017 |
-| **Category** | Transitional justice |
-| **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Category** | Cultural heritage preservation during institutional change |
+| **Case Study** | Indonesia |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 96 |
 | **Source** | openalex |
 | **DOI** | [10.15184/aqy.2017.186](https://doi.org/10.15184/aqy.2017.186) |

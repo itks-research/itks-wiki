@@ -5,8 +5,8 @@
 | نویسندگان | Marek Ehrenberger, Petra Koudelková, Wadim Striełkowski |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Labor market reform and social safety nets |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | اصلاح بازار کار و شبکه‌های حمایت اجتماعی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 64 |
 | **شناسه دیجیتال** | [10.3311/ppso.7737](https://doi.org/10.3311/ppso.7737) |

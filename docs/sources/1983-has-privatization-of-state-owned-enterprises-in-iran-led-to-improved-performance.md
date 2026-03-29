@@ -6,7 +6,7 @@
 | **Year** | 2013 |
 | **Category** | Privatization and state-owned enterprise restructuring |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 19 |
 | **Source** | openalex |
 | **DOI** | [10.1108/ijcoma-03-2012-0019](https://doi.org/10.1108/ijcoma-03-2012-0019) |

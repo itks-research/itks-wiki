@@ -5,8 +5,8 @@
 | نویسندگان | A. Heidarzadeh, B. Hedayati, Mehdi Alvandi, M. Rezaei, B. Farrokhi, I. Dadgaran, Mark K. Huntington, Shadrokh Sirous, R. Mirkazemi |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 5 |
 | **شناسه دیجیتال** | [10.47176/mjiri.37.49](https://doi.org/10.47176/mjiri.37.49) |

@@ -5,8 +5,8 @@
 | نویسندگان | Meimanat Hossein Chavoshi, Mohammad Jalal Abbasi‐Shavazi, Peter McDonald |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 7 |
 

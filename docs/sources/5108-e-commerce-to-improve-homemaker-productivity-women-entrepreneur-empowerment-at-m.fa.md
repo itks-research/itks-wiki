@@ -5,8 +5,8 @@
 | نویسندگان | Lucky Nugroho, Nurul Hidayah, Anees Jane Ali, Ahmad Badawi |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 35 |
 | **شناسه دیجیتال** | [10.37680/amalee.v1i01.166](https://doi.org/10.37680/amalee.v1i01.166) |

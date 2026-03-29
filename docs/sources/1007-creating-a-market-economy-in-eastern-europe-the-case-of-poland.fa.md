@@ -5,8 +5,8 @@
 | نویسندگان | David Lipton, Jeffrey D. Sachs, Stanley Fischer, János Kornai |
 |---|---|
 | **سال** | 1990 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | خصوصی‌سازی و بازسازی شرکت‌های دولتی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 804 |
 | **شناسه دیجیتال** | [10.2307/2534526](https://doi.org/10.2307/2534526) |

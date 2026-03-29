@@ -5,8 +5,8 @@
 | نویسندگان | Axel Dreher, Andreas Fuchs, Brad Parks, Austin Strange, Michael J. Tierney |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Trade liberalization and foreign direct investment |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادسازی تجارت و سرمایه‌گذاری خارجی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 384 |
 | **شناسه دیجیتال** | [10.1093/isq/sqx052](https://doi.org/10.1093/isq/sqx052) |

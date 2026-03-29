@@ -5,8 +5,8 @@
 | نویسندگان | Helen Onyeaka, Christian Anumudu, Zainab T. Al‐Sharify, Esther Egele-Godswill, Paul Mbaegbu |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Internet and digital infrastructure as civic space |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اینترنت و زیرساخت دیجیتال به‌عنوان فضای مدنی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 789 |
 | **شناسه دیجیتال** | [10.1177/00368504211019854](https://doi.org/10.1177/00368504211019854) |

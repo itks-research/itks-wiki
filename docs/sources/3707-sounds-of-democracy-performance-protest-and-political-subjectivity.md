@@ -6,7 +6,7 @@
 | **Year** | 2018 |
 | **Category** | Internet and digital infrastructure as civic space |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 111 |
 | **Source** | openalex |
 | **DOI** | [10.14506/ca33.1.01](https://doi.org/10.14506/ca33.1.01) |

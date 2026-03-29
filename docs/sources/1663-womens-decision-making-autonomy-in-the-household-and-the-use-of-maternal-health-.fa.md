@@ -5,8 +5,8 @@
 | نویسندگان | Anissa Rizkianti, Tin Afifah, Ika Saptarini, Mukhammad Fajar Rakhmadi |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 100 |
 | **شناسه دیجیتال** | [10.1016/j.midw.2020.102816](https://doi.org/10.1016/j.midw.2020.102816) |

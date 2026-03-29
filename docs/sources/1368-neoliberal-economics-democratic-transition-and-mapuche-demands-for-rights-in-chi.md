@@ -5,8 +5,9 @@
 | **Authors** | Diane Haughney |
 | **Year** | 2006 |
 | **Category** | Transitional justice |
+| **Secondary Categories** | Political party formation and pluralism, Labor market reform and social safety nets |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 46 |
 | **Source** | openalex |
 

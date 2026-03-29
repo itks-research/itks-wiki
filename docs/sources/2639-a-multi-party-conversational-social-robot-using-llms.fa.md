@@ -5,8 +5,8 @@
 | نویسندگان | Angus Addlesee, Neeraj Cherakara, Nivan Nelson, Daniel Hernández García, Nancie Gunson, Weronika Maria Sieińska, Marta Romeo, C. Dondrup, Oliver Lemon |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Political party formation and pluralism |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | شکل‌گیری احزاب سیاسی و تکثرگرایی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 28 |
 | **شناسه دیجیتال** | [10.1145/3610978.3641112](https://doi.org/10.1145/3610978.3641112) |

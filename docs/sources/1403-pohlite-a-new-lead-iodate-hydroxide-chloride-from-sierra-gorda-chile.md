@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | A. R. Kampf, G. Harlow, Chiu‐Shun Ma |
 | **Year** | 2022 |
-| **Category** | Transitional justice |
+| **Category** | Resource curse management |
 | **Case Study** | Chile |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1180/mgm.2022.123](https://doi.org/10.1180/mgm.2022.123) |

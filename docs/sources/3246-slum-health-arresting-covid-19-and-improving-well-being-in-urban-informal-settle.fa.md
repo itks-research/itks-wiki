@@ -5,8 +5,8 @@
 | نویسندگان | Jason Corburn, David Vlahov, Blessing Mberu, Lee W. Riley, Waleska Teixeira Caiaffa, Sabina Faiz Rashid, Albert I. Ko, Sheela Patel, Smurti Jukur, Eliana Martínez‐Herrera, Saroj Jayasinghe, Siddharth Agarwal, Blaise Nguendo-Yongsi, Jane Weru, Smith Ouma, Kátia Edmundo, Tolu Oni, Hany M. Ayad |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 583 |
 | **شناسه دیجیتال** | [10.1007/s11524-020-00438-6](https://doi.org/10.1007/s11524-020-00438-6) |

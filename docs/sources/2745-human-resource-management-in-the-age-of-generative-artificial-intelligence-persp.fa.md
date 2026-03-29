@@ -5,8 +5,8 @@
 | نویسندگان | Pawan Budhwar, Soumyadeb Chowdhury, Geoffrey Wood, Herman Aguinis, Greg J. Bamber, Jose R. Beltran, Paul Boselie, Fang Lee Cooke, Stephanie Decker, Angelo S. DeNisi, Prasanta Kumar Dey, David Guest, Andrew J. Knoblich, Ashish Malik, Jaap Paauwe, Savvas Papagiannidis, Charmi Patel, Vijay Pereira, Shuang Ren, Steven G. Rogelberg, Mark N. K. Saunders, Rosalie L. Tung, Arup Varma |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 698 |
 | **شناسه دیجیتال** | [10.1111/1748-8583.12524](https://doi.org/10.1111/1748-8583.12524) |

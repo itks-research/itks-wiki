@@ -5,8 +5,8 @@
 | نویسندگان | Viacheslav Dziundziuk, Yevgen V. Kotukh, Olena Krutii, Vitalii Solovykh, Oleksandr A. Kotukov |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.46398/cuestpol.3971.08](https://doi.org/10.46398/cuestpol.3971.08) |

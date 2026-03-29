@@ -5,8 +5,8 @@
 | نویسندگان | Lucky Nugroho, Syed Lutful Kabir Chowdhury |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 33 |
 | **شناسه دیجیتال** | [10.30993/tifbr.v9i1.79](https://doi.org/10.30993/tifbr.v9i1.79) |

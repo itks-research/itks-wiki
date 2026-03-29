@@ -6,7 +6,7 @@
 | **Year** | 2023 |
 | **Category** | Judicial independence and rule of law |
 | **Case Study** | Poland |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 11 |
 | **Source** | openalex |
 | **DOI** | [10.1007/s40803-023-00191-3](https://doi.org/10.1007/s40803-023-00191-3) |

@@ -5,8 +5,9 @@
 | **Authors** | Mohammad Tahan |
 | **Year** | 2019 |
 | **Category** | Sanctions unwinding and international reintegration |
+| **Secondary Categories** | Labor market reform and social safety nets |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 4 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.20944/preprints201911.0201.v1](https://doi.org/10.20944/preprints201911.0201.v1) |

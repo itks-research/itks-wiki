@@ -5,8 +5,8 @@
 | نویسندگان | Matthew K. Nock, Guilherme Borges, E. J. Bromet, C. B., RC Kessler, S. Lee |
 |---|---|
 | **سال** | 2008 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 2813 |
 | **شناسه دیجیتال** | [10.1093/epirev/mxn002](https://doi.org/10.1093/epirev/mxn002) |

@@ -5,8 +5,8 @@
 | نویسندگان | Ammar Sadoun Salman Al-Badry Al-Badry, Haitham Abdullah Dhahi Al-Alwani |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.17656/jlps.10345](https://doi.org/10.17656/jlps.10345) |

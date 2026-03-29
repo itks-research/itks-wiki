@@ -6,7 +6,7 @@
 | **Year** | 2004 |
 | **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 771 |
 | **Source** | openalex |
 | **DOI** | [10.1002/sce.10118](https://doi.org/10.1002/sce.10118) |

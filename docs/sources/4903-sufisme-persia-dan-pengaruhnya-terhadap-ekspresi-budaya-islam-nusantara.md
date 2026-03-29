@@ -6,7 +6,7 @@
 | **Year** | 2016 |
 | **Category** | Minority rights |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 65 |
 | **Source** | openalex |
 | **DOI** | [10.14421/esensia.v17i1.1274](https://doi.org/10.14421/esensia.v17i1.1274) |

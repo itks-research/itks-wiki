@@ -5,8 +5,8 @@
 | نویسندگان | Saeid Zandi, Farnoosh Oghani-Esfahani, Fereshteh Ahmadi, Roqayyeh Sabbaghi-Dehkalani, Sharareh Akhavan |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Minority rights |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | حقوق اقلیت‌ها |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.3390/healthcare13233131](https://doi.org/10.3390/healthcare13233131) |

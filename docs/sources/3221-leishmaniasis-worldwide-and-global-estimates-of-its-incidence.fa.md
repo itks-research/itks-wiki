@@ -5,8 +5,8 @@
 | نویسندگان | Jorge Alvar, Iván Darío Vélez, Caryn Bern, Mercè Herrero, P. Desjeux, Jorge Cano, J Jannin, Margriet den Boer, the WHO Leishmaniasis Control Team |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | Media freedom and press institution building |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | آزادی رسانه و نهادسازی مطبوعاتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 5128 |
 | **شناسه دیجیتال** | [10.1371/journal.pone.0035671](https://doi.org/10.1371/journal.pone.0035671) |

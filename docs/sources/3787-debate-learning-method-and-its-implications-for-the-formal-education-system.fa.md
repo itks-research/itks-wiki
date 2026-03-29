@@ -5,8 +5,8 @@
 | نویسندگان | M. Najafi, zohre motaghi, Hassanali Bakhtiyar Nasrabadi, K. N. Heshi |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Education system reform and curriculum modernization |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | اصلاح نظام آموزشی و نوسازی برنامه درسی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 20 |
 | **شناسه دیجیتال** | [10.5897/ERR2015.2316](https://doi.org/10.5897/ERR2015.2316) |

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Arvid J. Lukauskas, Susan Minushkin |
 | **Year** | 2000 |
-| **Category** | Privatization and state-owned enterprise restructuring |
+| **Category** | Banking and financial system reform |
 | **Case Study** | South Korea |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 50 |
 | **Source** | openalex |
 | **DOI** | [10.1111/0020-8833.00177](https://doi.org/10.1111/0020-8833.00177) |

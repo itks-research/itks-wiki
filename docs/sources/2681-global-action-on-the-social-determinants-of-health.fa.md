@@ -5,8 +5,8 @@
 | نویسندگان | Angela Donkin, Peter Goldblatt, Jessica Allen, Vivienne Nathanson, Michael Marmot |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 304 |
 | **شناسه دیجیتال** | [10.1136/bmjgh-2017-000603](https://doi.org/10.1136/bmjgh-2017-000603) |

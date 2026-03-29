@@ -6,7 +6,7 @@
 | **Year** | 2017 |
 | **Category** | Political party formation and pluralism |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 25 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1016/j.physleta.2018.04.007](https://doi.org/10.1016/j.physleta.2018.04.007) |

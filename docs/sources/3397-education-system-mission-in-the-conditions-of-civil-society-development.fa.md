@@ -5,8 +5,8 @@
 | نویسندگان | Hakimov Nazar Hakimovich, Ruziyeva Rukhsora Khodiyevna, Muhammadiyeva Oynisa Mustafakulovna, Allayarova Solikha Narzulloevna |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Civil society development |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | توسعه جامعه مدنی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 6 |
 | **شناسه دیجیتال** | [10.31838/jcr.07.05.173](https://doi.org/10.31838/jcr.07.05.173) |

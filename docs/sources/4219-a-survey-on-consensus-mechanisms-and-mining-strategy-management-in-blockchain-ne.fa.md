@@ -5,8 +5,8 @@
 | نویسندگان | Wenbo Wang, Dinh Thai Hoang, Peizhao Hu, Zehui Xiong, Dusit Niyato, Ping Wang, Yonggang Wen, Dong In Kim |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 966 |
 | **شناسه دیجیتال** | [10.1109/access.2019.2896108](https://doi.org/10.1109/access.2019.2896108) |

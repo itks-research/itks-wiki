@@ -5,8 +5,8 @@
 | نویسندگان | Ferdinando Bosi, Henrik Skogby, Marco E. Ciriotti, Petr Gadas, Milan Novák, Jan Cempírek, Dalibor Všianský, Jan Filip |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Czech Republic |
+| **دسته‌بندی** | عدالت انتقالی |
+| **مطالعه موردی** | جمهوری چک |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 19 |
 | **شناسه دیجیتال** | [10.1180/minmag.2016.080.067](https://doi.org/10.1180/minmag.2016.080.067) |

@@ -6,7 +6,7 @@
 | **Year** | 2023 |
 | **Category** | Civil-military relations and security sector reform |
 | **Case Study** | Indonesia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 1 |
 | **Source** | openalex |
 | **DOI** | [10.51952/9781529229349.ch003](https://doi.org/10.51952/9781529229349.ch003) |

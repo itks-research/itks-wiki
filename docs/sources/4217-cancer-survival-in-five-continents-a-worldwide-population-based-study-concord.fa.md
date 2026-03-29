@@ -5,8 +5,8 @@
 | نویسندگان | Michel P. Coleman, Manuela Quaresma, Franco Berrino, Jean‐Michel Lutz, Roberta De Angelis, Riccardo Capocaccia, Paolo Baili, Bernard Rachet, Gemma Gatta, Timo Hakulinen, Andrea Micheli, Milena Sant, Hannah K. Weir, Mark Elwood, Hideaki Tsukuma, Sérgio Koifman, Gulnar Azevedo e Silva, Silvia Francisci, Mariano Santaquilani, Arduino Verdecchia, Hans H. Storm, John L. Young |
 |---|---|
 | **سال** | 2008 |
-| **دسته‌بندی** | Electoral system design and implementation |
-| **مطالعه موردی** | Poland |
+| **دسته‌بندی** | طراحی و اجرای نظام انتخاباتی |
+| **مطالعه موردی** | لهستان |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1464 |
 | **شناسه دیجیتال** | [10.1016/s1470-2045(08)70179-7](https://doi.org/10.1016/s1470-2045(08)70179-7) |

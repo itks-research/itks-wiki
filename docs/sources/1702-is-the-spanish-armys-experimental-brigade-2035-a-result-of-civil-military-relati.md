@@ -5,8 +5,8 @@
 | **Authors** | Guillermo López-Rodríguez |
 | **Year** | 2023 |
 | **Category** | Civil-military relations and security sector reform |
-| **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Case Study** | Spain |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.33067/se.1.2023.4](https://doi.org/10.33067/se.1.2023.4) |

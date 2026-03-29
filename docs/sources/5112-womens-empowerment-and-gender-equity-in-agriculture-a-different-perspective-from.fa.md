@@ -5,8 +5,8 @@
 | نویسندگان | Sonia Akter, Pieter Rutsaert, Joyce Luis, Nyo Me Htwe, Su Su San, Budi Raharjo, Arlyna Budi Pustika |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Women's rights codification and gender equality |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | تدوین حقوق زنان و برابری جنسیتی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 335 |
 | **شناسه دیجیتال** | [10.1016/j.foodpol.2017.05.003](https://doi.org/10.1016/j.foodpol.2017.05.003) |

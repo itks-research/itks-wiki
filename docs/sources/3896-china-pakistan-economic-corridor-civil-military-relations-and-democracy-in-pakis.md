@@ -6,7 +6,7 @@
 | **Year** | 2017 |
 | **Category** | Nuclear program civilian transition |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 29 |
 | **Source** | openalex |
 | **DOI** | [10.11588/xarep.00003954](https://doi.org/10.11588/xarep.00003954) |

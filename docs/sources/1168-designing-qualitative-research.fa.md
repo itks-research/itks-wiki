@@ -5,8 +5,8 @@
 | نویسندگان | Shaliha, Farnaz, Mozaffari, Maryam, Ramezani, Faeze, Hajnasiri, Hamideh, Moafi, Farnoosh |
 |---|---|
 | **سال** | 1989 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | روابط نظامی-غیرنظامی و اصلاح بخش امنیتی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 9930 |
 | **شناسه دیجیتال** | [10.5860/choice.27-1232](https://doi.org/10.5860/choice.27-1232) |

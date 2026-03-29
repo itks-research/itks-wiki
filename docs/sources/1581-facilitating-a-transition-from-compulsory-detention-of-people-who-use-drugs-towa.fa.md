@@ -5,8 +5,8 @@
 | نویسندگان | Pascal Tanguay, Adeeba Kamarulzaman, Apinun Aramrattana, Alex Wodak, Nicholas M. Thomson, Robert Ali, Gino Vumbaca, Gloria Lai, Anand Chabungbam |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Labor market reform and social safety nets |
-| **مطالعه موردی** | Indonesia |
+| **دسته‌بندی** | اصلاح بازار کار و شبکه‌های حمایت اجتماعی |
+| **مطالعه موردی** | اندونزی |
 | **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 37 |
 | **شناسه دیجیتال** | [10.1186/s12954-015-0071-0](https://doi.org/10.1186/s12954-015-0071-0) |

@@ -5,8 +5,8 @@
 | نویسندگان | Mohammad Akhoundi, Katrin Kuhls, Arnaud Cannet, Jan Votýpka, Pierre Marty, Pascal Delaunay, Denis Séréno |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Political party formation and pluralism |
-| **مطالعه موردی** | Iran |
+| **دسته‌بندی** | شکل‌گیری احزاب سیاسی و تکثرگرایی |
+| **مطالعه موردی** | ایران |
 | **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 993 |
 | **شناسه دیجیتال** | [10.1371/journal.pntd.0004349](https://doi.org/10.1371/journal.pntd.0004349) |

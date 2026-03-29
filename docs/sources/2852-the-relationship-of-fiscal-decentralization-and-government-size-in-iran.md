@@ -6,7 +6,7 @@
 | **Year** | 2006 |
 | **Category** | Federalism, unitarism, and autonomy models |
 | **Case Study** | Iran |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://doaj.org/article/c22f7618e8624a778f3a3941f93adf1f) |
