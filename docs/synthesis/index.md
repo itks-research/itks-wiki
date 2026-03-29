@@ -5,8 +5,8 @@
 # Synthesis Dashboard
 
 ## System Overview
-- **Sources Ingested:** 5,109 (935 scored, 4,174 in processing queue)
-- **Categories:** 25 research domains
+- **Sources Ingested:** 5,099 (all scored)
+- **Categories:** 31 research domains
 - **Case Studies:** 8 countries (South Korea, Spain, Tunisia, Iran, Czech Republic, Indonesia, Chile, Poland)
 - **Synthesis Articles:** 33 focused articles across 14 themes
 - **Active Directives:** Monitoring coverage gaps
