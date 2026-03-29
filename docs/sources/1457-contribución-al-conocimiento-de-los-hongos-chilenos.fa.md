@@ -5,9 +5,9 @@
 | نویسندگان | Marcial R. Espinosa B. |
 |---|---|
 | **سال** | 1937 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Chile |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.54830/bmnhn.v16.1937.715](https://doi.org/10.54830/bmnhn.v16.1937.715) |
 

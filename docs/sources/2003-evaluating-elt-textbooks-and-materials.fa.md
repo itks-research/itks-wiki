@@ -5,9 +5,9 @@
 | نویسندگان | Linda Sheldon |
 |---|---|
 | **سال** | 1988 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 729 |
 | **شناسه دیجیتال** | [10.1093/elt/42.4.237](https://doi.org/10.1093/elt/42.4.237) |
 

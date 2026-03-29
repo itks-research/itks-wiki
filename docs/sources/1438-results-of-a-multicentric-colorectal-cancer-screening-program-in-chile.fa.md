@@ -5,9 +5,9 @@
 | نویسندگان | F. López-Kostner, A. Zárate, Alejandra Ponce, U. Kronberg, H. Kawachi, T. Okada, M. Tsubaki, Takashi Ito, T. Nishikage, Koji Tanaka, T. Kawano, Y. Eishi, Paulina M Peñaloza, R. Estela, S. Karelovic, S. Flores |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Chile |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 11 |
 | **شناسه دیجیتال** | [10.4067/s0034-98872018000600685](https://doi.org/10.4067/s0034-98872018000600685) |
 

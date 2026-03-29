@@ -5,9 +5,9 @@
 | نویسندگان | Tomáš Frejka |
 |---|---|
 | **سال** | 2008 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 164 |
 | **شناسه دیجیتال** | [10.4054/demres.2008.19.7](https://doi.org/10.4054/demres.2008.19.7) |
 

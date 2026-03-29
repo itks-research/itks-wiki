@@ -5,9 +5,9 @@
 | نویسندگان | R. Sadeghi, Victor Agadjanian |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Women's rights codification and gender equality |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 19 |
 | **شناسه دیجیتال** | [10.1080/10502556.2019.1586228](https://doi.org/10.1080/10502556.2019.1586228) |
 

@@ -5,9 +5,9 @@
 | نویسندگان | Alfred J. Rieber |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 55 |
 | **شناسه دیجیتال** | [10.1017/cbo9781107337794](https://doi.org/10.1017/cbo9781107337794) |
 

@@ -5,9 +5,9 @@
 | نویسندگان | James T. Gire |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 132 |
 | **شناسه دیجیتال** | [10.9707/2307-0919.1120](https://doi.org/10.9707/2307-0919.1120) |
 

@@ -5,9 +5,9 @@
 | نویسندگان | Mohammad Hossein Motaghi Pisheh |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 5 |
 | **شناسه دیجیتال** | [10.5897/ajbm11.1091](https://doi.org/10.5897/ajbm11.1091) |
 
@@ -18,5 +18,10 @@ Iran public organizations have initiated structural reform to enhance productivi
 	 
 
 	Key words: Quality of work life, job stress, job security, decision making, continuance learning, monetary compensation.
+
+## منابع مرتبط
+
+- **روش‌شناسی مشترک** [Reforming the health sector in developing countries: the central role of policy analysis](1765-reforming-the-health-sector-in-developing-countries-the-central-role-of-policy-a.fa.md)
+- **تناقض دارد با** [Public preferences for post 2020 agri-environmental policy in the Czech Republic: A choice experiment approach](0938-public-preferences-for-post-2020-agri-environmental-policy-in-the-czech-republic.fa.md)
 
 </div>

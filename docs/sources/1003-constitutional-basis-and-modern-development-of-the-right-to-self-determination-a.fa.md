@@ -5,9 +5,9 @@
 | نویسندگان | Min-Woo Kim |
 |---|---|
 | **سال** | 2026 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Constitutional design and drafting processes |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.46751/nplak.2026.22.1.103](https://doi.org/10.46751/nplak.2026.22.1.103) |
 

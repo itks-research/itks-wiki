@@ -5,9 +5,9 @@
 | نویسندگان | Mona El-Ghobashy |
 |---|---|
 | **سال** | 2005 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 288 |
 | **شناسه دیجیتال** | [10.1017/s0020743805052128](https://doi.org/10.1017/s0020743805052128) |
 

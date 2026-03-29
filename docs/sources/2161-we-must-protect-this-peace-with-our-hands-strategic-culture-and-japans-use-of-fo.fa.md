@@ -5,9 +5,9 @@
 | نویسندگان | Matthew Brummer, Eitan Oren |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | IRGC economic empire and its dismantling |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 7 |
 | **شناسه دیجیتال** | [10.21140/mcuj.2022sistratcul006](https://doi.org/10.21140/mcuj.2022sistratcul006) |
 

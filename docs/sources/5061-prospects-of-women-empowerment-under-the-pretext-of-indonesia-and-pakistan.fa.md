@@ -7,7 +7,7 @@
 | **سال** | 2022 |
 | **دسته‌بندی** | Women's rights codification and gender equality |
 | **مطالعه موردی** | Indonesia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.20885/ijiis.vol.5.iss1.art2](https://doi.org/10.20885/ijiis.vol.5.iss1.art2) |
 

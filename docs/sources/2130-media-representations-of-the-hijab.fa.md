@@ -5,9 +5,9 @@
 | نویسندگان | Julie Posetti |
 |---|---|
 | **سال** | 2006 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Media freedom and press institution building |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 3 |
 
 ## چکیده

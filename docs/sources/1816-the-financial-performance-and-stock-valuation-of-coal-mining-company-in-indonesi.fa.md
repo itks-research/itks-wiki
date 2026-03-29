@@ -5,9 +5,9 @@
 | نویسندگان | Damarikhsan Rahadian, Erman Sumirat |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Sanctions unwinding and international reintegration |
-| **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **دسته‌بندی** | Banking and financial system reform |
+| **مطالعه موردی** | Indonesia |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.47191/ijcsrr/v5-i12-18](https://doi.org/10.47191/ijcsrr/v5-i12-18) |
 

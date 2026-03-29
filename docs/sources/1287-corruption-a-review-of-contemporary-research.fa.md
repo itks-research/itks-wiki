@@ -7,11 +7,16 @@
 | **سال** | 2001 |
 | **دسته‌بندی** | Civil-military relations and security sector reform |
 | **مطالعه موردی** | Poland |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 205 |
 
 ## چکیده
 
 During the last decade corruption has become a topical issue in the international development policy debate. Research on corruption has also expanded rapidly, taking many different directions both within and across disciplines. This report provides an overview of contemporary research on corruption. The academic focus is on economic approaches, but perspectives from political science and social anthropology are also included. The presentation is mostly non-technical, although a few expositions of more analytically demanding matters are included. Relevance for development policy is the underlying guide for the selection of topics that are included in the study. The report should be useful for development practitioners and foreign aid officials, as well as for students and journalists interested in development issues.
+
+## منابع مرتبط
+
+- **تناقض دارد با** [Democratic control of the military in postcommunist Europe: guarding the guards](1301-democratic-control-of-the-military-in-postcommunist-europe-guarding-the-guards.fa.md)
+- **گسترش می‌دهد** [The political consequences of the product cycle: industrial history and political outcomes](1291-the-political-consequences-of-the-product-cycle-industrial-history-and-political.fa.md)
 
 </div>

@@ -5,9 +5,9 @@
 | نویسندگان | Bekele Shiferaw, Mélinda Smale, Hans‐Joachim Braun, E. Duveiller, Matthew Reynolds, Geoffrey Muricho |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Resource curse management |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1337 |
 | **شناسه دیجیتال** | [10.1007/s12571-013-0263-y](https://doi.org/10.1007/s12571-013-0263-y) |
 

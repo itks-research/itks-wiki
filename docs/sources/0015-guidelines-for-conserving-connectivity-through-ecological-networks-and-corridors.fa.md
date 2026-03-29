@@ -15,4 +15,8 @@
 
 Connectivity conservation is essential for managing healthy ecosystems, conserving biodiversity and adapting to climate change across all biomes and spatial scales. Well-connected ecosystems support a diversity of ecological functions such as migration, hydrology, nutrient cycling, pollination, seed dispersal, food security, climate resilience and disease resistance. These Guidelines are based on the best available science and practice for maintaining, enhancing and restoring ecological connectivity among and between protected areas, other effective areas based conservation measures (OECMs) and other intact ecosystems. For the first time, this publication introduces a common definition and recommends formal recognition of ecological corridors to serve as critical building blocks of ecological networks in conjunction with protected areas and OECMs. Furthermore, these Guidelines also include 25 case studies that demonstrate current approaches to conserving ecological connectivity and ecological networks for different ecosystems and species, and at different spatial and temporal scales.
 
+## منابع مرتبط
+
+- **گسترش می‌دهد** [SoilTemp: A global database of near‐surface temperature](0973-soiltemp-a-global-database-of-nearsurface-temperature.fa.md)
+
 </div>

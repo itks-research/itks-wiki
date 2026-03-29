@@ -5,9 +5,9 @@
 | نویسندگان | Min Ye |
 |---|---|
 | **سال** | 2009 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 37 |
 | **شناسه دیجیتال** | [10.1017/s159824080000672x](https://doi.org/10.1017/s159824080000672x) |
 

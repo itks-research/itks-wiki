@@ -5,9 +5,9 @@
 | نویسندگان | Christopher Hemmer |
 |---|---|
 | **سال** | 2007 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Regional foreign policy reorientation |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 6 |
 | **شناسه دیجیتال** | [10.55540/0031-1723.2379](https://doi.org/10.55540/0031-1723.2379) |
 

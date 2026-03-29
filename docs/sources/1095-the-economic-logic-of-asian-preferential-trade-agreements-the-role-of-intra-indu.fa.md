@@ -5,9 +5,9 @@
 | نویسندگان | Mark S. Manger |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 21 |
 | **شناسه دیجیتال** | [10.1017/s1598240800008894](https://doi.org/10.1017/s1598240800008894) |
 

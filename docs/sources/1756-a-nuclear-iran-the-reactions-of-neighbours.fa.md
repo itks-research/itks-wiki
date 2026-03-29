@@ -5,9 +5,9 @@
 | نویسندگان | Dalia Dassa Kaye, Frederic Wehrey |
 |---|---|
 | **سال** | 2007 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Regional foreign policy reorientation |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 49 |
 | **شناسه دیجیتال** | [10.1080/00396330701437777](https://doi.org/10.1080/00396330701437777) |
 

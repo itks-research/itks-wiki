@@ -160,10 +160,11 @@
 - [Access to Justice and Legal Process: Making Legal Institutions Responsive to Poor People in Ldcs](../sources/0544-access-to-justice-and-legal-process-making-legal-institutions-responsive-to-poor.fa.md) (2003)
 
 ## Labor market reform and social safety nets
-*7 منبع*
+*8 منبع*
 
 - [Between the hammer and the anvil : the trade unions and the 2011 Arab uprisings in Morocco and Tunisia](../sources/0646-between-the-hammer-and-the-anvil--the-trade-unions-and-the-2011-arab-uprisings-i.fa.md) (2018)
 - [Strategies to achieve a carbon neutral society: a review](../sources/0789-strategies-to-achieve-a-carbon-neutral-society-a-review.fa.md) (2022)
+- [Informality](../sources/1330-informality.fa.md) (2007)
 - [The effects of integration and transnational ties on international return migration intentions](../sources/0795-the-effects-of-integration-and-transnational-ties-on-international-return-migrat.fa.md) (2011)
 - [Migrant farmworkers in Southern Italy: ghettoes, caporalato and collective action](../sources/0811-migrant-farmworkers-in-southern-italy-ghettoes-caporalato-and-collective-action.fa.md) (2014)
 - [The Top 1 Percent in International and Historical Perspective](../sources/0641-the-top-1-percent-in-international-and-historical-perspective.fa.md) (2013)
@@ -242,7 +243,7 @@
 - [The New Regionalism Implications for Global development and International Security](../sources/0707-the-new-regionalism-implications-for-global-development-and-international-securi.fa.md) (1994)
 
 ## Religious freedom and separation of religion from state
-*94 منبع*
+*92 منبع*
 
 - [Tax Havens and the Commercialization of State Sovereignty](../sources/0792-tax-havens-and-the-commercialization-of-state-sovereignty.fa.md) (2002)
 - [Rachid Ghannouchi](../sources/0717-rachid-ghannouchi.fa.md) (2001)
@@ -298,9 +299,7 @@
 - [Confrontation and the Reconciliation Process among Islamists after the Arab Spring](../sources/0684-confrontation-and-the-reconciliation-process-among-islamists-after-the-arab-spri.fa.md) (2015)
 - [John Locke’s “Unease”: The Theoretical Foundation of the Modern Separation of Church and State](../sources/0755-john-lockes-unease-the-theoretical-foundation-of-the-modern-separation-of-church.fa.md) (2024)
 - [Separation of Church and State, American Exceptionalism, and the Contemporary Social Moment: Viewing Church–State Separation from the Priority of Slavery](../sources/0762-separation-of-church-and-state-american-exceptionalism-and-the-contemporary-soci.fa.md) (2021)
-- [RELIGIOUS FREEDOM IN THE USA: SEPARATION BETWEEN CHURCH AND STATE](../sources/0764-religious-freedom-in-the-usa-separation-between-church-and-state.fa.md) (2023)
 - [“There’s no separation of Church and state”, a metaphorical analysis of Muslim native speaker teachers’ representations of English language teaching and Islam in Saudi Arabia](../sources/0766-theres-no-separation-of-church-and-state-a-metaphorical-analysis-of-muslim-nativ.fa.md) (2023)
-- [THE SEPARATION OF CHURCH AND STATE IN THE CURRENT PHILIPPINE CONTEXT](../sources/0769-the-separation-of-church-and-state-in-the-current-philippine-context.fa.md) (2022)
 - [Credobaptism and religious policy. Separation of church and state, freedom of religion, and religious tolerance in the writings of the early Baptists](../sources/0779-credobaptism-and-religious-policy-separation-of-church-and-state-freedom-of-reli.fa.md) (2020)
 - [L'islamisme et l'État en Tunisie](../sources/0786-lislamisme-et-létat-en-tunisie.fa.md) (1994)
 - [Challenging the Gates: Religious Freedom and Access in South Africa's Theology Faculties](../sources/0652-challenging-the-gates-religious-freedom-and-access-in-south-africas-theologyfacu.fa.md) (2024)
@@ -347,8 +346,9 @@
 - [Current knowledge and perspectives of Paenibacillus: a review](../sources/0785-current-knowledge-and-perspectives-of-paenibacillus-a-review.fa.md) (2016)
 
 ## Trade liberalization and foreign direct investment
-*3 منبع*
+*4 منبع*
 
+- [Tentative First Steps: An Assessment of the Uruguay Round Agreement on Services](../sources/1080-tentative-first-steps-an-assessment-of-the-uruguay-round-agreement-on-services.fa.md) (1995)
 - [Integration Processes and Policies in Europe](../sources/0552-integration-processes-and-policies-in-europe.fa.md) (2015)
 - [Beyond the Northern Invasion: The Mediterranean in the Seventeenth Century](../sources/0801-beyond-the-northern-invasion-the-mediterranean-in-the-seventeenth-century.fa.md) (2002)
 - [Global Alcohol Markets: Evolving Consumption Patterns, Regulations, and Industrial Organizations](../sources/0806-global-alcohol-markets-evolving-consumption-patterns-regulations-and-industrial-.fa.md) (2018)

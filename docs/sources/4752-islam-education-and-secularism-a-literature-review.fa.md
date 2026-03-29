@@ -7,7 +7,7 @@
 | **سال** | 2024 |
 | **دسته‌بندی** | Religious freedom and separation of religion from state |
 | **مطالعه موردی** | Indonesia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.36667/bestari.v20i2.1536](https://doi.org/10.36667/bestari.v20i2.1536) |
 

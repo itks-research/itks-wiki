@@ -5,9 +5,9 @@
 | نویسندگان | M. A. Espinoza, Nicolás Armijo, T. Abbott, J. Jimenez, C. Balmaceda |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Chile |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.4067/s0034-98872022001101438](https://doi.org/10.4067/s0034-98872022001101438) |
 

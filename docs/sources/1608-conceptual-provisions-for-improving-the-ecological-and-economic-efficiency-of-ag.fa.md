@@ -5,9 +5,9 @@
 | نویسندگان | Y.A. Tsypkin, T.V. Bliznyukova, Anastasia V. Fomina, Ilya Vitalievich Chuksin |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
+| **دسته‌بندی** | Banking and financial system reform |
 | **مطالعه موردی** | Indonesia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.34660/inf.2022.66.75.036](https://doi.org/10.34660/inf.2022.66.75.036) |
 

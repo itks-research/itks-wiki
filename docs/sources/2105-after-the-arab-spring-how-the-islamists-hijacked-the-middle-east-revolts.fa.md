@@ -5,9 +5,9 @@
 | نویسندگان | نامشخص |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 66 |
 | **شناسه دیجیتال** | [10.5860/choice.50-1100](https://doi.org/10.5860/choice.50-1100) |
 

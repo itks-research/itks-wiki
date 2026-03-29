@@ -5,9 +5,9 @@
 | نویسندگان | Jon Roozenbeek, Sander van der Linden, Thomas Nygren |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Transitional justice |
-| **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **دسته‌بندی** | Media freedom and press institution building |
+| **مطالعه موردی** | Poland |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 183 |
 | **شناسه دیجیتال** | [10.37016//mr-2020-008](https://doi.org/10.37016//mr-2020-008) |
 

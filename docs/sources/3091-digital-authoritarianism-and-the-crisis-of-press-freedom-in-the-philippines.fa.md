@@ -7,7 +7,7 @@
 | **سال** | 2025 |
 | **دسته‌بندی** | Media freedom and press institution building |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.36079/lamintang.ij-humass-0801.544](https://doi.org/10.36079/lamintang.ij-humass-0801.544) |
 

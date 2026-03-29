@@ -5,9 +5,9 @@
 | نویسندگان | Ariane M. Tabatabai, Dina Esfandiary |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | IRGC economic empire and its dismantling |
+| **دسته‌بندی** | Regional foreign policy reorientation |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 8 |
 | **شناسه دیجیتال** | [10.1080/0163660x.2017.1370338](https://doi.org/10.1080/0163660x.2017.1370338) |
 

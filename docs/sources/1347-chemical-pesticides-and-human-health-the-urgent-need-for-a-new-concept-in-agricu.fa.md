@@ -5,9 +5,9 @@
 | نویسندگان | P. Nicolopoulou‐Stamati, Sotirios Maipas, Chrysanthi Kotampasi, Panagiotis J. Stamatis, Luc Hens |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Poland |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1813 |
 | **شناسه دیجیتال** | [10.3389/fpubh.2016.00148](https://doi.org/10.3389/fpubh.2016.00148) |
 

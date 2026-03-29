@@ -5,9 +5,9 @@
 | نویسندگان | Viswanath Venkatesh, James Y.L. Thong, Xu Xin |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 2167 |
 | **شناسه دیجیتال** | [10.17705/1jais.00428](https://doi.org/10.17705/1jais.00428) |
 

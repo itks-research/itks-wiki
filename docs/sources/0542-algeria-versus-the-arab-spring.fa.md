@@ -15,4 +15,8 @@
 
 What accounts for continuing authoritarian success in the Arab world today? In light of the “Arab Spring,” explanations of “authoritarian resilience” in the region clearly need to be revised. Consider the example of Algeria, which exemplifies a type of authoritarian resistance to popular challenges that is based on pseudodemocratization, redistributive patronage, and an effective use of the security apparatus. Despite its unsteady mode of authoritarian governance, the Algerian regime currently possesses the means to cope with the difficulties presented by popular uprisings. Yet it cannot survive in its current form for long, given its dwindling legitimacy, its lack of truly institutionalized mechanisms for transferring power, and the intrinsic limits of its system of patronage.
 
+## منابع مرتبط
+
+- **گسترش می‌دهد** [F<scp>amilies</scp>, T<scp>ribes and</scp> C<scp>ities in the</scp> L<scp>ibyan</scp> R<scp>evolution</scp>](0537-fscpamiliesscp-tscpribes-andscp-cscpities-in-thescp-lscpibyanscp-rscpevolutionsc.fa.md)
+
 </div>

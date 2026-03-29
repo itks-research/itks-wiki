@@ -5,9 +5,9 @@
 | نویسندگان | Kenneth Katzman |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | IRGC economic empire and its dismantling |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 4 |
 
 ## چکیده

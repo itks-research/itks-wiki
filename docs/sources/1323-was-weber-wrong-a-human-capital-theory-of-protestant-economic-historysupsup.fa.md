@@ -5,9 +5,9 @@
 | نویسندگان | Sascha O. Becker, Ludger Woessmann |
 |---|---|
 | **سال** | 2009 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | Poland |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 1120 |
 | **شناسه دیجیتال** | [10.1162/qjec.2009.124.2.531](https://doi.org/10.1162/qjec.2009.124.2.531) |
 

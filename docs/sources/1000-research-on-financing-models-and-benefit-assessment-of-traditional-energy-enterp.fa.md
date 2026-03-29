@@ -5,9 +5,9 @@
 | نویسندگان | Zhongwang Zhang |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Banking and financial system reform |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.63808/smp.v1i3.257](https://doi.org/10.63808/smp.v1i3.257) |
 

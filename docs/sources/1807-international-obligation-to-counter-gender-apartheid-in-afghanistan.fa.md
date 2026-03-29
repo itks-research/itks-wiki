@@ -5,9 +5,9 @@
 | نویسندگان | Karima Bennoune |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Sanctions unwinding and international reintegration |
+| **دسته‌بندی** | Women's rights codification and gender equality |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 11 |
 | **شناسه دیجیتال** | [10.31273/fd.n7.2023.1506](https://doi.org/10.31273/fd.n7.2023.1506) |
 

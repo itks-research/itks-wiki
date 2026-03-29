@@ -5,9 +5,9 @@
 | نویسندگان | Richard Pipes |
 |---|---|
 | **سال** | 1974 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Poland |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 431 |
 
 ## چکیده

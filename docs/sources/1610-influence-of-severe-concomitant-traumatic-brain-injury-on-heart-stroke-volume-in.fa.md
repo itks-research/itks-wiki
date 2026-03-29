@@ -5,9 +5,9 @@
 | نویسندگان | H.N. Muhitdinova, G.S. Hamrayeva, В. В. Васильченко |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | Indonesia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.34660/inf.2022.78.97.032](https://doi.org/10.34660/inf.2022.78.97.032) |
 

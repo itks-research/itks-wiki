@@ -5,9 +5,9 @@
 | نویسندگان | Evgeny Morozov |
 |---|---|
 | **سال** | 2009 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
-| **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **دسته‌بندی** | Internet and digital infrastructure as civic space |
+| **مطالعه موردی** | Iran |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 280 |
 | **شناسه دیجیتال** | [10.1353/dss.0.0092](https://doi.org/10.1353/dss.0.0092) |
 

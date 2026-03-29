@@ -5,9 +5,9 @@
 | نویسندگان | Jaimie D Steinmetz, Garland T Culbreth, Teklehaimanot Gereziher Haile, Quinn Rafferty, Justin Lo, Kai Fukutaki, Jessica A Cruz, Amanda Smith, Dan J. Stein, Peter Brooks, Marita Cross, Anthony D. Woolf, Hailey Hagins, Mohsen Abbasi‐Kangevari, Aidin Abedi, Ilana N. Ackerman, Hubert Amu, Benny Antony, Jalal Arabloo, Aleksandr Y. Aravkin, Ayele Mamo, Anton A Artamonov, Tahira Ashraf, Amadou Barrow, Lindsay Bearne, Isabela M. Benseñor, Alemshet Yirga Berhie, Nikha Bhardwaj, Pankaj Bhardwaj, Vijayalakshmi S Bhojaraja, Ali Bijani, Paul Svitil Briant, Andrew M. Briggs, Nadeem Shafique Butt, Jaykaran Charan, Vijay Kumar Chattu, Flavia Cicuttini, Kaleb Coberly, Omid Dadras, Xiaochen Dai, Lalit Dandona, Rakhi Dandona, Katie de Luca, Edgar Denova‐Gutiérrez, Samath Dhamminda Dharmaratne, Meghnath Dhimal, Mostafa Dianatinasab, Karsten E Dreinhoefer, Muhammed Elhadi, Umar Farooque, Hamid Reza Farpour, Irina Filip, Florian Fischer, Marisa Freitas, Balasankar Ganesan, Belete Negese, Tamiru Getachew, Seyyed‐Hadi Ghamari, Ahmad Ghashghaee, Tiffany K. Gill, Mahaveer Golechha, Davide Golinelli, Bhawna Gupta, Veer Bala Gupta, Vivek Gupta, Rasool Haddadi, Nima Hafezi‐Nejad, Rabih Halwani, Samer Hamidi, Asif Hanif, Netanja I. Harlianto, Josep María Haro, Jan Hartvigsen, Simon I Hay, Jeffrey J. Hébert, Golnaz Heidari, Mohammad‐Salar Hosseini, Mehdi Hosseinzadeh, Alexander Kevin Hsiao, Irena Ilić, Milena Ilić, Louis Jacob, Ranil Jayawardena, Ravi Prakash Jha, Jost B. Jonas, Nitin Joseph, Himal Kandel, Ibraheem M. Karaye, Mohammad Jobair Khan, Yun Jin Kim, Ali‐Asghar Kolahi, Oleksii Korzh, Rajasekaran Koteeswaran, Vijay Krishnamoorthy, G Anil Kumar, Narinder Kumar, Sang-woong Lee, Stephen S Lim, Stany W. Lobo, Giancarlo Lucchetti |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1482 |
 | **شناسه دیجیتال** | [10.1016/s2665-9913(23)00163-7](https://doi.org/10.1016/s2665-9913(23)00163-7) |
 

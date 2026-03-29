@@ -5,9 +5,9 @@
 | نویسندگان | William H. Cooper, Mark E. Manyin, Remy Jurenas, Michaela D. Platzer |
 |---|---|
 | **سال** | 2009 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 23 |
 
 ## چکیده

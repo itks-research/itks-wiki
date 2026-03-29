@@ -5,9 +5,9 @@
 | نویسندگان | Marwan M. Kraidy |
 |---|---|
 | **سال** | 2006 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 778 |
 | **شناسه دیجیتال** | [10.26530/oapen_626979](https://doi.org/10.26530/oapen_626979) |
 

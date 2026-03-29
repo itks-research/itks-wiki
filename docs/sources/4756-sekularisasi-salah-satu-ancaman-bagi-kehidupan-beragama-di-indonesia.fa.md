@@ -7,7 +7,7 @@
 | **سال** | 2025 |
 | **دسته‌بندی** | Religious freedom and separation of religion from state |
 | **مطالعه موردی** | Indonesia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.70115/tamaddun.v2i2.244](https://doi.org/10.70115/tamaddun.v2i2.244) |
 

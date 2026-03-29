@@ -5,9 +5,9 @@
 | نویسندگان | Asher Susser |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 44 |
 | **شناسه دیجیتال** | [10.5325/bustan.12.2.0195](https://doi.org/10.5325/bustan.12.2.0195) |
 

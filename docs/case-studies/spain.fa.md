@@ -2,12 +2,16 @@
 
 <div dir="rtl" markdown>
 
-**342 منبع** در 20 دسته‌بندی
+**340 منبع** در 22 دسته‌بندی
 
 ## Banking and financial system reform
-*2 منبع*
+*6 منبع*
 
+- [Fiscal reform in Spain : accomplishments and challenges](../sources/1164-fiscal-reform-in-spain--accomplishments-and-challenges.fa.md) (2007)
+- [New Evidence and Perspectives on Mergers](../sources/1177-new-evidence-and-perspectives-on-mergers.fa.md) (2001)
+- [Credit Supply and Monetary Policy: Identifying the Bank Balance-Sheet Channel with Loan Applications](../sources/1183-credit-supply-and-monetary-policy-identifying-the-bank-balance-sheet-channel-wit.fa.md) (2012)
 - [Implementation of the fiscal compact in the Euro area member states: Expertise on the behalf of the German Council of Economic Experts](../sources/0370-implementation-of-the-fiscal-compact-in-the-euro-area-member-states-expertise-on.fa.md) (2014)
+- [Taxing electricity consumption in Spain: evidence to design the post-Kyoto world](../sources/1184-taxing-electricity-consumption-in-spain-evidence-to-design-the-post-kyoto-world.fa.md) (2016)
 - [ATLAS Tier-3 within IFIC-Valencia analysis facility](../sources/0487-atlas-tier-3-within-ific-valencia-analysis-facility.fa.md) (2012)
 
 ## Civil society development
@@ -19,96 +23,48 @@
 - [The Mexican State and Transmigrant Organizations: Negotiating the Boundaries of Membership and Participation](../sources/0335-the-mexican-state-and-transmigrant-organizations-negotiating-the-boundaries-of-m.fa.md) (2002)
 
 ## Civil-military relations and security sector reform
-*88 منبع*
+*40 منبع*
 
 - [Armed Forces and Democracy: Reforming Civil-Military Relations](../sources/0367-armed-forces-and-democracy-reforming-civil-military-relations.fa.md) (1995)
-- [Designing qualitative research](../sources/1168-designing-qualitative-research.fa.md) (1989)
-- [Contribution of Primary Care to Health Systems and Health](../sources/1166-contribution-of-primary-care-to-health-systems-and-health.fa.md) (2005)
-- [The China Syndrome: Local Labor Market Effects of Import Competition in the United States](../sources/1167-the-china-syndrome-local-labor-market-effects-of-import-competition-in-the-unite.fa.md) (2013)
-- [Socioeconomic Inequalities in Health in 22 European Countries](../sources/1151-socioeconomic-inequalities-in-health-in-22-european-countries.fa.md) (2008)
-- [New Evidence and Perspectives on Mergers](../sources/1177-new-evidence-and-perspectives-on-mergers.fa.md) (2001)
-- [Blockchain technology in the energy sector: A systematic review of challenges and opportunities](../sources/1174-blockchain-technology-in-the-energy-sector-a-systematic-review-of-challenges-and.fa.md) (2018)
-- [Job resources boost work engagement, particularly when job demands are high.](../sources/1187-job-resources-boost-work-engagement-particularly-when-job-demands-are-high.fa.md) (2007)
-- [Food consumption trends and drivers](../sources/1178-food-consumption-trends-and-drivers.fa.md) (2010)
-- [&lt;p&gt;The Danish health care system and epidemiological research: from health care contacts to database records&lt;/p&gt;](../sources/1188-ltpgtthe-danish-health-care-system-and-epidemiological-research-from-health-care.fa.md) (2019)
-- [Policy mixes for sustainability transitions: An extended concept and framework for analysis](../sources/1185-policy-mixes-for-sustainability-transitions-an-extended-concept-and-framework-fo.fa.md) (2016)
-- [Exclusionary vs. Inclusionary Populism: Comparing Contemporary Europe and Latin America](../sources/1182-exclusionary-vs-inclusionary-populism-comparing-contemporary-europe-and-latin-am.fa.md) (2012)
-- [The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade](../sources/1175-the-china-shock-learning-from-labor-market-adjustment-to-large-changes-in-trade.fa.md) (2016)
-- [Measuring vulnerability to natural hazards: towards disaster resilient societies](../sources/1106-measuring-vulnerability-to-natural-hazards-towards-disaster-resilient-societies.fa.md) (2007)
-- [Shaping the Political Arena: Critical Junctures, the Labor Movement and Regime Dynamics in Latin America](../sources/1103-shaping-the-political-arena-critical-junctures-the-labor-movement-and-regime-dyn.fa.md) (1992)
-- [Credit Supply and Monetary Policy: Identifying the Bank Balance-Sheet Channel with Loan Applications](../sources/1183-credit-supply-and-monetary-policy-identifying-the-bank-balance-sheet-channel-wit.fa.md) (2012)
-- [Negations: Essays in Critical Theory](../sources/1107-negations-essays-in-critical-theory.fa.md) (1968)
-- [Hybridity, or the Cultural Logic of Globalization](../sources/1111-hybridity-or-the-cultural-logic-of-globalization.fa.md) (2006)
-- [Research On Degrowth](../sources/1110-research-on-degrowth.fa.md) (2018)
-- [The Retirement Decision in OECD Countries](../sources/1186-the-retirement-decision-in-oecd-countries.fa.md) (1999)
-- [Global health security: the wider lessons from the west African Ebola virus disease epidemic](../sources/1112-global-health-security-the-wider-lessons-from-the-west-african-ebola-virus-disea.fa.md) (2015)
-- [Stigma Management in International Relations: Transgressive Identities, Norms, and Order in International Society](../sources/1105-stigma-management-in-international-relations-transgressive-identities-norms-and-.fa.md) (2014)
-- [The Two Faces of Education in Ethnic Conflict : Towards a Peacebuilding Education for Children](../sources/1104-the-two-faces-of-education-in-ethnic-conflict--towards-a-peacebuilding-education.fa.md) (2000)
-- [Trade Unions in Western Europe since 1945](../sources/1109-trade-unions-in-western-europe-since-1945.fa.md) (2000)
-- [Informational Autocrats](../sources/1108-informational-autocrats.fa.md) (2019)
-- [Emancipatory rural politics: confronting authoritarian populism](../sources/1116-emancipatory-rural-politics-confronting-authoritarian-populism.fa.md) (2017)
-- [Patterns of Empire](../sources/1118-patterns-of-empire.fa.md) (2011)
-- [Democracy with Adjectives: Conceptual Innovation in Comparative Research](../sources/1113-democracy-with-adjectives-conceptual-innovation-in-comparative-research.fa.md) (1997)
-- [Iran: Downside to the "Twitter Revolution"](../sources/1121-iran-downside-to-the-twitter-revolution.fa.md) (2009)
-- [The Worldwide Standard of Living Since 1800](../sources/1119-the-worldwide-standard-of-living-since-1800.fa.md) (2000)
-- [The Privatization of Education: A Political Economy of Global Education Reform](../sources/1125-the-privatization-of-education-a-political-economy-of-global-education-reform.fa.md) (2017)
-- [Global Legal Pluralism](../sources/1117-global-legal-pluralism.fa.md) (2012)
-- [Integrating the Unofficial Economy into the Dynamics of Post-Socialist Economies: A Framework of Analysis and Evidence](../sources/1169-integrating-the-unofficial-economy-into-the-dynamics-of-post-socialist-economies.fa.md) (1996)
-- [The Legacy of Western Overseas Colonialism on Democratic Survival](../sources/1122-the-legacy-of-western-overseas-colonialism-on-democratic-survival.fa.md) (2004)
-- [Democracy from above: Regional Organizations and Democratization](../sources/1114-democracy-from-above-regional-organizations-and-democratization.fa.md) (2005)
-- [Revenge of the Optimum Currency Area](../sources/1179-revenge-of-the-optimum-currency-area.fa.md) (2013)
-- [Authoritarian persistence, democratization theory and the Middle East: An overview and critique](../sources/1120-authoritarian-persistence-democratization-theory-and-the-middle-east-an-overview.fa.md) (2006)
-- [Between integration and secession: the Muslim communities of the southern Philippines, southern Thailand, and western Burma/Myanmar](../sources/1126-between-integration-and-secession-the-muslim-communities-of-the-southern-philipp.fa.md) (2003)
-- [RETRACTED: Legal responses to energy security and sustainability in Nigeria's power sector amidst fossil fuel disruptions and low carbon energy transition](../sources/1162-retracted-legal-responses-to-energy-security-and-sustainability-in-nigerias-powe.fa.md) (2023)
-- [The age of trade: the Manila Galleons and the dawn of the global economy](../sources/1127-the-age-of-trade-the-manila-galleons-and-the-dawn-of-the-global-economy.fa.md) (2015)
-- [The new politics of inequality in Latin America : rethinking participation and representation](../sources/1135-the-new-politics-of-inequality-in-latin-america--rethinking-participation-and-re.fa.md) (1997)
-- [A history of Latin America](../sources/1132-a-history-of-latin-america.fa.md) (1988)
-- [Spain's First Democracy: The Second Republic, 1931-1936.](../sources/1129-spains-first-democracy-the-second-republic-1931-1936.fa.md) (1994)
-- [The Knight and Chivalry.](../sources/1130-the-knight-and-chivalry.fa.md) (1972)
-- [The social transformation of eighteenth-century Cuba](../sources/1128-the-social-transformation-of-eighteenth-century-cuba.fa.md) (2002)
-- [The Franco Regime, 1936–1975](../sources/1137-the-franco-regime-19361975.fa.md) (2011)
-- [The EU police mission in Bosnia and Herzegovina](../sources/1170-the-eu-police-mission-in-bosnia-and-herzegovina.fa.md) (2004)
-- [Bearing Arms for His Majesty](../sources/1133-bearing-arms-for-his-majesty.fa.md) (2002)
-- [Taming chaos: A foucauldian view of UN peacekeeping, democracy and normalization](../sources/1115-taming-chaos-a-foucauldian-view-of-un-peacekeeping-democracy-and-normalization.fa.md) (2006)
-- [A History of Latin America: c.1450 to the Present](../sources/1139-a-history-of-latin-america-c1450-to-the-present.fa.md) (2003)
-- [Bound to Empire: The United States and the Philippines](../sources/1147-bound-to-empire-the-united-states-and-the-philippines.fa.md) (2017)
-- [The Political Economy of Empire in the Early Modern World](../sources/1153-the-political-economy-of-empire-in-the-early-modern-world.fa.md) (2013)
 - [The Military Transition: Democratic Reform of the Armed Forces](../sources/1124-the-military-transition-democratic-reform-of-the-armed-forces.fa.md) (2005)
+- [Energy Policies Beyond IEA Countries: Morocco 2014](../sources/1176-energy-policies-beyond-iea-countries-morocco-2014.fa.md) (2014)
+- [Blockchain technology in the energy sector: A systematic review of challenges and opportunities](../sources/1174-blockchain-technology-in-the-energy-sector-a-systematic-review-of-challenges-and.fa.md) (2018)
+- [Global Legal Pluralism](../sources/1117-global-legal-pluralism.fa.md) (2012)
+- [Democracy from above: Regional Organizations and Democratization](../sources/1114-democracy-from-above-regional-organizations-and-democratization.fa.md) (2005)
+- [Bound to Empire: The United States and the Philippines](../sources/1147-bound-to-empire-the-united-states-and-the-philippines.fa.md) (2017)
 - [The Dynastic State and the Army under Louis XIV: Royal Service and Private Interest 1661–1701](../sources/1134-the-dynastic-state-and-the-army-under-louis-xiv-royal-service-and-private-intere.fa.md) (2002)
-- [Democracy at the Point of Bayonets](../sources/1148-democracy-at-the-point-of-bayonets.fa.md) (2015)
 - [Agricultural Water Allocation under Cyclical Scarcity: The Role of Priority Water Rights](../sources/1165-agricultural-water-allocation-under-cyclical-scarcity-the-role-of-priority-water.fa.md) (2020)
-- [War in the Modern World](../sources/1142-war-in-the-modern-world.fa.md) (2000)
-- [Fiscal reform in Spain : accomplishments and challenges](../sources/1164-fiscal-reform-in-spain--accomplishments-and-challenges.fa.md) (2007)
-- [Spanish Colonization and Indian Property in Central Mexico, 1521–1620∗](../sources/1143-spanish-colonization-and-indian-property-in-central-mexico-15211620.fa.md) (1992)
 - [Charles III of Spain](../sources/1136-charles-iii-of-spain.fa.md) (1990)
 - [New approaches regarding private/public security](../sources/1163-new-approaches-regarding-privatepublic-security.fa.md) (2004)
-- [The Entrepreneurial Reorganization of an Artisan Trade: The Bakers of Buenos Aires, 1770-1820](../sources/1150-the-entrepreneurial-reorganization-of-an-artisan-trade-the-bakers-of-buenos-aire.fa.md) (1980)
-- [Re-thinking Water and Food Security](../sources/1171-re-thinking-water-and-food-security.fa.md) (2010)
-- [A history of Latin America : empires and sequels, 1450-1930](../sources/1146-a-history-of-latin-america--empires-and-sequels-1450-1930.fa.md) (1997)
 - [Decline and Disintegration: National Status Loss and Domestic Conflict in Post-Disaster Spain](../sources/1152-decline-and-disintegration-national-status-loss-and-domestic-conflict-in-post-di.fa.md) (2022)
 - [La administración del Conde-Duque de Olivares y la justicia militar en el ejército de Flandes (1567-1643)](../sources/1156-la-administración-del-conde-duque-de-olivares-y-la-justicia-militar-en-el-ejérci.fa.md) (1993)
-- [The progressive army: US Army command and administration, 1870-1914](../sources/1138-the-progressive-army-us-army-command-and-administration-1870-1914.fa.md) (1999)
-- [Energy Policies Beyond IEA Countries: Morocco 2014](../sources/1176-energy-policies-beyond-iea-countries-morocco-2014.fa.md) (2014)
-- [The Military of Santo Domingo, 1720-1764](../sources/1144-the-military-of-santo-domingo-1720-1764.fa.md) (1993)
-- [Mobilizing for Modern War: The Political Economy of American Warfare, 1865-1919](../sources/1154-mobilizing-for-modern-war-the-political-economy-of-american-warfare-1865-1919.fa.md) (1998)
-- [Seasons of Resistance: Sustainable Agriculture and Food Security in Cuba](../sources/1173-seasons-of-resistance-sustainable-agriculture-and-food-security-in-cuba.fa.md) (2003)
 - [The ‘Lessons’ of Dictatorship: Political Learning and the Military in Chile](../sources/1141-the-lessons-of-dictatorship-political-learning-and-the-military-in-chile.fa.md) (2002)
-- [Priority water rights. Are they useful for improving water-use efficiency at the irrigation district level?](../sources/1172-priority-water-rights-are-they-useful-for-improving-water-use-efficiency-at-the-.fa.md) (2021)
-- [Riot, regeneration and reaction: Spain in the aftermath of the 1898 Disaster](../sources/1149-riot-regeneration-and-reaction-spain-in-the-aftermath-of-the-1898-disaster.fa.md) (1995)
-- [Social Structure of the Túpac Amaru Army in Cuzco, 1780-81*](../sources/1140-social-structure-of-the-túpac-amaru-army-in-cuzco-1780-81.fa.md) (1981)
 - [Civil-Military Relations in Post-Conflict Societies](../sources/1161-civil-military-relations-in-post-conflict-societies.fa.md) (2015)
 - [Bureaucracy and Business in the Spanish Empire, 1759-1804: Failure of a Bourbon Beform in Mexico and Peru](../sources/1159-bureaucracy-and-business-in-the-spanish-empire-1759-1804-failure-of-a-bourbon-be.fa.md) (1981)
-- [Country survey IX: Spain](../sources/1145-country-survey-ix-spain.fa.md) (1997)
 - [For a fistful of pesetas? The political economy of the army in a nonconsolidated democracy: the Second Spanish Republic and Civil War (1931–9)](../sources/1155-for-a-fistful-of-pesetas-the-political-economy-of-the-army-in-a-nonconsolidated-.fa.md) (2019)
-- [The Sale of Juros and the Politics of Reform in the Viceroyalty of Peru, 1608–1695](../sources/1157-the-sale-of-juros-and-the-politics-of-reform-in-the-viceroyalty-of-peru-16081695.fa.md) (1981)
 - [Who Should Rule?: Men of Arms, the Republic of Letters, and the Fall of the Spanish Empire](../sources/1158-who-should-rule-men-of-arms-the-republic-of-letters-and-the-fall-of-the-spanish-.fa.md) (2017)
 - [Energy in Europe: Economics, Policy and Strategy](../sources/1180-energy-in-europe-economics-policy-and-strategy.fa.md) (2008)
 - [The Rise of the Bourbon Military in Peru, 1768–1820](../sources/1160-the-rise-of-the-bourbon-military-in-peru-17681820.fa.md) (2012)
 - [Energy Policy Review: Spain 2015](../sources/1181-energy-policy-review-spain-2015.fa.md) (2015)
-- [Taxing electricity consumption in Spain: evidence to design the post-Kyoto world](../sources/1184-taxing-electricity-consumption-in-spain-evidence-to-design-the-post-kyoto-world.fa.md) (2016)
 - [Spanish Case Study](../sources/1102-spanish-case-study.fa.md) (2000)
-- [U.S. Assistance to Educational Reform in Spain: Soft Power in Exchange to Military Bases](../sources/1123-us-assistance-to-educational-reform-in-spain-soft-power-in-exchange-to-military-.fa.md) (2020)
+- [Is the Spanish Army’s Experimental Brigade 2035 a Result of Civil-military Relations? A Historical Overview (1923–2021)](../sources/1702-is-the-spanish-armys-experimental-brigade-2035-a-result-of-civil-military-relati.fa.md) (2023)
+- [Contribution of Primary Care to Health Systems and Health](../sources/1166-contribution-of-primary-care-to-health-systems-and-health.fa.md) (2005)
+- [Research On Degrowth](../sources/1110-research-on-degrowth.fa.md) (2018)
+- [Global health security: the wider lessons from the west African Ebola virus disease epidemic](../sources/1112-global-health-security-the-wider-lessons-from-the-west-african-ebola-virus-disea.fa.md) (2015)
+- [Stigma Management in International Relations: Transgressive Identities, Norms, and Order in International Society](../sources/1105-stigma-management-in-international-relations-transgressive-identities-norms-and-.fa.md) (2014)
+- [Patterns of Empire](../sources/1118-patterns-of-empire.fa.md) (2011)
+- [The social transformation of eighteenth-century Cuba](../sources/1128-the-social-transformation-of-eighteenth-century-cuba.fa.md) (2002)
+- [The EU police mission in Bosnia and Herzegovina](../sources/1170-the-eu-police-mission-in-bosnia-and-herzegovina.fa.md) (2004)
+- [Bearing Arms for His Majesty](../sources/1133-bearing-arms-for-his-majesty.fa.md) (2002)
+- [The Political Economy of Empire in the Early Modern World](../sources/1153-the-political-economy-of-empire-in-the-early-modern-world.fa.md) (2013)
+- [War in the Modern World](../sources/1142-war-in-the-modern-world.fa.md) (2000)
+- [The progressive army: US Army command and administration, 1870-1914](../sources/1138-the-progressive-army-us-army-command-and-administration-1870-1914.fa.md) (1999)
+- [The Military of Santo Domingo, 1720-1764](../sources/1144-the-military-of-santo-domingo-1720-1764.fa.md) (1993)
+- [Mobilizing for Modern War: The Political Economy of American Warfare, 1865-1919](../sources/1154-mobilizing-for-modern-war-the-political-economy-of-american-warfare-1865-1919.fa.md) (1998)
+- [Social Structure of the Túpac Amaru Army in Cuzco, 1780-81*](../sources/1140-social-structure-of-the-túpac-amaru-army-in-cuzco-1780-81.fa.md) (1981)
+- [Country survey IX: Spain](../sources/1145-country-survey-ix-spain.fa.md) (1997)
 - [Social interaction between civil, military, and mission communities in Spanish colonial Texas during the height of the Bourbon reforms, 1763-1772](../sources/1131-social-interaction-between-civil-military-and-mission-communities-in-spanish-col.fa.md) (1995)
+- [Negations: Essays in Critical Theory](../sources/1107-negations-essays-in-critical-theory.fa.md) (1968)
 
 ## Constitutional design and drafting processes
 *109 منبع*
@@ -224,10 +180,14 @@
 - [A short history of the European Association of Preventive Cardiology (EAPC)](../sources/0385-a-short-history-of-the-european-association-of-preventive-cardiology-eapc.fa.md) (2022)
 
 ## Cultural heritage preservation during institutional change
-*19 منبع*
+*24 منبع*
 
+- [A history of Latin America](../sources/1132-a-history-of-latin-america.fa.md) (1988)
 - [Decolonization is not a metaphor](../sources/0438-decolonization-is-not-a-metaphor.fa.md) (2012)
+- [Measuring vulnerability to natural hazards: towards disaster resilient societies](../sources/1106-measuring-vulnerability-to-natural-hazards-towards-disaster-resilient-societies.fa.md) (2007)
 - [Irrigation and Society in Medieval Valencia](../sources/0424-irrigation-and-society-in-medieval-valencia.fa.md) (1970)
+- [A History of Latin America: c.1450 to the Present](../sources/1139-a-history-of-latin-america-c1450-to-the-present.fa.md) (2003)
+- [A history of Latin America : empires and sequels, 1450-1930](../sources/1146-a-history-of-latin-america--empires-and-sequels-1450-1930.fa.md) (1997)
 - [The Liar and the Bard: David Ingram, William Shakespeare, and The Tempest](../sources/0523-the-liar-and-the-bard-david-ingram-william-shakespeare-and-the-tempest.fa.md) (2002)
 - [Bridging the Early Modern Atlantic World](../sources/0475-bridging-the-early-modern-atlantic-world.fa.md) (2016)
 - [The Chrismon and the Liturgy of Dedication in Romanesque Sculpture](../sources/0488-the-chrismon-and-the-liturgy-of-dedication-in-romanesque-sculpture.fa.md) (2017)
@@ -235,6 +195,7 @@
 - [Heterogeneity and changes in preferences for dying at home: a systematic review](../sources/0522-heterogeneity-and-changes-in-preferences-for-dying-at-home-a-systematic-review.fa.md) (2013)
 - [The Use of Metal Nanoparticles to Produce Yellow, Red and Iridescent Colour, from Bronze Age to Present Times in Lustre Pottery and Glass: Solid State Chemistry, Spectroscopy and Nanostructure](../sources/0483-the-use-of-metal-nanoparticles-to-produce-yellow-red-and-iridescent-colour-from-.fa.md) (2009)
 - [Lustre Pottery: Technique, Tradition and Innovation in Islam and the Western World](../sources/0466-lustre-pottery-technique-tradition-and-innovation-in-islam-and-the-western-world.fa.md) (1985)
+- [The Knight and Chivalry.](../sources/1130-the-knight-and-chivalry.fa.md) (1972)
 - [Benchmarking and quality analysis of DEM generated from high and very high resolution optical stereo satellite data](../sources/0508-benchmarking-and-quality-analysis-of-dem-generated-from-high-and-very-high-resol.fa.md) (2010)
 - [Gold like lustre: Nanometric surface treatment for decoration of glazed ceramics in ancient Islam, Moresque Spain and Renaissance Italy](../sources/0463-gold-like-lustre-nanometric-surface-treatment-for-decoration-of-glazed-ceramics-.fa.md) (2005)
 - [LUSTRE COLOUR AND SHINE FROM THE <i> OLLERIES XIQUES</i> WORKSHOP IN PATERNA (SPAIN), 13TH CENTURY AD: NANOSTRUCTURE, CHEMICAL COMPOSITION AND ANNEALING CONDITIONS*](../sources/0465-lustre-colour-and-shine-from-the-i-olleries-xiquesi-workshop-in-paterna-spain-13.fa.md) (2007)
@@ -247,21 +208,27 @@
 - [Description of a New Species of Neodipara Erd. from Spain (Hym. Chalcidoidea, Pteromalidae)](../sources/0481-description-of-a-new-species-of-neodipara-erd-from-spain-hym-chalcidoidea-pterom.fa.md) (1971)
 
 ## Education system reform and curriculum modernization
-*8 منبع*
+*13 منبع*
 
+- [The Two Faces of Education in Ethnic Conflict : Towards a Peacebuilding Education for Children](../sources/1104-the-two-faces-of-education-in-ethnic-conflict--towards-a-peacebuilding-education.fa.md) (2000)
+- [The Privatization of Education: A Political Economy of Global Education Reform](../sources/1125-the-privatization-of-education-a-political-economy-of-global-education-reform.fa.md) (2017)
+- [Seasons of Resistance: Sustainable Agriculture and Food Security in Cuba](../sources/1173-seasons-of-resistance-sustainable-agriculture-and-food-security-in-cuba.fa.md) (2003)
+- [U.S. Assistance to Educational Reform in Spain: Soft Power in Exchange to Military Bases](../sources/1123-us-assistance-to-educational-reform-in-spain-soft-power-in-exchange-to-military-.fa.md) (2020)
 - [Children in Nature and Society in Spanish and Portuguese School Textbooks from the Transition to Consolidated Democracy between 1965 and 1995](../sources/0307-children-in-nature-and-society-in-spanish-and-portuguese-school-textbooks-from-t.fa.md) (2024)
 - [The wealth of networks: how social production transforms markets and freedom](../sources/0313-the-wealth-of-networks-how-social-production-transforms-markets-and-freedom.fa.md) (2006)
 - [A future for the world's children? A WHO–UNICEF–Lancet Commission](../sources/0532-a-future-for-the-worlds-children-a-whouniceflancet-commission.fa.md) (2020)
 - [Computer‐Mediated Collaborative Learning: Theory and Practice](../sources/0476-computermediated-collaborative-learning-theory-and-practice.fa.md) (1997)
+- [Hybridity, or the Cultural Logic of Globalization](../sources/1111-hybridity-or-the-cultural-logic-of-globalization.fa.md) (2006)
 - [The Spanish Enlightenment Revisited](../sources/0399-the-spanish-enlightenment-revisited.fa.md) (2015)
 - [Transfer of nurse education to universities under a model of person-centred care: A consequence of changes in Spanish society during the democratic transition.](../sources/0291-transfer-of-nurse-education-to-universities-under-a-model-of-person-centred-care.fa.md) (2017)
 - [Poetry, politics, and power](../sources/0486-poetry-politics-and-power.fa.md) (2002)
 - [How young can children reliably and validly self-report their health-related quality of life?: An analysis of 8,591 children across age subgroups with the PedsQL™ 4.0 Generic Core Scales](../sources/0381-how-young-can-children-reliably-and-validly-self-report-their-health-related-qua.fa.md) (2007)
 
 ## Electoral system design and implementation
-*6 منبع*
+*7 منبع*
 
 - [The 2011 General Election in Spain: The Collapse of the Socialist Party](../sources/0421-the-2011-general-election-in-spain-the-collapse-of-the-socialist-party.fa.md) (2012)
+- [Democracy at the Point of Bayonets](../sources/1148-democracy-at-the-point-of-bayonets.fa.md) (2015)
 - [Algeria's pseudo-democratic politics: Lessons for democratization in the Middle East](../sources/0460-algerias-pseudo-democratic-politics-lessons-for-democratization-in-the-middle-ea.fa.md) (2006)
 - [Governing the NGEU in Spain](../sources/0293-governing-the-ngeu-in-spain.fa.md) (2026)
 - [AN Appraisal OF THE African Union AND Democratic Consolidation IN Africa](../sources/0303-an-appraisal-of-the-african-union-and-democratic-consolidation-in-africa.fa.md) (2025)
@@ -294,10 +261,20 @@
 - [A comparative study of Latinisms in court opinions in the United States and Spain](../sources/0400-a-comparative-study-of-latinisms-in-court-opinions-in-the-united-states-and-spai.fa.md) (2010)
 
 ## Labor market reform and social safety nets
-*6 منبع*
+*16 منبع*
 
+- [The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade](../sources/1175-the-china-shock-learning-from-labor-market-adjustment-to-large-changes-in-trade.fa.md) (2016)
+- [The China Syndrome: Local Labor Market Effects of Import Competition in the United States](../sources/1167-the-china-syndrome-local-labor-market-effects-of-import-competition-in-the-unite.fa.md) (2013)
+- [Socioeconomic Inequalities in Health in 22 European Countries](../sources/1151-socioeconomic-inequalities-in-health-in-22-european-countries.fa.md) (2008)
+- [The Retirement Decision in OECD Countries](../sources/1186-the-retirement-decision-in-oecd-countries.fa.md) (1999)
 - [A Long Goodbye to Bismarck? : The Politics of Welfare Reform in Continental Europe](../sources/0323-a-long-goodbye-to-bismarck--the-politics-of-welfare-reform-in-continental-europe.fa.md) (2010)
+- [The Worldwide Standard of Living Since 1800](../sources/1119-the-worldwide-standard-of-living-since-1800.fa.md) (2000)
+- [The Entrepreneurial Reorganization of an Artisan Trade: The Bakers of Buenos Aires, 1770-1820](../sources/1150-the-entrepreneurial-reorganization-of-an-artisan-trade-the-bakers-of-buenos-aire.fa.md) (1980)
 - [A Tale of Oversimplification and Deregulation: The Mainstream Approach to Labour Market Segmentation and Recent Responses to the Crisis in European Countries](../sources/0416-a-tale-of-oversimplification-and-deregulation-the-mainstream-approach-to-labour-.fa.md) (2014)
+- [Priority water rights. Are they useful for improving water-use efficiency at the irrigation district level?](../sources/1172-priority-water-rights-are-they-useful-for-improving-water-use-efficiency-at-the-.fa.md) (2021)
+- [Job resources boost work engagement, particularly when job demands are high.](../sources/1187-job-resources-boost-work-engagement-particularly-when-job-demands-are-high.fa.md) (2007)
+- [Food consumption trends and drivers](../sources/1178-food-consumption-trends-and-drivers.fa.md) (2010)
+- [&lt;p&gt;The Danish health care system and epidemiological research: from health care contacts to database records&lt;/p&gt;](../sources/1188-ltpgtthe-danish-health-care-system-and-epidemiological-research-from-health-care.fa.md) (2019)
 - [Emerging Strategies to Combat ESKAPE Pathogens in the Era of Antimicrobial Resistance: A Review](../sources/0478-emerging-strategies-to-combat-eskape-pathogens-in-the-era-of-antimicrobial-resis.fa.md) (2019)
 - [The Lancet Commission on hypertension: Addressing the global burden of raised blood pressure on current and future generations](../sources/0510-the-lancet-commission-on-hypertension-addressing-the-global-burden-of-raised-blo.fa.md) (2017)
 - [Applicability of cadastral data to support the estimation of water use in private swimming pools](../sources/0520-applicability-of-cadastral-data-to-support-the-estimation-of-water-use-in-privat.fa.md) (2018)
@@ -309,24 +286,45 @@
 - [Language Rights and the Law in the United States and Its Territories](../sources/0366-language-rights-and-the-law-in-the-united-states-and-its-territories.fa.md) (2018)
 
 ## Media freedom and press institution building
-*4 منبع*
+*5 منبع*
 
+- [Informational Autocrats](../sources/1108-informational-autocrats.fa.md) (2019)
 - [Civic Life Online: Learning How Digital Media Can Engage Youth](../sources/0328-civic-life-online-learning-how-digital-media-can-engage-youth.fa.md) (2009)
 - [Mediatization of Politics](../sources/0339-mediatization-of-politics.fa.md) (2014)
 - [Televising history: mediating the past in postwar Europe](../sources/0518-televising-history-mediating-the-past-in-postwar-europe.fa.md) (2010)
 - [El poder de contar y el paraíso perdido. Polémicas mediáticas y construcción colectiva de la memoria en España](../sources/0449-el-poder-de-contar-y-el-paraíso-perdido-polémicas-mediáticas-y-construcción-cole.fa.md) (1970)
 
+## Minority rights
+*1 منبع*
+
+- [Between integration and secession: the Muslim communities of the southern Philippines, southern Thailand, and western Burma/Myanmar](../sources/1126-between-integration-and-secession-the-muslim-communities-of-the-southern-philipp.fa.md) (2003)
+
 ## Political party formation and pluralism
-*8 منبع*
+*17 منبع*
 
 - [Problem Solving Effectiveness and Democratic Accountability in the EU](../sources/0325-problem-solving-effectiveness-and-democratic-accountability-in-the-eu.fa.md) (2003)
 - [Populist Democracies: Post-Authoritarian Greece and Post-Communist Hungary](../sources/0322-populist-democracies-post-authoritarian-greece-and-post-communist-hungary.fa.md) (2013)
+- [Authoritarian persistence, democratization theory and the Middle East: An overview and critique](../sources/1120-authoritarian-persistence-democratization-theory-and-the-middle-east-an-overview.fa.md) (2006)
 - [Social Movements as Constituent Power: The Italian Struggle for the Commons](../sources/0341-social-movements-as-constituent-power-the-italian-struggle-for-the-commons.fa.md) (2013)
 - [Introduction: Democracy, Participation and Grassroots Movements in Contemporary Portugal](../sources/0443-introduction-democracy-participation-and-grassroots-movements-in-contemporary-po.fa.md) (2004)
+- [Exclusionary vs. Inclusionary Populism: Comparing Contemporary Europe and Latin America](../sources/1182-exclusionary-vs-inclusionary-populism-comparing-contemporary-europe-and-latin-am.fa.md) (2012)
+- [Emancipatory rural politics: confronting authoritarian populism](../sources/1116-emancipatory-rural-politics-confronting-authoritarian-populism.fa.md) (2017)
+- [Democracy with Adjectives: Conceptual Innovation in Comparative Research](../sources/1113-democracy-with-adjectives-conceptual-innovation-in-comparative-research.fa.md) (1997)
+- [The Legacy of Western Overseas Colonialism on Democratic Survival](../sources/1122-the-legacy-of-western-overseas-colonialism-on-democratic-survival.fa.md) (2004)
 - [Explaining Government Preferences for Institutional Change in EU Foreign and Security Policy](../sources/0345-explaining-government-preferences-for-institutional-change-in-eu-foreign-and-sec.fa.md) (2004)
+- [The new politics of inequality in Latin America : rethinking participation and representation](../sources/1135-the-new-politics-of-inequality-in-latin-america--rethinking-participation-and-re.fa.md) (1997)
+- [Spain's First Democracy: The Second Republic, 1931-1936.](../sources/1129-spains-first-democracy-the-second-republic-1931-1936.fa.md) (1994)
 - [Islamist moderation in perspective: comparative analysis of the moderation of Islamist and Western communist parties](../sources/0452-islamist-moderation-in-perspective-comparative-analysis-of-the-moderation-of-isl.fa.md) (2012)
+- [The Franco Regime, 1936–1975](../sources/1137-the-franco-regime-19361975.fa.md) (2011)
+- [Riot, regeneration and reaction: Spain in the aftermath of the 1898 Disaster](../sources/1149-riot-regeneration-and-reaction-spain-in-the-aftermath-of-the-1898-disaster.fa.md) (1995)
 - [Negative and Positive Integration in the Political Economy of European Welfare States](../sources/0318-negative-and-positive-integration-in-the-political-economy-of-european-welfare-s.fa.md) (1998)
 - [Between West and non-West: Latin American Contributions to International Thought](../sources/0382-between-west-and-non-west-latin-american-contributions-to-international-thought.fa.md) (2012)
+
+## Power-sharing mechanisms during transition periods
+*2 منبع*
+
+- [Taming chaos: A foucauldian view of UN peacekeeping, democracy and normalization](../sources/1115-taming-chaos-a-foucauldian-view-of-un-peacekeeping-democracy-and-normalization.fa.md) (2006)
+- [Policy mixes for sustainability transitions: An extended concept and framework for analysis](../sources/1185-policy-mixes-for-sustainability-transitions-an-extended-concept-and-framework-fo.fa.md) (2016)
 
 ## Regional foreign policy reorientation
 *1 منبع*
@@ -339,15 +337,23 @@
 - [Perspectives on Religious Freedom in Spain](../sources/0369-perspectives-on-religious-freedom-in-spain.fa.md) (2001)
 
 ## Resource curse management
-*1 منبع*
+*4 منبع*
 
+- [RETRACTED: Legal responses to energy security and sustainability in Nigeria's power sector amidst fossil fuel disruptions and low carbon energy transition](../sources/1162-retracted-legal-responses-to-energy-security-and-sustainability-in-nigerias-powe.fa.md) (2023)
+- [Re-thinking Water and Food Security](../sources/1171-re-thinking-water-and-food-security.fa.md) (2010)
 - [A global perspective on domestic energy deprivation: Overcoming the energy poverty–fuel poverty binary](../sources/0455-a-global-perspective-on-domestic-energy-deprivation-overcoming-the-energy-povert.fa.md) (2015)
+- [Spanish Colonization and Indian Property in Central Mexico, 1521–1620∗](../sources/1143-spanish-colonization-and-indian-property-in-central-mexico-15211620.fa.md) (1992)
 
 ## Trade liberalization and foreign direct investment
-*2 منبع*
+*7 منبع*
 
+- [Integrating the Unofficial Economy into the Dynamics of Post-Socialist Economies: A Framework of Analysis and Evidence](../sources/1169-integrating-the-unofficial-economy-into-the-dynamics-of-post-socialist-economies.fa.md) (1996)
+- [Trade Unions in Western Europe since 1945](../sources/1109-trade-unions-in-western-europe-since-1945.fa.md) (2000)
+- [Revenge of the Optimum Currency Area](../sources/1179-revenge-of-the-optimum-currency-area.fa.md) (2013)
 - [How Far Has the Transition Progressed?](../sources/0340-how-far-has-the-transition-progressed.fa.md) (1996)
 - [The resilience of EU market citizenship](../sources/0331-the-resilience-of-eu-market-citizenship.fa.md) (2010)
+- [The age of trade: the Manila Galleons and the dawn of the global economy](../sources/1127-the-age-of-trade-the-manila-galleons-and-the-dawn-of-the-global-economy.fa.md) (2015)
+- [The Sale of Juros and the Politics of Reform in the Viceroyalty of Peru, 1608–1695](../sources/1157-the-sale-of-juros-and-the-politics-of-reform-in-the-viceroyalty-of-peru-16081695.fa.md) (1981)
 
 ## Transitional justice
 *67 منبع*

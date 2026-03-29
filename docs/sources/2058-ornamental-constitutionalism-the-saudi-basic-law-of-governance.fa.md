@@ -5,9 +5,9 @@
 | نویسندگان | Abdulaziz H. Al-Fahad |
 |---|---|
 | **سال** | 2005 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Constitutional design and drafting processes |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 57 |
 
 ## چکیده

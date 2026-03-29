@@ -15,4 +15,8 @@
 
 Politicizing the Commons (on file with author)(In the Italian context
 
+## منابع مرتبط
+
+- **گسترش می‌دهد** [The Franco Regime, 1936–1975](1137-the-franco-regime-19361975.fa.md)
+
 </div>

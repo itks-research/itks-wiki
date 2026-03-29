@@ -5,9 +5,9 @@
 | نویسندگان | Hossein Aghaie Joobani, Mohammadhossein Daheshvar |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | IRGC economic empire and its dismantling |
+| **دسته‌بندی** | Sanctions unwinding and international reintegration |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.29311/nmes.v10i1.3615](https://doi.org/10.29311/nmes.v10i1.3615) |
 

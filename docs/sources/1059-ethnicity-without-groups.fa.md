@@ -5,9 +5,9 @@
 | نویسندگان | Rogers Brubaker |
 |---|---|
 | **سال** | 2002 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 2572 |
 | **شناسه دیجیتال** | [10.1017/s0003975602001066](https://doi.org/10.1017/s0003975602001066) |
 

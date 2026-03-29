@@ -5,9 +5,9 @@
 | نویسندگان | Kenneth D. Bush, Diana Saltarelli |
 |---|---|
 | **سال** | 2000 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 536 |
 
 ## چکیده

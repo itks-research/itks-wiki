@@ -5,9 +5,9 @@
 | نویسندگان | Francisca González Cohens, Felipe Vera Cid, Rosa Alcayaga Droguett, Fernando González Fuenzalida |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Chile |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 7 |
 | **شناسه دیجیتال** | [10.4067/s0034-98872020000200242](https://doi.org/10.4067/s0034-98872020000200242) |
 

@@ -5,9 +5,9 @@
 | نویسندگان | Michael Baun, K Kouba, Dan Marek |
 |---|---|
 | **سال** | 2009 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 6 |
 | **شناسه دیجیتال** | [10.1080/14782800903108734](https://doi.org/10.1080/14782800903108734) |
 

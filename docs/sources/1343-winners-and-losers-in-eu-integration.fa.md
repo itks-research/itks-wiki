@@ -5,9 +5,9 @@
 | نویسندگان | Helena Tang |
 |---|---|
 | **سال** | 2000 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | Poland |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 70 |
 | **شناسه دیجیتال** | [10.1596/0-8213-4427-7](https://doi.org/10.1596/0-8213-4427-7) |
 

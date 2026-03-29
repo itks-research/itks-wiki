@@ -7,7 +7,7 @@
 | **سال** | 2023 |
 | **دسته‌بندی** | Women's rights codification and gender equality |
 | **مطالعه موردی** | Indonesia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.35609/gcbssproceeding.2023.1(3)](https://doi.org/10.35609/gcbssproceeding.2023.1(3)) |
 

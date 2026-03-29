@@ -15,4 +15,10 @@
 
 His research has involved studies of political communication effects, observations of journalistic newsmaking during election campaigns
 
+## منابع مرتبط
+
+- **گسترش می‌دهد** [Televising history: mediating the past in postwar Europe](0518-televising-history-mediating-the-past-in-postwar-europe.fa.md)
+- **گسترش می‌دهد** [El poder de contar y el paraíso perdido. Polémicas mediáticas y construcción colectiva de la memoria en España](0449-el-poder-de-contar-y-el-paraíso-perdido-polémicas-mediáticas-y-construcción-cole.fa.md)
+- **گسترش می‌دهد** [Civic Life Online: Learning How Digital Media Can Engage Youth](0328-civic-life-online-learning-how-digital-media-can-engage-youth.fa.md)
+
 </div>

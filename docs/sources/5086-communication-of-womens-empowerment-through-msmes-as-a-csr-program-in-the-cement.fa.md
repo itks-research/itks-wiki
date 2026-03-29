@@ -7,7 +7,7 @@
 | **سال** | 2025 |
 | **دسته‌بندی** | Women's rights codification and gender equality |
 | **مطالعه موردی** | Indonesia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.31893/multiscience.2025369](https://doi.org/10.31893/multiscience.2025369) |
 

@@ -5,9 +5,9 @@
 | نویسندگان | Nergis Ertürk |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.5325/complitstudies.61.4.0567](https://doi.org/10.5325/complitstudies.61.4.0567) |
 

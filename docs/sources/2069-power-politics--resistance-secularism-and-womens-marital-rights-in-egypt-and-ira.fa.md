@@ -5,9 +5,9 @@
 | نویسندگان | Samantha Louden-Cooke |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Women's rights codification and gender equality |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.1080/13530194.2023.2185591](https://doi.org/10.1080/13530194.2023.2185591) |
 

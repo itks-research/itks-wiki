@@ -5,9 +5,9 @@
 | نویسندگان | Steven Pike, Stephen J. Page |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Chile |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 725 |
 | **شناسه دیجیتال** | [10.1016/j.tourman.2013.09.009](https://doi.org/10.1016/j.tourman.2013.09.009) |
 

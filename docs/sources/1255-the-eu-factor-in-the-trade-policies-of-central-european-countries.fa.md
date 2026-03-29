@@ -5,9 +5,9 @@
 | نویسندگان | Bartłomiej Kamiński |
 |---|---|
 | **سال** | 1999 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 11 |
 
 ## چکیده

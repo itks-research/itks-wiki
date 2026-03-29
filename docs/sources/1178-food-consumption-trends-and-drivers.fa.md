@@ -5,9 +5,9 @@
 | نویسندگان | John Kearney |
 |---|---|
 | **سال** | 2010 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1955 |
 | **شناسه دیجیتال** | [10.1098/rstb.2010.0149](https://doi.org/10.1098/rstb.2010.0149) |
 

@@ -5,9 +5,9 @@
 | نویسندگان | Deborah Kisatsky |
 |---|---|
 | **سال** | 1999 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Electoral system design and implementation |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 6 |
 | **شناسه دیجیتال** | [10.1080/02684529908432557](https://doi.org/10.1080/02684529908432557) |
 

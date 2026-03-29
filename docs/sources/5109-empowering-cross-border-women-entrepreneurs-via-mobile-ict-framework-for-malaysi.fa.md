@@ -7,7 +7,7 @@
 | **سال** | 2021 |
 | **دسته‌بندی** | Women's rights codification and gender equality |
 | **مطالعه موردی** | Indonesia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 12 |
 | **شناسه دیجیتال** | [10.24200/jonus.vol6iss2pp340-357](https://doi.org/10.24200/jonus.vol6iss2pp340-357) |
 

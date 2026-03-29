@@ -7,7 +7,7 @@
 | **سال** | 2022 |
 | **دسته‌بندی** | Religious freedom and separation of religion from state |
 | **مطالعه موردی** | Indonesia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.31078/consrev811](https://doi.org/10.31078/consrev811) |
 

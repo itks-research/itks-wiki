@@ -5,9 +5,9 @@
 | نویسندگان | Dagoberto Duarte Quapper |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Sanctions unwinding and international reintegration |
 | **مطالعه موردی** | Chile |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.4067/s0034-98872021001101525](https://doi.org/10.4067/s0034-98872021001101525) |
 
@@ -31,5 +31,9 @@ At the country level there was an excess of 8,336 deaths between March and June 
 
 CONCLUSIONS
 The oldest age groups were the most vulnerable in terms of mortality during the COVID-19 pandemic in Chile.
+
+## منابع مرتبط
+
+- **گسترش می‌دهد** [Evaluation of the application of the Czech Republic to be recognised as having a negligible risk of classical scrapie](0926-evaluation-of-the-application-of-the-czech-republic-to-be-recognised-as-having-a.fa.md)
 
 </div>

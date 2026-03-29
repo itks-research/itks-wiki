@@ -5,9 +5,9 @@
 | نویسندگان | H.N. Muhitdinova, G.S. Hamraeva, A.Y. Shomurodov |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Indonesia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.34660/inf.2022.34.62.034](https://doi.org/10.34660/inf.2022.34.62.034) |
 

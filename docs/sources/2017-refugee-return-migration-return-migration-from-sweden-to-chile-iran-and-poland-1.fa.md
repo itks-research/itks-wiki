@@ -5,9 +5,9 @@
 | نویسندگان | Martin Klinthäll |
 |---|---|
 | **سال** | 2007 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Sanctions unwinding and international reintegration |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 47 |
 | **شناسه دیجیتال** | [10.1093/jrs/fem029](https://doi.org/10.1093/jrs/fem029) |
 

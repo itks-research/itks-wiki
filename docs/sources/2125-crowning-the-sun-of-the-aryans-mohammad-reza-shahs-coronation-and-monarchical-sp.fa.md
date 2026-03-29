@@ -5,9 +5,9 @@
 | نویسندگان | Robert Steele |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 6 |
 | **شناسه دیجیتال** | [10.1017/s002074382000121x](https://doi.org/10.1017/s002074382000121x) |
 

@@ -5,9 +5,9 @@
 | نویسندگان | Maurice Schiff |
 |---|---|
 | **سال** | 1999 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 32 |
 | **شناسه دیجیتال** | [10.1596/1813-9450-2044](https://doi.org/10.1596/1813-9450-2044) |
 

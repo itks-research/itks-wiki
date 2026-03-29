@@ -5,9 +5,9 @@
 | نویسندگان | Oleh Kolodiziev, Hanna Telnova, Ihor Krupka, Myroslav Kulchytskyy, Iryna Sochynska-Sybirtseva |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
 | **مطالعه موردی** | Poland |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 9 |
 | **شناسه دیجیتال** | [10.21511/imfi.18(3).2021.15](https://doi.org/10.21511/imfi.18(3).2021.15) |
 

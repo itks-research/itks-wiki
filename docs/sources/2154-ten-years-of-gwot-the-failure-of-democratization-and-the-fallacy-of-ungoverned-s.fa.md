@@ -5,9 +5,9 @@
 | نویسندگان | David A. Oakley, Pat Proctor |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | IRGC economic empire and its dismantling |
+| **دسته‌بندی** | Electoral system design and implementation |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 19 |
 | **شناسه دیجیتال** | [10.5038/1944-0472.5.1.1](https://doi.org/10.5038/1944-0472.5.1.1) |
 

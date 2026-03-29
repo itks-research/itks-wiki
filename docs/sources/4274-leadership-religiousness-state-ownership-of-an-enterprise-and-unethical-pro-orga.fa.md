@@ -7,7 +7,7 @@
 | **سال** | 2021 |
 | **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
 | **مطالعه موردی** | Poland |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 15 |
 | **شناسه دیجیتال** | [10.1371/journal.pone.0251465](https://doi.org/10.1371/journal.pone.0251465) |
 

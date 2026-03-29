@@ -5,9 +5,9 @@
 | نویسندگان | B. Akhmedov, U.Z. Zaydulloev, G.Z. Akhmedova |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Indonesia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.34660/inf.2022.20.93.041](https://doi.org/10.34660/inf.2022.20.93.041) |
 

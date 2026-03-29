@@ -5,9 +5,9 @@
 | نویسندگان | Mojca Pajnik |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | Sanctions unwinding and international reintegration |
-| **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **دسته‌بندی** | Labor market reform and social safety nets |
+| **مطالعه موردی** | Poland |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 2 |
 
 ## چکیده

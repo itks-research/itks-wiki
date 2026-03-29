@@ -5,9 +5,9 @@
 | نویسندگان | Susan Hyde |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
-| **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **دسته‌بندی** | Electoral system design and implementation |
+| **مطالعه موردی** | Indonesia |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 197 |
 | **شناسه دیجیتال** | [10.7298/bvg9-0151](https://doi.org/10.7298/bvg9-0151) |
 

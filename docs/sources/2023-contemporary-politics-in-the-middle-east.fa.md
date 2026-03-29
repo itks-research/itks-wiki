@@ -5,9 +5,9 @@
 | نویسندگان | Beverley Milton‐Edwards |
 |---|---|
 | **سال** | 2000 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Electoral system design and implementation |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 94 |
 
 ## چکیده

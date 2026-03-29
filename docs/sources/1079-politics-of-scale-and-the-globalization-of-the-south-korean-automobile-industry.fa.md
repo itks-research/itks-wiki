@@ -5,9 +5,9 @@
 | نویسندگان | Bae‐Gyoon Park |
 |---|---|
 | **سال** | 2003 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 46 |
 | **شناسه دیجیتال** | [10.1111/j.1944-8287.2003.tb00207.x](https://doi.org/10.1111/j.1944-8287.2003.tb00207.x) |
 

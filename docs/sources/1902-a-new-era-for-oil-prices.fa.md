@@ -5,9 +5,9 @@
 | نویسندگان | John V. Mitchell |
 |---|---|
 | **سال** | 2006 |
-| **دسته‌بندی** | Sanctions unwinding and international reintegration |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 11 |
 
 ## چکیده

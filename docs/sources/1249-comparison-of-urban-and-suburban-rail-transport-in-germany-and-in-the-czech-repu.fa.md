@@ -5,9 +5,9 @@
 | نویسندگان | Daniel Seidenglanz, Filip Chvátal, Kateřina Nedvědová |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Banking and financial system reform |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 10 |
 | **شناسه دیجیتال** | [10.2478/revecp-2014-0009](https://doi.org/10.2478/revecp-2014-0009) |
 

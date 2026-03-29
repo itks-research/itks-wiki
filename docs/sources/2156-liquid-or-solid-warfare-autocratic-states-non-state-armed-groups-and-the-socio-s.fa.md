@@ -5,9 +5,9 @@
 | نویسندگان | Max M. Mutschler, Marius Bales |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | IRGC economic empire and its dismantling |
+| **دسته‌بندی** | Civil-military relations and security sector reform |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 13 |
 | **شناسه دیجیتال** | [10.1080/14650045.2023.2165915](https://doi.org/10.1080/14650045.2023.2165915) |
 

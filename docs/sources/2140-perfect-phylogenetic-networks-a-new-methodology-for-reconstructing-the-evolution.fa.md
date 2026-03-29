@@ -5,9 +5,9 @@
 | نویسندگان | Luay Nakhleh, Donald A. Ringe, Tandy Warnow |
 |---|---|
 | **سال** | 2005 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 204 |
 | **شناسه دیجیتال** | [10.1353/lan.2005.0078](https://doi.org/10.1353/lan.2005.0078) |
 

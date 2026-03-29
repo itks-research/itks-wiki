@@ -5,9 +5,9 @@
 | نویسندگان | Jonathan Stern, Giacomo Luciani, Shamil Midkhatovich Yenikeyeff |
 |---|---|
 | **سال** | 2006 |
-| **دسته‌بندی** | Sanctions unwinding and international reintegration |
+| **دسته‌بندی** | Resource curse management |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 5 |
 
 ## چکیده

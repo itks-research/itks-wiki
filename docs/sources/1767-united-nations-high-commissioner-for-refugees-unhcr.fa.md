@@ -5,9 +5,9 @@
 | نویسندگان | Rhoda Margesson, Johanna Bockman |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Sanctions unwinding and international reintegration |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1508 |
 | **شناسه دیجیتال** | [10.1163/1570-6664_iyb_sim_org_40277](https://doi.org/10.1163/1570-6664_iyb_sim_org_40277) |
 

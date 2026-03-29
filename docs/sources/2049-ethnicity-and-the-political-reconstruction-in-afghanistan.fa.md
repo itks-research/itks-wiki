@@ -5,9 +5,9 @@
 | نویسندگان | Conrad Schetter |
 |---|---|
 | **سال** | 2003 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
-| **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
+| **مطالعه موردی** | Poland |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 133 |
 
 ## چکیده

@@ -5,9 +5,9 @@
 | نویسندگان | Michael Moritz, Margit Gröger |
 |---|---|
 | **سال** | 2007 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 13 |
 | **شناسه دیجیتال** | [10.1080/08865655.2007.9695677](https://doi.org/10.1080/08865655.2007.9695677) |
 

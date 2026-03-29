@@ -5,9 +5,9 @@
 | نویسندگان | Herbert H. Werlin |
 |---|---|
 | **سال** | 1991 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 14 |
 | **شناسه دیجیتال** | [10.1002/pad.4230110312](https://doi.org/10.1002/pad.4230110312) |
 

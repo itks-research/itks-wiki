@@ -7,7 +7,7 @@
 | **سال** | 2024 |
 | **دسته‌بندی** | Banking and financial system reform |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.1108/imefm-11-2022-0437](https://doi.org/10.1108/imefm-11-2022-0437) |
 
@@ -30,5 +30,20 @@ By investigating the issues and factors that the developers, consultants and ins
 
 Originality/value
 This study pioneers a comprehensive conceptual model, surpassing prior research that focused on isolated criteria. This novel approach enriches understanding of core banking systems' impact on financial transparency. This groundbreaking study uniquely focuses on free-interest institutions, traditionally presumed to be transparent but never before studied.
+
+## منابع مرتبط
+
+- **گسترش می‌دهد** [Public financial management reform: an ongoing journey towards good governance](2217-public-financial-management-reform-an-ongoing-journey-towards-good-governance.fa.md)
+- **گسترش می‌دهد** [A Survey of Blockchain From the Perspectives of Applications, Challenges, and Opportunities](1942-a-survey-of-blockchain-from-the-perspectives-of-applications-challenges-and-oppo.fa.md)
+- **گسترش می‌دهد** [Financial Cybercrime: A Comprehensive Survey of Deep Learning Approaches to Tackle the Evolving Financial Crime Landscape](1887-financial-cybercrime-a-comprehensive-survey-of-deep-learning-approaches-to-tackl.fa.md)
+- **روش‌شناسی مشترک** [The Effect of Corporate Governance Disclosure on Banking Performance: Empirical Evidence from Iran, Saudi Arabia and Malaysia](2956-the-effect-of-corporate-governance-disclosure-on-banking-performance-empirical-e.fa.md)
+- **روش‌شناسی مشترک** [Sustainable supply chain clusters: an integrated framework](1912-sustainable-supply-chain-clusters-an-integrated-framework.fa.md)
+- **گسترش می‌دهد** [Exploring the Digital Business Ecosystem of Internet of Things in Emerging Economies with a focus on the role of pseudo-private companies](1992-exploring-the-digital-business-ecosystem-of-internet-of-things-in-emerging-econo.fa.md)
+- **روش‌شناسی مشترک** [Selection and comparison the most suitable strategy in the public and private banks with BSC approach](1999-selection-and-comparison-the-most-suitable-strategy-in-the-public-and-private-ba.fa.md)
+- **روش‌شناسی مشترک** [Assessing the Systemic Risk in the Financial System of Iran using Granger Causality Network Method](2924-assessing-the-systemic-risk-in-the-financial-system-of-iran-using-granger-causal.fa.md)
+- **روش‌شناسی مشترک** [GREEN CENTRAL BANKING: A NEW ROLE FOR THE CENTRAL BANKS IN THE FINANCIAL SYSTEM](2915-green-central-banking-a-new-role-for-the-central-banks-in-the-financial-system.fa.md)
+- **گسترش می‌دهد** [Debt-Sale Securities as a Monetary Policy Instrument in the Islamic Banking System of Iran](2945-debt-sale-securities-as-a-monetary-policy-instrument-in-the-islamic-banking-syst.fa.md)
+- **روش‌شناسی مشترک** [Presenting an Extended Model of Money Laundering Control According to Factors Related to Transparency in the Banking System of Islamic Republic of Iran (Case study of Melli Bank of Iran)](2949-presenting-an-extended-model-of-money-laundering-control-according-to-factors-re.fa.md)
+- **روش‌شناسی مشترک** [The Effects of the Financial Development on Health (Evidence from Iran and Selected MENA Countries)](2918-the-effects-of-the-financial-development-on-health-evidence-from-iran-and-select.fa.md)
 
 </div>

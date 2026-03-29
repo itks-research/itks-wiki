@@ -5,9 +5,9 @@
 | نویسندگان | Will H. Moore, Stephen M. Shellman |
 |---|---|
 | **سال** | 2007 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 238 |
 | **شناسه دیجیتال** | [10.1111/j.1468-2478.2007.00478.x](https://doi.org/10.1111/j.1468-2478.2007.00478.x) |
 

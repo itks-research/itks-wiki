@@ -5,9 +5,9 @@
 | نویسندگان | I Putu Ngurah Wage Myartawan, Mohammad Adnan Latief, Suharmanto Suharmanto |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | Indonesia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 42 |
 | **شناسه دیجیتال** | [10.15639/teflinjournal.v24i1/63-81](https://doi.org/10.15639/teflinjournal.v24i1/63-81) |
 

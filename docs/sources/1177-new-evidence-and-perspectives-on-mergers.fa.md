@@ -5,9 +5,9 @@
 | نویسندگان | Gregor Andrade, Mark L. Mitchell, Erik Stafford |
 |---|---|
 | **سال** | 2001 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Banking and financial system reform |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 2708 |
 | **شناسه دیجیتال** | [10.1257/jep.15.2.103](https://doi.org/10.1257/jep.15.2.103) |
 

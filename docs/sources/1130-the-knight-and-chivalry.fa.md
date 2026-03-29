@@ -5,9 +5,9 @@
 | نویسندگان | Arthur B. Ferguson, Richard Barber |
 |---|---|
 | **سال** | 1972 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 62 |
 | **شناسه دیجیتال** | [10.2307/1983866](https://doi.org/10.2307/1983866) |
 

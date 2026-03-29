@@ -7,7 +7,7 @@
 | **سال** | 2015 |
 | **دسته‌بندی** | Brain-drain reversal and diaspora economic engagement |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.30827/meahhebreo.v64i0.690](https://doi.org/10.30827/meahhebreo.v64i0.690) |
 

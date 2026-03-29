@@ -15,4 +15,8 @@
 
 Through interviews with local actors, original research in Arabic, French and English, this article revisits the Tunisian revolution of 2010-11 and the ongoing transition with a view to investigate the role of local agency in radical change and protest movements over several decades, something which has been ignored by analysts and academics alike. It argues that the Tunisian General Union of labour (UGTT), the main trade union in the country, founded in the late 1940s under French colonial rule, has had the institutional structures, popular appeal and undeniable record to play a structuring role for protest and resistance to the state for decades. It served as a focal point, not only for the working class but also for society as a whole, impacting the revolutionary process and the ensuing transitional period in significant ways. The article argues that this move goes some way towards explaining what has been described as Tunisia’s particularly promising path in the unfolding Arab revolutions.
 
+## منابع مرتبط
+
+- **گسترش می‌دهد** [Political Transition in Tunisia](0545-political-transition-in-tunisia.fa.md)
+
 </div>

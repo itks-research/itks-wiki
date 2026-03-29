@@ -5,9 +5,9 @@
 | نویسندگان | نامشخص |
 |---|---|
 | **سال** | 2001 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Religious freedom and separation of religion from state |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 42 |
 | **شناسه دیجیتال** | [10.5860/choice.38-4866](https://doi.org/10.5860/choice.38-4866) |
 

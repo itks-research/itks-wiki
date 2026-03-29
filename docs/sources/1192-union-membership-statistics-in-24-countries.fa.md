@@ -5,9 +5,9 @@
 | نویسندگان | Jelle Visser |
 |---|---|
 | **سال** | 2006 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 507 |
 
 ## چکیده

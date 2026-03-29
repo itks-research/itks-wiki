@@ -5,9 +5,9 @@
 | نویسندگان | Richard Baldwin |
 |---|---|
 | **سال** | 1991 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 77 |
 | **شناسه دیجیتال** | [10.7208/chicago/9780226035703.001.0001](https://doi.org/10.7208/chicago/9780226035703.001.0001) |
 

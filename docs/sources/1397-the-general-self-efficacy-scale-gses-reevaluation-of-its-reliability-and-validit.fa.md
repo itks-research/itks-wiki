@@ -5,9 +5,9 @@
 | نویسندگان | M. Clavijo, Felipe Yévenes, Ismael Gallardo, A. Contreras, C. Santos |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | Chile |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 94 |
 | **شناسه دیجیتال** | [10.4067/S0034-98872020001001452](https://doi.org/10.4067/S0034-98872020001001452) |
 
@@ -31,5 +31,9 @@ The scale showed optimal levels of homogeneity and internal consistency. The exp
 
 CONCLUSIONS
 The GSES is an adequate scale to measure general self-efficacy in the Chilean population and allows unbiased comparisons based on sex or age.
+
+## منابع مرتبط
+
+- **تناقض دارد با** [Learner autonomy and English proficiency of Indonesian undergraduate students](1671-learner-autonomy-and-english-proficiency-of-indonesian-undergraduate-students.fa.md)
 
 </div>

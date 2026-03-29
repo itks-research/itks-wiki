@@ -5,9 +5,9 @@
 | نویسندگان | David M. Crowe |
 |---|---|
 | **سال** | 2007 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Poland |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 215 |
 | **شناسه دیجیتال** | [10.1007/978-1-137-10596-7](https://doi.org/10.1007/978-1-137-10596-7) |
 

@@ -7,7 +7,7 @@
 | **سال** | 2024 |
 | **دسته‌بندی** | Civil-military relations and security sector reform |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.1093/psquar/qqae116](https://doi.org/10.1093/psquar/qqae116) |
 

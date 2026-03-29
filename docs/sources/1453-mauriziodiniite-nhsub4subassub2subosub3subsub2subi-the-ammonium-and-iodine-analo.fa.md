@@ -5,9 +5,9 @@
 | نویسندگان | Anthony R. Kampf, Barbara P. Nash, Arturo A. Molina Donoso |
 |---|---|
 | **سال** | 2019 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Chile |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 4 |
 | **شناسه دیجیتال** | [10.1180/mgm.2019.75](https://doi.org/10.1180/mgm.2019.75) |
 

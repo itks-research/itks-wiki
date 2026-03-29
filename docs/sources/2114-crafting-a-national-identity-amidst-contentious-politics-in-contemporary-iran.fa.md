@@ -5,9 +5,9 @@
 | نویسندگان | Farideh Farhi |
 |---|---|
 | **سال** | 2005 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 52 |
 | **شناسه دیجیتال** | [10.1080/0021086042000336519](https://doi.org/10.1080/0021086042000336519) |
 

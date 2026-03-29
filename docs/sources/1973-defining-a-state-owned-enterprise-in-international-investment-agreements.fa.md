@@ -7,7 +7,7 @@
 | **سال** | 2019 |
 | **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 10 |
 | **شناسه دیجیتال** | [10.1093/icsidreview/siz011](https://doi.org/10.1093/icsidreview/siz011) |
 

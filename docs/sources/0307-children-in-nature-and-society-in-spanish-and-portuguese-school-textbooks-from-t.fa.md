@@ -15,4 +15,9 @@
 
 This article deals with visual representations of children in social and natural science primary education textbooks from Spain and Portugal during the final years of dictatorship, transition to democracy, democratic consolidation, and democracy between 1965 and 1995. It explores ways in which children are addressed and made visible in social and natural environments and what kind of relationships with these milieus are established. With reference to processes of social and political reconfiguration of the individual and society, environmental awakening, the strengthening of children's rights, and the transformation of the design, textuality, and knowledge contained in textbooks, it shows how textbooks contribute to the self-perception and identity formation of children. The results reveal an underrepresentation of those for whom the textbooks are intended, a contemplative social representation, and a shortage of natural spaces.
 
+## منابع مرتبط
+
+- **گسترش می‌دهد** [The Privatization of Education: A Political Economy of Global Education Reform](1125-the-privatization-of-education-a-political-economy-of-global-education-reform.fa.md)
+- **گسترش می‌دهد** [Shaping Classrooms, Rebuilding Nations: Comparing U.S. legacy in the Education Sector in Korea and Japan, 1945-1948](0202-shaping-classrooms-rebuilding-nations-comparing-us-legacy-in-the-education-secto.fa.md)
+
 </div>

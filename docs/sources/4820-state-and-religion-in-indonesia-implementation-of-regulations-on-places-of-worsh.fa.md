@@ -7,7 +7,7 @@
 | **سال** | 2023 |
 | **دسته‌بندی** | Religious freedom and separation of religion from state |
 | **مطالعه موردی** | Indonesia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.34306/conferenceseries.v4i2.949](https://doi.org/10.34306/conferenceseries.v4i2.949) |
 

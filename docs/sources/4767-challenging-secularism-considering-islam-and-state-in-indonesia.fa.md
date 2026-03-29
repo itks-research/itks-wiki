@@ -7,7 +7,7 @@
 | **سال** | 2010 |
 | **دسته‌بندی** | Religious freedom and separation of religion from state |
 | **مطالعه موردی** | Indonesia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.21111/tsaqafah.v6i2.125](https://doi.org/10.21111/tsaqafah.v6i2.125) |
 

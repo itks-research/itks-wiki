@@ -5,9 +5,9 @@
 | نویسندگان | Stefan Profit |
 |---|---|
 | **سال** | 1997 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 9 |
 | **شناسه دیجیتال** | [10.18452/3840](https://doi.org/10.18452/3840) |
 

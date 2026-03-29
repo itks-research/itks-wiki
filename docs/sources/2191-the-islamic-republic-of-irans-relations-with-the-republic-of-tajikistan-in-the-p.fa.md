@@ -5,9 +5,9 @@
 | نویسندگان | Brenton Clark |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | IRGC economic empire and its dismantling |
+| **دسته‌بندی** | Regional foreign policy reorientation |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.25911/5d690ab4d906e](https://doi.org/10.25911/5d690ab4d906e) |
 

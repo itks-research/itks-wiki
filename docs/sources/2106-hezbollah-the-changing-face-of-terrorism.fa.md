@@ -5,9 +5,9 @@
 | نویسندگان | Judith Palmer Harik |
 |---|---|
 | **سال** | 2004 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 212 |
 
 ## چکیده

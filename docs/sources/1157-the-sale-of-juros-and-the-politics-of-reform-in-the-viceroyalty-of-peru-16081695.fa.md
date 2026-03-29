@@ -5,9 +5,9 @@
 | نویسندگان | Kenneth J. Andrien |
 |---|---|
 | **سال** | 1981 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 12 |
 | **شناسه دیجیتال** | [10.1017/s0022216x00006143](https://doi.org/10.1017/s0022216x00006143) |
 

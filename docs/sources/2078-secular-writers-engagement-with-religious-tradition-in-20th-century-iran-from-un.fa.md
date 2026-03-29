@@ -7,7 +7,7 @@
 | **سال** | 2021 |
 | **دسته‌بندی** | Religious freedom and separation of religion from state |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.7575/AIAC.IJCLTS.V.9N.1P.11](https://doi.org/10.7575/AIAC.IJCLTS.V.9N.1P.11) |
 

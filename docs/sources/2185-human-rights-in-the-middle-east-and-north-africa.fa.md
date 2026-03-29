@@ -5,9 +5,9 @@
 | نویسندگان | Tiffany Butler, Auric Kaur, Robert Adams, E Ames, Blanka Bots, Lauren Capobianco, Daniel Chrisman, Sasha Hooper, Kristine Krebsbach, Michael F. Land, Ottavia Lezzi, Jacob Morgen, Brandon Song, Skye Tereby |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | IRGC economic empire and its dismantling |
+| **دسته‌بندی** | Women's rights codification and gender equality |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 5 |
 
 ## چکیده

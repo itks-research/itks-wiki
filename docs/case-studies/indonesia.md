@@ -1,661 +1,740 @@
 # Indonesia
 
-**638 sources** across 5 categories
+**653 sources** across 21 categories
+
+## Banking and financial system reform
+*3 sources*
+
+- [Does Fiscal Decentralization Encourage Corruption in Local Governments? Evidence from Indonesia](../sources/1652-does-fiscal-decentralization-encourage-corruption-in-local-governments-evidence-.md) (2019) | Relevance: 3.0
+- [The Financial Performance and Stock Valuation of Coal Mining Company in Indonesia (Case Study: Pt. Abm Investama Tbk (ABMM))](../sources/1816-the-financial-performance-and-stock-valuation-of-coal-mining-company-in-indonesi.md) (2022) | Relevance: 2.0
+- [CONCEPTUAL PROVISIONS FOR IMPROVING THE ECOLOGICAL AND ECONOMIC EFFICIENCY OF AGRICULTURAL LAND USE](../sources/1608-conceptual-provisions-for-improving-the-ecological-and-economic-efficiency-of-ag.md) (2024) | Relevance: 2.0
+
+## Civil society development
+*2 sources*
+
+- [Governance to Governmentality: Analyzing NGOs, States, and Power](../sources/1511-governance-to-governmentality-analyzing-ngos-states-and-power.md) (2006) | Relevance: 3.0
+- [SOCIAL ADAPTATION OF MINORS IN A SOCIAL REHABILITATION CENTER](../sources/1607-social-adaptation-of-minors-in-a-social-rehabilitation-center.md) (2024) | Relevance: 2.0
 
 ## Civil-military relations and security sector reform
-*85 sources*
+*49 sources*
 
-- [Safeguarding human health in the Anthropocene epoch: report of The Rockefeller Foundation–Lancet Commission on planetary health](../sources/1576-safeguarding-human-health-in-the-anthropocene-epoch-report-of-the-rockefeller-fo.md) (2015)
-- [Green Revolution: Impacts, limits, and the path ahead](../sources/1585-green-revolution-impacts-limits-and-the-path-ahead.md) (2012)
-- [The Critical Barrier to Civil War Settlement](../sources/1506-the-critical-barrier-to-civil-war-settlement.md) (1997)
-- [Why Do Developing Countries Tax So Little?](../sources/1513-why-do-developing-countries-tax-so-little.md) (2014)
-- [Does Peacekeeping Keep Peace? International Intervention and the Duration of Peace After Civil War](../sources/1509-does-peacekeeping-keep-peace-international-intervention-and-the-duration-of-peac.md) (2004)
-- [Governance to Governmentality: Analyzing NGOs, States, and Power](../sources/1511-governance-to-governmentality-analyzing-ngos-states-and-power.md) (2006)
-- [World Development Indicators 2008](../sources/1573-world-development-indicators-2008.md) (2008)
-- [World Development Report 1986](../sources/1567-world-development-report-1986.md) (1986)
-- [Community Driven Development, Collective Action and Elite Capture in Indonesia](../sources/1510-community-driven-development-collective-action-and-elite-capture-in-indonesia.md) (2007)
-- [The Legitimacy of International Law: A Constitutionalist Framework of Analysis](../sources/1517-the-legitimacy-of-international-law-a-constitutionalist-framework-of-analysis.md) (2004)
-- [Java in a Time of Revolution. Occupation and Resistance 1944-1946.](../sources/1533-java-in-a-time-of-revolution-occupation-and-resistance-1944-1946.md) (1972)
-- [Transnational Information Politics: NGO Human Rights Reporting, 1986-2000](../sources/1512-transnational-information-politics-ngo-human-rights-reporting-1986-2000.md) (2005)
-- [The Moral Hazard of Humanitarian Intervention: Lessons from the Balkans](../sources/1516-the-moral-hazard-of-humanitarian-intervention-lessons-from-the-balkans.md) (2008)
-- [Targeting of Transfers in Developing Countries](../sources/1584-targeting-of-transfers-in-developing-countries.md) (2004)
-- [Political Reform in Indonesia after Soeharto](../sources/1531-political-reform-in-indonesia-after-soeharto.md) (2010)
-- [The Unequal Burden of War: The Effect of Armed Conflict on the Gender Gap in Life Expectancy](../sources/1518-the-unequal-burden-of-war-the-effect-of-armed-conflict-on-the-gender-gap-in-life.md) (2006)
-- [A Conceptual Framework for Human Security](../sources/1521-a-conceptual-framework-for-human-security.md) (2003)
-- [Unintended consequences of peacekeeping operations](../sources/1515-unintended-consequences-of-peacekeeping-operations.md) (2007)
-- [Food Insecurity and Conflict Dynamics: Causal Linkages and Complex Feedbacks](../sources/1519-food-insecurity-and-conflict-dynamics-causal-linkages-and-complex-feedbacks.md) (2013)
-- [Public expenditure management handbook.](../sources/1563-public-expenditure-management-handbook.md) (1998)
-- [Decentralization of forest administration in Indonesia: implications for forest sustainability, economic development and community livelihoods](../sources/1560-decentralization-of-forest-administration-in-indonesia-implications-for-forest-s.md) (2006)
-- [International Intervention and the Severity of Genocides and Politicides](../sources/1520-international-intervention-and-the-severity-of-genocides-and-politicides.md) (2005)
-- [Indonesia's Accountability Trap: Party Cartels and Presidential Power after Democratic Transition](../sources/1522-indonesias-accountability-trap-party-cartels-and-presidential-power-after-democr.md) (2004)
-- [Examining the role of foreign assistance in security sector reforms : the Indonesian case](../sources/1534-examining-the-role-of-foreign-assistance-in-security-sector-reforms--the-indones.md) (2003)
-- [Two Decades of Ideological Contestation in Indonesia: From Democratic Cosmopolitanism to Religious Nationalism](../sources/1523-two-decades-of-ideological-contestation-in-indonesia-from-democratic-cosmopolita.md) (2019)
-- [Encyclopedia of Public Administration and Public Policy](../sources/1562-encyclopedia-of-public-administration-and-public-policy.md) (2007)
-- [Democratization in Post-Suharto Indonesia](../sources/1539-democratization-in-post-suharto-indonesia.md) (2008)
-- [A consolidated patrimonial democracy? Democratization in post-Suharto Indonesia](../sources/1550-a-consolidated-patrimonial-democracy-democratization-in-post-suharto-indonesia.md) (2006)
-- [Borrower Ownership of Adjustment programs and the Political Economy of Reform](../sources/1572-borrower-ownership-of-adjustment-programs-and-the-political-economy-of-reform.md) (1993)
-- [Peacekeeping in East Timor: The Path to Independence](../sources/1542-peacekeeping-in-east-timor-the-path-to-independence.md) (2002)
-- [The politics of military reform in post-Suharto Indonesia : elite conflict, nationalism, and institutional resistance](../sources/1524-the-politics-of-military-reform-in-post-suharto-indonesia--elite-conflict-nation.md) (2006)
-- [Insulating Russia from a Colour Revolution: How the Kremlin Resists Regional Democratic Trends](../sources/1508-insulating-russia-from-a-colour-revolution-how-the-kremlin-resists-regional-demo.md) (2007)
-- [Government and Politics in Southeast Asia](../sources/1546-government-and-politics-in-southeast-asia.md) (2002)
-- [The struggle to regain effective government under democracy in Indonesia*](../sources/1549-the-struggle-to-regain-effective-government-under-democracy-in-indonesia.md) (2005)
-- [The Constitution of Indonesia](../sources/1558-the-constitution-of-indonesia.md) (2012)
-- [Authoritarianism, Democracy, Islamic Movements and Contestations of Islamic Religious Ideas in Indonesia](../sources/1543-authoritarianism-democracy-islamic-movements-and-contestations-of-islamic-religi.md) (2021)
-- [Two Decades of<i>Reformasi</i>in Indonesia: Its Illiberal Turn](../sources/1544-two-decades-ofireformasiiin-indonesia-its-illiberal-turn.md) (2019)
-- [Indonesian public sector accounting reforms: dialogic aspirations a step too far?](../sources/1548-indonesian-public-sector-accounting-reforms-dialogic-aspirations-a-step-too-far.md) (2015)
-- [Neo-liberalism and the politics of higher education policy in Indonesia](../sources/1541-neo-liberalism-and-the-politics-of-higher-education-policy-in-indonesia.md) (2015)
-- [Overview of forest tenure reforms in Indonesia](../sources/1564-overview-of-forest-tenure-reforms-in-indonesia.md) (2017)
-- [The Transformation of Rice Crop Technology in Indonesia: Innovation and Sustainable Food Security](../sources/1565-the-transformation-of-rice-crop-technology-in-indonesia-innovation-and-sustainab.md) (2022)
-- [The Crisis of Democratic Governance in Southeast Asia](../sources/1571-the-crisis-of-democratic-governance-in-southeast-asia.md) (2011)
-- [Disarmament, demobilization and reintegration](../sources/1578-disarmament-demobilization-and-reintegration.md) (2013)
-- [Lessons for REDD+ from measures to control illegal logging in Indonesia](../sources/1566-lessons-for-redd-from-measures-to-control-illegal-logging-in-indonesia.md) (2011)
-- [Indonesian Corporations, Cronyism, and Corruption](../sources/1555-indonesian-corporations-cronyism-and-corruption.md) (2006)
-- [Good Practices in Health Financing](../sources/1582-good-practices-in-health-financing.md) (2008)
-- [Realpolitik ideology: Indonesia's use of military force](../sources/1551-realpolitik-ideology-indonesias-use-of-military-force.md) (2007)
-- [Securing Southeast Asia: The Politics of Security Sector Reform](../sources/1547-securing-southeast-asia-the-politics-of-security-sector-reform.md) (2007)
-- [The Resurgence of Land Reform Policy and Agrarian Movements in Indonesia](../sources/1553-the-resurgence-of-land-reform-policy-and-agrarian-movements-in-indonesia.md) (2011)
-- [Military Politics, Ethnicity and Conflict in Indonesia.](../sources/1552-military-politics-ethnicity-and-conflict-in-indonesia.md) (2009)
-- [Facilitating a transition from compulsory detention of people who use drugs towards voluntary community-based drug dependence treatment and support services in Asia](../sources/1581-facilitating-a-transition-from-compulsory-detention-of-people-who-use-drugs-towa.md) (2015)
-- [Strategic Culture and Indonesian Maritime Security](../sources/1545-strategic-culture-and-indonesian-maritime-security.md) (2017)
-- [Accounting for Atrocities in Indonesia](../sources/1554-accounting-for-atrocities-in-indonesia.md) (2006)
-- [The Pandemic as Political Opportunity: Jokowi’s Indonesia in the Time of Covid-19](../sources/1557-the-pandemic-as-political-opportunity-jokowis-indonesia-in-the-time-of-covid-19.md) (2021)
-- [From guardians to democrats? Attempts to explain change and continuity in the civil–military relations of post-authoritarian Indonesia, Thailand and the Philippines](../sources/1556-from-guardians-to-democrats-attempts-to-explain-change-and-continuity-in-the-civ.md) (2011)
-- [Estimating the Constraints to Agricultural Trade of Developing Countries](../sources/1590-estimating-the-constraints-to-agricultural-trade-of-developing-countries.md) (2013)
-- [Campaigning for All Indonesians: The Politics of Healthcare in Indonesia](../sources/1570-campaigning-for-all-indonesians-the-politics-of-healthcare-in-indonesia.md) (2016)
-- [China's Stock Markets and the World Trade Organization](../sources/1580-chinas-stock-markets-and-the-world-trade-organization.md) (1999)
-- [7 Professionalism without reform: the security sector under Yudhoyono](../sources/1579-7-professionalism-without-reform-the-security-sector-under-yudhoyono.md) (2015)
-- [Legislating for labour protection: betting on the weak or the strong?](../sources/1568-legislating-for-labour-protection-betting-on-the-weak-or-the-strong.md) (2005)
-- [Civil-Military Relations in Indonesia after the Reform Period](../sources/1527-civil-military-relations-in-indonesia-after-the-reform-period.md) (2018)
-- [Private health sector growth in Asia : issues and implications](../sources/1569-private-health-sector-growth-in-asia--issues-and-implications.md) (1997)
-- [Research note: Indonesian trade union developments since the fall of Suharto](../sources/1574-research-note-indonesian-trade-union-developments-since-the-fall-of-suharto.md) (2000)
-- [Assessing military reform in Indonesia](../sources/1526-assessing-military-reform-in-indonesia.md) (2013)
-- [Understanding the impacts of NPM and proposed solutions to the healthcare system reforms in Indonesia: the case of BPJS](../sources/1577-understanding-the-impacts-of-npm-and-proposed-solutions-to-the-healthcare-system.md) (2019)
-- [Critical Point of View: The Challenges of Agricultural Sector on Governance and Food Security in Indonesia](../sources/1586-critical-point-of-view-the-challenges-of-agricultural-sector-on-governance-and-f.md) (2021)
-- [Relations among Security and Law Enforcement Institutions in Indonesia](../sources/1583-relations-among-security-and-law-enforcement-institutions-in-indonesia.md) (2008)
-- [Taming the tigers? Reforming the security sector in Southeast Asia](../sources/1575-taming-the-tigers-reforming-the-security-sector-in-southeast-asia.md) (2006)
-- [Gagasan Human Security Dan Kebijakan Keamanan Nasional Indonesia](../sources/1587-gagasan-human-security-dan-kebijakan-keamanan-nasional-indonesia.md) (2015)
-- [Military Reform in the Post‐New Order Indonesia: A Transitional or a New Subtle Role in Indonesian Democracy?](../sources/1528-military-reform-in-the-postnew-order-indonesia-a-transitional-or-a-new-subtle-ro.md) (2020)
-- [AGRICULTURAL POLICIES IN INDONESIA: PRODUCER SUPPORT ESTIMATES 1985-2003](../sources/1588-agricultural-policies-in-indonesia-producer-support-estimates-1985-2003.md) (2004)
-- [Stifled Development: The SSR — Civil Society Organizations Community in Post-authoritarian Indonesia](../sources/1589-stifled-development-the-ssr--civil-society-organizations-community-in-post-autho.md) (2014)
-- [Elites and Prospects of Democracy in East Timor](../sources/1507-elites-and-prospects-of-democracy-in-east-timor.md) (2006)
-- [Articulation and Concordance: A Dialogue on Civil–Military Relations in Fiji](../sources/1514-articulation-and-concordance-a-dialogue-on-civilmilitary-relations-in-fiji.md) (2016)
-- [Assessing 12-year Military Reform in Indonesia: Major Strategic Gaps for the Next Stage of Reform](../sources/1529-assessing-12-year-military-reform-in-indonesia-major-strategic-gaps-for-the-next.md) (2011)
-- [The Indonesian Military Response to Reform in Democratic Transition : a comparative analysis of three civilian regimes 1998-2004](../sources/1530-the-indonesian-military-response-to-reform-in-democratic-transition--a-comparati.md) (2012)
-- [Poor PLS of Security Sector Reform and Its Impacts on Human Rights and Civil-Military Relations in Indonesia](../sources/1532-poor-pls-of-security-sector-reform-and-its-impacts-on-human-rights-and-civil-mil.md) (2020)
-- [Military Reform and Democratisation: Turkish and Indonesian Experiences at the Turn of the Millennium](../sources/1535-military-reform-and-democratisation-turkish-and-indonesian-experiences-at-the-tu.md) (2007)
-- [Security Sector Reform in Indonesia: Military vs. Civil Supremacy](../sources/1536-security-sector-reform-in-indonesia-military-vs-civil-supremacy.md) (2007)
-- [Unfinished Business: Reform of the Security Sector in Democratic Indonesia](../sources/1559-unfinished-business-reform-of-the-security-sector-in-democratic-indonesia.md) (2011)
-- [INDONESIAN MILITARY REFORM: More Than a Human Rights Issue](../sources/1525-indonesian-military-reform-more-than-a-human-rights-issue.md) (2006)
-- [Epistemic Community and Military Reform in Indonesia](../sources/1537-epistemic-community-and-military-reform-in-indonesia.md) (2018)
-- [Military Reform: Informal Military Power in Indonesian Politics After 1998](../sources/1538-military-reform-informal-military-power-in-indonesian-politics-after-1998.md) (2024)
-- [Business as Usual despite Reform: The Indonesian Military under Jokowi](../sources/1540-business-as-usual-despite-reform-the-indonesian-military-under-jokowi.md) (2023)
-- [Enhancing food security to support the sustainable development goals through public sector accounting policy reform in Indonesia](../sources/1561-enhancing-food-security-to-support-the-sustainable-development-goals-through-pub.md) (2024)
+- [Why Do Developing Countries Tax So Little?](../sources/1513-why-do-developing-countries-tax-so-little.md) (2014) | Relevance: 4.0
+- [Public expenditure management handbook.](../sources/1563-public-expenditure-management-handbook.md) (1998) | Relevance: 4.0
+- [Examining the role of foreign assistance in security sector reforms : the Indonesian case](../sources/1534-examining-the-role-of-foreign-assistance-in-security-sector-reforms--the-indones.md) (2003) | Relevance: 4.0
+- [Insulating Russia from a Colour Revolution: How the Kremlin Resists Regional Democratic Trends](../sources/1508-insulating-russia-from-a-colour-revolution-how-the-kremlin-resists-regional-demo.md) (2007) | Relevance: 4.0
+- [The Resurgence of Land Reform Policy and Agrarian Movements in Indonesia](../sources/1553-the-resurgence-of-land-reform-policy-and-agrarian-movements-in-indonesia.md) (2011) | Relevance: 4.0
+- [Military Reform in the Post‐New Order Indonesia: A Transitional or a New Subtle Role in Indonesian Democracy?](../sources/1528-military-reform-in-the-postnew-order-indonesia-a-transitional-or-a-new-subtle-ro.md) (2020) | Relevance: 4.0
+- [Stifled Development: The SSR — Civil Society Organizations Community in Post-authoritarian Indonesia](../sources/1589-stifled-development-the-ssr--civil-society-organizations-community-in-post-autho.md) (2014) | Relevance: 4.0
+- [The Indonesian Military Response to Reform in Democratic Transition : a comparative analysis of three civilian regimes 1998-2004](../sources/1530-the-indonesian-military-response-to-reform-in-democratic-transition--a-comparati.md) (2012) | Relevance: 4.0
+- [Unfinished Business: Reform of the Security Sector in Democratic Indonesia](../sources/1559-unfinished-business-reform-of-the-security-sector-in-democratic-indonesia.md) (2011) | Relevance: 4.0
+- [Epistemic Community and Military Reform in Indonesia](../sources/1537-epistemic-community-and-military-reform-in-indonesia.md) (2018) | Relevance: 4.0
+- [Military Reform: Informal Military Power in Indonesian Politics After 1998](../sources/1538-military-reform-informal-military-power-in-indonesian-politics-after-1998.md) (2024) | Relevance: 4.0
+- [Green Revolution: Impacts, limits, and the path ahead](../sources/1585-green-revolution-impacts-limits-and-the-path-ahead.md) (2012) | Relevance: 3.0
+- [Does Peacekeeping Keep Peace? International Intervention and the Duration of Peace After Civil War](../sources/1509-does-peacekeeping-keep-peace-international-intervention-and-the-duration-of-peac.md) (2004) | Relevance: 3.0
+- [World Development Indicators 2008](../sources/1573-world-development-indicators-2008.md) (2008) | Relevance: 3.0
+- [Community Driven Development, Collective Action and Elite Capture in Indonesia](../sources/1510-community-driven-development-collective-action-and-elite-capture-in-indonesia.md) (2007) | Relevance: 3.0
+- [Java in a Time of Revolution. Occupation and Resistance 1944-1946.](../sources/1533-java-in-a-time-of-revolution-occupation-and-resistance-1944-1946.md) (1972) | Relevance: 3.0
+- [Transnational Information Politics: NGO Human Rights Reporting, 1986-2000](../sources/1512-transnational-information-politics-ngo-human-rights-reporting-1986-2000.md) (2005) | Relevance: 3.0
+- [A Conceptual Framework for Human Security](../sources/1521-a-conceptual-framework-for-human-security.md) (2003) | Relevance: 3.0
+- [Encyclopedia of Public Administration and Public Policy](../sources/1562-encyclopedia-of-public-administration-and-public-policy.md) (2007) | Relevance: 3.0
+- [Peacekeeping in East Timor: The Path to Independence](../sources/1542-peacekeeping-in-east-timor-the-path-to-independence.md) (2002) | Relevance: 3.0
+- [The politics of military reform in post-Suharto Indonesia : elite conflict, nationalism, and institutional resistance](../sources/1524-the-politics-of-military-reform-in-post-suharto-indonesia--elite-conflict-nation.md) (2006) | Relevance: 3.0
+- [Authoritarianism, Democracy, Islamic Movements and Contestations of Islamic Religious Ideas in Indonesia](../sources/1543-authoritarianism-democracy-islamic-movements-and-contestations-of-islamic-religi.md) (2021) | Relevance: 3.0
+- [Two Decades of<i>Reformasi</i>in Indonesia: Its Illiberal Turn](../sources/1544-two-decades-ofireformasiiin-indonesia-its-illiberal-turn.md) (2019) | Relevance: 3.0
+- [Good Practices in Health Financing](../sources/1582-good-practices-in-health-financing.md) (2008) | Relevance: 3.0
+- [Realpolitik ideology: Indonesia's use of military force](../sources/1551-realpolitik-ideology-indonesias-use-of-military-force.md) (2007) | Relevance: 3.0
+- [Securing Southeast Asia: The Politics of Security Sector Reform](../sources/1547-securing-southeast-asia-the-politics-of-security-sector-reform.md) (2007) | Relevance: 3.0
+- [Military Politics, Ethnicity and Conflict in Indonesia.](../sources/1552-military-politics-ethnicity-and-conflict-in-indonesia.md) (2009) | Relevance: 3.0
+- [Strategic Culture and Indonesian Maritime Security](../sources/1545-strategic-culture-and-indonesian-maritime-security.md) (2017) | Relevance: 3.0
+- [From guardians to democrats? Attempts to explain change and continuity in the civil–military relations of post-authoritarian Indonesia, Thailand and the Philippines](../sources/1556-from-guardians-to-democrats-attempts-to-explain-change-and-continuity-in-the-civ.md) (2011) | Relevance: 3.0
+- [7 Professionalism without reform: the security sector under Yudhoyono](../sources/1579-7-professionalism-without-reform-the-security-sector-under-yudhoyono.md) (2015) | Relevance: 3.0
+- [Civil-Military Relations in Indonesia after the Reform Period](../sources/1527-civil-military-relations-in-indonesia-after-the-reform-period.md) (2018) | Relevance: 3.0
+- [Assessing military reform in Indonesia](../sources/1526-assessing-military-reform-in-indonesia.md) (2013) | Relevance: 3.0
+- [Relations among Security and Law Enforcement Institutions in Indonesia](../sources/1583-relations-among-security-and-law-enforcement-institutions-in-indonesia.md) (2008) | Relevance: 3.0
+- [Taming the tigers? Reforming the security sector in Southeast Asia](../sources/1575-taming-the-tigers-reforming-the-security-sector-in-southeast-asia.md) (2006) | Relevance: 3.0
+- [Gagasan Human Security Dan Kebijakan Keamanan Nasional Indonesia](../sources/1587-gagasan-human-security-dan-kebijakan-keamanan-nasional-indonesia.md) (2015) | Relevance: 3.0
+- [Why Indonesia Adopted ‘Quiet Diplomacy’ over R2P in the Rohingya Crisis: The Roles of Islamic Humanitarianism, Civil–Military Relations, and asean](../sources/1710-why-indonesia-adopted-quiet-diplomacy-over-r2p-in-the-rohingya-crisis-the-roles-.md) (2021) | Relevance: 3.0
+- [Articulation and Concordance: A Dialogue on Civil–Military Relations in Fiji](../sources/1514-articulation-and-concordance-a-dialogue-on-civilmilitary-relations-in-fiji.md) (2016) | Relevance: 3.0
+- [Assessing 12-year Military Reform in Indonesia: Major Strategic Gaps for the Next Stage of Reform](../sources/1529-assessing-12-year-military-reform-in-indonesia-major-strategic-gaps-for-the-next.md) (2011) | Relevance: 3.0
+- [Poor PLS of Security Sector Reform and Its Impacts on Human Rights and Civil-Military Relations in Indonesia](../sources/1532-poor-pls-of-security-sector-reform-and-its-impacts-on-human-rights-and-civil-mil.md) (2020) | Relevance: 3.0
+- [Military Reform and Democratisation: Turkish and Indonesian Experiences at the Turn of the Millennium](../sources/1535-military-reform-and-democratisation-turkish-and-indonesian-experiences-at-the-tu.md) (2007) | Relevance: 3.0
+- [Security Sector Reform in Indonesia: Military vs. Civil Supremacy](../sources/1536-security-sector-reform-in-indonesia-military-vs-civil-supremacy.md) (2007) | Relevance: 3.0
+- [Civil-Military Relations in an Emerging State: A Perspective from Indonesia’s Democratic Consolidation](../sources/1711-civil-military-relations-in-an-emerging-state-a-perspective-from-indonesias-demo.md) (2018) | Relevance: 3.0
+- [INDONESIAN MILITARY REFORM: More Than a Human Rights Issue](../sources/1525-indonesian-military-reform-more-than-a-human-rights-issue.md) (2006) | Relevance: 3.0
+- [Business as Usual despite Reform: The Indonesian Military under Jokowi](../sources/1540-business-as-usual-despite-reform-the-indonesian-military-under-jokowi.md) (2023) | Relevance: 3.0
+- [Civil–Military Relations during Transition and Post-Democratisation Periods: A View from Southeast Asia](../sources/1715-civilmilitary-relations-during-transition-and-post-democratisation-periods-a-vie.md) (2017) | Relevance: 3.0
+- [The Critical Barrier to Civil War Settlement](../sources/1506-the-critical-barrier-to-civil-war-settlement.md) (1997) | Relevance: 2.0
+- [The Moral Hazard of Humanitarian Intervention: Lessons from the Balkans](../sources/1516-the-moral-hazard-of-humanitarian-intervention-lessons-from-the-balkans.md) (2008) | Relevance: 2.0
+- [Unintended consequences of peacekeeping operations](../sources/1515-unintended-consequences-of-peacekeeping-operations.md) (2007) | Relevance: 2.0
+- [Disarmament, demobilization and reintegration](../sources/1578-disarmament-demobilization-and-reintegration.md) (2013) | Relevance: 2.0
+
+## Constitutional design and drafting processes
+*2 sources*
+
+- [The Constitution of Indonesia](../sources/1558-the-constitution-of-indonesia.md) (2012) | Relevance: 4.0
+- [Positive Constitutional Economics II — A Survey of Recent Developments](../sources/1600-positive-constitutional-economics-ii--a-survey-of-recent-developments.md) (2023) | Relevance: 4.0
+
+## Cultural heritage preservation during institutional change
+*1 sources*
+
+- [Fishing in life and death: Pleistocene fish-hooks from a burial context on Alor Island, Indonesia](../sources/1466-fishing-in-life-and-death-pleistocene-fish-hooks-from-a-burial-context-on-alor-i.md) (2017) | Relevance: 1.0
+
+## Education system reform and curriculum modernization
+*16 sources*
+
+- [Human development and decentralization: The importance of public health expenditure](../sources/1592-human-development-and-decentralization-the-importance-of-public-health-expenditu.md) (2022) | Relevance: 4.0
+- [LEARNER AUTONOMY IN THE INDONESIAN EFL SETTINGS](../sources/1653-learner-autonomy-in-the-indonesian-efl-settings.md) (2017) | Relevance: 3.0
+- [Neo-liberalism and the politics of higher education policy in Indonesia](../sources/1541-neo-liberalism-and-the-politics-of-higher-education-policy-in-indonesia.md) (2015) | Relevance: 3.0
+- [Learner autonomy and English proficiency of Indonesian undergraduate students](../sources/1671-learner-autonomy-and-english-proficiency-of-indonesian-undergraduate-students.md) (2021) | Relevance: 3.0
+- [‘How much freedom do we have?’ The perceived autonomy of secondary school EFL teachers in Indonesia](../sources/1683-how-much-freedom-do-we-have-the-perceived-autonomy-of-secondary-school-efl-teach.md) (2021) | Relevance: 3.0
+- [Reconstructing Rituals: Expressions of Autonomy and Resistance in a Sino‐Indonesian School](../sources/1686-reconstructing-rituals-expressions-of-autonomy-and-resistance-in-a-sinoindonesia.md) (2002) | Relevance: 3.0
+- [Promoting learner autonomy through schoology m-learning platform in an EAP class at an Indonesian University](../sources/1662-promoting-learner-autonomy-through-schoology-m-learning-platform-in-an-eap-class.md) (2017) | Relevance: 2.0
+- [The effect of the adversity quotient on student performance, student learning autonomy and student achievement in the COVID-19 pandemic era: evidence from Indonesia](../sources/1669-the-effect-of-the-adversity-quotient-on-student-performance-student-learning-aut.md) (2021) | Relevance: 2.0
+- [The Correlation between Learner Autonomy and English Proficiency of Indonesian EFL College Learners.](../sources/1667-the-correlation-between-learner-autonomy-and-english-proficiency-of-indonesian-e.md) (2013) | Relevance: 2.0
+- [Readiness for Autonomy in English Language Learning: The Case of Indonesian High School Students](../sources/1668-readiness-for-autonomy-in-english-language-learning-the-case-of-indonesian-high-.md) (2019) | Relevance: 2.0
+- [Vocabulary Learning Autonomy through Incorporation of English Songs: Indonesian EFL Students' Perspectives](../sources/1681-vocabulary-learning-autonomy-through-incorporation-of-english-songs-indonesian-e.md) (2020) | Relevance: 2.0
+- [REFLECTIVE TEACHING TOWARD EFL TEACHERS’ PROFESSIONAL AUTONOMY: REVISITING ITS DEVELOPMENT IN INDONESIA](../sources/1684-reflective-teaching-toward-efl-teachers-professional-autonomy-revisiting-its-dev.md) (2018) | Relevance: 2.0
+- [Moving toward Autonomy in Indonesian Higher Education](../sources/1688-moving-toward-autonomy-in-indonesian-higher-education.md) (2002) | Relevance: 2.0
+- [LEARNING AUTONOMY AND ITS SIGNIFICANCE FOR INDONESIAN EFL LEARNERS](../sources/1685-learning-autonomy-and-its-significance-for-indonesian-efl-learners.md) (2017) | Relevance: 2.0
+- [THE EXPERIENCE OF THE DEPARTMENT OF BIOLOGY IN DIGITALIZATION OF THE EDUCATIONAL PROCESS USING THE INTERACTIVE VIDEO STUDIO “JALINGA” AND CAREER GUIDANCE IN THE CONDITIONS OF DISTANCE AND FULL- TIME EDUCATION](../sources/1612-the-experience-of-the-department-of-biology-in-digitalization-of-the-educational.md) (2024) | Relevance: 2.0
+- [INFLUENCE OF SEVERE CONCOMITANT TRAUMATIC BRAIN INJURY ON HEART STROKE VOLUME IN PRESCHOOL AGE](../sources/1610-influence-of-severe-concomitant-traumatic-brain-injury-on-heart-stroke-volume-in.md) (2024) | Relevance: 1.0
+
+## Electoral system design and implementation
+*5 sources*
+
+- [Political Reform in Indonesia after Soeharto](../sources/1531-political-reform-in-indonesia-after-soeharto.md) (2010) | Relevance: 4.0
+- [The Pseudo-Democrat's Dilemma: Why Election Observation Became an International Norm](../sources/1732-the-pseudo-democrats-dilemma-why-election-observation-became-an-international-no.md) (2021) | Relevance: 4.0
+- [The struggle to regain effective government under democracy in Indonesia*](../sources/1549-the-struggle-to-regain-effective-government-under-democracy-in-indonesia.md) (2005) | Relevance: 4.0
+- [Campaigning for All Indonesians: The Politics of Healthcare in Indonesia](../sources/1570-campaigning-for-all-indonesians-the-politics-of-healthcare-in-indonesia.md) (2016) | Relevance: 4.0
+- [The Role of Accountability in the Relationship between Democracy and Corruption](../sources/1605-the-role-of-accountability-in-the-relationship-between-democracy-and-corruption.md) (2017) | Relevance: 4.0
 
 ## Federalism, unitarism, and autonomy models
-*149 sources*
+*112 sources*
 
-- [Decentralization and Democracy in Indonesia: A Critique of Neo‐Institutionalist Perspectives](../sources/1623-decentralization-and-democracy-in-indonesia-a-critique-of-neoinstitutionalist-pe.md) (2004)
-- [DECENTRALIZATION REFORM AND LOCAL‐GOVERNMENT PROLIFERATION IN INDONESIA: TOWARDS A FRAGMENTATION OF REGIONAL DEVELOPMENT](../sources/1633-decentralization-reform-and-localgovernment-proliferation-in-indonesia-towards-a.md) (2009)
-- [Welcoming two decades of decentralization in Indonesia: a regional development perspective](../sources/1628-welcoming-two-decades-of-decentralization-in-indonesia-a-regional-development-pe.md) (2019)
-- [Mixed Outcomes: The Impact of Regional Autonomy and Decentralization on Indigenous Ethnic Minorities in Indonesia](../sources/1634-mixed-outcomes-the-impact-of-regional-autonomy-and-decentralization-on-indigenou.md) (2007)
-- [Decentralization and Economic Performance in Indonesia](../sources/1624-decentralization-and-economic-performance-in-indonesia.md) (2011)
-- [Health system performance at the district level in Indonesia after decentralization](../sources/1632-health-system-performance-at-the-district-level-in-indonesia-after-decentralizat.md) (2010)
-- [LEARNER AUTONOMY IN THE INDONESIAN EFL SETTINGS](../sources/1653-learner-autonomy-in-the-indonesian-efl-settings.md) (2017)
-- [Women's decision-making autonomy in the household and the use of maternal health services: An Indonesian case study](../sources/1663-womens-decision-making-autonomy-in-the-household-and-the-use-of-maternal-health-.md) (2020)
-- [Indonesia: what do we mean by decentralization?](../sources/1631-indonesia-what-do-we-mean-by-decentralization.md) (1997)
-- [Decentralized Coastal Zone Management in Malaysia and Indonesia: A Comparative Perspective](../sources/1635-decentralized-coastal-zone-management-in-malaysia-and-indonesia-a-comparative-pe.md) (2006)
-- [The Relative Autonomy of the Third World Politician: Soeharto and Indonesian Economic Development in Comparative Perspective](../sources/1657-the-relative-autonomy-of-the-third-world-politician-soeharto-and-indonesian-econ.md) (1991)
-- [Regional Dynamics in a Decentralized Indonesia](../sources/1629-regional-dynamics-in-a-decentralized-indonesia.md) (2014)
-- [Decentralization and Adat Revivalism in Indonesia](../sources/1630-decentralization-and-adat-revivalism-in-indonesia.md) (2010)
-- [HOW DOES DECENTRALIZED MINIMUM WAGE SETTING AFFECT EMPLOYMENT AND INFORMALITY? THE CASE OF INDONESIA](../sources/1638-how-does-decentralized-minimum-wage-setting-affect-employment-and-informality-th.md) (2011)
-- [The Determinants of Married Women's Autonomy in Indonesia](../sources/1655-the-determinants-of-married-womens-autonomy-in-indonesia.md) (2009)
-- [Urban development in a decentralized Indonesia: Two Success Stories?](../sources/1640-urban-development-in-a-decentralized-indonesia-two-success-stories.md) (2013)
-- [Ethnic Federalism: Its Promise and Pitfalls for Africa](../sources/1591-ethnic-federalism-its-promise-and-pitfalls-for-africa.md) (2003)
-- [Rebellion and Reform in Indonesia: Jakarta's security and autonomy polices in Aceh](../sources/1658-rebellion-and-reform-in-indonesia-jakartas-security-and-autonomy-polices-in-aceh.md) (2008)
-- [Human resources for health at the district level in Indonesia: the smoke and mirrors of decentralization](../sources/1639-human-resources-for-health-at-the-district-level-in-indonesia-the-smoke-and-mirr.md) (2009)
-- [Decentralization and Adat Revivalism in Indonesia: The Politics of Becoming Indigenous](../sources/1644-decentralization-and-adat-revivalism-in-indonesia-the-politics-of-becoming-indig.md) (2010)
-- [`Renegotiating boundaries. Access, agency and identity in post-Suharto Indonesia?](../sources/4686-renegotiating-boundaries-access-agency-and-identity-in-post-suharto-indonesia.md) (2003)
-- [The government decentralization program in Indonesia](../sources/1636-the-government-decentralization-program-in-indonesia.md) (2017)
-- [The Origins of Regional Autonomy in Indonesia: Experts and the Marketing of Political Interests](../sources/1660-the-origins-of-regional-autonomy-in-indonesia-experts-and-the-marketing-of-polit.md) (2008)
-- [Comparative Decentralization Lessons from Pakistan, Indonesia, and the Philippines](../sources/1650-comparative-decentralization-lessons-from-pakistan-indonesia-and-the-philippines.md) (2005)
-- [Autonomy and Disintegration in Indonesia](../sources/1656-autonomy-and-disintegration-in-indonesia.md) (2004)
-- [Promoting learner autonomy through schoology m-learning platform in an EAP class at an Indonesian University](../sources/1662-promoting-learner-autonomy-through-schoology-m-learning-platform-in-an-eap-class.md) (2017)
-- [Autonomy, Identity, and ‘Illegal’ Logging in the Borderland of West Kalimantan, Indonesia](../sources/1661-autonomy-identity-and-illegal-logging-in-the-borderland-of-west-kalimantan-indon.md) (2005)
-- [The effect of the adversity quotient on student performance, student learning autonomy and student achievement in the COVID-19 pandemic era: evidence from Indonesia](../sources/1669-the-effect-of-the-adversity-quotient-on-student-performance-student-learning-aut.md) (2021)
-- [Regional Autonomy and Legal Disorder: The Proliferation of Local Laws in Indonesia](../sources/1666-regional-autonomy-and-legal-disorder-the-proliferation-of-local-laws-in-indonesi.md) (2010)
-- [Forest and land-use governance in a decentralized Indonesia: A legal and policy review](../sources/1645-forest-and-land-use-governance-in-a-decentralized-indonesia-a-legal-and-policy-r.md) (2015)
-- [Autonomy and Stability: The Perils of Implementation and “Divide-and-Rule” Tactics in Papua, Indonesia](../sources/1672-autonomy-and-stability-the-perils-of-implementation-and-divide-and-rule-tactics-.md) (2014)
-- [REGIONAL AUTONOMY AND FISCAL DECENTRALIZATION IN DEMOCRATIC INDONESIA](../sources/1643-regional-autonomy-and-fiscal-decentralization-in-democratic-indonesia.md) (2000)
-- [Fiscal decentralization and regional income inequality: evidence from Indonesia](../sources/1646-fiscal-decentralization-and-regional-income-inequality-evidence-from-indonesia.md) (2019)
-- [Does Fiscal Decentralization Encourage Corruption in Local Governments? Evidence from Indonesia](../sources/1652-does-fiscal-decentralization-encourage-corruption-in-local-governments-evidence-.md) (2019)
-- [Disaster Management Following Decentralization in Indonesia: Regulation, Institutional Establishment, Planning, and Budgeting](../sources/4723-disaster-management-following-decentralization-in-indonesia-regulation-instituti.md) (2019)
-- [The Correlation between Learner Autonomy and English Proficiency of Indonesian EFL College Learners.](../sources/1667-the-correlation-between-learner-autonomy-and-english-proficiency-of-indonesian-e.md) (2013)
-- [Decentralization, Horizontal Inequalities and Conflict Management in Indonesia](../sources/1641-decentralization-horizontal-inequalities-and-conflict-management-in-indonesia.md) (2009)
-- [Poverty alleviation in the contex of fiscal decentralization in Indonesia](../sources/1642-poverty-alleviation-in-the-contex-of-fiscal-decentralization-in-indonesia.md) (2019)
-- [The evaluation of the implementation of regional autonomy in Indonesia](../sources/1664-the-evaluation-of-the-implementation-of-regional-autonomy-in-indonesia.md) (2015)
-- [West Papua and Indonesia Since Suharto: Independence, Autonomy or Chaos?](../sources/1665-west-papua-and-indonesia-since-suharto-independence-autonomy-or-chaos.md) (2004)
-- [Readiness for Autonomy in English Language Learning: The Case of Indonesian High School Students](../sources/1668-readiness-for-autonomy-in-english-language-learning-the-case-of-indonesian-high-.md) (2019)
-- [Evaluation of Decentralization Outcomes in Indonesia: Analysis of Health and Education Sectors](../sources/1647-evaluation-of-decentralization-outcomes-in-indonesia-analysis-of-health-and-educ.md) (2022)
-- [Transformation of Agro-Forest Management Policy under the Dynamic Circumstances of a Two-Decade Regional Autonomy in Indonesia](../sources/1673-transformation-of-agro-forest-management-policy-under-the-dynamic-circumstances-.md) (2021)
-- [CURRICULUM REFORM IN THE DECENTRALIZATION OF EDUCATION IN INDONESIA: EFFECT ON STUDENTS’ ACHIEVEMENTS](../sources/4709-curriculum-reform-in-the-decentralization-of-education-in-indonesia-effect-on-st.md) (2021)
-- [District-level impacts of health system decentralization in Indonesia: A systematic review.](../sources/4724-district-level-impacts-of-health-system-decentralization-in-indonesia-a-systemat.md) (2019)
-- [Indonesian Decentralization: Accountability Deferred](../sources/1622-indonesian-decentralization-accountability-deferred.md) (2010)
-- [Fiscal Decentralization Policy in Promoting Indonesia Human Development](../sources/1651-fiscal-decentralization-policy-in-promoting-indonesia-human-development.md) (2015)
-- [Autonomy of law in Indonesia](../sources/1659-autonomy-of-law-in-indonesia.md) (2016)
-- [Regional autonomy and local resource management in Indonesia](../sources/1670-regional-autonomy-and-local-resource-management-in-indonesia.md) (2007)
-- [Human development and decentralization: The importance of public health expenditure](../sources/1592-human-development-and-decentralization-the-importance-of-public-health-expenditu.md) (2022)
-- [Regional Autonomy in Indonesia: Field Experiences and Emerging Challenges](../sources/1674-regional-autonomy-in-indonesia-field-experiences-and-emerging-challenges.md) (2002)
-- [Asymmetric decentralization, accommodation and separatist conflict: lessons from Aceh and Papua, Indonesia](../sources/1649-asymmetric-decentralization-accommodation-and-separatist-conflict-lessons-from-a.md) (2021)
-- [Special autonomy policy evaluation to improve community welfare in Papua province Indonesia](../sources/1680-special-autonomy-policy-evaluation-to-improve-community-welfare-in-papua-provinc.md) (2020)
-- [Fiscal Decentralization Dilemma in Indonesia: Between Corruption Accountability and Probability at Local Levels](../sources/4722-fiscal-decentralization-dilemma-in-indonesia-between-corruption-accountability-a.md) (2020)
-- [Five Rising Democracies](../sources/4690-five-rising-democracies.md) (2016)
-- [Indonesia Provincial Spatial Plans on mangroves in era of decentralization: Application of content analysis to 27 provinces and “blue carbon” as overlooked components](../sources/4725-indonesia-provincial-spatial-plans-on-mangroves-in-era-of-decentralization-appli.md) (2019)
-- [Learner autonomy and English proficiency of Indonesian undergraduate students](../sources/1671-learner-autonomy-and-english-proficiency-of-indonesian-undergraduate-students.md) (2021)
-- [Autonomy and feedback on innovative work behavior: The role of resilience as a mediating factor in Indonesian Islamic banks](../sources/1678-autonomy-and-feedback-on-innovative-work-behavior-the-role-of-resilience-as-a-me.md) (2023)
-- [INDONESIAN DECENTRALIZATION: EVALUATION, RECENT MOVEMENT AND FUTURE PERSPECTIVES](../sources/1625-indonesian-decentralization-evaluation-recent-movement-and-future-perspectives.md) (2016)
-- [Structure of local government budgets and local fiscal autonomy: Evidence from Indonesia](../sources/1676-structure-of-local-government-budgets-and-local-fiscal-autonomy-evidence-from-in.md) (2022)
-- [Vocabulary Learning Autonomy through Incorporation of English Songs: Indonesian EFL Students' Perspectives](../sources/1681-vocabulary-learning-autonomy-through-incorporation-of-english-songs-indonesian-e.md) (2020)
-- [‘How much freedom do we have?’ The perceived autonomy of secondary school EFL teachers in Indonesia](../sources/1683-how-much-freedom-do-we-have-the-perceived-autonomy-of-secondary-school-efl-teach.md) (2021)
-- [Reconstructing Rituals: Expressions of Autonomy and Resistance in a Sino‐Indonesian School](../sources/1686-reconstructing-rituals-expressions-of-autonomy-and-resistance-in-a-sinoindonesia.md) (2002)
-- [A review of institutional response and Covid-19 pandemic risk communication in regional autonomy system in Indonesia](../sources/1682-a-review-of-institutional-response-and-covid-19-pandemic-risk-communication-in-r.md) (2021)
-- [Fiscal Decentralization, Accountability and Corruption Indication: Evidence from Indonesia](../sources/4717-fiscal-decentralization-accountability-and-corruption-indication-evidence-from-i.md) (2021)
-- [The impact of asymmetric fiscal decentralization on education and health outcomes: Evidence from Papua Province, Indonesia](../sources/4726-the-impact-of-asymmetric-fiscal-decentralization-on-education-and-health-outcome.md) (2019)
-- [REFLECTIVE TEACHING TOWARD EFL TEACHERS’ PROFESSIONAL AUTONOMY: REVISITING ITS DEVELOPMENT IN INDONESIA](../sources/1684-reflective-teaching-toward-efl-teachers-professional-autonomy-revisiting-its-dev.md) (2018)
-- [Indonesia: The New Regional Autonomy Laws, Two Years Later](../sources/1677-indonesia-the-new-regional-autonomy-laws-two-years-later.md) (2003)
-- [Fiscal Decentralization, Economic Growth and Regional Development Inequality in Eastern Indonesia](../sources/4718-fiscal-decentralization-economic-growth-and-regional-development-inequality-in-e.md) (2021)
-- [Moving toward Autonomy in Indonesian Higher Education](../sources/1688-moving-toward-autonomy-in-indonesian-higher-education.md) (2002)
-- [‘Bottom-up’ planning in Indonesia: decentralization in the ministry of health](../sources/1627-bottom-up-planning-in-indonesia-decentralization-in-the-ministry-of-health.md) (1991)
-- [Indonesian Autonomies: Explaining Divergent Self-Government Outcomes in Aceh and Papua](../sources/1654-indonesian-autonomies-explaining-divergent-self-government-outcomes-in-aceh-and-.md) (2021)
-- [1: Heirs to world culture 1950-1965 An introduction](../sources/1595-1-heirs-to-world-culture-1950-1965-an-introduction.md) (2012)
-- [The Concept of Village Autonomy in Indonesia (Indonesian Constitution Perspective)](../sources/1675-the-concept-of-village-autonomy-in-indonesia-indonesian-constitution-perspective.md) (2016)
-- [Urgency of Political Decentralization and Regional Autonomy in Indonesia: Local Perspectives](../sources/1679-urgency-of-political-decentralization-and-regional-autonomy-in-indonesia-local-p.md) (2018)
-- [Land Cover Change and Food Security in Central Sumba: Challenges and Opportunities in the Decentralization Era in Indonesia](../sources/4697-land-cover-change-and-food-security-in-central-sumba-challenges-and-opportunitie.md) (2023)
-- [Management of Mining In Indonesia: Decentralization and Corruption Eradication](../sources/1626-management-of-mining-in-indonesia-decentralization-and-corruption-eradication.md) (2015)
-- [Citizens in Charge: Managing Local Budgets in East Asia and Latin America](../sources/1594-citizens-in-charge-managing-local-budgets-in-east-asia-and-latin-america.md) (2005)
-- [Decentralization and Fiscal Autonomy at the Subnational Level in Indonesia](../sources/4708-decentralization-and-fiscal-autonomy-at-the-subnational-level-in-indonesia.md) (2022)
-- [LEARNING AUTONOMY AND ITS SIGNIFICANCE FOR INDONESIAN EFL LEARNERS](../sources/1685-learning-autonomy-and-its-significance-for-indonesian-efl-learners.md) (2017)
-- [Paradiplomacy Policies and Regional Autonomy in Indonesia and Korea](../sources/1687-paradiplomacy-policies-and-regional-autonomy-in-indonesia-and-korea.md) (2021)
-- [HIV-related stigma and discrimination among health care workers during early program decentralization in rural district Gunungkidul, Indonesia: a cross-sectional study](../sources/4707-hiv-related-stigma-and-discrimination-among-health-care-workers-during-early-pro.md) (2022)
-- [Why Democratization and Decentralization in Indonesia Have Mixed Results on the Ground: A Systematic Literature Review](../sources/4691-why-democratization-and-decentralization-in-indonesia-have-mixed-results-on-the-.md) (2025)
-- [Fiscal Decentralization and Corruption: The Facts of Regional Autonomy Policies in Indonesia](../sources/4698-fiscal-decentralization-and-corruption-the-facts-of-regional-autonomy-policies-i.md) (2023)
-- [The Role of Inequality in Indonesia: Does Fiscal Decentralization Matter?](../sources/4700-the-role-of-inequality-in-indonesia-does-fiscal-decentralization-matter.md) (2023)
-- [Fiscal decentralization and corruption: a case of indonesia](../sources/4710-fiscal-decentralization-and-corruption-a-case-of-indonesia.md) (2022)
-- [Minority Politics in Ethnofederal States: Cooperation, Autonomy or Secession?](../sources/1593-minority-politics-in-ethnofederal-states-cooperation-autonomy-or-secession.md) (2007)
-- [Decentralization and the Fulfilments of Children's Rights: Challenges and Opportunities for Local Government in Indonesia](../sources/4696-decentralization-and-the-fulfilments-of-childrens-rights-challenges-and-opportun.md) (2024)
-- [Fiscal Decentralization and its Effect on Poverty Alleviation: Case Study of Indonesia](../sources/4699-fiscal-decentralization-and-its-effect-on-poverty-alleviation-case-study-of-indo.md) (2023)
-- [Bureaucratic Reform and Changes in Public Service Paradigm Post-Decentralization in Indonesia: 2001-2010](../sources/4711-bureaucratic-reform-and-changes-in-public-service-paradigm-post-decentralization.md) (2022)
-- [Explaining Decentralization Performance in Indonesia: Member of Parliament Decision, Political Networks, and Constitution Amendment](../sources/4712-explaining-decentralization-performance-in-indonesia-member-of-parliament-decisi.md) (2022)
-- [The Politics of Indonesias Decentralization Law Based on Regional Competency](../sources/1637-the-politics-of-indonesias-decentralization-law-based-on-regional-competency.md) (2021)
-- [Institutions, Outputs and Outcomes: Two Decades of Decentralization and State Capacity in Indonesia](../sources/4713-institutions-outputs-and-outcomes-two-decades-of-decentralization-and-state-capa.md) (2022)
-- [The Impact of Indonesia’s Decentralization Reforms Two Decades On: Introduction](../sources/4714-the-impact-of-indonesias-decentralization-reforms-two-decades-on-introduction.md) (2022)
-- [Democratizing corruption: a role structure analysis of Indonesia’s “Big Bang” decentralization](../sources/4701-democratizing-corruption-a-role-structure-analysis-of-indonesias-big-bang-decent.md) (2023)
-- [Decentralization Practice in Developing Countries: Lessons for Indonesia](../sources/4719-decentralization-practice-in-developing-countries-lessons-for-indonesia.md) (2021)
-- [Does Fiscal Decentralization Increases Regional Income Inequality in Indonesia?](../sources/4727-does-fiscal-decentralization-increases-regional-income-inequality-in-indonesia.md) (2020)
-- [The Link between Fiscal Decentralization and Unemployment Evidence from Indonesia](../sources/4715-the-link-between-fiscal-decentralization-and-unemployment-evidence-from-indonesi.md) (2022)
-- [The Twists and Turns of State Universities with Legal Entity Status (PTN-BH) as a Form of Decentralization of Higher Education in Indonesia](../sources/4721-the-twists-and-turns-of-state-universities-with-legal-entity-status-ptn-bh-as-a-.md) (2021)
-- [Analysis of the Influence of Fiscal Decentralization, Dependency Ratio, and Ratio of Independence on the Human Development Index in East Region of Indonesia](../sources/4703-analysis-of-the-influence-of-fiscal-decentralization-dependency-ratio-and-ratio-.md) (2023)
-- [The Challenge of Decentralization Policy for Television Broadcasting in Indonesia](../sources/4704-the-challenge-of-decentralization-policy-for-television-broadcasting-in-indonesi.md) (2023)
-- [Reviewing the Prospects of Forest Decentralization in Indonesia After the Omnibus law](../sources/4716-reviewing-the-prospects-of-forest-decentralization-in-indonesia-after-the-omnibu.md) (2022)
-- [Essays On Corruption And Economic Development](../sources/1596-essays-on-corruption-and-economic-development.md) (2007)
-- [‘Hidden autonomy’: understanding the nature of Indonesian decentralization on a day-to-day basis](../sources/1648-hidden-autonomy-understanding-the-nature-of-indonesian-decentralization-on-a-day.md) (2013)
-- [Fiscal Decentralization in Indonesia: Does It Curb the Quality of Environment?](../sources/4694-fiscal-decentralization-in-indonesia-does-it-curb-the-quality-of-environment.md) (2024)
-- [Implementation of Fiscal Decentralization in the Digital Era: Effectiveness and Challenges in Indonesia](../sources/4695-implementation-of-fiscal-decentralization-in-the-digital-era-effectiveness-and-c.md) (2024)
-- [Analysis of The Impact of Fiscal Decentralization on Economic Growth in Indonesia](../sources/4706-analysis-of-the-impact-of-fiscal-decentralization-on-economic-growth-in-indonesi.md) (2023)
-- [The Effect of Decentralization Policy in Improving Community Welfare Regional Government of Special Yogyakarta - Indonesia](../sources/4720-the-effect-of-decentralization-policy-in-improving-community-welfare-regional-go.md) (2021)
-- [A COMPARISON OF DECENTRALIZATION POLICY IN INDONESIA AND MALAYSIA](../sources/4692-a-comparison-of-decentralization-policy-in-indonesia-and-malaysia.md) (2025)
-- [The Dilemma of Decentralization in Public Policy Implementation in Indonesia](../sources/4693-the-dilemma-of-decentralization-in-public-policy-implementation-in-indonesia.md) (2025)
-- [Investigating freedom to learn program as form of education decentralization in Indonesia](../sources/4702-investigating-freedom-to-learn-program-as-form-of-education-decentralization-in-.md) (2023)
-- [Comparing Symmetric-Asymmetric Decentralization for Reducing Regional Tension: Indonesia and Thailand Experience](../sources/4705-comparing-symmetric-asymmetric-decentralization-for-reducing-regional-tension-in.md) (2023)
-- [Indonesia 2019-2022: The authoritarian turn as leitmotif of president Jokowi’s second term](../sources/1597-indonesia-2019-2022-the-authoritarian-turn-as-leitmotif-of-president-jokowis-sec.md) (2023)
-- [Constructive Unamendability in Canada and the United States](../sources/1599-constructive-unamendability-in-canada-and-the-united-states.md) (2014)
-- [Village Government Corruption in-Post Decentralization: Democracy, Ethnic Diversity and Budget Authority](../sources/1598-village-government-corruption-in-post-decentralization-democracy-ethnic-diversit.md) (2016)
-- [Positive Constitutional Economics II — A Survey of Recent Developments](../sources/1600-positive-constitutional-economics-ii--a-survey-of-recent-developments.md) (2023)
-- [TRANSFORMATION OF BRICS IN THE PROCESS OF FORMING A NEW WORLD ORDER IN THE LIGHT OF UKRAINIAN EVENTS](../sources/1601-transformation-of-brics-in-the-process-of-forming-a-new-world-order-in-the-light.md) (2024)
-- [From Executive Branch to Independent Commission: The Development of Crime Prosecution and Lessons from Indonesia](../sources/4679-from-executive-branch-to-independent-commission-the-development-of-crime-prosecu.md) (2025)
-- [The Sleeping Giant: The Awakening of Religious Identity](../sources/4689-the-sleeping-giant-the-awakening-of-religious-identity.md) (2018)
-- [Reimagining Nigeria: CISNA (Commonwealth of Independent States of Niger Area) as a Confederal Path to Prosperity](../sources/1602-reimagining-nigeria-cisna-commonwealth-of-independent-states-of-niger-area-as-a-.md) (2025)
-- [Rethinking the Binary Federal Theory: A Search for the EU’s and ASEAN’s Place in the Confederal-Federal Dichotomy](../sources/1603-rethinking-the-binary-federal-theory-a-search-for-the-eus-and-aseans-place-in-th.md) (2020)
-- [Recurring Conflicts in Northeast India: An Analysis at the International, Federal and Group Level](../sources/1604-recurring-conflicts-in-northeast-india-an-analysis-at-the-international-federal-.md) (2013)
-- [The Role of Accountability in the Relationship between Democracy and Corruption](../sources/1605-the-role-of-accountability-in-the-relationship-between-democracy-and-corruption.md) (2017)
-- [EXPERIENCE IN THE USE OF UNMANNED AERIAL VEHICLES IN MONITORING THE DEFORMATION OF ENGINEERING STRUCTURES](../sources/1606-experience-in-the-use-of-unmanned-aerial-vehicles-in-monitoring-the-deformation-.md) (2024)
-- [SOCIAL ADAPTATION OF MINORS IN A SOCIAL REHABILITATION CENTER](../sources/1607-social-adaptation-of-minors-in-a-social-rehabilitation-center.md) (2024)
-- [CONCEPTUAL PROVISIONS FOR IMPROVING THE ECOLOGICAL AND ECONOMIC EFFICIENCY OF AGRICULTURAL LAND USE](../sources/1608-conceptual-provisions-for-improving-the-ecological-and-economic-efficiency-of-ag.md) (2024)
-- [TECHNOLOGY AND SYSTEM OF FEEDING AND DISTRIBUTION OF NUTRIENT SOLUTIONS FOR VERTICAL CULTIVATION OF VEGETABLE CROPS ON DRIP IRRIGATION](../sources/1609-technology-and-system-of-feeding-and-distribution-of-nutrient-solutions-for-vert.md) (2024)
-- [INFLUENCE OF SEVERE CONCOMITANT TRAUMATIC BRAIN INJURY ON HEART STROKE VOLUME IN PRESCHOOL AGE](../sources/1610-influence-of-severe-concomitant-traumatic-brain-injury-on-heart-stroke-volume-in.md) (2024)
-- [THE ZINC PHTHALOCYANINE AND AN ANTI-CANCER DRUG ON THE BASIS IT](../sources/1611-the-zinc-phthalocyanine-and-an-anti-cancer-drug-on-the-basis-it.md) (2024)
-- [THE EXPERIENCE OF THE DEPARTMENT OF BIOLOGY IN DIGITALIZATION OF THE EDUCATIONAL PROCESS USING THE INTERACTIVE VIDEO STUDIO “JALINGA” AND CAREER GUIDANCE IN THE CONDITIONS OF DISTANCE AND FULL- TIME EDUCATION](../sources/1612-the-experience-of-the-department-of-biology-in-digitalization-of-the-educational.md) (2024)
-- [APPLICATION OF SYSTEM ANALYSIS METHODS TO SOLVING THE ENVIRONMENTAL PROBLEMS OF MODERN CONDENSING THERMAL POWER PLANTS](../sources/1613-application-of-system-analysis-methods-to-solving-the-environmental-problems-of-.md) (2024)
-- [THE USE OF SEMANTIC GROUPS FOR SENTIMENT ANALYSIS](../sources/1614-the-use-of-semantic-groups-for-sentiment-analysis.md) (2024)
-- [MANIFESTATION OF MENTALITY FEATURES AS ONE OF THE MAIN VALUES OF THE RUSSIAN FEDERATION CITIZENS](../sources/1615-manifestation-of-mentality-features-as-one-of-the-main-values-of-the-russian-fed.md) (2024)
-- [JUSTIFICATION OF THE USE OF PLANT EXTRACTS BASED ON ALGINATE-CONTAINING GEL IN THE PRODUCTION TECHNOLOGY OF COLD-SMOKED SOCKEYE SALMON](../sources/1616-justification-of-the-use-of-plant-extracts-based-on-alginate-containing-gel-in-t.md) (2024)
-- [WIDE-REACH SPRINKLER MACHINE WITH “INTELLIGENT MODULE”](../sources/1617-wide-reach-sprinkler-machine-with-intelligent-module.md) (2024)
-- [MODERN APPROACH TO THE TREATMENT OF PREGNANT WOMEN WITH ACUTE PYELONEPHRITIS](../sources/1618-modern-approach-to-the-treatment-of-pregnant-women-with-acute-pyelonephritis.md) (2024)
-- [CIRCADIAN RHYTHM OF MINUTE VOLUME OF BLOOD CIRCULATION IN THE ACUTE PERIOD OF SEVERE CONCOMITANT TRAUMATIC BRAIN INJURY IN CHILDREN OF 3.1-7 YEARS OF AGE](../sources/1619-circadian-rhythm-of-minute-volume-of-blood-circulation-in-the-acute-period-of-se.md) (2024)
-- [For Better or Worse? A Quantitative Study of Separated States and Repression](../sources/1620-for-better-or-worse-a-quantitative-study-of-separated-states-and-repression.md) (2017)
-- [Investable politics: political institutions, international diffusion, and global stock markets](../sources/1621-investable-politics-political-institutions-international-diffusion-and-global-st.md) (2006)
-- [BJ Habibie's Transformational Leadership in Indonesia's Political Transition Post-New Order](../sources/4677-bj-habibies-transformational-leadership-in-indonesias-political-transition-post-.md) (2025)
-- [Democratic Citizenship of Teacher Movement in Indonesia Post-Soeharto: Between Democratic Citizenship and Civic Engagement](../sources/4678-democratic-citizenship-of-teacher-movement-in-indonesia-post-soeharto-between-de.md) (2018)
-- [The autonomy of science in a globalised world](../sources/4680-the-autonomy-of-science-in-a-globalised-world.md) (2025)
-- [Peran Pengetahuan dan Kekuasaan dalam Implementasi PTN-BH di Indonesia](../sources/4681-peran-pengetahuan-dan-kekuasaan-dalam-implementasi-ptn-bh-di-indonesia.md) (2024)
-- [Governance of Acting Regional Heads and Its Implications for National Resilience](../sources/4682-governance-of-acting-regional-heads-and-its-implications-for-national-resilience.md) (2025)
-- [Women and Politics in Local Autonomy Era](../sources/4683-women-and-politics-in-local-autonomy-era.md) (2018)
-- [Tinjauan Konstitusional Penunjukan Penjabat Kepala Daerah Berdasarkan Prinsip Demokrasi dan Kedaulatan Rakyat](../sources/4684-tinjauan-konstitusional-penunjukan-penjabat-kepala-daerah-berdasarkan-prinsip-de.md) (2026)
-- [Appointment of Acting Regional Heads by The Central Government: Analysis of Authority and Principles of Local Democracy](../sources/4685-appointment-of-acting-regional-heads-by-the-central-government-analysis-of-autho.md) (2026)
-- [IMPLEMENTATION ANALYSIS GOVERNMENT REGULATION IN LIEU OF LAW NUMBER 2 OF 2020 CONCERNING THE ELECTION OF GOVERNOR, MAYOR AND REGENT IN THE CENTRAL PANDEMI CORONAVIRUS DISEASE 2019](../sources/4687-implementation-analysis-government-regulation-in-lieu-of-law-number-2-of-2020-co.md) (2022)
-- [The Making of Local Public Sphere: Case Studies in Kebumen Regency and Batu City in Central and East Java](../sources/4688-the-making-of-local-public-sphere-case-studies-in-kebumen-regency-and-batu-city-.md) (2020)
+- [Fiscal Decentralization Dilemma in Indonesia: Between Corruption Accountability and Probability at Local Levels](../sources/4722-fiscal-decentralization-dilemma-in-indonesia-between-corruption-accountability-a.md) (2020) | Relevance: 5.0
+- [Fiscal Decentralization, Accountability and Corruption Indication: Evidence from Indonesia](../sources/4717-fiscal-decentralization-accountability-and-corruption-indication-evidence-from-i.md) (2021) | Relevance: 5.0
+- [Decentralization and Fiscal Autonomy at the Subnational Level in Indonesia](../sources/4708-decentralization-and-fiscal-autonomy-at-the-subnational-level-in-indonesia.md) (2022) | Relevance: 5.0
+- [Why Democratization and Decentralization in Indonesia Have Mixed Results on the Ground: A Systematic Literature Review](../sources/4691-why-democratization-and-decentralization-in-indonesia-have-mixed-results-on-the-.md) (2025) | Relevance: 5.0
+- [Fiscal Decentralization and Corruption: The Facts of Regional Autonomy Policies in Indonesia](../sources/4698-fiscal-decentralization-and-corruption-the-facts-of-regional-autonomy-policies-i.md) (2023) | Relevance: 5.0
+- [Fiscal decentralization and corruption: a case of indonesia](../sources/4710-fiscal-decentralization-and-corruption-a-case-of-indonesia.md) (2022) | Relevance: 5.0
+- [Institutions, Outputs and Outcomes: Two Decades of Decentralization and State Capacity in Indonesia](../sources/4713-institutions-outputs-and-outcomes-two-decades-of-decentralization-and-state-capa.md) (2022) | Relevance: 5.0
+- [The Impact of Indonesia’s Decentralization Reforms Two Decades On: Introduction](../sources/4714-the-impact-of-indonesias-decentralization-reforms-two-decades-on-introduction.md) (2022) | Relevance: 5.0
+- [Democratizing corruption: a role structure analysis of Indonesia’s “Big Bang” decentralization](../sources/4701-democratizing-corruption-a-role-structure-analysis-of-indonesias-big-bang-decent.md) (2023) | Relevance: 5.0
+- [Does Fiscal Decentralization Increases Regional Income Inequality in Indonesia?](../sources/4727-does-fiscal-decentralization-increases-regional-income-inequality-in-indonesia.md) (2020) | Relevance: 5.0
+- [The Dilemma of Decentralization in Public Policy Implementation in Indonesia](../sources/4693-the-dilemma-of-decentralization-in-public-policy-implementation-in-indonesia.md) (2025) | Relevance: 5.0
+- [From Executive Branch to Independent Commission: The Development of Crime Prosecution and Lessons from Indonesia](../sources/4679-from-executive-branch-to-independent-commission-the-development-of-crime-prosecu.md) (2025) | Relevance: 5.0
+- [BJ Habibie's Transformational Leadership in Indonesia's Political Transition Post-New Order](../sources/4677-bj-habibies-transformational-leadership-in-indonesias-political-transition-post-.md) (2025) | Relevance: 5.0
+- [Decentralization and Democracy in Indonesia: A Critique of Neo‐Institutionalist Perspectives](../sources/1623-decentralization-and-democracy-in-indonesia-a-critique-of-neoinstitutionalist-pe.md) (2004) | Relevance: 4.0
+- [Decentralization of forest administration in Indonesia: implications for forest sustainability, economic development and community livelihoods](../sources/1560-decentralization-of-forest-administration-in-indonesia-implications-for-forest-s.md) (2006) | Relevance: 4.0
+- [DECENTRALIZATION REFORM AND LOCAL‐GOVERNMENT PROLIFERATION IN INDONESIA: TOWARDS A FRAGMENTATION OF REGIONAL DEVELOPMENT](../sources/1633-decentralization-reform-and-localgovernment-proliferation-in-indonesia-towards-a.md) (2009) | Relevance: 4.0
+- [Welcoming two decades of decentralization in Indonesia: a regional development perspective](../sources/1628-welcoming-two-decades-of-decentralization-in-indonesia-a-regional-development-pe.md) (2019) | Relevance: 4.0
+- [Decentralization and Economic Performance in Indonesia](../sources/1624-decentralization-and-economic-performance-in-indonesia.md) (2011) | Relevance: 4.0
+- [Decentralized Coastal Zone Management in Malaysia and Indonesia: A Comparative Perspective](../sources/1635-decentralized-coastal-zone-management-in-malaysia-and-indonesia-a-comparative-pe.md) (2006) | Relevance: 4.0
+- [The Relative Autonomy of the Third World Politician: Soeharto and Indonesian Economic Development in Comparative Perspective](../sources/1657-the-relative-autonomy-of-the-third-world-politician-soeharto-and-indonesian-econ.md) (1991) | Relevance: 4.0
+- [Decentralization and Adat Revivalism in Indonesia](../sources/1630-decentralization-and-adat-revivalism-in-indonesia.md) (2010) | Relevance: 4.0
+- [Urban development in a decentralized Indonesia: Two Success Stories?](../sources/1640-urban-development-in-a-decentralized-indonesia-two-success-stories.md) (2013) | Relevance: 4.0
+- [Ethnic Federalism: Its Promise and Pitfalls for Africa](../sources/1591-ethnic-federalism-its-promise-and-pitfalls-for-africa.md) (2003) | Relevance: 4.0
+- [Rebellion and Reform in Indonesia: Jakarta's security and autonomy polices in Aceh](../sources/1658-rebellion-and-reform-in-indonesia-jakartas-security-and-autonomy-polices-in-aceh.md) (2008) | Relevance: 4.0
+- [`Renegotiating boundaries. Access, agency and identity in post-Suharto Indonesia?](../sources/4686-renegotiating-boundaries-access-agency-and-identity-in-post-suharto-indonesia.md) (2003) | Relevance: 4.0
+- [The government decentralization program in Indonesia](../sources/1636-the-government-decentralization-program-in-indonesia.md) (2017) | Relevance: 4.0
+- [Comparative Decentralization Lessons from Pakistan, Indonesia, and the Philippines](../sources/1650-comparative-decentralization-lessons-from-pakistan-indonesia-and-the-philippines.md) (2005) | Relevance: 4.0
+- [REGIONAL AUTONOMY AND FISCAL DECENTRALIZATION IN DEMOCRATIC INDONESIA](../sources/1643-regional-autonomy-and-fiscal-decentralization-in-democratic-indonesia.md) (2000) | Relevance: 4.0
+- [Fiscal decentralization and regional income inequality: evidence from Indonesia](../sources/1646-fiscal-decentralization-and-regional-income-inequality-evidence-from-indonesia.md) (2019) | Relevance: 4.0
+- [Disaster Management Following Decentralization in Indonesia: Regulation, Institutional Establishment, Planning, and Budgeting](../sources/4723-disaster-management-following-decentralization-in-indonesia-regulation-instituti.md) (2019) | Relevance: 4.0
+- [Decentralization, Horizontal Inequalities and Conflict Management in Indonesia](../sources/1641-decentralization-horizontal-inequalities-and-conflict-management-in-indonesia.md) (2009) | Relevance: 4.0
+- [Poverty alleviation in the contex of fiscal decentralization in Indonesia](../sources/1642-poverty-alleviation-in-the-contex-of-fiscal-decentralization-in-indonesia.md) (2019) | Relevance: 4.0
+- [The evaluation of the implementation of regional autonomy in Indonesia](../sources/1664-the-evaluation-of-the-implementation-of-regional-autonomy-in-indonesia.md) (2015) | Relevance: 4.0
+- [West Papua and Indonesia Since Suharto: Independence, Autonomy or Chaos?](../sources/1665-west-papua-and-indonesia-since-suharto-independence-autonomy-or-chaos.md) (2004) | Relevance: 4.0
+- [Evaluation of Decentralization Outcomes in Indonesia: Analysis of Health and Education Sectors](../sources/1647-evaluation-of-decentralization-outcomes-in-indonesia-analysis-of-health-and-educ.md) (2022) | Relevance: 4.0
+- [CURRICULUM REFORM IN THE DECENTRALIZATION OF EDUCATION IN INDONESIA: EFFECT ON STUDENTS’ ACHIEVEMENTS](../sources/4709-curriculum-reform-in-the-decentralization-of-education-in-indonesia-effect-on-st.md) (2021) | Relevance: 4.0
+- [District-level impacts of health system decentralization in Indonesia: A systematic review.](../sources/4724-district-level-impacts-of-health-system-decentralization-in-indonesia-a-systemat.md) (2019) | Relevance: 4.0
+- [Indonesian Decentralization: Accountability Deferred](../sources/1622-indonesian-decentralization-accountability-deferred.md) (2010) | Relevance: 4.0
+- [Fiscal Decentralization Policy in Promoting Indonesia Human Development](../sources/1651-fiscal-decentralization-policy-in-promoting-indonesia-human-development.md) (2015) | Relevance: 4.0
+- [Regional autonomy and local resource management in Indonesia](../sources/1670-regional-autonomy-and-local-resource-management-in-indonesia.md) (2007) | Relevance: 4.0
+- [Regional Autonomy in Indonesia: Field Experiences and Emerging Challenges](../sources/1674-regional-autonomy-in-indonesia-field-experiences-and-emerging-challenges.md) (2002) | Relevance: 4.0
+- [Special autonomy policy evaluation to improve community welfare in Papua province Indonesia](../sources/1680-special-autonomy-policy-evaluation-to-improve-community-welfare-in-papua-provinc.md) (2020) | Relevance: 4.0
+- [INDONESIAN DECENTRALIZATION: EVALUATION, RECENT MOVEMENT AND FUTURE PERSPECTIVES](../sources/1625-indonesian-decentralization-evaluation-recent-movement-and-future-perspectives.md) (2016) | Relevance: 4.0
+- [Structure of local government budgets and local fiscal autonomy: Evidence from Indonesia](../sources/1676-structure-of-local-government-budgets-and-local-fiscal-autonomy-evidence-from-in.md) (2022) | Relevance: 4.0
+- [A review of institutional response and Covid-19 pandemic risk communication in regional autonomy system in Indonesia](../sources/1682-a-review-of-institutional-response-and-covid-19-pandemic-risk-communication-in-r.md) (2021) | Relevance: 4.0
+- [The impact of asymmetric fiscal decentralization on education and health outcomes: Evidence from Papua Province, Indonesia](../sources/4726-the-impact-of-asymmetric-fiscal-decentralization-on-education-and-health-outcome.md) (2019) | Relevance: 4.0
+- [Indonesia: The New Regional Autonomy Laws, Two Years Later](../sources/1677-indonesia-the-new-regional-autonomy-laws-two-years-later.md) (2003) | Relevance: 4.0
+- [Fiscal Decentralization, Economic Growth and Regional Development Inequality in Eastern Indonesia](../sources/4718-fiscal-decentralization-economic-growth-and-regional-development-inequality-in-e.md) (2021) | Relevance: 4.0
+- [Indonesian Autonomies: Explaining Divergent Self-Government Outcomes in Aceh and Papua](../sources/1654-indonesian-autonomies-explaining-divergent-self-government-outcomes-in-aceh-and-.md) (2021) | Relevance: 4.0
+- [Urgency of Political Decentralization and Regional Autonomy in Indonesia: Local Perspectives](../sources/1679-urgency-of-political-decentralization-and-regional-autonomy-in-indonesia-local-p.md) (2018) | Relevance: 4.0
+- [Citizens in Charge: Managing Local Budgets in East Asia and Latin America](../sources/1594-citizens-in-charge-managing-local-budgets-in-east-asia-and-latin-america.md) (2005) | Relevance: 4.0
+- [The Role of Inequality in Indonesia: Does Fiscal Decentralization Matter?](../sources/4700-the-role-of-inequality-in-indonesia-does-fiscal-decentralization-matter.md) (2023) | Relevance: 4.0
+- [Decentralization and the Fulfilments of Children's Rights: Challenges and Opportunities for Local Government in Indonesia](../sources/4696-decentralization-and-the-fulfilments-of-childrens-rights-challenges-and-opportun.md) (2024) | Relevance: 4.0
+- [Fiscal Decentralization and its Effect on Poverty Alleviation: Case Study of Indonesia](../sources/4699-fiscal-decentralization-and-its-effect-on-poverty-alleviation-case-study-of-indo.md) (2023) | Relevance: 4.0
+- [Bureaucratic Reform and Changes in Public Service Paradigm Post-Decentralization in Indonesia: 2001-2010](../sources/4711-bureaucratic-reform-and-changes-in-public-service-paradigm-post-decentralization.md) (2022) | Relevance: 4.0
+- [Explaining Decentralization Performance in Indonesia: Member of Parliament Decision, Political Networks, and Constitution Amendment](../sources/4712-explaining-decentralization-performance-in-indonesia-member-of-parliament-decisi.md) (2022) | Relevance: 4.0
+- [The Politics of Indonesias Decentralization Law Based on Regional Competency](../sources/1637-the-politics-of-indonesias-decentralization-law-based-on-regional-competency.md) (2021) | Relevance: 4.0
+- [Decentralization Practice in Developing Countries: Lessons for Indonesia](../sources/4719-decentralization-practice-in-developing-countries-lessons-for-indonesia.md) (2021) | Relevance: 4.0
+- [The Twists and Turns of State Universities with Legal Entity Status (PTN-BH) as a Form of Decentralization of Higher Education in Indonesia](../sources/4721-the-twists-and-turns-of-state-universities-with-legal-entity-status-ptn-bh-as-a-.md) (2021) | Relevance: 4.0
+- [Analysis of the Influence of Fiscal Decentralization, Dependency Ratio, and Ratio of Independence on the Human Development Index in East Region of Indonesia](../sources/4703-analysis-of-the-influence-of-fiscal-decentralization-dependency-ratio-and-ratio-.md) (2023) | Relevance: 4.0
+- [The Challenge of Decentralization Policy for Television Broadcasting in Indonesia](../sources/4704-the-challenge-of-decentralization-policy-for-television-broadcasting-in-indonesi.md) (2023) | Relevance: 4.0
+- [Reviewing the Prospects of Forest Decentralization in Indonesia After the Omnibus law](../sources/4716-reviewing-the-prospects-of-forest-decentralization-in-indonesia-after-the-omnibu.md) (2022) | Relevance: 4.0
+- [‘Hidden autonomy’: understanding the nature of Indonesian decentralization on a day-to-day basis](../sources/1648-hidden-autonomy-understanding-the-nature-of-indonesian-decentralization-on-a-day.md) (2013) | Relevance: 4.0
+- [Implementation of Fiscal Decentralization in the Digital Era: Effectiveness and Challenges in Indonesia](../sources/4695-implementation-of-fiscal-decentralization-in-the-digital-era-effectiveness-and-c.md) (2024) | Relevance: 4.0
+- [Analysis of The Impact of Fiscal Decentralization on Economic Growth in Indonesia](../sources/4706-analysis-of-the-impact-of-fiscal-decentralization-on-economic-growth-in-indonesi.md) (2023) | Relevance: 4.0
+- [The Effect of Decentralization Policy in Improving Community Welfare Regional Government of Special Yogyakarta - Indonesia](../sources/4720-the-effect-of-decentralization-policy-in-improving-community-welfare-regional-go.md) (2021) | Relevance: 4.0
+- [A COMPARISON OF DECENTRALIZATION POLICY IN INDONESIA AND MALAYSIA](../sources/4692-a-comparison-of-decentralization-policy-in-indonesia-and-malaysia.md) (2025) | Relevance: 4.0
+- [Investigating freedom to learn program as form of education decentralization in Indonesia](../sources/4702-investigating-freedom-to-learn-program-as-form-of-education-decentralization-in-.md) (2023) | Relevance: 4.0
+- [Comparing Symmetric-Asymmetric Decentralization for Reducing Regional Tension: Indonesia and Thailand Experience](../sources/4705-comparing-symmetric-asymmetric-decentralization-for-reducing-regional-tension-in.md) (2023) | Relevance: 4.0
+- [Reimagining Nigeria: CISNA (Commonwealth of Independent States of Niger Area) as a Confederal Path to Prosperity](../sources/1602-reimagining-nigeria-cisna-commonwealth-of-independent-states-of-niger-area-as-a-.md) (2025) | Relevance: 4.0
+- [Democratic Citizenship of Teacher Movement in Indonesia Post-Soeharto: Between Democratic Citizenship and Civic Engagement](../sources/4678-democratic-citizenship-of-teacher-movement-in-indonesia-post-soeharto-between-de.md) (2018) | Relevance: 4.0
+- [Peran Pengetahuan dan Kekuasaan dalam Implementasi PTN-BH di Indonesia](../sources/4681-peran-pengetahuan-dan-kekuasaan-dalam-implementasi-ptn-bh-di-indonesia.md) (2024) | Relevance: 4.0
+- [Governance of Acting Regional Heads and Its Implications for National Resilience](../sources/4682-governance-of-acting-regional-heads-and-its-implications-for-national-resilience.md) (2025) | Relevance: 4.0
+- [Women and Politics in Local Autonomy Era](../sources/4683-women-and-politics-in-local-autonomy-era.md) (2018) | Relevance: 4.0
+- [Tinjauan Konstitusional Penunjukan Penjabat Kepala Daerah Berdasarkan Prinsip Demokrasi dan Kedaulatan Rakyat](../sources/4684-tinjauan-konstitusional-penunjukan-penjabat-kepala-daerah-berdasarkan-prinsip-de.md) (2026) | Relevance: 4.0
+- [Appointment of Acting Regional Heads by The Central Government: Analysis of Authority and Principles of Local Democracy](../sources/4685-appointment-of-acting-regional-heads-by-the-central-government-analysis-of-autho.md) (2026) | Relevance: 4.0
+- [Mixed Outcomes: The Impact of Regional Autonomy and Decentralization on Indigenous Ethnic Minorities in Indonesia](../sources/1634-mixed-outcomes-the-impact-of-regional-autonomy-and-decentralization-on-indigenou.md) (2007) | Relevance: 3.0
+- [Health system performance at the district level in Indonesia after decentralization](../sources/1632-health-system-performance-at-the-district-level-in-indonesia-after-decentralizat.md) (2010) | Relevance: 3.0
+- [Indonesia: what do we mean by decentralization?](../sources/1631-indonesia-what-do-we-mean-by-decentralization.md) (1997) | Relevance: 3.0
+- [Regional Dynamics in a Decentralized Indonesia](../sources/1629-regional-dynamics-in-a-decentralized-indonesia.md) (2014) | Relevance: 3.0
+- [Decentralization and Adat Revivalism in Indonesia: The Politics of Becoming Indigenous](../sources/1644-decentralization-and-adat-revivalism-in-indonesia-the-politics-of-becoming-indig.md) (2010) | Relevance: 3.0
+- [The Origins of Regional Autonomy in Indonesia: Experts and the Marketing of Political Interests](../sources/1660-the-origins-of-regional-autonomy-in-indonesia-experts-and-the-marketing-of-polit.md) (2008) | Relevance: 3.0
+- [Autonomy and Disintegration in Indonesia](../sources/1656-autonomy-and-disintegration-in-indonesia.md) (2004) | Relevance: 3.0
+- [Autonomy, Identity, and ‘Illegal’ Logging in the Borderland of West Kalimantan, Indonesia](../sources/1661-autonomy-identity-and-illegal-logging-in-the-borderland-of-west-kalimantan-indon.md) (2005) | Relevance: 3.0
+- [Regional Autonomy and Legal Disorder: The Proliferation of Local Laws in Indonesia](../sources/1666-regional-autonomy-and-legal-disorder-the-proliferation-of-local-laws-in-indonesi.md) (2010) | Relevance: 3.0
+- [Forest and land-use governance in a decentralized Indonesia: A legal and policy review](../sources/1645-forest-and-land-use-governance-in-a-decentralized-indonesia-a-legal-and-policy-r.md) (2015) | Relevance: 3.0
+- [Autonomy and Stability: The Perils of Implementation and “Divide-and-Rule” Tactics in Papua, Indonesia](../sources/1672-autonomy-and-stability-the-perils-of-implementation-and-divide-and-rule-tactics-.md) (2014) | Relevance: 3.0
+- [Transformation of Agro-Forest Management Policy under the Dynamic Circumstances of a Two-Decade Regional Autonomy in Indonesia](../sources/1673-transformation-of-agro-forest-management-policy-under-the-dynamic-circumstances-.md) (2021) | Relevance: 3.0
+- [Autonomy of law in Indonesia](../sources/1659-autonomy-of-law-in-indonesia.md) (2016) | Relevance: 3.0
+- [Asymmetric decentralization, accommodation and separatist conflict: lessons from Aceh and Papua, Indonesia](../sources/1649-asymmetric-decentralization-accommodation-and-separatist-conflict-lessons-from-a.md) (2021) | Relevance: 3.0
+- [Indonesia Provincial Spatial Plans on mangroves in era of decentralization: Application of content analysis to 27 provinces and “blue carbon” as overlooked components](../sources/4725-indonesia-provincial-spatial-plans-on-mangroves-in-era-of-decentralization-appli.md) (2019) | Relevance: 3.0
+- [‘Bottom-up’ planning in Indonesia: decentralization in the ministry of health](../sources/1627-bottom-up-planning-in-indonesia-decentralization-in-the-ministry-of-health.md) (1991) | Relevance: 3.0
+- [The Concept of Village Autonomy in Indonesia (Indonesian Constitution Perspective)](../sources/1675-the-concept-of-village-autonomy-in-indonesia-indonesian-constitution-perspective.md) (2016) | Relevance: 3.0
+- [Land Cover Change and Food Security in Central Sumba: Challenges and Opportunities in the Decentralization Era in Indonesia](../sources/4697-land-cover-change-and-food-security-in-central-sumba-challenges-and-opportunitie.md) (2023) | Relevance: 3.0
+- [Management of Mining In Indonesia: Decentralization and Corruption Eradication](../sources/1626-management-of-mining-in-indonesia-decentralization-and-corruption-eradication.md) (2015) | Relevance: 3.0
+- [Paradiplomacy Policies and Regional Autonomy in Indonesia and Korea](../sources/1687-paradiplomacy-policies-and-regional-autonomy-in-indonesia-and-korea.md) (2021) | Relevance: 3.0
+- [HIV-related stigma and discrimination among health care workers during early program decentralization in rural district Gunungkidul, Indonesia: a cross-sectional study](../sources/4707-hiv-related-stigma-and-discrimination-among-health-care-workers-during-early-pro.md) (2022) | Relevance: 3.0
+- [Minority Politics in Ethnofederal States: Cooperation, Autonomy or Secession?](../sources/1593-minority-politics-in-ethnofederal-states-cooperation-autonomy-or-secession.md) (2007) | Relevance: 3.0
+- [The Link between Fiscal Decentralization and Unemployment Evidence from Indonesia](../sources/4715-the-link-between-fiscal-decentralization-and-unemployment-evidence-from-indonesi.md) (2022) | Relevance: 3.0
+- [Fiscal Decentralization in Indonesia: Does It Curb the Quality of Environment?](../sources/4694-fiscal-decentralization-in-indonesia-does-it-curb-the-quality-of-environment.md) (2024) | Relevance: 3.0
+- [Constructive Unamendability in Canada and the United States](../sources/1599-constructive-unamendability-in-canada-and-the-united-states.md) (2014) | Relevance: 3.0
+- [Village Government Corruption in-Post Decentralization: Democracy, Ethnic Diversity and Budget Authority](../sources/1598-village-government-corruption-in-post-decentralization-democracy-ethnic-diversit.md) (2016) | Relevance: 3.0
+- [The Sleeping Giant: The Awakening of Religious Identity](../sources/4689-the-sleeping-giant-the-awakening-of-religious-identity.md) (2018) | Relevance: 3.0
+- [Rethinking the Binary Federal Theory: A Search for the EU’s and ASEAN’s Place in the Confederal-Federal Dichotomy](../sources/1603-rethinking-the-binary-federal-theory-a-search-for-the-eus-and-aseans-place-in-th.md) (2020) | Relevance: 3.0
+- [Recurring Conflicts in Northeast India: An Analysis at the International, Federal and Group Level](../sources/1604-recurring-conflicts-in-northeast-india-an-analysis-at-the-international-federal-.md) (2013) | Relevance: 3.0
+- [For Better or Worse? A Quantitative Study of Separated States and Repression](../sources/1620-for-better-or-worse-a-quantitative-study-of-separated-states-and-repression.md) (2017) | Relevance: 3.0
+- [IMPLEMENTATION ANALYSIS GOVERNMENT REGULATION IN LIEU OF LAW NUMBER 2 OF 2020 CONCERNING THE ELECTION OF GOVERNOR, MAYOR AND REGENT IN THE CENTRAL PANDEMI CORONAVIRUS DISEASE 2019](../sources/4687-implementation-analysis-government-regulation-in-lieu-of-law-number-2-of-2020-co.md) (2022) | Relevance: 3.0
+- [The Making of Local Public Sphere: Case Studies in Kebumen Regency and Batu City in Central and East Java](../sources/4688-the-making-of-local-public-sphere-case-studies-in-kebumen-regency-and-batu-city-.md) (2020) | Relevance: 3.0
+- [Five Rising Democracies](../sources/4690-five-rising-democracies.md) (2016) | Relevance: 2.0
+- [1: Heirs to world culture 1950-1965 An introduction](../sources/1595-1-heirs-to-world-culture-1950-1965-an-introduction.md) (2012) | Relevance: 2.0
+- [APPLICATION OF SYSTEM ANALYSIS METHODS TO SOLVING THE ENVIRONMENTAL PROBLEMS OF MODERN CONDENSING THERMAL POWER PLANTS](../sources/1613-application-of-system-analysis-methods-to-solving-the-environmental-problems-of-.md) (2024) | Relevance: 2.0
+- [The autonomy of science in a globalised world](../sources/4680-the-autonomy-of-science-in-a-globalised-world.md) (2025) | Relevance: 2.0
+
+## Judicial independence and rule of law
+*1 sources*
+
+- [The Legitimacy of International Law: A Constitutionalist Framework of Analysis](../sources/1517-the-legitimacy-of-international-law-a-constitutionalist-framework-of-analysis.md) (2004) | Relevance: 3.0
+
+## Labor market reform and social safety nets
+*15 sources*
+
+- [HOW DOES DECENTRALIZED MINIMUM WAGE SETTING AFFECT EMPLOYMENT AND INFORMALITY? THE CASE OF INDONESIA](../sources/1638-how-does-decentralized-minimum-wage-setting-affect-employment-and-informality-th.md) (2011) | Relevance: 4.0
+- [Legislating for labour protection: betting on the weak or the strong?](../sources/1568-legislating-for-labour-protection-betting-on-the-weak-or-the-strong.md) (2005) | Relevance: 4.0
+- [Understanding the impacts of NPM and proposed solutions to the healthcare system reforms in Indonesia: the case of BPJS](../sources/1577-understanding-the-impacts-of-npm-and-proposed-solutions-to-the-healthcare-system.md) (2019) | Relevance: 4.0
+- [Safeguarding human health in the Anthropocene epoch: report of The Rockefeller Foundation–Lancet Commission on planetary health](../sources/1576-safeguarding-human-health-in-the-anthropocene-epoch-report-of-the-rockefeller-fo.md) (2015) | Relevance: 3.0
+- [Targeting of Transfers in Developing Countries](../sources/1584-targeting-of-transfers-in-developing-countries.md) (2004) | Relevance: 3.0
+- [The Unequal Burden of War: The Effect of Armed Conflict on the Gender Gap in Life Expectancy](../sources/1518-the-unequal-burden-of-war-the-effect-of-armed-conflict-on-the-gender-gap-in-life.md) (2006) | Relevance: 3.0
+- [Food Insecurity and Conflict Dynamics: Causal Linkages and Complex Feedbacks](../sources/1519-food-insecurity-and-conflict-dynamics-causal-linkages-and-complex-feedbacks.md) (2013) | Relevance: 3.0
+- [Indonesian public sector accounting reforms: dialogic aspirations a step too far?](../sources/1548-indonesian-public-sector-accounting-reforms-dialogic-aspirations-a-step-too-far.md) (2015) | Relevance: 3.0
+- [Human resources for health at the district level in Indonesia: the smoke and mirrors of decentralization](../sources/1639-human-resources-for-health-at-the-district-level-in-indonesia-the-smoke-and-mirr.md) (2009) | Relevance: 3.0
+- [The Transformation of Rice Crop Technology in Indonesia: Innovation and Sustainable Food Security](../sources/1565-the-transformation-of-rice-crop-technology-in-indonesia-innovation-and-sustainab.md) (2022) | Relevance: 3.0
+- [Facilitating a transition from compulsory detention of people who use drugs towards voluntary community-based drug dependence treatment and support services in Asia](../sources/1581-facilitating-a-transition-from-compulsory-detention-of-people-who-use-drugs-towa.md) (2015) | Relevance: 3.0
+- [Research note: Indonesian trade union developments since the fall of Suharto](../sources/1574-research-note-indonesian-trade-union-developments-since-the-fall-of-suharto.md) (2000) | Relevance: 3.0
+- [Autonomy and feedback on innovative work behavior: The role of resilience as a mediating factor in Indonesian Islamic banks](../sources/1678-autonomy-and-feedback-on-innovative-work-behavior-the-role-of-resilience-as-a-me.md) (2023) | Relevance: 3.0
+- [Critical Point of View: The Challenges of Agricultural Sector on Governance and Food Security in Indonesia](../sources/1586-critical-point-of-view-the-challenges-of-agricultural-sector-on-governance-and-f.md) (2021) | Relevance: 3.0
+- [Enhancing food security to support the sustainable development goals through public sector accounting policy reform in Indonesia](../sources/1561-enhancing-food-security-to-support-the-sustainable-development-goals-through-pub.md) (2024) | Relevance: 3.0
+
+## Media freedom and press institution building
+*1 sources*
+
+- [Essays On Corruption And Economic Development](../sources/1596-essays-on-corruption-and-economic-development.md) (2007) | Relevance: 4.0
 
 ## Minority rights
 *123 sources*
 
-- [The fortune at the bottom of the pyramid](../sources/4965-the-fortune-at-the-bottom-of-the-pyramid.md) (2010)
-- [Fertility, mortality, migration, and population scenarios for 195 countries and territories from 2017 to 2100: a forecasting analysis for the Global Burden of Disease Study](../sources/4963-fertility-mortality-migration-and-population-scenarios-for-195-countries-and-ter.md) (2020)
-- [Governance and the Capacity to Manage Resilience in Regional Social-Ecological Systems](../sources/4861-governance-and-the-capacity-to-manage-resilience-in-regional-social-ecological-s.md) (2006)
-- [The role of Indigenous peoples and local communities in effective and equitable conservation](../sources/4868-the-role-of-indigenous-peoples-and-local-communities-in-effective-and-equitable-.md) (2021)
-- [The Promises and Challenges of Artificial Intelligence for Teachers: a Systematic Review of Research](../sources/4981-the-promises-and-challenges-of-artificial-intelligence-for-teachers-a-systematic.md) (2022)
-- [Corruption, institutions, and economic development](../sources/4964-corruption-institutions-and-economic-development.md) (2009)
-- [The Development of Indigenous Knowledge](../sources/4973-the-development-of-indigenous-knowledge.md) (1998)
-- [Horizontal Inequalities: A Neglected Dimension of Development](../sources/4867-horizontal-inequalities-a-neglected-dimension-of-development.md) (2005)
-- [Democratic Decentralization of Natural Resources: Institutionalizing Popular Participation](../sources/4865-democratic-decentralization-of-natural-resources-institutionalizing-popular-part.md) (2002)
-- [Federalism and Democracy: Beyond the U.S. Model](../sources/4954-federalism-and-democracy-beyond-the-us-model.md) (1999)
-- [Trump and the Populist Authoritarian Parties:<i>The Silent Revolution</i>in Reverse](../sources/4866-trump-and-the-populist-authoritarian-partiesithe-silent-revolutioniin-reverse.md) (2017)
-- [Global priorities for an effective information basis of biodiversity distributions](../sources/4979-global-priorities-for-an-effective-information-basis-of-biodiversity-distributio.md) (2015)
-- [Advances in the Cross‐Linguistic Study of Ideophones](../sources/4970-advances-in-the-crosslinguistic-study-of-ideophones.md) (2012)
-- [Indigenous climate knowledge in southern Uganda: the multiple components of a dynamic regional system](../sources/4976-indigenous-climate-knowledge-in-southern-uganda-the-multiple-components-of-a-dyn.md) (2009)
-- [Journal of Contemporary Asia](../sources/4873-journal-of-contemporary-asia.md) (1972)
-- [Traditional Ecological Knowledge and Global Environmental Change: Research findings and policy implications](../sources/4972-traditional-ecological-knowledge-and-global-environmental-change-research-findin.md) (2013)
-- [The Challenges of Online Learning during the COVID-19 Pandemic: An Essay Analysis of Performing Arts Education Students](../sources/4978-the-challenges-of-online-learning-during-the-covid-19-pandemic-an-essay-analysis.md) (2020)
-- [Global trends of local ecological knowledge and future implications](../sources/4980-global-trends-of-local-ecological-knowledge-and-future-implications.md) (2018)
-- [Policies, Political-Economy, and Swidden in Southeast Asia](../sources/4872-policies-political-economy-and-swidden-in-southeast-asia.md) (2009)
-- [Reputation and Civil War](../sources/4883-reputation-and-civil-war.md) (2009)
-- [Indigenous peoples, ethnic groups, and the state](../sources/4884-indigenous-peoples-ethnic-groups-and-the-state.md) (1996)
-- [The veil and Muslim women’s identity: Cultural pressures and resistance to stereotyping](../sources/4887-the-veil-and-muslim-womens-identity-cultural-pressures-and-resistance-to-stereot.md) (2012)
-- [Race, Nature, and the Politics of Difference](../sources/4957-race-nature-and-the-politics-of-difference.md) (2003)
-- [Fields of the Lord](../sources/4898-fields-of-the-lord.md) (2017)
-- [Assimilation, multiculturalism, hybridity: The dilemmas of the ethnic chinese in post-suharto Indonesia 1](../sources/4890-assimilation-multiculturalism-hybridity-the-dilemmas-of-the-ethnic-chinese-in-po.md) (2006)
-- [PENDIDIKAN MULTIKULTURAL DI INDONESIA SEBUAH PANDANGAN KONSEPSIONAL](../sources/4896-pendidikan-multikultural-di-indonesia-sebuah-pandangan-konsepsional.md) (2014)
-- [Plural Semantics, Reduplication, and Numeral Modification in Indonesian](../sources/4955-plural-semantics-reduplication-and-numeral-modification-in-indonesian.md) (2011)
-- [Fields of the Lord: Animism, Christian Minorities, and State Development in Indonesia](../sources/4907-fields-of-the-lord-animism-christian-minorities-and-state-development-in-indones.md) (2002)
-- [Christianity in Indonesia : perspectives of power](../sources/4899-christianity-in-indonesia--perspectives-of-power.md) (2010)
-- [Understanding the Ethnic Chinese in Southeast Asia](../sources/4894-understanding-the-ethnic-chinese-in-southeast-asia.md) (2006)
-- [SUFISME-PERSIA DAN PENGARUHNYA TERHADAP EKSPRESI BUDAYA ISLAM NUSANTARA](../sources/4903-sufisme-persia-dan-pengaruhnya-terhadap-ekspresi-budaya-islam-nusantara.md) (2016)
-- [Counting the full cost](../sources/4871-counting-the-full-cost.md) (1996)
-- [Forbidden intimacies: Christian–Muslim intermarriage in East Kalimantan, Indonesia](../sources/4900-forbidden-intimacies-christianmuslim-intermarriage-in-east-kalimantan-indonesia.md) (2009)
-- [Nationalism and the Linguistic Rights of Deaf Communities: Linguistic Imperialism and the Recognition and Development of Sign Languages](../sources/4956-nationalism-and-the-linguistic-rights-of-deaf-communities-linguistic-imperialism.md) (1998)
-- [Democratization and identity : regimes and ethnicity in East and Southeast Asia](../sources/4859-democratization-and-identity--regimes-and-ethnicity-in-east-and-southeast-asia.md) (2004)
-- [Defining Indonesian Chineseness under the New Order](../sources/4895-defining-indonesian-chineseness-under-the-new-order.md) (2004)
-- [Reviving the language at risk: a social semiotic analysis of the linguistic landscape of three cities in Indonesia](../sources/4909-reviving-the-language-at-risk-a-social-semiotic-analysis-of-the-linguistic-lands.md) (2020)
-- [Ethnicity in Asia](../sources/4897-ethnicity-in-asia.md) (2003)
-- [From sojourners to citizens: managing the ethnic Chinese minority in Indonesia and Malaysia](../sources/4876-from-sojourners-to-citizens-managing-the-ethnic-chinese-minority-in-indonesia-an.md) (2001)
-- [No concessions: the life of Yap Thiam Hien, Indonesian human rights lawyer](../sources/4905-no-concessions-the-life-of-yap-thiam-hien-indonesian-human-rights-lawyer.md) (2012)
-- [Kebijakan Negara Indonesia terhadap Etnik Tionghoa: Dari Asimilasi ke Multikulturalisme?](../sources/4906-kebijakan-negara-indonesia-terhadap-etnik-tionghoa-dari-asimilasi-ke-multikultur.md) (2014)
-- [Rebel with a Cause: Ahok and Charismatic Leadership in Indonesia](../sources/4904-rebel-with-a-cause-ahok-and-charismatic-leadership-in-indonesia.md) (2017)
-- [Reformasi, Religious Diversity, and Islamic Radicalism after Suharto](../sources/4908-reformasi-religious-diversity-and-islamic-radicalism-after-suharto.md) (2018)
-- [The Traces of Oppression and Trauma to Ethnic Minorities in Indonesia Who Experienced Rape on the 12 May 1998 Tragedy: A Review of Literature](../sources/4877-the-traces-of-oppression-and-trauma-to-ethnic-minorities-in-indonesia-who-experi.md) (2021)
-- [Orphans of Transition: Gypsies in Eastern Europe](../sources/4869-orphans-of-transition-gypsies-in-eastern-europe.md) (1998)
-- [Difficult memories: the independence struggle as cultural heritage in East Timor](../sources/4958-difficult-memories-the-independence-struggle-as-cultural-heritage-in-east-timor.md) (2008)
-- [Explaining a rare null relationship between group identification and social protest through a relational form of coping with low group status](../sources/4891-explaining-a-rare-null-relationship-between-group-identification-and-social-prot.md) (2016)
-- [Masyarakat HuKum Adat dan Hak Ulayat di Provinsi Papua Barat SebagaI Orang Asli Papua di Tinjau dari Sisi adat dan budaya; Sebuah Kajian EtnografI KekinIan](../sources/4959-masyarakat-hukum-adat-dan-hak-ulayat-di-provinsi-papua-barat-sebagai-orang-asli-.md) (2013)
-- [Challenges for sustainability in cultures where regard for the future may not be present](../sources/4961-challenges-for-sustainability-in-cultures-where-regard-for-the-future-may-not-be.md) (2006)
-- [Recognizing indigenous identity in postcolonial Malaysian law: Rights and realities for the Orang Asli (aborigines) of Peninsular Malaysia](../sources/4966-recognizing-indigenous-identity-in-postcolonial-malaysian-law-rights-and-realiti.md) (2008)
-- [Culture Differences of Indonesia Ethnic Minorities in Non-verbal Communication](../sources/4875-culture-differences-of-indonesia-ethnic-minorities-in-non-verbal-communication.md) (2017)
-- [9. The mobilisation of intolerance and its trajectories: Indonesian Muslims’ views of religious minorities and ethnic Chinese](../sources/4880-9-the-mobilisation-of-intolerance-and-its-trajectories-indonesian-muslims-views-.md) (2019)
-- [Eksplorasi Perlindungan Kekayaan Intelektual Komunal Berbasis Hak Asasi Manusia](../sources/4931-eksplorasi-perlindungan-kekayaan-intelektual-komunal-berbasis-hak-asasi-manusia.md) (2022)
-- [An Analysis of the Gap Between Data Protection Regulations and Privacy Rights Implementation in Indonesia](../sources/4952-an-analysis-of-the-gap-between-data-protection-regulations-and-privacy-rights-im.md) (2024)
-- [The Politics of Religious Pluralism in Indonesia: The Shi'a Response to the Sampang Incidents of 2011–12](../sources/4860-the-politics-of-religious-pluralism-in-indonesia-the-shia-response-to-the-sampan.md) (2019)
-- [Evidence from Indonesia on the legal policy confronting discrimination of minority groups based on race and ethnicity](../sources/4879-evidence-from-indonesia-on-the-legal-policy-confronting-discrimination-of-minori.md) (2023)
-- [The Exploitation of Indigenous Communities by Commercial Actors: Traditional Knowledge and Traditional Cultural Expression](../sources/4933-the-exploitation-of-indigenous-communities-by-commercial-actors-traditional-know.md) (2021)
-- [“The blacks of Indonesia”: the articulation of papuan ethnic identity on social media](../sources/4901-the-blacks-of-indonesia-the-articulation-of-papuan-ethnic-identity-on-social-med.md) (2016)
-- [Hate Speech: The Phenomenon of Offensive Language](../sources/4962-hate-speech-the-phenomenon-of-offensive-language.md) (2019)
-- [The Paradox of Indonesian Democracy](../sources/4967-the-paradox-of-indonesian-democracy.md) (2004)
-- [General Imamura and the Early Period of Japanese Occupation](../sources/4969-general-imamura-and-the-early-period-of-japanese-occupation.md) (1970)
-- [Identity and the minority: Ethnic Chinese on the Indonesian periphery](../sources/4878-identity-and-the-minority-ethnic-chinese-on-the-indonesian-periphery.md) (1996)
-- [The handbook of linguistic human rights](../sources/4938-the-handbook-of-linguistic-human-rights.md) (2023)
-- [Ethical and Legal Analysis of Artificial Intelligence Systems in Law Enforcement with a Study of Potential Human Rights Violations in Indonesia](../sources/4953-ethical-and-legal-analysis-of-artificial-intelligence-systems-in-law-enforcement.md) (2024)
-- [The politics of fear and the suppression of Indigenous language activism in Asia: Prospects for the United Nations’ Decade of Indigenous Languages](../sources/4960-the-politics-of-fear-and-the-suppression-of-indigenous-language-activism-in-asia.md) (2023)
-- [Effects of acculturation of assimilation in the search for cultural identity by the Punjabi ethnic minority in Medan, Indonesia](../sources/4881-effects-of-acculturation-of-assimilation-in-the-search-for-cultural-identity-by-.md) (2021)
-- [The Paradoxes of “Vernacularised” Liberalism in Southeast Asia](../sources/4862-the-paradoxes-of-vernacularised-liberalism-in-southeast-asia.md) (2021)
-- [Austerity and Democracy](../sources/4864-austerity-and-democracy.md) (2013)
-- [Wicked Problems and community development](../sources/4968-wicked-problems-and-community-development.md) (2018)
-- [What Democracy Do We Want? The Problematic Focus on the Median Voter](../sources/4870-what-democracy-do-we-want-the-problematic-focus-on-the-median-voter.md) (2017)
-- [Identity through a Language Lens](../sources/4971-identity-through-a-language-lens.md) (2011)
-- [The Politics of Permanent Pitfalls](../sources/4863-the-politics-of-permanent-pitfalls.md) (2022)
-- [Analysis of the Mainstreaming Program for Religious Moderation for Students: Study of Ministerial Regulation of Education and Culture Number 45 of 2014](../sources/4932-analysis-of-the-mainstreaming-program-for-religious-moderation-for-students-stud.md) (2022)
-- [Ethnic politics, the Cold War and sub-national dynamics: the Indonesian Communist Party, the ethnic Chinese minority and anti-Chinese activities in West Java, 1949–67](../sources/4893-ethnic-politics-the-cold-war-and-sub-national-dynamics-the-indonesian-communist-.md) (2023)
-- [Edukasi Pencegahan Perilaku Bullying Melalui Video Pendek pada Siswa SMP Khairul Imam Medan](../sources/4924-edukasi-pencegahan-perilaku-bullying-melalui-video-pendek-pada-siswa-smp-khairul.md) (2024)
-- [The Evaluation of Alleged Defamation: A Forensic Linguistics Analysis](../sources/4929-the-evaluation-of-alleged-defamation-a-forensic-linguistics-analysis.md) (2023)
-- [Supporting language rights: plurilingual pedagogies as an impetus for linguistic and cultural inclusion](../sources/4935-supporting-language-rights-plurilingual-pedagogies-as-an-impetus-for-linguistic-.md) (2024)
-- [How Can ChatGPT Empower Indonesian Classrooms?](../sources/4975-how-can-chatgpt-empower-indonesian-classrooms.md) (2025)
-- [Chinese Indonesians in Post-Suharto Indonesia: democratisation and ethnic minorities](../sources/4882-chinese-indonesians-in-post-suharto-indonesia-democratisation-and-ethnic-minorit.md) (2020)
-- [The Narrative of Ethnic Minority Children on Education in Central Java – Indonesia](../sources/4885-the-narrative-of-ethnic-minority-children-on-education-in-central-java--indonesi.md) (2020)
-- [The Treatment of Ethnic Minorities in Democratizing Muslim Countries: The Securitization of Kurds in Turkey Versus the Autonomization of Acehnese in Indonesia](../sources/4889-the-treatment-of-ethnic-minorities-in-democratizing-muslim-countries-the-securit.md) (2017)
-- [‘We can do much more and better’: understanding gatekeepers’ perspectives on students’ linguistic human rights](../sources/4936-we-can-do-much-more-and-better-understanding-gatekeepers-perspectives-on-student.md) (2024)
-- [Language Preservation through Public Signage: Analyzing the Linguistic Landscape of the Indonesia-Timor Leste Border](../sources/4939-language-preservation-through-public-signage-analyzing-the-linguistic-landscape-.md) (2025)
-- [Safeguarding Investor Rights: OJK’s Regulatory Framework Including Management and Challenges in Indonesia’s Capital Market](../sources/4940-safeguarding-investor-rights-ojks-regulatory-framework-including-management-and-.md) (2025)
-- [Racism Toward Chinese Ethnic Group in Indonesian Social Media: Hate Speeches Analysis from Forensic Linguistic Perspective](../sources/4974-racism-toward-chinese-ethnic-group-in-indonesian-social-media-hate-speeches-anal.md) (2022)
-- [CI-PDP: A Framework for LLM-Based Privacy Policy Evaluation under Contextual Integrity and Indonesia’s PDP Law](../sources/4977-ci-pdp-a-framework-for-llm-based-privacy-policy-evaluation-under-contextual-inte.md) (2025)
-- [Religious Minorities in Southeast Asia](../sources/4874-religious-minorities-in-southeast-asia.md) (2020)
-- [The Role of Ethnic Identity in Overcoming Discrimination Against Ethnic Minorities and Politics in Indonesia](../sources/4886-the-role-of-ethnic-identity-in-overcoming-discrimination-against-ethnic-minoriti.md) (2023)
-- [Marginalization of Minority Ethnicities in Ethnic Humor Discourse in Indonesia: A Critical Discourse Analysis](../sources/4888-marginalization-of-minority-ethnicities-in-ethnic-humor-discourse-in-indonesia-a.md) (2024)
-- [Wayang Potehi and the Resistance of the Chinese Ethnic Minority Group Against Racial Discrimination in Indonesia](../sources/4892-wayang-potehi-and-the-resistance-of-the-chinese-ethnic-minority-group-against-ra.md) (2024)
-- [Bajo ethnic minority livelihoods, mobility, and resistance in the Wakatobi National Park, Southeast Sulawesi, Indonesia](../sources/4902-bajo-ethnic-minority-livelihoods-mobility-and-resistance-in-the-wakatobi-nationa.md) (2017)
-- [Integrating Multicultural Education into Primary School Curricula in Southeast Asia: A Comparative Analysis of Indonesia, Malaysia, Thailand, and the Philippines](../sources/4911-integrating-multicultural-education-into-primary-school-curricula-in-southeast-a.md) (2025)
-- [THE COMMANDER'S RESPONSIBILITY FOR WAR CRIMES: THE NECESSITY FOR INDONESIA TO ADHERE TO THE ROME STATUTE](../sources/4912-the-commanders-responsibility-for-war-crimes-the-necessity-for-indonesia-to-adhe.md) (2025)
-- [Examining the Israeli Product Boycott in Indonesia: Exploring the Intersection of Religious Tensions and Digital Information to Assess its Influence on Global Discourse on Humanity](../sources/4915-examining-the-israeli-product-boycott-in-indonesia-exploring-the-intersection-of.md) (2024)
-- [Modernization as the Basis for Democracy in Indonesia](../sources/4919-modernization-as-the-basis-for-democracy-in-indonesia.md) (2023)
-- [Linguistic Manipulation by Scammer as Cyber Crime: Viewed from Law and Education](../sources/4920-linguistic-manipulation-by-scammer-as-cyber-crime-viewed-from-law-and-education.md) (2021)
-- [Analisis Terhadap Diskriminasi Rasial dan Etnis Yang Terkait Dengan Hak Asasi Terhadap Manusia](../sources/4926-analisis-terhadap-diskriminasi-rasial-dan-etnis-yang-terkait-dengan-hak-asasi-te.md) (2024)
-- [Human Trafficking In The Islamic View (Comparative Study Of Al-Azhar And Al Misbah Interpretation)](../sources/4927-human-trafficking-in-the-islamic-view-comparative-study-of-al-azhar-and-al-misba.md) (2024)
-- [Universal Humanitarian Principles Of Minangkabau Proverbs: A Living Law Perspective](../sources/4930-universal-humanitarian-principles-of-minangkabau-proverbs-a-living-law-perspecti.md) (2023)
-- [Post-Truth Law Analysis of the Protection of Privacy Rights in Cases of Digital Defamation Dissemination in Indonesia](../sources/4937-post-truth-law-analysis-of-the-protection-of-privacy-rights-in-cases-of-digital-.md) (2025)
-- [Enhancing Linguistic Competency in Indonesia through Strategic Collaboration](../sources/4941-enhancing-linguistic-competency-in-indonesia-through-strategic-collaboration.md) (2025)
-- [Investigation of the Linguistic Landscape of Local People at ‘’Pantura”](../sources/4910-investigation-of-the-linguistic-landscape-of-local-people-at-pantura.md) (2024)
-- [Teaching Tolerance through Law and Language: English for Sharia Purposes and Interfaith Legal Education in Indonesia](../sources/4913-teaching-tolerance-through-law-and-language-english-for-sharia-purposes-and-inte.md) (2025)
-- [The Human Rights Discourse in Indonesia Political Contestation](../sources/4914-the-human-rights-discourse-in-indonesia-political-contestation.md) (2018)
-- [DYNAMICS OF DEMOCRACY AND AUTHORITARIANISM IN INDONESIA: A CRITICISM OF THE SOCIO-POLITICAL INTERPRETATION OF SYU’BAH ASA IN THE NEW ORDER ERA](../sources/4916-dynamics-of-democracy-and-authoritarianism-in-indonesia-a-criticism-of-the-socio.md) (2024)
-- [Confinement of People with Mental Disorders from the Perspective of Spiritual Leaders of Banggai Culture, Indonesia: An Ethnosemantic Approach](../sources/4917-confinement-of-people-with-mental-disorders-from-the-perspective-of-spiritual-le.md) (2024)
-- [Isu Etika dalam Pemanfaatan Tenaga Kesehatan Warga Negara Asing di Indonesia: Perspektif Keberlanjutan Pelayanan Kesehatan](../sources/4918-isu-etika-dalam-pemanfaatan-tenaga-kesehatan-warga-negara-asing-di-indonesia-per.md) (2024)
-- [THE ROLE OF THE UNITED NATIONS IN PREVENTING HUMAN RIGHTS AND SEXUAL ABUSE IN JAMMU-KASHMIR CONFLICT](../sources/4921-the-role-of-the-united-nations-in-preventing-human-rights-and-sexual-abuse-in-ja.md) (2020)
-- [The Role of Counselor Ethics and Competence in Multicultural Counseling: Principles and Challenges](../sources/4922-the-role-of-counselor-ethics-and-competence-in-multicultural-counseling-principl.md) (2026)
-- [A Corpus-Based Critical Discourse Analysis of English Discourse in The Jakarta Post](../sources/4923-a-corpus-based-critical-discourse-analysis-of-english-discourse-in-the-jakarta-p.md) (2025)
-- [Language and Gender: A Case Study of Poetry Fragments By Nizar Qabbani](../sources/4925-language-and-gender-a-case-study-of-poetry-fragments-by-nizar-qabbani.md) (2024)
-- [Hubungan Antara Pemahaman Sila Keempat Pancasila dan Sikap Demokratis Mahasiswa : Analisis di Lingkungan Ppkn C 2022 Unimed](../sources/4928-hubungan-antara-pemahaman-sila-keempat-pancasila-dan-sikap-demokratis-mahasiswa-.md) (2024)
-- [Linguistic rights, translation, and State-sponsored violence in Mexican prisons](../sources/4934-linguistic-rights-translation-and-state-sponsored-violence-in-mexican-prisons.md) (2024)
-- [Human Rights in the Continental European Legal System in Indonesia](../sources/4942-human-rights-in-the-continental-european-legal-system-in-indonesia.md) (2025)
-- [The Role of Labor Law in Settling Industrial Relations Disputes: A Normative Juridical Perspective on the Rights of Workers and the Obligations of Employers in Indonesia](../sources/4943-the-role-of-labor-law-in-settling-industrial-relations-disputes-a-normative-juri.md) (2025)
-- [Legal Analysis of Human Rights Protection within Smart City Policy Implementation in Indonesia](../sources/4944-legal-analysis-of-human-rights-protection-within-smart-city-policy-implementatio.md) (2025)
-- [The Urgency of Strengthening Business License Revocation as an Administrative Sanction to Act against Violations of Workers' Normative Rights in Indonesia](../sources/4945-the-urgency-of-strengthening-business-license-revocation-as-an-administrative-sa.md) (2025)
-- [Implementation of Improvement of Building Rights into Land Ownership Rights and its Obstacles in Indonesia](../sources/4946-implementation-of-improvement-of-building-rights-into-land-ownership-rights-and-.md) (2025)
-- [SYSTEMIC FAILURES IN PROMOTING LEGAL CULTURE OF INTELLECTUAL PROPERTY RIGHTS AMONG INDONESIA’S CREATIVE ECONOMY ACTORS](../sources/4947-systemic-failures-in-promoting-legal-culture-of-intellectual-property-rights-amo.md) (2025)
-- [JUDICIAL PRACTICES IN ENFORCING POST-DIVORCE MAINTENANCE RIGHTS FOR WOMEN AND CHILDREN IN INDONESIA](../sources/4948-judicial-practices-in-enforcing-post-divorce-maintenance-rights-for-women-and-ch.md) (2025)
-- [Constitutional Rights of State Civil Apparatus in Politics in Indonesia](../sources/4949-constitutional-rights-of-state-civil-apparatus-in-politics-in-indonesia.md) (2025)
-- [Spatial Patterns and Toponymic Complexity in Sepaku: A GIS-Based Analysis of Linguistic Variation in Indonesia’s Future Capital](../sources/4950-spatial-patterns-and-toponymic-complexity-in-sepaku-a-gis-based-analysis-of-ling.md) (2025)
-- [A Juridical Review of Constitutional Court Decision No. 18/PUU-V/2007 on the Establishment of Ad Hoc Human Rights Courts in Indonesia](../sources/4951-a-juridical-review-of-constitutional-court-decision-no-18puu-v2007-on-the-establ.md) (2025)
+- [Corruption, institutions, and economic development](../sources/4964-corruption-institutions-and-economic-development.md) (2009) | Relevance: 5.0
+- [Democratic Decentralization of Natural Resources: Institutionalizing Popular Participation](../sources/4865-democratic-decentralization-of-natural-resources-institutionalizing-popular-part.md) (2002) | Relevance: 5.0
+- [Fields of the Lord: Animism, Christian Minorities, and State Development in Indonesia](../sources/4907-fields-of-the-lord-animism-christian-minorities-and-state-development-in-indones.md) (2002) | Relevance: 5.0
+- [Governance and the Capacity to Manage Resilience in Regional Social-Ecological Systems](../sources/4861-governance-and-the-capacity-to-manage-resilience-in-regional-social-ecological-s.md) (2006) | Relevance: 4.0
+- [The Development of Indigenous Knowledge](../sources/4973-the-development-of-indigenous-knowledge.md) (1998) | Relevance: 4.0
+- [Horizontal Inequalities: A Neglected Dimension of Development](../sources/4867-horizontal-inequalities-a-neglected-dimension-of-development.md) (2005) | Relevance: 4.0
+- [Nationalism and the Linguistic Rights of Deaf Communities: Linguistic Imperialism and the Recognition and Development of Sign Languages](../sources/4956-nationalism-and-the-linguistic-rights-of-deaf-communities-linguistic-imperialism.md) (1998) | Relevance: 4.0
+- [Reformasi, Religious Diversity, and Islamic Radicalism after Suharto](../sources/4908-reformasi-religious-diversity-and-islamic-radicalism-after-suharto.md) (2018) | Relevance: 4.0
+- [Wicked Problems and community development](../sources/4968-wicked-problems-and-community-development.md) (2018) | Relevance: 4.0
+- [The Challenges of Online Learning during the COVID-19 Pandemic: An Essay Analysis of Performing Arts Education Students](../sources/4978-the-challenges-of-online-learning-during-the-covid-19-pandemic-an-essay-analysis.md) (2020) | Relevance: 3.0
+- [Analysis of the Mainstreaming Program for Religious Moderation for Students: Study of Ministerial Regulation of Education and Culture Number 45 of 2014](../sources/4932-analysis-of-the-mainstreaming-program-for-religious-moderation-for-students-stud.md) (2022) | Relevance: 3.0
+- [The Narrative of Ethnic Minority Children on Education in Central Java – Indonesia](../sources/4885-the-narrative-of-ethnic-minority-children-on-education-in-central-java--indonesi.md) (2020) | Relevance: 3.0
+- [Integrating Multicultural Education into Primary School Curricula in Southeast Asia: A Comparative Analysis of Indonesia, Malaysia, Thailand, and the Philippines](../sources/4911-integrating-multicultural-education-into-primary-school-curricula-in-southeast-a.md) (2025) | Relevance: 3.0
+- [Linguistic Manipulation by Scammer as Cyber Crime: Viewed from Law and Education](../sources/4920-linguistic-manipulation-by-scammer-as-cyber-crime-viewed-from-law-and-education.md) (2021) | Relevance: 3.0
+- [Teaching Tolerance through Law and Language: English for Sharia Purposes and Interfaith Legal Education in Indonesia](../sources/4913-teaching-tolerance-through-law-and-language-english-for-sharia-purposes-and-inte.md) (2025) | Relevance: 3.0
+- [The Promises and Challenges of Artificial Intelligence for Teachers: a Systematic Review of Research](../sources/4981-the-promises-and-challenges-of-artificial-intelligence-for-teachers-a-systematic.md) (2022) | Relevance: 2.0
+- [Advances in the Cross‐Linguistic Study of Ideophones](../sources/4970-advances-in-the-crosslinguistic-study-of-ideophones.md) (2012) | Relevance: 2.0
+- [Understanding the Ethnic Chinese in Southeast Asia](../sources/4894-understanding-the-ethnic-chinese-in-southeast-asia.md) (2006) | Relevance: 2.0
+- [The Politics of Religious Pluralism in Indonesia: The Shi'a Response to the Sampang Incidents of 2011–12](../sources/4860-the-politics-of-religious-pluralism-in-indonesia-the-shia-response-to-the-sampan.md) (2019) | Relevance: 2.0
+- [The Exploitation of Indigenous Communities by Commercial Actors: Traditional Knowledge and Traditional Cultural Expression](../sources/4933-the-exploitation-of-indigenous-communities-by-commercial-actors-traditional-know.md) (2021) | Relevance: 2.0
+- [The Paradox of Indonesian Democracy](../sources/4967-the-paradox-of-indonesian-democracy.md) (2004) | Relevance: 2.0
+- [Ethical and Legal Analysis of Artificial Intelligence Systems in Law Enforcement with a Study of Potential Human Rights Violations in Indonesia](../sources/4953-ethical-and-legal-analysis-of-artificial-intelligence-systems-in-law-enforcement.md) (2024) | Relevance: 2.0
+- [The Paradoxes of “Vernacularised” Liberalism in Southeast Asia](../sources/4862-the-paradoxes-of-vernacularised-liberalism-in-southeast-asia.md) (2021) | Relevance: 2.0
+- [Identity through a Language Lens](../sources/4971-identity-through-a-language-lens.md) (2011) | Relevance: 2.0
+- [Ethnic politics, the Cold War and sub-national dynamics: the Indonesian Communist Party, the ethnic Chinese minority and anti-Chinese activities in West Java, 1949–67](../sources/4893-ethnic-politics-the-cold-war-and-sub-national-dynamics-the-indonesian-communist-.md) (2023) | Relevance: 2.0
+- [Legal Analysis of Human Rights Protection within Smart City Policy Implementation in Indonesia](../sources/4944-legal-analysis-of-human-rights-protection-within-smart-city-policy-implementatio.md) (2025) | Relevance: 2.0
+- [JUDICIAL PRACTICES IN ENFORCING POST-DIVORCE MAINTENANCE RIGHTS FOR WOMEN AND CHILDREN IN INDONESIA](../sources/4948-judicial-practices-in-enforcing-post-divorce-maintenance-rights-for-women-and-ch.md) (2025) | Relevance: 2.0
+- [The fortune at the bottom of the pyramid](../sources/4965-the-fortune-at-the-bottom-of-the-pyramid.md) (2010) | Relevance: 1.0
+- [Fertility, mortality, migration, and population scenarios for 195 countries and territories from 2017 to 2100: a forecasting analysis for the Global Burden of Disease Study](../sources/4963-fertility-mortality-migration-and-population-scenarios-for-195-countries-and-ter.md) (2020) | Relevance: 1.0
+- [The role of Indigenous peoples and local communities in effective and equitable conservation](../sources/4868-the-role-of-indigenous-peoples-and-local-communities-in-effective-and-equitable-.md) (2021) | Relevance: 1.0
+- [Federalism and Democracy: Beyond the U.S. Model](../sources/4954-federalism-and-democracy-beyond-the-us-model.md) (1999) | Relevance: 1.0
+- [Trump and the Populist Authoritarian Parties:<i>The Silent Revolution</i>in Reverse](../sources/4866-trump-and-the-populist-authoritarian-partiesithe-silent-revolutioniin-reverse.md) (2017) | Relevance: 1.0
+- [Global priorities for an effective information basis of biodiversity distributions](../sources/4979-global-priorities-for-an-effective-information-basis-of-biodiversity-distributio.md) (2015) | Relevance: 1.0
+- [Indigenous climate knowledge in southern Uganda: the multiple components of a dynamic regional system](../sources/4976-indigenous-climate-knowledge-in-southern-uganda-the-multiple-components-of-a-dyn.md) (2009) | Relevance: 1.0
+- [Journal of Contemporary Asia](../sources/4873-journal-of-contemporary-asia.md) (1972) | Relevance: 1.0
+- [Traditional Ecological Knowledge and Global Environmental Change: Research findings and policy implications](../sources/4972-traditional-ecological-knowledge-and-global-environmental-change-research-findin.md) (2013) | Relevance: 1.0
+- [Global trends of local ecological knowledge and future implications](../sources/4980-global-trends-of-local-ecological-knowledge-and-future-implications.md) (2018) | Relevance: 1.0
+- [Policies, Political-Economy, and Swidden in Southeast Asia](../sources/4872-policies-political-economy-and-swidden-in-southeast-asia.md) (2009) | Relevance: 1.0
+- [Reputation and Civil War](../sources/4883-reputation-and-civil-war.md) (2009) | Relevance: 1.0
+- [Indigenous peoples, ethnic groups, and the state](../sources/4884-indigenous-peoples-ethnic-groups-and-the-state.md) (1996) | Relevance: 1.0
+- [The veil and Muslim women’s identity: Cultural pressures and resistance to stereotyping](../sources/4887-the-veil-and-muslim-womens-identity-cultural-pressures-and-resistance-to-stereot.md) (2012) | Relevance: 1.0
+- [Race, Nature, and the Politics of Difference](../sources/4957-race-nature-and-the-politics-of-difference.md) (2003) | Relevance: 1.0
+- [Fields of the Lord](../sources/4898-fields-of-the-lord.md) (2017) | Relevance: 1.0
+- [Assimilation, multiculturalism, hybridity: The dilemmas of the ethnic chinese in post-suharto Indonesia 1](../sources/4890-assimilation-multiculturalism-hybridity-the-dilemmas-of-the-ethnic-chinese-in-po.md) (2006) | Relevance: 1.0
+- [PENDIDIKAN MULTIKULTURAL DI INDONESIA SEBUAH PANDANGAN KONSEPSIONAL](../sources/4896-pendidikan-multikultural-di-indonesia-sebuah-pandangan-konsepsional.md) (2014) | Relevance: 1.0
+- [Plural Semantics, Reduplication, and Numeral Modification in Indonesian](../sources/4955-plural-semantics-reduplication-and-numeral-modification-in-indonesian.md) (2011) | Relevance: 1.0
+- [Christianity in Indonesia : perspectives of power](../sources/4899-christianity-in-indonesia--perspectives-of-power.md) (2010) | Relevance: 1.0
+- [SUFISME-PERSIA DAN PENGARUHNYA TERHADAP EKSPRESI BUDAYA ISLAM NUSANTARA](../sources/4903-sufisme-persia-dan-pengaruhnya-terhadap-ekspresi-budaya-islam-nusantara.md) (2016) | Relevance: 1.0
+- [Counting the full cost](../sources/4871-counting-the-full-cost.md) (1996) | Relevance: 1.0
+- [Forbidden intimacies: Christian–Muslim intermarriage in East Kalimantan, Indonesia](../sources/4900-forbidden-intimacies-christianmuslim-intermarriage-in-east-kalimantan-indonesia.md) (2009) | Relevance: 1.0
+- [Democratization and identity : regimes and ethnicity in East and Southeast Asia](../sources/4859-democratization-and-identity--regimes-and-ethnicity-in-east-and-southeast-asia.md) (2004) | Relevance: 1.0
+- [Defining Indonesian Chineseness under the New Order](../sources/4895-defining-indonesian-chineseness-under-the-new-order.md) (2004) | Relevance: 1.0
+- [Reviving the language at risk: a social semiotic analysis of the linguistic landscape of three cities in Indonesia](../sources/4909-reviving-the-language-at-risk-a-social-semiotic-analysis-of-the-linguistic-lands.md) (2020) | Relevance: 1.0
+- [Ethnicity in Asia](../sources/4897-ethnicity-in-asia.md) (2003) | Relevance: 1.0
+- [From sojourners to citizens: managing the ethnic Chinese minority in Indonesia and Malaysia](../sources/4876-from-sojourners-to-citizens-managing-the-ethnic-chinese-minority-in-indonesia-an.md) (2001) | Relevance: 1.0
+- [No concessions: the life of Yap Thiam Hien, Indonesian human rights lawyer](../sources/4905-no-concessions-the-life-of-yap-thiam-hien-indonesian-human-rights-lawyer.md) (2012) | Relevance: 1.0
+- [Kebijakan Negara Indonesia terhadap Etnik Tionghoa: Dari Asimilasi ke Multikulturalisme?](../sources/4906-kebijakan-negara-indonesia-terhadap-etnik-tionghoa-dari-asimilasi-ke-multikultur.md) (2014) | Relevance: 1.0
+- [Rebel with a Cause: Ahok and Charismatic Leadership in Indonesia](../sources/4904-rebel-with-a-cause-ahok-and-charismatic-leadership-in-indonesia.md) (2017) | Relevance: 1.0
+- [The Traces of Oppression and Trauma to Ethnic Minorities in Indonesia Who Experienced Rape on the 12 May 1998 Tragedy: A Review of Literature](../sources/4877-the-traces-of-oppression-and-trauma-to-ethnic-minorities-in-indonesia-who-experi.md) (2021) | Relevance: 1.0
+- [Orphans of Transition: Gypsies in Eastern Europe](../sources/4869-orphans-of-transition-gypsies-in-eastern-europe.md) (1998) | Relevance: 1.0
+- [Difficult memories: the independence struggle as cultural heritage in East Timor](../sources/4958-difficult-memories-the-independence-struggle-as-cultural-heritage-in-east-timor.md) (2008) | Relevance: 1.0
+- [Explaining a rare null relationship between group identification and social protest through a relational form of coping with low group status](../sources/4891-explaining-a-rare-null-relationship-between-group-identification-and-social-prot.md) (2016) | Relevance: 1.0
+- [Masyarakat HuKum Adat dan Hak Ulayat di Provinsi Papua Barat SebagaI Orang Asli Papua di Tinjau dari Sisi adat dan budaya; Sebuah Kajian EtnografI KekinIan](../sources/4959-masyarakat-hukum-adat-dan-hak-ulayat-di-provinsi-papua-barat-sebagai-orang-asli-.md) (2013) | Relevance: 1.0
+- [Challenges for sustainability in cultures where regard for the future may not be present](../sources/4961-challenges-for-sustainability-in-cultures-where-regard-for-the-future-may-not-be.md) (2006) | Relevance: 1.0
+- [Recognizing indigenous identity in postcolonial Malaysian law: Rights and realities for the Orang Asli (aborigines) of Peninsular Malaysia](../sources/4966-recognizing-indigenous-identity-in-postcolonial-malaysian-law-rights-and-realiti.md) (2008) | Relevance: 1.0
+- [Culture Differences of Indonesia Ethnic Minorities in Non-verbal Communication](../sources/4875-culture-differences-of-indonesia-ethnic-minorities-in-non-verbal-communication.md) (2017) | Relevance: 1.0
+- [9. The mobilisation of intolerance and its trajectories: Indonesian Muslims’ views of religious minorities and ethnic Chinese](../sources/4880-9-the-mobilisation-of-intolerance-and-its-trajectories-indonesian-muslims-views-.md) (2019) | Relevance: 1.0
+- [Eksplorasi Perlindungan Kekayaan Intelektual Komunal Berbasis Hak Asasi Manusia](../sources/4931-eksplorasi-perlindungan-kekayaan-intelektual-komunal-berbasis-hak-asasi-manusia.md) (2022) | Relevance: 1.0
+- [An Analysis of the Gap Between Data Protection Regulations and Privacy Rights Implementation in Indonesia](../sources/4952-an-analysis-of-the-gap-between-data-protection-regulations-and-privacy-rights-im.md) (2024) | Relevance: 1.0
+- [Evidence from Indonesia on the legal policy confronting discrimination of minority groups based on race and ethnicity](../sources/4879-evidence-from-indonesia-on-the-legal-policy-confronting-discrimination-of-minori.md) (2023) | Relevance: 1.0
+- [“The blacks of Indonesia”: the articulation of papuan ethnic identity on social media](../sources/4901-the-blacks-of-indonesia-the-articulation-of-papuan-ethnic-identity-on-social-med.md) (2016) | Relevance: 1.0
+- [Hate Speech: The Phenomenon of Offensive Language](../sources/4962-hate-speech-the-phenomenon-of-offensive-language.md) (2019) | Relevance: 1.0
+- [General Imamura and the Early Period of Japanese Occupation](../sources/4969-general-imamura-and-the-early-period-of-japanese-occupation.md) (1970) | Relevance: 1.0
+- [Identity and the minority: Ethnic Chinese on the Indonesian periphery](../sources/4878-identity-and-the-minority-ethnic-chinese-on-the-indonesian-periphery.md) (1996) | Relevance: 1.0
+- [The handbook of linguistic human rights](../sources/4938-the-handbook-of-linguistic-human-rights.md) (2023) | Relevance: 1.0
+- [The politics of fear and the suppression of Indigenous language activism in Asia: Prospects for the United Nations’ Decade of Indigenous Languages](../sources/4960-the-politics-of-fear-and-the-suppression-of-indigenous-language-activism-in-asia.md) (2023) | Relevance: 1.0
+- [Effects of acculturation of assimilation in the search for cultural identity by the Punjabi ethnic minority in Medan, Indonesia](../sources/4881-effects-of-acculturation-of-assimilation-in-the-search-for-cultural-identity-by-.md) (2021) | Relevance: 1.0
+- [Austerity and Democracy](../sources/4864-austerity-and-democracy.md) (2013) | Relevance: 1.0
+- [What Democracy Do We Want? The Problematic Focus on the Median Voter](../sources/4870-what-democracy-do-we-want-the-problematic-focus-on-the-median-voter.md) (2017) | Relevance: 1.0
+- [The Politics of Permanent Pitfalls](../sources/4863-the-politics-of-permanent-pitfalls.md) (2022) | Relevance: 1.0
+- [Edukasi Pencegahan Perilaku Bullying Melalui Video Pendek pada Siswa SMP Khairul Imam Medan](../sources/4924-edukasi-pencegahan-perilaku-bullying-melalui-video-pendek-pada-siswa-smp-khairul.md) (2024) | Relevance: 1.0
+- [The Evaluation of Alleged Defamation: A Forensic Linguistics Analysis](../sources/4929-the-evaluation-of-alleged-defamation-a-forensic-linguistics-analysis.md) (2023) | Relevance: 1.0
+- [Supporting language rights: plurilingual pedagogies as an impetus for linguistic and cultural inclusion](../sources/4935-supporting-language-rights-plurilingual-pedagogies-as-an-impetus-for-linguistic-.md) (2024) | Relevance: 1.0
+- [How Can ChatGPT Empower Indonesian Classrooms?](../sources/4975-how-can-chatgpt-empower-indonesian-classrooms.md) (2025) | Relevance: 1.0
+- [Chinese Indonesians in Post-Suharto Indonesia: democratisation and ethnic minorities](../sources/4882-chinese-indonesians-in-post-suharto-indonesia-democratisation-and-ethnic-minorit.md) (2020) | Relevance: 1.0
+- [The Treatment of Ethnic Minorities in Democratizing Muslim Countries: The Securitization of Kurds in Turkey Versus the Autonomization of Acehnese in Indonesia](../sources/4889-the-treatment-of-ethnic-minorities-in-democratizing-muslim-countries-the-securit.md) (2017) | Relevance: 1.0
+- [‘We can do much more and better’: understanding gatekeepers’ perspectives on students’ linguistic human rights](../sources/4936-we-can-do-much-more-and-better-understanding-gatekeepers-perspectives-on-student.md) (2024) | Relevance: 1.0
+- [Language Preservation through Public Signage: Analyzing the Linguistic Landscape of the Indonesia-Timor Leste Border](../sources/4939-language-preservation-through-public-signage-analyzing-the-linguistic-landscape-.md) (2025) | Relevance: 1.0
+- [Safeguarding Investor Rights: OJK’s Regulatory Framework Including Management and Challenges in Indonesia’s Capital Market](../sources/4940-safeguarding-investor-rights-ojks-regulatory-framework-including-management-and-.md) (2025) | Relevance: 1.0
+- [Racism Toward Chinese Ethnic Group in Indonesian Social Media: Hate Speeches Analysis from Forensic Linguistic Perspective](../sources/4974-racism-toward-chinese-ethnic-group-in-indonesian-social-media-hate-speeches-anal.md) (2022) | Relevance: 1.0
+- [CI-PDP: A Framework for LLM-Based Privacy Policy Evaluation under Contextual Integrity and Indonesia’s PDP Law](../sources/4977-ci-pdp-a-framework-for-llm-based-privacy-policy-evaluation-under-contextual-inte.md) (2025) | Relevance: 1.0
+- [Religious Minorities in Southeast Asia](../sources/4874-religious-minorities-in-southeast-asia.md) (2020) | Relevance: 1.0
+- [The Role of Ethnic Identity in Overcoming Discrimination Against Ethnic Minorities and Politics in Indonesia](../sources/4886-the-role-of-ethnic-identity-in-overcoming-discrimination-against-ethnic-minoriti.md) (2023) | Relevance: 1.0
+- [Marginalization of Minority Ethnicities in Ethnic Humor Discourse in Indonesia: A Critical Discourse Analysis](../sources/4888-marginalization-of-minority-ethnicities-in-ethnic-humor-discourse-in-indonesia-a.md) (2024) | Relevance: 1.0
+- [Wayang Potehi and the Resistance of the Chinese Ethnic Minority Group Against Racial Discrimination in Indonesia](../sources/4892-wayang-potehi-and-the-resistance-of-the-chinese-ethnic-minority-group-against-ra.md) (2024) | Relevance: 1.0
+- [Bajo ethnic minority livelihoods, mobility, and resistance in the Wakatobi National Park, Southeast Sulawesi, Indonesia](../sources/4902-bajo-ethnic-minority-livelihoods-mobility-and-resistance-in-the-wakatobi-nationa.md) (2017) | Relevance: 1.0
+- [THE COMMANDER'S RESPONSIBILITY FOR WAR CRIMES: THE NECESSITY FOR INDONESIA TO ADHERE TO THE ROME STATUTE](../sources/4912-the-commanders-responsibility-for-war-crimes-the-necessity-for-indonesia-to-adhe.md) (2025) | Relevance: 1.0
+- [Examining the Israeli Product Boycott in Indonesia: Exploring the Intersection of Religious Tensions and Digital Information to Assess its Influence on Global Discourse on Humanity](../sources/4915-examining-the-israeli-product-boycott-in-indonesia-exploring-the-intersection-of.md) (2024) | Relevance: 1.0
+- [Modernization as the Basis for Democracy in Indonesia](../sources/4919-modernization-as-the-basis-for-democracy-in-indonesia.md) (2023) | Relevance: 1.0
+- [Analisis Terhadap Diskriminasi Rasial dan Etnis Yang Terkait Dengan Hak Asasi Terhadap Manusia](../sources/4926-analisis-terhadap-diskriminasi-rasial-dan-etnis-yang-terkait-dengan-hak-asasi-te.md) (2024) | Relevance: 1.0
+- [Human Trafficking In The Islamic View (Comparative Study Of Al-Azhar And Al Misbah Interpretation)](../sources/4927-human-trafficking-in-the-islamic-view-comparative-study-of-al-azhar-and-al-misba.md) (2024) | Relevance: 1.0
+- [Universal Humanitarian Principles Of Minangkabau Proverbs: A Living Law Perspective](../sources/4930-universal-humanitarian-principles-of-minangkabau-proverbs-a-living-law-perspecti.md) (2023) | Relevance: 1.0
+- [Post-Truth Law Analysis of the Protection of Privacy Rights in Cases of Digital Defamation Dissemination in Indonesia](../sources/4937-post-truth-law-analysis-of-the-protection-of-privacy-rights-in-cases-of-digital-.md) (2025) | Relevance: 1.0
+- [Enhancing Linguistic Competency in Indonesia through Strategic Collaboration](../sources/4941-enhancing-linguistic-competency-in-indonesia-through-strategic-collaboration.md) (2025) | Relevance: 1.0
+- [Investigation of the Linguistic Landscape of Local People at ‘’Pantura”](../sources/4910-investigation-of-the-linguistic-landscape-of-local-people-at-pantura.md) (2024) | Relevance: 1.0
+- [The Human Rights Discourse in Indonesia Political Contestation](../sources/4914-the-human-rights-discourse-in-indonesia-political-contestation.md) (2018) | Relevance: 1.0
+- [DYNAMICS OF DEMOCRACY AND AUTHORITARIANISM IN INDONESIA: A CRITICISM OF THE SOCIO-POLITICAL INTERPRETATION OF SYU’BAH ASA IN THE NEW ORDER ERA](../sources/4916-dynamics-of-democracy-and-authoritarianism-in-indonesia-a-criticism-of-the-socio.md) (2024) | Relevance: 1.0
+- [Confinement of People with Mental Disorders from the Perspective of Spiritual Leaders of Banggai Culture, Indonesia: An Ethnosemantic Approach](../sources/4917-confinement-of-people-with-mental-disorders-from-the-perspective-of-spiritual-le.md) (2024) | Relevance: 1.0
+- [Isu Etika dalam Pemanfaatan Tenaga Kesehatan Warga Negara Asing di Indonesia: Perspektif Keberlanjutan Pelayanan Kesehatan](../sources/4918-isu-etika-dalam-pemanfaatan-tenaga-kesehatan-warga-negara-asing-di-indonesia-per.md) (2024) | Relevance: 1.0
+- [THE ROLE OF THE UNITED NATIONS IN PREVENTING HUMAN RIGHTS AND SEXUAL ABUSE IN JAMMU-KASHMIR CONFLICT](../sources/4921-the-role-of-the-united-nations-in-preventing-human-rights-and-sexual-abuse-in-ja.md) (2020) | Relevance: 1.0
+- [The Role of Counselor Ethics and Competence in Multicultural Counseling: Principles and Challenges](../sources/4922-the-role-of-counselor-ethics-and-competence-in-multicultural-counseling-principl.md) (2026) | Relevance: 1.0
+- [A Corpus-Based Critical Discourse Analysis of English Discourse in The Jakarta Post](../sources/4923-a-corpus-based-critical-discourse-analysis-of-english-discourse-in-the-jakarta-p.md) (2025) | Relevance: 1.0
+- [Language and Gender: A Case Study of Poetry Fragments By Nizar Qabbani](../sources/4925-language-and-gender-a-case-study-of-poetry-fragments-by-nizar-qabbani.md) (2024) | Relevance: 1.0
+- [Hubungan Antara Pemahaman Sila Keempat Pancasila dan Sikap Demokratis Mahasiswa : Analisis di Lingkungan Ppkn C 2022 Unimed](../sources/4928-hubungan-antara-pemahaman-sila-keempat-pancasila-dan-sikap-demokratis-mahasiswa-.md) (2024) | Relevance: 1.0
+- [Linguistic rights, translation, and State-sponsored violence in Mexican prisons](../sources/4934-linguistic-rights-translation-and-state-sponsored-violence-in-mexican-prisons.md) (2024) | Relevance: 1.0
+- [Human Rights in the Continental European Legal System in Indonesia](../sources/4942-human-rights-in-the-continental-european-legal-system-in-indonesia.md) (2025) | Relevance: 1.0
+- [The Role of Labor Law in Settling Industrial Relations Disputes: A Normative Juridical Perspective on the Rights of Workers and the Obligations of Employers in Indonesia](../sources/4943-the-role-of-labor-law-in-settling-industrial-relations-disputes-a-normative-juri.md) (2025) | Relevance: 1.0
+- [The Urgency of Strengthening Business License Revocation as an Administrative Sanction to Act against Violations of Workers' Normative Rights in Indonesia](../sources/4945-the-urgency-of-strengthening-business-license-revocation-as-an-administrative-sa.md) (2025) | Relevance: 1.0
+- [Implementation of Improvement of Building Rights into Land Ownership Rights and its Obstacles in Indonesia](../sources/4946-implementation-of-improvement-of-building-rights-into-land-ownership-rights-and-.md) (2025) | Relevance: 1.0
+- [SYSTEMIC FAILURES IN PROMOTING LEGAL CULTURE OF INTELLECTUAL PROPERTY RIGHTS AMONG INDONESIA’S CREATIVE ECONOMY ACTORS](../sources/4947-systemic-failures-in-promoting-legal-culture-of-intellectual-property-rights-amo.md) (2025) | Relevance: 1.0
+- [Constitutional Rights of State Civil Apparatus in Politics in Indonesia](../sources/4949-constitutional-rights-of-state-civil-apparatus-in-politics-in-indonesia.md) (2025) | Relevance: 1.0
+- [Spatial Patterns and Toponymic Complexity in Sepaku: A GIS-Based Analysis of Linguistic Variation in Indonesia’s Future Capital](../sources/4950-spatial-patterns-and-toponymic-complexity-in-sepaku-a-gis-based-analysis-of-ling.md) (2025) | Relevance: 1.0
+- [A Juridical Review of Constitutional Court Decision No. 18/PUU-V/2007 on the Establishment of Ad Hoc Human Rights Courts in Indonesia](../sources/4951-a-juridical-review-of-constitutional-court-decision-no-18puu-v2007-on-the-establ.md) (2025) | Relevance: 1.0
+
+## Political party formation and pluralism
+*17 sources*
+
+- [Indonesia's Accountability Trap: Party Cartels and Presidential Power after Democratic Transition](../sources/1522-indonesias-accountability-trap-party-cartels-and-presidential-power-after-democr.md) (2004) | Relevance: 4.0
+- [Democratization in Post-Suharto Indonesia](../sources/1539-democratization-in-post-suharto-indonesia.md) (2008) | Relevance: 4.0
+- [A consolidated patrimonial democracy? Democratization in post-Suharto Indonesia](../sources/1550-a-consolidated-patrimonial-democracy-democratization-in-post-suharto-indonesia.md) (2006) | Relevance: 4.0
+- [Government and Politics in Southeast Asia](../sources/1546-government-and-politics-in-southeast-asia.md) (2002) | Relevance: 4.0
+- [The Pandemic as Political Opportunity: Jokowi’s Indonesia in the Time of Covid-19](../sources/1557-the-pandemic-as-political-opportunity-jokowis-indonesia-in-the-time-of-covid-19.md) (2021) | Relevance: 4.0
+- [Two Decades of Ideological Contestation in Indonesia: From Democratic Cosmopolitanism to Religious Nationalism](../sources/1523-two-decades-of-ideological-contestation-in-indonesia-from-democratic-cosmopolita.md) (2019) | Relevance: 3.0
+- [The Crisis of Democratic Governance in Southeast Asia](../sources/1571-the-crisis-of-democratic-governance-in-southeast-asia.md) (2011) | Relevance: 3.0
+- [Indonesia 2019-2022: The authoritarian turn as leitmotif of president Jokowi’s second term](../sources/1597-indonesia-2019-2022-the-authoritarian-turn-as-leitmotif-of-president-jokowis-sec.md) (2023) | Relevance: 3.0
+- [TRANSFORMATION OF BRICS IN THE PROCESS OF FORMING A NEW WORLD ORDER IN THE LIGHT OF UKRAINIAN EVENTS](../sources/1601-transformation-of-brics-in-the-process-of-forming-a-new-world-order-in-the-light.md) (2024) | Relevance: 2.0
+- [EXPERIENCE IN THE USE OF UNMANNED AERIAL VEHICLES IN MONITORING THE DEFORMATION OF ENGINEERING STRUCTURES](../sources/1606-experience-in-the-use-of-unmanned-aerial-vehicles-in-monitoring-the-deformation-.md) (2024) | Relevance: 2.0
+- [TECHNOLOGY AND SYSTEM OF FEEDING AND DISTRIBUTION OF NUTRIENT SOLUTIONS FOR VERTICAL CULTIVATION OF VEGETABLE CROPS ON DRIP IRRIGATION](../sources/1609-technology-and-system-of-feeding-and-distribution-of-nutrient-solutions-for-vert.md) (2024) | Relevance: 2.0
+- [THE ZINC PHTHALOCYANINE AND AN ANTI-CANCER DRUG ON THE BASIS IT](../sources/1611-the-zinc-phthalocyanine-and-an-anti-cancer-drug-on-the-basis-it.md) (2024) | Relevance: 2.0
+- [THE USE OF SEMANTIC GROUPS FOR SENTIMENT ANALYSIS](../sources/1614-the-use-of-semantic-groups-for-sentiment-analysis.md) (2024) | Relevance: 2.0
+- [MANIFESTATION OF MENTALITY FEATURES AS ONE OF THE MAIN VALUES OF THE RUSSIAN FEDERATION CITIZENS](../sources/1615-manifestation-of-mentality-features-as-one-of-the-main-values-of-the-russian-fed.md) (2024) | Relevance: 2.0
+- [JUSTIFICATION OF THE USE OF PLANT EXTRACTS BASED ON ALGINATE-CONTAINING GEL IN THE PRODUCTION TECHNOLOGY OF COLD-SMOKED SOCKEYE SALMON](../sources/1616-justification-of-the-use-of-plant-extracts-based-on-alginate-containing-gel-in-t.md) (2024) | Relevance: 2.0
+- [WIDE-REACH SPRINKLER MACHINE WITH “INTELLIGENT MODULE”](../sources/1617-wide-reach-sprinkler-machine-with-intelligent-module.md) (2024) | Relevance: 2.0
+- [CIRCADIAN RHYTHM OF MINUTE VOLUME OF BLOOD CIRCULATION IN THE ACUTE PERIOD OF SEVERE CONCOMITANT TRAUMATIC BRAIN INJURY IN CHILDREN OF 3.1-7 YEARS OF AGE](../sources/1619-circadian-rhythm-of-minute-volume-of-blood-circulation-in-the-acute-period-of-se.md) (2024) | Relevance: 1.0
+
+## Power-sharing mechanisms during transition periods
+*1 sources*
+
+- [Borrower Ownership of Adjustment programs and the Political Economy of Reform](../sources/1572-borrower-ownership-of-adjustment-programs-and-the-political-economy-of-reform.md) (1993) | Relevance: 4.0
+
+## Privatization and state-owned enterprise restructuring
+*7 sources*
+
+- [Employee Participation in Decision-Making: Evidence from a State-Owned Enterprise in Indonesia](../sources/1978-employee-participation-in-decision-making-evidence-from-a-state-owned-enterprise.md) (2015) | Relevance: 4.0
+- [How Financial Performance and State-Owned Enterprise (SOE) Values Are Affected by Good Corporate Governance and Intellectual Capital Perspectives](../sources/1961-how-financial-performance-and-state-owned-enterprise-soe-values-are-affected-by-.md) (2021) | Relevance: 4.0
+- [Indonesian Corporations, Cronyism, and Corruption](../sources/1555-indonesian-corporations-cronyism-and-corruption.md) (2006) | Relevance: 3.0
+- [Private health sector growth in Asia : issues and implications](../sources/1569-private-health-sector-growth-in-asia--issues-and-implications.md) (1997) | Relevance: 3.0
+- [THE EFFECT OF WORKING CAPITAL MANAGEMENT ON PROFITABILITY OF STATE-OWNED ENTERPRISE IN PROCESSING INDUSTRY SECTOR](../sources/1975-the-effect-of-working-capital-management-on-profitability-of-state-owned-enterpr.md) (2018) | Relevance: 3.0
+- [Key Factors in Improving the Maturity of Information Technology Governance: A Case Study of State-owned Enterprise in Indonesia](../sources/1974-key-factors-in-improving-the-maturity-of-information-technology-governance-a-cas.md) (2020) | Relevance: 3.0
+- [Desire and climate on employee performance – a study on plantation state-owned enterprise in Indonesia](../sources/1976-desire-and-climate-on-employee-performance--a-study-on-plantation-state-owned-en.md) (2017) | Relevance: 2.0
 
 ## Religious freedom and separation of religion from state
-*132 sources*
+*135 sources*
 
+- [The Corporate Governance Role of the Media](../sources/4846-the-corporate-governance-role-of-the-media.md) (2002) | Relevance: 4.0
+- [Water governance in the twentieth-first century](../sources/4729-water-governance-in-the-twentieth-first-century.md) (2007) | Relevance: 4.0
+- [PARTY CARTELIZATION, INDONESIAN-STYLE: PRESIDENTIAL POWER-SHARING AND THE CONTINGENCY OF DEMOCRATIC OPPOSITION](../sources/4732-party-cartelization-indonesian-style-presidential-power-sharing-and-the-continge.md) (2018) | Relevance: 4.0
+- [Islamising Indonesia: The Rise of Jemaah Tarbiyah and the Prosperous Justice Party (PKS)](../sources/2063-islamising-indonesia-the-rise-of-jemaah-tarbiyah-and-the-prosperous-justice-part.md) (2008) | Relevance: 4.0
+- [Is Saudi Arabia a Theocracy? Religion and Governance in Contemporary Saudi Arabia](../sources/4840-is-saudi-arabia-a-theocracy-religion-and-governance-in-contemporary-saudi-arabia.md) (2009) | Relevance: 4.0
+- [States, markets and just growth: development in the twenty-first century](../sources/4741-states-markets-and-just-growth-development-in-the-twenty-first-century.md) (2003) | Relevance: 4.0
+- [Geographies of Religion and Development: Rebuilding Sacred Spaces in Aceh, Indonesia, after the Tsunami](../sources/4810-geographies-of-religion-and-development-rebuilding-sacred-spaces-in-aceh-indones.md) (2010) | Relevance: 4.0
+- [Optimism and Education: The New Ideology of Development in Indonesia](../sources/4798-optimism-and-education-the-new-ideology-of-development-in-indonesia.md) (2014) | Relevance: 4.0
+- [The Governance of Islam in Two Secular Polities: Turkey’s Diyanet and Indonesia’s Ministry of Religious Affairs](../sources/4806-the-governance-of-islam-in-two-secular-polities-turkeys-diyanet-and-indonesias-m.md) (2018) | Relevance: 4.0
+- [Post-Islamism in Indonesia: Analysis of Islamic Political Party Programs in the 2019 National Elections](../sources/4776-post-islamism-in-indonesia-analysis-of-islamic-political-party-programs-in-the-2.md) (2022) | Relevance: 4.0
+- [SECULARIZATION IN THE MIND OF MUSLIM REFORMISTS: A Case Study of Nurcholish Madjid and Fouad Zakaria](../sources/4817-secularization-in-the-mind-of-muslim-reformists-a-case-study-of-nurcholish-madji.md) (2007) | Relevance: 4.0
+- [Secularism and Democracy: A Comparative Study of Turkey and Indonesia](../sources/4746-secularism-and-democracy-a-comparative-study-of-turkey-and-indonesia.md) (2024) | Relevance: 4.0
+- [The Trichotomy of Islam, Democracy, and Secularism in Indonesia Post The Conservative Turn](../sources/4747-the-trichotomy-of-islam-democracy-and-secularism-in-indonesia-post-the-conservat.md) (2023) | Relevance: 4.0
+- [ISLAM, STATE AND SECULARISM; ANALYSIS ON THE SUBSTANTIVE POLITICAL PARADIGM IN INDONESIA](../sources/4750-islam-state-and-secularism-analysis-on-the-substantive-political-paradigm-in-ind.md) (2016) | Relevance: 4.0
+- [The Dynamics of Politics in the Development of Sharia Economic Law in Indonesia](../sources/4761-the-dynamics-of-politics-in-the-development-of-sharia-economic-law-in-indonesia.md) (2024) | Relevance: 4.0
+- [Implementation Of The Islamization Curriculum In Islamic Religious Higher Education (PTKI) Development In Indonesia As An Effort To Integrate Science In The Perspective Of Maqasid Al-Shari'ah](../sources/4771-implementation-of-the-islamization-curriculum-in-islamic-religious-higher-educat.md) (2023) | Relevance: 4.0
+- [Reality of Sharia Banking System (Study of Islamic Economic Development In Indonesia)](../sources/4772-reality-of-sharia-banking-system-study-of-islamic-economic-development-in-indone.md) (2023) | Relevance: 4.0
+- [Reframing Islamic Education Governance Through a Socio-Cultural Perspective: Lessons from Spain and Indonesia](../sources/4758-reframing-islamic-education-governance-through-a-socio-cultural-perspective-less.md) (2025) | Relevance: 4.0
+- [From Binary Perspectives to Context-Sensitive Approaches: Changing Trends in Scholarship on Political Islam in Turkey, Tunisia and Indonesia](../sources/4763-from-binary-perspectives-to-context-sensitive-approaches-changing-trends-in-scho.md) (2024) | Relevance: 4.0
+- [Democracy, Corruption and the Politics of Spirits in Contemporary Indonesia](../sources/4774-democracy-corruption-and-the-politics-of-spirits-in-contemporary-indonesia.md) (2023) | Relevance: 4.0
+- [Economic Analysis of Social Interactions](../sources/4833-economic-analysis-of-social-interactions.md) (2000) | Relevance: 3.0
+- [Transnational families and their children's education: China's 'study mothers' in Singapore](../sources/4849-transnational-families-and-their-childrens-education-chinas-study-mothers-in-sin.md) (2005) | Relevance: 3.0
+- [Bureaucratic Structure, Regulatory Quality, and Entrepreneurship in a Comparative Perspective: Cross-Sectional and Panel Data Evidence](../sources/4737-bureaucratic-structure-regulatory-quality-and-entrepreneurship-in-a-comparative-.md) (2015) | Relevance: 3.0
+- [Foreign Policy, Islam and Democracy in Indonesia](../sources/2050-foreign-policy-islam-and-democracy-in-indonesia.md) (2018) | Relevance: 3.0
+- [Pancasila As Integration Philosophy of Education And National Character](../sources/4791-pancasila-as-integration-philosophy-of-education-and-national-character.md) (2013) | Relevance: 3.0
+- [Religious and Pro-Violence Populism in Indonesia: The Rise and Fall of a Far-Right Islamist Civilisationist Movement](../sources/2066-religious-and-pro-violence-populism-in-indonesia-the-rise-and-fall-of-a-far-righ.md) (2021) | Relevance: 3.0
 - [Religious Capital and Capital Religions: Cross-Cultural and Non-Legal Factors in the Separation of Church and State](../sources/0781-religious-capital-and-capital-religions-cross-cultural-and-non-legal-factors-in-.md) (2019) | Relevance: 3.0
-- [Economic Analysis of Social Interactions](../sources/4833-economic-analysis-of-social-interactions.md) (2000)
-- [Field Experiments](../sources/4828-field-experiments.md) (2004)
-- [Optical remotely sensed time series data for land cover classification: A review](../sources/4839-optical-remotely-sensed-time-series-data-for-land-cover-classification-a-review.md) (2016)
-- [Speech Recognition Using Deep Neural Networks: A Systematic Review](../sources/4835-speech-recognition-using-deep-neural-networks-a-systematic-review.md) (2019)
-- [Temporal Patterns of Happiness and Information in a Global Social Network: Hedonometrics and Twitter](../sources/4843-temporal-patterns-of-happiness-and-information-in-a-global-social-network-hedono.md) (2011)
-- [making empire respectable: the politics of race and sexual morality in 20th‐century colonial cultures](../sources/4832-making-empire-respectable-the-politics-of-race-and-sexual-morality-in-20thcentur.md) (1989)
-- [A global assessment of marine heatwaves and their drivers](../sources/4834-a-global-assessment-of-marine-heatwaves-and-their-drivers.md) (2019)
-- [Marine reserves can mitigate and promote adaptation to climate change](../sources/4848-marine-reserves-can-mitigate-and-promote-adaptation-to-climate-change.md) (2017)
-- [Adolescence: an anthropological inquiry](../sources/4728-adolescence-an-anthropological-inquiry.md) (1991)
-- [Jobs-Housing Balancing and Regional Mobility](../sources/4842-jobs-housing-balancing-and-regional-mobility.md) (1989)
-- [Atmospheric pollutant outflow from southern Asia: a review](../sources/4855-atmospheric-pollutant-outflow-from-southern-asia-a-review.md) (2010)
-- [The Copernicus Global 1/12° Oceanic and Sea Ice GLORYS12 Reanalysis](../sources/4836-the-copernicus-global-112-oceanic-and-sea-ice-glorys12-reanalysis.md) (2021)
-- [An Eddy-Permitting Southern Ocean State Estimate](../sources/4845-an-eddy-permitting-southern-ocean-state-estimate.md) (2010)
-- [Mokken Scale Analysis: Between the Guttman Scale and Parametric Item Response Theory](../sources/4837-mokken-scale-analysis-between-the-guttman-scale-and-parametric-item-response-the.md) (2003)
-- [Formulation of an ocean model for global climate simulations](../sources/4847-formulation-of-an-ocean-model-for-global-climate-simulations.md) (2005)
-- [Shallow, Intermediate, and Deep Overturning Components of the Global Heat Budget](../sources/4838-shallow-intermediate-and-deep-overturning-components-of-the-global-heat-budget.md) (2003)
-- [Indigenous Articulations](../sources/4844-indigenous-articulations.md) (2001)
-- [The Corporate Governance Role of the Media](../sources/4846-the-corporate-governance-role-of-the-media.md) (2002)
-- [Patterns and Universals of Adult Romantic Attachment Across 62 Cultural Regions](../sources/4852-patterns-and-universals-of-adult-romantic-attachment-across-62-cultural-regions.md) (2004)
-- [Mediation and immediacy: sensational forms, semiotic ideologies and the question of the medium](../sources/4841-mediation-and-immediacy-sensational-forms-semiotic-ideologies-and-the-question-o.md) (2011)
-- [The Globalization of Higher Education](../sources/4734-the-globalization-of-higher-education.md) (2005)
-- [Transnational families and their children's education: China's 'study mothers' in Singapore](../sources/4849-transnational-families-and-their-childrens-education-chinas-study-mothers-in-sin.md) (2005)
-- [Tourism, Ethnicity and the State in Asian and Pacific Societies](../sources/4856-tourism-ethnicity-and-the-state-in-asian-and-pacific-societies.md) (1998)
-- [Attribution and Impacts of Upper-Ocean Biases in CCSM3](../sources/4850-attribution-and-impacts-of-upper-ocean-biases-in-ccsm3.md) (2006)
-- [Water governance in the twentieth-first century](../sources/4729-water-governance-in-the-twentieth-first-century.md) (2007)
-- [Effect of land cover and use on dry season river runoff, runoff efficiency, and peak storm runoff in the seasonal tropics of Central Panama](../sources/4858-effect-of-land-cover-and-use-on-dry-season-river-runoff-runoff-efficiency-and-pe.md) (2013)
-- [Combating mosquito-borne diseases using genetic control technologies](../sources/4853-combating-mosquito-borne-diseases-using-genetic-control-technologies.md) (2021)
-- [The “Greening” of Empire: The European Green Deal as the EU first agenda](../sources/4739-the-greening-of-empire-the-european-green-deal-as-the-eu-first-agenda.md) (2023)
-- [Herding Species: Biosecurity, Posthuman Labor, and the American Industrial Pig](../sources/4851-herding-species-biosecurity-posthuman-labor-and-the-american-industrial-pig.md) (2015)
-- [Review of Disability Studies](../sources/4730-review-of-disability-studies.md) (2013)
-- [The Dynamics of the East Australian Current System: The Tasman Front, the East Auckland Current, and the East Cape Current](../sources/4854-the-dynamics-of-the-east-australian-current-system-the-tasman-front-the-east-auc.md) (2001)
-- [Current Issues in Indonesian Islam: Analysing the 2005 Council of Indonesian Ulama Fatwa No. 7 Opposing Pluralism, Liberalism and Secularism](../sources/4784-current-issues-in-indonesian-islam-analysing-the-2005-council-of-indonesian-ulam.md) (2007)
-- [Bureaucratic Structure, Regulatory Quality, and Entrepreneurship in a Comparative Perspective: Cross-Sectional and Panel Data Evidence](../sources/4737-bureaucratic-structure-regulatory-quality-and-entrepreneurship-in-a-comparative-.md) (2015)
-- [Islam and democracy in Indonesia: tolerance without liberalism](../sources/4787-islam-and-democracy-in-indonesia-tolerance-without-liberalism.md) (2017)
-- [A Good Sport?](../sources/4740-a-good-sport.md) (2006)
-- [PARTY CARTELIZATION, INDONESIAN-STYLE: PRESIDENTIAL POWER-SHARING AND THE CONTINGENCY OF DEMOCRATIC OPPOSITION](../sources/4732-party-cartelization-indonesian-style-presidential-power-sharing-and-the-continge.md) (2018)
-- [Internet and Islamic Learning Practices in Indonesia: Social Media, Religious Populism, and Religious Authority](../sources/4857-internet-and-islamic-learning-practices-in-indonesia-social-media-religious-popu.md) (2019)
-- [Nationalism: The Nature and Evolution of an Idea](../sources/4736-nationalism-the-nature-and-evolution-of-an-idea.md) (1977)
-- [Anomie and Violence. Non-truth and Reconciliation in Indonesian Peacebuilding](../sources/4731-anomie-and-violence-non-truth-and-reconciliation-in-indonesian-peacebuilding.md) (2010)
-- [Social Cohesion and Its Correlates: A Comparison of Western and Asian Societies](../sources/4735-social-cohesion-and-its-correlates-a-comparison-of-western-and-asian-societies.md) (2018)
-- [The Helsinki Agreement: A More Promising Basis for Peace in Aceh?](../sources/4738-the-helsinki-agreement-a-more-promising-basis-for-peace-in-aceh.md) (2005)
-- [Is Saudi Arabia a Theocracy? Religion and Governance in Contemporary Saudi Arabia](../sources/4840-is-saudi-arabia-a-theocracy-religion-and-governance-in-contemporary-saudi-arabia.md) (2009)
-- [The Princeton Encyclopedia of Islamic Political Thought](../sources/4801-the-princeton-encyclopedia-of-islamic-political-thought.md) (2012)
-- [The perils of consensus: How ASEAN's meta-regime undermines economic and environmental cooperation](../sources/4742-the-perils-of-consensus-how-aseans-meta-regime-undermines-economic-and-environme.md) (2010)
-- [Words in Motion](../sources/4799-words-in-motion.md) (2009)
-- [The Papua conflict : Jakarta's perceptions and policies](../sources/4733-the-papua-conflict--jakartas-perceptions-and-policies.md) (2004)
-- [Islam and the Secular State in Indonesia](../sources/4793-islam-and-the-secular-state-in-indonesia.md) (2009)
-- [States, markets and just growth: development in the twenty-first century](../sources/4741-states-markets-and-just-growth-development-in-the-twenty-first-century.md) (2003)
-- [Can Donors and Non-State Actors Undermine Citizens' Legitimating Beliefs?](../sources/4743-can-donors-and-non-state-actors-undermine-citizens-legitimating-beliefs.md) (2012)
-- [Islam in Indonesia: The Contest for Society, Ideas and Values](../sources/4800-islam-in-indonesia-the-contest-for-society-ideas-and-values.md) (2015)
-- [Pancasila As Integration Philosophy of Education And National Character](../sources/4791-pancasila-as-integration-philosophy-of-education-and-national-character.md) (2013)
-- [Varieties of Secularism in Asia](../sources/4790-varieties-of-secularism-in-asia.md) (2012)
-- [Islam and Indonesia's 2019 Presidential Election](../sources/4808-islam-and-indonesias-2019-presidential-election.md) (2019)
-- [Fatwas and their controversy: The case of the Council of Indonesian Ulama (MUI)](../sources/4792-fatwas-and-their-controversy-the-case-of-the-council-of-indonesian-ulama-mui.md) (2012)
-- [Freedom and Blasphemy: On Indonesian Press Bans and Danish Cartoons](../sources/4797-freedom-and-blasphemy-on-indonesian-press-bans-and-danish-cartoons.md) (2009)
-- [Indonesia: Legitimacy, Secular Democracy, and Islam](../sources/4811-indonesia-legitimacy-secular-democracy-and-islam.md) (2010)
-- [Geographies of Religion and Development: Rebuilding Sacred Spaces in Aceh, Indonesia, after the Tsunami](../sources/4810-geographies-of-religion-and-development-rebuilding-sacred-spaces-in-aceh-indones.md) (2010)
-- [The war and its shadow: Spain's civil war in Europe's long twentieth century](../sources/4802-the-war-and-its-shadow-spains-civil-war-in-europes-long-twentieth-century.md) (2013)
-- [Optimism and Education: The New Ideology of Development in Indonesia](../sources/4798-optimism-and-education-the-new-ideology-of-development-in-indonesia.md) (2014)
-- [ETHICS, ICONOCLASM, AND QUR’ANIC ART IN INDONESIA](../sources/4818-ethics-iconoclasm-and-quranic-art-in-indonesia.md) (2009)
-- [Productive Intolerance: Godly Nationalism in Indonesia](../sources/4804-productive-intolerance-godly-nationalism-in-indonesia.md) (2014)
-- [Ghazwul Fikri or Arabization? Indonesian Muslim Responses to Globalization](../sources/4803-ghazwul-fikri-or-arabization-indonesian-muslim-responses-to-globalization.md) (2015)
-- [The Governance of Islam in Two Secular Polities: Turkey’s Diyanet and Indonesia’s Ministry of Religious Affairs](../sources/4806-the-governance-of-islam-in-two-secular-polities-turkeys-diyanet-and-indonesias-m.md) (2018)
-- [12. Civil Society in Southeast Asia](../sources/4826-12-civil-society-in-southeast-asia.md) (2015)
-- [Nationalism, Islam, ‘secularism’ and the state in contemporary Indonesia](../sources/4785-nationalism-islam-secularism-and-the-state-in-contemporary-indonesia.md) (2010)
-- [Narrative and the Politics of Identity: Patterns of the Spread and Acceptance of Radicalism and Terrorism in Indonesia](../sources/4813-narrative-and-the-politics-of-identity-patterns-of-the-spread-and-acceptance-of-.md) (2020)
-- [State and secularism: perspectives from asia](../sources/4794-state-and-secularism-perspectives-from-asia.md) (2010)
-- [Sekularisasi dan Sekularisme Agama](../sources/4796-sekularisasi-dan-sekularisme-agama.md) (2016)
-- [Kontestasi Pemikiran Islam Indonesia Kontemporer](../sources/4795-kontestasi-pemikiran-islam-indonesia-kontemporer.md) (2016)
-- [Revisiting Political Polarisation in Indonesia: A Case Study of Jakarta’s Electorate](../sources/4777-revisiting-political-polarisation-in-indonesia-a-case-study-of-jakartas-electora.md) (2021)
-- [The dynamic effects of religion: An exploration of religiosity influences on Islamic work ethic over time](../sources/4809-the-dynamic-effects-of-religion-an-exploration-of-religiosity-influences-on-isla.md) (2023)
-- [Menggagas Pendidikan Islami: Meluruskan Paradigma Pendidikan di Indonesia](../sources/4781-menggagas-pendidikan-islami-meluruskan-paradigma-pendidikan-di-indonesia.md) (2018)
-- [A second demographic transition in Indonesia?](../sources/4819-a-second-demographic-transition-in-indonesia.md) (2022)
-- [Muslim Secular Democracy: Voices from Within](../sources/4812-muslim-secular-democracy-voices-from-within.md) (2013)
-- [Islam in Indonesia](../sources/4807-islam-in-indonesia.md) (2016)
-- [Sekularisme: Ajaran Dan Pengaruhnya Dalam Dunia Pendidikan](../sources/4816-sekularisme-ajaran-dan-pengaruhnya-dalam-dunia-pendidikan.md) (2013)
-- [Analyzing Indonesia’s Populist Electorate](../sources/4780-analyzing-indonesias-populist-electorate.md) (2019)
-- [Renegotiating Indonesian secularism through debates on Ahmadiyya and Shia](../sources/4783-renegotiating-indonesian-secularism-through-debates-on-ahmadiyya-and-shia.md) (2015)
-- [Indonesia and the Muslim World: Between Islam and Secularism in the Foreign Policy of Soeharto and Beyond](../sources/4786-indonesia-and-the-muslim-world-between-islam-and-secularism-in-the-foreign-polic.md) (2007)
-- [Secularism, Decolonisation, and the Cold War in South and Southeast Asia](../sources/4814-secularism-decolonisation-and-the-cold-war-in-south-and-southeast-asia.md) (2017)
-- [Implementing and Interpreting Fazlur Rahman's Islamic Moderation Concept in the Indonesian Context](../sources/4815-implementing-and-interpreting-fazlur-rahmans-islamic-moderation-concept-in-the-i.md) (2022)
-- [Islam and the secular state: negotiating the future of Shariʿa](../sources/4805-islam-and-the-secular-state-negotiating-the-future-of-shariʿa.md) (2008)
-- [Static Crosses and Working Spirits: Anti-Syncretism and Agricultural Animism in Catholic West Flores](../sources/4827-static-crosses-and-working-spirits-anti-syncretism-and-agricultural-animism-in-c.md) (2009)
-- [Thoroughly Exploring Secularism in an Islamic Perspective: History, Dynamics, and Interpretation of the Qur'an](../sources/4751-thoroughly-exploring-secularism-in-an-islamic-perspective-history-dynamics-and-i.md) (2024)
-- [Religious pluralism, public religion, and principled pluralism in Indonesia](../sources/4768-religious-pluralism-public-religion-and-principled-pluralism-in-indonesia.md) (2023)
-- [Post-Islamism in Indonesia: Analysis of Islamic Political Party Programs in the 2019 National Elections](../sources/4776-post-islamism-in-indonesia-analysis-of-islamic-political-party-programs-in-the-2.md) (2022)
-- [Moderasi Beragama: Pandangan Lukman Hakim Saifuddin terhadap Kehidupan Beragama di Indonesia](../sources/4769-moderasi-beragama-pandangan-lukman-hakim-saifuddin-terhadap-kehidupan-beragama-d.md) (2023)
-- [The Intersection of Islamic Law and Nationhood in Contemporary Indonesia](../sources/4770-the-intersection-of-islamic-law-and-nationhood-in-contemporary-indonesia.md) (2023)
-- [Encyclopedia of Protestantism](../sources/4831-encyclopedia-of-protestantism.md) (2004)
-- [SECULARIZATION IN THE MIND OF MUSLIM REFORMISTS: A Case Study of Nurcholish Madjid and Fouad Zakaria](../sources/4817-secularization-in-the-mind-of-muslim-reformists-a-case-study-of-nurcholish-madji.md) (2007)
-- [Contemporary Changes in Islamic Higher Education in Indonesia: Dynamic Encounter Between Modernisation and Tradition](../sources/4754-contemporary-changes-in-islamic-higher-education-in-indonesia-dynamic-encounter-.md) (2025)
-- [A post-tsunami sea change? Towards post-secular disaster response in Indonesia](../sources/4782-a-post-tsunami-sea-change-towards-post-secular-disaster-response-in-indonesia.md) (2021)
-- [Religion and religiosity in the Philippines and Indonesia : essays on state, society, and public creeds](../sources/4829-religion-and-religiosity-in-the-philippines-and-indonesia--essays-on-state-socie.md) (2006)
-- [Secularism and Democracy: A Comparative Study of Turkey and Indonesia](../sources/4746-secularism-and-democracy-a-comparative-study-of-turkey-and-indonesia.md) (2024)
-- [Godless Religious Society: Uncovering the Impact of Modernism on Social Morality in the Context of Islam in Indonesia](../sources/4760-godless-religious-society-uncovering-the-impact-of-modernism-on-social-morality-.md) (2024)
-- [Training, attitudes, segregation of duties and internal control of church finances: an empirical study in Indonesia](../sources/4825-training-attitudes-segregation-of-duties-and-internal-control-of-church-finances.md) (2024)
-- [The Trichotomy of Islam, Democracy, and Secularism in Indonesia Post The Conservative Turn](../sources/4747-the-trichotomy-of-islam-democracy-and-secularism-in-indonesia-post-the-conservat.md) (2023)
-- [ISLAM, STATE AND SECULARISM; ANALYSIS ON THE SUBSTANTIVE POLITICAL PARADIGM IN INDONESIA](../sources/4750-islam-state-and-secularism-analysis-on-the-substantive-political-paradigm-in-ind.md) (2016)
-- [Challenging Secularism: Considering Islam and State in Indonesia](../sources/4767-challenging-secularism-considering-islam-and-state-in-indonesia.md) (2010)
-- [Soft Separation Democracy](../sources/4823-soft-separation-democracy.md) (2018)
-- [The Role of the State in Maintaining the Relationship Between the Church and Society based on Pancasila and the 1945 Constitution of the Republic of Indonesia](../sources/4824-the-role-of-the-state-in-maintaining-the-relationship-between-the-church-and-soc.md) (2023)
-- [Theology and Science: An Analytic-Synthetic Integration Model as a Solution to the Problem of Dualism and Secularism](../sources/4759-theology-and-science-an-analytic-synthetic-integration-model-as-a-solution-to-th.md) (2022)
-- [The Dynamics of Politics in the Development of Sharia Economic Law in Indonesia](../sources/4761-the-dynamics-of-politics-in-the-development-of-sharia-economic-law-in-indonesia.md) (2024)
-- [Implementation Of The Islamization Curriculum In Islamic Religious Higher Education (PTKI) Development In Indonesia As An Effort To Integrate Science In The Perspective Of Maqasid Al-Shari'ah](../sources/4771-implementation-of-the-islamization-curriculum-in-islamic-religious-higher-educat.md) (2023)
-- [The Constitutional Struggle for Religious Freedom: A Comparative Study of India and Indonesia](../sources/4778-the-constitutional-struggle-for-religious-freedom-a-comparative-study-of-india-a.md) (2022)
-- [Nederland en de Islam](../sources/4830-nederland-en-de-islam.md) (2001)
-- [The Politics of Religious Recognition: A Comparative Study of Modern Government Policies in Indonesia and Turkey](../sources/4755-the-politics-of-religious-recognition-a-comparative-study-of-modern-government-p.md) (2025)
-- [Reality of Sharia Banking System (Study of Islamic Economic Development In Indonesia)](../sources/4772-reality-of-sharia-banking-system-study-of-islamic-economic-development-in-indone.md) (2023)
-- [Literature and Social Issues: Study of Islam, Secularism, and Humanism in Achdiat’s Atheis Indonesian Novel](../sources/4788-literature-and-social-issues-study-of-islam-secularism-and-humanism-in-achdiats-.md) (2023)
-- [Islam vs Secularism? The New Political Terrain in Malaysia and Indonesia](../sources/4789-islam-vs-secularism-the-new-political-terrain-in-malaysia-and-indonesia.md) (1999)
-- [State and Religion in Indonesia (Implementation of Regulations on Places of Worship in Christianity)](../sources/4820-state-and-religion-in-indonesia-implementation-of-regulations-on-places-of-worsh.md) (2023)
-- [Reimagining Secularism for Indonesia: Contextual Approaches Based on Madjid, Bhargava, Thiemann, and Taylor](../sources/4744-reimagining-secularism-for-indonesia-contextual-approaches-based-on-madjid-bharg.md) (2025)
-- [Freedom of Religion/Belief in Indonesia: Charles Taylor’s ‘Third Secularism’ and the Inclusion of Non-Believers in a God-Fearing State](../sources/4745-freedom-of-religionbelief-in-indonesia-charles-taylors-third-secularism-and-the-.md) (2025)
-- [Islam, Christianity, and the Formation of Secularism in Indonesia 1945-1960](../sources/4748-islam-christianity-and-the-formation-of-secularism-in-indonesia-1945-1960.md) (2022)
-- [Philosophy and Religion in Abdurrahman Wahid’s Post-Secularism Thought](../sources/4749-philosophy-and-religion-in-abdurrahman-wahids-post-secularism-thought.md) (2025)
-- [Islam, Education, and Secularism: A Literature Review](../sources/4752-islam-education-and-secularism-a-literature-review.md) (2024)
-- [Exploring the Contribution of Secularism Ideology to the Education System in Turkey](../sources/4753-exploring-the-contribution-of-secularism-ideology-to-the-education-system-in-tur.md) (2024)
-- [Sekularisasi: Salah Satu Ancaman Bagi Kehidupan Beragama di Indonesia](../sources/4756-sekularisasi-salah-satu-ancaman-bagi-kehidupan-beragama-di-indonesia.md) (2025)
-- [Between Code and Creed: Islamic Ethical In-Betweenness on AI in Indonesia](../sources/4757-between-code-and-creed-islamic-ethical-in-betweenness-on-ai-in-indonesia.md) (2025)
-- [Reframing Islamic Education Governance Through a Socio-Cultural Perspective: Lessons from Spain and Indonesia](../sources/4758-reframing-islamic-education-governance-through-a-socio-cultural-perspective-less.md) (2025)
-- [In Search for Muslim Ethics of Calvinism: Improving the Quality of Public Life through the Incorporation of Religious Narratives into the State Policies in Indonesia](../sources/4762-in-search-for-muslim-ethics-of-calvinism-improving-the-quality-of-public-life-th.md) (2024)
-- [From Binary Perspectives to Context-Sensitive Approaches: Changing Trends in Scholarship on Political Islam in Turkey, Tunisia and Indonesia](../sources/4763-from-binary-perspectives-to-context-sensitive-approaches-changing-trends-in-scho.md) (2024)
-- [Memeta Tipe Sekulerasime Islam di Indonesia 1920-1945 Sebagai Landasan Dakwah](../sources/4764-memeta-tipe-sekulerasime-islam-di-indonesia-1920-1945-sebagai-landasan-dakwah.md) (2024)
-- [Indonesia Tanpa Jaringan Islam Liberal Follower’s Reception on the Anti-Sexual Violence Bill Content](../sources/4765-indonesia-tanpa-jaringan-islam-liberal-followers-reception-on-the-anti-sexual-vi.md) (2024)
-- [ISLAM DAN SEKULERISME DALAM DUNIA PENDIDIKAN DI INDONESIA](../sources/4766-islam-dan-sekulerisme-dalam-dunia-pendidikan-di-indonesia.md) (2026)
-- [Pengaruh  Skularisme Bagi Politik Indonesia](../sources/4773-pengaruh-skularisme-bagi-politik-indonesia.md) (2023)
-- [Democracy, Corruption and the Politics of Spirits in Contemporary Indonesia](../sources/4774-democracy-corruption-and-the-politics-of-spirits-in-contemporary-indonesia.md) (2023)
-- [Pendapatan dan Religiusitas Individu Muslim di Indonesia](../sources/4775-pendapatan-dan-religiusitas-individu-muslim-di-indonesia.md) (2023)
-- [VERSI SEKULARISME INDONESIA SEBAGAI KEBIJAKAN YANG DEMOKRATIS](../sources/4779-versi-sekularisme-indonesia-sebagai-kebijakan-yang-demokratis.md) (2022)
-- [Relevansi Pemikiran Abraham Kuyper tentang Relasi Gereja dan Negara bagi Konteks Gereja di Indonesia](../sources/4821-relevansi-pemikiran-abraham-kuyper-tentang-relasi-gereja-dan-negara-bagi-konteks.md) (2026)
-- [The Dynamics of Religious Influence on the National Legal System of Indonesia](../sources/4822-the-dynamics-of-religious-influence-on-the-national-legal-system-of-indonesia.md) (2024)
+- [Contemporary Changes in Islamic Higher Education in Indonesia: Dynamic Encounter Between Modernisation and Tradition](../sources/4754-contemporary-changes-in-islamic-higher-education-in-indonesia-dynamic-encounter-.md) (2025) | Relevance: 3.0
+- [The Politics of Religious Recognition: A Comparative Study of Modern Government Policies in Indonesia and Turkey](../sources/4755-the-politics-of-religious-recognition-a-comparative-study-of-modern-government-p.md) (2025) | Relevance: 3.0
+- [Islam, Christianity, and the Formation of Secularism in Indonesia 1945-1960](../sources/4748-islam-christianity-and-the-formation-of-secularism-in-indonesia-1945-1960.md) (2022) | Relevance: 3.0
+- [making empire respectable: the politics of race and sexual morality in 20th‐century colonial cultures](../sources/4832-making-empire-respectable-the-politics-of-race-and-sexual-morality-in-20thcentur.md) (1989) | Relevance: 2.0
+- [Combating mosquito-borne diseases using genetic control technologies](../sources/4853-combating-mosquito-borne-diseases-using-genetic-control-technologies.md) (2021) | Relevance: 2.0
+- [Current Issues in Indonesian Islam: Analysing the 2005 Council of Indonesian Ulama Fatwa No. 7 Opposing Pluralism, Liberalism and Secularism](../sources/4784-current-issues-in-indonesian-islam-analysing-the-2005-council-of-indonesian-ulam.md) (2007) | Relevance: 2.0
+- [Islam in Indonesia: The Contest for Society, Ideas and Values](../sources/4800-islam-in-indonesia-the-contest-for-society-ideas-and-values.md) (2015) | Relevance: 2.0
+- [Indonesia: Legitimacy, Secular Democracy, and Islam](../sources/4811-indonesia-legitimacy-secular-democracy-and-islam.md) (2010) | Relevance: 2.0
+- [Sekularisasi dan Sekularisme Agama](../sources/4796-sekularisasi-dan-sekularisme-agama.md) (2016) | Relevance: 2.0
+- [Kontestasi Pemikiran Islam Indonesia Kontemporer](../sources/4795-kontestasi-pemikiran-islam-indonesia-kontemporer.md) (2016) | Relevance: 2.0
+- [A second demographic transition in Indonesia?](../sources/4819-a-second-demographic-transition-in-indonesia.md) (2022) | Relevance: 2.0
+- [Muslim Secular Democracy: Voices from Within](../sources/4812-muslim-secular-democracy-voices-from-within.md) (2013) | Relevance: 2.0
+- [Islam in Indonesia](../sources/4807-islam-in-indonesia.md) (2016) | Relevance: 2.0
+- [A post-tsunami sea change? Towards post-secular disaster response in Indonesia](../sources/4782-a-post-tsunami-sea-change-towards-post-secular-disaster-response-in-indonesia.md) (2021) | Relevance: 2.0
+- [Soft Separation Democracy](../sources/4823-soft-separation-democracy.md) (2018) | Relevance: 2.0
+- [Islam vs Secularism? The New Political Terrain in Malaysia and Indonesia](../sources/4789-islam-vs-secularism-the-new-political-terrain-in-malaysia-and-indonesia.md) (1999) | Relevance: 2.0
+- [The Dynamics of Religious Influence on the National Legal System of Indonesia](../sources/4822-the-dynamics-of-religious-influence-on-the-national-legal-system-of-indonesia.md) (2024) | Relevance: 2.0
+- [Field Experiments](../sources/4828-field-experiments.md) (2004) | Relevance: 1.0
+- [Optical remotely sensed time series data for land cover classification: A review](../sources/4839-optical-remotely-sensed-time-series-data-for-land-cover-classification-a-review.md) (2016) | Relevance: 1.0
+- [Speech Recognition Using Deep Neural Networks: A Systematic Review](../sources/4835-speech-recognition-using-deep-neural-networks-a-systematic-review.md) (2019) | Relevance: 1.0
+- [Temporal Patterns of Happiness and Information in a Global Social Network: Hedonometrics and Twitter](../sources/4843-temporal-patterns-of-happiness-and-information-in-a-global-social-network-hedono.md) (2011) | Relevance: 1.0
+- [A global assessment of marine heatwaves and their drivers](../sources/4834-a-global-assessment-of-marine-heatwaves-and-their-drivers.md) (2019) | Relevance: 1.0
+- [Marine reserves can mitigate and promote adaptation to climate change](../sources/4848-marine-reserves-can-mitigate-and-promote-adaptation-to-climate-change.md) (2017) | Relevance: 1.0
+- [Adolescence: an anthropological inquiry](../sources/4728-adolescence-an-anthropological-inquiry.md) (1991) | Relevance: 1.0
+- [Jobs-Housing Balancing and Regional Mobility](../sources/4842-jobs-housing-balancing-and-regional-mobility.md) (1989) | Relevance: 1.0
+- [Atmospheric pollutant outflow from southern Asia: a review](../sources/4855-atmospheric-pollutant-outflow-from-southern-asia-a-review.md) (2010) | Relevance: 1.0
+- [The Copernicus Global 1/12° Oceanic and Sea Ice GLORYS12 Reanalysis](../sources/4836-the-copernicus-global-112-oceanic-and-sea-ice-glorys12-reanalysis.md) (2021) | Relevance: 1.0
+- [An Eddy-Permitting Southern Ocean State Estimate](../sources/4845-an-eddy-permitting-southern-ocean-state-estimate.md) (2010) | Relevance: 1.0
+- [Mokken Scale Analysis: Between the Guttman Scale and Parametric Item Response Theory](../sources/4837-mokken-scale-analysis-between-the-guttman-scale-and-parametric-item-response-the.md) (2003) | Relevance: 1.0
+- [Formulation of an ocean model for global climate simulations](../sources/4847-formulation-of-an-ocean-model-for-global-climate-simulations.md) (2005) | Relevance: 1.0
+- [Shallow, Intermediate, and Deep Overturning Components of the Global Heat Budget](../sources/4838-shallow-intermediate-and-deep-overturning-components-of-the-global-heat-budget.md) (2003) | Relevance: 1.0
+- [Indigenous Articulations](../sources/4844-indigenous-articulations.md) (2001) | Relevance: 1.0
+- [Patterns and Universals of Adult Romantic Attachment Across 62 Cultural Regions](../sources/4852-patterns-and-universals-of-adult-romantic-attachment-across-62-cultural-regions.md) (2004) | Relevance: 1.0
+- [Mediation and immediacy: sensational forms, semiotic ideologies and the question of the medium](../sources/4841-mediation-and-immediacy-sensational-forms-semiotic-ideologies-and-the-question-o.md) (2011) | Relevance: 1.0
+- [The Globalization of Higher Education](../sources/4734-the-globalization-of-higher-education.md) (2005) | Relevance: 1.0
+- [Tourism, Ethnicity and the State in Asian and Pacific Societies](../sources/4856-tourism-ethnicity-and-the-state-in-asian-and-pacific-societies.md) (1998) | Relevance: 1.0
+- [Attribution and Impacts of Upper-Ocean Biases in CCSM3](../sources/4850-attribution-and-impacts-of-upper-ocean-biases-in-ccsm3.md) (2006) | Relevance: 1.0
+- [Effect of land cover and use on dry season river runoff, runoff efficiency, and peak storm runoff in the seasonal tropics of Central Panama](../sources/4858-effect-of-land-cover-and-use-on-dry-season-river-runoff-runoff-efficiency-and-pe.md) (2013) | Relevance: 1.0
+- [The “Greening” of Empire: The European Green Deal as the EU first agenda](../sources/4739-the-greening-of-empire-the-european-green-deal-as-the-eu-first-agenda.md) (2023) | Relevance: 1.0
+- [Herding Species: Biosecurity, Posthuman Labor, and the American Industrial Pig](../sources/4851-herding-species-biosecurity-posthuman-labor-and-the-american-industrial-pig.md) (2015) | Relevance: 1.0
+- [Review of Disability Studies](../sources/4730-review-of-disability-studies.md) (2013) | Relevance: 1.0
+- [The Dynamics of the East Australian Current System: The Tasman Front, the East Auckland Current, and the East Cape Current](../sources/4854-the-dynamics-of-the-east-australian-current-system-the-tasman-front-the-east-auc.md) (2001) | Relevance: 1.0
+- [Islam and democracy in Indonesia: tolerance without liberalism](../sources/4787-islam-and-democracy-in-indonesia-tolerance-without-liberalism.md) (2017) | Relevance: 1.0
+- [A Good Sport?](../sources/4740-a-good-sport.md) (2006) | Relevance: 1.0
+- [Internet and Islamic Learning Practices in Indonesia: Social Media, Religious Populism, and Religious Authority](../sources/4857-internet-and-islamic-learning-practices-in-indonesia-social-media-religious-popu.md) (2019) | Relevance: 1.0
+- [Nationalism: The Nature and Evolution of an Idea](../sources/4736-nationalism-the-nature-and-evolution-of-an-idea.md) (1977) | Relevance: 1.0
+- [Anomie and Violence. Non-truth and Reconciliation in Indonesian Peacebuilding](../sources/4731-anomie-and-violence-non-truth-and-reconciliation-in-indonesian-peacebuilding.md) (2010) | Relevance: 1.0
+- [Social Cohesion and Its Correlates: A Comparison of Western and Asian Societies](../sources/4735-social-cohesion-and-its-correlates-a-comparison-of-western-and-asian-societies.md) (2018) | Relevance: 1.0
+- [The Helsinki Agreement: A More Promising Basis for Peace in Aceh?](../sources/4738-the-helsinki-agreement-a-more-promising-basis-for-peace-in-aceh.md) (2005) | Relevance: 1.0
+- [The Princeton Encyclopedia of Islamic Political Thought](../sources/4801-the-princeton-encyclopedia-of-islamic-political-thought.md) (2012) | Relevance: 1.0
+- [The perils of consensus: How ASEAN's meta-regime undermines economic and environmental cooperation](../sources/4742-the-perils-of-consensus-how-aseans-meta-regime-undermines-economic-and-environme.md) (2010) | Relevance: 1.0
+- [Words in Motion](../sources/4799-words-in-motion.md) (2009) | Relevance: 1.0
+- [The Papua conflict : Jakarta's perceptions and policies](../sources/4733-the-papua-conflict--jakartas-perceptions-and-policies.md) (2004) | Relevance: 1.0
+- [Islam and the Secular State in Indonesia](../sources/4793-islam-and-the-secular-state-in-indonesia.md) (2009) | Relevance: 1.0
+- [Can Donors and Non-State Actors Undermine Citizens' Legitimating Beliefs?](../sources/4743-can-donors-and-non-state-actors-undermine-citizens-legitimating-beliefs.md) (2012) | Relevance: 1.0
+- [Varieties of Secularism in Asia](../sources/4790-varieties-of-secularism-in-asia.md) (2012) | Relevance: 1.0
+- [Islam and Indonesia's 2019 Presidential Election](../sources/4808-islam-and-indonesias-2019-presidential-election.md) (2019) | Relevance: 1.0
+- [Fatwas and their controversy: The case of the Council of Indonesian Ulama (MUI)](../sources/4792-fatwas-and-their-controversy-the-case-of-the-council-of-indonesian-ulama-mui.md) (2012) | Relevance: 1.0
+- [Freedom and Blasphemy: On Indonesian Press Bans and Danish Cartoons](../sources/4797-freedom-and-blasphemy-on-indonesian-press-bans-and-danish-cartoons.md) (2009) | Relevance: 1.0
+- [The war and its shadow: Spain's civil war in Europe's long twentieth century](../sources/4802-the-war-and-its-shadow-spains-civil-war-in-europes-long-twentieth-century.md) (2013) | Relevance: 1.0
+- [ETHICS, ICONOCLASM, AND QUR’ANIC ART IN INDONESIA](../sources/4818-ethics-iconoclasm-and-quranic-art-in-indonesia.md) (2009) | Relevance: 1.0
+- [Productive Intolerance: Godly Nationalism in Indonesia](../sources/4804-productive-intolerance-godly-nationalism-in-indonesia.md) (2014) | Relevance: 1.0
+- [Ghazwul Fikri or Arabization? Indonesian Muslim Responses to Globalization](../sources/4803-ghazwul-fikri-or-arabization-indonesian-muslim-responses-to-globalization.md) (2015) | Relevance: 1.0
+- [12. Civil Society in Southeast Asia](../sources/4826-12-civil-society-in-southeast-asia.md) (2015) | Relevance: 1.0
+- [Nationalism, Islam, ‘secularism’ and the state in contemporary Indonesia](../sources/4785-nationalism-islam-secularism-and-the-state-in-contemporary-indonesia.md) (2010) | Relevance: 1.0
+- [Narrative and the Politics of Identity: Patterns of the Spread and Acceptance of Radicalism and Terrorism in Indonesia](../sources/4813-narrative-and-the-politics-of-identity-patterns-of-the-spread-and-acceptance-of-.md) (2020) | Relevance: 1.0
+- [State and secularism: perspectives from asia](../sources/4794-state-and-secularism-perspectives-from-asia.md) (2010) | Relevance: 1.0
+- [Revisiting Political Polarisation in Indonesia: A Case Study of Jakarta’s Electorate](../sources/4777-revisiting-political-polarisation-in-indonesia-a-case-study-of-jakartas-electora.md) (2021) | Relevance: 1.0
+- [The dynamic effects of religion: An exploration of religiosity influences on Islamic work ethic over time](../sources/4809-the-dynamic-effects-of-religion-an-exploration-of-religiosity-influences-on-isla.md) (2023) | Relevance: 1.0
+- [Menggagas Pendidikan Islami: Meluruskan Paradigma Pendidikan di Indonesia](../sources/4781-menggagas-pendidikan-islami-meluruskan-paradigma-pendidikan-di-indonesia.md) (2018) | Relevance: 1.0
+- [Sekularisme: Ajaran Dan Pengaruhnya Dalam Dunia Pendidikan](../sources/4816-sekularisme-ajaran-dan-pengaruhnya-dalam-dunia-pendidikan.md) (2013) | Relevance: 1.0
+- [Analyzing Indonesia’s Populist Electorate](../sources/4780-analyzing-indonesias-populist-electorate.md) (2019) | Relevance: 1.0
+- [Renegotiating Indonesian secularism through debates on Ahmadiyya and Shia](../sources/4783-renegotiating-indonesian-secularism-through-debates-on-ahmadiyya-and-shia.md) (2015) | Relevance: 1.0
+- [Indonesia and the Muslim World: Between Islam and Secularism in the Foreign Policy of Soeharto and Beyond](../sources/4786-indonesia-and-the-muslim-world-between-islam-and-secularism-in-the-foreign-polic.md) (2007) | Relevance: 1.0
+- [Secularism, Decolonisation, and the Cold War in South and Southeast Asia](../sources/4814-secularism-decolonisation-and-the-cold-war-in-south-and-southeast-asia.md) (2017) | Relevance: 1.0
+- [Implementing and Interpreting Fazlur Rahman's Islamic Moderation Concept in the Indonesian Context](../sources/4815-implementing-and-interpreting-fazlur-rahmans-islamic-moderation-concept-in-the-i.md) (2022) | Relevance: 1.0
+- [Islam and the secular state: negotiating the future of Shariʿa](../sources/4805-islam-and-the-secular-state-negotiating-the-future-of-shariʿa.md) (2008) | Relevance: 1.0
+- [Static Crosses and Working Spirits: Anti-Syncretism and Agricultural Animism in Catholic West Flores](../sources/4827-static-crosses-and-working-spirits-anti-syncretism-and-agricultural-animism-in-c.md) (2009) | Relevance: 1.0
+- [Thoroughly Exploring Secularism in an Islamic Perspective: History, Dynamics, and Interpretation of the Qur'an](../sources/4751-thoroughly-exploring-secularism-in-an-islamic-perspective-history-dynamics-and-i.md) (2024) | Relevance: 1.0
+- [Religious pluralism, public religion, and principled pluralism in Indonesia](../sources/4768-religious-pluralism-public-religion-and-principled-pluralism-in-indonesia.md) (2023) | Relevance: 1.0
+- [Moderasi Beragama: Pandangan Lukman Hakim Saifuddin terhadap Kehidupan Beragama di Indonesia](../sources/4769-moderasi-beragama-pandangan-lukman-hakim-saifuddin-terhadap-kehidupan-beragama-d.md) (2023) | Relevance: 1.0
+- [The Intersection of Islamic Law and Nationhood in Contemporary Indonesia](../sources/4770-the-intersection-of-islamic-law-and-nationhood-in-contemporary-indonesia.md) (2023) | Relevance: 1.0
+- [Encyclopedia of Protestantism](../sources/4831-encyclopedia-of-protestantism.md) (2004) | Relevance: 1.0
+- [Religion and religiosity in the Philippines and Indonesia : essays on state, society, and public creeds](../sources/4829-religion-and-religiosity-in-the-philippines-and-indonesia--essays-on-state-socie.md) (2006) | Relevance: 1.0
+- [Godless Religious Society: Uncovering the Impact of Modernism on Social Morality in the Context of Islam in Indonesia](../sources/4760-godless-religious-society-uncovering-the-impact-of-modernism-on-social-morality-.md) (2024) | Relevance: 1.0
+- [Training, attitudes, segregation of duties and internal control of church finances: an empirical study in Indonesia](../sources/4825-training-attitudes-segregation-of-duties-and-internal-control-of-church-finances.md) (2024) | Relevance: 1.0
+- [Challenging Secularism: Considering Islam and State in Indonesia](../sources/4767-challenging-secularism-considering-islam-and-state-in-indonesia.md) (2010) | Relevance: 1.0
+- [The Role of the State in Maintaining the Relationship Between the Church and Society based on Pancasila and the 1945 Constitution of the Republic of Indonesia](../sources/4824-the-role-of-the-state-in-maintaining-the-relationship-between-the-church-and-soc.md) (2023) | Relevance: 1.0
+- [Theology and Science: An Analytic-Synthetic Integration Model as a Solution to the Problem of Dualism and Secularism](../sources/4759-theology-and-science-an-analytic-synthetic-integration-model-as-a-solution-to-th.md) (2022) | Relevance: 1.0
+- [The Constitutional Struggle for Religious Freedom: A Comparative Study of India and Indonesia](../sources/4778-the-constitutional-struggle-for-religious-freedom-a-comparative-study-of-india-a.md) (2022) | Relevance: 1.0
+- [Nederland en de Islam](../sources/4830-nederland-en-de-islam.md) (2001) | Relevance: 1.0
+- [Literature and Social Issues: Study of Islam, Secularism, and Humanism in Achdiat’s Atheis Indonesian Novel](../sources/4788-literature-and-social-issues-study-of-islam-secularism-and-humanism-in-achdiats-.md) (2023) | Relevance: 1.0
+- [State and Religion in Indonesia (Implementation of Regulations on Places of Worship in Christianity)](../sources/4820-state-and-religion-in-indonesia-implementation-of-regulations-on-places-of-worsh.md) (2023) | Relevance: 1.0
+- [Reimagining Secularism for Indonesia: Contextual Approaches Based on Madjid, Bhargava, Thiemann, and Taylor](../sources/4744-reimagining-secularism-for-indonesia-contextual-approaches-based-on-madjid-bharg.md) (2025) | Relevance: 1.0
+- [Freedom of Religion/Belief in Indonesia: Charles Taylor’s ‘Third Secularism’ and the Inclusion of Non-Believers in a God-Fearing State](../sources/4745-freedom-of-religionbelief-in-indonesia-charles-taylors-third-secularism-and-the-.md) (2025) | Relevance: 1.0
+- [Philosophy and Religion in Abdurrahman Wahid’s Post-Secularism Thought](../sources/4749-philosophy-and-religion-in-abdurrahman-wahids-post-secularism-thought.md) (2025) | Relevance: 1.0
+- [Islam, Education, and Secularism: A Literature Review](../sources/4752-islam-education-and-secularism-a-literature-review.md) (2024) | Relevance: 1.0
+- [Exploring the Contribution of Secularism Ideology to the Education System in Turkey](../sources/4753-exploring-the-contribution-of-secularism-ideology-to-the-education-system-in-tur.md) (2024) | Relevance: 1.0
+- [Sekularisasi: Salah Satu Ancaman Bagi Kehidupan Beragama di Indonesia](../sources/4756-sekularisasi-salah-satu-ancaman-bagi-kehidupan-beragama-di-indonesia.md) (2025) | Relevance: 1.0
+- [Between Code and Creed: Islamic Ethical In-Betweenness on AI in Indonesia](../sources/4757-between-code-and-creed-islamic-ethical-in-betweenness-on-ai-in-indonesia.md) (2025) | Relevance: 1.0
+- [In Search for Muslim Ethics of Calvinism: Improving the Quality of Public Life through the Incorporation of Religious Narratives into the State Policies in Indonesia](../sources/4762-in-search-for-muslim-ethics-of-calvinism-improving-the-quality-of-public-life-th.md) (2024) | Relevance: 1.0
+- [Memeta Tipe Sekulerasime Islam di Indonesia 1920-1945 Sebagai Landasan Dakwah](../sources/4764-memeta-tipe-sekulerasime-islam-di-indonesia-1920-1945-sebagai-landasan-dakwah.md) (2024) | Relevance: 1.0
+- [Indonesia Tanpa Jaringan Islam Liberal Follower’s Reception on the Anti-Sexual Violence Bill Content](../sources/4765-indonesia-tanpa-jaringan-islam-liberal-followers-reception-on-the-anti-sexual-vi.md) (2024) | Relevance: 1.0
+- [ISLAM DAN SEKULERISME DALAM DUNIA PENDIDIKAN DI INDONESIA](../sources/4766-islam-dan-sekulerisme-dalam-dunia-pendidikan-di-indonesia.md) (2026) | Relevance: 1.0
+- [Pengaruh  Skularisme Bagi Politik Indonesia](../sources/4773-pengaruh-skularisme-bagi-politik-indonesia.md) (2023) | Relevance: 1.0
+- [Pendapatan dan Religiusitas Individu Muslim di Indonesia](../sources/4775-pendapatan-dan-religiusitas-individu-muslim-di-indonesia.md) (2023) | Relevance: 1.0
+- [VERSI SEKULARISME INDONESIA SEBAGAI KEBIJAKAN YANG DEMOKRATIS](../sources/4779-versi-sekularisme-indonesia-sebagai-kebijakan-yang-demokratis.md) (2022) | Relevance: 1.0
+- [Relevansi Pemikiran Abraham Kuyper tentang Relasi Gereja dan Negara bagi Konteks Gereja di Indonesia](../sources/4821-relevansi-pemikiran-abraham-kuyper-tentang-relasi-gereja-dan-negara-bagi-konteks.md) (2026) | Relevance: 1.0
+
+## Resource curse management
+*3 sources*
+
+- [Overview of forest tenure reforms in Indonesia](../sources/1564-overview-of-forest-tenure-reforms-in-indonesia.md) (2017) | Relevance: 3.0
+- [Lessons for REDD+ from measures to control illegal logging in Indonesia](../sources/1566-lessons-for-redd-from-measures-to-control-illegal-logging-in-indonesia.md) (2011) | Relevance: 3.0
+- [End of Energy Coal Era](../sources/1830-end-of-energy-coal-era.md) (2021) | Relevance: 3.0
+
+## Sanctions unwinding and international reintegration
+*1 sources*
+
+- [International Intervention and the Severity of Genocides and Politicides](../sources/1520-international-intervention-and-the-severity-of-genocides-and-politicides.md) (2005) | Relevance: 3.0
+
+## Trade liberalization and foreign direct investment
+*5 sources*
+
+- [World Development Report 1986](../sources/1567-world-development-report-1986.md) (1986) | Relevance: 4.0
+- [Growth after the asian crisis : what remains of the east asian model?](../sources/1100-growth-after-the-asian-crisis--what-remains-of-the-east-asian-model.md) (2001) | Relevance: 4.0
+- [Estimating the Constraints to Agricultural Trade of Developing Countries](../sources/1590-estimating-the-constraints-to-agricultural-trade-of-developing-countries.md) (2013) | Relevance: 4.0
+- [China's Stock Markets and the World Trade Organization](../sources/1580-chinas-stock-markets-and-the-world-trade-organization.md) (1999) | Relevance: 4.0
+- [AGRICULTURAL POLICIES IN INDONESIA: PRODUCER SUPPORT ESTIMATES 1985-2003](../sources/1588-agricultural-policies-in-indonesia-producer-support-estimates-1985-2003.md) (2004) | Relevance: 3.0
+
+## Transitional justice
+*2 sources*
+
+- [Accounting for Atrocities in Indonesia](../sources/1554-accounting-for-atrocities-in-indonesia.md) (2006) | Relevance: 3.0
+- [Elites and Prospects of Democracy in East Timor](../sources/1507-elites-and-prospects-of-democracy-in-east-timor.md) (2006) | Relevance: 3.0
 
 ## Women's rights codification and gender equality
-*149 sources*
+*152 sources*
 
-- [Viewpoint: The case for a six-dimensional food security framework](../sources/4982-viewpoint-the-case-for-a-six-dimensional-food-security-framework.md) (2021)
-- [Women’s empowerment and gender equity in agriculture: A different perspective from Southeast Asia](../sources/5112-womens-empowerment-and-gender-equity-in-agriculture-a-different-perspective-from.md) (2017)
-- [Civic Engagement and Democracy in Post-Suharto Indonesia: A Review of Musrenbang, the Kecamatan Development Programme, and Labour Organising](../sources/4983-civic-engagement-and-democracy-in-post-suharto-indonesia-a-review-of-musrenbang-.md) (2017)
-- [Dynamics of Regulatory Change: How Globalization Affects National Regulatory Policies](../sources/4990-dynamics-of-regulatory-change-how-globalization-affects-national-regulatory-poli.md) (2002)
-- [Participatory action research in health systems : a methods reader](../sources/4987-participatory-action-research-in-health-systems--a-methods-reader.md) (2014)
-- [Inclusive banking, financial regulation and bank performance: Cross-country evidence](../sources/4992-inclusive-banking-financial-regulation-and-bank-performance-cross-country-eviden.md) (2021)
-- [Does Education Empower Women? Evidence from Indonesia](../sources/5100-does-education-empower-women-evidence-from-indonesia.md) (2014)
-- [Empowering Indonesian women through building digital media literacy](../sources/5101-empowering-indonesian-women-through-building-digital-media-literacy.md) (2017)
-- [Theorizing power in political ecology: the 'where' of power in resource governance projects](../sources/4984-theorizing-power-in-political-ecology-the-where-of-power-in-resource-governance-.md) (2018)
-- [What is the "rights-based approach" all about? : perspectives from international development agencies](../sources/4985-what-is-the-rights-based-approach-all-about--perspectives-from-international-dev.md) (2004)
-- [Between dependence and deprivation: The interlocking nature of land alienation in Tanzania](../sources/4989-between-dependence-and-deprivation-the-interlocking-nature-of-land-alienation-in.md) (2018)
-- [Legalising Land Rights : Local Practices, State Responses and Tenure Security in Africa, Asia and Latin America](../sources/4991-legalising-land-rights--local-practices-state-responses-and-tenure-security-in-a.md) (2009)
-- [Adapting land administration to the institutional framework of customary tenure: The case of peri-urban Ghana](../sources/5000-adapting-land-administration-to-the-institutional-framework-of-customary-tenure-.md) (2011)
-- [In search of good quality part-time employment](../sources/5003-in-search-of-good-quality-part-time-employment.md) (2014)
-- [LGBT+ inclusion and human rights in Thailand: a scoping review of the literature](../sources/4998-lgbt-inclusion-and-human-rights-in-thailand-a-scoping-review-of-the-literature.md) (2021)
-- [Participation, Power, and Equity: Examining Three Key Social Dimensions of Fisheries Comanagement](../sources/4988-participation-power-and-equity-examining-three-key-social-dimensions-of-fisherie.md) (2018)
-- [RESILIENCE AND ECONOMIC EMPOWERMENT: A QUALITATIVE INVESTIGATION OF ENTREPRENEURIAL INDONESIAN WOMEN](../sources/5102-resilience-and-economic-empowerment-a-qualitative-investigation-of-entrepreneuri.md) (2013)
-- [10. Sharia and national law in Indonesia](../sources/4986-10-sharia-and-national-law-in-indonesia.md) (2012)
-- [Better land access for the rural poor: lessons from experience and challenges ahead](../sources/4995-better-land-access-for-the-rural-poor-lessons-from-experience-and-challenges-ahe.md) (2006)
-- [An introduction to radical participatory design: decolonising participatory design processes](../sources/4997-an-introduction-to-radical-participatory-design-decolonising-participatory-desig.md) (2022)
-- [Agriculture and the Generation Problem](../sources/5001-agriculture-and-the-generation-problem.md) (2020)
-- [The Role of Micro Waqf Bank in Women’s Micro-Business Empowerment through Islamic Social Finance: Mixed-Method Evidence from Mawaridussalam Indonesia](../sources/5094-the-role-of-micro-waqf-bank-in-womens-micro-business-empowerment-through-islamic.md) (2022)
-- [Chaos on Campus: Universities and Mass Political Protest](../sources/5006-chaos-on-campus-universities-and-mass-political-protest.md) (2020)
-- [The Memory Landscapes of “1965” in Semarang](../sources/4999-the-memory-landscapes-of-1965-in-semarang.md) (2017)
-- [The Regulation of Witchcraft and Sorcery Practices and Beliefs](../sources/5002-the-regulation-of-witchcraft-and-sorcery-practices-and-beliefs.md) (2016)
-- [Inequality regimes in Indonesian dairy cooperatives: understanding institutional barriers to gender equality](../sources/5012-inequality-regimes-in-indonesian-dairy-cooperatives-understanding-institutional-.md) (2019)
-- [INDONESIAN MUSLIM WOMEN AND THE GENDER EQUALITY MOVEMENT](../sources/5011-indonesian-muslim-women-and-the-gender-equality-movement.md) (2009)
-- [The Internet and Indonesian Women Entrepreneurs: Examining the Impact of Social Media on Women Empowerment](../sources/5104-the-internet-and-indonesian-women-entrepreneurs-examining-the-impact-of-social-m.md) (2015)
-- [Post-Conflict Traditional Justice: a critical overview](../sources/4993-post-conflict-traditional-justice-a-critical-overview.md) (2013)
-- [Love Jihad and the Governance of Gender and Intimacy in Hindu Nationalist Statecraft](../sources/5004-love-jihad-and-the-governance-of-gender-and-intimacy-in-hindu-nationalist-statec.md) (2021)
-- [The Paradoxes of Decent Work in Context: A Cultural Political Economy Perspective](../sources/5007-the-paradoxes-of-decent-work-in-context-a-cultural-political-economy-perspective.md) (2015)
-- [E-Commerce to Improve Homemaker Productivity (Women Entrepreneur Empowerment at Meruya Utara, Kembangan District, West Jakarta, Indonesia)](../sources/5108-e-commerce-to-improve-homemaker-productivity-women-entrepreneur-empowerment-at-m.md) (2020)
-- [Customary Justice: Perspectives on Legal Empowerment](../sources/4996-customary-justice-perspectives-on-legal-empowerment.md) (2011)
-- [Gender Equality and Women Empowerment in The National Development of Indonesia](../sources/5010-gender-equality-and-women-empowerment-in-the-national-development-of-indonesia.md) (2020)
-- [Making foreign women the mother of our nation: the exclusion and assimilation of immigrant women in Taiwan](../sources/5005-making-foreign-women-the-mother-of-our-nation-the-exclusion-and-assimilation-of-.md) (2013)
-- [Political Parties in the Pacific Islands](../sources/5008-political-parties-in-the-pacific-islands.md) (2008)
-- [Mobile Banking for Empowerment Muslim Women Entrepreneur: Evidence from Asia (Indonesia and Bangladesh)](../sources/5107-mobile-banking-for-empowerment-muslim-women-entrepreneur-evidence-from-asia-indo.md) (2015)
-- [Women in parliament in Indonesia: denied a share of power](../sources/4994-women-in-parliament-in-indonesia-denied-a-share-of-power.md) (2004)
-- [The roles of women empowerment on attitude for safer sex negotiation among Indonesian married women](../sources/5103-the-roles-of-women-empowerment-on-attitude-for-safer-sex-negotiation-among-indon.md) (2020)
-- [The Education for Gender Equality and Human Rights in Indonesia: Contemporary Issues and Controversial Problems](../sources/5015-the-education-for-gender-equality-and-human-rights-in-indonesia-contemporary-iss.md) (2020)
-- [Social Media Empowerment: How Social Media Helps to Boost Women Entrepreneurship in Indonesian Urban Areas](../sources/5106-social-media-empowerment-how-social-media-helps-to-boost-women-entrepreneurship-.md) (2013)
-- [State Ibuism and Women’s Empowerment in Indonesia: Governmentality and Political Subjectification of Chinese Benteng Women](../sources/5105-state-ibuism-and-womens-empowerment-in-indonesia-governmentality-and-political-s.md) (2021)
-- [Gender Equality and Development: Indonesia in a Global Context](../sources/5013-gender-equality-and-development-indonesia-in-a-global-context.md) (2023)
-- [Strategic social marketing to foster gender equality in Indonesia](../sources/5014-strategic-social-marketing-to-foster-gender-equality-in-indonesia.md) (2016)
-- [KESETARAAN GENDER DAN PERTUMBUHAN EKONOMI DI INDONESIA](../sources/5050-kesetaraan-gender-dan-pertumbuhan-ekonomi-di-indonesia.md) (2020)
-- [Female Judges at Indonesian Religious Courtrooms: Opportunities and Challenges to Gender Equality](../sources/5019-female-judges-at-indonesian-religious-courtrooms-opportunities-and-challenges-to.md) (2017)
-- [Gender Equality and Social Capital as Rural Development Indicators in Indonesia (Case: Malang Regency, Indonesia)](../sources/5016-gender-equality-and-social-capital-as-rural-development-indicators-in-indonesia-.md) (2015)
-- [The Effects of Women Empowerment on Indonesia’s Regional Economic Growth](../sources/5063-the-effects-of-women-empowerment-on-indonesias-regional-economic-growth.md) (2021)
-- [Women's Economic Empowerment Through Sharia Micro-Finance Institutions In Indonesia: A Qualitative Research](../sources/5092-womens-economic-empowerment-through-sharia-micro-finance-institutions-in-indones.md) (2022)
-- [Gender equality in the government water, sanitation, and hygiene workforce in Indonesia: an analysis through the Gender at Work framework](../sources/5018-gender-equality-in-the-government-water-sanitation-and-hygiene-workforce-in-indo.md) (2021)
-- [Gender Equality in Climate Change Adaptation: A Case of Cirebon, Indonesia](../sources/5020-gender-equality-in-climate-change-adaptation-a-case-of-cirebon-indonesia.md) (2017)
-- [The Problems of The Marriage Age Changing in Indonesia in the Perspectives of Muslim Jurists and Gender Equality](../sources/5024-the-problems-of-the-marriage-age-changing-in-indonesia-in-the-perspectives-of-mu.md) (2021)
-- [“When House Becomes Home”—Reading Normativity in Gender Equality Advocacy in Post-tsunami Aceh, Indonesia](../sources/5032-when-house-becomes-homereading-normativity-in-gender-equality-advocacy-in-post-t.md) (2010)
-- [Tackling Poverty through Women Empowerment: The Role of Social Capital in Indonesian Women’s Cooperative](../sources/5114-tackling-poverty-through-women-empowerment-the-role-of-social-capital-in-indones.md) (2018)
-- [Problematika Kekerasan Berbasis Gender Dan Pencapaian Gender Equality Dalam Sustainable Development Goals Di Indonesia](../sources/5026-problematika-kekerasan-berbasis-gender-dan-pencapaian-gender-equality-dalam-sust.md) (2022)
-- [EMPOWERING CROSS-BORDER WOMEN ENTREPRENEURS VIA MOBILE ICT: FRAMEWORK FOR MALAYSIAN AND INDONESIAN WOMEN-LED MSMES](../sources/5109-empowering-cross-border-women-entrepreneurs-via-mobile-ict-framework-for-malaysi.md) (2021)
-- [The JAMU System in Indonesia: Linking Small-Scale Enterprises, Traditional Knowledge and Social Empowerment Among Women in Indonesia](../sources/5115-the-jamu-system-in-indonesia-linking-small-scale-enterprises-traditional-knowled.md) (2012)
-- [Gender Equality and Corporate Social Responsibility in Mining: An Investigation of the Potential for Change at Kaltim Prima Coal, Indonesia](../sources/5022-gender-equality-and-corporate-social-responsibility-in-mining-an-investigation-o.md) (2011)
-- [Does Gender Blindness Improve Gender Equality? Female Judges and the Glass Ceiling Effect in the Islamic Judicial System in Indonesia](../sources/5033-does-gender-blindness-improve-gender-equality-female-judges-and-the-glass-ceilin.md) (2022)
-- [The Effect of Digital Financial Literacy and Digital Financial Inclusion on Women’s Entrepreneurship Empowerment](../sources/5097-the-effect-of-digital-financial-literacy-and-digital-financial-inclusion-on-wome.md) (2024)
-- [Empowering Poor-Households Women on Productive Economy Businesses in Indonesia](../sources/5110-empowering-poor-households-women-on-productive-economy-businesses-in-indonesia.md) (2020)
-- [WOMEN’S RIGHTS AND GENDER EQUALITY ISSUES IN ISLAMIC LAW IN INDONESIA: THE NEED TO RE-READ WOMEN’S STATUS IN THE ISLAMIC RELIGIOUS TEXTS](../sources/5052-womens-rights-and-gender-equality-issues-in-islamic-law-in-indonesia-the-need-to.md) (2014)
-- [WOMEN’S EMPOWERMENT: EXAMINING LEADERSHIP COMMUNICATION OF WOMEN ENTREPRENEURS IN INDONESIA AND THE USA](../sources/5111-womens-empowerment-examining-leadership-communication-of-women-entrepreneurs-in-.md) (2015)
-- [Empowering Women on Bamboo Utilization and Conservation in the Lake Toba Catchment Area of the North Sumatra Province of Indonesia](../sources/5113-empowering-women-on-bamboo-utilization-and-conservation-in-the-lake-toba-catchme.md) (2020)
-- [Economic Empowerment for Poor Women Using Grameen Bank Model in Indonesia](../sources/5116-economic-empowerment-for-poor-women-using-grameen-bank-model-in-indonesia.md) (2019)
-- [Gender Equality in Indigenous Peoples in Indonesia (Challenges and Efforts Towards the 2030 Sustainable Development Goals)](../sources/5021-gender-equality-in-indigenous-peoples-in-indonesia-challenges-and-efforts-toward.md) (2024)
-- [Women after the tsunami: Impact, empowerment and changes in post-disaster situations of Sri Lanka and Aceh, Indonesia](../sources/5122-women-after-the-tsunami-impact-empowerment-and-changes-in-post-disaster-situatio.md) (2015)
-- [Women's Rights and Gender Equality: An Analysis of Jasser Auda's Thoughts and His Contribution to Renewal of Islamic Family Law in Indonesia](../sources/5053-womens-rights-and-gender-equality-an-analysis-of-jasser-audas-thoughts-and-his-c.md) (2022)
-- [Economic empowerment of unbanked women through financial inclusion in Indonesia](../sources/5074-economic-empowerment-of-unbanked-women-through-financial-inclusion-in-indonesia.md) (2024)
-- [KESETARAAN GENDER DALAM ATURAN HUKUM DAN IMPLEMENTASINYA DI INDONESIA GENDER EQUALITY IN THE RULE OF LAW IN INDONESIAN AND IMPLEMENTATION)](../sources/5009-kesetaraan-gender-dalam-aturan-hukum-dan-implementasinya-di-indonesia-gender-equ.md) (2012)
-- [Women's empowerment model in treatment of pregnant women at risk of anemia in Indonesia: Literature review](../sources/5073-womens-empowerment-model-in-treatment-of-pregnant-women-at-risk-of-anemia-in-ind.md) (2024)
-- [Conceptualizing Framework for Women Empowerment in Indonesia: Integrating the Role of Media, Interpersonal Communication, Cosmopolite, Extension Agent and Culture as Predictors Variables](../sources/5119-conceptualizing-framework-for-women-empowerment-in-indonesia-integrating-the-rol.md) (2015)
-- [Gender Equality Challenges and Raising Awareness in the Patriarchal Cultural in Indonesia](../sources/5023-gender-equality-challenges-and-raising-awareness-in-the-patriarchal-cultural-in-.md) (2023)
-- [Sustainable development goals on gender equality disclosure practices of Indonesian companies](../sources/5025-sustainable-development-goals-on-gender-equality-disclosure-practices-of-indones.md) (2024)
-- [Revisiting ‘Iddah: A Critical Analysis of Gender Equality in Indonesian Feminist Islamic Legal Discourse](../sources/5031-revisiting-iddah-a-critical-analysis-of-gender-equality-in-indonesian-feminist-i.md) (2023)
-- [Gender Equality in Politics (Study on The Indonesian Constitutional Court's Decisions on Judicial Review Related to Women's Political Participation)](../sources/5042-gender-equality-in-politics-study-on-the-indonesian-constitutional-courts-decisi.md) (2022)
-- [Legal Age Equality in Marriage According to Indonesian Positive Law in the Studies of Gender and Maqāṣid Al-Sharia](../sources/5055-legal-age-equality-in-marriage-according-to-indonesian-positive-law-in-the-studi.md) (2023)
-- [From Effectuation to Empowerment: Unveiling the Impact of Women Entrepreneurs on Small and Medium Enterprises’ Performance—Evidence from Indonesia](../sources/5062-from-effectuation-to-empowerment-unveiling-the-impact-of-women-entrepreneurs-on-.md) (2025)
-- [INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND WOMEN EMPOWERMENT IN INDONESIA](../sources/5080-information-and-communication-technology-ict-and-women-empowerment-in-indonesia.md) (2019)
-- [Maternity Leave and Gender Equality: Comparative Studies of Indonesia, Malaysia, and Thailand](../sources/5028-maternity-leave-and-gender-equality-comparative-studies-of-indonesia-malaysia-an.md) (2022)
-- [Gender Equality Rights Discourse in Indonesia: Muhammadiyah Reading Models](../sources/5029-gender-equality-rights-discourse-in-indonesia-muhammadiyah-reading-models.md) (2020)
-- [“Aliansi Laki-Laki Baru”: The Role of Social Media in Promoting Gender Equality in Indonesia](../sources/5035-aliansi-laki-laki-baru-the-role-of-social-media-in-promoting-gender-equality-in-.md) (2018)
-- [Assessing state commitment to gender equality: A feminist legal perspective on legislative processes in Indonesia and beyond](../sources/5036-assessing-state-commitment-to-gender-equality-a-feminist-legal-perspective-on-le.md) (2024)
-- [INDONESIAN INHERITANCE SYSTEM BASED ON ISLAMIC LAW, CIVIL CODE, MATRILINEAL CUSTOMS, AND GENDER EQUALITY PERSPECTIVES](../sources/5041-indonesian-inheritance-system-based-on-islamic-law-civil-code-matrilineal-custom.md) (2023)
-- [Business Licencing Reform and Gender Equality: Evidence from Indonesia](../sources/5044-business-licencing-reform-and-gender-equality-evidence-from-indonesia.md) (2023)
-- [The Implementation of Feminist Values in Srikandi (Woman Figure on Wayang Story) : A Concept to Develop Gender Equality in Java, Indonesia](../sources/5046-the-implementation-of-feminist-values-in-srikandi-woman-figure-on-wayang-story--.md) (2019)
-- [Analisis Perbandingan Metode Hierarchical dan Non-Hierarchical dalam Pembentukan Cluster Provinsi di Indonesia Berdasarkan Indikator Women Empowerment](../sources/5058-analisis-perbandingan-metode-hierarchical-dan-non-hierarchical-dalam-pembentukan.md) (2024)
-- [Women Empowerment in Indonesia: Community Learning Activity Center Programs](../sources/5064-women-empowerment-in-indonesia-community-learning-activity-center-programs.md) (2021)
-- [Empowering Women Through Entrepreneurship: A Case Study in East Java, Indonesia](../sources/5117-empowering-women-through-entrepreneurship-a-case-study-in-east-java-indonesia.md) (2019)
-- [Predicitive modeling, empowering women, and Covid-19 in South Sumatra, Indonesia](../sources/5118-predicitive-modeling-empowering-women-and-covid-19-in-south-sumatra-indonesia.md) (2020)
-- [EMPOWERMENT OF WOMEN THROUGH ORGANISASI PEMBERDAYAAN KESEJAHTERAAN KELUARGA (FAMILY WELFARE AND EMPOWERMENT ORGANIZATION) IN THE FAMILY INCOME DEVELOPMENT PROGRAM IN BANJARBARU CITY, INDONESIA](../sources/5127-empowerment-of-women-through-organisasi-pemberdayaan-kesejahteraan-keluarga-fami.md) (2020)
-- [The Role of Gender Equality on Poverty Alleviation: Case of Indonesia](../sources/5030-the-role-of-gender-equality-on-poverty-alleviation-case-of-indonesia.md) (2023)
-- [Gender equality and development in Indonesia](../sources/5034-gender-equality-and-development-in-indonesia.md) (2012)
-- [Does the English Textbook for Young Learners in Indonesia Promote Gender Equality?](../sources/5038-does-the-english-textbook-for-young-learners-in-indonesia-promote-gender-equalit.md) (2022)
-- [Analysis of the Gender Equality Application in Japanese and Indonesian Elementary School Education through Class Pickets](../sources/5043-analysis-of-the-gender-equality-application-in-japanese-and-indonesian-elementar.md) (2021)
-- [Implications of Low Women's Representation: Strategies and Challenges Towards Gender Equality in Indonesian Politics](../sources/5047-implications-of-low-womens-representation-strategies-and-challenges-towards-gend.md) (2023)
-- [Joint Property Division in Indonesia: A Gender Equality Viewpoint](../sources/5048-joint-property-division-in-indonesia-a-gender-equality-viewpoint.md) (2023)
-- [Gender Equality in the Foreign Language Textbooks of Indonesian Junior High Schools](../sources/5054-gender-equality-in-the-foreign-language-textbooks-of-indonesian-junior-high-scho.md) (2023)
-- [Women's Economic Transformation: A Literature Review on Empowerment through Entrepreneurship and Financial Inclusion in Pekalongan, Indonesia](../sources/5071-womens-economic-transformation-a-literature-review-on-empowerment-through-entrep.md) (2024)
-- [Women’s empowerment in integrated cattle-farming systems in Indonesia](../sources/5075-womens-empowerment-in-integrated-cattle-farming-systems-in-indonesia.md) (2024)
-- [Cracking the Glass Ceiling: The Case of Women’s Empowerment in Promoting Village Tourism Development in Malang, Indonesia](../sources/5076-cracking-the-glass-ceiling-the-case-of-womens-empowerment-in-promoting-village-t.md) (2024)
-- [Women Empowerment for Poverty Reduction in Ring-1 Rural Area of a Cement Company in Tuban, East Java Province, Indonesia](../sources/5083-women-empowerment-for-poverty-reduction-in-ring-1-rural-area-of-a-cement-company.md) (2018)
-- [Assessing Child Marriage in Indonesia: A Call for Educational Empowerment](../sources/5091-assessing-child-marriage-in-indonesia-a-call-for-educational-empowerment.md) (2025)
-- [The Empowerment of Indigenous Papuan Women Through Home-Based Industries: A Case Study in Papua, Indonesia](../sources/5093-the-empowerment-of-indigenous-papuan-women-through-home-based-industries-a-case-.md) (2023)
-- [The Role of Indonesian Muslim Entrepreneurs Community for Home Industry Players in Empowering Women During the Pandemic](../sources/5120-the-role-of-indonesian-muslim-entrepreneurs-community-for-home-industry-players-.md) (2022)
-- [Lessons from Effective Poverty Alleviation in Indonesia: the Role of Women Empowerment and Community Participation](../sources/5123-lessons-from-effective-poverty-alleviation-in-indonesia-the-role-of-women-empowe.md) (2016)
-- [Traces of Gender Equality in Indonesia](../sources/5027-traces-of-gender-equality-in-indonesia.md) (2022)
-- [Analysis of Gender Equality in Early Childhood Education in Indonesia](../sources/5037-analysis-of-gender-equality-in-early-childhood-education-in-indonesia.md) (2021)
-- [Hadith, Justice, and Gender Equality: Indonesian ProgressiveMuslims’ Thought](../sources/5039-hadith-justice-and-gender-equality-indonesian-progressivemuslims-thought.md) (2019)
-- [Policy and implementation of gender equality in Indonesian mining companies as an approach to achieve the goals of Indonesian SDGS](../sources/5045-policy-and-implementation-of-gender-equality-in-indonesian-mining-companies-as-a.md) (2024)
-- [Patterns of women empowerment in rural Indonesia: the role of quran completion tradition](../sources/5059-patterns-of-women-empowerment-in-rural-indonesia-the-role-of-quran-completion-tr.md) (2024)
-- [Socio-ecological barriers to women's empowerment in sanitation in Eastern Indonesia.](../sources/5065-socio-ecological-barriers-to-womens-empowerment-in-sanitation-in-eastern-indones.md) (2025)
-- [The Effect of Policy Implementation, Personnel Competency, and Community Participation on the Performance of the department of Women Empowerment, Child Protection and Community Empowerment, Medan, Indonesia](../sources/5069-the-effect-of-policy-implementation-personnel-competency-and-community-participa.md) (2021)
-- [Empowerment of Women to Support Family Economy in Sukamukti Ciamis Indonesia](../sources/5121-empowerment-of-women-to-support-family-economy-in-sukamukti-ciamis-indonesia.md) (2018)
-- [Feminization of Poverty Program (PFK) and the Empowerment of Women Heads-of-Household in East Java, Indonesia](../sources/5124-feminization-of-poverty-program-pfk-and-the-empowerment-of-women-heads-of-househ.md) (2019)
-- [Women’s economic empowerment and COVID-19: the case of vulnerable women with intersectional identities in Indonesia and Vietnam](../sources/5126-womens-economic-empowerment-and-covid-19-the-case-of-vulnerable-women-with-inter.md) (2021)
-- [Mobile value-added services and the economic empowerment of women: The case of <i>Usaha Wanita</i> in Indonesia](../sources/5128-mobile-value-added-services-and-the-economic-empowerment-of-women-the-case-of-iu.md) (2015)
-- [Gender equality in political life in Indonesia](../sources/5040-gender-equality-in-political-life-in-indonesia.md) (2022)
-- [A Long Road to a Gender Equality in the House of Representatives in Indonesia](../sources/5049-a-long-road-to-a-gender-equality-in-the-house-of-representatives-in-indonesia.md) (2020)
-- [Gender Equality in Southeast Asia: A Comparative Study of Indonesia and the Philippines](../sources/5051-gender-equality-in-southeast-asia-a-comparative-study-of-indonesia-and-the-phili.md) (2017)
-- [Education strategies to prevent child abuse in Aceh, Indonesia: Women and Child Empowerment Center and Protection Unit](../sources/5060-education-strategies-to-prevent-child-abuse-in-aceh-indonesia-women-and-child-em.md) (2023)
-- [Prospects of Women Empowerment Under The Pretext of Indonesia and Pakistan](../sources/5061-prospects-of-women-empowerment-under-the-pretext-of-indonesia-and-pakistan.md) (2022)
-- [Contextualizing the Philosophy of Women's Empowerment through the Role of the National Board of Zakat in Indonesia](../sources/5077-contextualizing-the-philosophy-of-womens-empowerment-through-the-role-of-the-nat.md) (2024)
-- [Prediction of the Social Impact of Islamic Family Law on Women's Empowerment in Indonesia and Saudi Arabia: Analysis of Islamic Feminism, Structuralism, and Legal Socialization](../sources/5078-prediction-of-the-social-impact-of-islamic-family-law-on-womens-empowerment-in-i.md) (2024)
-- [From Fear to Fight Back: Women’s Empowerment Through “Jogo Tonggo” Program During Covid-19 Rage in Karang Nangka Village Banyumas County-Indonesia](../sources/5079-from-fear-to-fight-back-womens-empowerment-through-jogo-tonggo-program-during-co.md) (2024)
-- [Social Capital as a Catalyst for Community Empowerment: Evidence from KWT Srikandi Mrican, Indonesia](../sources/5084-social-capital-as-a-catalyst-for-community-empowerment-evidence-from-kwt-srikand.md) (2025)
-- [The Impact of Public Policy on Women's Empowerment in Coastal Area, Kendari, Southeast Sulawesi, Indonesia](../sources/5085-the-impact-of-public-policy-on-womens-empowerment-in-coastal-area-kendari-southe.md) (2023)
-- [Communication of women's empowerment through MSMEs as a CSR program in the cement subsector industry](../sources/5086-communication-of-womens-empowerment-through-msmes-as-a-csr-program-in-the-cement.md) (2025)
-- [Analysis of Women’s Economic Empowerment and Domestic Violence Prevention Policy Implementation based on Gender Transformative (GT) Approach in North Aceh Regency](../sources/5088-analysis-of-womens-economic-empowerment-and-domestic-violence-prevention-policy-.md) (2025)
-- [Negotiating Liminal Identity and Women’s Empowerment in Pesantren Salaf](../sources/5089-negotiating-liminal-identity-and-womens-empowerment-in-pesantren-salaf.md) (2025)
-- [THE SHELLFISH INDUSTRY IN INDONESIA: ECONOMIC SIGNIFICANCE, SUSTAINABILITY CHALLENGES AND COMMUNITY EMPOWERMENT](../sources/5090-the-shellfish-industry-in-indonesia-economic-significance-sustainability-challen.md) (2025)
-- [Contribution of the Nahdlatul Ulama (NU) social movement to gender Issue and empowerment of women in Indonesia (1938-2022)](../sources/5099-contribution-of-the-nahdlatul-ulama-nu-social-movement-to-gender-issue-and-empow.md) (2023)
-- [Women Empowerment to Support Families Economy in Sukamukti Ciamis Indonesia](../sources/5125-women-empowerment-to-support-families-economy-in-sukamukti-ciamis-indonesia.md) (2018)
-- [Empowering Women: Indonesian Muslim Girl Fans, Thailand’s Y-Series, and Gender Equality](../sources/5129-empowering-women-indonesian-muslim-girl-fans-thailands-y-series-and-gender-equal.md) (2025)
-- [Indonesian Women and Islamic Economy: A Case Study of Islamic Microfinance and Women's Empowerment in Yogyakarta](../sources/5130-indonesian-women-and-islamic-economy-a-case-study-of-islamic-microfinance-and-wo.md) (2020)
-- [RECONSTRUCTION OF NUSYÚZ CONCEPT IN COMPILATION OF ISLAMIC LAW IN INDONESIA (Gender Equality Perspective Analysis)](../sources/5017-reconstruction-of-nusyúz-concept-in-compilation-of-islamic-law-in-indonesia-gend.md) (2021)
-- [WOMEN EMPOWERMENT AND GENDER EQUALITY IN THE SALE OF BORAN RICE IN LAMONGAN INDONESIA](../sources/5057-women-empowerment-and-gender-equality-in-the-sale-of-boran-rice-in-lamongan-indo.md) (2024)
-- [Developing Women-Friendly and Child-Caring Villages in Indonesia: A Comprehensive Model for Sustainable Community Empowerment Aligned with SDG 5 (Gender Equality)](../sources/5066-developing-women-friendly-and-child-caring-villages-in-indonesia-a-comprehensive.md) (2025)
-- [The Role of Women’s Empowerment in Fertility Preferences and Outcomes: Analysis of the 2017 Indonesia Demographic and Health Survey](../sources/5067-the-role-of-womens-empowerment-in-fertility-preferences-and-outcomes-analysis-of.md) (2025)
-- [COMMUNITY ENGAGEMENT TO BUILD WOMEN EMPOWERMENT IN MAINTAINING BRAND IMAGE (STUDY ON COMMUNITY MEMBERS LOCAL SKINCARE BRAND)](../sources/5072-community-engagement-to-build-women-empowerment-in-maintaining-brand-image-study.md) (2024)
-- [The relationship government, community, companions and economic empowerment of coastal women in Sampang Regency – Indonesia](../sources/5081-the-relationship-government-community-companions-and-economic-empowerment-of-coa.md) (2024)
-- [Analysis of the Factors of Women's Empowerment of MSME actors on Per Capita Income in Indonesia](../sources/5082-analysis-of-the-factors-of-womens-empowerment-of-msme-actors-on-per-capita-incom.md) (2024)
-- [SUSTAINING BATIK LASEM: GOVERNMENT POLICIES, WOMEN’S EMPOWERMENT, AND CENTRAL BANK SUPPORT](../sources/5087-sustaining-batik-lasem-government-policies-womens-empowerment-and-central-bank-s.md) (2025)
-- [How Does Psychological Empowerment Affect Entrepreneurial Orientation at Women-Owned SMEs in Indonesia?](../sources/5095-how-does-psychological-empowerment-affect-entrepreneurial-orientation-at-women-o.md) (2023)
-- [Cultural and social empowerment of Muslim women in Context of Personal Law in India and Indonesia](../sources/5096-cultural-and-social-empowerment-of-muslim-women-in-context-of-personal-law-in-in.md) (2023)
-- [Psychological Empowerment and Entrepreneurial Orientation for Women-Owned SMEs: Evidence from Indonesia](../sources/5098-psychological-empowerment-and-entrepreneurial-orientation-for-women-owned-smes-e.md) (2023)
-- [Ecofeminism in Indonesia: women’s empowerment and environmental activism on social media](../sources/5056-ecofeminism-in-indonesia-womens-empowerment-and-environmental-activism-on-social.md) (2025)
-- [Sociodemographic Determinants of Women’s Empowerment During Pregnancy: A Cross-sectional Study in Indonesia](../sources/5068-sociodemographic-determinants-of-womens-empowerment-during-pregnancy-a-cross-sec.md) (2025)
-- [Side hustle and women's empowerment in Indonesia](../sources/5070-side-hustle-and-womens-empowerment-in-indonesia.md) (2025)
+- [Theorizing power in political ecology: the 'where' of power in resource governance projects](../sources/4984-theorizing-power-in-political-ecology-the-where-of-power-in-resource-governance-.md) (2018) | Relevance: 5.0
+- [Love Jihad and the Governance of Gender and Intimacy in Hindu Nationalist Statecraft](../sources/5004-love-jihad-and-the-governance-of-gender-and-intimacy-in-hindu-nationalist-statec.md) (2021) | Relevance: 5.0
+- [Civic Engagement and Democracy in Post-Suharto Indonesia: A Review of Musrenbang, the Kecamatan Development Programme, and Labour Organising](../sources/4983-civic-engagement-and-democracy-in-post-suharto-indonesia-a-review-of-musrenbang-.md) (2017) | Relevance: 4.0
+- [Participatory action research in health systems : a methods reader](../sources/4987-participatory-action-research-in-health-systems--a-methods-reader.md) (2014) | Relevance: 4.0
+- [What is the "rights-based approach" all about? : perspectives from international development agencies](../sources/4985-what-is-the-rights-based-approach-all-about--perspectives-from-international-dev.md) (2004) | Relevance: 4.0
+- [Adapting land administration to the institutional framework of customary tenure: The case of peri-urban Ghana](../sources/5000-adapting-land-administration-to-the-institutional-framework-of-customary-tenure-.md) (2011) | Relevance: 4.0
+- [Inequality regimes in Indonesian dairy cooperatives: understanding institutional barriers to gender equality](../sources/5012-inequality-regimes-in-indonesian-dairy-cooperatives-understanding-institutional-.md) (2019) | Relevance: 4.0
+- [Gender Equality and Women Empowerment in The National Development of Indonesia](../sources/5010-gender-equality-and-women-empowerment-in-the-national-development-of-indonesia.md) (2020) | Relevance: 4.0
+- [The Education for Gender Equality and Human Rights in Indonesia: Contemporary Issues and Controversial Problems](../sources/5015-the-education-for-gender-equality-and-human-rights-in-indonesia-contemporary-iss.md) (2020) | Relevance: 4.0
+- [Gender Equality and Development: Indonesia in a Global Context](../sources/5013-gender-equality-and-development-indonesia-in-a-global-context.md) (2023) | Relevance: 4.0
+- [Gender Equality and Social Capital as Rural Development Indicators in Indonesia (Case: Malang Regency, Indonesia)](../sources/5016-gender-equality-and-social-capital-as-rural-development-indicators-in-indonesia-.md) (2015) | Relevance: 4.0
+- [Women's Economic Empowerment Through Sharia Micro-Finance Institutions In Indonesia: A Qualitative Research](../sources/5092-womens-economic-empowerment-through-sharia-micro-finance-institutions-in-indones.md) (2022) | Relevance: 4.0
+- [Problematika Kekerasan Berbasis Gender Dan Pencapaian Gender Equality Dalam Sustainable Development Goals Di Indonesia](../sources/5026-problematika-kekerasan-berbasis-gender-dan-pencapaian-gender-equality-dalam-sust.md) (2022) | Relevance: 4.0
+- [Gender Equality in Indigenous Peoples in Indonesia (Challenges and Efforts Towards the 2030 Sustainable Development Goals)](../sources/5021-gender-equality-in-indigenous-peoples-in-indonesia-challenges-and-efforts-toward.md) (2024) | Relevance: 4.0
+- [Sustainable development goals on gender equality disclosure practices of Indonesian companies](../sources/5025-sustainable-development-goals-on-gender-equality-disclosure-practices-of-indones.md) (2024) | Relevance: 4.0
+- [Business Licencing Reform and Gender Equality: Evidence from Indonesia](../sources/5044-business-licencing-reform-and-gender-equality-evidence-from-indonesia.md) (2023) | Relevance: 4.0
+- [EMPOWERMENT OF WOMEN THROUGH ORGANISASI PEMBERDAYAAN KESEJAHTERAAN KELUARGA (FAMILY WELFARE AND EMPOWERMENT ORGANIZATION) IN THE FAMILY INCOME DEVELOPMENT PROGRAM IN BANJARBARU CITY, INDONESIA](../sources/5127-empowerment-of-women-through-organisasi-pemberdayaan-kesejahteraan-keluarga-fami.md) (2020) | Relevance: 4.0
+- [Gender equality and development in Indonesia](../sources/5034-gender-equality-and-development-in-indonesia.md) (2012) | Relevance: 4.0
+- [Analysis of the Gender Equality Application in Japanese and Indonesian Elementary School Education through Class Pickets](../sources/5043-analysis-of-the-gender-equality-application-in-japanese-and-indonesian-elementar.md) (2021) | Relevance: 4.0
+- [Cracking the Glass Ceiling: The Case of Women’s Empowerment in Promoting Village Tourism Development in Malang, Indonesia](../sources/5076-cracking-the-glass-ceiling-the-case-of-womens-empowerment-in-promoting-village-t.md) (2024) | Relevance: 4.0
+- [Analysis of Gender Equality in Early Childhood Education in Indonesia](../sources/5037-analysis-of-gender-equality-in-early-childhood-education-in-indonesia.md) (2021) | Relevance: 4.0
+- [Does Education Empower Women? Evidence from Indonesia](../sources/5100-does-education-empower-women-evidence-from-indonesia.md) (2014) | Relevance: 3.0
+- [Women's decision-making autonomy in the household and the use of maternal health services: An Indonesian case study](../sources/1663-womens-decision-making-autonomy-in-the-household-and-the-use-of-maternal-health-.md) (2020) | Relevance: 3.0
+- [The Determinants of Married Women's Autonomy in Indonesia](../sources/1655-the-determinants-of-married-womens-autonomy-in-indonesia.md) (2009) | Relevance: 3.0
+- [RESILIENCE AND ECONOMIC EMPOWERMENT: A QUALITATIVE INVESTIGATION OF ENTREPRENEURIAL INDONESIAN WOMEN](../sources/5102-resilience-and-economic-empowerment-a-qualitative-investigation-of-entrepreneuri.md) (2013) | Relevance: 3.0
+- [The Effects of Women Empowerment on Indonesia’s Regional Economic Growth](../sources/5063-the-effects-of-women-empowerment-on-indonesias-regional-economic-growth.md) (2021) | Relevance: 3.0
+- [Tackling Poverty through Women Empowerment: The Role of Social Capital in Indonesian Women’s Cooperative](../sources/5114-tackling-poverty-through-women-empowerment-the-role-of-social-capital-in-indones.md) (2018) | Relevance: 3.0
+- [Economic Empowerment for Poor Women Using Grameen Bank Model in Indonesia](../sources/5116-economic-empowerment-for-poor-women-using-grameen-bank-model-in-indonesia.md) (2019) | Relevance: 3.0
+- [Economic empowerment of unbanked women through financial inclusion in Indonesia](../sources/5074-economic-empowerment-of-unbanked-women-through-financial-inclusion-in-indonesia.md) (2024) | Relevance: 3.0
+- [The Role of Gender Equality on Poverty Alleviation: Case of Indonesia](../sources/5030-the-role-of-gender-equality-on-poverty-alleviation-case-of-indonesia.md) (2023) | Relevance: 3.0
+- [Women's Economic Transformation: A Literature Review on Empowerment through Entrepreneurship and Financial Inclusion in Pekalongan, Indonesia](../sources/5071-womens-economic-transformation-a-literature-review-on-empowerment-through-entrep.md) (2024) | Relevance: 3.0
+- [Women Empowerment for Poverty Reduction in Ring-1 Rural Area of a Cement Company in Tuban, East Java Province, Indonesia](../sources/5083-women-empowerment-for-poverty-reduction-in-ring-1-rural-area-of-a-cement-company.md) (2018) | Relevance: 3.0
+- [Assessing Child Marriage in Indonesia: A Call for Educational Empowerment](../sources/5091-assessing-child-marriage-in-indonesia-a-call-for-educational-empowerment.md) (2025) | Relevance: 3.0
+- [Lessons from Effective Poverty Alleviation in Indonesia: the Role of Women Empowerment and Community Participation](../sources/5123-lessons-from-effective-poverty-alleviation-in-indonesia-the-role-of-women-empowe.md) (2016) | Relevance: 3.0
+- [Feminization of Poverty Program (PFK) and the Empowerment of Women Heads-of-Household in East Java, Indonesia](../sources/5124-feminization-of-poverty-program-pfk-and-the-empowerment-of-women-heads-of-househ.md) (2019) | Relevance: 3.0
+- [Women’s economic empowerment and COVID-19: the case of vulnerable women with intersectional identities in Indonesia and Vietnam](../sources/5126-womens-economic-empowerment-and-covid-19-the-case-of-vulnerable-women-with-inter.md) (2021) | Relevance: 3.0
+- [Mobile value-added services and the economic empowerment of women: The case of <i>Usaha Wanita</i> in Indonesia](../sources/5128-mobile-value-added-services-and-the-economic-empowerment-of-women-the-case-of-iu.md) (2015) | Relevance: 3.0
+- [Education strategies to prevent child abuse in Aceh, Indonesia: Women and Child Empowerment Center and Protection Unit](../sources/5060-education-strategies-to-prevent-child-abuse-in-aceh-indonesia-women-and-child-em.md) (2023) | Relevance: 3.0
+- [Analysis of Women’s Economic Empowerment and Domestic Violence Prevention Policy Implementation based on Gender Transformative (GT) Approach in North Aceh Regency](../sources/5088-analysis-of-womens-economic-empowerment-and-domestic-violence-prevention-policy-.md) (2025) | Relevance: 3.0
+- [THE SHELLFISH INDUSTRY IN INDONESIA: ECONOMIC SIGNIFICANCE, SUSTAINABILITY CHALLENGES AND COMMUNITY EMPOWERMENT](../sources/5090-the-shellfish-industry-in-indonesia-economic-significance-sustainability-challen.md) (2025) | Relevance: 3.0
+- [The Role of Women’s Empowerment in Fertility Preferences and Outcomes: Analysis of the 2017 Indonesia Demographic and Health Survey](../sources/5067-the-role-of-womens-empowerment-in-fertility-preferences-and-outcomes-analysis-of.md) (2025) | Relevance: 3.0
+- [The relationship government, community, companions and economic empowerment of coastal women in Sampang Regency – Indonesia](../sources/5081-the-relationship-government-community-companions-and-economic-empowerment-of-coa.md) (2024) | Relevance: 3.0
+- [In search of good quality part-time employment](../sources/5003-in-search-of-good-quality-part-time-employment.md) (2014) | Relevance: 2.0
+- [Better land access for the rural poor: lessons from experience and challenges ahead](../sources/4995-better-land-access-for-the-rural-poor-lessons-from-experience-and-challenges-ahe.md) (2006) | Relevance: 2.0
+- [The Regulation of Witchcraft and Sorcery Practices and Beliefs](../sources/5002-the-regulation-of-witchcraft-and-sorcery-practices-and-beliefs.md) (2016) | Relevance: 2.0
+- [Post-Conflict Traditional Justice: a critical overview](../sources/4993-post-conflict-traditional-justice-a-critical-overview.md) (2013) | Relevance: 2.0
+- [Customary Justice: Perspectives on Legal Empowerment](../sources/4996-customary-justice-perspectives-on-legal-empowerment.md) (2011) | Relevance: 2.0
+- [Political Parties in the Pacific Islands](../sources/5008-political-parties-in-the-pacific-islands.md) (2008) | Relevance: 2.0
+- [Mobile Banking for Empowerment Muslim Women Entrepreneur: Evidence from Asia (Indonesia and Bangladesh)](../sources/5107-mobile-banking-for-empowerment-muslim-women-entrepreneur-evidence-from-asia-indo.md) (2015) | Relevance: 2.0
+- [State Ibuism and Women’s Empowerment in Indonesia: Governmentality and Political Subjectification of Chinese Benteng Women](../sources/5105-state-ibuism-and-womens-empowerment-in-indonesia-governmentality-and-political-s.md) (2021) | Relevance: 2.0
+- [KESETARAAN GENDER DAN PERTUMBUHAN EKONOMI DI INDONESIA](../sources/5050-kesetaraan-gender-dan-pertumbuhan-ekonomi-di-indonesia.md) (2020) | Relevance: 2.0
+- [“When House Becomes Home”—Reading Normativity in Gender Equality Advocacy in Post-tsunami Aceh, Indonesia](../sources/5032-when-house-becomes-homereading-normativity-in-gender-equality-advocacy-in-post-t.md) (2010) | Relevance: 2.0
+- [The JAMU System in Indonesia: Linking Small-Scale Enterprises, Traditional Knowledge and Social Empowerment Among Women in Indonesia](../sources/5115-the-jamu-system-in-indonesia-linking-small-scale-enterprises-traditional-knowled.md) (2012) | Relevance: 2.0
+- [Gender Equality and Corporate Social Responsibility in Mining: An Investigation of the Potential for Change at Kaltim Prima Coal, Indonesia](../sources/5022-gender-equality-and-corporate-social-responsibility-in-mining-an-investigation-o.md) (2011) | Relevance: 2.0
+- [WOMEN’S RIGHTS AND GENDER EQUALITY ISSUES IN ISLAMIC LAW IN INDONESIA: THE NEED TO RE-READ WOMEN’S STATUS IN THE ISLAMIC RELIGIOUS TEXTS](../sources/5052-womens-rights-and-gender-equality-issues-in-islamic-law-in-indonesia-the-need-to.md) (2014) | Relevance: 2.0
+- [Empowering Women on Bamboo Utilization and Conservation in the Lake Toba Catchment Area of the North Sumatra Province of Indonesia](../sources/5113-empowering-women-on-bamboo-utilization-and-conservation-in-the-lake-toba-catchme.md) (2020) | Relevance: 2.0
+- [Women after the tsunami: Impact, empowerment and changes in post-disaster situations of Sri Lanka and Aceh, Indonesia](../sources/5122-women-after-the-tsunami-impact-empowerment-and-changes-in-post-disaster-situatio.md) (2015) | Relevance: 2.0
+- [Women's Rights and Gender Equality: An Analysis of Jasser Auda's Thoughts and His Contribution to Renewal of Islamic Family Law in Indonesia](../sources/5053-womens-rights-and-gender-equality-an-analysis-of-jasser-audas-thoughts-and-his-c.md) (2022) | Relevance: 2.0
+- [Gender Equality Challenges and Raising Awareness in the Patriarchal Cultural in Indonesia](../sources/5023-gender-equality-challenges-and-raising-awareness-in-the-patriarchal-cultural-in-.md) (2023) | Relevance: 2.0
+- [Maternity Leave and Gender Equality: Comparative Studies of Indonesia, Malaysia, and Thailand](../sources/5028-maternity-leave-and-gender-equality-comparative-studies-of-indonesia-malaysia-an.md) (2022) | Relevance: 2.0
+- [Gender Equality Rights Discourse in Indonesia: Muhammadiyah Reading Models](../sources/5029-gender-equality-rights-discourse-in-indonesia-muhammadiyah-reading-models.md) (2020) | Relevance: 2.0
+- [“Aliansi Laki-Laki Baru”: The Role of Social Media in Promoting Gender Equality in Indonesia](../sources/5035-aliansi-laki-laki-baru-the-role-of-social-media-in-promoting-gender-equality-in-.md) (2018) | Relevance: 2.0
+- [Analisis Perbandingan Metode Hierarchical dan Non-Hierarchical dalam Pembentukan Cluster Provinsi di Indonesia Berdasarkan Indikator Women Empowerment](../sources/5058-analisis-perbandingan-metode-hierarchical-dan-non-hierarchical-dalam-pembentukan.md) (2024) | Relevance: 2.0
+- [Women Empowerment in Indonesia: Community Learning Activity Center Programs](../sources/5064-women-empowerment-in-indonesia-community-learning-activity-center-programs.md) (2021) | Relevance: 2.0
+- [Implications of Low Women's Representation: Strategies and Challenges Towards Gender Equality in Indonesian Politics](../sources/5047-implications-of-low-womens-representation-strategies-and-challenges-towards-gend.md) (2023) | Relevance: 2.0
+- [Women’s empowerment in integrated cattle-farming systems in Indonesia](../sources/5075-womens-empowerment-in-integrated-cattle-farming-systems-in-indonesia.md) (2024) | Relevance: 2.0
+- [Hadith, Justice, and Gender Equality: Indonesian ProgressiveMuslims’ Thought](../sources/5039-hadith-justice-and-gender-equality-indonesian-progressivemuslims-thought.md) (2019) | Relevance: 2.0
+- [Empowerment of Women to Support Family Economy in Sukamukti Ciamis Indonesia](../sources/5121-empowerment-of-women-to-support-family-economy-in-sukamukti-ciamis-indonesia.md) (2018) | Relevance: 2.0
+- [Contextualizing the Philosophy of Women's Empowerment through the Role of the National Board of Zakat in Indonesia](../sources/5077-contextualizing-the-philosophy-of-womens-empowerment-through-the-role-of-the-nat.md) (2024) | Relevance: 2.0
+- [Communication of women's empowerment through MSMEs as a CSR program in the cement subsector industry](../sources/5086-communication-of-womens-empowerment-through-msmes-as-a-csr-program-in-the-cement.md) (2025) | Relevance: 2.0
+- [Contribution of the Nahdlatul Ulama (NU) social movement to gender Issue and empowerment of women in Indonesia (1938-2022)](../sources/5099-contribution-of-the-nahdlatul-ulama-nu-social-movement-to-gender-issue-and-empow.md) (2023) | Relevance: 2.0
+- [Women Empowerment to Support Families Economy in Sukamukti Ciamis Indonesia](../sources/5125-women-empowerment-to-support-families-economy-in-sukamukti-ciamis-indonesia.md) (2018) | Relevance: 2.0
+- [Indonesian Women and Islamic Economy: A Case Study of Islamic Microfinance and Women's Empowerment in Yogyakarta](../sources/5130-indonesian-women-and-islamic-economy-a-case-study-of-islamic-microfinance-and-wo.md) (2020) | Relevance: 2.0
+- [RECONSTRUCTION OF NUSYÚZ CONCEPT IN COMPILATION OF ISLAMIC LAW IN INDONESIA (Gender Equality Perspective Analysis)](../sources/5017-reconstruction-of-nusyúz-concept-in-compilation-of-islamic-law-in-indonesia-gend.md) (2021) | Relevance: 2.0
+- [Developing Women-Friendly and Child-Caring Villages in Indonesia: A Comprehensive Model for Sustainable Community Empowerment Aligned with SDG 5 (Gender Equality)](../sources/5066-developing-women-friendly-and-child-caring-villages-in-indonesia-a-comprehensive.md) (2025) | Relevance: 2.0
+- [COMMUNITY ENGAGEMENT TO BUILD WOMEN EMPOWERMENT IN MAINTAINING BRAND IMAGE (STUDY ON COMMUNITY MEMBERS LOCAL SKINCARE BRAND)](../sources/5072-community-engagement-to-build-women-empowerment-in-maintaining-brand-image-study.md) (2024) | Relevance: 2.0
+- [Analysis of the Factors of Women's Empowerment of MSME actors on Per Capita Income in Indonesia](../sources/5082-analysis-of-the-factors-of-womens-empowerment-of-msme-actors-on-per-capita-incom.md) (2024) | Relevance: 2.0
+- [How Does Psychological Empowerment Affect Entrepreneurial Orientation at Women-Owned SMEs in Indonesia?](../sources/5095-how-does-psychological-empowerment-affect-entrepreneurial-orientation-at-women-o.md) (2023) | Relevance: 2.0
+- [MODERN APPROACH TO THE TREATMENT OF PREGNANT WOMEN WITH ACUTE PYELONEPHRITIS](../sources/1618-modern-approach-to-the-treatment-of-pregnant-women-with-acute-pyelonephritis.md) (2024) | Relevance: 2.0
+- [Viewpoint: The case for a six-dimensional food security framework](../sources/4982-viewpoint-the-case-for-a-six-dimensional-food-security-framework.md) (2021) | Relevance: 1.0
+- [Women’s empowerment and gender equity in agriculture: A different perspective from Southeast Asia](../sources/5112-womens-empowerment-and-gender-equity-in-agriculture-a-different-perspective-from.md) (2017) | Relevance: 1.0
+- [Dynamics of Regulatory Change: How Globalization Affects National Regulatory Policies](../sources/4990-dynamics-of-regulatory-change-how-globalization-affects-national-regulatory-poli.md) (2002) | Relevance: 1.0
+- [Inclusive banking, financial regulation and bank performance: Cross-country evidence](../sources/4992-inclusive-banking-financial-regulation-and-bank-performance-cross-country-eviden.md) (2021) | Relevance: 1.0
+- [Empowering Indonesian women through building digital media literacy](../sources/5101-empowering-indonesian-women-through-building-digital-media-literacy.md) (2017) | Relevance: 1.0
+- [Between dependence and deprivation: The interlocking nature of land alienation in Tanzania](../sources/4989-between-dependence-and-deprivation-the-interlocking-nature-of-land-alienation-in.md) (2018) | Relevance: 1.0
+- [Legalising Land Rights : Local Practices, State Responses and Tenure Security in Africa, Asia and Latin America](../sources/4991-legalising-land-rights--local-practices-state-responses-and-tenure-security-in-a.md) (2009) | Relevance: 1.0
+- [LGBT+ inclusion and human rights in Thailand: a scoping review of the literature](../sources/4998-lgbt-inclusion-and-human-rights-in-thailand-a-scoping-review-of-the-literature.md) (2021) | Relevance: 1.0
+- [Participation, Power, and Equity: Examining Three Key Social Dimensions of Fisheries Comanagement](../sources/4988-participation-power-and-equity-examining-three-key-social-dimensions-of-fisherie.md) (2018) | Relevance: 1.0
+- [10. Sharia and national law in Indonesia](../sources/4986-10-sharia-and-national-law-in-indonesia.md) (2012) | Relevance: 1.0
+- [An introduction to radical participatory design: decolonising participatory design processes](../sources/4997-an-introduction-to-radical-participatory-design-decolonising-participatory-desig.md) (2022) | Relevance: 1.0
+- [Agriculture and the Generation Problem](../sources/5001-agriculture-and-the-generation-problem.md) (2020) | Relevance: 1.0
+- [The Role of Micro Waqf Bank in Women’s Micro-Business Empowerment through Islamic Social Finance: Mixed-Method Evidence from Mawaridussalam Indonesia](../sources/5094-the-role-of-micro-waqf-bank-in-womens-micro-business-empowerment-through-islamic.md) (2022) | Relevance: 1.0
+- [Chaos on Campus: Universities and Mass Political Protest](../sources/5006-chaos-on-campus-universities-and-mass-political-protest.md) (2020) | Relevance: 1.0
+- [The Memory Landscapes of “1965” in Semarang](../sources/4999-the-memory-landscapes-of-1965-in-semarang.md) (2017) | Relevance: 1.0
+- [INDONESIAN MUSLIM WOMEN AND THE GENDER EQUALITY MOVEMENT](../sources/5011-indonesian-muslim-women-and-the-gender-equality-movement.md) (2009) | Relevance: 1.0
+- [The Internet and Indonesian Women Entrepreneurs: Examining the Impact of Social Media on Women Empowerment](../sources/5104-the-internet-and-indonesian-women-entrepreneurs-examining-the-impact-of-social-m.md) (2015) | Relevance: 1.0
+- [The Paradoxes of Decent Work in Context: A Cultural Political Economy Perspective](../sources/5007-the-paradoxes-of-decent-work-in-context-a-cultural-political-economy-perspective.md) (2015) | Relevance: 1.0
+- [E-Commerce to Improve Homemaker Productivity (Women Entrepreneur Empowerment at Meruya Utara, Kembangan District, West Jakarta, Indonesia)](../sources/5108-e-commerce-to-improve-homemaker-productivity-women-entrepreneur-empowerment-at-m.md) (2020) | Relevance: 1.0
+- [Making foreign women the mother of our nation: the exclusion and assimilation of immigrant women in Taiwan](../sources/5005-making-foreign-women-the-mother-of-our-nation-the-exclusion-and-assimilation-of-.md) (2013) | Relevance: 1.0
+- [Women in parliament in Indonesia: denied a share of power](../sources/4994-women-in-parliament-in-indonesia-denied-a-share-of-power.md) (2004) | Relevance: 1.0
+- [The roles of women empowerment on attitude for safer sex negotiation among Indonesian married women](../sources/5103-the-roles-of-women-empowerment-on-attitude-for-safer-sex-negotiation-among-indon.md) (2020) | Relevance: 1.0
+- [Social Media Empowerment: How Social Media Helps to Boost Women Entrepreneurship in Indonesian Urban Areas](../sources/5106-social-media-empowerment-how-social-media-helps-to-boost-women-entrepreneurship-.md) (2013) | Relevance: 1.0
+- [Strategic social marketing to foster gender equality in Indonesia](../sources/5014-strategic-social-marketing-to-foster-gender-equality-in-indonesia.md) (2016) | Relevance: 1.0
+- [Female Judges at Indonesian Religious Courtrooms: Opportunities and Challenges to Gender Equality](../sources/5019-female-judges-at-indonesian-religious-courtrooms-opportunities-and-challenges-to.md) (2017) | Relevance: 1.0
+- [Gender equality in the government water, sanitation, and hygiene workforce in Indonesia: an analysis through the Gender at Work framework](../sources/5018-gender-equality-in-the-government-water-sanitation-and-hygiene-workforce-in-indo.md) (2021) | Relevance: 1.0
+- [Gender Equality in Climate Change Adaptation: A Case of Cirebon, Indonesia](../sources/5020-gender-equality-in-climate-change-adaptation-a-case-of-cirebon-indonesia.md) (2017) | Relevance: 1.0
+- [The Problems of The Marriage Age Changing in Indonesia in the Perspectives of Muslim Jurists and Gender Equality](../sources/5024-the-problems-of-the-marriage-age-changing-in-indonesia-in-the-perspectives-of-mu.md) (2021) | Relevance: 1.0
+- [EMPOWERING CROSS-BORDER WOMEN ENTREPRENEURS VIA MOBILE ICT: FRAMEWORK FOR MALAYSIAN AND INDONESIAN WOMEN-LED MSMES](../sources/5109-empowering-cross-border-women-entrepreneurs-via-mobile-ict-framework-for-malaysi.md) (2021) | Relevance: 1.0
+- [Does Gender Blindness Improve Gender Equality? Female Judges and the Glass Ceiling Effect in the Islamic Judicial System in Indonesia](../sources/5033-does-gender-blindness-improve-gender-equality-female-judges-and-the-glass-ceilin.md) (2022) | Relevance: 1.0
+- [The Effect of Digital Financial Literacy and Digital Financial Inclusion on Women’s Entrepreneurship Empowerment](../sources/5097-the-effect-of-digital-financial-literacy-and-digital-financial-inclusion-on-wome.md) (2024) | Relevance: 1.0
+- [Empowering Poor-Households Women on Productive Economy Businesses in Indonesia](../sources/5110-empowering-poor-households-women-on-productive-economy-businesses-in-indonesia.md) (2020) | Relevance: 1.0
+- [WOMEN’S EMPOWERMENT: EXAMINING LEADERSHIP COMMUNICATION OF WOMEN ENTREPRENEURS IN INDONESIA AND THE USA](../sources/5111-womens-empowerment-examining-leadership-communication-of-women-entrepreneurs-in-.md) (2015) | Relevance: 1.0
+- [KESETARAAN GENDER DALAM ATURAN HUKUM DAN IMPLEMENTASINYA DI INDONESIA GENDER EQUALITY IN THE RULE OF LAW IN INDONESIAN AND IMPLEMENTATION)](../sources/5009-kesetaraan-gender-dalam-aturan-hukum-dan-implementasinya-di-indonesia-gender-equ.md) (2012) | Relevance: 1.0
+- [Women's empowerment model in treatment of pregnant women at risk of anemia in Indonesia: Literature review](../sources/5073-womens-empowerment-model-in-treatment-of-pregnant-women-at-risk-of-anemia-in-ind.md) (2024) | Relevance: 1.0
+- [Conceptualizing Framework for Women Empowerment in Indonesia: Integrating the Role of Media, Interpersonal Communication, Cosmopolite, Extension Agent and Culture as Predictors Variables](../sources/5119-conceptualizing-framework-for-women-empowerment-in-indonesia-integrating-the-rol.md) (2015) | Relevance: 1.0
+- [Revisiting ‘Iddah: A Critical Analysis of Gender Equality in Indonesian Feminist Islamic Legal Discourse](../sources/5031-revisiting-iddah-a-critical-analysis-of-gender-equality-in-indonesian-feminist-i.md) (2023) | Relevance: 1.0
+- [Gender Equality in Politics (Study on The Indonesian Constitutional Court's Decisions on Judicial Review Related to Women's Political Participation)](../sources/5042-gender-equality-in-politics-study-on-the-indonesian-constitutional-courts-decisi.md) (2022) | Relevance: 1.0
+- [Legal Age Equality in Marriage According to Indonesian Positive Law in the Studies of Gender and Maqāṣid Al-Sharia](../sources/5055-legal-age-equality-in-marriage-according-to-indonesian-positive-law-in-the-studi.md) (2023) | Relevance: 1.0
+- [From Effectuation to Empowerment: Unveiling the Impact of Women Entrepreneurs on Small and Medium Enterprises’ Performance—Evidence from Indonesia](../sources/5062-from-effectuation-to-empowerment-unveiling-the-impact-of-women-entrepreneurs-on-.md) (2025) | Relevance: 1.0
+- [INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND WOMEN EMPOWERMENT IN INDONESIA](../sources/5080-information-and-communication-technology-ict-and-women-empowerment-in-indonesia.md) (2019) | Relevance: 1.0
+- [Assessing state commitment to gender equality: A feminist legal perspective on legislative processes in Indonesia and beyond](../sources/5036-assessing-state-commitment-to-gender-equality-a-feminist-legal-perspective-on-le.md) (2024) | Relevance: 1.0
+- [INDONESIAN INHERITANCE SYSTEM BASED ON ISLAMIC LAW, CIVIL CODE, MATRILINEAL CUSTOMS, AND GENDER EQUALITY PERSPECTIVES](../sources/5041-indonesian-inheritance-system-based-on-islamic-law-civil-code-matrilineal-custom.md) (2023) | Relevance: 1.0
+- [The Implementation of Feminist Values in Srikandi (Woman Figure on Wayang Story) : A Concept to Develop Gender Equality in Java, Indonesia](../sources/5046-the-implementation-of-feminist-values-in-srikandi-woman-figure-on-wayang-story--.md) (2019) | Relevance: 1.0
+- [Empowering Women Through Entrepreneurship: A Case Study in East Java, Indonesia](../sources/5117-empowering-women-through-entrepreneurship-a-case-study-in-east-java-indonesia.md) (2019) | Relevance: 1.0
+- [Predicitive modeling, empowering women, and Covid-19 in South Sumatra, Indonesia](../sources/5118-predicitive-modeling-empowering-women-and-covid-19-in-south-sumatra-indonesia.md) (2020) | Relevance: 1.0
+- [Does the English Textbook for Young Learners in Indonesia Promote Gender Equality?](../sources/5038-does-the-english-textbook-for-young-learners-in-indonesia-promote-gender-equalit.md) (2022) | Relevance: 1.0
+- [Joint Property Division in Indonesia: A Gender Equality Viewpoint](../sources/5048-joint-property-division-in-indonesia-a-gender-equality-viewpoint.md) (2023) | Relevance: 1.0
+- [Gender Equality in the Foreign Language Textbooks of Indonesian Junior High Schools](../sources/5054-gender-equality-in-the-foreign-language-textbooks-of-indonesian-junior-high-scho.md) (2023) | Relevance: 1.0
+- [The Empowerment of Indigenous Papuan Women Through Home-Based Industries: A Case Study in Papua, Indonesia](../sources/5093-the-empowerment-of-indigenous-papuan-women-through-home-based-industries-a-case-.md) (2023) | Relevance: 1.0
+- [The Role of Indonesian Muslim Entrepreneurs Community for Home Industry Players in Empowering Women During the Pandemic](../sources/5120-the-role-of-indonesian-muslim-entrepreneurs-community-for-home-industry-players-.md) (2022) | Relevance: 1.0
+- [Traces of Gender Equality in Indonesia](../sources/5027-traces-of-gender-equality-in-indonesia.md) (2022) | Relevance: 1.0
+- [Policy and implementation of gender equality in Indonesian mining companies as an approach to achieve the goals of Indonesian SDGS](../sources/5045-policy-and-implementation-of-gender-equality-in-indonesian-mining-companies-as-a.md) (2024) | Relevance: 1.0
+- [Patterns of women empowerment in rural Indonesia: the role of quran completion tradition](../sources/5059-patterns-of-women-empowerment-in-rural-indonesia-the-role-of-quran-completion-tr.md) (2024) | Relevance: 1.0
+- [Socio-ecological barriers to women's empowerment in sanitation in Eastern Indonesia.](../sources/5065-socio-ecological-barriers-to-womens-empowerment-in-sanitation-in-eastern-indones.md) (2025) | Relevance: 1.0
+- [The Effect of Policy Implementation, Personnel Competency, and Community Participation on the Performance of the department of Women Empowerment, Child Protection and Community Empowerment, Medan, Indonesia](../sources/5069-the-effect-of-policy-implementation-personnel-competency-and-community-participa.md) (2021) | Relevance: 1.0
+- [Gender equality in political life in Indonesia](../sources/5040-gender-equality-in-political-life-in-indonesia.md) (2022) | Relevance: 1.0
+- [A Long Road to a Gender Equality in the House of Representatives in Indonesia](../sources/5049-a-long-road-to-a-gender-equality-in-the-house-of-representatives-in-indonesia.md) (2020) | Relevance: 1.0
+- [Gender Equality in Southeast Asia: A Comparative Study of Indonesia and the Philippines](../sources/5051-gender-equality-in-southeast-asia-a-comparative-study-of-indonesia-and-the-phili.md) (2017) | Relevance: 1.0
+- [Prospects of Women Empowerment Under The Pretext of Indonesia and Pakistan](../sources/5061-prospects-of-women-empowerment-under-the-pretext-of-indonesia-and-pakistan.md) (2022) | Relevance: 1.0
+- [Prediction of the Social Impact of Islamic Family Law on Women's Empowerment in Indonesia and Saudi Arabia: Analysis of Islamic Feminism, Structuralism, and Legal Socialization](../sources/5078-prediction-of-the-social-impact-of-islamic-family-law-on-womens-empowerment-in-i.md) (2024) | Relevance: 1.0
+- [From Fear to Fight Back: Women’s Empowerment Through “Jogo Tonggo” Program During Covid-19 Rage in Karang Nangka Village Banyumas County-Indonesia](../sources/5079-from-fear-to-fight-back-womens-empowerment-through-jogo-tonggo-program-during-co.md) (2024) | Relevance: 1.0
+- [Social Capital as a Catalyst for Community Empowerment: Evidence from KWT Srikandi Mrican, Indonesia](../sources/5084-social-capital-as-a-catalyst-for-community-empowerment-evidence-from-kwt-srikand.md) (2025) | Relevance: 1.0
+- [The Impact of Public Policy on Women's Empowerment in Coastal Area, Kendari, Southeast Sulawesi, Indonesia](../sources/5085-the-impact-of-public-policy-on-womens-empowerment-in-coastal-area-kendari-southe.md) (2023) | Relevance: 1.0
+- [Negotiating Liminal Identity and Women’s Empowerment in Pesantren Salaf](../sources/5089-negotiating-liminal-identity-and-womens-empowerment-in-pesantren-salaf.md) (2025) | Relevance: 1.0
+- [Empowering Women: Indonesian Muslim Girl Fans, Thailand’s Y-Series, and Gender Equality](../sources/5129-empowering-women-indonesian-muslim-girl-fans-thailands-y-series-and-gender-equal.md) (2025) | Relevance: 1.0
+- [WOMEN EMPOWERMENT AND GENDER EQUALITY IN THE SALE OF BORAN RICE IN LAMONGAN INDONESIA](../sources/5057-women-empowerment-and-gender-equality-in-the-sale-of-boran-rice-in-lamongan-indo.md) (2024) | Relevance: 1.0
+- [SUSTAINING BATIK LASEM: GOVERNMENT POLICIES, WOMEN’S EMPOWERMENT, AND CENTRAL BANK SUPPORT](../sources/5087-sustaining-batik-lasem-government-policies-womens-empowerment-and-central-bank-s.md) (2025) | Relevance: 1.0
+- [Cultural and social empowerment of Muslim women in Context of Personal Law in India and Indonesia](../sources/5096-cultural-and-social-empowerment-of-muslim-women-in-context-of-personal-law-in-in.md) (2023) | Relevance: 1.0
+- [Psychological Empowerment and Entrepreneurial Orientation for Women-Owned SMEs: Evidence from Indonesia](../sources/5098-psychological-empowerment-and-entrepreneurial-orientation-for-women-owned-smes-e.md) (2023) | Relevance: 1.0
+- [Ecofeminism in Indonesia: women’s empowerment and environmental activism on social media](../sources/5056-ecofeminism-in-indonesia-womens-empowerment-and-environmental-activism-on-social.md) (2025) | Relevance: 1.0
+- [Sociodemographic Determinants of Women’s Empowerment During Pregnancy: A Cross-sectional Study in Indonesia](../sources/5068-sociodemographic-determinants-of-womens-empowerment-during-pregnancy-a-cross-sec.md) (2025) | Relevance: 1.0
+- [Side hustle and women's empowerment in Indonesia](../sources/5070-side-hustle-and-womens-empowerment-in-indonesia.md) (2025) | Relevance: 1.0

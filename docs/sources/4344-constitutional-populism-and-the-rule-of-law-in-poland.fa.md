@@ -7,12 +7,20 @@
 | **سال** | 2022 |
 | **دسته‌بندی** | Judicial independence and rule of law |
 | **مطالعه موردی** | Poland |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 5.0 |
 | **تعداد استنادها** | 10 |
 | **شناسه دیجیتال** | [10.1017/9781009031103.013](https://doi.org/10.1017/9781009031103.013) |
 
 ## چکیده
 
 This chapter analyses the ongoing constitutional crisis in Poland and its ideological background. In 2015, the right-wing party Law and Justice (Prawo i Sprawiedliwość, PiS) won the parliamentary elections. Since then, the political system has experienced a period of rapid institutional changes. The scope, depth and type of these changes indicate that Poland is not dealing with just a crisis, but rather a systemic transformation, which is taking place without formally amending or changing the Constitution. The changes in question (which are commonly perceived as going beyond the principles of the rule of law and liberal constitutionalism) concern, among other things: the procedures and composition of the Constitutional Court, the method of appointment and disciplinary liability of the judges, and the structure and functioning of the Supreme Court and the prosecutor’s office. Institutional changes were accompanied by public discourse, in which PiS politicians alleged that the judges in Poland were corrupt, questioned the primacy of EU law over national law and warned against both external (refugees) and internal (LGBT community) threats to the Christian religion, traditional family model and Polish national identity. The changes also went hand-in-hand with extensive social policies.
+
+## منابع مرتبط
+
+- **تأیید می‌کند** [Backsliding of the Rule of Law in Poland – a Systemic Problem With the Independence of Courts](4352-backsliding-of-the-rule-of-law-in-poland--a-systemic-problem-with-the-independen.fa.md)
+- **گسترش می‌دهد** [Enforcing the Rule of Law in the EU: The Case of Poland and Hungary](4354-enforcing-the-rule-of-law-in-the-eu-the-case-of-poland-and-hungary.fa.md)
+- **گسترش می‌دهد** [Precedent in Poland](4393-precedent-in-poland.fa.md)
+- **گسترش می‌دهد** [The “Hierarchy of Institutions” reconsidered: Monetary policy and its effect on the rule of law in interwar Poland](4353-the-hierarchy-of-institutions-reconsidered-monetary-policy-and-its-effect-on-the.fa.md)
+- **تناقض دارد با** [ARTICLE 7 PROCESS AND DEMOCRATIC BACKSLIDING OF HUNGARY AND POLAND. DEMOCRACY AND THE RULE OF LAW](4347-article-7-process-and-democratic-backsliding-of-hungary-and-poland-democracy-and.fa.md)
 
 </div>

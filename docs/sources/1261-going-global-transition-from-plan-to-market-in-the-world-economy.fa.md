@@ -5,14 +5,22 @@
 | نویسندگان | نامشخص |
 |---|---|
 | **سال** | 1998 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 32 |
 | **شناسه دیجیتال** | [10.5860/choice.35-6344](https://doi.org/10.5860/choice.35-6344) |
 
 ## چکیده
 
 This essay analyzes the continuing integration of several transition economies of Europe, the former Soviet Union (FSU) and Asia into the world trading and financial system in the period 1990-95.Suitable norms are developed in the essay for comparing and ranking the integration record of the countries and for addressing the critical issue of the transition debate, i.e. whether speedier reform has facilitated their faster entry into the world economy.Among the countries included for the comparative performance are the Czech Republic, Hungary, and Poland in Central and East Europe; Estonia, Latvia and Lithuania in Northern Europe; Russia, Kazakhstan and Uzbekistan among the post-Soviet states; and China, Vietnam and India in Asia.Given the small sample, the conclusions are tentative but nevertheless interesting.Reform speed, as defined in the essay, appears to be significantly correlated with the GDP growth rate, with the emergence of a liberalized foreign exchange and trade regime by the end of the period studied, and also with positive globalization outcomes such as increased direct foreign investment flows (measured as their contribution to gross fixed investment when the period examined ends).It also correlates well with declining inflation rate over the period but somewhat poorly with the decline of inflation from its peak to the next year in the "shock therapy" mode.Speedy reform thus seems desirable, for its general economic results as for globalization.However, this conclusion must be tempered by the fact that speedy reform seems to be associated negatively with the unemployment rate, so that we may well be facing a short-run tradeoff between growth and globalization on the one hand, and unemployment, on the other.In practice, these shortrun tradeoffs could mean that speedy reform may not be politically sustainable.* Note several commonalities of experience that cut across nearly all countries and the three groups * Examine the differing levels of global integration achieved by the various countries at the end of the period by developing four different indicators 10 * Rank-order countries by their speed of reform (just accomplished above) and by their performance on these indicators of global integration (to be done below), and examine whether greater speed leads to greater globalization * Undertake similar correlations between rank ordering in terms of speed and in terms of indices of unemployment, inflation, and growth rates, to determine whether greater speed is associated with better within-period economic performance, thereby promising better future performance * Reach broad judgments on the general question of the relationship between transition strategies and globalization. Common Features of the Transition by the End of 1995As 1995 closed, nearly all economies were marked by a few common achievements and failures in regard to the management of inflation, freeing of prices, reform of the exchange rate and trade regimes, growth performance, and unemployment rates.I review these before turning in the next sections to an analysis of the significant differences.
+
+## منابع مرتبط
+
+- **گسترش می‌دهد** [FINANCIAL LIBERALIZATION AND STOCK MARKET EFFICIENCY](1270-financial-liberalization-and-stock-market-efficiency.fa.md)
+- **تأیید می‌کند** [Much Ado about Nothing? Do Domestic Firms Really Benefit from Foreign Direct Investment?](1236-much-ado-about-nothing-do-domestic-firms-really-benefit-from-foreign-direct-inve.fa.md)
+- **گسترش می‌دهد** [Stabilization and Growth in Transition Economies: The Early Experience](1265-stabilization-and-growth-in-transition-economies-the-early-experience.fa.md)
+- **گسترش می‌دهد** [The Determinants of Foreign Direct Investment in Transition Economies](1195-the-determinants-of-foreign-direct-investment-in-transition-economies.fa.md)
+- **گسترش می‌دهد** [The Transition Economies After Ten Years](1206-the-transition-economies-after-ten-years.fa.md)
 
 </div>

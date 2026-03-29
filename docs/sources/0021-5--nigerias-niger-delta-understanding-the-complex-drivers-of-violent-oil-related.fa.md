@@ -15,4 +15,10 @@
 
 This paper explores the complex roots and dimensions of the Niger Delta conflict which has escalated from ethnic minority protests against the federal Nigerian State-Oil Multinationals’ alliance in the 1990’s to the current insurgency that has attracted worldwide attention. It also raises some conceptual issues drawn from ‘snapshots’ taken from various perspectives in grappling with the complex roots of the oil- related conflict in the paradoxically oil-rich but impoverished region as an important step in a nuanced reading of the local, national and international ramifications of the conflict and its implications for Nigeria’s development. The conflict is then located both in the struggle of ethnic minority groups for local autonomy and the control of their natural resources (including oil), and the contradictions spawned by the transnational production of oil in the region. The transition from resistance – as-protest – to insurgency, as represented by attacks on state and oil company targets by the Movement for the Emancipation of the Niger Delta (MEND), is also critically analyzed.
 
+## منابع مرتبط
+
+- **گسترش می‌دهد** [The Political Economy of Democratic Decentralization](0213-the-political-economy-of-democratic-decentralization.fa.md)
+- **گسترش می‌دهد** [Decentralization of Governance and Development](0002-decentralization-of-governance-and-development.fa.md)
+- **تناقض دارد با** [Fiscal Relations across Government Levels](0017-fiscal-relations-across-government-levels.fa.md)
+
 </div>

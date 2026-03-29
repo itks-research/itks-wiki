@@ -5,9 +5,9 @@
 | نویسندگان | Peter Bakewell |
 |---|---|
 | **سال** | 1997 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 33 |
 
 ## چکیده

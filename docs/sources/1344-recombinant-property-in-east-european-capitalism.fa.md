@@ -5,9 +5,9 @@
 | نویسندگان | David Stark |
 |---|---|
 | **سال** | 1996 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
 | **مطالعه موردی** | Poland |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 976 |
 | **شناسه دیجیتال** | [10.1086/230786](https://doi.org/10.1086/230786) |
 

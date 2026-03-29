@@ -5,9 +5,9 @@
 | نویسندگان | Anthony R. Kampf, Barbara P. Nash, Maurizio Dini, Arturo A. Molina Donoso |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Resource curse management |
 | **مطالعه موردی** | Chile |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 12 |
 | **شناسه دیجیتال** | [10.1180/minmag.2013.077.8.03](https://doi.org/10.1180/minmag.2013.077.8.03) |
 

@@ -7,7 +7,7 @@
 | **سال** | 2016 |
 | **دسته‌بندی** | Civil-military relations and security sector reform |
 | **مطالعه موردی** | Indonesia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 6 |
 | **شناسه دیجیتال** | [10.5325/goodsociety.25.1.0105](https://doi.org/10.5325/goodsociety.25.1.0105) |
 

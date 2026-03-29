@@ -5,9 +5,9 @@
 | نویسندگان | Guillermo Perry, Omar Arias, Pablo Fajnzylber, William F. Maloney, Andrew Mason, Jaime Saavedra-Chanduví |
 |---|---|
 | **سال** | 2007 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
-| **مطالعه موردی** | Poland |
-| **امتیاز ارتباط** | در انتظار |
+| **دسته‌بندی** | Labor market reform and social safety nets |
+| **مطالعه موردی** | Tunisia |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 786 |
 | **شناسه دیجیتال** | [10.1596/978-0-8213-7092-6](https://doi.org/10.1596/978-0-8213-7092-6) |
 

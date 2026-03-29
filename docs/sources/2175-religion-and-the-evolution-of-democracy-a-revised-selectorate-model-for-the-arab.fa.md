@@ -5,9 +5,9 @@
 | نویسندگان | Amir Bagherpour |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | IRGC economic empire and its dismantling |
+| **دسته‌بندی** | Religious freedom and separation of religion from state |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.5642/cguetd/53](https://doi.org/10.5642/cguetd/53) |
 

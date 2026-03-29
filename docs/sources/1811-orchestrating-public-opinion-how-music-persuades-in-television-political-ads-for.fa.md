@@ -5,9 +5,9 @@
 | نویسندگان | Paul Christiansen |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Sanctions unwinding and international reintegration |
+| **دسته‌بندی** | Media freedom and press institution building |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 8 |
 | **شناسه دیجیتال** | [10.1515/9789048531677](https://doi.org/10.1515/9789048531677) |
 

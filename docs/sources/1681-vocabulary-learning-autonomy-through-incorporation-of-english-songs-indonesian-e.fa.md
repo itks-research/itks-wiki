@@ -5,9 +5,9 @@
 | نویسندگان | Ika Wahyuni Lestari, Nuri Hardiyanti |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | Indonesia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 22 |
 | **شناسه دیجیتال** | [10.17576/3l-2020-2602-07](https://doi.org/10.17576/3l-2020-2602-07) |
 

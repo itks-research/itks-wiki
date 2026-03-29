@@ -7,7 +7,7 @@
 | **سال** | 2023 |
 | **دسته‌بندی** | Sanctions unwinding and international reintegration |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.36644/mlr.122.1.national](https://doi.org/10.36644/mlr.122.1.national) |
 

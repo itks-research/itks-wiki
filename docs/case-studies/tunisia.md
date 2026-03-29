@@ -158,10 +158,11 @@
 - [Access to Justice and Legal Process: Making Legal Institutions Responsive to Poor People in Ldcs](../sources/0544-access-to-justice-and-legal-process-making-legal-institutions-responsive-to-poor.md) (2003) | Relevance: 3.0
 
 ## Labor market reform and social safety nets
-*7 sources*
+*8 sources*
 
 - [Between the hammer and the anvil : the trade unions and the 2011 Arab uprisings in Morocco and Tunisia](../sources/0646-between-the-hammer-and-the-anvil--the-trade-unions-and-the-2011-arab-uprisings-i.md) (2018) | Relevance: 4.0
 - [Strategies to achieve a carbon neutral society: a review](../sources/0789-strategies-to-achieve-a-carbon-neutral-society-a-review.md) (2022) | Relevance: 3.0
+- [Informality](../sources/1330-informality.md) (2007) | Relevance: 3.0
 - [The effects of integration and transnational ties on international return migration intentions](../sources/0795-the-effects-of-integration-and-transnational-ties-on-international-return-migrat.md) (2011) | Relevance: 3.0
 - [Migrant farmworkers in Southern Italy: ghettoes, caporalato and collective action](../sources/0811-migrant-farmworkers-in-southern-italy-ghettoes-caporalato-and-collective-action.md) (2014) | Relevance: 3.0
 - [The Top 1 Percent in International and Historical Perspective](../sources/0641-the-top-1-percent-in-international-and-historical-perspective.md) (2013) | Relevance: 2.0
@@ -240,7 +241,7 @@
 - [The New Regionalism Implications for Global development and International Security](../sources/0707-the-new-regionalism-implications-for-global-development-and-international-securi.md) (1994) | Relevance: 2.0
 
 ## Religious freedom and separation of religion from state
-*94 sources*
+*92 sources*
 
 - [Tax Havens and the Commercialization of State Sovereignty](../sources/0792-tax-havens-and-the-commercialization-of-state-sovereignty.md) (2002) | Relevance: 4.0
 - [Rachid Ghannouchi](../sources/0717-rachid-ghannouchi.md) (2001) | Relevance: 4.0
@@ -296,9 +297,7 @@
 - [Confrontation and the Reconciliation Process among Islamists after the Arab Spring](../sources/0684-confrontation-and-the-reconciliation-process-among-islamists-after-the-arab-spri.md) (2015) | Relevance: 3.0
 - [John Locke’s “Unease”: The Theoretical Foundation of the Modern Separation of Church and State](../sources/0755-john-lockes-unease-the-theoretical-foundation-of-the-modern-separation-of-church.md) (2024) | Relevance: 3.0
 - [Separation of Church and State, American Exceptionalism, and the Contemporary Social Moment: Viewing Church–State Separation from the Priority of Slavery](../sources/0762-separation-of-church-and-state-american-exceptionalism-and-the-contemporary-soci.md) (2021) | Relevance: 3.0
-- [RELIGIOUS FREEDOM IN THE USA: SEPARATION BETWEEN CHURCH AND STATE](../sources/0764-religious-freedom-in-the-usa-separation-between-church-and-state.md) (2023) | Relevance: 3.0
 - [“There’s no separation of Church and state”, a metaphorical analysis of Muslim native speaker teachers’ representations of English language teaching and Islam in Saudi Arabia](../sources/0766-theres-no-separation-of-church-and-state-a-metaphorical-analysis-of-muslim-nativ.md) (2023) | Relevance: 3.0
-- [THE SEPARATION OF CHURCH AND STATE IN THE CURRENT PHILIPPINE CONTEXT](../sources/0769-the-separation-of-church-and-state-in-the-current-philippine-context.md) (2022) | Relevance: 3.0
 - [Credobaptism and religious policy. Separation of church and state, freedom of religion, and religious tolerance in the writings of the early Baptists](../sources/0779-credobaptism-and-religious-policy-separation-of-church-and-state-freedom-of-reli.md) (2020) | Relevance: 3.0
 - [L'islamisme et l'État en Tunisie](../sources/0786-lislamisme-et-létat-en-tunisie.md) (1994) | Relevance: 3.0
 - [Challenging the Gates: Religious Freedom and Access in South Africa's Theology Faculties](../sources/0652-challenging-the-gates-religious-freedom-and-access-in-south-africas-theologyfacu.md) (2024) | Relevance: 3.0
@@ -345,8 +344,9 @@
 - [Current knowledge and perspectives of Paenibacillus: a review](../sources/0785-current-knowledge-and-perspectives-of-paenibacillus-a-review.md) (2016) | Relevance: 1.0
 
 ## Trade liberalization and foreign direct investment
-*3 sources*
+*4 sources*
 
+- [Tentative First Steps: An Assessment of the Uruguay Round Agreement on Services](../sources/1080-tentative-first-steps-an-assessment-of-the-uruguay-round-agreement-on-services.md) (1995) | Relevance: 3.0
 - [Integration Processes and Policies in Europe](../sources/0552-integration-processes-and-policies-in-europe.md) (2015) | Relevance: 2.0
 - [Beyond the Northern Invasion: The Mediterranean in the Seventeenth Century](../sources/0801-beyond-the-northern-invasion-the-mediterranean-in-the-seventeenth-century.md) (2002) | Relevance: 2.0
 - [Global Alcohol Markets: Evolving Consumption Patterns, Regulations, and Industrial Organizations](../sources/0806-global-alcohol-markets-evolving-consumption-patterns-regulations-and-industrial-.md) (2018) | Relevance: 2.0

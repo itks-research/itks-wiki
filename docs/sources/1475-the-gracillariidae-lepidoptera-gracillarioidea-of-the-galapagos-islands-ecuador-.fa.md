@@ -5,9 +5,9 @@
 | نویسندگان | Bernard Landry |
 |---|---|
 | **سال** | 2006 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Chile |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 18 |
 | **شناسه دیجیتال** | [10.5962/bhl.part.80359](https://doi.org/10.5962/bhl.part.80359) |
 

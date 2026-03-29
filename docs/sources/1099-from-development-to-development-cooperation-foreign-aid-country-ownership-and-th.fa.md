@@ -5,9 +5,9 @@
 | نویسندگان | Eun Mee Kim, Pil Ho Kim, Jin‐Kyung Kim |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 30 |
 | **شناسه دیجیتال** | [10.1080/09512748.2012.759263](https://doi.org/10.1080/09512748.2012.759263) |
 

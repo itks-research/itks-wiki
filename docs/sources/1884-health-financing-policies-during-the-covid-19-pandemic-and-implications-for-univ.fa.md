@@ -5,9 +5,9 @@
 | نویسندگان | Chuan De Foo, Monica Verma, Si Ying Tan, Jadyn Hamer, Nina van der Mark, Aungsumalee Pholpark, Piya Hanvoravongchai, Paul Cheh, Tiara Marthias, Yodi Mahendradhata, Likke Prawidya Putri, Firdaus Hafidz, Kim Bảo Giang, Thi Hong Hanh Khuc, Hoàng Văn Minh, Shishi Wu, Cinthya G. Caamal-Olvera, Gorka Orive, Wang Hong, Stefan Nachuk, Jeremy Fung Yen Lim, Valeria de Oliveira Cruz, Robert Yates, Helena Legido‐Quigley |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Sanctions unwinding and international reintegration |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 43 |
 | **شناسه دیجیتال** | [10.1016/s2214-109x(23)00448-5](https://doi.org/10.1016/s2214-109x(23)00448-5) |
 

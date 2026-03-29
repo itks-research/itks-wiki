@@ -5,9 +5,9 @@
 | نویسندگان | Stephen Orvis, Carol Ann Drogus |
 |---|---|
 | **سال** | 2008 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 14 |
 
 ## چکیده

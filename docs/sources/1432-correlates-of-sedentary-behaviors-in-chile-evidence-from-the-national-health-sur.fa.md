@@ -5,9 +5,9 @@
 | نویسندگان | María Adela Martínez, A. Leiva, Fanny Petermann, Alex Garrido, X. Díaz, Cristian Álvarez, Carlos Salas, C. Cristi, Fernando Rodríguez Rodríguez, N. Aguilar, Rodrigo Ramírez, Carlos Celis |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Chile |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 23 |
 | **شناسه دیجیتال** | [10.4067/s0034-98872018000100022](https://doi.org/10.4067/s0034-98872018000100022) |
 

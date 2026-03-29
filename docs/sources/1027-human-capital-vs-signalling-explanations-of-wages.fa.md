@@ -5,9 +5,9 @@
 | نویسندگان | Andrew Weiss |
 |---|---|
 | **سال** | 1995 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 765 |
 | **شناسه دیجیتال** | [10.1257/jep.9.4.133](https://doi.org/10.1257/jep.9.4.133) |
 

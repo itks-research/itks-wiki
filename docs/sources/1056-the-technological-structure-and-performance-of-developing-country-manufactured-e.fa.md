@@ -5,9 +5,9 @@
 | نویسندگان | Sanjaya Lall |
 |---|---|
 | **سال** | 2000 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 1361 |
 | **شناسه دیجیتال** | [10.1080/713688318](https://doi.org/10.1080/713688318) |
 

@@ -5,9 +5,9 @@
 | نویسندگان | Anu Rammohan, Meliyanni Johar |
 |---|---|
 | **سال** | 2009 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
+| **دسته‌بندی** | Women's rights codification and gender equality |
 | **مطالعه موردی** | Indonesia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 81 |
 | **شناسه دیجیتال** | [10.1080/13545700903153989](https://doi.org/10.1080/13545700903153989) |
 

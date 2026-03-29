@@ -1,15 +1,15 @@
 # Research Dashboard
 
-*Last updated: 2026-03-29 11:11*
+*Last updated: 2026-03-29 19:04*
 
 ## Summary
 
 | Metric | Count |
 |--------|-------|
-| Total Sources | 5109 |
-| Sources Scored | 935 (18%) |
+| Total Sources | 5099 |
+| Sources Scored | 5099 (100%) |
 | Sources Translated (Farsi) | 0 (0%) |
-| Relationships Mapped | 0 |
+| Relationships Mapped | 5893 |
 | Synthesis Articles | 15 |
 
 ## Synthesis Articles
@@ -36,43 +36,43 @@
 
 | Source | Case Study | Relevance | Citations |
 |--------|------------|-----------|-----------|
-| [The Political Economy of Democratic Decentralization](sources/0213-the-political-economy-of-democratic-decentralization.md) | South Korea | 4.0 | 952 |
-| [Institutions for High-Quality Growth: What They are and How to Acquire...](sources/0261-institutions-for-high-quality-growth-what-they-are-and-how-to-acquire-them.md) | South Korea | 4.0 | 798 |
-| [Embedded and defective democracies](sources/0136-embedded-and-defective-democracies.md) | South Korea | 4.0 | 766 |
-| [The Demographic Dividend: A New Perspective on the Economic Consequenc...](sources/0843-the-demographic-dividend-a-new-perspective-on-the-economic-consequences-of-popul.md) | Czech Republic | 4.0 | 646 |
-| [Energy decisions reframed as justice and ethical concerns](sources/0834-energy-decisions-reframed-as-justice-and-ethical-concerns.md) | Czech Republic | 4.0 | 641 |
-| [What is Middle Class about the Middle Classes around the World?](sources/0850-what-is-middle-class-about-the-middle-classes-around-the-world.md) | Czech Republic | 4.0 | 629 |
-| [Doing Business 2020: Comparing Business Regulation in 190 Economies](sources/0852-doing-business-2020-comparing-business-regulation-in-190-economies.md) | Czech Republic | 4.0 | 479 |
-| [Explaining the Deterrence Effect of Human Rights Prosecutions for Tran...](sources/0167-explaining-the-deterrence-effect-of-human-rights-prosecutions-for-transitional-c.md) | South Korea | 4.0 | 388 |
-| [Democracy's fourth wave?: digital media and the Arab Spring](sources/0176-democracys-fourth-wave-digital-media-and-the-arab-spring.md) | South Korea | 4.0 | 345 |
-| [Does the Process of Constitution-Making Matter?](sources/0316-does-the-process-of-constitution-making-matter.md) | Spain | 4.0 | 329 |
-| [Tax Havens and the Commercialization of State Sovereignty](sources/0792-tax-havens-and-the-commercialization-of-state-sovereignty.md) | Tunisia | 4.0 | 300 |
-| [Problem Solving Effectiveness and Democratic Accountability in the EU](sources/0325-problem-solving-effectiveness-and-democratic-accountability-in-the-eu.md) | Spain | 4.0 | 266 |
-| [Constructing the truth, dealing with dissent, domesticating the world:...](sources/0324-constructing-the-truth-dealing-with-dissent-domesticating-the-world-governance-i.md) | Spain | 4.0 | 251 |
-| [Strong Demands and Weak Institutions: The Origins and Evolution of the...](sources/0097-strong-demands-and-weak-institutions-the-origins-and-evolution-of-the-democratic.md) | South Korea | 4.0 | 248 |
-| [Populist Democracies: Post-Authoritarian Greece and Post-Communist Hun...](sources/0322-populist-democracies-post-authoritarian-greece-and-post-communist-hungary.md) | Spain | 4.0 | 247 |
+| [Determinants of Economic Growth: A Cross-Country Empirical Study](sources/4484-determinants-of-economic-growth-a-cross-country-empirical-study.md) | Poland | 5.0 | 1120 |
+| [Corruption, institutions, and economic development](sources/4964-corruption-institutions-and-economic-development.md) | Indonesia | 5.0 | 704 |
+| [Democratic Decentralization of Natural Resources: Institutionalizing P...](sources/4865-democratic-decentralization-of-natural-resources-institutionalizing-popular-part.md) | Indonesia | 5.0 | 604 |
+| [Gender as “Ebola from Brussels”: The Anticolonial Frame and the Rise o...](sources/4483-gender-as-ebola-from-brussels-the-anticolonial-frame-and-the-rise-of-illiberal-p.md) | Poland | 5.0 | 514 |
+| [Accounting for Corruption: Economic Structure, Democracy, and Trade](sources/4097-accounting-for-corruption-economic-structure-democracy-and-trade.md) | Poland | 5.0 | 463 |
+| [After Khomeini: Iran under his successors](sources/2297-after-khomeini-iran-under-his-successors.md) | Iran | 5.0 | 158 |
+| [Century Of Revolution: Social Movements in Iran](sources/2296-century-of-revolution-social-movements-in-iran.md) | Iran | 5.0 | 137 |
+| [Illiberal Constitutionalism: The Case of Hungary and Poland](sources/4330-illiberal-constitutionalism-the-case-of-hungary-and-poland.md) | Poland | 5.0 | 133 |
+| [Theorizing power in political ecology: the 'where' of power in resourc...](sources/4984-theorizing-power-in-political-ecology-the-where-of-power-in-resource-governance-.md) | Indonesia | 5.0 | 122 |
+| [The Politics of Judicial Reform in Eastern Europe](sources/4379-the-politics-of-judicial-reform-in-eastern-europe.md) | Poland | 5.0 | 112 |
+| [Winds of Change: Economic Transition in Central and Eastern Europe](sources/4305-winds-of-change-economic-transition-in-central-and-eastern-europe.md) | Poland | 5.0 | 102 |
+| [Institutional Design In New Democracies: Eastern Europe And Latin Amer...](sources/4052-institutional-design-in-new-democracies-eastern-europe-and-latin-america.md) | Poland | 5.0 | 101 |
+| [Managing strategically in an interconnected world](sources/4273-managing-strategically-in-an-interconnected-world.md) | Poland | 5.0 | 91 |
+| [Captive Society](sources/2414-captive-society.md) | Iran | 5.0 | 90 |
+| [The legitimation of the Clergy's right to rule in the Iranian constitu...](sources/2539-the-legitimation-of-the-clergys-right-to-rule-in-the-iranian-constitution-of-197.md) | Iran | 5.0 | 88 |
 
 ## Coverage by Case Study
 
 | Case Study | Sources | Scored | Avg Relevance |
 |------------|---------|--------|---------------|
-| [Iran](case-studies/iran.md) | 2263 | 0 | — |
-| [Poland](case-studies/poland.md) | 812 | 3 | 2.0 |
-| [Indonesia](case-studies/indonesia.md) | 638 | 1 | 3.0 |
-| [South Korea](case-studies/south-korea.md) | 378 | 261 | 2.6 |
-| [Spain](case-studies/spain.md) | 342 | 255 | 2.9 |
+| [Iran](case-studies/iran.md) | 2244 | 2244 | 2.2 |
+| [Poland](case-studies/poland.md) | 815 | 815 | 3.1 |
+| [Indonesia](case-studies/indonesia.md) | 653 | 653 | 2.3 |
+| [South Korea](case-studies/south-korea.md) | 370 | 370 | 2.9 |
+| [Spain](case-studies/spain.md) | 340 | 340 | 2.9 |
 | [Tunisia](case-studies/tunisia.md) | 277 | 277 | 3.1 |
-| [Czech Republic](case-studies/czech-republic.md) | 249 | 138 | 2.5 |
-| [Chile](case-studies/chile.md) | 150 | 0 | — |
+| [Czech Republic](case-studies/czech-republic.md) | 246 | 246 | 2.8 |
+| [Chile](case-studies/chile.md) | 154 | 154 | 2.2 |
 
 ## Coverage by Domain
 
 | Domain | Sources | Case Studies | Avg Relevance |
 |--------|---------|-------------|---------------|
-| Political | 2399 | 8 | 3.1 |
-| Social Cultural | 1544 | 7 | 2.5 |
-| Economic | 785 | 6 | 2.2 |
-| Iran Specific | 381 | 5 | 2.2 |
+| Political | 2238 | 8 | 2.8 |
+| Social Cultural | 1637 | 8 | 2.2 |
+| Economic | 869 | 8 | 2.8 |
+| Iran Specific | 355 | 6 | 1.9 |
 
 ## Detailed Coverage
 

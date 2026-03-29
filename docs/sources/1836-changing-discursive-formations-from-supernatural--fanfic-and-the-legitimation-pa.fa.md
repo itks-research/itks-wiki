@@ -5,9 +5,9 @@
 | نویسندگان | Judith Fathallah |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Sanctions unwinding and international reintegration |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 3 |
 
 ## چکیده

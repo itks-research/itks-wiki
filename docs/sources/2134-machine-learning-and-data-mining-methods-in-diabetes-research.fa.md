@@ -5,9 +5,9 @@
 | نویسندگان | Ioannis Kavakiotis, O. Tsave, Athanasios Salifoglou, Nicos Maglaveras, Ioannis Vlahavas, Ioanna Chouvarda |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1379 |
 | **شناسه دیجیتال** | [10.1016/j.csbj.2016.12.005](https://doi.org/10.1016/j.csbj.2016.12.005) |
 

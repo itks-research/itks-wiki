@@ -5,9 +5,9 @@
 | نویسندگان | Philip Baker, Daniel Francis, Jesus Soares, Alison Weightman, Charlie Foster |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 299 |
 | **شناسه دیجیتال** | [10.1002/14651858.cd008366.pub3](https://doi.org/10.1002/14651858.cd008366.pub3) |
 

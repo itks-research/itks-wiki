@@ -7,7 +7,7 @@
 | **سال** | 2026 |
 | **دسته‌بندی** | Religious freedom and separation of religion from state |
 | **مطالعه موردی** | Indonesia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.36989/didaktik.v12i01.11227](https://doi.org/10.36989/didaktik.v12i01.11227) |
 

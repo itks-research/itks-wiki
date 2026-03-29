@@ -5,9 +5,9 @@
 | نویسندگان | Wojciech Szymla |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
 | **مطالعه موردی** | Poland |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.7366/1898352942602](https://doi.org/10.7366/1898352942602) |
 

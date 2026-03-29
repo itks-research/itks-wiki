@@ -5,9 +5,9 @@
 | نویسندگان | Maria Skublewska‐Paszkowska, Marek Miłosz, Paweł Powroźnik, Edyta Łukasik |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 245 |
 | **شناسه دیجیتال** | [10.1186/s40494-021-00633-x](https://doi.org/10.1186/s40494-021-00633-x) |
 

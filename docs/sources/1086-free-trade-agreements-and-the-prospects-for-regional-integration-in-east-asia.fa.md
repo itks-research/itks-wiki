@@ -5,9 +5,9 @@
 | نویسندگان | Razeen Sally |
 |---|---|
 | **سال** | 2006 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 49 |
 | **شناسه دیجیتال** | [10.1111/j.1748-3131.2006.00036.x](https://doi.org/10.1111/j.1748-3131.2006.00036.x) |
 

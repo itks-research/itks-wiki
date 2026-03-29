@@ -5,9 +5,9 @@
 | نویسندگان | Abdul Rahim Ridzuan, Nor Asmat Ismail, Abdul Fatah Che Hamat, Mohamad Idham Md Razak, Faridah Pardi |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.6007/ijarbss/v7-i6/2953](https://doi.org/10.6007/ijarbss/v7-i6/2953) |
 

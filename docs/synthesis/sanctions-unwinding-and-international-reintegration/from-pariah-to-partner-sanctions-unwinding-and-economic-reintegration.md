@@ -1,0 +1,43 @@
+# From Pariah to Partner: Sanctions Unwinding and Economic Reintegration
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-29 15:50:29
+
+Iran's sanctions regime represents the most complex and multilayered economic coercion architecture ever applied to a mid-size economy, and its unwinding would be equally unprecedented in scale and complexity. Clayton, Maggiori, and Schreger (2024) provide the theoretical framework with their theory of economic coercion and fragmentation, arguing that sanctions create self-reinforcing structural changes in the target economy — supply chain reconfigurations, financial system workarounds, parallel trade networks — that do not simply reverse when sanctions are lifted. This "hysteresis" effect means that sanctions unwinding is not merely the inverse of sanctions imposition; it requires active reconstruction of economic linkages that have atrophied or been replaced.
+
+Ghomi (2021) offers the most rigorous analysis of sanctions' macroeconomic and distributional effects on Iran, demonstrating that sanctions have not only reduced aggregate output but systematically redistributed economic power toward sanctions-resistant actors — primarily IRGC-connected entities with access to smuggling networks, currency arbitrage, and state-allocated foreign exchange. Draca, Garred, Stickland, and Warrinnier (2022) corroborate this finding from the other side, examining how sanctions target the economic interests of elite policymakers and finding that targeted sanctions create incentives for asset concealment and institutional opacity that persist beyond the sanctions period.
+
+The JCPOA experience (2015-2018) provides a partial natural experiment. Pratt and Alizadeh (2017) estimate the tourism sector impact of sanctions lifting using computable general equilibrium modeling, finding significant potential gains — but their analysis predates the US withdrawal from the JCPOA, which demonstrated the fragility of sanctions relief when it depends on sustained political commitment from multiple parties. Ahmadi (2018) examines the energy sector specifically, documenting how even partial sanctions relief under the JCPOA failed to restore pre-sanctions investment levels because international firms faced residual legal risk, reputational concerns, and uncertainty about reimposition. Bastani et al. (2021) document the pharmaceutical supply chain impact, showing how sanctions created structural vulnerabilities in essential medicine supply that temporary relief could not address.
+
+Two patterns emerge from comparative sanctions unwinding. First, the economic recovery trajectory after sanctions removal is consistently slower and more uneven than the economic decline during sanctions imposition. South Africa's post-apartheid reintegration, Myanmar's partial opening, and Cuba's ongoing normalization all demonstrate that decades of economic isolation create structural distortions — import dependency patterns, brain drain, institutional decay, technology gaps — that persist well beyond formal sanctions removal.
+
+Second, the distributional effects of sanctions and their lifting are not symmetric. Sanctions tend to concentrate economic power among regime-connected actors who can exploit scarcity; sanctions lifting does not automatically redistribute this concentrated power but can actually amplify it if connected actors are better positioned to capture the benefits of economic opening. Wood (2008) provides the political dimension, showing that economic sanctions and state repression interact — sanctions can increase repression in the short term while potentially contributing to longer-term regime instability, a dynamic directly relevant to Iran's trajectory.
+
+Iran's reintegration would face challenges at three levels. At the financial infrastructure level, decades of exclusion from SWIFT, correspondent banking networks, and international capital markets have created a parallel financial system — hawala networks, cryptocurrency channels, barter arrangements with China and Russia, and IRGC-controlled currency exchange operations — that would not simply dissolve with sanctions removal. Re-establishing correspondent banking relationships, achieving Financial Action Task Force (FATF) compliance, and rebuilding central bank credibility would require years of institutional reform.
+
+At the trade and investment level, Iran's economy has been restructured around sanctions-resistance: import substitution in pharmaceuticals and auto manufacturing, energy trade through discounted bilateral arrangements, and technology imports through intermediary countries. International firms burned by the JCPOA experience — where companies that entered the Iranian market faced US secondary sanctions after the 2018 withdrawal — would require extraordinary assurances before re-engagement, likely including bilateral investment treaties, arbitration frameworks, and sovereign guarantees that Iran's current institutional architecture cannot provide.
+
+At the political economy level, the actors who benefit most from sanctions — smuggling networks, currency arbitrageurs, IRGC-connected import monopolies — have both the incentive and the organizational capacity to resist reintegration that would undermine their economic position. Any genuine reintegration would create losers among the most politically powerful economic actors in the country, generating resistance that purely technical economic policy cannot address. The energy sector is illustrative: Iran's oil production capacity has degraded significantly during sanctions, and restoring it would require $100+ billion in investment over a decade — investment that would only flow if international firms believe the political settlement underlying sanctions removal is durable.
+
+- How can Iran's post-transition government credibly commit to the institutional reforms (FATF compliance, central bank independence, transparent fiscal policy) needed to attract international investment, given that previous commitments under the JCPOA proved reversible?
+- What transitional economic mechanisms could manage the conflict between sanctions-benefiting actors (IRGC-connected smuggling and import monopoly networks) and the requirements of legitimate economic reintegration?
+- Should sanctions unwinding be sequenced — with financial sector normalization preceding trade liberalization, or vice versa — and what does the JCPOA's partial experiment suggest about optimal sequencing?
+
+| # | Author(s) | Year | Title | Access |
+|---|-----------|------|-------|--------|
+| 1 | Pratt & Alizadeh | 2017 | Economic impact of sanctions lifting on tourism in Iran | DOI |
+| 2 | Ghomi | 2021 | Who is afraid of sanctions? Macroeconomic and distributional effects | DOI |
+| 3 | Bastani et al. | 2021 | Strategies to improve pharmaceutical supply chain resilience | DOI |
+| 4 | Ahmadi | 2018 | Impact of Economic Sanctions and the JCPOA on Iran's Energy Sector | — |
+| 5 | Draca et al. | 2022 | On Target? Sanctions and Economic Interests of Elite Policymakers in Iran | DOI |
+| 6 | Clayton, Maggiori & Schreger | 2024 | A Theory of Economic Coercion and Fragmentation | DOI |
+| 7 | Wood | 2008 | Economic Sanctions and State Repression | DOI |
+
+## Sources Used
+
+- [The economic impact of the lifting of sanctions on tourism in Iran: a computable general equilibrium analysis](../sources/1916-the-economic-impact-of-the-lifting-of-sanctions-on-tourism-in-iran-a-computable-.md)
+- [Who is afraid of sanctions? The macroeconomic and distributional effects of the sanctions against Iran](../sources/1871-who-is-afraid-of-sanctions-the-macroeconomic-and-distributional-effects-of-the-s.md)
+- [Strategies to improve pharmaceutical supply chain resilience under politico-economic sanctions: the case of Iran](../sources/1922-strategies-to-improve-pharmaceutical-supply-chain-resilience-under-politico-econ.md)
+- [The Impact of Economic Sanctions and the JCPOA on Energy Sector of Iran](../sources/1919-the-impact-of-economic-sanctions-and-the-jcpoa-on-energy-sector-of-iran.md)
+- [On Target? Sanctions and the Economic Interests of Elite Policymakers in Iran](../sources/1867-on-target-sanctions-and-the-economic-interests-of-elite-policymakers-in-iran.md)
+- [A Theory of Economic Coercion and Fragmentation](../sources/1888-a-theory-of-economic-coercion-and-fragmentation.md)
+- [“A Hand upon the Throat of the Nation”: Economic Sanctions and State Repression, 1976-2001](../sources/1282-a-hand-upon-the-throat-of-the-nation-economic-sanctions-and-state-repression-197.md)

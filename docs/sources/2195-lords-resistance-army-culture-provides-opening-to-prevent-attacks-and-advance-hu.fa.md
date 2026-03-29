@@ -5,9 +5,9 @@
 | نویسندگان | Emilee Matheson |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | IRGC economic empire and its dismantling |
+| **دسته‌بندی** | Civil society development |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.21140/mcuj.2022sistratcul011](https://doi.org/10.21140/mcuj.2022sistratcul011) |
 

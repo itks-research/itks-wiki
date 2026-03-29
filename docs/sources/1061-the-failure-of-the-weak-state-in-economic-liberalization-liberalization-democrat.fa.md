@@ -5,9 +5,9 @@
 | نویسندگان | Yeonho Lee |
 |---|---|
 | **سال** | 2000 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 32 |
 | **شناسه دیجیتال** | [10.1080/095127400363668](https://doi.org/10.1080/095127400363668) |
 

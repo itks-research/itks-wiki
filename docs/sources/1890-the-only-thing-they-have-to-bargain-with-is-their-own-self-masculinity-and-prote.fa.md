@@ -5,9 +5,9 @@
 | نویسندگان | Julie Browning |
 |---|---|
 | **سال** | 2007 |
-| **دسته‌بندی** | Sanctions unwinding and international reintegration |
+| **دسته‌بندی** | Civil society development |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 22 |
 | **شناسه دیجیتال** | [10.5130/tfc.v2i1.597](https://doi.org/10.5130/tfc.v2i1.597) |
 

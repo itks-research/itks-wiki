@@ -5,9 +5,9 @@
 | نویسندگان | Vanessa Martín |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Constitutional design and drafting processes |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 32 |
 | **شناسه دیجیتال** | [10.5040/9780755608409](https://doi.org/10.5040/9780755608409) |
 

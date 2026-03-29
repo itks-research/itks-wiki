@@ -5,9 +5,9 @@
 | نویسندگان | A. Ayala, Pablo Villalobos Dintrans, Felipe Elorrieta, Matilde Maddaleno, Claudio Vargas, Andrés Iturriaga |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Chile |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 5 |
 | **شناسه دیجیتال** | [10.4067/s0034-98872023000300269](https://doi.org/10.4067/s0034-98872023000300269) |
 

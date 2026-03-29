@@ -5,9 +5,9 @@
 | نویسندگان | Vanessa Martín |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 23 |
 
 ## چکیده

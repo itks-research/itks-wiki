@@ -5,9 +5,9 @@
 | نویسندگان | International Monetary Fund |
 |---|---|
 | **سال** | 2003 |
-| **دسته‌بندی** | Sanctions unwinding and international reintegration |
+| **دسته‌بندی** | Resource curse management |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 6 |
 | **شناسه دیجیتال** | [10.5089/9781451828931.002](https://doi.org/10.5089/9781451828931.002) |
 

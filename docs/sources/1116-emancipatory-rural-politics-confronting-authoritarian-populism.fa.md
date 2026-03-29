@@ -5,14 +5,21 @@
 | نویسندگان | Ian Scoones, Marc Edelman, Saturnino M. Borras, Ruth Hall, Wendy Wolford, Ben White |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 391 |
 | **شناسه دیجیتال** | [10.1080/03066150.2017.1339693](https://doi.org/10.1080/03066150.2017.1339693) |
 
 ## چکیده
 
 A new political moment is underway. Although there are significant differences in how this is constituted in different places, one manifestation of the new moment is the rise of distinct forms of authoritarian populism. In this opening paper of the JPS Forum series on ‘Authoritarian Populism and the Rural World’, we explore the relationship between these new forms of politics and rural areas around the world. We ask how rural transformations have contributed to deepening regressive national politics, and how rural areas shape and are shaped by these politics. We propose a global agenda for research, debate and action, which we call the Emancipatory Rural Politics Initiative (ERPI, www.iss.nl/erpi). This centres on understanding the contemporary conjuncture, working to confront authoritarian populism through the analysis of and support for alternatives.
+
+## منابع مرتبط
+
+- **تناقض دارد با** [Spain's First Democracy: The Second Republic, 1931-1936.](1129-spains-first-democracy-the-second-republic-1931-1936.fa.md)
+- **گسترش می‌دهد** [The Franco Regime, 1936–1975](1137-the-franco-regime-19361975.fa.md)
+- **گسترش می‌دهد** [Riot, regeneration and reaction: Spain in the aftermath of the 1898 Disaster](1149-riot-regeneration-and-reaction-spain-in-the-aftermath-of-the-1898-disaster.fa.md)
+- **گسترش می‌دهد** [Introduction: Democracy, Participation and Grassroots Movements in Contemporary Portugal](0443-introduction-democracy-participation-and-grassroots-movements-in-contemporary-po.fa.md)
 
 </div>

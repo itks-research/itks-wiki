@@ -7,7 +7,7 @@
 | **سال** | 2016 |
 | **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 0 |
 
 ## چکیده

@@ -5,9 +5,9 @@
 | نویسندگان | Raffaela Carvacho, Javier Morán-Kneer, C. Miranda‐Castillo, Virginia Fernández-Fernández, B. Mora, Yasnni Moya, V. Pinilla, I. Toro, C. Valdivia |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | Chile |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 9 |
 | **شناسه دیجیتال** | [10.4067/s0034-98872021000300339](https://doi.org/10.4067/s0034-98872021000300339) |
 

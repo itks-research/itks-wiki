@@ -5,9 +5,9 @@
 | نویسندگان | James Macinko, Bárbara Starfield, Leiyu Shi |
 |---|---|
 | **سال** | 2003 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Poland |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1049 |
 | **شناسه دیجیتال** | [10.1111/1475-6773.00149](https://doi.org/10.1111/1475-6773.00149) |
 

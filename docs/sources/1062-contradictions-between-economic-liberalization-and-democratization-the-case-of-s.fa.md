@@ -5,9 +5,9 @@
 | نویسندگان | Jonathan Moran |
 |---|---|
 | **سال** | 1996 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 18 |
 | **شناسه دیجیتال** | [10.1080/13510349608403490](https://doi.org/10.1080/13510349608403490) |
 

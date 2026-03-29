@@ -15,4 +15,9 @@
 
 I seek to explain the causes for the apparent commercialization of state sovereignty, and in particular the reasons for its association with tax havens. I argue that the conditions that gave rise to the commercial use of sovereignty as perfected by tax havens have little to do with surges in taxation and regulation in the postwar era. Instead, these conditions can be traced to jurists' and policymakers' attempts to resolve an inherent contradiction between insulated state law and the rapidly integrating world market.
 
+## منابع مرتبط
+
+- **گسترش می‌دهد** [On the separation of powers and the separation of state and Church: Remarks on the resignation of the Hungarian president](0758-on-the-separation-of-powers-and-the-separation-of-state-and-church-remarks-on-th.fa.md)
+- **گسترش می‌دهد** [Islam and secularism in the Middle East](0716-islam-and-secularism-in-the-middle-east.fa.md)
+
 </div>

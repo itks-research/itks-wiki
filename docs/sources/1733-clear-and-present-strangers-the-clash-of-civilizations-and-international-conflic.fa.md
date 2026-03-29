@@ -5,9 +5,9 @@
 | نویسندگان | Errol A. Henderson, Richard P. Tucker |
 |---|---|
 | **سال** | 2001 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 210 |
 | **شناسه دیجیتال** | [10.1111/0020-8833.00193](https://doi.org/10.1111/0020-8833.00193) |
 

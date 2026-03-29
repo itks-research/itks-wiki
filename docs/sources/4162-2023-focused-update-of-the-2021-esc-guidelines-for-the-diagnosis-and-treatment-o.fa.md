@@ -7,7 +7,7 @@
 | **سال** | 2023 |
 | **دسته‌بندی** | Electoral system design and implementation |
 | **مطالعه موردی** | Poland |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 1935 |
 | **شناسه دیجیتال** | [10.1093/eurheartj/ehad195](https://doi.org/10.1093/eurheartj/ehad195) |
 

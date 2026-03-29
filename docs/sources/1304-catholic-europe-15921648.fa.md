@@ -5,9 +5,9 @@
 | نویسندگان | Tadhg Ó hAnnracháin |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Poland |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 68 |
 | **شناسه دیجیتال** | [10.1093/acprof:oso/9780199272723.001.0001](https://doi.org/10.1093/acprof:oso/9780199272723.001.0001) |
 

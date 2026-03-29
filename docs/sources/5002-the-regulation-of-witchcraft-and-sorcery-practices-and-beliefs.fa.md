@@ -7,7 +7,7 @@
 | **سال** | 2016 |
 | **دسته‌بندی** | Women's rights codification and gender equality |
 | **مطالعه موردی** | Indonesia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 45 |
 | **شناسه دیجیتال** | [10.1146/annurev-lawsocsci-110615-084600](https://doi.org/10.1146/annurev-lawsocsci-110615-084600) |
 

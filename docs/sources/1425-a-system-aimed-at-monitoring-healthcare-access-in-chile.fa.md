@@ -5,9 +5,9 @@
 | نویسندگان | Luis Gómez, Alicia Núñez |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Chile |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.4067/S0034-98872021000100062](https://doi.org/10.4067/S0034-98872021000100062) |
 
@@ -31,5 +31,10 @@ A system composed of 26 indicators, classified in the five dimensions of the fra
 
 CONCLUSIONS
 The design of a multidimensional monitoring system for health access allows us to complement measures usually focused on a specific concept of access (such as utilization, coverage, etc.) with other dimensions. It includes those barriers that are relevant for the Chilean population. It also allows comparisons with other health systems and the generation of evidence to improve public policies.
+
+## منابع مرتبط
+
+- **گسترش می‌دهد** [World Development Report 2019: The Changing Nature of Work](1011-world-development-report-2019-the-changing-nature-of-work.fa.md)
+- **تأیید می‌کند** [Policy Lessons of the East Asian Demographic Transition](1087-policy-lessons-of-the-east-asian-demographic-transition.fa.md)
 
 </div>

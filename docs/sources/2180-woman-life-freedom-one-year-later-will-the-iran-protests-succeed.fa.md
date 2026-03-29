@@ -5,9 +5,9 @@
 | نویسندگان | Mahmood Monshipouri, Ramtin Zamiri |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | IRGC economic empire and its dismantling |
+| **دسته‌بندی** | Women's rights codification and gender equality |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.1111/mepo.12722](https://doi.org/10.1111/mepo.12722) |
 

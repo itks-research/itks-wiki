@@ -5,9 +5,9 @@
 | نویسندگان | Jiří Vaněk, Eva Cervenkova, Jan Jarolímek, Pavel Šimek |
 |---|---|
 | **سال** | 2010 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 22 |
 | **شناسه دیجیتال** | [10.17221/212/2009-pse](https://doi.org/10.17221/212/2009-pse) |
 

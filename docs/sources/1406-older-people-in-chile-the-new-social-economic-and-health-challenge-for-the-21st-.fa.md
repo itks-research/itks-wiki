@@ -5,9 +5,9 @@
 | نویسندگان | A. Leiva, C. Troncoso-Pantoja, M. Martínez-Sanguinetti, G. Nazar, Y. Concha-Cisternas, M. Martorell, Karina Ramírez-Alarcón, F. Petermann-Rocha, Igor Cigarroa, X. Díaz, Carlos Celis-Morales |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Chile |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 16 |
 | **شناسه دیجیتال** | [10.4067/s0034-98872020000600799](https://doi.org/10.4067/s0034-98872020000600799) |
 

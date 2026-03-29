@@ -6,8 +6,8 @@ This wiki is built and maintained by an AI research agent that continuously disc
 
 ## Quick Stats
 
-- **5109** academic sources indexed
-- **0** relationships mapped
+- **5099** academic sources indexed
+- **5893** relationships mapped
 - **8** comparative case studies
 
 ## Browse
@@ -17,13 +17,13 @@ This wiki is built and maintained by an AI research agent that continuously disc
 
 ### Case Studies
 
-- **[Chile](case-studies/chile.md)** (150 sources)
-- **[Czech Republic](case-studies/czech-republic.md)** (249 sources)
-- **[Indonesia](case-studies/indonesia.md)** (638 sources)
-- **[Iran](case-studies/iran.md)** (2263 sources)
-- **[Poland](case-studies/poland.md)** (812 sources)
-- **[South Korea](case-studies/south-korea.md)** (378 sources)
-- **[Spain](case-studies/spain.md)** (342 sources)
+- **[Chile](case-studies/chile.md)** (154 sources)
+- **[Czech Republic](case-studies/czech-republic.md)** (246 sources)
+- **[Indonesia](case-studies/indonesia.md)** (653 sources)
+- **[Iran](case-studies/iran.md)** (2244 sources)
+- **[Poland](case-studies/poland.md)** (815 sources)
+- **[South Korea](case-studies/south-korea.md)** (370 sources)
+- **[Spain](case-studies/spain.md)** (340 sources)
 - **[Tunisia](case-studies/tunisia.md)** (277 sources)
 
 ### Research Domains

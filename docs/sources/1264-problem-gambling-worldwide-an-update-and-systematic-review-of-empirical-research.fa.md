@@ -5,9 +5,9 @@
 | نویسندگان | Filipa Calado, Mark D. Griffiths |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 676 |
 | **شناسه دیجیتال** | [10.1556/2006.5.2016.073](https://doi.org/10.1556/2006.5.2016.073) |
 

@@ -5,9 +5,9 @@
 | نویسندگان | نامشخص |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 104 |
 | **شناسه دیجیتال** | [10.5860/choice.192211](https://doi.org/10.5860/choice.192211) |
 

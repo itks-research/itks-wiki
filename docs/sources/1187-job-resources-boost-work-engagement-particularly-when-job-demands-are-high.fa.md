@@ -5,9 +5,9 @@
 | نویسندگان | Arnold B. Bakker, Jari Hakanen, Evangelia Demerouti, Despoina Xanthopoulou |
 |---|---|
 | **سال** | 2007 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 2023 |
 | **شناسه دیجیتال** | [10.1037/0022-0663.99.2.274](https://doi.org/10.1037/0022-0663.99.2.274) |
 

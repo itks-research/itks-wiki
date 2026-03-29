@@ -5,9 +5,9 @@
 | نویسندگان | Jiří Valenta |
 |---|---|
 | **سال** | 1979 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Judicial independence and rule of law |
 | **مطالعه موردی** | Poland |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 46 |
 | **شناسه دیجیتال** | [10.2307/2150156](https://doi.org/10.2307/2150156) |
 

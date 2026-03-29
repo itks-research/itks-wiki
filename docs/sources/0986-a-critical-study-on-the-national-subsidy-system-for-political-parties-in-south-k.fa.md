@@ -5,9 +5,9 @@
 | نویسندگان | WonYong Cho |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Privatization and state-owned enterprise restructuring |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | South Korea |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.35901/kjcl.2025.31.4.67](https://doi.org/10.35901/kjcl.2025.31.4.67) |
 

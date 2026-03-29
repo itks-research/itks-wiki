@@ -7,7 +7,7 @@
 | **سال** | 2002 |
 | **دسته‌بندی** | Judicial independence and rule of law |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 59 |
 | **شناسه دیجیتال** | [10.5040/9780755655335?locatt=label:secondary_bloomsburycollections](https://doi.org/10.5040/9780755655335?locatt=label:secondary_bloomsburycollections) |
 

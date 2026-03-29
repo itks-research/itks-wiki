@@ -5,9 +5,9 @@
 | نویسندگان | Topolski, Anya, Nathan, Emmanuel |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Sanctions unwinding and international reintegration |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 42 |
 | **شناسه دیجیتال** | [10.1515/9783110416596](https://doi.org/10.1515/9783110416596) |
 

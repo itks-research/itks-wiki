@@ -5,9 +5,9 @@
 | نویسندگان | Benjamin Keen |
 |---|---|
 | **سال** | 1988 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Spain |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 72 |
 
 ## چکیده

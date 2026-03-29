@@ -5,9 +5,9 @@
 | نویسندگان | Tanja A. Börzel |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Civil-military relations and security sector reform |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | Poland |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 35 |
 | **شناسه دیجیتال** | [10.1111/jcms.13550](https://doi.org/10.1111/jcms.13550) |
 

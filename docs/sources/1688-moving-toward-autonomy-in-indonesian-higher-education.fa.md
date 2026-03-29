@@ -5,9 +5,9 @@
 | نویسندگان | Eric Beerkens |
 |---|---|
 | **سال** | 2002 |
-| **دسته‌بندی** | Federalism, unitarism, and autonomy models |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | Indonesia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 16 |
 
 ## چکیده

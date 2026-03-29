@@ -5,9 +5,9 @@
 | نویسندگان | Nina G. Hamedani, Tristan Michael Purvis, Sharon Glazer, Joseph Dien |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | IRGC economic empire and its dismantling |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Iran |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 7 |
 | **شناسه دیجیتال** | [10.13016/m2kp7ts73](https://doi.org/10.13016/m2kp7ts73) |
 
