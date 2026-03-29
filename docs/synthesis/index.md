@@ -8,7 +8,7 @@
 - **Sources Ingested:** 5,109 (935 scored, 4,174 in processing queue)
 - **Categories:** 25 research domains
 - **Case Studies:** 8 countries (South Korea, Spain, Tunisia, Iran, Czech Republic, Indonesia, Chile, Poland)
-- **Synthesis Articles:** 23 focused articles across 4 themes
+- **Synthesis Articles:** 33 focused articles across 14 themes
 - **Active Directives:** Monitoring coverage gaps
 
 ---
@@ -42,9 +42,9 @@ Legend: ++ strong coverage, + some coverage, - gap
 
 ## Biggest Gaps
 
-- **Czech Republic and Poland** — virtually no synthesis coverage despite being case studies. Priority for next generation cycle.
-- **Economic themes** — Banking reform, privatization, sanctions unwinding, trade liberalization all have scored sources but no synthesis articles yet.
-- **Governance themes** — Electoral systems, judicial independence, media freedom, political parties all ready for synthesis.
+- **Czech Republic and Poland** — growing coverage with new articles on privatization, judicial independence, and electoral design, but still underrepresented in older themes.
+- **Economic themes** — Banking reform and trade liberalization still lack synthesis articles despite having scored sources.
+- **Governance themes** — Federalism and autonomy models still need synthesis coverage.
 - **Iran-specific categories** — Bonyad system reform, internet/digital infrastructure have unique Iran relevance but limited comparative evidence.
 
 ---
@@ -63,18 +63,41 @@ Legend: ++ strong coverage, + some coverage, - gap
 ### [Religious Freedom and Separation of Religion from State](religious-freedom-and-separation-of-religion-from-state/index.md)
 6 sub-articles covering Tunisia's civil state, Turkey's Diyanet, Indonesia's Pancasila, velayat-e faqih, Stepan's twin tolerations, and post-theocratic transitions.
 
+### [Civil Society Development](civil-society-development/solidaritys-children-civil-society-after-communism-and-after-theocracy.md)
+1 article on Poland's Solidarity movement and lessons for post-theocratic civil society building.
+
+### [IRGC Economic Empire](irgc-economic-empire-and-its-dismantling/dismantling-the-irgc-economic-empire-precedents-pathways-and-pitfalls.md)
+1 article on dismantling military-economic conglomerates with comparative precedents.
+
+### [Electoral System Design](electoral-system-design-and-implementation/electoral-engineering-after-authoritarianism-poland-south-korea-and-lessons-for-.md)
+1 article on electoral engineering after authoritarianism in Poland and South Korea.
+
+### [Judicial Independence](judicial-independence-and-rule-of-law/polands-rule-of-law-crisis-judicial-capture-and-democratic-backsliding.md)
+1 article on Poland's judicial capture crisis and democratic backsliding.
+
+### [Media Freedom](media-freedom-and-press-institution-building/digital-authoritarianism-and-press-freedom-iran-poland-and-the-information-battl.md)
+1 article on digital authoritarianism and press freedom in Iran and Poland.
+
+### [Political Party Formation](political-party-formation-and-pluralism/irans-factional-system-pluralism-without-parties.md)
+1 article on Iran's factional system as pluralism without formal parties.
+
+### [Privatization](privatization-and-state-owned-enterprise-restructuring/shock-therapy-vs-gradualism-privatization-lessons-from-poland-and-czech-republic.md)
+1 article on shock therapy vs. gradualism in Poland and Czech Republic.
+
+### [Sanctions Unwinding](sanctions-unwinding-and-international-reintegration/from-pariah-to-partner-sanctions-unwinding-and-economic-reintegration.md)
+1 article on sanctions removal and economic reintegration pathways.
+
+### [Women's Rights](womens-rights-codification-and-gender-equality/gender-equality-codification-indonesia-tunisia-and-the-long-road-for-iran.md)
+1 article on gender equality codification in Indonesia, Tunisia, and Iran.
+
+### [Education Reform](education-system-reform-and-curriculum-modernization/curriculum-as-battleground-education-reform-in-south-korea-and-iran.md)
+1 article on curriculum reform as political battleground in South Korea and Iran.
+
 ---
 
 ## Categories Ready for Synthesis (no articles yet)
 
 | Category | Scored Sources | Priority |
 |----------|---------------|----------|
-| Electoral system design | High | Ready |
-| Judicial independence and rule of law | High | Ready |
-| Media freedom and press institution building | High | Ready |
-| Political party formation and pluralism | Medium | Ready |
-| Women's rights codification and gender equality | Medium | Ready |
 | Federalism, unitarism, and autonomy models | Medium | Ready |
-| Education system reform | Medium | Ready |
 | Labor market reform and social safety nets | Medium | Ready |
-| Civil society development | Medium | Ready |
