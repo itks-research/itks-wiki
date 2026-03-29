@@ -1,4 +1,4 @@
-<div dir="rtl" lang="fa">
+<div dir="rtl" markdown>
 
 # تحلیل تطبیقی: طراحی قانون اساسی و فرآیندهای تدوین آن
 

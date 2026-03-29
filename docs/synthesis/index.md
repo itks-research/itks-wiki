@@ -51,16 +51,16 @@ Legend: ++ strong coverage, + some coverage, - gap
 
 ## Themes
 
-### [Civil-Military Relations and Security Sector Reform](civil-military-relations/index.md)
+### [Civil-Military Relations and Security Sector Reform](civil-military-relations-and-security-sector-reform/index.md)
 5 sub-articles covering military economic empires, defense ministry civilianization, coup-proofing, crisis-driven reform, and theoretical frameworks.
 
 ### [Transitional Justice](transitional-justice/index.md)
 6 sub-articles covering amnesty vs. accountability, Islamic transitional justice, prosecution deterrence, Iran's 1988 massacres, diaspora documentation, and lustration models.
 
-### [Constitutional Design and Drafting Processes](constitutional-design/index.md)
+### [Constitutional Design and Drafting Processes](constitutional-design-and-drafting-processes/index.md)
 6 sub-articles covering constitutional longevity, South Korea's presidency model, Spain's consenso, Tunisia's quartet, Chile's 2022 failure, and Arato's post-sovereign framework.
 
-### [Religious Freedom and Separation of Religion from State](religious-freedom/index.md)
+### [Religious Freedom and Separation of Religion from State](religious-freedom-and-separation-of-religion-from-state/index.md)
 6 sub-articles covering Tunisia's civil state, Turkey's Diyanet, Indonesia's Pancasila, velayat-e faqih, Stepan's twin tolerations, and post-theocratic transitions.
 
 ---

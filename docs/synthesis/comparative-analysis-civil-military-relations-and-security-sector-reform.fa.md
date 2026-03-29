@@ -1,4 +1,4 @@
-<div dir="rtl" lang="fa">
+<div dir="rtl" markdown>
 
 # تحلیل تطبیقی: روابط نظامی-مدنی و اصلاحات بخش امنیتی
 

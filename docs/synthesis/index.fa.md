@@ -1,4 +1,4 @@
-<div dir="rtl" lang="fa">
+<div dir="rtl" markdown>
 
 # داشبورد ترکیب
 
@@ -48,16 +48,16 @@
 
 ## موضوعات
 
-### [روابط نظامی-مدنی و اصلاحات بخش امنیتی](civil-military-relations/index.md)
+### [روابط نظامی-مدنی و اصلاحات بخش امنیتی](civil-military-relations-and-security-sector-reform/index.md)
 ۵ مقاله فرعی
 
 ### [عدالت انتقالی](transitional-justice/index.md)
 ۶ مقاله فرعی
 
-### [طراحی قانون اساسی و فرایندهای تدوین](constitutional-design/index.md)
+### [طراحی قانون اساسی و فرایندهای تدوین](constitutional-design-and-drafting-processes/index.md)
 ۶ مقاله فرعی
 
-### [آزادی دینی و جدایی دین از دولت](religious-freedom/index.md)
+### [آزادی دینی و جدایی دین از دولت](religious-freedom-and-separation-of-religion-from-state/index.md)
 ۶ مقاله فرعی
 
 

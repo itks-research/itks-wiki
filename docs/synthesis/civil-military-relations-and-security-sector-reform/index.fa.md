@@ -1,4 +1,4 @@
-<div dir="rtl" lang="fa">
+<div dir="rtl" markdown>
 
 ## یافته‌های کلیدی
 
