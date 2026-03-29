@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | John J. McCarthy |
 | **Year** | 1986 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Language policy |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 923 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1050&context=linguist_faculty_pubs) |

@@ -5,8 +5,9 @@
 | **Authors** | David Merryman, Heather L. Tafel |
 | **Year** | 2009 |
 | **Category** | Transitional justice |
+| **Secondary Categories** | Civil society development, Political party formation and pluralism |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://scholarworks.gvsu.edu/sss/27) |

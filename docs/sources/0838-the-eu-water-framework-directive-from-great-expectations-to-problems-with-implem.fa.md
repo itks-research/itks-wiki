@@ -5,9 +5,9 @@
 | نویسندگان | Nikolaos Voulvoulis, Karl Dominic Arpon, Theodoros Giakoumis |
 |---|---|
 | **سال** | 2016 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Sanctions unwinding and international reintegration |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 523 |
 | **شناسه دیجیتال** | [10.1016/j.scitotenv.2016.09.228](https://doi.org/10.1016/j.scitotenv.2016.09.228) |
 

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Dagmar Rychnovská, M. Kohút |
 | **Year** | 2018 |
-| **Category** | Transitional justice |
+| **Category** | Media freedom and press institution building |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 12 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1177/2336825X1802600304](https://doi.org/10.1177/2336825X1802600304) |

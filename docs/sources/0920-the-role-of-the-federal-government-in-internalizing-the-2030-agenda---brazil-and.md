@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Carlos Gabriel Arpini, Alice Alves de Oliveira, César Albenes de Mendonça Cruz, Paulo André Stein Messetti |
 | **Year** | 2024 |
-| **Category** | Transitional justice |
+| **Category** | Federalism, unitarism, and autonomy models |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.54727/cbps.2.2.56](https://doi.org/10.54727/cbps.2.2.56) |

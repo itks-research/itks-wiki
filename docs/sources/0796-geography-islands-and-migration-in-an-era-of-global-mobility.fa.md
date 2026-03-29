@@ -5,9 +5,9 @@
 | نویسندگان | Russell King |
 |---|---|
 | **سال** | 2009 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 120 |
 | **شناسه دیجیتال** | [10.24043/isj.228](https://doi.org/10.24043/isj.228) |
 

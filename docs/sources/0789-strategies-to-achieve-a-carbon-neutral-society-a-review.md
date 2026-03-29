@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Lin Chen, Goodluck Msigwa, Mingyu Yang, Ahmed I. Osman, Samer Fawzy, David W. Rooney, Pow‐Seng Yap |
 | **Year** | 2022 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 1166 |
 | **Source** | openalex |
 | **DOI** | [10.1007/s10311-022-01435-8](https://doi.org/10.1007/s10311-022-01435-8) |

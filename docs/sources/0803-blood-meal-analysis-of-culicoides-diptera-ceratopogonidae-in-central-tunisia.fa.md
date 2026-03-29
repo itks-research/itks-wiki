@@ -7,7 +7,7 @@
 | **سال** | 2015 |
 | **دسته‌بندی** | Religious freedom and separation of religion from state |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 69 |
 | **شناسه دیجیتال** | [10.1371/journal.pone.0120528](https://doi.org/10.1371/journal.pone.0120528) |
 

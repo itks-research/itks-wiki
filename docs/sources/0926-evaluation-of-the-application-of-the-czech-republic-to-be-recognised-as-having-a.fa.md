@@ -5,9 +5,9 @@
 | نویسندگان | Giulio di Piazza, T. Lyytikäinen, G. Ru, Marion M Simmons, Á. Ortiz-Pelaez |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Sanctions unwinding and international reintegration |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.2903/j.efsa.2023.8335](https://doi.org/10.2903/j.efsa.2023.8335) |
 

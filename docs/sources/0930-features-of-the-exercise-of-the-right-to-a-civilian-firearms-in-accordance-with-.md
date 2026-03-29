@@ -6,7 +6,7 @@
 | **Year** | 2025 |
 | **Category** | Transitional justice |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.37634/efp.2025.3.11](https://doi.org/10.37634/efp.2025.3.11) |

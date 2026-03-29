@@ -6,7 +6,7 @@
 | **Year** | 2026 |
 | **Category** | Transitional justice |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.36018/dsiij.27.404](https://doi.org/10.36018/dsiij.27.404) |

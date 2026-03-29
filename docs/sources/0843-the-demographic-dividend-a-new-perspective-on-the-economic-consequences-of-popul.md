@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | David E. Bloom, David Canning, Jaypee Sevilla |
 | **Year** | 2003 |
-| **Category** | Transitional justice |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 646 |
 | **Source** | openalex |
 | **DOI** | [10.7249/mr1274](https://doi.org/10.7249/mr1274) |

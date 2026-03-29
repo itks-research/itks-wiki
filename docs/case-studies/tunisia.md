@@ -1,6 +1,6 @@
 # Tunisia
 
-**281 sources** across 20 categories
+**277 sources** across 22 categories
 
 ## Banking and financial system reform
 *1 sources*
@@ -8,9 +8,10 @@
 - [Why Do Management Practices Differ across Firms and Countries?](../sources/0643-why-do-management-practices-differ-across-firms-and-countries.md) (2010) | Relevance: 2.0
 
 ## Civil society development
-*5 sources*
+*6 sources*
 
 - [The Role of Civil Society in the Tunisian Democratic Transition](../sources/0589-the-role-of-civil-society-in-the-tunisian-democratic-transition.md) (2015) | Relevance: 4.0
+- [Internal Colonialism and Ghetto Revolt](../sources/0787-internal-colonialism-and-ghetto-revolt.md) (1969) | Relevance: 3.0
 - [Grassroots Environmental Activism in an Authoritarian Context: The Trees Movement in Vietnam](../sources/0561-grassroots-environmental-activism-in-an-authoritarian-context-the-trees-movement.md) (2017) | Relevance: 3.0
 - [Civilizing religion : Jacobin projects of secularization in Turkey, France, Tunisia, and Syria](../sources/0624-civilizing-religion--jacobin-projects-of-secularization-in-turkey-france-tunisia.md) (2007) | Relevance: 3.0
 - [Beyond words: non‐dialogical public reason in (post) revolutionary Tunisia](../sources/0671-beyond-words-nondialogical-public-reason-in-post-revolutionary-tunisia.md) (2025) | Relevance: 3.0
@@ -104,21 +105,30 @@
 - [International consensus on terminology to be used in the field of echinococcoses](../sources/0611-international-consensus-on-terminology-to-be-used-in-the-field-of-echinococcoses.md) (2020) | Relevance: 1.0
 
 ## Cultural heritage preservation during institutional change
-*3 sources*
-
-- [Relational mobility predicts social behaviors in 39 countries and is tied to historical farming and threat](../sources/0746-relational-mobility-predicts-social-behaviors-in-39-countries-and-is-tied-to-his.md) (2018) | Relevance: 2.0
-- [The politics of writing in Iran: a history of modern Persian literature](../sources/0698-the-politics-of-writing-in-iran-a-history-of-modern-persian-literature.md) (2000) | Relevance: 2.0
-- [IPBES, 2019. Summary for policymakers of the global assessment report on biodiversity and ecosystem services of the Intergovernmental Science‐Policy Platform on Biodiversity and Ecosystem Services](../sources/0645-ipbes-2019-summary-for-policymakers-of-the-global-assessment-report-on-biodivers.md) (2019) | Relevance: 1.0
-
-## Education system reform and curriculum modernization
 *7 sources*
 
+- [Relational mobility predicts social behaviors in 39 countries and is tied to historical farming and threat](../sources/0746-relational-mobility-predicts-social-behaviors-in-39-countries-and-is-tied-to-his.md) (2018) | Relevance: 2.0
+- [Geography, Islands and Migration in an Era of Global Mobility](../sources/0796-geography-islands-and-migration-in-an-era-of-global-mobility.md) (2009) | Relevance: 2.0
+- [The politics of writing in Iran: a history of modern Persian literature](../sources/0698-the-politics-of-writing-in-iran-a-history-of-modern-persian-literature.md) (2000) | Relevance: 2.0
+- [IPBES, 2019. Summary for policymakers of the global assessment report on biodiversity and ecosystem services of the Intergovernmental Science‐Policy Platform on Biodiversity and Ecosystem Services](../sources/0645-ipbes-2019-summary-for-policymakers-of-the-global-assessment-report-on-biodivers.md) (2019) | Relevance: 1.0
+- [A review of theoretical salt weathering studies for stone heritage](../sources/0812-a-review-of-theoretical-salt-weathering-studies-for-stone-heritage.md) (2021) | Relevance: 1.0
+- [Pigments — Mercury-based red (cinnabar-vermilion) and white (calomel) and their degradation products](../sources/0816-pigments--mercury-based-red-cinnabar-vermilion-and-white-calomel-and-their-degra.md) (2021) | Relevance: 1.0
+- [Nanoparticles in Ancient Materials: The Metallic Lustre Decorations of Medieval Ceramics](../sources/0809-nanoparticles-in-ancient-materials-the-metallic-lustre-decorations-of-medieval-c.md) (2012) | Relevance: 1.0
+
+## Education system reform and curriculum modernization
+*12 sources*
+
 - [Reformation of Islamic Thought : A Critical Historical Analysis](../sources/0547-reformation-of-islamic-thought--a-critical-historical-analysis.md) (2006) | Relevance: 3.0
+- [The bit in the middle: a synthesis of global health literature on policy formulation and adoption](../sources/0814-the-bit-in-the-middle-a-synthesis-of-global-health-literature-on-policy-formulat.md) (2014) | Relevance: 3.0
 - [When Art Is the Weapon: Culture and Resistance Confronting Violence in the Post-Uprisings Arab World](../sources/0702-when-art-is-the-weapon-culture-and-resistance-confronting-violence-in-the-post-u.md) (2015) | Relevance: 3.0
 - [Photographic Representations of Tunisian Women from the Late 1940s to the Present](../sources/0602-photographic-representations-of-tunisian-women-from-the-late-1940s-to-the-presen.md) (2020) | Relevance: 3.0
+- [The second demographic transition, 1986–2020: sub-replacement fertility and rising cohabitation—a global update](../sources/0794-the-second-demographic-transition-19862020-sub-replacement-fertility-and-rising-.md) (2020) | Relevance: 2.0
 - [First child of immigrant workers and their descendants in West Germany](../sources/0681-first-child-of-immigrant-workers-and-their-descendants-in-west-germany.md) (2007) | Relevance: 2.0
+- [France: High and stable fertility](../sources/0810-france-high-and-stable-fertility.md) (2008) | Relevance: 2.0
 - [Global Report on Adult Learning and Education.](../sources/0710-global-report-on-adult-learning-and-education.md) (2010) | Relevance: 2.0
+- [Photogrammetry as a New Scientific Tool in Archaeology: Worldwide Research Trends](../sources/0797-photogrammetry-as-a-new-scientific-tool-in-archaeology-worldwide-research-trends.md) (2021) | Relevance: 2.0
 - [Global Citizenship Education](../sources/0691-global-citizenship-education.md) (2020) | Relevance: 2.0
+- [The Role of Cultural Routes in Sustainable Tourism Development: A Case Study of Syria’s Spiritual Route](../sources/0808-the-role-of-cultural-routes-in-sustainable-tourism-development-a-case-study-of-s.md) (2020) | Relevance: 2.0
 - [Catalogue of Acculturation Constructs: Descriptions of 126 Taxonomies, 1918-2003](../sources/0694-catalogue-of-acculturation-constructs-descriptions-of-126-taxonomies-1918-2003.md) (2009) | Relevance: 1.0
 
 ## Electoral system design and implementation
@@ -148,19 +158,28 @@
 - [Access to Justice and Legal Process: Making Legal Institutions Responsive to Poor People in Ldcs](../sources/0544-access-to-justice-and-legal-process-making-legal-institutions-responsive-to-poor.md) (2003) | Relevance: 3.0
 
 ## Labor market reform and social safety nets
-*4 sources*
+*7 sources*
 
 - [Between the hammer and the anvil : the trade unions and the 2011 Arab uprisings in Morocco and Tunisia](../sources/0646-between-the-hammer-and-the-anvil--the-trade-unions-and-the-2011-arab-uprisings-i.md) (2018) | Relevance: 4.0
+- [Strategies to achieve a carbon neutral society: a review](../sources/0789-strategies-to-achieve-a-carbon-neutral-society-a-review.md) (2022) | Relevance: 3.0
+- [The effects of integration and transnational ties on international return migration intentions](../sources/0795-the-effects-of-integration-and-transnational-ties-on-international-return-migrat.md) (2011) | Relevance: 3.0
+- [Migrant farmworkers in Southern Italy: ghettoes, caporalato and collective action](../sources/0811-migrant-farmworkers-in-southern-italy-ghettoes-caporalato-and-collective-action.md) (2014) | Relevance: 3.0
 - [The Top 1 Percent in International and Historical Perspective](../sources/0641-the-top-1-percent-in-international-and-historical-perspective.md) (2013) | Relevance: 2.0
 - [European Migration IN THE LATE Twentieth Century](../sources/0550-european-migration-in-the-late-twentieth-century.md) (1994) | Relevance: 2.0
 - [South-South Migration and Human Development: Reflections on African Experiences](../sources/0697-south-south-migration-and-human-development-reflections-on-african-experiences.md) (2009) | Relevance: 2.0
 
+## Language policy
+*1 sources*
+
+- [OCP effects: Gemination and antigemination](../sources/0784-ocp-effects-gemination-and-antigemination.md) (1986) | Relevance: 1.0
+
 ## Media freedom and press institution building
-*4 sources*
+*5 sources*
 
 - [Debating terrorism in a political transition: Journalism and democracy in Tunisia](../sources/0661-debating-terrorism-in-a-political-transition-journalism-and-democracy-in-tunisia.md) (2020) | Relevance: 4.0
 - [Polarization & populist backlash in transitioning Tunisia: the role of internet media & media ownership](../sources/0665-polarization--populist-backlash-in-transitioning-tunisia-the-role-of-internet-me.md) (2023) | Relevance: 4.0
 - [The democratic transition after 2003 and its impact on the Iraqi media between freedom of expression and political exploitation](../sources/0656-the-democratic-transition-after-2003-and-its-impact-on-the-iraqi-media-between-f.md) (2026) | Relevance: 4.0
+- [Social Media Techno-Discursive Design, Affective Communication and Contemporary Politics](../sources/0802-social-media-techno-discursive-design-affective-communication-and-contemporary-p.md) (2018) | Relevance: 3.0
 - [Arab Media Systems](../sources/0557-arab-media-systems.md) (2021) | Relevance: 3.0
 
 ## Minority rights
@@ -221,8 +240,9 @@
 - [The New Regionalism Implications for Global development and International Security](../sources/0707-the-new-regionalism-implications-for-global-development-and-international-securi.md) (1994) | Relevance: 2.0
 
 ## Religious freedom and separation of religion from state
-*118 sources*
+*94 sources*
 
+- [Tax Havens and the Commercialization of State Sovereignty](../sources/0792-tax-havens-and-the-commercialization-of-state-sovereignty.md) (2002) | Relevance: 4.0
 - [Rachid Ghannouchi](../sources/0717-rachid-ghannouchi.md) (2001) | Relevance: 4.0
 - [Missing the Third Wave: Islam, Institutions, and Democracy in the Middle East](../sources/0685-missing-the-third-wave-islam-institutions-and-democracy-in-the-middle-east.md) (2011) | Relevance: 4.0
 - [Competing Ways of Life: Islamism, Secularism, and Public Order in the Tunisian Transition](../sources/0713-competing-ways-of-life-islamism-secularism-and-public-order-in-the-tunisian-tran.md) (2013) | Relevance: 4.0
@@ -234,8 +254,10 @@
 - [Evoking Huntington: Albania’s Democratic Transition and the Revival of Religious Freedom](../sources/0650-evoking-huntington-albanias-democratic-transition-and-the-revival-of-religious-f.md) (2025) | Relevance: 4.0
 - [Religious Freedom and Secularism in Post-Revolutionary Tunisia](../sources/0736-religious-freedom-and-secularism-in-post-revolutionary-tunisia.md) (2021) | Relevance: 4.0
 - [Secularism Confronts Islamism: Divergent Paths of Transitional Negotiations in Egypt and Tunisia](../sources/0739-secularism-confronts-islamism-divergent-paths-of-transitional-negotiations-in-eg.md) (2021) | Relevance: 4.0
+- [On the separation of powers and the separation of state and Church: Remarks on the resignation of the Hungarian president](../sources/0758-on-the-separation-of-powers-and-the-separation-of-state-and-church-remarks-on-th.md) (2024) | Relevance: 4.0
 - [Islam and secularism in the Middle East](../sources/0716-islam-and-secularism-in-the-middle-east.md) (2000) | Relevance: 3.0
 - [Democracy and Islam: Implications for Civilizational Conflict and the Democratic Peace](../sources/0682-democracy-and-islam-implications-for-civilizational-conflict-and-the-democratic-.md) (1998) | Relevance: 3.0
+- [The Transformation of the Arab World](../sources/0788-the-transformation-of-the-arab-world.md) (2012) | Relevance: 3.0
 - [Transforming everyday life: Islamism and social movement theory](../sources/0687-transforming-everyday-life-islamism-and-social-movement-theory.md) (2009) | Relevance: 3.0
 - [Citizenship Law in Africa. a Comparative Study](../sources/0688-citizenship-law-in-africa-a-comparative-study.md) (2012) | Relevance: 3.0
 - [Political Islam: Theory](../sources/0689-political-islam-theory.md) (2015) | Relevance: 3.0
@@ -243,109 +265,91 @@
 - [Re-thinking secularism in post-independence Tunisia](../sources/0712-re-thinking-secularism-in-post-independence-tunisia.md) (2014) | Relevance: 3.0
 - [Islamism and secularism in North Africa](../sources/0719-islamism-and-secularism-in-north-africa.md) (1995) | Relevance: 3.0
 - [Turkey: Islam and Laicism between the interests of state, politics, and society](../sources/0696-turkey-islam-and-laicism-between-the-interests-of-state-politics-and-society.md) (2007) | Relevance: 3.0
+- [Opening up the island: a ‘counter-islandness’ approach to migration in Malta.](../sources/0815-opening-up-the-island-a-counter-islandness-approach-to-migration-in-malta.md) (2014) | Relevance: 3.0
 - [Islam and Institutional Religious Freedom in Indonesia](../sources/0563-islam-and-institutional-religious-freedom-in-indonesia.md) (2021) | Relevance: 3.0
 - [Nation and family: personal law, cultural pluralism, and gendered citizenship in India](../sources/0720-nation-and-family-personal-law-cultural-pluralism-and-gendered-citizenship-in-in.md) (2014) | Relevance: 3.0
 - [Religious Institutions and Authoritarian States: church–state relations in the Middle East](../sources/0704-religious-institutions-and-authoritarian-states-churchstate-relations-in-the-mid.md) (2011) | Relevance: 3.0
 - [The Implicit Sharia: Established Religion and Varietie of Secularism in Tunisia](../sources/0714-the-implicit-sharia-established-religion-and-varietie-of-secularism-in-tunisia.md) (2016) | Relevance: 3.0
 - [Political Islam in Tunisia: the history of Ennahda](../sources/0725-political-islam-in-tunisia-the-history-of-ennahda.md) (2018) | Relevance: 3.0
+- [Church-State Separation and Challenging Issues Concerning Religion](../sources/0765-church-state-separation-and-challenging-issues-concerning-religion.md) (2019) | Relevance: 3.0
 - [THE Making OF A Pancasila State:political Debates ON Secularism, Islam AND THE State IN Indonesia](../sources/0727-the-making-of-a-pancasila-statepolitical-debates-on-secularism-islam-and-the-sta.md) (2012) | Relevance: 3.0
 - [The state and religion in the fundamentals of Islam and contemporary interpretation](../sources/0722-the-state-and-religion-in-the-fundamentals-of-islam-and-contemporary-interpretat.md) (2013) | Relevance: 3.0
 - [The Normative Power of Secularism. Tunisian Ennahda's Discourse on Religion, Politics, and the State (2011–2016)](../sources/0715-the-normative-power-of-secularism-tunisian-ennahdas-discourse-on-religion-politi.md) (2019) | Relevance: 3.0
 - [Tunisian intellectuals: responses to Islamism](../sources/0733-tunisian-intellectuals-responses-to-islamism.md) (2008) | Relevance: 3.0
 - [The Sacred as Secular: State Control and Mosques Neutrality in Post-Revolutionary Tunisia](../sources/0732-the-sacred-as-secular-state-control-and-mosques-neutrality-in-post-revolutionary.md) (2018) | Relevance: 3.0
+- [How Americans Talk about Separation of Church and State: Moral Frameworks of Justice and Care](../sources/0776-how-americans-talk-about-separation-of-church-and-state-moral-frameworks-of-just.md) (2020) | Relevance: 3.0
 - [Islam and Democracy after the Arab Spring](../sources/0741-islam-and-democracy-after-the-arab-spring.md) (2019) | Relevance: 3.0
 - [Popular Protest in the New Middle East: Islamism and Post-Islamist Politics](../sources/0738-popular-protest-in-the-new-middle-east-islamism-and-post-islamist-politics.md) (2014) | Relevance: 3.0
 - [Annual Review of the Sociology of Religion. Volume 12 (2021)](../sources/0740-annual-review-of-the-sociology-of-religion-volume-12-2021.md) (2021) | Relevance: 3.0
+- [Pluralism versus Separation: Tension in the Australian Church-State Relationship](../sources/0763-pluralism-versus-separation-tension-in-the-australian-church-state-relationship.md) (2021) | Relevance: 3.0
 - [Dalla Transculturalità all'Islamicità? Il caso della Tunisia](../sources/0734-dalla-transculturalità-allislamicità-il-caso-della-tunisia.md) (2013) | Relevance: 3.0
 - [Islamist Perceptions of US Policy in the Middle East](../sources/0749-islamist-perceptions-of-us-policy-in-the-middle-east.md) (2018) | Relevance: 3.0
 - [Christian Citizens in a Democratic State: Is a True Separation of Church and State Really Possible?](../sources/0753-christian-citizens-in-a-democratic-state-is-a-true-separation-of-church-and-stat.md) (2024) | Relevance: 3.0
+- [Legal regulation of religious education in Ukraine: Implementation of the separation of the church and other religious organizations from state educational institutions](../sources/0767-legal-regulation-of-religious-education-in-ukraine-implementation-of-the-separat.md) (2022) | Relevance: 3.0
 - [Dynamics of the Ethiopian Religious Landscape during Democratic Transition](../sources/0658-dynamics-of-the-ethiopian-religious-landscape-during-democratic-transition.md) (2023) | Relevance: 3.0
 - [Explaining the distinction between religious and political activism in Islamism: evidence from the Tunisian case](../sources/0670-explaining-the-distinction-between-religious-and-political-activism-in-islamism-.md) (2024) | Relevance: 3.0
 - [The Politicisation of Islam](../sources/0744-the-politicisation-of-islam.md) (2018) | Relevance: 3.0
+- [Mikhail Dragomanov on Consequences of Violating the Principle of Separation of Church and State](../sources/0768-mikhail-dragomanov-on-consequences-of-violating-the-principle-of-separation-of-c.md) (2022) | Relevance: 3.0
 - [Religious Freedom and Religious Equality in Western Democracies, 1990–2023: An Empirical Study of Government Policy and Societal Discrimination](../sources/0651-religious-freedom-and-religious-equality-in-western-democracies-19902023-an-empi.md) (2025) | Relevance: 3.0
 - [The Defense of Religious Freedom in the Catholic Magazine Vida Nueva during a Catholic Confessional Dictatorship](../sources/0659-the-defense-of-religious-freedom-in-the-catholic-magazine-vida-nueva-during-a-ca.md) (2022) | Relevance: 3.0
 - [Secularism under Dispute: Towards Agonistic, Pluralistic, and Democratic Politics. A Latin American Perspective](../sources/0669-secularism-under-dispute-towards-agonistic-pluralistic-and-democratic-politics-a.md) (2023) | Relevance: 3.0
 - [Confrontation and the Reconciliation Process among Islamists after the Arab Spring](../sources/0684-confrontation-and-the-reconciliation-process-among-islamists-after-the-arab-spri.md) (2015) | Relevance: 3.0
 - [John Locke’s “Unease”: The Theoretical Foundation of the Modern Separation of Church and State](../sources/0755-john-lockes-unease-the-theoretical-foundation-of-the-modern-separation-of-church.md) (2024) | Relevance: 3.0
+- [Separation of Church and State, American Exceptionalism, and the Contemporary Social Moment: Viewing Church–State Separation from the Priority of Slavery](../sources/0762-separation-of-church-and-state-american-exceptionalism-and-the-contemporary-soci.md) (2021) | Relevance: 3.0
+- [RELIGIOUS FREEDOM IN THE USA: SEPARATION BETWEEN CHURCH AND STATE](../sources/0764-religious-freedom-in-the-usa-separation-between-church-and-state.md) (2023) | Relevance: 3.0
+- [“There’s no separation of Church and state”, a metaphorical analysis of Muslim native speaker teachers’ representations of English language teaching and Islam in Saudi Arabia](../sources/0766-theres-no-separation-of-church-and-state-a-metaphorical-analysis-of-muslim-nativ.md) (2023) | Relevance: 3.0
+- [THE SEPARATION OF CHURCH AND STATE IN THE CURRENT PHILIPPINE CONTEXT](../sources/0769-the-separation-of-church-and-state-in-the-current-philippine-context.md) (2022) | Relevance: 3.0
+- [Credobaptism and religious policy. Separation of church and state, freedom of religion, and religious tolerance in the writings of the early Baptists](../sources/0779-credobaptism-and-religious-policy-separation-of-church-and-state-freedom-of-reli.md) (2020) | Relevance: 3.0
+- [L'islamisme et l'État en Tunisie](../sources/0786-lislamisme-et-létat-en-tunisie.md) (1994) | Relevance: 3.0
 - [Challenging the Gates: Religious Freedom and Access in South Africa's Theology Faculties](../sources/0652-challenging-the-gates-religious-freedom-and-access-in-south-africas-theologyfacu.md) (2024) | Relevance: 3.0
 - [The Religious Legacy of Pope John Paul II during the Transition from the Communist Era](../sources/0655-the-religious-legacy-of-pope-john-paul-ii-during-the-transition-from-the-communi.md) (2025) | Relevance: 3.0
 - [Democratic Fragility IN THE ERA OF Liquid Exception](../sources/0662-democratic-fragility-in-the-era-of-liquid-exception.md) (2026) | Relevance: 3.0
 - [Secularism and religion in Tunisia](../sources/0737-secularism-and-religion-in-tunisia.md) (2016) | Relevance: 3.0
 - [Rainbows, Unicorns, and Separation of Church and State in the European Union](../sources/0751-rainbows-unicorns-and-separation-of-church-and-state-in-the-european-union.md) (2025) | Relevance: 3.0
 - [Freedom of Conscience and Separation of Church and State in Japan](../sources/0752-freedom-of-conscience-and-separation-of-church-and-state-in-japan.md) (2025) | Relevance: 3.0
+- [Left Ideas in the Context of Creating the Decree on Separation of Church from State and School from Church](../sources/0759-left-ideas-in-the-context-of-creating-the-decree-on-separation-of-church-from-st.md) (2024) | Relevance: 3.0
+- [The Separation of the Ukrainian Orthodox Church From the Moscow Patriarchate as a Reflection of Ukrainian State Identity](../sources/0760-the-separation-of-the-ukrainian-orthodox-church-from-the-moscow-patriarchate-as-.md) (2024) | Relevance: 3.0
+- [Citizen Outsider: Children of North African Immigrants in France](../sources/0791-citizen-outsider-children-of-north-african-immigrants-in-france.md) (2017) | Relevance: 2.0
+- [Homology modeling and virtual screening approaches to identify potent inhibitors of VEB-1 β-lactamase](../sources/0793-homology-modeling-and-virtual-screening-approaches-to-identify-potent-inhibitors.md) (2013) | Relevance: 2.0
+- [Radicalization Among Young Muslims in Aarhus](../sources/0800-radicalization-among-young-muslims-in-aarhus.md) (2010) | Relevance: 2.0
+- [Becoming a Sangoma: Religious Anthropological Field-Work in Francistown, Botswana](../sources/0799-becoming-a-sangoma-religious-anthropological-field-work-in-francistown-botswana.md) (1991) | Relevance: 2.0
+- [Apostasy in Islam](../sources/0804-apostasy-in-islam.md) (1976) | Relevance: 2.0
+- [Nanoemulsion of Camphor (Eucalyptus globulus) Essential Oil, Formulation, Characterization and Insecticidal Activity against Wheat Weevil, Sitophilus granarius](../sources/0813-nanoemulsion-of-camphor-eucalyptus-globulus-essential-oil-formulation-characteri.md) (2017) | Relevance: 2.0
+- [Islamic Reformism and Christianity](../sources/0818-islamic-reformism-and-christianity.md) (2009) | Relevance: 2.0
+- [Exploiting coastal altimetry to improve the surface circulation scheme over the central Mediterranean Sea](../sources/0817-exploiting-coastal-altimetry-to-improve-the-surface-circulation-scheme-over-the-.md) (2016) | Relevance: 2.0
 - [Varieties of Religious Establishment](../sources/0726-varieties-of-religious-establishment.md) (2016) | Relevance: 2.0
 - [The Secular-Religious Competition Perspective in Comparative Perspective](../sources/0735-the-secular-religious-competition-perspective-in-comparative-perspective.md) (2019) | Relevance: 2.0
 - [The Separation of Church and State as an Imperial Project in the Philippines during the Early American Colonial Period](../sources/0754-the-separation-of-church-and-state-as-an-imperial-project-in-the-philippines-dur.md) (2024) | Relevance: 2.0
+- [Nilay Saiya, The Global Politics of Jesus: A Christian Case for Church–State Separation](../sources/0761-nilay-saiya-the-global-politics-of-jesus-a-christian-case-for-churchstate-separa.md) (2022) | Relevance: 2.0
+- [Questioning Strict Separationism in Unsettled Times: Rethinking the Strict Separation of Church and State in United States Constitutional Law](../sources/0774-questioning-strict-separationism-in-unsettled-times-rethinking-the-strict-separa.md) (2022) | Relevance: 2.0
+- [Pietro Giannone and the Nonjuring Contribution to the Separation of Church and State](../sources/0777-pietro-giannone-and-the-nonjuring-contribution-to-the-separation-of-church-and-s.md) (2020) | Relevance: 2.0
+- [Una testimonianza silenziosa.Storia della Chiesa cattolica in Tunisia dal Trattato del Bardo alla ‘rivoluzione dei gelsomini’](../sources/0790-una-testimonianza-silenziosastoria-della-chiesa-cattolica-in-tunisia-dal-trattat.md) (2015) | Relevance: 2.0
 - [Religious and legal aspect of national security in the context of the Russian war against Ukraine](../sources/0675-religious-and-legal-aspect-of-national-security-in-the-context-of-the-russian-wa.md) (2025) | Relevance: 2.0
 - [Islam and secularism in Tunisian law persons : contribution to the history of Tunisian private international law](../sources/0745-islam-and-secularism-in-tunisian-law-persons--contribution-to-the-history-of-tun.md) (2016) | Relevance: 2.0
 - [Free Church, Free State, Free Conscience: Baptist Ecclesiology and Church-State Attitudes in the Mid-Twentieth-Century United States](../sources/0756-free-church-free-state-free-conscience-baptist-ecclesiology-and-church-state-att.md) (2025) | Relevance: 2.0
-- [Strategies to achieve a carbon neutral society: a review](../sources/0789-strategies-to-achieve-a-carbon-neutral-society-a-review.md) (2022)
-- [Current knowledge and perspectives of Paenibacillus: a review](../sources/0785-current-knowledge-and-perspectives-of-paenibacillus-a-review.md) (2016)
-- [OCP effects: Gemination and antigemination](../sources/0784-ocp-effects-gemination-and-antigemination.md) (1986)
-- [Internal Colonialism and Ghetto Revolt](../sources/0787-internal-colonialism-and-ghetto-revolt.md) (1969)
-- [Tax Havens and the Commercialization of State Sovereignty](../sources/0792-tax-havens-and-the-commercialization-of-state-sovereignty.md) (2002)
-- [The effects of integration and transnational ties on international return migration intentions](../sources/0795-the-effects-of-integration-and-transnational-ties-on-international-return-migrat.md) (2011)
-- [The second demographic transition, 1986–2020: sub-replacement fertility and rising cohabitation—a global update](../sources/0794-the-second-demographic-transition-19862020-sub-replacement-fertility-and-rising-.md) (2020)
-- [Antibiotic resistance shaping multi-level population biology of bacteria](../sources/0807-antibiotic-resistance-shaping-multi-level-population-biology-of-bacteria.md) (2013)
-- [Citizen Outsider: Children of North African Immigrants in France](../sources/0791-citizen-outsider-children-of-north-african-immigrants-in-france.md) (2017)
-- [France: High and stable fertility](../sources/0810-france-high-and-stable-fertility.md) (2008)
-- [Homology modeling and virtual screening approaches to identify potent inhibitors of VEB-1 β-lactamase](../sources/0793-homology-modeling-and-virtual-screening-approaches-to-identify-potent-inhibitors.md) (2013)
-- [The Transformation of the Arab World](../sources/0788-the-transformation-of-the-arab-world.md) (2012)
-- [Geography, Islands and Migration in an Era of Global Mobility](../sources/0796-geography-islands-and-migration-in-an-era-of-global-mobility.md) (2009)
-- [A review of theoretical salt weathering studies for stone heritage](../sources/0812-a-review-of-theoretical-salt-weathering-studies-for-stone-heritage.md) (2021)
-- [Saharan dust aerosol over the central Mediterranean Sea: PM <sub>10</sub> chemical composition and concentration versus optical columnar measurements](../sources/0798-saharan-dust-aerosol-over-the-central-mediterranean-sea-pm-sub10sub-chemical-com.md) (2014)
-- [Photogrammetry as a New Scientific Tool in Archaeology: Worldwide Research Trends](../sources/0797-photogrammetry-as-a-new-scientific-tool-in-archaeology-worldwide-research-trends.md) (2021)
-- [Social Media Techno-Discursive Design, Affective Communication and Contemporary Politics](../sources/0802-social-media-techno-discursive-design-affective-communication-and-contemporary-p.md) (2018)
-- [Mineralogy and physicochemical features of Saharan dust wet deposited in the Iberian Peninsula during an extreme red rain event](../sources/0805-mineralogy-and-physicochemical-features-of-saharan-dust-wet-deposited-in-the-ibe.md) (2018)
-- [Beyond the Northern Invasion: The Mediterranean in the Seventeenth Century](../sources/0801-beyond-the-northern-invasion-the-mediterranean-in-the-seventeenth-century.md) (2002)
-- [Radicalization Among Young Muslims in Aarhus](../sources/0800-radicalization-among-young-muslims-in-aarhus.md) (2010)
-- [Becoming a Sangoma: Religious Anthropological Field-Work in Francistown, Botswana](../sources/0799-becoming-a-sangoma-religious-anthropological-field-work-in-francistown-botswana.md) (1991)
-- [Pigments — Mercury-based red (cinnabar-vermilion) and white (calomel) and their degradation products](../sources/0816-pigments--mercury-based-red-cinnabar-vermilion-and-white-calomel-and-their-degra.md) (2021)
-- [Blood Meal Analysis of Culicoides (Diptera: Ceratopogonidae) in Central Tunisia](../sources/0803-blood-meal-analysis-of-culicoides-diptera-ceratopogonidae-in-central-tunisia.md) (2015)
-- [Apostasy in Islam](../sources/0804-apostasy-in-islam.md) (1976)
-- [Global Alcohol Markets: Evolving Consumption Patterns, Regulations, and Industrial Organizations](../sources/0806-global-alcohol-markets-evolving-consumption-patterns-regulations-and-industrial-.md) (2018)
-- [Nanoparticles in Ancient Materials: The Metallic Lustre Decorations of Medieval Ceramics](../sources/0809-nanoparticles-in-ancient-materials-the-metallic-lustre-decorations-of-medieval-c.md) (2012)
-- [Nanoemulsion of Camphor (Eucalyptus globulus) Essential Oil, Formulation, Characterization and Insecticidal Activity against Wheat Weevil, Sitophilus granarius](../sources/0813-nanoemulsion-of-camphor-eucalyptus-globulus-essential-oil-formulation-characteri.md) (2017)
-- [The bit in the middle: a synthesis of global health literature on policy formulation and adoption](../sources/0814-the-bit-in-the-middle-a-synthesis-of-global-health-literature-on-policy-formulat.md) (2014)
-- [The Role of Cultural Routes in Sustainable Tourism Development: A Case Study of Syria’s Spiritual Route](../sources/0808-the-role-of-cultural-routes-in-sustainable-tourism-development-a-case-study-of-s.md) (2020)
-- [Opening up the island: a ‘counter-islandness’ approach to migration in Malta.](../sources/0815-opening-up-the-island-a-counter-islandness-approach-to-migration-in-malta.md) (2014)
-- [Islamic Reformism and Christianity](../sources/0818-islamic-reformism-and-christianity.md) (2009)
-- [Migrant farmworkers in Southern Italy: ghettoes, caporalato and collective action](../sources/0811-migrant-farmworkers-in-southern-italy-ghettoes-caporalato-and-collective-action.md) (2014)
-- [Exploiting coastal altimetry to improve the surface circulation scheme over the central Mediterranean Sea](../sources/0817-exploiting-coastal-altimetry-to-improve-the-surface-circulation-scheme-over-the-.md) (2016)
-- [Church-State Separation and Challenging Issues Concerning Religion](../sources/0765-church-state-separation-and-challenging-issues-concerning-religion.md) (2019)
-- [How Americans Talk about Separation of Church and State: Moral Frameworks of Justice and Care](../sources/0776-how-americans-talk-about-separation-of-church-and-state-moral-frameworks-of-just.md) (2020)
-- [Religious Capital and Capital Religions: Cross-Cultural and Non-Legal Factors in the Separation of Church and State](../sources/0781-religious-capital-and-capital-religions-cross-cultural-and-non-legal-factors-in-.md) (2019)
-- [Pluralism versus Separation: Tension in the Australian Church-State Relationship](../sources/0763-pluralism-versus-separation-tension-in-the-australian-church-state-relationship.md) (2021)
-- [Legal regulation of religious education in Ukraine: Implementation of the separation of the church and other religious organizations from state educational institutions](../sources/0767-legal-regulation-of-religious-education-in-ukraine-implementation-of-the-separat.md) (2022)
-- [Mikhail Dragomanov on Consequences of Violating the Principle of Separation of Church and State](../sources/0768-mikhail-dragomanov-on-consequences-of-violating-the-principle-of-separation-of-c.md) (2022)
-- [Nilay Saiya, The Global Politics of Jesus: A Christian Case for Church–State Separation](../sources/0761-nilay-saiya-the-global-politics-of-jesus-a-christian-case-for-churchstate-separa.md) (2022)
-- [Separation of Church and State, American Exceptionalism, and the Contemporary Social Moment: Viewing Church–State Separation from the Priority of Slavery](../sources/0762-separation-of-church-and-state-american-exceptionalism-and-the-contemporary-soci.md) (2021)
-- [RELIGIOUS FREEDOM IN THE USA: SEPARATION BETWEEN CHURCH AND STATE](../sources/0764-religious-freedom-in-the-usa-separation-between-church-and-state.md) (2023)
-- [“There’s no separation of Church and state”, a metaphorical analysis of Muslim native speaker teachers’ representations of English language teaching and Islam in Saudi Arabia](../sources/0766-theres-no-separation-of-church-and-state-a-metaphorical-analysis-of-muslim-nativ.md) (2023)
-- [THE SEPARATION OF CHURCH AND STATE IN THE CURRENT PHILIPPINE CONTEXT](../sources/0769-the-separation-of-church-and-state-in-the-current-philippine-context.md) (2022)
-- [Voters’ Attitudes towards the Separation of Church and State in the Context of the Left–Right Division on the Polish Political Scene](../sources/0770-voters-attitudes-towards-the-separation-of-church-and-state-in-the-context-of-th.md) (2022)
-- [Questioning Strict Separationism in Unsettled Times: Rethinking the Strict Separation of Church and State in United States Constitutional Law](../sources/0774-questioning-strict-separationism-in-unsettled-times-rethinking-the-strict-separa.md) (2022)
-- [Pietro Giannone and the Nonjuring Contribution to the Separation of Church and State](../sources/0777-pietro-giannone-and-the-nonjuring-contribution-to-the-separation-of-church-and-s.md) (2020)
-- [Credobaptism and religious policy. Separation of church and state, freedom of religion, and religious tolerance in the writings of the early Baptists](../sources/0779-credobaptism-and-religious-policy-separation-of-church-and-state-freedom-of-reli.md) (2020)
-- [L'islamisme et l'État en Tunisie](../sources/0786-lislamisme-et-létat-en-tunisie.md) (1994)
-- [Una testimonianza silenziosa.Storia della Chiesa cattolica in Tunisia dal Trattato del Bardo alla ‘rivoluzione dei gelsomini’](../sources/0790-una-testimonianza-silenziosastoria-della-chiesa-cattolica-in-tunisia-dal-trattat.md) (2015)
-- [Proposals for the Separation of Church and State in the Public Debate in Poland During the 7th Term of the Polish Parliament](../sources/0757-proposals-for-the-separation-of-church-and-state-in-the-public-debate-in-poland-.md) (2024)
-- [On the separation of powers and the separation of state and Church: Remarks on the resignation of the Hungarian president](../sources/0758-on-the-separation-of-powers-and-the-separation-of-state-and-church-remarks-on-th.md) (2024)
-- [Left Ideas in the Context of Creating the Decree on Separation of Church from State and School from Church](../sources/0759-left-ideas-in-the-context-of-creating-the-decree-on-separation-of-church-from-st.md) (2024)
-- [The Separation of the Ukrainian Orthodox Church From the Moscow Patriarchate as a Reflection of Ukrainian State Identity](../sources/0760-the-separation-of-the-ukrainian-orthodox-church-from-the-moscow-patriarchate-as-.md) (2024)
-- [Comparative Analysis of Church-State Relations in Poland and Japan](../sources/0771-comparative-analysis-of-church-state-relations-in-poland-and-japan.md) (2023)
-- [Lost in Translation: French Séparatisme and American Séparation of Church and State](../sources/0772-lost-in-translation-french-séparatisme-and-american-séparation-of-church-and-sta.md) (2022)
-- [John Carroll and Religious Liberty: Catholicism, Liberalism, and Church–State Rapprochement in Early America](../sources/0773-john-carroll-and-religious-liberty-catholicism-liberalism-and-churchstate-rappro.md) (2025)
-- [The separation of church and state as the foundation of religious toleration in Locke’s political thought](../sources/0775-the-separation-of-church-and-state-as-the-foundation-of-religious-toleration-in-.md) (2021)
-- [“The Manifest Distinction Established by Our Holy Religion”: Church, State and the Consecration of Samuel Seabury](../sources/0778-the-manifest-distinction-established-by-our-holy-religion-church-state-and-the-c.md) (2022)
-- [Politics and religion under the dictatorship in Portugal (1933-1974): rebuilding the separation between the State and the Church](../sources/0780-politics-and-religion-under-the-dictatorship-in-portugal-1933-1974-rebuilding-th.md) (2020)
-- [The separation of church and state](../sources/0782-the-separation-of-church-and-state.md) (2019)
-- [Separation of Church and State: How was It Done in Soviet Russia?](../sources/0783-separation-of-church-and-state-how-was-it-done-in-soviet-russia.md) (2019)
+- [Lost in Translation: French Séparatisme and American Séparation of Church and State](../sources/0772-lost-in-translation-french-séparatisme-and-american-séparation-of-church-and-sta.md) (2022) | Relevance: 2.0
+- [John Carroll and Religious Liberty: Catholicism, Liberalism, and Church–State Rapprochement in Early America](../sources/0773-john-carroll-and-religious-liberty-catholicism-liberalism-and-churchstate-rappro.md) (2025) | Relevance: 2.0
+- [The separation of church and state as the foundation of religious toleration in Locke’s political thought](../sources/0775-the-separation-of-church-and-state-as-the-foundation-of-religious-toleration-in-.md) (2021) | Relevance: 2.0
+- [“The Manifest Distinction Established by Our Holy Religion”: Church, State and the Consecration of Samuel Seabury](../sources/0778-the-manifest-distinction-established-by-our-holy-religion-church-state-and-the-c.md) (2022) | Relevance: 2.0
+- [Politics and religion under the dictatorship in Portugal (1933-1974): rebuilding the separation between the State and the Church](../sources/0780-politics-and-religion-under-the-dictatorship-in-portugal-1933-1974-rebuilding-th.md) (2020) | Relevance: 2.0
+- [The separation of church and state](../sources/0782-the-separation-of-church-and-state.md) (2019) | Relevance: 2.0
+- [Separation of Church and State: How was It Done in Soviet Russia?](../sources/0783-separation-of-church-and-state-how-was-it-done-in-soviet-russia.md) (2019) | Relevance: 2.0
+- [Saharan dust aerosol over the central Mediterranean Sea: PM <sub>10</sub> chemical composition and concentration versus optical columnar measurements](../sources/0798-saharan-dust-aerosol-over-the-central-mediterranean-sea-pm-sub10sub-chemical-com.md) (2014) | Relevance: 1.0
+- [Blood Meal Analysis of Culicoides (Diptera: Ceratopogonidae) in Central Tunisia](../sources/0803-blood-meal-analysis-of-culicoides-diptera-ceratopogonidae-in-central-tunisia.md) (2015) | Relevance: 1.0
+
+## Resource curse management
+*3 sources*
+
+- [Antibiotic resistance shaping multi-level population biology of bacteria](../sources/0807-antibiotic-resistance-shaping-multi-level-population-biology-of-bacteria.md) (2013) | Relevance: 2.0
+- [Mineralogy and physicochemical features of Saharan dust wet deposited in the Iberian Peninsula during an extreme red rain event](../sources/0805-mineralogy-and-physicochemical-features-of-saharan-dust-wet-deposited-in-the-ibe.md) (2018) | Relevance: 2.0
+- [Current knowledge and perspectives of Paenibacillus: a review](../sources/0785-current-knowledge-and-perspectives-of-paenibacillus-a-review.md) (2016) | Relevance: 1.0
 
 ## Trade liberalization and foreign direct investment
-*1 sources*
+*3 sources*
 
 - [Integration Processes and Policies in Europe](../sources/0552-integration-processes-and-policies-in-europe.md) (2015) | Relevance: 2.0
+- [Beyond the Northern Invasion: The Mediterranean in the Seventeenth Century](../sources/0801-beyond-the-northern-invasion-the-mediterranean-in-the-seventeenth-century.md) (2002) | Relevance: 2.0
+- [Global Alcohol Markets: Evolving Consumption Patterns, Regulations, and Industrial Organizations](../sources/0806-global-alcohol-markets-evolving-consumption-patterns-regulations-and-industrial-.md) (2018) | Relevance: 2.0
 
 ## Transitional justice
 *1 sources*

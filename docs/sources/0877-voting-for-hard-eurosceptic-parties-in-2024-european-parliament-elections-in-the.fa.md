@@ -5,9 +5,9 @@
 | نویسندگان | Ivan Petrúšek, Aleš Kudrnáč, Alexander Davenport, Ákos Bocskor |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Electoral system design and implementation |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.5817/pc2025-2-121](https://doi.org/10.5817/pc2025-2-121) |
 

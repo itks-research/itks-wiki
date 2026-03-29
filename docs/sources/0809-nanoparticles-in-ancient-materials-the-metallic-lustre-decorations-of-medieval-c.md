@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Philippe Sciau |
 | **Year** | 2012 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 59 |
 | **Source** | openalex |
 | **DOI** | [10.5772/34080](https://doi.org/10.5772/34080) |

@@ -5,9 +5,9 @@
 | نویسندگان | Stuart J. Mills, Jiří Sejkora, Anthony R. Kampf, Ian E. Grey, T.J. Bastow, Neil A. Ball, P. M. Adams, Mati Raudsepp, Mark A. Cooper |
 |---|---|
 | **سال** | 2012 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 12 |
 | **شناسه دیجیتال** | [10.1180/minmag.2012.076.3.13](https://doi.org/10.1180/minmag.2012.076.3.13) |
 

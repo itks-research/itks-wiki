@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | M. Štolbová |
 | **Year** | 2018 |
-| **Category** | Transitional justice |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 12 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.17221/293-AGRICECON](https://doi.org/10.17221/293-AGRICECON) |

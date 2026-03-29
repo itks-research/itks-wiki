@@ -5,9 +5,9 @@
 | نویسندگان | Kym Anderson, Giulia Meloni, Johan Swinnen |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 67 |
 | **شناسه دیجیتال** | [10.1146/annurev-resource-100517-023331](https://doi.org/10.1146/annurev-resource-100517-023331) |
 

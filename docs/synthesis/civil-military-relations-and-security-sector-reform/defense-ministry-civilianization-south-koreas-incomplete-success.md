@@ -1,0 +1,35 @@
+# Defense Ministry Civilianization: South Korea's Incomplete Success
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-29 06:42:53
+
+South Korea's trajectory from military authoritarianism to civilian democracy is the most extensively documented success case in the civil-military literature — yet recent scholarship reveals how incomplete that success remains. Chung (2009) documents how "politics was the continuation of war by other means" under the security-dominated post-Korean War state. The election of civilian president Kim Young-sam in 1992 marked a critical inflection. His 1993 purge of the Hanahoe — a secret society of Korean Military Academy graduates centered on coup leaders Chun Doo-hwan and Roh Tae-woo — removed the informal power structure sustaining military political dominance. Over 1,000 officers were retired; the December 1995 arrest of Chun and 16 co-conspirators on insurrection charges signaled that military impunity was over. This decisive action carries direct implications for Iran, where informal networks within the IRGC command structure may prove as consequential as formal institutions.
+
+However, Kim and Kuehn (2022) present a significant corrective to the triumphalist narrative. Their analysis of 1,060 employees across 21 Ministry of National Defense departments reveals a persistent "clear cut between the military domain and the civilian domain within the MND." Professional soldiers retained effective decision-making power over critical policy areas despite 30 years of civilian efforts. Kim K-J (2014) similarly finds that parliamentary control through the National Defense Committee was formally established but limited in practice. Croissant (2011) places South Korea in comparative East Asian context, noting that both structural and agential factors — not just formal institutional design — determine outcomes.
+
+Kuehn and Croissant's (2023) systematic six-case comparison confirms that defense ministry civilianization and parliamentary oversight are the two pillars of successful reform. Spain's early prioritization of defense ministry restructuring and emphasis on "democratic socialization" of the officer corps proved decisive. The pattern suggests that formal institutional redesign without cultural transformation produces hollow reforms — a warning directly applicable to any post-transition restructuring of Iran's defense establishment.
+
+The central pattern across cases is that civilianizing defense ministry leadership is necessary but insufficient. South Korea removed political generals and prosecuted coup leaders, yet internal bureaucratic structures preserved military decision-making dominance for decades. The information asymmetry between civilian appointees and career military officers creates a persistent advantage for uniformed personnel in policy debates. This finding suggests that "civilianization" must be understood as a multi-layered process: removing political control at the top, restructuring career pathways in the middle, and building civilian expertise at the working level. Each layer operates on a different timeline — years for the first, a decade for the second, a generation for the third.
+
+For Iran, the civilianization challenge is compounded by institutional multiplicity. South Korea had one unified military establishment; Iran has at minimum five distinct security bodies (Artesh, IRGC, Basij, MOIS, FARAJA), each requiring its own civilianization process. The IRGC's economic autonomy adds a dimension South Korea never faced — in Seoul, budget control was a viable lever for civilian supremacy because the military depended on state appropriations. The IRGC generates its own revenue through Khatam al-Anbiya and the IRGC Cooperative Foundation, neutralizing this lever.
+
+Furthermore, Iran lacks the external security guarantee that facilitated South Korea's transition. The U.S.-ROK alliance assured the South Korean military that civilian governance would not compromise national defense against North Korea. No equivalent reassurance exists for Iran's military establishment, meaning any civilianization process must simultaneously address both internal restructuring and external security anxieties. The seminary system's role in IRGC officer training adds an ideological layer absent from the Korean case: "democratic socialization" of Iran's officer corps would require engaging not just military academies but the howzeh system that produces ideological legitimacy for the security apparatus.
+
+- Could a phased civilianization approach — starting with the Artesh (which has a more conventional military culture) before addressing the IRGC — create institutional precedents and build civilian expertise incrementally?
+- What role could Iran's military diaspora play in providing civilian defense expertise during a transition, given that pre-1979 officers had Western-style professional training?
+- How would parliamentary oversight of Iran's security sector function given the legacy of approbatory supervision by the Guardian Council, which has historically vetted candidates for ideological loyalty?
+
+| Source | Year | Key Finding |
+|--------|------|-------------|
+| Chung, I.J. | 2009 | Politics as continuation of war in post-Korean War security state |
+| Kim, I. & Kuehn, D. | 2022 | Military domain persists within MND after 30 years of civilian government |
+| Kim, K-J. | 2014 | Parliamentary oversight formally established but limited in practice |
+| Croissant, A. | 2011 | Structural and agential factors both determine civilian control outcomes |
+| Kuehn, D. & Croissant, A. | 2023 | Defense ministry civilianization and parliamentary oversight are twin reform pillars |
+
+## Sources Used
+
+- [The Ministry of National Defence in South Korea: Military dominance despite civilian supremacy?](../sources/0194-the-ministry-of-national-defence-in-south-korea-military-dominance-despite-civil.md)
+- [Reforming civil–military relations](../sources/0228-reforming-civilmilitary-relations.md)
+- [Demilitarizing politics in South Korea: Toward a positive consolidation of civilian supremacy](../sources/0158-demilitarizing-politics-in-south-korea-toward-a-positive-consolidation-of-civili.md)
+- [The Soldier and the State in South Korea: Crafting Democratic Civilian Control of the Military](../sources/0164-the-soldier-and-the-state-in-south-korea-crafting-democratic-civilian-control-of.md)
+- [Civilian Control over the Military in East Asia](../sources/0161-civilian-control-over-the-military-in-east-asia.md)

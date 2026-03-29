@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Abby Innes |
 | **Year** | 2013 |
-| **Category** | Transitional justice |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 212 |
 | **Source** | openalex |
 | **DOI** | [10.1111/jcms.12079](https://doi.org/10.1111/jcms.12079) |

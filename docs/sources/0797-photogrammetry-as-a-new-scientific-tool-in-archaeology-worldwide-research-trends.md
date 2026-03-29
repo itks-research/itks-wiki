@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Carmen Marín‐Buzón, Antonio Pérez-Romero, José Luis López-Castro, Imed Ben Jerbania, Francisco Manzano‐Agugliaro |
 | **Year** | 2021 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 108 |
 | **Source** | openalex |
 | **DOI** | [10.3390/su13095319](https://doi.org/10.3390/su13095319) |

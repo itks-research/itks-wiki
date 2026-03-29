@@ -5,9 +5,9 @@
 | نویسندگان | Sonia Livingstone, Leslie Haddon, Anke Görzig, Kjartan Ólafsson |
 |---|---|
 | **سال** | 2011 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Internet and digital infrastructure as civic space |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 637 |
 
 ## چکیده

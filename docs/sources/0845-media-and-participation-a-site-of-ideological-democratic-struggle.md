@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Nico Carpentier |
 | **Year** | 2011 |
-| **Category** | Transitional justice |
+| **Category** | Media freedom and press institution building |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 564 |
 | **Source** | openalex |
 | **DOI** | [10.26530/oapen_606390](https://doi.org/10.26530/oapen_606390) |

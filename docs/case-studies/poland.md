@@ -1,6 +1,6 @@
 # Poland
 
-**809 sources** across 8 categories
+**812 sources** across 9 categories
 
 ## Civil society development
 *86 sources*
@@ -747,6 +747,13 @@
 - [Economic transition in Poland: the relevance of the Latin-American experience](../sources/4296-economic-transition-in-poland-the-relevance-of-the-latin-american-experience.md) (1995)
 - [Making Lace after Socialism: Creativity, Gender, and the Politics of the Commons](../sources/4297-making-lace-after-socialism-creativity-gender-and-the-politics-of-the-commons.md) (2025)
 - [Delokalizacja produkcji między Niemcami a Polską w procesie integracji europejskiej](../sources/4298-delokalizacja-produkcji-między-niemcami-a-polską-w-procesie-integracji-europejsk.md) (2025)
+
+## Religious freedom and separation of religion from state
+*3 sources*
+
+- [Voters’ Attitudes towards the Separation of Church and State in the Context of the Left–Right Division on the Polish Political Scene](../sources/0770-voters-attitudes-towards-the-separation-of-church-and-state-in-the-context-of-th.md) (2022) | Relevance: 2.0
+- [Proposals for the Separation of Church and State in the Public Debate in Poland During the 7th Term of the Polish Parliament](../sources/0757-proposals-for-the-separation-of-church-and-state-in-the-public-debate-in-poland-.md) (2024) | Relevance: 2.0
+- [Comparative Analysis of Church-State Relations in Poland and Japan](../sources/0771-comparative-analysis-of-church-state-relations-in-poland-and-japan.md) (2023) | Relevance: 2.0
 
 ## Transitional justice
 *91 sources*

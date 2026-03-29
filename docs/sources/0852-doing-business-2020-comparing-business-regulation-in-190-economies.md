@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | World Bank |
 | **Year** | 2019 |
-| **Category** | Transitional justice |
+| **Category** | Trade liberalization and foreign direct investment |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 479 |
 | **Source** | openalex |
 | **DOI** | [10.1596/978-1-4648-1440-2](https://doi.org/10.1596/978-1-4648-1440-2) |

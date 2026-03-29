@@ -5,9 +5,9 @@
 | نویسندگان | Petr Ondruš, František Veselovský, Jan Hloušek |
 |---|---|
 | **سال** | 1997 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Resource curse management |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 10 |
 
 ## چکیده

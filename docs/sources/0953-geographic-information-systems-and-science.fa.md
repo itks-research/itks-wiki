@@ -5,9 +5,9 @@
 | نویسندگان | Rocha, Jorge, Abrantes, Patrícia |
 |---|---|
 | **سال** | 2011 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1695 |
 | **شناسه دیجیتال** | [10.1080/17538947.2011.582276](https://doi.org/10.1080/17538947.2011.582276) |
 

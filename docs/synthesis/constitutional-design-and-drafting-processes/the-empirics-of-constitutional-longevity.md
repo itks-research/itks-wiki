@@ -1,0 +1,34 @@
+# The Empirics of Constitutional Longevity
+
+**Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29 10:16:39
+
+The most significant empirical contribution in the constitutional design literature comes from Ginsburg, Elkins, and Blount's analysis of 935 national constitutions spanning 1789 to 2005. Their central finding reframes the entire field: the median constitutional lifespan is only 19 years. Constitutional design is therefore not about creating permanent documents but about creating documents durable enough to become entrenched through practice and political investment.
+
+Four design variables predict longevity with statistical significance. First, amendment flexibility: constitutions with more accessible amendment procedures survive longer, contradicting the common assumption that rigidity protects constitutional integrity. The mechanism is straightforward. Rigid constitutions force political actors to choose between living with outdated provisions and replacing the entire document, while flexible ones allow incremental adaptation. Second, inclusivity in drafting: constitutions produced by processes that include minority groups, opposition parties, and civil society representatives outlast those drafted by narrow elites. Public ratification adds approximately 8% to survival probability. Third, specificity: more detailed constitutions survive longer than skeletal frameworks, likely because specificity reduces interpretive disputes. Fourth, power distribution: constitutions that distribute authority across multiple institutions demonstrate greater stability than those concentrating it in a single actor.
+
+These findings draw on the broadest dataset ever assembled for constitutional analysis. The implications extend beyond any single country: they suggest that the common instinct to protect a new constitution through rigid entrenchment is precisely backwards. This insight has particular relevance for societies emerging from authoritarian rule, where the temptation to lock in democratic gains through unamendable provisions is strongest.
+
+Two cross-cutting patterns emerge from the longevity data. First, there is a consistent inverse relationship between constitutional rigidity and survival. Countries that designed their constitutions to be nearly unamendable (requiring unanimity or supermajority thresholds above 80%) experienced shorter constitutional lifespans than those with more moderate thresholds (60-67% legislative supermajority plus ratification). Second, the inclusivity effect is multiplicative rather than additive: constitutions that combined broad participation in drafting with public ratification survived significantly longer than those that had only one or the other.
+
+The specificity finding challenges the minimalist school of constitutional design, which holds that constitutions should establish broad principles and leave details to legislation. The empirical evidence suggests the opposite: detailed constitutions that specify institutional roles, enumerate rights, and establish procedures survive longer, likely because they leave less room for powerful actors to reshape the framework through creative interpretation.
+
+These findings have direct operational implications for Iranian constitutional design. Iran's 1979 Constitution, amended in 1989, established a highly rigid framework. The amendment process requires Supreme Leader approval and a referendum, but the more fundamental constraint is the entrenchment of velayat-e faqih as an unamendable principle. The Guardian Council's approbatory supervision (nezarat-e estesvabi) further rigidifies the system by pre-screening candidates and legislation for conformity with the existing constitutional framework.
+
+A future Iranian constitution should incorporate four design principles drawn from the longevity evidence. First, it should be detailed rather than skeletal, specifying institutional roles, rights protections, and dispute resolution mechanisms in concrete terms. Second, it should include an amendment process that is demanding but achievable, perhaps two-thirds of parliament plus regional ratification, rather than near-impossible thresholds. Third, the drafting process itself should be maximally inclusive, with structured participation from ethnic minorities, religious constituencies, the diaspora, and civil society. Fourth, the power architecture should distribute authority across multiple veto points (president or prime minister, parliament, constitutional court, regional councils) rather than concentrating it in any single institution, as the current system concentrates ultimate authority in the Supreme Leader.
+
+- What specific amendment threshold balances adaptability against the risk of majoritarian revision of minority protections in Iran's multi-ethnic context?
+- Does the specificity-longevity correlation hold for constitutions emerging from theocratic systems, where institutional roles are entangled with religious authority?
+- How should a future Iranian constitution handle the tension between detailed specification (which the evidence favors) and the need for creative ambiguity on contested questions like the role of religion?
+
+| Source | Year | Key Finding |
+|--------|------|-------------|
+| Ginsburg, Elkins & Blount | 2009 | Median constitution survives 19 years; inclusivity, flexibility, specificity, and power distribution predict longevity |
+| Ginsburg, Elkins & Melton | 2007 | Constitutional lifespan dataset covering 935 constitutions (1789-2005) |
+| Negretto & Sanchez-Talanquer | 2021 | Constitutions most enhance liberal democracy when they emerge through plural elite agreement |
+| Persson & Tabellini | 2004 | Constitutional rules on government form and electoral system have significant economic effects |
+
+## Sources Used
+
+- [The Lifespan of Written Constitutions](../sources/0023-the-lifespan-of-written-constitutions.md)
+- [Constitutions and Economic Policy](../sources/0007-constitutions-and-economic-policy.md)
+- [Institutions as the Fundamental Cause of Long-Run Growth](../sources/0001-institutions-as-the-fundamental-cause-of-long-run-growth.md)

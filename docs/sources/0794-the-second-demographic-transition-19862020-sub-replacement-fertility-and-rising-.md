@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Ronny Lesthaeghe |
 | **Year** | 2020 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 285 |
 | **Source** | openalex |
 | **DOI** | [10.1186/s41118-020-00077-4](https://doi.org/10.1186/s41118-020-00077-4) |

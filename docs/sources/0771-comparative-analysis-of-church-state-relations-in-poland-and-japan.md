@@ -5,8 +5,8 @@
 | **Authors** | Weiyu Liu |
 | **Year** | 2023 |
 | **Category** | Religious freedom and separation of religion from state |
-| **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Case Study** | Poland |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.54254/2753-7048/24/20230744](https://doi.org/10.54254/2753-7048/24/20230744) |

@@ -6,7 +6,7 @@
 | **Year** | 2021 |
 | **Category** | Transitional justice |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 14 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1180/mgm.2021.57](https://doi.org/10.1180/mgm.2021.57) |

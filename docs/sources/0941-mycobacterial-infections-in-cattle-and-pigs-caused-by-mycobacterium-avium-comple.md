@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | I. Pavlik, L. Mátlová, L. Dvorská, I. Parmova |
 | **Year** | 2018 |
-| **Category** | Transitional justice |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 30 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.17221/5625-VETMED](https://doi.org/10.17221/5625-VETMED) |

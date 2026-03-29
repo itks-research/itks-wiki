@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Sonia Livingstone, Leslie Haddon, Anke Görzig, Kjartan Ólafsson |
 | **Year** | 2011 |
-| **Category** | Transitional justice |
+| **Category** | Internet and digital infrastructure as civic space |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 637 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://eprints.lse.ac.uk/33731/1/Risks%20and%20safety%20on%20the%20internet%28lsero%29.pdf) |

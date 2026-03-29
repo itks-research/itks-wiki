@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | R. Babuka, A. Sujová, V. Kupčák |
 | **Year** | 2020 |
-| **Category** | Transitional justice |
+| **Category** | Resource curse management |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 13 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.3390/f11060681](https://doi.org/10.3390/f11060681) |

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Petr Ondruš, František Veselovský, Jan Hloušek |
 | **Year** | 1997 |
-| **Category** | Transitional justice |
+| **Category** | Resource curse management |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 10 |
 | **Source** | openalex |
 

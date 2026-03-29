@@ -7,7 +7,7 @@
 | **سال** | 2023 |
 | **دسته‌بندی** | Religious freedom and separation of religion from state |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.18070/erciyesiibd.1213140](https://doi.org/10.18070/erciyesiibd.1213140) |
 

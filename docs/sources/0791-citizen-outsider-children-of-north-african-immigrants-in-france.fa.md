@@ -7,7 +7,7 @@
 | **سال** | 2017 |
 | **دسته‌بندی** | Religious freedom and separation of religion from state |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 173 |
 | **شناسه دیجیتال** | [10.1525/luminos.39](https://doi.org/10.1525/luminos.39) |
 

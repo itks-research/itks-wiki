@@ -6,7 +6,7 @@
 | **Year** | 2022 |
 | **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.54561/prj1602217s](https://doi.org/10.54561/prj1602217s) |

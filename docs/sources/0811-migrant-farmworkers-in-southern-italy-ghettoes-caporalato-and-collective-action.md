@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Domenico Perrotta, Devi Sacchetto |
 | **Year** | 2014 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 40 |
 | **Source** | openalex |
 | **DOI** | [10.5281/zenodo.8217299](https://doi.org/10.5281/zenodo.8217299) |

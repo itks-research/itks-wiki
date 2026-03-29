@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Ivan Petrúšek, Aleš Kudrnáč, Alexander Davenport, Ákos Bocskor |
 | **Year** | 2025 |
-| **Category** | Transitional justice |
+| **Category** | Electoral system design and implementation |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.5817/pc2025-2-121](https://doi.org/10.5817/pc2025-2-121) |

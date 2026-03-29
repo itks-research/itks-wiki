@@ -5,9 +5,9 @@
 | نویسندگان | Sonia Livingstone, Peter K. Smith |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Media freedom and press institution building |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 545 |
 | **شناسه دیجیتال** | [10.1111/jcpp.12197](https://doi.org/10.1111/jcpp.12197) |
 

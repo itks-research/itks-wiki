@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | M. Hrabánková, I. Boháčková |
 | **Year** | 2018 |
-| **Category** | Transitional justice |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 16 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.17221/587-AGRICECON](https://doi.org/10.17221/587-AGRICECON) |

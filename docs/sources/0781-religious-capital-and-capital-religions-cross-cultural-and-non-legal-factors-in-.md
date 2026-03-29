@@ -5,8 +5,8 @@
 | **Authors** | J. Demerath |
 | **Year** | 2019 |
 | **Category** | Religious freedom and separation of religion from state |
-| **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Case Study** | Indonesia |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 7 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.4324/9781315193588-8](https://doi.org/10.4324/9781315193588-8) |

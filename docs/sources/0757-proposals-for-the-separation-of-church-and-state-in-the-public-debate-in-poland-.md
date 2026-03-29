@@ -5,8 +5,8 @@
 | **Authors** | Arkadiusz Fordoński |
 | **Year** | 2024 |
 | **Category** | Religious freedom and separation of religion from state |
-| **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Case Study** | Poland |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.15804/athena.2024.84.03](https://doi.org/10.15804/athena.2024.84.03) |

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | J. Přibáň, J. Young |
 | **Year** | 2019 |
-| **Category** | Transitional justice |
+| **Category** | Judicial independence and rule of law |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.4324/9780429431449](https://doi.org/10.4324/9780429431449) |

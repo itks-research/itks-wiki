@@ -5,9 +5,9 @@
 | نویسندگان | Jakub Chini, Martin Kvizda, Ondřej Špetík |
 |---|---|
 | **سال** | 2023 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Electoral system design and implementation |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 2 |
 | **شناسه دیجیتال** | [10.1177/17835917231153063](https://doi.org/10.1177/17835917231153063) |
 

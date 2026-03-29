@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Jiří Malíček, Lukáš Janošík, E. Mikulášková, Z. Palice |
 | **Year** | 2025 |
-| **Category** | Transitional justice |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.33585/cmy.77103](https://doi.org/10.33585/cmy.77103) |

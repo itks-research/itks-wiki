@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Renata Skýpalová |
 | **Year** | 2025 |
-| **Category** | Transitional justice |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.15414/2024.9788055228167.412-420](https://doi.org/10.15414/2024.9788055228167.412-420) |

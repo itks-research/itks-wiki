@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Šárka Kolmašová |
 | **Year** | 2024 |
-| **Category** | Transitional justice |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1080/18918131.2023.2294613](https://doi.org/10.1080/18918131.2023.2294613) |

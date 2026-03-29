@@ -6,7 +6,7 @@
 | **Year** | 2003 |
 | **Category** | Transitional justice |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 85 |
 | **Source** | openalex |
 | **DOI** | [10.1111/j.1747-4469.2003.tb00197.x](https://doi.org/10.1111/j.1747-4469.2003.tb00197.x) |

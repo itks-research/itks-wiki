@@ -5,9 +5,9 @@
 | نویسندگان | David E. Bloom, David Canning, Jaypee Sevilla |
 |---|---|
 | **سال** | 2003 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 4.0 |
 | **تعداد استنادها** | 646 |
 | **شناسه دیجیتال** | [10.7249/mr1274](https://doi.org/10.7249/mr1274) |
 

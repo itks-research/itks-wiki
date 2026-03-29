@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Anatoly V. Kasatkin, Emil Makovicky, Jakub Plášil, Radek Škoda, Atali A. Agakhanov, S. Yu. Stepanov, Р. С. Паламарчук |
 | **Year** | 2020 |
-| **Category** | Transitional justice |
+| **Category** | Resource curse management |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 11 |
 | **Source** | openalex |
 | **DOI** | [10.1180/mgm.2020.48](https://doi.org/10.1180/mgm.2020.48) |

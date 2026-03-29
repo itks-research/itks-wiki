@@ -6,7 +6,7 @@
 | **Year** | 2010 |
 | **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 87 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://pure.au.dk/ws/files/171885768/K_hle_og_Lindekilde_2010_Radicalization_among_young_Muslims_in_Aarhus.pdf) |

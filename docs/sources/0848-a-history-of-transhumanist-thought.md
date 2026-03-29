@@ -6,7 +6,7 @@
 | **Year** | 2005 |
 | **Category** | Transitional justice |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 604 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://ora.ox.ac.uk/objects/uuid:55ab57ec-70d0-4b93-b058-0d7f57167cc2) |

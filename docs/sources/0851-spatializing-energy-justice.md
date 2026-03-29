@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Stefan Bouzarovski, Neil Simcock |
 | **Year** | 2017 |
-| **Category** | Transitional justice |
+| **Category** | Resource curse management |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 486 |
 | **Source** | openalex |
 | **DOI** | [10.1016/j.enpol.2017.03.064](https://doi.org/10.1016/j.enpol.2017.03.064) |

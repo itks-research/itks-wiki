@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | K. Ciahotný, Josef Kahlen |
 | **Year** | 2022 |
-| **Category** | Transitional justice |
+| **Category** | Resource curse management |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.35933/paliva.2022.04.03](https://doi.org/10.35933/paliva.2022.04.03) |

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Jennifer M. Brinkerhoff |
 | **Year** | 2002 |
-| **Category** | Transitional justice |
+| **Category** | Civil society development |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 539 |
 | **Source** | openalex |
 | **DOI** | [10.1002/pad.203](https://doi.org/10.1002/pad.203) |

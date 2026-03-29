@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Ivo Šlosarčík |
 | **Year** | 2010 |
-| **Category** | Transitional justice |
+| **Category** | Constitutional design and drafting processes |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.54648/euro2010001](https://doi.org/10.54648/euro2010001) |

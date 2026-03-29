@@ -6,7 +6,7 @@
 | **Year** | 2019 |
 | **Category** | Transitional justice |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 189 |
 | **Source** | openalex |
 | **DOI** | [10.1016/j.gloenvcha.2019.101958](https://doi.org/10.1016/j.gloenvcha.2019.101958) |

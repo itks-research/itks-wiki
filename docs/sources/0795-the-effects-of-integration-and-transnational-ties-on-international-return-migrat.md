@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Hein de Haas, Tineke Fokkema |
 | **Year** | 2011 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 286 |
 | **Source** | openalex |
 | **DOI** | [10.4054/demres.2011.25.24](https://doi.org/10.4054/demres.2011.25.24) |

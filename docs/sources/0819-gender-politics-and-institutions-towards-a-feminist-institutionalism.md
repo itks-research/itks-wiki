@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Mona Lena Krook, Fiona Mackay |
 | **Year** | 2011 |
-| **Category** | Transitional justice |
+| **Category** | Women's rights codification and gender equality |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 365 |
 | **Source** | openalex |
 

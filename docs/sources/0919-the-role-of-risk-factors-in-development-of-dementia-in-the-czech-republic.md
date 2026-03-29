@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | M. Kučera |
 | **Year** | 2024 |
-| **Category** | Transitional justice |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1002/alz.092375](https://doi.org/10.1002/alz.092375) |

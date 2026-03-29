@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Elliot Grady, Jacqueline MacDonald, Linda Liu, Alex Richman, Ze-Chun Yuan |
 | **Year** | 2016 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Resource curse management |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 946 |
 | **Source** | openalex |
 | **DOI** | [10.1186/s12934-016-0603-7](https://doi.org/10.1186/s12934-016-0603-7) |

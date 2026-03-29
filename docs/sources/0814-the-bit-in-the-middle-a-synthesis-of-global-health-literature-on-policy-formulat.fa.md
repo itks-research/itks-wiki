@@ -5,9 +5,9 @@
 | نویسندگان | David Berlan, Kent Buse, Jeremy Shiffman, Sonja Tanaka |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 50 |
 | **شناسه دیجیتال** | [10.1093/heapol/czu060](https://doi.org/10.1093/heapol/czu060) |
 

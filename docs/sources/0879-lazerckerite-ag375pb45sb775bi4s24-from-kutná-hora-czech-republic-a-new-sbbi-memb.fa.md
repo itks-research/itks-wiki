@@ -5,9 +5,9 @@
 | نویسندگان | R. Pažout, Michal Dušek, J. Sejkora, J. Plášil, G. Ilinca, Z. Dolníček |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 3 |
 | **شناسه دیجیتال** | [10.5194/ejm-36-641-2024](https://doi.org/10.5194/ejm-36-641-2024) |
 

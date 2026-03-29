@@ -2,7 +2,7 @@
 
 <div dir="rtl" markdown>
 
-**637 منبع** در 5 دسته‌بندی
+**638 منبع** در 5 دسته‌بندی
 
 ## Civil-military relations and security sector reform
 *85 منبع*
@@ -374,8 +374,9 @@
 - [A Juridical Review of Constitutional Court Decision No. 18/PUU-V/2007 on the Establishment of Ad Hoc Human Rights Courts in Indonesia](../sources/4951-a-juridical-review-of-constitutional-court-decision-no-18puu-v2007-on-the-establ.fa.md) (2025)
 
 ## Religious freedom and separation of religion from state
-*131 منبع*
+*132 منبع*
 
+- [Religious Capital and Capital Religions: Cross-Cultural and Non-Legal Factors in the Separation of Church and State](../sources/0781-religious-capital-and-capital-religions-cross-cultural-and-non-legal-factors-in-.fa.md) (2019)
 - [Economic Analysis of Social Interactions](../sources/4833-economic-analysis-of-social-interactions.fa.md) (2000)
 - [Field Experiments](../sources/4828-field-experiments.fa.md) (2004)
 - [Optical remotely sensed time series data for land cover classification: A review](../sources/4839-optical-remotely-sensed-time-series-data-for-land-cover-classification-a-review.fa.md) (2016)

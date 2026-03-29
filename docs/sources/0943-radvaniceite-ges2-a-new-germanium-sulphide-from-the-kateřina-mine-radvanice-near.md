@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | J. Sejkora, V. Žáček, R. Škoda, F. Laufek, Z. Dolníček |
 | **Year** | 2022 |
-| **Category** | Transitional justice |
+| **Category** | Resource curse management |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 2 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.3390/min12020222](https://doi.org/10.3390/min12020222) |

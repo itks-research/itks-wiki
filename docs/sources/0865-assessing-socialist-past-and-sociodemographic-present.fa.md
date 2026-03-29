@@ -5,9 +5,9 @@
 | نویسندگان | H. Pleines, Charlotte Cordes, Mareike zum Felde, Ekaterina Paustyan, Michael Rochlitz, Esther Somfalvy |
 |---|---|
 | **سال** | 2024 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Political party formation and pluralism |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.1525/cpcs.2024.2315829](https://doi.org/10.1525/cpcs.2024.2315829) |
 

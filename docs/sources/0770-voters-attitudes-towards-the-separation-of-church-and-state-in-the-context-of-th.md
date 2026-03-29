@@ -5,8 +5,8 @@
 | **Authors** | Łukasz Tomczak, R. Iwański |
 | **Year** | 2022 |
 | **Category** | Religious freedom and separation of religion from state |
-| **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Case Study** | Poland |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.15804/athena.2022.75.03](https://doi.org/10.15804/athena.2022.75.03) |

@@ -6,7 +6,7 @@
 | **Year** | 2008 |
 | **Category** | Transitional justice |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 20 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](https://autopapers.ssrn.com/sol3/papers.cfm?abstract_id=1689283) |

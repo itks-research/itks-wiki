@@ -5,9 +5,9 @@
 | نویسندگان | Domenico Perrotta, Devi Sacchetto |
 |---|---|
 | **سال** | 2014 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 40 |
 | **شناسه دیجیتال** | [10.5281/zenodo.8217299](https://doi.org/10.5281/zenodo.8217299) |
 

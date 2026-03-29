@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Karolína Vozková, P. Teplý |
 | **Year** | 2020 |
-| **Category** | Transitional justice |
+| **Category** | Banking and financial system reform |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.46585/sp28021050](https://doi.org/10.46585/sp28021050) |

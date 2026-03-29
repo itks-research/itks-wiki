@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Carlos Rodríguez‐Navarro, Fulvio Di Lorenzo, Kerstin Elert |
 | **Year** | 2018 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Resource curse management |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 93 |
 | **Source** | openalex |
 | **DOI** | [10.5194/acp-18-10089-2018](https://doi.org/10.5194/acp-18-10089-2018) |

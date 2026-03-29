@@ -6,7 +6,7 @@
 | **Year** | 2019 |
 | **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 18 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.3390/REL10030197](https://doi.org/10.3390/REL10030197) |

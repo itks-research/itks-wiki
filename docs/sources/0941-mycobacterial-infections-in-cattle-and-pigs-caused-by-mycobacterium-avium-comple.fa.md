@@ -5,9 +5,9 @@
 | نویسندگان | I. Pavlik, L. Mátlová, L. Dvorská, I. Parmova |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 30 |
 | **شناسه دیجیتال** | [10.17221/5625-VETMED](https://doi.org/10.17221/5625-VETMED) |
 

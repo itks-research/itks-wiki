@@ -5,9 +5,9 @@
 | نویسندگان | Fernando Baquero, Ana P. Tedim, Teresa M. Coque |
 |---|---|
 | **سال** | 2013 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Resource curse management |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 188 |
 | **شناسه دیجیتال** | [10.3389/fmicb.2013.00015](https://doi.org/10.3389/fmicb.2013.00015) |
 

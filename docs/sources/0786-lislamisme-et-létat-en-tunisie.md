@@ -6,7 +6,7 @@
 | **Year** | 1994 |
 | **Category** | Religious freedom and separation of religion from state |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 1 |
 | **Source** | openalex |
 | **DOI** | [10.3406/homso.1994.2769](https://doi.org/10.3406/homso.1994.2769) |

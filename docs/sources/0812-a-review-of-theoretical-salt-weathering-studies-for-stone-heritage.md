@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Chiaki T. Oguchi, Swe Yu |
 | **Year** | 2021 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 116 |
 | **Source** | openalex |
 | **DOI** | [10.1186/s40645-021-00414-x](https://doi.org/10.1186/s40645-021-00414-x) |

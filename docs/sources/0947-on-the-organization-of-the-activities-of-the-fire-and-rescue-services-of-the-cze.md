@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | I. Fogilev, Vera Nikolaevna Malinovskaya, Sergey Gennadyevich Mironenko, Roman Vladimirovich Androsenko |
 | **Year** | 2022 |
-| **Category** | Transitional justice |
+| **Category** | Electoral system design and implementation |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.25257/tts.2022.4.98.134-143](https://doi.org/10.25257/tts.2022.4.98.134-143) |

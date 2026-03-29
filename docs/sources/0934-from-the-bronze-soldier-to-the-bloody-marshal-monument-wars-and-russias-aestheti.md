@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Aliaksei Kazharski, Andrey Makarychev |
 | **Year** | 2021 |
-| **Category** | Transitional justice |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 7 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1177/08883254211043856](https://doi.org/10.1177/08883254211043856) |

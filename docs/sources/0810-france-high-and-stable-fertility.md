@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Laurent Toulemon, Ariane Pailhé, Clémentine Rossier |
 | **Year** | 2008 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 164 |
 | **Source** | openalex |
 | **DOI** | [10.4054/demres.2008.19.16](https://doi.org/10.4054/demres.2008.19.16) |

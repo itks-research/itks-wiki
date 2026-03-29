@@ -5,9 +5,9 @@
 | نویسندگان | R. Pažout, J. Sejkora, J. Maixner, Michal Dušek, Jaromír Tvrdý |
 |---|---|
 | **سال** | 2015 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 7 |
 | **شناسه دیجیتال** | [10.1180/minmag.2015.079.1.06](https://doi.org/10.1180/minmag.2015.079.1.06) |
 

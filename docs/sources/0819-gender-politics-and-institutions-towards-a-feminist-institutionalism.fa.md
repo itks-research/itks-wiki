@@ -5,9 +5,9 @@
 | نویسندگان | Mona Lena Krook, Fiona Mackay |
 |---|---|
 | **سال** | 2011 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Women's rights codification and gender equality |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 365 |
 
 ## چکیده

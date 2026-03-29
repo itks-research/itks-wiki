@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Elisabetta Gliozzo |
 | **Year** | 2021 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 78 |
 | **Source** | openalex |
 | **DOI** | [10.1007/s12520-021-01402-4](https://doi.org/10.1007/s12520-021-01402-4) |

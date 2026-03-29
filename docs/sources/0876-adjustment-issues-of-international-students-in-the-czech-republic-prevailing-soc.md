@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Ntite Orji Kalu, Tomáš Janík, Martina Kurowski |
 | **Year** | 2025 |
-| **Category** | Transitional justice |
+| **Category** | Education system reform and curriculum modernization |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.5817/cphpj-2024-010](https://doi.org/10.5817/cphpj-2024-010) |

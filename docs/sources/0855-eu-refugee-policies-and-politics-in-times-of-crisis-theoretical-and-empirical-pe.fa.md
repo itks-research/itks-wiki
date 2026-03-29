@@ -5,9 +5,9 @@
 | نویسندگان | Arne Niemann, Natascha Zaun |
 |---|---|
 | **سال** | 2017 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Sanctions unwinding and international reintegration |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 316 |
 | **شناسه دیجیتال** | [10.1111/jcms.12650](https://doi.org/10.1111/jcms.12650) |
 

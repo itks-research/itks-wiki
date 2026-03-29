@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Arne Niemann, Natascha Zaun |
 | **Year** | 2017 |
-| **Category** | Transitional justice |
+| **Category** | Sanctions unwinding and international reintegration |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 316 |
 | **Source** | openalex |
 | **DOI** | [10.1111/jcms.12650](https://doi.org/10.1111/jcms.12650) |

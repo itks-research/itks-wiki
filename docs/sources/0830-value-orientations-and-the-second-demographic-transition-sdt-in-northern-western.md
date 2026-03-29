@@ -6,7 +6,7 @@
 | **Year** | 2004 |
 | **Category** | Transitional justice |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 498 |
 | **Source** | openalex |
 | **DOI** | [10.4054/demres.2004.s3.3](https://doi.org/10.4054/demres.2004.s3.3) |

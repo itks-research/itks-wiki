@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Rafał Miszczuk, Joanna Martyniuk-Placha |
 | **Year** | 2023 |
-| **Category** | Transitional justice |
+| **Category** | Electoral system design and implementation |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.15804/ppsy202380](https://doi.org/10.15804/ppsy202380) |

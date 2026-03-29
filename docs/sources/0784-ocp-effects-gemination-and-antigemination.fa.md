@@ -5,9 +5,9 @@
 | نویسندگان | John J. McCarthy |
 |---|---|
 | **سال** | 1986 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Language policy |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 923 |
 
 ## چکیده

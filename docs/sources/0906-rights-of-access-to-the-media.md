@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | András Sajó, Monroe E. Price |
 | **Year** | 1995 |
-| **Category** | Transitional justice |
+| **Category** | Media freedom and press institution building |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 5 |
 | **Source** | openalex |
 

@@ -5,8 +5,9 @@
 | **Authors** | Dalibor Roháč |
 | **Year** | 2021 |
 | **Category** | Transitional justice |
+| **Secondary Categories** | Political party formation and pluralism, Electoral system design and implementation |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 12 |
 | **Source** | openalex |
 | **DOI** | [10.1080/23745118.2021.1973213](https://doi.org/10.1080/23745118.2021.1973213) |

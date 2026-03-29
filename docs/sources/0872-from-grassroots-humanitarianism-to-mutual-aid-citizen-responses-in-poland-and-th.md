@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Simona Fojtova, Patrice C. McMahon, Hana Waisserova |
 | **Year** | 2025 |
-| **Category** | Transitional justice |
+| **Category** | Civil society development |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.32422/cjir.899](https://doi.org/10.32422/cjir.899) |

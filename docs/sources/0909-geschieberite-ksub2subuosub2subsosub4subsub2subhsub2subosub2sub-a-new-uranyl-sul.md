@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Jakub Plášil, Jan Hloušek, Anatoly V. Kasatkin, Radek Škoda, M. Novák, J. Čejka |
 | **Year** | 2015 |
-| **Category** | Transitional justice |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 19 |
 | **Source** | openalex |
 | **DOI** | [10.1180/minmag.2015.079.1.16](https://doi.org/10.1180/minmag.2015.079.1.16) |

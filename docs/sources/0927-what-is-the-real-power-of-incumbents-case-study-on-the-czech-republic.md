@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Jakub Chini, Martin Kvizda, Ondřej Špetík |
 | **Year** | 2023 |
-| **Category** | Transitional justice |
+| **Category** | Electoral system design and implementation |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 2 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1177/17835917231153063](https://doi.org/10.1177/17835917231153063) |

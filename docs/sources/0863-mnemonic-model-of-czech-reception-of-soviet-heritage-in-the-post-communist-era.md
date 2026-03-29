@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Svitlana Motruk |
 | **Year** | 2025 |
-| **Category** | Transitional justice |
+| **Category** | Cultural heritage preservation during institutional change |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.17721/2518-1270.2025.75.18](https://doi.org/10.17721/2518-1270.2025.75.18) |

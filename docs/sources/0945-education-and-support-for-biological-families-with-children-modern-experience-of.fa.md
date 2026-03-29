@@ -5,9 +5,9 @@
 | نویسندگان | Zhanna Petrochko, O. Denysiuk |
 |---|---|
 | **سال** | 2022 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 1 |
 | **شناسه دیجیتال** | [10.51706/2707-3076-2022-6-16](https://doi.org/10.51706/2707-3076-2022-6-16) |
 

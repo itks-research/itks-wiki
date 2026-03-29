@@ -58,6 +58,11 @@ nav:
     - Chile: case-studies/chile.md
     - Poland: case-studies/poland.md
   - Synthesis Articles:
+    - Dashboard: synthesis/index.md
+    - Civil-military relations and security sector reform: synthesis/civil-military-relations-and-security-sector-reform/index.md
+    - Constitutional design and drafting processes: synthesis/constitutional-design-and-drafting-processes/index.md
+    - Religious freedom and separation of religion from state: synthesis/religious-freedom-and-separation-of-religion-from-state/index.md
+    - Transitional justice: synthesis/transitional-justice/index.md
     - Civil-Military Relations and Security Sector Reform: synthesis/comparative-analysis-civil-military-relations-and-security-sector-reform.md
     - Constitutional Design and Drafting Processes: synthesis/comparative-analysis-constitutional-design-and-drafting-processes.md
     - Religious Freedom and Separation of Religion from State: synthesis/comparative-analysis-religious-freedom-and-separation-of-religion-from-state.md

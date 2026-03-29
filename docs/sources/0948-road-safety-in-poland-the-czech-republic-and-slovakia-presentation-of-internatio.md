@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Jacek Dworzecki |
 | **Year** | 2019 |
-| **Category** | Transitional justice |
+| **Category** | Labor market reform and social safety nets |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.5604/01.3001.0013.6513](https://doi.org/10.5604/01.3001.0013.6513) |

@@ -5,9 +5,9 @@
 | نویسندگان | Elisabetta Gliozzo |
 |---|---|
 | **سال** | 2021 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Cultural heritage preservation during institutional change |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 1.0 |
 | **تعداد استنادها** | 78 |
 | **شناسه دیجیتال** | [10.1007/s12520-021-01402-4](https://doi.org/10.1007/s12520-021-01402-4) |
 

@@ -5,9 +5,9 @@
 | نویسندگان | Nico Carpentier |
 |---|---|
 | **سال** | 2011 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Media freedom and press institution building |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 564 |
 | **شناسه دیجیتال** | [10.26530/oapen_606390](https://doi.org/10.26530/oapen_606390) |
 

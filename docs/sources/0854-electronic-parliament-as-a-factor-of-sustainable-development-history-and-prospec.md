@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Tamara Mazur, Spiros Flogaitis |
 | **Year** | 2023 |
-| **Category** | Transitional justice |
+| **Category** | Electoral system design and implementation |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 2 |
 | **Source** | openalex |
 | **DOI** | [10.56215/naia-chasopis/2.2023.19](https://doi.org/10.56215/naia-chasopis/2.2023.19) |

@@ -5,9 +5,9 @@
 | نویسندگان | Molly Greene |
 |---|---|
 | **سال** | 2002 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Trade liberalization and foreign direct investment |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 89 |
 | **شناسه دیجیتال** | [10.1093/past/174.1.42](https://doi.org/10.1093/past/174.1.42) |
 

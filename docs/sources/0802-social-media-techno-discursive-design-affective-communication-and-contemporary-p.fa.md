@@ -5,9 +5,9 @@
 | نویسندگان | Majid KhosraviNik |
 |---|---|
 | **سال** | 2018 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Media freedom and press institution building |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 102 |
 | **شناسه دیجیتال** | [10.1007/s40647-018-0226-y](https://doi.org/10.1007/s40647-018-0226-y) |
 

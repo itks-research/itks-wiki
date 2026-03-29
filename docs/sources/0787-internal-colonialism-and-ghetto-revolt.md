@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Robert Blauner |
 | **Year** | 1969 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Civil society development |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 413 |
 | **Source** | openalex |
 | **DOI** | [10.2307/799949](https://doi.org/10.2307/799949) |

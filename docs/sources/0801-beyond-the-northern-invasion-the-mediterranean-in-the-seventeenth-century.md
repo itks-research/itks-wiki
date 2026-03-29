@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Molly Greene |
 | **Year** | 2002 |
-| **Category** | Religious freedom and separation of religion from state |
+| **Category** | Trade liberalization and foreign direct investment |
 | **Case Study** | Tunisia |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 89 |
 | **Source** | openalex |
 | **DOI** | [10.1093/past/174.1.42](https://doi.org/10.1093/past/174.1.42) |

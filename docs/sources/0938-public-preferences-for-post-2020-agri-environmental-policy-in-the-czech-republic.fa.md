@@ -5,9 +5,9 @@
 | نویسندگان | I. Grammatikopoulou, T. Badura, Davina Vačkářová |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Labor market reform and social safety nets |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 12 |
 | **شناسه دیجیتال** | [10.1016/j.landusepol.2020.104988](https://doi.org/10.1016/j.landusepol.2020.104988) |
 

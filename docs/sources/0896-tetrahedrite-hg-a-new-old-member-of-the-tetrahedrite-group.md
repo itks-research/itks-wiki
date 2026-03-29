@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Cristian Biagioni, Jiří Sejkora, Silvia Musetti, Dalibor Velebil, Marco Pasero |
 | **Year** | 2020 |
-| **Category** | Transitional justice |
+| **Category** | Resource curse management |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 1.0 |
 | **Citation Count** | 26 |
 | **Source** | openalex |
 | **DOI** | [10.1180/mgm.2020.36](https://doi.org/10.1180/mgm.2020.36) |

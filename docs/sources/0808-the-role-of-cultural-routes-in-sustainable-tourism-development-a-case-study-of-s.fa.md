@@ -5,9 +5,9 @@
 | نویسندگان | Bashar Dayoub, Peifeng Yang, Alaa Dayoub, Sarah Omran, He Li |
 |---|---|
 | **سال** | 2020 |
-| **دسته‌بندی** | Religious freedom and separation of religion from state |
+| **دسته‌بندی** | Education system reform and curriculum modernization |
 | **مطالعه موردی** | Tunisia |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 2.0 |
 | **تعداد استنادها** | 46 |
 | **شناسه دیجیتال** | [10.18280/ijsdp.150610](https://doi.org/10.18280/ijsdp.150610) |
 

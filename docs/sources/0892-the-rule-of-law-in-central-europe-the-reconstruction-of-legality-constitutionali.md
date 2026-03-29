@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Jiří Přibáň, Jim Young |
 | **Year** | 2019 |
-| **Category** | Transitional justice |
+| **Category** | Judicial independence and rule of law |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 10 |
 | **Source** | openalex |
 | **Full Text** | [Open Access](http://ci.nii.ac.jp/ncid/BA45081530) |

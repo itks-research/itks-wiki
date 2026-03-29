@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Gary Marks, Liesbet Hooghe, Moira Nelson, Erica Edwards |
 | **Year** | 2006 |
-| **Category** | Transitional justice |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 604 |
 | **Source** | openalex |
 | **DOI** | [10.1177/0010414005281932](https://doi.org/10.1177/0010414005281932) |

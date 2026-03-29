@@ -5,9 +5,9 @@
 | نویسندگان | Simona Fojtova, Patrice C. McMahon, Hana Waisserova |
 |---|---|
 | **سال** | 2025 |
-| **دسته‌بندی** | Transitional justice |
+| **دسته‌بندی** | Civil society development |
 | **مطالعه موردی** | Czech Republic |
-| **امتیاز ارتباط** | در انتظار |
+| **امتیاز ارتباط** | 3.0 |
 | **تعداد استنادها** | 0 |
 | **شناسه دیجیتال** | [10.32422/cjir.899](https://doi.org/10.32422/cjir.899) |
 

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Andrew Kerner |
 | **Year** | 2009 |
-| **Category** | Transitional justice |
+| **Category** | Trade liberalization and foreign direct investment |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 3.0 |
 | **Citation Count** | 265 |
 | **Source** | openalex |
 | **DOI** | [10.1111/j.1468-2478.2008.01524.x](https://doi.org/10.1111/j.1468-2478.2008.01524.x) |

@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Ákos Róna‐Tas, David S. Mason, James R. Kluegel, Ludmilla Khakulina, Petr Matějů, Antal Örkény, Alexander Stoyanov, Bernd Wegener |
 | **Year** | 2002 |
-| **Category** | Transitional justice |
+| **Category** | Political party formation and pluralism |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 4.0 |
 | **Citation Count** | 48 |
 | **Source** | openalex |
 | **DOI** | [10.2307/3089066](https://doi.org/10.2307/3089066) |

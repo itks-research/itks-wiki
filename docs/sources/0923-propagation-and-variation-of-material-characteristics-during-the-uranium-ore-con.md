@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Z. Varga, A. Nicholl, M. Wallenius, K. Mayer, Todd Mock |
 | **Year** | 2023 |
-| **Category** | Transitional justice |
+| **Category** | Resource curse management |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 1 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.1007/s10967-023-08781-z](https://doi.org/10.1007/s10967-023-08781-z) |

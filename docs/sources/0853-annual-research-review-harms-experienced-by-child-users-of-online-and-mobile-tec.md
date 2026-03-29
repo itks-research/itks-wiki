@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Sonia Livingstone, Peter K. Smith |
 | **Year** | 2014 |
-| **Category** | Transitional justice |
+| **Category** | Media freedom and press institution building |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 545 |
 | **Source** | openalex |
 | **DOI** | [10.1111/jcpp.12197](https://doi.org/10.1111/jcpp.12197) |

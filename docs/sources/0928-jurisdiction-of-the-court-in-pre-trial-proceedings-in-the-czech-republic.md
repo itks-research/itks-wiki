@@ -4,9 +4,9 @@
 |-------|-------|
 | **Authors** | Denisa Coufalová |
 | **Year** | 2023 |
-| **Category** | Transitional justice |
+| **Category** | Judicial independence and rule of law |
 | **Case Study** | Czech Republic |
-| **Relevance Score** | Pending |
+| **Relevance Score** | 2.0 |
 | **Citation Count** | 0 |
 | **Source** | semantic_scholar |
 | **DOI** | [10.62874/afi.2023.2.01](https://doi.org/10.62874/afi.2023.2.01) |
