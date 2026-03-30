@@ -8,9 +8,9 @@ An autonomous research system mapping development pathways relevant to Iran's fu
 
 ## Explore
 
-<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap:16px; margin-bottom:24px;" markdown>
+<div class="card-grid" markdown>
 
-<div style="border:1px solid #ddd; border-radius:8px; padding:16px; text-align:center;" markdown>
+<div class="card" style="text-align:center;" markdown>
 
 **[Research Findings](synthesis/index.md)**
 
@@ -18,7 +18,7 @@ An autonomous research system mapping development pathways relevant to Iran's fu
 
 </div>
 
-<div style="border:1px solid #ddd; border-radius:8px; padding:16px; text-align:center;" markdown>
+<div class="card" style="text-align:center;" markdown>
 
 **[Case Studies](case-studies/iran.md)**
 
@@ -26,7 +26,7 @@ An autonomous research system mapping development pathways relevant to Iran's fu
 
 </div>
 
-<div style="border:1px solid #ddd; border-radius:8px; padding:16px; text-align:center;" markdown>
+<div class="card" style="text-align:center;" markdown>
 
 **[Source Explorer](explorer.md)**
 
@@ -34,7 +34,7 @@ Search & filter all 5,099 sources
 
 </div>
 
-<div style="border:1px solid #ddd; border-radius:8px; padding:16px; text-align:center;" markdown>
+<div class="card" style="text-align:center;" markdown>
 
 **[Knowledge Graph](graph.md)**
 

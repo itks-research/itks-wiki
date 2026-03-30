@@ -2,79 +2,57 @@
 
 Browse, search, and filter all indexed academic sources in the Iran Development Knowledge System.
 
-<div id="explorer-app" markdown>
+<div id="explorer-app">
 
-<div id="explorer-loading" style="text-align:center; padding:40px; color:#666;">
+<div id="explorer-loading" style="text-align:center; padding:40px;">
   Loading sources...
 </div>
 
 <div id="explorer-ui" style="display:none;">
 
-<!-- Filter bar -->
-<div id="filters" style="display:flex; flex-wrap:wrap; gap:8px; margin-bottom:16px; align-items:center;">
-  <input type="text" id="search-input" placeholder="Search by title, author, keyword..."
-    style="flex:1; min-width:200px; padding:8px 12px; border:1px solid #ccc; border-radius:4px; font-size:14px;" />
-  <select id="filter-case-study" style="padding:8px; border:1px solid #ccc; border-radius:4px;">
+<div id="filters">
+  <input type="text" id="search-input" placeholder="Search by title, author, keyword..." style="flex:1; min-width:200px;" />
+  <select id="filter-case-study">
     <option value="">All Case Studies</option>
   </select>
-  <select id="filter-category" style="padding:8px; border:1px solid #ccc; border-radius:4px;">
+  <select id="filter-category">
     <option value="">All Categories</option>
   </select>
-  <select id="filter-relevance" style="padding:8px; border:1px solid #ccc; border-radius:4px;">
+  <select id="filter-relevance">
     <option value="">Min Relevance</option>
     <option value="3">&#8805; 3</option>
     <option value="4">&#8805; 4</option>
     <option value="5">5 only</option>
   </select>
-  <select id="filter-reliability" style="padding:8px; border:1px solid #ccc; border-radius:4px;">
+  <select id="filter-reliability">
     <option value="">Min Reliability</option>
     <option value="3">&#8805; 3</option>
     <option value="4">&#8805; 4</option>
   </select>
 </div>
 
-<div id="result-info" style="margin-bottom:12px; font-size:14px; color:#666;"></div>
+<div id="result-info"></div>
 
-<!-- Results table -->
 <div style="overflow-x:auto;">
-<table id="source-table" style="width:100%; border-collapse:collapse; font-size:14px;">
+<table id="source-table">
   <thead>
-    <tr style="background:#f5f5f5; cursor:pointer;">
-      <th data-sort="title" style="padding:10px 8px; text-align:start; border-bottom:2px solid #ddd;">Title &#x25B4;&#x25BE;</th>
-      <th data-sort="year" style="padding:10px 8px; text-align:start; border-bottom:2px solid #ddd; white-space:nowrap;">Year &#x25B4;&#x25BE;</th>
-      <th data-sort="case_study" style="padding:10px 8px; text-align:start; border-bottom:2px solid #ddd;">Case Study &#x25B4;&#x25BE;</th>
-      <th data-sort="category" style="padding:10px 8px; text-align:start; border-bottom:2px solid #ddd;">Category &#x25B4;&#x25BE;</th>
-      <th data-sort="relevance_score" style="padding:10px 8px; text-align:start; border-bottom:2px solid #ddd;">Rel &#x25B4;&#x25BE;</th>
-      <th data-sort="citation_count" style="padding:10px 8px; text-align:start; border-bottom:2px solid #ddd;">Cites &#x25B4;&#x25BE;</th>
+    <tr>
+      <th data-sort="title">Title &#x25B4;&#x25BE;</th>
+      <th data-sort="year" style="white-space:nowrap;">Year &#x25B4;&#x25BE;</th>
+      <th data-sort="case_study">Case Study &#x25B4;&#x25BE;</th>
+      <th data-sort="category">Category &#x25B4;&#x25BE;</th>
+      <th data-sort="relevance_score">Rel &#x25B4;&#x25BE;</th>
+      <th data-sort="citation_count">Cites &#x25B4;&#x25BE;</th>
     </tr>
   </thead>
   <tbody id="source-body"></tbody>
 </table>
 </div>
 
-<!-- Pagination -->
 <div id="pagination" style="display:flex; justify-content:center; gap:4px; margin-top:16px; flex-wrap:wrap;"></div>
 
-</div><!-- explorer-ui -->
-</div><!-- explorer-app -->
-
-<style>
-#source-table tbody tr.source-row { cursor: pointer; transition: background 0.15s; }
-#source-table tbody tr.source-row:hover { background: #f0f7ff; }
-#source-table tbody tr.source-row:nth-child(4n+1) { background: #fafafa; }
-#source-table tbody tr.source-row:nth-child(4n+1):hover { background: #f0f7ff; }
-#source-table tbody tr.detail-row { background: #f8f9fa; }
-#source-table tbody tr.detail-row td { padding: 16px 12px; border-bottom: 1px solid #eee; }
-.detail-content { max-width: 800px; }
-.detail-content .meta-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 8px; margin-bottom: 12px; }
-.detail-content .meta-item { font-size: 13px; }
-.detail-content .meta-label { font-weight: 600; color: #555; }
-.detail-content .abstract-text { font-size: 13px; line-height: 1.6; color: #333; margin-top: 8px; }
-.page-btn { padding: 6px 12px; border: 1px solid #ccc; border-radius: 4px; background: white; cursor: pointer; font-size: 13px; }
-.page-btn:hover { background: #e8f0fe; }
-.page-btn.active { background: #1a73e8; color: white; border-color: #1a73e8; }
-.page-btn:disabled { opacity: 0.4; cursor: default; }
-</style>
+</div>
+</div>
 
 <script>
 (function() {
@@ -83,51 +61,25 @@ Browse, search, and filter all indexed academic sources in the Iran Development 
   let filtered = [];
   let currentPage = 1;
   let sortField = 'relevance_score';
-  let sortDir = -1; // descending
+  let sortDir = -1;
 
-  // Detect language
   const isFA = window.location.pathname.includes('/fa/');
 
-  // Labels
   const L = isFA ? {
     loading: '...در حال بارگذاری',
     noResults: '.نتیجه‌ای یافت نشد',
-    showing: 'نمایش',
-    of: 'از',
-    sources: 'منبع',
-    authors: 'نویسندگان',
-    year: 'سال',
-    doi: 'شناسه دیجیتال',
-    venue: 'نشریه',
-    openAccess: 'دسترسی آزاد',
-    viewPaper: 'مشاهده مقاله',
-    relevance: 'ارتباط',
-    reliability: 'اعتبار',
-    citations: 'استنادها',
-    abstract: 'چکیده',
-    allCaseStudies: 'همه مطالعات موردی',
-    allCategories: 'همه دسته‌بندی‌ها',
+    showing: 'نمایش', of: 'از', sources: 'منبع',
+    authors: 'نویسندگان', year: 'سال', doi: 'شناسه دیجیتال',
+    venue: 'نشریه', openAccess: 'دسترسی آزاد', viewPaper: 'مشاهده مقاله',
+    relevance: 'ارتباط', reliability: 'اعتبار', citations: 'استنادها', abstract: 'چکیده',
   } : {
-    loading: 'Loading sources...',
-    noResults: 'No sources match your filters.',
-    showing: 'Showing',
-    of: 'of',
-    sources: 'sources',
-    authors: 'Authors',
-    year: 'Year',
-    doi: 'DOI',
-    venue: 'Venue',
-    openAccess: 'Open Access',
-    viewPaper: 'View Paper',
-    relevance: 'Relevance',
-    reliability: 'Reliability',
-    citations: 'Citations',
-    abstract: 'Abstract',
-    allCaseStudies: 'All Case Studies',
-    allCategories: 'All Categories',
+    loading: 'Loading sources...', noResults: 'No sources match your filters.',
+    showing: 'Showing', of: 'of', sources: 'sources',
+    authors: 'Authors', year: 'Year', doi: 'DOI',
+    venue: 'Venue', openAccess: 'Open Access', viewPaper: 'View Paper',
+    relevance: 'Relevance', reliability: 'Reliability', citations: 'Citations', abstract: 'Abstract',
   };
 
-  // Fetch sources.json
   const basePath = isFA ? '../../data/sources.json' : '../data/sources.json';
   fetch(basePath)
     .then(r => r.json())
@@ -145,58 +97,33 @@ Browse, search, and filter all indexed academic sources in the Iran Development 
 
   function populateDropdowns() {
     const csSet = new Set(), catSet = new Set();
-    allSources.forEach(s => {
-      if (s.case_study) csSet.add(s.case_study);
-      if (s.category) catSet.add(s.category);
-    });
-
+    allSources.forEach(s => { if (s.case_study) csSet.add(s.case_study); if (s.category) catSet.add(s.category); });
     const csSelect = document.getElementById('filter-case-study');
-    [...csSet].sort().forEach(cs => {
-      const count = allSources.filter(s => s.case_study === cs).length;
-      const opt = document.createElement('option');
-      opt.value = cs;
-      opt.textContent = cs + ' (' + count + ')';
-      csSelect.appendChild(opt);
-    });
-
+    [...csSet].sort().forEach(cs => { const o = document.createElement('option'); o.value = cs; o.textContent = cs + ' (' + allSources.filter(s => s.case_study === cs).length + ')'; csSelect.appendChild(o); });
     const catSelect = document.getElementById('filter-category');
-    [...catSet].sort().forEach(cat => {
-      const opt = document.createElement('option');
-      opt.value = cat;
-      opt.textContent = cat;
-      catSelect.appendChild(opt);
-    });
+    [...catSet].sort().forEach(cat => { const o = document.createElement('option'); o.value = cat; o.textContent = cat; catSelect.appendChild(o); });
   }
 
   function readURLParams() {
-    const params = new URLSearchParams(window.location.search);
-    if (params.get('case_study')) document.getElementById('filter-case-study').value = params.get('case_study');
-    if (params.get('category')) document.getElementById('filter-category').value = params.get('category');
-    if (params.get('min_relevance')) document.getElementById('filter-relevance').value = params.get('min_relevance');
-    if (params.get('min_reliability')) document.getElementById('filter-reliability').value = params.get('min_reliability');
-    if (params.get('search')) document.getElementById('search-input').value = params.get('search');
-
-    // If ?id= is set, we'll highlight/expand that source after rendering
-    if (params.get('id')) {
-      window._highlightId = parseInt(params.get('id'));
-    }
+    const p = new URLSearchParams(window.location.search);
+    if (p.get('case_study')) document.getElementById('filter-case-study').value = p.get('case_study');
+    if (p.get('category')) document.getElementById('filter-category').value = p.get('category');
+    if (p.get('min_relevance')) document.getElementById('filter-relevance').value = p.get('min_relevance');
+    if (p.get('min_reliability')) document.getElementById('filter-reliability').value = p.get('min_reliability');
+    if (p.get('search')) document.getElementById('search-input').value = p.get('search');
+    if (p.get('id')) window._highlightId = parseInt(p.get('id'));
   }
 
   function updateURL() {
-    const params = new URLSearchParams();
-    const search = document.getElementById('search-input').value.trim();
-    const cs = document.getElementById('filter-case-study').value;
-    const cat = document.getElementById('filter-category').value;
-    const rel = document.getElementById('filter-relevance').value;
-    const rl = document.getElementById('filter-reliability').value;
-    if (search) params.set('search', search);
-    if (cs) params.set('case_study', cs);
-    if (cat) params.set('category', cat);
-    if (rel) params.set('min_relevance', rel);
-    if (rl) params.set('min_reliability', rl);
-    const qs = params.toString();
-    const newUrl = window.location.pathname + (qs ? '?' + qs : '');
-    history.replaceState(null, '', newUrl);
+    const p = new URLSearchParams();
+    const v = (id) => document.getElementById(id).value;
+    const s = document.getElementById('search-input').value.trim();
+    if (s) p.set('search', s);
+    if (v('filter-case-study')) p.set('case_study', v('filter-case-study'));
+    if (v('filter-category')) p.set('category', v('filter-category'));
+    if (v('filter-relevance')) p.set('min_relevance', v('filter-relevance'));
+    if (v('filter-reliability')) p.set('min_reliability', v('filter-reliability'));
+    history.replaceState(null, '', window.location.pathname + (p.toString() ? '?' + p : ''));
   }
 
   function applyFilters() {
@@ -205,39 +132,17 @@ Browse, search, and filter all indexed academic sources in the Iran Development 
     const cat = document.getElementById('filter-category').value;
     const minRel = parseFloat(document.getElementById('filter-relevance').value) || 0;
     const minRl = parseFloat(document.getElementById('filter-reliability').value) || 0;
-
     filtered = allSources.filter(s => {
       if (cs && s.case_study !== cs) return false;
       if (cat && s.category !== cat) return false;
       if (minRel && (!s.relevance_score || s.relevance_score < minRel)) return false;
       if (minRl && (!s.reliability_score || s.reliability_score < minRl)) return false;
-      if (search) {
-        const haystack = (
-          (s.title || '') + ' ' +
-          (s.authors || []).join(' ') + ' ' +
-          (s.abstract || '') + ' ' +
-          (s.category || '')
-        ).toLowerCase();
-        if (!haystack.includes(search)) return false;
-      }
+      if (search) { const h = ((s.title||'')+' '+(s.authors||[]).join(' ')+' '+(s.abstract||'')+' '+(s.category||'')).toLowerCase(); if (!h.includes(search)) return false; }
       return true;
     });
-
-    sortSources();
-    currentPage = 1;
-
-    // If ?id= param, find the page containing that source
-    if (window._highlightId) {
-      const idx = filtered.findIndex(s => s.id === window._highlightId);
-      if (idx >= 0) {
-        currentPage = Math.floor(idx / PER_PAGE) + 1;
-      }
-    }
-
-    renderTable();
-    renderPagination();
-    updateResultInfo();
-    updateURL();
+    sortSources(); currentPage = 1;
+    if (window._highlightId) { const idx = filtered.findIndex(s => s.id === window._highlightId); if (idx >= 0) currentPage = Math.floor(idx / PER_PAGE) + 1; }
+    renderTable(); renderPagination(); updateResultInfo(); updateURL();
   }
 
   function sortSources() {
@@ -245,11 +150,8 @@ Browse, search, and filter all indexed academic sources in the Iran Development 
       let va = a[sortField], vb = b[sortField];
       if (va == null) va = sortDir > 0 ? Infinity : -Infinity;
       if (vb == null) vb = sortDir > 0 ? Infinity : -Infinity;
-      if (typeof va === 'string') va = va.toLowerCase();
-      if (typeof vb === 'string') vb = vb.toLowerCase();
-      if (va < vb) return -1 * sortDir;
-      if (va > vb) return 1 * sortDir;
-      return 0;
+      if (typeof va === 'string') { va = va.toLowerCase(); vb = (vb||'').toLowerCase(); }
+      return va < vb ? -sortDir : va > vb ? sortDir : 0;
     });
   }
 
@@ -258,174 +160,67 @@ Browse, search, and filter all indexed academic sources in the Iran Development 
     tbody.innerHTML = '';
     const start = (currentPage - 1) * PER_PAGE;
     const page = filtered.slice(start, start + PER_PAGE);
-
-    if (page.length === 0) {
-      tbody.innerHTML = '<tr><td colspan="6" style="padding:20px; text-align:center; color:#999;">' + L.noResults + '</td></tr>';
-      return;
-    }
-
+    if (!page.length) { tbody.innerHTML = '<tr><td colspan="6" style="padding:20px; text-align:center;">' + L.noResults + '</td></tr>'; return; }
     page.forEach(s => {
-      // Main row
-      const tr = document.createElement('tr');
-      tr.className = 'source-row';
-      tr.dataset.id = s.id;
-      tr.innerHTML =
-        '<td style="padding:8px;">' + escHtml(s.title) + '</td>' +
-        '<td style="padding:8px;">' + (s.year || '—') + '</td>' +
-        '<td style="padding:8px;">' + escHtml(s.case_study || '—') + '</td>' +
-        '<td style="padding:8px; font-size:12px;">' + escHtml(s.category || '—') + '</td>' +
-        '<td style="padding:8px;">' + (s.relevance_score ? s.relevance_score.toFixed(1) : '—') + '</td>' +
-        '<td style="padding:8px;">' + (s.citation_count || 0) + '</td>';
-
-      tr.addEventListener('click', function() { toggleDetail(s, tr); });
+      const tr = document.createElement('tr'); tr.className = 'source-row'; tr.dataset.id = s.id;
+      tr.innerHTML = '<td>' + escHtml(s.title) + '</td><td>' + (s.year||'\u2014') + '</td><td>' + escHtml(s.case_study||'\u2014') + '</td><td style="font-size:12px;">' + escHtml(s.category||'\u2014') + '</td><td>' + (s.relevance_score ? s.relevance_score.toFixed(1) : '\u2014') + '</td><td>' + (s.citation_count||0) + '</td>';
+      tr.addEventListener('click', () => toggleDetail(s, tr));
       tbody.appendChild(tr);
     });
-
-    // If highlight ID, auto-expand that row
     if (window._highlightId) {
-      const row = tbody.querySelector('tr[data-id="' + window._highlightId + '"]');
-      if (row) {
-        const src = filtered.find(s => s.id === window._highlightId);
-        if (src) {
-          row.style.background = '#fff3cd';
-          toggleDetail(src, row);
-        }
-      }
-      window._highlightId = null; // Only highlight once
+      const row = tbody.querySelector('tr[data-id="'+window._highlightId+'"]');
+      if (row) { const src = filtered.find(s => s.id === window._highlightId); if (src) { row.style.background = 'var(--itks-hover)'; toggleDetail(src, row); } }
+      window._highlightId = null;
     }
   }
 
   function toggleDetail(source, rowEl) {
-    const existing = rowEl.nextElementSibling;
-    if (existing && existing.classList.contains('detail-row')) {
-      existing.remove();
-      return;
-    }
-    // Remove any other open details
+    const ex = rowEl.nextElementSibling;
+    if (ex && ex.classList.contains('detail-row')) { ex.remove(); return; }
     document.querySelectorAll('.detail-row').forEach(el => el.remove());
-
-    const detailTr = document.createElement('tr');
-    detailTr.className = 'detail-row';
-
-    const abstractText = isFA && source.fa_summary ? source.fa_summary : (source.abstract || 'No abstract available.');
-    const authors = (source.authors || []).join(', ') || 'Unknown';
-
-    let metaHtml = '<div class="detail-content">';
-    metaHtml += '<div class="meta-grid">';
-    metaHtml += '<div class="meta-item"><span class="meta-label">' + L.authors + ':</span> ' + escHtml(authors) + '</div>';
-    metaHtml += '<div class="meta-item"><span class="meta-label">' + L.year + ':</span> ' + (source.year || '—') + '</div>';
-    metaHtml += '<div class="meta-item"><span class="meta-label">' + L.relevance + ':</span> ' + (source.relevance_score ? source.relevance_score.toFixed(1) + '/5' : '—') + '</div>';
-    metaHtml += '<div class="meta-item"><span class="meta-label">' + L.reliability + ':</span> ' + (source.reliability_score ? source.reliability_score.toFixed(1) + '/5' : '—') + '</div>';
-    metaHtml += '<div class="meta-item"><span class="meta-label">' + L.citations + ':</span> ' + (source.citation_count || 0) + '</div>';
-    if (source.venue_name) metaHtml += '<div class="meta-item"><span class="meta-label">' + L.venue + ':</span> ' + escHtml(source.venue_name) + '</div>';
-    metaHtml += '</div>'; // meta-grid
-
-    if (source.doi) {
-      metaHtml += '<div style="margin:8px 0;"><span class="meta-label">' + L.doi + ':</span> <a href="https://doi.org/' + escHtml(source.doi) + '" target="_blank" rel="noopener">' + escHtml(source.doi) + '</a></div>';
-    }
-    if (source.open_access_url) {
-      metaHtml += '<div style="margin:8px 0;"><a href="' + escHtml(source.open_access_url) + '" target="_blank" rel="noopener" style="color:#1a73e8;">' + L.viewPaper + ' (' + L.openAccess + ')</a></div>';
-    }
-
-    metaHtml += '<div style="margin-top:12px;"><span class="meta-label">' + L.abstract + ':</span></div>';
-    metaHtml += '<div class="abstract-text">' + escHtml(abstractText) + '</div>';
-    metaHtml += '</div>'; // detail-content
-
-    const td = document.createElement('td');
-    td.colSpan = 6;
-    td.innerHTML = metaHtml;
-    detailTr.appendChild(td);
-    rowEl.after(detailTr);
+    const tr = document.createElement('tr'); tr.className = 'detail-row';
+    const abs = isFA && source.fa_summary ? source.fa_summary : (source.abstract || 'No abstract available.');
+    const auth = (source.authors||[]).join(', ') || 'Unknown';
+    let h = '<div class="detail-content"><div class="meta-grid">';
+    h += '<div class="meta-item"><span class="meta-label">' + L.authors + ':</span> ' + escHtml(auth) + '</div>';
+    h += '<div class="meta-item"><span class="meta-label">' + L.year + ':</span> ' + (source.year||'\u2014') + '</div>';
+    h += '<div class="meta-item"><span class="meta-label">' + L.relevance + ':</span> ' + (source.relevance_score ? source.relevance_score.toFixed(1)+'/5' : '\u2014') + '</div>';
+    h += '<div class="meta-item"><span class="meta-label">' + L.reliability + ':</span> ' + (source.reliability_score ? source.reliability_score.toFixed(1)+'/5' : '\u2014') + '</div>';
+    h += '<div class="meta-item"><span class="meta-label">' + L.citations + ':</span> ' + (source.citation_count||0) + '</div>';
+    if (source.venue_name) h += '<div class="meta-item"><span class="meta-label">' + L.venue + ':</span> ' + escHtml(source.venue_name) + '</div>';
+    h += '</div>';
+    if (source.doi) h += '<div style="margin:8px 0;"><span class="meta-label">' + L.doi + ':</span> <a href="https://doi.org/' + escHtml(source.doi) + '" target="_blank" rel="noopener">' + escHtml(source.doi) + '</a></div>';
+    if (source.open_access_url) h += '<div style="margin:8px 0;"><a href="' + escHtml(source.open_access_url) + '" target="_blank" rel="noopener">' + L.viewPaper + ' (' + L.openAccess + ')</a></div>';
+    h += '<div style="margin-top:12px;"><span class="meta-label">' + L.abstract + ':</span></div>';
+    h += '<div class="abstract-text">' + escHtml(abs) + '</div></div>';
+    const td = document.createElement('td'); td.colSpan = 6; td.innerHTML = h;
+    tr.appendChild(td); rowEl.after(tr);
   }
 
   function renderPagination() {
-    const totalPages = Math.ceil(filtered.length / PER_PAGE);
-    const container = document.getElementById('pagination');
-    container.innerHTML = '';
-    if (totalPages <= 1) return;
-
-    // Prev
-    const prev = document.createElement('button');
-    prev.className = 'page-btn';
-    prev.textContent = isFA ? 'قبلی' : 'Prev';
-    prev.disabled = currentPage === 1;
-    prev.addEventListener('click', () => { currentPage--; renderTable(); renderPagination(); updateResultInfo(); });
-    container.appendChild(prev);
-
-    // Page numbers (show max 7 pages around current)
-    const start = Math.max(1, currentPage - 3);
-    const end = Math.min(totalPages, currentPage + 3);
-    if (start > 1) { addPageBtn(container, 1); if (start > 2) addEllipsis(container); }
-    for (let i = start; i <= end; i++) addPageBtn(container, i);
-    if (end < totalPages) { if (end < totalPages - 1) addEllipsis(container); addPageBtn(container, totalPages); }
-
-    // Next
-    const next = document.createElement('button');
-    next.className = 'page-btn';
-    next.textContent = isFA ? 'بعدی' : 'Next';
-    next.disabled = currentPage === totalPages;
-    next.addEventListener('click', () => { currentPage++; renderTable(); renderPagination(); updateResultInfo(); });
-    container.appendChild(next);
-  }
-
-  function addPageBtn(container, num) {
-    const btn = document.createElement('button');
-    btn.className = 'page-btn' + (num === currentPage ? ' active' : '');
-    btn.textContent = num;
-    btn.addEventListener('click', () => { currentPage = num; renderTable(); renderPagination(); updateResultInfo(); });
-    container.appendChild(btn);
-  }
-
-  function addEllipsis(container) {
-    const span = document.createElement('span');
-    span.textContent = '...';
-    span.style.padding = '6px 4px';
-    container.appendChild(span);
+    const tp = Math.ceil(filtered.length / PER_PAGE), c = document.getElementById('pagination');
+    c.innerHTML = ''; if (tp <= 1) return;
+    const mkBtn = (txt, pg, dis) => { const b = document.createElement('button'); b.className = 'page-btn' + (pg === currentPage ? ' active' : ''); b.textContent = txt; b.disabled = !!dis; b.addEventListener('click', () => { currentPage = pg; renderTable(); renderPagination(); updateResultInfo(); }); return b; };
+    c.appendChild(mkBtn(isFA ? '\u0642\u0628\u0644\u06CC' : 'Prev', currentPage - 1, currentPage === 1));
+    const s = Math.max(1, currentPage - 3), e = Math.min(tp, currentPage + 3);
+    if (s > 1) { c.appendChild(mkBtn('1', 1)); if (s > 2) { const sp = document.createElement('span'); sp.textContent = '...'; sp.style.padding = '6px 4px'; c.appendChild(sp); } }
+    for (let i = s; i <= e; i++) c.appendChild(mkBtn(i, i));
+    if (e < tp) { if (e < tp - 1) { const sp = document.createElement('span'); sp.textContent = '...'; sp.style.padding = '6px 4px'; c.appendChild(sp); } c.appendChild(mkBtn(tp, tp)); }
+    c.appendChild(mkBtn(isFA ? '\u0628\u0639\u062F\u06CC' : 'Next', currentPage + 1, currentPage === tp));
   }
 
   function updateResultInfo() {
-    const start = (currentPage - 1) * PER_PAGE + 1;
-    const end = Math.min(currentPage * PER_PAGE, filtered.length);
-    const info = document.getElementById('result-info');
-    if (filtered.length === 0) {
-      info.textContent = L.noResults;
-    } else {
-      info.textContent = L.showing + ' ' + start + '–' + end + ' ' + L.of + ' ' + filtered.length + ' ' + L.sources;
-    }
+    const s = (currentPage-1)*PER_PAGE+1, e = Math.min(currentPage*PER_PAGE, filtered.length);
+    document.getElementById('result-info').textContent = !filtered.length ? L.noResults : L.showing+' '+s+'\u2013'+e+' '+L.of+' '+filtered.length+' '+L.sources;
   }
 
-  function escHtml(str) {
-    if (!str) return '';
-    return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-  }
+  function escHtml(s) { return s ? s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;') : ''; }
 
-  // Event listeners
-  let searchTimeout;
-  document.getElementById('search-input').addEventListener('input', function() {
-    clearTimeout(searchTimeout);
-    searchTimeout = setTimeout(applyFilters, 300);
-  });
-  document.getElementById('filter-case-study').addEventListener('change', applyFilters);
-  document.getElementById('filter-category').addEventListener('change', applyFilters);
-  document.getElementById('filter-relevance').addEventListener('change', applyFilters);
-  document.getElementById('filter-reliability').addEventListener('change', applyFilters);
-
-  // Sort by column header
-  document.querySelectorAll('#source-table th[data-sort]').forEach(th => {
-    th.addEventListener('click', function() {
-      const field = this.dataset.sort;
-      if (sortField === field) {
-        sortDir *= -1;
-      } else {
-        sortField = field;
-        sortDir = field === 'title' ? 1 : -1;
-      }
-      sortSources();
-      currentPage = 1;
-      renderTable();
-      renderPagination();
-      updateResultInfo();
-    });
-  });
+  let st; document.getElementById('search-input').addEventListener('input', () => { clearTimeout(st); st = setTimeout(applyFilters, 300); });
+  ['filter-case-study','filter-category','filter-relevance','filter-reliability'].forEach(id => document.getElementById(id).addEventListener('change', applyFilters));
+  document.querySelectorAll('#source-table th[data-sort]').forEach(th => th.addEventListener('click', function() {
+    const f = this.dataset.sort; if (sortField === f) sortDir *= -1; else { sortField = f; sortDir = f === 'title' ? 1 : -1; }
+    sortSources(); currentPage = 1; renderTable(); renderPagination(); updateResultInfo();
+  }));
 })();
 </script>

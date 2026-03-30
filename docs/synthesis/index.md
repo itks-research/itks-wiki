@@ -8,9 +8,9 @@
 
 ## Themes
 
-<div style="display:grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap:12px; margin-bottom:24px;" markdown>
+<div class="card-grid-wide" markdown>
 
-<div style="border:1px solid #ddd; border-radius:8px; padding:12px;" markdown>
+<div class="card" markdown>
 
 **[Civil-military relations and security sector reform](civil-military-relations-and-security-sector-reform/index.md)**
 
@@ -23,7 +23,7 @@
 
 </div>
 
-<div style="border:1px solid #ddd; border-radius:8px; padding:12px;" markdown>
+<div class="card" markdown>
 
 **[Constitutional design and drafting processes](constitutional-design-and-drafting-processes/index.md)**
 
@@ -36,7 +36,7 @@
 
 </div>
 
-<div style="border:1px solid #ddd; border-radius:8px; padding:12px;" markdown>
+<div class="card" markdown>
 
 **Electoral system design and implementation**
 
@@ -46,7 +46,7 @@
 
 </div>
 
-<div style="border:1px solid #ddd; border-radius:8px; padding:12px;" markdown>
+<div class="card" markdown>
 
 **Judicial independence and rule of law**
 
@@ -56,7 +56,7 @@
 
 </div>
 
-<div style="border:1px solid #ddd; border-radius:8px; padding:12px;" markdown>
+<div class="card" markdown>
 
 **Political party formation and pluralism**
 
@@ -66,7 +66,7 @@
 
 </div>
 
-<div style="border:1px solid #ddd; border-radius:8px; padding:12px;" markdown>
+<div class="card" markdown>
 
 **[Transitional justice](transitional-justice/index.md)**
 
@@ -79,7 +79,7 @@
 
 </div>
 
-<div style="border:1px solid #ddd; border-radius:8px; padding:12px;" markdown>
+<div class="card" markdown>
 
 **Privatization and state-owned enterprise restructuring**
 
@@ -89,7 +89,7 @@
 
 </div>
 
-<div style="border:1px solid #ddd; border-radius:8px; padding:12px;" markdown>
+<div class="card" markdown>
 
 **Sanctions unwinding and international reintegration**
 
@@ -99,7 +99,7 @@
 
 </div>
 
-<div style="border:1px solid #ddd; border-radius:8px; padding:12px;" markdown>
+<div class="card" markdown>
 
 **Civil society development**
 
@@ -109,7 +109,7 @@
 
 </div>
 
-<div style="border:1px solid #ddd; border-radius:8px; padding:12px;" markdown>
+<div class="card" markdown>
 
 **Education system reform and curriculum modernization**
 
@@ -119,7 +119,7 @@
 
 </div>
 
-<div style="border:1px solid #ddd; border-radius:8px; padding:12px;" markdown>
+<div class="card" markdown>
 
 **Media freedom and press institution building**
 
@@ -129,7 +129,7 @@
 
 </div>
 
-<div style="border:1px solid #ddd; border-radius:8px; padding:12px;" markdown>
+<div class="card" markdown>
 
 **[Religious freedom and separation of religion from state](religious-freedom-and-separation-of-religion-from-state/index.md)**
 
@@ -142,7 +142,7 @@
 
 </div>
 
-<div style="border:1px solid #ddd; border-radius:8px; padding:12px;" markdown>
+<div class="card" markdown>
 
 **Women's rights codification and gender equality**
 
@@ -152,7 +152,7 @@
 
 </div>
 
-<div style="border:1px solid #ddd; border-radius:8px; padding:12px;" markdown>
+<div class="card" markdown>
 
 **IRGC economic empire and its dismantling**
 

@@ -1,0 +1,517 @@
+/* ==========================================================================
+   ITKS Visual Design System
+   Iranian Editorial — warm parchment, Persian red accents, scholarly serif
+   ========================================================================== */
+
+/* ---------- Design Tokens ---------- */
+:root {
+  /* Palette */
+  --itks-bg:          #f5f0e8;
+  --itks-surface:     #ede7db;
+  --itks-surface-alt: #eae4d8;
+  --itks-text:        #1a1a1a;
+  --itks-text-sec:    #5c5449;
+  --itks-text-muted:  #8a7e72;
+  --itks-accent:      #c23b22;
+  --itks-accent-dark: #a82d18;
+  --itks-border:      #d4cdc0;
+  --itks-border-lt:   #e2dbd0;
+  --itks-hover:       #e8e1d4;
+
+  /* Typography */
+  --itks-font-heading: 'Playfair Display', 'Georgia', serif;
+  --itks-font-body:    'Source Serif 4', 'Georgia', serif;
+  --itks-font-ui:      'Inter', -apple-system, sans-serif;
+
+  /* Material overrides */
+  --md-primary-fg-color:        #1a1a1a;
+  --md-primary-bg-color:        var(--itks-bg);
+  --md-default-bg-color:        var(--itks-bg);
+  --md-default-fg-color:        var(--itks-text);
+  --md-typeset-color:           var(--itks-text);
+  --md-typeset-a-color:         var(--itks-accent);
+  --md-accent-fg-color:         var(--itks-accent);
+  --md-code-bg-color:           var(--itks-surface-alt);
+  --md-footer-bg-color:         #2a2520;
+  --md-footer-fg-color:         #d4cdc0;
+  --md-footer-fg-color--light:  #8a7e72;
+  --md-footer-fg-color--lighter:#5c5449;
+}
+
+/* ---------- Base ---------- */
+body,
+.md-main {
+  background-color: var(--itks-bg);
+}
+
+/* ---------- Header ---------- */
+.md-header {
+  background-color: #2a2520;
+  box-shadow: none;
+  border-bottom: 3px solid var(--itks-accent);
+}
+
+.md-header__title {
+  font-family: var(--itks-font-heading);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+/* Tabs */
+.md-tabs {
+  background-color: #352f29;
+  border-bottom: 1px solid #4a4239;
+}
+
+.md-tabs__link {
+  font-family: var(--itks-font-ui);
+  font-size: 0.78rem;
+  font-weight: 500;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  opacity: 0.7;
+}
+
+.md-tabs__link--active,
+.md-tabs__link:hover {
+  opacity: 1;
+  color: #fff;
+}
+
+.md-tabs__link--active {
+  border-bottom: 2px solid var(--itks-accent);
+}
+
+/* ---------- Sidebar ---------- */
+.md-sidebar {
+  background-color: var(--itks-bg);
+}
+
+.md-nav__link {
+  font-family: var(--itks-font-ui);
+  font-size: 0.82rem;
+  color: var(--itks-text-sec);
+}
+
+.md-nav__link:hover,
+.md-nav__link--active {
+  color: var(--itks-accent);
+}
+
+.md-nav__item--active > .md-nav__link {
+  color: var(--itks-accent);
+  font-weight: 600;
+}
+
+/* ---------- Typography ---------- */
+.md-typeset {
+  font-family: var(--itks-font-body);
+  font-size: 1rem;
+  line-height: 1.75;
+  color: var(--itks-text);
+}
+
+.md-typeset h1 {
+  font-family: var(--itks-font-heading);
+  font-weight: 700;
+  font-size: 2.4rem;
+  letter-spacing: -0.01em;
+  color: var(--itks-text);
+  border-bottom: 2px solid var(--itks-accent);
+  padding-bottom: 0.3em;
+  margin-bottom: 0.8em;
+}
+
+.md-typeset h2 {
+  font-family: var(--itks-font-heading);
+  font-weight: 700;
+  font-size: 1.6rem;
+  color: var(--itks-text);
+  margin-top: 2em;
+  border-bottom: 1px solid var(--itks-border);
+  padding-bottom: 0.25em;
+}
+
+.md-typeset h3 {
+  font-family: var(--itks-font-heading);
+  font-weight: 700;
+  font-size: 1.25rem;
+  color: var(--itks-text-sec);
+  margin-top: 1.5em;
+}
+
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  font-family: var(--itks-font-ui);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 0.9rem;
+  color: var(--itks-text-sec);
+}
+
+/* Links */
+.md-typeset a {
+  color: var(--itks-accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s;
+}
+
+.md-typeset a:hover {
+  color: var(--itks-accent-dark);
+  border-bottom-color: var(--itks-accent-dark);
+}
+
+/* Strong / emphasis */
+.md-typeset strong {
+  color: var(--itks-text);
+  font-weight: 600;
+}
+
+/* ---------- Drop Cap ---------- */
+.md-typeset .md-content > .md-typeset > p:first-of-type::first-letter,
+.md-content__inner > p:first-of-type::first-letter {
+  font-family: var(--itks-font-heading);
+  font-size: 3.5em;
+  float: left;
+  line-height: 0.8;
+  margin-right: 0.08em;
+  margin-top: 0.05em;
+  color: var(--itks-accent);
+  font-weight: 700;
+}
+
+/* ---------- Tables ---------- */
+.md-typeset table:not([class]) {
+  border: 1px solid var(--itks-border);
+  border-radius: 4px;
+  overflow: hidden;
+  font-family: var(--itks-font-ui);
+  font-size: 0.88rem;
+}
+
+.md-typeset table:not([class]) thead {
+  background: var(--itks-surface);
+}
+
+.md-typeset table:not([class]) th {
+  font-weight: 600;
+  color: var(--itks-text-sec);
+  text-transform: uppercase;
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  border-bottom: 2px solid var(--itks-border);
+  padding: 10px 12px;
+}
+
+.md-typeset table:not([class]) td {
+  border-bottom: 1px solid var(--itks-border-lt);
+  padding: 8px 12px;
+  color: var(--itks-text);
+}
+
+.md-typeset table:not([class]) tbody tr:hover {
+  background: var(--itks-hover);
+}
+
+/* ---------- Cards (used in index, synthesis dashboard) ---------- */
+.card {
+  background: var(--itks-surface);
+  border: 1px solid var(--itks-border);
+  border-radius: 6px;
+  padding: 20px;
+  transition: box-shadow 0.2s, border-color 0.2s;
+}
+
+.card:hover {
+  border-color: var(--itks-accent);
+  box-shadow: 0 2px 12px rgba(42, 37, 32, 0.08);
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.card-grid-wide {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 14px;
+  margin-bottom: 24px;
+}
+
+.card p {
+  font-family: var(--itks-font-ui);
+  font-size: 0.85rem;
+  color: var(--itks-text-sec);
+  margin: 4px 0 0;
+}
+
+.card strong a {
+  font-family: var(--itks-font-heading);
+  font-size: 1.05rem;
+}
+
+/* ---------- Explorer overrides ---------- */
+#explorer-app {
+  font-family: var(--itks-font-ui);
+}
+
+#filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 16px;
+  align-items: center;
+}
+
+#filters input,
+#filters select {
+  padding: 8px 12px;
+  border: 1px solid var(--itks-border);
+  border-radius: 4px;
+  font-size: 14px;
+  font-family: var(--itks-font-ui);
+  background: var(--itks-surface);
+  color: var(--itks-text);
+}
+
+#filters input:focus,
+#filters select:focus {
+  outline: none;
+  border-color: var(--itks-accent);
+  box-shadow: 0 0 0 2px rgba(194, 59, 34, 0.15);
+}
+
+#result-info {
+  font-size: 14px;
+  color: var(--itks-text-muted);
+  margin-bottom: 12px;
+}
+
+#source-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+  font-family: var(--itks-font-ui);
+}
+
+#source-table thead tr {
+  background: var(--itks-surface);
+  cursor: pointer;
+}
+
+#source-table th {
+  padding: 10px 8px;
+  text-align: start;
+  border-bottom: 2px solid var(--itks-border);
+  font-weight: 600;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--itks-text-sec);
+}
+
+#source-table tbody tr.source-row {
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+#source-table tbody tr.source-row:hover {
+  background: var(--itks-hover);
+}
+
+#source-table tbody tr.source-row:nth-child(4n+1) {
+  background: rgba(237, 231, 219, 0.5);
+}
+
+#source-table tbody tr.source-row:nth-child(4n+1):hover {
+  background: var(--itks-hover);
+}
+
+#source-table tbody tr.detail-row {
+  background: var(--itks-surface);
+}
+
+#source-table tbody tr.detail-row td {
+  padding: 16px 12px;
+  border-bottom: 1px solid var(--itks-border-lt);
+}
+
+.detail-content {
+  max-width: 800px;
+}
+
+.detail-content .meta-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.detail-content .meta-item {
+  font-size: 13px;
+}
+
+.detail-content .meta-label {
+  font-weight: 600;
+  color: var(--itks-text-sec);
+}
+
+.detail-content .abstract-text {
+  font-family: var(--itks-font-body);
+  font-size: 13px;
+  line-height: 1.65;
+  color: var(--itks-text);
+  margin-top: 8px;
+}
+
+.page-btn {
+  padding: 6px 12px;
+  border: 1px solid var(--itks-border);
+  border-radius: 4px;
+  background: var(--itks-surface);
+  cursor: pointer;
+  font-size: 13px;
+  font-family: var(--itks-font-ui);
+  color: var(--itks-text);
+  transition: all 0.15s;
+}
+
+.page-btn:hover {
+  background: var(--itks-hover);
+  border-color: var(--itks-accent);
+}
+
+.page-btn.active {
+  background: var(--itks-accent);
+  color: #fff;
+  border-color: var(--itks-accent);
+}
+
+.page-btn:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+/* ---------- Graph overrides ---------- */
+#graph-container {
+  background: var(--itks-surface) !important;
+  border-color: var(--itks-border) !important;
+}
+
+#graph-controls button,
+#graph-controls select {
+  background: var(--itks-surface);
+  border-color: var(--itks-border);
+  color: var(--itks-text);
+  font-family: var(--itks-font-ui);
+}
+
+#graph-controls button:hover {
+  background: var(--itks-hover);
+}
+
+#graph-controls button.active {
+  background: var(--itks-accent);
+  color: #fff;
+  border-color: var(--itks-accent);
+}
+
+#graph-tooltip {
+  background: rgba(245, 240, 232, 0.97) !important;
+  border-color: var(--itks-border) !important;
+  font-family: var(--itks-font-ui) !important;
+  box-shadow: 0 4px 16px rgba(42, 37, 32, 0.12) !important;
+}
+
+#graph-tooltip h3 {
+  font-family: var(--itks-font-heading) !important;
+  color: var(--itks-text);
+}
+
+#graph-legend {
+  background: rgba(245, 240, 232, 0.96) !important;
+  border-color: var(--itks-border) !important;
+  font-family: var(--itks-font-ui) !important;
+}
+
+#zoom-hint {
+  background: rgba(245, 240, 232, 0.92) !important;
+  color: var(--itks-text-muted) !important;
+  font-family: var(--itks-font-ui) !important;
+}
+
+/* ---------- Code ---------- */
+.md-typeset code {
+  background: var(--itks-surface-alt);
+  color: var(--itks-text);
+  border: 1px solid var(--itks-border-lt);
+  border-radius: 3px;
+  font-size: 0.88em;
+}
+
+/* ---------- HR / Dividers ---------- */
+.md-typeset hr {
+  border: none;
+  border-top: 1px solid var(--itks-border);
+  margin: 2em 0;
+}
+
+/* ---------- Admonitions ---------- */
+.md-typeset .admonition {
+  border-left-color: var(--itks-accent);
+  background: var(--itks-surface);
+}
+
+/* ---------- Footer ---------- */
+.md-footer {
+  background: #2a2520;
+}
+
+/* ---------- Search (Pagefind) ---------- */
+.pagefind-ui {
+  --pagefind-ui-primary: var(--itks-accent);
+  --pagefind-ui-text: var(--itks-text);
+  --pagefind-ui-background: var(--itks-surface);
+  --pagefind-ui-border: var(--itks-border);
+  --pagefind-ui-tag: var(--itks-surface-alt);
+  --pagefind-ui-font: var(--itks-font-ui);
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+/* ---------- Language Switcher ---------- */
+.md-select__link {
+  font-family: var(--itks-font-ui);
+}
+
+/* ---------- RTL / Farsi ---------- */
+[dir="rtl"] .md-typeset,
+[dir="rtl"] .md-typeset h1,
+[dir="rtl"] .md-typeset h2,
+[dir="rtl"] .md-typeset h3 {
+  font-family: 'Vazirmatn', var(--itks-font-body);
+}
+
+[dir="rtl"] .md-nav__link,
+[dir="rtl"] #explorer-app,
+[dir="rtl"] #filters input,
+[dir="rtl"] #filters select,
+[dir="rtl"] .page-btn,
+[dir="rtl"] #source-table,
+[dir="rtl"] .card p {
+  font-family: 'Vazirmatn', var(--itks-font-ui);
+}
+
+/* ---------- Print / Accessibility ---------- */
+@media print {
+  :root {
+    --itks-bg: #fff;
+    --itks-surface: #fff;
+  }
+}

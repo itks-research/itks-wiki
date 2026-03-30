@@ -6,13 +6,15 @@ theme:
   name: material
   palette:
     - scheme: default
-      primary: blue grey
-      accent: teal
+  font: false
   features:
     - navigation.tabs
     - navigation.sections
     - navigation.expand
   custom_dir: docs/overrides
+
+extra_css:
+  - assets/css/custom.css
 
 plugins:
   - i18n:
