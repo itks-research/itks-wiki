@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Transitional justice](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Transitional justice</a></p>
 
 # Amnesty vs. Accountability: Spain's Forty-Year Lesson
 
@@ -33,18 +33,3 @@ The Spanish experience counsels that some form of structured accountability -- e
 | Mihr (2017) | TJ measures can consolidate regimes in both democratic and authoritarian directions | 440 |
 | Mihr (2018) | Regime consolidation and transitional justice comparative framework | 429 |
 | Hepworth (2023) | Memory activism as advocacy for transitional justice in Spain | 444 |
-
-## Sources Used (10 sources)
-
-- [Justice, Politics, and Memory in the Spanish Transition](../explorer/?id=425)
-- [Transitional or Post-transitional Justice? Recent Developments in the Spanish Case](../explorer/?id=310)
-- [Generational dynamics in Spain: Memory transmission of a turbulent past](../explorer/?id=435)
-- [Determinants of Attitudes Toward Transitional Justice](../explorer/?id=496)
-- [Road to Impunity: The Absence of Transitional Justice Programs in Spain](../explorer/?id=499)
-- [Transitional Justice against the State: Lessons from Spanish Civil Society-Led Forensic Exhumations](../explorer/?id=427)
-- [“Getting off the Tiger”: The Spanish Transitional Model and its Influence on the Democratic Transitions in Argentina and Chile, 1977–1990](../explorer/?id=436)
-- [Regime Consolidation through Transitional Justice in Europe: The Cases of Germany, Spain and Turkey](../explorer/?id=440)
-- [Regime Consolidation and Transitional Justice](../explorer/?id=429)
-- [Memory Activism as Advocacy for Transitional Justice: Memory Laws, Mass Graves and Impunity in Spain](../explorer/?id=444)
-
-[View all sources in Explorer](../explorer/?search=)

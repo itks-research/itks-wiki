@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Privatization and state-owned enterprise restructuring](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Privatization and state-owned enterprise restructuring</a></p>
 
 # Shock Therapy vs. Gradualism: Privatization Lessons from Poland and Czech Republic
 
@@ -35,7 +35,7 @@ Article 44 of Iran's constitution already mandates a mixed economy with state, c
 | 5 | Sęk | 2021 | Tax In History: Polish Tax System In Transition | — |
 | 6 | Meyer, Estrin, Bhaumik & Peng | 2008 | Institutions, resources, and entry strategies in emerging economies | DOI |
 
-## Sources Used (6 sources)
+## Sources (6)
 
 - [Winds of Change: Economic Transition in Central and Eastern Europe](../explorer/?id=4305)
 - [Managing strategically in an interconnected world](../explorer/?id=4273)
@@ -43,5 +43,3 @@ Article 44 of Iran's constitution already mandates a mixed economy with state, c
 - [New Private Enterprises in Three Transitional Contexts: Central Europe, the Former Soviet Union and China](../explorer/?id=4279)
 - [Tax In History: Polish Tax System In Transition To Democracy And Market Economy](../explorer/?id=4255)
 - [Institutions, resources, and entry strategies in emerging economies](../explorer/?id=1054)
-
-[View all sources in Explorer](../explorer/?search=)

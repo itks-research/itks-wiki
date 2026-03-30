@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Constitutional design and drafting processes](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Constitutional design and drafting processes</a></p>
 
 # Tunisia's Quartet Innovation: Civil Society as Constitutional Infrastructure
 
@@ -30,9 +30,3 @@ Third, Ennahda's concessions suggest that Islamist actors can be constructive co
 | Negretto & Sanchez-Talanquer | 2021 | Plural elite agreement produces constitutions that most enhance liberal democracy |
 | Tunisian National Dialogue Quartet | 2015 | Nobel Peace Prize for mediating 2013 constitutional crisis through civil society intervention |
 | Abbiate, Bockenförde & Federico | 2017 | African public participation models in constitution-making provide comparative insights |
-
-## Sources Used (1 sources)
-
-- [The Lifespan of Written Constitutions](../explorer/?id=23)
-
-[View all sources in Explorer](../explorer/?search=)

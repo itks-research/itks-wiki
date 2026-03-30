@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Civil-military relations and security sector reform](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Civil-military relations and security sector reform</a></p>
 
 # Coup-Proofing and Parallel Security Structures
 
@@ -28,12 +28,3 @@ Any transition framework must account for the risk that dismantling the IRGC's p
 | Tamburini, F. | 2018 | Counter-terrorism laws used to control dissidence across Maghreb |
 | Ouedraogo, E. | 2014 | Weak military professionalism persists despite billions in security assistance |
 | Cunningham, J.J. | 2015 | External military aid can weaken sovereignty through foreign leverage |
-
-## Sources Used (4 sources)
-
-- [Coup-Proofing, Military Defection, and the Arab Spring](../explorer/?id=4)
-- [Anti-Terrorism Laws in the Maghreb Countries: The Mirror of a Democratic Transition that Never Was](../explorer/?id=666)
-- [Advancing Military Professionalism in Africa](../explorer/?id=564)
-- [U.S. Military Aid and the Role of Foreign Armies in Civil Politics](../explorer/?id=157)
-
-[View all sources in Explorer](../explorer/?search=)

@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [IRGC economic empire and its dismantling](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">IRGC economic empire and its dismantling</a></p>
 
 # Dismantling the IRGC Economic Empire: Precedents, Pathways, and Pitfalls
 
@@ -38,7 +38,7 @@ The critical variable is whether IRGC commanders and their economic networks can
 | 6 | Shafiei | 2017 | The role of participation in Iran after the shift in urban governance | — |
 | 7 | Damiano | 2015 | How Iran could democratize | — |
 
-## Sources Used (7 sources)
+## Sources (7)
 
 - [Explaining the economic control of Iran by the IRGC](../explorer/?id=2181)
 - [Why Did China’s Rise Succeed and Iran’s Fail? the Political Economy of Development in China and Iran](../explorer/?id=2174)
@@ -47,5 +47,3 @@ The critical variable is whether IRGC commanders and their economic networks can
 - [Governance, Institutional Change and Regional Development](../explorer/?id=2222)
 - [The role of participation in Iran after the shift in urban governance in 1997](../explorer/?id=2233)
 - [How Foreign Aid Can Foster Democratization in Authoritarian Regimes](../explorer/?id=2242)
-
-[View all sources in Explorer](../explorer/?search=)

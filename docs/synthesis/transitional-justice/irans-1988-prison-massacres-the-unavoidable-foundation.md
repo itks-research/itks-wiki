@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Transitional justice](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Transitional justice</a></p>
 
 # Iran's 1988 Prison Massacres: The Unavoidable Foundation
 
@@ -29,13 +29,3 @@ The South Korean prosecution-pardon model suggests a middle path for the 1988 ca
 | Kovras (2014) | Truth recovery and transitional justice; prolonged silence dynamics | 433 |
 | Kovras (2012) | Explaining prolonged silences in transitional justice processes | 431 |
 | Lee & Kim (2024) | Legal closure through retroactive TJ; unconstitutional measures analysis | 52 |
-
-## Sources Used (5 sources)
-
-- [Explaining the Deterrence Effect of Human Rights Prosecutions for Transitional Countries1](../explorer/?id=167)
-- [Transitional or Post-transitional Justice? Recent Developments in the Spanish Case](../explorer/?id=310)
-- [Truth Recovery and Transitional Justice](../explorer/?id=433)
-- [Explaining Prolonged Silences in Transitional Justice](../explorer/?id=431)
-- [Transitional Justice in South Korea : Unconstitutionality and Illegality of Emergency Measures by Dictators](../explorer/?id=52)
-
-[View all sources in Explorer](../explorer/?search=)

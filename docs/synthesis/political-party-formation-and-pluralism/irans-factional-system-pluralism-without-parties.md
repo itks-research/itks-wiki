@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Political party formation and pluralism](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Political party formation and pluralism</a></p>
 
 # Iran's Factional System: Pluralism Without Parties
 
@@ -33,7 +33,7 @@ The approbatory supervision exercised by the Guardian Council has systematically
 | 7 | Slater | 2004 | Indonesia's Accountability Trap: Party Cartels and Presidential Power | — |
 | 8 | Webber | 2006 | A consolidated patrimonial democracy? Democratization in post-Suharto Indonesia | DOI |
 
-## Sources Used (8 sources)
+## Sources (8)
 
 - [The pluralistic momentum in Iran and the future of the reform movement](../explorer/?id=2596)
 - [Corporatism without party: the state, war, and industrial labor in the Islamic Republic of Iran](../explorer/?id=2611)
@@ -43,5 +43,3 @@ The approbatory supervision exercised by the Guardian Council has systematically
 - [South Korea’s Weakly Institutionalized Party System](../explorer/?id=222)
 - [Indonesia's Accountability Trap: Party Cartels and Presidential Power after Democratic Transition](../explorer/?id=1522)
 - [A consolidated patrimonial democracy? Democratization in post-Suharto Indonesia](../explorer/?id=1550)
-
-[View all sources in Explorer](../explorer/?search=)

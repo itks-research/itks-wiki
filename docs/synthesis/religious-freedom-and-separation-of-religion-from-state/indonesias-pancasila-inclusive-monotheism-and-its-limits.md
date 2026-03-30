@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Religious freedom and separation of religion from state](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Religious freedom and separation of religion from state</a></p>
 
 # Indonesia's Pancasila: Inclusive Monotheism and Its Limits
 
@@ -27,14 +27,6 @@ However, Indonesia's experience with "recognized" religions carries a direct war
 | Hefner, R. | 2021 | Indonesia's institutional religious freedom maintained by massive civil society organizations (NU, Muhammadiyah) |
 | Ichwan, M.N. | 2012 | Pancasila as deliberate founding compromise removing Sharia obligation from Jakarta Charter |
 | Demerath, J. | 2019 | Religious capital and non-legal factors shape church-state separation outcomes across cultures |
-
-## Sources Used (3 sources)
-
-- [Islam and Institutional Religious Freedom in Indonesia](../explorer/?id=563)
-- [THE Making OF A Pancasila State:political Debates ON Secularism, Islam AND THE State IN Indonesia](../explorer/?id=727)
-- [Religious Capital and Capital Religions: Cross-Cultural and Non-Legal Factors in the Separation of Church and State](../explorer/?id=781)
-
-[View all sources in Explorer](../explorer/?search=)
 
 ## Related Articles
 

@@ -28,7 +28,7 @@
 - [Why Do Developing Countries Tax So Little?](../explorer/?id=1513) (2014)
 - [Public expenditure management handbook.](../explorer/?id=1563) (1998)
 - [Examining the role of foreign assistance in security sector reforms : the Indonesian case](../explorer/?id=1534) (2003)
-- *...و 46 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Indonesia&category=Civil-military relations and security sector reform))
+- *...و 46 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Indonesia&category=Civil-military%20relations%20and%20security%20sector%20reform))
 
 ### طراحی و تدوین قانون اساسی
 *2 منبع*
@@ -42,7 +42,7 @@
 - [Political Reform in Indonesia after Soeharto](../explorer/?id=1531) (2010)
 - [The Pseudo-Democrat's Dilemma: Why Election Observation Became an International Norm](../explorer/?id=1732) (2021)
 - [The struggle to regain effective government under democracy in Indonesia*](../explorer/?id=1549) (2005)
-- *...و 2 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Indonesia&category=Electoral system design and implementation))
+- *...و 2 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Indonesia&category=Electoral%20system%20design%20and%20implementation))
 
 ### فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری
 *112 منبع*
@@ -50,7 +50,7 @@
 - [Fiscal Decentralization Dilemma in Indonesia: Between Corruption Accountability and Probability at Local Levels](../explorer/?id=4722) (2020)
 - [Fiscal Decentralization, Accountability and Corruption Indication: Evidence from Indonesia](../explorer/?id=4717) (2021)
 - [Decentralization and Fiscal Autonomy at the Subnational Level in Indonesia](../explorer/?id=4708) (2022)
-- *...و 109 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Indonesia&category=Federalism, unitarism, and autonomy models))
+- *...و 109 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Indonesia&category=Federalism%2C%20unitarism%2C%20and%20autonomy%20models))
 
 ### استقلال قضایی و حاکمیت قانون
 *1 منبع*
@@ -63,7 +63,7 @@
 - [Indonesia's Accountability Trap: Party Cartels and Presidential Power after Democratic Transition](../explorer/?id=1522) (2004)
 - [Democratization in Post-Suharto Indonesia](../explorer/?id=1539) (2008)
 - [A consolidated patrimonial democracy? Democratization in post-Suharto Indonesia](../explorer/?id=1550) (2006)
-- *...و 14 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Indonesia&category=Political party formation and pluralism))
+- *...و 14 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Indonesia&category=Political%20party%20formation%20and%20pluralism))
 
 ### سازوکارهای تقسیم قدرت در دوره گذار
 *1 منبع*
@@ -91,7 +91,7 @@
 - [HOW DOES DECENTRALIZED MINIMUM WAGE SETTING AFFECT EMPLOYMENT AND INFORMALITY? THE CASE OF INDONESIA](../explorer/?id=1638) (2011)
 - [Legislating for labour protection: betting on the weak or the strong?](../explorer/?id=1568) (2005)
 - [Understanding the impacts of NPM and proposed solutions to the healthcare system reforms in Indonesia: the case of BPJS](../explorer/?id=1577) (2019)
-- *...و 12 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Indonesia&category=Labor market reform and social safety nets))
+- *...و 12 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Indonesia&category=Labor%20market%20reform%20and%20social%20safety%20nets))
 
 ### خصوصی‌سازی و بازسازی شرکت‌های دولتی
 *7 منبع*
@@ -99,7 +99,7 @@
 - [Employee Participation in Decision-Making: Evidence from a State-Owned Enterprise in Indonesia](../explorer/?id=1978) (2015)
 - [How Financial Performance and State-Owned Enterprise (SOE) Values Are Affected by Good Corporate Governance and Intellectual Capital Perspectives](../explorer/?id=1961) (2021)
 - [Indonesian Corporations, Cronyism, and Corruption](../explorer/?id=1555) (2006)
-- *...و 4 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Indonesia&category=Privatization and state-owned enterprise restructuring))
+- *...و 4 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Indonesia&category=Privatization%20and%20state-owned%20enterprise%20restructuring))
 
 ### مدیریت نفرین منابع طبیعی
 *3 منبع*
@@ -119,7 +119,7 @@
 - [World Development Report 1986](../explorer/?id=1567) (1986)
 - [Growth after the asian crisis : what remains of the east asian model?](../explorer/?id=1100) (2001)
 - [Estimating the Constraints to Agricultural Trade of Developing Countries](../explorer/?id=1590) (2013)
-- *...و 2 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Indonesia&category=Trade liberalization and foreign direct investment))
+- *...و 2 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Indonesia&category=Trade%20liberalization%20and%20foreign%20direct%20investment))
 
 ## اجتماعی و فرهنگی (430 منبع)
 
@@ -140,7 +140,7 @@
 - [Human development and decentralization: The importance of public health expenditure](../explorer/?id=1592) (2022)
 - [LEARNER AUTONOMY IN THE INDONESIAN EFL SETTINGS](../explorer/?id=1653) (2017)
 - [Neo-liberalism and the politics of higher education policy in Indonesia](../explorer/?id=1541) (2015)
-- *...و 13 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Indonesia&category=Education system reform and curriculum modernization))
+- *...و 13 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Indonesia&category=Education%20system%20reform%20and%20curriculum%20modernization))
 
 ### آزادی رسانه و نهادسازی مطبوعاتی
 *1 منبع*
@@ -153,7 +153,7 @@
 - [Corruption, institutions, and economic development](../explorer/?id=4964) (2009)
 - [Democratic Decentralization of Natural Resources: Institutionalizing Popular Participation](../explorer/?id=4865) (2002)
 - [Fields of the Lord: Animism, Christian Minorities, and State Development in Indonesia](../explorer/?id=4907) (2002)
-- *...و 120 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Indonesia&category=Minority rights))
+- *...و 120 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Indonesia&category=Minority%20rights))
 
 ### آزادی مذهبی و جدایی دین از حکومت
 *135 منبع*
@@ -161,7 +161,7 @@
 - [The Corporate Governance Role of the Media](../explorer/?id=4846) (2002)
 - [Water governance in the twentieth-first century](../explorer/?id=4729) (2007)
 - [PARTY CARTELIZATION, INDONESIAN-STYLE: PRESIDENTIAL POWER-SHARING AND THE CONTINGENCY OF DEMOCRATIC OPPOSITION](../explorer/?id=4732) (2018)
-- *...و 132 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Indonesia&category=Religious freedom and separation of religion from state))
+- *...و 132 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Indonesia&category=Religious%20freedom%20and%20separation%20of%20religion%20from%20state))
 
 ### تدوین حقوق زنان و برابری جنسیتی
 *152 منبع*
@@ -169,6 +169,6 @@
 - [Theorizing power in political ecology: the 'where' of power in resource governance projects](../explorer/?id=4984) (2018)
 - [Love Jihad and the Governance of Gender and Intimacy in Hindu Nationalist Statecraft](../explorer/?id=5004) (2021)
 - [Civic Engagement and Democracy in Post-Suharto Indonesia: A Review of Musrenbang, the Kecamatan Development Programme, and Labour Organising](../explorer/?id=4983) (2017)
-- *...و 149 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Indonesia&category=Women's rights codification and gender equality))
+- *...و 149 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Indonesia&category=Women%27s%20rights%20codification%20and%20gender%20equality))
 
 </div>

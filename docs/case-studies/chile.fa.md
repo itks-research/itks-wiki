@@ -50,7 +50,7 @@
 - [Tierra y derechos humanos en Chile: la contrarreforma agraria de la dictadura de Pinochet y las políticas de reparación campesina](../explorer/?id=1384) (2019)
 - [Social Norms and Economic Theory](../explorer/?id=1382) (1989)
 - [Truth Commissions and Transitional Societies](../explorer/?id=1358) (2010)
-- *...و 89 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Chile&category=Transitional justice))
+- *...و 89 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Chile&category=Transitional%20justice))
 
 ## اقتصادی (33 منبع)
 
@@ -65,7 +65,7 @@
 - [[Dependency in Chile. Advances and challenges].](../explorer/?id=1421) (2019)
 - [[General and infant mortality trends in Chile from 1909 to 2017].](../explorer/?id=1405) (2021)
 - [Telemedicina: desafíos para Chile a la luz de la experiencia de Estados Unidos durante la pandemia](../explorer/?id=1419) (2021)
-- *...و 18 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Chile&category=Labor market reform and social safety nets))
+- *...و 18 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Chile&category=Labor%20market%20reform%20and%20social%20safety%20nets))
 
 ### خصوصی‌سازی و بازسازی شرکت‌های دولتی
 *1 منبع*
@@ -78,7 +78,7 @@
 - [The Natural Resource Curse: A Survey](../explorer/?id=1795) (2010)
 - [Petroleum and Political Pacts: The Transition to Democracy in Venezuela](../explorer/?id=1731) (1987)
 - [Sociocultural risks of resource extraction for the low-carbon energy transition: Evidence from the Global South](../explorer/?id=1374) (2024)
-- *...و 5 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Chile&category=Resource curse management))
+- *...و 5 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Chile&category=Resource%20curse%20management))
 
 ### رفع تحریم‌ها و بازادغام بین‌المللی
 *1 منبع*
@@ -104,7 +104,7 @@
 - [Destination Marketing Organizations and destination marketing: A narrative analysis of the literature](../explorer/?id=1459) (2013)
 - [Four billion years of ophiolites reveal secular trends in oceanic crust formation](../explorer/?id=1465) (2014)
 - [[Mental health and stress by acculturation in immigrants from South America in northern Chile].](../explorer/?id=1423) (2016)
-- *...و 9 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Chile&category=Cultural heritage preservation during institutional change))
+- *...و 9 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Chile&category=Cultural%20heritage%20preservation%20during%20institutional%20change))
 
 ### اصلاح نظام آموزشی و نوسازی برنامه درسی
 *6 منبع*
@@ -112,7 +112,7 @@
 - [From Bantu Education to the Fight for Socially Just Education](../explorer/?id=1383) (2013)
 - [[The general self-efficacy scale (GSES): Reevaluation of its reliability and validity evidence in Chile].](../explorer/?id=1397) (2020)
 - [[Effects of the COVID-19 confinement on mental health among higher education students in Chile].](../explorer/?id=1424) (2021)
-- *...و 3 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Chile&category=Education system reform and curriculum modernization))
+- *...و 3 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Chile&category=Education%20system%20reform%20and%20curriculum%20modernization))
 
 ### تدوین حقوق زنان و برابری جنسیتی
 *2 منبع*

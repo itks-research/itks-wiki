@@ -30,7 +30,7 @@ The only Arab Spring country to achieve democratic transition (2011–2014). Its
 - [The 2006 Military Takeover in Fiji : A Coup to End All Coups?](../explorer/?id=567) (2009) | Rel: 4.0
 - [Advancing Military Professionalism in Africa](../explorer/?id=564) (2014) | Rel: 3.0
 - [Anti-Terrorism Laws in the Maghreb Countries: The Mirror of a Democratic Transition that Never Was](../explorer/?id=666) (2018) | Rel: 3.0
-- *...and 1 more* ([view all](../explorer/?case_study=Tunisia&category=Civil-military relations and security sector reform))
+- *...and 1 more* ([view all](../explorer/?case_study=Tunisia&category=Civil-military%20relations%20and%20security%20sector%20reform))
 
 ### Constitutional design and drafting processes
 *75 sources*
@@ -38,7 +38,7 @@ The only Arab Spring country to achieve democratic transition (2011–2014). Its
 - [The Extraordinary Politics of the Tunisian Revolution: The Process of Constitution Making](../explorer/?id=575) (2014) | Rel: 4.0
 - [Algeria versus the Arab Spring](../explorer/?id=542) (2013) | Rel: 4.0
 - [F<scp>amilies</scp>, T<scp>ribes and</scp> C<scp>ities in the</scp> L<scp>ibyan</scp> R<scp>evolution</scp>](../explorer/?id=537) (2011) | Rel: 4.0
-- *...and 72 more* ([view all](../explorer/?case_study=Tunisia&category=Constitutional design and drafting processes))
+- *...and 72 more* ([view all](../explorer/?case_study=Tunisia&category=Constitutional%20design%20and%20drafting%20processes))
 
 ### Electoral system design and implementation
 *4 sources*
@@ -46,7 +46,7 @@ The only Arab Spring country to achieve democratic transition (2011–2014). Its
 - [Arab Uprisings and Armed Forces: Between Openness and Resistance](../explorer/?id=560) (2011) | Rel: 4.0
 - [Playing with Fire. The Muslim Brotherhood and the Egyptian Leviathan](../explorer/?id=562) (2013) | Rel: 4.0
 - [Presidential Term Limits and the African Union](../explorer/?id=711) (2019) | Rel: 4.0
-- *...and 1 more* ([view all](../explorer/?case_study=Tunisia&category=Electoral system design and implementation))
+- *...and 1 more* ([view all](../explorer/?case_study=Tunisia&category=Electoral%20system%20design%20and%20implementation))
 
 ### Federalism, unitarism, and autonomy models
 *3 sources*
@@ -67,7 +67,7 @@ The only Arab Spring country to achieve democratic transition (2011–2014). Its
 - [Democratic Decline in the United States: What Can We Learn from Middle-Income Backsliding?](../explorer/?id=683) (2018) | Rel: 4.0
 - [Democracy without growth: The political ecology of the Indignados movement](../explorer/?id=695) (2015) | Rel: 4.0
 - [Egypt: Background and U.S. Relations](../explorer/?id=541) (2014) | Rel: 4.0
-- *...and 33 more* ([view all](../explorer/?case_study=Tunisia&category=Political party formation and pluralism))
+- *...and 33 more* ([view all](../explorer/?case_study=Tunisia&category=Political%20party%20formation%20and%20pluralism))
 
 ### Transitional justice
 *1 sources*
@@ -87,7 +87,7 @@ The only Arab Spring country to achieve democratic transition (2011–2014). Its
 - [Between the hammer and the anvil : the trade unions and the 2011 Arab uprisings in Morocco and Tunisia](../explorer/?id=646) (2018) | Rel: 4.0
 - [Strategies to achieve a carbon neutral society: a review](../explorer/?id=789) (2022) | Rel: 3.0
 - [Informality](../explorer/?id=1330) (2007) | Rel: 3.0
-- *...and 5 more* ([view all](../explorer/?case_study=Tunisia&category=Labor market reform and social safety nets))
+- *...and 5 more* ([view all](../explorer/?case_study=Tunisia&category=Labor%20market%20reform%20and%20social%20safety%20nets))
 
 ### Privatization and state-owned enterprise restructuring
 *1 sources*
@@ -107,7 +107,7 @@ The only Arab Spring country to achieve democratic transition (2011–2014). Its
 - [Tentative First Steps: An Assessment of the Uruguay Round Agreement on Services](../explorer/?id=1080) (1995) | Rel: 3.0
 - [Integration Processes and Policies in Europe](../explorer/?id=552) (2015) | Rel: 2.0
 - [Beyond the Northern Invasion: The Mediterranean in the Seventeenth Century](../explorer/?id=801) (2002) | Rel: 2.0
-- *...and 1 more* ([view all](../explorer/?case_study=Tunisia&category=Trade liberalization and foreign direct investment))
+- *...and 1 more* ([view all](../explorer/?case_study=Tunisia&category=Trade%20liberalization%20and%20foreign%20direct%20investment))
 
 ## Social & Cultural (131 sources)
 
@@ -117,7 +117,7 @@ The only Arab Spring country to achieve democratic transition (2011–2014). Its
 - [The Role of Civil Society in the Tunisian Democratic Transition](../explorer/?id=589) (2015) | Rel: 4.0
 - [Internal Colonialism and Ghetto Revolt](../explorer/?id=787) (1969) | Rel: 3.0
 - [Grassroots Environmental Activism in an Authoritarian Context: The Trees Movement in Vietnam](../explorer/?id=561) (2017) | Rel: 3.0
-- *...and 3 more* ([view all](../explorer/?case_study=Tunisia&category=Civil society development))
+- *...and 3 more* ([view all](../explorer/?case_study=Tunisia&category=Civil%20society%20development))
 
 ### Cultural heritage preservation during institutional change
 *7 sources*
@@ -125,7 +125,7 @@ The only Arab Spring country to achieve democratic transition (2011–2014). Its
 - [Relational mobility predicts social behaviors in 39 countries and is tied to historical farming and threat](../explorer/?id=746) (2018) | Rel: 2.0
 - [Geography, Islands and Migration in an Era of Global Mobility](../explorer/?id=796) (2009) | Rel: 2.0
 - [The politics of writing in Iran: a history of modern Persian literature](../explorer/?id=698) (2000) | Rel: 2.0
-- *...and 4 more* ([view all](../explorer/?case_study=Tunisia&category=Cultural heritage preservation during institutional change))
+- *...and 4 more* ([view all](../explorer/?case_study=Tunisia&category=Cultural%20heritage%20preservation%20during%20institutional%20change))
 
 ### Education system reform and curriculum modernization
 *12 sources*
@@ -133,7 +133,7 @@ The only Arab Spring country to achieve democratic transition (2011–2014). Its
 - [Reformation of Islamic Thought : A Critical Historical Analysis](../explorer/?id=547) (2006) | Rel: 3.0
 - [The bit in the middle: a synthesis of global health literature on policy formulation and adoption](../explorer/?id=814) (2014) | Rel: 3.0
 - [When Art Is the Weapon: Culture and Resistance Confronting Violence in the Post-Uprisings Arab World](../explorer/?id=702) (2015) | Rel: 3.0
-- *...and 9 more* ([view all](../explorer/?case_study=Tunisia&category=Education system reform and curriculum modernization))
+- *...and 9 more* ([view all](../explorer/?case_study=Tunisia&category=Education%20system%20reform%20and%20curriculum%20modernization))
 
 ### Language policy
 *1 sources*
@@ -146,7 +146,7 @@ The only Arab Spring country to achieve democratic transition (2011–2014). Its
 - [Debating terrorism in a political transition: Journalism and democracy in Tunisia](../explorer/?id=661) (2020) | Rel: 4.0
 - [Polarization & populist backlash in transitioning Tunisia: the role of internet media & media ownership](../explorer/?id=665) (2023) | Rel: 4.0
 - [The democratic transition after 2003 and its impact on the Iraqi media between freedom of expression and political exploitation](../explorer/?id=656) (2026) | Rel: 4.0
-- *...and 2 more* ([view all](../explorer/?case_study=Tunisia&category=Media freedom and press institution building))
+- *...and 2 more* ([view all](../explorer/?case_study=Tunisia&category=Media%20freedom%20and%20press%20institution%20building))
 
 ### Minority rights
 *1 sources*
@@ -159,7 +159,7 @@ The only Arab Spring country to achieve democratic transition (2011–2014). Its
 - [Tax Havens and the Commercialization of State Sovereignty](../explorer/?id=792) (2002) | Rel: 4.0
 - [Rachid Ghannouchi](../explorer/?id=717) (2001) | Rel: 4.0
 - [Missing the Third Wave: Islam, Institutions, and Democracy in the Middle East](../explorer/?id=685) (2011) | Rel: 4.0
-- *...and 89 more* ([view all](../explorer/?case_study=Tunisia&category=Religious freedom and separation of religion from state))
+- *...and 89 more* ([view all](../explorer/?case_study=Tunisia&category=Religious%20freedom%20and%20separation%20of%20religion%20from%20state))
 
 ### Women's rights codification and gender equality
 *7 sources*
@@ -167,7 +167,7 @@ The only Arab Spring country to achieve democratic transition (2011–2014). Its
 - [Democratic Backsliding and the Instrumentalization of Women's Rights in Turkey](../explorer/?id=686) (2021) | Rel: 4.0
 - [Tackling Legal Impediments to Women’s Economic Empowerment](../explorer/?id=554) (2022) | Rel: 3.0
 - [Burning the veil: The Algerian war and the 'emancipation' of Muslim women, 1954–62](../explorer/?id=571) (2010) | Rel: 3.0
-- *...and 4 more* ([view all](../explorer/?case_study=Tunisia&category=Women's rights codification and gender equality))
+- *...and 4 more* ([view all](../explorer/?case_study=Tunisia&category=Women%27s%20rights%20codification%20and%20gender%20equality))
 
 ## Iran-Specific (4 sources)
 

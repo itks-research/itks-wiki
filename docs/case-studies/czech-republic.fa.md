@@ -37,7 +37,7 @@
 - [DEMOCRACY IN REFORMING COLLAPSED COMMUNIST ECONOMIES: BLESSING OR CURSE?](../explorer/?id=1247) (1998)
 - [Electronic parliament as a factor of sustainable development: History and prospects](../explorer/?id=854) (2023)
 - [What is the real power of incumbents? Case study on the Czech Republic](../explorer/?id=927) (2023)
-- *...و 3 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Czech Republic&category=Electoral system design and implementation))
+- *...و 3 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Czech%20Republic&category=Electoral%20system%20design%20and%20implementation))
 
 ### فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری
 *2 منبع*
@@ -51,7 +51,7 @@
 - [The Rule of Law in Central Europe: The Reconstruction of Legality, Constitutionalism and Civil Society in the Post-Communist Countries](../explorer/?id=892) (2019)
 - [The Rule of Law in Central Europe](../explorer/?id=870) (2019)
 - [Security Council Deliberations: The Power of the Better Argument](../explorer/?id=1207) (2003)
-- *...و 1 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Czech Republic&category=Judicial independence and rule of law))
+- *...و 1 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Czech%20Republic&category=Judicial%20independence%20and%20rule%20of%20law))
 
 ### شکل‌گیری احزاب سیاسی و تکثرگرایی
 *8 منبع*
@@ -59,7 +59,7 @@
 - [Marketing Democracy: Changing Opinion about Inequality and Politics in East Central Europe](../explorer/?id=822) (2002)
 - [The politics of social status: economic and cultural roots of the populist right](../explorer/?id=833) (2017)
 - [Party Competition and European Integration in the East and West](../explorer/?id=828) (2006)
-- *...و 5 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Czech Republic&category=Political party formation and pluralism))
+- *...و 5 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Czech%20Republic&category=Political%20party%20formation%20and%20pluralism))
 
 ### عدالت انتقالی
 *89 منبع*
@@ -67,7 +67,7 @@
 - [Energy decisions reframed as justice and ethical concerns](../explorer/?id=834) (2016)
 - [What is Middle Class about the Middle Classes around the World?](../explorer/?id=850) (2008)
 - [Transitions, populism, and democratic decline: evidence from Hungary and the Czech Republic](../explorer/?id=824) (2021)
-- *...و 86 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Czech Republic&category=Transitional justice))
+- *...و 86 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Czech%20Republic&category=Transitional%20justice))
 
 ## اقتصادی (110 منبع)
 
@@ -77,7 +77,7 @@
 - [Financial Integration and Firm Performance: Evidence from Foreign Bank Entry in Emerging Markets](../explorer/?id=1196) (2007)
 - [The Great Divide and Beyond: Financial Architecture in Transition](../explorer/?id=1197) (2002)
 - [Reformed Banks and Corporate Governance in the Czech Republic, 1991-1996](../explorer/?id=1230) (1996)
-- *...و 7 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Czech Republic&category=Banking and financial system reform))
+- *...و 7 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Czech%20Republic&category=Banking%20and%20financial%20system%20reform))
 
 ### اصلاح بازار کار و شبکه‌های حمایت اجتماعی
 *34 منبع*
@@ -85,7 +85,7 @@
 - [The Demographic Dividend: A New Perspective on the Economic Consequences of Population Change](../explorer/?id=843) (2003)
 - [Social Protection and Jobs Responses to COVID-19: A Real-Time Review of Country Measures](../explorer/?id=1202) (2020)
 - [Internet-of-Things (IoT)-Based Smart Agriculture: Toward Making the Fields Talk](../explorer/?id=976) (2019)
-- *...و 31 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Czech Republic&category=Labor market reform and social safety nets))
+- *...و 31 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Czech%20Republic&category=Labor%20market%20reform%20and%20social%20safety%20nets))
 
 ### خصوصی‌سازی و بازسازی شرکت‌های دولتی
 *32 منبع*
@@ -93,7 +93,7 @@
 - [Creating a Market Economy in Eastern Europe: The Case of Poland](../explorer/?id=1007) (1990)
 - [How to Stabilize: Lessons from Post-Communist Countries](../explorer/?id=1241) (1996)
 - [The political economy of 'policy credibility': the new-classical macroeconomics and the remaking of emerging economies](../explorer/?id=1209) (2000)
-- *...و 29 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Czech Republic&category=Privatization and state-owned enterprise restructuring))
+- *...و 29 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Czech%20Republic&category=Privatization%20and%20state-owned%20enterprise%20restructuring))
 
 ### مدیریت نفرین منابع طبیعی
 *11 منبع*
@@ -101,7 +101,7 @@
 - [Using Natural Resources for Development: Why Has It Proven So Difficult?](../explorer/?id=1200) (2016)
 - [Global Carbon Budget 2022](../explorer/?id=839) (2022)
 - [Spatializing energy justice](../explorer/?id=851) (2017)
-- *...و 8 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Czech Republic&category=Resource curse management))
+- *...و 8 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Czech%20Republic&category=Resource%20curse%20management))
 
 ### رفع تحریم‌ها و بازادغام بین‌المللی
 *4 منبع*
@@ -109,7 +109,7 @@
 - [EU Refugee Policies and Politics in Times of Crisis: Theoretical and Empirical Perspectives](../explorer/?id=855) (2017)
 - [Opting Out of the European Union](../explorer/?id=971) (2014)
 - [The EU Water Framework Directive: From great expectations to problems with implementation](../explorer/?id=838) (2016)
-- *...و 1 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Czech Republic&category=Sanctions unwinding and international reintegration))
+- *...و 1 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Czech%20Republic&category=Sanctions%20unwinding%20and%20international%20reintegration))
 
 ### آزادسازی تجارت و سرمایه‌گذاری خارجی
 *19 منبع*
@@ -117,7 +117,7 @@
 - [Does Foreign Direct Investment Increase the Productivity of Domestic Firms? In Search of Spillovers through Backward Linkages](../explorer/?id=1229) (2002)
 - [Much Ado about Nothing? Do Domestic Firms Really Benefit from Foreign Direct Investment?](../explorer/?id=1236) (2004)
 - [Competing for Capital: The Diffusion of Bilateral Investment Treaties, 1960–2000](../explorer/?id=1271) (2006)
-- *...و 16 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Czech Republic&category=Trade liberalization and foreign direct investment))
+- *...و 16 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Czech%20Republic&category=Trade%20liberalization%20and%20foreign%20direct%20investment))
 
 ## اجتماعی و فرهنگی (24 منبع)
 
@@ -134,7 +134,7 @@
 - [Mnemonic Model of Czech Reception of Soviet Heritage in the Post-Communist Era](../explorer/?id=863) (2025)
 - [Geographic information systems and science](../explorer/?id=953) (2011)
 - [SoilTemp: A global database of near‐surface temperature](../explorer/?id=973) (2020)
-- *...و 9 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Czech Republic&category=Cultural heritage preservation during institutional change))
+- *...و 9 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Czech%20Republic&category=Cultural%20heritage%20preservation%20during%20institutional%20change))
 
 ### اصلاح نظام آموزشی و نوسازی برنامه درسی
 *2 منبع*
@@ -148,7 +148,7 @@
 - [Media and Participation: A site of ideological-democratic struggle](../explorer/?id=845) (2011)
 - [My Friends, Editors, Algorithms, and I](../explorer/?id=979) (2018)
 - [The Battle for Truth: Mapping the Network of Information War Experts in the Czech Republic](../explorer/?id=917) (2018)
-- *...و 2 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Czech Republic&category=Media freedom and press institution building))
+- *...و 2 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Czech%20Republic&category=Media%20freedom%20and%20press%20institution%20building))
 
 ### تدوین حقوق زنان و برابری جنسیتی
 *2 منبع*

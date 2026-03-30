@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Transitional justice](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Transitional justice</a></p>
 
 # Does Prosecution Deter? The Kim-Sikkink Evidence and South Korea's Model
 
@@ -28,12 +28,3 @@ This model is particularly relevant for mid-ranking officials in the IRGC, judic
 | Lee & Kim (2024) | TJ as prerequisite for legal closure; analysis of unconstitutional emergency measures | 52 |
 | Aguilar et al. (2011) | Determinants of citizen attitudes toward TJ: experience, ideology, generation | 496 |
 | Botelho (2021) | Constitutional courts shaped transitions through interpretive authority | 432 |
-
-## Sources Used (4 sources)
-
-- [Explaining the Deterrence Effect of Human Rights Prosecutions for Transitional Countries1](../explorer/?id=167)
-- [Transitional Justice in South Korea : Unconstitutionality and Illegality of Emergency Measures by Dictators](../explorer/?id=52)
-- [Determinants of Attitudes Toward Transitional Justice](../explorer/?id=496)
-- [European Constitutional Courts and Transitions to Democracy](../explorer/?id=432)
-
-[View all sources in Explorer](../explorer/?search=)

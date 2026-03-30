@@ -50,7 +50,7 @@ Demonstrates both successful gradual transition (1988–2005) and the risks of c
 - [Tierra y derechos humanos en Chile: la contrarreforma agraria de la dictadura de Pinochet y las políticas de reparación campesina](../explorer/?id=1384) (2019) | Rel: 4.0
 - [Social Norms and Economic Theory](../explorer/?id=1382) (1989) | Rel: 3.0
 - [Truth Commissions and Transitional Societies](../explorer/?id=1358) (2010) | Rel: 3.0
-- *...and 89 more* ([view all](../explorer/?case_study=Chile&category=Transitional justice))
+- *...and 89 more* ([view all](../explorer/?case_study=Chile&category=Transitional%20justice))
 
 ## Economic (33 sources)
 
@@ -65,7 +65,7 @@ Demonstrates both successful gradual transition (1988–2005) and the risks of c
 - [[Dependency in Chile. Advances and challenges].](../explorer/?id=1421) (2019) | Rel: 3.0
 - [[General and infant mortality trends in Chile from 1909 to 2017].](../explorer/?id=1405) (2021) | Rel: 3.0
 - [Telemedicina: desafíos para Chile a la luz de la experiencia de Estados Unidos durante la pandemia](../explorer/?id=1419) (2021) | Rel: 3.0
-- *...and 18 more* ([view all](../explorer/?case_study=Chile&category=Labor market reform and social safety nets))
+- *...and 18 more* ([view all](../explorer/?case_study=Chile&category=Labor%20market%20reform%20and%20social%20safety%20nets))
 
 ### Privatization and state-owned enterprise restructuring
 *1 sources*
@@ -78,7 +78,7 @@ Demonstrates both successful gradual transition (1988–2005) and the risks of c
 - [The Natural Resource Curse: A Survey](../explorer/?id=1795) (2010) | Rel: 3.0
 - [Petroleum and Political Pacts: The Transition to Democracy in Venezuela](../explorer/?id=1731) (1987) | Rel: 3.0
 - [Sociocultural risks of resource extraction for the low-carbon energy transition: Evidence from the Global South](../explorer/?id=1374) (2024) | Rel: 2.0
-- *...and 5 more* ([view all](../explorer/?case_study=Chile&category=Resource curse management))
+- *...and 5 more* ([view all](../explorer/?case_study=Chile&category=Resource%20curse%20management))
 
 ### Sanctions unwinding and international reintegration
 *1 sources*
@@ -104,7 +104,7 @@ Demonstrates both successful gradual transition (1988–2005) and the risks of c
 - [Destination Marketing Organizations and destination marketing: A narrative analysis of the literature](../explorer/?id=1459) (2013) | Rel: 2.0
 - [Four billion years of ophiolites reveal secular trends in oceanic crust formation](../explorer/?id=1465) (2014) | Rel: 2.0
 - [[Mental health and stress by acculturation in immigrants from South America in northern Chile].](../explorer/?id=1423) (2016) | Rel: 2.0
-- *...and 9 more* ([view all](../explorer/?case_study=Chile&category=Cultural heritage preservation during institutional change))
+- *...and 9 more* ([view all](../explorer/?case_study=Chile&category=Cultural%20heritage%20preservation%20during%20institutional%20change))
 
 ### Education system reform and curriculum modernization
 *6 sources*
@@ -112,7 +112,7 @@ Demonstrates both successful gradual transition (1988–2005) and the risks of c
 - [From Bantu Education to the Fight for Socially Just Education](../explorer/?id=1383) (2013) | Rel: 3.0
 - [[The general self-efficacy scale (GSES): Reevaluation of its reliability and validity evidence in Chile].](../explorer/?id=1397) (2020) | Rel: 2.0
 - [[Effects of the COVID-19 confinement on mental health among higher education students in Chile].](../explorer/?id=1424) (2021) | Rel: 2.0
-- *...and 3 more* ([view all](../explorer/?case_study=Chile&category=Education system reform and curriculum modernization))
+- *...and 3 more* ([view all](../explorer/?case_study=Chile&category=Education%20system%20reform%20and%20curriculum%20modernization))
 
 ### Women's rights codification and gender equality
 *2 sources*

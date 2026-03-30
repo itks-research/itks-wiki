@@ -37,7 +37,7 @@ Velvet Revolution (1989) and subsequent lustration provide models for personnel 
 - [DEMOCRACY IN REFORMING COLLAPSED COMMUNIST ECONOMIES: BLESSING OR CURSE?](../explorer/?id=1247) (1998) | Rel: 4.0
 - [Electronic parliament as a factor of sustainable development: History and prospects](../explorer/?id=854) (2023) | Rel: 4.0
 - [What is the real power of incumbents? Case study on the Czech Republic](../explorer/?id=927) (2023) | Rel: 3.0
-- *...and 3 more* ([view all](../explorer/?case_study=Czech Republic&category=Electoral system design and implementation))
+- *...and 3 more* ([view all](../explorer/?case_study=Czech%20Republic&category=Electoral%20system%20design%20and%20implementation))
 
 ### Federalism, unitarism, and autonomy models
 *2 sources*
@@ -51,7 +51,7 @@ Velvet Revolution (1989) and subsequent lustration provide models for personnel 
 - [The Rule of Law in Central Europe: The Reconstruction of Legality, Constitutionalism and Civil Society in the Post-Communist Countries](../explorer/?id=892) (2019) | Rel: 4.0
 - [The Rule of Law in Central Europe](../explorer/?id=870) (2019) | Rel: 4.0
 - [Security Council Deliberations: The Power of the Better Argument](../explorer/?id=1207) (2003) | Rel: 2.0
-- *...and 1 more* ([view all](../explorer/?case_study=Czech Republic&category=Judicial independence and rule of law))
+- *...and 1 more* ([view all](../explorer/?case_study=Czech%20Republic&category=Judicial%20independence%20and%20rule%20of%20law))
 
 ### Political party formation and pluralism
 *8 sources*
@@ -59,7 +59,7 @@ Velvet Revolution (1989) and subsequent lustration provide models for personnel 
 - [Marketing Democracy: Changing Opinion about Inequality and Politics in East Central Europe](../explorer/?id=822) (2002) | Rel: 4.0
 - [The politics of social status: economic and cultural roots of the populist right](../explorer/?id=833) (2017) | Rel: 3.0
 - [Party Competition and European Integration in the East and West](../explorer/?id=828) (2006) | Rel: 3.0
-- *...and 5 more* ([view all](../explorer/?case_study=Czech Republic&category=Political party formation and pluralism))
+- *...and 5 more* ([view all](../explorer/?case_study=Czech%20Republic&category=Political%20party%20formation%20and%20pluralism))
 
 ### Transitional justice
 *89 sources*
@@ -67,7 +67,7 @@ Velvet Revolution (1989) and subsequent lustration provide models for personnel 
 - [Energy decisions reframed as justice and ethical concerns](../explorer/?id=834) (2016) | Rel: 4.0
 - [What is Middle Class about the Middle Classes around the World?](../explorer/?id=850) (2008) | Rel: 4.0
 - [Transitions, populism, and democratic decline: evidence from Hungary and the Czech Republic](../explorer/?id=824) (2021) | Rel: 4.0
-- *...and 86 more* ([view all](../explorer/?case_study=Czech Republic&category=Transitional justice))
+- *...and 86 more* ([view all](../explorer/?case_study=Czech%20Republic&category=Transitional%20justice))
 
 ## Economic (110 sources)
 
@@ -77,7 +77,7 @@ Velvet Revolution (1989) and subsequent lustration provide models for personnel 
 - [Financial Integration and Firm Performance: Evidence from Foreign Bank Entry in Emerging Markets](../explorer/?id=1196) (2007) | Rel: 4.0
 - [The Great Divide and Beyond: Financial Architecture in Transition](../explorer/?id=1197) (2002) | Rel: 4.0
 - [Reformed Banks and Corporate Governance in the Czech Republic, 1991-1996](../explorer/?id=1230) (1996) | Rel: 4.0
-- *...and 7 more* ([view all](../explorer/?case_study=Czech Republic&category=Banking and financial system reform))
+- *...and 7 more* ([view all](../explorer/?case_study=Czech%20Republic&category=Banking%20and%20financial%20system%20reform))
 
 ### Labor market reform and social safety nets
 *34 sources*
@@ -85,7 +85,7 @@ Velvet Revolution (1989) and subsequent lustration provide models for personnel 
 - [The Demographic Dividend: A New Perspective on the Economic Consequences of Population Change](../explorer/?id=843) (2003) | Rel: 4.0
 - [Social Protection and Jobs Responses to COVID-19: A Real-Time Review of Country Measures](../explorer/?id=1202) (2020) | Rel: 4.0
 - [Internet-of-Things (IoT)-Based Smart Agriculture: Toward Making the Fields Talk](../explorer/?id=976) (2019) | Rel: 3.0
-- *...and 31 more* ([view all](../explorer/?case_study=Czech Republic&category=Labor market reform and social safety nets))
+- *...and 31 more* ([view all](../explorer/?case_study=Czech%20Republic&category=Labor%20market%20reform%20and%20social%20safety%20nets))
 
 ### Privatization and state-owned enterprise restructuring
 *32 sources*
@@ -93,7 +93,7 @@ Velvet Revolution (1989) and subsequent lustration provide models for personnel 
 - [Creating a Market Economy in Eastern Europe: The Case of Poland](../explorer/?id=1007) (1990) | Rel: 4.0
 - [How to Stabilize: Lessons from Post-Communist Countries](../explorer/?id=1241) (1996) | Rel: 4.0
 - [The political economy of 'policy credibility': the new-classical macroeconomics and the remaking of emerging economies](../explorer/?id=1209) (2000) | Rel: 4.0
-- *...and 29 more* ([view all](../explorer/?case_study=Czech Republic&category=Privatization and state-owned enterprise restructuring))
+- *...and 29 more* ([view all](../explorer/?case_study=Czech%20Republic&category=Privatization%20and%20state-owned%20enterprise%20restructuring))
 
 ### Resource curse management
 *11 sources*
@@ -101,7 +101,7 @@ Velvet Revolution (1989) and subsequent lustration provide models for personnel 
 - [Using Natural Resources for Development: Why Has It Proven So Difficult?](../explorer/?id=1200) (2016) | Rel: 4.0
 - [Global Carbon Budget 2022](../explorer/?id=839) (2022) | Rel: 2.0
 - [Spatializing energy justice](../explorer/?id=851) (2017) | Rel: 2.0
-- *...and 8 more* ([view all](../explorer/?case_study=Czech Republic&category=Resource curse management))
+- *...and 8 more* ([view all](../explorer/?case_study=Czech%20Republic&category=Resource%20curse%20management))
 
 ### Sanctions unwinding and international reintegration
 *4 sources*
@@ -109,7 +109,7 @@ Velvet Revolution (1989) and subsequent lustration provide models for personnel 
 - [EU Refugee Policies and Politics in Times of Crisis: Theoretical and Empirical Perspectives](../explorer/?id=855) (2017) | Rel: 3.0
 - [Opting Out of the European Union](../explorer/?id=971) (2014) | Rel: 3.0
 - [The EU Water Framework Directive: From great expectations to problems with implementation](../explorer/?id=838) (2016) | Rel: 2.0
-- *...and 1 more* ([view all](../explorer/?case_study=Czech Republic&category=Sanctions unwinding and international reintegration))
+- *...and 1 more* ([view all](../explorer/?case_study=Czech%20Republic&category=Sanctions%20unwinding%20and%20international%20reintegration))
 
 ### Trade liberalization and foreign direct investment
 *19 sources*
@@ -117,7 +117,7 @@ Velvet Revolution (1989) and subsequent lustration provide models for personnel 
 - [Does Foreign Direct Investment Increase the Productivity of Domestic Firms? In Search of Spillovers through Backward Linkages](../explorer/?id=1229) (2002) | Rel: 4.0
 - [Much Ado about Nothing? Do Domestic Firms Really Benefit from Foreign Direct Investment?](../explorer/?id=1236) (2004) | Rel: 4.0
 - [Competing for Capital: The Diffusion of Bilateral Investment Treaties, 1960–2000](../explorer/?id=1271) (2006) | Rel: 4.0
-- *...and 16 more* ([view all](../explorer/?case_study=Czech Republic&category=Trade liberalization and foreign direct investment))
+- *...and 16 more* ([view all](../explorer/?case_study=Czech%20Republic&category=Trade%20liberalization%20and%20foreign%20direct%20investment))
 
 ## Social & Cultural (24 sources)
 
@@ -134,7 +134,7 @@ Velvet Revolution (1989) and subsequent lustration provide models for personnel 
 - [Mnemonic Model of Czech Reception of Soviet Heritage in the Post-Communist Era](../explorer/?id=863) (2025) | Rel: 3.0
 - [Geographic information systems and science](../explorer/?id=953) (2011) | Rel: 2.0
 - [SoilTemp: A global database of near‐surface temperature](../explorer/?id=973) (2020) | Rel: 2.0
-- *...and 9 more* ([view all](../explorer/?case_study=Czech Republic&category=Cultural heritage preservation during institutional change))
+- *...and 9 more* ([view all](../explorer/?case_study=Czech%20Republic&category=Cultural%20heritage%20preservation%20during%20institutional%20change))
 
 ### Education system reform and curriculum modernization
 *2 sources*
@@ -148,7 +148,7 @@ Velvet Revolution (1989) and subsequent lustration provide models for personnel 
 - [Media and Participation: A site of ideological-democratic struggle](../explorer/?id=845) (2011) | Rel: 3.0
 - [My Friends, Editors, Algorithms, and I](../explorer/?id=979) (2018) | Rel: 3.0
 - [The Battle for Truth: Mapping the Network of Information War Experts in the Czech Republic](../explorer/?id=917) (2018) | Rel: 3.0
-- *...and 2 more* ([view all](../explorer/?case_study=Czech Republic&category=Media freedom and press institution building))
+- *...and 2 more* ([view all](../explorer/?case_study=Czech%20Republic&category=Media%20freedom%20and%20press%20institution%20building))
 
 ### Women's rights codification and gender equality
 *2 sources*

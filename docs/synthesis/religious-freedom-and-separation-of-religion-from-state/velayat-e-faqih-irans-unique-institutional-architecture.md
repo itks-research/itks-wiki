@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Religious freedom and separation of religion from state](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Religious freedom and separation of religion from state</a></p>
 
 # Velayat-e Faqih: Iran's Unique Institutional Architecture
 
@@ -28,14 +28,6 @@ This is why comparative literature on constitutional transitions emphasizes extr
 | Jahanbakhsh, F. | 2000 | Religious modernism in Iran (Bazargan to Soroush) provides intellectual resources for separating religion from state power |
 | Szelenyi, I. | 2015 | Weber's domination theory applied to post-ideological state transitions |
 | Sapsford, R. et al. | 2017 | Corruption erodes institutional trust in religious and secular governance alike |
-
-## Sources Used (3 sources)
-
-- [Weber’s theory of domination and post-communist capitalisms](../explorer/?id=2043)
-- [The Rhythmic Beat of the Revolution in Iran](../explorer/?id=2047)
-- [Islam, Democracy and Religious Modernism in Iran (1953-2000): From Bāzargān to Soroush](../explorer/?id=2052)
-
-[View all sources in Explorer](../explorer/?search=)
 
 ## Related Articles
 

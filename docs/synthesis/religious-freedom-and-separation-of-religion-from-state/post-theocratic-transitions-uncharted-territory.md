@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Religious freedom and separation of religion from state](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Religious freedom and separation of religion from state</a></p>
 
 # Post-Theocratic Transitions: Uncharted Territory
 
@@ -27,14 +27,6 @@ The lustration question is acute: Iran's clerical establishment spans hundreds o
 | Souto Paz, J.A. | 2001 | Spain transitioned from confessional state to cooperative pluralist model promoting religious freedom for all faiths |
 | Tarifa, F. & Todhri, F. | 2025 | Albania's democratic transition revived religious freedom after one of the most radical atheist-state experiments |
 | Kulaga, A. | 2025 | Pope John Paul II's religious legacy shaped institutional transition from communism in Eastern Europe |
-
-## Sources Used (3 sources)
-
-- [Perspectives on Religious Freedom in Spain](../explorer/?id=369)
-- [Evoking Huntington: Albania’s Democratic Transition and the Revival of Religious Freedom](../explorer/?id=650)
-- [The Religious Legacy of Pope John Paul II during the Transition from the Communist Era](../explorer/?id=655)
-
-[View all sources in Explorer](../explorer/?search=)
 
 ## Related Articles
 

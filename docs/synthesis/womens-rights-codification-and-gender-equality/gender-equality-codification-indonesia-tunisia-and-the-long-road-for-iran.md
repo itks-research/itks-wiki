@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Women's rights codification and gender equality](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Women's rights codification and gender equality</a></p>
 
 # Gender Equality Codification: Indonesia, Tunisia, and the Long Road for Iran
 
@@ -35,7 +35,7 @@ The seminary system's role adds another layer: in the current system, religious 
 | 5 | Sindre | 2017 | Civic Engagement and Democracy in Post-Suharto Indonesia | DOI |
 | 6 | Nightingale & Ahlborg | 2018 | Theorizing power in political ecology | DOI |
 
-## Sources Used (6 sources)
+## Sources (6)
 
 - [Islamic Politics and Women's Quest for Gender Equality in Iran](../explorer/?id=3305)
 - [‘The perspectives of Iranian Feminists and Women Activists on Gender Equality in Iran’](../explorer/?id=3308)
@@ -43,5 +43,3 @@ The seminary system's role adds another layer: in the current system, religious 
 - [Love Jihad and the Governance of Gender and Intimacy in Hindu Nationalist Statecraft](../explorer/?id=5004)
 - [Civic Engagement and Democracy in Post-Suharto Indonesia: A Review of Musrenbang, the Kecamatan Development Programme, and Labour Organising](../explorer/?id=4983)
 - [Theorizing power in political ecology: the 'where' of power in resource governance projects](../explorer/?id=4984)
-
-[View all sources in Explorer](../explorer/?search=)

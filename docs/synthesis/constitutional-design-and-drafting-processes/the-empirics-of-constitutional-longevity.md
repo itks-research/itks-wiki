@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Constitutional design and drafting processes](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Constitutional design and drafting processes</a></p>
 
 # The Empirics of Constitutional Longevity
 
@@ -28,11 +28,3 @@ A future Iranian constitution should incorporate four design principles drawn fr
 | Ginsburg, Elkins & Melton | 2007 | Constitutional lifespan dataset covering 935 constitutions (1789-2005) |
 | Negretto & Sanchez-Talanquer | 2021 | Constitutions most enhance liberal democracy when they emerge through plural elite agreement |
 | Persson & Tabellini | 2004 | Constitutional rules on government form and electoral system have significant economic effects |
-
-## Sources Used (3 sources)
-
-- [The Lifespan of Written Constitutions](../explorer/?id=23)
-- [Constitutions and Economic Policy](../explorer/?id=7)
-- [Institutions as the Fundamental Cause of Long-Run Growth](../explorer/?id=1)
-
-[View all sources in Explorer](../explorer/?search=)

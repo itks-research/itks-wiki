@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Constitutional design and drafting processes](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Constitutional design and drafting processes</a></p>
 
 # Post-Sovereign Constitution-Making: Arato's Two-Stage Framework for Iran
 
@@ -32,9 +32,3 @@ The velayat-e faqih system presents a challenge without direct precedent in Arat
 | South Africa Constitutional Court | 1996 | Sent first constitutional draft back for revision, demonstrating oversight mechanism's genuine enforcement capacity |
 | Rabb | 2008 | Iraq's 2005 constitution drafted under severe time pressure with Sunni alienation, requiring fundamental renegotiation |
 | Perju | 2015 | Romania's semi-presidential crisis demonstrates risks of power concentration in transitional constitutions |
-
-## Sources Used (1 sources)
-
-- [The Lifespan of Written Constitutions](../explorer/?id=23)
-
-[View all sources in Explorer](../explorer/?search=)

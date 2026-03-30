@@ -30,7 +30,7 @@ Post-communist transition (1989–present) provides evidence on shock therapy vs
 - [The political consequences of the product cycle: industrial history and political outcomes](../explorer/?id=1291) (1979) | Rel: 4.0
 - [Corruption A Review of Contemporary Research](../explorer/?id=1287) (2001) | Rel: 4.0
 - [The state after communism](../explorer/?id=1332) (1999) | Rel: 4.0
-- *...and 33 more* ([view all](../explorer/?case_study=Poland&category=Civil-military relations and security sector reform))
+- *...and 33 more* ([view all](../explorer/?case_study=Poland&category=Civil-military%20relations%20and%20security%20sector%20reform))
 
 ### Constitutional design and drafting processes
 *138 sources*
@@ -38,7 +38,7 @@ Post-communist transition (1989–present) provides evidence on shock therapy vs
 - [Institutional Design In New Democracies: Eastern Europe And Latin America](../explorer/?id=4052) (1996) | Rel: 5.0
 - [Driven to change : the European Union's enlargement viewed from the East](../explorer/?id=4057) (2004) | Rel: 5.0
 - [From Portugal to Poland: The Court of Justice of the European Union as watchdog of judicial independence](../explorer/?id=4059) (2020) | Rel: 5.0
-- *...and 135 more* ([view all](../explorer/?case_study=Poland&category=Constitutional design and drafting processes))
+- *...and 135 more* ([view all](../explorer/?case_study=Poland&category=Constitutional%20design%20and%20drafting%20processes))
 
 ### Electoral system design and implementation
 *134 sources*
@@ -46,7 +46,7 @@ Post-communist transition (1989–present) provides evidence on shock therapy vs
 - [Accounting for Corruption: Economic Structure, Democracy, and Trade](../explorer/?id=4097) (2000) | Rel: 5.0
 - [Developments in Central and East European Politics 2](../explorer/?id=4160) (1998) | Rel: 5.0
 - [Parties and politics in post-1989 Poland](../explorer/?id=4164) (1996) | Rel: 5.0
-- *...and 131 more* ([view all](../explorer/?case_study=Poland&category=Electoral system design and implementation))
+- *...and 131 more* ([view all](../explorer/?case_study=Poland&category=Electoral%20system%20design%20and%20implementation))
 
 ### Federalism, unitarism, and autonomy models
 *1 sources*
@@ -59,7 +59,7 @@ Post-communist transition (1989–present) provides evidence on shock therapy vs
 - [Illiberal Constitutionalism: The Case of Hungary and Poland](../explorer/?id=4330) (2019) | Rel: 5.0
 - [The Politics of Judicial Reform in Eastern Europe](../explorer/?id=4379) (1999) | Rel: 5.0
 - [The Power Knocks at the Courts' Back Door](../explorer/?id=4382) (2009) | Rel: 5.0
-- *...and 75 more* ([view all](../explorer/?case_study=Poland&category=Judicial independence and rule of law))
+- *...and 75 more* ([view all](../explorer/?case_study=Poland&category=Judicial%20independence%20and%20rule%20of%20law))
 
 ### Political party formation and pluralism
 *3 sources*
@@ -79,7 +79,7 @@ Post-communist transition (1989–present) provides evidence on shock therapy vs
 - [The Rule of Law after Communism: Problems and Prospects in East-Central Europe](../explorer/?id=4631) (1999) | Rel: 5.0
 - [A quest for accountability? EU and Member State inquiries into the CIA Rendition and Secret Detention Programme](../explorer/?id=4653) (2015) | Rel: 5.0
 - [Transitional Justice: A Decade of Debate and Experience. (review)](../explorer/?id=4657) (1998) | Rel: 5.0
-- *...and 89 more* ([view all](../explorer/?case_study=Poland&category=Transitional justice))
+- *...and 89 more* ([view all](../explorer/?case_study=Poland&category=Transitional%20justice))
 
 ## Economic (131 sources)
 
@@ -96,7 +96,7 @@ Post-communist transition (1989–present) provides evidence on shock therapy vs
 - [The revenge of the places that don’t matter (and what to do about it)](../explorer/?id=1321) (2017) | Rel: 4.0
 - [The Role of Agriculture in Ensuring Food Security in Developing Countries: Considerations in the Context of the Problem of Sustainable Food Production](../explorer/?id=1338) (2020) | Rel: 3.0
 - [The Soviet social contract and why it failed: welfare policy and workers' politics from Brezhnev to Yeltsin](../explorer/?id=1329) (1994) | Rel: 3.0
-- *...and 10 more* ([view all](../explorer/?case_study=Poland&category=Labor market reform and social safety nets))
+- *...and 10 more* ([view all](../explorer/?case_study=Poland&category=Labor%20market%20reform%20and%20social%20safety%20nets))
 
 ### Privatization and state-owned enterprise restructuring
 *105 sources*
@@ -104,7 +104,7 @@ Post-communist transition (1989–present) provides evidence on shock therapy vs
 - [Winds of Change: Economic Transition in Central and Eastern Europe](../explorer/?id=4305) (1995) | Rel: 5.0
 - [Managing strategically in an interconnected world](../explorer/?id=4273) (1998) | Rel: 5.0
 - [Organized Labor in Postcommunist States: Will the Western Sun Set on It, Too?](../explorer/?id=4312) (1999) | Rel: 5.0
-- *...and 102 more* ([view all](../explorer/?case_study=Poland&category=Privatization and state-owned enterprise restructuring))
+- *...and 102 more* ([view all](../explorer/?case_study=Poland&category=Privatization%20and%20state-owned%20enterprise%20restructuring))
 
 ### Sanctions unwinding and international reintegration
 *2 sources*
@@ -118,7 +118,7 @@ Post-communist transition (1989–present) provides evidence on shock therapy vs
 - [The Geopolitics of the Global Energy Transition](../explorer/?id=1290) (2020) | Rel: 4.0
 - [The Polish Alternative Old Myths, Hard Facts and New Strategies in the Successful Transformation of the Polish Economy](../explorer/?id=1331) (1997) | Rel: 4.0
 - [Poland](../explorer/?id=1346) (1994) | Rel: 4.0
-- *...and 5 more* ([view all](../explorer/?case_study=Poland&category=Trade liberalization and foreign direct investment))
+- *...and 5 more* ([view all](../explorer/?case_study=Poland&category=Trade%20liberalization%20and%20foreign%20direct%20investment))
 
 ## Social & Cultural (200 sources)
 
@@ -128,7 +128,7 @@ Post-communist transition (1989–present) provides evidence on shock therapy vs
 - [Determinants of Economic Growth: A Cross-Country Empirical Study](../explorer/?id=4484) (1996) | Rel: 5.0
 - [Gender as “Ebola from Brussels”: The Anticolonial Frame and the Rise of Illiberal Populism](../explorer/?id=4483) (2018) | Rel: 5.0
 - [NGOs and Their Vulnerabilities During the Time of Transition: The Case of Poland](../explorer/?id=4416) (1999) | Rel: 5.0
-- *...and 85 more* ([view all](../explorer/?case_study=Poland&category=Civil society development))
+- *...and 85 more* ([view all](../explorer/?case_study=Poland&category=Civil%20society%20development))
 
 ### Cultural heritage preservation during institutional change
 *3 sources*
@@ -143,7 +143,7 @@ Post-communist transition (1989–present) provides evidence on shock therapy vs
 - [Was Weber Wrong? A Human Capital Theory of Protestant Economic History<sup>*</sup>](../explorer/?id=1323) (2009) | Rel: 4.0
 - [Human Development in Poor Countries: On the Role of Private Incomes and Public Services](../explorer/?id=1355) (1993) | Rel: 3.0
 - [Bolshevik Approaches to Higher Education, 1917-1921](../explorer/?id=1312) (1971) | Rel: 3.0
-- *...and 1 more* ([view all](../explorer/?case_study=Poland&category=Education system reform and curriculum modernization))
+- *...and 1 more* ([view all](../explorer/?case_study=Poland&category=Education%20system%20reform%20and%20curriculum%20modernization))
 
 ### Media freedom and press institution building
 *101 sources*
@@ -151,7 +151,7 @@ Post-communist transition (1989–present) provides evidence on shock therapy vs
 - [The new politics of Poland](../explorer/?id=4578) (2023) | Rel: 5.0
 - [Democratic Backsliding in Poland](../explorer/?id=4490) (2023) | Rel: 5.0
 - [Constitutional Foundations and Legal Restrictions on Mass Media Freedom in the Republic of Iraq](../explorer/?id=4494) (2020) | Rel: 5.0
-- *...and 98 more* ([view all](../explorer/?case_study=Poland&category=Media freedom and press institution building))
+- *...and 98 more* ([view all](../explorer/?case_study=Poland&category=Media%20freedom%20and%20press%20institution%20building))
 
 ### Religious freedom and separation of religion from state
 *3 sources*

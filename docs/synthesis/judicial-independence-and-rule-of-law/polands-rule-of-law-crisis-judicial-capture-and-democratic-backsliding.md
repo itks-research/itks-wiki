@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Judicial independence and rule of law](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Judicial independence and rule of law</a></p>
 
 # Poland's Rule-of-Law Crisis: Judicial Capture and Democratic Backsliding
 
@@ -34,7 +34,7 @@ Saffari (1993) traces this architecture to the 1906 Constitutional Revolution, s
 | 6 | Arjomand & Brown | 2013 | Rule of Law, Islam, and Constitutional Politics in Egypt and Iran | — |
 | 7 | Osanloo | 2020 | Forgiveness Work: Mercy, Law, and Victims' Rights in Iran | DOI |
 
-## Sources Used (7 sources)
+## Sources (7)
 
 - [Illiberal Constitutionalism: The Case of Hungary and Poland](../explorer/?id=4330)
 - [The Politics of Judicial Reform in Eastern Europe](../explorer/?id=4379)
@@ -43,5 +43,3 @@ Saffari (1993) traces this architecture to the 1906 Constitutional Revolution, s
 - [The Rule of Law and the Politics of Reform in Post-Revolutionary Iran](../explorer/?id=2518)
 - [Rule of Law, Islam, and Constitutional Politics in Egypt and Iran, The](../explorer/?id=2519)
 - [Forgiveness Work: Mercy, Law, and Victims' Rights in Iran](../explorer/?id=2564)
-
-[View all sources in Explorer](../explorer/?search=)

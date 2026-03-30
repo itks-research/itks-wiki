@@ -114,30 +114,32 @@ body,
 .md-typeset h1 {
   font-family: var(--itks-font-heading);
   font-weight: 700;
-  font-size: 2.4rem;
+  font-size: 2rem;
   letter-spacing: -0.01em;
   color: var(--itks-text);
   border-bottom: 2px solid var(--itks-accent);
-  padding-bottom: 0.3em;
-  margin-bottom: 0.8em;
+  padding-bottom: 0.25em;
+  margin-bottom: 0.6em;
+  margin-top: 0;
 }
 
 .md-typeset h2 {
   font-family: var(--itks-font-heading);
   font-weight: 700;
-  font-size: 1.6rem;
+  font-size: 1.4rem;
   color: var(--itks-text);
-  margin-top: 2em;
+  margin-top: 1.6em;
   border-bottom: 1px solid var(--itks-border);
-  padding-bottom: 0.25em;
+  padding-bottom: 0.2em;
 }
 
 .md-typeset h3 {
   font-family: var(--itks-font-heading);
   font-weight: 700;
-  font-size: 1.25rem;
+  font-size: 1.15rem;
   color: var(--itks-text-sec);
-  margin-top: 1.5em;
+  margin-top: 1.3em;
+  margin-bottom: 0.4em;
 }
 
 .md-typeset h4,
@@ -171,16 +173,30 @@ body,
 }
 
 /* ---------- Drop Cap ---------- */
-.md-typeset .md-content > .md-typeset > p:first-of-type::first-letter,
-.md-content__inner > p:first-of-type::first-letter {
+/* Only apply to the first paragraph AFTER the status/meta line,
+   not breadcrumbs or status lines. Target paragraphs that follow an <hr> or h2 */
+.md-typeset .drop-cap::first-letter {
   font-family: var(--itks-font-heading);
-  font-size: 3.5em;
+  font-size: 3.2em;
   float: left;
-  line-height: 0.8;
-  margin-right: 0.08em;
-  margin-top: 0.05em;
+  line-height: 0.82;
+  margin-right: 0.06em;
+  margin-top: 0.06em;
   color: var(--itks-accent);
   font-weight: 700;
+}
+
+/* Breadcrumb styling */
+.md-typeset .breadcrumb {
+  font-family: var(--itks-font-ui);
+  font-size: 0.85rem;
+  color: var(--itks-text-muted);
+  margin-bottom: 0;
+}
+
+.md-typeset .breadcrumb a {
+  color: var(--itks-accent);
+  font-size: 0.85rem;
 }
 
 /* ---------- Tables ---------- */
@@ -221,13 +237,24 @@ body,
   background: var(--itks-surface);
   border: 1px solid var(--itks-border);
   border-radius: 6px;
-  padding: 20px;
+  padding: 16px;
   transition: box-shadow 0.2s, border-color 0.2s;
 }
 
 .card:hover {
   border-color: var(--itks-accent);
   box-shadow: 0 2px 12px rgba(42, 37, 32, 0.08);
+}
+
+/* Tighter list spacing inside cards */
+.card ul, .card ol {
+  margin: 4px 0;
+  padding-left: 1.2em;
+}
+
+.card li {
+  margin-bottom: 2px;
+  font-size: 0.9rem;
 }
 
 .card-grid {

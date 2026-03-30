@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Education system reform and curriculum modernization](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Education system reform and curriculum modernization</a></p>
 
 # Curriculum as Battleground: Education Reform in South Korea and Iran
 
@@ -37,7 +37,7 @@ The diaspora dimension adds opportunity: tens of thousands of Iranian educators 
 | 7 | World Bank | 2021 | Investing in Human Capital for a Resilient Recovery | — |
 | 8 | Miranda, Muinelo-Gallo & Roca-Sagalés | 2022 | Human development and decentralization | DOI |
 
-## Sources Used (8 sources)
+## Sources (8)
 
 - [Was Weber Wrong? A Human Capital Theory of Protestant Economic History<sup>*</sup>](../explorer/?id=1323)
 - [The language assessment literacy needs of Iranian EFL teachers with a focus on reformed assessment policies](../explorer/?id=3726)
@@ -47,5 +47,3 @@ The diaspora dimension adds opportunity: tens of thousands of Iranian educators 
 - [Exploring Cultural Schemas in Foreign Language Education Policy (FLEP) Documents of Iran](../explorer/?id=3743)
 - [Investing in Human Capital for a Resilient Recovery](../explorer/?id=1828)
 - [Human development and decentralization: The importance of public health expenditure](../explorer/?id=1592)
-
-[View all sources in Explorer](../explorer/?search=)

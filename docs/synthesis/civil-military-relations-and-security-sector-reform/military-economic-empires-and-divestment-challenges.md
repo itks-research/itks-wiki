@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Civil-military relations and security sector reform](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Civil-military relations and security sector reform</a></p>
 
 # Military Economic Empires and Divestment Challenges
 
@@ -26,11 +26,3 @@ Concretely, a transition government would face simultaneous challenges: mapping 
 | Bardhan, P. | 2005 | Institutional quality, not just existence, determines outcomes |
 | Makara, M. | 2013 | Coup-proofing through material incentives binds officers to regime |
 | Human Rights Watch | 2010 | Indonesia's military divestment still only "preparing" after 5 years |
-
-## Sources Used (3 sources)
-
-- [Coup-Proofing, Military Defection, and the Arab Spring](../explorer/?id=4)
-- [Institutions for High-Quality Growth: What They are and How to Acquire Them](../explorer/?id=261)
-- [Institutions matter, but which ones?](../explorer/?id=190)
-
-[View all sources in Explorer](../explorer/?search=)

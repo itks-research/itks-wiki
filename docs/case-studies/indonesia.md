@@ -28,7 +28,7 @@ The world's largest Muslim-majority democracy. Its Pancasila model of inclusive 
 - [Why Do Developing Countries Tax So Little?](../explorer/?id=1513) (2014) | Rel: 4.0
 - [Public expenditure management handbook.](../explorer/?id=1563) (1998) | Rel: 4.0
 - [Examining the role of foreign assistance in security sector reforms : the Indonesian case](../explorer/?id=1534) (2003) | Rel: 4.0
-- *...and 46 more* ([view all](../explorer/?case_study=Indonesia&category=Civil-military relations and security sector reform))
+- *...and 46 more* ([view all](../explorer/?case_study=Indonesia&category=Civil-military%20relations%20and%20security%20sector%20reform))
 
 ### Constitutional design and drafting processes
 *2 sources*
@@ -42,7 +42,7 @@ The world's largest Muslim-majority democracy. Its Pancasila model of inclusive 
 - [Political Reform in Indonesia after Soeharto](../explorer/?id=1531) (2010) | Rel: 4.0
 - [The Pseudo-Democrat's Dilemma: Why Election Observation Became an International Norm](../explorer/?id=1732) (2021) | Rel: 4.0
 - [The struggle to regain effective government under democracy in Indonesia*](../explorer/?id=1549) (2005) | Rel: 4.0
-- *...and 2 more* ([view all](../explorer/?case_study=Indonesia&category=Electoral system design and implementation))
+- *...and 2 more* ([view all](../explorer/?case_study=Indonesia&category=Electoral%20system%20design%20and%20implementation))
 
 ### Federalism, unitarism, and autonomy models
 *112 sources*
@@ -50,7 +50,7 @@ The world's largest Muslim-majority democracy. Its Pancasila model of inclusive 
 - [Fiscal Decentralization Dilemma in Indonesia: Between Corruption Accountability and Probability at Local Levels](../explorer/?id=4722) (2020) | Rel: 5.0
 - [Fiscal Decentralization, Accountability and Corruption Indication: Evidence from Indonesia](../explorer/?id=4717) (2021) | Rel: 5.0
 - [Decentralization and Fiscal Autonomy at the Subnational Level in Indonesia](../explorer/?id=4708) (2022) | Rel: 5.0
-- *...and 109 more* ([view all](../explorer/?case_study=Indonesia&category=Federalism, unitarism, and autonomy models))
+- *...and 109 more* ([view all](../explorer/?case_study=Indonesia&category=Federalism%2C%20unitarism%2C%20and%20autonomy%20models))
 
 ### Judicial independence and rule of law
 *1 sources*
@@ -63,7 +63,7 @@ The world's largest Muslim-majority democracy. Its Pancasila model of inclusive 
 - [Indonesia's Accountability Trap: Party Cartels and Presidential Power after Democratic Transition](../explorer/?id=1522) (2004) | Rel: 4.0
 - [Democratization in Post-Suharto Indonesia](../explorer/?id=1539) (2008) | Rel: 4.0
 - [A consolidated patrimonial democracy? Democratization in post-Suharto Indonesia](../explorer/?id=1550) (2006) | Rel: 4.0
-- *...and 14 more* ([view all](../explorer/?case_study=Indonesia&category=Political party formation and pluralism))
+- *...and 14 more* ([view all](../explorer/?case_study=Indonesia&category=Political%20party%20formation%20and%20pluralism))
 
 ### Power-sharing mechanisms during transition periods
 *1 sources*
@@ -91,7 +91,7 @@ The world's largest Muslim-majority democracy. Its Pancasila model of inclusive 
 - [HOW DOES DECENTRALIZED MINIMUM WAGE SETTING AFFECT EMPLOYMENT AND INFORMALITY? THE CASE OF INDONESIA](../explorer/?id=1638) (2011) | Rel: 4.0
 - [Legislating for labour protection: betting on the weak or the strong?](../explorer/?id=1568) (2005) | Rel: 4.0
 - [Understanding the impacts of NPM and proposed solutions to the healthcare system reforms in Indonesia: the case of BPJS](../explorer/?id=1577) (2019) | Rel: 4.0
-- *...and 12 more* ([view all](../explorer/?case_study=Indonesia&category=Labor market reform and social safety nets))
+- *...and 12 more* ([view all](../explorer/?case_study=Indonesia&category=Labor%20market%20reform%20and%20social%20safety%20nets))
 
 ### Privatization and state-owned enterprise restructuring
 *7 sources*
@@ -99,7 +99,7 @@ The world's largest Muslim-majority democracy. Its Pancasila model of inclusive 
 - [Employee Participation in Decision-Making: Evidence from a State-Owned Enterprise in Indonesia](../explorer/?id=1978) (2015) | Rel: 4.0
 - [How Financial Performance and State-Owned Enterprise (SOE) Values Are Affected by Good Corporate Governance and Intellectual Capital Perspectives](../explorer/?id=1961) (2021) | Rel: 4.0
 - [Indonesian Corporations, Cronyism, and Corruption](../explorer/?id=1555) (2006) | Rel: 3.0
-- *...and 4 more* ([view all](../explorer/?case_study=Indonesia&category=Privatization and state-owned enterprise restructuring))
+- *...and 4 more* ([view all](../explorer/?case_study=Indonesia&category=Privatization%20and%20state-owned%20enterprise%20restructuring))
 
 ### Resource curse management
 *3 sources*
@@ -119,7 +119,7 @@ The world's largest Muslim-majority democracy. Its Pancasila model of inclusive 
 - [World Development Report 1986](../explorer/?id=1567) (1986) | Rel: 4.0
 - [Growth after the asian crisis : what remains of the east asian model?](../explorer/?id=1100) (2001) | Rel: 4.0
 - [Estimating the Constraints to Agricultural Trade of Developing Countries](../explorer/?id=1590) (2013) | Rel: 4.0
-- *...and 2 more* ([view all](../explorer/?case_study=Indonesia&category=Trade liberalization and foreign direct investment))
+- *...and 2 more* ([view all](../explorer/?case_study=Indonesia&category=Trade%20liberalization%20and%20foreign%20direct%20investment))
 
 ## Social & Cultural (430 sources)
 
@@ -140,7 +140,7 @@ The world's largest Muslim-majority democracy. Its Pancasila model of inclusive 
 - [Human development and decentralization: The importance of public health expenditure](../explorer/?id=1592) (2022) | Rel: 4.0
 - [LEARNER AUTONOMY IN THE INDONESIAN EFL SETTINGS](../explorer/?id=1653) (2017) | Rel: 3.0
 - [Neo-liberalism and the politics of higher education policy in Indonesia](../explorer/?id=1541) (2015) | Rel: 3.0
-- *...and 13 more* ([view all](../explorer/?case_study=Indonesia&category=Education system reform and curriculum modernization))
+- *...and 13 more* ([view all](../explorer/?case_study=Indonesia&category=Education%20system%20reform%20and%20curriculum%20modernization))
 
 ### Media freedom and press institution building
 *1 sources*
@@ -153,7 +153,7 @@ The world's largest Muslim-majority democracy. Its Pancasila model of inclusive 
 - [Corruption, institutions, and economic development](../explorer/?id=4964) (2009) | Rel: 5.0
 - [Democratic Decentralization of Natural Resources: Institutionalizing Popular Participation](../explorer/?id=4865) (2002) | Rel: 5.0
 - [Fields of the Lord: Animism, Christian Minorities, and State Development in Indonesia](../explorer/?id=4907) (2002) | Rel: 5.0
-- *...and 120 more* ([view all](../explorer/?case_study=Indonesia&category=Minority rights))
+- *...and 120 more* ([view all](../explorer/?case_study=Indonesia&category=Minority%20rights))
 
 ### Religious freedom and separation of religion from state
 *135 sources*
@@ -161,7 +161,7 @@ The world's largest Muslim-majority democracy. Its Pancasila model of inclusive 
 - [The Corporate Governance Role of the Media](../explorer/?id=4846) (2002) | Rel: 4.0
 - [Water governance in the twentieth-first century](../explorer/?id=4729) (2007) | Rel: 4.0
 - [PARTY CARTELIZATION, INDONESIAN-STYLE: PRESIDENTIAL POWER-SHARING AND THE CONTINGENCY OF DEMOCRATIC OPPOSITION](../explorer/?id=4732) (2018) | Rel: 4.0
-- *...and 132 more* ([view all](../explorer/?case_study=Indonesia&category=Religious freedom and separation of religion from state))
+- *...and 132 more* ([view all](../explorer/?case_study=Indonesia&category=Religious%20freedom%20and%20separation%20of%20religion%20from%20state))
 
 ### Women's rights codification and gender equality
 *152 sources*
@@ -169,4 +169,4 @@ The world's largest Muslim-majority democracy. Its Pancasila model of inclusive 
 - [Theorizing power in political ecology: the 'where' of power in resource governance projects](../explorer/?id=4984) (2018) | Rel: 5.0
 - [Love Jihad and the Governance of Gender and Intimacy in Hindu Nationalist Statecraft](../explorer/?id=5004) (2021) | Rel: 5.0
 - [Civic Engagement and Democracy in Post-Suharto Indonesia: A Review of Musrenbang, the Kecamatan Development Programme, and Labour Organising](../explorer/?id=4983) (2017) | Rel: 4.0
-- *...and 149 more* ([view all](../explorer/?case_study=Indonesia&category=Women's rights codification and gender equality))
+- *...and 149 more* ([view all](../explorer/?case_study=Indonesia&category=Women%27s%20rights%20codification%20and%20gender%20equality))

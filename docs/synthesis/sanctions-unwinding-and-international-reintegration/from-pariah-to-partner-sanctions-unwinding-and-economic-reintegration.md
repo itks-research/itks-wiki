@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Sanctions unwinding and international reintegration](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Sanctions unwinding and international reintegration</a></p>
 
 # From Pariah to Partner: Sanctions Unwinding and Economic Reintegration
 
@@ -34,7 +34,7 @@ At the political economy level, the actors who benefit most from sanctions — s
 | 6 | Clayton, Maggiori & Schreger | 2024 | A Theory of Economic Coercion and Fragmentation | DOI |
 | 7 | Wood | 2008 | Economic Sanctions and State Repression | DOI |
 
-## Sources Used (7 sources)
+## Sources (7)
 
 - [The economic impact of the lifting of sanctions on tourism in Iran: a computable general equilibrium analysis](../explorer/?id=1916)
 - [Who is afraid of sanctions? The macroeconomic and distributional effects of the sanctions against Iran](../explorer/?id=1871)
@@ -43,5 +43,3 @@ At the political economy level, the actors who benefit most from sanctions — s
 - [On Target? Sanctions and the Economic Interests of Elite Policymakers in Iran](../explorer/?id=1867)
 - [A Theory of Economic Coercion and Fragmentation](../explorer/?id=1888)
 - [“A Hand upon the Throat of the Nation”: Economic Sanctions and State Repression, 1976-2001](../explorer/?id=1282)
-
-[View all sources in Explorer](../explorer/?search=)

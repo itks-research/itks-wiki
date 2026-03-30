@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Civil-military relations and security sector reform](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Civil-military relations and security sector reform</a></p>
 
 # Theoretical Frameworks and Their Limits for Iran
 
@@ -29,12 +29,3 @@ The practical implication is that transition planners cannot import any single c
 | Croissant, A. | 2011 | Structural and agential factors both matter for civilian control |
 | Kuehn, D. | 2008 | Taiwan demonstrates gradual civilian expansion over military prerogatives |
 | Kuehn, D. & Croissant, A. | 2023 | Six-case comparison validates incremental reform |
-
-## Sources Used (4 sources)
-
-- [Armed Forces and Democracy: Reforming Civil-Military Relations](../explorer/?id=367)
-- [Coup-Proofing, Military Defection, and the Arab Spring](../explorer/?id=4)
-- [Civilian Control over the Military in East Asia](../explorer/?id=161)
-- [Democratization and Civilian Control of the Military in Taiwan](../explorer/?id=162)
-
-[View all sources in Explorer](../explorer/?search=)

@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Civil-military relations and security sector reform](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Civil-military relations and security sector reform</a></p>
 
 # Defense Ministry Civilianization: South Korea's Incomplete Success
 
@@ -27,13 +27,3 @@ Furthermore, Iran lacks the external security guarantee that facilitated South K
 | Kim, K-J. | 2014 | Parliamentary oversight formally established but limited in practice |
 | Croissant, A. | 2011 | Structural and agential factors both determine civilian control outcomes |
 | Kuehn, D. & Croissant, A. | 2023 | Defense ministry civilianization and parliamentary oversight are twin reform pillars |
-
-## Sources Used (5 sources)
-
-- [The Ministry of National Defence in South Korea: Military dominance despite civilian supremacy?](../explorer/?id=194)
-- [Reforming civil–military relations](../explorer/?id=228)
-- [Demilitarizing politics in South Korea: Toward a positive consolidation of civilian supremacy](../explorer/?id=158)
-- [The Soldier and the State in South Korea: Crafting Democratic Civilian Control of the Military](../explorer/?id=164)
-- [Civilian Control over the Military in East Asia](../explorer/?id=161)
-
-[View all sources in Explorer](../explorer/?search=)

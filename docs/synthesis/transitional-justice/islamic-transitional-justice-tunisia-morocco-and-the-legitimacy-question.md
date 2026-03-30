@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Transitional justice](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Transitional justice</a></p>
 
 # Islamic Transitional Justice: Tunisia, Morocco, and the Legitimacy Question
 
@@ -28,11 +28,3 @@ The risk is co-optation. Regime-affiliated clerics could redefine these concepts
 | Aguilar et al. (2011) | Personal experience, ideology, and generation shape TJ attitudes | 496 |
 | Encarnacion (2011) | Challenges assumption that comprehensive accountability always produces better outcomes | -- |
 | Lu (2017) | International TJ practices reflect colonial and structural biases | 180 |
-
-## Sources Used (3 sources)
-
-- [Transitional Justice in Tunisia: When Religion Meets State](../explorer/?id=747)
-- [Determinants of Attitudes Toward Transitional Justice](../explorer/?id=496)
-- [Justice and Reconciliation in World Politics](../explorer/?id=180)
-
-[View all sources in Explorer](../explorer/?search=)

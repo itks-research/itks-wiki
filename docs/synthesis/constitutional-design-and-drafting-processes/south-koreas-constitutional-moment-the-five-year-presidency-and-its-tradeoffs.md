@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Constitutional design and drafting processes](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Constitutional design and drafting processes</a></p>
 
 # South Korea's Constitutional Moment: The Five-Year Presidency and Its Tradeoffs
 
@@ -28,11 +28,3 @@ However, the "lemon presidency" phenomenon means that term limits alone are insu
 | Choi | 2022 | "Lemon presidency" concept: single-term limits create temptation to personalize power through judicial capture |
 | Yeh | 2010 | Constitutional courts in South Korea and Taiwan serve as dialogue facilitators between political actors |
 | Hahm | 2024 | Comprehensive analysis of South Korea's constitutional framework and its evolution |
-
-## Sources Used (3 sources)
-
-- [The Constitution of South Korea](../explorer/?id=46)
-- [History of South Korea’s Courts and Constitutional Transitions](../explorer/?id=58)
-- [Theory of Constitutional Reform of South Korea's Power Structure : Constitutional Reform Directions to Overcome Limitations of the 1987 Constitution](../explorer/?id=42)
-
-[View all sources in Explorer](../explorer/?search=)

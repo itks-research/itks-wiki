@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Religious freedom and separation of religion from state](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Religious freedom and separation of religion from state</a></p>
 
 # Tunisia's Constitutional Compromise and the Civil State Model
 
@@ -30,18 +30,6 @@ The Ennahda internal vote pattern is particularly instructive for Iran. Iran's c
 | McCarthy, R. | 2014 | Post-independence Tunisian secularism was state-imposed, not organically evolved |
 | Sapsford, R. et al. | 2017 | Corruption erodes trust in both secular and religious governance across MENA |
 | Zoubir, Y. | 2018 | Ennahda's political evolution from Islamist movement to Muslim democratic party |
-
-## Sources Used (7 sources)
-
-- [Competing Ways of Life: Islamism, Secularism, and Public Order in the Tunisian Transition](../explorer/?id=713)
-- [The Implicit Sharia: Established Religion and Varietie of Secularism in Tunisia](../explorer/?id=714)
-- [The Normative Power of Secularism. Tunisian Ennahda's Discourse on Religion, Politics, and the State (2011–2016)](../explorer/?id=715)
-- [Rachid Ghannouchi](../explorer/?id=717)
-- [Corruption, Trust, Inclusion and Cohesion in North Africa and the Middle East](../explorer/?id=706)
-- [Re-thinking secularism in post-independence Tunisia](../explorer/?id=712)
-- [Political Islam in Tunisia: the history of Ennahda](../explorer/?id=725)
-
-[View all sources in Explorer](../explorer/?search=)
 
 ## Related Articles
 

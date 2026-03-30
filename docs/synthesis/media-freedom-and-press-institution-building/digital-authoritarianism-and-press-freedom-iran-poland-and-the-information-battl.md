@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Media freedom and press institution building](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Media freedom and press institution building</a></p>
 
 # Digital Authoritarianism and Press Freedom: Iran, Poland, and the Information Battle
 
@@ -33,7 +33,7 @@ The Polish experience suggests that even robust constitutional press freedom gua
 | 5 | Zvozdetska | 2017 | Present-day Poland Media Landscape: Compliance with EU Regulations | — |
 | 6 | Guriev & Treisman | 2019 | Informational Autocrats | DOI |
 
-## Sources Used (6 sources)
+## Sources (6)
 
 - [The new politics of Poland](../explorer/?id=4578)
 - [Democratic Backsliding in Poland](../explorer/?id=4490)
@@ -41,5 +41,3 @@ The Polish experience suggests that even robust constitutional press freedom gua
 - [Avoiding Accountability](../explorer/?id=4524)
 - [Present-day Poland Media Landscape: Compliance with EU Regulations](../explorer/?id=4557)
 - [Informational Autocrats](../explorer/?id=1108)
-
-[View all sources in Explorer](../explorer/?search=)

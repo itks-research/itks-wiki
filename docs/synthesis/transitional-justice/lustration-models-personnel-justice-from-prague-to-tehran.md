@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Transitional justice](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Transitional justice</a></p>
 
 # Lustration Models: Personnel Justice from Prague to Tehran
 
@@ -32,16 +32,3 @@ A Polish-style confession model offers a more viable template for Iran. Individu
 | Justice as prevention (2007) | Vetting public employees as preventive justice in transitional societies | 820 |
 | Lustration and legitimacy (2010) | Relationship between lustration processes and political legitimacy | 893 |
 | Rethinking lustrations (2022) | Contemporary reassessment of lustration as TJ mechanism | 867 |
-
-## Sources Used (8 sources)
-
-- [Lustration Systems and Trust: Evidence from Survey Experiments in the Czech Republic, Hungary, and Poland](../explorer/?id=882)
-- [Lustration as a trust-building mechanism? Transitional justice in Poland](../explorer/?id=4615)
-- [Lustration and the Transition to Democracy: The Cases of Poland and Bulgaria](../explorer/?id=4626)
-- [Dealing with the Communist Past or the Politics of the Present? Lustration in Post-Communist Poland](../explorer/?id=890)
-- [Lustration Laws in Action: The Motives and Evaluation of Lustration Policy in the Czech Republic and Poland (1989–2001)](../explorer/?id=821)
-- [Justice as prevention : vetting public employees in transitional societies](../explorer/?id=820)
-- [Lustration and Legitimacy](../explorer/?id=893)
-- [Rethinking Lustrations](../explorer/?id=867)
-
-[View all sources in Explorer](../explorer/?search=)

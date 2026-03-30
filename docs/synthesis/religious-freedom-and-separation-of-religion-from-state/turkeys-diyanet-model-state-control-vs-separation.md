@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Religious freedom and separation of religion from state](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Religious freedom and separation of religion from state</a></p>
 
 # Turkey's Diyanet Model: State Control vs. Separation
 
@@ -26,14 +26,6 @@ Iran's religious landscape adds complexity that Turkey's Diyanet model cannot ac
 | Karakas, C. | 2007 | Turkey's Diyanet manages religion rather than separating it, marginalizing Alevis and non-Sunni communities |
 | Lust, E. | 2011 | Third Wave of democratization bypassed Muslim world due to institutional configurations, not Islam per se |
 | Fox, J. | 2019 | Secular-religious competition varies by institutional arrangements, not religious tradition |
-
-## Sources Used (3 sources)
-
-- [Turkey: Islam and Laicism between the interests of state, politics, and society](../explorer/?id=696)
-- [Missing the Third Wave: Islam, Institutions, and Democracy in the Middle East](../explorer/?id=685)
-- [The Secular-Religious Competition Perspective in Comparative Perspective](../explorer/?id=735)
-
-[View all sources in Explorer](../explorer/?search=)
 
 ## Related Articles
 

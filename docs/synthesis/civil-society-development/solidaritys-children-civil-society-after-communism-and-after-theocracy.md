@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Civil society development](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Civil society development</a></p>
 
 # Solidarity's Children: Civil Society After Communism and After Theocracy
 
@@ -36,7 +36,7 @@ The Women's Rights report on the Middle East and North Africa (2011) documents h
 | 6 | — | 2004 | Social Capital and the Transition to Democracy | — |
 | 7 | — | 2011 | Women's rights in the Middle East and North Africa | — |
 
-## Sources Used (7 sources)
+## Sources (7)
 
 - [Determinants of Economic Growth: A Cross-Country Empirical Study](../explorer/?id=4484)
 - [Gender as “Ebola from Brussels”: The Anticolonial Frame and the Rise of Illiberal Populism](../explorer/?id=4483)
@@ -45,5 +45,3 @@ The Women's Rights report on the Middle East and North Africa (2011) documents h
 - [Democratization and Market Reform in Developing and Transitional Countries: Think Tanks as Catalysts](../explorer/?id=4404)
 - [Social Capital and the Transition to Democracy](../explorer/?id=4451)
 - [Women's rights in the Middle East and North Africa: progress amid resistance](../explorer/?id=3445)
-
-[View all sources in Explorer](../explorer/?search=)

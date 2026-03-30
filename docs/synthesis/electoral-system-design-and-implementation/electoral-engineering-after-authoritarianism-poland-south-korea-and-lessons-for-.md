@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Electoral system design and implementation](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Electoral system design and implementation</a></p>
 
 # Electoral Engineering After Authoritarianism: Poland, South Korea, and Lessons for Iran
 
@@ -36,7 +36,7 @@ Third, the role of the Iranian diaspora in elections — whether through externa
 | 8 | Merkel | 2004 | Embedded and defective democracies | DOI |
 | 9 | Tezcur | 2005 | How do political religious groups develop sustainable democratic commitments | — |
 
-## Sources Used (9 sources)
+## Sources (9)
 
 - [Parties and politics in post-1989 Poland](../explorer/?id=4164)
 - [Developments in Central and East European Politics 2](../explorer/?id=4160)
@@ -47,5 +47,3 @@ Third, the role of the Iranian diaspora in elections — whether through externa
 - [Crisis of Authority: Iran's 2009 Presidential Election](../explorer/?id=2423)
 - [Embedded and defective democracies](../explorer/?id=136)
 - [How do political religious groups develop sustainable democratic commitments : the cases of Iran and Turkey](../explorer/?id=2371)
-
-[View all sources in Explorer](../explorer/?search=)

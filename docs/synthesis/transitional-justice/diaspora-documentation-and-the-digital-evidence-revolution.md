@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Transitional justice](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Transitional justice</a></p>
 
 # Diaspora Documentation and the Digital Evidence Revolution
 
@@ -28,12 +28,3 @@ First, any future truth commission must develop protocols for integrating diaspo
 | Escudero Alday (2014) | Social movement challenging Spain's democratization narrative decades later | 499 |
 | Kim & Sikkink (2010) | Domestic institutional capacity required for sustainable deterrence effect | 167 |
 | Hepworth (2023) | Memory activism as advocacy for TJ; documentation as political action | 444 |
-
-## Sources Used (4 sources)
-
-- [Transitional Justice against the State: Lessons from Spanish Civil Society-Led Forensic Exhumations](../explorer/?id=427)
-- [Road to Impunity: The Absence of Transitional Justice Programs in Spain](../explorer/?id=499)
-- [Explaining the Deterrence Effect of Human Rights Prosecutions for Transitional Countries1](../explorer/?id=167)
-- [Memory Activism as Advocacy for Transitional Justice: Memory Laws, Mass Graves and Impunity in Spain](../explorer/?id=444)
-
-[View all sources in Explorer](../explorer/?search=)

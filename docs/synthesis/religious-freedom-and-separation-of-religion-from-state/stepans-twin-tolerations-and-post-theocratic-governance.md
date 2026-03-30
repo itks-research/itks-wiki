@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Religious freedom and separation of religion from state](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Religious freedom and separation of religion from state</a></p>
 
 # Stepan's Twin Tolerations and Post-Theocratic Governance
 
@@ -27,14 +27,6 @@ Iran would need to achieve twin tolerations not from religion-state separation (
 | Kunstler, M. | 2012 | Muslim-world religion-state models more relevant than European secularism for transitions in Egypt and Tunisia |
 | Lust, E. | 2011 | Third Wave bypassed Muslim world due to institutional configurations between Islamist opposition and authoritarian incumbents |
 | Sapsford, R. et al. | 2017 | Corruption-trust nexus undermines legitimacy of both secular and religious governance |
-
-## Sources Used (3 sources)
-
-- [Religion‐State Relations and Democracy in Egypt and Tunisia: Models from the Democratizing Muslim World – and their Limits](../explorer/?id=676)
-- [Missing the Third Wave: Islam, Institutions, and Democracy in the Middle East](../explorer/?id=685)
-- [Corruption, Trust, Inclusion and Cohesion in North Africa and the Middle East](../explorer/?id=706)
-
-[View all sources in Explorer](../explorer/?search=)
 
 ## Related Articles
 

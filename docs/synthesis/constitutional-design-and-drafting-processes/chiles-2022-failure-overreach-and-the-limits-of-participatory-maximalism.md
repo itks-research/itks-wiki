@@ -1,4 +1,4 @@
-[Home](../../index.md) > [Research Findings](../index.md) > [Constitutional design and drafting processes](index.md)
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Constitutional design and drafting processes</a></p>
 
 # Chile's 2022 Failure: Overreach and the Limits of Participatory Maximalism
 
@@ -29,9 +29,3 @@ For Iran specifically, the Chilean experience warns against allowing any single 
 | Larrain, Negretto & Voigt | 2023 | Three structural failures: independent domination, right underrepresentation, fully public drafting |
 | Hutchcroft & Rocamora | 2003 | "Strong demands and weak institutions" produce persistent democratic deficits |
 | Ginsburg, Elkins & Blount | 2009 | Constitutional inclusivity predicts longevity; Chile violated this by underrepresenting the right |
-
-## Sources Used (1 sources)
-
-- [The Lifespan of Written Constitutions](../explorer/?id=23)
-
-[View all sources in Explorer](../explorer/?search=)
