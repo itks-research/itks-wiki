@@ -1,6 +1,6 @@
 # Research Dashboard
 
-*Last updated: 2026-03-29 21:27*
+*Last updated: 2026-03-30 22:42*
 
 ## Summary
 
@@ -36,21 +36,21 @@
 
 | Source | Case Study | Relevance | Citations |
 |--------|------------|-----------|-----------|
-| [Determinants of Economic Growth: A Cross-Country Empirical Study](sources/4484-determinants-of-economic-growth-a-cross-country-empirical-study.md) | Poland | 5.0 | 1120 |
-| [Corruption, institutions, and economic development](sources/4964-corruption-institutions-and-economic-development.md) | Indonesia | 5.0 | 704 |
-| [Democratic Decentralization of Natural Resources: Institutionalizing P...](sources/4865-democratic-decentralization-of-natural-resources-institutionalizing-popular-part.md) | Indonesia | 5.0 | 604 |
-| [Gender as “Ebola from Brussels”: The Anticolonial Frame and the Rise o...](sources/4483-gender-as-ebola-from-brussels-the-anticolonial-frame-and-the-rise-of-illiberal-p.md) | Poland | 5.0 | 514 |
-| [Accounting for Corruption: Economic Structure, Democracy, and Trade](sources/4097-accounting-for-corruption-economic-structure-democracy-and-trade.md) | Poland | 5.0 | 463 |
-| [After Khomeini: Iran under his successors](sources/2297-after-khomeini-iran-under-his-successors.md) | Iran | 5.0 | 158 |
-| [Century Of Revolution: Social Movements in Iran](sources/2296-century-of-revolution-social-movements-in-iran.md) | Iran | 5.0 | 137 |
-| [Illiberal Constitutionalism: The Case of Hungary and Poland](sources/4330-illiberal-constitutionalism-the-case-of-hungary-and-poland.md) | Poland | 5.0 | 133 |
-| [Theorizing power in political ecology: the 'where' of power in resourc...](sources/4984-theorizing-power-in-political-ecology-the-where-of-power-in-resource-governance-.md) | Indonesia | 5.0 | 122 |
-| [The Politics of Judicial Reform in Eastern Europe](sources/4379-the-politics-of-judicial-reform-in-eastern-europe.md) | Poland | 5.0 | 112 |
-| [Winds of Change: Economic Transition in Central and Eastern Europe](sources/4305-winds-of-change-economic-transition-in-central-and-eastern-europe.md) | Poland | 5.0 | 102 |
-| [Institutional Design In New Democracies: Eastern Europe And Latin Amer...](sources/4052-institutional-design-in-new-democracies-eastern-europe-and-latin-america.md) | Poland | 5.0 | 101 |
-| [Managing strategically in an interconnected world](sources/4273-managing-strategically-in-an-interconnected-world.md) | Poland | 5.0 | 91 |
-| [Captive Society](sources/2414-captive-society.md) | Iran | 5.0 | 90 |
-| [The legitimation of the Clergy's right to rule in the Iranian constitu...](sources/2539-the-legitimation-of-the-clergys-right-to-rule-in-the-iranian-constitution-of-197.md) | Iran | 5.0 | 88 |
+| [Determinants of Economic Growth: A Cross-Country Empirical Study](explorer/?id=4484) | Poland | 5.0 | 1120 |
+| [Corruption, institutions, and economic development](explorer/?id=4964) | Indonesia | 5.0 | 704 |
+| [Democratic Decentralization of Natural Resources: Institutionalizing P...](explorer/?id=4865) | Indonesia | 5.0 | 604 |
+| [Gender as “Ebola from Brussels”: The Anticolonial Frame and the Rise o...](explorer/?id=4483) | Poland | 5.0 | 514 |
+| [Accounting for Corruption: Economic Structure, Democracy, and Trade](explorer/?id=4097) | Poland | 5.0 | 463 |
+| [After Khomeini: Iran under his successors](explorer/?id=2297) | Iran | 5.0 | 158 |
+| [Century Of Revolution: Social Movements in Iran](explorer/?id=2296) | Iran | 5.0 | 137 |
+| [Illiberal Constitutionalism: The Case of Hungary and Poland](explorer/?id=4330) | Poland | 5.0 | 133 |
+| [Theorizing power in political ecology: the 'where' of power in resourc...](explorer/?id=4984) | Indonesia | 5.0 | 122 |
+| [The Politics of Judicial Reform in Eastern Europe](explorer/?id=4379) | Poland | 5.0 | 112 |
+| [Winds of Change: Economic Transition in Central and Eastern Europe](explorer/?id=4305) | Poland | 5.0 | 102 |
+| [Institutional Design In New Democracies: Eastern Europe And Latin Amer...](explorer/?id=4052) | Poland | 5.0 | 101 |
+| [Managing strategically in an interconnected world](explorer/?id=4273) | Poland | 5.0 | 91 |
+| [Captive Society](explorer/?id=2414) | Iran | 5.0 | 90 |
+| [The legitimation of the Clergy's right to rule in the Iranian constitu...](explorer/?id=2539) | Iran | 5.0 | 88 |
 
 ## Coverage by Case Study
 

@@ -12,12 +12,9 @@ theme:
     - navigation.tabs
     - navigation.sections
     - navigation.expand
-    - search.suggest
-    - search.highlight
   custom_dir: docs/overrides
 
 plugins:
-  - search
   - i18n:
       docs_structure: suffix
       fallback_to_default: true
@@ -38,6 +35,7 @@ plugins:
             Constitutional design: طراحی
             Czech Republic: جمهوری چک
             Home: خانه
+            How to Use This Site: راهنمای استفاده از سایت
             Indonesia: اندونزی
             Iran: ایران
             Knowledge Graph: نمودار دانش
@@ -47,6 +45,7 @@ plugins:
             Poland: لهستان
             Religious freedom: آزادی مذهبی
             Research Findings: یافته‌های پژوهشی
+            Source Explorer: کاوشگر منابع
             South Korea: کره جنوبی
             Spain: اسپانیا
             System Status: وضعیت سامانه
@@ -112,7 +111,9 @@ nav:
     - Tunisia: case-studies/tunisia.md
     - Czech Republic: case-studies/czech-republic.md
     - Chile: case-studies/chile.md
+  - Source Explorer: explorer.md
   - About:
+    - How to Use This Site: about/how-to-use.md
     - Methodology: about/methodology.md
     - System Status: dashboard.md
     - Knowledge Graph: graph.md

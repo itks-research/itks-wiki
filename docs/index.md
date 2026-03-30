@@ -1,37 +1,70 @@
 # Iran Development Knowledge System
 
-An autonomous research system mapping development pathways relevant to Iran's future governance.
+An autonomous research system mapping development pathways relevant to Iran's future governance. Every claim traces back to a verifiable source.
 
-This wiki is built and maintained by an AI research agent that continuously discovers, indexes, evaluates, and synthesizes academic and policy sources. Every claim traces back to a verifiable source.
+**5,099** sources · **5,893** relationships · **8** case studies · **31** research themes
 
-## Quick Stats
+---
 
-- **5099** academic sources indexed
-- **5893** relationships mapped
-- **8** comparative case studies
+## Explore
 
-## Browse
+<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap:16px; margin-bottom:24px;" markdown>
 
-- [Research Dashboard](dashboard.md) — Coverage gaps, active directives, system status
-- [Knowledge Graph](graph.md) — Interactive visualization of source relationships
+<div style="border:1px solid #ddd; border-radius:8px; padding:16px; text-align:center;" markdown>
 
-### Case Studies
+**[Research Findings](synthesis/index.md)**
 
-- **[Chile](case-studies/chile.md)** (154 sources)
-- **[Czech Republic](case-studies/czech-republic.md)** (246 sources)
-- **[Indonesia](case-studies/indonesia.md)** (653 sources)
-- **[Iran](case-studies/iran.md)** (2244 sources)
-- **[Poland](case-studies/poland.md)** (815 sources)
-- **[South Korea](case-studies/south-korea.md)** (370 sources)
-- **[Spain](case-studies/spain.md)** (340 sources)
-- **[Tunisia](case-studies/tunisia.md)** (277 sources)
+11 synthesis articles across 31 themes
 
-### Research Domains
+</div>
 
-- **Economic** (7 categories)
-- **Iran Specific** (8 categories)
-- **Political** (8 categories)
-- **Social Cultural** (8 categories)
+<div style="border:1px solid #ddd; border-radius:8px; padding:16px; text-align:center;" markdown>
+
+**[Case Studies](case-studies/iran.md)**
+
+8 countries compared
+
+</div>
+
+<div style="border:1px solid #ddd; border-radius:8px; padding:16px; text-align:center;" markdown>
+
+**[Source Explorer](explorer.md)**
+
+Search & filter all 5,099 sources
+
+</div>
+
+<div style="border:1px solid #ddd; border-radius:8px; padding:16px; text-align:center;" markdown>
+
+**[Knowledge Graph](graph.md)**
+
+Interactive relationship visualization
+
+</div>
+
+</div>
+
+## Latest Research
+
+- [Tunisia's Constitutional Compromise and the Civil State Model](synthesis/religious-freedom-and-separation-of-religion-from-state/tunisias-constitutional-compromise-and-the-civil-state-model.md)
+- [Turkey's Diyanet Model: State Control vs. Separation](synthesis/religious-freedom-and-separation-of-religion-from-state/turkeys-diyanet-model-state-control-vs-separation.md)
+- [Indonesia's Pancasila: Inclusive Monotheism and Its Limits](synthesis/religious-freedom-and-separation-of-religion-from-state/indonesias-pancasila-inclusive-monotheism-and-its-limits.md)
+- [Velayat-e Faqih: Iran's Unique Institutional Architecture](synthesis/religious-freedom-and-separation-of-religion-from-state/velayat-e-faqih-irans-unique-institutional-architecture.md)
+- [Stepan's Twin Tolerations and Post-Theocratic Governance](synthesis/religious-freedom-and-separation-of-religion-from-state/stepans-twin-tolerations-and-post-theocratic-governance.md)
+- [Post-Theocratic Transitions: Uncharted Territory](synthesis/religious-freedom-and-separation-of-religion-from-state/post-theocratic-transitions-uncharted-territory.md)
+
+## Case Studies
+
+| Country | Sources | Avg Relevance |
+|---------|---------|---------------|
+| [Iran](case-studies/iran.md) | 2,244 | 2.2 |
+| [Poland](case-studies/poland.md) | 815 | 3.1 |
+| [Indonesia](case-studies/indonesia.md) | 653 | 2.3 |
+| [South Korea](case-studies/south-korea.md) | 370 | 2.9 |
+| [Spain](case-studies/spain.md) | 340 | 2.9 |
+| [Tunisia](case-studies/tunisia.md) | 277 | 3.1 |
+| [Czech Republic](case-studies/czech-republic.md) | 246 | 2.8 |
+| [Chile](case-studies/chile.md) | 154 | 2.2 |
 
 ---
 

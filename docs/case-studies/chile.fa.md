@@ -4,218 +4,111 @@
 
 **154 منبع** در 15 دسته‌بندی
 
+[مرور تمام منابع شیلی در کاوشگر](../explorer/?case_study=Chile)
+
 ## اصلاح نظام بانکی و مالی
 *1 منبع*
 
-- [[Analysis of the organ allocation system for liver transplantation in Chile].](../sources/1437-analysis-of-the-organ-allocation-system-for-liver-transplantation-in-chile.fa.md) (2020)
+- [[Analysis of the organ allocation system for liver transplantation in Chile].](../explorer/?id=1437) (2020)
 
 ## توسعه جامعه مدنی
 *2 منبع*
 
-- [Norm Internalization and U.S. Economic Sanctions](../sources/2061-norm-internalization-and-us-economic-sanctions.fa.md) (2001)
-- [Broken Lives?Reflections on the Anthropology of Exile and Repair](../sources/1503-broken-livesreflections-on-the-anthropology-of-exile-and-repair.fa.md) (1999)
+- [Norm Internalization and U.S. Economic Sanctions](../explorer/?id=2061) (2001)
+- [Broken Lives?Reflections on the Anthropology of Exile and Repair](../explorer/?id=1503) (1999)
 
 ## طراحی و تدوین قانون اساسی
 *1 منبع*
 
-- [Diez puntos sobre el cambio constitucional en Chile](../sources/1409-diez-puntos-sobre-el-cambio-constitucional-en-chile.fa.md) (2021)
+- [Diez puntos sobre el cambio constitucional en Chile](../explorer/?id=1409) (2021)
 
 ## حفظ میراث فرهنگی در دوره تحولات نهادی
 *12 منبع*
 
-- [Destination Marketing Organizations and destination marketing: A narrative analysis of the literature](../sources/1459-destination-marketing-organizations-and-destination-marketing-anarrative-analysi.fa.md) (2013)
-- [Four billion years of ophiolites reveal secular trends in oceanic crust formation](../sources/1465-four-billion-years-of-ophiolites-reveal-secular-trends-in-oceanic-crust-formatio.fa.md) (2014)
-- [[Mental health and stress by acculturation in immigrants from South America in northern Chile].](../sources/1423-mental-health-and-stress-by-acculturation-in-immigrants-from-south-america-in-no.fa.md) (2016)
-- [Probing the transition between seismically coupled and decoupled segments along an ancient subduction interface](../sources/1456-probing-the-transition-between-seismically-coupled-and-decoupled-segments-along-.fa.md) (2015)
-- [Torrecillasite, Na(As,Sb)<sub>4</sub><sup>3+</sup>O<sub>6</sub>Cl, a new mineral from the Torrecillas mine, Iquique Province, Chile: description and crystal structure](../sources/1444-torrecillasite-naassbsub4subsup3suposub6subcl-a-new-mineral-from-the-torrecillas.fa.md) (2014)
-- [The Gracillariidae (Lepidoptera, Gracillarioidea) of the Galapagos Islands, Ecuador, with notes on some of their relatives](../sources/1475-the-gracillariidae-lepidoptera-gracillarioidea-of-the-galapagos-islands-ecuador-.fa.md) (2006)
-- [Chongite, Ca<sub>3</sub>Mg<sub>2</sub>(AsO<sub>4</sub>)<sub>2</sub>(AsO<sub>3</sub>OH)<sub>2</sub>·4H<sub>2</sub>O, a new arsenate member of the hureaulite group from the Torrecillas mine, Iquique Province, Chile](../sources/1449-chongite-casub3submgsub2subasosub4subsub2subasosub3subohsub2sub4hsub2subo-a-new-.fa.md) (2016)
-- [Juansilvaite, Na<sub>5</sub>Al<sub>3</sub>[AsO<sub>3</sub>(OH)]<sub>4</sub>[AsO<sub>2</sub>(OH)<sub>2</sub>]<sub>2</sub>(SO<sub>4</sub>)<sub>2</sub>·4H<sub>2</sub>O, a new arsenate-sulfate from the Torrecillas mine, Iquique Province, Chile](../sources/1458-juansilvaite-nasub5subalsub3subasosub3subohsub4subasosub2subohsub2subsub2subsosu.fa.md) (2017)
-- [Mauriziodiniite, NH<sub>4</sub>(As<sub>2</sub>O<sub>3</sub>)<sub>2</sub>I, the ammonium and iodine analogue of lucabindiite from the Torrecillas mine, Iquique Province, Chile](../sources/1453-mauriziodiniite-nhsub4subassub2subosub3subsub2subi-the-ammonium-and-iodine-analo.fa.md) (2019)
-- [Alumolukrahnite, CaCu2+Al(AsO4)2(OH)(H2O), the aluminium analogue of lukrahnite from the Jote mine, Copiapó Province, Chile](../sources/1402-alumolukrahnite-cacu2alaso42ohh2o-the-aluminium-analogue-of-lukrahnite-from-the-.fa.md) (2022)
-- [Contribución al conocimiento de los hongos chilenos](../sources/1457-contribución-al-conocimiento-de-los-hongos-chilenos.fa.md) (1937)
-- [Pabellóndepicaite, Cu2+2(N3C2H2)2(NH3)2(NO3)Cl·2H2O, a new 1,2,4-triazolate mineral from the guano deposit at Pabellón de Pica, Iquique Province, Chile](../sources/1393-pabellóndepicaite-cu22n3c2h22nh32no3cl2h2o-a-new-124-triazolate-mineral-from-the.fa.md) (2024)
+- [Destination Marketing Organizations and destination marketing: A narrative analysis of the literature](../explorer/?id=1459) (2013)
+- [Four billion years of ophiolites reveal secular trends in oceanic crust formation](../explorer/?id=1465) (2014)
+- [[Mental health and stress by acculturation in immigrants from South America in northern Chile].](../explorer/?id=1423) (2016)
+- [Probing the transition between seismically coupled and decoupled segments along an ancient subduction interface](../explorer/?id=1456) (2015)
+- [Torrecillasite, Na(As,Sb)<sub>4</sub><sup>3+</sup>O<sub>6</sub>Cl, a new mineral from the Torrecillas mine, Iquique Province, Chile: description and crystal structure](../explorer/?id=1444) (2014)
+- *...و 7 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Chile&category=Cultural heritage preservation during institutional change))
 
 ## اصلاح نظام آموزشی و نوسازی برنامه درسی
 *6 منبع*
 
-- [From Bantu Education to the Fight for Socially Just Education](../sources/1383-from-bantu-education-to-the-fight-for-socially-just-education.fa.md) (2013)
-- [[The general self-efficacy scale (GSES): Reevaluation of its reliability and validity evidence in Chile].](../sources/1397-the-general-self-efficacy-scale-gses-reevaluation-of-its-reliability-and-validit.fa.md) (2020)
-- [[Effects of the COVID-19 confinement on mental health among higher education students in Chile].](../sources/1424-effects-of-the-covid-19-confinement-on-mental-health-among-higher-education-stud.fa.md) (2021)
-- [[Training in palliative care in nursing and medical schools in Chile].](../sources/1400-training-in-palliative-care-in-nursing-and-medical-schools-in-chile.fa.md) (2022)
-- [[Validation of the Childhood Trauma Questionnaire-Short Form in Chile].](../sources/1415-validation-of-the-childhood-trauma-questionnaire-short-form-in-chile.fa.md) (2020)
-- [[Development of Normative Data for the Mini Mental State Examination (MMSE) in the Elderly Population of Chile: A Multi-City Study].](../sources/1394-development-of-normative-data-for-the-mini-mental-state-examination-mmse-in-the-.fa.md) (2023)
+- [From Bantu Education to the Fight for Socially Just Education](../explorer/?id=1383) (2013)
+- [[The general self-efficacy scale (GSES): Reevaluation of its reliability and validity evidence in Chile].](../explorer/?id=1397) (2020)
+- [[Effects of the COVID-19 confinement on mental health among higher education students in Chile].](../explorer/?id=1424) (2021)
+- [[Training in palliative care in nursing and medical schools in Chile].](../explorer/?id=1400) (2022)
+- [[Validation of the Childhood Trauma Questionnaire-Short Form in Chile].](../explorer/?id=1415) (2020)
+- *...و 1 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Chile&category=Education system reform and curriculum modernization))
 
 ## طراحی و اجرای نظام انتخاباتی
 *1 منبع*
 
-- [Representation and Effectiveness in Latin American Democracies](../sources/1388-representation-and-effectiveness-in-latin-american-democracies.fa.md) (2014)
+- [Representation and Effectiveness in Latin American Democracies](../explorer/?id=1388) (2014)
 
 ## استقلال قضایی و حاکمیت قانون
 *2 منبع*
 
-- [Virtual Legality](../sources/1366-virtual-legality.fa.md) (2001)
-- [The Neglected Stepchild: Military Justice and Democratic Transition in Chile](../sources/1356-the-neglected-stepchild-military-justice-and-democratic-transition-in-chile.fa.md) (2005)
+- [Virtual Legality](../explorer/?id=1366) (2001)
+- [The Neglected Stepchild: Military Justice and Democratic Transition in Chile](../explorer/?id=1356) (2005)
 
 ## اصلاح بازار کار و شبکه‌های حمایت اجتماعی
 *21 منبع*
 
-- [[Dependency in Chile. Advances and challenges].](../sources/1421-dependency-in-chile-advances-and-challenges.fa.md) (2019)
-- [[General and infant mortality trends in Chile from 1909 to 2017].](../sources/1405-general-and-infant-mortality-trends-in-chile-from-1909-to-2017.fa.md) (2021)
-- [Telemedicina: desafíos para Chile a la luz de la experiencia de Estados Unidos durante la pandemia](../sources/1419-telemedicina-desafíos-para-chile-a-la-luz-de-la-experiencia-de-estados-unidos-du.fa.md) (2021)
-- [[A system aimed at monitoring healthcare access in Chile].](../sources/1425-a-system-aimed-at-monitoring-healthcare-access-in-chile.fa.md) (2021)
-- [[Correlates of sedentary behaviors in Chile: evidence from the National Health Survey 2009-2010].](../sources/1432-correlates-of-sedentary-behaviors-in-chile-evidence-from-the-national-health-sur.fa.md) (2018)
-- [[Older people in Chile: the new social, economic and health challenge for the 21st century].](../sources/1406-older-people-in-chile-the-new-social-economic-and-health-challenge-for-the-21st-.fa.md) (2020)
-- [[Increasing frequency of obesity in Chile].](../sources/1417-increasing-frequency-of-obesity-in-chile.fa.md) (2019)
-- [[Results of a multicentric colorectal cancer screening program in Chile].](../sources/1438-results-of-a-multicentric-colorectal-cancer-screening-program-in-chile.fa.md) (2018)
-- [[Cancer in Chile and worldwide: an overview of the current and future epidemiological context].](../sources/1418-cancer-in-chile-and-worldwide-an-overview-of-the-current-and-future-epidemiologi.fa.md) (2020)
-- [[Critical analysis of the low organ donation rates in Chile].](../sources/1427-critical-analysis-of-the-low-organ-donation-rates-in-chile.fa.md) (2020)
-- [Trends in clinical trials performed in Chile.](../sources/1412-trends-in-clinical-trials-performed-in-chile.fa.md) (2021)
-- [[The impact of the different waves of COVID-19 pandemic in Chile across regions].](../sources/1395-the-impact-of-the-different-waves-of-covid-19-pandemic-in-chile-across-regions.fa.md) (2023)
-- [[Local advances and challenges in the molecular diagnosis of solid tumors: a health perspective towards precision oncology in Chile].](../sources/1396-local-advances-and-challenges-in-the-molecular-diagnosis-of-solid-tumors-a-healt.fa.md) (2023)
-- [Análisis epidemiológico: Mortalidad por cáncer de pulmón e indicadores de consumo de cigarrillo en Chile 2010-2018](../sources/1411-análisis-epidemiológico-mortalidad-por-cáncer-de-pulmón-e-indicadores-de-consumo.fa.md) (2021)
-- [[Prevalence of anxious and depressive symptoms in Colombian migrants in Chile].](../sources/1433-prevalence-of-anxious-and-depressive-symptoms-in-colombian-migrants-in-chile.fa.md) (2020)
-- [[Incidence of thyroid cancer in an oncological clinic of Santiago, Chile].](../sources/1434-incidence-of-thyroid-cancer-in-an-oncological-clinic-of-santiago-chile.fa.md) (2020)
-- [[The expected cost of cancer in Chile].](../sources/1398-the-expected-cost-of-cancer-in-chile.fa.md) (2022)
-- [[Suicide rates in the Araucania Region of Chile].](../sources/1420-suicide-rates-in-the-araucania-region-of-chile.fa.md) (2021)
-- [[Urinary heavy metals and blood lead levels among residents of Antofagasta, Chile].](../sources/1429-urinary-heavy-metals-and-blood-lead-levels-among-residents-of-antofagasta-chile.fa.md) (2020)
-- [[Incidence of acute myocardial infarction in Chile between 2008 and 2016].](../sources/1414-incidence-of-acute-myocardial-infarction-in-chile-between-2008-and-2016.fa.md) (2021)
-- [[The present situation of colorectal cancer in Chile].](../sources/1436-the-present-situation-of-colorectal-cancer-in-chile.fa.md) (2020)
+- [[Dependency in Chile. Advances and challenges].](../explorer/?id=1421) (2019)
+- [[General and infant mortality trends in Chile from 1909 to 2017].](../explorer/?id=1405) (2021)
+- [Telemedicina: desafíos para Chile a la luz de la experiencia de Estados Unidos durante la pandemia](../explorer/?id=1419) (2021)
+- [[A system aimed at monitoring healthcare access in Chile].](../explorer/?id=1425) (2021)
+- [[Correlates of sedentary behaviors in Chile: evidence from the National Health Survey 2009-2010].](../explorer/?id=1432) (2018)
+- *...و 16 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Chile&category=Labor market reform and social safety nets))
 
 ## شکل‌گیری احزاب سیاسی و تکثرگرایی
 *3 منبع*
 
-- [Shaping the Political Arena: Critical Junctures, the Labor Movement and Regime Dynamics in Latin America](../sources/1103-shaping-the-political-arena-critical-junctures-the-labor-movement-and-regime-dyn.fa.md) (1992)
-- [On the Tasks of a Democratic Opposition](../sources/1378-on-the-tasks-of-a-democratic-opposition.fa.md) (1990)
-- [Tensions and Trade-Offs In Latin America](../sources/1385-tensions-and-trade-offs-in-latin-america.fa.md) (1997)
+- [Shaping the Political Arena: Critical Junctures, the Labor Movement and Regime Dynamics in Latin America](../explorer/?id=1103) (1992)
+- [On the Tasks of a Democratic Opposition](../explorer/?id=1378) (1990)
+- [Tensions and Trade-Offs In Latin America](../explorer/?id=1385) (1997)
 
 ## خصوصی‌سازی و بازسازی شرکت‌های دولتی
 *1 منبع*
 
-- [Business of the State](../sources/0997-business-of-the-state.fa.md) (2024)
+- [Business of the State](../explorer/?id=997) (2024)
 
 ## مدیریت نفرین منابع طبیعی
 *8 منبع*
 
-- [The Natural Resource Curse: A Survey](../sources/1795-the-natural-resource-curse-a-survey.fa.md) (2010)
-- [Petroleum and Political Pacts: The Transition to Democracy in Venezuela](../sources/1731-petroleum-and-political-pacts-the-transition-to-democracy-in-venezuela.fa.md) (1987)
-- [Sociocultural risks of resource extraction for the low-carbon energy transition: Evidence from the Global South](../sources/1374-sociocultural-risks-of-resource-extraction-for-the-low-carbon-energy-transition-.fa.md) (2024)
-- [Factors influencing half‐pearl (mabe) production and quality in the red abalone <i>Haliotis rufescens</i>](../sources/1440-factors-influencing-halfpearl-mabe-production-and-quality-in-the-red-abalone-iha.fa.md) (2019)
-- [Leverettite from the Torrecillas mine, Iquique Provence, Chile: the Co-analogue of herbertsmithite](../sources/1441-leverettite-from-the-torrecillas-mine-iquique-provence-chile-the-co-analogue-of-.fa.md) (2013)
-- [Magnesiokoritnigite, Mg(AsO<sub>3</sub>OH)·H<sub>2</sub>O, from the Torrecillas mine, Iquique Province, Chile: the Mg-analogue of koritnigite](../sources/1454-magnesiokoritnigite-mgasosub3subohhsub2subo-from-the-torrecillas-mine-iquique-pr.fa.md) (2013)
-- [Naalasite, NaAl(AsO3OH)2⋅H2O, the Al analogue of nafeasite from the Torrecillas mine, Iquique Province, Chile](../sources/1392-naalasite-naalaso3oh2h2o-the-al-analogue-of-nafeasite-from-the-torrecillas-mine-.fa.md) (2024)
-- [Pohlite, a new lead iodate hydroxide chloride from Sierra Gorda, Chile](../sources/1403-pohlite-a-new-lead-iodate-hydroxide-chloride-from-sierra-gorda-chile.fa.md) (2022)
+- [The Natural Resource Curse: A Survey](../explorer/?id=1795) (2010)
+- [Petroleum and Political Pacts: The Transition to Democracy in Venezuela](../explorer/?id=1731) (1987)
+- [Sociocultural risks of resource extraction for the low-carbon energy transition: Evidence from the Global South](../explorer/?id=1374) (2024)
+- [Factors influencing half‐pearl (mabe) production and quality in the red abalone <i>Haliotis rufescens</i>](../explorer/?id=1440) (2019)
+- [Leverettite from the Torrecillas mine, Iquique Provence, Chile: the Co-analogue of herbertsmithite](../explorer/?id=1441) (2013)
+- *...و 3 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Chile&category=Resource curse management))
 
 ## رفع تحریم‌ها و بازادغام بین‌المللی
 *1 منبع*
 
-- [[Excess deaths due to the COVID-19 pandemic in Chile].](../sources/1426-excess-deaths-due-to-the-covid-19-pandemic-in-chile.fa.md) (2021)
+- [[Excess deaths due to the COVID-19 pandemic in Chile].](../explorer/?id=1426) (2021)
 
 ## آزادسازی تجارت و سرمایه‌گذاری خارجی
 *1 منبع*
 
-- [Fostering Scaleup Ecosystems for Regional Economic Growth (<i>Innovations Case Narrative</i>: Manizales-Mas and Scale Up Milwaukee)](../sources/1461-fostering-scaleup-ecosystems-for-regional-economic-growth-iinnovations-case-narr.fa.md) (2016)
+- [Fostering Scaleup Ecosystems for Regional Economic Growth (<i>Innovations Case Narrative</i>: Manizales-Mas and Scale Up Milwaukee)](../explorer/?id=1461) (2016)
 
 ## عدالت انتقالی
 *92 منبع*
 
-- [Tierra y derechos humanos en Chile: la contrarreforma agraria de la dictadura de Pinochet y las políticas de reparación campesina](../sources/1384-tierra-y-derechos-humanos-en-chile-la-contrarreforma-agraria-de-la-dictadura-de-.fa.md) (2019)
-- [Social Norms and Economic Theory](../sources/1382-social-norms-and-economic-theory.fa.md) (1989)
-- [Truth Commissions and Transitional Societies](../sources/1358-truth-commissions-and-transitional-societies.fa.md) (2010)
-- [Balancing Ethical Imperatives and Political Constraints: The Dilemma of New Democracies Confronting Past Human Rights Violations](../sources/1488-balancing-ethical-imperatives-and-political-constraints-the-dilemma-of-new-democ.fa.md) (1992)
-- [Gender in Transition: Common Sense, Women, and War](../sources/1493-gender-in-transition-common-sense-women-and-war.fa.md) (2007)
-- [The Instruction of Great Catastrophe: Truth Commissions, National History, and State Formation in Argentina, Chile, and Guatemala](../sources/1479-the-instruction-of-great-catastrophe-truth-commissions-national-history-and-stat.fa.md) (2005)
-- [Tapestries of Hope, Threads of Love: The Arpillera Movement in Chile](../sources/1365-tapestries-of-hope-threads-of-love-the-arpillera-movement-in-chile.fa.md) (2008)
-- [Unofficial Truth Projects](../sources/1487-unofficial-truth-projects.fa.md) (2007)
-- [Truth as Justice: Investigatory Commissions in Latin America](../sources/1489-truth-as-justice-investigatory-commissions-in-latin-america.fa.md) (1995)
-- [Truth commissions and transitional societies: the impact on human rights and democracy](../sources/1360-truth-commissions-and-transitional-societies-the-impact-on-human-rights-and-demo.fa.md) (2010)
-- [Truth Commissions for Chile and El Salvador: A Report and Assessment](../sources/1478-truth-commissions-for-chile-and-el-salvador-a-report-and-assessment.fa.md) (1994)
-- [Retribution and Reparation in the Transition to Democracy](../sources/1357-retribution-and-reparation-in-the-transition-to-democracy.fa.md) (2006)
-- [Human Rights and Democratization in Latin America](../sources/1359-human-rights-and-democratization-in-latin-america.fa.md) (1997)
-- [Dilemmas of Transitional Justice: The Case of South Africa's Truth and Reconciliation Commission](../sources/1363-dilemmas-of-transitional-justice-the-case-of-south-africas-truth-and-reconciliat.fa.md) (1999)
-- [Searching for Peace and Achieving Justice: The Need for Accountability](../sources/1451-searching-for-peace-and-achieving-justice-the-need-for-accountability.fa.md) (2017)
-- [When Truth Commissions Improve Human Rights](../sources/1491-when-truth-commissions-improve-human-rights.fa.md) (2010)
-- [Truth, Justice, Memory, and Democratization in the Southern Cone](../sources/1362-truth-justice-memory-and-democratization-in-the-southern-cone.fa.md) (2001)
-- [Confronting the Past: Justice After Transitions](../sources/1370-confronting-the-past-justice-after-transitions.fa.md) (1993)
-- [Human rights and democratization in Latin America: Uruguay and Chile](../sources/1361-human-rights-and-democratization-in-latin-america-uruguay-and-chile.fa.md) (1998)
-- [Punishment, Reconciliation, and Democratic Deliberation](../sources/1495-punishment-reconciliation-and-democratic-deliberation.fa.md) (2002)
-- [Reckoning with Pinochet: the memory question in democratic Chile, 1989-2006](../sources/1369-reckoning-with-pinochet-the-memory-question-in-democratic-chile-1989-2006.fa.md) (2010)
-- [Tracing collective memory: Chilean truth commissions and memorial sites](../sources/1477-tracing-collective-memory-chilean-truth-commissions-and-memorial-sites.fa.md) (2012)
-- [Neoliberal economics, democratic transition, and Mapuche demands for rights in Chile](../sources/1368-neoliberal-economics-democratic-transition-and-mapuche-demands-for-rights-in-chi.fa.md) (2006)
-- [The Case for A Permanent International Truth Commission](../sources/1471-the-case-for-a-permanent-international-truth-commission.fa.md) (1997)
-- [Assessing the long-term impact of truth commissions: the Chilean Truth and Reconciliation Commission in historical perspective](../sources/1480-assessing-the-long-term-impact-of-truth-commissions-the-chilean-truth-and-reconc.fa.md) (2015)
-- [Witness Citizenship: The Place of Villa Grimaldi in Chilean Memory](../sources/1373-witness-citizenship-the-place-of-villa-grimaldi-in-chilean-memory.fa.md) (2010)
-- [How Does a Truth Commission Find Out What the Truth Is? The Case of East Timor's CAVR](../sources/1498-how-does-a-truth-commission-find-out-what-the-truth-is-the-case-of-east-timors-c.fa.md) (2007)
-- [State Terrorism in Latin America: Chile, Argentina, and International Human Rights](../sources/1499-state-terrorism-in-latin-america-chile-argentina-and-international-human-rights.fa.md) (2008)
-- [Assessing the Long-Term Impact of Truth Commissions](../sources/1364-assessing-the-long-term-impact-of-truth-commissions.fa.md) (2014)
-- [How Transitional Justice Processes and Official Apologies Influence Reconciliation: The Case of the Chilean ‘Truth and Reconciliation’ and ‘Political Imprisonment and Torture’ Commissions](../sources/1483-how-transitional-justice-processes-and-official-apologies-influence-reconciliati.fa.md) (2015)
-- [Tracing Mapuche Exclusion from Post-Dictatorial Truth Commissions in Chile: Official and Grassroots Initiatives](../sources/1482-tracing-mapuche-exclusion-from-post-dictatorial-truth-commissions-in-chile-offic.fa.md) (2018)
-- [Victims Unsilenced: The Inter-American Human Rights System and Transitional Justice in Latin America](../sources/1367-victims-unsilenced-the-inter-american-human-rights-system-and-transitional-justi.fa.md) (2008)
-- [The Truth Commission and Postapartheid Literature in South Africa](../sources/1497-the-truth-commission-and-postapartheid-literature-in-south-africa.fa.md) (2003)
-- [Transitional Justice, Institutions and Temporality: Towards a Dynamic Understanding](../sources/1474-transitional-justice-institutions-and-temporality-towards-a-dynamic-understandin.fa.md) (2021)
-- [Briefer Notices - Report of the Chilean National Commission on Truth and Reconciliation (2 vols.). Phillip E. Berryman trans. (South Bend IN: University of Notre Dame Press, 1994. Pp. x1, xxiii, 907. Index. $59.95, cloth; $29.95, paper.)](../sources/1486-briefer-notices---report-of-the-chilean-national-commission-on-truth-and-reconci.fa.md) (1996)
-- [Evaluative patterns in the official discourse of human rights in Chile: giving value to the past and building historical memories in society](../sources/1500-evaluative-patterns-in-the-official-discourse-of-human-rights-in-chile-giving-va.fa.md) (2009)
-- [From Denial to Reluctant Dialogue: The Chilean Military's Confrontation with Human Rights (1990-2006)](../sources/1377-from-denial-to-reluctant-dialogue-the-chilean-militarys-confrontation-with-human.fa.md) (2009)
-- [Exploring/Expanding the Reach of Transitional Justice](../sources/1376-exploringexpanding-the-reach-of-transitional-justice.fa.md) (2017)
-- [‘Tortured bodies’: The biopolitics of torture and truth in Chile](../sources/1504-tortured-bodies-the-biopolitics-of-torture-and-truth-in-chile.fa.md) (2012)
-- [Feminist Perspectives on Transitional Justice](../sources/1375-feminist-perspectives-on-transitional-justice.fa.md) (2013)
-- [Justice, Impunity and the Transition to Democracy: a challenge for human rights education](../sources/1380-justice-impunity-and-the-transition-to-democracy-a-challenge-for-human-rights-ed.fa.md) (1994)
-- [TRUTH AND TRUTH COMMISSIONS IN LATIN AMERICA](../sources/1501-truth-and-truth-commissions-in-latin-america.fa.md) (2013)
-- [Truth in transition: The role of truth commissions in political transition in Chile and El Salvador](../sources/1485-truth-in-transition-the-role-of-truth-commissions-in-political-transition-in-chi.fa.md) (1999)
-- [Post-Transitional Justice: Human Rights Trials in Chile and El Salvador](../sources/1387-post-transitional-justice-human-rights-trials-in-chile-and-el-salvador.fa.md) (2012)
-- [Larraín’s Film No and Its Inspiration, El plebiscito : Chile’s Transition to Democracy as a Simulacrum](../sources/1389-larraíns-film-no-and-its-inspiration-el-plebiscito--chiles-transition-to-democra.fa.md) (2015)
-- [[Negative effects of the patients' rights law and neuro-rights bill in Chile].](../sources/1413-negative-effects-of-the-patients-rights-law-and-neuro-rights-bill-in-chile.fa.md) (2021)
-- [Do Museums Promote Reconciliation? A Field Experiment on Transitional Justice](../sources/1381-do-museums-promote-reconciliation-a-field-experiment-on-transitional-justice.fa.md) (2018)
-- [Post-transitional Justice](../sources/1391-post-transitional-justice.fa.md) (2015)
-- [The rights to memory and truth in the Inter-American paradigms of transitional justice: the cases of Brazil and Chile](../sources/1390-the-rights-to-memory-and-truth-in-the-inter-american-paradigms-of-transitional-j.fa.md) (2018)
-- [[Social determinants of access to the explicit guarantees health program implemented in Chile].](../sources/1399-social-determinants-of-access-to-the-explicit-guarantees-health-program-implemen.fa.md) (2022)
-- [Process Pluralism in Transitional-Restorative Justice](../sources/1450-process-pluralism-in-transitional-restorative-justice.fa.md) (2015)
-- [TRUTH COMMISSIONS IN TRANSNATIONAL PERSPECTIVE. WORKING THROUGH THE PAST IN CHILE AND ROMANIA](../sources/1492-truth-commissions-in-transnational-perspective-working-through-the-past-in-chile.fa.md) (2019)
-- [Contingent Valuation: Is Some Number Better than No Number?](../sources/1386-contingent-valuation-is-some-number-better-than-no-number.fa.md) (1994)
-- [Unspeakable Truths](../sources/1481-unspeakable-truths.fa.md) (2002)
-- [Neoliberalism as concept](../sources/1442-neoliberalism-as-concept.fa.md) (2015)
-- [Accountability for Past Abuses](../sources/1447-accountability-for-past-abuses.fa.md) (1997)
-- [Transitional Justice](../sources/1490-transitional-justice.fa.md) (2019)
-- [Can Amnesties and International Justice be Reconciled?](../sources/1462-can-amnesties-and-international-justice-be-reconciled.fa.md) (2007)
-- [Atrocities and international accountability: beyond transitional justice](../sources/1476-atrocities-and-international-accountability-beyond-transitional-justice.fa.md) (2008)
-- [Latin American Amnesties in Comparative Perspective: Can the Past Be Buried?](../sources/1372-latin-american-amnesties-in-comparative-perspective-can-the-past-be-buried.fa.md) (1999)
-- [Do Transitional Justice Museums Persuade Visitors? Evidence from a Field Experiment](../sources/1371-do-transitional-justice-museums-persuade-visitors-evidence-from-a-field-experime.fa.md) (2021)
-- [Personal emotions, emotional climate, social sharing, beliefs, and values among people affected and unaffected by past political violence.](../sources/1502-personal-emotions-emotional-climate-social-sharing-beliefs-and-values-among-peop.fa.md) (2014)
-- [Luz Arce and Pinochet's Chile : testimony in the aftermath of state violence](../sources/1505-luz-arce-and-pinochets-chile--testimony-in-the-aftermath-of-state-violence.fa.md) (2011)
-- [Percepciones sobre acceso y uso de servicios de salud mental por parte de inmigrantes en Chile, desde la perspectiva de trabajadores, autoridades e inmigrantes](../sources/1416-percepciones-sobre-acceso-y-uso-de-servicios-de-salud-mental-por-parte-de-inmigr.fa.md) (2019)
-- [[Factors associated with sedentary lifestyle and physical inactivity in Chile: a qualitative systematic review].](../sources/1408-factors-associated-with-sedentary-lifestyle-and-physical-inactivity-in-chile-a-q.fa.md) (2020)
-- [[Healthcare of transgenders by non-specialists in Chile].](../sources/1422-healthcare-of-transgenders-by-non-specialists-in-chile.fa.md) (2019)
-- [Memory](../sources/1379-memory.fa.md) (2016)
-- [[Factors associated with cognitive impairment in older adults in Chile].](../sources/1428-factors-associated-with-cognitive-impairment-in-older-adults-in-chile.fa.md) (2019)
-- [Dealing with a Legacy of Mass Atrocity: Truth Commissions in Uganda and Chile](../sources/1484-dealing-with-a-legacy-of-mass-atrocity-truth-commissions-in-uganda-and-chile.fa.md) (2001)
-- [[National action plan for the emergence of invasive meningococcal disease in Chile, 2012-2013].](../sources/1430-national-action-plan-for-the-emergence-of-invasive-meningococcal-disease-in-chil.fa.md) (2019)
-- [[Telestroke in Chile: 1 year experience at 7 hospitals].](../sources/1435-telestroke-in-chile-1-year-experience-at-7-hospitals.fa.md) (2019)
-- [Deaths and Disappearances in the Pinochet Regime: A New Dataset](../sources/1494-deaths-and-disappearances-in-the-pinochet-regime-a-new-dataset.fa.md) (2019)
-- [[Epidemiology of cysticercosis in Chile].](../sources/1401-epidemiology-of-cysticercosis-in-chile.fa.md) (2022)
-- [[Adaptation and validation of aged adults' adaptation scale to their residence (EAPAR) in Chile].](../sources/1407-adaptation-and-validation-of-aged-adults-adaptation-scale-to-their-residence-eap.fa.md) (2022)
-- [Post-Transitional Justice: Human Rights Trials in Chile and El Salvador. By Cath Collins. University Park: Penn State University Press, 2010. 296p. $56.95 cloth, $28.95 paper. - Lustration and Transitional Justice: Personnel Systems in the Czech Republic, Hungary, and Poland. By Roman David. Philadelphia: University of Pennsylvania Press, 2011. 328p. $69.95.](../sources/1472-post-transitional-justice-human-rights-trials-in-chile-and-el-salvador-by-cath-c.fa.md) (2013)
-- [Revision of the genus &lt;i&gt;Glyphithyreus&lt;/i&gt; Reuss, 1859 (Crustacea, Decapoda, Brachyura, Xanthoidea) and recognition of a new genus](../sources/1452-revision-of-the-genus-ltigtglyphithyreusltigt-reuss-1859-crustacea-decapoda-brac.fa.md) (2004)
-- [Wood Identification -A Review](../sources/1460-wood-identification--a-review.fa.md) (1998)
-- [Herbertsmithite, Cu<sub>3</sub>Zn(OH)<sub>6</sub>Cl<sub>2</sub>, a new species, and the definition of paratacamite](../sources/1439-herbertsmithite-cusub3subznohsub6subclsub2sub-a-new-species-and-the-definition-o.fa.md) (2004)
-- [Tectonic slicing of subducting oceanic crust along plate interfaces: Numerical modeling](../sources/1473-tectonic-slicing-of-subducting-oceanic-crust-along-plate-interfaces-numerical-mo.fa.md) (2015)
-- [Paratacamite-(Mg), Cu<sub>3</sub>(Mg,Cu)Cl<sub>2</sub>(OH)<sub>6</sub>; a new substituted basic copper chloride mineral from Camerones, Chile](../sources/1446-paratacamite-mg-cusub3submgcuclsub2subohsub6sub-a-new-substituted-basic-copper-c.fa.md) (2013)
-- [Gajardoite, KCa<sub>0.5</sub>As<sup>3+</sup><sub>4</sub>O<sub>6</sub>Cl<sub>2</sub>·5H<sub>2</sub>O, a new mineral related to lucabindiite and torrecillasite from the Torrecillas mine, Iquique Province, Chile](../sources/1445-gajardoite-kcasub05subassup3supsub4subosub6subclsub2sub5hsub2subo-a-new-mineral-.fa.md) (2016)
-- [Canutite, NaMn<sub>3</sub>[AsO<sub>4</sub>][AsO<sub>3</sub>(OH)]<sub>2</sub>, a new protonated alluaudite-group mineral from the Torrecillas mine, Iquique Province, Chile](../sources/1448-canutite-namnsub3subasosub4subasosub3subohsub2sub-a-new-protonated-alluaudite-gr.fa.md) (2014)
-- [Bariopharmacoalumite, a new mineral species from Cap Garonne, France and Mina Grande, Chile](../sources/1443-bariopharmacoalumite-a-new-mineral-species-from-cap-garonne-france-and-mina-gran.fa.md) (2011)
-- [Camaronesite, [Fe<sup>3+</sup>(H<sub>2</sub>O)<sub>2</sub>(PO<sub>3</sub>OH)]<sub>2</sub>(SO<sub>4</sub>)·1–2H<sub>2</sub>O, a new phosphate-sulfate from the Camarones Valley, Chile, structurally related to taranakite](../sources/1455-camaronesite-fesup3suphsub2subosub2subposub3subohsub2subsosub4sub12hsub2subo-a-n.fa.md) (2013)
-- [[Characterization of Salmonella Heidelberg strains isolated in Chile].](../sources/1431-characterization-of-salmonella-heidelberg-strains-isolated-in-chile.fa.md) (2019)
-- [Alcaparrosaite, K<sub>3</sub>Ti<sup>4+</sup>Fe<sup>3+</sup>(SO<sub>4</sub>)<sub>4</sub>O(H<sub>2</sub>O)<sub>2</sub>, a new hydrophobic Ti<sup>4+</sup> sulfate from Alcaparrosa, Chile](../sources/1467-alcaparrosaite-ksub3subtisup4supfesup3supsosub4subsub4subohsub2subosub2sub-a-new.fa.md) (2012)
-- [Joteite, Ca<sub>2</sub>CuAl[AsO<sub>4</sub>][AsO<sub>3</sub>(OH)]<sub>2</sub>(OH)<sub>2</sub>·5H<sub>2</sub>O, a new arsenate with a sheet structure and unconnected acid arsenate groups](../sources/1470-joteite-casub2subcualasosub4subasosub3subohsub2subohsub2sub5hsub2subo-a-new-arse.fa.md) (2013)
-- [Cuatrocapaite-(NH<sub>4</sub>) and cuatrocapaite-(K), two new minerals from the Torrecillas mine, Iquique Province, Chile, related to lucabindiite and gajardoite](../sources/1468-cuatrocapaite-nhsub4sub-and-cuatrocapaite-k-two-new-minerals-from-the-torrecilla.fa.md) (2019)
-- [Currierite, Na<sub>4</sub>Ca<sub>3</sub>MgAl<sub>4</sub>(AsO<sub>3</sub>OH)<sub>12</sub>·9H<sub>2</sub>O, a new acid arsenate with ferrinatrite-like heteropolyhedral chains from the Torrecillas mine, Iquique Province, Chile](../sources/1463-currierite-nasub4subcasub3submgalsub4subasosub3subohsub12sub9hsub2subo-a-new-aci.fa.md) (2017)
-- [Antofagastaite, Na<sub>2</sub>Ca(SO<sub>4</sub>)<sub>2</sub>·1.5H<sub>2</sub>O, a new mineral related to syngenite](../sources/1464-antofagastaite-nasub2subcasosub4subsub2sub15hsub2subo-a-new-mineral-related-to-s.fa.md) (2019)
-- [Cuyaite, Ca<sub>2</sub>Mn<sup>3+</sup>As<sup>3+</sup><sub>14</sub>O<sub>24</sub>Cl, a new mineral with an arsenite framework from near Cuya, Camarones Valley, Chile.](../sources/1469-cuyaite-casub2submnsup3supassup3supsub14subosub24subcl-a-new-mineral-with-an-ars.fa.md) (2020)
-- [Nafeasite, NaFe3+(AsO3OH)2⋅H2O, a new framework arsenate from the Torrecillas mine, Iquique Province, Chile](../sources/1404-nafeasite-nafe3aso3oh2h2o-a-new-framework-arsenate-from-the-torrecillas-mine-iqu.fa.md) (2022)
+- [Tierra y derechos humanos en Chile: la contrarreforma agraria de la dictadura de Pinochet y las políticas de reparación campesina](../explorer/?id=1384) (2019)
+- [Social Norms and Economic Theory](../explorer/?id=1382) (1989)
+- [Truth Commissions and Transitional Societies](../explorer/?id=1358) (2010)
+- [Balancing Ethical Imperatives and Political Constraints: The Dilemma of New Democracies Confronting Past Human Rights Violations](../explorer/?id=1488) (1992)
+- [Gender in Transition: Common Sense, Women, and War](../explorer/?id=1493) (2007)
+- *...و 87 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Chile&category=Transitional justice))
 
 ## تدوین حقوق زنان و برابری جنسیتی
 *2 منبع*
 
-- [[Socioeconomic determinants and gender gaps in depressive symptoms in Chile].](../sources/1410-socioeconomic-determinants-and-gender-gaps-in-depressive-symptoms-in-chile.fa.md) (2021)
-- [Gendering Trauma: Ariel Dorfman's Narratives of Crisis and Reconciliation](../sources/1496-gendering-trauma-ariel-dorfmans-narratives-of-crisis-and-reconciliation.fa.md) (2007)
+- [[Socioeconomic determinants and gender gaps in depressive symptoms in Chile].](../explorer/?id=1410) (2021)
+- [Gendering Trauma: Ariel Dorfman's Narratives of Crisis and Reconciliation](../explorer/?id=1496) (2007)
 
 </div>

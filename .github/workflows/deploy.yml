@@ -23,6 +23,10 @@ jobs:
           python-version: '3.13'
       - run: pip install mkdocs-material mkdocs-static-i18n
       - run: mkdocs build
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npx pagefind --site site/
       - uses: actions/upload-pages-artifact@v4
         with:
           path: site

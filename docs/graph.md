@@ -54,6 +54,16 @@
   <button id="btn-zoom-out" title="Zoom out">−</button>
   <button id="btn-reset" title="Reset view">Reset</button>
   <select id="filter-category"><option value="">All categories</option></select>
+  <select id="load-case-data" title="Load graph data for a case study">
+    <option value="iran" selected>Iran (default)</option>
+    <option value="poland">Poland</option>
+    <option value="indonesia">Indonesia</option>
+    <option value="south-korea">South Korea</option>
+    <option value="spain">Spain</option>
+    <option value="tunisia">Tunisia</option>
+    <option value="czech-republic">Czech Republic</option>
+    <option value="chile">Chile</option>
+  </select>
   <select id="filter-case"><option value="">All case studies</option></select>
   <label style="font-size:13px; display:flex; align-items:center; gap:4px;">
     <input type="checkbox" id="toggle-labels"> Labels
@@ -78,12 +88,43 @@
   const WIDTH_RATIO = 1;
   const HEIGHT = 700;
 
-  fetch('../data/graph_nodes.json')
-    .then(r => r.json())
-    .then(nodes => {
-      fetch('../data/graph_edges.json')
+  // Lazy loading: start with Iran, fetch others on demand
+  let currentCase = 'iran';
+  let graphRendered = false;
+
+  function loadGraphData(caseName) {
+    const file = '../data/graph_' + caseName + '.json';
+    return fetch(file).then(r => r.json());
+  }
+
+  // Load Iran first (primary focus), then render
+  loadGraphData('iran')
+    .then(data => {
+      // Progressive: show high-relevance nodes first
+      const highRel = data.nodes.filter(n => !n.relevance || n.relevance >= 4 || n.type === 'category');
+      const lowRel = data.nodes.filter(n => n.relevance && n.relevance < 4 && n.type !== 'category');
+      const highIds = new Set(highRel.map(n => n.id));
+      const highEdges = data.edges.filter(e => highIds.has(e.source) && highIds.has(e.target));
+
+      renderGraph(highRel, highEdges);
+      graphRendered = true;
+
+      // After initial render, add remaining nodes
+      if (lowRel.length > 0) {
+        setTimeout(() => {
+          renderGraph(data.nodes, data.edges);
+        }, 500);
+      }
+    })
+    .catch(() => {
+      // Fallback to combined files
+      fetch('../data/graph_nodes.json')
         .then(r => r.json())
-        .then(edges => renderGraph(nodes, edges));
+        .then(nodes => {
+          fetch('../data/graph_edges.json')
+            .then(r => r.json())
+            .then(edges => renderGraph(nodes, edges));
+        });
     });
 
   function renderGraph(allNodes, allEdges) {
@@ -371,6 +412,21 @@
     document.getElementById('toggle-labels').addEventListener('change', (e) => {
       const show = e.target.checked;
       labels.attr('opacity', d => d._filtered === false ? 0 : (show ? 1 : 0));
+    });
+
+    // Load different case study data
+    document.getElementById('load-case-data').addEventListener('change', (e) => {
+      const caseName = e.target.value;
+      loadGraphData(caseName).then(data => {
+        // Clear existing SVG and re-render
+        d3.select('#graph-container svg').remove();
+        document.getElementById('graph-legend').innerHTML = '';
+        document.getElementById('filter-category').innerHTML = '<option value="">All categories</option>';
+        document.getElementById('filter-case').innerHTML = '<option value="">All case studies</option>';
+        renderGraph(data.nodes, data.edges);
+      }).catch(err => {
+        console.error('Failed to load graph for ' + caseName + ':', err);
+      });
     });
 
     // Cluster by category

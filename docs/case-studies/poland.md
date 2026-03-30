@@ -2,897 +2,166 @@
 
 **815 sources** across 20 categories
 
+[Browse all Poland sources in Explorer](../explorer/?case_study=Poland)
+
 ## Banking and financial system reform
 *3 sources*
 
-- [The Polish Tax Reform](../sources/1339-the-polish-tax-reform.md) (2000) | Relevance: 4.0
-- [Deciphering the Liquidity and Credit Crunch 2007–2008](../sources/1334-deciphering-the-liquidity-and-credit-crunch-20072008.md) (2009) | Relevance: 3.0
-- [Reflections on Northern Rock: The Bank Run that Heralded the Global Financial Crisis](../sources/1351-reflections-on-northern-rock-the-bank-run-that-heralded-the-global-financial-cri.md) (2009) | Relevance: 3.0
+- [The Polish Tax Reform](../explorer/?id=1339) (2000) | Relevance: 4.0
+- [Deciphering the Liquidity and Credit Crunch 2007–2008](../explorer/?id=1334) (2009) | Relevance: 3.0
+- [Reflections on Northern Rock: The Bank Run that Heralded the Global Financial Crisis](../explorer/?id=1351) (2009) | Relevance: 3.0
 
 ## Civil society development
 *88 sources*
 
-- [Determinants of Economic Growth: A Cross-Country Empirical Study](../sources/4484-determinants-of-economic-growth-a-cross-country-empirical-study.md) (1996) | Relevance: 5.0
-- [Gender as “Ebola from Brussels”: The Anticolonial Frame and the Rise of Illiberal Populism](../sources/4483-gender-as-ebola-from-brussels-the-anticolonial-frame-and-the-rise-of-illiberal-p.md) (2018) | Relevance: 5.0
-- [NGOs and Their Vulnerabilities During the Time of Transition: The Case of Poland](../sources/4416-ngos-and-their-vulnerabilities-during-the-time-of-transition-the-case-of-poland.md) (1999) | Relevance: 5.0
-- [Democratization in Eastern and Western Europe](../sources/4402-democratization-in-eastern-and-western-europe.md) (1993) | Relevance: 5.0
-- [Democratization and Market Reform in Developing and Transitional Countries: Think Tanks as Catalysts](../sources/4404-democratization-and-market-reform-in-developing-and-transitional-countries-think.md) (2010) | Relevance: 5.0
-- [Democratization and Market Reform in Developing and Transitional Countries](../sources/4406-democratization-and-market-reform-in-developing-and-transitional-countries.md) (2010) | Relevance: 5.0
-- [Social Capital and the Transition to Democracy](../sources/4451-social-capital-and-the-transition-to-democracy.md) (2004) | Relevance: 4.0
-- [Beyond NGO-ization: The Development of Social Movements in Central and Eastern Europe](../sources/4414-beyond-ngo-ization-the-development-of-social-movements-in-central-and-eastern-eu.md) (2013) | Relevance: 4.0
-- [Local democracy and the challenges of decentralising the state: An international perspective](../sources/4401-local-democracy-and-the-challenges-of-decentralising-the-state-an-international-.md) (2006) | Relevance: 4.0
-- [The Changing Aspects of Civil Society in China](../sources/4432-the-changing-aspects-of-civil-society-in-china.md) (2006) | Relevance: 4.0
-- [Civil Society and Three Dimensions of Inequality in Post-1989 Poland](../sources/4457-civil-society-and-three-dimensions-of-inequality-in-post-1989-poland.md) (2017) | Relevance: 4.0
-- [The current status of disability activism and non‐governmental organizations in post‐communist Europe: preliminary findings based on reports from the field](../sources/4424-the-current-status-of-disability-activism-and-nongovernmental-organizations-in-p.md) (2008) | Relevance: 4.0
-- [CSR in Poland: Institutional Context, Legal Framework and Voluntary Initiatives](../sources/4423-csr-in-poland-institutional-context-legal-framework-and-voluntary-initiatives.md) (2016) | Relevance: 4.0
-- [Post-industrial, post-socialist or new productive city? Case study of the spatial and functional change of the chosen Warsaw industrial sites after 1989](../sources/4443-post-industrial-post-socialist-or-new-productive-city-case-study-of-the-spatial-.md) (2019) | Relevance: 4.0
-- [Judicial Reforms in Central and Eastern European Countries](../sources/4447-judicial-reforms-in-central-and-eastern-european-countries.md) (2008) | Relevance: 4.0
-- [Shrinking, Shifting, and Strengthening: The Dynamics and Diversity of Civic Activism in Poland](../sources/4469-shrinking-shifting-and-strengthening-the-dynamics-and-diversity-of-civic-activis.md) (2022) | Relevance: 4.0
-- [Markets and civil society: the European experience in comparative perspective](../sources/4465-markets-and-civil-society-the-european-experience-in-comparative-perspective.md) (2010) | Relevance: 4.0
-- [Research-Policy Dialogues in Poland](../sources/4422-research-policy-dialogues-in-poland.md) (2015) | Relevance: 4.0
-- [Legal and practical conditions of the functioning of the civil society organizations in Hungary and Poland](../sources/4403-legal-and-practical-conditions-of-the-functioning-of-the-civil-society-organizat.md) (2022) | Relevance: 4.0
-- [When Recipients Become Donors](../sources/4437-when-recipients-become-donors.md) (2010) | Relevance: 4.0
-- [Citizen e-Participation as an Important Factor for Sustainable Development](../sources/4473-citizen-e-participation-as-an-important-factor-for-sustainable-development.md) (2019) | Relevance: 4.0
-- [The Institutional Settings of the Recovery of the NGO Sector in Post-Communist Countries](../sources/4433-the-institutional-settings-of-the-recovery-of-the-ngo-sector-in-post-communist-c.md) (2020) | Relevance: 4.0
-- [Post-Soviet Youth: Engagement in Civil Society-Belarus and Beyond](../sources/4412-post-soviet-youth-engagement-in-civil-society-belarus-and-beyond.md) (1999) | Relevance: 4.0
-- [Populist constitutional politics and civil society fundamentalism](../sources/4410-populist-constitutional-politics-and-civil-society-fundamentalism.md) (2023) | Relevance: 4.0
-- [Роль громадянського суспільства у процесі демократичного транзиту в Україні і Польщі](../sources/1286-роль-громадянського-суспільства-у-процесі-демократичного-транзиту-в-україні-і-по.md) (2024) | Relevance: 4.0
-- [EU 7 FP project Governing urban divercity: Creating social cohesion, social mobility and economic performance in today’s hyper-diversified cities (DIVERCITIES) – The case of Warsaw](../sources/4425-eu-7-fp-project-governing-urban-divercity-creating-social-cohesion-social-mobili.md) (2017) | Relevance: 3.0
-- [THE CASE FOR REGIONAL DEVELOPMENT INTERVENTION: PLACE‐BASED VERSUS PLACE‐NEUTRAL APPROACHES*](../sources/4481-the-case-for-regional-development-intervention-placebased-versus-placeneutral-ap.md) (2012) | Relevance: 3.0
-- [Rethinking Civil Society: Toward Democratic Consolidation](../sources/4400-rethinking-civil-society-toward-democratic-consolidation.md) (1994) | Relevance: 3.0
-- [The Individual Bases of Political Trust: Trends in New and Established Democracies](../sources/4408-the-individual-bases-of-political-trust-trends-in-new-and-established-democracie.md) (2005) | Relevance: 3.0
-- [Cultural heritage in building and enhancing social capital](../sources/4420-cultural-heritage-in-building-and-enhancing-social-capital.md) (2013) | Relevance: 3.0
-- [Nashi, Youth Voluntarism, and Potemkin NGOs: Making Sense of Civil Society in Post-Soviet Russia](../sources/1294-nashi-youth-voluntarism-and-potemkin-ngos-making-sense-of-civil-society-in-post-.md) (2012) | Relevance: 3.0
-- [Networks in Opposition: Linking Organizations through Activists in the Polish People's Republic](../sources/4454-networks-in-opposition-linking-organizations-through-activists-in-the-polish-peo.md) (2003) | Relevance: 3.0
-- [Social movements in energy transitions: The politics of fossil fuel energy pathways in the United Kingdom, the Netherlands and Poland](../sources/4421-social-movements-in-energy-transitions-the-politics-of-fossil-fuel-energy-pathwa.md) (2022) | Relevance: 3.0
-- [Domestic Violence in Postcommunist States: Local Activism, National Policies, and Global Forces](../sources/4428-domestic-violence-in-postcommunist-states-local-activism-national-policies-and-g.md) (2010) | Relevance: 3.0
-- [`We Shall Rebuild Anew a Powerful Nation': UNRRA, Internationalism and National Reconstruction in Poland](../sources/4459-we-shall-rebuild-anew-a-powerful-nation-unrra-internationalism-and-national-reco.md) (2008) | Relevance: 3.0
-- [Implementation of the EU CCS Directive in Europe: Results and Development in 2013](../sources/4436-implementation-of-the-eu-ccs-directive-in-europe-results-and-development-in-2013.md) (2014) | Relevance: 3.0
-- [The State of Microfinance in Central and Eastern Europe and the New Independent States](../sources/4442-the-state-of-microfinance-in-central-and-eastern-europe-and-the-new-independent-.md) (2003) | Relevance: 3.0
-- [Corporate Social Responsibility, Accountability and Governance](../sources/4448-corporate-social-responsibility-accountability-and-governance.md) (2018) | Relevance: 3.0
-- [Local Parties in Political and Organizational Perspective](../sources/4471-local-parties-in-political-and-organizational-perspective.md) (2001) | Relevance: 3.0
-- [“Democracy Is Not for Everyone”](../sources/4466-democracy-is-not-for-everyone.md) (2020) | Relevance: 3.0
-- [Democracies Divided](../sources/4480-democracies-divided.md) (2019) | Relevance: 3.0
-- [Blue Velvet: the rise and decline of the new Czech right](../sources/4470-blue-velvet-the-rise-and-decline-of-the-new-czech-right.md) (2004) | Relevance: 3.0
-- [Promoting Civil Society in Contemporary Poland: Gendered Results of Institutional Changes](../sources/4430-promoting-civil-society-in-contemporary-poland-gendered-results-of-institutional.md) (2013) | Relevance: 3.0
-- [Moral Blueprint or Neoliberal Gobbledygook?](../sources/4439-moral-blueprint-or-neoliberal-gobbledygook.md) (2014) | Relevance: 3.0
-- [Quality of Life and Quality of Living in Rural Communes in Poland](../sources/4446-quality-of-life-and-quality-of-living-in-rural-communes-in-poland.md) (2018) | Relevance: 3.0
-- [Civil Society in Poland after 1989: A Legacy of Socialism?](../sources/4464-civil-society-in-poland-after-1989-a-legacy-of-socialism.md) (2005) | Relevance: 3.0
-- [Building Trust: Laying a Foundation for Environmental Regulation in the Former Soviet Bloc](../sources/4440-building-trust-laying-a-foundation-for-environmental-regulation-in-the-former-so.md) (2000) | Relevance: 3.0
-- [Analysis of the Economic Soundness and Viability of Migrating from Net Billing to Net Metering Using Energy Cooperatives](../sources/4482-analysis-of-the-economic-soundness-and-viability-of-migrating-from-net-billing-t.md) (2024) | Relevance: 3.0
-- [Sovietology, Post-Sovietology, and the Study of Postcommunist Democratization](../sources/4411-sovietology-post-sovietology-and-the-study-of-postcommunist-democratization.md) (2003) | Relevance: 3.0
-- [The Impact of Morally Injurious Events on the Dynamics of Mobilization for Women’s Rights in Poland](../sources/4472-the-impact-of-morally-injurious-events-on-the-dynamics-of-mobilization-for-women.md) (2022) | Relevance: 3.0
-- [The Role of NGOs in the Development of Societies and Overcoming the Consequences of Crises: Case Studies of Poland and Russia](../sources/4413-the-role-of-ngos-in-the-development-of-societies-and-overcoming-the-consequences.md) (2016) | Relevance: 3.0
-- [Ethnos, demos and democratization: A comparison of the Czech Republic, Hungary and Poland](../sources/4477-ethnos-demos-and-democratization-a-comparison-of-the-czech-republic-hungary-and-.md) (1997) | Relevance: 3.0
-- [Civic engagement in local politics in Central Europe](../sources/4405-civic-engagement-in-local-politics-in-central-europe.md) (2018) | Relevance: 3.0
-- [Circular Economy in Poland: Main Achievements and Future Prospects](../sources/4438-circular-economy-in-poland-main-achievements-and-future-prospects.md) (2021) | Relevance: 3.0
-- [FINANCIAL INSTRUMENTS FOR SOCIAL INFRASTRUCTURE DEVELOPMENT OF THE REGION IN CONDITIONS OF DECENTRALIZATION](../sources/4478-financial-instruments-for-social-infrastructure-development-of-the-region-in-con.md) (2019) | Relevance: 3.0
-- [The phenomenon of non-governmental organizations: new stimuli for cultural development in rural areas of Poland.](../sources/4441-the-phenomenon-of-non-governmental-organizations-new-stimuli-for-cultural-develo.md) (2014) | Relevance: 3.0
-- [Health literacy and public health: A systematic review and integration of definitions and models](../sources/4456-health-literacy-and-public-health-a-systematic-review-and-integration-of-definit.md) (2012) | Relevance: 2.0
-- [The Organization of Firms Across Countries*](../sources/4476-the-organization-of-firms-across-countries.md) (2012) | Relevance: 2.0
-- [Ethno‐nationalist populism and the mobilization of collective resentment](../sources/4409-ethnonationalist-populism-and-the-mobilization-of-collective-resentment.md) (2017) | Relevance: 2.0
-- [The Possibilities and Pitfalls of NGO Feminism: Insights from Postsocialist Eastern Europe](../sources/4415-the-possibilities-and-pitfalls-of-ngo-feminism-insights-from-postsocialist-easte.md) (2011) | Relevance: 2.0
-- [Two types of presidentialization in the party politics of Central Eastern Europe](../sources/4458-two-types-of-presidentialization-in-the-party-politics-of-central-eastern-europe.md) (2015) | Relevance: 2.0
-- [Digital inclusion from the perspective of teachers of older adults - expectations, experiences, challenges and supporting measures](../sources/4426-digital-inclusion-from-the-perspective-of-teachers-of-older-adults---expectation.md) (2020) | Relevance: 2.0
-- [Challenges and opportunities in biodiversity conservation on private land: an institutional perspective from Central Europe and North America](../sources/4461-challenges-and-opportunities-in-biodiversity-conservation-on-private-land-an-ins.md) (2015) | Relevance: 2.0
-- [1 Development and Management](../sources/4419-1-development-and-management.md) (1991) | Relevance: 2.0
-- [Game of the City Re-Negotiated: the Polish Urban Re-Generation Movement as an Emerging Actor in a Strategic Action Field](../sources/4407-game-of-the-city-re-negotiated-the-polish-urban-re-generation-movement-as-an-eme.md) (2016) | Relevance: 2.0
-- [Participatory Budget as a Tool Supporting the Development of Civil Society in Poland](../sources/4455-participatory-budget-as-a-tool-supporting-the-development-of-civil-society-in-po.md) (2020) | Relevance: 2.0
-- [The Crosses of Auschwitz: Nationalism and Religion in Post-Communist Poland](../sources/4462-the-crosses-of-auschwitz-nationalism-and-religion-in-post-communist-poland.md) (2009) | Relevance: 2.0
-- [The bright side of social economy sector’s projectification: a study of successful social enterprises](../sources/4431-the-bright-side-of-social-economy-sectors-projectification-a-study-of-successful.md) (2016) | Relevance: 2.0
-- [Civic Sectors in Transformation and Beyond: Preliminaries for a Comparison of Six Central and Eastern European Societies](../sources/4460-civic-sectors-in-transformation-and-beyond-preliminaries-for-a-comparison-of-six.md) (2012) | Relevance: 2.0
-- [Poland: “the police are not the public and the public are not the police”](../sources/4468-poland-the-police-are-not-the-public-and-the-public-are-not-the-police.md) (1997) | Relevance: 2.0
-- [Anti-nuclear Movements in Discursive and Political Contexts : Between Expert Voices and Local Protests](../sources/4449-anti-nuclear-movements-in-discursive-and-political-contexts--between-expert-voic.md) (2017) | Relevance: 2.0
-- [Development of Non-Governmental Organizations in Poland](../sources/4427-development-of-non-governmental-organizations-in-poland.md) (2017) | Relevance: 2.0
-- [Local border traffic and the development of retail trade in the Kaliningrad region and Polish borderlands](../sources/4429-local-border-traffic-and-the-development-of-retail-trade-in-the-kaliningrad-regi.md) (2015) | Relevance: 2.0
-- [The Status of the Implementation of the Building Information Modeling Mandate in Poland: A Literature Review](../sources/4444-the-status-of-the-implementation-of-the-building-information-modeling-mandate-in.md) (2024) | Relevance: 2.0
-- [Regendering defence through a national-conservative platform? The case of Polish paramilitary organizing](../sources/4475-regendering-defence-through-a-national-conservative-platform-the-case-of-polish-.md) (2021) | Relevance: 2.0
-- [SOCIAL CLUSTERS – OPEN SPACE FOR SOCIAL INNOVATIONS DEVELOPMENT](../sources/4450-social-clusters--open-space-for-social-innovations-development.md) (2015) | Relevance: 2.0
-- [Humane Resources? The People Behind Polish Civil Society Organizations](../sources/4479-humane-resources-the-people-behind-polish-civil-society-organizations.md) (2022) | Relevance: 2.0
-- [ICT in schools and non-formal education in Poland. Challenges of digital literacy development, modernisation of education system and digital inclusion through new media from the perspective of experts from business, education and NGO sectors](../sources/4418-ict-in-schools-and-non-formal-education-in-poland-challenges-of-digital-literacy.md) (2020) | Relevance: 2.0
-- [Mediatyzacja organizacji pozarządowych w procesie komunikacji politycznej](../sources/4485-mediatyzacja-organizacji-pozarządowych-w-procesie-komunikacji-politycznej.md) (2014) | Relevance: 2.0
-- [2016 European Guidelines on cardiovascular disease prevention in clinical practice](../sources/4417-2016-european-guidelines-on-cardiovascular-disease-prevention-in-clinical-practi.md) (2016) | Relevance: 1.0
-- [21st Century Skills and Competences for New Millennium Learners in OECD Countries](../sources/4467-21st-century-skills-and-competences-for-new-millennium-learners-in-oecd-countrie.md) (2009) | Relevance: 1.0
-- [Educational strategies in data journalism: A comparative study of six European countries](../sources/4453-educational-strategies-in-data-journalism-a-comparative-study-of-six-european-co.md) (2015) | Relevance: 1.0
-- [Potential Role and International Trade of Medicinal and Aromatic Plants in the World](../sources/4434-potential-role-and-international-trade-of-medicinal-and-aromatic-plants-in-the-w.md) (2023) | Relevance: 1.0
-- [The transformation of supreme values: Evidence from Poland on salvation through civic engagement](../sources/4463-the-transformation-of-supreme-values-evidence-from-poland-on-salvation-through-c.md) (2019) | Relevance: 1.0
-- [Corporate social responsibility in supply chain management: a new model approach](../sources/4435-corporate-social-responsibility-in-supply-chain-management-a-new-model-approach.md) (2018) | Relevance: 1.0
-- [Networks or Structures? Organizing Cultural Routes Around Heritage Values. Case Studies from Poland](../sources/4474-networks-or-structures-organizing-cultural-routes-around-heritage-values-case-st.md) (2018) | Relevance: 1.0
-- [Does Social Trust Influence Charitable Giving for NGOs?](../sources/4445-does-social-trust-influence-charitable-giving-for-ngos.md) (2021) | Relevance: 1.0
-- [Activists’ Perceptions of their Roles in Civic Organizations: A Case from Poland](../sources/4452-activists-perceptions-of-their-roles-in-civic-organizations-acase-from-poland.md) (2017) | Relevance: 1.0
+- [Determinants of Economic Growth: A Cross-Country Empirical Study](../explorer/?id=4484) (1996) | Relevance: 5.0
+- [Gender as “Ebola from Brussels”: The Anticolonial Frame and the Rise of Illiberal Populism](../explorer/?id=4483) (2018) | Relevance: 5.0
+- [NGOs and Their Vulnerabilities During the Time of Transition: The Case of Poland](../explorer/?id=4416) (1999) | Relevance: 5.0
+- [Democratization in Eastern and Western Europe](../explorer/?id=4402) (1993) | Relevance: 5.0
+- [Democratization and Market Reform in Developing and Transitional Countries: Think Tanks as Catalysts](../explorer/?id=4404) (2010) | Relevance: 5.0
+- *...and 83 more* ([view all](../explorer/?case_study=Poland&category=Civil society development))
 
 ## Civil-military relations and security sector reform
 *36 sources*
 
-- [The political consequences of the product cycle: industrial history and political outcomes](../sources/1291-the-political-consequences-of-the-product-cycle-industrial-history-and-political.md) (1979) | Relevance: 4.0
-- [Corruption A Review of Contemporary Research](../sources/1287-corruption-a-review-of-contemporary-research.md) (2001) | Relevance: 4.0
-- [The state after communism](../sources/1332-the-state-after-communism.md) (1999) | Relevance: 4.0
-- [Norms and Nannies: The Impact of International Organizations on the Central and East European States](../sources/1300-norms-and-nannies-the-impact-of-international-organizations-on-the-central-and-e.md) (2002) | Relevance: 4.0
-- [Linkages Between Politics and Economics](../sources/1311-linkages-between-politics-and-economics.md) (1994) | Relevance: 4.0
-- [Post-Communist Civil-Military Reform in Poland and Hungary: Progress and Problems](../sources/1295-post-communist-civil-military-reform-in-poland-and-hungary-progress-and-problems.md) (2002) | Relevance: 4.0
-- [Democratic Control of Armed Forces in Slovenia](../sources/1274-democratic-control-of-armed-forces-in-slovenia.md) (2002) | Relevance: 4.0
-- [Building An Army in a Democracy in Hungary and Poland.](../sources/1278-building-an-army-in-a-democracy-in-hungary-and-poland.md) (1996) | Relevance: 4.0
-- [Civil Military Relations and Defense Reform in Poland](../sources/1297-civil-military-relations-and-defense-reform-in-poland.md) (2006) | Relevance: 4.0
-- [Opportunity Organizations and Threat‐Induced Contention: Protest Waves in Authoritarian Settings](../sources/1276-opportunity-organizations-and-threatinduced-contention-protest-waves-in-authorit.md) (2003) | Relevance: 3.0
-- [Environment of Peace: Security in a New Era of Risk](../sources/1293-environment-of-peace-security-in-a-new-era-of-risk.md) (2022) | Relevance: 3.0
-- [Civil-Military Relations and Democracy](../sources/1296-civil-military-relations-and-democracy.md) (1996) | Relevance: 3.0
-- [Nato Enlargement and the Spread of Democracy: Evidence and Expectations](../sources/1303-nato-enlargement-and-the-spread-of-democracy-evidence-and-expectations.md) (2005) | Relevance: 3.0
-- [Democratic control of the military in postcommunist Europe: guarding the guards](../sources/1301-democratic-control-of-the-military-in-postcommunist-europe-guarding-the-guards.md) (2002) | Relevance: 3.0
-- [Civil-Military Relations in Russia and Eastern Europe](../sources/1306-civil-military-relations-in-russia-and-eastern-europe.md) (2004) | Relevance: 3.0
-- [Transitions from Authoritarian Rule and the Problem of Violence](../sources/1302-transitions-from-authoritarian-rule-and-the-problem-of-violence.md) (1999) | Relevance: 3.0
-- [Fiscal Adjustments in Transition Economies Transfers and the Efficiency of Public Spending: A Comparison with OECD Countries](../sources/1335-fiscal-adjustments-in-transition-economies-transfers-and-the-efficiency-of-publi.md) (1999) | Relevance: 3.0
-- [Central European Civil-military Relations And Nato Expansion](../sources/1308-central-european-civil-military-relations-and-nato-expansion.md) (2004) | Relevance: 3.0
-- [Professional Soldiers and Politics: A Case of Central and Eastern Europe](../sources/1313-professional-soldiers-and-politics-a-case-of-central-and-eastern-europe.md) (1999) | Relevance: 3.0
-- [Partnership for Peace (PFP): After the Washington Summit and Kosovo](../sources/1324-partnership-for-peace-pfp-after-the-washington-summit-and-kosovo.md) (1999) | Relevance: 3.0
-- [Civil-Military Relations in Europe](../sources/1307-civil-military-relations-in-europe.md) (2006) | Relevance: 3.0
-- [Civil-Military Relations in Post-Communist States: Central and Eastern Europe in Transition](../sources/1272-civil-military-relations-in-post-communist-states-central-and-eastern-europe-in-.md) (1997) | Relevance: 3.0
-- [Conflict and Restraint: Poland, 1980-1982](../sources/1314-conflict-and-restraint-poland-1980-1982.md) (2019) | Relevance: 3.0
-- [The Civil-Military Nexus in Postcommunist Hungary](../sources/1273-the-civil-military-nexus-in-postcommunist-hungary.md) (2019) | Relevance: 3.0
-- [The Defence Industry in East-Central Europe: Restructuring and Conversion](../sources/1325-the-defence-industry-in-east-central-europe-restructuring-and-conversion.md) (1997) | Relevance: 3.0
-- [Military revolution and state capacity of Jagiellonian states at the turn of the Middle Ages in European context](../sources/1327-military-revolution-and-state-capacity-of-jagiellonian-states-at-the-turn-of-the.md) (2021) | Relevance: 3.0
-- [The Evolution of Civil-Military Relations in East-Central Europe and the Former Soviet Union](../sources/1275-the-evolution-of-civil-military-relations-in-east-central-europe-and-the-former-.md) (2004) | Relevance: 3.0
-- [The Evolution of International Norms](../sources/1277-the-evolution-of-international-norms.md) (1996) | Relevance: 2.0
-- [Grey is the new black: covert action and implausible deniability](../sources/1281-grey-is-the-new-black-covert-action-and-implausible-deniability.md) (2018) | Relevance: 2.0
-- [Conflict-related sexual violence and the policy implications of recent research](../sources/1289-conflict-related-sexual-violence-and-the-policy-implications-of-recent-research.md) (2014) | Relevance: 2.0
-- [Indignation, Ideologies, and Armed Mobilization: Civil War in Italy, 1943–45](../sources/1288-indignation-ideologies-and-armed-mobilization-civil-war-in-italy-194345.md) (2015) | Relevance: 2.0
-- [After the Deluge](../sources/1299-after-the-deluge.md) (1993) | Relevance: 2.0
-- [Religion and Russification: Russian Language in the Catholic Churches of the “Northwest Provinces” after 1863](../sources/1310-religion-and-russification-russian-language-in-the-catholic-churches-of-the-nort.md) (2001) | Relevance: 2.0
-- [Roadmap to NATO Accession Preparing for membership](../sources/1316-roadmap-to-nato-accession-preparing-for-membership.md) (2001) | Relevance: 2.0
-- [Early Modern Military Reform and the Connection between Sweden and Brandenburg-Prussia](../sources/1315-early-modern-military-reform-and-the-connection-between-sweden-and-brandenburg-p.md) (2005) | Relevance: 2.0
-- [The restructuring process of the Polish defence industry in the twenty-first century: doing more of the same while expecting different results](../sources/1348-the-restructuring-process-of-the-polish-defence-industry-in-the-twenty-first-cen.md) (2024) | Relevance: 2.0
+- [The political consequences of the product cycle: industrial history and political outcomes](../explorer/?id=1291) (1979) | Relevance: 4.0
+- [Corruption A Review of Contemporary Research](../explorer/?id=1287) (2001) | Relevance: 4.0
+- [The state after communism](../explorer/?id=1332) (1999) | Relevance: 4.0
+- [Norms and Nannies: The Impact of International Organizations on the Central and East European States](../explorer/?id=1300) (2002) | Relevance: 4.0
+- [Linkages Between Politics and Economics](../explorer/?id=1311) (1994) | Relevance: 4.0
+- *...and 31 more* ([view all](../explorer/?case_study=Poland&category=Civil-military relations and security sector reform))
 
 ## Constitutional design and drafting processes
 *138 sources*
 
-- [Institutional Design In New Democracies: Eastern Europe And Latin America](../sources/4052-institutional-design-in-new-democracies-eastern-europe-and-latin-america.md) (1996) | Relevance: 5.0
-- [Driven to change : the European Union's enlargement viewed from the East](../sources/4057-driven-to-change--the-european-unions-enlargement-viewed-from-the-east.md) (2004) | Relevance: 5.0
-- [From Portugal to Poland: The Court of Justice of the European Union as watchdog of judicial independence](../sources/4059-from-portugal-to-poland-the-court-of-justice-of-the-european-union-as-watchdog-o.md) (2020) | Relevance: 5.0
-- [Poland’s Conservative Turn and the Role of the European Union](../sources/4062-polands-conservative-turn-and-the-role-of-the-european-union.md) (2016) | Relevance: 5.0
-- [The constitutional crisis in Poland, Schmittian questions and Kaczyński’s political and legal philosophy](../sources/4061-the-constitutional-crisis-in-poland-schmittian-questions-and-kaczyńskis-politica.md) (2018) | Relevance: 5.0
-- [Ukraine on its way to Europe : Interim results of the Orange revolution](../sources/4068-ukraine-on-its-way-to-europe--interim-results-of-the-orange-revolution.md) (2009) | Relevance: 5.0
-- [Illiberal Constitutionalism and the Judiciary](../sources/4060-illiberal-constitutionalism-and-the-judiciary.md) (2021) | Relevance: 5.0
-- [Selecting Judges in Poland and Germany: Challenges to the Rule of law in Europe and Propositions for a new Approach to Judicial Legitimacy](../sources/4063-selecting-judges-in-poland-and-germany-challenges-to-the-rule-of-law-in-europe-a.md) (2018) | Relevance: 5.0
-- [Transition to democracy in Poland](../sources/4067-transition-to-democracy-in-poland.md) (1994) | Relevance: 5.0
-- [Turkey's Democratic Erosion: On Backsliding and the Constitution](../sources/4032-turkeys-democratic-erosion-on-backsliding-and-the-constitution.md) (2021) | Relevance: 5.0
-- [The Politics of Constitutional Change in Industrial Nations: Redesigning the State](../sources/4071-the-politics-of-constitutional-change-in-industrial-nations-redesigning-the-stat.md) (1985) | Relevance: 5.0
-- [Judicial Reforms in Eastern Europe: Ensuring the Right to a Fair Trial or an Attack on the Independence of the Judiciary?](../sources/4066-judicial-reforms-in-eastern-europe-ensuring-the-right-to-a-fair-trial-or-an-atta.md) (2021) | Relevance: 5.0
-- [Combating the constitutional crisis in Poland – Can the European Union provide an effective remedy?](../sources/4080-combating-the-constitutional-crisis-in-poland--can-the-european-union-provide-an.md) (2021) | Relevance: 5.0
-- [Judiciary Saga in Poland: an Affair Torn Between European Standards and ECtHR Criteria](../sources/4086-judiciary-saga-in-poland-an-affair-torn-between-european-standards-and-ecthr-cri.md) (2020) | Relevance: 5.0
-- [Concerns Regarding the Rule of Law as a Ground for Non-execution of the European Arrest Warrant: Suggestions for a Reform](../sources/4085-concerns-regarding-the-rule-of-law-as-a-ground-for-non-execution-of-the-european.md) (2022) | Relevance: 5.0
-- [Power and Persuasion in Constitution Making: Constitutional Agenda-Setting During Transitions to Democracy](../sources/4047-power-and-persuasion-in-constitution-making-constitutional-agenda-setting-during.md) (2013) | Relevance: 5.0
-- [Czy Konstytucja 3 maja stanowiła źródło inspiracji dla XIX-wiecznych polskich projektów konstytucyjnych? Problem wykorzystania dziedzictwa prawnego w pracach nad reformami ustrojowymi 1815 i 1831 r.](../sources/4050-czy-konstytucja-3-maja-stanowiła-źródło-inspiracji-dla-xix-wiecznych-polskich-pr.md) (2022) | Relevance: 5.0
-- [Re-democratization of Poland. Transition From Kaczyński’s Authoritarian Populism To a Liberal Democracy](../sources/3953-re-democratization-of-poland-transition-from-kaczyńskis-authoritarian-populism-t.md) (2026) | Relevance: 5.0
-- [Democratization as Deliberative Capacity Building](../sources/4078-democratization-as-deliberative-capacity-building.md) (2009) | Relevance: 4.0
-- [Europe’s Other Democratic Deficit: National Authoritarianism in Europe’s Democratic Union](../sources/4084-europes-other-democratic-deficit-national-authoritarianism-in-europes-democratic.md) (2017) | Relevance: 4.0
-- [Poland's Constitutional Breakdown](../sources/3957-polands-constitutional-breakdown.md) (2019) | Relevance: 4.0
-- [Linking Money to Values: The New Rule of Law Conditionality Regulation and Its Constitutional Challenges](../sources/3983-linking-money-to-values-the-new-rule-of-law-conditionality-regulation-and-its-co.md) (2022) | Relevance: 4.0
-- [Confrontation by default and confrontation by design: strategic and institutional responses to Poland's populist coalition government](../sources/4055-confrontation-by-default-and-confrontation-by-design-strategic-and-institutional.md) (2015) | Relevance: 4.0
-- [Democracy and constitutional reform: Deliberative versus populist constitutionalism](../sources/4054-democracy-and-constitutional-reform-deliberative-versus-populist-constitutionali.md) (2019) | Relevance: 4.0
-- [Central European Judges Under the European Influence : The Transformative Power of the EU Revisited](../sources/4058-central-european-judges-under-the-european-influence--the-transformative-power-o.md) (2015) | Relevance: 4.0
-- [The Protection of Human Rights in the New Polish Constitution](../sources/4019-the-protection-of-human-rights-in-the-new-polish-constitution.md) (1998) | Relevance: 4.0
-- [The ‘second‐generation’ post‐communist elections in Hungary in 1994](../sources/4081-the-secondgeneration-postcommunist-elections-in-hungary-in-1994.md) (1995) | Relevance: 4.0
-- [European politics today](../sources/4076-european-politics-today.md) (1997) | Relevance: 4.0
-- [Empires of Writing: Britain, America and Constitutions, 1776–1848](../sources/4021-empires-of-writing-britain-america-and-constitutions-17761848.md) (2014) | Relevance: 4.0
-- [Contested Constitutions](../sources/4064-contested-constitutions.md) (2009) | Relevance: 4.0
-- [Populist Challenges to Constitutional Interpretation in Europe and Beyond](../sources/4065-populist-challenges-to-constitutional-interpretation-in-europe-and-beyond.md) (2021) | Relevance: 4.0
-- [Administrative transformation in Central and Eastern Europe: towards public sector reform in post-communist societies](../sources/4069-administrative-transformation-in-central-and-eastern-europe-towards-public-secto.md) (1994) | Relevance: 4.0
-- [Abusive Constitutional Borrowing: Legal Globalization and the Subversion of Liberal Democracy](../sources/4072-abusive-constitutional-borrowing-legal-globalization-and-the-subversion-of-liber.md) (2023) | Relevance: 4.0
-- [Democratic Backsliding in Poland on Example Drafts Amendments in Electoral Code During the COVID-19 Pandemic](../sources/3958-democratic-backsliding-in-poland-on-example-drafts-amendments-in-electoral-code-.md) (2021) | Relevance: 4.0
-- [The making of “illiberal constitutionalism” with or without a new constitution: the case of Hungary and Poland](../sources/4011-the-making-of-illiberal-constitutionalism-with-or-without-a-new-constitution-the.md) (2019) | Relevance: 4.0
-- [The Draft Constitutional Treaty’s Voting Reform Dilemma. CEPS Policy Brief No. 44, November 2003 (With Postscript of 7 December 2003)](../sources/4073-the-draft-constitutional-treatys-voting-reform-dilemma-ceps-policy-brief-no-44-n.md) (2003) | Relevance: 4.0
-- [Who is willing to die for the constitution? The national debate on the constitutional treaty in Poland](../sources/4079-who-is-willing-to-die-for-the-constitution-the-national-debate-on-the-constituti.md) (2007) | Relevance: 4.0
-- [System rządów w Rzeczypospolitej Polskiej: charakterystyka i diagnoza wątpliwości. Uwagi wprowadzające](../sources/4030-system-rządów-w-rzeczypospolitej-polskiej-charakterystyka-i-diagnoza-wątpliwości.md) (2012) | Relevance: 4.0
-- [Trzy tezy o sędziach społecznych i ich udziale w sprawowaniu wymiaru sprawiedliwości w Polsce](../sources/4077-trzy-tezy-o-sędziach-społecznych-i-ich-udziale-w-sprawowaniu-wymiaru-sprawiedliw.md) (2018) | Relevance: 4.0
-- [Skarga konstytucyjna jako środek ochrony praw człowieka. Przyczynek do dyskusji](../sources/4082-skarga-konstytucyjna-jako-środek-ochrony-praw-człowieka-przyczynek-do-dyskusji.md) (2012) | Relevance: 4.0
-- [The Papacy, Poland, Russia and Religious Reform, 1764-8](../sources/4087-the-papacy-poland-russia-and-religious-reform-1764-8.md) (1988) | Relevance: 4.0
-- [Rights and freedoms in the Constitution of the Republic of Poland](../sources/4014-rights-and-freedoms-in-the-constitution-of-the-republic-of-poland.md) (2018) | Relevance: 4.0
-- [Limits to the Principle of Primacy of EU Law over the Constitution: Acquis Constitutionnel of Constitutional Tribunal of Poland](../sources/4015-limits-to-the-principle-of-primacy-of-eu-law-over-the-constitution-acquis-consti.md) (2017) | Relevance: 4.0
-- [The Constitution‐Making Process in Poland*](../sources/4027-the-constitutionmaking-process-in-poland.md) (1991) | Relevance: 4.0
-- [Aksjologiczne podstawy konstytucji](../sources/4042-aksjologiczne-podstawy-konstytucji.md) (2007) | Relevance: 4.0
-- [Memory Laws, Rule of Law, and Democratic Backsliding: The Case of Poland](../sources/3954-memory-laws-rule-of-law-and-democratic-backsliding-the-case-of-poland.md) (2023) | Relevance: 4.0
-- [The National Raw Materials Policy in Poland as an instrument of implementation of the constitutional principle of ensuring the security of citizens (Article 5 of the Constitution of the Republic of Poland)](../sources/4002-the-national-raw-materials-policy-in-poland-as-an-instrument-of-implementation-o.md) (2023) | Relevance: 4.0
-- [Democratic Constitutional Replacements and Majoritarian Politics](../sources/4028-democratic-constitutional-replacements-and-majoritarian-politics.md) (2020) | Relevance: 4.0
-- [Konstytucyjne spory kompetencyjne (wybrane zagadnienia teoretyczne)](../sources/4033-konstytucyjne-spory-kompetencyjne-wybrane-zagadnienia-teoretyczne.md) (2014) | Relevance: 4.0
-- [The nature of interim constitutions: a comparative analysis](../sources/4034-the-nature-of-interim-constitutions-a-comparative-analysis.md) (2015) | Relevance: 4.0
-- [Decentralization of power in european countries: the experience of polish and french reforms as a conceptual basis for the organizational structure of Ukraine's governing bodies](../sources/4045-decentralization-of-power-in-european-countries-the-experience-of-polish-and-fre.md) (2021) | Relevance: 4.0
-- [Constitutional aspects of the reform of the Polish justice system in 2017–2018](../sources/4089-constitutional-aspects-of-the-reform-of-the-polish-justice-system-in-20172018.md) (2019) | Relevance: 4.0
-- [Between civic and legal constitutionalism: Dynamics of Poland’s constitution-making projects of the 1990s](../sources/3990-between-civic-and-legal-constitutionalism-dynamics-of-polands-constitution-makin.md) (2020) | Relevance: 4.0
-- [Inscribing the State: Constitution Drafting Manuals as Textual Technologies](../sources/4005-inscribing-the-state-constitution-drafting-manuals-as-textual-technologies.md) (2020) | Relevance: 4.0
-- [Monetary policy change of the Central bank of Poland](../sources/4049-monetary-policy-change-of-the-central-bank-of-poland.md) (2015) | Relevance: 4.0
-- [Next Stop on the Way to Constitutional Disarray in Poland: Electoral Law Reform](../sources/4053-next-stop-on-the-way-to-constitutional-disarray-in-poland-electoral-law-reform.md) (2017) | Relevance: 4.0
-- [Let's Agree on Poland](../sources/3960-lets-agree-on-poland.md) (2025) | Relevance: 4.0
-- [Was the Constitution of 3 May 1791 a Source of Inspiration for 19th Century Polish Constitutional Drafts? The Problem of Using Polish Constitutional Heritage in the Congress Kingdom of Poland in 1815 and 1831](../sources/4003-was-the-constitution-of-3-may-1791-a-source-of-inspiration-for-19th-century-poli.md) (2023) | Relevance: 4.0
-- [The evolution of agricultural law in Poland ‒ after 1918](../sources/4013-the-evolution-of-agricultural-law-in-poland--after-1918.md) (2025) | Relevance: 4.0
-- [CONSTITUTIONAL ASPECTS OF THE STATE BUDGET PROCEDURE IN POLAND – ANALYSIS OF THE EXAMPLE OF THE 2024 BUDGET](../sources/4017-constitutional-aspects-of-the-state-budget-procedure-in-poland--analysis-of-the-.md) (2024) | Relevance: 4.0
-- [Deliberative democracy and the climate crisis](../sources/3967-deliberative-democracy-and-the-climate-crisis.md) (2022) | Relevance: 3.0
-- [Embeddedness and Regional Integration: Waiting for Polanyi in a Hayekian Setting](../sources/3979-embeddedness-and-regional-integration-waiting-for-polanyi-in-a-hayekian-setting.md) (2012) | Relevance: 3.0
-- [Hungarian Legal Reform for the Private Sector](../sources/3971-hungarian-legal-reform-for-the-private-sector.md) (1992) | Relevance: 3.0
-- [The relationship between primary and secondary law in the EU](../sources/3975-the-relationship-between-primary-and-secondary-law-in-the-eu.md) (2015) | Relevance: 3.0
-- [Rules That Matter: Political Institutions and the Diversity—Conflict Nexus](../sources/3978-rules-that-matter-political-institutions-and-the-diversityconflict-nexus.md) (2008) | Relevance: 3.0
-- [The Illiberal Abuse of Constitutional Courts in Europe](../sources/3969-the-illiberal-abuse-of-constitutional-courts-in-europe.md) (2019) | Relevance: 3.0
-- [Governing new authoritarianism: Populism, nationalism and radical welfare reforms in Hungary and Poland](../sources/3976-governing-new-authoritarianism-populism-nationalism-and-radical-welfare-reforms-.md) (2020) | Relevance: 3.0
-- [Political Parties and Institutional Design: Explaining Constitutional Choice in Latin America](../sources/3988-political-parties-and-institutional-design-explaining-constitutional-choice-in-l.md) (2008) | Relevance: 3.0
-- [The uncertain road to sustainable democracy: elite coalitions, citizen protests and the prospects of democracy in Central and Eastern Europe](../sources/3973-the-uncertain-road-to-sustainable-democracy-elite-coalitions-citizen-protests-an.md) (2018) | Relevance: 3.0
-- [Eastern Europe a Decade Later: The Postcommunist Divide](../sources/4074-eastern-europe-a-decade-later-the-postcommunist-divide.md) (1999) | Relevance: 3.0
-- [Constitutional Identity in Poland](../sources/4056-constitutional-identity-in-poland.md) (2019) | Relevance: 3.0
-- [Realism and Reform in Rousseau's Constitutional Projects for Poland and Corsica](../sources/4051-realism-and-reform-in-rousseaus-constitutional-projects-for-poland-and-corsica.md) (2001) | Relevance: 3.0
-- [The varying effect of court-curbing: evidence from Hungary and Poland](../sources/4070-the-varying-effect-of-court-curbing-evidence-from-hungary-and-poland.md) (2023) | Relevance: 3.0
-- [Majority Rules in Constitutional Referendums](../sources/4020-majority-rules-in-constitutional-referendums.md) (2017) | Relevance: 3.0
-- [EUROPEIZACJA ADMINISTRACJI PUBLICZNEJ](../sources/4023-europeizacja-administracji-publicznej.md) (2008) | Relevance: 3.0
-- [State Institutions, Political Context and Parliamentary Election Legislation in Ukraine, 2000–2006](../sources/3965-state-institutions-political-context-and-parliamentary-election-legislation-in-u.md) (2007) | Relevance: 3.0
-- [Rozumienie godności człowieka i jej znaczenie w procesie stanowienia i stosowania prawa. Propozycja testu zgodności regulacji prawnych z zasadą godności człowieka](../sources/4022-rozumienie-godności-człowieka-i-jej-znaczenie-w-procesie-stanowienia-i-stosowani.md) (2019) | Relevance: 3.0
-- [Economic utopianism and sociological realism](../sources/4088-economic-utopianism-and-sociological-realism.md) (2002) | Relevance: 3.0
-- [Challenges and constraints for post-Soviet committees: exploring the impact of parties on committees in Ukraine](../sources/3972-challenges-and-constraints-for-post-soviet-committees-exploring-the-impact-of-pa.md) (2006) | Relevance: 3.0
-- [The Vanishing Constitution](../sources/4075-the-vanishing-constitution.md) (2018) | Relevance: 3.0
-- [KODYFIKACJA PRAWA CYWILNEGO](../sources/4026-kodyfikacja-prawa-cywilnego.md) (2009) | Relevance: 3.0
-- [Dobro wspólne jako naczelna zasada Konstytucji RP z dnia 2 kwietnia 1997 r.](../sources/4024-dobro-wspólne-jako-naczelna-zasada-konstytucji-rp-z-dnia-2-kwietnia-1997-r.md) (2009) | Relevance: 3.0
-- [Liberalism and the Construction of the Democratic Subject in Postcommunism: The Case of Poland](../sources/4025-liberalism-and-the-construction-of-the-democratic-subject-in-postcommunism-the-c.md) (1997) | Relevance: 3.0
-- [History of the Ukrainian State Formation (Prior to the USSR Breakup)](../sources/4046-history-of-the-ukrainian-state-formation-prior-to-the-ussr-breakup.md) (2018) | Relevance: 3.0
-- [Constitutional Resistance in Populist Times](../sources/4083-constitutional-resistance-in-populist-times.md) (2020) | Relevance: 3.0
-- [Between Fear and Hope: Poland’s Democratic Lessons for Europe (and Beyond)](../sources/3956-between-fear-and-hope-polands-democratic-lessons-for-europe-and-beyond.md) (2019) | Relevance: 3.0
-- [Where Did ‘Human Dignity’ Come from? Drafting the Preamble to the Irish Constitution](../sources/4006-where-did-human-dignity-come-from-drafting-the-preamble-to-the-irish-constitutio.md) (2021) | Relevance: 3.0
-- [Constitutional Court Regression in Post- Democratic Transition: A Comparison of Court Packing in Hungary, Poland, and Indonesia](../sources/3952-constitutional-court-regression-in-post--democratic-transition-a-comparison-of-c.md) (2024) | Relevance: 3.0
-- [Anthropological foundations of Polish Penal Law in the light of the 1997 Constitution of the Republic of Poland](../sources/4012-anthropological-foundations-of-polish-penal-law-in-the-light-of-the-1997-constit.md) (2019) | Relevance: 3.0
-- [Realizacja postanowień Konstytucji Rzeczypospolitej Polskiej z dnia 17 marca 1921 roku w zakresie wymiaru sprawiedliwości](../sources/4038-realizacja-postanowień-konstytucji-rzeczypospolitej-polskiej-z-dnia-17-marca-192.md) (2023) | Relevance: 3.0
-- [Alternatywne projekty konstytucji Rzeczypospolitej Polskiej: przypadek środowisk neoendeckich](../sources/4039-alternatywne-projekty-konstytucji-rzeczypospolitej-polskiej-przypadek-środowisk-.md) (2019) | Relevance: 3.0
-- [Foreign experience of introduction of the institution of the prefect and its importance for Ukraine](../sources/4043-foreign-experience-of-introduction-of-the-institution-of-the-prefect-and-its-imp.md) (2020) | Relevance: 3.0
-- [Drafting a Constitution Is Not Drafting a Statute: An Analysis of the Mexican Constitution and Hyper-Amending Pathologies from the Legislative Drafting Perspective](../sources/4008-drafting-a-constitution-is-not-drafting-a-statute-an-analysis-of-the-mexican-con.md) (2020) | Relevance: 3.0
-- [Odwołania do Konstytucji RP z 17 marca 1921 roku i ewolucja rozwiązań konstytucyjnych w projektach ustawy zasadniczej RP z lat 90. XX wieku. Analiza zagadnienia na wybranych przykładach](../sources/4029-odwołania-do-konstytucji-rp-z-17-marca-1921-roku-i-ewolucja-rozwiązań-konstytucy.md) (2021) | Relevance: 3.0
-- [THE RIGHT TO PETITION AND A PUBLIC HEARING ON DRAFT LAWS IN POLAND SELECTED ISSUES](../sources/4040-the-right-to-petition-and-a-public-hearing-on-draft-laws-in-poland-selected-issu.md) (2022) | Relevance: 3.0
-- [Projekt konstytucji rosyjskiej z 1820 roku – tryumf czy zapowiedź końca Królestwa Polskiego?](../sources/4041-projekt-konstytucji-rosyjskiej-z-1820-roku--tryumf-czy-zapowiedź-końca-królestwa.md) (2020) | Relevance: 3.0
-- [MEDIA IN THE PROJECT OF THE FOURTH REPUBLIC OF POLAND. PROGRAM ASSUMPTIONS AND POLITICAL PRACTICE](../sources/4044-media-in-the-project-of-the-fourth-republic-of-poland-program-assumptions-and-po.md) (2018) | Relevance: 3.0
-- [Roads suddenly split? Power-sharing in Hungary and Poland](../sources/3955-roads-suddenly-split-power-sharing-in-hungary-and-poland.md) (2025) | Relevance: 3.0
-- [The Constitutional Court's Position as the Guardian of the Constitution: Between Independence and Political Intervention](../sources/3959-the-constitutional-courts-position-as-the-guardian-of-the-constitution-between-i.md) (2025) | Relevance: 3.0
-- [Between Oversight and Overload: Strategic Use of Public Information Law (by NGOs) in Poland](../sources/3961-between-oversight-and-overload-strategic-use-of-public-information-law-by-ngos-i.md) (2025) | Relevance: 3.0
-- [The System of Constitutional Legal Rules in Poland after 1997](../sources/3962-the-system-of-constitutional-legal-rules-in-poland-after-1997.md) (2016) | Relevance: 3.0
-- [Constitutional conditions of the legislative process in Poland - theory vs practice](../sources/3963-constitutional-conditions-of-the-legislative-process-in-poland---theory-vs-pract.md) (2019) | Relevance: 3.0
-- [Niekonstytucyjność odwołań do „przepisów o ruchu drogowym” w zakresie obowiązku podatkowego oraz zwolnień w podatku od środków transportowych](../sources/3993-niekonstytucyjność-odwołań-do-przepisów-o-ruchu-drogowym-w-zakresie-obowiązku-po.md) (2025) | Relevance: 3.0
-- [Czy potrzebne są zmiany w konstytucyjnej karcie praw](../sources/3999-czy-potrzebne-są-zmiany-w-konstytucyjnej-karcie-praw.md) (2018) | Relevance: 3.0
-- [Prawo o stowarzyszeniach w aktualnych uwarunkowaniach społecznych i prawnych. Z doświadczeń prac nad projektem nowelizacji w latach 2009–2015](../sources/4000-prawo-o-stowarzyszeniach-w-aktualnych-uwarunkowaniach-społecznych-i-prawnych-z-d.md) (2015) | Relevance: 3.0
-- [DRAFT LAW ON AMENDMENTS TO THE CONSTITUTION OF THE REPUBLIC OF POLAND](../sources/4004-draft-law-on-amendments-to-the-constitution-of-the-republic-of-poland.md) (2023) | Relevance: 3.0
-- [Poland’s Legislative Parliament (Seym Ustawodawczy) and the small constitution (Mala Konstytucja) of 1919](../sources/4010-polands-legislative-parliament-seym-ustawodawczy-and-the-small-constitution-mala.md) (2020) | Relevance: 3.0
-- [CONCEPTS OF LABOR CHAMBERS IN POLAND. TRADITION AND CONTEMPORARY DIMENSION](../sources/4016-concepts-of-labor-chambers-in-poland-tradition-and-contemporary-dimension.md) (2025) | Relevance: 3.0
-- [The draft Constitution of the Polish State of 1917, on the idea of resurrecting the Polish state in 1918 as a mixed (constitutional) monarchy and the main provisions of the monarchical constitution for Poland](../sources/4036-the-draft-constitution-of-the-polish-state-of-1917-on-the-idea-of-resurrecting-t.md) (2018) | Relevance: 3.0
-- [Populism and Liberal Democracy: Populists in Government in Austria, Italy, Poland and Switzerland](../sources/3966-populism-and-liberal-democracy-populists-in-government-in-austria-italy-poland-a.md) (2013) | Relevance: 2.0
-- [Regulatory and Supervisory Independence and Financial Stability](../sources/3986-regulatory-and-supervisory-independence-and-financial-stability.md) (2003) | Relevance: 2.0
-- [Getting to Rights: Treaty Ratification, Constitutional Convergence, and Human Rights Practice](../sources/3970-getting-to-rights-treaty-ratification-constitutional-convergence-and-human-right.md) (2013) | Relevance: 2.0
-- [Forging, Bending, and Breaking: Enacting the “Illiberal Playbook” in Hungary and Poland](../sources/3964-forging-bending-and-breaking-enacting-the-illiberal-playbook-in-hungary-and-pola.md) (2021) | Relevance: 2.0
-- [Grand corruption and government change: an analysis of partisan favoritism in public procurement](../sources/3981-grand-corruption-and-government-change-an-analysis-of-partisan-favoritism-in-pub.md) (2019) | Relevance: 2.0
-- [How to Constitutionalize International Law and Foreign Policy for the Benefit of Civil Society](../sources/3980-how-to-constitutionalize-international-law-and-foreign-policy-for-the-benefit-of.md) (1998) | Relevance: 2.0
-- [Where and When Was Democracy Invented?](../sources/3989-where-and-when-was-democracy-invented.md) (1999) | Relevance: 2.0
-- [Between Military Efficiency and Democratic Legitimacy: Mapping Parliamentary War Powers in Contemporary Democracies, 1989-2004](../sources/3984-between-military-efficiency-and-democratic-legitimacy-mapping-parliamentary-war-.md) (2010) | Relevance: 2.0
-- [The Presidentialization of Political Parties](../sources/3974-the-presidentialization-of-political-parties.md) (2015) | Relevance: 2.0
-- [Democratic constitution-making bodies: The perils of a partisan convention](../sources/3982-democratic-constitution-making-bodies-the-perils-of-a-partisan-convention.md) (2018) | Relevance: 2.0
-- [What's in a Name? Reflections on Timing, Naming, and Constitution-making](../sources/3977-whats-in-a-name-reflections-on-timing-naming-and-constitution-making.md) (2008) | Relevance: 2.0
-- [Constitutional Identity in Europe: The Identity of the Constitution. A Regional Approach](../sources/3985-constitutional-identity-in-europe-the-identity-of-the-constitution-a-regional-ap.md) (2020) | Relevance: 2.0
-- [The Polish Catholic Church’s perception of the processes of EU integration and Europeanisation in the context of traditional norms and values](../sources/4031-the-polish-catholic-churchs-perception-of-the-processes-of-eu-integration-and-eu.md) (2015) | Relevance: 2.0
-- [Suspension of construction works in the light of the provisions of the Act on the protection of monuments and the care of monuments](../sources/3997-suspension-of-construction-works-in-the-light-of-the-provisions-of-the-act-on-th.md) (2022) | Relevance: 2.0
-- [Prohibition on the Obligation to Disclose One’s Worldview, Religious Beliefs, or Religion in the Light of Article 53(7) of the Constitution of The Republic of Poland of April 2, 1997](../sources/4007-prohibition-on-the-obligation-to-disclose-ones-worldview-religious-beliefs-or-re.md) (2021) | Relevance: 2.0
-- [O potrzebie zmiany Konstytucji Rzeczypospolitej Polskiej z 1997 r. Część I](../sources/4035-o-potrzebie-zmiany-konstytucji-rzeczypospolitej-polskiej-z-1997-r-część-i.md) (2023) | Relevance: 2.0
-- [Gwarancje prawa do nauki w projektach konstytucji](../sources/4037-gwarancje-prawa-do-nauki-w-projektach-konstytucji.md) (1995) | Relevance: 2.0
-- [Making Basic Law in a Postimperial State: Diffusion, Adjustment, and Legal Cunning in the Constitutional Debate on Ethnocultural Diversity in Poland, 1919–1922](../sources/3991-making-basic-law-in-a-postimperial-state-diffusion-adjustment-and-legal-cunning-.md) (2024) | Relevance: 2.0
-- [Język Konstytucji Rzeczypospolitej Polskiej z 1997 r. Wybrane zagadnienia](../sources/3994-język-konstytucji-rzeczypospolitej-polskiej-z-1997-r-wybrane-zagadnienia.md) (2025) | Relevance: 2.0
-- [Normatywność tzw. dekalogu – pierwszych 10 artykułów konstytucji kwietniowej](../sources/3995-normatywność-tzw-dekalogu--pierwszych-10-artykułów-konstytucji-kwietniowej.md) (2025) | Relevance: 2.0
-- [Polityk dwóch epok, taki, jakim (nie) był. Minister Tadeusz Matuszewicz i jego biografia](../sources/3996-polityk-dwóch-epok-taki-jakim-nie-był-minister-tadeusz-matuszewicz-i-jego-biogra.md) (2024) | Relevance: 2.0
-- [On the Need to Amend the 1997 Constitution of the Republic of Poland. Part I](../sources/4009-on-the-need-to-amend-the-1997-constitution-of-the-republic-of-poland-part-i.md) (2020) | Relevance: 2.0
-- [The Structure and Composition of the Legislature in Non-Parliamentary Draft Constitutions of the Republic of Poland Announced in the Years 1997–2017](../sources/4048-the-structure-and-composition-of-the-legislature-in-non-parliamentary-draft-cons.md) (2018) | Relevance: 2.0
-- [Religion, European secular identities, and European integration](../sources/4018-religion-european-secular-identities-and-european-integration.md) (2006) | Relevance: 1.0
-- [Monitoring the monitors: EU enlargement conditionality and minority protection in the CEECs](../sources/3968-monitoring-the-monitors-eu-enlargement-conditionality-and-minority-protection-in.md) (2009) | Relevance: 1.0
-- [Information Disclosure and Environmental Rights: The Aarhus Convention](../sources/3987-information-disclosure-and-environmental-rights-the-aarhus-convention.md) (2010) | Relevance: 1.0
-- [Referendum – instrument czy iluzja władzy polskiego suwerena?](../sources/3998-referendum--instrument-czy-iluzja-władzy-polskiego-suwerena.md) (2018) | Relevance: 1.0
-- [Duty of Loyalty to the State or the ‘Polish Section’ in the 1937 Estonian Constitution](../sources/3992-duty-of-loyalty-to-the-state-or-the-polish-section-in-the-1937-estonian-constitu.md) (2021) | Relevance: 1.0
-- [Draft Amendments to the Constitution Concerning the Senate of the Republic of Poland](../sources/4001-draft-amendments-to-the-constitution-concerning-the-senate-of-the-republic-of-po.md) (2025) | Relevance: 1.0
+- [Institutional Design In New Democracies: Eastern Europe And Latin America](../explorer/?id=4052) (1996) | Relevance: 5.0
+- [Driven to change : the European Union's enlargement viewed from the East](../explorer/?id=4057) (2004) | Relevance: 5.0
+- [From Portugal to Poland: The Court of Justice of the European Union as watchdog of judicial independence](../explorer/?id=4059) (2020) | Relevance: 5.0
+- [Poland’s Conservative Turn and the Role of the European Union](../explorer/?id=4062) (2016) | Relevance: 5.0
+- [The constitutional crisis in Poland, Schmittian questions and Kaczyński’s political and legal philosophy](../explorer/?id=4061) (2018) | Relevance: 5.0
+- *...and 133 more* ([view all](../explorer/?case_study=Poland&category=Constitutional design and drafting processes))
 
 ## Cultural heritage preservation during institutional change
 *3 sources*
 
-- [Russia Under the Old Regime](../sources/1298-russia-under-the-old-regime.md) (1974) | Relevance: 2.0
-- [A History of the Gypsies of Eastern Europe and Russia](../sources/1285-a-history-of-the-gypsies-of-eastern-europe-and-russia.md) (2007) | Relevance: 2.0
-- [Catholic Europe, 1592–1648](../sources/1304-catholic-europe-15921648.md) (2015) | Relevance: 2.0
+- [Russia Under the Old Regime](../explorer/?id=1298) (1974) | Relevance: 2.0
+- [A History of the Gypsies of Eastern Europe and Russia](../explorer/?id=1285) (2007) | Relevance: 2.0
+- [Catholic Europe, 1592–1648](../explorer/?id=1304) (2015) | Relevance: 2.0
 
 ## Education system reform and curriculum modernization
 *4 sources*
 
-- [Was Weber Wrong? A Human Capital Theory of Protestant Economic History<sup>*</sup>](../sources/1323-was-weber-wrong-a-human-capital-theory-of-protestant-economic-historysupsup.md) (2009) | Relevance: 4.0
-- [Human Development in Poor Countries: On the Role of Private Incomes and Public Services](../sources/1355-human-development-in-poor-countries-on-the-role-of-private-incomes-and-public-se.md) (1993) | Relevance: 3.0
-- [Bolshevik Approaches to Higher Education, 1917-1921](../sources/1312-bolshevik-approaches-to-higher-education-1917-1921.md) (1971) | Relevance: 3.0
-- [Modern European trends in the development of the higher education system in the realities of large-scale military aggression (the experience of Ukraine)](../sources/1319-modern-european-trends-in-the-development-of-the-higher-education-system-in-the-.md) (2022) | Relevance: 2.0
+- [Was Weber Wrong? A Human Capital Theory of Protestant Economic History<sup>*</sup>](../explorer/?id=1323) (2009) | Relevance: 4.0
+- [Human Development in Poor Countries: On the Role of Private Incomes and Public Services](../explorer/?id=1355) (1993) | Relevance: 3.0
+- [Bolshevik Approaches to Higher Education, 1917-1921](../explorer/?id=1312) (1971) | Relevance: 3.0
+- [Modern European trends in the development of the higher education system in the realities of large-scale military aggression (the experience of Ukraine)](../explorer/?id=1319) (2022) | Relevance: 2.0
 
 ## Electoral system design and implementation
 *134 sources*
 
-- [Accounting for Corruption: Economic Structure, Democracy, and Trade](../sources/4097-accounting-for-corruption-economic-structure-democracy-and-trade.md) (2000) | Relevance: 5.0
-- [Developments in Central and East European Politics 2](../sources/4160-developments-in-central-and-east-european-politics-2.md) (1998) | Relevance: 5.0
-- [Parties and politics in post-1989 Poland](../sources/4164-parties-and-politics-in-post-1989-poland.md) (1996) | Relevance: 5.0
-- [The deteriorating legislative role of the legislature in multilevel democracies. Case of Poland](../sources/4116-the-deteriorating-legislative-role-of-the-legislature-in-multilevel-democracies-.md) (2024) | Relevance: 5.0
-- [Human Rights. Poland and the UN declarations on Human Rights](../sources/4134-human-rights-poland-and-the-un-declarations-on-human-rights.md) (2020) | Relevance: 5.0
-- [THE NEW EU VOTING SYSTEM - THE OLD WEST-EAST NORTH-SOUTH DIVISION](../sources/4112-the-new-eu-voting-system---the-old-west-east-north-south-division.md) (2017) | Relevance: 5.0
-- [Does the Two-Term Tenure of Office of Executive Bodies of Municipal Self-Government Constitute a Limitation of the Principle of Self-Government, Freedom of Elections and Passive Voting Rights?](../sources/4114-does-the-two-term-tenure-of-office-of-executive-bodies-of-municipal-self-governm.md) (2025) | Relevance: 5.0
-- [The Trump Presidency and American Democracy: A Historical and Comparative Analysis](../sources/4103-the-trump-presidency-and-american-democracy-a-historical-and-comparative-analysi.md) (2018) | Relevance: 4.0
-- [Democratic Backsliding in Poland and Hungary](../sources/4098-democratic-backsliding-in-poland-and-hungary.md) (2021) | Relevance: 4.0
-- [Institutional Change and Persistence: The Evolution of Poland's Electoral System, 1989–2001](../sources/4138-institutional-change-and-persistence-the-evolution-of-polands-electoral-system-1.md) (2004) | Relevance: 4.0
-- [Outside the Bubble](../sources/4152-outside-the-bubble.md) (2021) | Relevance: 4.0
-- [The Birth of a Bipolar Party System or a Referendum on a Polarizing Government? The October 2007 Polish Parliamentary Election](../sources/4142-the-birth-of-a-bipolar-party-system-or-a-referendum-on-a-polarizing-government-t.md) (2008) | Relevance: 4.0
-- [Creating Authoritarian Clientelism: Poland After 2015](../sources/4139-creating-authoritarian-clientelism-poland-after-2015.md) (2018) | Relevance: 4.0
-- [Unemployment matters: Voting patterns during the economic transition in Poland, 1990–1995](../sources/4158-unemployment-matters-voting-patterns-during-the-economic-transition-in-poland-19.md) (1997) | Relevance: 4.0
-- [Disciplinary Proceedings as an Instrument for Breaking the Rule of Law in Poland](../sources/4150-disciplinary-proceedings-as-an-instrument-for-breaking-the-rule-of-law-in-poland.md) (2020) | Relevance: 4.0
-- [The Evolution of E-voting: Why Voting Technology is Used and How it Affects Democracy.](../sources/4210-the-evolution-of-e-voting-why-voting-technology-is-used-and-how-it-affects-democ.md) (2012) | Relevance: 4.0
-- [Do heads of government age more quickly? Observational study comparing mortality between elected leaders and runners-up in national elections of 17 countries](../sources/4182-do-heads-of-government-age-more-quickly-observational-study-comparing-mortality-.md) (2015) | Relevance: 4.0
-- [One Leader, One Party, One Truth: Public Television Under the Rule of the Populist Right in Poland in the Pre-Election Period in 2019](../sources/4183-one-leader-one-party-one-truth-public-television-under-the-rule-of-the-populist-.md) (2020) | Relevance: 4.0
-- [The Polish election of 2023: mobilisation in defence of liberal democracy](../sources/4188-the-polish-election-of-2023-mobilisation-in-defence-of-liberal-democracy.md) (2024) | Relevance: 4.0
-- [The Political Economy of Autocratic Constitutions](../sources/4204-the-political-economy-of-autocratic-constitutions.md) (2013) | Relevance: 4.0
-- [Political Responses to the Extreme Right in Poland. Motivations and Constraints for Collaboration in the Executive Arena](../sources/4172-political-responses-to-the-extreme-right-in-poland-motivations-and-constraints-f.md) (2019) | Relevance: 4.0
-- [The Romanian Party System and the Catch-All Party Phenomenon](../sources/4094-the-romanian-party-system-and-the-catch-all-party-phenomenon.md) (1994) | Relevance: 4.0
-- [Specifications of Participatory Budgeting in Visegrad Group States and Possible Implementations for Slovakia](../sources/4175-specifications-of-participatory-budgeting-in-visegrad-group-states-and-possible-.md) (2021) | Relevance: 4.0
-- [Legislated candidate quotas and women's descriptive representation in preferential voting systems](../sources/4127-legislated-candidate-quotas-and-womens-descriptive-representation-in-preferentia.md) (2021) | Relevance: 4.0
-- [Going in Different Directions? The 2023 Elections in Poland and Slovakia and Their Aftermath](../sources/4214-going-in-different-directions-the-2023-elections-in-poland-and-slovakia-and-thei.md) (2024) | Relevance: 4.0
-- [THE ROUNDTABLE TALKS OF 1989: PARTICIPANTS, POLITICAL VISIONS, AND HISTORICAL REFERENCES](../sources/4212-the-roundtable-talks-of-1989-participants-political-visions-and-historical-refer.md) (2001) | Relevance: 4.0
-- [A Polish Invention or a Copy of the Soviet Model? Electoral Practices during Parliamentary Elections in Poland under the Communist Rule (1944–1980)](../sources/4126-a-polish-invention-or-a-copy-of-the-soviet-model-electoral-practices-during-parl.md) (2022) | Relevance: 4.0
-- [Legislative Practice and the ‘Judiciary Reforms’ in Post-2015 Poland – Analysis of the law-Making Process](../sources/4131-legislative-practice-and-the-judiciary-reforms-in-post-2015-poland--analysis-of-.md) (2020) | Relevance: 4.0
-- [Changes in the Party System in the Context of Deconsolidation of Democracy in Poland](../sources/4121-changes-in-the-party-system-in-the-context-of-deconsolidation-of-democracy-in-po.md) (2020) | Relevance: 4.0
-- [Trwałość przestrzennego zróżnicowania zachowań wyborczych w krajach Europy Środkowo-Wschodniej = Durability of the spatial differentiation characterising voting behaviour in Central and Eastern European countries](../sources/4120-trwałość-przestrzennego-zróżnicowania-zachowań-wyborczych-w-krajach-europy-środk.md) (2023) | Relevance: 4.0
-- [Open Government issues and opportunity: a case study based on a medium-sized city in Poland](../sources/4133-open-government-issues-and-opportunity-a-case-study-based-on-a-medium-sized-city.md) (2020) | Relevance: 4.0
-- [Voting per Internet in the Polish Legal System—From Policy Design to Policy Practice](../sources/4119-voting-per-internet-in-the-polish-legal-systemfrom-policy-design-to-policy-pract.md) (2020) | Relevance: 4.0
-- [Socialist Ideological Propaganda in Poland During the Reign of Boleslaw Berut (1947–1956)](../sources/4122-socialist-ideological-propaganda-in-poland-during-the-reign-of-boleslaw-berut-19.md) (2023) | Relevance: 4.0
-- [Postal ballot in unconsolidated democracy: Poland's case](../sources/4130-postal-ballot-in-unconsolidated-democracy-polands-case.md) (2021) | Relevance: 4.0
-- [The Ukrainian context of the 2019 election campaigns in Poland by the European Parliament and the Sejm and Senate](../sources/4187-the-ukrainian-context-of-the-2019-election-campaigns-in-poland-by-the-european-p.md) (2019) | Relevance: 4.0
-- [Beyond misinformation: Understanding and coping with the “post-truth” era.](../sources/4211-beyond-misinformation-understanding-and-coping-with-the-post-truth-era.md) (2017) | Relevance: 3.0
-- [Governance by conditionality: EU rule transfer to the candidate countries of Central and Eastern Europe](../sources/4091-governance-by-conditionality-eu-rule-transfer-to-the-candidate-countries-of-cent.md) (2004) | Relevance: 3.0
-- [Regimes of the World (RoW): Opening New Avenues for the Comparative Study of Political Regimes](../sources/4092-regimes-of-the-world-row-opening-new-avenues-for-the-comparative-study-of-politi.md) (2018) | Relevance: 3.0
-- [Deliberative Democracy in Divided Societies](../sources/4093-deliberative-democracy-in-divided-societies.md) (2005) | Relevance: 3.0
-- [Political Efficacy and Participation in Twenty-Seven Democracies: How Electoral Systems Shape Political Behaviour](../sources/4095-political-efficacy-and-participation-in-twenty-seven-democracies-how-electoral-s.md) (2008) | Relevance: 3.0
-- [Political Institutions and the Opinion–Policy Link](../sources/4156-political-institutions-and-the-opinionpolicy-link.md) (2012) | Relevance: 3.0
-- [Have Europeans Grown Tired of Democracy? New Evidence from Eighteen Consolidated Democracies, 1981–2018](../sources/4100-have-europeans-grown-tired-of-democracy-new-evidence-from-eighteen-consolidated-.md) (2020) | Relevance: 3.0
-- [Policy Ideology in European Mass Publics, 1981–2016](../sources/4105-policy-ideology-in-european-mass-publics-19812016.md) (2019) | Relevance: 3.0
-- [Why Does Globalization Fuel Populism? Economics, Culture, and the Rise of Right-wing Populism](../sources/4107-why-does-globalization-fuel-populism-economics-culture-and-the-rise-of-right-win.md) (2020) | Relevance: 3.0
-- [The Political Consequences of the Financial and Economic Crisis in Europe: Electoral Punishment and Popular Protest](../sources/4147-the-political-consequences-of-the-financial-and-economic-crisis-in-europe-electo.md) (2012) | Relevance: 3.0
-- [The polish elections of 2005: Pure chaos or a restructuring of the party system?](../sources/4198-the-polish-elections-of-2005-pure-chaos-or-a-restructuring-of-the-party-system.md) (2006) | Relevance: 3.0
-- [Handbook of Electoral System Choice](../sources/4090-handbook-of-electoral-system-choice.md) (2004) | Relevance: 3.0
-- [Learning to choose: electoral politics in East-Central Europe](../sources/4140-learning-to-choose-electoral-politics-in-east-central-europe.md) (2003) | Relevance: 3.0
-- [Do Parties Benefit from Electoral Manipulation? Electoral Laws and Heresthetics in Poland, 1989-93](../sources/4199-do-parties-benefit-from-electoral-manipulation-electoral-laws-and-heresthetics-i.md) (2002) | Relevance: 3.0
-- [The Polish centre-right's (last?) best hope: the rise and fall of Solidarity Electoral Action](../sources/4155-the-polish-centre-rights-last-best-hope-the-rise-and-fall-of-solidarity-electora.md) (2004) | Relevance: 3.0
-- [Cross-Platform Emotions and Audience Engagement in Social Media Political Campaigning: Comparing Candidates’ Facebook and Instagram Images in the 2020 US Election](../sources/4197-cross-platform-emotions-and-audience-engagement-in-social-media-political-campai.md) (2022) | Relevance: 3.0
-- [Corporate Boards in Europe—Accountability and Convergence](../sources/4169-corporate-boards-in-europeaccountability-and-convergence.md) (2012) | Relevance: 3.0
-- [Slovakia After the Split](../sources/4215-slovakia-after-the-split.md) (1993) | Relevance: 3.0
-- [Problems of Postcommunism: From Solidarity to Fragmentation](../sources/4203-problems-of-postcommunism-from-solidarity-to-fragmentation.md) (1992) | Relevance: 3.0
-- [Elections in Communist Party States](../sources/4157-elections-in-communist-party-states.md) (1978) | Relevance: 3.0
-- [Towards the development of a cross‐cultural model of voter behavior](../sources/4206-towards-the-development-of-a-crosscultural-model-of-voter-behavior.md) (2010) | Relevance: 3.0
-- [Facebook as an instrument of election campaigning and voters’ engagement: Comparing Czechia and Poland](../sources/4185-facebook-as-an-instrument-of-election-campaigning-and-voters-engagement-comparin.md) (2018) | Relevance: 3.0
-- [The Lands in Between](../sources/4202-the-lands-in-between.md) (2019) | Relevance: 3.0
-- [Consensus and Division over Poland's Entry into the European Union](../sources/4153-consensus-and-division-over-polands-entry-into-the-european-union.md) (2003) | Relevance: 3.0
-- [Polling Accuracy in a Multiparty Election](../sources/4166-polling-accuracy-in-a-multiparty-election.md) (2013) | Relevance: 3.0
-- [Analysing Central–Local Government Relations in Different Systems: A Conceptual Framework and Some Empirical Illustrations*](../sources/4205-analysing-centrallocal-government-relations-in-different-systems-a-conceptual-fr.md) (1991) | Relevance: 3.0
-- [Ballot Paper Design and Vote Spoiling at Polish Local Elections of 2014: Establishing a Causal Link](../sources/4201-ballot-paper-design-and-vote-spoiling-at-polish-local-elections-of-2014-establis.md) (2019) | Relevance: 3.0
-- [How single-member districts are reinforcing local independents and strengthening mayors: on the electoral reform in Polish local government](../sources/4200-how-single-member-districts-are-reinforcing-local-independents-and-strengthening.md) (2016) | Relevance: 3.0
-- [Vertical linkages between regional and national electoral arenas and their impact on multilevel democracy](../sources/4173-vertical-linkages-between-regional-and-national-electoral-arenas-and-their-impac.md) (2020) | Relevance: 3.0
-- [Do Parties and Voters Counteract Quota Regulations? The Impact of Legislative Gender Quotas on Ballot Ranking and Preference Voting in Poland](../sources/4111-do-parties-and-voters-counteract-quota-regulations-the-impact-of-legislative-gen.md) (2020) | Relevance: 3.0
-- [The Effect of Electing Women on Future Female Candidate Selection Patterns: Findings from a Regression Discontinuity Design](../sources/4181-the-effect-of-electing-women-on-future-female-candidate-selection-patterns-findi.md) (2019) | Relevance: 3.0
-- [A New Dimension of Social Stratification in Poland? Class Membership and Electoral Voting in 1991-2001](../sources/4167-a-new-dimension-of-social-stratification-in-poland-class-membership-and-electora.md) (2007) | Relevance: 3.0
-- [A comparative study of political communication in televised pre-election debates in Poland and the United States of America](../sources/4186-a-comparative-study-of-political-communication-in-televised-pre-election-debates.md) (2019) | Relevance: 3.0
-- [Are populist parties fostering women’s political representation in Poland? A comment on Kostadinova and Mikulska](../sources/4208-are-populist-parties-fostering-womens-political-representation-in-poland-a-comme.md) (2016) | Relevance: 3.0
-- [Governmental Change and FDI Inflow to Poland and Hungary in 2010-2016](../sources/4209-governmental-change-and-fdi-inflow-to-poland-and-hungary-in-2010-2016.md) (2018) | Relevance: 3.0
-- [How Partisan Is Local Election Administration?](../sources/4193-how-partisan-is-local-election-administration.md) (2023) | Relevance: 3.0
-- [CREATIVE RECONSTRUCTIONS OF POLITICAL IMAGERY IN AN INSTAGRAM-BASED ELECTION CAMPAIGN: IMPLICATIONS FOR VISUAL RHETORICAL LITERACY](../sources/4213-creative-reconstructions-of-political-imagery-in-an-instagram-based-election-cam.md) (2021) | Relevance: 3.0
-- [The permanent campaign in social media: A case study of Poland](../sources/4180-the-permanent-campaign-in-social-media-a-case-study-of-poland.md) (2018) | Relevance: 3.0
-- [Models of Voter Behavior](../sources/4222-models-of-voter-behavior.md) (2002) | Relevance: 3.0
-- [Does the Framing of Information Regarding Foreign Election Interference Matter? Evidence from a Survey Experiment in Canada](../sources/4195-does-the-framing-of-information-regarding-foreign-election-interference-matter-e.md) (2023) | Relevance: 3.0
-- [Securing Elections, Securing Confidence? Perceptions of Election Security Policies, Election Related Fraud Beliefs, and Voter Confidence in the United States](../sources/4196-securing-elections-securing-confidence-perceptions-of-election-security-policies.md) (2024) | Relevance: 3.0
-- [Postal or electronic voting? The analysis of the preferred voting methods in the context of failed electoral reform in Poland](../sources/4179-postal-or-electronic-voting-the-analysis-of-the-preferred-voting-methods-in-the-.md) (2021) | Relevance: 3.0
-- [Demeny Voting in Poland: Introduction to a Research Concept](../sources/4113-demeny-voting-in-poland-introduction-to-a-research-concept.md) (2017) | Relevance: 3.0
-- [Does Ideological Extremisms within Generations Explain Electoral Mobilization? The Evidence from Poland 2011–2023](../sources/4118-does-ideological-extremisms-within-generations-explain-electoral-mobilization-th.md) (2026) | Relevance: 3.0
-- [E-VOTING IN POLISH LEGAL SYSTEM—CONCLUSIONS DE LEGE LATA AND DE LEGE FERENDA](../sources/4123-e-voting-in-polish-legal-systemconclusions-de-lege-lata-and-de-lege-ferenda.md) (2017) | Relevance: 3.0
-- [The United Nations is the main institute of the Yalta — Potsdam system of International Relations](../sources/4125-the-united-nations-is-the-main-institute-of-the-yalta--potsdam-system-of-interna.md) (2025) | Relevance: 3.0
-- [Political Preferences of the Ukrainian National Minority in Poland in the Elections to the European Parliament](../sources/4129-political-preferences-of-the-ukrainian-national-minority-in-poland-in-the-electi.md) (2021) | Relevance: 3.0
-- [Annual general meeting as the supreme management body of joint stock company: national and foreign experience](../sources/4135-annual-general-meeting-as-the-supreme-management-body-of-joint-stock-company-nat.md) (2025) | Relevance: 3.0
-- [Wpływ polaryzacji na krajowej scenie partyjnej na spójność głosowań polskiej delegacji narodowej w Parlamencie Europejskim](../sources/4136-wpływ-polaryzacji-na-krajowej-scenie-partyjnej-na-spójność-głosowań-polskiej-del.md) (2024) | Relevance: 3.0
-- [Nierówność głosu a skrzywienie partyjne wyników wyborów](../sources/4137-nierówność-głosu-a-skrzywienie-partyjne-wyników-wyborów.md) (2024) | Relevance: 3.0
-- [THE PARTICIPATION OF WOMEN ON SUPERVISORY BOARDS OF COMPANIES IN WHICH THE STATE IS A SHAREHOLDER IN THE CONTEXT OF THE CHANGE OF POWER IN POLAND IN 2023](../sources/4176-the-participation-of-women-on-supervisory-boards-of-companies-in-which-the-state.md) (2025) | Relevance: 3.0
-- [FUTURE ELECTORAL CHALLENGES IN POLAND: AN ANALYSIS OF PROCESSES AND VOTER TURNOUT IN 2000-2024](../sources/4177-future-electoral-challenges-in-poland-an-analysis-of-processes-and-voter-turnout.md) (2025) | Relevance: 3.0
-- [Learning from imbalanced data: open challenges and future directions](../sources/4174-learning-from-imbalanced-data-open-challenges-and-future-directions.md) (2016) | Relevance: 2.0
-- [Understanding Conspiracy Theories](../sources/4207-understanding-conspiracy-theories.md) (2019) | Relevance: 2.0
-- [A Survey on Consensus Mechanisms and Mining Strategy Management in Blockchain Networks](../sources/4219-a-survey-on-consensus-mechanisms-and-mining-strategy-management-in-blockchain-ne.md) (2019) | Relevance: 2.0
-- [Countering Misinformation and Fake News Through Inoculation and Prebunking](../sources/4218-countering-misinformation-and-fake-news-through-inoculation-and-prebunking.md) (2021) | Relevance: 2.0
-- [Persecution Perpetuated: The Medieval Origins of Anti-Semitic Violence in Nazi Germany*](../sources/4221-persecution-perpetuated-the-medieval-origins-of-anti-semitic-violence-in-nazi-ge.md) (2012) | Relevance: 2.0
-- [Disentangling and Locating the “Global Right”: Anti-Gender Campaigns in Europe](../sources/4108-disentangling-and-locating-the-global-right-anti-gender-campaigns-in-europe.md) (2018) | Relevance: 2.0
-- [Federalism with and without Political Centralization: China versus Russia](../sources/4099-federalism-with-and-without-political-centralization-china-versus-russia.md) (2000) | Relevance: 2.0
-- [Political Budget Cycles in New versus Established Democracies](../sources/4096-political-budget-cycles-in-new-versus-established-democracies.md) (2004) | Relevance: 2.0
-- [New urban governance: A review of current themes and future priorities](../sources/4102-new-urban-governance-a-review-of-current-themes-and-future-priorities.md) (2018) | Relevance: 2.0
-- [What Is Youth Political Participation? Literature Review on Youth Political Participation and Political Attitudes](../sources/4104-what-is-youth-political-participation-literature-review-on-youth-political-parti.md) (2020) | Relevance: 2.0
-- [The Democracy Barometer: A New Instrument to Measure the Quality of Democracy and its Potential for Comparative Research](../sources/4101-the-democracy-barometer-a-new-instrument-to-measure-the-quality-of-democracy-and.md) (2011) | Relevance: 2.0
-- [The EU’s<i>Enfants Terribles</i>: Democratic Backsliding in Central Europe since 2010](../sources/4106-the-eusienfants-terriblesi-democratic-backsliding-in-central-europe-since-2010.md) (2020) | Relevance: 2.0
-- [Digitization in the Design and Construction Industry—Remote Work in the Context of Sustainability: A Study from Poland](../sources/4184-digitization-in-the-design-and-construction-industryremote-work-in-the-context-o.md) (2022) | Relevance: 2.0
-- [What inverted U can do for your country: A curvilinear relationship between confidence in the social system and political engagement.](../sources/4146-what-inverted-u-can-do-for-your-country-a-curvilinear-relationship-between-confi.md) (2017) | Relevance: 2.0
-- [SOLARIS National Synchrotron Radiation Centre in Krakow, Poland](../sources/4192-solaris-national-synchrotron-radiation-centre-in-krakow-poland.md) (2023) | Relevance: 2.0
-- [Unexpected Winners: The Significance of an Open-List System on Women's Representation in Poland](../sources/4144-unexpected-winners-the-significance-of-an-open-list-system-on-womens-representat.md) (2012) | Relevance: 2.0
-- [Optimal design and economic analysis of a PV system operating under Net Metering or Feed-In-Tariff support mechanisms: A case study in Poland](../sources/4190-optimal-design-and-economic-analysis-of-a-pv-system-operating-under-net-metering.md) (2020) | Relevance: 2.0
-- [Reconstructing Galicia: Mapping the Cultural and Civic Traditions of the Former Austrian Galicia in Poland and Ukraine](../sources/4143-reconstructing-galicia-mapping-the-cultural-and-civic-traditions-of-the-former-a.md) (2010) | Relevance: 2.0
-- [ElectionSim: Massive Population Election Simulation Powered by Large Language Model Driven Agents](../sources/4191-electionsim-massive-population-election-simulation-powered-by-large-language-mod.md) (2024) | Relevance: 2.0
-- [Voting with one’s chainsaw: What happens when people are given the opportunity to freely remove urban trees?](../sources/4124-voting-with-ones-chainsaw-what-happens-when-people-are-given-the-opportunity-to-.md) (2021) | Relevance: 2.0
-- [The Effects of Electoral Rules on Parliamentary Behavior](../sources/4141-the-effects-of-electoral-rules-on-parliamentary-behavior.md) (2016) | Relevance: 2.0
-- [PENROSE VOTING SYSTEM AND OPTIMAL QUOTA](../sources/4161-penrose-voting-system-and-optimal-quota.md) (2006) | Relevance: 2.0
-- [Between Order and Disorder: A ‘Weak Law’ on Recent Electoral Behavior among Urban Voters?](../sources/4163-between-order-and-disorder-a-weak-law-on-recent-electoral-behavior-among-urban-v.md) (2012) | Relevance: 2.0
-- [Belief in the Round Table conspiracy and political division in Poland](../sources/4128-belief-in-the-round-table-conspiracy-and-political-division-in-poland.md) (2020) | Relevance: 2.0
-- [Marginalization, not mainstreaming: Explaining the failure of fringe parties in Poland](../sources/4132-marginalization-not-mainstreaming-explaining-the-failure-of-fringe-parties-in-po.md) (2019) | Relevance: 2.0
-- [Friends and Neighbours Voting in Local Elections in Open List System: Evidence from Poland](../sources/4109-friends-and-neighbours-voting-in-local-elections-in-open-list-system-evidence-fr.md) (2021) | Relevance: 2.0
-- [USE OF SOCIAL MEDIA AND ARTIFICIAL INTELLIGENCE IN CREATING THE IMAGE OF A LEADER IN A LOCAL GOVERNMENT ELECTION CAMPAIGN](../sources/4178-use-of-social-media-and-artificial-intelligence-in-creating-the-image-of-a-leade.md) (2024) | Relevance: 2.0
-- [The influence of voting system on electoral participation of women in Poland](../sources/4110-the-influence-of-voting-system-on-electoral-participation-of-women-in-poland.md) (2013) | Relevance: 2.0
-- [The weaknesses of majority voting systems. A voice in the discussion on the proposed changes in the Polish voting system.](../sources/4115-the-weaknesses-of-majority-voting-systems-a-voice-in-the-discussion-on-the-propo.md) (2015) | Relevance: 2.0
-- [Between Electoral Manipulation and Optimisation: The Dates of the Elections and the Term of Office of Self-Government in Poland from 1990 to 2024](../sources/4117-between-electoral-manipulation-and-optimisation-the-dates-of-the-elections-and-t.md) (2024) | Relevance: 2.0
-- [2018 ESC/ESH Guidelines for the management of arterial hypertension](../sources/4149-2018-escesh-guidelines-for-the-management-of-arterial-hypertension.md) (2018) | Relevance: 1.0
-- [<i>Gaia</i> Data Release 2](../sources/4151-igaiai-data-release-2.md) (2018) | Relevance: 1.0
-- [The<i>Gaia</i>mission](../sources/4165-theigaiaimission.md) (2016) | Relevance: 1.0
-- [2016 ESC Guidelines for the management of atrial fibrillation developed in collaboration with EACTS](../sources/4168-2016-esc-guidelines-for-the-management-of-atrial-fibrillation-developed-in-colla.md) (2016) | Relevance: 1.0
-- [Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations](../sources/4171-visual-genome-connecting-language-and-vision-using-crowdsourced-dense-image-anno.md) (2017) | Relevance: 1.0
-- [2023 Focused Update of the 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure](../sources/4162-2023-focused-update-of-the-2021-esc-guidelines-for-the-diagnosis-and-treatment-o.md) (2023) | Relevance: 1.0
-- [Cancer survival in five continents: a worldwide population-based study (CONCORD)](../sources/4217-cancer-survival-in-five-continents-a-worldwide-population-based-study-concord.md) (2008) | Relevance: 1.0
-- [Psychological characteristics associated with COVID-19 vaccine hesitancy and resistance in Ireland and the United Kingdom](../sources/4223-psychological-characteristics-associated-with-covid-19-vaccine-hesitancy-and-res.md) (2021) | Relevance: 1.0
-- [Fake news game confers psychological resistance against online misinformation](../sources/4220-fake-news-game-confers-psychological-resistance-against-online-misinformation.md) (2019) | Relevance: 1.0
-- [Absorbing the blow: populist parties and their impact on parties and party systems](../sources/4145-absorbing-the-blow-populist-parties-and-their-impact-on-parties-and-party-system.md) (2019) | Relevance: 1.0
-- [Assessment of Thermal Comfort in the Intelligent Buildings in View of Providing High Quality Indoor Environment](../sources/4154-assessment-of-thermal-comfort-in-the-intelligent-buildings-in-view-of-providing-.md) (2020) | Relevance: 1.0
-- [“The Past Is Never Dead”](../sources/4148-the-past-is-never-dead.md) (2009) | Relevance: 1.0
-- [Ineffective and Counterproductive? The Impact of Gender Quotas in Open-List Proportional Representation Systems](../sources/4159-ineffective-and-counterproductive-the-impact-of-gender-quotas-in-open-list-propo.md) (2017) | Relevance: 1.0
-- [Evaluation of Soundscapes in Urban Parks in Olsztyn (Poland) for Improvement of Landscape Design and Management](../sources/4189-evaluation-of-soundscapes-in-urban-parks-in-olsztyn-poland-for-improvement-of-la.md) (2021) | Relevance: 1.0
-- [Poland Within the European Union](../sources/4170-poland-within-the-european-union.md) (2012) | Relevance: 1.0
-- [Extradosed Bridges in Poland—Design and Construction](../sources/4194-extradosed-bridges-in-polanddesign-and-construction.md) (2017) | Relevance: 1.0
-- [Pro-Civic Representation? Citizens’ Participation in the Opinion of Finnish and Polish Local Councilors](../sources/4216-pro-civic-representation-citizens-participation-in-the-opinion-of-finnish-and-po.md) (2020) | Relevance: 1.0
+- [Accounting for Corruption: Economic Structure, Democracy, and Trade](../explorer/?id=4097) (2000) | Relevance: 5.0
+- [Developments in Central and East European Politics 2](../explorer/?id=4160) (1998) | Relevance: 5.0
+- [Parties and politics in post-1989 Poland](../explorer/?id=4164) (1996) | Relevance: 5.0
+- [The deteriorating legislative role of the legislature in multilevel democracies. Case of Poland](../explorer/?id=4116) (2024) | Relevance: 5.0
+- [Human Rights. Poland and the UN declarations on Human Rights](../explorer/?id=4134) (2020) | Relevance: 5.0
+- *...and 129 more* ([view all](../explorer/?case_study=Poland&category=Electoral system design and implementation))
 
 ## Federalism, unitarism, and autonomy models
 *1 sources*
 
-- [Ethnicity and the political reconstruction in Afghanistan](../sources/2049-ethnicity-and-the-political-reconstruction-in-afghanistan.md) (2003) | Relevance: 3.0
+- [Ethnicity and the political reconstruction in Afghanistan](../explorer/?id=2049) (2003) | Relevance: 3.0
 
 ## Judicial independence and rule of law
 *78 sources*
 
-- [Illiberal Constitutionalism: The Case of Hungary and Poland](../sources/4330-illiberal-constitutionalism-the-case-of-hungary-and-poland.md) (2019) | Relevance: 5.0
-- [The Politics of Judicial Reform in Eastern Europe](../sources/4379-the-politics-of-judicial-reform-in-eastern-europe.md) (1999) | Relevance: 5.0
-- [The Power Knocks at the Courts' Back Door](../sources/4382-the-power-knocks-at-the-courts-back-door.md) (2009) | Relevance: 5.0
-- [A Hard Law Approach to States Systemic Violations of Article 2 of the Treaty of the European Union](../sources/4386-a-hard-law-approach-to-states-systemic-violations-of-article-2-of-the-treaty-of-.md) (2020) | Relevance: 5.0
-- [Connecting Reproductive Rights, Democracy, and the Rule of Law: Lessons from Poland in Times of COVID-19](../sources/4341-connecting-reproductive-rights-democracy-and-the-rule-of-law-lessons-from-poland.md) (2021) | Relevance: 5.0
-- [The “Hierarchy of Institutions” reconsidered: Monetary policy and its effect on the rule of law in interwar Poland](../sources/4353-the-hierarchy-of-institutions-reconsidered-monetary-policy-and-its-effect-on-the.md) (2018) | Relevance: 5.0
-- [ARTICLE 7 PROCESS AND DEMOCRATIC BACKSLIDING OF HUNGARY AND POLAND. DEMOCRACY AND THE RULE OF LAW](../sources/4347-article-7-process-and-democratic-backsliding-of-hungary-and-poland-democracy-and.md) (2020) | Relevance: 5.0
-- [Constitutional Populism and the Rule of Law in Poland](../sources/4344-constitutional-populism-and-the-rule-of-law-in-poland.md) (2022) | Relevance: 5.0
-- [Backsliding of the Rule of Law in Poland – a Systemic Problem With the Independence of Courts](../sources/4352-backsliding-of-the-rule-of-law-in-poland--a-systemic-problem-with-the-independen.md) (2022) | Relevance: 5.0
-- [ROLE OF COURT OF JUSTICE OF THE EUROPEAN UNION IN ESTABLISHMENT OF EU STANDARDS ON INDEPENDENCE OF JUDICIARY](../sources/4389-role-of-court-of-justice-of-the-european-union-in-establishment-of-eu-standards-.md) (2020) | Relevance: 5.0
-- [Comparative procedural traditions](../sources/4395-comparative-procedural-traditions.md) (2016) | Relevance: 5.0
-- [Enforcing the Rule of Law in the EU: The Case of Poland and Hungary](../sources/4354-enforcing-the-rule-of-law-in-the-eu-the-case-of-poland-and-hungary.md) (2023) | Relevance: 5.0
-- [Signalling in European Rule of Law Cases: Hungary and Poland as Case Studies](../sources/4359-signalling-in-european-rule-of-law-cases-hungary-and-poland-as-case-studies.md) (2023) | Relevance: 5.0
-- [Crisis of the Rule of Law in Europe: The Cases of Hungary, Poland and Spain](../sources/4362-crisis-of-the-rule-of-law-in-europe-the-cases-of-hungary-poland-and-spain.md) (2021) | Relevance: 5.0
-- [Precedent in Poland](../sources/4393-precedent-in-poland.md) (2016) | Relevance: 5.0
-- [Żurek v Poland – when judges become rule of law actors. Challenges and achievements of judicial mobilisation in Poland](../sources/4366-żurek-v-poland--when-judges-become-rule-of-law-actors-challenges-and-achievement.md) (2023) | Relevance: 5.0
-- [Rule of Law vs. Poland and Hungary – an Inconsistent Approach?](../sources/4370-rule-of-law-vs-poland-and-hungary--an-inconsistent-approach.md) (2021) | Relevance: 5.0
-- [Polarization and rule of law crisis—insights from Poland](../sources/4367-polarization-and-rule-of-law-crisisinsights-from-poland.md) (2025) | Relevance: 5.0
-- [The Venice Commission and Rule of Law Backsliding in Turkey, Poland and Hungary](../sources/4371-the-venice-commission-and-rule-of-law-backsliding-in-turkey-poland-and-hungary.md) (2021) | Relevance: 5.0
-- [Assessing the Quality of Democracy](../sources/4361-assessing-the-quality-of-democracy.md) (2005) | Relevance: 4.0
-- [The Politics of International Judicial Appointments: Evidence from the European Court of Human Rights](../sources/4329-the-politics-of-international-judicial-appointments-evidence-from-the-european-c.md) (2007) | Relevance: 4.0
-- [A Geographic Incremental Theory of Democratization: Territory, Aid, and Democracy in Postcommunist Regions](../sources/4336-a-geographic-incremental-theory-of-democratization-territory-aid-and-democracy-i.md) (2006) | Relevance: 4.0
-- [The Rise of an Ethnocultural Constitutional Identity in the Jurisprudence of the East Central European Courts](../sources/4333-the-rise-of-an-ethnocultural-constitutional-identity-in-the-jurisprudence-of-the.md) (2017) | Relevance: 4.0
-- [Parties, Civil Society, and the Deterrence of Democratic Defection](../sources/4337-parties-civil-society-and-the-deterrence-of-democratic-defection.md) (2019) | Relevance: 4.0
-- [Why Israeli Democracy Is in Crisis](../sources/4380-why-israeli-democracy-is-in-crisis.md) (2023) | Relevance: 4.0
-- [The Rise and Fall of Judicial Self-Government in Poland: On Judicial Reform Reversing Democratic Transition](../sources/4383-the-rise-and-fall-of-judicial-self-government-in-poland-on-judicial-reform-rever.md) (2018) | Relevance: 4.0
-- [Who is Afraid of the European Council? The Court of Justice’s Cautious Approach to the Independence of Domestic Judges](../sources/4381-who-is-afraid-of-the-european-council-the-court-of-justices-cautious-approach-to.md) (2018) | Relevance: 4.0
-- [Illiberal Constitutionalism in Poland and Hungary: The Deterioration of Democracy, Misuse of Human Rights and Abuse of the Rule of Law](../sources/4342-illiberal-constitutionalism-in-poland-and-hungary-the-deterioration-of-democracy.md) (2021) | Relevance: 4.0
-- [The role of the 2011 patients' rights in cross-border health care directive in shaping seven national health systems: Looking beyond patient mobility](../sources/4384-the-role-of-the-2011-patients-rights-in-cross-border-health-care-directive-in-sh.md) (2018) | Relevance: 4.0
-- [The politics of pension reform reversal: a comparative analysis of Hungary and Argentina](../sources/4394-the-politics-of-pension-reform-reversal-a-comparative-analysis-of-hungary-and-ar.md) (2013) | Relevance: 4.0
-- [Some remarks on the EU’s action on the erosion of the rule of law in Poland and Hungary](../sources/4343-some-remarks-on-the-eus-action-on-the-erosion-of-the-rule-of-law-in-poland-and-h.md) (2018) | Relevance: 4.0
-- [The Role of Civil Society in Protecting Judicial Independence in Times of Rule of Law Backsliding in Poland](../sources/4345-the-role-of-civil-society-in-protecting-judicial-independence-in-times-of-rule-o.md) (2021) | Relevance: 4.0
-- [Civil Society Organizations <i>for</i> and <i>with</i> the Courts and Judges—Struggle for the Rule of Law and Judicial Independence: The Case of Poland 1976–2020](../sources/4349-civil-society-organizations-ifori-and-iwithi-the-courts-and-judgesstruggle-for-t.md) (2021) | Relevance: 4.0
-- [Differentiation in the European Union in Post‐Brexit and ‐Pandemic Times: Macro‐Level Developments with Meso‐Level Consequences](../sources/4334-differentiation-in-the-european-union-in-postbrexit-and-pandemic-times-macroleve.md) (2022) | Relevance: 4.0
-- [Fixing the Problem of Unlawfully Appointed Judges in Poland in the Light of the ECHR](../sources/4392-fixing-the-problem-of-unlawfully-appointed-judges-in-poland-in-the-light-of-the-.md) (2023) | Relevance: 4.0
-- [Safeguarding Democracy and the Rule of Law by Civil Society Actors? The Case of Poland](../sources/4356-safeguarding-democracy-and-the-rule-of-law-by-civil-society-actors-the-case-of-p.md) (2020) | Relevance: 4.0
-- [The Rule of Law Crisis in Poland: A New Chapter](../sources/4346-the-rule-of-law-crisis-in-poland-a-new-chapter.md) (2018) | Relevance: 4.0
-- [Constitutional Crisis in Poland 2015–2016 in the Light of the Rule of Law Principle](../sources/4348-constitutional-crisis-in-poland-20152016-in-the-light-of-the-rule-of-law-princip.md) (2021) | Relevance: 4.0
-- [European Union: a process without a subject](../sources/4399-european-union-a-process-without-a-subject.md) (2006) | Relevance: 4.0
-- [The rule of law in the grip of populist authoritarianism: Hungary and Poland](../sources/4351-the-rule-of-law-in-the-grip-of-populist-authoritarianism-hungary-and-poland.md) (2023) | Relevance: 4.0
-- [The Rule of Law and Its Social Reception as Determinants of Economic Development: A Comparative Analysis of Germany and Poland](../sources/4358-the-rule-of-law-and-its-social-reception-as-determinants-of-economic-development.md) (2021) | Relevance: 4.0
-- [The access to justice gap and the rule of law crisis in Poland](../sources/4357-the-access-to-justice-gap-and-the-rule-of-law-crisis-in-poland.md) (2022) | Relevance: 4.0
-- [Two Faces of the Polish Supreme Court After 'Reforms' of the Judiciary System in Poland: The Question of Judicial Independence and Appointments](../sources/4378-two-faces-of-the-polish-supreme-court-after-reforms-of-the-judiciary-system-in-p.md) (2020) | Relevance: 4.0
-- [The Rule of Law in Poland](../sources/4350-the-rule-of-law-in-poland.md) (2019) | Relevance: 4.0
-- [How do citizens define and value the rule of law? A conjoint experiment in Germany and Poland](../sources/4364-how-do-citizens-define-and-value-the-rule-of-law-a-conjoint-experiment-in-german.md) (2024) | Relevance: 4.0
-- [The Rule of Law and Political and Economic Transformation in Poland](../sources/4360-the-rule-of-law-and-political-and-economic-transformation-in-poland.md) (2017) | Relevance: 4.0
-- [Poland and the European Commission, Part III: Requiem for the Rule of Law](../sources/4363-poland-and-the-european-commission-part-iii-requiem-for-the-rule-of-law.md) (2017) | Relevance: 4.0
-- [Populist Foreign Policy and its Consequences: The Case of Poland Under the Rule of The Law and Justice Party](../sources/4373-populist-foreign-policy-and-its-consequences-the-case-of-poland-under-the-rule-o.md) (2022) | Relevance: 4.0
-- [The Definition of National Court within the Meaning of European Union Law. Considerations in the Context of the Polish Reform of the Judicial System](../sources/4397-the-definition-of-national-court-within-the-meaning-of-european-union-law-consid.md) (2020) | Relevance: 4.0
-- [The Rule of Law Crisis in the European Union: From Portugal to Poland (and Beyond)](../sources/4374-the-rule-of-law-crisis-in-the-european-union-from-portugal-to-poland-and-beyond.md) (2020) | Relevance: 4.0
-- [Editorial comments: Clear and present danger: Poland, the rule of law &amp; primacy](../sources/4376-editorial-comments-clear-and-present-danger-poland-the-rule-of-law-amp-primacy.md) (2021) | Relevance: 4.0
-- [Comment: Austro-Hungarian partnership? A brief comparison between an old democracy and a new democracy](../sources/4327-comment-austro-hungarian-partnership-a-brief-comparison-between-an-old-democracy.md) (2022) | Relevance: 4.0
-- [Building State Capability: Evidence, Analysis, Action](../sources/4338-building-state-capability-evidence-analysis-action.md) (2017) | Relevance: 3.0
-- [The Uses and Abuses of Constitutional Pluralism: Undermining the Rule of Law in the Name of Constitutional Identity in Hungary and Poland](../sources/4340-the-uses-and-abuses-of-constitutional-pluralism-undermining-the-rule-of-law-in-t.md) (2019) | Relevance: 3.0
-- [Populism and Backlashes against International Courts](../sources/1284-populism-and-backlashes-against-international-courts.md) (2019) | Relevance: 3.0
-- [Populist Leaders and the Economy](../sources/4328-populist-leaders-and-the-economy.md) (2023) | Relevance: 3.0
-- [Searching for Bright Lines in the Trump Presidency](../sources/4332-searching-for-bright-lines-in-the-trump-presidency.md) (2019) | Relevance: 3.0
-- [Better Late than Never? On the European Commission's Rule of Law Framework and its First Activation](../sources/4331-better-late-than-never-on-the-european-commissions-rule-of-law-framework-and-its.md) (2016) | Relevance: 3.0
-- [Authoritarian footprints in Central and Eastern Europe](../sources/4335-authoritarian-footprints-in-central-and-eastern-europe.md) (2019) | Relevance: 3.0
-- [Consumer ADR in Europe](../sources/4385-consumer-adr-in-europe.md) (2012) | Relevance: 3.0
-- [The European Human Rights Convention:A New Court of Human Rights in Strasbourgas of November 1, 1998](../sources/4388-the-european-human-rights-conventiona-new-court-of-human-rights-in-strasbourgas-.md) (1998) | Relevance: 3.0
-- [Criminalizing Atrocity](../sources/1317-criminalizing-atrocity.md) (2020) | Relevance: 3.0
-- [Still United Despite Diversity](../sources/4391-still-united-despite-diversity.md) (2018) | Relevance: 3.0
-- [Central Europe Since 1945](../sources/1318-central-europe-since-1945.md) (2014) | Relevance: 3.0
-- [A failed attempt to radically reduce inter-court sentencing disparities by legislation: Empirical evidence from Poland](../sources/4387-a-failed-attempt-to-radically-reduce-inter-court-sentencing-disparities-by-legis.md) (2020) | Relevance: 3.0
-- [Administrative Judiciary in Poland in Search for Fairness and Efficiency - an Overview](../sources/4390-administrative-judiciary-in-poland-in-search-for-fairness-and-efficiency---an-ov.md) (2007) | Relevance: 3.0
-- [Linking EU Budget Allocations to the Rule of Law: the Case of Poland and Hungary](../sources/4355-linking-eu-budget-allocations-to-the-rule-of-law-the-case-of-poland-and-hungary.md) (2021) | Relevance: 3.0
-- [Constitutional identity, the rule of law, and the power of the purse: The ECJ approves the conditionality mechanism to protect the Union budget: Hungary and Poland v. Parliament and Council](../sources/4372-constitutional-identity-the-rule-of-law-and-the-power-of-the-purse-the-ecj-appro.md) (2022) | Relevance: 3.0
-- [Law-making in Poland: Rules and Patterns of Legislation](../sources/4365-law-making-in-poland-rules-and-patterns-of-legislation.md) (2005) | Relevance: 3.0
-- [The Rule of Law Crisis Deepens in Poland after A.K. v. Krajowa Rada Sadownictwa and CP, DO v. Sad Najwyzszy](../sources/4377-the-rule-of-law-crisis-deepens-in-poland-after-ak-v-krajowa-rada-sadownictwa-and.md) (2020) | Relevance: 3.0
-- [Projekty powołania sądownictwa administracyjnego w Polsce w latach 1944–52](../sources/4398-projekty-powołania-sądownictwa-administracyjnego-w-polsce-w-latach-194452.md) (2017) | Relevance: 3.0
-- [Another view of the cathedral](../sources/4326-another-view-of-the-cathedral.md) (2018) | Relevance: 3.0
-- [Courts and Relational Contracts](../sources/4396-courts-and-relational-contracts.md) (2002) | Relevance: 2.0
-- [Enhancing public trust in COVID-19 vaccination: The role of governments](../sources/4339-enhancing-public-trust-in-covid-19-vaccination-the-role-of-governments.md) (2021) | Relevance: 2.0
-- [The Bureaucratic Politics Paradigm and the Soviet Invasion of Czechoslovakia](../sources/1305-the-bureaucratic-politics-paradigm-and-the-soviet-invasion-of-czechoslovakia.md) (1979) | Relevance: 2.0
-- [Horthel v Poland: Fair and Equitable Treatment Embodies the Rule of Law, Whereas ‘Tax’ Is Not Always a Tax](../sources/4369-horthel-v-poland-fair-and-equitable-treatment-embodies-the-rule-of-law-whereas-t.md) (2022) | Relevance: 2.0
-- [Systemic Threat to the Rule of Law in Poland: What should the Commission do next?](../sources/4375-systemic-threat-to-the-rule-of-law-in-poland-what-should-the-commission-do-next.md) (2016) | Relevance: 2.0
-- [Is the EU Commission’s Rule of Law Fight about Poland already lost?](../sources/4368-is-the-eu-commissions-rule-of-law-fight-about-poland-already-lost.md) (2016) | Relevance: 2.0
+- [Illiberal Constitutionalism: The Case of Hungary and Poland](../explorer/?id=4330) (2019) | Relevance: 5.0
+- [The Politics of Judicial Reform in Eastern Europe](../explorer/?id=4379) (1999) | Relevance: 5.0
+- [The Power Knocks at the Courts' Back Door](../explorer/?id=4382) (2009) | Relevance: 5.0
+- [A Hard Law Approach to States Systemic Violations of Article 2 of the Treaty of the European Union](../explorer/?id=4386) (2020) | Relevance: 5.0
+- [Connecting Reproductive Rights, Democracy, and the Rule of Law: Lessons from Poland in Times of COVID-19](../explorer/?id=4341) (2021) | Relevance: 5.0
+- *...and 73 more* ([view all](../explorer/?case_study=Poland&category=Judicial independence and rule of law))
 
 ## Labor market reform and social safety nets
 *13 sources*
 
-- [The revenge of the places that don’t matter (and what to do about it)](../sources/1321-the-revenge-of-the-places-that-dont-matter-and-what-to-do-about-it.md) (2017) | Relevance: 4.0
-- [The Role of Agriculture in Ensuring Food Security in Developing Countries: Considerations in the Context of the Problem of Sustainable Food Production](../sources/1338-the-role-of-agriculture-in-ensuring-food-security-in-developing-countries-consid.md) (2020) | Relevance: 3.0
-- [The Soviet social contract and why it failed: welfare policy and workers' politics from Brezhnev to Yeltsin](../sources/1329-the-soviet-social-contract-and-why-it-failed-welfare-policy-and-workers-politics.md) (1994) | Relevance: 3.0
-- [The Social Market Roots of Democratic Peace](../sources/1292-the-social-market-roots-of-democratic-peace.md) (2009) | Relevance: 3.0
-- [Making Transition Work for Everyone](../sources/1336-making-transition-work-for-everyone.md) (2000) | Relevance: 3.0
-- [Changes in the Wage Structure during Economic Transition in Central and Eastern Europe](../sources/1337-changes-in-the-wage-structure-during-economic-transition-in-central-and-eastern-.md) (1996) | Relevance: 3.0
-- [Social security reform in Central and Eastern Europe: variations on a Latin American theme.](../sources/1333-social-security-reform-in-central-and-eastern-europe-variations-on-a-latin-ameri.md) (2003) | Relevance: 3.0
-- [Ukrainian Migration Crisis Caused by the War](../sources/1326-ukrainian-migration-crisis-caused-by-the-war.md) (2022) | Relevance: 3.0
-- [Decitizenization of Migrants in Slovenia](../sources/1833-decitizenization-of-migrants-in-slovenia.md) (2012) | Relevance: 3.0
-- [Chemical Pesticides and Human Health: The Urgent Need for a New Concept in Agriculture](../sources/1347-chemical-pesticides-and-human-health-the-urgent-need-for-a-new-concept-in-agricu.md) (2016) | Relevance: 2.0
-- [Are Recessions Good for Your Health?](../sources/1353-are-recessions-good-for-your-health.md) (2000) | Relevance: 2.0
-- [International variations in primary care physician consultation time: a systematic review of 67 countries](../sources/1350-international-variations-in-primary-care-physician-consultation-time-a-systemati.md) (2017) | Relevance: 2.0
-- [The Contribution of Primary Care Systems to Health Outcomes within Organization for Economic Cooperation and Development (OECD) Countries, 1970–1998](../sources/1354-the-contribution-of-primary-care-systems-to-health-outcomes-within-organization-.md) (2003) | Relevance: 2.0
+- [The revenge of the places that don’t matter (and what to do about it)](../explorer/?id=1321) (2017) | Relevance: 4.0
+- [The Role of Agriculture in Ensuring Food Security in Developing Countries: Considerations in the Context of the Problem of Sustainable Food Production](../explorer/?id=1338) (2020) | Relevance: 3.0
+- [The Soviet social contract and why it failed: welfare policy and workers' politics from Brezhnev to Yeltsin](../explorer/?id=1329) (1994) | Relevance: 3.0
+- [The Social Market Roots of Democratic Peace](../explorer/?id=1292) (2009) | Relevance: 3.0
+- [Making Transition Work for Everyone](../explorer/?id=1336) (2000) | Relevance: 3.0
+- *...and 8 more* ([view all](../explorer/?case_study=Poland&category=Labor market reform and social safety nets))
 
 ## Media freedom and press institution building
 *101 sources*
 
-- [The new politics of Poland](../sources/4578-the-new-politics-of-poland.md) (2023) | Relevance: 5.0
-- [Democratic Backsliding in Poland](../sources/4490-democratic-backsliding-in-poland.md) (2023) | Relevance: 5.0
-- [Constitutional Foundations and Legal Restrictions on Mass Media Freedom in the Republic of Iraq](../sources/4494-constitutional-foundations-and-legal-restrictions-on-mass-media-freedom-in-the-r.md) (2020) | Relevance: 5.0
-- [The ‘right to be forgotten’ and the right to freedom of expression and information-legal problems on the basis of the judgment of the Supreme Administrative Court of 9 February 2023](../sources/4512-the-right-to-be-forgotten-and-the-right-to-freedom-of-expression-and-information.md) (2024) | Relevance: 5.0
-- [Coalizões de Oposição nas Eleições Legislativas para Interromper a Erosão Democrática: Os Casos da Polônia e da África do Sul](../sources/4516-coalizões-de-oposição-nas-eleições-legislativas-para-interromper-a-erosão-democr.md) (2025) | Relevance: 5.0
-- [Avoiding Accountability](../sources/4524-avoiding-accountability.md) (2022) | Relevance: 5.0
-- [Present-day Poland Media Landscape: Compliance with EU Regulations](../sources/4557-present-day-poland-media-landscape-compliance-with-eu-regulations.md) (2017) | Relevance: 5.0
-- [The People vs. Democracy: Why Our Freedom Is in Danger and How to Save It](../sources/4570-the-people-vs-democracy-why-our-freedom-is-in-danger-and-how-to-save-it.md) (2018) | Relevance: 4.0
-- [The Politics of Laughter: Nasser, Sadat, and Mubarek in Egyptian Political Jokes](../sources/4530-the-politics-of-laughter-nasser-sadat-and-mubarek-in-egyptian-political-jokes.md) (1992) | Relevance: 4.0
-- [Legalization of press control under democratic backsliding: The case of post-national security law Hong Kong](../sources/4493-legalization-of-press-control-under-democratic-backsliding-the-case-of-post-nati.md) (2022) | Relevance: 4.0
-- [The Role of the Media in Transitions from Authoritarian Political Systems: Russia and Poland since the Fall of Communism](../sources/4498-the-role-of-the-media-in-transitions-from-authoritarian-political-systems-russia.md) (1997) | Relevance: 4.0
-- [Journalism, Truth and the Restoration of Trust in Democracy: Tracing the EU ‘Fake News’ Strategy](../sources/4534-journalism-truth-and-the-restoration-of-trust-in-democracy-tracing-the-eu-fake-n.md) (2022) | Relevance: 4.0
-- [Read All About It! Understanding the Role of Media in Economic Development](../sources/4574-read-all-about-it-understanding-the-role-of-media-in-economic-development.md) (2004) | Relevance: 4.0
-- [Struggling with Media Capture: Romania](../sources/4547-struggling-with-media-capture-romania.md) (2012) | Relevance: 4.0
-- [Managing Labor Market Reforms: Case Study of Poland](../sources/4573-managing-labor-market-reforms-case-study-of-poland.md) (2004) | Relevance: 4.0
-- [Media Freedom in South Africa Today: Unravelling Multifarious Threats toward a Research and Advocacy Response](../sources/4492-media-freedom-in-south-africa-today-unravelling-multifarious-threats-toward-a-re.md) (2020) | Relevance: 4.0
-- [State Information Security Policy (Comparative Legal Aspect)](../sources/4561-state-information-security-policy-comparative-legal-aspect.md) (2021) | Relevance: 4.0
-- [How will the EU’s ‘rule of law’ investigation affect Polish politics?](../sources/4582-how-will-the-eus-rule-of-law-investigation-affect-polish-politics.md) (2016) | Relevance: 4.0
-- [Media Diet on Facebook During a Political Crisis: The Case of Judicial System Reform in Poland in 2017](../sources/4568-media-diet-on-facebook-during-a-political-crisis-the-case-of-judicial-system-ref.md) (2019) | Relevance: 4.0
-- [Censoring Solidarity: Freedom of Speech and its Denial in Poland, 1980–1981](../sources/4510-censoring-solidarity-freedom-of-speech-and-its-denial-in-poland-19801981.md) (2020) | Relevance: 4.0
-- [Role of Social Media Manipulation in Promoting Democratic Decay: The Case of Poland](../sources/4486-role-of-social-media-manipulation-in-promoting-democratic-decay-the-case-of-pola.md) (2024) | Relevance: 4.0
-- [Legal Comparison of Freedom of Expression and Freedom of the Press in the Republic of Armenia and in the Republic of Poland](../sources/4488-legal-comparison-of-freedom-of-expression-and-freedom-of-the-press-in-the-republ.md) (2020) | Relevance: 4.0
-- [Historical Path Dependency and Media Freedom: Poland and Ukraine in the 1990s](../sources/4489-historical-path-dependency-and-media-freedom-poland-and-ukraine-in-the-1990s.md) (2020) | Relevance: 4.0
-- [The problem of tensions between the constitutional principle of freedom of speech and freedom of the press and the limits of access to information and publishing in Poland](../sources/4507-the-problem-of-tensions-between-the-constitutional-principle-of-freedom-of-speec.md) (2023) | Relevance: 4.0
-- [The Role of Information Policy in Shaping Public Opinion on Corruption in the Visegrad Group Countries](../sources/4518-the-role-of-information-policy-in-shaping-public-opinion-on-corruption-in-the-vi.md) (2024) | Relevance: 4.0
-- [США, Полония и внутриполитические процессы в Польше в 1946–1947 гг.](../sources/4520-сша-полония-и-внутриполитические-процессы-в-польше-в-19461947-гг.md) (2024) | Relevance: 4.0
-- [A Comparative Study of the Change of the Economic Model of Poland after 1989 and Chinas Reform and Opening up](../sources/4554-a-comparative-study-of-the-change-of-the-economic-model-of-poland-after-1989-and.md) (2023) | Relevance: 4.0
-- [Horizontal Accountability in New Democracies](../sources/4525-horizontal-accountability-in-new-democracies.md) (1998) | Relevance: 3.0
-- [The Superiority of Economists](../sources/4501-the-superiority-of-economists.md) (2015) | Relevance: 3.0
-- [Caught in the Nexus: A Comparative and Longitudinal Analysis of Public Trust in the Press](../sources/4499-caught-in-the-nexus-a-comparative-and-longitudinal-analysis-of-public-trust-in-t.md) (2017) | Relevance: 3.0
-- [Prebunking interventions based on the psychological theory of “inoculation” can reduce susceptibility to misinformation across cultures.](../sources/0977-prebunking-interventions-based-on-the-psychological-theory-of-inoculation-can-re.md) (2020) | Relevance: 3.0
-- [Cultural Relativism Revisited: Through a State Prism](../sources/4533-cultural-relativism-revisited-through-a-state-prism.md) (1996) | Relevance: 3.0
-- [Press freedom and pluralism in Europe : concepts and conditions](../sources/4527-press-freedom-and-pluralism-in-europe--concepts-and-conditions.md) (2009) | Relevance: 3.0
-- [Rethinking Hallin and Mancini beyond the west: an analysis of media systems in Central and Eastern Europe](../sources/4529-rethinking-hallin-and-mancini-beyond-the-west-an-analysis-of-media-systems-in-ce.md) (2017) | Relevance: 3.0
-- [Journalistic norms between universality and domestication: Journalists’ interpretations of press freedom in six new democracies](../sources/4528-journalistic-norms-between-universality-and-domestication-journalists-interpreta.md) (2014) | Relevance: 3.0
-- [Masculist Groups in Poland: Aids of Mainstream Antifeminism](../sources/4559-masculist-groups-in-poland-aids-of-mainstream-antifeminism.md) (2016) | Relevance: 3.0
-- [Party colonisation of the media in Central and Eastern Europe](../sources/4540-party-colonisation-of-the-media-in-central-and-eastern-europe.md) (2015) | Relevance: 3.0
-- [Future perfect? Conflict and agency in higher education reform in Poland](../sources/4572-future-perfect-conflict-and-agency-in-higher-education-reform-in-poland.md) (2014) | Relevance: 3.0
-- [The Thin Ideology of Populist Advertising on Facebook during the 2019 EU Elections](../sources/4580-the-thin-ideology-of-populist-advertising-on-facebook-during-the-2019-eu-electio.md) (2023) | Relevance: 3.0
-- [Political Sentiment Analysis of Press Freedom](../sources/4509-political-sentiment-analysis-of-press-freedom.md) (2018) | Relevance: 3.0
-- [Press freedom during the 1994 and 1999 presidential elections in Ukraine: a reverse wave?](../sources/4550-press-freedom-during-the-1994-and-1999-presidential-elections-in-ukraine-a-rever.md) (2004) | Relevance: 3.0
-- [Economization of discourse on education and pedagogization of economic problems: media debate on higher education reform in Poland](../sources/4556-economization-of-discourse-on-education-and-pedagogization-of-economic-problems-.md) (2020) | Relevance: 3.0
-- [`Solidarity' and Media Reform in Poland](../sources/4567-solidarity-and-media-reform-in-poland.md) (1990) | Relevance: 3.0
-- [The Media in Eastern Europe](../sources/4535-the-media-in-eastern-europe.md) (2023) | Relevance: 3.0
-- [Judische Polonitat: Ethnizitat und Nation im Spiegel der polnischsprachigen judischen Presse 1918-1939](../sources/4538-judische-polonitat-ethnizitat-und-nation-im-spiegel-der-polnischsprachigen-judis.md) (2004) | Relevance: 3.0
-- [Introduction: Health and Care Work in Postsocialist Eastern Europe and the former Soviet Union.](../sources/4585-introduction-health-and-care-work-in-postsocialist-eastern-europe-and-the-former.md) (2011) | Relevance: 3.0
-- [The Beginning of Congress Poland in the Discourse of the French Press](../sources/4513-the-beginning-of-congress-poland-in-the-discourse-of-the-french-press.md) (2019) | Relevance: 3.0
-- [Fostering Bottom-Up Censorship From the Top-Down: Nationalism and Media Restrictions](../sources/4521-fostering-bottom-up-censorship-from-the-top-down-nationalism-and-media-restricti.md) (2023) | Relevance: 3.0
-- [The paradoxes of Jaruzelski's Poland](../sources/4541-the-paradoxes-of-jaruzelskis-poland.md) (1985) | Relevance: 3.0
-- [Coups, Regime Transition, and the Dynamics of Press Freedom](../sources/4496-coups-regime-transition-and-the-dynamics-of-press-freedom.md) (2018) | Relevance: 3.0
-- [Anti-pandemic restrictions, uncertainty and sentiment in seven countries](../sources/4522-anti-pandemic-restrictions-uncertainty-and-sentiment-in-seven-countries.md) (2022) | Relevance: 3.0
-- [Catholicism And Enlightenment In Poland-Lithuania](../sources/4553-catholicism-and-enlightenment-in-poland-lithuania.md) (2010) | Relevance: 3.0
-- [Education as Mythology](../sources/4545-education-as-mythology.md) (2013) | Relevance: 3.0
-- [Poland between the Wars, 1918-1939](../sources/4552-poland-between-the-wars-1918-1939.md) (1999) | Relevance: 3.0
-- [Wolność polityczna niepodległej Ukrainy w kontekście starań Polaków mieszkających we Lwowie o odzyskanie kościoła św. Marii Magdaleny](../sources/4523-wolność-polityczna-niepodległej-ukrainy-w-kontekście-starań-polaków-mieszkającyc.md) (2022) | Relevance: 3.0
-- [Freedom of the Press in Inter-War Poland: The System of Control](../sources/4526-freedom-of-the-press-in-inter-war-poland-the-system-of-control.md) (1998) | Relevance: 3.0
-- [Recepcja instrukcji procesowej Dignitas connubii w Polsce](../sources/4564-recepcja-instrukcji-procesowej-dignitas-connubii-w-polsce.md) (2015) | Relevance: 3.0
-- [The Media’s Role in Preparing Russian Society for War with the West: Constructing an Image of Enemies and Allies in the Cases of Latvia, Poland, and Serbia (2014–2022)](../sources/4565-the-medias-role-in-preparing-russian-society-for-war-with-the-west-constructing-.md) (2025) | Relevance: 3.0
-- [The Status Quo, Imponderables of Change, and Evaluation: Between Higher Education Policy and Academic Discourse](../sources/4581-the-status-quo-imponderables-of-change-and-evaluation-between-higher-education-p.md) (2018) | Relevance: 3.0
-- [Press Freedom Monitor: Detection of Reported Press and Media Freedom Violations in Twitter and News Articles](../sources/4491-press-freedom-monitor-detection-of-reported-press-and-media-freedom-violations-i.md) (2021) | Relevance: 3.0
-- [The media protest of neighbouring associations, promoter of citizen democratic culture during transition in southern Spain](../sources/4497-the-media-protest-of-neighbouring-associations-promoter-of-citizen-democratic-cu.md) (2018) | Relevance: 3.0
-- [Europe](../sources/4519-europe.md) (2024) | Relevance: 3.0
-- [Media and Democracy in Crisis. A Comparative Analysis of Images of the Riots in the USA in the Public Media of Germany, Poland, and Russia](../sources/4487-media-and-democracy-in-crisis-a-comparative-analysis-of-images-of-the-riots-in-t.md) (2025) | Relevance: 3.0
-- [Beyond the transnational cleavage: differentiation of democratic values in Europe](../sources/4495-beyond-the-transnational-cleavage-differentiation-of-democratic-values-in-europe.md) (2025) | Relevance: 3.0
-- [“A festival with politics in the background” or “A celebration of exclusive freedom”? Perception of Woodstock Station/Pol’and’Rock Festival in opinion-forming Polish press](../sources/4508-a-festival-with-politics-in-the-background-or-a-celebration-of-exclusive-freedom.md) (2024) | Relevance: 3.0
-- [The Changing Boundaries of Journalistic Objectivity: Hybrid Journalism, Standpoint Theory, and Editorial Ethics in Poland](../sources/4511-the-changing-boundaries-of-journalistic-objectivity-hybrid-journalism-standpoint.md) (2025) | Relevance: 3.0
-- [Civil War in Central Europe, 1918–1921: The Reconstruction of Poland, by Jochen Böhler, Oxford, UK, Oxford University Press, 2018, $45.95 (hardcover), ISBN 9780198794486](../sources/4514-civil-war-in-central-europe-19181921-the-reconstruction-of-poland-by-jochen-böhl.md) (2020) | Relevance: 3.0
-- [Samoregulacja i instrumenty odpowiedzialności mediów w Polsce](../sources/4517-samoregulacja-i-instrumenty-odpowiedzialności-mediów-w-polsce.md) (2025) | Relevance: 3.0
-- [Territorial uncertainty of podlasie region. Regional identity vs. Administrative division](../sources/4563-territorial-uncertainty-of-podlasie-region-regional-identity-vs-administrative-d.md) (2017) | Relevance: 3.0
-- [Research on Practical Teaching Reform of Digital Media Technology Major Based on the Integration of Competition and Education](../sources/4566-research-on-practical-teaching-reform-of-digital-media-technology-major-based-on.md) (2024) | Relevance: 3.0
-- [Online and Remote Learning in Higher Education Institutes: A Necessity in light of COVID-19 Pandemic](../sources/4577-online-and-remote-learning-in-higher-education-institutes-a-necessity-in-light-o.md) (2020) | Relevance: 2.0
-- [Overview Chapter 6: The diverse faces of the Second Demographic Transition in Europe](../sources/4500-overview-chapter-6-the-diverse-faces-of-the-second-demographic-transition-in-eur.md) (2008) | Relevance: 2.0
-- [Environmental Policy Convergence: The Impact of International Harmonization, Transnational Communication, and Regulatory Competition](../sources/4506-environmental-policy-convergence-the-impact-of-international-harmonization-trans.md) (2008) | Relevance: 2.0
-- [Civil Society under Authoritarianism](../sources/4503-civil-society-under-authoritarianism.md) (2014) | Relevance: 2.0
-- [Fiscal Integration in an Experimental Union: How Path‐Breaking Was the EU's Response to the COVID‐19 Pandemic?](../sources/4579-fiscal-integration-in-an-experimental-union-how-pathbreaking-was-the-eus-respons.md) (2021) | Relevance: 2.0
-- [Comparative Media Systems: European and Global Perspectives](../sources/4571-comparative-media-systems-european-and-global-perspectives.md) (2010) | Relevance: 2.0
-- [Media Reform](../sources/4569-media-reform.md) (2003) | Relevance: 2.0
-- [Cenzura a nauka historyczna w Polsce 1944-1970](../sources/4536-cenzura-a-nauka-historyczna-w-polsce-1944-1970.md) (2010) | Relevance: 2.0
-- [On Cultural Freedom: An Exploration of Public Life in Poland and America](../sources/4532-on-cultural-freedom-an-exploration-of-public-life-in-poland-and-america.md) (1983) | Relevance: 2.0
-- [Composition – Performance – Reception](../sources/4537-composition--performance--reception.md) (2017) | Relevance: 2.0
-- [Our good is the public good – reframing the communication of professional groups. Anatomy of the resident doctors’ protests in Poland](../sources/4575-our-good-is-the-public-good--reframing-the-communication-of-professional-groups-.md) (2020) | Relevance: 2.0
-- [Business power against redistribution: The case of watered-down tax reform in Poland](../sources/4555-business-power-against-redistribution-the-case-of-watered-down-tax-reform-in-pol.md) (2023) | Relevance: 2.0
-- [Stalinism in Poland](../sources/4560-stalinism-inpoland.md) (2019) | Relevance: 2.0
-- [On Cultural Freedom: An Exploration of Public Life in Poland and America. By Jeffrey C. Goldfarb. (Chicago: University of Chicago Press, 1982. Pp. x + 173. $25.00, cloth; $12.50, paper.)](../sources/4531-on-cultural-freedom-an-exploration-of-public-life-in-poland-and-america-by-jeffr.md) (1983) | Relevance: 2.0
-- [Recenzja książki : Rafał Habielski: Wolność czy odpowiedzialność. Prasa i polityka w II Rzeczypospolitej. Oficyna Wydawnicza Aspra–JR Warszawa 2013, ss. 270](../sources/4551-recenzja-książki--rafał-habielski-wolność-czy-odpowiedzialność-prasa-i-polityka-.md) (2014) | Relevance: 2.0
-- [Lisa Jakelski, Making New Music in Cold War Poland: The Warsaw Autumn Festival, 1956–1968 (Berkeley: University of California Press, 2017), ISBN 978-0-520-29254-3 (hb).](../sources/4515-lisa-jakelski-making-new-music-in-cold-war-poland-the-warsaw-autumn-festival-195.md) (2019) | Relevance: 2.0
-- [Crypto Mining as a Threat to Energy and the Environment from the Perspective of Criminal Law Reform](../sources/4558-crypto-mining-as-a-threat-to-energy-and-the-environment-from-the-perspective-of-.md) (2025) | Relevance: 2.0
-- [Folk dance as a tool of socialist propaganda based on Paweł Pawlikowski’s Cold War](../sources/4562-folk-dance-as-atool-of-socialist-propaganda-based-on-paweł-pawlikowskis-cold-war.md) (2021) | Relevance: 2.0
-- [Meta-Analysis of Quantitative Sleep Parameters From Childhood to Old Age in Healthy Individuals: Developing Normative Sleep Values Across the Human Lifespan](../sources/4548-meta-analysis-of-quantitative-sleep-parameters-from-childhood-to-old-age-in-heal.md) (2004) | Relevance: 1.0
-- [European guidance for the diagnosis and management of osteoporosis in postmenopausal women](../sources/4542-european-guidance-for-the-diagnosis-and-management-of-osteoporosis-in-postmenopa.md) (2012) | Relevance: 1.0
-- [Problem based learning](../sources/4584-problem-based-learning.md) (2003) | Relevance: 1.0
-- [Global Prevalence of Diabetes: Estimates for the Year 2000 and Projections for 2030](../sources/4543-global-prevalence-of-diabetes-estimates-for-the-year-2000-and-projections-for-20.md) (2004) | Relevance: 1.0
-- [Rosuvastatin and Cardiovascular Events in Patients Undergoing Hemodialysis](../sources/4549-rosuvastatin-and-cardiovascular-events-in-patients-undergoing-hemodialysis.md) (2009) | Relevance: 1.0
-- [Flourishing Across Europe: Application of a New Conceptual Framework for Defining Well-Being](../sources/4544-flourishing-across-europe-application-of-a-new-conceptual-framework-for-defining.md) (2011) | Relevance: 1.0
-- [Principles of protein folding — A perspective from simple exact models](../sources/4546-principles-of-protein-folding--a-perspective-from-simple-exact-models.md) (1995) | Relevance: 1.0
-- [Nurses in advanced roles in primary care](../sources/4576-nurses-in-advanced-roles-in-primary-care.md) (2017) | Relevance: 1.0
-- [Mapping new theoretical and methodological terrain for knowledge translation: contributions from critical realism and the arts](../sources/4583-mapping-new-theoretical-and-methodological-terrain-for-knowledge-translation-con.md) (2009) | Relevance: 1.0
-- [Frame, flow and reflection: Ritual and drama as public liminality](../sources/4505-frame-flow-and-reflection-ritual-and-drama-as-public-liminality.md) (1979) | Relevance: 1.0
-- [Ethnic Diversity and Social Capital in Europe: Tests of Putnam's Thesis in European Countries](../sources/4504-ethnic-diversity-and-social-capital-in-europe-tests-of-putnams-thesis-in-europea.md) (2008) | Relevance: 1.0
-- [Education, Religiosity and Moral Attitudes: Explaining Cross-National Effect Differences](../sources/4502-education-religiosity-and-moral-attitudes-explaining-cross-national-effect-diffe.md) (2002) | Relevance: 1.0
-- [Europe on trial: the story of collaboration, resistance, and retribution during World War II](../sources/4539-europe-on-trial-the-story-of-collaboration-resistance-and-retribution-during-wor.md) (2015) | Relevance: 1.0
+- [The new politics of Poland](../explorer/?id=4578) (2023) | Relevance: 5.0
+- [Democratic Backsliding in Poland](../explorer/?id=4490) (2023) | Relevance: 5.0
+- [Constitutional Foundations and Legal Restrictions on Mass Media Freedom in the Republic of Iraq](../explorer/?id=4494) (2020) | Relevance: 5.0
+- [The ‘right to be forgotten’ and the right to freedom of expression and information-legal problems on the basis of the judgment of the Supreme Administrative Court of 9 February 2023](../explorer/?id=4512) (2024) | Relevance: 5.0
+- [Coalizões de Oposição nas Eleições Legislativas para Interromper a Erosão Democrática: Os Casos da Polônia e da África do Sul](../explorer/?id=4516) (2025) | Relevance: 5.0
+- *...and 96 more* ([view all](../explorer/?case_study=Poland&category=Media freedom and press institution building))
 
 ## Political party formation and pluralism
 *3 sources*
 
-- [In Pursuit of Liberalism: International Institutions in Postcommunist Europe](../sources/1309-in-pursuit-of-liberalism-international-institutions-in-postcommunist-europe.md) (2008) | Relevance: 4.0
-- [Struggles for Recognition: The Liberal International Order and the Merger of Its Discontents](../sources/1280-struggles-for-recognition-the-liberal-international-order-and-the-merger-of-its-.md) (2020) | Relevance: 3.0
-- [Eastern Europe in 1968: Responses to the Prague Spring and Warsaw Pact Invasion](../sources/1328-eastern-europe-in-1968-responses-to-the-prague-spring-and-warsaw-pact-invasion.md) (2018) | Relevance: 3.0
+- [In Pursuit of Liberalism: International Institutions in Postcommunist Europe](../explorer/?id=1309) (2008) | Relevance: 4.0
+- [Struggles for Recognition: The Liberal International Order and the Merger of Its Discontents](../explorer/?id=1280) (2020) | Relevance: 3.0
+- [Eastern Europe in 1968: Responses to the Prague Spring and Warsaw Pact Invasion](../explorer/?id=1328) (2018) | Relevance: 3.0
 
 ## Power-sharing mechanisms during transition periods
 *1 sources*
 
-- [Russia's revolution from above, 1985-1999: reform, transition, and revolution in the fall of the Soviet communist regime](../sources/1320-russias-revolution-from-above-1985-1999-reform-transition-and-revolution-in-the-.md) (2002) | Relevance: 4.0
+- [Russia's revolution from above, 1985-1999: reform, transition, and revolution in the fall of the Soviet communist regime](../explorer/?id=1320) (2002) | Relevance: 4.0
 
 ## Privatization and state-owned enterprise restructuring
 *105 sources*
 
-- [Winds of Change: Economic Transition in Central and Eastern Europe](../sources/4305-winds-of-change-economic-transition-in-central-and-eastern-europe.md) (1995) | Relevance: 5.0
-- [Managing strategically in an interconnected world](../sources/4273-managing-strategically-in-an-interconnected-world.md) (1998) | Relevance: 5.0
-- [Organized Labor in Postcommunist States: Will the Western Sun Set on It, Too?](../sources/4312-organized-labor-in-postcommunist-states-will-the-western-sun-set-on-it-too.md) (1999) | Relevance: 5.0
-- [New Private Enterprises in Three Transitional Contexts: Central Europe, the Former Soviet Union and China](../sources/4279-new-private-enterprises-in-three-transitional-contexts-central-europe-the-former.md) (2000) | Relevance: 5.0
-- [Tax In History: Polish Tax System In Transition To Democracy And Market Economy](../sources/4255-tax-in-history-polish-tax-system-in-transition-to-democracy-and-market-economy.md) (2021) | Relevance: 5.0
-- [ONE YEAR OF DONALD TUSK’S GOVERNMENT: WHAT HAS CHANGED IN POLAND?](../sources/4287-one-year-of-donald-tusks-government-what-has-changed-in-poland.md) (2024) | Relevance: 5.0
-- [REVOCATION OF ADMINISTRATORS' AND MANAGERS' MANDATE IN THE CORPORATE GOVERNANCE OF ROMANIAN STATE-OWNED ENTERPRISES. A LEGAL POINT OF VIEW](../sources/4238-revocation-of-administrators-and-managers-mandate-in-the-corporate-governance-of.md) (2022) | Relevance: 5.0
-- [Democracy's Third Wave](../sources/4304-democracys-third-wave.md) (1991) | Relevance: 4.0
-- [Recombinant Property in East European Capitalism](../sources/1344-recombinant-property-in-east-european-capitalism.md) (1996) | Relevance: 4.0
-- [The Political economy of policy reform](../sources/4301-the-political-economy-of-policy-reform.md) (1994) | Relevance: 4.0
-- [Voting for reform: democracy, political liberalization, and economic adjustment](../sources/4303-voting-for-reform-democracy-political-liberalization-and-economic-adjustment.md) (1995) | Relevance: 4.0
-- [Actors in private food governance: the legitimacy of retail standards and multistakeholder initiatives with civil society participation](../sources/4256-actors-in-private-food-governance-the-legitimacy-of-retail-standards-and-multist.md) (2009) | Relevance: 4.0
-- [The Emergence of Market Economies in Eastern Europe](../sources/4306-the-emergence-of-market-economies-in-eastern-europe.md) (1992) | Relevance: 4.0
-- [The economic transformation of Eastern Europe: the case of Poland](../sources/4295-the-economic-transformation-of-eastern-europe-the-case-of-poland.md) (1992) | Relevance: 4.0
-- [Welfare reforms and socio-economic trends in the 10 new EU member states of Central and Eastern Europe](../sources/4311-welfare-reforms-and-socio-economic-trends-in-the-10-new-eu-member-states-of-cent.md) (2011) | Relevance: 4.0
-- [The Greening of Economic Policy Reform](../sources/4322-the-greening-of-economic-policy-reform.md) (1997) | Relevance: 4.0
-- [Russia's Path from Gorbachev to Putin](../sources/4315-russias-path-from-gorbachev-to-putin.md) (2007) | Relevance: 4.0
-- [Competitiveness, fiscal policy and corruption: evidence from Central and Eastern European countries](../sources/4325-competitiveness-fiscal-policy-and-corruption-evidence-from-central-and-eastern-e.md) (2022) | Relevance: 4.0
-- [How Do Politicians Capture a State? Evidence from State-Owned Enterprises](../sources/4261-how-do-politicians-capture-a-state-evidence-from-state-owned-enterprises.md) (2020) | Relevance: 4.0
-- [Privatisation and Restructuring in Economies in Transition: Theory and Evidence Revisited](../sources/4267-privatisation-and-restructuring-in-economies-in-transition-theory-and-evidence-r.md) (1999) | Relevance: 4.0
-- [Seeking the best master state ownership in the varieties of capitalism](../sources/4265-seeking-the-best-master-state-ownership-in-the-varieties-of-capitalism.md) (2019) | Relevance: 4.0
-- [Social policy, social justice and citizenship in Eastern Europe](../sources/4316-social-policy-social-justice-and-citizenship-in-eastern-europe.md) (1992) | Relevance: 4.0
-- [Recent Changes in Polish Transport Policy](../sources/4320-recent-changes-in-polish-transport-policy.md) (2004) | Relevance: 4.0
-- [Clean at home, polluting abroad: the role of the Chinese financial system’s differential treatment of state-owned and private enterprises](../sources/4247-clean-at-home-polluting-abroad-the-role-of-the-chinese-financial-systems-differe.md) (2022) | Relevance: 4.0
-- [Entrepreneurship in Estonia: Profiles of Entrepreneurs](../sources/4250-entrepreneurship-in-estonia-profiles-of-entrepreneurs.md) (1995) | Relevance: 4.0
-- [State Capitalism in Poland and Hungary](../sources/4277-state-capitalism-in-poland-and-hungary.md) (2022) | Relevance: 4.0
-- [Advanced yet Uneven: the Europeanization of Polish Immigration Policy](../sources/4324-advanced-yet-uneven-the-europeanization-of-polish-immigration-policy.md) (2007) | Relevance: 4.0
-- [Pension assets as an investment in economic growth: The case of post-socialist countries and Ukraine](../sources/1340-pension-assets-as-an-investment-in-economic-growth-the-case-of-post-socialist-co.md) (2021) | Relevance: 4.0
-- [The Role of State-Owned Enterprises in Promoting High-Quality Economic Development: The Case of China](../sources/4229-the-role-of-state-owned-enterprises-in-promoting-high-quality-economic-developme.md) (2025) | Relevance: 4.0
-- [Efekty restrukturyzacji przedsiębiorstw sektora elektroenergetycznego a bezpieczeństwo energetyczne Polski po 1989 r.](../sources/1349-efekty-restrukturyzacji-przedsiębiorstw-sektora-elektroenergetycznego-a-bezpiecz.md) (2013) | Relevance: 4.0
-- [The Impact of State-Owned Capital Participation on Carbon Emission Reduction in Private Enterprises: Evidence from China](../sources/4231-the-impact-of-state-owned-capital-participation-on-carbon-emission-reduction-in-.md) (2025) | Relevance: 4.0
-- [The Evolving Role of State-Owned Enterprises in China’s Economic Stabilization](../sources/4232-the-evolving-role-of-state-owned-enterprises-in-chinas-economic-stabilization.md) (2025) | Relevance: 4.0
-- [Changes in the Regulation of the Electricity Sector as a Factor in Stimulating Economic Development in Poland in 2000-2014](../sources/4291-changes-in-the-regulation-of-the-electricity-sector-as-a-factor-in-stimulating-e.md) (2016) | Relevance: 4.0
-- [The experiences of the economic transition in Central and Eastern Europe (1990-2000): The case of the Czech Republic, Slovakia and Poland](../sources/4236-the-experiences-of-the-economic-transition-in-central-and-eastern-europe-1990-20.md) (2024) | Relevance: 4.0
-- [Valuation of State Owned Companies (Based on Energy Sector)](../sources/4227-valuation-of-state-owned-companies-based-on-energy-sector.md) (2024) | Relevance: 4.0
-- [The Influence of Institutional and Legal Conditions on Ownership Transformations of Selected State-Owned Maritime Enterprises in Poland](../sources/4233-the-influence-of-institutional-and-legal-conditions-on-ownership-transformations.md) (2021) | Relevance: 4.0
-- [Highlighting the Urgent Need for Reforms in the Face of Financial Failures at State-Owned Enterprises in Iraq](../sources/4234-highlighting-the-urgent-need-for-reforms-in-the-face-of-financial-failures-at-st.md) (2024) | Relevance: 4.0
-- [Reassessing the Effectiveness and Sustainability of State-Owned Enterprises in Nigeria: Evidence from A Subnational - Rivers State Experience](../sources/4235-reassessing-the-effectiveness-and-sustainability-of-state-owned-enterprises-in-n.md) (2026) | Relevance: 4.0
-- [Corporate governance and financial performance in U.S. state-owned enterprises: A comprehensive review](../sources/4240-corporate-governance-and-financial-performance-in-us-state-owned-enterprises-a-c.md) (2026) | Relevance: 4.0
-- [How did the fiscal and structural crises of 1991 in India compared to the systemic economic transformations in Eastern European countries such as Poland and Hungry, and what lessons can be drawn for contemporary economic policy?](../sources/4281-how-did-the-fiscal-and-structural-crises-of-1991-in-india-compared-to-the-system.md) (2025) | Relevance: 4.0
-- [An Uncomfortable Revolution: The Official Perception of the Portuguese Revolutionary Process (1974-1975) in the People’s Republic of Poland](../sources/4286-an-uncomfortable-revolution-the-official-perception-of-the-portuguese-revolution.md) (2024) | Relevance: 4.0
-- [Poland in the (Neo)liberal System of International Relations](../sources/4292-poland-in-the-neoliberal-system-of-international-relations.md) (2022) | Relevance: 4.0
-- [Economic transition in Poland: the relevance of the Latin-American experience](../sources/4296-economic-transition-in-poland-the-relevance-of-the-latin-american-experience.md) (1995) | Relevance: 4.0
-- [Neoliberalism: From New Liberal Philosophy to Anti-Liberal Slogan](../sources/4251-neoliberalism-from-new-liberal-philosophy-to-anti-liberal-slogan.md) (2009) | Relevance: 3.0
-- [Civilizational Incompetence: The Trap of Post-Communist Societies](../sources/4254-civilizational-incompetence-the-trap-of-post-communist-societies.md) (1993) | Relevance: 3.0
-- [Poland : Report on the Observance of Standards and Codes (ROSC), Corporate Governance Country Assessment](../sources/4259-poland--report-on-the-observance-of-standards-and-codes-rosc-corporate-governanc.md) (2005) | Relevance: 3.0
-- [Rotten States? Corruption, Post-Communism, and Neoliberalism](../sources/4309-rotten-states-corruption-post-communism-and-neoliberalism.md) (2006) | Relevance: 3.0
-- [Investment efficiency, state-owned enterprises and privatisation: Evidence from Viet Nam in Transition](../sources/4245-investment-efficiency-state-owned-enterprises-and-privatisation-evidence-from-vi.md) (2016) | Relevance: 3.0
-- [Organizational and Industrial Response to Market Liberalization: The Interaction of Pace, Incentive and Capacity to Change](../sources/4263-organizational-and-industrial-response-to-market-liberalization-the-interaction-.md) (2002) | Relevance: 3.0
-- [Ownership and corporate control in Poland : why state firms defied the odds](../sources/4262-ownership-and-corporate-control-in-poland--why-state-firms-defied-the-odds.md) (1994) | Relevance: 3.0
-- [Crossing the Valley of Tears in East European Reform](../sources/4319-crossing-the-valley-of-tears-in-east-european-reform.md) (1991) | Relevance: 3.0
-- [The economic performance of state-owned enterprises in Central and Eastern Europe](../sources/4260-the-economic-performance-of-state-owned-enterprises-in-central-and-eastern-europ.md) (2017) | Relevance: 3.0
-- [Negotiating Welfare in Postcommunist States](../sources/4308-negotiating-welfare-in-postcommunist-states.md) (2007) | Relevance: 3.0
-- [Employment and wage behaviour of industrial enterprises in transition economies: The cases of Poland and Czechoslovakia<sup>1</sup>](../sources/4270-employment-and-wage-behaviour-of-industrial-enterprises-in-transition-economies-.md) (1997) | Relevance: 3.0
-- [Revisiting the Environmental Kuznets Curve Hypothesis: A Case of Central Europe](../sources/4310-revisiting-the-environmental-kuznets-curve-hypothesis-a-case-of-central-europe.md) (2021) | Relevance: 3.0
-- [Eastern Europe: pronatalist policies and private behavior.](../sources/4323-eastern-europe-pronatalist-policies-and-private-behavior.md) (1982) | Relevance: 3.0
-- [Buy‐outs in Hungary, Poland and Russia: governance and finance issues<sup>1</sup>](../sources/4266-buyouts-in-hungary-poland-and-russia-governance-and-finance-issuessup1sup.md) (1996) | Relevance: 3.0
-- [Measuring Progress in Transition and Towards EU Accession: A Comparison of Manufacturing Firms in Poland, Romania and Spain](../sources/4264-measuring-progress-in-transition-and-towards-eu-accession-a-comparison-of-manufa.md) (2000) | Relevance: 3.0
-- [A Study of the Redevelopment of Private Enterprise in Poland: Conditions and Policies for Continuing Growth](../sources/4269-a-study-of-the-redevelopment-of-private-enterprise-in-poland-conditions-and-poli.md) (1994) | Relevance: 3.0
-- [Currency substitution and seignorage in eastern europe](../sources/4314-currency-substitution-and-seignorage-in-eastern-europe.md) (1996) | Relevance: 3.0
-- [Corporate governance and democratic accountability: local state-owned enterprises in Norway](../sources/4239-corporate-governance-and-democratic-accountability-local-state-owned-enterprises.md) (2019) | Relevance: 3.0
-- [An Assessment of the Strategy of Working Capital Management in Polish Energy Companies](../sources/4272-an-assessment-of-the-strategy-of-working-capital-management-in-polish-energy-com.md) (2019) | Relevance: 3.0
-- [Sentencing in Poland: Failed Attempts to Reduce Punitiveness](../sources/4317-sentencing-in-poland-failed-attempts-to-reduce-punitiveness.md) (2016) | Relevance: 3.0
-- [The fate of labor after regime change: Lessons from post-communist Poland and post-apartheid South Africa for Tunisia’s Nobel-Prize winning unions](../sources/4293-the-fate-of-labor-after-regime-change-lessons-from-post-communist-poland-and-pos.md) (2018) | Relevance: 3.0
-- [Economic Benefits of Market Liberalization. Evidence from Air Transport in Poland](../sources/4299-economic-benefits-of-market-liberalization-evidence-from-air-transport-in-poland.md) (2010) | Relevance: 3.0
-- [The Halo Effect of Government: Does State-Owned Capital Promote the Green Innovation of Chinese Private Enterprises?](../sources/4242-the-halo-effect-of-government-does-state-owned-capital-promote-the-green-innovat.md) (2023) | Relevance: 3.0
-- [The Linkage between Financial Liberalization and Economic Development: Empirical Evidence from Poland](../sources/4300-the-linkage-between-financial-liberalization-and-economic-development-empirical-.md) (2005) | Relevance: 3.0
-- [Economic Crisis and the Movement Toward Pluralism in Poland and Mexico](../sources/4321-economic-crisis-and-the-movement-toward-pluralism-in-poland-and-mexico.md) (1994) | Relevance: 3.0
-- [Sustainable Development of State-Owned Enterprises: Research on the Management Transformation Path of Mixed-Ownership Companies from the Perspective of Shareholders Relationship](../sources/4241-sustainable-development-of-state-owned-enterprises-research-on-the-management-tr.md) (2023) | Relevance: 3.0
-- [Devaluing of state-owned entities: a comparative of SOE status between the 4th, 5th and 6th democratic administration](../sources/4228-devaluing-of-state-owned-entities-a-comparative-of-soe-status-between-the-4th-5t.md) (2023) | Relevance: 3.0
-- [Rent-seeking by politicians in state-owned enterprises](../sources/4248-rent-seeking-by-politicians-in-state-owned-enterprises.md) (2019) | Relevance: 3.0
-- [THE DEVELOPMENT OF THE BANKING SYSTEM IN POLAND DETERMINED BY THE PROCESSES OF ADJUSTMENT TO THE NORMATIVE AND TECHNOLOGICAL STANDARDS OF THE EUROPEAN UNION AND CONTEMPORARY PROCESSES OF ECONOMIC AND INFORMATIONAL GLOBALIZATION](../sources/4289-the-development-of-the-banking-system-in-poland-determined-by-the-processes-of-a.md) (2018) | Relevance: 3.0
-- [Transition in Poland, Poland in Transition: tracing the history of gender transition discourses in Polish social media](../sources/4243-transition-in-poland-poland-in-transition-tracing-the-history-of-gender-transiti.md) (2023) | Relevance: 3.0
-- [Leadership Reconfiguration in State-Acquired Privately Owned Enterprises: A Paradox between Institutional Control and Agency](../sources/4244-leadership-reconfiguration-in-state-acquired-privately-owned-enterprises-a-parad.md) (2024) | Relevance: 3.0
-- [The Role of EU Transport Market Liberalization in Shaping Directions of Rail Energy Consumption Rationalization in Relation to the Export of Goods: The Case of Poland](../sources/4280-the-role-of-eu-transport-market-liberalization-in-shaping-directions-of-rail-ene.md) (2024) | Relevance: 3.0
-- [Taxing emissions and privatizing a state‐owned enterprise under endogenous price‐quantity competition](../sources/4224-taxing-emissions-and-privatizing-a-stateowned-enterprise-under-endogenous-priceq.md) (2025) | Relevance: 3.0
-- [The Energy Transition in Brazil and the Controversy over the Role of State-Owned Enterprises](../sources/4226-the-energy-transition-in-brazil-and-the-controversy-over-the-role-of-state-owned.md) (2025) | Relevance: 3.0
-- [Exports and the economic performance of large state-owned enterprises in Poland: evidence from firm-level data](../sources/4258-exports-and-the-economic-performance-of-large-state-owned-enterprises-in-poland-.md) (2020) | Relevance: 3.0
-- [The legal grounds of tariff regulation for railway transportation of goods in the Republic of Poland](../sources/4285-the-legal-grounds-of-tariff-regulation-for-railway-transportation-of-goods-in-th.md) (2024) | Relevance: 3.0
-- [Party state capture and democratic backsliding. The case of state-owned enterprises in Poland](../sources/4225-party-state-capture-and-democratic-backsliding-the-case-of-state-owned-enterpris.md) (2025) | Relevance: 3.0
-- [PRICES, MARKETS, CORPORATIZATION: GAME-THEORETIC MODELING OF STRATEGIES FOR CORPORATIZED STATE-OWNED ENTERPRISES IN UKRAINE’S TRANSPORT SECTOR](../sources/4230-prices-markets-corporatization-game-theoretic-modeling-of-strategies-for-corpora.md) (2025) | Relevance: 3.0
-- [An Empirical Analysis on Corruption and Return on Assets (ROA) of State-Owned Enterprises in China](../sources/4237-an-empirical-analysis-on-corruption-and-return-on-assets-roa-of-state-owned-ente.md) (2022) | Relevance: 3.0
-- [An Evaluation of the Effectiveness of Legal Instruments for the Protection of Agricultural Land in Poland](../sources/4282-an-evaluation-of-the-effectiveness-of-legal-instruments-for-the-protection-of-ag.md) (2025) | Relevance: 3.0
-- [Resale Price Maintenance in Poland – Further Steps to Its Liberalization or Stuck in a Status Quo?](../sources/4284-resale-price-maintenance-in-poland--further-steps-to-its-liberalization-or-stuck.md) (2016) | Relevance: 3.0
-- [INTERNATIONAL ECONOMIC ACTIVITY IN THE POST-WAR ECONOMIC RECOVERY OF THE COUNTRY: INTERNATIONAL EXPERIENCE](../sources/4290-international-economic-activity-in-the-post-war-economic-recovery-of-the-country.md) (2026) | Relevance: 3.0
-- [PROJECT MANAGEMENT BY MULTIMOORA AS AN INSTRUMENT FOR TRANSITION ECONOMIES / PROJEKTŲ VADYBA SU MULTIMOORA KAIP PRIEMONĖ PEREINAMOJO LAIKOTARPIO ŪKIAMS](../sources/4252-project-management-by-multimoora-as-an-instrument-for-transition-economies--proj.md) (2010) | Relevance: 2.0
-- [Economic transformation in Eastern Europe and the distribution of income](../sources/4253-economic-transformation-in-eastern-europe-and-the-distribution-of-income.md) (1993) | Relevance: 2.0
-- [Civil Society After Communism: From Opposition to Atomization](../sources/4318-civil-society-after-communism-from-opposition-to-atomization.md) (1996) | Relevance: 2.0
-- [Foreign Direct Investment and the Multinational Enterprise](../sources/4313-foreign-direct-investment-and-the-multinational-enterprise.md) (2008) | Relevance: 2.0
-- [Eastern Europe's international trade](../sources/4307-eastern-europes-international-trade.md) (1994) | Relevance: 2.0
-- [FashionEast: the spectre that haunted socialism](../sources/4271-fashioneast-the-spectre-that-haunted-socialism.md) (2011) | Relevance: 2.0
-- [Enterprise adjustment in Poland: evidence from a survey of 200 private, privatised, and state-owned firms](../sources/4257-enterprise-adjustment-in-poland-evidence-from-a-survey-of-200-private-privatised.md) (1995) | Relevance: 2.0
-- [Kształtowanie postaw przedsiębiorczych w programach nauczania. Stan obecny i proponowane kierunki zmian](../sources/4268-kształtowanie-postaw-przedsiębiorczych-w-programach-nauczania-stan-obecny-i-prop.md) (2007) | Relevance: 2.0
-- [FINANCIAL LIQUIDITY MANAGEMENT STRATEGIES IN POLISH ENERGY COMPANIES](../sources/4275-financial-liquidity-management-strategies-in-polish-energy-companies.md) (2020) | Relevance: 2.0
-- [Enterprise Adjustment in Poland: Evidence from a Survey of 200 Private](../sources/4276-enterprise-adjustment-in-poland-evidence-from-a-survey-of-200-private.md) (1995) | Relevance: 2.0
-- [Leadership, religiousness, state ownership of an enterprise and unethical pro-organizational behavior: The mediating role of organizational identification](../sources/4274-leadership-religiousness-state-ownership-of-an-enterprise-and-unethical-pro-orga.md) (2021) | Relevance: 2.0
-- [The End of Liberalism?: Economic Liberalization and the Transformation of Post-Communist Poland](../sources/4302-the-end-of-liberalism-economic-liberalization-and-the-transformation-of-post-com.md) (1997) | Relevance: 2.0
-- [The evolution of carbon dioxide emissions embodied in international trade in Poland: An input-output approach](../sources/4294-the-evolution-of-carbon-dioxide-emissions-embodied-in-international-trade-in-pol.md) (2018) | Relevance: 2.0
-- [The concepts of privatization of state-owned enterprises and public housing stock in Poland : similarities and differences](../sources/4246-the-concepts-of-privatization-of-state-owned-enterprises-and-public-housing-stoc.md) (2006) | Relevance: 2.0
-- [The Entrepreneur in “Transformation Cinema”: Representing the Economic Changes of the 1990s in Poland, Czech Republic, and Slovakia](../sources/4283-the-entrepreneur-in-transformation-cinema-representing-the-economic-changes-of-t.md) (2021) | Relevance: 2.0
-- [ДЕРЖАВНА ВЛАСНІСТЬ: АНАЛІЗ, РЕГУЛЮВАННЯ ТА ПЕРСПЕКТИВИ РОЗВИТКУ В УКРАЇНІ, ЄС ТА ПОСТРАДЯНСЬКИХ КРАЇНАХ](../sources/4278-державна-власність-аналіз-регулювання-та-перспективи-розвитку-в-україні-єс-та-по.md) (2024) | Relevance: 2.0
-- [Speed-up the privatization of state-owned enterprises – An urgent requirement](../sources/4249-speed-up-the-privatization-of-state-owned-enterprises--an-urgent-requirement.md) (2014) | Relevance: 2.0
-- [COMPETITION BETWEEN MERCOSUR COUNTRIES AND POLAND ON THE EUROPEAN UNION MARKET FOR AGRI-FOOD PRODUCTS](../sources/4288-competition-between-mercosur-countries-and-poland-on-the-european-union-market-f.md) (2026) | Relevance: 2.0
-- [Making Lace after Socialism: Creativity, Gender, and the Politics of the Commons](../sources/4297-making-lace-after-socialism-creativity-gender-and-the-politics-of-the-commons.md) (2025) | Relevance: 2.0
-- [Delokalizacja produkcji między Niemcami a Polską w procesie integracji europejskiej](../sources/4298-delokalizacja-produkcji-między-niemcami-a-polską-w-procesie-integracji-europejsk.md) (2025) | Relevance: 2.0
+- [Winds of Change: Economic Transition in Central and Eastern Europe](../explorer/?id=4305) (1995) | Relevance: 5.0
+- [Managing strategically in an interconnected world](../explorer/?id=4273) (1998) | Relevance: 5.0
+- [Organized Labor in Postcommunist States: Will the Western Sun Set on It, Too?](../explorer/?id=4312) (1999) | Relevance: 5.0
+- [New Private Enterprises in Three Transitional Contexts: Central Europe, the Former Soviet Union and China](../explorer/?id=4279) (2000) | Relevance: 5.0
+- [Tax In History: Polish Tax System In Transition To Democracy And Market Economy](../explorer/?id=4255) (2021) | Relevance: 5.0
+- *...and 100 more* ([view all](../explorer/?case_study=Poland&category=Privatization and state-owned enterprise restructuring))
 
 ## Regional foreign policy reorientation
 *1 sources*
 
-- [Turkish foreign policy in a post-western order: strategic autonomy or new forms of dependence?](../sources/1283-turkish-foreign-policy-in-a-post-western-order-strategic-autonomy-or-new-forms-o.md) (2021) | Relevance: 3.0
+- [Turkish foreign policy in a post-western order: strategic autonomy or new forms of dependence?](../explorer/?id=1283) (2021) | Relevance: 3.0
 
 ## Religious freedom and separation of religion from state
 *3 sources*
 
-- [Voters’ Attitudes towards the Separation of Church and State in the Context of the Left–Right Division on the Polish Political Scene](../sources/0770-voters-attitudes-towards-the-separation-of-church-and-state-in-the-context-of-th.md) (2022) | Relevance: 2.0
-- [Proposals for the Separation of Church and State in the Public Debate in Poland During the 7th Term of the Polish Parliament](../sources/0757-proposals-for-the-separation-of-church-and-state-in-the-public-debate-in-poland-.md) (2024) | Relevance: 2.0
-- [Comparative Analysis of Church-State Relations in Poland and Japan](../sources/0771-comparative-analysis-of-church-state-relations-in-poland-and-japan.md) (2023) | Relevance: 2.0
+- [Voters’ Attitudes towards the Separation of Church and State in the Context of the Left–Right Division on the Polish Political Scene](../explorer/?id=770) (2022) | Relevance: 2.0
+- [Proposals for the Separation of Church and State in the Public Debate in Poland During the 7th Term of the Polish Parliament](../explorer/?id=757) (2024) | Relevance: 2.0
+- [Comparative Analysis of Church-State Relations in Poland and Japan](../explorer/?id=771) (2023) | Relevance: 2.0
 
 ## Sanctions unwinding and international reintegration
 *2 sources*
 
-- [“A Hand upon the Throat of the Nation”: Economic Sanctions and State Repression, 1976-2001](../sources/1282-a-hand-upon-the-throat-of-the-nation-economic-sanctions-and-state-repression-197.md) (2008) | Relevance: 4.0
-- [The Ricardian Approach to Budget Deficits](../sources/1342-the-ricardian-approach-to-budget-deficits.md) (1989) | Relevance: 3.0
+- [“A Hand upon the Throat of the Nation”: Economic Sanctions and State Repression, 1976-2001](../explorer/?id=1282) (2008) | Relevance: 4.0
+- [The Ricardian Approach to Budget Deficits](../explorer/?id=1342) (1989) | Relevance: 3.0
 
 ## Trade liberalization and foreign direct investment
 *8 sources*
 
-- [The Geopolitics of the Global Energy Transition](../sources/1290-the-geopolitics-of-the-global-energy-transition.md) (2020) | Relevance: 4.0
-- [The Polish Alternative Old Myths, Hard Facts and New Strategies in the Successful Transformation of the Polish Economy](../sources/1331-the-polish-alternative-old-myths-hard-facts-and-new-strategies-in-the-successful.md) (1997) | Relevance: 4.0
-- [Poland](../sources/1346-poland.md) (1994) | Relevance: 4.0
-- [Growth versus security : old and new EU members' quest for a new economic and social model](../sources/1345-growth-versus-security--old-and-new-eu-members-quest-for-a-new-economic-and-soci.md) (2008) | Relevance: 4.0
-- [La cooperación internacional en transición: UE y China ante la Agenda 2030 y la reconfiguración del orden de ayuda al desarrollo](../sources/1004-la-cooperación-internacional-en-transición-ue-y-china-ante-la-agenda-2030-y-la-r.md) (2025) | Relevance: 4.0
-- [Winners and losers in EU integration](../sources/1343-winners-and-losers-in-eu-integration.md) (2000) | Relevance: 3.0
-- [European Integration and the War in Ukraine: Just Another Crisis?](../sources/1322-european-integration-and-the-war-in-ukraine-just-another-crisis.md) (2023) | Relevance: 3.0
-- [Cereals Sector Reform in the Former Soviet Union and Central and Eastern Europe](../sources/1341-cereals-sector-reform-in-the-former-soviet-union-and-central-and-eastern-europe.md) (1996) | Relevance: 3.0
+- [The Geopolitics of the Global Energy Transition](../explorer/?id=1290) (2020) | Relevance: 4.0
+- [The Polish Alternative Old Myths, Hard Facts and New Strategies in the Successful Transformation of the Polish Economy](../explorer/?id=1331) (1997) | Relevance: 4.0
+- [Poland](../explorer/?id=1346) (1994) | Relevance: 4.0
+- [Growth versus security : old and new EU members' quest for a new economic and social model](../explorer/?id=1345) (2008) | Relevance: 4.0
+- [La cooperación internacional en transición: UE y China ante la Agenda 2030 y la reconfiguración del orden de ayuda al desarrollo](../explorer/?id=1004) (2025) | Relevance: 4.0
+- *...and 3 more* ([view all](../explorer/?case_study=Poland&category=Trade liberalization and foreign direct investment))
 
 ## Transitional justice
 *92 sources*
 
-- [The Rule of Law after Communism: Problems and Prospects in East-Central Europe](../sources/4631-the-rule-of-law-after-communism-problems-and-prospects-in-east-central-europe.md) (1999) | Relevance: 5.0
-- [A quest for accountability? EU and Member State inquiries into the CIA Rendition and Secret Detention Programme](../sources/4653-a-quest-for-accountability-eu-and-member-state-inquiries-into-the-cia-rendition-.md) (2015) | Relevance: 5.0
-- [Transitional Justice: A Decade of Debate and Experience. (review)](../sources/4657-transitional-justice-a-decade-of-debate-and-experience-review.md) (1998) | Relevance: 5.0
-- [Weighing the Costs of Accountability: The Role of Institutional Incentives in Pursuing Transitional Justice](../sources/4610-weighing-the-costs-of-accountability-the-role-of-institutional-incentives-in-pur.md) (2008) | Relevance: 5.0
-- [Grandstanding Instead of Deliberative Policy-Making: Transitional Justice, Publicness and Parliamentary Questions in the Croatian Parliament](../sources/4596-grandstanding-instead-of-deliberative-policy-making-transitional-justice-publicn.md) (2024) | Relevance: 5.0
-- [Transitional Justice, the Dual State, and the Rule of Law](../sources/4586-transitional-justice-the-dual-state-and-the-rule-of-law.md) (2023) | Relevance: 5.0
-- [Between Ius and Lex: axiological and legal determinants of the problem of reprivatization in Poland in the light of transitional justice](../sources/4593-between-ius-and-lex-axiological-and-legal-determinants-of-the-problem-of-repriva.md) (2023) | Relevance: 5.0
-- [Transitional Justice at 40](../sources/4599-transitional-justice-at-40.md) (2024) | Relevance: 5.0
-- [TRUTH REVELATION INSTRUMENTS IN POST-COMMUNIST ALBANIA: TRANSITIONAL JUSTICE NON-FEASANCE IN INVESTIGATING COMMUNIST CRIMES AND THE FATE OF MISSING PERSONS](../sources/4601-truth-revelation-instruments-in-post-communist-albania-transitional-justice-non-.md) (2024) | Relevance: 5.0
-- [Lustration in Poland](../sources/4642-lustration-in-poland.md) (2017) | Relevance: 5.0
-- [Contestations of the Liberal International Order: From Liberal Multilateralism to Postnational Liberalism](../sources/1279-contestations-of-the-liberal-international-order-from-liberal-multilateralism-to.md) (2021) | Relevance: 4.0
-- [Late lustration programmes in Romania and Poland: supporting or undermining democratic transitions?](../sources/4608-late-lustration-programmes-in-romania-and-poland-supporting-or-undermining-democ.md) (2009) | Relevance: 4.0
-- [How not to deal with the past: lustration in Poland](../sources/4627-how-not-to-deal-with-the-past-lustration-in-poland.md) (1999) | Relevance: 4.0
-- [Transitional justice and authoritarian backsliding](../sources/4609-transitional-justice-and-authoritarian-backsliding.md) (2020) | Relevance: 4.0
-- [Taiwan's Indigenous Languages Development Act: democratic politics, transitional justice and the quest for diplomatic recognition](../sources/4606-taiwans-indigenous-languages-development-act-democratic-politics-transitional-ju.md) (2018) | Relevance: 4.0
-- [Transitional Justice as a tool for polarization in Albania](../sources/4604-transitional-justice-as-a-tool-for-polarization-in-albania.md) (2023) | Relevance: 4.0
-- [In exchange for truth: The polish lustrations and the South African amnesty process](../sources/4641-in-exchange-for-truth-the-polish-lustrations-and-the-south-african-amnesty-proce.md) (2006) | Relevance: 4.0
-- [Producing Truth: The Politics of Investigating Past Human Rights Violations in Post-Communist States](../sources/4655-producing-truth-the-politics-of-investigating-past-human-rights-violations-in-po.md) (2007) | Relevance: 4.0
-- [Intersections of Law and Memory](../sources/4656-intersections-of-law-and-memory.md) (2024) | Relevance: 4.0
-- [Of Truths, Secrets, and Loyalties: Political Belonging and State Building in Poland after State Socialism](../sources/4638-of-truths-secrets-and-loyalties-political-belonging-and-state-building-in-poland.md) (2015) | Relevance: 4.0
-- [The conceptual nexus of human rights and democracy in the Polish lustration Debates 1989–97](../sources/4639-the-conceptual-nexus-of-human-rights-and-democracy-in-the-polish-lustration-deba.md) (2006) | Relevance: 4.0
-- [Reforming post‐Communist bureaucracies: The effect of transitional justice](../sources/4646-reforming-postcommunist-bureaucracies-the-effect-of-transitional-justice.md) (2019) | Relevance: 4.0
-- [Memory games and populism in postcommunist Poland](../sources/4637-memory-games-and-populism-in-postcommunist-poland.md) (2019) | Relevance: 4.0
-- [Transitional Justice and the Problem of Democratic Decline](../sources/4592-transitional-justice-and-the-problem-ofdemocratic-decline.md) (2024) | Relevance: 4.0
-- [Transitional justice and democratic consolidation in post-communist Eastern Europe: Romania and Albania](../sources/4597-transitional-justice-and-democratic-consolidation-in-post-communist-eastern-euro.md) (2021) | Relevance: 4.0
-- [Purging the Judiciary After a Transition: Between a Rock and a Hard Place](../sources/4611-purging-the-judiciary-after-a-transition-between-a-rock-and-a-hard-place.md) (2024) | Relevance: 4.0
-- [Lustration as a trust-building mechanism? Transitional justice in Poland](../sources/4615-lustration-as-a-trust-building-mechanism-transitional-justice-in-poland.md) (2013) | Relevance: 4.0
-- [Crisis of Neoliberalism and the Rise of Authoritarianism in Poland](../sources/4619-crisis-of-neoliberalism-and-the-rise-of-authoritarianism-in-poland.md) (2020) | Relevance: 4.0
-- [Transitional Justice in Poland](../sources/4647-transitional-justice-in-poland.md) (2021) | Relevance: 4.0
-- [The Unpredicted Rise of Populism: The Case of Poland](../sources/4616-the-unpredicted-rise-of-populism-the-case-of-poland.md) (2023) | Relevance: 4.0
-- [The Afterlives of Transitional Justice](../sources/4591-the-afterlives-of-transitional-justice.md) (2025) | Relevance: 4.0
-- [Transitional Justice and the Constitutional Crisis: The Case of Poland (2015–2019)](../sources/4603-transitional-justice-and-the-constitutional-crisis-the-case-of-poland-20152019.md) (2020) | Relevance: 4.0
-- [Dependence Path in the Process of Achieving Transitional Justice on the Post-Soviet](../sources/4614-dependence-path-in-the-process-of-achieving-transitional-justice-on-the-post-sov.md) (2014) | Relevance: 4.0
-- [Confronting Legacies of State Repression: Uruguay and Chile in Comparative Perspective](../sources/4621-confronting-legacies-of-state-repression-uruguay-and-chile-in-comparative-perspe.md) (1997) | Relevance: 4.0
-- [Transitional justice and democratic consolidation in Eastern Europe](../sources/4622-transitional-justice-and-democratic-consolidation-in-eastern-europe.md) (2012) | Relevance: 4.0
-- [Lustration of Judges in Ukraine: National Insights and European Implications](../sources/4625-lustration-of-judges-in-ukraine-national-insights-and-european-implications.md) (2020) | Relevance: 4.0
-- [Madame Justice Will Save Our Democracy: Gender Bias and Perceptions of the High Court in Transitional Regimes](../sources/4587-madame-justice-will-save-our-democracy-gender-bias-and-perceptions-of-the-high-c.md) (2023) | Relevance: 4.0
-- [Dependence Path in the Process of Achieving Transitional Justice on the Post-Soviet Area. Comparative Studies on the Transition in Estonia, Georgia, and Poland](../sources/4588-dependence-path-in-the-process-of-achieving-transitional-justice-on-the-post-sov.md) (2014) | Relevance: 4.0
-- [Toward a Transitional Justice Approach to Long-Term Protection of Civilians in the Democratic Republic of Congo (DRC)](../sources/4590-toward-a-transitional-justice-approach-to-long-term-protection-of-civilians-in-t.md) (2025) | Relevance: 4.0
-- [Transitional Justice and the Holocaust in Poland](../sources/4594-transitional-justice-and-the-holocaust-in-poland.md) (2023) | Relevance: 4.0
-- [Abuse of Punishment in Transitional Justice And Its Damage to Construction Democratic Political - The Iraqi Experience after 2003 as a Model](../sources/4600-abuse-of-punishment-in-transitional-justice-and-its-damage-to-construction-democ.md) (2021) | Relevance: 4.0
-- [Entrepreneurship Education through Successful Entrepreneurial Models in Higher Education Institutions](../sources/4675-entrepreneurship-education-through-successful-entrepreneurial-models-in-higher-e.md) (2020) | Relevance: 3.0
-- [Who's still smoking? Disparities in adult cigarette smoking prevalence in the United States](../sources/4661-whos-still-smoking-disparities-in-adult-cigarette-smoking-prevalence-in-the-unit.md) (2018) | Relevance: 3.0
-- [The Populist Radical Right in Poland](../sources/4607-the-populist-radical-right-in-poland.md) (2010) | Relevance: 3.0
-- [Official Apologies and the Quest for Historical Justice](../sources/4666-official-apologies-and-the-quest-for-historical-justice.md) (2007) | Relevance: 3.0
-- [Lustration and Truth Claims: Unfinished Revolutions in Central Europe](../sources/4630-lustration-and-truth-claims-unfinished-revolutions-in-central-europe.md) (1995) | Relevance: 3.0
-- [Infrastructures and state-building: Comparing the energy politics of the European Commission with the governments of Hungary and Poland](../sources/4651-infrastructures-and-state-building-comparing-the-energy-politics-of-the-european.md) (2020) | Relevance: 3.0
-- [Performative Democracy](../sources/4652-performative-democracy.md) (2015) | Relevance: 3.0
-- [Lustration and the Transition to Democracy: The Cases of Poland and Bulgaria](../sources/4626-lustration-and-the-transition-to-democracy-the-cases-of-poland-and-bulgaria.md) (1994) | Relevance: 3.0
-- [The “Guardian of the Treaties” is No More? The European Commission and the 2021 Humanitarian Crisis on Poland–Belarus Border](../sources/4650-the-guardian-of-the-treaties-is-no-more-the-european-commission-and-the-2021-hum.md) (2022) | Relevance: 3.0
-- [The Post-Totalitarian Blues](../sources/4613-the-post-totalitarian-blues.md) (1995) | Relevance: 3.0
-- [Thomas Buergenthal: Holocaust Survivor to Human Rights Advocate](../sources/4658-thomas-buergenthal-holocaust-survivor-to-human-rights-advocate.md) (1996) | Relevance: 3.0
-- [POLITICS OF TIME](../sources/4633-politics-of-time.md) (2008) | Relevance: 3.0
-- [Politics of Time: Dynamics of Identity in Post-Communist Poland](../sources/4634-politics-of-time-dynamics-of-identity-in-post-communist-poland.md) (2008) | Relevance: 3.0
-- [At the End of the Post-Communist Transformation? Normalization or Imagining Utopia?](../sources/4636-at-the-end-of-the-post-communist-transformation-normalization-or-imagining-utopi.md) (2009) | Relevance: 3.0
-- [The Epistemic Violence of Transitional Justice: A View from Sri Lanka](../sources/4605-the-epistemic-violence-oftransitional-justice-a-view-from-sri-lanka.md) (2023) | Relevance: 3.0
-- [Civic and Uncivic Values](../sources/4612-civic-and-uncivic-values.md) (2011) | Relevance: 3.0
-- [Lustration in poland and the former czechoslovakia: a study in decommunization](../sources/4628-lustration-in-poland-and-the-former-czechoslovakia-a-study-in-decommunization.md) (1995) | Relevance: 3.0
-- [A trans-scalar approach to peacebuilding and transitional justice: Insights from the Democratic Republic of Congo](../sources/4598-a-trans-scalar-approach-to-peacebuilding-and-transitional-justice-insights-from-.md) (2021) | Relevance: 3.0
-- [Deepening democratisation? Exploring the declared motives for “late” lustration in Poland](../sources/4629-deepening-democratisation-exploring-the-declared-motives-for-late-lustration-in-.md) (2016) | Relevance: 3.0
-- [Democracy and Its Discontents](../sources/4671-democracy-and-its-discontents.md) (2009) | Relevance: 3.0
-- [Eastern Europe after the Social Democratic Collapse: A Symposium](../sources/4617-eastern-europe-after-the-social-democratic-collapse-a-symposium.md) (1996) | Relevance: 3.0
-- [A model of strategic preemption: Why do post-communists hurt hemselves?](../sources/4645-a-model-of-strategic-preemption-why-do-post-communists-hurt-hemselves.md) (2014) | Relevance: 3.0
-- [Do transitional justice measures help foster democratic security forces?](../sources/4602-do-transitional-justice-measures-help-foster-democratic-security-forces.md) (2020) | Relevance: 3.0
-- [Human rights activists and transitional justice in the post-communist world: explaining silence among the outspoken](../sources/4618-human-rights-activists-and-transitional-justice-in-the-post-communist-world-expl.md) (2014) | Relevance: 3.0
-- [Lustration: A Post-Communist Phenomenon](../sources/4624-lustration-a-post-communist-phenomenon.md) (2023) | Relevance: 3.0
-- [A critical reflection on the preventive approach to transitional justice in the face of sexual violence in the Democratic Republic of the Congo](../sources/4589-a-critical-reflection-on-the-preventive-approach-to-transitional-justice-in-the-.md) (2025) | Relevance: 3.0
-- [Egypt’s Failed Democratic Transition: Why the Labour Movement Matters](../sources/4595-egypts-failed-democratic-transition-why-the-labour-movement-matters.md) (2025) | Relevance: 3.0
-- [THE POLITICS OF LUSTRATION IN UKRAINE AND POLAND (COMPARATIVE STUDY)](../sources/4623-the-politics-of-lustration-in-ukraine-and-poland-comparative-study.md) (2020) | Relevance: 3.0
-- [Lock-in Time-of-Flight (ToF) Cameras: A Survey](../sources/4665-lock-in-time-of-flight-tof-cameras-a-survey.md) (2011) | Relevance: 2.0
-- [Sixty years of global progress in managed aquifer recharge](../sources/4673-sixty-years-of-global-progress-in-managed-aquifer-recharge.md) (2018) | Relevance: 2.0
-- [Crowdsourcing, citizen sensing and sensor web technologies for public and environmental health surveillance and crisis management: trends, OGC standards and application examples](../sources/4676-crowdsourcing-citizen-sensing-and-sensor-web-technologies-for-public-and-environ.md) (2011) | Relevance: 2.0
-- [The beverage alcohol industry's social aspects organizations: a public health warning](../sources/4654-the-beverage-alcohol-industrys-social-aspects-organizations-a-public-health-warn.md) (2004) | Relevance: 2.0
-- [Lustration in Romania: The Story of a Failure](../sources/4640-lustration-in-romania-the-story-of-a-failure.md) (2006) | Relevance: 2.0
-- [Men of Paper: Polish Lustration Law and Its Faulty? Biographical Basis](../sources/4643-men-of-paper-polish-lustration-law-and-its-faulty-biographical-basis.md) (2017) | Relevance: 2.0
-- [Religion, Spirituality, and Health: The Research and Clinical Implications](../sources/4663-religion-spirituality-and-health-the-research-and-clinical-implications.md) (2012) | Relevance: 1.0
-- [Global maps of cropland extent and change show accelerated cropland expansion in the twenty-first century](../sources/4620-global-maps-of-cropland-extent-and-change-show-accelerated-cropland-expansion-in.md) (2021) | Relevance: 1.0
-- [Participatory Research Methods: A Methodological Approach in Motion](../sources/4667-participatory-research-methods-a-methodological-approach-in-motion.md) (2012) | Relevance: 1.0
-- [Are We Consuming Too Much?](../sources/4669-are-we-consuming-too-much.md) (2004) | Relevance: 1.0
-- [The Global Burden of Disease Study at 30 years](../sources/4662-the-global-burden-of-disease-study-at-30-years.md) (2022) | Relevance: 1.0
-- [How Auctions Work for Wine and Art](../sources/4674-how-auctions-work-for-wine-and-art.md) (1989) | Relevance: 1.0
-- [A global map of saltmarshes](../sources/4659-a-global-map-of-saltmarshes.md) (2017) | Relevance: 1.0
-- [An International Comparison of Individual Tree Detection and Extraction Using Airborne Laser Scanning](../sources/4660-an-international-comparison-of-individual-tree-detection-and-extraction-using-ai.md) (2012) | Relevance: 1.0
-- [The Determinants of Mutual Fund Performance: A Cross-Country Study](../sources/4668-the-determinants-of-mutual-fund-performance-a-cross-country-study.md) (2012) | Relevance: 1.0
-- [Risks, Release and Concentrations of Engineered Nanomaterial in the Environment](../sources/4670-risks-release-and-concentrations-of-engineered-nanomaterial-in-the-environment.md) (2018) | Relevance: 1.0
-- [The role of inspiring role models in enhancing entrepreneurial intention](../sources/4664-the-role-of-inspiring-role-models-in-enhancing-entrepreneurial-intention.md) (2018) | Relevance: 1.0
-- [Jet reconstruction and performance using particle flow with the ATLAS Detector](../sources/4672-jet-reconstruction-and-performance-using-particle-flow-with-the-atlas-detector.md) (2017) | Relevance: 1.0
-- [Lustration after totalitarianism: Poland’s attempt to reconcile with its Communist past](../sources/4632-lustration-after-totalitarianism-polands-attempt-to-reconcile-with-its-communist.md) (2010) | Relevance: 1.0
-- [Yukonite, a rare Ca-Fe arsenate, from Rçdziny (Sudetes, Poland)](../sources/4635-yukonite-a-rare-ca-fe-arsenate-from-rçdziny-sudetes-poland.md) (1998) | Relevance: 1.0
-- [Renewable Energy Sources as the Future of the Energy Sector and Climate in Poland—Truth or Myth in the Opinion of the Society](../sources/4648-renewable-energy-sources-as-the-future-of-the-energy-sector-and-climate-in-polan.md) (2021) | Relevance: 1.0
-- [The Art and Aggravation of Vetting in Post-Conflict Environments](../sources/4644-the-art-and-aggravation-of-vetting-in-post-conflict-environments.md) (2007) | Relevance: 1.0
-- [Risk Factors for Poland to Achieve the European Commission’s Recycling and Landfill Targets and Their Effects on Waste-to-Energy Conversion: A Review](../sources/4649-risk-factors-for-poland-to-achieve-the-european-commissions-recycling-and-landfi.md) (2024) | Relevance: 1.0
+- [The Rule of Law after Communism: Problems and Prospects in East-Central Europe](../explorer/?id=4631) (1999) | Relevance: 5.0
+- [A quest for accountability? EU and Member State inquiries into the CIA Rendition and Secret Detention Programme](../explorer/?id=4653) (2015) | Relevance: 5.0
+- [Transitional Justice: A Decade of Debate and Experience. (review)](../explorer/?id=4657) (1998) | Relevance: 5.0
+- [Weighing the Costs of Accountability: The Role of Institutional Incentives in Pursuing Transitional Justice](../explorer/?id=4610) (2008) | Relevance: 5.0
+- [Grandstanding Instead of Deliberative Policy-Making: Transitional Justice, Publicness and Parliamentary Questions in the Croatian Parliament](../explorer/?id=4596) (2024) | Relevance: 5.0
+- *...and 87 more* ([view all](../explorer/?case_study=Poland&category=Transitional justice))
 
 ## Women's rights codification and gender equality
 *1 sources*
 
-- [Women’s Employment or Return to “Family Values” in Central-Eastern Europe](../sources/1352-womens-employment-or-return-to-family-values-in-central-eastern-europe.md) (1996) | Relevance: 3.0
+- [Women’s Employment or Return to “Family Values” in Central-Eastern Europe](../explorer/?id=1352) (1996) | Relevance: 3.0

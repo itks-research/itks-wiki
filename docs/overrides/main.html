@@ -8,4 +8,14 @@
     .md-typeset h1, .md-typeset h2, .md-typeset h3 { text-align: right; }
   </style>
   {% endif %}
+  <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+  <script src="/pagefind/pagefind-ui.js"></script>
+  <style>
+    .pagefind-ui { max-width: 640px; margin: 0 auto; }
+    .pagefind-ui__search-input { font-size: 16px !important; }
+  </style>
+{% endblock %}
+
+{% block content %}
+  {{ super() }}
 {% endblock %}
