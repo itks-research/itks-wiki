@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Constitutional design and drafting processes](index.md)
+
 # Post-Sovereign Constitution-Making: Arato's Two-Stage Framework for Iran
 
 **Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29 10:16:39
@@ -31,6 +33,8 @@ The velayat-e faqih system presents a challenge without direct precedent in Arat
 | Rabb | 2008 | Iraq's 2005 constitution drafted under severe time pressure with Sunni alienation, requiring fundamental renegotiation |
 | Perju | 2015 | Romania's semi-presidential crisis demonstrates risks of power concentration in transitional constitutions |
 
-## Sources Used
+## Sources Used (1 sources)
 
-- [The Lifespan of Written Constitutions](../sources/0023-the-lifespan-of-written-constitutions.md)
+- [The Lifespan of Written Constitutions](../explorer/?id=23)
+
+[View all sources in Explorer](../explorer/?search=)

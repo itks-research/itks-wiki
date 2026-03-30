@@ -1,3 +1,5 @@
+[Home](../index.md) > [Research Findings](index.md)
+
 # Religious Freedom and Separation of Religion from State
 
 **Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29T09:53:18.069709

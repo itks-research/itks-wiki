@@ -122,3 +122,12 @@ markdown_extensions:
   - tables
   - attr_list
   - md_in_html
+
+extra:
+  alternate:
+    - name: English
+      link: /itks-wiki/
+      lang: en
+    - name: فارسی
+      link: /itks-wiki/fa/
+      lang: fa

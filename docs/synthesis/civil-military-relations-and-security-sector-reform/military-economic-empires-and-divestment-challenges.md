@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Civil-military relations and security sector reform](index.md)
+
 # Military Economic Empires and Divestment Challenges
 
 **Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-29 06:42:53
@@ -25,8 +27,10 @@ Concretely, a transition government would face simultaneous challenges: mapping 
 | Makara, M. | 2013 | Coup-proofing through material incentives binds officers to regime |
 | Human Rights Watch | 2010 | Indonesia's military divestment still only "preparing" after 5 years |
 
-## Sources Used
+## Sources Used (3 sources)
 
-- [Coup-Proofing, Military Defection, and the Arab Spring](../sources/0004-coup-proofing-military-defection-and-the-arab-spring.md)
-- [Institutions for High-Quality Growth: What They are and How to Acquire Them](../sources/0261-institutions-for-high-quality-growth-what-they-are-and-how-to-acquire-them.md)
-- [Institutions matter, but which ones?](../sources/0190-institutions-matter-but-which-ones.md)
+- [Coup-Proofing, Military Defection, and the Arab Spring](../explorer/?id=4)
+- [Institutions for High-Quality Growth: What They are and How to Acquire Them](../explorer/?id=261)
+- [Institutions matter, but which ones?](../explorer/?id=190)
+
+[View all sources in Explorer](../explorer/?search=)

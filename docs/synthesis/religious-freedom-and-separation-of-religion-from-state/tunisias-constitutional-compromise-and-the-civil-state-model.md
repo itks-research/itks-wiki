@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Religious freedom and separation of religion from state](index.md)
+
 # Tunisia's Constitutional Compromise and the Civil State Model
 
 **Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29T09:53:18.069901
@@ -29,12 +31,22 @@ The Ennahda internal vote pattern is particularly instructive for Iran. Iran's c
 | Sapsford, R. et al. | 2017 | Corruption erodes trust in both secular and religious governance across MENA |
 | Zoubir, Y. | 2018 | Ennahda's political evolution from Islamist movement to Muslim democratic party |
 
-## Sources Used
+## Sources Used (7 sources)
 
-- [Competing Ways of Life: Islamism, Secularism, and Public Order in the Tunisian Transition](../sources/0713-competing-ways-of-life-islamism-secularism-and-public-order-in-the-tunisian-tran.md)
-- [The Implicit Sharia: Established Religion and Varietie of Secularism in Tunisia](../sources/0714-the-implicit-sharia-established-religion-and-varietie-of-secularism-in-tunisia.md)
-- [The Normative Power of Secularism. Tunisian Ennahda's Discourse on Religion, Politics, and the State (2011–2016)](../sources/0715-the-normative-power-of-secularism-tunisian-ennahdas-discourse-on-religion-politi.md)
-- [Rachid Ghannouchi](../sources/0717-rachid-ghannouchi.md)
-- [Corruption, Trust, Inclusion and Cohesion in North Africa and the Middle East](../sources/0706-corruption-trust-inclusion-and-cohesion-in-north-africa-and-the-middle-east.md)
-- [Re-thinking secularism in post-independence Tunisia](../sources/0712-re-thinking-secularism-in-post-independence-tunisia.md)
-- [Political Islam in Tunisia: the history of Ennahda](../sources/0725-political-islam-in-tunisia-the-history-of-ennahda.md)
+- [Competing Ways of Life: Islamism, Secularism, and Public Order in the Tunisian Transition](../explorer/?id=713)
+- [The Implicit Sharia: Established Religion and Varietie of Secularism in Tunisia](../explorer/?id=714)
+- [The Normative Power of Secularism. Tunisian Ennahda's Discourse on Religion, Politics, and the State (2011–2016)](../explorer/?id=715)
+- [Rachid Ghannouchi](../explorer/?id=717)
+- [Corruption, Trust, Inclusion and Cohesion in North Africa and the Middle East](../explorer/?id=706)
+- [Re-thinking secularism in post-independence Tunisia](../explorer/?id=712)
+- [Political Islam in Tunisia: the history of Ennahda](../explorer/?id=725)
+
+[View all sources in Explorer](../explorer/?search=)
+
+## Related Articles
+
+- [Indonesia's Pancasila: Inclusive Monotheism and Its Limits](indonesias-pancasila-inclusive-monotheism-and-its-limits.md)
+- [Post-Theocratic Transitions: Uncharted Territory](post-theocratic-transitions-uncharted-territory.md)
+- [Stepan's Twin Tolerations and Post-Theocratic Governance](stepans-twin-tolerations-and-post-theocratic-governance.md)
+- [Turkey's Diyanet Model: State Control vs. Separation](turkeys-diyanet-model-state-control-vs-separation.md)
+- [Velayat-e Faqih: Iran's Unique Institutional Architecture](velayat-e-faqih-irans-unique-institutional-architecture.md)

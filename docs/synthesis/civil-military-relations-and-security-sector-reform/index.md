@@ -1,3 +1,5 @@
+[Home](../index.md) > [Research Findings](index.md)
+
 # Civil-Military Relations and Security Sector Reform
 
 **Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-29 06:42:53

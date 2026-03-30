@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Political party formation and pluralism](index.md)
+
 # Iran's Factional System: Pluralism Without Parties
 
 **Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-29 15:33:31
@@ -31,13 +33,15 @@ The approbatory supervision exercised by the Guardian Council has systematically
 | 7 | Slater | 2004 | Indonesia's Accountability Trap: Party Cartels and Presidential Power | — |
 | 8 | Webber | 2006 | A consolidated patrimonial democracy? Democratization in post-Suharto Indonesia | DOI |
 
-## Sources Used
+## Sources Used (8 sources)
 
-- [The pluralistic momentum in Iran and the future of the reform movement](../sources/2596-the-pluralistic-momentum-in-iran-and-the-future-of-the-reform-movement.md)
-- [Corporatism without party: the state, war, and industrial labor in the Islamic Republic of Iran](../sources/2611-corporatism-without-party-the-state-war-and-industrial-labor-in-the-islamic-repu.md)
-- [Three Major Movements in Political Parties’ Formation in Iran](../sources/2598-three-major-movements-in-political-parties-formation-in-iran.md)
-- [The Tudeh Party of Iran and the peasant question, 1941–53](../sources/2609-the-tudeh-party-of-iran-and-the-peasant-question-194153.md)
-- [THE ROLE OF ANJUMANS IN THE FORMATION OF THE POLITICAL PARTY SYSTEM IN IRAN](../sources/2606-the-role-of-anjumans-in-the-formation-of-the-political-party-system-in-iran.md)
-- [South Korea’s Weakly Institutionalized Party System](../sources/0222-south-koreas-weakly-institutionalized-party-system.md)
-- [Indonesia's Accountability Trap: Party Cartels and Presidential Power after Democratic Transition](../sources/1522-indonesias-accountability-trap-party-cartels-and-presidential-power-after-democr.md)
-- [A consolidated patrimonial democracy? Democratization in post-Suharto Indonesia](../sources/1550-a-consolidated-patrimonial-democracy-democratization-in-post-suharto-indonesia.md)
+- [The pluralistic momentum in Iran and the future of the reform movement](../explorer/?id=2596)
+- [Corporatism without party: the state, war, and industrial labor in the Islamic Republic of Iran](../explorer/?id=2611)
+- [Three Major Movements in Political Parties’ Formation in Iran](../explorer/?id=2598)
+- [The Tudeh Party of Iran and the peasant question, 1941–53](../explorer/?id=2609)
+- [THE ROLE OF ANJUMANS IN THE FORMATION OF THE POLITICAL PARTY SYSTEM IN IRAN](../explorer/?id=2606)
+- [South Korea’s Weakly Institutionalized Party System](../explorer/?id=222)
+- [Indonesia's Accountability Trap: Party Cartels and Presidential Power after Democratic Transition](../explorer/?id=1522)
+- [A consolidated patrimonial democracy? Democratization in post-Suharto Indonesia](../explorer/?id=1550)
+
+[View all sources in Explorer](../explorer/?search=)

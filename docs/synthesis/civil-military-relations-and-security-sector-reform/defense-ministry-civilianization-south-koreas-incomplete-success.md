@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Civil-military relations and security sector reform](index.md)
+
 # Defense Ministry Civilianization: South Korea's Incomplete Success
 
 **Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-29 06:42:53
@@ -26,10 +28,12 @@ Furthermore, Iran lacks the external security guarantee that facilitated South K
 | Croissant, A. | 2011 | Structural and agential factors both determine civilian control outcomes |
 | Kuehn, D. & Croissant, A. | 2023 | Defense ministry civilianization and parliamentary oversight are twin reform pillars |
 
-## Sources Used
+## Sources Used (5 sources)
 
-- [The Ministry of National Defence in South Korea: Military dominance despite civilian supremacy?](../sources/0194-the-ministry-of-national-defence-in-south-korea-military-dominance-despite-civil.md)
-- [Reforming civil–military relations](../sources/0228-reforming-civilmilitary-relations.md)
-- [Demilitarizing politics in South Korea: Toward a positive consolidation of civilian supremacy](../sources/0158-demilitarizing-politics-in-south-korea-toward-a-positive-consolidation-of-civili.md)
-- [The Soldier and the State in South Korea: Crafting Democratic Civilian Control of the Military](../sources/0164-the-soldier-and-the-state-in-south-korea-crafting-democratic-civilian-control-of.md)
-- [Civilian Control over the Military in East Asia](../sources/0161-civilian-control-over-the-military-in-east-asia.md)
+- [The Ministry of National Defence in South Korea: Military dominance despite civilian supremacy?](../explorer/?id=194)
+- [Reforming civil–military relations](../explorer/?id=228)
+- [Demilitarizing politics in South Korea: Toward a positive consolidation of civilian supremacy](../explorer/?id=158)
+- [The Soldier and the State in South Korea: Crafting Democratic Civilian Control of the Military](../explorer/?id=164)
+- [Civilian Control over the Military in East Asia](../explorer/?id=161)
+
+[View all sources in Explorer](../explorer/?search=)

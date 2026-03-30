@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Electoral system design and implementation](index.md)
+
 # Electoral Engineering After Authoritarianism: Poland, South Korea, and Lessons for Iran
 
 **Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-29 15:37:06
@@ -34,14 +36,16 @@ Third, the role of the Iranian diaspora in elections — whether through externa
 | 8 | Merkel | 2004 | Embedded and defective democracies | DOI |
 | 9 | Tezcur | 2005 | How do political religious groups develop sustainable democratic commitments | — |
 
-## Sources Used
+## Sources Used (9 sources)
 
-- [Parties and politics in post-1989 Poland](../sources/4164-parties-and-politics-in-post-1989-poland.md)
-- [Developments in Central and East European Politics 2](../sources/4160-developments-in-central-and-east-european-politics-2.md)
-- [Accounting for Corruption: Economic Structure, Democracy, and Trade](../sources/4097-accounting-for-corruption-economic-structure-democracy-and-trade.md)
-- [The deteriorating legislative role of the legislature in multilevel democracies. Case of Poland](../sources/4116-the-deteriorating-legislative-role-of-the-legislature-in-multilevel-democracies-.md)
-- [Theocracy versus democracy: Iran considers political parties](../sources/2416-theocracy-versus-democracy-iran-considers-political-parties.md)
-- [Examining the design of the model of electoral governance in the Islamic Republic of Iran with a focus on electoral governance in the Islamic Council](../sources/2341-examining-the-design-of-the-model-of-electoral-governance-in-the-islamic-republi.md)
-- [Crisis of Authority: Iran's 2009 Presidential Election](../sources/2423-crisis-of-authority-irans-2009-presidential-election.md)
-- [Embedded and defective democracies](../sources/0136-embedded-and-defective-democracies.md)
-- [How do political religious groups develop sustainable democratic commitments : the cases of Iran and Turkey](../sources/2371-how-do-political-religious-groups-develop-sustainable-democratic-commitments--th.md)
+- [Parties and politics in post-1989 Poland](../explorer/?id=4164)
+- [Developments in Central and East European Politics 2](../explorer/?id=4160)
+- [Accounting for Corruption: Economic Structure, Democracy, and Trade](../explorer/?id=4097)
+- [The deteriorating legislative role of the legislature in multilevel democracies. Case of Poland](../explorer/?id=4116)
+- [Theocracy versus democracy: Iran considers political parties](../explorer/?id=2416)
+- [Examining the design of the model of electoral governance in the Islamic Republic of Iran with a focus on electoral governance in the Islamic Council](../explorer/?id=2341)
+- [Crisis of Authority: Iran's 2009 Presidential Election](../explorer/?id=2423)
+- [Embedded and defective democracies](../explorer/?id=136)
+- [How do political religious groups develop sustainable democratic commitments : the cases of Iran and Turkey](../explorer/?id=2371)
+
+[View all sources in Explorer](../explorer/?search=)

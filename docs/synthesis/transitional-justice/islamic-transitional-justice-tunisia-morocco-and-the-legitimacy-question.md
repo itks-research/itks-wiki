@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Transitional justice](index.md)
+
 # Islamic Transitional Justice: Tunisia, Morocco, and the Legitimacy Question
 
 **Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29T09:50:14.498268
@@ -27,8 +29,10 @@ The risk is co-optation. Regime-affiliated clerics could redefine these concepts
 | Encarnacion (2011) | Challenges assumption that comprehensive accountability always produces better outcomes | -- |
 | Lu (2017) | International TJ practices reflect colonial and structural biases | 180 |
 
-## Sources Used
+## Sources Used (3 sources)
 
-- [Transitional Justice in Tunisia: When Religion Meets State](../sources/0747-transitional-justice-in-tunisia-when-religion-meets-state.md)
-- [Determinants of Attitudes Toward Transitional Justice](../sources/0496-determinants-of-attitudes-toward-transitional-justice.md)
-- [Justice and Reconciliation in World Politics](../sources/0180-justice-and-reconciliation-in-world-politics.md)
+- [Transitional Justice in Tunisia: When Religion Meets State](../explorer/?id=747)
+- [Determinants of Attitudes Toward Transitional Justice](../explorer/?id=496)
+- [Justice and Reconciliation in World Politics](../explorer/?id=180)
+
+[View all sources in Explorer](../explorer/?search=)

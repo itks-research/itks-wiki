@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Sanctions unwinding and international reintegration](index.md)
+
 # From Pariah to Partner: Sanctions Unwinding and Economic Reintegration
 
 **Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-29 15:50:29
@@ -32,12 +34,14 @@ At the political economy level, the actors who benefit most from sanctions — s
 | 6 | Clayton, Maggiori & Schreger | 2024 | A Theory of Economic Coercion and Fragmentation | DOI |
 | 7 | Wood | 2008 | Economic Sanctions and State Repression | DOI |
 
-## Sources Used
+## Sources Used (7 sources)
 
-- [The economic impact of the lifting of sanctions on tourism in Iran: a computable general equilibrium analysis](../sources/1916-the-economic-impact-of-the-lifting-of-sanctions-on-tourism-in-iran-a-computable-.md)
-- [Who is afraid of sanctions? The macroeconomic and distributional effects of the sanctions against Iran](../sources/1871-who-is-afraid-of-sanctions-the-macroeconomic-and-distributional-effects-of-the-s.md)
-- [Strategies to improve pharmaceutical supply chain resilience under politico-economic sanctions: the case of Iran](../sources/1922-strategies-to-improve-pharmaceutical-supply-chain-resilience-under-politico-econ.md)
-- [The Impact of Economic Sanctions and the JCPOA on Energy Sector of Iran](../sources/1919-the-impact-of-economic-sanctions-and-the-jcpoa-on-energy-sector-of-iran.md)
-- [On Target? Sanctions and the Economic Interests of Elite Policymakers in Iran](../sources/1867-on-target-sanctions-and-the-economic-interests-of-elite-policymakers-in-iran.md)
-- [A Theory of Economic Coercion and Fragmentation](../sources/1888-a-theory-of-economic-coercion-and-fragmentation.md)
-- [“A Hand upon the Throat of the Nation”: Economic Sanctions and State Repression, 1976-2001](../sources/1282-a-hand-upon-the-throat-of-the-nation-economic-sanctions-and-state-repression-197.md)
+- [The economic impact of the lifting of sanctions on tourism in Iran: a computable general equilibrium analysis](../explorer/?id=1916)
+- [Who is afraid of sanctions? The macroeconomic and distributional effects of the sanctions against Iran](../explorer/?id=1871)
+- [Strategies to improve pharmaceutical supply chain resilience under politico-economic sanctions: the case of Iran](../explorer/?id=1922)
+- [The Impact of Economic Sanctions and the JCPOA on Energy Sector of Iran](../explorer/?id=1919)
+- [On Target? Sanctions and the Economic Interests of Elite Policymakers in Iran](../explorer/?id=1867)
+- [A Theory of Economic Coercion and Fragmentation](../explorer/?id=1888)
+- [“A Hand upon the Throat of the Nation”: Economic Sanctions and State Repression, 1976-2001](../explorer/?id=1282)
+
+[View all sources in Explorer](../explorer/?search=)

@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Constitutional design and drafting processes](index.md)
+
 # Tunisia's Quartet Innovation: Civil Society as Constitutional Infrastructure
 
 **Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29 10:16:39
@@ -29,6 +31,8 @@ Third, Ennahda's concessions suggest that Islamist actors can be constructive co
 | Tunisian National Dialogue Quartet | 2015 | Nobel Peace Prize for mediating 2013 constitutional crisis through civil society intervention |
 | Abbiate, Bockenförde & Federico | 2017 | African public participation models in constitution-making provide comparative insights |
 
-## Sources Used
+## Sources Used (1 sources)
 
-- [The Lifespan of Written Constitutions](../sources/0023-the-lifespan-of-written-constitutions.md)
+- [The Lifespan of Written Constitutions](../explorer/?id=23)
+
+[View all sources in Explorer](../explorer/?search=)

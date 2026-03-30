@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Transitional justice](index.md)
+
 # Diaspora Documentation and the Digital Evidence Revolution
 
 **Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29T09:55:14.048438
@@ -27,9 +29,11 @@ First, any future truth commission must develop protocols for integrating diaspo
 | Kim & Sikkink (2010) | Domestic institutional capacity required for sustainable deterrence effect | 167 |
 | Hepworth (2023) | Memory activism as advocacy for TJ; documentation as political action | 444 |
 
-## Sources Used
+## Sources Used (4 sources)
 
-- [Transitional Justice against the State: Lessons from Spanish Civil Society-Led Forensic Exhumations](../sources/0427-transitional-justice-against-the-state-lessons-from-spanish-civil-society-led-fo.md)
-- [Road to Impunity: The Absence of Transitional Justice Programs in Spain](../sources/0499-road-to-impunity-the-absence-of-transitional-justice-programs-in-spain.md)
-- [Explaining the Deterrence Effect of Human Rights Prosecutions for Transitional Countries1](../sources/0167-explaining-the-deterrence-effect-of-human-rights-prosecutions-for-transitional-c.md)
-- [Memory Activism as Advocacy for Transitional Justice: Memory Laws, Mass Graves and Impunity in Spain](../sources/0444-memory-activism-as-advocacy-fortransitional-justice-memory-laws-mass-graves-andi.md)
+- [Transitional Justice against the State: Lessons from Spanish Civil Society-Led Forensic Exhumations](../explorer/?id=427)
+- [Road to Impunity: The Absence of Transitional Justice Programs in Spain](../explorer/?id=499)
+- [Explaining the Deterrence Effect of Human Rights Prosecutions for Transitional Countries1](../explorer/?id=167)
+- [Memory Activism as Advocacy for Transitional Justice: Memory Laws, Mass Graves and Impunity in Spain](../explorer/?id=444)
+
+[View all sources in Explorer](../explorer/?search=)

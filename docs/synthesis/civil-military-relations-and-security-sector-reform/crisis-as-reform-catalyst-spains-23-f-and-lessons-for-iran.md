@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Civil-military relations and security sector reform](index.md)
+
 # Crisis as Reform Catalyst: Spain's 23-F and Lessons for Iran
 
 **Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-29 06:42:53
@@ -25,7 +27,9 @@ The external dimension also differs. Spain's NATO entry provided an institutiona
 | Huntington, S.P. | 1995 | "Tortoise strategy" of gradual reform outperforms confrontation |
 | Kuehn, D. & Croissant, A. | 2023 | Spain's early defense reform and democratic socialization were key differentiators |
 
-## Sources Used
+## Sources Used (2 sources)
 
-- [Armed Forces and Democracy: Reforming Civil-Military Relations](../sources/0367-armed-forces-and-democracy-reforming-civil-military-relations.md)
-- [Reforming civil–military relations](../sources/0228-reforming-civilmilitary-relations.md)
+- [Armed Forces and Democracy: Reforming Civil-Military Relations](../explorer/?id=367)
+- [Reforming civil–military relations](../explorer/?id=228)
+
+[View all sources in Explorer](../explorer/?search=)

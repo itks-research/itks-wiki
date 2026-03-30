@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Education system reform and curriculum modernization](index.md)
+
 # Curriculum as Battleground: Education Reform in South Korea and Iran
 
 **Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-29 15:44:58
@@ -35,13 +37,15 @@ The diaspora dimension adds opportunity: tens of thousands of Iranian educators 
 | 7 | World Bank | 2021 | Investing in Human Capital for a Resilient Recovery | — |
 | 8 | Miranda, Muinelo-Gallo & Roca-Sagalés | 2022 | Human development and decentralization | DOI |
 
-## Sources Used
+## Sources Used (8 sources)
 
-- [Was Weber Wrong? A Human Capital Theory of Protestant Economic History<sup>*</sup>](../sources/1323-was-weber-wrong-a-human-capital-theory-of-protestant-economic-historysupsup.md)
-- [The language assessment literacy needs of Iranian EFL teachers with a focus on reformed assessment policies](../sources/3726-the-language-assessment-literacy-needs-of-iranian-efl-teachers-with-a-focus-on-r.md)
-- [Language assessment in the new English curriculum in Iran: managerial, institutional, and professional barriers](../sources/3732-language-assessment-in-the-new-english-curriculum-in-iran-managerial-institution.md)
-- [An Activity Theory Analysis of ELT Reform in Iranian Public Schools](../sources/3731-an-activity-theory-analysis-of-elt-reform-in-iranian-public-schools.md)
-- [Iranian EFL Teachers’ Challenges with the New ELT Program after the Reform: From Dream to Reality](../sources/3733-iranian-efl-teachers-challenges-with-the-new-elt-program-after-the-reform-from-d.md)
-- [Exploring Cultural Schemas in Foreign Language Education Policy (FLEP) Documents of Iran](../sources/3743-exploring-cultural-schemas-in-foreign-language-education-policy-flep-documents-o.md)
-- [Investing in Human Capital for a Resilient Recovery](../sources/1828-investing-in-human-capital-for-a-resilient-recovery.md)
-- [Human development and decentralization: The importance of public health expenditure](../sources/1592-human-development-and-decentralization-the-importance-of-public-health-expenditu.md)
+- [Was Weber Wrong? A Human Capital Theory of Protestant Economic History<sup>*</sup>](../explorer/?id=1323)
+- [The language assessment literacy needs of Iranian EFL teachers with a focus on reformed assessment policies](../explorer/?id=3726)
+- [Language assessment in the new English curriculum in Iran: managerial, institutional, and professional barriers](../explorer/?id=3732)
+- [An Activity Theory Analysis of ELT Reform in Iranian Public Schools](../explorer/?id=3731)
+- [Iranian EFL Teachers’ Challenges with the New ELT Program after the Reform: From Dream to Reality](../explorer/?id=3733)
+- [Exploring Cultural Schemas in Foreign Language Education Policy (FLEP) Documents of Iran](../explorer/?id=3743)
+- [Investing in Human Capital for a Resilient Recovery](../explorer/?id=1828)
+- [Human development and decentralization: The importance of public health expenditure](../explorer/?id=1592)
+
+[View all sources in Explorer](../explorer/?search=)

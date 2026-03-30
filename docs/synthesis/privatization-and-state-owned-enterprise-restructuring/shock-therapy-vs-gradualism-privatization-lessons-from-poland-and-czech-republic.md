@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Privatization and state-owned enterprise restructuring](index.md)
+
 # Shock Therapy vs. Gradualism: Privatization Lessons from Poland and Czech Republic
 
 **Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-29 15:48:43
@@ -33,11 +35,13 @@ Article 44 of Iran's constitution already mandates a mixed economy with state, c
 | 5 | Sęk | 2021 | Tax In History: Polish Tax System In Transition | — |
 | 6 | Meyer, Estrin, Bhaumik & Peng | 2008 | Institutions, resources, and entry strategies in emerging economies | DOI |
 
-## Sources Used
+## Sources Used (6 sources)
 
-- [Winds of Change: Economic Transition in Central and Eastern Europe](../sources/4305-winds-of-change-economic-transition-in-central-and-eastern-europe.md)
-- [Managing strategically in an interconnected world](../sources/4273-managing-strategically-in-an-interconnected-world.md)
-- [Organized Labor in Postcommunist States: Will the Western Sun Set on It, Too?](../sources/4312-organized-labor-in-postcommunist-states-will-the-western-sun-set-on-it-too.md)
-- [New Private Enterprises in Three Transitional Contexts: Central Europe, the Former Soviet Union and China](../sources/4279-new-private-enterprises-in-three-transitional-contexts-central-europe-the-former.md)
-- [Tax In History: Polish Tax System In Transition To Democracy And Market Economy](../sources/4255-tax-in-history-polish-tax-system-in-transition-to-democracy-and-market-economy.md)
-- [Institutions, resources, and entry strategies in emerging economies](../sources/1054-institutions-resources-and-entry-strategies-in-emerging-economies.md)
+- [Winds of Change: Economic Transition in Central and Eastern Europe](../explorer/?id=4305)
+- [Managing strategically in an interconnected world](../explorer/?id=4273)
+- [Organized Labor in Postcommunist States: Will the Western Sun Set on It, Too?](../explorer/?id=4312)
+- [New Private Enterprises in Three Transitional Contexts: Central Europe, the Former Soviet Union and China](../explorer/?id=4279)
+- [Tax In History: Polish Tax System In Transition To Democracy And Market Economy](../explorer/?id=4255)
+- [Institutions, resources, and entry strategies in emerging economies](../explorer/?id=1054)
+
+[View all sources in Explorer](../explorer/?search=)

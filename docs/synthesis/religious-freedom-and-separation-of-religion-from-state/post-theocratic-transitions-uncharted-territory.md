@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Religious freedom and separation of religion from state](index.md)
+
 # Post-Theocratic Transitions: Uncharted Territory
 
 **Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29T09:53:18.069901
@@ -26,8 +28,18 @@ The lustration question is acute: Iran's clerical establishment spans hundreds o
 | Tarifa, F. & Todhri, F. | 2025 | Albania's democratic transition revived religious freedom after one of the most radical atheist-state experiments |
 | Kulaga, A. | 2025 | Pope John Paul II's religious legacy shaped institutional transition from communism in Eastern Europe |
 
-## Sources Used
+## Sources Used (3 sources)
 
-- [Perspectives on Religious Freedom in Spain](../sources/0369-perspectives-on-religious-freedom-in-spain.md)
-- [Evoking Huntington: Albania’s Democratic Transition and the Revival of Religious Freedom](../sources/0650-evoking-huntington-albanias-democratic-transition-and-the-revival-of-religious-f.md)
-- [The Religious Legacy of Pope John Paul II during the Transition from the Communist Era](../sources/0655-the-religious-legacy-of-pope-john-paul-ii-during-the-transition-from-the-communi.md)
+- [Perspectives on Religious Freedom in Spain](../explorer/?id=369)
+- [Evoking Huntington: Albania’s Democratic Transition and the Revival of Religious Freedom](../explorer/?id=650)
+- [The Religious Legacy of Pope John Paul II during the Transition from the Communist Era](../explorer/?id=655)
+
+[View all sources in Explorer](../explorer/?search=)
+
+## Related Articles
+
+- [Indonesia's Pancasila: Inclusive Monotheism and Its Limits](indonesias-pancasila-inclusive-monotheism-and-its-limits.md)
+- [Stepan's Twin Tolerations and Post-Theocratic Governance](stepans-twin-tolerations-and-post-theocratic-governance.md)
+- [Tunisia's Constitutional Compromise and the Civil State Model](tunisias-constitutional-compromise-and-the-civil-state-model.md)
+- [Turkey's Diyanet Model: State Control vs. Separation](turkeys-diyanet-model-state-control-vs-separation.md)
+- [Velayat-e Faqih: Iran's Unique Institutional Architecture](velayat-e-faqih-irans-unique-institutional-architecture.md)

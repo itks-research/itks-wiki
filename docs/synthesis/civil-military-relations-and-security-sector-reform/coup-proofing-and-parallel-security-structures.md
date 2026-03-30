@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Civil-military relations and security sector reform](index.md)
+
 # Coup-Proofing and Parallel Security Structures
 
 **Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-29 06:42:53
@@ -27,9 +29,11 @@ Any transition framework must account for the risk that dismantling the IRGC's p
 | Ouedraogo, E. | 2014 | Weak military professionalism persists despite billions in security assistance |
 | Cunningham, J.J. | 2015 | External military aid can weaken sovereignty through foreign leverage |
 
-## Sources Used
+## Sources Used (4 sources)
 
-- [Coup-Proofing, Military Defection, and the Arab Spring](../sources/0004-coup-proofing-military-defection-and-the-arab-spring.md)
-- [Anti-Terrorism Laws in the Maghreb Countries: The Mirror of a Democratic Transition that Never Was](../sources/0666-anti-terrorism-laws-in-the-maghreb-countries-the-mirror-of-a-democratic-transiti.md)
-- [Advancing Military Professionalism in Africa](../sources/0564-advancing-military-professionalism-in-africa.md)
-- [U.S. Military Aid and the Role of Foreign Armies in Civil Politics](../sources/0157-us-military-aid-and-the-role-of-foreign-armies-in-civil-politics.md)
+- [Coup-Proofing, Military Defection, and the Arab Spring](../explorer/?id=4)
+- [Anti-Terrorism Laws in the Maghreb Countries: The Mirror of a Democratic Transition that Never Was](../explorer/?id=666)
+- [Advancing Military Professionalism in Africa](../explorer/?id=564)
+- [U.S. Military Aid and the Role of Foreign Armies in Civil Politics](../explorer/?id=157)
+
+[View all sources in Explorer](../explorer/?search=)

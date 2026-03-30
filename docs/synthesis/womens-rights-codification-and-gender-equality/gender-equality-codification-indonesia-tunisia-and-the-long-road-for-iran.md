@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Women's rights codification and gender equality](index.md)
+
 # Gender Equality Codification: Indonesia, Tunisia, and the Long Road for Iran
 
 **Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-29 15:43:13
@@ -33,11 +35,13 @@ The seminary system's role adds another layer: in the current system, religious 
 | 5 | Sindre | 2017 | Civic Engagement and Democracy in Post-Suharto Indonesia | DOI |
 | 6 | Nightingale & Ahlborg | 2018 | Theorizing power in political ecology | DOI |
 
-## Sources Used
+## Sources Used (6 sources)
 
-- [Islamic Politics and Women's Quest for Gender Equality in Iran](../sources/3305-islamic-politics-and-womens-quest-for-gender-equality-in-iran.md)
-- [‘The perspectives of Iranian Feminists and Women Activists on Gender Equality in Iran’](../sources/3308-the-perspectives-of-iranian-feminists-and-women-activists-on-gender-equality-in-.md)
-- [Gender Equality in Iranian History: From Pre-Islamic Times to the Present](../sources/3310-gender-equality-in-iranian-history-from-pre-islamic-times-to-the-present.md)
-- [Love Jihad and the Governance of Gender and Intimacy in Hindu Nationalist Statecraft](../sources/5004-love-jihad-and-the-governance-of-gender-and-intimacy-in-hindu-nationalist-statec.md)
-- [Civic Engagement and Democracy in Post-Suharto Indonesia: A Review of Musrenbang, the Kecamatan Development Programme, and Labour Organising](../sources/4983-civic-engagement-and-democracy-in-post-suharto-indonesia-a-review-of-musrenbang-.md)
-- [Theorizing power in political ecology: the 'where' of power in resource governance projects](../sources/4984-theorizing-power-in-political-ecology-the-where-of-power-in-resource-governance-.md)
+- [Islamic Politics and Women's Quest for Gender Equality in Iran](../explorer/?id=3305)
+- [‘The perspectives of Iranian Feminists and Women Activists on Gender Equality in Iran’](../explorer/?id=3308)
+- [Gender Equality in Iranian History: From Pre-Islamic Times to the Present](../explorer/?id=3310)
+- [Love Jihad and the Governance of Gender and Intimacy in Hindu Nationalist Statecraft](../explorer/?id=5004)
+- [Civic Engagement and Democracy in Post-Suharto Indonesia: A Review of Musrenbang, the Kecamatan Development Programme, and Labour Organising](../explorer/?id=4983)
+- [Theorizing power in political ecology: the 'where' of power in resource governance projects](../explorer/?id=4984)
+
+[View all sources in Explorer](../explorer/?search=)

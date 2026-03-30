@@ -1,3 +1,5 @@
+[Home](../index.md) > [Research Findings](index.md)
+
 # Transitional Justice: Accountability, Memory, and Institutional Design
 
 **Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29T09:45:42.202156

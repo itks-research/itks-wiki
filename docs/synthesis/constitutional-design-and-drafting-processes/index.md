@@ -1,3 +1,5 @@
+[Home](../index.md) > [Research Findings](index.md)
+
 # Constitutional Design and Drafting Processes
 
 **Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29 10:16:39

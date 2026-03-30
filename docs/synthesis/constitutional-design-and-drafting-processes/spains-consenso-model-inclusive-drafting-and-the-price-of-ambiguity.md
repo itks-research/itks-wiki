@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Constitutional design and drafting processes](index.md)
+
 # Spain's Consenso Model: Inclusive Drafting and the Price of Ambiguity
 
 **Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29 10:16:39
@@ -27,6 +29,8 @@ However, Spain's subsequent crisis counsels that any ambiguity must be accompani
 | Rico & Lineira | 2014 | Secessionism moved from fringe to mainstream in 2012 Catalan election |
 | Arato | 2016 | Spain exemplifies post-sovereign constitution-making with no single sovereign actor |
 
-## Sources Used
+## Sources Used (1 sources)
 
-- [The Lifespan of Written Constitutions](../sources/0023-the-lifespan-of-written-constitutions.md)
+- [The Lifespan of Written Constitutions](../explorer/?id=23)
+
+[View all sources in Explorer](../explorer/?search=)

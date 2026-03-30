@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Civil-military relations and security sector reform](index.md)
+
 # Theoretical Frameworks and Their Limits for Iran
 
 **Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-29 06:42:53
@@ -28,9 +30,11 @@ The practical implication is that transition planners cannot import any single c
 | Kuehn, D. | 2008 | Taiwan demonstrates gradual civilian expansion over military prerogatives |
 | Kuehn, D. & Croissant, A. | 2023 | Six-case comparison validates incremental reform |
 
-## Sources Used
+## Sources Used (4 sources)
 
-- [Armed Forces and Democracy: Reforming Civil-Military Relations](../sources/0367-armed-forces-and-democracy-reforming-civil-military-relations.md)
-- [Coup-Proofing, Military Defection, and the Arab Spring](../sources/0004-coup-proofing-military-defection-and-the-arab-spring.md)
-- [Civilian Control over the Military in East Asia](../sources/0161-civilian-control-over-the-military-in-east-asia.md)
-- [Democratization and Civilian Control of the Military in Taiwan](../sources/0162-democratization-and-civilian-control-of-the-military-in-taiwan.md)
+- [Armed Forces and Democracy: Reforming Civil-Military Relations](../explorer/?id=367)
+- [Coup-Proofing, Military Defection, and the Arab Spring](../explorer/?id=4)
+- [Civilian Control over the Military in East Asia](../explorer/?id=161)
+- [Democratization and Civilian Control of the Military in Taiwan](../explorer/?id=162)
+
+[View all sources in Explorer](../explorer/?search=)

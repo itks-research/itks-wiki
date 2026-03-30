@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Constitutional design and drafting processes](index.md)
+
 # Chile's 2022 Failure: Overreach and the Limits of Participatory Maximalism
 
 **Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29 10:16:39
@@ -28,6 +30,8 @@ For Iran specifically, the Chilean experience warns against allowing any single 
 | Hutchcroft & Rocamora | 2003 | "Strong demands and weak institutions" produce persistent democratic deficits |
 | Ginsburg, Elkins & Blount | 2009 | Constitutional inclusivity predicts longevity; Chile violated this by underrepresenting the right |
 
-## Sources Used
+## Sources Used (1 sources)
 
-- [The Lifespan of Written Constitutions](../sources/0023-the-lifespan-of-written-constitutions.md)
+- [The Lifespan of Written Constitutions](../explorer/?id=23)
+
+[View all sources in Explorer](../explorer/?search=)

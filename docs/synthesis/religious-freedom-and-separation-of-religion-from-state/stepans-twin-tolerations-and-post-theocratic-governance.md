@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Religious freedom and separation of religion from state](index.md)
+
 # Stepan's Twin Tolerations and Post-Theocratic Governance
 
 **Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29T09:53:18.069901
@@ -26,8 +28,18 @@ Iran would need to achieve twin tolerations not from religion-state separation (
 | Lust, E. | 2011 | Third Wave bypassed Muslim world due to institutional configurations between Islamist opposition and authoritarian incumbents |
 | Sapsford, R. et al. | 2017 | Corruption-trust nexus undermines legitimacy of both secular and religious governance |
 
-## Sources Used
+## Sources Used (3 sources)
 
-- [Religion‐State Relations and Democracy in Egypt and Tunisia: Models from the Democratizing Muslim World – and their Limits](../sources/0676-religionstate-relations-and-democracy-in-egypt-and-tunisia-models-from-the-democ.md)
-- [Missing the Third Wave: Islam, Institutions, and Democracy in the Middle East](../sources/0685-missing-the-third-wave-islam-institutions-and-democracy-in-the-middle-east.md)
-- [Corruption, Trust, Inclusion and Cohesion in North Africa and the Middle East](../sources/0706-corruption-trust-inclusion-and-cohesion-in-north-africa-and-the-middle-east.md)
+- [Religion‐State Relations and Democracy in Egypt and Tunisia: Models from the Democratizing Muslim World – and their Limits](../explorer/?id=676)
+- [Missing the Third Wave: Islam, Institutions, and Democracy in the Middle East](../explorer/?id=685)
+- [Corruption, Trust, Inclusion and Cohesion in North Africa and the Middle East](../explorer/?id=706)
+
+[View all sources in Explorer](../explorer/?search=)
+
+## Related Articles
+
+- [Indonesia's Pancasila: Inclusive Monotheism and Its Limits](indonesias-pancasila-inclusive-monotheism-and-its-limits.md)
+- [Post-Theocratic Transitions: Uncharted Territory](post-theocratic-transitions-uncharted-territory.md)
+- [Tunisia's Constitutional Compromise and the Civil State Model](tunisias-constitutional-compromise-and-the-civil-state-model.md)
+- [Turkey's Diyanet Model: State Control vs. Separation](turkeys-diyanet-model-state-control-vs-separation.md)
+- [Velayat-e Faqih: Iran's Unique Institutional Architecture](velayat-e-faqih-irans-unique-institutional-architecture.md)

@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Religious freedom and separation of religion from state](index.md)
+
 # Indonesia's Pancasila: Inclusive Monotheism and Its Limits
 
 **Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29T09:53:18.069901
@@ -26,8 +28,18 @@ However, Indonesia's experience with "recognized" religions carries a direct war
 | Ichwan, M.N. | 2012 | Pancasila as deliberate founding compromise removing Sharia obligation from Jakarta Charter |
 | Demerath, J. | 2019 | Religious capital and non-legal factors shape church-state separation outcomes across cultures |
 
-## Sources Used
+## Sources Used (3 sources)
 
-- [Islam and Institutional Religious Freedom in Indonesia](../sources/0563-islam-and-institutional-religious-freedom-in-indonesia.md)
-- [THE Making OF A Pancasila State:political Debates ON Secularism, Islam AND THE State IN Indonesia](../sources/0727-the-making-of-a-pancasila-statepolitical-debates-on-secularism-islam-and-the-sta.md)
-- [Religious Capital and Capital Religions: Cross-Cultural and Non-Legal Factors in the Separation of Church and State](../sources/0781-religious-capital-and-capital-religions-cross-cultural-and-non-legal-factors-in-.md)
+- [Islam and Institutional Religious Freedom in Indonesia](../explorer/?id=563)
+- [THE Making OF A Pancasila State:political Debates ON Secularism, Islam AND THE State IN Indonesia](../explorer/?id=727)
+- [Religious Capital and Capital Religions: Cross-Cultural and Non-Legal Factors in the Separation of Church and State](../explorer/?id=781)
+
+[View all sources in Explorer](../explorer/?search=)
+
+## Related Articles
+
+- [Post-Theocratic Transitions: Uncharted Territory](post-theocratic-transitions-uncharted-territory.md)
+- [Stepan's Twin Tolerations and Post-Theocratic Governance](stepans-twin-tolerations-and-post-theocratic-governance.md)
+- [Tunisia's Constitutional Compromise and the Civil State Model](tunisias-constitutional-compromise-and-the-civil-state-model.md)
+- [Turkey's Diyanet Model: State Control vs. Separation](turkeys-diyanet-model-state-control-vs-separation.md)
+- [Velayat-e Faqih: Iran's Unique Institutional Architecture](velayat-e-faqih-irans-unique-institutional-architecture.md)

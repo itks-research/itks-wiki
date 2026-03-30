@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Transitional justice](index.md)
+
 # Iran's 1988 Prison Massacres: The Unavoidable Foundation
 
 **Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29T09:55:14.048438
@@ -28,10 +30,12 @@ The South Korean prosecution-pardon model suggests a middle path for the 1988 ca
 | Kovras (2012) | Explaining prolonged silences in transitional justice processes | 431 |
 | Lee & Kim (2024) | Legal closure through retroactive TJ; unconstitutional measures analysis | 52 |
 
-## Sources Used
+## Sources Used (5 sources)
 
-- [Explaining the Deterrence Effect of Human Rights Prosecutions for Transitional Countries1](../sources/0167-explaining-the-deterrence-effect-of-human-rights-prosecutions-for-transitional-c.md)
-- [Transitional or Post-transitional Justice? Recent Developments in the Spanish Case](../sources/0310-transitional-or-post-transitional-justice-recent-developments-in-the-spanish-cas.md)
-- [Truth Recovery and Transitional Justice](../sources/0433-truth-recovery-and-transitional-justice.md)
-- [Explaining Prolonged Silences in Transitional Justice](../sources/0431-explaining-prolonged-silences-in-transitional-justice.md)
-- [Transitional Justice in South Korea : Unconstitutionality and Illegality of Emergency Measures by Dictators](../sources/0052-transitional-justice-in-south-korea--unconstitutionality-and-illegality-of-emerg.md)
+- [Explaining the Deterrence Effect of Human Rights Prosecutions for Transitional Countries1](../explorer/?id=167)
+- [Transitional or Post-transitional Justice? Recent Developments in the Spanish Case](../explorer/?id=310)
+- [Truth Recovery and Transitional Justice](../explorer/?id=433)
+- [Explaining Prolonged Silences in Transitional Justice](../explorer/?id=431)
+- [Transitional Justice in South Korea : Unconstitutionality and Illegality of Emergency Measures by Dictators](../explorer/?id=52)
+
+[View all sources in Explorer](../explorer/?search=)

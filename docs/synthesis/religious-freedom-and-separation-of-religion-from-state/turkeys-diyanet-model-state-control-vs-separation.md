@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Religious freedom and separation of religion from state](index.md)
+
 # Turkey's Diyanet Model: State Control vs. Separation
 
 **Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29T09:53:18.069901
@@ -25,8 +27,18 @@ Iran's religious landscape adds complexity that Turkey's Diyanet model cannot ac
 | Lust, E. | 2011 | Third Wave of democratization bypassed Muslim world due to institutional configurations, not Islam per se |
 | Fox, J. | 2019 | Secular-religious competition varies by institutional arrangements, not religious tradition |
 
-## Sources Used
+## Sources Used (3 sources)
 
-- [Turkey: Islam and Laicism between the interests of state, politics, and society](../sources/0696-turkey-islam-and-laicism-between-the-interests-of-state-politics-and-society.md)
-- [Missing the Third Wave: Islam, Institutions, and Democracy in the Middle East](../sources/0685-missing-the-third-wave-islam-institutions-and-democracy-in-the-middle-east.md)
-- [The Secular-Religious Competition Perspective in Comparative Perspective](../sources/0735-the-secular-religious-competition-perspective-in-comparative-perspective.md)
+- [Turkey: Islam and Laicism between the interests of state, politics, and society](../explorer/?id=696)
+- [Missing the Third Wave: Islam, Institutions, and Democracy in the Middle East](../explorer/?id=685)
+- [The Secular-Religious Competition Perspective in Comparative Perspective](../explorer/?id=735)
+
+[View all sources in Explorer](../explorer/?search=)
+
+## Related Articles
+
+- [Indonesia's Pancasila: Inclusive Monotheism and Its Limits](indonesias-pancasila-inclusive-monotheism-and-its-limits.md)
+- [Post-Theocratic Transitions: Uncharted Territory](post-theocratic-transitions-uncharted-territory.md)
+- [Stepan's Twin Tolerations and Post-Theocratic Governance](stepans-twin-tolerations-and-post-theocratic-governance.md)
+- [Tunisia's Constitutional Compromise and the Civil State Model](tunisias-constitutional-compromise-and-the-civil-state-model.md)
+- [Velayat-e Faqih: Iran's Unique Institutional Architecture](velayat-e-faqih-irans-unique-institutional-architecture.md)

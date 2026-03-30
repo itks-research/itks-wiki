@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Civil society development](index.md)
+
 # Solidarity's Children: Civil Society After Communism and After Theocracy
 
 **Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-29 15:46:55
@@ -34,12 +36,14 @@ The Women's Rights report on the Middle East and North Africa (2011) documents h
 | 6 | — | 2004 | Social Capital and the Transition to Democracy | — |
 | 7 | — | 2011 | Women's rights in the Middle East and North Africa | — |
 
-## Sources Used
+## Sources Used (7 sources)
 
-- [Determinants of Economic Growth: A Cross-Country Empirical Study](../sources/4484-determinants-of-economic-growth-a-cross-country-empirical-study.md)
-- [Gender as “Ebola from Brussels”: The Anticolonial Frame and the Rise of Illiberal Populism](../sources/4483-gender-as-ebola-from-brussels-the-anticolonial-frame-and-the-rise-of-illiberal-p.md)
-- [NGOs and Their Vulnerabilities During the Time of Transition: The Case of Poland](../sources/4416-ngos-and-their-vulnerabilities-during-the-time-of-transition-the-case-of-poland.md)
-- [Democratization in Eastern and Western Europe](../sources/4402-democratization-in-eastern-and-western-europe.md)
-- [Democratization and Market Reform in Developing and Transitional Countries: Think Tanks as Catalysts](../sources/4404-democratization-and-market-reform-in-developing-and-transitional-countries-think.md)
-- [Social Capital and the Transition to Democracy](../sources/4451-social-capital-and-the-transition-to-democracy.md)
-- [Women's rights in the Middle East and North Africa: progress amid resistance](../sources/3445-womens-rights-in-the-middle-east-and-north-africa-progress-amid-resistance.md)
+- [Determinants of Economic Growth: A Cross-Country Empirical Study](../explorer/?id=4484)
+- [Gender as “Ebola from Brussels”: The Anticolonial Frame and the Rise of Illiberal Populism](../explorer/?id=4483)
+- [NGOs and Their Vulnerabilities During the Time of Transition: The Case of Poland](../explorer/?id=4416)
+- [Democratization in Eastern and Western Europe](../explorer/?id=4402)
+- [Democratization and Market Reform in Developing and Transitional Countries: Think Tanks as Catalysts](../explorer/?id=4404)
+- [Social Capital and the Transition to Democracy](../explorer/?id=4451)
+- [Women's rights in the Middle East and North Africa: progress amid resistance](../explorer/?id=3445)
+
+[View all sources in Explorer](../explorer/?search=)

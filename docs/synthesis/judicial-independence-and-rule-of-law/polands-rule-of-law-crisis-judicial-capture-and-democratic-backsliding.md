@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Judicial independence and rule of law](index.md)
+
 # Poland's Rule-of-Law Crisis: Judicial Capture and Democratic Backsliding
 
 **Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-29 15:39:27
@@ -32,12 +34,14 @@ Saffari (1993) traces this architecture to the 1906 Constitutional Revolution, s
 | 6 | Arjomand & Brown | 2013 | Rule of Law, Islam, and Constitutional Politics in Egypt and Iran | — |
 | 7 | Osanloo | 2020 | Forgiveness Work: Mercy, Law, and Victims' Rights in Iran | DOI |
 
-## Sources Used
+## Sources Used (7 sources)
 
-- [Illiberal Constitutionalism: The Case of Hungary and Poland](../sources/4330-illiberal-constitutionalism-the-case-of-hungary-and-poland.md)
-- [The Politics of Judicial Reform in Eastern Europe](../sources/4379-the-politics-of-judicial-reform-in-eastern-europe.md)
-- [The Power Knocks at the Courts' Back Door](../sources/4382-the-power-knocks-at-the-courts-back-door.md)
-- [The legitimation of the Clergy's right to rule in the Iranian constitution of 1979](../sources/2539-the-legitimation-of-the-clergys-right-to-rule-in-the-iranian-constitution-of-197.md)
-- [The Rule of Law and the Politics of Reform in Post-Revolutionary Iran](../sources/2518-the-rule-of-law-and-the-politics-of-reform-in-post-revolutionary-iran.md)
-- [Rule of Law, Islam, and Constitutional Politics in Egypt and Iran, The](../sources/2519-rule-of-law-islam-and-constitutional-politics-in-egypt-and-iran-the.md)
-- [Forgiveness Work: Mercy, Law, and Victims' Rights in Iran](../sources/2564-forgiveness-work-mercy-law-and-victims-rights-in-iran.md)
+- [Illiberal Constitutionalism: The Case of Hungary and Poland](../explorer/?id=4330)
+- [The Politics of Judicial Reform in Eastern Europe](../explorer/?id=4379)
+- [The Power Knocks at the Courts' Back Door](../explorer/?id=4382)
+- [The legitimation of the Clergy's right to rule in the Iranian constitution of 1979](../explorer/?id=2539)
+- [The Rule of Law and the Politics of Reform in Post-Revolutionary Iran](../explorer/?id=2518)
+- [Rule of Law, Islam, and Constitutional Politics in Egypt and Iran, The](../explorer/?id=2519)
+- [Forgiveness Work: Mercy, Law, and Victims' Rights in Iran](../explorer/?id=2564)
+
+[View all sources in Explorer](../explorer/?search=)

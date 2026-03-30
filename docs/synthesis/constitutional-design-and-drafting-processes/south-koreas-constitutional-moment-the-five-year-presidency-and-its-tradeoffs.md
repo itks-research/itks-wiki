@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Constitutional design and drafting processes](index.md)
+
 # South Korea's Constitutional Moment: The Five-Year Presidency and Its Tradeoffs
 
 **Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29 10:16:39
@@ -27,8 +29,10 @@ However, the "lemon presidency" phenomenon means that term limits alone are insu
 | Yeh | 2010 | Constitutional courts in South Korea and Taiwan serve as dialogue facilitators between political actors |
 | Hahm | 2024 | Comprehensive analysis of South Korea's constitutional framework and its evolution |
 
-## Sources Used
+## Sources Used (3 sources)
 
-- [The Constitution of South Korea](../sources/0046-the-constitution-of-south-korea.md)
-- [History of South Korea’s Courts and Constitutional Transitions](../sources/0058-history-of-south-koreas-courts-and-constitutional-transitions.md)
-- [Theory of Constitutional Reform of South Korea's Power Structure : Constitutional Reform Directions to Overcome Limitations of the 1987 Constitution](../sources/0042-theory-of-constitutional-reform-of-south-koreas-power-structure--constitutional-.md)
+- [The Constitution of South Korea](../explorer/?id=46)
+- [History of South Korea’s Courts and Constitutional Transitions](../explorer/?id=58)
+- [Theory of Constitutional Reform of South Korea's Power Structure : Constitutional Reform Directions to Overcome Limitations of the 1987 Constitution](../explorer/?id=42)
+
+[View all sources in Explorer](../explorer/?search=)

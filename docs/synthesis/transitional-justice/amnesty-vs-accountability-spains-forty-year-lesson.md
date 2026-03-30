@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Transitional justice](index.md)
+
 # Amnesty vs. Accountability: Spain's Forty-Year Lesson
 
 **Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29T09:50:14.498268
@@ -32,15 +34,17 @@ The Spanish experience counsels that some form of structured accountability -- e
 | Mihr (2018) | Regime consolidation and transitional justice comparative framework | 429 |
 | Hepworth (2023) | Memory activism as advocacy for transitional justice in Spain | 444 |
 
-## Sources Used
+## Sources Used (10 sources)
 
-- [Justice, Politics, and Memory in the Spanish Transition](../sources/0425-justice-politics-and-memory-in-the-spanish-transition.md)
-- [Transitional or Post-transitional Justice? Recent Developments in the Spanish Case](../sources/0310-transitional-or-post-transitional-justice-recent-developments-in-the-spanish-cas.md)
-- [Generational dynamics in Spain: Memory transmission of a turbulent past](../sources/0435-generational-dynamics-in-spain-memory-transmission-of-a-turbulent-past.md)
-- [Determinants of Attitudes Toward Transitional Justice](../sources/0496-determinants-of-attitudes-toward-transitional-justice.md)
-- [Road to Impunity: The Absence of Transitional Justice Programs in Spain](../sources/0499-road-to-impunity-the-absence-of-transitional-justice-programs-in-spain.md)
-- [Transitional Justice against the State: Lessons from Spanish Civil Society-Led Forensic Exhumations](../sources/0427-transitional-justice-against-the-state-lessons-from-spanish-civil-society-led-fo.md)
-- [“Getting off the Tiger”: The Spanish Transitional Model and its Influence on the Democratic Transitions in Argentina and Chile, 1977–1990](../sources/0436-getting-off-the-tiger-the-spanish-transitional-model-and-its-influence-on-the-de.md)
-- [Regime Consolidation through Transitional Justice in Europe: The Cases of Germany, Spain and Turkey](../sources/0440-regime-consolidation-through-transitional-justice-in-europe-the-cases-of-germany.md)
-- [Regime Consolidation and Transitional Justice](../sources/0429-regime-consolidation-and-transitional-justice.md)
-- [Memory Activism as Advocacy for Transitional Justice: Memory Laws, Mass Graves and Impunity in Spain](../sources/0444-memory-activism-as-advocacy-fortransitional-justice-memory-laws-mass-graves-andi.md)
+- [Justice, Politics, and Memory in the Spanish Transition](../explorer/?id=425)
+- [Transitional or Post-transitional Justice? Recent Developments in the Spanish Case](../explorer/?id=310)
+- [Generational dynamics in Spain: Memory transmission of a turbulent past](../explorer/?id=435)
+- [Determinants of Attitudes Toward Transitional Justice](../explorer/?id=496)
+- [Road to Impunity: The Absence of Transitional Justice Programs in Spain](../explorer/?id=499)
+- [Transitional Justice against the State: Lessons from Spanish Civil Society-Led Forensic Exhumations](../explorer/?id=427)
+- [“Getting off the Tiger”: The Spanish Transitional Model and its Influence on the Democratic Transitions in Argentina and Chile, 1977–1990](../explorer/?id=436)
+- [Regime Consolidation through Transitional Justice in Europe: The Cases of Germany, Spain and Turkey](../explorer/?id=440)
+- [Regime Consolidation and Transitional Justice](../explorer/?id=429)
+- [Memory Activism as Advocacy for Transitional Justice: Memory Laws, Mass Graves and Impunity in Spain](../explorer/?id=444)
+
+[View all sources in Explorer](../explorer/?search=)

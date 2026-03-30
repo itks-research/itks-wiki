@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Transitional justice](index.md)
+
 # Does Prosecution Deter? The Kim-Sikkink Evidence and South Korea's Model
 
 **Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29T09:50:14.498268
@@ -27,9 +29,11 @@ This model is particularly relevant for mid-ranking officials in the IRGC, judic
 | Aguilar et al. (2011) | Determinants of citizen attitudes toward TJ: experience, ideology, generation | 496 |
 | Botelho (2021) | Constitutional courts shaped transitions through interpretive authority | 432 |
 
-## Sources Used
+## Sources Used (4 sources)
 
-- [Explaining the Deterrence Effect of Human Rights Prosecutions for Transitional Countries1](../sources/0167-explaining-the-deterrence-effect-of-human-rights-prosecutions-for-transitional-c.md)
-- [Transitional Justice in South Korea : Unconstitutionality and Illegality of Emergency Measures by Dictators](../sources/0052-transitional-justice-in-south-korea--unconstitutionality-and-illegality-of-emerg.md)
-- [Determinants of Attitudes Toward Transitional Justice](../sources/0496-determinants-of-attitudes-toward-transitional-justice.md)
-- [European Constitutional Courts and Transitions to Democracy](../sources/0432-european-constitutional-courts-and-transitions-to-democracy.md)
+- [Explaining the Deterrence Effect of Human Rights Prosecutions for Transitional Countries1](../explorer/?id=167)
+- [Transitional Justice in South Korea : Unconstitutionality and Illegality of Emergency Measures by Dictators](../explorer/?id=52)
+- [Determinants of Attitudes Toward Transitional Justice](../explorer/?id=496)
+- [European Constitutional Courts and Transitions to Democracy](../explorer/?id=432)
+
+[View all sources in Explorer](../explorer/?search=)

@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Religious freedom and separation of religion from state](index.md)
+
 # Velayat-e Faqih: Iran's Unique Institutional Architecture
 
 **Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29T09:53:18.069901
@@ -27,8 +29,18 @@ This is why comparative literature on constitutional transitions emphasizes extr
 | Szelenyi, I. | 2015 | Weber's domination theory applied to post-ideological state transitions |
 | Sapsford, R. et al. | 2017 | Corruption erodes institutional trust in religious and secular governance alike |
 
-## Sources Used
+## Sources Used (3 sources)
 
-- [Weber’s theory of domination and post-communist capitalisms](../sources/2043-webers-theory-of-domination-and-post-communist-capitalisms.md)
-- [The Rhythmic Beat of the Revolution in Iran](../sources/2047-the-rhythmic-beat-of-the-revolution-in-iran.md)
-- [Islam, Democracy and Religious Modernism in Iran (1953-2000): From Bāzargān to Soroush](../sources/2052-islam-democracy-and-religious-modernism-in-iran-1953-2000-from-bāzargān-to-sorou.md)
+- [Weber’s theory of domination and post-communist capitalisms](../explorer/?id=2043)
+- [The Rhythmic Beat of the Revolution in Iran](../explorer/?id=2047)
+- [Islam, Democracy and Religious Modernism in Iran (1953-2000): From Bāzargān to Soroush](../explorer/?id=2052)
+
+[View all sources in Explorer](../explorer/?search=)
+
+## Related Articles
+
+- [Indonesia's Pancasila: Inclusive Monotheism and Its Limits](indonesias-pancasila-inclusive-monotheism-and-its-limits.md)
+- [Post-Theocratic Transitions: Uncharted Territory](post-theocratic-transitions-uncharted-territory.md)
+- [Stepan's Twin Tolerations and Post-Theocratic Governance](stepans-twin-tolerations-and-post-theocratic-governance.md)
+- [Tunisia's Constitutional Compromise and the Civil State Model](tunisias-constitutional-compromise-and-the-civil-state-model.md)
+- [Turkey's Diyanet Model: State Control vs. Separation](turkeys-diyanet-model-state-control-vs-separation.md)

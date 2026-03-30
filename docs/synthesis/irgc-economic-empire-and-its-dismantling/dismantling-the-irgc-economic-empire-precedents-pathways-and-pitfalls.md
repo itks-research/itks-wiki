@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [IRGC economic empire and its dismantling](index.md)
+
 # Dismantling the IRGC Economic Empire: Precedents, Pathways, and Pitfalls
 
 **Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-29 15:52:30
@@ -36,12 +38,14 @@ The critical variable is whether IRGC commanders and their economic networks can
 | 6 | Shafiei | 2017 | The role of participation in Iran after the shift in urban governance | — |
 | 7 | Damiano | 2015 | How Iran could democratize | — |
 
-## Sources Used
+## Sources Used (7 sources)
 
-- [Explaining the economic control of Iran by the IRGC](../sources/2181-explaining-the-economic-control-of-iran-by-the-irgc.md)
-- [Why Did China’s Rise Succeed and Iran’s Fail? the Political Economy of Development in China and Iran](../sources/2174-why-did-chinas-rise-succeed-and-irans-fail-the-political-economy-of-development-.md)
-- [How Iran could democratize](../sources/2186-how-iran-could-democratize.md)
-- [Administrative Reform in Developing Nations](../sources/2225-administrative-reform-in-developing-nations.md)
-- [Governance, Institutional Change and Regional Development](../sources/2222-governance-institutional-change-and-regional-development.md)
-- [The role of participation in Iran after the shift in urban governance in 1997](../sources/2233-the-role-of-participation-in-iran-after-the-shift-in-urban-governance-in-1997.md)
-- [How Foreign Aid Can Foster Democratization in Authoritarian Regimes](../sources/2242-how-foreign-aid-can-foster-democratization-in-authoritarian-regimes.md)
+- [Explaining the economic control of Iran by the IRGC](../explorer/?id=2181)
+- [Why Did China’s Rise Succeed and Iran’s Fail? the Political Economy of Development in China and Iran](../explorer/?id=2174)
+- [How Iran could democratize](../explorer/?id=2186)
+- [Administrative Reform in Developing Nations](../explorer/?id=2225)
+- [Governance, Institutional Change and Regional Development](../explorer/?id=2222)
+- [The role of participation in Iran after the shift in urban governance in 1997](../explorer/?id=2233)
+- [How Foreign Aid Can Foster Democratization in Authoritarian Regimes](../explorer/?id=2242)
+
+[View all sources in Explorer](../explorer/?search=)

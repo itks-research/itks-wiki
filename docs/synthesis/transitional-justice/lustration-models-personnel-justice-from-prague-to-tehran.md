@@ -1,3 +1,5 @@
+[Home](../../index.md) > [Research Findings](../index.md) > [Transitional justice](index.md)
+
 # Lustration Models: Personnel Justice from Prague to Tehran
 
 **Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29T09:55:14.048438
@@ -31,13 +33,15 @@ A Polish-style confession model offers a more viable template for Iran. Individu
 | Lustration and legitimacy (2010) | Relationship between lustration processes and political legitimacy | 893 |
 | Rethinking lustrations (2022) | Contemporary reassessment of lustration as TJ mechanism | 867 |
 
-## Sources Used
+## Sources Used (8 sources)
 
-- [Lustration Systems and Trust: Evidence from Survey Experiments in the Czech Republic, Hungary, and Poland](../sources/0882-lustration-systems-and-trust-evidence-from-survey-experiments-in-the-czech-repub.md)
-- [Lustration as a trust-building mechanism? Transitional justice in Poland](../sources/4615-lustration-as-a-trust-building-mechanism-transitional-justice-in-poland.md)
-- [Lustration and the Transition to Democracy: The Cases of Poland and Bulgaria](../sources/4626-lustration-and-the-transition-to-democracy-the-cases-of-poland-and-bulgaria.md)
-- [Dealing with the Communist Past or the Politics of the Present? Lustration in Post-Communist Poland](../sources/0890-dealing-with-the-communist-past-or-the-politics-of-the-present-lustration-in-pos.md)
-- [Lustration Laws in Action: The Motives and Evaluation of Lustration Policy in the Czech Republic and Poland (1989–2001)](../sources/0821-lustration-laws-in-action-the-motives-and-evaluation-of-lustration-policy-in-the.md)
-- [Justice as prevention : vetting public employees in transitional societies](../sources/0820-justice-as-prevention--vetting-public-employees-in-transitional-societies.md)
-- [Lustration and Legitimacy](../sources/0893-lustration-and-legitimacy.md)
-- [Rethinking Lustrations](../sources/0867-rethinking-lustrations.md)
+- [Lustration Systems and Trust: Evidence from Survey Experiments in the Czech Republic, Hungary, and Poland](../explorer/?id=882)
+- [Lustration as a trust-building mechanism? Transitional justice in Poland](../explorer/?id=4615)
+- [Lustration and the Transition to Democracy: The Cases of Poland and Bulgaria](../explorer/?id=4626)
+- [Dealing with the Communist Past or the Politics of the Present? Lustration in Post-Communist Poland](../explorer/?id=890)
+- [Lustration Laws in Action: The Motives and Evaluation of Lustration Policy in the Czech Republic and Poland (1989–2001)](../explorer/?id=821)
+- [Justice as prevention : vetting public employees in transitional societies](../explorer/?id=820)
+- [Lustration and Legitimacy](../explorer/?id=893)
+- [Rethinking Lustrations](../explorer/?id=867)
+
+[View all sources in Explorer](../explorer/?search=)
