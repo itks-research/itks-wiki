@@ -1,6 +1,6 @@
 # Research Dashboard
 
-*Last updated: 2026-03-31 23:43*
+*Last updated: 2026-04-01 00:53*
 
 ## Summary
 
@@ -62,7 +62,7 @@
 
 | Case Study | Sources | Scored | Avg Relevance |
 |------------|---------|--------|---------------|
-| [Iran](case-studies/iran.md) | 2421 | 2421 | 2.3 |
+| [Iran](case-studies/iran.md) | 2521 | 2421 | 2.3 |
 | [Poland](case-studies/poland.md) | 861 | 861 | 3.1 |
 | [Indonesia](case-studies/indonesia.md) | 693 | 693 | 2.4 |
 | [South Korea](case-studies/south-korea.md) | 459 | 459 | 2.8 |
@@ -75,8 +75,8 @@
 
 | Domain | Sources | Case Studies | Avg Relevance |
 |--------|---------|-------------|---------------|
-| Political | 2726 | 8 | 2.8 |
-| Social Cultural | 1668 | 8 | 2.2 |
+| Political | 2748 | 8 | 2.8 |
+| Social Cultural | 1746 | 8 | 2.2 |
 | Economic | 925 | 8 | 2.8 |
 | Iran Specific | 355 | 6 | 1.9 |
 
@@ -139,18 +139,18 @@
 |----------|---------|---------------|
 | Media freedom and press institution building | 203 | 2.4 |
 | Electoral system design and implementation | 199 | 2.1 |
+| Education system reform and curriculum modernization | 194 | 2.3 |
 | Political party formation and pluralism | 165 | 2.0 |
 | Transitional justice | 158 | 1.9 |
 | Women's rights codification and gender equality | 140 | 2.3 |
-| Education system reform and curriculum modernization | 116 | 2.3 |
 | Civil-military relations and security sector reform | 114 | 2.7 |
 | Sanctions unwinding and international reintegration | 112 | 3.1 |
+| Judicial independence and rule of law | 107 | 2.4 |
 | Federalism, unitarism, and autonomy models | 103 | 1.9 |
 | Civil society development | 101 | 1.7 |
 | Minority rights | 97 | 2.1 |
 | Religious freedom and separation of religion from state | 94 | 2.6 |
 | Constitutional design and drafting processes | 93 | 3.0 |
-| Judicial independence and rule of law | 85 | 2.4 |
 | Banking and financial system reform | 81 | 1.9 |
 | Bonyad system reform | 65 | 2.1 |
 | Regional foreign policy reorientation | 60 | 2.5 |

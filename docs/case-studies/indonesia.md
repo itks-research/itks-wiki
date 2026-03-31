@@ -17,6 +17,7 @@ The world's largest Muslim-majority democracy. Its Pancasila model of inclusive 
 
 ## Related Research Articles
 
+- [From Managed Elections to Meaningful Votes: Electoral Engineering in Iran, Indonesia, and Chile](../synthesis/electoral-system-design-and-implementation/from-managed-elections-to-meaningful-votes-electoral-engineering-in-iran-indones.md)
 - [Indonesia's Big Bang Decentralization: Corruption, Accountability, and Lessons for Iran](../synthesis/federalism-unitarism-and-autonomy-models/indonesias-big-bang-decentralization-corruption-accountability-and-lessons-for-i.md)
 - [Minority Rights and Religious Pluralism: Indonesia's Ethnic Violence, Iran's Constitutional Promises](../synthesis/minority-rights/minority-rights-and-religious-pluralism-indonesias-ethnic-violence-irans-constit.md)
 - [Indonesia's Pancasila: Inclusive Monotheism and Its Limits](../synthesis/religious-freedom-and-separation-of-religion-from-state/indonesias-pancasila-inclusive-monotheism-and-its-limits.md)

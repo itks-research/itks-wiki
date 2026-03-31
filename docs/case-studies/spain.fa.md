@@ -20,6 +20,7 @@
 - [Crisis as Reform Catalyst: Spain's 23-F and Lessons for Iran](../synthesis/civil-military-relations-and-security-sector-reform/crisis-as-reform-catalyst-spains-23-f-and-lessons-for-iran.md)
 - [Spain's Consenso Model: Inclusive Drafting and the Price of Ambiguity](../synthesis/constitutional-design-and-drafting-processes/spains-consenso-model-inclusive-drafting-and-the-price-of-ambiguity.md)
 - [The Estado de las Autonomías: Spain's Asymmetric Federalism and Iran's Ethnic Geography](../synthesis/constitutional-design-and-drafting-processes/the-estado-de-las-autonomías-spains-asymmetric-federalism-and-irans-ethnic-geogr.md)
+- [Islamic Law, Constitutional Courts, and the Judicial Independence Puzzle: Iran, Spain, and Poland](../synthesis/judicial-independence-and-rule-of-law/islamic-law-constitutional-courts-and-the-judicial-independence-puzzle-iran-spai.md)
 - [Labor Market Dualism and Social Protection: South Korea, Spain, and Iran's Informal Economy](../synthesis/labor-market-reform-and-social-safety-nets/labor-market-dualism-and-social-protection-south-korea-spain-and-irans-informal-.md)
 - [Amnesty vs. Accountability: Spain's Forty-Year Lesson](../synthesis/transitional-justice/amnesty-vs-accountability-spains-forty-year-lesson.md)
 

@@ -19,6 +19,7 @@ Demonstrates both successful gradual transition (1988–2005) and the risks of c
 
 - [Chile's 2022 Failure: Overreach and the Limits of Participatory Maximalism](../synthesis/constitutional-design-and-drafting-processes/chiles-2022-failure-overreach-and-the-limits-of-participatory-maximalism.md)
 - [Chile's Binomial System and Its Dismantling: Electoral Engineering as Democratic Deepening](../synthesis/electoral-system-design-and-implementation/chiles-binomial-system-and-its-dismantling-electoral-engineering-as-democratic-d.md)
+- [From Managed Elections to Meaningful Votes: Electoral Engineering in Iran, Indonesia, and Chile](../synthesis/electoral-system-design-and-implementation/from-managed-elections-to-meaningful-votes-electoral-engineering-in-iran-indones.md)
 
 ## Political (224 sources)
 
