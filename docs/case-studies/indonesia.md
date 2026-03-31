@@ -6,29 +6,31 @@ The world's largest Muslim-majority democracy. Its Pancasila model of inclusive 
 
 | Metric | Value |
 |--------|-------|
-| Total Sources | 653 |
-| Avg Relevance | 2.3/5 |
-| High Relevance (4+) | 161 (24%) |
-| Avg Citations | 94 |
+| Total Sources | 295 |
+| Avg Relevance | 3.6/5 |
+| High Relevance (4+) | 157 (53%) |
+| Avg Citations | 93 |
 | Most Cited | 2,753 |
-| Categories | 21 |
+| Categories | 18 |
 
 [Browse all Indonesia sources in Explorer](../explorer/?case_study=Indonesia)
 
 ## Related Research Articles
 
+- [Indonesia's Big Bang Decentralization: Corruption, Accountability, and Lessons for Iran](../synthesis/federalism-unitarism-and-autonomy-models/indonesias-big-bang-decentralization-corruption-accountability-and-lessons-for-i.md)
+- [Minority Rights and Religious Pluralism: Indonesia's Ethnic Violence, Iran's Constitutional Promises](../synthesis/minority-rights/minority-rights-and-religious-pluralism-indonesias-ethnic-violence-irans-constit.md)
 - [Indonesia's Pancasila: Inclusive Monotheism and Its Limits](../synthesis/religious-freedom-and-separation-of-religion-from-state/indonesias-pancasila-inclusive-monotheism-and-its-limits.md)
 - [Gender Equality Codification: Indonesia, Tunisia, and the Long Road for Iran](../synthesis/womens-rights-codification-and-gender-equality/gender-equality-codification-indonesia-tunisia-and-the-long-road-for-iran.md)
 
-## Political (189 sources)
+## Political (184 sources)
 
 ### Civil-military relations and security sector reform
-*49 sources*
+*77 sources*
 
-- [Why Do Developing Countries Tax So Little?](../explorer/?id=1513) (2014) | Rel: 4.0
-- [Public expenditure management handbook.](../explorer/?id=1563) (1998) | Rel: 4.0
-- [Examining the role of foreign assistance in security sector reforms : the Indonesian case](../explorer/?id=1534) (2003) | Rel: 4.0
-- *...and 46 more* ([view all](../explorer/?case_study=Indonesia&category=Civil-military%20relations%20and%20security%20sector%20reform))
+- [Chinese Practice in Public International Law: 2010](../explorer/?id=5518) (2011) | Rel: 5.0
+- [Securing Southeast Asia](../explorer/?id=5512) (2012) | Rel: 5.0
+- [Beyond Threats: How Allies and Bureaucratic Competition Shape the Initial Development of Military Cyber Capabilities](../explorer/?id=5510) (2025) | Rel: 5.0
+- *...and 74 more* ([view all](../explorer/?case_study=Indonesia&category=Civil-military%20relations%20and%20security%20sector%20reform))
 
 ### Constitutional design and drafting processes
 *2 sources*
@@ -45,12 +47,12 @@ The world's largest Muslim-majority democracy. Its Pancasila model of inclusive 
 - *...and 2 more* ([view all](../explorer/?case_study=Indonesia&category=Electoral%20system%20design%20and%20implementation))
 
 ### Federalism, unitarism, and autonomy models
-*112 sources*
+*91 sources*
 
 - [Fiscal Decentralization Dilemma in Indonesia: Between Corruption Accountability and Probability at Local Levels](../explorer/?id=4722) (2020) | Rel: 5.0
 - [Fiscal Decentralization, Accountability and Corruption Indication: Evidence from Indonesia](../explorer/?id=4717) (2021) | Rel: 5.0
 - [Decentralization and Fiscal Autonomy at the Subnational Level in Indonesia](../explorer/?id=4708) (2022) | Rel: 5.0
-- *...and 109 more* ([view all](../explorer/?case_study=Indonesia&category=Federalism%2C%20unitarism%2C%20and%20autonomy%20models))
+- *...and 88 more* ([view all](../explorer/?case_study=Indonesia&category=Federalism%2C%20unitarism%2C%20and%20autonomy%20models))
 
 ### Judicial independence and rule of law
 *1 sources*
@@ -58,17 +60,12 @@ The world's largest Muslim-majority democracy. Its Pancasila model of inclusive 
 - [The Legitimacy of International Law: A Constitutionalist Framework of Analysis](../explorer/?id=1517) (2004) | Rel: 3.0
 
 ### Political party formation and pluralism
-*17 sources*
+*6 sources*
 
-- [Indonesia's Accountability Trap: Party Cartels and Presidential Power after Democratic Transition](../explorer/?id=1522) (2004) | Rel: 4.0
 - [Democratization in Post-Suharto Indonesia](../explorer/?id=1539) (2008) | Rel: 4.0
 - [A consolidated patrimonial democracy? Democratization in post-Suharto Indonesia](../explorer/?id=1550) (2006) | Rel: 4.0
-- *...and 14 more* ([view all](../explorer/?case_study=Indonesia&category=Political%20party%20formation%20and%20pluralism))
-
-### Power-sharing mechanisms during transition periods
-*1 sources*
-
-- [Borrower Ownership of Adjustment programs and the Political Economy of Reform](../explorer/?id=1572) (1993) | Rel: 4.0
+- [Government and Politics in Southeast Asia](../explorer/?id=1546) (2002) | Rel: 4.0
+- *...and 3 more* ([view all](../explorer/?case_study=Indonesia&category=Political%20party%20formation%20and%20pluralism))
 
 ### Transitional justice
 *2 sources*
@@ -76,30 +73,28 @@ The world's largest Muslim-majority democracy. Its Pancasila model of inclusive 
 - [Accounting for Atrocities in Indonesia](../explorer/?id=1554) (2006) | Rel: 3.0
 - [Elites and Prospects of Democracy in East Timor](../explorer/?id=1507) (2006) | Rel: 3.0
 
-## Economic (34 sources)
+## Economic (29 sources)
 
 ### Banking and financial system reform
-*3 sources*
+*1 sources*
 
 - [Does Fiscal Decentralization Encourage Corruption in Local Governments? Evidence from Indonesia](../explorer/?id=1652) (2019) | Rel: 3.0
-- [The Financial Performance and Stock Valuation of Coal Mining Company in Indonesia (Case Study: Pt. Abm Investama Tbk (ABMM))](../explorer/?id=1816) (2022) | Rel: 2.0
-- [CONCEPTUAL PROVISIONS FOR IMPROVING THE ECOLOGICAL AND ECONOMIC EFFICIENCY OF AGRICULTURAL LAND USE](../explorer/?id=1608) (2024) | Rel: 2.0
 
 ### Labor market reform and social safety nets
 *15 sources*
 
-- [HOW DOES DECENTRALIZED MINIMUM WAGE SETTING AFFECT EMPLOYMENT AND INFORMALITY? THE CASE OF INDONESIA](../explorer/?id=1638) (2011) | Rel: 4.0
+- [How Does Decentralized Minimum Wage Setting Affect Employment and Informality? The Case of Indonesia](../explorer/?id=1638) (2011) | Rel: 4.0
 - [Legislating for labour protection: betting on the weak or the strong?](../explorer/?id=1568) (2005) | Rel: 4.0
 - [Understanding the impacts of NPM and proposed solutions to the healthcare system reforms in Indonesia: the case of BPJS](../explorer/?id=1577) (2019) | Rel: 4.0
 - *...and 12 more* ([view all](../explorer/?case_study=Indonesia&category=Labor%20market%20reform%20and%20social%20safety%20nets))
 
 ### Privatization and state-owned enterprise restructuring
-*7 sources*
+*5 sources*
 
-- [Employee Participation in Decision-Making: Evidence from a State-Owned Enterprise in Indonesia](../explorer/?id=1978) (2015) | Rel: 4.0
 - [How Financial Performance and State-Owned Enterprise (SOE) Values Are Affected by Good Corporate Governance and Intellectual Capital Perspectives](../explorer/?id=1961) (2021) | Rel: 4.0
 - [Indonesian Corporations, Cronyism, and Corruption](../explorer/?id=1555) (2006) | Rel: 3.0
-- *...and 4 more* ([view all](../explorer/?case_study=Indonesia&category=Privatization%20and%20state-owned%20enterprise%20restructuring))
+- [Private health sector growth in Asia : issues and implications](../explorer/?id=1569) (1997) | Rel: 3.0
+- *...and 2 more* ([view all](../explorer/?case_study=Indonesia&category=Privatization%20and%20state-owned%20enterprise%20restructuring))
 
 ### Resource curse management
 *3 sources*
@@ -114,59 +109,48 @@ The world's largest Muslim-majority democracy. Its Pancasila model of inclusive 
 - [International Intervention and the Severity of Genocides and Politicides](../explorer/?id=1520) (2005) | Rel: 3.0
 
 ### Trade liberalization and foreign direct investment
-*5 sources*
+*4 sources*
 
-- [World Development Report 1986](../explorer/?id=1567) (1986) | Rel: 4.0
 - [Growth after the asian crisis : what remains of the east asian model?](../explorer/?id=1100) (2001) | Rel: 4.0
 - [Estimating the Constraints to Agricultural Trade of Developing Countries](../explorer/?id=1590) (2013) | Rel: 4.0
-- *...and 2 more* ([view all](../explorer/?case_study=Indonesia&category=Trade%20liberalization%20and%20foreign%20direct%20investment))
+- [China's Stock Markets and the World Trade Organization](../explorer/?id=1580) (1999) | Rel: 4.0
+- *...and 1 more* ([view all](../explorer/?case_study=Indonesia&category=Trade%20liberalization%20and%20foreign%20direct%20investment))
 
-## Social & Cultural (430 sources)
+## Social & Cultural (82 sources)
 
 ### Civil society development
-*2 sources*
+*1 sources*
 
 - [Governance to Governmentality: Analyzing NGOs, States, and Power](../explorer/?id=1511) (2006) | Rel: 3.0
-- [SOCIAL ADAPTATION OF MINORS IN A SOCIAL REHABILITATION CENTER](../explorer/?id=1607) (2024) | Rel: 2.0
-
-### Cultural heritage preservation during institutional change
-*1 sources*
-
-- [Fishing in life and death: Pleistocene fish-hooks from a burial context on Alor Island, Indonesia](../explorer/?id=1466) (2017) | Rel: 1.0
 
 ### Education system reform and curriculum modernization
-*16 sources*
+*6 sources*
 
 - [Human development and decentralization: The importance of public health expenditure](../explorer/?id=1592) (2022) | Rel: 4.0
-- [LEARNER AUTONOMY IN THE INDONESIAN EFL SETTINGS](../explorer/?id=1653) (2017) | Rel: 3.0
+- [Learner Autonomy in the Indonesian EFL Settings](../explorer/?id=1653) (2017) | Rel: 3.0
 - [Neo-liberalism and the politics of higher education policy in Indonesia](../explorer/?id=1541) (2015) | Rel: 3.0
-- *...and 13 more* ([view all](../explorer/?case_study=Indonesia&category=Education%20system%20reform%20and%20curriculum%20modernization))
-
-### Media freedom and press institution building
-*1 sources*
-
-- [Essays On Corruption And Economic Development](../explorer/?id=1596) (2007) | Rel: 4.0
+- *...and 3 more* ([view all](../explorer/?case_study=Indonesia&category=Education%20system%20reform%20and%20curriculum%20modernization))
 
 ### Minority rights
-*123 sources*
+*13 sources*
 
 - [Corruption, institutions, and economic development](../explorer/?id=4964) (2009) | Rel: 5.0
 - [Democratic Decentralization of Natural Resources: Institutionalizing Popular Participation](../explorer/?id=4865) (2002) | Rel: 5.0
 - [Fields of the Lord: Animism, Christian Minorities, and State Development in Indonesia](../explorer/?id=4907) (2002) | Rel: 5.0
-- *...and 120 more* ([view all](../explorer/?case_study=Indonesia&category=Minority%20rights))
+- *...and 10 more* ([view all](../explorer/?case_study=Indonesia&category=Minority%20rights))
 
 ### Religious freedom and separation of religion from state
-*135 sources*
+*24 sources*
 
 - [The Corporate Governance Role of the Media](../explorer/?id=4846) (2002) | Rel: 4.0
 - [Water governance in the twentieth-first century](../explorer/?id=4729) (2007) | Rel: 4.0
 - [PARTY CARTELIZATION, INDONESIAN-STYLE: PRESIDENTIAL POWER-SHARING AND THE CONTINGENCY OF DEMOCRATIC OPPOSITION](../explorer/?id=4732) (2018) | Rel: 4.0
-- *...and 132 more* ([view all](../explorer/?case_study=Indonesia&category=Religious%20freedom%20and%20separation%20of%20religion%20from%20state))
+- *...and 21 more* ([view all](../explorer/?case_study=Indonesia&category=Religious%20freedom%20and%20separation%20of%20religion%20from%20state))
 
 ### Women's rights codification and gender equality
-*152 sources*
+*38 sources*
 
 - [Theorizing power in political ecology: the 'where' of power in resource governance projects](../explorer/?id=4984) (2018) | Rel: 5.0
 - [Love Jihad and the Governance of Gender and Intimacy in Hindu Nationalist Statecraft](../explorer/?id=5004) (2021) | Rel: 5.0
 - [Civic Engagement and Democracy in Post-Suharto Indonesia: A Review of Musrenbang, the Kecamatan Development Programme, and Labour Organising](../explorer/?id=4983) (2017) | Rel: 4.0
-- *...and 149 more* ([view all](../explorer/?case_study=Indonesia&category=Women%27s%20rights%20codification%20and%20gender%20equality))
+- *...and 35 more* ([view all](../explorer/?case_study=Indonesia&category=Women%27s%20rights%20codification%20and%20gender%20equality))

@@ -8,116 +8,111 @@
 
 | معیار | مقدار |
 |-------|-------|
-| کل منابع | 154 |
-| میانگین ارتباط | 2.2/5 |
-| ارتباط بالا (۴+) | 4 (2%) |
-| دسته‌بندی‌ها | 15 |
+| کل منابع | 245 |
+| میانگین ارتباط | 3.4/5 |
+| ارتباط بالا (۴+) | 72 (29%) |
+| دسته‌بندی‌ها | 13 |
 
 [مرور تمام منابع شیلی در کاوشگر](../explorer/?case_study=Chile)
 
 ## مقالات پژوهشی مرتبط
 
 - [Chile's 2022 Failure: Overreach and the Limits of Participatory Maximalism](../synthesis/constitutional-design-and-drafting-processes/chiles-2022-failure-overreach-and-the-limits-of-participatory-maximalism.md)
+- [Chile's Binomial System and Its Dismantling: Electoral Engineering as Democratic Deepening](../synthesis/electoral-system-design-and-implementation/chiles-binomial-system-and-its-dismantling-electoral-engineering-as-democratic-d.md)
 
-## سیاسی (99 منبع)
+## سیاسی (224 منبع)
 
 ### طراحی و تدوین قانون اساسی
-*1 منبع*
+*60 منبع*
 
-- [Diez puntos sobre el cambio constitucional en Chile](../explorer/?id=1409) (2021)
+- [Women in infrastructure](../explorer/?id=5136) (2021)
+- [Endogenous Participation](../explorer/?id=5145) (2017)
+- [Authoritarian International Law?](../explorer/?id=5148) (2020)
+- *...و 57 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Chile&category=Constitutional%20design%20and%20drafting%20processes))
 
 ### طراحی و اجرای نظام انتخاباتی
-*1 منبع*
+*101 منبع*
 
-- [Representation and Effectiveness in Latin American Democracies](../explorer/?id=1388) (2014)
+- [Protected Neoliberalism](../explorer/?id=5421) (2003)
+- [Religion, Sexuality Politics, and the Transformation of Latin American Electorates](../explorer/?id=5424) (2023)
+- [Voter Equalization and Turnout Bias After Electoral Reform: Evidence from Chile’s Voluntary Voting Law](../explorer/?id=5425) (2019)
+- *...و 98 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Chile&category=Electoral%20system%20design%20and%20implementation))
 
 ### استقلال قضایی و حاکمیت قانون
-*2 منبع*
+*4 منبع*
 
+- [Rethinking judicial empowerment: The new foundations of constitutional justice](../explorer/?id=5147) (2017)
+- [Judicial independence and human rights in Latin America: violations, politics, and prosecution](../explorer/?id=5202) (2011)
 - [Virtual Legality](../explorer/?id=1366) (2001)
-- [The Neglected Stepchild: Military Justice and Democratic Transition in Chile](../explorer/?id=1356) (2005)
+- *...و 1 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Chile&category=Judicial%20independence%20and%20rule%20of%20law))
 
 ### شکل‌گیری احزاب سیاسی و تکثرگرایی
-*3 منبع*
+*6 منبع*
 
 - [Shaping the Political Arena: Critical Junctures, the Labor Movement and Regime Dynamics in Latin America](../explorer/?id=1103) (1992)
-- [On the Tasks of a Democratic Opposition](../explorer/?id=1378) (1990)
-- [Tensions and Trade-Offs In Latin America](../explorer/?id=1385) (1997)
+- [Lessons from a Late Adopter: Feminist Advocacy, Democratizing Reforms, and Gender Quotas in Chile](../explorer/?id=5227) (2023)
+- [So What Difference Does it Make? Mapping the Outcomes of Citizen Engagement](../explorer/?id=5137) (2010)
+- *...و 3 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Chile&category=Political%20party%20formation%20and%20pluralism))
 
 ### عدالت انتقالی
-*92 منبع*
+*53 منبع*
 
 - [Tierra y derechos humanos en Chile: la contrarreforma agraria de la dictadura de Pinochet y las políticas de reparación campesina](../explorer/?id=1384) (2019)
 - [Social Norms and Economic Theory](../explorer/?id=1382) (1989)
 - [Truth Commissions and Transitional Societies](../explorer/?id=1358) (2010)
-- *...و 89 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Chile&category=Transitional%20justice))
+- *...و 50 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Chile&category=Transitional%20justice))
 
-## اقتصادی (33 منبع)
+## اقتصادی (15 منبع)
 
 ### اصلاح نظام بانکی و مالی
-*1 منبع*
+*2 منبع*
 
-- [[Analysis of the organ allocation system for liver transplantation in Chile].](../explorer/?id=1437) (2020)
+- [Sovereign Debt Structure for Crisis Prevention](../explorer/?id=5150) (2005)
+- [Results of Chilean water markets: Empirical research since 1990](../explorer/?id=5140) (2004)
 
 ### اصلاح بازار کار و شبکه‌های حمایت اجتماعی
-*21 منبع*
+*8 منبع*
 
-- [[Dependency in Chile. Advances and challenges].](../explorer/?id=1421) (2019)
-- [[General and infant mortality trends in Chile from 1909 to 2017].](../explorer/?id=1405) (2021)
-- [Telemedicina: desafíos para Chile a la luz de la experiencia de Estados Unidos durante la pandemia](../explorer/?id=1419) (2021)
-- *...و 18 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Chile&category=Labor%20market%20reform%20and%20social%20safety%20nets))
-
-### خصوصی‌سازی و بازسازی شرکت‌های دولتی
-*1 منبع*
-
-- [Business of the State](../explorer/?id=997) (2024)
+- [Human resources for health policies: a critical component in health policies](../explorer/?id=5134) (2003)
+- [Change and Continuity under an Eclectic Social Security Regime: The Case of Turkey](../explorer/?id=5178) (2011)
+- [La tutela de derechos fundamentales y el derecho del trabajo: De erizo a zorro](../explorer/?id=5215) (2007)
+- *...و 5 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Chile&category=Labor%20market%20reform%20and%20social%20safety%20nets))
 
 ### مدیریت نفرین منابع طبیعی
-*8 منبع*
+*3 منبع*
 
 - [The Natural Resource Curse: A Survey](../explorer/?id=1795) (2010)
 - [Petroleum and Political Pacts: The Transition to Democracy in Venezuela](../explorer/?id=1731) (1987)
-- [Sociocultural risks of resource extraction for the low-carbon energy transition: Evidence from the Global South](../explorer/?id=1374) (2024)
-- *...و 5 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Chile&category=Resource%20curse%20management))
-
-### رفع تحریم‌ها و بازادغام بین‌المللی
-*1 منبع*
-
-- [[Excess deaths due to the COVID-19 pandemic in Chile].](../explorer/?id=1426) (2021)
+- [An Introduction to Forest Governance, People and REDD+ in Latin America: Obstacles and Opportunities](../explorer/?id=5152) (2011)
 
 ### آزادسازی تجارت و سرمایه‌گذاری خارجی
-*1 منبع*
+*2 منبع*
 
+- [International Multilateral Negotiation: Approaches to the Management of Complexity](../explorer/?id=5138) (1994)
 - [Fostering Scaleup Ecosystems for Regional Economic Growth (<i>Innovations Case Narrative</i>: Manizales-Mas and Scale Up Milwaukee)](../explorer/?id=1461) (2016)
 
-## اجتماعی و فرهنگی (22 منبع)
+## اجتماعی و فرهنگی (6 منبع)
 
 ### توسعه جامعه مدنی
-*2 منبع*
+*1 منبع*
 
 - [Norm Internalization and U.S. Economic Sanctions](../explorer/?id=2061) (2001)
-- [Broken Lives?Reflections on the Anthropology of Exile and Repair](../explorer/?id=1503) (1999)
 
 ### حفظ میراث فرهنگی در دوره تحولات نهادی
-*12 منبع*
+*1 منبع*
 
-- [Destination Marketing Organizations and destination marketing: A narrative analysis of the literature](../explorer/?id=1459) (2013)
-- [Four billion years of ophiolites reveal secular trends in oceanic crust formation](../explorer/?id=1465) (2014)
-- [[Mental health and stress by acculturation in immigrants from South America in northern Chile].](../explorer/?id=1423) (2016)
-- *...و 9 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Chile&category=Cultural%20heritage%20preservation%20during%20institutional%20change))
+- [Who Is Indigenous? Self-Identification, Indigeneity, And Claims To Justice In Contemporary Bolivia](../explorer/?id=5151) (2017)
 
 ### اصلاح نظام آموزشی و نوسازی برنامه درسی
-*6 منبع*
+*3 منبع*
 
+- [Geographic Imbalances in Doctor Supply and Policy Responses](../explorer/?id=5132) (2014)
 - [From Bantu Education to the Fight for Socially Just Education](../explorer/?id=1383) (2013)
-- [[The general self-efficacy scale (GSES): Reevaluation of its reliability and validity evidence in Chile].](../explorer/?id=1397) (2020)
-- [[Effects of the COVID-19 confinement on mental health among higher education students in Chile].](../explorer/?id=1424) (2021)
-- *...و 3 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Chile&category=Education%20system%20reform%20and%20curriculum%20modernization))
+- [Andrés Bello: Scholarship and Nation-Building in Nineteenth-Century Latin America](../explorer/?id=5194) (2002)
 
 ### تدوین حقوق زنان و برابری جنسیتی
-*2 منبع*
+*1 منبع*
 
-- [[Socioeconomic determinants and gender gaps in depressive symptoms in Chile].](../explorer/?id=1410) (2021)
-- [Gendering Trauma: Ariel Dorfman's Narratives of Crisis and Reconciliation](../explorer/?id=1496) (2007)
+- [Feminist Agendas and Democracy in Latin America](../explorer/?id=5212) (2009)
 
 </div>

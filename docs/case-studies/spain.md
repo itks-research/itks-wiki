@@ -6,12 +6,12 @@ The consenso model of democratic transition (1975–1982) offers lessons on incl
 
 | Metric | Value |
 |--------|-------|
-| Total Sources | 340 |
-| Avg Relevance | 2.9/5 |
-| High Relevance (4+) | 105 (30%) |
-| Avg Citations | 280 |
-| Most Cited | 6,903 |
-| Categories | 22 |
+| Total Sources | 217 |
+| Avg Relevance | 3.4/5 |
+| High Relevance (4+) | 86 (39%) |
+| Avg Citations | 172 |
+| Most Cited | 4,183 |
+| Categories | 20 |
 
 [Browse all Spain sources in Explorer](../explorer/?case_study=Spain)
 
@@ -19,33 +19,34 @@ The consenso model of democratic transition (1975–1982) offers lessons on incl
 
 - [Crisis as Reform Catalyst: Spain's 23-F and Lessons for Iran](../synthesis/civil-military-relations-and-security-sector-reform/crisis-as-reform-catalyst-spains-23-f-and-lessons-for-iran.md)
 - [Spain's Consenso Model: Inclusive Drafting and the Price of Ambiguity](../synthesis/constitutional-design-and-drafting-processes/spains-consenso-model-inclusive-drafting-and-the-price-of-ambiguity.md)
+- [The Estado de las Autonomías: Spain's Asymmetric Federalism and Iran's Ethnic Geography](../synthesis/constitutional-design-and-drafting-processes/the-estado-de-las-autonomías-spains-asymmetric-federalism-and-irans-ethnic-geogr.md)
+- [Labor Market Dualism and Social Protection: South Korea, Spain, and Iran's Informal Economy](../synthesis/labor-market-reform-and-social-safety-nets/labor-market-dualism-and-social-protection-south-korea-spain-and-irans-informal-.md)
 - [Amnesty vs. Accountability: Spain's Forty-Year Lesson](../synthesis/transitional-justice/amnesty-vs-accountability-spains-forty-year-lesson.md)
 
-## Political (254 sources)
+## Political (181 sources)
 
 ### Civil-military relations and security sector reform
-*40 sources*
+*22 sources*
 
 - [Armed Forces and Democracy: Reforming Civil-Military Relations](../explorer/?id=367) (1995) | Rel: 4.0
 - [The Military Transition: Democratic Reform of the Armed Forces](../explorer/?id=1124) (2005) | Rel: 4.0
 - [Energy Policies Beyond IEA Countries: Morocco 2014](../explorer/?id=1176) (2014) | Rel: 4.0
-- *...and 37 more* ([view all](../explorer/?case_study=Spain&category=Civil-military%20relations%20and%20security%20sector%20reform))
+- *...and 19 more* ([view all](../explorer/?case_study=Spain&category=Civil-military%20relations%20and%20security%20sector%20reform))
 
 ### Constitutional design and drafting processes
-*109 sources*
+*88 sources*
 
 - [Does the Process of Constitution-Making Matter?](../explorer/?id=316) (2009) | Rel: 4.0
 - [The struggle for constitutional power: law, politics, and economic development in Egypt](../explorer/?id=320) (2008) | Rel: 4.0
 - [Post Sovereign Constitution Making](../explorer/?id=391) (2016) | Rel: 4.0
-- *...and 106 more* ([view all](../explorer/?case_study=Spain&category=Constitutional%20design%20and%20drafting%20processes))
+- *...and 85 more* ([view all](../explorer/?case_study=Spain&category=Constitutional%20design%20and%20drafting%20processes))
 
 ### Electoral system design and implementation
-*7 sources*
+*3 sources*
 
 - [The 2011 General Election in Spain: The Collapse of the Socialist Party](../explorer/?id=421) (2012) | Rel: 4.0
 - [Democracy at the Point of Bayonets](../explorer/?id=1148) (2015) | Rel: 4.0
 - [Algeria's pseudo-democratic politics: Lessons for democratization in the Middle East](../explorer/?id=460) (2006) | Rel: 4.0
-- *...and 4 more* ([view all](../explorer/?case_study=Spain&category=Electoral%20system%20design%20and%20implementation))
 
 ### Federalism, unitarism, and autonomy models
 *4 sources*
@@ -56,20 +57,19 @@ The consenso model of democratic transition (1975–1982) offers lessons on incl
 - *...and 1 more* ([view all](../explorer/?case_study=Spain&category=Federalism%2C%20unitarism%2C%20and%20autonomy%20models))
 
 ### Judicial independence and rule of law
-*8 sources*
+*3 sources*
 
 - [Democratic Consolidation, Judicial Reform, and the Judicialization of Politics in Southern Europe](../explorer/?id=411) (2006) | Rel: 4.0
 - [Human Dignity and Judicial Interpretation of Human Rights](../explorer/?id=375) (2008) | Rel: 3.0
 - [Judicial Activism in a Violent Context: The Origin, Role, and Impact of the Colombian Constitutional Court](../explorer/?id=347) (2004) | Rel: 3.0
-- *...and 5 more* ([view all](../explorer/?case_study=Spain&category=Judicial%20independence%20and%20rule%20of%20law))
 
 ### Political party formation and pluralism
-*17 sources*
+*15 sources*
 
 - [Problem Solving Effectiveness and Democratic Accountability in the EU](../explorer/?id=325) (2003) | Rel: 4.0
 - [Populist Democracies: Post-Authoritarian Greece and Post-Communist Hungary](../explorer/?id=322) (2013) | Rel: 4.0
 - [Authoritarian persistence, democratization theory and the Middle East: An overview and critique](../explorer/?id=1120) (2006) | Rel: 4.0
-- *...and 14 more* ([view all](../explorer/?case_study=Spain&category=Political%20party%20formation%20and%20pluralism))
+- *...and 12 more* ([view all](../explorer/?case_study=Spain&category=Political%20party%20formation%20and%20pluralism))
 
 ### Power-sharing mechanisms during transition periods
 *2 sources*
@@ -78,72 +78,63 @@ The consenso model of democratic transition (1975–1982) offers lessons on incl
 - [Policy mixes for sustainability transitions: An extended concept and framework for analysis](../explorer/?id=1185) (2016) | Rel: 3.0
 
 ### Transitional justice
-*67 sources*
+*44 sources*
 
 - [Constructing the truth, dealing with dissent, domesticating the world: Governance in post-genocide Rwanda](../explorer/?id=324) (2010) | Rel: 4.0
 - [Guatemala after the peace accords](../explorer/?id=495) (1998) | Rel: 4.0
 - [Justice, Politics, and Memory in the Spanish Transition](../explorer/?id=425) (2001) | Rel: 4.0
-- *...and 64 more* ([view all](../explorer/?case_study=Spain&category=Transitional%20justice))
+- *...and 41 more* ([view all](../explorer/?case_study=Spain&category=Transitional%20justice))
 
-## Economic (33 sources)
+## Economic (19 sources)
 
 ### Banking and financial system reform
-*6 sources*
+*5 sources*
 
 - [Fiscal reform in Spain : accomplishments and challenges](../explorer/?id=1164) (2007) | Rel: 4.0
 - [New Evidence and Perspectives on Mergers](../explorer/?id=1177) (2001) | Rel: 3.0
 - [Credit Supply and Monetary Policy: Identifying the Bank Balance-Sheet Channel with Loan Applications](../explorer/?id=1183) (2012) | Rel: 3.0
-- *...and 3 more* ([view all](../explorer/?case_study=Spain&category=Banking%20and%20financial%20system%20reform))
+- *...and 2 more* ([view all](../explorer/?case_study=Spain&category=Banking%20and%20financial%20system%20reform))
 
 ### Labor market reform and social safety nets
-*16 sources*
+*9 sources*
 
 - [The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade](../explorer/?id=1175) (2016) | Rel: 4.0
 - [The China Syndrome: Local Labor Market Effects of Import Competition in the United States](../explorer/?id=1167) (2013) | Rel: 3.0
 - [Socioeconomic Inequalities in Health in 22 European Countries](../explorer/?id=1151) (2008) | Rel: 3.0
-- *...and 13 more* ([view all](../explorer/?case_study=Spain&category=Labor%20market%20reform%20and%20social%20safety%20nets))
+- *...and 6 more* ([view all](../explorer/?case_study=Spain&category=Labor%20market%20reform%20and%20social%20safety%20nets))
 
 ### Resource curse management
-*4 sources*
+*1 sources*
 
-- [RETRACTED: Legal responses to energy security and sustainability in Nigeria's power sector amidst fossil fuel disruptions and low carbon energy transition](../explorer/?id=1162) (2023) | Rel: 4.0
 - [Re-thinking Water and Food Security](../explorer/?id=1171) (2010) | Rel: 3.0
-- [A global perspective on domestic energy deprivation: Overcoming the energy poverty–fuel poverty binary](../explorer/?id=455) (2015) | Rel: 2.0
-- *...and 1 more* ([view all](../explorer/?case_study=Spain&category=Resource%20curse%20management))
 
 ### Trade liberalization and foreign direct investment
-*7 sources*
+*4 sources*
 
 - [Integrating the Unofficial Economy into the Dynamics of Post-Socialist Economies: A Framework of Analysis and Evidence](../explorer/?id=1169) (1996) | Rel: 4.0
 - [Trade Unions in Western Europe since 1945](../explorer/?id=1109) (2000) | Rel: 3.0
 - [Revenge of the Optimum Currency Area](../explorer/?id=1179) (2013) | Rel: 3.0
-- *...and 4 more* ([view all](../explorer/?case_study=Spain&category=Trade%20liberalization%20and%20foreign%20direct%20investment))
+- *...and 1 more* ([view all](../explorer/?case_study=Spain&category=Trade%20liberalization%20and%20foreign%20direct%20investment))
 
-## Social & Cultural (51 sources)
+## Social & Cultural (17 sources)
 
 ### Civil society development
-*4 sources*
+*1 sources*
 
 - [Diffusion Across Political Systems: The Global Spread of National Human Rights Institutions](../explorer/?id=344) (2010) | Rel: 3.0
-- [The evolution of marriage in Spain from the francoist dictatorship to the present day](../explorer/?id=296) (2024) | Rel: 3.0
-- [Indigenous Data Sovereignty](../explorer/?id=343) (2016) | Rel: 2.0
-- *...and 1 more* ([view all](../explorer/?case_study=Spain&category=Civil%20society%20development))
 
 ### Cultural heritage preservation during institutional change
-*24 sources*
+*1 sources*
 
 - [A history of Latin America](../explorer/?id=1132) (1988) | Rel: 3.0
-- [Decolonization is not a metaphor](../explorer/?id=438) (2012) | Rel: 2.0
-- [Measuring vulnerability to natural hazards: towards disaster resilient societies](../explorer/?id=1106) (2007) | Rel: 2.0
-- *...and 21 more* ([view all](../explorer/?case_study=Spain&category=Cultural%20heritage%20preservation%20during%20institutional%20change))
 
 ### Education system reform and curriculum modernization
-*13 sources*
+*5 sources*
 
 - [The Two Faces of Education in Ethnic Conflict : Towards a Peacebuilding Education for Children](../explorer/?id=1104) (2000) | Rel: 3.0
 - [The Privatization of Education: A Political Economy of Global Education Reform](../explorer/?id=1125) (2017) | Rel: 3.0
 - [Seasons of Resistance: Sustainable Agriculture and Food Security in Cuba](../explorer/?id=1173) (2003) | Rel: 3.0
-- *...and 10 more* ([view all](../explorer/?case_study=Spain&category=Education%20system%20reform%20and%20curriculum%20modernization))
+- *...and 2 more* ([view all](../explorer/?case_study=Spain&category=Education%20system%20reform%20and%20curriculum%20modernization))
 
 ### Language policy
 *1 sources*
@@ -173,15 +164,3 @@ The consenso model of democratic transition (1975–1982) offers lessons on incl
 
 - [Institutionalising Gender Equality in Spain: From Party Quotas to Electoral Gender Quotas](../explorer/?id=392) (2012) | Rel: 3.0
 - [Liberalism and Married Women’s Property Rights in Nineteenth-Century Latin America](../explorer/?id=368) (2005) | Rel: 3.0
-
-## Iran-Specific (2 sources)
-
-### Internet and digital infrastructure as civic space
-*1 sources*
-
-- [Defining digital transformation: Results from expert interviews](../explorer/?id=525) (2019) | Rel: 2.0
-
-### Regional foreign policy reorientation
-*1 sources*
-
-- [Localización de la actividad manufacturera en Castilla y León. Los dinamismos espaciales inducidos por la industria](../explorer/?id=491) (2005) | Rel: 1.0
