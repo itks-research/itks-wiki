@@ -1,3 +1,9 @@
+---
+tags:
+  - Political
+  - Civil-military relations and security sector reform
+---
+
 <p class="breadcrumb"><a href="../index.md">Home</a> > <a href="index.md">Research Findings</a></p>
 
 # Civil-Military Relations and Security Sector Reform

@@ -1,3 +1,11 @@
+---
+tags:
+  - Political
+  - Civil-military relations and security sector reform
+  - Iran
+  - Spain
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Civil-military relations and security sector reform</a></p>
 
 # Crisis as Reform Catalyst: Spain's 23-F and Lessons for Iran

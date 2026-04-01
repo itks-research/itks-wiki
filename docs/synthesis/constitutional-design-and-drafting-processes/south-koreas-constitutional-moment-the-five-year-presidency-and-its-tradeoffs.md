@@ -1,3 +1,10 @@
+---
+tags:
+  - Political
+  - Constitutional design and drafting processes
+  - South Korea
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Constitutional design and drafting processes</a></p>
 
 # South Korea's Constitutional Moment: The Five-Year Presidency and Its Tradeoffs

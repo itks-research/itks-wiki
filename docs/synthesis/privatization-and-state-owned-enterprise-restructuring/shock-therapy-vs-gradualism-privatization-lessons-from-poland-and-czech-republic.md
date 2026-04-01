@@ -1,3 +1,11 @@
+---
+tags:
+  - Economic
+  - Privatization and state-owned enterprise restructuring
+  - Poland
+  - Czech Republic
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Privatization and state-owned enterprise restructuring</a></p>
 
 # Shock Therapy vs. Gradualism: Privatization Lessons from Poland and Czech Republic
@@ -43,3 +51,7 @@ Article 44 of Iran's constitution already mandates a mixed economy with state, c
 - [New Private Enterprises in Three Transitional Contexts: Central Europe, the Former Soviet Union and China](../explorer/?id=4279)
 - [Tax In History: Polish Tax System In Transition To Democracy And Market Economy](../explorer/?id=4255)
 - [Institutions, resources, and entry strategies in emerging economies](../explorer/?id=1054)
+
+## Related Articles
+
+- [Employee Buyouts and Mass Privatization: Poland's Ownership Transformation and Iran's SOE Challenge](employee-buyouts-and-mass-privatization-polands-ownership-transformation-and-ira.md)

@@ -1,3 +1,11 @@
+---
+tags:
+  - Social & Cultural
+  - Minority rights
+  - Iran
+  - Indonesia
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Minority rights</a></p>
 
 # Minority Rights and Religious Pluralism: Indonesia's Ethnic Violence, Iran's Constitutional Promises

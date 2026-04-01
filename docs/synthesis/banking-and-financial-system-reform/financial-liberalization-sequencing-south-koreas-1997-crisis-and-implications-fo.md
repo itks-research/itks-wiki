@@ -1,3 +1,11 @@
+---
+tags:
+  - Economic
+  - Banking and financial system reform
+  - Iran
+  - South Korea
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Banking and financial system reform</a></p>
 
 # Financial Liberalization Sequencing: South Korea's 1997 Crisis and Implications for Iran's Banking Overhaul

@@ -14,4 +14,40 @@ Iran's حقوق اقلیت‌ها architecture reveals the disjuncture between c
 
 How can constitutional حمایت از اقلیت‌هاs become enforceable within systems lacking independent judiciaries and competitive electoral processes? Does the absence of constitutional recognition for ethno-linguistic minority autonomy in Iran (versus Indonesia's تمرکززدایی) reflect طراحی نهادی failure or deliberate subordination of majority-minorities to majoritarian nationalism? What explains the divergent post-conflict trajectories in Indonesia (declining violence 2005-present) versus Iran's persistent minority suppression—is it institutional maturation, international pressure, leadership commitment, or exhaustion of communal violence as a political strategy?
 
+SOURCES USED
+
+1. Constitutional Rights and Liberties in the Islamic Republic
+   Authors: ["Vahid Nick Pay"]
+   Year: 2017 | Relevance: 5.0 | Reliability: 4.9
+
+2. Corruption, institutions, and economic development
+   Authors: ["Toke Aidt"]
+   Year: 2009 | Relevance: 5.0 | Reliability: 4.7
+
+3. Fields of the Lord: Animism, Christian Minorities, and State Development in Indonesia
+   Authors: ["Joshua Barker", "Lorraine V. Aragon"]
+   Year: 2002 | Relevance: 5.0 | Reliability: 4.6
+
+4. Iran’s Peculiar Election: Chinese Dreams, Persian Realities
+   Authors: ["Michael McFaul"]
+   Year: 2005 | Relevance: 5.0 | Reliability: 4.0
+
+5. Governance and the Capacity to Manage Resilience in Regional Social-Ecological Systems
+   Authors: ["Louis Lebel", "John M. Anderies", "Bruce Campbell", "Carl Folke", "Steve Hatfield\u2013Dodds", "Terry P. Hughes", "James A. Wilson"]
+   Year: 2006 | Relevance: 4.0 | Reliability: 5.0
+
+6. Mandatory use of only Persian in Iranian schools
+   Authors: ["Abdullah Azizi", "Nematollah Azizi", "David Romano", "Seyedeh Asra Sajadi", "Ali Amini Bagh"]
+   Year: 2024 | Relevance: 4.0 | Reliability: 5.0
+
+7. The Arab Spring and the Challenge of Minority Rights: Will the Arab Revolutions Overcome the Legacy of the Past?
+   Authors: ["Fatima El Issawi"]
+   Year: 2011 | Relevance: 4.0 | Reliability: 4.6
+
+8. Reformasi, Religious Diversity, and Islamic Radicalism after Suharto
+   Authors: ["Noorhaidi Hasan"]
+   Year: 2018 | Relevance: 4.0 | Reliability: 4.6
+
+
+
 </div>

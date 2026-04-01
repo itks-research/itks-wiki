@@ -1,3 +1,10 @@
+---
+tags:
+  - Political
+  - Electoral system design and implementation
+  - Chile
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Electoral system design and implementation</a></p>
 
 # Chile's Binomial System and Its Dismantling: Electoral Engineering as Democratic Deepening

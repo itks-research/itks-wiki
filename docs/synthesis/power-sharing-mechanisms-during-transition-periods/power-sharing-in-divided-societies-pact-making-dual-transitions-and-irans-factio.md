@@ -1,3 +1,10 @@
+---
+tags:
+  - Political
+  - Power-sharing mechanisms during transition periods
+  - Iran
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Power-sharing mechanisms during transition periods</a></p>
 
 # Power-Sharing in Divided Societies: Pact-Making, Dual Transitions, and Iran's Factional Landscape

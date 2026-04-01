@@ -34,4 +34,17 @@ Addressing Iran's labor informality and حمایت اجتماعی deficits requi
 
 3. **Trade Exposure and Informality Expansion**: Why do trade shocks consistently correlate with informality increases even in high-regulation contexts (Spain) while decentralized wage-setting correlates with informality in middle-income economies (Indonesia)? Are there threshold effects in بازار کار institutions beyond which trade exposure drives informalization regardless of regulatory design?
 
+
+| # | عنوان | نویسندگان | سال | مطالعه موردی | ارتباط | اعتبار |
+|---|-------|---------|------|------------|-----------|-------------|
+| 1 | Understanding the impacts of NPM and proposed solutions to the healthcare system reforms in Indonesia: the case of BPJS | Erniaty, Harun | 2019 | Indonesia | 4.0 | 4.9 |
+| 2 | Globalization and Labour Market Reform: Patterns of Response in Northeast Asia | Kong, T.Y. | 2006 | South Korea | 4.0 | 4.88 |
+| 3 | Why was the Arab World Poised for Revolution? Schooling, Economic Opportunities, and the Arab Spring | Campante, F.; Chor, D. | 2012 | Iran | 4.0 | 4.69 |
+| 4 | The revenge of the places that don't matter (and what to do about it) | Rodríguez-Pose, A. | 2017 | Poland | 4.0 | 4.65 |
+| 5 | How Does Decentralized Minimum Wage Setting Affect Employment and Informality? The Case of Indonesia | Comola, M.; De Mello, L. | 2011 | Indonesia | 4.0 | 4.62 |
+| 6 | The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade | Autor, D.; Dorn, D.; Hanson, G. | 2016 | Spain | 4.0 | 4.61 |
+| 7 | Policy Lessons of the East Asian Demographic Transition | McNicoll, G. | 2006 | South Korea | 4.0 | 4.58 |
+| 8 | Women's Work and Economic Development | Mammen, K.; Paxson, C. | 2000 | South Korea | 4.0 | 4.49 |
+
+
 </div>

@@ -1,3 +1,10 @@
+---
+tags:
+  - Economic
+  - Resource curse management
+  - Iran
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Resource curse management</a></p>
 
 # The Oil Trap: Resource Curse Dynamics and Iran's NIOC Challenge

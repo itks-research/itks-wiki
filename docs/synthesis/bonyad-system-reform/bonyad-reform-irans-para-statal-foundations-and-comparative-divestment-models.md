@@ -1,3 +1,10 @@
+---
+tags:
+  - Iran-Specific
+  - Bonyad system reform
+  - Iran
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Bonyad system reform</a></p>
 
 # Bonyad Reform: Iran's Para-Statal Foundations and Comparative Divestment Models

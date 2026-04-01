@@ -1,3 +1,11 @@
+---
+tags:
+  - Social & Cultural
+  - Education system reform and curriculum modernization
+  - Iran
+  - South Korea
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Education system reform and curriculum modernization</a></p>
 
 # Curriculum as Battleground: Education Reform in South Korea and Iran
@@ -47,3 +55,7 @@ The diaspora dimension adds opportunity: tens of thousands of Iranian educators 
 - [Exploring Cultural Schemas in Foreign Language Education Policy (FLEP) Documents of Iran](../explorer/?id=3743)
 - [Investing in Human Capital for a Resilient Recovery](../explorer/?id=1828)
 - [Human development and decentralization: The importance of public health expenditure](../explorer/?id=1592)
+
+## Related Articles
+
+- [De-Ideologizing the Classroom: Iran's Islamized Curriculum and Comparative De-Indoctrination](de-ideologizing-the-classroom-irans-islamized-curriculum-and-comparative-de-indo.md)

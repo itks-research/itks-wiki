@@ -24,4 +24,14 @@ The secondary but critical problem involves سپاه پاسداران انقلا
 
 3. **Sanctions Legacy and Information Asymmetry**: Given decades of sanctions-driven financial isolation, what mechanisms could establish baseline شفافیت and risk assessment in Iranian banking before international capital exposure? Most South Korean and Czech liberalization occurred from positions of relative information شفافیت.
 
+| نویسنده(گان) | سال | عنوان | ارتباط | اعتبار |
+|-----------|------|-------|-----------|-------------|
+| ["Maurice Obstfeld"] | 1998 | The Global Capital Market: Benefactor or Menace? | 4.0 | 4.5 |
+| ["Mariassunta Giannetti", "Steven Ongena | 2007 | Financial Integration and Firm Performance: Eviden | 4.0 | 4.7 |
+| ["Erik Bergl\u00f6f", "Patrick Bolton"] | 2002 | The Great Divide and Beyond: Financial Architectur | 4.0 | 4.6 |
+| ["Elizabeth Thurbon"] | 2016 | Developmental Mindset: The Revival of Financial Ac | 4.0 | 3.4 |
+| ["Eduardo Borensztein", "Olivier Jeanne" | 2005 | Sovereign Debt Structure for Crisis Prevention | 4.0 | 4.3 |
+| [] | 1997 | Capital ungoverned: liberalizing finance in interv | 4.0 | 4.1 |
+
+
 </div>

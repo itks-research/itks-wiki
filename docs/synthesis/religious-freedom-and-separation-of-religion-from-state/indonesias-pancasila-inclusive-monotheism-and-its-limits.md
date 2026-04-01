@@ -1,3 +1,10 @@
+---
+tags:
+  - Social & Cultural
+  - Religious freedom and separation of religion from state
+  - Indonesia
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Religious freedom and separation of religion from state</a></p>
 
 # Indonesia's Pancasila: Inclusive Monotheism and Its Limits

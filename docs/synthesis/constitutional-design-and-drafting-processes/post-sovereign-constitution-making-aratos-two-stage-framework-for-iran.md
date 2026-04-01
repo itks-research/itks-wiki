@@ -1,3 +1,10 @@
+---
+tags:
+  - Political
+  - Constitutional design and drafting processes
+  - Iran
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Constitutional design and drafting processes</a></p>
 
 # Post-Sovereign Constitution-Making: Arato's Two-Stage Framework for Iran

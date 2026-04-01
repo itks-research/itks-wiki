@@ -1,3 +1,10 @@
+---
+tags:
+  - Political
+  - Political party formation and pluralism
+  - Iran
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Political party formation and pluralism</a></p>
 
 # Iran's Factional System: Pluralism Without Parties

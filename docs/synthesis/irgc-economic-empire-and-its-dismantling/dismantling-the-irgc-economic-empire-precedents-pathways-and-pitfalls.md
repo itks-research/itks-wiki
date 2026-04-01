@@ -1,3 +1,10 @@
+---
+tags:
+  - Iran-Specific
+  - IRGC economic empire and its dismantling
+  - Iran
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">IRGC economic empire and its dismantling</a></p>
 
 # Dismantling the IRGC Economic Empire: Precedents, Pathways, and Pitfalls

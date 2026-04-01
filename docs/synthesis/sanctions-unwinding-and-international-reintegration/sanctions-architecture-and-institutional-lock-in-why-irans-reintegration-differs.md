@@ -1,3 +1,10 @@
+---
+tags:
+  - Economic
+  - Sanctions unwinding and international reintegration
+  - Iran
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Sanctions unwinding and international reintegration</a></p>
 
 # Sanctions Architecture and Institutional Lock-In: Why Iran's Reintegration Differs from Every Precedent

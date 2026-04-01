@@ -1,3 +1,9 @@
+---
+tags:
+  - Political
+  - Constitutional design and drafting processes
+---
+
 <p class="breadcrumb"><a href="../index.md">Home</a> > <a href="index.md">Research Findings</a></p>
 
 # Constitutional Design and Drafting Processes

@@ -1,3 +1,9 @@
+---
+tags:
+  - Political
+  - Constitutional design and drafting processes
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Constitutional design and drafting processes</a></p>
 
 # The Empirics of Constitutional Longevity

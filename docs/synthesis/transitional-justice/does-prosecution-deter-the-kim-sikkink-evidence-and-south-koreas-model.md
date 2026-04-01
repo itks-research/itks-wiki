@@ -1,3 +1,10 @@
+---
+tags:
+  - Political
+  - Transitional justice
+  - South Korea
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Transitional justice</a></p>
 
 # Does Prosecution Deter? The Kim-Sikkink Evidence and South Korea's Model

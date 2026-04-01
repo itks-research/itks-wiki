@@ -1,3 +1,10 @@
+---
+tags:
+  - Political
+  - Transitional justice
+  - Tunisia
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Transitional justice</a></p>
 
 # Islamic Transitional Justice: Tunisia, Morocco, and the Legitimacy Question

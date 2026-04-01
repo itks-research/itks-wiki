@@ -1,3 +1,9 @@
+---
+tags:
+  - Political
+  - Transitional justice
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Transitional justice</a></p>
 
 # Diaspora Documentation and the Digital Evidence Revolution

@@ -1,3 +1,9 @@
+---
+tags:
+  - Political
+  - Civil-military relations and security sector reform
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Civil-military relations and security sector reform</a></p>
 
 # Coup-Proofing and Parallel Security Structures

@@ -1,3 +1,11 @@
+---
+tags:
+  - Economic
+  - Privatization and state-owned enterprise restructuring
+  - Iran
+  - Poland
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Privatization and state-owned enterprise restructuring</a></p>
 
 # Employee Buyouts and Mass Privatization: Poland's Ownership Transformation and Iran's SOE Challenge

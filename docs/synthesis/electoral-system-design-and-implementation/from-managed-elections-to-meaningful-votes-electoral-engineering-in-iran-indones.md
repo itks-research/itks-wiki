@@ -1,3 +1,12 @@
+---
+tags:
+  - Political
+  - Electoral system design and implementation
+  - Iran
+  - Indonesia
+  - Chile
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Electoral system design and implementation</a></p>
 
 # From Managed Elections to Meaningful Votes: Electoral Engineering in Iran, Indonesia, and Chile

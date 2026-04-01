@@ -1,3 +1,10 @@
+---
+tags:
+  - Political
+  - Constitutional design and drafting processes
+  - Chile
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Constitutional design and drafting processes</a></p>
 
 # Chile's 2022 Failure: Overreach and the Limits of Participatory Maximalism

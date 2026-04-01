@@ -1,3 +1,10 @@
+---
+tags:
+  - Social & Cultural
+  - Religious freedom and separation of religion from state
+  - Iran
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Religious freedom and separation of religion from state</a></p>
 
 # Velayat-e Faqih: Iran's Unique Institutional Architecture

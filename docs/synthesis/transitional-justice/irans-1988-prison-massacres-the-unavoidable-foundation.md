@@ -1,3 +1,10 @@
+---
+tags:
+  - Political
+  - Transitional justice
+  - Iran
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Transitional justice</a></p>
 
 # Iran's 1988 Prison Massacres: The Unavoidable Foundation

@@ -1,3 +1,9 @@
+---
+tags:
+  - Social & Cultural
+  - Religious freedom and separation of religion from state
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Religious freedom and separation of religion from state</a></p>
 
 # Turkey's Diyanet Model: State Control vs. Separation

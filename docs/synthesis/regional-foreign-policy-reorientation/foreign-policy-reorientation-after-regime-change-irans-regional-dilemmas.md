@@ -1,3 +1,10 @@
+---
+tags:
+  - Iran-Specific
+  - Regional foreign policy reorientation
+  - Iran
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Regional foreign policy reorientation</a></p>
 
 # Foreign Policy Reorientation After Regime Change: Iran's Regional Dilemmas

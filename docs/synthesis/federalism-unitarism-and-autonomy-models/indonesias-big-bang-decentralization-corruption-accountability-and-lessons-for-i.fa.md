@@ -26,4 +26,16 @@ For Iran's multi-ethnic regions, Indonesia's experience carries both cautionary 
 5. **Ethnic فدرالیسم design**: Does explicitly ethnic فدرالیسم (as opposed to non-ethnic regional units) increase or decrease فساد and پاسخگویی? What safeguards prevent ethnic فدرالیسم from enabling regional elite capture?
 
 
+| شناسه | عنوان | نویسنده(گان) | سال | مطالعه موردی | ارتباط |
+|---|---|---|---|---|---|
+| 4722 | Fiscal Decentralization Dilemma in Indonesia: Betw... | ["A. Fatoni"] | 2020 | Indonesia | 5.0 |
+| 4717 | Fiscal Decentralization, Accountability and Corrup... | ["Newin Ananta Aji Saputra", "D. Setiawan"] | 2021 | Indonesia | 5.0 |
+| 4691 | Why Democratization and Decentralization in Indone... | ["A. R. Hidayat", "Otto Hospes", "C. Termeer"] | 2025 | Indonesia | 5.0 |
+| 4698 | Fiscal Decentralization and Corruption: The Facts ... | ["A. Syarif"] | 2023 | Indonesia | 5.0 |
+| 4710 | Fiscal decentralization and corruption: a case of ... | ["Matondang Elsa Siburian"] | 2022 | Indonesia | 5.0 |
+| 4701 | Democratizing corruption: a role structure analysi... | ["M. Silitonga", "R. Wittek", "T. Snijders", "L. H... | 2023 | Indonesia | 5.0 |
+| 4714 | The Impact of Indonesia’s Decentralization Reforms... | ["S. Negara", "Francis E. Hutchinson"] | 2022 | Indonesia | 5.0 |
+| 4677 | BJ Habibie's Transformational Leadership in Indone... | ["Rahmi Septia Frisye", "Hasnah Faizah"] | 2025 | Indonesia | 5.0 |
+
+
 </div>

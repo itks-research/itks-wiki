@@ -1,3 +1,10 @@
+---
+tags:
+  - Political
+  - Judicial independence and rule of law
+  - Poland
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Judicial independence and rule of law</a></p>
 
 # Poland's Rule-of-Law Crisis: Judicial Capture and Democratic Backsliding

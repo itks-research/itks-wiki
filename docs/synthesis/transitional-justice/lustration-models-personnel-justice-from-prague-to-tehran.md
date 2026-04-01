@@ -1,3 +1,10 @@
+---
+tags:
+  - Political
+  - Transitional justice
+  - Czech Republic
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Transitional justice</a></p>
 
 # Lustration Models: Personnel Justice from Prague to Tehran

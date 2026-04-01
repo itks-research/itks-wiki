@@ -1,3 +1,10 @@
+---
+tags:
+  - Political
+  - Transitional justice
+  - Spain
+---
+
 <p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Transitional justice</a></p>
 
 # Amnesty vs. Accountability: Spain's Forty-Year Lesson

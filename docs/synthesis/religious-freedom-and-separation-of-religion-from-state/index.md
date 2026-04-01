@@ -1,3 +1,9 @@
+---
+tags:
+  - Social & Cultural
+  - Religious freedom and separation of religion from state
+---
+
 <p class="breadcrumb"><a href="../index.md">Home</a> > <a href="index.md">Research Findings</a></p>
 
 # Religious Freedom and Separation of Religion from State

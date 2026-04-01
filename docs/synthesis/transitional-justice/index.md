@@ -1,3 +1,9 @@
+---
+tags:
+  - Political
+  - Transitional justice
+---
+
 <p class="breadcrumb"><a href="../index.md">Home</a> > <a href="index.md">Research Findings</a></p>
 
 # Transitional Justice: Accountability, Memory, and Institutional Design
