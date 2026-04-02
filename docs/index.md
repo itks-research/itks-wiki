@@ -2,7 +2,7 @@
 
 An autonomous research system mapping development pathways relevant to Iran's future governance. Every claim traces back to a verifiable source.
 
-**2,892** sources · **5,916** relationships · **8** case studies · **31** research themes
+**3,223** sources · **6,066** relationships · **8** case studies · **40** research themes
 
 ---
 
@@ -14,7 +14,7 @@ An autonomous research system mapping development pathways relevant to Iran's fu
 
 **[Research Findings](synthesis/index.md)**
 
-17 synthesis articles across 31 themes
+28 synthesis articles across 40 themes
 
 </div>
 
@@ -30,7 +30,7 @@ An autonomous research system mapping development pathways relevant to Iran's fu
 
 **[Source Explorer](explorer.md)**
 
-Search & filter all 2,892 sources
+Search & filter all 3,223 sources
 
 </div>
 
@@ -46,18 +46,18 @@ Interactive relationship visualization
 
 ## Latest Research
 
+- [The Hawza After Velayat-e Faqih: Seminary Authority, Religious Pluralism, and Post-Theocratic Governance](synthesis/seminary-role-in-post-theocratic-society/the-hawza-after-velayat-e-faqih-seminary-authority-religious-pluralism-and-post-.md)
 - [De-Ideologizing the Classroom: Iran's Islamized Curriculum and Comparative De-Indoctrination](synthesis/education-system-reform-and-curriculum-modernization/de-ideologizing-the-classroom-irans-islamized-curriculum-and-comparative-de-indo.md)
 - [Employee Buyouts and Mass Privatization: Poland's Ownership Transformation and Iran's SOE Challenge](synthesis/privatization-and-state-owned-enterprise-restructuring/employee-buyouts-and-mass-privatization-polands-ownership-transformation-and-ira.md)
 - [Cultural Heritage as Political Resource: Confucian Values, Revolutionary Memory, and Iran's Pre-Islamic Identity](synthesis/cultural-heritage-preservation-during-institutional-change/cultural-heritage-as-political-resource-confucian-values-revolutionary-memory-an.md)
 - [Bonyad Reform: Iran's Para-Statal Foundations and Comparative Divestment Models](synthesis/bonyad-system-reform/bonyad-reform-irans-para-statal-foundations-and-comparative-divestment-models.md)
 - [Financial Liberalization Sequencing: South Korea's 1997 Crisis and Implications for Iran's Banking Overhaul](synthesis/banking-and-financial-system-reform/financial-liberalization-sequencing-south-koreas-1997-crisis-and-implications-fo.md)
-- [Labor Market Dualism and Social Protection: South Korea, Spain, and Iran's Informal Economy](synthesis/labor-market-reform-and-social-safety-nets/labor-market-dualism-and-social-protection-south-korea-spain-and-irans-informal-.md)
 
 ## Case Studies
 
 | Country | Sources | Avg Relevance |
 |---------|---------|---------------|
-| [Iran](case-studies/iran.md) | 961 | 3.4 |
+| [Iran](case-studies/iran.md) | 1,292 | 3.4 |
 | [Poland](case-studies/poland.md) | 572 | 3.6 |
 | [Indonesia](case-studies/indonesia.md) | 295 | 3.6 |
 | [South Korea](case-studies/south-korea.md) | 270 | 3.6 |

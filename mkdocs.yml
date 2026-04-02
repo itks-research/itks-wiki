@@ -81,6 +81,7 @@ plugins:
             Research Findings: یافته‌های پژوهشی
             Resource curse management: مدیریت نفرین منابع طبیعی
             Sanctions unwinding: رفع تحریم‌ها
+            Seminary role in post-theocratic society: نقش حوزه علمیه در جامعه پساتئوکراتیک
             Society & Culture: جامعه و فرهنگ
             Source Explorer: کاوشگر منابع
             South Korea: کره جنوبی
@@ -184,12 +185,22 @@ nav:
       - "Bonyad system reform": synthesis/bonyad-system-reform/bonyad-reform-irans-para-statal-foundations-and-comparative-divestment-models.md
       - "IRGC economic empire": synthesis/irgc-economic-empire-and-its-dismantling/dismantling-the-irgc-economic-empire-precedents-pathways-and-pitfalls.md
       - "Regional foreign policy reorientation": synthesis/regional-foreign-policy-reorientation/foreign-policy-reorientation-after-regime-change-irans-regional-dilemmas.md
+      - "Seminary role in post-theocratic society": synthesis/seminary-role-in-post-theocratic-society/the-hawza-after-velayat-e-faqih-seminary-authority-religious-pluralism-and-post-.md
+    - "Brain Return and State Reconstruction: Diaspora Repatriation Pathways for Post-Transition Iran": synthesis/brain-return-and-state-reconstruction-diaspora-repatriation-pathways-for-post-tr.md
+    - "Big Bang Decentralization Revisited: Indonesia's Autonomy Experiment and Iran's Provincial Question": synthesis/big-bang-decentralization-revisited-indonesias-autonomy-experiment-and-irans-pro.md
+    - "Digital Authoritarianism and Civic Space: Internet Infrastructure as a Battleground in Iran and Tunisia": synthesis/digital-authoritarianism-and-civic-space-internet-infrastructure-as-a-battlegrou.md
+    - "The Transition Tax: Labor Market Disruption, Social Safety Nets, and Managing Reform Costs in Democratizing Economies": synthesis/the-transition-tax-labor-market-disruption-social-safety-nets-and-managing-refor.md
+    - "Unity in Diversity? Ethnic Accommodation, Minority Rights, and Post-Theocratic Governance in Iran": synthesis/unity-in-diversity-ethnic-accommodation-minority-rights-and-post-theocratic-gove.md
+    - "Nuclear Hedging to Civilian Energy: Pathways for Iran's Atomic Infrastructure in Democratic Transition": synthesis/nuclear-hedging-to-civilian-energy-pathways-for-irans-atomic-infrastructure-in-d.md
+    - "From Clandestine Cells to Coalition Government: Political Party Formation in Post-Authoritarian Spain and Implications for Iran": synthesis/from-clandestine-cells-to-coalition-government-political-party-formation-in-post.md
+    - "The Voucher Gamble: Czech Mass Privatization, Corporate Governance Failures, and Lessons for Iran's SOE Reform": synthesis/the-voucher-gamble-czech-mass-privatization-corporate-governance-failures-and-le.md
+    - "From COMECON to Single Market: Trade Liberalization and EU Accession Pathways for Iran's Economic Reintegration": synthesis/from-comecon-to-single-market-trade-liberalization-and-eu-accession-pathways-for.md
   - Case Studies:
     - Iran: case-studies/iran.md
     - Poland: case-studies/poland.md
     - Indonesia: case-studies/indonesia.md
-    - South Korea: case-studies/south-korea.md
     - Chile: case-studies/chile.md
+    - South Korea: case-studies/south-korea.md
     - Spain: case-studies/spain.md
     - Tunisia: case-studies/tunisia.md
     - Czech Republic: case-studies/czech-republic.md
