@@ -42,3 +42,24 @@ Any transition framework must account for the risk that dismantling the IRGC's p
 **Key Actors and Sequencing:** Dismantling the five-body structure without triggering an Iraqi or Libyan security vacuum requires identifying which bodies can be transformed first with lowest risk. The sequencing should proceed from periphery to core: (1) FARAJA integration into a civilian Interior Ministry structure is the lowest-risk first step, as law enforcement functions exist in all democracies and FARAJA officers have the weakest ideological commitment to the regime. (2) Basij demobilization and reintegration into civilian life, with economic transition support for members who joined primarily for material benefits (subsidized goods, university admission preferences), using Indonesia's gradual TNI territorial command dissolution as a cautionary benchmark. (3) MOIS/VAJA restructuring into a civilian intelligence agency under parliamentary oversight, modeled on South Korea's transformation of the KCIA into the NIS. (4) Artesh preservation and professionalization as the sole conventional military, potentially receiving capabilities currently held by the IRGC. (5) IRGC dissolution or transformation as the final and most difficult step, requiring resolution of economic, ideological, and security dimensions simultaneously.
 
 **Risks:** The paramount risk is that dismantling coup-proofing structures before establishing alternative security arrangements produces precisely the instability the structures were designed to prevent — not a coup, but sectarian, ethnic, or factional violence in a security vacuum. The 2009, 2019, and 2022 protest experiences demonstrate that the current structure functions effectively for regime preservation; its removal without replacement could trigger uncontrolled score-settling. A second risk is partial dismantlement that empowers one body at the expense of others — for example, strengthening the Artesh while weakening the IRGC could create conventional military dominance reminiscent of Egypt's post-2011 trajectory. The communal dimension means security sector reform is simultaneously a social transformation: the شهرستانی communities whose sons staff the IRGC and Basij must perceive a viable future in a post-transition order, or they become a permanent constituency for counter-revolution.
+
+## Knowledge Gaps
+
+**Gap 1: Coup-Proofing Unraveling Mechanisms**
+Makara (2013) documents how coup-proofing structures are built, but the literature lacks studies of how they dissolve. Whether they unravel through negotiated bargains, economic collapse, foreign pressure, or elite defection is empirically underdeveloped.
+
+**Gap 2: Economic Crisis and Security Cohesion**
+No study systematically examines whether severe economic crisis (hyperinflation, sanctions-induced contraction) weakens security cohesion independently of political protests. Iran's 2018-2023 economic trajectory provides a natural experiment not yet fully analyzed.
+
+**Gap 3: Basij as Political Movement vs. Security Force**
+The Basij militia combines coercive capacity with volunteer ideology. No comparative framework adequately captures such organizations. Partial analogs (Hezbollah in Lebanon, Shabiha in Syria) lack the transition-context documentation needed for Iran comparison.
+
+**Gap 4: Post-Transition Security Vacuum Prevention**
+The literature documents security vacuum risks but offers limited prescriptions for states with comprehensive coup-proofing structures. How a transition government can maintain public order while dismantling the coup-proofing apparatus is unresolved.
+
+
+## General Reader Summary
+
+Authoritarian leaders build parallel security forces — like Iran's IRGC alongside the regular army — specifically to prevent military coups. Research shows this strategy works: the more fragmented and rivalrous a security apparatus, the harder it is for any single branch to defect during protests. But this same fragmentation also makes transitions more dangerous, because dismantling overlapping security forces without creating a security vacuum is extraordinarily difficult. Iran's five-body security structure is the most elaborate documented case of coup-proofing in the comparative literature.
+
+**خلاصه برای خواننده عمومی:** رهبران اقتدارگرا نیروهای امنیتی موازی — مانند سپاه پاسداران در کنار ارتش — ایجاد می‌کنند تا از کودتا جلوگیری کنند. تحقیقات نشان می‌دهد این استراتژی کار می‌کند: هرچه دستگاه امنیتی چندپارچه‌تر و رقیب‌محورتر باشد، انشقاق هر شاخه در طول اعتراضات دشوارتر می‌شود. اما همین چندپارچگی گذار را خطرناک‌تر می‌کند، زیرا انحلال نیروهای امنیتی همپوشان بدون ایجاد خلاء امنیتی فوق‌العاده دشوار است. ساختار امنیتی پنج‌گانه ایران مستندشده‌ترین نمونه کودتاپیشگیری در ادبیات مقایسه‌ای است.

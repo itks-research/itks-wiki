@@ -41,3 +41,24 @@ Furthermore, Iran lacks the external security guarantee that facilitated South K
 **Key Actors and Sequencing:** The critical sequencing insight from South Korea is that prosecutorial action against informal power networks (Kim Young-sam's purge of the Hanahoe) preceded institutional reform. Iran's equivalent would target the بیت رهبری (Supreme Leader's house) networks that connect IRGC commanders, judiciary officials, and economic elites. However, Iran lacks the prosecutorial independence that enabled Kim Young-sam's action. Sequencing must therefore proceed differently: (1) establishing an independent defense oversight commission with international advisory support; (2) creating unified budgetary transparency across all five security bodies, requiring parliamentary appropriations committee authority over IRGC spending; (3) gradual transfer of Artesh operational planning to MODAFL civilian staff; (4) integrating FARAJA fully under Interior Ministry civilian authority; (5) addressing IRGC civilianization only after external security frameworks reduce institutional anxiety. The seminary system's (حوزه علمیه) role in IRGC officer ideological training means "democratic socialization" of the officer corps — Spain's key differentiator — requires engaging religious educational institutions, not just military academies.
 
 **Risks:** Premature civilianization without external security frameworks risks either a coup scenario (unlikely given fragmented structure but not impossible if IRGC commanders perceive existential threat) or institutional sabotage (more likely, where IRGC elements formally accept civilian oversight while maintaining parallel command structures). The "hollow reform" warning from Kim and Kuehn's Korean findings is the most probable Iranian outcome: formal civilianization producing institutions where military officers retain effective decision-making authority behind civilian facades. The ideological dimension adds a risk absent from the Korean case — civilianization challenges not just institutional power but theological legitimacy, meaning resistance will be framed as defense of Islam rather than defense of institutional prerogative, dramatically expanding the potential constituency for opposition.
+
+## Knowledge Gaps
+
+**Gap 1: Long-Term Civilianization Outcomes**
+Kim & Kuehn (2022) document South Korea's military still dominates defense policy internally despite three decades of civilian government. No study tracks civilianization beyond a 15-year window across multiple cases. Whether civilianization is reversible or reaches stable equilibrium is empirically unresolved.
+
+**Gap 2: Civilianization in Fragmented Security States**
+Every successful civilianization case involved a unified military establishment. Iran's five-body security structure has no direct comparator. The sequence question — which body to civilianize first — has not been studied.
+
+**Gap 3: Civilian Expertise Building Under Transition Pressure**
+Civilianization requires civilian bureaucrats with defense policy expertise. Building this capacity while simultaneously managing a security transition creates a chicken-and-egg problem. No study examines how transitional governments built civilian defense expertise quickly enough to exert meaningful oversight.
+
+**Gap 4: International Technical Assistance Limitations**
+NATO's partnership programs facilitated CMR reform in Poland and the Czech Republic. These programs have no direct equivalents for non-NATO-track or hostile-relationship states. Whether functional equivalents can be developed for post-transition Iran is unexamined.
+
+
+## General Reader Summary
+
+South Korea took over 30 years to make civilian control of the military meaningful after its 1987 democratic transition — and scholars say it still isn't complete. The key lessons for Iran are that removing military officers from top positions is the easy part; the harder challenge is building civilian expertise in defense policy and changing the culture inside military institutions. Iran faces a more complex version of this problem because it has five separate security organizations (regular military, IRGC, Basij, intelligence, police) instead of one unified force.
+
+**خلاصه برای خواننده عمومی:** کره جنوبی بیش از ۳۰ سال طول کشید تا کنترل غیرنظامی ارتش پس از گذار دموکراتیک ۱۹۸۷ واقعی شود — و محققان می‌گویند هنوز کامل نشده است. درس کلیدی برای ایران این است که برکناری افسران نظامی از مناصب عالی آسان‌ترین بخش است؛ چالش سخت‌تر، ایجاد تخصص غیرنظامی در سیاست دفاعی و تغییر فرهنگ داخل نهادهای نظامی است. ایران این مشکل را به شکل پیچیده‌تری دارد زیرا پنج سازمان امنیتی جداگانه دارد به جای یک نیروی یکپارچه.

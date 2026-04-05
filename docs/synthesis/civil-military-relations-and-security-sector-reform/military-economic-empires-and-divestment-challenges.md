@@ -40,3 +40,24 @@ Concretely, a transition government would face simultaneous challenges: mapping 
 **Key Actors and Sequencing:** The Supreme Leader's office is the ultimate guarantor of the IRGC's economic autonomy and must be addressed first or simultaneously. Key stakeholders include: IRGC senior commanders who derive personal wealth and patronage networks from economic holdings; mid-ranking officers whose retirement security depends on cooperative foundations; Basij members who receive economic benefits (subsidized goods, preferential employment) through affiliated enterprises; bonyad managers who control assets worth tens of billions; and ordinary employees of IRGC-affiliated companies who would face unemployment in a rapid divestment. The sequencing must be: (1) comprehensive asset mapping through forensic accounting, requiring international cooperation given offshore holdings; (2) sanctions relief negotiations that create legitimate economic alternatives to smuggling networks; (3) pension and social safety net guarantees for IRGC personnel, funded through international investment; (4) gradual transfer of commercially viable enterprises to civilian management under transparent ownership; (5) dissolution of non-viable entities with worker retraining programs.
 
 **Risks:** The primary danger is asset stripping during any transition window — IRGC-affiliated managers converting institutional assets to personal holdings, as occurred during Russian privatization. The sanctions dimension creates a unique risk: if divestment proceeds before sanctions relief, IRGC networks may retreat further into opacity rather than formalize. A second risk is institutional capture of the reform process itself, where IRGC-linked businessmen rebrand as private entrepreneurs while maintaining informal control networks. The Egyptian post-2011 precedent, where military economic expansion accelerated after apparent political transition, is the most dangerous template. Prerequisites include: international forensic accounting capacity, sanctions relief framework, social safety net funding, and credible guarantees against prosecution for economic activities (distinct from human rights accountability) to incentivize cooperation rather than resistance.
+
+## Knowledge Gaps
+
+**Gap 1: IRGC Economic Empire Valuation**
+No independent audit of IRGC-affiliated enterprises exists. Estimates of IRGC share of Iran's GDP range from 10% to 40% — a 4x variance reflecting opacity of shell company structures. Any divestment framework requires a reliable asset map requiring intelligence access unavailable to outside researchers.
+
+**Gap 2: Successful Military Divestment Under Sanctions**
+All documented military divestment cases (Indonesia, Pakistan, Egypt) occurred in states with functioning international financial systems. No study examines military divestment in an economy under comprehensive multilateral sanctions with parallel shadow banking infrastructure. Iran's case would be unprecedented.
+
+**Gap 3: Individual vs. Institutional Interests in IRGC**
+The literature treats the IRGC as a unified actor. Internal evidence suggests significant variation between commanders with large personal economic stakes versus junior officers with ideological commitment. Whether individual buyouts can fracture institutional cohesion is empirically unexplored.
+
+**Gap 4: Role of Diaspora Capital in Post-Divestment Phase**
+After military divestment, who acquires the assets? Indonesia's TNI divestment transferred assets largely to Suharto-era cronies. Iran has a large diaspora with capital access but the successor-ownership question is underdeveloped in the literature.
+
+
+## General Reader Summary
+
+Military forces that build large economic empires — like Iran's IRGC, which controls an estimated 10-40% of Iran's economy — have never voluntarily given up those businesses in any documented case. Research from Indonesia, Pakistan, and Egypt shows that successful divestment requires legally-binding deadlines enforced by civilian governments with clear political will, combined with financial incentives for military elites. For a future Iranian transition, the IRGC's economic empire represents the single most complex divestment challenge ever documented, made harder by sanctions, deliberate opacity, and the absence of international precedent.
+
+**خلاصه برای خواننده عمومی:** نیروهای نظامی که امپراتوری‌های اقتصادی بزرگ می‌سازند — مانند سپاه پاسداران که تخمین زده می‌شود ۱۰ تا ۴۰ درصد اقتصاد ایران را کنترل می‌کند — هرگز به صورت داوطلبانه از این کسب‌وکارها دست نکشیده‌اند. واگذاری موفق نیازمند زمان‌بندی‌های قانونی اجرایی توسط دولت‌های غیرنظامی همراه با انگیزه‌های مالی برای نخبگان نظامی است. چالش واگذاری امپراتوری اقتصادی سپاه در گذار آینده ایران از هر مورد مستندی پیچیده‌تر خواهد بود.
