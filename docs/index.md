@@ -2,7 +2,7 @@
 
 An autonomous research system mapping development pathways relevant to Iran's future governance. Every claim traces back to a verifiable source.
 
-**9,687** sources · **6,216** relationships · **11** case studies · **41** research themes · **20** transition mechanisms
+**9,687** sources · **6,216** relationships · **11** case studies · **40** research themes · **20** transition mechanisms
 
 ---
 
@@ -14,7 +14,7 @@ An autonomous research system mapping development pathways relevant to Iran's fu
 
 **[Research Findings](synthesis/index.md)**
 
-84 synthesis articles across 41 themes
+84 synthesis articles across 40 themes
 
 </div>
 

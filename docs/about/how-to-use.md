@@ -1,11 +1,11 @@
 # How to Use This Site
 
-This site is a research knowledge system with over 9,383 academic sources organized around Iran's development pathways. Every claim traces back to verifiable evidence. Here's how to navigate it effectively.
+This site is a research knowledge system with over 9,687 academic sources organized around Iran's development pathways. Every claim traces back to verifiable evidence. Here's how to navigate it effectively.
 
 ## Starting Points
 
 ### Research Findings
-Start here for thematic deep dives. We have **80+ synthesis articles across 41 research themes** (e.g., Constitutional Design, Transitional Justice, Banking Reform). Each theme overview synthesizes evidence from multiple countries, with focused sub-articles diving deeper into specific aspects.
+Start here for thematic deep dives. We have **84 synthesis articles across 40 research themes** (e.g., Constitutional Design, Transitional Justice, Banking Reform). Each theme overview synthesizes evidence from multiple countries, with focused sub-articles diving deeper into specific aspects.
 
 ### Case Studies
 Explore by country. **11 case studies** (Iran, South Korea, Spain, Poland, Indonesia, Tunisia, Czech Republic, Chile, Egypt, Russia, Turkey) each show sources organized by research category, with links to the most relevant papers. Compare how different countries addressed similar governance and economic challenges.
