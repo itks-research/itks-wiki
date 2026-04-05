@@ -1,6 +1,4 @@
-<div dir="rtl" markdown>
-
-# De-Ideologizing the Classroom: Iran's Islamized Curriculum and Comparative De-Indoctrination
+## Evidence & Key Findings
 
 Iran's educational Islamization represents one of the most comprehensive post-revolutionary curriculum transformations in modern history. Following the 1979 Islamic Revolution, the regime initiated the Cultural Revolution (1980-1983), a systematic overhaul that subordinated all educational content to Islamic ideology. This process involved mandatory religious instruction from primary through secondary school, rewriting history and social studies textbooks to emphasize Islamic achievement and revolutionary values, and integrating Quranic studies into standardized curricula. Primary-level students now encounter religious content in 30-40% of instructional hours, while history curricula systematically minimize pre-Islamic Iranian achievements and Western intellectual contributions.
 
@@ -8,7 +6,11 @@ The ideological penetration extends to university entrance examinations (konkour
 
 Comparative cases illuminate the mechanisms and costs of educational de-ideologization. Post-communist Poland underwent systematic curriculum revision (1989-1995) that required removal of Marxist-Leninist content, rehabilitation of Catholic thought, and restoration of pre-war historical narratives. Polish authorities faced acute challenges in retaining teachers trained under communist pedagogy while introducing pluralistic frameworks—teacher retraining programs required 18-24 months and remained politically contentious through the 1990s. South Korea's post-authoritarian transition (1987-2002) similarly confronted histories of state-mandated nationalism and anti-communist education, requiring careful navigation between patriotic education and critical historical inquiry. Both cases demonstrate that educational de-ideologization is neither technically swift nor politically neutral: textbook revision took 3-7 years, teacher retraining required sustained investment, and history curriculum remained a contested political domain for 10+ years post-transition.
 
+## Cross-Country Patterns
+
 Educational de-ideologization follows consistent sequencing patterns across diverse transition contexts. First, textbook revision typically begins with eliminating explicit propagandistic content while maintaining narrative coherence—a technically difficult task requiring subject-matter expertise and political sensitivity. Polish experience showed that direct substitution without attention to pedagogical continuity created gaps that teachers had to improvise around. Second, teacher retraining proves more essential than textbook replacement, as educators trained in ideological pedagogy must internalize pluralistic frameworks—this requires both technical professional development and attitudinal shifts that take 2-3 years. Third, history curriculum remains the most politically sensitive domain; neither rapid revision nor excessive neutralization satisfies stakeholder expectations. South Korea's experience revealed that overly "objective" history curricula alienated conservative constituencies while inadequate treatment of authoritarian-era abuses disappointed progressive stakeholders. Successful transitions balance narrative restoration (recovering suppressed historical voices) with critical literacy (enabling students to evaluate competing accounts). Finally, the timing of reforms relative to political transition matters substantially: early curriculum changes risk reversal if political conditions shift, while delayed reforms allow stakeholder consensus to develop but perpetuate ideological education during critical formation years.
+
+## Iran Context
 
 Iran's case exemplifies the comprehensive depth and political explosiveness of educational Islamization. Unlike post-communist transitions that primarily eliminated foreign ideologies, Iran's Islamization fundamentally reconfigured Iran's internal identity narrative—reinterpreting 2,500 years of Persian history as prologue to Islamic destiny. This reframing penetrates education at all levels: elementary curricula emphasize Islamic values in civic instruction; middle-school history texts present pre-Islamic Persian civilization as materially advanced but spiritually deficient; and high-school curricula systematically advance Islamic statecraft as morally superior to secular حکمرانی models.
 
@@ -18,11 +20,15 @@ University entrance systems (konkour) function as ideological gatekeeping mechan
 
 Educational reform is simultaneously essential and explosive in any post-authoritarian transition scenario. Essential because ideologically-indoctrinated youth will likely perpetuate authoritarian values; explosive because education touches family identity, parental authority, and fundamental worldview formation. Any Iranian گذار دموکراتیک would require navigating curriculum revision amid constituencies with three generations of Islamized education, some genuinely persuaded of Islamic حکمرانی superiority and others resentful of systematic ideological pressure. Teacher retraining would require reorienting 1+ million educators trained exclusively in revolutionary pedagogy. The political complexity means educational reform inevitably becomes a proxy for broader transition tensions: rapid reform signals weak ideological commitment and provokes conservative resistance; slow reform perpetuates indoctrination and provokes reformist frustration.
 
+## Open Research Questions
+
 1. How do education systems calibrate narrative restoration (recovering suppressed historical voices) with critical literacy without producing generational resentment among cohorts educated under ideological frameworks?
 
 2. What mechanisms enable differentiated curriculum reform across parallel institutional systems (public schools, private institutions, seminary networks) when unified ideological oversight previously provided coherence?
 
 3. How can teacher retraining programs simultaneously develop technical competency in pluralistic pedagogy and shift underlying epistemological frameworks that educators internalized over 20+ year careers in ideological systems?
+
+## Sources
 
 | شناسه | عنوان | نویسندگان | سال | مطالعه موردی |
 |---|---|---|---|---|
@@ -34,6 +40,3 @@ Educational reform is simultaneously essential and explosive in any post-authori
 | 3743 | Exploring Cultural Schemas in Foreign Language Education Pol... | ["Ali Dabbagh", "Esmat Babaii", "Mahmood... | 2022 | Iran |
 | 3725 | Curriculum reform and identity politics in Iranian school te... | ["Amir Mirfakhraie"]... | 2018 | Iran |
 | 3755 | The Role of Values and Culture in Past Mathematics Curriculu... | ["Maria Giuseppina Bartolini", "\u0408as... | 2023 | Iran |
-
-
-</div>

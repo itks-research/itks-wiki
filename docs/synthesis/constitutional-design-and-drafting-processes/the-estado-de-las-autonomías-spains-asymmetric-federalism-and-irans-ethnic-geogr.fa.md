@@ -1,6 +1,4 @@
-<div dir="rtl" markdown>
-
-# The Estado de las Autonomías: Spain's Asymmetric Federalism and Iran's Ethnic Geography
+## Evidence & Key Findings
 
 Spain's 1978 constitutional framework created the "Estado de las Autonomías" (State of Autonomies) as a novel middle path between فدرالیسم and unitarism, fundamentally reshaping how post-authoritarian states organize territory and ethnicity. During the transition from Franco's centralized dictatorship, Spanish architects confronted a territorial question complicated by distinct historical nations—Catalonia, the Basque Country, and Galicia—each with separate linguistic and cultural traditions demanding recognition.
 
@@ -10,6 +8,8 @@ Fiscal autonomy emerged as the critical cement binding the territorial compact. 
 
 The 2017 Catalan independence crisis tested this design to destruction. When Madrid revoked the 2006 Estatut, declaring key devolved powers unconstitutional, Catalan nationalism radicalized. The October 2017 referendum and declaration of independence exposed the Estado de las Autonomías' core vulnerability: asymmetric arrangements satisfied neither maximalist separatists nor those fearing privileged regions undermined equality. The crisis demonstrated that fiscal autonomy and even primary legislative power in cultural matters could not substitute for resolution of the fundamental question—whether a historical nation can be accommodated within a state structure without triggering separatism.
 
+## Cross-Country Patterns
+
 Post-authoritarian constitutional designers face an enduring dilemma: whether to grant equal autonomy to all regions (symmetry) or to accommodate historically mobilized nations through differentiated powers (asymmetry). Symmetry offers democratic elegance and prevents resentment among regions denied special status, but fails to address why some territories possess institutionalized national movements with centuries of distinct حکمرانی. Asymmetry recognizes political reality and historical difference, but generates zero-sum conflicts where denied regions demand equal treatment.
 
 Spain's Estado de las Autonomías attempted to transcend this binary through recursive asymmetry—offering all regions the formal right to asymmetric arrangements while few possessed the political organization to exercise it. This created stability through asymmetric equilibrium: regions with nationalist movements gained accelerated devolution and fiscal autonomy, while regions without such pressure remained integrated but could theoretically demand parity. The mechanism worked through three decades because nationalist mobilization remained geographically contained.
@@ -17,6 +17,8 @@ Spain's Estado de las Autonomías attempted to transcend this binary through rec
 Fiscal autonomy proved essential to sustaining the territorial bargain. When historically-mobile regions gained control over revenue generation and spending, they developed stake in the system beyond cultural symbolism. The Basque cupo system and Catalan tax arrangements created administratively-complex but politically-functional interdependence. However, fiscal autonomy's success depends on equilibrium: if autonomy advances seem one-directional, or if the center reclaims powers, the compact unravels. The 2017 crisis erupted when Madrid's Constitutional Court reasserted central authority precisely when Catalonia expected continued devolution, creating the perception of broken promises.
 
 The Spanish model's broader applicability depends on institutional prerequisites: a constitutional court accepted as neutral arbiter, multiple veto points preventing unilateral revision, political elite commitment to elite-pacting rather than majoritarianism, and crucially, willingness of historically-dominant regions to accept reduced privilege. Spain's 2017 crisis reveals these are not inevitable—they depend on sustained political will.
+
+## Iran Context
 
 Iran's territorial organization challenges mirror Spain's in some respects but differ fundamentally in others. The Islamic Republic confronts four regions with significant non-Persian, non-Shia identities: Kurdistan (Sunni Kurdish population, ~2.5% of Iran), Azerbaijan (ethnically Turkic, ~25% of population, substantial in northwest), Khuzestan (Arab identity and separatist history, ~2-3%), and Baluchistan (Sunni Baluch minority, ~2%). Unlike Spain's Catalan and Basque questions, these are not nationalist movements rooted in pre-modern polities but modern ethnic categories crystallized through 20th-century nation-building and minority consciousness. Kurds and Baluchs belong to larger stateless nations spanning Iraq, Syria, Turkey, and Pakistan; Azerbaijanis are affiliated with the Republic of Azerbaijan; Arabs have broader Pan-Arab consciousness. Iran's minorities thus face cross-border pull in ways Spanish nationalists did not.
 
@@ -26,11 +28,15 @@ Whether Spain's model offers a framework for Iran depends on a counterfactual: i
 
 The critical question is whether such arrangements can prevent separatism. Spain's 2017 experience suggests they cannot if minorities perceive them as inadequate or reversible. Iran's minorities might demand something closer to federation or even confederation—allowing for potential independence if the autonomy model fails. The Estado de las Autonomías succeeded in Spain because Spanish nationalists ultimately viewed remaining within Spain as compatible with self-حکمرانی; they accepted being a minority nation within a plurinational state. Iranian minorities, facing greater cultural suppression and demographic insecurity, might demand either genuine federal equality or exit options. A Spanish-style arrangement imposed unilaterally by Tehran without sustained negotiation with minority representatives would likely fail—generating the opposite of the intended effect, accelerating centrifugal pressures.
 
+## Open Research Questions
+
 1. Under what conditions does asymmetric devolution satisfy ethnic demands versus accelerate separatism? Spain's experience suggests asymmetry works when granted proactively to mobilized minorities and when minority elites view remaining within the state as preferable to exit. Does this require prior nationalist mobilization (endogenous demand) or can externally-imposed asymmetry generate مشروعیت?
 
 2. What institutional mechanisms can prevent the ratchet effect—where devolution creates expectations for further devolution, and denial of accelerated devolution triggers independence movements? Spain's Estado experienced this; does it reflect something inherent to territorial accommodation, or are there constitutional designs that stabilize devolution expectations?
 
 3. How do cross-border ethnic affiliations complicate asymmetric فدرالیسم? Spanish Catalonia and Basque Country are ethnically unique to Spain, allowing territorial nationalism to be coterminous with state nationalism. Iranian Kurds and Baluchs are minorities within larger nations—would autonomy increase or decrease cross-border mobilization toward larger ethno-national projects?
+
+## Sources
 
 Sources Referenced:
 
@@ -42,5 +48,3 @@ Sources Referenced:
 6. ["Tom Ginsburg", "Zachary Elkins", "Justin Blount"] (2009). "Does the Process of Constitution-Making Matter?" | Case Study: Spain | ID: 316
 7. ["Tamir Moustafa"] (2008). "The struggle for constitutional power: law, politics, and economic development in Egypt" | Case Study: Spain | ID: 320
 8. ["Peter McDonough", "Antonio L\u00f3pez Pina", "Samuel H. Barnes"] (1981). "The Spanish Public in Political Transition" | Case Study: Spain | ID: 348
-
-</div>

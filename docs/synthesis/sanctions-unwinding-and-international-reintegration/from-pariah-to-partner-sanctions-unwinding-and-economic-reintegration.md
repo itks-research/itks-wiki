@@ -1,14 +1,4 @@
----
-tags:
-  - Economic
-  - Sanctions unwinding and international reintegration
----
-
-<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Sanctions unwinding and international reintegration</a></p>
-
-# From Pariah to Partner: Sanctions Unwinding and Economic Reintegration
-
-**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-29 15:50:29
+## Evidence & Key Findings
 
 Iran's sanctions regime represents the most complex and multilayered economic coercion architecture ever applied to a mid-size economy, and its unwinding would be equally unprecedented in scale and complexity. Clayton, Maggiori, and Schreger (2024) provide the theoretical framework with their theory of economic coercion and fragmentation, arguing that sanctions create self-reinforcing structural changes in the target economy — supply chain reconfigurations, financial system workarounds, parallel trade networks — that do not simply reverse when sanctions are lifted. This "hysteresis" effect means that sanctions unwinding is not merely the inverse of sanctions imposition; it requires active reconstruction of economic linkages that have atrophied or been replaced.
 
@@ -16,9 +6,13 @@ Ghomi (2021) offers the most rigorous analysis of sanctions' macroeconomic and d
 
 The JCPOA experience (2015-2018) provides a partial natural experiment. Pratt and Alizadeh (2017) estimate the tourism sector impact of sanctions lifting using computable general equilibrium modeling, finding significant potential gains — but their analysis predates the US withdrawal from the JCPOA, which demonstrated the fragility of sanctions relief when it depends on sustained political commitment from multiple parties. Ahmadi (2018) examines the energy sector specifically, documenting how even partial sanctions relief under the JCPOA failed to restore pre-sanctions investment levels because international firms faced residual legal risk, reputational concerns, and uncertainty about reimposition. Bastani et al. (2021) document the pharmaceutical supply chain impact, showing how sanctions created structural vulnerabilities in essential medicine supply that temporary relief could not address.
 
+## Cross-Country Patterns
+
 Two patterns emerge from comparative sanctions unwinding. First, the economic recovery trajectory after sanctions removal is consistently slower and more uneven than the economic decline during sanctions imposition. South Africa's post-apartheid reintegration, Myanmar's partial opening, and Cuba's ongoing normalization all demonstrate that decades of economic isolation create structural distortions — import dependency patterns, brain drain, institutional decay, technology gaps — that persist well beyond formal sanctions removal.
 
 Second, the distributional effects of sanctions and their lifting are not symmetric. Sanctions tend to concentrate economic power among regime-connected actors who can exploit scarcity; sanctions lifting does not automatically redistribute this concentrated power but can actually amplify it if connected actors are better positioned to capture the benefits of economic opening. Wood (2008) provides the political dimension, showing that economic sanctions and state repression interact — sanctions can increase repression in the short term while potentially contributing to longer-term regime instability, a dynamic directly relevant to Iran's trajectory.
+
+## Iran Context
 
 Iran's reintegration would face challenges at three levels. At the financial infrastructure level, decades of exclusion from SWIFT, correspondent banking networks, and international capital markets have created a parallel financial system — hawala networks, cryptocurrency channels, barter arrangements with China and Russia, and IRGC-controlled currency exchange operations — that would not simply dissolve with sanctions removal. Re-establishing correspondent banking relationships, achieving Financial Action Task Force (FATF) compliance, and rebuilding central bank credibility would require years of institutional reform.
 
@@ -26,9 +20,13 @@ At the trade and investment level, Iran's economy has been restructured around s
 
 At the political economy level, the actors who benefit most from sanctions — smuggling networks, currency arbitrageurs, IRGC-connected import monopolies — have both the incentive and the organizational capacity to resist reintegration that would undermine their economic position. Any genuine reintegration would create losers among the most politically powerful economic actors in the country, generating resistance that purely technical economic policy cannot address. The energy sector is illustrative: Iran's oil production capacity has degraded significantly during sanctions, and restoring it would require $100+ billion in investment over a decade — investment that would only flow if international firms believe the political settlement underlying sanctions removal is durable.
 
+## Open Research Questions
+
 - How can Iran's post-transition government credibly commit to the institutional reforms (FATF compliance, central bank independence, transparent fiscal policy) needed to attract international investment, given that previous commitments under the JCPOA proved reversible?
 - What transitional economic mechanisms could manage the conflict between sanctions-benefiting actors (IRGC-connected smuggling and import monopoly networks) and the requirements of legitimate economic reintegration?
 - Should sanctions unwinding be sequenced — with financial sector normalization preceding trade liberalization, or vice versa — and what does the JCPOA's partial experiment suggest about optimal sequencing?
+
+## Sources
 
 | # | Author(s) | Year | Title | Access |
 |---|-----------|------|-------|--------|
@@ -40,12 +38,12 @@ At the political economy level, the actors who benefit most from sanctions — s
 | 6 | Clayton, Maggiori & Schreger | 2024 | A Theory of Economic Coercion and Fragmentation | DOI |
 | 7 | Wood | 2008 | Economic Sanctions and State Repression | DOI |
 
-## Sources (7)
+## Implications for Iran
 
-- [The economic impact of the lifting of sanctions on tourism in Iran: a computable general equilibrium analysis](../explorer/?id=1916)
-- [Who is afraid of sanctions? The macroeconomic and distributional effects of the sanctions against Iran](../explorer/?id=1871)
-- [Strategies to improve pharmaceutical supply chain resilience under politico-economic sanctions: the case of Iran](../explorer/?id=1922)
-- [The Impact of Economic Sanctions and the JCPOA on Energy Sector of Iran](../explorer/?id=1919)
-- [On Target? Sanctions and the Economic Interests of Elite Policymakers in Iran](../explorer/?id=1867)
-- [A Theory of Economic Coercion and Fragmentation](../explorer/?id=1888)
-- [“A Hand upon the Throat of the Nation”: Economic Sanctions and State Repression, 1976-2001](../explorer/?id=1282)
+**Institutional Mapping:** Sanctions unwinding for Iran would engage the **Central Bank of Iran** (بانک مرکزی ایران), which has been excluded from SWIFT and international correspondent banking networks; the **Ministry of Foreign Affairs** managing diplomatic negotiations; the **Supreme National Security Council** (شورای عالی امنیت ملی) coordinating security dimensions of reintegration; the **IRGC economic networks** that have been structured specifically to evade sanctions through smuggling, currency arbitrage, and intermediary-country trade; the **Ministry of Petroleum** overseeing energy sector reintegration; and the **Financial Action Task Force** (FATF) compliance process, which Iran has repeatedly failed to complete due to resistance from hardline institutions — particularly the **Guardian Council** and **Expediency Council**, which blocked FATF-related legislation.
+
+**Structural Parallels:** The JCPOA experience (2015-2018) provides a partial natural experiment demonstrating the hysteresis effects Clayton, Maggiori, and Schreger theorize: sanctions create self-reinforcing structural changes that do not simply reverse when lifted. Even under JCPOA sanctions relief, international firms that entered the Iranian market faced residual legal risk and reputational concerns, and FDI flows remained minimal. The US withdrawal in 2018 validated investors' caution, creating a 'once bitten, twice shy' dynamic that any future sanctions relief would need to overcome with far stronger guarantees. South Africa's post-apartheid reintegration and Myanmar's partial opening both demonstrate that decades of economic isolation create structural distortions — brain drain, technology gaps, import dependency patterns — persisting well beyond formal sanctions removal.
+
+**Key Actors and Sequencing:** The **IRGC smuggling networks**, **currency arbitrageurs**, and **import monopolists** who benefit most from sanctions are the primary economic blockers — they possess both the incentive and organizational capacity to resist reintegration that would undermine their rent-seeking positions. These are among Iran's most politically powerful economic actors. The **Central Bank** technocrats and **Ministry of Economy** reformists represent potential enablers but have historically lacked institutional power relative to security-economy actors. Sequencing: (1) FATF compliance as a prerequisite for banking reintegration, requiring legislative reforms that the Guardian Council and Expediency Council previously blocked; (2) re-establishment of correspondent banking relationships and SWIFT access — a process requiring years of institutional reform in anti-money-laundering and counter-terrorism financing frameworks; (3) bilateral investment treaties and international arbitration frameworks providing legal assurance to foreign investors burned by the JCPOA experience; (4) energy sector rehabilitation requiring $100+ billion in investment over a decade, contingent on investors' belief that the political settlement is durable.
+
+**Unique Challenges:** Iran's parallel financial system — hawala networks, cryptocurrency channels, barter arrangements with China and Russia, IRGC-controlled currency exchange operations — would not dissolve with sanctions removal but would compete with and potentially undermine formal reintegration. The distributional asymmetry of sanctions and their lifting is critical: sanctions concentrated economic power among regime-connected actors; lifting sanctions does not automatically redistribute this power but can amplify it if connected actors are better positioned to capture benefits of economic opening. International firms' JCPOA experience means that credible reintegration requires not just diplomatic agreements but domestic institutional reforms demonstrating policy durability beyond any single political cycle.

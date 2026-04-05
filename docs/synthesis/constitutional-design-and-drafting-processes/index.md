@@ -1,15 +1,3 @@
----
-tags:
-  - Political
-  - Constitutional design and drafting processes
----
-
-<p class="breadcrumb"><a href="../index.md">Home</a> > <a href="index.md">Research Findings</a></p>
-
-# Constitutional Design and Drafting Processes
-
-**Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29 10:16:39
-
 ## Key Insights
 
 - **Process inclusivity predicts constitutional longevity**: Analysis of 935 constitutions (1789-2005) shows that inclusive drafting, public ratification, and minority representation significantly enhance survival probability. The median constitution lasts only 19 years; process design is the strongest determinant of whether a document endures.
@@ -28,9 +16,9 @@ How to constitutionally address the institutional legacy of velayat-e faqih: abo
 
 ## Sub-Articles
 
-1. **[The Empirics of Constitutional Longevity](the-empirics-of-constitutional-longevity.md)** — What makes constitutions survive, and what this means for Iranian design choices
-2. **[South Korea's Constitutional Moment: The Five-Year Presidency and Its Tradeoffs](south-koreas-constitutional-moment-the-five-year-presidency-and-its-tradeoffs.md)** — How the 1987 constitution prevented authoritarian regression but created new pathologies
-3. **[Spain's Consenso Model: Inclusive Drafting and the Price of Ambiguity](spains-consenso-model-inclusive-drafting-and-the-price-of-ambiguity.md)** — The power and limits of consensus constitution-making for multi-ethnic transitions
-4. **[Tunisia's Quartet Innovation: Civil Society as Constitutional Infrastructure](tunisias-quartet-innovation-civil-society-as-constitutional-infrastructure.md)** — How institutional civil society mediated a constitutional crisis and what Iran can replicate
-5. **[Chile's 2022 Failure: Overreach and the Limits of Participatory Maximalism](chiles-2022-failure-overreach-and-the-limits-of-participatory-maximalism.md)** — Why the most participatory process in recent history produced decisive rejection
-6. **[Post-Sovereign Constitution-Making: Arato's Two-Stage Framework for Iran](post-sovereign-constitution-making-aratos-two-stage-framework-for-iran.md)** — The theoretical model most applicable to Iran's transition complexity
+1. **[The Empirics of Constitutional Longevity](./the-empirics-of-constitutional-longevity.md)** — What makes constitutions survive, and what this means for Iranian design choices
+2. **[South Korea's Constitutional Moment: The Five-Year Presidency and Its Tradeoffs](./south-koreas-constitutional-moment-the-five-year-presidency-and-its-tradeoffs.md)** — How the 1987 constitution prevented authoritarian regression but created new pathologies
+3. **[Spain's Consenso Model: Inclusive Drafting and the Price of Ambiguity](./spains-consenso-model-inclusive-drafting-and-the-price-of-ambiguity.md)** — The power and limits of consensus constitution-making for multi-ethnic transitions
+4. **[Tunisia's Quartet Innovation: Civil Society as Constitutional Infrastructure](./tunisias-quartet-innovation-civil-society-as-constitutional-infrastructure.md)** — How institutional civil society mediated a constitutional crisis and what Iran can replicate
+5. **[Chile's 2022 Failure: Overreach and the Limits of Participatory Maximalism](./chiles-2022-failure-overreach-and-the-limits-of-participatory-maximalism.md)** — Why the most participatory process in recent history produced decisive rejection
+6. **[Post-Sovereign Constitution-Making: Arato's Two-Stage Framework for Iran](./post-sovereign-constitution-making-aratos-two-stage-framework-for-iran.md)** — The theoretical model most applicable to Iran's transition complexity

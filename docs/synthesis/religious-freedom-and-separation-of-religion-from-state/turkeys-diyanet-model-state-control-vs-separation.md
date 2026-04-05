@@ -1,14 +1,4 @@
----
-tags:
-  - Social & Cultural
-  - Religious freedom and separation of religion from state
----
-
-<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Religious freedom and separation of religion from state</a></p>
-
-# Turkey's Diyanet Model: State Control vs. Separation
-
-**Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29T09:53:18.069901
+## Evidence & Key Findings
 
 Turkey's secularism, established by Ataturk's reforms in the 1920s, represents a fundamentally different approach from either European laicite or American separation. Rather than removing religion from public life, Turkey placed religion under state management. The Directorate of Religious Affairs (Diyanet), established in 1924 under Article 136 of the constitution, supervises all mosques, employs and trains imams, approves sermon content, and manages religious education. The mainstream Hanafi school of Sunni Islam is entirely organized by the state.
 
@@ -16,16 +6,24 @@ This constitutes control rather than separation. The Diyanet's budget exceeds th
 
 The AKP era (2002-present) reveals the inherent vulnerability of this design. Under Erdogan, the Diyanet expanded its role, state-sponsored religious education increased, and religious conservative values were promoted through state institutions. Yet a 2015 poll found over 80% of Turkish citizens — including AKP voters — still supported Turkey's continuation as a secular state. This suggests a popular consensus transcending partisan politics: Turks want religion in public life but reject theocratic governance. For Iran, where significant portions of the population have turned away from state-imposed religion, Turkey's trajectory offers cautionary lessons about institutional design.
 
+## Cross-Country Patterns
+
 The central pattern from Turkey's experience is that state control of religion creates capture vulnerability. Institutional infrastructure built to manage religion can be repurposed to promote religion when political leadership changes. The Diyanet was designed as a secularist tool to contain religious influence; under the AKP, it became a vehicle for expanding that influence. This pattern is consistent with broader institutional theory: organizations created for one purpose accumulate bureaucratic capacity that subsequent actors can redirect.
 
 A secondary pattern concerns minority exclusion. State management of religion inevitably privileges the majority denomination. Turkey's Diyanet serves Hanafi Sunni Islam; Alevis (estimated 15-25% of Turkey's population) receive no comparable institutional support. Any "management" model creates insiders and outsiders.
+
+## Iran Context
 
 Turkey's experience reveals a specific danger for post-transition Iran. If reformers replace velayat-e faqih with a state religious affairs directorate — placing the seminary system, Friday Prayer network, and religious endowments (awqaf) under government management — they risk creating exactly the kind of capture-vulnerable institution that Turkey's AKP exploited. The objective for Iran should be reducing religious authority's control over the state, not replacing clerical governance with bureaucratic religious management.
 
 Iran's religious landscape adds complexity that Turkey's Diyanet model cannot accommodate. Iran includes Shi'a and Sunni Muslims, Baha'is, Christians, Jews, Zoroastrians, and a growing secular population. A Diyanet-style institution managing Twelver Shi'a Islam would marginalize all other communities — reproducing the Islamic Republic's discriminatory hierarchy in bureaucratic form. The lesson from Turkey is that institutional design must address not just the current religion-state relationship but the vulnerability of that design to future political capture.
 
+## Open Research Questions
+
 - Could Iran develop a "cooperative autonomy" model — maintaining state funding for religious institutions while guaranteeing their operational independence from political direction — as an alternative to both Turkey's control model and complete disestablishment?
 - How would Iran's seminary system (howzeh), which predates the Islamic Republic and has transnational networks (particularly Najaf), respond to a state management model versus autonomous institutional status?
+
+## Sources
 
 | Source | Year | Key Finding |
 |--------|------|-------------|
@@ -33,10 +31,12 @@ Iran's religious landscape adds complexity that Turkey's Diyanet model cannot ac
 | Lust, E. | 2011 | Third Wave of democratization bypassed Muslim world due to institutional configurations, not Islam per se |
 | Fox, J. | 2019 | Secular-religious competition varies by institutional arrangements, not religious tradition |
 
-## Related Articles
+## Implications for Iran
 
-- [Indonesia's Pancasila: Inclusive Monotheism and Its Limits](indonesias-pancasila-inclusive-monotheism-and-its-limits.md)
-- [Post-Theocratic Transitions: Uncharted Territory](post-theocratic-transitions-uncharted-territory.md)
-- [Stepan's Twin Tolerations and Post-Theocratic Governance](stepans-twin-tolerations-and-post-theocratic-governance.md)
-- [Tunisia's Constitutional Compromise and the Civil State Model](tunisias-constitutional-compromise-and-the-civil-state-model.md)
-- [Velayat-e Faqih: Iran's Unique Institutional Architecture](velayat-e-faqih-irans-unique-institutional-architecture.md)
+**Institutional Mapping:** The Diyanet's cautionary lesson applies directly to Iran's post-transition institutional design. Iran currently has an extensive religious bureaucracy that could be restructured into a Diyanet-style directorate: the Islamic Propaganda Organization (سازمان تبلیغات اسلامی) manages ideological outreach; the Friday Prayer Imam network (شبکه ائمه جمعه) functions as a nationwide communication system; the Endowments and Charitable Affairs Organization (سازمان اوقاف و امور خیریه) administers religious properties; the Islamic Culture and Guidance Ministry (وزارت فرهنگ و ارشاد اسلامی) controls cultural production; and state broadcasting (صداوسیمای جمهوری اسلامی ایران, IRIB) enforces religious-ideological messaging. Converting this apparatus into a state religious affairs directorate would replicate Turkey's capture-vulnerable model at far greater scale.
+
+**Structural Parallels:** Turkey's trajectory from Kemalist secularism to AKP-era religious promotion demonstrates the fundamental flaw in state management of religion: institutional infrastructure designed for control can be redirected toward promotion by a determined political actor. The parallel with Iran operates in reverse: Iran would be moving from state-imposed religion toward a more secular arrangement, but if reformers create a religious affairs directorate to manage the transition, they build exactly the institutional vehicle that a future religious-conservative government could exploit to reimpose religious control. The Diyanet's budget (exceeding several Turkish ministries), 100,000+ employees, control over mosque content, and management of religious education constitute a template for what Iran must avoid creating. The parallel is strengthened by the 80%+ Turkish public support for secularism even among AKP voters — demonstrating that popular secular sentiment does not prevent institutional capture when the institutional design permits it.
+
+**Key Actors and Sequencing:** The operational lesson is institutional design priority: what to do with Iran's existing religious bureaucracy. Key decisions include: (1) the Friday Prayer network — should it be dissolved, privatized (transferred to local congregations), or maintained under a restructured institution? Dissolution risks alienating communities that rely on Friday Prayers as social infrastructure; state management risks Diyanet-style capture vulnerability. The optimal path is transfer to independent congregational governance with no state funding or appointment authority. (2) Religious endowments (اوقاف) — particularly Astan-e Qods-e Razavi in Mashhad, which controls assets worth billions — should be governed by independent boards with transparent accounting, not by state-appointed managers. (3) The حوزه system — must be constitutionally autonomous from the state, neither controlled by government nor permitted to exercise governance authority, following a modified version of the historical quietist model. (4) IRIB — must be restructured as an independent public broadcaster, eliminating its current role as religious-ideological propaganda instrument.
+
+**Risks:** The specific danger for Iran is that reformers, exhausted by theocratic governance, create a religious affairs bureaucracy as a transitional measure to "manage" the seminary system and religious institutions during transition — and that this bureaucracy becomes permanent. Turkey's 100-year experiment demonstrates that even under aggressive secularism (Kemalist era), state religious management does not produce genuine separation; it produces state-defined religion vulnerable to political capture. Iran's religious landscape — including Shi'a and Sunni Muslims, Baha'is, Christians, Jews, Zoroastrians, and a growing irreligious population — adds a diversity dimension Turkey's Diyanet (which manages Hanafi Sunni Islam while marginalizing Alevis and others) has failed to accommodate. A Diyanet-style institution managing Twelver Shi'a Islam would reproduce the Islamic Republic's discriminatory hierarchy in bureaucratic form, merely replacing clerical governance with bureaucratic religious management.

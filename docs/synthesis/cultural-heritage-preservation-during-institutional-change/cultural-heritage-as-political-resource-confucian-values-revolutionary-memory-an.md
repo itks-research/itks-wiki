@@ -1,16 +1,3 @@
----
-tags:
-  - Social & Cultural
-  - Cultural heritage preservation during institutional change
-  - Iran
----
-
-<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Cultural heritage preservation during institutional change</a></p>
-
-# Cultural Heritage as Political Resource: Confucian Values, Revolutionary Memory, and Iran's Pre-Islamic Identity
-
-**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-31T19:43:30.339052
-
 ## Evidence: Cultural Heritage as Political Resource During Institutional Transition
 
 The mobilization of cultural heritage during periods of institutional transformation reveals patterns of strategic legitimation across diverse political contexts. When societies undergo constitutional or revolutionary change, their relationship to historical memory and cultural identity becomes a central arena for negotiating new institutional frameworks.
@@ -69,3 +56,14 @@ Constitutional and institutional design must navigate these three heritage claim
 | Nina G. Hamedani | 2012 | Ways of Manifesting Collectivism: An Analysis of Iranian and... | 3.0 | 3.92 |
 | Andrew Canessa | 2017 | Who Is Indigenous? Self-Identification, Indigeneity, And Cla... | 3.0 | 3.92 |
 | Benjamin Keen | 1988 | A history of Latin America | 3.0 | 3.77 |
+
+
+## Implications for Iran
+
+**Institutional Mapping:** The politics of cultural heritage in Iran engages a complex institutional landscape. **IRIB** (Islamic Republic of Iran Broadcasting) controls the dominant narrative apparatus, systematically foregrounding Islamic revolutionary identity while marginalizing pre-Islamic Persian heritage in state media. The **Ministry of Cultural Affairs and Islamic Guidance** (وزارت فرهنگ و ارشاد اسلامی) regulates publishing, cinema, music, and cultural production, enforcing ideological boundaries on which heritage traditions receive institutional support. The **howzeh** (حوزه علمیه) seminary system in Qom shapes the theological framework within which cultural identity is officially interpreted. **Sazman-e Miras-e Farhangi** (Cultural Heritage Organization) manages archaeological sites and museums, operating under tension between preservation mandates and ideological constraints on pre-Islamic celebration. The **Supreme Council of the Cultural Revolution** (شورای عالی انقلاب فرهنگی), appointed by the Supreme Leader, sets overarching cultural policy and has historically suppressed expressions of Persian nationalist identity deemed incompatible with Islamic governance.
+
+**Structural Parallels:** South Korea's reinterpretation of Confucian values to support democratic governance offers a direct template for how Iran might rehabilitate pre-Islamic heritage. Just as Korean democrats demonstrated that Confucian meritocracy and social harmony were compatible with electoral governance, Iranian reformers could argue that Zoroastrian concepts of فره ایزدی (divine glory contingent on just rule), the Cyrus Cylinder's governance principles, and the Persian administrative tradition of دیوان‌سالاری (bureaucratic rationalism) support rather than undermine democratic constitutionalism. Chile's engagement with indigenous heritage during post-Pinochet constitutional reform parallels the question of how to incorporate non-dominant cultural traditions into new institutional frameworks.
+
+**Enablers and Blockers:** Cultural heritage liberalization would find natural allies among Iran's **secular intelligentsia**, **university faculty** (particularly in history, archaeology, and literary studies), and the **diaspora community** that has maintained pre-Islamic cultural traditions abroad. The **bazaari class** has traditionally supported Nowruz and pre-Islamic commercial customs. Key blockers include **hardline clerics** who view pre-Islamic celebration as shirk (polytheistic deviation), **Basij cultural enforcers** who police public celebrations, and **IRGC media outlets** that frame Persian nationalism as Western-backed separatism.
+
+**Iran-Specific Challenges:** Iran's cultural heritage challenge is uniquely layered compared to the comparative cases. Unlike South Korea (where Confucianism was always culturally dominant) or Chile (where indigenous heritage was a minority tradition), Iran must navigate between three simultaneously living traditions — pre-Islamic Persian, Islamic, and modernist-secular — each with substantial constituencies. The regime has not merely suppressed pre-Islamic heritage; it has selectively incorporated elements (Nowruz, Persian language, Ferdowsi's Shahnameh) while rejecting others (Zoroastrian theology, Achaemenid political symbolism). A post-transition cultural policy cannot simply "restore" pre-Islamic heritage without alienating the substantial population that genuinely identifies with Islamic civilization. The risk is a culture war that fractures transitional coalitions along identity lines — precisely the dynamic that regime conservatives exploit to delegitimize reform movements as "anti-Islamic." Effective cultural policy would need to frame heritage pluralism as authentically Iranian rather than as a zero-sum competition between Islamic and pre-Islamic identity.

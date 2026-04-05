@@ -1,6 +1,4 @@
-<div dir="rtl" markdown>
-
-# Financial Liberalization Sequencing: South Korea's 1997 Crisis and Implications for Iran's Banking Overhaul
+## Evidence & Key Findings
 
 South Korea's آزادسازی مالی trajectory in the 1980s-1990s provides crucial comparative lessons for understanding the preconditions and hazards of premature financial market opening. Beginning with the Park Chung-hee era's state-directed industrialization model, South Korean financial markets operated under tight government control, with capital flows heavily regulated and directed toward strategic sectors. The transition toward liberalization, accelerated under democratization in the late 1980s, proceeded with insufficient attention to the sequencing of reforms or the maturity of regulatory institutions (International Monetary Fund, 1998).
 
@@ -8,9 +6,13 @@ The 1997 financial crisis—triggered by unsustainable short-term foreign borrow
 
 The Czech Republic's banking transition provides a parallel case. Rapid خصوصی‌سازی of state-owned banks following 1989 occurred without adequate regulatory frameworks or market discipline mechanisms. This created an endemic problem of non-performing loans, connected lending, and minimal capital adequacy standards, ultimately requiring government recapitalization in 1996-1997 (Fries & Taci, 2005). These comparative cases demonstrate that آزادسازی مالی sequencing matters profoundly: institutional readiness must precede حساب سرمایه liberalization, and banking regulation must develop in tandem with market opening, not sequentially thereafter.
 
+## Cross-Country Patterns
+
 آزادسازی مالی interacts به طور حیاتی with democratic institution-building, creating a paradoxical window of vulnerability. During گذار دموکراتیکs, newly pluralistic governments face pressure to demonstrate economic openness and attract investment, creating political incentives to accelerate capital market liberalization before institutional safeguards are operational. This temporal mismatch—between political demands for opening and technical capacity for regulation—reproduces the South Korean pattern globally.
 
 The specific danger lies in the interaction between three factors: (1) weak نظارت بانکی institutions, often inherited from رژیم اقتدارگراs lacking modern central banking independence; (2) fragmented regulatory authority during transitions, where multiple agencies compete without clear hierarchies; and (3) political pressure from both سرمایه‌گذاران خارجی and domestic private capital seeking unrestricted market access. When these coincide, premature liberalization creates systematically procyclical credit growth, excessive risk-taking by financial institutions competing for market share, and contagion through undercapitalized banking systems. The sequencing problem thus becomes a democratic problem: how to sustain political support for institutional development that constrains financial actors, during a period when capital mobility creates exit options for those same actors.
+
+## Iran Context
 
 Iran's banking system presents a structurally distinct but institutionally comparable case to 1990s South Korea and post-1989 Czech Republic. The Islamic Republic's financial architecture reflects decades of theocratic control, foreign sanctions, and revolutionary institutional experimentation rather than market socialism. State-owned banks (including Bank Melli Iran, Bank Tejarat, and Bank Sepah) continue to dominate credit allocation with limited شفافیت or commercial discipline. Approximately 80% of banking sector assets remain under direct or indirect state control, compared to roughly 20-30% in comparable middle-income countries (Central Bank of Iran data, 2024).
 
@@ -18,11 +20,15 @@ A central structural constraint differentiates Iran from East Asian liberalizers
 
 The secondary but critical problem involves سپاه پاسداران انقلاب اسلامی (Islamic Revolutionary Guard Corps)-connected financial institutions. An estimated 20-30% of banking sector assets and credit allocations flow through Revolutionary Guard Corps-affiliated institutions (Asan Bank, Refah Bank, and specialized military credit institutions), operating with reduced شفافیت and distinct حکمرانی structures accountable primarily to security rather than commercial logic (Human Rights Watch, 2019). Sanctions removal post-JCPOA created ostensible opportunities for international integration, but without concurrent restructuring of state bank حکمرانی, سپاه پاسداران انقلاب اسلامی financial dominance, or Islamic banking regulation, حساب سرمایه liberalization would likely reproduce the same procyclical dynamics and systemic fragility visible in 1990s South Korea—but within a more politically fragmented institutional environment where security services compete with central banking authorities.
 
+## Open Research Questions
+
 1. **Institutional Prerequisites Question**: How can Iran develop autonomous central banking capacity and independent نظارت بانکی while maintaining theocratic political control and parallel سپاه پاسداران انقلاب اسلامی financial authority? South Korea's resolution occurred through گذار دموکراتیک; Czech banking reform required EU institutional alignment. Neither path is available to Iran.
 
 2. **Sequencing Dilemma for Dual Financial Systems**: Should Islamic banking regulation be harmonized with conventional نظارت بانکی before حساب سرمایه liberalization, or does the current dualism constitute an insurmountable obstacle? Existing cross-country evidence provides minimal guidance on sequencing reforms within dual financial systems.
 
 3. **Sanctions Legacy and Information Asymmetry**: Given decades of sanctions-driven financial isolation, what mechanisms could establish baseline شفافیت and risk assessment in Iranian banking before international capital exposure? Most South Korean and Czech liberalization occurred from positions of relative information شفافیت.
+
+## Sources
 
 | نویسنده(گان) | سال | عنوان | ارتباط | اعتبار |
 |-----------|------|-------|-----------|-------------|
@@ -32,6 +38,3 @@ The secondary but critical problem involves سپاه پاسداران انقلا
 | ["Elizabeth Thurbon"] | 2016 | Developmental Mindset: The Revival of Financial Ac | 4.0 | 3.4 |
 | ["Eduardo Borensztein", "Olivier Jeanne" | 2005 | Sovereign Debt Structure for Crisis Prevention | 4.0 | 4.3 |
 | [] | 1997 | Capital ungoverned: liberalizing finance in interv | 4.0 | 4.1 |
-
-
-</div>

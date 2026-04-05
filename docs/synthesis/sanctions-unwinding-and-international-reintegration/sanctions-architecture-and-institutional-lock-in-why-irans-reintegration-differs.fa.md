@@ -1,6 +1,4 @@
-<div dir="rtl" markdown>
-
-# Sanctions Architecture and Institutional Lock-In: Why Iran's Reintegration Differs from Every Precedent
+## Evidence & Key Findings
 
 EVIDENCE: Layered Architecture of Iran تحریم‌ها and the JCPOA Paradox
 
@@ -14,6 +12,8 @@ The سپاه پاسداران انقلاب اسلامی designation complicates 
 
 [Source: ["Peivand Bastani", "Zahra Dehghan", "Seyyed Mansour Kashfi", "Hesam Dorosti", "Mohammadtaghi Mohammadpour", "Gholamhossein Mehralian", "Ramin Ravangard"], 2021]
 
+## Cross-Country Patterns
+
 PATTERNS: Institutional Lock-In Mechanisms in تحریم‌ها Regimes
 
 تحریم‌ها regimes develop institutional lock-in through four reinforcing mechanisms:
@@ -25,6 +25,8 @@ PATTERNS: Institutional Lock-In Mechanisms in تحریم‌ها Regimes
 3. Third-Party Overcompliance: Non-US entities (banks, insurers, shipping lines) often implement تحریم‌ها more stringently than required to avoid secondary penalties. This "overcompliance" persists even when official relief is announced, because the cost of compliance is lower than the perceived risk of non-compliance with US enforcement.
 
 4. The Snap-Back Problem: The JCPOA's "snap-back" mechanism (automatic reinstatement of تحریم‌ها upon non-compliance) created psychological and institutional precedent for rapid re-escalation. This symmetry reversal—where تحریم‌ها lift quickly but snap back suddenly—discourages investment and creates vested interests against reintegration among actors whose economic models depend on تحریم‌ها persistence.
+
+## Iran Context
 
 IRAN'S UNIQUE تحریم‌ها CHALLENGE: Economic Adaptation and Vested Interests
 
@@ -38,6 +40,8 @@ SWIFT Disconnection Legacy: Iran's removal from SWIFT (2012) and subsequent deve
 
 Financial تحریم‌ها and the Vested Interest Problem: Foreign exchange scarcity and capital controls (consequences of تحریم‌ها) created vested interests within Iran against reintegration. Import-license holders, currency traders, and regime-connected business groups profit from the shortage premium and foreign exchange controls. Full تحریم‌ها relief would normalize exchange rates and compete away these rents, creating domestic political opposition to reintegration among powerful economic interests.
 
+## Open Research Questions
+
 CRITICAL RESEARCH QUESTIONS
 
 1. If Iran were to achieve partial تحریم‌ها relief (sectoral oil, banking, but not سپاه پاسداران انقلاب اسلامی), would the persistence of سپاه پاسداران انقلاب اسلامی designations prevent meaningful financial reintegration, or could alternative institutional mechanisms (third-country financial intermediaries, special credit facilities) enable sufficient trade growth to stabilize an agreement?
@@ -45,6 +49,8 @@ CRITICAL RESEARCH QUESTIONS
 2. What is the irreversibility threshold for Iran's alternative payment infrastructure (bilateral arrangements, digital currency experimentation, BRICS settlement systems)? At what point does the development of non-SWIFT payment channels reduce Iran's institutional need for reintegration, creating a self-reinforcing تحریم‌ها trap?
 
 3. How do domestic Iranian vested interests in تحریم‌ها persistence (foreign exchange premium beneficiaries, import-license monopolies, regime-connected firms) constrain Iran's negotiating room, and what domestic political conditions would be necessary for Iran to overcome this internal opposition to reintegration?
+
+## Sources
 
 SOURCES CONSULTED
 
@@ -62,6 +68,3 @@ SOURCES CONSULTED
 Total sources analyzed: 8
 Average relevance score: 4.00
 Average reliability score: 4.66
-
-
-</div>

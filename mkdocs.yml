@@ -46,6 +46,7 @@ plugins:
             About: درباره
             Banking and financial system reform: اصلاح نظام بانکی و مالی
             Bonyad system reform: اصلاح نظام بنیادها
+            Brain-drain reversal: بازگشت نخبگان
             Case Studies: مطالعات موردی
             Chile: شیلی
             Civil society development: توسعه جامعه مدنی
@@ -54,14 +55,17 @@ plugins:
             Constitutional design: طراحی
             Cultural heritage preservation during institutional change: حفظ میراث فرهنگی در دوره تحولات نهادی
             Czech Republic: جمهوری چک
+            Diaspora repatriation and reintegration: بازگشت و ادغام دیاسپورا
             Economic Reform: اصلاحات اقتصادی
             Education system reform: اصلاح نظام آموزشی
             Electoral system design and implementation: طراحی و اجرای نظام انتخاباتی
+            Ethnic federalism in Iran: فدرالیسم قومی در ایران
             Federalism, unitarism, and autonomy models: فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری
             Home: خانه
             How to Use This Site: راهنمای استفاده از سایت
             IRGC economic empire: امپراتوری اقتصادی سپاه
             Indonesia: اندونزی
+            Internet and digital infrastructure as civic space: اینترنت و زیرساخت دیجیتال به‌عنوان فضای مدنی
             Iran: ایران
             Iran-Specific: ویژه ایران
             Judicial independence and rule of law: استقلال قضایی و حاکمیت قانون
@@ -131,6 +135,7 @@ nav:
         - "From Single Party to Fragmentation: Tunisia's Post-Revolution Party Landscape and Lessons for Iran": synthesis/political-party-formation-and-pluralism/from-single-party-to-fragmentation-tunisias-post-revolution-party-landscape-and-.md
         - "Iran's Factional System: Pluralism Without Parties": synthesis/political-party-formation-and-pluralism/irans-factional-system-pluralism-without-parties.md
       - "Power-sharing mechanisms during transition periods": synthesis/power-sharing-mechanisms-during-transition-periods/power-sharing-in-divided-societies-pact-making-dual-transitions-and-irans-factio.md
+      - "Protest movements and contentious politics": synthesis/protest-movements-and-contentious-politics/protest-movements-and-contentious-politics-mobilization-under-repression.md
       - Transitional justice:
         - Overview: synthesis/transitional-justice/index.md
         - "Amnesty vs. Accountability: Spain's Forty-Year Lesson": synthesis/transitional-justice/amnesty-vs-accountability-spains-forty-year-lesson.md
@@ -142,6 +147,10 @@ nav:
         - Comparative Analysis: synthesis/transitional-justice/comparative-analysis.md
     - Economic Reform:
       - "Banking and financial system reform": synthesis/banking-and-financial-system-reform/financial-liberalization-sequencing-south-koreas-1997-crisis-and-implications-fo.md
+      - "Bazaar economy, informal sector, and merchant class": synthesis/bazaar-economy-informal-sector-and-merchant-class/between-mosque-and-market-the-bazaar-economy-informal-trade-networks-and-the-pol.md
+      - "Brain-drain reversal": synthesis/brain-drain-reversal-and-diaspora-economic-engagement/brain-drain-reversal-and-diaspora-economic-engagement-cross-case-synthesis.md
+      - "Corruption, rent-seeking, and patronage networks": synthesis/corruption-rent-seeking-and-patronage-networks/corruption-rent-seeking-and-patronage-networks-in-transitional-states.md
+      - "Housing, cost of living, and urban inequality": synthesis/housing-cost-of-living-and-urban-inequality/company-towns-regional-poverty-and-the-inclusive-growth-imperative-urban-inequal.md
       - "Labor market reform": synthesis/labor-market-reform-and-social-safety-nets/labor-market-dualism-and-social-protection-south-korea-spain-and-irans-informal-.md
       - Privatization:
         - Overview: synthesis/privatization-and-state-owned-enterprise-restructuring/index.md
@@ -159,15 +168,19 @@ nav:
         - "NGO Sustainability After Revolution: Poland's Civil Society Funding Crisis and Iran's Associational Deficit": synthesis/civil-society-development/ngo-sustainability-after-revolution-polands-civil-society-funding-crisis-and-ira.md
         - "Solidarity's Children: Civil Society After Communism and After Theocracy": synthesis/civil-society-development/solidaritys-children-civil-society-after-communism-and-after-theocracy.md
       - "Cultural heritage preservation during institutional change": synthesis/cultural-heritage-preservation-during-institutional-change/cultural-heritage-as-political-resource-confucian-values-revolutionary-memory-an.md
+      - "Demographic transition and urbanization dynamics": synthesis/demographic-transition-and-urbanization-dynamics/demographic-transition-and-urbanization-dynamics-implications-for-political-deve.md
+      - "Digital society, internet governance, and cyber activism": synthesis/digital-society-internet-governance-and-cyber-activism/digital-society-internet-governance-and-cyber-activism-cross-case-synthesis.md
       - Education system reform:
         - Overview: synthesis/education-system-reform-and-curriculum-modernization/index.md
         - "Curriculum as Battleground: Education Reform in South Korea and Iran": synthesis/education-system-reform-and-curriculum-modernization/curriculum-as-battleground-education-reform-in-south-korea-and-iran.md
         - "De-Ideologizing the Classroom: Iran's Islamized Curriculum and Comparative De-Indoctrination": synthesis/education-system-reform-and-curriculum-modernization/de-ideologizing-the-classroom-irans-islamized-curriculum-and-comparative-de-indo.md
+      - "Generational politics and youth sociopolitical attitudes": synthesis/generational-politics-and-youth-sociopolitical-attitudes/conscious-music-student-alienation-and-the-youth-bulge-generational-politics-and.md
       - Media freedom:
         - Overview: synthesis/media-freedom-and-press-institution-building/index.md
         - "Digital Authoritarianism and Press Freedom: Iran, Poland, and the Information Battle": synthesis/media-freedom-and-press-institution-building/digital-authoritarianism-and-press-freedom-iran-poland-and-the-information-battl.md
         - "Press Freedom After Censorship: Iran's Journalism Tradition and Post-Transition Media Architecture": synthesis/media-freedom-and-press-institution-building/press-freedom-after-censorship-irans-journalism-tradition-and-post-transition-me.md
       - "Minority rights": synthesis/minority-rights/minority-rights-and-religious-pluralism-indonesias-ethnic-violence-irans-constit.md
+      - "Public health system and healthcare access": synthesis/public-health-system-and-healthcare-access/healthcare-under-siege-irans-health-system-reform-universal-coverage-aspirations.md
       - Religious freedom:
         - Overview: synthesis/religious-freedom-and-separation-of-religion-from-state/index.md
         - "Indonesia's Pancasila: Inclusive Monotheism and Its Limits": synthesis/religious-freedom-and-separation-of-religion-from-state/indonesias-pancasila-inclusive-monotheism-and-its-limits.md
@@ -183,7 +196,11 @@ nav:
         - "The Hijab Question and Beyond: Women's Legal Status in Post-Revolutionary Iran and Comparative Frameworks": synthesis/womens-rights-codification-and-gender-equality/the-hijab-question-and-beyond-womens-legal-status-in-post-revolutionary-iran-and.md
     - Iran-Specific:
       - "Bonyad system reform": synthesis/bonyad-system-reform/bonyad-reform-irans-para-statal-foundations-and-comparative-divestment-models.md
+      - "Diaspora repatriation and reintegration": synthesis/diaspora-repatriation-and-reintegration/diaspora-repatriation-and-reintegration-lessons-for-irans-post-transition-recove.md
+      - "Environmental crisis and resource sustainability": synthesis/environmental-crisis-and-resource-sustainability/green-growth-under-constraint-environmental-governance-resource-sustainability-a.md
+      - "Ethnic federalism in Iran": synthesis/ethnic-federalism-in-iran/ethnic-federalism-in-iran-cross-case-synthesis.md
       - "IRGC economic empire": synthesis/irgc-economic-empire-and-its-dismantling/dismantling-the-irgc-economic-empire-precedents-pathways-and-pitfalls.md
+      - "Internet and digital infrastructure as civic space": synthesis/internet-and-digital-infrastructure-as-civic-space/internet-and-digital-infrastructure-as-civic-space-control-resistance-and-transf.md
       - "Regional foreign policy reorientation": synthesis/regional-foreign-policy-reorientation/foreign-policy-reorientation-after-regime-change-irans-regional-dilemmas.md
       - "Seminary role in post-theocratic society": synthesis/seminary-role-in-post-theocratic-society/the-hawza-after-velayat-e-faqih-seminary-authority-religious-pluralism-and-post-.md
     - "Brain Return and State Reconstruction: Diaspora Repatriation Pathways for Post-Transition Iran": synthesis/brain-return-and-state-reconstruction-diaspora-repatriation-pathways-for-post-tr.md
@@ -197,13 +214,28 @@ nav:
     - "From COMECON to Single Market: Trade Liberalization and EU Accession Pathways for Iran's Economic Reintegration": synthesis/from-comecon-to-single-market-trade-liberalization-and-eu-accession-pathways-for.md
   - Case Studies:
     - Iran: case-studies/iran.md
+    - Chile: case-studies/chile.md
     - Poland: case-studies/poland.md
     - Indonesia: case-studies/indonesia.md
-    - Chile: case-studies/chile.md
     - South Korea: case-studies/south-korea.md
     - Spain: case-studies/spain.md
+    - Overview: mechanisms/index.md
     - Tunisia: case-studies/tunisia.md
     - Czech Republic: case-studies/czech-republic.md
+    - Egypt: case-studies/egypt.md
+    - Russia: case-studies/russia.md
+    - Turkey: case-studies/turkey.md
+  - Mechanisms:
+    - "Civil Society Mobilization Regime Concessions": mechanisms/civil-society-mobilization-regime-concessions.md
+    - "Constitutional Moment Majority Lock In": mechanisms/constitutional-moment-majority-lock-in.md
+    - "Elite Bargaining Failure Stalemate Or Coup": mechanisms/elite-bargaining-failure-stalemate-or-coup.md
+    - "External Intervention Transition Derailment": mechanisms/external-intervention-transition-derailment.md
+    - "Federalautonomy Bargain Ethnic Accommodation": mechanisms/federalautonomy-bargain-ethnic-accommodation.md
+    - "Information Control Collapse Elite Confidence Drop": mechanisms/information-control-collapse-elite-confidence-drop.md
+    - "Intra Regime Factional Conflict Transition Window": mechanisms/intra-regime-factional-conflict-transition-window.md
+    - "Privatization Sequencing Oligarch Capture": mechanisms/privatization-sequencing-oligarch-capture.md
+    - "Religious Authority Legitimacy Transfer": mechanisms/religious-authority-legitimacy-transfer.md
+    - "Resource Curse Patronage Persistence": mechanisms/resource-curse-patronage-persistence.md
   - Source Explorer: explorer.md
   - About:
     - How to Use This Site: about/how-to-use.md

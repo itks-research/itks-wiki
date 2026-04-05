@@ -1,21 +1,31 @@
 # Research Dashboard
 
-*Last updated: 2026-04-02 17:55*
+*Last updated: 2026-04-05 11:34*
 
 ## Summary
 
 | Metric | Count |
 |--------|-------|
-| Total Sources | 3223 |
-| Sources Scored | 3223 (100%) |
+| Total Sources | 4929 |
+| Sources Scored | 4929 (100%) |
 | Sources Translated (Farsi) | 0 (0%) |
-| Relationships Mapped | 6066 |
-| Synthesis Articles | 32 |
+| Relationships Mapped | 6216 |
+| Synthesis Articles | 42 |
 
 ## Synthesis Articles
 
 | Article | Category | Status | Last Updated |
 |---------|----------|--------|-------------|
+| [Corruption, Rent-Seeking, and Patronage Networks in Transitional States](synthesis/corruption-rent-seeking-and-patronage-networks-in-transitional-states.md) | Corruption, rent-seeking, and patronage networks | machine_generated | 2026-04-04 |
+| [Demographic Transition and Urbanization Dynamics: Implications for Political Development](synthesis/demographic-transition-and-urbanization-dynamics-implications-for-political-deve.md) | Demographic transition and urbanization dynamics | machine_generated | 2026-04-04 |
+| [Diaspora Repatriation and Reintegration: Lessons for Iran's Post-Transition Recovery](synthesis/diaspora-repatriation-and-reintegration-lessons-for-irans-post-transition-recove.md) | Diaspora repatriation and reintegration | machine_generated | 2026-04-04 |
+| [Internet and Digital Infrastructure as Civic Space: Control, Resistance, and Transformation](synthesis/internet-and-digital-infrastructure-as-civic-space-control-resistance-and-transf.md) | Internet and digital infrastructure as civic space | machine_generated | 2026-04-04 |
+| [Protest Movements and Contentious Politics: Mobilization Under Repression](synthesis/protest-movements-and-contentious-politics-mobilization-under-repression.md) | Protest movements and contentious politics | machine_generated | 2026-04-04 |
+| [Company Towns, Regional Poverty, and the Inclusive Growth Imperative: Urban Inequality and Cost of Living in Iran](synthesis/company-towns-regional-poverty-and-the-inclusive-growth-imperative-urban-inequal.md) | Housing, cost of living, and urban inequality | machine_generated | 2026-04-04 |
+| [Conscious Music, Student Alienation, and the Youth Bulge: Generational Politics and Sociopolitical Attitudes in Iran and Comparative Contexts](synthesis/conscious-music-student-alienation-and-the-youth-bulge-generational-politics-and.md) | Generational politics and youth sociopolitical attitudes | machine_generated | 2026-04-04 |
+| [Between Mosque and Market: The Bazaar Economy, Informal Trade Networks, and the Political Economy of Merchant Power in Iran](synthesis/between-mosque-and-market-the-bazaar-economy-informal-trade-networks-and-the-pol.md) | Bazaar economy, informal sector, and merchant class | machine_generated | 2026-04-04 |
+| [Green Growth Under Constraint: Environmental Governance, Resource Sustainability, and Energy Transition Pathways for Iran](synthesis/green-growth-under-constraint-environmental-governance-resource-sustainability-a.md) | Environmental crisis and resource sustainability | machine_generated | 2026-04-04 |
+| [Healthcare Under Siege: Iran's Health System Reform, Universal Coverage Aspirations, and the Sanctions Constraint](synthesis/healthcare-under-siege-irans-health-system-reform-universal-coverage-aspirations.md) | Public health system and healthcare access | machine_generated | 2026-04-04 |
 | [From Clandestine Cells to Coalition Government: Political Party Formation in Post-Authoritarian Spain and Implications for Iran](synthesis/from-clandestine-cells-to-coalition-government-political-party-formation-in-post.md) | Political party formation and pluralism | approved | 2026-04-02 |
 | [The Transition Tax: Labor Market Disruption, Social Safety Nets, and Managing Reform Costs in Democratizing Economies](synthesis/the-transition-tax-labor-market-disruption-social-safety-nets-and-managing-refor.md) | Labor market reform and social safety nets | approved | 2026-04-02 |
 | [Unity in Diversity? Ethnic Accommodation, Minority Rights, and Post-Theocratic Governance in Iran](synthesis/unity-in-diversity-ethnic-accommodation-minority-rights-and-post-theocratic-gove.md) | Minority rights | approved | 2026-04-02 |
@@ -58,38 +68,38 @@
 | [Democratic Decentralization of Natural Resources: Institutionalizing P...](explorer/?id=4865) | Indonesia | 5.0 | 604 |
 | [Gender as “Ebola from Brussels”: The Anticolonial Frame and the Rise o...](explorer/?id=4483) | Poland | 5.0 | 514 |
 | [Accounting for Corruption: Economic Structure, Democracy, and Trade](explorer/?id=4097) | Poland | 5.0 | 463 |
-| [Time to Care: Unpaid and underpaid care work and the global inequality...](explorer/?id=5568) | Iran | 5.0 | 270 |
+| [Infrastructures of empire: towards a critical geopolitics of media and...](explorer/?id=5928) | Iran | 5.0 | 175 |
+| [The Consolidation of Democracy in East-Central Europe](explorer/?id=9254) | Poland | 5.0 | 174 |
 | [After Khomeini: Iran under his successors](explorer/?id=2297) | Iran | 5.0 | 158 |
+| [Laskar Jihad: Islam, Militancy, and the Quest for Identity in Post-New...](explorer/?id=5985) | Iran | 5.0 | 157 |
 | [Exit and voice in a digital age: Iran’s exiled activists and the autho...](explorer/?id=6211) | Iran | 5.0 | 143 |
 | [Time to Rethink Privatization in Transition Economies?](explorer/?id=1042) | South Korea | 5.0 | 142 |
 | [Century Of Revolution: Social Movements in Iran](explorer/?id=2296) | Iran | 5.0 | 137 |
 | [Illiberal Constitutionalism: The Case of Hungary and Poland](explorer/?id=4330) | Poland | 5.0 | 133 |
-| [Theorizing power in political ecology: the 'where' of power in resourc...](explorer/?id=4984) | Indonesia | 5.0 | 122 |
-| [The Politics of Judicial Reform in Eastern Europe](explorer/?id=4379) | Poland | 5.0 | 112 |
-| [Winds of Change: Economic Transition in Central and Eastern Europe](explorer/?id=4305) | Poland | 5.0 | 102 |
-| [Institutional Design In New Democracies: Eastern Europe And Latin Amer...](explorer/?id=4052) | Poland | 5.0 | 101 |
+| [Resistance in repressive contexts: A comprehensive test of psychologic...](explorer/?id=5931) | Iran | 5.0 | 130 |
+| [The Youth Bulge in Egypt: An Intersection of Demographics, Security, a...](explorer/?id=5827) | Iran | 5.0 | 130 |
 
 ## Coverage by Case Study
 
 | Case Study | Sources | Scored | Avg Relevance |
 |------------|---------|--------|---------------|
-| [Iran](case-studies/iran.md) | 3693 | 3693 | 2.4 |
-| [Poland](case-studies/poland.md) | 863 | 863 | 3.1 |
-| [Indonesia](case-studies/indonesia.md) | 698 | 698 | 2.4 |
-| [Chile](case-studies/chile.md) | 675 | 675 | 2.4 |
-| [South Korea](case-studies/south-korea.md) | 457 | 457 | 2.9 |
+| [Iran](case-studies/iran.md) | 4317 | 4317 | 2.6 |
+| [Chile](case-studies/chile.md) | 1874 | 1874 | 2.5 |
+| [Poland](case-studies/poland.md) | 1475 | 1171 | 3.0 |
+| [Indonesia](case-studies/indonesia.md) | 702 | 702 | 2.4 |
+| [South Korea](case-studies/south-korea.md) | 454 | 454 | 2.9 |
 | [Spain](case-studies/spain.md) | 341 | 341 | 2.9 |
-| [Tunisia](case-studies/tunisia.md) | 275 | 275 | 3.1 |
+| [Tunisia](case-studies/tunisia.md) | 277 | 277 | 3.1 |
 | [Czech Republic](case-studies/czech-republic.md) | 241 | 241 | 2.7 |
 
 ## Coverage by Domain
 
 | Domain | Sources | Case Studies | Avg Relevance |
 |--------|---------|-------------|---------------|
-| Political | 3037 | 8 | 2.8 |
-| Social Cultural | 2300 | 8 | 2.3 |
-| Economic | 1151 | 8 | 2.8 |
-| Iran Specific | 755 | 4 | 2.2 |
+| Political | 3682 | 8 | 2.8 |
+| Social Cultural | 3401 | 8 | 2.4 |
+| Economic | 1831 | 8 | 2.8 |
+| Iran Specific | 767 | 6 | 2.4 |
 
 ## Detailed Coverage
 
@@ -97,23 +107,25 @@
 
 | Category | Sources | Avg Relevance |
 |----------|---------|---------------|
+| Civil society development | 202 | 2.5 |
+| Federalism, unitarism, and autonomy models | 201 | 3.0 |
+| Women's rights codification and gender equality | 170 | 2.8 |
+| Judicial independence and rule of law | 165 | 2.8 |
+| Sanctions unwinding and international reintegration | 149 | 2.0 |
 | Electoral system design and implementation | 131 | 3.2 |
+| Media freedom and press institution building | 114 | 3.0 |
 | Political party formation and pluralism | 113 | 2.1 |
 | Religious freedom and separation of religion from state | 100 | 2.0 |
 | Civil-military relations and security sector reform | 93 | 2.0 |
 | Transitional justice | 93 | 2.4 |
 | Constitutional design and drafting processes | 68 | 3.2 |
-| Labor market reform and social safety nets | 26 | 2.2 |
+| Trade liberalization and foreign direct investment | 63 | 3.4 |
+| Education system reform and curriculum modernization | 62 | 2.6 |
+| Labor market reform and social safety nets | 61 | 2.3 |
+| Privatization and state-owned enterprise restructuring | 60 | 4.0 |
+| Resource curse management | 28 | 1.9 |
+| Banking and financial system reform | 14 | 2.8 |
 | Cultural heritage preservation during institutional change | 13 | 1.4 |
-| Education system reform and curriculum modernization | 9 | 2.1 |
-| Resource curse management | 9 | 1.9 |
-| Judicial independence and rule of law | 5 | 2.8 |
-| Banking and financial system reform | 4 | 2.8 |
-| Women's rights codification and gender equality | 4 | 2.2 |
-| Trade liberalization and foreign direct investment | 3 | 2.7 |
-| Civil society development | 2 | 2.5 |
-| Privatization and state-owned enterprise restructuring | 1 | 4.0 |
-| Sanctions unwinding and international reintegration | 1 | 2.0 |
 
 ### Czech Republic
 
@@ -168,53 +180,57 @@
 
 | Category | Sources | Avg Relevance |
 |----------|---------|---------------|
+| Banking and financial system reform | 270 | 2.1 |
 | Minority rights | 250 | 2.7 |
-| Ethnic federalism in Iran | 221 | 1.9 |
 | Education system reform and curriculum modernization | 218 | 2.4 |
+| Ethnic federalism in Iran | 211 | 2.5 |
 | Media freedom and press institution building | 203 | 2.4 |
 | Electoral system design and implementation | 199 | 2.2 |
+| Judicial independence and rule of law | 185 | 2.3 |
+| Religious freedom and separation of religion from state | 180 | 2.7 |
 | Political party formation and pluralism | 167 | 2.2 |
+| Civil-military relations and security sector reform | 163 | 2.8 |
 | Transitional justice | 158 | 2.0 |
+| Sanctions unwinding and international reintegration | 154 | 3.2 |
+| Resource curse management | 145 | 2.5 |
 | Women's rights codification and gender equality | 142 | 2.3 |
-| Sanctions unwinding and international reintegration | 140 | 3.2 |
+| Constitutional design and drafting processes | 140 | 3.0 |
 | Demographic transition and urbanization dynamics | 122 | 2.5 |
-| Civil-military relations and security sector reform | 117 | 2.8 |
-| Constitutional design and drafting processes | 113 | 3.1 |
-| Judicial independence and rule of law | 108 | 2.4 |
-| Federalism, unitarism, and autonomy models | 104 | 1.9 |
+| Federalism, unitarism, and autonomy models | 114 | 2.1 |
 | Civil society development | 103 | 1.7 |
 | Nuclear program civilian transition | 102 | 2.4 |
 | Diaspora repatriation and reintegration | 100 | 1.9 |
 | IRGC economic empire and its dismantling | 96 | 3.0 |
-| Religious freedom and separation of religion from state | 96 | 2.8 |
-| Banking and financial system reform | 91 | 2.0 |
-| Public health system and healthcare access | 82 | 2.1 |
+| Privatization and state-owned enterprise restructuring | 93 | 3.4 |
+| Public health system and healthcare access | 90 | 2.2 |
 | Housing, cost of living, and urban inequality | 77 | 2.5 |
 | Regional foreign policy reorientation | 66 | 2.4 |
 | Bonyad system reform | 65 | 2.1 |
 | Protest movements and contentious politics | 60 | 2.5 |
-| Resource curse management | 59 | 2.4 |
 | Seminary role in post-theocratic society | 59 | 2.3 |
 | Labor market reform and social safety nets | 50 | 2.2 |
 | Corruption, rent-seeking, and patronage networks | 47 | 2.6 |
-| Privatization and state-owned enterprise restructuring | 45 | 3.4 |
 | Brain-drain reversal and diaspora economic engagement | 44 | 1.5 |
+| Bazaar economy, informal sector, and merchant class | 41 | 2.4 |
 | Trade liberalization and foreign direct investment | 40 | 3.3 |
-| Digital society, internet governance, and cyber activism | 34 | 1.4 |
+| Digital society, internet governance, and cyber activism | 35 | 2.2 |
 | Internet and digital infrastructure as civic space | 30 | 2.2 |
-| Generational politics and youth sociopolitical attitudes | 29 | 2.5 |
+| Generational politics and youth sociopolitical attitudes | 29 | 2.4 |
 | Power-sharing mechanisms during transition periods | 26 | 2.8 |
 | Cultural heritage preservation during institutional change | 13 | 2.3 |
-| Environmental crisis and resource sustainability | 9 | 2.2 |
-| Bazaar economy, informal sector, and merchant class | 8 | 2.4 |
+| Environmental crisis and resource sustainability | 13 | 2.2 |
 
 ### Poland
 
 | Category | Sources | Avg Relevance |
 |----------|---------|---------------|
+| Women's rights codification and gender equality | 201 | 3.0 |
+| Political party formation and pluralism | 185 | 3.3 |
 | Privatization and state-owned enterprise restructuring | 151 | 3.3 |
 | Constitutional design and drafting processes | 138 | 3.3 |
 | Electoral system design and implementation | 134 | 2.8 |
+| Religious freedom and separation of religion from state | 128 | 2.0 |
+| Education system reform and curriculum modernization | 108 | 3.0 |
 | Media freedom and press institution building | 101 | 2.9 |
 | Transitional justice | 92 | 3.1 |
 | Civil society development | 88 | 2.9 |
@@ -222,17 +238,13 @@
 | Civil-military relations and security sector reform | 36 | 2.9 |
 | Labor market reform and social safety nets | 13 | 2.5 |
 | Trade liberalization and foreign direct investment | 8 | 3.0 |
-| Education system reform and curriculum modernization | 4 | 3.0 |
 | Banking and financial system reform | 3 | 3.3 |
 | Cultural heritage preservation during institutional change | 3 | 2.0 |
-| Political party formation and pluralism | 3 | 3.3 |
-| Religious freedom and separation of religion from state | 3 | 2.0 |
 | Public health system and healthcare access | 2 | 2.0 |
 | Sanctions unwinding and international reintegration | 2 | 3.5 |
 | Federalism, unitarism, and autonomy models | 1 | 3.0 |
 | Power-sharing mechanisms during transition periods | 1 | 4.0 |
 | Regional foreign policy reorientation | 1 | 3.0 |
-| Women's rights codification and gender equality | 1 | 3.0 |
 
 ### South Korea
 

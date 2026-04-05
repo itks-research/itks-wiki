@@ -1,16 +1,4 @@
----
-tags:
-  - Political
-  - Civil-military relations and security sector reform
-  - Iran
-  - Spain
----
-
-<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Civil-military relations and security sector reform</a></p>
-
-# Crisis as Reform Catalyst: Spain's 23-F and Lessons for Iran
-
-**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-31T19:42:50.266216
+## Evidence & Key Findings
 
 On February 23, 1981, Lieutenant-Colonel Antonio Tejero led 200 armed Civil Guard officers into the Spanish Congress, holding parliamentarians hostage during a prime ministerial investiture vote. King Juan Carlos I's televised address denouncing the coup and affirming constitutional order proved decisive. The 23-F coup attempt paradoxically accelerated rather than retarded civilian control. The manifest failure of military intervention — and the monarchy's unambiguous alignment with democracy — shifted the political equilibrium decisively. This dynamic carries critical lessons for Iran, where crisis moments have consistently been resolved in favor of the security establishment rather than reform.
 
@@ -20,9 +8,13 @@ Kuehn and Croissant (2023) confirm that Spain's early prioritization of defense 
 
 The challenge of military institutionalization extends beyond Spain itself. Lubis (2026) examines the civil-military boundary in emerging democracies through a socio-legal lens, identifying how military law structures can either facilitate or obstruct the professionalization process. Bruneau (2018) develops a conceptual framework for analyzing civil-military relations that highlights the structural conditions enabling military institutions to accept constitutional subordination. These analytical frameworks illuminate the conditions that allowed the Spanish armed forces to transition from the guardrail role demonstrated in 1981 toward genuine institutional accountability. Safi (2024) documents military depolitization strategies adopted in comparable democratic transitions, providing comparative evidence for understanding Spain's civil-military evolution post-1981.
 
+## Cross-Country Patterns
+
 The cross-cutting pattern is that crises can function as reform catalysts, but only under specific conditions. First, civilian leadership must have institutional blueprints prepared before the crisis. Spain's reformers had detailed plans for defense ministry restructuring. Second, a legitimacy anchor must exist to rally cross-factional support during the crisis window. King Juan Carlos served this role in Spain. Third, the crisis must be resolved decisively and publicly — ambiguous outcomes allow military establishments to regroup. The comparison between Spain (where the 23-F was resolved within 18 hours by a clear royal intervention) and Egypt (where the 2011 revolution produced an ambiguous civil-military outcome) illustrates this difference.
 
 Cross-cutting institutional patterns emerge from comparative military law scholarship. The depoliticization framework central to Spain's post-1981 trajectory appears across multiple democratic transitions, though success rates vary significantly with institutional design. Lubis (2026) and Safi (2024) both emphasize that military professionalism requires sustained legal constraints that prove difficult to sustain during security crises. This pattern suggests Iran's security sector reform faces structural obstacles that Spain's constitutionalists overcame through sustained consensus-building.
+
+## Iran Context
 
 Iran's crisis moments — the 2009 Green Movement, the 2019 November protests, the 2022 Woman Life Freedom movement — have to date been resolved in favor of the security establishment. The 23-F lesson is not that Iran needs a failed coup to consolidate civilian control, but that prepared institutional blueprints are the precondition for converting crisis into reform. Iran's opposition movements have generated crisis moments but lacked implementable institutional alternatives.
 
@@ -32,9 +24,13 @@ The external dimension also differs. Spain's NATO entry provided an institutiona
 
 Iranian constitutional architects must contend with the IRGC as an institutional actor lacking parallel in Spain. The Spanish military, though powerful, remained subordinate to civilian administrative structures. The conceptual framework offered by Bruneau (2018) identifies how institutional incentives shape military commitment to constitutional governance. Iran's security sector reform presents a more complex challenge: the IRGC's economic empire and internal differentiation (Safi 2024 documents such patterns across Southeast Asia) create institutional interests resistant to democratization. Depoliticization theory (Lubis 2026) emphasizes that military professionalization requires removing security institutions from zero-sum political competition—a condition difficult to establish when security actors control substantial economic resources and political legitimacy derived from revolutionary ideology.
 
+## Open Research Questions
+
 - What institutional mechanisms could serve as Iran's "legitimacy anchor" during a crisis-to-reform transition, given the absence of a monarchical or comparable unifying institution?
 - Could external powers (EU, UN, regional actors) provide the type of institutional framework that NATO membership provided Spain, and what would the conditions be?
 - How could opposition movements develop implementable institutional blueprints in advance, given that detailed transition planning is itself a politically sensitive activity under authoritarian conditions?
+
+## Sources
 
 | Source | Year | Key Finding |
 |--------|------|-------------|
@@ -43,3 +39,13 @@ Iranian constitutional architects must contend with the IRGC as an institutional
 | 5502 | Arief Fahmi Lubis | 2026 | The Sociology of Military Law: Civil–Military Boundary in Em... |
 | 5507 | T. Bruneau | 2018 | A conceptual framework for the analysis of civil-military re... |
 | 5525 | Fathomi Abdillah Safi | 2024 | Employing Poland's Military Depolitization and Professionali... |
+
+## Implications for Iran
+
+**Institutional Mapping:** The institutions that would determine whether a crisis moment catalyzes reform or repression include: the Supreme Leader's office (بیت رهبری), which currently monopolizes the legitimacy-anchor function that Juan Carlos played in Spain; the IRGC command structure, which would need at minimum passive acquiescence for any reform to proceed; the Assembly of Experts (مجلس خبرگان), the only body with constitutional authority to address Supreme Leader succession; the Guardian Council (شورای نگهبان), whose veto power blocks legislative reform pathways; the judiciary (قوه قضائیه), headed by a Supreme Leader appointee; and the Expediency Discernment Council (مجمع تشخیص مصلحت نظام), which arbitrates Guardian Council-Parliament disputes. The Artesh, Basij, FARAJA, and MOIS each play distinct roles in crisis response, with the IRGC's intelligence organization and the Basij's Ashura battalions serving as primary domestic repression forces.
+
+**Structural Parallels:** Spain's 23-F succeeded as a reform catalyst because three conditions aligned: a clear legitimacy anchor (the monarchy), a prepared institutional alternative (the constitutional framework), and military division (Tejero acted without unified military support). Iran's protest crises — 2009 (جنبش سبز), 2019 (آبان ۹۸), 2022 (زن، زندگی، آزادی) — have failed to catalyze reform because none of these conditions obtained. The security apparatus remained unified, no alternative institutional framework existed, and no legitimacy anchor commanded cross-factional authority. The parallel with Spain is therefore aspirational rather than descriptive: it identifies what would need to be in place before a crisis could become transformative. Huntington's "tortoise strategy" — gradual, persistent expansion of civilian authority — is largely inapplicable to Iran because the Guardian Council's veto power prevents incremental legislative reform. Iran's transition, unlike Spain's, likely requires an extra-constitutional moment rather than a constitutional evolution.
+
+**Key Actors and Sequencing:** The 23-F lesson reformulated for Iran: reform blueprints must be prepared before crisis, not improvised during it. This requires: (1) development of detailed institutional blueprints for post-transition governance by opposition intellectuals, diaspora experts, and sympathetic insiders — addressing defense structure, judiciary reform, economic transition, and religion-state relations comprehensively; (2) identification or construction of a legitimacy anchor — whether a transitional council, constituent assembly, or charismatic figure — with sufficient cross-factional credibility to fulfill the Juan Carlos function; (3) cultivation of pragmatic elements within the security establishment who might calculate, as Spanish military moderates did, that their institutional interests are better served by managed transition than by violent suppression followed by eventual collapse; (4) development of external security frameworks (regional non-aggression pacts, international guarantees) that address the military's legitimate defense concerns.
+
+**Risks:** The most dangerous risk is premature crisis without preparation — a protest movement that topples the regime before institutional alternatives exist, producing Libya rather than Spain. Iran's 2022 movement demonstrated enormous mobilization capacity but no implementable governance alternative. A second risk is the "prepared crisis" trap, where opposition actors attempt to engineer crisis moments without the underlying conditions for success, producing repression that further entrenches the security apparatus. The absence of a legitimacy anchor equivalent to Spain's monarchy is the single most consequential structural gap. The Supreme Leader institution currently monopolizes cross-institutional legitimacy, and its removal creates a legitimacy vacuum that no existing opposition structure can fill. This suggests that legitimacy architecture — not just institutional design — must be the priority for pre-transition planning.

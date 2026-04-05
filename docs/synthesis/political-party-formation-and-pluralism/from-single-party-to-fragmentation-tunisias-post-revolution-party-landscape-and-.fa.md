@@ -1,6 +1,4 @@
-<div dir="rtl" markdown>
-
-# From Single Party to Fragmentation: Tunisia's Post-Revolution Party Landscape and Lessons for Iran
+## Evidence & Key Findings
 
 Tunisia's post-2011 revolution represents one of the most dramatic transformations in Middle Eastern party politics. Prior to 2011, Tunisia operated under Ben Ali's single-party authoritarian system, with the Constitutional Democratic Rally (RCD) maintaining total monopoly control. Following the revolution, Tunisia experienced an explosive proliferation of political parties—from near-zero competitive parties to over 100 registered parties by 2014 (Arieff, 2011; Angrist, 2013).
 
@@ -12,6 +10,8 @@ Yet this apparent pluralism masked deeper fragmentation. Beyond the two major bl
 
 The critical turning point came with President Kais Saied's 2021 constitutional coup. Saied claimed to act against "corrupt" politicians and paralyzed حکمرانی, but in practice, his actions dismantled the party-based system entirely. By 2023, Tunisia's party landscape had been effectively neutralized—not through consolidation, but through authoritarian suppression. The fragmented party system had proven unable to produce stable حکمرانی, creating space for an outsider populist to claim مشروعیت in dismantling it entirely (Affan, 2022; Ghannouchi & March, 2023).
 
+## Cross-Country Patterns
+
 The Tunisian case illustrates a critical paradox in post-authoritarian transitions: the same mechanisms that enable democratic pluralism can undermine تحکیم دموکراسی. Party fragmentation, when excessive, creates several structural problems.
 
 First, fragmentation prevents formation of stable legislative majorities. With dozens of parties competing, no single party achieves a mandate, forcing perpetual coalition negotiations. This dilutes executive power and slows legislation (Volpi & Stein, 2015).
@@ -22,6 +22,8 @@ Third, excessive fragmentation creates حکمرانی vacuums that opportunistic
 
 The distinction between genuine pluralism and pathological atomization matters: genuine pluralism involves 3-6 major parties with distinct constituencies and programs; atomization produces 50+ minor parties with indistinct platforms. Tunisia crossed from the former into the latter after 2011.
 
+## Iran Context
+
 Iran's political system offers an instructive contrast to Tunisia's rapid liberalization. Rather than experiencing sudden party pluralization, Iran maintains a controlled system of party competition within the framework of رهبر معظم انقلاب authority. The Islamic Iran Participation Front (IIPF) represents the closest approximation to an organized reformist party, advocating gradual political opening and civil rights expansion. However, the IIPF operates under severe constraints: it cannot challenge the fundamental structure of ولایت فقیه (rule of the jurist), its candidates are vetted by the شورای نگهبان, and its legislative initiatives are subject to رهبر معظم انقلاب veto.
 
 The reformist movement more broadly—associated with figures like former Presidents Khatami and Rouhani—represents a diffuse tendency rather than a party. Despite winning elections on reform platforms, reformists have repeatedly discovered that executive power within Iran's dual structure is severely constrained. Unlike Tunisia, where Ennahda could genuinely negotiate constitutional terms, Iranian reformists negotiate within fixed institutional parameters set by unelected bodies.
@@ -30,6 +32,8 @@ Tunisia's trajectory suggests the dangers to Iran of sudden, uncontrolled party 
 
 Moreover, Tunisia's 2021 collapse suggests that fragmentation creates vulnerability to authoritarian reversal. An Iranian system experiencing rapid party proliferation without institutional mechanisms for consolidation could face مشروعیت crisis—potentially inviting a charismatic military or security figure to claim, like Saied, that the system must be dismantled entirely. The lesson for Iran is not that pluralism should be avoided, but that opening must be carefully sequenced: institutional reform (term limits, reduced شورای نگهبان powers, expanded legislative autonomy) should precede rapid party liberalization. Without institutional guardrails, pluralism can paradoxically enable authoritarianism.
 
+## Open Research Questions
+
 **Key Research Gaps:**
 
 1. **طراحی نهادی and Party System Outcomes**: What specific electoral and constitutional provisions lead to productive pluralism versus pathological atomization? Tunisia employed proportional representation without thresholds—did a higher threshold encourage consolidation? How would alternative institutional designs (mixed systems, presidential vs. parliamentary) have altered party system development?
@@ -37,6 +41,8 @@ Moreover, Tunisia's 2021 collapse suggests that fragmentation creates vulnerabil
 2. **Authoritarian Learning and Controlled Liberalization**: How do regimes like Iran's design controlled pluralism to avoid Tunisia-style fragmentation while still maintaining authoritarian control? What mechanisms (شورای نگهبان گزینش و بررسی صلاحیت, mandatory party ideological alignment) prevent fragmentation while preserving single-party dominance?
 
 3. **Generational and Ideological Factors in Party Consolidation**: Why did Tunisia's secular vs. Islamist cleavage fail to produce durable two-party competition, while similar divisions in other contexts (Egypt, Morocco) produced more stable systems? How do generational change and shifting issue priorities affect party consolidation in post-transition contexts?
+
+## Sources
 
 | شناسه | عنوان | نویسندگان | سال | مطالعه موردی |
 |---|---|---|---|---|
@@ -48,6 +54,3 @@ Moreover, Tunisia's 2021 collapse suggests that fragmentation creates vulnerabil
 | 603 | Secularism Confronts Islamism | Mohammad Affan | 2022 | Tunisia |
 | 609 | On Muslim Democracy | Rached Ghannouchi, Andrew F. March | 2023 | Tunisia |
 | 617 | North Africa’s Arab Spring |  | 2013 | Tunisia |
-
-
-</div>

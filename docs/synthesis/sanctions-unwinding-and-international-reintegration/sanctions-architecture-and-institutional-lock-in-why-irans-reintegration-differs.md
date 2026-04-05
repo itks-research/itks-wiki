@@ -1,15 +1,4 @@
----
-tags:
-  - Economic
-  - Sanctions unwinding and international reintegration
-  - Iran
----
-
-<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Sanctions unwinding and international reintegration</a></p>
-
-# Sanctions Architecture and Institutional Lock-In: Why Iran's Reintegration Differs from Every Precedent
-
-**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-31T19:49:46.417997
+## Evidence & Key Findings
 
 EVIDENCE: Layered Architecture of Iran Sanctions and the JCPOA Paradox
 
@@ -23,6 +12,8 @@ The IRGC designation complicates sectoral relief pathways. The Guards control ma
 
 [Source: ["Peivand Bastani", "Zahra Dehghan", "Seyyed Mansour Kashfi", "Hesam Dorosti", "Mohammadtaghi Mohammadpour", "Gholamhossein Mehralian", "Ramin Ravangard"], 2021]
 
+## Cross-Country Patterns
+
 PATTERNS: Institutional Lock-In Mechanisms in Sanctions Regimes
 
 Sanctions regimes develop institutional lock-in through four reinforcing mechanisms:
@@ -34,6 +25,8 @@ Sanctions regimes develop institutional lock-in through four reinforcing mechani
 3. Third-Party Overcompliance: Non-US entities (banks, insurers, shipping lines) often implement sanctions more stringently than required to avoid secondary penalties. This "overcompliance" persists even when official relief is announced, because the cost of compliance is lower than the perceived risk of non-compliance with US enforcement.
 
 4. The Snap-Back Problem: The JCPOA's "snap-back" mechanism (automatic reinstatement of sanctions upon non-compliance) created psychological and institutional precedent for rapid re-escalation. This symmetry reversal—where sanctions lift quickly but snap back suddenly—discourages investment and creates vested interests against reintegration among actors whose economic models depend on sanctions persistence.
+
+## Iran Context
 
 IRAN'S UNIQUE SANCTIONS CHALLENGE: Economic Adaptation and Vested Interests
 
@@ -47,6 +40,8 @@ SWIFT Disconnection Legacy: Iran's removal from SWIFT (2012) and subsequent deve
 
 Financial Sanctions and the Vested Interest Problem: Foreign exchange scarcity and capital controls (consequences of sanctions) created vested interests within Iran against reintegration. Import-license holders, currency traders, and regime-connected business groups profit from the shortage premium and foreign exchange controls. Full sanctions relief would normalize exchange rates and compete away these rents, creating domestic political opposition to reintegration among powerful economic interests.
 
+## Open Research Questions
+
 CRITICAL RESEARCH QUESTIONS
 
 1. If Iran were to achieve partial sanctions relief (sectoral oil, banking, but not IRGC), would the persistence of IRGC designations prevent meaningful financial reintegration, or could alternative institutional mechanisms (third-country financial intermediaries, special credit facilities) enable sufficient trade growth to stabilize an agreement?
@@ -54,6 +49,8 @@ CRITICAL RESEARCH QUESTIONS
 2. What is the irreversibility threshold for Iran's alternative payment infrastructure (bilateral arrangements, digital currency experimentation, BRICS settlement systems)? At what point does the development of non-SWIFT payment channels reduce Iran's institutional need for reintegration, creating a self-reinforcing sanctions trap?
 
 3. How do domestic Iranian vested interests in sanctions persistence (foreign exchange premium beneficiaries, import-license monopolies, regime-connected firms) constrain Iran's negotiating room, and what domestic political conditions would be necessary for Iran to overcome this internal opposition to reintegration?
+
+## Sources
 
 SOURCES CONSULTED
 
@@ -73,13 +70,20 @@ Average relevance score: 4.00
 Average reliability score: 4.66
 
 
-## Sources (8)
+## Implications for Iran
 
-- [Strategies to improve pharmaceutical supply chain resilience under politico-economic sanctions: the case of Iran](../explorer/?id=1922)
-- [State Business Support Programs in Wartime Conditions](../explorer/?id=1892)
-- [Russia and the World: 2023 IMEMO Forecast](../explorer/?id=1909)
-- [The economic impact of the lifting of sanctions on tourism in Iran: a computable general equilibrium analysis](../explorer/?id=1916)
-- [Sri Lanka](../explorer/?id=1820)
-- [Latin America: Is a Spurt in Development Possible?](../explorer/?id=1821)
-- [U.S.-Imposed Economic Sanctions on Iran in the COVID-19 Crisis From the Human Rights Perspective](../explorer/?id=1934)
-- [How Do International Conflicts Impact China’s Energy Security and Economic Growth? A Case Study of the US Economic Sanctions on Iran](../explorer/?id=1935)
+**Institutional Mapping**
+
+Iran's sanctions architecture implicates institutions across domestic and international domains. Domestically: the IRGC's economic entities — Khatam al-Anbiya, Mobin Trust, Mapna Group, and hundreds of subsidiaries — are themselves designated entities whose involvement in any economic sector contaminates that sector for sanctions purposes. The Central Bank of Iran (بانک مرکزی) faces primary US sanctions, paralyzing normal international financial operations. The Supreme National Security Council (شورای عالی امنیت ملی) coordinates nuclear and sanctions policy. The Atomic Energy Organization of Iran (AEOI/سازمان انرژی اتمی) manages nuclear infrastructure whose future determines sanctions trajectory. Setad-e Ejraiye Farmane Emam — the Supreme Leader's economic conglomerate — is independently designated. Internationally: the US Treasury's Office of Foreign Assets Control (OFAC) maintains the most comprehensive sanctions designations; the EU Council maintains autonomous sanctions; and UNSC Resolution 2231 provides the multilateral framework. The SWIFT network's disconnection and reconnection decisions are pivotal for financial reintegration.
+
+**Structural Parallels**
+
+No historical precedent adequately parallels Iran's sanctions architecture. South Africa's sanctions unwinding occurred under clear political conditions (end of apartheid) with coordinated multilateral de-escalation. Iran faces a credibility problem the JCPOA exposed: nuclear compliance did not automatically trigger comprehensive relief because US primary sanctions on non-nuclear grounds (IRGC designation, human rights, terrorism) remained. Myanmar's modulation operated within regional consensus; Cuba's embargo is unilateral. Iran's unique feature is institutional lock-in: sanctions created vested domestic interests (currency traders, import-license holders, IRGC smuggling networks) that profit from the distorted economy and would resist reintegration. The SWIFT disconnection created path-dependent alternative infrastructure (SEPAM, China-Iran bilateral clearing) that now competes with reconnection incentives. This is a sanctions trap without structural precedent.
+
+**Key Actors and Sequencing**
+
+Reintegration requires simultaneous domestic and international reform — a coordination problem of extraordinary complexity. International prerequisites: IRGC de-designation or credible sectoral carve-outs (requiring Washington political change); JCPOA successor framework addressing both nuclear and non-nuclear concerns; EU autonomous sanctions calibration; SWIFT reconnection with compliance infrastructure. Domestic prerequisites: financial sector reform rebuilding correspondent banking relationships; IRGC economic divestiture reducing designated-entity contamination of civilian sectors; central bank independence from political direction; anti-money-laundering infrastructure meeting FATF standards. Key blockers: Washington's bipartisan consensus on maximum pressure; IRGC commanders whose economic interests depend on sanctions-era opacity; Iranian hardliners who frame sanctions as legitimizing autarky (اقتصاد مقاومتی, "resistance economy"). Enablers: Iranian technocrats who negotiated the JCPOA; European governments seeking trade normalization; diaspora business networks bridging financial systems. Sequencing: political reform establishing civilian control over nuclear and security policy → JCPOA successor framework → graduated sanctions relief beginning with humanitarian and financial sectors → SWIFT reconnection → IRGC economic divestiture enabling comprehensive relief → WTO accession framework.
+
+**Risks**
+
+The primary danger is partial sanctions relief that perpetuates the worst features of both sanctions and integration: enough relief to reduce reform pressure but insufficient to enable genuine economic restructuring. The JCPOA experience demonstrated this: 2016-2018 partial relief benefited connected insiders while ordinary Iranians saw limited improvement. A second risk is the vested interest problem: sanctions-era economic actors (including IRGC networks) repositioning as "private sector" actors during reintegration, capturing the benefits of relief while maintaining rent-seeking structures. A third risk is geopolitical: Iran-China economic alignment developed during sanctions may prove more durable than assumed, reducing Iranian incentives for Western reintegration. Prerequisites for credible reintegration: comprehensive financial reform including FATF compliance; transparent asset mapping of designated entities; political transition establishing civilian authority over sanctions-relevant decisions; and international framework linking relief to verifiable institutional reform rather than mere nuclear compliance.

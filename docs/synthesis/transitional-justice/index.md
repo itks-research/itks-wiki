@@ -1,15 +1,3 @@
----
-tags:
-  - Political
-  - Transitional justice
----
-
-<p class="breadcrumb"><a href="../index.md">Home</a> > <a href="index.md">Research Findings</a></p>
-
-# Transitional Justice: Accountability, Memory, and Institutional Design
-
-**Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29T09:45:42.202156
-
 ## Key Insights
 
 - **Amnesty is deferral, not resolution**: Spain's 45-year arc from the 1977 Amnesty Law to the 2022 Democratic Memory Law demonstrates that impunity generates its own long-term instability. For Iran, where digital evidence is already internationally distributed, any pact of silence would unravel far faster.
@@ -28,9 +16,9 @@ How TJ frameworks should address violations by theocratic institutions distinct 
 
 ## Sub-Articles
 
-1. **[Amnesty vs. Accountability: Spain's Forty-Year Lesson](amnesty-vs-accountability-spains-forty-year-lesson.md)** -- How the pact of silence purchased short-term stability but generated long-term democratic fragility, and what this means for Iran.
-2. **[Islamic Transitional Justice: Tunisia, Morocco, and the Legitimacy Question](islamic-transitional-justice-tunisia-morocco-and-the-legitimacy-question.md)** -- Whether qisas, diya, and sulh can bridge international TJ norms and local legitimacy in Muslim-majority societies.
-3. **[Does Prosecution Deter? The Kim-Sikkink Evidence and South Korea's Model](does-prosecution-deter-the-kim-sikkink-evidence-and-south-koreas-model.md)** -- Quantitative evidence on whether accountability improves human rights, and the prosecution-pardon sequence as a template.
-4. **[Iran's 1988 Prison Massacres: The Unavoidable Foundation](irans-1988-prison-massacres-the-unavoidable-foundation.md)** -- The evidentiary base, international legal classification, and sequencing challenges for any future TJ process.
-5. **[Diaspora Documentation and the Digital Evidence Revolution](diaspora-documentation-and-the-digital-evidence-revolution.md)** -- How Iran's exile networks have built an unprecedented, distributed evidence infrastructure that constrains future impunity deals.
-6. **[Lustration Models: Personnel Justice from Prague to Tehran](lustration-models-personnel-justice-from-prague-to-tehran.md)** -- Czech, Hungarian, and Polish approaches to vetting former regime officials, and design options for Iran's far larger challenge.
+1. **[Amnesty vs. Accountability: Spain's Forty-Year Lesson](./amnesty-vs-accountability-spains-forty-year-lesson.md)** -- How the pact of silence purchased short-term stability but generated long-term democratic fragility, and what this means for Iran.
+2. **[Islamic Transitional Justice: Tunisia, Morocco, and the Legitimacy Question](./islamic-transitional-justice-tunisia-morocco-and-the-legitimacy-question.md)** -- Whether qisas, diya, and sulh can bridge international TJ norms and local legitimacy in Muslim-majority societies.
+3. **[Does Prosecution Deter? The Kim-Sikkink Evidence and South Korea's Model](./does-prosecution-deter-the-kim-sikkink-evidence-and-south-koreas-model.md)** -- Quantitative evidence on whether accountability improves human rights, and the prosecution-pardon sequence as a template.
+4. **[Iran's 1988 Prison Massacres: The Unavoidable Foundation](./irans-1988-prison-massacres-the-unavoidable-foundation.md)** -- The evidentiary base, international legal classification, and sequencing challenges for any future TJ process.
+5. **[Diaspora Documentation and the Digital Evidence Revolution](./diaspora-documentation-and-the-digital-evidence-revolution.md)** -- How Iran's exile networks have built an unprecedented, distributed evidence infrastructure that constrains future impunity deals.
+6. **[Lustration Models: Personnel Justice from Prague to Tehran](./lustration-models-personnel-justice-from-prague-to-tehran.md)** -- Czech, Hungarian, and Polish approaches to vetting former regime officials, and design options for Iran's far larger challenge.

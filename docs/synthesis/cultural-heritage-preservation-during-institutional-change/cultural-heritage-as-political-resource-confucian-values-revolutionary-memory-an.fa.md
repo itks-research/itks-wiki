@@ -1,5 +1,3 @@
-<div dir="rtl" markdown>
-
 ## Evidence: میراث فرهنگی as Political Resource During Institutional Transition
 
 The بسیج of میراث فرهنگی during periods of تحول نهادی reveals patterns of strategic مشروعیت‌بخشی across diverse political contexts. When societies undergo constitutional or تغییر انقلابی, their relationship to خاطرۀ تاریخی and هویت فرهنگی becomes a central arena for negotiating new institutional frameworks.
@@ -38,6 +36,8 @@ Iran's contemporary institutional structure reflects an unresolved negotiation a
 
 Constitutional and طراحی نهادی must navigate these three heritage claims without fully suppressing any. The 1979 constitution attempted to resolve this through institutional compartmentalization: Islamic حکمرانی at the state level, permitted cultural interest in heritage at جامعه مدنی level. But this resolution remains unstable. The constitution's own preamble explicitly discusses Iran's historical greatness and cultural contributions, yet subordinates this heritage to Islamic institutional primacy. Questions about what institutional role pre-Islamic heritage should play, whether secular حکمرانی is compatible with Iranian identity, and how to balance religious and secular institutional claims remain fundamentally unsettled—not because the constitution failed but because the underlying cultural-institutional negotiation is genuinely unresolvable through legal instruments alone.
 
+## Open Research Questions
+
 **1. Intergenerational heritage transmission under تغییر نهادی.** How do generational cohorts experience competing heritage claims differently? Does institutional suppression of particular heritage (e.g., the post-1979 deemphasis on pre-Islamic Persian identity) actually reduce its cultural salience, or does prohibition intensify interest among younger generations? Evidence from Iran, Chile, and Korea suggests prohibition may paradoxically strengthen heritage attachment, but mechanisms remain underspecified.
 
 **2. The relationship between heritage بسیج and institutional مشروعیت.** Does heritage-based مشروعیت‌بخشی of تغییر نهادی actually increase public acceptance of new institutions, or is heritage invoked primarily to justify elite institutional choices to domestic and international audiences? The causal direction between cultural مشروعیت‌بخشی and institutional stability requires further investigation.
@@ -56,6 +56,3 @@ Constitutional and طراحی نهادی must navigate these three heritage clai
 | Nina G. Hamedani | 2012 | Ways of Manifesting Collectivism: An Analysis of Iranian and... | 3.0 | 3.92 |
 | Andrew Canessa | 2017 | Who Is Indigenous? Self-Identification, Indigeneity, And Cla... | 3.0 | 3.92 |
 | Benjamin Keen | 1988 | A history of Latin America | 3.0 | 3.77 |
-
-
-</div>

@@ -1,16 +1,4 @@
----
-tags:
-  - Social & Cultural
-  - Media freedom and press institution building
-  - Iran
-  - Poland
----
-
-<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Media freedom and press institution building</a></p>
-
-# Digital Authoritarianism and Press Freedom: Iran, Poland, and the Information Battle
-
-**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-29 15:41:26
+## Evidence & Key Findings
 
 The battle over information control in transitional and backsliding states has shifted decisively from print and broadcast to digital terrain. Guriev and Treisman (2019) introduce the concept of "informational autocrats" — regimes that maintain power not through mass terror but through sophisticated manipulation of information flows, combining selective censorship with state-sponsored media narratives and the strategic cooptation of digital platforms. Iran fits this model precisely, operating one of the world's most sophisticated internet filtering systems alongside a state broadcasting monopoly and a parallel ecosystem of semi-official news agencies, while periodically imposing total internet shutdowns during moments of crisis (November 2019, September 2022).
 
@@ -18,9 +6,13 @@ Poland's trajectory under PiS government (2015-2023) illustrates a different but
 
 Brazil (2022) provides a cross-cutting analysis of accountability avoidance mechanisms, showing how both democratic and authoritarian regimes develop increasingly sophisticated strategies for evading media scrutiny. Abdulridha, Hashim, and Sultanov (2020) examine the constitutional foundations of media freedom in the Republic of Poland, revealing the tension between constitutional guarantees and legislative restrictions that enabled PiS's media capture — a structural tension that any post-transition Iranian constitution would need to anticipate.
 
+## Cross-Country Patterns
+
 Two cross-cutting patterns emerge from the media freedom literature across transitional states. First, the sequencing of media liberalization matters enormously. States that liberalized media before establishing independent regulatory institutions (Russia in the 1990s, many post-Arab Spring states) saw initial press freedom captured by oligarchic or political interests within a decade. States that built regulatory frameworks first (Spain's constitutional press protections, South Korea's independent broadcasting commission) achieved more durable media pluralism, though not without ongoing struggles.
 
 Second, the digital revolution has fundamentally altered the dynamics of media control in transitional states. The old binary — state media monopoly versus free press — has been replaced by a spectrum of "informational autocracy" where governments can maintain control through algorithmic manipulation, platform cooptation, troll armies, and selective internet shutdowns while nominally permitting private media to exist. Iran's model represents the most extreme version of this spectrum, but Poland's PiS government demonstrated that even EU member states with robust legal frameworks can achieve significant media capture through a combination of public media politicization, regulatory pressure, and state advertising allocation.
+
+## Iran Context
 
 Iran's media landscape at the point of any transition would present challenges without direct precedent. The state controls all broadcast media through Islamic Republic of Iran Broadcasting (IRIB), operates extensive internet filtering infrastructure, and maintains legal frameworks (press law, cybercrime law, national security provisions) that criminalize independent journalism. Simultaneously, Iran has a vibrant underground and diaspora media ecosystem — satellite channels broadcasting from London, Los Angeles, and Istanbul; Persian-language social media with millions of users despite VPN restrictions; and a tradition of samizdat-style citizen journalism that exploded during the Woman Life Freedom movement.
 
@@ -28,9 +20,13 @@ The transition challenge would be threefold. First, transforming IRIB from a sta
 
 The Polish experience suggests that even robust constitutional press freedom guarantees are insufficient without independent regulatory bodies with genuine enforcement authority. Iran would need not just a free press law but an independent media council insulated from both government pressure and the economic power of revolutionary-era institutions.
 
+## Open Research Questions
+
 - How can Iran's post-transition media framework prevent IRGC-connected economic entities from translating their financial resources into media dominance, replicating the oligarchic media capture seen in Russia and parts of Eastern Europe?
 - What institutional design for public broadcasting could transform IRIB into a genuine public service broadcaster, and how long would such a transformation realistically take given the depth of institutional culture change required?
 - How should transitional media regulation handle diaspora media organizations that have both maintained independent journalism and accumulated their own biases and foreign-state funding dependencies during decades of operation outside Iran?
+
+## Sources
 
 | # | Author(s) | Year | Title | Access |
 |---|-----------|------|-------|--------|
@@ -41,11 +37,12 @@ The Polish experience suggests that even robust constitutional press freedom gua
 | 5 | Zvozdetska | 2017 | Present-day Poland Media Landscape: Compliance with EU Regulations | — |
 | 6 | Guriev & Treisman | 2019 | Informational Autocrats | DOI |
 
-## Sources (6)
+## Implications for Iran
 
-- [The new politics of Poland](../explorer/?id=4578)
-- [Democratic Backsliding in Poland](../explorer/?id=4490)
-- [Constitutional Foundations and Legal Restrictions on Mass Media Freedom in the Republic of Iraq](../explorer/?id=4494)
-- [Avoiding Accountability](../explorer/?id=4524)
-- [Present-day Poland Media Landscape: Compliance with EU Regulations](../explorer/?id=4557)
-- [Informational Autocrats](../explorer/?id=1108)
+**Institutional Mapping:** Media reform in Iran would confront **Islamic Republic of Iran Broadcasting** (صدا و سیمای جمهوری اسلامی ایران, IRIB), a constitutionally-mandated state broadcasting monopoly whose head is appointed directly by the **Supreme Leader**. The **Ministry of Culture and Islamic Guidance** (وزارت فرهنگ و ارشاد اسلامی) controls press licensing and publication permits. The **Supreme Council of Cyberspace** (شورای عالی فضای مجازی) oversees internet policy, while the **IRGC's Cyber Command** and **FATA police** (پلیس فتا) enforce digital censorship and surveillance. The **judiciary** prosecutes journalists under vague national security provisions. **Basij** networks operate troll armies and state-sponsored social media accounts. The **bonyads** and IRGC-connected companies control advertising revenue streams that could be redirected to capture nominally independent media post-transition.
+
+**Structural Parallels:** Poland's PiS media capture — transforming public broadcasting into party propaganda while maintaining the legal framework of press freedom — demonstrates that formal guarantees are insufficient without institutional enforcement. Iran's IRIB represents a far more entrenched version: not recently captured public media but a system designed from inception as a propaganda instrument, with 45 years of institutional culture oriented toward ideological broadcasting. The transition from IRIB to genuine public service media would be closer to transforming Soviet state television than reforming Poland's TVP — requiring not just editorial independence but complete institutional reconstruction.
+
+**Key Actors and Sequencing:** The **Supreme Leader's office** controls IRIB appointments and would resist any diminution of broadcasting authority. **IRGC-connected economic actors** possess the capital to acquire privatized media assets, replicating Russian oligarchic media capture. The **diaspora media ecosystem** — Persian-language satellite channels, social media platforms, podcasts — represents both an asset (experienced independent journalists) and a complication (foreign state-funded outlets with editorial agendas, including BBC Persian, Iran International, and VOA Farsi). Sequencing: (1) immediate legal decriminalization of journalism and abolition of press court jurisdiction; (2) establishment of an independent **Media Regulatory Council** (شورای تنظیم‌گری رسانه) with constitutional protection from government and economic pressure; (3) transformation of IRIB into a public broadcasting corporation with independent board appointment, license fee funding, and editorial charter — drawing on BBC governance but with stronger anti-capture provisions given Iran's institutional context; (4) anti-concentration regulations preventing IRGC-connected entities or any single actor from accumulating dominant media market share.
+
+**Unique Challenges:** Iran's sophisticated internet filtering infrastructure (the National Information Network / شبکه ملی اطلاعات) represents physical censorship architecture that would need to be dismantled or repurposed for legitimate cybersecurity. The regime's practice of total internet shutdowns during crises has created both technical capacity for information control and public awareness of its importance. The integration of diaspora media — organizations that sustained Persian-language journalism during decades of repression but carry their own political commitments and funding dependencies — requires careful institutional design to prevent perception of foreign cultural imposition while leveraging their journalistic expertise.

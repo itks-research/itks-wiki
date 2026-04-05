@@ -1,16 +1,4 @@
----
-tags:
-  - Social & Cultural
-  - Education system reform and curriculum modernization
-  - Iran
-  - South Korea
----
-
-<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Education system reform and curriculum modernization</a></p>
-
-# Curriculum as Battleground: Education Reform in South Korea and Iran
-
-**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-29 15:44:58
+## Evidence & Key Findings
 
 Education systems are never politically neutral institutions — they are the primary mechanism through which states reproduce ideology, shape collective identity, and determine the human capital trajectory of their economies. South Korea's post-democratization education reform illustrates both the promise and the difficulty of transforming an authoritarian-era education system. Becker and Woessmann (2009), in their analysis of human capital and economic history, demonstrate that education systems create deep path dependencies: the values, pedagogical approaches, and institutional structures embedded in educational institutions persist across regime changes because they are reproduced daily through millions of teacher-student interactions that no policy reform can instantly redirect.
 
@@ -18,9 +6,13 @@ Iran's education system presents a distinctive case where ideological content ha
 
 Dabbagh, Babaii, and Atai (2022) provide a critical lens on the cultural schemas embedded in Iranian foreign language education policy documents, revealing how curriculum documents encode assumptions about national identity, religious values, and acceptable forms of cultural engagement that any post-transition reform would need to renegotiate. The World Bank's 2021 report on investing in human capital for resilient recovery provides the economic case: Iran's human capital index has stagnated relative to regional comparators, suggesting that ideological constraints on curriculum have had measurable development costs. Miranda, Muinelo-Gallo, and Roca-Sagalés (2022) add the insight that decentralization of education funding can improve human development outcomes — a finding relevant to Iran's highly centralized education ministry.
 
+## Cross-Country Patterns
+
 Two patterns dominate comparative education reform in transitional states. First, curriculum reform is among the most politically contested elements of any transition because it determines whose narrative of history, identity, and values will be taught to the next generation. South Korea's history textbook controversies — which persist four decades after democratization — illustrate that "depoliticizing" education is itself a political project that generates new conflicts rather than resolving old ones.
 
 Second, the gap between curriculum policy and classroom implementation is systematically larger in post-authoritarian states than reformers anticipate. Teachers trained under the old regime carry internalized pedagogical habits and ideological frameworks that curriculum documents cannot override. South Korea invested heavily in teacher retraining and professional development; states that attempted curriculum reform without parallel investment in teacher transformation (many post-Soviet states) found that new textbooks were taught using old methods, producing cosmetic rather than substantive change.
+
+## Iran Context
 
 Iran's education reform challenge operates at multiple levels simultaneously. At the curriculum level, the current system embeds Islamic ideology throughout all subjects — not just religious studies but history, literature, social sciences, and even natural sciences include framing that reflects the regime's interpretation of Islam and its revolutionary narrative. Post-transition reform would need to develop new curricula for every subject at every level, a task that took South Korea over a decade and was never fully completed to any faction's satisfaction.
 
@@ -30,9 +22,13 @@ At the teacher level, Iran has approximately 900,000 teachers, most of whom were
 
 The diaspora dimension adds opportunity: tens of thousands of Iranian educators and academics abroad represent a potential resource for curriculum development and teacher training, though their integration would need to be managed carefully to avoid perceptions of cultural imposition.
 
+## Open Research Questions
+
 - How can Iran's post-transition education reform develop new curricula that depoliticize ideological content without creating a new ideological vacuum that competing political forces rush to fill?
 - What scale of teacher professional development would be required to support 900,000 teachers in transitioning from ideologically-framed pedagogy, and what realistic timeline would this require?
 - How should the transition handle the seminary system's role in educational governance — should religious education be removed entirely from public schooling, restructured as a comparative/optional subject, or maintained in some form that respects religious diversity?
+
+## Sources
 
 | # | Author(s) | Year | Title | Access |
 |---|-----------|------|-------|--------|
@@ -45,17 +41,12 @@ The diaspora dimension adds opportunity: tens of thousands of Iranian educators 
 | 7 | World Bank | 2021 | Investing in Human Capital for a Resilient Recovery | — |
 | 8 | Miranda, Muinelo-Gallo & Roca-Sagalés | 2022 | Human development and decentralization | DOI |
 
-## Sources (8)
+## Implications for Iran
 
-- [Was Weber Wrong? A Human Capital Theory of Protestant Economic History<sup>*</sup>](../explorer/?id=1323)
-- [The language assessment literacy needs of Iranian EFL teachers with a focus on reformed assessment policies](../explorer/?id=3726)
-- [Language assessment in the new English curriculum in Iran: managerial, institutional, and professional barriers](../explorer/?id=3732)
-- [An Activity Theory Analysis of ELT Reform in Iranian Public Schools](../explorer/?id=3731)
-- [Iranian EFL Teachers’ Challenges with the New ELT Program after the Reform: From Dream to Reality](../explorer/?id=3733)
-- [Exploring Cultural Schemas in Foreign Language Education Policy (FLEP) Documents of Iran](../explorer/?id=3743)
-- [Investing in Human Capital for a Resilient Recovery](../explorer/?id=1828)
-- [Human development and decentralization: The importance of public health expenditure](../explorer/?id=1592)
+**Institutional Mapping:** Education reform in Iran would engage the **Ministry of Education** (وزارت آموزش و پرورش), which controls curriculum development, textbook production, and teacher training for K-12; the **Ministry of Science, Research and Technology** (وزارت علوم) overseeing higher education; the **Supreme Council of the Cultural Revolution** (شورای عالی انقلاب فرهنگی), which sets ideological parameters for all educational content; the **howzeh** (حوزه علمیه) system, which influences religious studies requirements and places clerics in school administration; the **Farhangian University** (دانشگاه فرهنگیان) teacher training system, which has produced approximately 900,000 teachers socialized into the current ideological framework; and **IRIB**, which broadcasts educational programming reinforcing regime narratives. The **Basij** student organizations operate within universities as surveillance and ideological enforcement mechanisms.
 
-## Related Articles
+**Structural Parallels:** South Korea's post-democratization education reform provides the most relevant comparison: both countries possess highly centralized education systems where authoritarian-era ideology pervaded curriculum across all subjects. South Korea's history textbook controversies — persisting four decades after democratization — warn that curriculum reform is among the most protracted and politically contested elements of any transition. However, Iran's challenge is qualitatively more difficult because ideological content in the Islamic Republic is embedded not just in history and civics but across all subjects, including literature, natural sciences, and mathematics, where framing reflects the regime's interpretation of Islam and revolutionary narrative. South Korea's ideological content was primarily nationalist-authoritarian and could be incrementally secularized; Iran's religious-ideological content touches on identity claims that significant portions of the population hold sincerely, not merely as regime imposition.
 
-- [De-Ideologizing the Classroom: Iran's Islamized Curriculum and Comparative De-Indoctrination](de-ideologizing-the-classroom-irans-islamized-curriculum-and-comparative-de-indo.md)
+**Key Actors and Sequencing:** The **Supreme Council of the Cultural Revolution** is the institutional blocker with the broadest mandate — its dissolution or transformation would signal the end of ideological state education. The **howzeh** would resist removal of religious studies requirements and clerical presence in school governance. Conversely, Iran's large educated population and extensive diaspora academic community represent enablers: tens of thousands of Iranian educators and scholars abroad possess curriculum development expertise and modern pedagogical training. Sequencing: (1) abolition of the Supreme Council of the Cultural Revolution and transfer of curriculum authority to the Ministry of Education under parliamentary oversight; (2) removal of ideological vetting for university admission (کنکور ideological screening) and faculty appointments; (3) comprehensive curriculum revision across all subjects, prioritizing critical thinking, scientific literacy, and civic education — a process that took South Korea over a decade; (4) massive teacher retraining investment drawing on diaspora expertise while managing integration sensitively to avoid perceptions of cultural imposition.
+
+**Unique Challenges:** The gap between curriculum reform policy and classroom implementation is systematically larger in post-authoritarian states than reformers anticipate — teachers trained under the old system carry internalized pedagogical habits that new textbooks cannot override. Iran's 900,000 teachers represent both the system's greatest inertia and its indispensable resource; retaining them while supporting professional transition requires sustained institutional investment that no quick reform can substitute. The Farhangian University system itself would need fundamental restructuring. Evidence from Iranian ELT reform efforts suggests teachers can adapt to new paradigms when provided adequate support — the constraint has been institutional, not individual.

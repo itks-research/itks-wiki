@@ -2,7 +2,7 @@
 
 An autonomous research system mapping development pathways relevant to Iran's future governance. Every claim traces back to a verifiable source.
 
-**3,223** sources · **6,066** relationships · **8** case studies · **40** research themes
+**9,383** sources · **6,216** relationships · **11** case studies · **41** research themes
 
 ---
 
@@ -14,7 +14,7 @@ An autonomous research system mapping development pathways relevant to Iran's fu
 
 **[Research Findings](synthesis/index.md)**
 
-28 synthesis articles across 40 themes
+80 synthesis articles across 41 themes
 
 </div>
 
@@ -22,7 +22,7 @@ An autonomous research system mapping development pathways relevant to Iran's fu
 
 **[Case Studies](case-studies/iran.md)**
 
-8 countries compared
+11 countries compared
 
 </div>
 
@@ -30,7 +30,7 @@ An autonomous research system mapping development pathways relevant to Iran's fu
 
 **[Source Explorer](explorer.md)**
 
-Search & filter all 3,223 sources
+Search & filter all 9,383 sources
 
 </div>
 
@@ -65,6 +65,9 @@ Interactive relationship visualization
 | [Spain](case-studies/spain.md) | 217 | 3.4 |
 | [Tunisia](case-studies/tunisia.md) | 189 | 3.5 |
 | [Czech Republic](case-studies/czech-republic.md) | 143 | 3.3 |
+| [Egypt](case-studies/egypt.md) | 156 | 3.5 |
+| [Russia](case-studies/russia.md) | 189 | 3.4 |
+| [Turkey](case-studies/turkey.md) | 212 | 3.5 |
 
 ---
 

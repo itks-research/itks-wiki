@@ -1,6 +1,4 @@
-<div dir="rtl" markdown>
-
-# Labor Market Dualism and Social Protection: South Korea, Spain, and Iran's Informal Economy
+## Evidence & Key Findings
 
 
 بازار کار formalization and حمایت اجتماعی systems constitute interconnected policy domains that have shaped development trajectories across diverse institutional contexts. Following the 1997 financial crisis, South Korea underwent rapid بازار کار liberalization that paradoxically increased اشتغال غیررسمی despite strong manufacturing growth (Kong, 2006). The crisis exposed weaknesses in employment protection frameworks, prompting reforms that decoupled permanent from contingent workers. Rather than strengthening comprehensive social safety nets, initial responses fragmented coverage, leaving informal workers—estimated at 30-40% of the workforce—with limited access to unemployment insurance, healthcare, or pension systems.
@@ -8,6 +6,8 @@
 Indonesia's experience with decentralized minimum wage setting illustrates the complexity of بازار کار reform without corresponding حمایت اجتماعی expansion. Comola and De Mello (2011) demonstrate that regional wage-setting regimes, while intended to reflect local cost-of-living differentials, created perverse incentives for informalization in low-wage provinces. Firms responded to binding minimum wages by substituting formal contracts for informal arrangements, effectively reducing worker protections while avoiding wage floor compliance. به طور همزمان, Indonesia's introduction of the BPJS universal healthcare system (Erniaty and Harun, 2019) represented an attempt to decouple حمایت اجتماعی from formal employment status—a critical innovation that acknowledged the structural inevitability of large informal sectors in middle-income economies.
 
 Spain's vulnerability to trade-induced labor displacement, examined through the lens of China's emergence as a manufacturing powerhouse (Autor, Dorn, and Hanson, 2016), demonstrated how EU بازار کار regulatory frameworks could به طور همزمان protect insider workers while creating dualistic بازار کارs. Manufacturing-dependent regions experienced concentrated job losses that formal employment protections inadequately cushioned, as EU-mandated flexibility requirements enabled mass shifts to temporary and part-time contracts. This European experience reveals a paradox: regulatory convergence within supranational institutions can homogenize formal labor standards while obscuring persistent informality at the margins and reinforcing insider-outsider dynamics that undermine social cohesion.
+
+## Cross-Country Patterns
 
 
 Four cross-cutting patterns emerge across these diverse national contexts. First, بازار کار dualism (formal-informal segmentation) does not reflect simple policy failure but rather institutional adaptation to structural constraints: trade openness, capital mobility, and global supply chain integration consistently produce bifurcated بازار کارs regardless of national policy intent. South Korea, Indonesia, and Spain all experienced formalization plateaus despite explicit reform efforts, suggesting that dualism reflects deep structural features rather than shallow policy design.
@@ -18,6 +18,8 @@ Third, democratic مشروعیت increasingly depends on disconnecting حمای�
 
 Finally, informality is not transitional but structural in many middle-income economies, requiring policy frameworks that accept rather than resist this reality while expanding non-employment-based protections.
 
+## Iran Context
+
 
 Iran represents an extreme case of بازار کار informality with approximately 40% of the workforce operating outside formal employment structures, concentrated in petty trade, transport, domestic service, and microenterprises. Youth unemployment exceeds 25% in formal sector employment registries, though actual labor force participation rates among 15-29 year-olds remain substantially below demographic potential, indicating substantial discouraged worker effects and informal sector absorption of surplus labor. The disconnect between formal unemployment statistics and actual employment realities reflects structural informality rather than cyclical slack.
 
@@ -27,12 +29,16 @@ The Iranian Revolutionary Guard Corps (سپاه پاسداران انقلاب ا
 
 Addressing Iran's labor informality and حمایت اجتماعی deficits requires decoupling security provision from employment status—a politically fraught transition that would require either substantial economic restructuring or acceptance of sustained parallel بازار کار institutions. The structural informality evident in South Korea post-1997 and Indonesia's wage-setting experience suggests that subsidy reform and بازار کار liberalization alone cannot generate sustainable formalization; instead, they intensify reliance on non-employment-based transfers. For Iran, this implies that meaningful حمایت اجتماعی reform must precede further بازار کار liberalization to avoid exacerbating informal sector growth and political instability.
 
+## Open Research Questions
+
 
 1. **Institutional Path Dependency and Reversibility**: To what extent can universal حمایت اجتماعی systems (e.g., healthcare not tied to employment) reverse embedded بازار کار dualism once it has become entrenched? Does decoupling حمایت اجتماعی from employment ex post facto reduce informality, or does it merely redistribute welfare without inducing formalization?
 
 2. **Security Economy Effects on بازار کار Dynamics**: How do parallel بازار کارs controlled by state-security institutions (as in Iran's سپاه پاسداران انقلاب اسلامی economy) interact with formal-informal segmentation in ways that diverge from the canonical insider-outsider models derived from OECD economies? Do security-linked employment hierarchies reinforce or mitigate بازار کار dualism?
 
 3. **Trade Exposure and Informality Expansion**: Why do trade shocks consistently correlate with informality increases even in high-regulation contexts (Spain) while decentralized wage-setting correlates with informality in middle-income economies (Indonesia)? Are there threshold effects in بازار کار institutions beyond which trade exposure drives informalization regardless of regulatory design?
+
+## Sources
 
 
 | # | عنوان | نویسندگان | سال | مطالعه موردی | ارتباط | اعتبار |
@@ -45,6 +51,3 @@ Addressing Iran's labor informality and حمایت اجتماعی deficits requi
 | 6 | The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade | Autor, D.; Dorn, D.; Hanson, G. | 2016 | Spain | 4.0 | 4.61 |
 | 7 | Policy Lessons of the East Asian Demographic Transition | McNicoll, G. | 2006 | South Korea | 4.0 | 4.58 |
 | 8 | Women's Work and Economic Development | Mammen, K.; Paxson, C. | 2000 | South Korea | 4.0 | 4.49 |
-
-
-</div>
