@@ -1,13 +1,13 @@
 # Research Dashboard
 
-*Last updated: 2026-04-05 11:34*
+*Last updated: 2026-04-05 15:36*
 
 ## Summary
 
 | Metric | Count |
 |--------|-------|
-| Total Sources | 4929 |
-| Sources Scored | 4929 (100%) |
+| Total Sources | 4930 |
+| Sources Scored | 4930 (100%) |
 | Sources Translated (Farsi) | 0 (0%) |
 | Relationships Mapped | 6216 |
 | Synthesis Articles | 42 |
