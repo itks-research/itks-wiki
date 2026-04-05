@@ -52,3 +52,23 @@ The Ennahda internal vote pattern is particularly instructive for Iran. Iran's c
 **Key Actors and Sequencing:** The Tunisian model suggests engaging Iran's internal clerical diversity as a strategic priority. Key actors: (1) quietist مراجع who can provide theological legitimacy for separating political and religious authority — their argument that ولایت فقیه corrupts both religion and governance carries weight within the seminary system; (2) reformist intellectuals (روشنفکران دینی) in the tradition of Abdolkarim Soroush and Mohsen Kadivar who have developed Islamic democratic theory; (3) the Najaf-based marja'iyya, which models successful clerical influence without political governance; (4) practical-minded seminary students and mid-ranking clerics who recognize that theocratic governance has undermined public respect for religion. Sequencing: constitutional drafting should explicitly address the "civil state" (دولت مدنی) concept as distinct from both theocracy and militant secularism, with Article 1-style language acknowledging Iran's Islamic cultural heritage without granting religious law legislative authority.
 
 **Risks:** Tunisia's subsequent democratic backsliding under President Saied demonstrates that constitutional quality is necessary but insufficient. The Article 1 compromise survived Saied's authoritarian turn — he attacked democratic institutions but not the religion-state settlement — suggesting that once established, a civil state framework can become politically entrenched. However, implementation requires more than constitutional text: institutional capacity, judicial independence, and sustained civil society engagement are prerequisites. For Iran, the specific risk is that regime-affiliated clerics participate in a "civil state" process while maneuvering to preserve institutional power — a soft version of the Guardian Council's current function disguised as religious advisory authority. Clear institutional boundaries between religious counsel and political authority must be constitutionally specified rather than left to interpretation.
+
+## What We Don't Know
+
+> 📎 **Source Alignment: 🟡 Moderate** (70%)
+
+**Open Research Questions**
+
+1. **Post-Saied durability**: President Saied's 2022 coup and new constitution explicitly undermined the "civil state" formula Tunisia had developed — what does this reversal tell us about the durability of constitutional religion-state settlements without independent judicial enforcement?
+
+2. **Transferability of Article 1 architecture**: Tunisia's constitutional compromise worked partly because Ennahda was a pragmatic Islamist party willing to accept civil law supremacy. Would the same compromise be achievable with more doctrinaire Islamist movements? What are the necessary conditions for the Article 1 approach?
+
+3. **Implementation gap**: Even before the 2022 reversal, Tunisia's gender equality provisions (Article 46 on parity) were not translated into electoral law. How large was the gap between constitutional text and implementation, and what explains it?
+
+4. **Iranian clerical response to civil state models**: What proportion of Iran's hawza scholars are open to a civil state framework? Systematic survey evidence does not exist — qualitative evidence suggests significant variation between Qom seminaries (more traditionalist) and Mashhad seminaries (historically more open to constitutional governance).
+
+5. **Comparative Muslim-majority constitutional outcomes**: Is Tunisia's pre-2022 experience genuinely distinct from Indonesia, Morocco, Jordan, and Malaysia, or do they represent a spectrum of civil state variants? Systematic comparison of implementation across these cases is lacking.
+
+> 📎 **Source Alignment: 🟡 Moderate** (70%)
+
+Tunisia's 2014 constitution solved a dilemma that Iran will eventually face: how to write a constitution that affirms the country's Islamic identity without giving religious institutions legislative authority. The Tunisian "civil state" model — where Article 1 says "Islam is the religion of the state" but other articles establish civil courts and prohibit any single group from claiming religious authority — showed that this balance is constitutionally achievable. The critical mechanism was Ennahda's strategic decision to prioritize institutional survival over religious legislation. For Iran, the Tunisian model offers a template, but also a cautionary lesson: the 2022 reversal under President Saied shows that constitutional formulas alone don't guarantee stability — independent courts, a free press, and strong civil society are necessary to make them durable.

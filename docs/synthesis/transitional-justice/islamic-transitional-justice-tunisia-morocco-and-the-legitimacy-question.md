@@ -50,3 +50,23 @@ The risk is co-optation. Regime-affiliated clerics could redefine these concepts
 **Key Actors and Sequencing:** Three constituencies must be engaged simultaneously: (1) independent مراجع and seminary scholars who can provide theological legitimacy for accountability without being identified as regime apologists — this requires engaging Najaf-based authorities and diaspora scholars alongside reformist Qom figures; (2) secular legal professionals and human rights advocates who bring international legal standards and documentation expertise; (3) victim communities whose participation grounds the process in lived experience rather than abstract theology. The sequencing should be: initial theological consultation to establish Islamic jurisprudential foundations for the TJ process (framing قصاص as the right of victims, دیه as material reparation, صلح as negotiated resolution, توبه as genuine accountability-with-repentance rather than consequence-free forgiveness); parallel establishment of secular legal frameworks meeting international standards; integration of both frameworks through a hybrid commission structure.
 
 **Risks:** Co-optation is the primary risk. Regime-affiliated clerics have decades of experience redefining Islamic concepts to serve political purposes — the Guardian Council's interpretation of مصلحت (maslahat, expediency) to override rights protections is the template for how صلح could be redefined as blanket amnesty. Any Islamic TJ framework for Iran must be developed outside regime-linked institutions (Guardian Council, Special Clerical Court, state-appointed Friday Prayer imams). A second risk is rejection by secular Iranians who associate Islamic jurisprudential language with theocratic oppression — for a significant portion of Iranian society, any framework presented in Islamic terms carries the taint of the regime's Islamic legitimacy claims. The dual-track approach (Islamic and secular frameworks operating in parallel) is essential but operationally complex. Tunisia's IVD failure to achieve implementation despite producing a comprehensive final report warns that process quality does not guarantee institutional follow-through.
+
+## What We Don't Know
+
+> 📎 **Source Alignment: 🟡 Moderate** (70%)
+
+**Open Research Questions**
+
+1. **Effectiveness of hybrid frameworks**: No systematic comparative study has assessed whether incorporating Islamic jurisprudential concepts (qisas, diya, sulh) into formal TJ mechanisms actually increases participation by victims from conservative Muslim communities, or whether it primarily serves as elite legitimation.
+
+2. **Gender-specific accountability gaps**: How do Islamic TJ concepts apply when the perpetrator is a religious institution that enforced gender segregation or dress codes? The relationship between feminist demands for accountability and Islamic TJ frameworks is undertheorized.
+
+3. **Durability of Truth Commission findings in Muslim-majority contexts**: Morocco's Equity and Reconciliation Commission (IER) produced detailed findings in 2004 — what happened to those findings over 20 years? Were they institutionalized or shelved under later political pressures?
+
+4. **Iranian-specific jurisprudential questions**: Would Shia fiqh produce different TJ applications than Sunni jurisprudence? Iran's clerical establishment has distinct positions on qisas application and state authority over criminal punishment — how would velayat-e faqih doctrine interact with any TJ framework that invokes Islamic concepts?
+
+5. **Perpetrator community acceptance**: Do Islamic TJ frameworks achieve greater acceptance from security sector perpetrators (who may be religiously conservative) than purely secular mechanisms? No direct evidence exists on this question.
+
+> 📎 **Source Alignment: 🟡 Moderate** (70%)
+
+Transitional justice — the process of holding a prior regime accountable while building a stable future — takes very different forms depending on whether Islamic jurisprudential concepts are incorporated. Tunisia, Morocco, and Indonesia show that Muslim-majority societies can design accountability processes that draw on local religious concepts (restorative retribution, blood money compensation, reconciliation through religious mediation) to achieve domestic legitimacy that purely Western frameworks lack. For Iran, this matters because an Islamic TJ process might gain acceptance from communities skeptical of International Criminal Court framing — but also risks being captured by clerical conservatives who would use Islamic concepts to protect perpetrators rather than deliver accountability. The evidence suggests the legitimacy gains are real but require careful institutional design to prevent perversion.
