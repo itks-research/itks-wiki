@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+
 Poland's judicial independence crisis after 2015 provides the most vivid contemporary illustration of how democratic backsliding can operate through legal institutions rather than against them. Drinóczi and Bień-Kacała (2019) document how Hungary and Poland developed parallel models of "illiberal constitutionalism" — using parliamentary supermajorities to restructure courts, pack judicial councils, and redefine the constitutional order from within. In Poland, the Law and Justice party's (PiS) capture of the Constitutional Tribunal, followed by legislation subordinating the Supreme Court and ordinary judiciary to political appointment, demonstrated that judicial independence can be dismantled incrementally through formally legal procedures. Magalhães (1999) had earlier identified the structural vulnerability: post-communist judicial reforms across Eastern Europe created formally independent judiciaries that lacked the institutional depth — professional socialization, public legitimacy, resource autonomy — to resist political pressure when it eventually came.
 
 Piana (2009) provides the theoretical framework, arguing that political power reaches courts through "back doors" — appointment mechanisms, budgetary control, disciplinary procedures, and case assignment systems — rather than through overt interference. This insight is critical for Iran, where the judiciary's lack of independence is not hidden but constitutionally explicit: the head of the judiciary is appointed by the Supreme Leader, and the institution operates as an instrument of regime enforcement rather than a check on power.
@@ -8,11 +10,15 @@ For Iran, the comparative literature on rule of law presents a distinctive chall
 
 ## Cross-Country Patterns
 
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+
 The cross-cutting pattern is sobering: judicial independence is both the most fragile and the most consequential institution in transitional democracies. Countries that achieved genuine judicial independence early (Spain's Constitutional Tribunal, South Korea's Constitutional Court after 1988) built self-reinforcing legitimacy that made subsequent political capture difficult. Countries where judicial reform was delayed or incomplete (Poland, Hungary) found that initial democratic gains could be reversed once populist governments discovered the "back door" mechanisms Piana describes.
 
 A second pattern concerns the role of international anchoring. Poland's judicial capture was constrained — though not prevented — by EU rule-of-law mechanisms, including infringement proceedings and conditionality on recovery funds. Iran would lack this external anchor entirely, making domestic institutional design even more critical. The comparative evidence suggests that constitutional courts need not just formal independence but "thick" institutional protections: staggered appointments, supermajority requirements for removal, autonomous budgets, and professional corps insulated from political rotation.
 
 ## Iran Context
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 Iran's judiciary presents a challenge fundamentally different from Poland's: the starting point is not a formally independent judiciary that has been captured but an institution that was never designed for independence. The head of the judiciary is appointed by the Supreme Leader for renewable five-year terms, and the institution has functioned as an enforcement arm of the regime — prosecuting political dissidents, enforcing morality laws, and managing property disputes in ways that serve connected interests. Osanloo (2020) documents how even the limited spaces for judicial discretion, such as victim forgiveness mechanisms in murder cases, operate within a framework that reinforces rather than checks state power.
 
@@ -39,6 +45,8 @@ Saffari (1993) traces this architecture to the 1906 Constitutional Revolution, s
 | 7 | Osanloo | 2020 | Forgiveness Work: Mercy, Law, and Victims' Rights in Iran | DOI |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
 
 **Institutional Mapping:** Judicial reform in Iran engages a dense institutional web: the **Head of the Judiciary** (رئیس قوه قضائیه), appointed directly by the **Supreme Leader** for renewable five-year terms; the **Guardian Council**, whose six jurist-members are nominated by the judiciary head; the **Special Clerical Court** (دادگاه ویژه روحانیت), operating entirely outside normal legal procedure under the Supreme Leader's direct authority; **Revolutionary Courts** (دادگاه‌های انقلاب) handling political and security cases with minimal due process; and the **General Inspection Organization** (سازمان بازرسی کل کشور), nominally an oversight body but structurally subordinate to the judiciary it supervises. The **howzeh** (حوزه علمیه) shapes the judiciary through personnel — many judges hold seminary rather than law school credentials.
 

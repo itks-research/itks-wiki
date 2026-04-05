@@ -10,6 +10,8 @@ Note on evidence: This category has limited source density (9 sources, all assig
 
 ## Evidence & Key Findings
 
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (9 sources)
+
 The available evidence addresses three dimensions of diaspora dynamics: governance frameworks for integration, the politics of displacement and return, and migration policy challenges in post-transition states.
 
 **Governance Frameworks for Integration.** Sordia (2009) examines Georgia's institutional architecture for national minority governance after the Rose Revolution, documenting how post-revolutionary states struggle to build inclusive institutions that accommodate diverse populations — including returnees with different political expectations. The Georgian experience shows that institutional problems around civic integration persist even when political will exists, because bureaucratic capacity and social trust develop more slowly than formal policy. Makaryan (2013) extends this to Armenia, Azerbaijan, and Georgia, revealing structural challenges in migration policy formulation across all three South Caucasus states despite their different political trajectories. Wars, ethnic conflicts, and socioeconomic hardships produced migration patterns that overwhelmed institutional capacity.
@@ -20,11 +22,15 @@ The available evidence addresses three dimensions of diaspora dynamics: governan
 
 ## Cross-Country Patterns
 
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (9 sources)
+
 One central pattern emerges clearly: **diaspora reintegration fails when treated as a humanitarian issue rather than a structural governance challenge**. Across all documented cases — Georgia (Sordia 2009), the South Caucasus (Makaryan 2013), Afghanistan (Grawert & Mielke 2019), and North Africa (de Haas 2006) — the gap between policy aspiration and institutional capacity determines outcomes more than the diaspora's willingness to return. Post-transition states consistently underestimate the institutional infrastructure required: property restitution mechanisms, credential recognition systems, labor market integration programs, and psychosocial support for communities navigating cultural re-entry.
 
 A secondary pattern involves **identity transformation in extended diaspora**. Populations displaced for decades develop hybrid identities that resist simple 'return' narratives (Ferreira et al. 2020, Campos 2016). This creates a paradox: the diaspora members most able to contribute (economically successful, well-networked) are often the most culturally transformed, while those most eager to return may lack the resources to reintegrate.
 
 ## Iran Context
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (9 sources)
 
 Iran's diaspora presents both an extraordinary resource and an extraordinary challenge for any post-transition government. The Iranian diaspora — estimated at 4-6 million — is among the most educated and economically successful in the world, concentrated in the United States, Canada, Europe, and Australia. Unlike the Afghan or Georgian cases in the evidence base, Iranian diaspora departure was driven primarily by political repression and cultural marginalization rather than poverty, producing a community with high human capital but deep political fragmentation.
 
@@ -51,6 +57,8 @@ A post-transition Iran would need to develop بازگشت و ادغام (return 
 | Mokre, M. | 2020 | Humanitarian frameworks can undermine displaced populations' agency |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 **Institutional Mapping**
 

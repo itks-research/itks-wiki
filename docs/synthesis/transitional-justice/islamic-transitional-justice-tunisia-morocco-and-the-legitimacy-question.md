@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
+
 Tunisia's Instance Verite et Dignite (IVD, Truth and Dignity Commission), established in December 2013 and launched in June 2014, represents the most ambitious truth commission in the Arab world. The IVD received 62,354 complaint files documenting violations from 1955 to 2013, spanning Tunisia's entire post-independence period. Approximately 11,000 people provided testimony. The commission conducted 12 public hearings broadcast on prime-time television beginning November 2016 -- an extraordinary exercise in public truth-telling for the region. Its final report, released in March 2019, referred 204 cases to specialized criminal chambers.
 
 However, implementation collapsed. Despite legal requirements for a government implementation plan within one year, no such plan materialized. Tunisia's subsequent democratic backsliding under President Kais Saied, who suspended parliament in 2021, further marginalized the IVD's legacy. Kazemi (2019) analyzes the intersection of religion and transitional justice in Tunisia, finding that local TJ initiatives employing religious principles can both facilitate and hinder TJ goals. This dual potential makes Islamic TJ concepts simultaneously promising and dangerous for contexts like Iran.
@@ -8,11 +10,15 @@ Morocco's earlier Equity and Reconciliation Commission (IER), established in Jan
 
 ## Cross-Country Patterns
 
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
+
 The core pattern is that Islamic jurisprudential concepts offer a distinct pathway for transitional justice that Western-only frameworks lack: local legitimacy. Four concepts intersect with TJ practice. Qisas (retribution) treats certain violations as matters where victims or their heirs choose between punishment and compensation. Diya (blood money/compensation) provides a mechanism for financial restitution. Sulh (reconciliation) integrates truth-seeking, compensation, and tawbah (repentance) into a composite mechanism. Islah (reform) connects societal renewal to authentic Islamic teaching.
 
 The pattern across Tunisia and Morocco is that these concepts can broaden the constituency for transitional justice beyond secular elites, but they are simultaneously vulnerable to instrumentalization. Regime-affiliated clerics can redefine sulh to justify impunity or frame amnesty as religiously mandated forgiveness.
 
 ## Iran Context
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 For Iran, Islamic TJ concepts represent both a strategic opportunity and a significant risk. The opportunity: if a future Iranian TJ process can frame accountability using qisas, diya, and sulh rather than exclusively through International Criminal Court frameworks, it may achieve broader societal buy-in that bridges secular and religious constituencies. Iran's Shia jurisprudential tradition offers additional resources -- the concept of mazlumiyyat (the justice of the oppressed) and the Karbala narrative provide powerful cultural frames for victim-centered justice.
 
@@ -34,6 +40,8 @@ The risk is co-optation. Regime-affiliated clerics could redefine these concepts
 | Lu (2017) | International TJ practices reflect colonial and structural biases | 180 |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 **Institutional Mapping:** Islamic transitional justice concepts for Iran would engage a distinctive set of institutions. The حوزه علمیه (seminary system), particularly in Qom, contains scholars ranging from quietist مراجع who oppose clerical governance to regime-aligned ideologues. The مرجعیت (marja'iyya, supreme religious authority structure) includes independent figures like Grand Ayatollah Sistani in Najaf whose theological positions support clerical non-interference in governance. The Special Clerical Court (دادگاه ویژه روحانیت), currently used to discipline dissident clerics, would itself be subject to accountability. The Guardian Council's fiqhi (jurisprudential) members have issued rulings enabling systematic rights violations. The Assembly of Experts theoretically possesses theological authority to reinterpret the boundaries of religious governance. Diaspora-based religious scholars and reformist clerics inside Iran (such as those in the tradition of Montazeri, Kadivar, and Soroush) could provide the independent theological voice necessary to prevent co-optation.
 

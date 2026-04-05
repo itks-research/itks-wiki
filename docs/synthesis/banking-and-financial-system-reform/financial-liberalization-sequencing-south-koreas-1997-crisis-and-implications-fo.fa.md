@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
+
 South Korea's آزادسازی مالی trajectory in the 1980s-1990s provides crucial comparative lessons for understanding the preconditions and hazards of premature financial market opening. Beginning with the Park Chung-hee era's state-directed industrialization model, South Korean financial markets operated under tight government control, with capital flows heavily regulated and directed toward strategic sectors. The transition toward liberalization, accelerated under democratization in the late 1980s, proceeded with insufficient attention to the sequencing of reforms or the maturity of regulatory institutions (International Monetary Fund, 1998).
 
 The 1997 financial crisis—triggered by unsustainable short-term foreign borrowing by conglomerates (chaebol) and inadequate bank supervision—revealed the dangers of liberalizing حساب سرمایهs before establishing robust مقررات احتیاطی and transparent corporate حکمرانی standards. The crisis resulted in a contraction of approximately 5.8% in 1998, massive unemployment, and a bailout from the IMF requiring comprehensive institutional restructuring (World Bank, 1999). به طور حیاتی, آزادسازی مالی without corresponding institutional development in نظارت بانکی, corporate شفافیت, and regulatory capacity created خطر اخلاقی: firms had access to international capital markets while maintaining opaque financing structures and implicit state guarantees.
@@ -8,11 +10,15 @@ The Czech Republic's banking transition provides a parallel case. Rapid خصوص
 
 ## Cross-Country Patterns
 
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
+
 آزادسازی مالی interacts به طور حیاتی with democratic institution-building, creating a paradoxical window of vulnerability. During گذار دموکراتیکs, newly pluralistic governments face pressure to demonstrate economic openness and attract investment, creating political incentives to accelerate capital market liberalization before institutional safeguards are operational. This temporal mismatch—between political demands for opening and technical capacity for regulation—reproduces the South Korean pattern globally.
 
 The specific danger lies in the interaction between three factors: (1) weak نظارت بانکی institutions, often inherited from رژیم اقتدارگراs lacking modern central banking independence; (2) fragmented regulatory authority during transitions, where multiple agencies compete without clear hierarchies; and (3) political pressure from both سرمایه‌گذاران خارجی and domestic private capital seeking unrestricted market access. When these coincide, premature liberalization creates systematically procyclical credit growth, excessive risk-taking by financial institutions competing for market share, and contagion through undercapitalized banking systems. The sequencing problem thus becomes a democratic problem: how to sustain political support for institutional development that constrains financial actors, during a period when capital mobility creates exit options for those same actors.
 
 ## Iran Context
+
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
 
 Iran's banking system presents a structurally distinct but institutionally comparable case to 1990s South Korea and post-1989 Czech Republic. The Islamic Republic's financial architecture reflects decades of theocratic control, foreign sanctions, and revolutionary institutional experimentation rather than market socialism. State-owned banks (including Bank Melli Iran, Bank Tejarat, and Bank Sepah) continue to dominate credit allocation with limited شفافیت or commercial discipline. Approximately 80% of banking sector assets remain under direct or indirect state control, compared to roughly 20-30% in comparable middle-income countries (Central Bank of Iran data, 2024).
 

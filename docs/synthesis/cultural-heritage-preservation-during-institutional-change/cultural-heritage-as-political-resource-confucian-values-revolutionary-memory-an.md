@@ -1,3 +1,5 @@
+> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+
 ## Evidence: Cultural Heritage as Political Resource During Institutional Transition
 
 The mobilization of cultural heritage during periods of institutional transformation reveals patterns of strategic legitimation across diverse political contexts. When societies undergo constitutional or revolutionary change, their relationship to historical memory and cultural identity becomes a central arena for negotiating new institutional frameworks.
@@ -9,6 +11,8 @@ Similarly, Chile's transition from Pinochet's military regime involved sustained
 Iran presents a more complex case of layered cultural heritage competition. The Islamic Republic's 1979 revolutionary constitution deliberately effaced the Pahlavi regime's cultivation of pre-Islamic Persian identity while simultaneously claiming continuity with a specifically Islamic Iranian past. Vanessa Martín's work on the Constitutional Revolution (2013) and Robert Steele's analysis of the Pahlavi coronation rituals (2021) together illustrate how successive institutional regimes—from Qajar constitutionalism to Pahlavi modernism to Islamic republicanism—each mobilized competing visions of Iran's cultural heritage to legitimize their respective institutional projects. The pre-Islamic/Sasanian heritage that Mohammad Reza Shah deployed to buttress monarchical authority became ideologically incompatible with the Islamic Republic's revolutionary institutional framework, requiring systematic deemphasization despite continuous scholarly and cultural interest.
 
 These cases demonstrate a consistent pattern: institutional transitions do not occur in a cultural vacuum. Rather, societies navigate change by selectively deploying, reinterpreting, or suppressing cultural heritage in service of legitimating new institutional arrangements. Heritage functions as a resource—sometimes constraining, sometimes enabling the institutional possibilities available to transitional societies.
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 ## Patterns: Tradition and Institutional Modernization
 
@@ -23,6 +27,8 @@ This tension manifests in three recurring patterns:
 **Third, the layering of multiple identities.** Complex societies like Iran maintain simultaneous cultural heritages—pre-Islamic Persian, Islamic, early-modern, modern—that can be foregrounded or backgrounded depending on institutional needs. Institutional design must navigate these layered identities without fully suppressing any, maintaining a precarious balance.
 
 These patterns suggest that institutional change is not merely a technical legal or organizational matter; it is fundamentally a cultural-hermeneutical process of reinterpreting heritage to legitimate new institutional frameworks.
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 ## Iran: Layered Cultural Identity and Institutional Design
 
@@ -59,6 +65,8 @@ Constitutional and institutional design must navigate these three heritage claim
 
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 **Institutional Mapping:** The politics of cultural heritage in Iran engages a complex institutional landscape. **IRIB** (Islamic Republic of Iran Broadcasting) controls the dominant narrative apparatus, systematically foregrounding Islamic revolutionary identity while marginalizing pre-Islamic Persian heritage in state media. The **Ministry of Cultural Affairs and Islamic Guidance** (وزارت فرهنگ و ارشاد اسلامی) regulates publishing, cinema, music, and cultural production, enforcing ideological boundaries on which heritage traditions receive institutional support. The **howzeh** (حوزه علمیه) seminary system in Qom shapes the theological framework within which cultural identity is officially interpreted. **Sazman-e Miras-e Farhangi** (Cultural Heritage Organization) manages archaeological sites and museums, operating under tension between preservation mandates and ideological constraints on pre-Islamic celebration. The **Supreme Council of the Cultural Revolution** (شورای عالی انقلاب فرهنگی), appointed by the Supreme Leader, sets overarching cultural policy and has historically suppressed expressions of Persian nationalist identity deemed incompatible with Islamic governance.
 

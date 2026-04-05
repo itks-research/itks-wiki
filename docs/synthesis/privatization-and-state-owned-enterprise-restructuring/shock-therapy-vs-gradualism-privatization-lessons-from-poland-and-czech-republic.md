@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
+
 The privatization debate in post-communist Central Europe produced two competing models that remain the most extensively studied natural experiment in economic transition. Poland pursued gradual, institution-building privatization — maintaining state ownership while building regulatory frameworks, developing capital markets, and allowing organic private sector growth alongside state enterprise restructuring. The Czech Republic under Václav Klaus chose rapid voucher privatization, distributing shares in state enterprises to citizens through investment funds, prioritizing speed and breadth over institutional depth. Gros and Steinherr (1995) provide the definitive early analysis of these "winds of change," documenting how initial conditions — the size of the state sector, the development of informal markets, external debt burdens, and the strength of reform constituencies — shaped the feasibility of different approaches.
 
 The outcomes diverged dramatically. Poland's gradual approach produced slower initial restructuring but more sustainable long-term growth, while the Czech voucher model created a wave of asset stripping, tunneling (transferring value from privatized firms to connected parties), and the concentration of formerly public wealth in oligarchic hands. Roberts and Zhou (2000) examine new private enterprises across transitional contexts, finding that the most successful private sector development occurred not through mass privatization of state assets but through the organic creation of new firms — a finding that challenges the assumption that privatization is the primary engine of market transition.
@@ -8,11 +10,15 @@ Kubíček (1999) provides a critical labor perspective, examining how organized 
 
 ## Cross-Country Patterns
 
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
+
 The central pattern from post-communist privatization is that speed and institutional quality are inversely correlated in the short term but the latter determines long-term outcomes. Countries that prioritized rapid privatization (Czech Republic, Russia) achieved faster formal ownership transfer but suffered from asset stripping, insider capture, and the concentration of wealth among connected elites. Countries that prioritized institutional development before or alongside privatization (Poland, Slovenia) achieved slower but more equitable and sustainable outcomes.
 
 A second pattern concerns the political economy of privatization: who benefits from which model is not random but reflects the distribution of power at the moment of transition. Rapid voucher privatization tends to benefit existing managerial elites who can manipulate the process; gradual privatization with institutional safeguards tends to produce broader-based ownership but requires sustained political commitment to reform over multiple electoral cycles — a commitment that is difficult to maintain when incumbent politicians face short-term electoral pressures.
 
 ## Iran Context
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
 
 Iran's privatization challenge is qualitatively different from the post-communist cases because the entities requiring restructuring are not conventional state-owned enterprises but hybrid military-religious-commercial conglomerates. The IRGC's Khatam al-Anbiya construction conglomerate, the bonyad (foundation) system controlling an estimated 20-30% of GDP, and the semi-state enterprises clustered around the Expediency Council and Supreme Leader's office represent forms of economic organization that have no post-communist equivalent. These entities combine commercial activity with military capacity, religious legitimacy, and social welfare functions — privatizing them requires simultaneously addressing security, welfare, legitimacy, and economic efficiency concerns.
 
@@ -40,6 +46,8 @@ Article 44 of Iran's constitution already mandates a mixed economy with state, c
 | 6 | Meyer, Estrin, Bhaumik & Peng | 2008 | Institutions, resources, and entry strategies in emerging economies | DOI |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
 
 **Institutional Mapping:** Privatization in Iran engages a uniquely complex institutional landscape: the **IRGC's Khatam al-Anbiya** (قرارگاه سازندگی خاتم‌الانبیاء) construction conglomerate; the **bonyad** system including **Bonyad Mostazafan** (بنیاد مستضعفان), **Astan Quds Razavi** (آستان قدس رضوی), and dozens of smaller foundations; the **Setad Ejraiye Farmane Hazrate Emam** (ستاد اجرایی فرمان حضرت امام), the Supreme Leader's personal economic office controlling an estimated $95 billion in assets; semi-state enterprises clustered around the **Expediency Council**; and conventional state-owned enterprises under various ministries. Article 44 of the constitution (اصل ۴۴ قانون اساسی) mandates a mixed economy, and the 2006 implementation policies nominally authorized privatization — but in practice, 'privatized' enterprises were transferred to IRGC-connected entities, concentrating rather than dispersing economic power.
 

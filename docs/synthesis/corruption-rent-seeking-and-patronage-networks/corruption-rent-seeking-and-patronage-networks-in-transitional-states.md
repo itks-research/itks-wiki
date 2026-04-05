@@ -10,6 +10,8 @@ This pattern is tested across cases where resource rents intersect with institut
 
 ## Evidence & Key Findings
 
+> 🟡 **Evidence Confidence: Moderate** — Well-triangulated evidence (18 sources); sources with gate2 concerns
+
 The comparative evidence reveals that corruption in transitional states operates through three distinct but interconnected channels: institutional capture, resource rent distribution, and patronage-based political mobilization.
 
 **Institutional Capture and Justice Sector Corruption.** Singh (2015) provides the most granular evidence from Afghanistan, where 70 interviews in Kabul exposed how systemic corruption undermined judicial reform. The Afghan case demonstrates that legal pluralism — where formal, customary, and religious legal systems coexist — creates arbitrage opportunities exploited by power holders. Building on a political economic approach, Singh shows that corruption is not merely individual moral failure but a structural feature of weak states where judicial institutions lack autonomy. This finding resonates with Nichol's (2012) analysis of Central Asian states, where Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan face common challenges from crime, corruption, and terrorism, yet cooperation remains halting because each regime's patronage network is structured differently.
@@ -22,11 +24,15 @@ The Iran-specific evidence is limited but revealing. Gorgin Akbarabadi and Najaf
 
 ## Cross-Country Patterns
 
+> 🟡 **Evidence Confidence: Moderate** — Well-triangulated evidence (18 sources); sources with gate2 concerns
+
 Two cross-cutting patterns emerge from the comparative evidence. First, **corruption transforms but does not diminish during transitions**. In every documented case — Afghanistan's post-Taliban justice sector, Egypt's post-Mubarak political economy, Central Asia's post-Soviet states — regime change altered the structure of patronage networks without reducing their aggregate impact. The CMO configuration explains why: where institutional constraints remain weak (Context), rational actors with sector-specific rent-seeking capital redirect their efforts to new access points (Mechanism), producing 'corruption transformation' rather than corruption reduction (Outcome). Pecorino's (1998) model predicts that only reforms exceeding a threshold magnitude can dislodge entrenched rent-seekers, suggesting that incremental anti-corruption measures are structurally inadequate.
 
 Second, **resource rents and sanctions create compound corruption traps**. Where natural resource wealth provides concentrated rent flows (Auty 2007, Moti 2019), and international sanctions drive economic activity into opaque channels (Ahmadpour et al. 2025), the combination produces corruption that is simultaneously more deeply entrenched and harder to detect. This compound effect distinguishes Iran from comparators like Indonesia or Tunisia, where transition-era corruption lacked the sanctions-driven opacity dimension.
 
 ## Iran Context
+
+> 🟡 **Evidence Confidence: Moderate** — Well-triangulated evidence (18 sources); sources with gate2 concerns
 
 Iran's corruption challenge is structurally unique because it combines three features absent from any single comparator: massive resource rents from oil and gas, extensive sanctions-driven economic opacity, and an ideologically legitimized parallel economy controlled by revolutionary institutions. The bonyad system, IRGC economic conglomerates, and Supreme Leader-controlled endowments constitute a patronage architecture that would survive any political transition unless specifically dismantled.
 
@@ -55,6 +61,8 @@ A credible anti-corruption strategy for post-transition Iran would need to: (1) 
 | Ahmadpour, A. et al. | 2025 | Sanctions drive tax evasion through related-party transactions in Iran |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
 
 **Institutional Mapping**
 

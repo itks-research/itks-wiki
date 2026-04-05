@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+
 Chile's binomial electoral system, formally known as the 2-member district system (sistema binomial), represents a striking case of how authoritarian electoral rules embed themselves in democratic institutions. (Smith", 2023) notes that the system, installed by Pinochet's 1980 constitution, artificially inflated conservative and center-right representation by requiring two seats per district awarded to the top two coalition lists—effectively locking out smaller parties and left-leaning movements. The mechanism worked by collapsing multi-party competition into two dominant blocs, allowing the center-right to secure disproportionate power despite declining electoral support in the post-1990 democratic period.
 
 The persistence of this system through three decades of democracy illustrates path dependency in electoral institutions. (Brieba", 2019) emphasizes that even after the 1989 plebiscite and democratic transition, the binomial system remained entrenched through supermajority amendment rules and coalition politics that made it rational for large parties to maintain the status quo. The 2015 electoral reform, which replaced binomialism with a fully proportional system, thus represents not merely technical adjustment but democratic deepening—acknowledging that authoritarian-era rules had distorted party system development and citizen representation. The replacement system allowed over 50 political groups to compete and expanded congress in 2017 to include independent candidates, fundamentally reshaping Chile's political landscape.
@@ -8,11 +10,15 @@ The consequences manifested gradually but profoundly. (Olavarr\u00eda"], 2003) d
 
 ## Cross-Country Patterns
 
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (2 sources)
+
 Electoral rules installed during authoritarianism tend to outlive regime transition because they serve as quasi-constitutional constraints that benefit some democratic actors. (Morales", 2025) identifies a pattern: authoritarian rules persist when (1) supermajority amendment procedures protect them, (2) large incumbent parties profit from them, and (3) fragmentation costs make challenging them appear costly to democracy's architects. The Chilean binomial system exemplifies this dynamic—center-right parties, the left, and centrists all eventually found aspects of it rational to maintain until electoral pressure made reform inevitable.
 
 The enabling conditions for reform include: catalytic social mobilization that delegitimizes the system's outcomes; fracturing of the incumbent coalition supporting the rules; external democratic pressures (international credibility, comparative diffusion); and finally, a moment where even beneficiaries recognize the system threatens broader institutional legitimacy. Chile's 2011–2015 window shows all four conditions aligning. The pattern suggests that dismantling authoritarian-inherited electoral rules is not a technical problem but a political economy problem—requiring coalitional realignment, not merely technocratic design.
 
 ## Iran Context
+
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (2 sources)
 
 Iran's Guardian Council vetting mechanism functions as a functional equivalent to Chile's binomial system: both are rules embedded in formal democratic institutions (elections, political participation) that systematically exclude competitors while maintaining electoral legitimacy. (Palagitskaya"], 2019) notes that Chile's binomial system collapsed diversity into two pre-set electoral pathways; Iran's vetting collapses candidate diversity by pre-selecting eligible competitors. Both achieve the same outcome—managed pluralism with a predetermined winner set—through different mechanisms: one through vote aggregation rules, one through candidate eligibility.
 
@@ -43,6 +49,8 @@ For Iran specifically, Chile's experience suggests that Guardian Council vetting
 
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 **Institutional Mapping:** Iran's electoral engineering problem centers on the **Guardian Council's** (شورای نگهبان) exercise of نظارت استصوابی (approbatory supervision) — the power to vet and disqualify candidates for presidential, parliamentary, and Assembly of Experts elections. This mechanism functions as Iran's equivalent of Chile's binomial system: both are authoritarian-era rules embedded within formally democratic electoral institutions that systematically predetermine the range of permissible political competition. The **Ministry of Interior** (وزارت کشور) administers elections but lacks authority to override Guardian Council vetoes. The **Supreme Leader** appoints six clerical members of the Guardian Council directly and controls appointment of the judiciary head who selects the remaining six jurist members — creating a vetting chain entirely subordinate to supreme authority. The **Majles** has no constitutional mechanism to reform the vetting system, as any such legislation would itself be subject to Guardian Council review. The **Assembly of Experts** (مجلس خبرگان) is itself subject to Guardian Council candidate vetting, creating a closed loop where the body theoretically overseeing the Supreme Leader is filtered by an institution the Supreme Leader controls.
 

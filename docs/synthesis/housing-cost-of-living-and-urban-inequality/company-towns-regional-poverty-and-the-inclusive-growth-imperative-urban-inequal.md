@@ -10,6 +10,8 @@ This hypothesis is tested against three sources from the eligibility pool that d
 
 ## Evidence & Key Findings
 
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
+
 The evidence spans Iran's historical urban development, contemporary regional poverty patterns, and international inclusive growth frameworks.
 
 **Historical Roots: Company Towns and Authoritarian Modernization.** Ehsani (2003) provides the most analytically rich source, examining the oil company towns of Abadan and Masjed-Soleyman in Khuzestan — the first modern industrial towns in Iran and the Middle East, designed and constructed by the Anglo-Persian Oil Company (APOC) in the early twentieth century. The study reveals a foundational contradiction in Iran's urban development: these cities were simultaneously modern and authoritarian, designed for industrial efficiency rather than human flourishing. The APOC imposed strict spatial hierarchies segregating British managers, skilled workers, and Iranian laborers. Yet the heterogeneity and energy of the population, combined with the cities' unexpected growth beyond the company's control, produced what Ehsani calls 'conditional modernity' — urban cultures that were 'energetic and dynamic, but also eclectic and hybrid.' This historical analysis is significant because it demonstrates that Iran's urban inequality is not merely a contemporary phenomenon but a structural legacy of how industrial modernity was introduced: as a tool of extraction rather than development, creating cities designed to serve external economic interests rather than the populations who inhabited them. The Khuzestan case has direct parallels to contemporary resource-extraction urbanism across Iran.
@@ -20,6 +22,8 @@ The evidence spans Iran's historical urban development, contemporary regional po
 
 ## Cross-Country Patterns
 
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
+
 One central pattern emerges: **Iran's urban inequality is a product of growth models that concentrate benefits geographically, and this concentration has persisted across radically different political regimes.**
 
 Ehsani's (2003) company town analysis shows that spatial inequality was built into Iran's modernization from its inception — the APOC designed Khuzestan's cities to extract oil, not to develop the region. Mahoozi's (2015) data demonstrate that this pattern persisted through the Islamic Revolution and into the 2000s, with rural poverty increasing despite aggregate growth. The Inclusive Growth Report (2017) provides the theoretical framework: this is not an Iran-specific failure but a structural feature of growth models that prioritize aggregate output over distributional outcomes.
@@ -29,6 +33,8 @@ The implication is that post-transition housing and urban policy cannot be desig
 **Evidence limitations:** This synthesis draws on only three genuinely relevant sources from a pool of 13 categorized under 'Housing, cost of living, and urban inequality.' The 10 excluded sources (sanctions law, foreign policy, marine insurance, Serbia, Russo-Ukrainian war, Afghan constitutional design) reflect a severe category assignment problem — likely caused by automated ingestion during directive processing. This category urgently needs: (1) re-scoring of existing sources to correct category assignments, and (2) new research directives specifically targeting Iranian housing policy, Tehran's housing crisis, rent control debates, informal settlements (hashiyeneshini), and the Mehr Housing Project.
 
 ## Iran Context
+
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
 
 Iran's housing and urban inequality challenge is among the most politically salient issues facing any future government. Tehran's housing prices have increased by over 500% in dollar terms between 2018 and 2024, informal settlements (hashiyeneshini) surround every major city, and the Mehr Housing Project — the most ambitious public housing initiative in the Islamic Republic's history — produced widely criticized results. The evidence reviewed here, while limited, illuminates structural dimensions of this crisis.
 
@@ -54,6 +60,8 @@ A credible post-transition housing and urban strategy would need to: (1) address
 | Corrigan, G. et al. | 2017 | WEF Inclusive Growth Report: stagnation and inequality form a vicious cycle requiring structural growth model reform, not just redistribution — inclusive growth remains 'more discussion than action' |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 **Institutional Mapping:** Housing, urban inequality, and regional development in Iran engage institutions operating at multiple governance levels. The **Ministry of Roads and Urban Development** (وزارت راه و شهرسازی) administers national housing policy, including the controversial **Mehr Housing Project** (مسکن مهر) launched under Ahmadinejad and the subsequent **National Housing Movement** (نهضت ملی مسکن). The **Housing Foundation of the Islamic Revolution** (بنیاد مسکن انقلاب اسلامی) focuses on rural housing and disaster reconstruction but operates as a bonyad under Supreme Leader oversight rather than parliamentary accountability. **Municipal governments** (شهرداری‌ها), particularly Tehran Municipality, control urban planning, zoning, and construction permits — with documented corruption in high-density rezoning that enriches politically connected developers. The **IRGC's Khatam al-Anbiya** dominates large-scale construction, infrastructure, and development projects, often receiving no-bid contracts that crowd out private sector competition. The **Planning and Budget Organization** allocates regional development funds but systematically favors Tehran and major urban centers. Provincial **governorates** lack fiscal autonomy for independent development initiatives.
 

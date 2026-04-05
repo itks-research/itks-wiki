@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
+
 Kim and Sikkink's (2010) quantitative analysis of 100 transitional countries represents the most rigorous empirical test of whether prosecution deters future human rights violations. Their finding -- that human rights prosecutions after transition are associated with improvements in human rights protection -- has been cited extensively and remains the foundational reference for what Sikkink terms the "justice cascade." The analysis controls for country-level factors and demonstrates that the effect is robust across regions and regime types.
 
 Subsequent research refined the finding. Sikkink's 2011 work extended the analysis to show that deterrence operates through both socialization (norm change) and material punishment (fear of consequences), with significant international demonstration effects beyond the prosecuting country. Research with Dancy and Payne (2019) introduced a "multiple mechanisms" framework, finding that prosecutions are most effective when combined with truth-telling and reparations rather than operating in isolation. Critically, the research shows deterrence requires domestic institutional capacity -- international tribunals serve as backstops, but sustainable human rights improvements depend on strengthened domestic accountability institutions.
@@ -8,11 +10,15 @@ South Korea provides the concrete illustration. Presidents Chun Doo-hwan and Roh
 
 ## Cross-Country Patterns
 
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
+
 The central pattern is that deterrence and reconciliation are not mutually exclusive -- they can operate sequentially. The prosecution-pardon model establishes a crucial precedent: former heads of state are not immune from criminal accountability, while clemency remains available as a political tool for reconciliation. This calibrated approach appears more effective for long-term human rights outcomes than either pure impunity or maximalist punishment.
 
 A second pattern is that domestic institutional capacity is the critical variable. International tribunals can provide justice for individual cases, but the systematic deterrence effect requires local courts, local prosecutors, and local legal frameworks. This has direct operational implications for transition planning.
 
 ## Iran Context
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 The Kim-Sikkink evidence base provides the strongest empirical argument for some form of accountability mechanism in a future Iranian transition. The South Korean prosecution-pardon sequence offers a specific procedural template: establish criminal liability through prosecution, then exercise clemency strategically for reconciliation.
 
@@ -34,6 +40,8 @@ This model is particularly relevant for mid-ranking officials in the IRGC, judic
 | Botelho (2021) | Constitutional courts shaped transitions through interpretive authority | 432 |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 **Institutional Mapping:** Prosecution in a future Iranian transition would target specific institutional chains of command. For the 1988 massacres: the Death Commissions (هیئت‌های مرگ) operated in Tehran, Karaj, and provincial prisons under Supreme Leader Khomeini's fatwa, with identified members including former senior officials. For the 2019 November crackdown: the Supreme National Security Council issued the suppression order; the IRGC ground forces, Basij, and FARAJA executed it; the IRGC intelligence organization and MOIS conducted subsequent arrests and interrogations. For systematic judicial violations: Revolutionary Court judges (قضات دادگاه‌های انقلاب) issued sentences without due process over decades. For the 2022 crackdown: FARAJA's morality police, IRGC intelligence, and Basij forces are documented perpetrators. The judiciary (headed by Supreme Leader appointees Sadegh Larijani, Ebrahim Raisi, Gholamhossein Mohseni-Ejei) bears institutional responsibility for legitimizing repression through legal process.
 

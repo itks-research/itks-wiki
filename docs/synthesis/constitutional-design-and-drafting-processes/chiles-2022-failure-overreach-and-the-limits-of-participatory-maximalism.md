@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
+
 Chile's rejected 2022 constitutional proposal provides the most important negative case in the comparative constitutional design literature. On September 4, 2022, Chilean voters rejected the proposed constitution by 62% to 38%, a decisive margin that defied expectations given the broad public consensus that Pinochet's 1980 constitution needed replacement.
 
 The Constitutional Convention comprised 155 members elected in May 2021, including 17 reserved indigenous seats and strict gender parity. However, party-less independents won 65 seats, the left won 28, center-left 25, and center-right 37. This produced a convention dominated by actors without party discipline or legislative experience. Larrain, Negretto, and Voigt (2023) identify three structural failures. First, the convention's control by independents lacking party structures prevented the kind of disciplined negotiation and trade-off management that Spain's ponencia achieved. Second, the political right was exceptionally underrepresented relative to its electoral weight, producing a text that lacked buy-in from a significant portion of the electorate. Third, the decentralized and fully public drafting process, while maximizing transparency, prevented the private compromises that comparative evidence suggests are essential for bridging fundamental disagreements.
@@ -10,6 +12,8 @@ Chile's constitutional reform trajectory offers critical lessons about the const
 
 ## Cross-Country Patterns
 
+> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+
 Chile's failure reveals a crucial pattern: procedural openness and substantive maximalism can be fatal in combination. The convention's fully public deliberations, while admirable in principle, prevented the behind-the-scenes compromises that enabled Spain's consenso. The dominance of independents without party structures meant that no actors had the organizational capacity to make binding commitments across issue areas, the essential mechanism of constitutional horse-trading.
 
 The rejection also demonstrates that constitutional processes must maintain connection to median voter preferences. The convention's composition skewed heavily toward activist and left-leaning delegates, producing a document that reflected movement preferences rather than social consensus. The 62-38 rejection margin suggests the disconnect was substantial and well-understood by the electorate.
@@ -17,6 +21,8 @@ The rejection also demonstrates that constitutional processes must maintain conn
 Two patterns constrain participatory maximalism in polarized settings. First, value polarization on non-negotiable issues (Smith 2023 documents religion and sexuality as exactly such issues in Latin America) cannot be overcome through deliberative procedures. When constitutional redesign explicitly addresses these values, participation mobilizes opposition rather than consensus. Second, institutional changes that attempt to expand participation may activate latent conflicts (Brieba 2019). Chile's electoral reforms designed to increase inclusivity destabilized existing party coalitions, making constitutional consensus impossible. Lijphart (1996) shows that majoritarian systems achieve consensus through power-sharing among pre-existing elites, not through expanded mass participation on fundamental issues.
 
 ## Iran Context
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
 
 Chile's failure counsels directly against specific risks in an Iranian constitutional process. Iran's political spectrum spans from theocratic restoration to radical secularism, from ethnic federalism to centralized unitarism, from socialist economics to free-market liberalism. The range of constitutional preferences is arguably wider than Chile's, making a Chile-style outcome an acute risk.
 
@@ -44,6 +50,8 @@ The Chilean experience offers sobering lessons for Iran's constitutional future.
 | 5425 | Daniel Brieba, Kenneth Bunker | 2019 | Voter Equalization and Turnout Bias After Electoral Reform: ... |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 **Institutional Mapping:** Chile's failure warns against specific institutional design errors applicable to Iran's constitutional process. The convention's domination by party-less independents (65 of 155 seats) produced a body lacking negotiation discipline — directly relevant to Iran, where decades of authoritarian rule have suppressed political party development, and a post-transition convention would likely feature numerous independents and ad hoc formations. The underrepresentation of the political right (center-right won only 37 of 155 seats despite commanding approximately 40% of the electorate) produced a document lacking buy-in from a significant population segment — relevant to Iran, where conservative, religiously observant, and provincial constituencies must be represented even if their preferences differ from the dominant reform narrative. The institutions needing representation in an Iranian process include not only the obvious democratic forces but also: conservative religious constituencies, provincial بسیجی-linked communities, bazaar merchant networks (بازاری), ethnic community organizations, and military/security establishment elements willing to negotiate.
 

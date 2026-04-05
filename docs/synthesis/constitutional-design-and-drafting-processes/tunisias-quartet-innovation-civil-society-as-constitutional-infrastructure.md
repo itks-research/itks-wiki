@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
+
 Tunisia's 2014 Constitution represents the most extensively documented case of democratic constitution-making in the ITKS corpus. The National Constituent Assembly (NCA), elected October 2011 with 217 members, spent approximately 27 months drafting the constitution through iterative revision. Four successive drafts (August 2012, December 2012, April 2013, June 2013) allowed progressive refinement and pressure-testing of contested provisions. The final ratification vote on January 26, 2014, produced an overwhelming 200-12 result with 4 abstentions.
 
 The critical institutional innovation was the Tunisian National Dialogue Quartet's intervention during the summer 2013 crisis. When political assassinations and the Egyptian military coup against Morsi created fears of authoritarian reversion, the NCA's work halted. The Quartet comprised four organizations with institutional weight: the UGTT (trade union federation), UTICA (employers' federation), ONAT (national bar association), and LTDH (human rights league). Their marathon negotiations produced a package deal: the Ennahda-led government would dissolve in favor of a technocratic caretaker, new elections would be held by end of 2014, and the constitutional process would accelerate to completion. The Quartet's mediation earned the 2015 Nobel Peace Prize.
@@ -10,6 +12,8 @@ Tunisia's constitution-making process and its civic infrastructure outcomes have
 
 ## Cross-Country Patterns
 
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
+
 Tunisia's experience reveals two structural patterns. First, civil society organizations with institutional weight (organized labor, professional associations, employer federations) can serve constitutional functions that go beyond advocacy: mediation, process guarantorship, and legitimacy anchoring. This role requires organizations with independent membership bases, organizational capacity for sustained engagement, and credibility with multiple political factions. Advocacy NGOs, however important, typically lack these characteristics.
 
 Second, the iterative multi-draft approach produced demonstrably better outcomes than single-round processes. Each successive draft incorporated lessons from public debate, expert review, and political negotiation. The four-draft, 27-month timeline, initially criticized as excessive delay, proved essential for building the broad consensus reflected in the final 200-12 vote. Negretto and Sanchez-Talanquer (2021) provide the empirical framework, arguing that constitutions most enhance liberal democracy when they emerge through plural agreement among political elites with distinct social support bases.
@@ -17,6 +21,8 @@ Second, the iterative multi-draft approach produced demonstrably better outcomes
 Three patterns emerge from the Tunisia case. First, institutional innovation in constitution-making requires prior civic organizational capacity. Usman et al. (2025) document extensive civil society networks pre-existing the Quartet model, suggesting that institutional design alone cannot substitute for organizational infrastructure. Second, participatory constitution-making succeeds when narrowly focused on specific constitutional questions. Maboudi (2019) shows that Tunisia's deliberative success concentrated on fundamental rights and democratic procedures, where technical expertise and citizen input aligned, while remaining limited on state structure questions where political power remained centralized. Third, constitutional compromises may exclude key ideological groups. Lavie (2021) observes that Tunisia's constitutionalization of the civil state required negotiated settlements that did not fully satisfy either Islamist or secularist factions, illustrating the persistent tensions in post-uprising constitutional orders.
 
 ## Iran Context
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
 
 Tunisia's process offers three direct lessons for Iran. First, the Quartet model demonstrates that civil society organizations with institutional weight can serve as constitutional process infrastructure. Iran's equivalent institutions include the Workers' House (Khaneh-ye Kargar), chambers of commerce, the bar association, and medical councils. These organizations could play analogous mediating roles if they can operate independently of state control, a condition that would need to be established during the transition itself.
 
@@ -45,6 +51,8 @@ Iran's civil society infrastructure presents both advantages and obstacles for T
 | 729 | Limor Lavie | 2021 | The Constitutionalization of the Civil State: The Self-Defin... |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
 
 **Institutional Mapping:** Iran possesses civil society institutions that could potentially serve the Quartet function — organizations with institutional weight capable of mediating between political factions during a constitutional crisis. The Workers' House (خانه کارگر), though currently regime-linked, represents organized labor. The chambers of commerce (اتاق بازرگانی) represent the private business community. The bar association (کانون وکلا) has historically maintained greater independence than most Iranian institutions. Medical councils, engineering associations, and academic institutions provide professional organizational infrastructure. The key difference from Tunisia: Iran's civil society organizations have been systematically co-opted or suppressed over four decades, meaning their independence and mediating capacity would need to be rebuilt during — not before — the transition. Diaspora civil society organizations (IDC, professional associations, academic networks) could supplement domestic capacity during the initial period.
 

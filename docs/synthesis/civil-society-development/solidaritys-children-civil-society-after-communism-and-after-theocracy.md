@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+
 Poland's Solidarity movement remains the paradigmatic case of civil society enabling democratic transition — a mass movement of 10 million members that created an alternative public sphere within an authoritarian state, developed self-governing institutions, and ultimately negotiated the Round Table agreements that ended communist rule. But the post-transition trajectory of Polish civil society complicates this heroic narrative. Regulska (1999) documents how NGOs that emerged after 1989 proved structurally vulnerable: dependent on foreign funding, disconnected from grassroots constituencies, and struggling to adapt from oppositional mobilization to constructive policy engagement. Weil, Huffman, and Gautier (1993) identified this tension early, showing that democratization in Eastern and Western Europe followed different trajectories precisely because the social capital that powered transitions did not automatically translate into post-transition civic infrastructure.
 
 McGann (2010) examines think tanks as a specific form of civil society organization in transitional states, finding that their effectiveness depends on institutional independence from both government and donor agendas — a condition that proved difficult to maintain in post-communist Central Europe and would be even harder in post-revolutionary Iran. The "Social Capital and the Transition to Democracy" volume (2004) provides the theoretical framework, arguing that the type of social capital that sustains authoritarian resistance (bonding capital, high-trust networks within opposition groups) differs structurally from the type needed for democratic governance (bridging capital, cross-cutting associations that link diverse social groups).
@@ -8,11 +10,15 @@ Korolczuk and Graff (2018) document a disturbing late-stage development: the ris
 
 ## Cross-Country Patterns
 
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+
 The cross-cutting pattern is clear: revolutionary civil society and democratic civil society require fundamentally different organizational forms, funding structures, and leadership cultures. Countries that invested in the institutional transition of civil society organizations (South Korea's professionalization of civic groups, Spain's systematic support for associational life) achieved more durable democratic infrastructure than those that assumed revolutionary momentum would carry forward naturally.
 
 A second pattern concerns the "NGO-ization" trap: the replacement of organic civic movements with professionalized NGOs dependent on foreign funding creates civil society organizations that are accountable to donors rather than to citizens. This pattern has been documented across post-communist Europe, post-Arab Spring states, and Latin American transitions, and represents a significant risk for any Iranian transition where Western governments and diaspora organizations would likely channel significant resources into civil society support.
 
 ## Iran Context
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 Iran's civil society landscape is simultaneously rich and constrained. Despite decades of repression, Iranian society has generated persistent civic energy: the reform movement of the late 1990s, the Green Movement of 2009, the Woman Life Freedom movement of 2022, and ongoing labor activism, environmental campaigns, and human rights documentation all demonstrate deep civic capacity. The key analytical question is whether this oppositional civic energy can transform into constructive democratic governance infrastructure — a question the Polish experience answers with qualified optimism and significant caveats.
 
@@ -41,6 +47,8 @@ The Women's Rights report on the Middle East and North Africa (2011) documents h
 | 7 | — | 2011 | Women's rights in the Middle East and North Africa | — |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 **Institutional Mapping:** Civil society development in Iran operates against an institutional architecture designed to prevent autonomous civic organization. The **Ministry of Interior** (وزارت کشور) controls NGO registration and can dissolve organizations at will. The **IRGC Intelligence Organization** (سازمان اطلاعات سپاه) and **Ministry of Intelligence** (وزارت اطلاعات, VAJA) monitor civic activists. The **Basij** (بسیج) operates as a regime-aligned pseudo-civil-society network with millions of nominal members, controlling neighborhood councils, student organizations, and professional associations. The **bonyad** (بنیاد) system — charitable foundations controlling 20-30% of GDP — represents regime-aligned 'civil society' commanding resources that dwarf any independent organization. The **judiciary** criminalizes independent organizing through national security charges. The **Supreme Leader's network** of Friday Prayer Imams (ائمه جمعه) provides an ideological surveillance infrastructure paralleling civic space.
 

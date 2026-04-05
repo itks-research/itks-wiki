@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+
 Tunisia's post-2011 revolution represents one of the most dramatic transformations in Middle Eastern party politics. Prior to 2011, Tunisia operated under Ben Ali's single-party authoritarian system, with the Constitutional Democratic Rally (RCD) maintaining total monopoly control. Following the revolution, Tunisia experienced an explosive proliferation of political parties—from near-zero competitive parties to over 100 registered parties by 2014 (Arieff, 2011; Angrist, 2013).
 
 The centerpiece of this new pluralism was the Ennahda Movement (Mouvement de la Tendance Islamique), a moderate Islamist party that had operated underground for decades. After legalization, Ennahda performed remarkably in the 2011 مجلس مؤسسان elections, winning 37% of seats. Crucially, Ennahda demonstrated flexibility in its approach: rather than imposing strict Islamic law, it engaged in pragmatic coalition-building and constitutional compromise (Ghannouchi & March, 2023; Volpi & Stein, 2015).
@@ -12,6 +14,8 @@ The critical turning point came with President Kais Saied's 2021 constitutional 
 
 ## Cross-Country Patterns
 
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
+
 The Tunisian case illustrates a critical paradox in post-authoritarian transitions: the same mechanisms that enable democratic pluralism can undermine تحکیم دموکراسی. Party fragmentation, when excessive, creates several structural problems.
 
 First, fragmentation prevents formation of stable legislative majorities. With dozens of parties competing, no single party achieves a mandate, forcing perpetual coalition negotiations. This dilutes executive power and slows legislation (Volpi & Stein, 2015).
@@ -23,6 +27,8 @@ Third, excessive fragmentation creates حکمرانی vacuums that opportunistic
 The distinction between genuine pluralism and pathological atomization matters: genuine pluralism involves 3-6 major parties with distinct constituencies and programs; atomization produces 50+ minor parties with indistinct platforms. Tunisia crossed from the former into the latter after 2011.
 
 ## Iran Context
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 Iran's political system offers an instructive contrast to Tunisia's rapid liberalization. Rather than experiencing sudden party pluralization, Iran maintains a controlled system of party competition within the framework of رهبر معظم انقلاب authority. The Islamic Iran Participation Front (IIPF) represents the closest approximation to an organized reformist party, advocating gradual political opening and civil rights expansion. However, the IIPF operates under severe constraints: it cannot challenge the fundamental structure of ولایت فقیه (rule of the jurist), its candidates are vetted by the شورای نگهبان, and its legislative initiatives are subject to رهبر معظم انقلاب veto.
 

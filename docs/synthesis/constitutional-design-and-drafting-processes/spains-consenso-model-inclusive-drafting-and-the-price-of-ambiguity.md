@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
+
 Spain's 1978 Constitution is the longest-surviving product of the "third wave" of democratization, and its drafting process is the most frequently cited model of consensus constitution-making. The seven-member ponencia (drafting commission) included representatives from the governing UCD, the PSOE, the Catalan CiU, the Communist PCE, and the conservative AP, spanning the political spectrum from former Francoists to former underground communists. Their deliberations across more than 100 sessions between July 1977 and March 1978 produced a text that no party fully endorsed but all could accept.
 
 The consenso approach rested on three pillars. First, procedural equality: all major parties had drafting representation regardless of their electoral weight, preventing majoritarian imposition. Second, substantive ambiguity: on issues where consensus was impossible (the unity-autonomy tension, the role of the monarchy, church-state relations), the drafters chose deliberately vague language that could accommodate multiple interpretations. Third, external anchoring: the prospect of European Community membership provided an external reference point and institutional constraint that disciplined all parties toward democratic norms.
@@ -10,6 +12,8 @@ The consenso model's emphasis on constitutional ambiguity as a precondition for 
 
 ## Cross-Country Patterns
 
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
+
 The fault line emerged where ambiguity was greatest. Colino (2008) traces how bottom-up revision of subnational constitutional arrangements, particularly Catalonia's 2006 Statute of Autonomy reform, tested the limits of the 1978 framework. The Constitutional Court's 2010 ruling striking down portions of the Catalan Statute precipitated the secessionist crisis that culminated in the 2017 unilateral declaration of independence. Rico and Lineira (2014) document how secessionism moved from fringe to mainstream in the 2012 Catalan election.
 
 The pattern reveals a fundamental tradeoff in constitutional design: creative ambiguity can enable transitions by deferring unresolvable conflicts, but the deferred conflicts do not disappear. They re-emerge when political actors push the ambiguous language beyond its elastic limits. The critical variable is whether the constitutional framework includes institutions capable of managing these deferred tensions when they surface: empowered courts, formal intergovernmental forums, and clear procedures for resolving center-periphery conflicts.
@@ -17,6 +21,8 @@ The pattern reveals a fundamental tradeoff in constitutional design: creative am
 Two competing patterns emerge from this comparative analysis. First, constitutional ambiguity can facilitate consensus but generates downstream conflicts requiring authoritative resolution. Spain, Iran 1906, and Iran 1979 all illustrate how fuzzy constitutional language defers rather than resolves fundamental disputes (Martin 2011, Randjbar-Daemi 2013). Second, constitutional designers in fragmented polities face a choice: explicit conflict (impossible consensus) versus deferred conflict (ambiguous consensus). Boryslavska (2021) shows that post-1989 Eastern European democracies often chose earlier, more adversarial constitution-making processes that eliminated ambiguity through struggle rather than agreement.
 
 ## Iran Context
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
 
 Spain demonstrates both the power and the limits of creative ambiguity for Iran's constitutional design. Iran's ethnic and linguistic diversity (Persian, Azeri, Kurdish, Baloch, Arab, Turkmen, Lor) maps onto territorial claims in ways that parallel Spain's Catalan question. The Spanish model suggests that deliberate ambiguity on the unitary-federal spectrum could enable initial consensus in Iran, allowing different groups to read their preferred outcomes into a shared text.
 
@@ -43,6 +49,8 @@ The Iranian constitutional tradition exemplifies both the promise and peril of c
 | 4066 | Olena Boryslavska | 2021 | Judicial Reforms in Eastern Europe: Ensuring the Right to a ... |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
 
 **Institutional Mapping:** Spain's consenso model maps onto Iran's constitutional challenge through the lens of managed ambiguity across contested institutional domains. The ponencia's seven-member cross-spectrum representation would need Iranian equivalents: representatives of اصلاح‌طلبان (reformists), اصولگرایان (principalists/pragmatic conservatives willing to negotiate), secular democratic forces, ethnic community representatives (Kurdish, Azeri, Baloch, Arab, Turkmen), religious minority representatives, women's movement representatives, and military/security establishment representatives willing to participate. The institutions whose futures require negotiation include: the Guardian Council (abolition vs. replacement), the حوزه system (autonomy framework), the judiciary (independence mechanisms), regional governance (unitary vs. federal or asymmetric arrangements), and the IRGC (dissolution, transformation, or integration).
 

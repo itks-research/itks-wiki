@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+
 The IRGC's economic empire represents a form of military-commercial organization without direct historical parallel. Robin (2011) provides the foundational analysis, documenting how the IRGC evolved from a revolutionary militia into an economic conglomerate controlling construction (Khatam al-Anbiya), telecommunications, banking, import-export operations, and energy sector contracts worth an estimated $20-40 billion annually. Unlike military-industrial complexes in democratic states or even military businesses in other authoritarian contexts (Egypt's military economy, Pakistan's Fauji Foundation, Myanmar's military conglomerates), the IRGC combines commercial operations with active military and intelligence functions, religious-revolutionary legitimacy, and direct political representation through veterans in parliament and local government.
 
 Amineh (2022) provides the comparative framework through an analysis of why China's rise succeeded and Iran's failed, arguing that the key difference lies in institutional design: China maintained party control over military commercial activities and channeled them toward developmental objectives, while Iran allowed IRGC economic expansion to serve rent-seeking rather than developmental purposes. This comparison is instructive because it demonstrates that the problem is not military economic activity per se but the absence of institutional mechanisms to subordinate it to national development goals.
@@ -10,11 +12,15 @@ Wright (2009) examines how foreign aid can foster democratization in authoritari
 
 ## Cross-Country Patterns
 
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+
 The comparative literature on military economic empires across transitional states reveals a consistent pattern: where military organizations control significant economic assets, transitions succeed only when they address military economic interests directly rather than assuming democratic political change will automatically produce military economic reform. Indonesia's handling of the TNI's (military's) business interests after 1998 is the closest comparator — the Reformasi movement mandated military divestment, but implementation took over a decade and was never fully completed, with many military businesses simply restructured under civilian fronts.
 
 A second pattern concerns the security-economy nexus: military economic actors have both the motivation and the capability to destabilize transitions that threaten their economic interests. Successful transitions have either co-opted military economic interests (South Korea's chaebol integration), negotiated explicit economic guarantees (Spain's military pact), or created transitional mechanisms that maintained military welfare while restructuring military businesses (Indonesia's partial approach). Transitions that attempted to confront military economic power directly without negotiation (Egypt after 2011) ended in military reassertion of control.
 
 ## Iran Context
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 The IRGC's economic empire presents unique challenges that exceed any comparative case. First, the scale is larger — by most estimates, IRGC-connected entities control 25-40% of Iran's GDP, dwarfing Indonesia's TNI business holdings (estimated at 5-10% of GDP at their peak) or Egypt's military economic sector (estimated at 5-15% of GDP). Second, the integration between military, economic, and religious functions is deeper — the IRGC's economic operations fund not just military capacity but social welfare programs (through the Basij), religious institutions, and political patronage networks that create a web of dependencies extending throughout Iranian society.
 
@@ -43,6 +49,8 @@ The critical variable is whether IRGC commanders and their economic networks can
 | 7 | Damiano | 2015 | How Iran could democratize | — |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 **Institutional Mapping:** The **IRGC economic empire** constitutes the central obstacle to economic transition in Iran. **Khatam al-Anbiya** (قرارگاه سازندگی خاتم‌الانبیاء) controls construction, energy, and infrastructure contracts worth tens of billions annually. The **IRGC Cooperative Foundation** (بنیاد تعاون سپاه) manages investments across telecommunications, banking, and import-export operations. Individual IRGC commanders control subsidiary holdings through opaque corporate structures. The **Basij** (بسیج) operates its own economic networks — cooperatives, retail chains, subsidized distribution systems — that double as social welfare and surveillance mechanisms. **Setad Ejraiye Farmane Hazrate Emam** (ستاد اجرایی فرمان حضرت امام), nominally under the **Supreme Leader**, controls an estimated $95 billion in seized and accumulated assets. The **bonyads** occupy a parallel track — **Bonyad Mostazafan** alone manages assets comparable to small national GDPs.
 

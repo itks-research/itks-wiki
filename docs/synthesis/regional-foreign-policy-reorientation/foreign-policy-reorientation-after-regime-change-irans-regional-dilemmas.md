@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+
 Transitions between regime types fundamentally reshape the regional and international positioning of nation-states. Historical precedents demonstrate that the institutional architecture surrounding foreign policy-making becomes a contested terrain during such transformations, with competing actors advocating for divergent strategic orientations. 
 
 The case of Turkey illustrates this dynamic with particular clarity. Following the transition from a single-party system toward competitive democracy in the 1950s, Turkey's regional foreign policy shifted from autarky and isolation toward active engagement with NATO and Western institutions. Yet even within this structural reorientation, continuities persisted. The strategic imperative of managing relations with Iran and the Arab world remained constant, even as the institutional mechanisms—parliament, foreign ministry, military—negotiated the terms of regional engagement. Similarly, Spain's integration into NATO and the European Union represented a dramatic reorientation from Franco-era isolationism, yet geographic relationships with North Africa maintained continuity (Aras & Yorulmazlar, 2014). 
@@ -10,6 +12,8 @@ Iran's foreign policy architecture reveals institutional fragmentation that woul
 
 ## Cross-Country Patterns
 
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+
 Democratic transitions generate predictable tensions in foreign policy orientation. The central dynamic is the shift from security-focused national interest to pluralistic conception incorporating democratic constituencies and civil society preferences.
 
 Transitions involve periods of strategic ambiguity during which factions compete to define external orientation. In Spain's case (1976-1983), NATO and European integration became consensus; Turkey demonstrates this period can extend indefinitely if institutional consolidation remains incomplete.
@@ -19,6 +23,8 @@ Regional rivals attempt to shape outcomes through engagement or coercion. Russia
 Democratic transitions increase salience of national security institutions in foreign policy. Civil-military relations become contested, with militaries retaining autonomous control. Iran's IRGC would likely demand institutional guarantees protecting operational autonomy, as Turkey's military did.
 
 ## Iran Context
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 Iran's current foreign policy architecture reflects three decades of institutional evolution within the Islamic Republic's theocratic-oligarchic structure. Understanding post-transition trajectory requires disaggregating institutional actors and competing strategic visions.
 
@@ -52,6 +58,8 @@ Key research gaps shape the analysis of Iran's potential foreign policy reorient
 | 8 | «ENTENTE CORDIALE» ПРОТИЛЕЖНИХ ДЕРЖАВ: БОРОТЬБА КИТАЮ ТА РОС... | Емре Озігчі | 2022 | 3.0 | 4.93 |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 **Institutional Mapping:** Iran's foreign policy architecture is institutionally fragmented in ways that would profoundly complicate post-transition reorientation. The **Quds Force** (نیروی قدس), a branch of the **IRGC**, operates semi-autonomously from the **Ministry of Foreign Affairs**, managing proxy networks across Iraq (Popular Mobilization Forces), Syria (Shiite militias), Lebanon (**Hezbollah**), and Yemen (Ansar Allah/Houthis). The **Supreme Leader's office** exercises ultimate authority over both tracks — formal diplomacy and extraterritorial operations — creating a dual foreign policy architecture where the Foreign Ministry manages state-to-state relations while the Quds Force manages sub-state networks. The **Supreme National Security Council** (شورای عالی امنیت ملی) nominally coordinates these tracks but in practice the Supreme Leader arbitrates conflicts. The **Majles National Security and Foreign Policy Committee** exercises limited oversight, and the **Artesh** (regular military) maintains conventional defense relationships distinct from IRGC regional operations.
 

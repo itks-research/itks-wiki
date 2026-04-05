@@ -10,6 +10,8 @@ This hypothesis is tested against four sources: two Iran-specific studies on env
 
 ## Evidence & Key Findings
 
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
+
 The evidence organizes into three dimensions of environmental governance relevant to Iran's resource sustainability challenge.
 
 **Legal-Institutional: Environmental Impact Assessment as Governance Indicator.** Salari and Mousavi (2025) provide the most directly relevant analysis, comparing Iran's environmental impact assessment (EIA) legal framework with China and the International Finance Corporation (IFC) standards. Their critical finding is that Iran recognized EIA in its legal system early, but the framework suffers from three structural weaknesses: dispersion of laws and regulations across multiple agencies, lack of operational detail in enforcement provisions, and absence of effective sanctions for non-compliance. This legal architecture produces a paradox — formal environmental protections exist on paper but lack the institutional teeth to constrain development decisions. The comparative lens is revealing: China's EIA system, despite its own limitations, has achieved greater enforcement capacity through centralized administrative authority, while IFC standards represent the international benchmark for project-level environmental assessment. Iran's gap is not in legal recognition but in implementation infrastructure.
@@ -22,6 +24,8 @@ The evidence organizes into three dimensions of environmental governance relevan
 
 ## Cross-Country Patterns
 
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
+
 Two patterns emerge from this limited but coherent evidence base.
 
 First, **Iran's environmental governance gap is institutional, not legal.** Salari and Mousavi (2025) demonstrate that Iran possesses formal environmental protections but lacks enforcement capacity. This mirrors a pattern documented across resource-dependent states: environmental laws exist as aspirational statements rather than binding constraints because the economic incentive structure rewards extraction over protection. Mashayekh et al.'s (2018) material flow data confirm this at the empirical level — Iran's economy remains structured around raw material export despite decades of formal environmental commitments.
@@ -31,6 +35,8 @@ Second, **the sanctions economy actively retards green transition.** Lu et al.'s
 **Evidence limitations:** This synthesis draws on only four sources, and the comparative studies (Lu et al. 2020; Hallegatte et al. 2011) do not address Iran specifically. The Iran-specific evidence (Salari & Mousavi 2025; Mashayekh et al. 2018) is diagnostic rather than prescriptive. Additional research directives on Iran's water crisis, desertification, Lake Urmia, air pollution in Tehran and Isfahan, and the environmental footprint of IRGC-controlled industries would substantially strengthen this category.
 
 ## Iran Context
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
 
 Iran's environmental crisis is among the most severe in the Middle East, encompassing water scarcity (Lake Urmia's near-disappearance, aquifer depletion), desertification, urban air pollution, and oil industry environmental damage. The evidence reviewed here addresses the institutional and policy dimensions rather than the physical crisis itself, but the implications for post-transition governance are significant.
 
@@ -59,6 +65,8 @@ A credible post-transition environmental strategy would need to: (1) consolidate
 | Lu, Y. et al. | 2020 | Comparative review of renewable energy policies shows successful transitions require integrated policy packages: feed-in tariffs, portfolio standards, tax incentives, technology transfer (478 citations) |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
 
 **Institutional Mapping:** Environmental governance in Iran is institutionally dispersed and politically subordinated. The **Department of Environment** (سازمان حفاظت محیط زیست), headed by a vice-president, formally coordinates environmental policy but lacks enforcement authority against powerful development actors. The **Ministry of Energy** (وزارت نیرو) controls water resource management — the most acute environmental crisis — and prioritizes agricultural and industrial allocation over ecological sustainability. The **Ministry of Petroleum** and **NIOC** manage hydrocarbon extraction with minimal environmental accountability. **Khatam al-Anbiya** (قرارگاه خاتم‌الانبیا), the IRGC's engineering arm, executes major infrastructure projects (dams, roads, pipelines) with documented environmental impacts and effective immunity from environmental review. The **Ministry of Agriculture** (وزارت جهاد کشاورزی) has promoted water-intensive farming practices contributing to aquifer depletion. Local **governorates** (استانداری‌ها) manage regional environmental enforcement but are politically subordinate to central government priorities.
 

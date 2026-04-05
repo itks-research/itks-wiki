@@ -10,6 +10,8 @@ This hypothesis is tested against four sources: Mohseni-Tabrizi (2005) on studen
 
 ## Evidence & Key Findings
 
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
+
 The evidence illuminates three channels through which youth political engagement manifests under constrained conditions.
 
 **Student Political Adjustment in Iran.** Mohseni-Tabrizi (2005) provides the most directly relevant study, examining patterns of student adjustment to Iran's contemporary political and social scene. Drawing on alienation theory (Seeman, Fromm, Keniston) and student activism literature, the study develops typologies of student responses to political constraint: activism, alienation, apathy, and various combinations. The theoretical framework distinguishes between political alienation (estrangement from the political system) and self-alienation (internalized powerlessness), both of which produce distinct behavioral patterns. Students experiencing political alienation may become activists or withdraw entirely; those experiencing self-alienation are more likely to disengage. The study's methodological foundation in both Western activism theory and Iranian empirical data makes it the most valuable source for understanding how Iran's student population — historically the vanguard of political change — processes political constraint. The finding that student responses cluster into identifiable typologies suggests that generational political attitudes are not monolithic but structured by specific forms of alienation.
@@ -22,6 +24,8 @@ The evidence illuminates three channels through which youth political engagement
 
 ## Cross-Country Patterns
 
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
+
 Two cross-cutting patterns emerge from the evidence.
 
 First, **youth political engagement under authoritarianism operates through substitution rather than suppression.** When formal political channels are blocked, political energy redirects into cultural production (Maghazei 2014), alienation typologies (Mohseni-Tabrizi 2005), or episodic protest (Otayek 2014). The critical insight is that this substitution is not merely symbolic — it builds the cultural and intellectual infrastructure that can rapidly convert into political mobilization when opportunity structures open. Iran's conscious music scene did not cause the 2022 protests, but it created a shared generational vocabulary and consciousness that enabled rapid collective action.
@@ -31,6 +35,8 @@ Second, **demographic pressure does not automatically produce political mobiliza
 **Evidence limitations:** This synthesis draws on only four sources, two Iran-specific and two comparative. The absence of evidence on Iran's 2022 Woman Life Freedom movement, social media as political infrastructure, diaspora youth networks, or comparative youth politics in post-authoritarian transitions (Spain, South Korea, Indonesia) represents significant gaps. The GCC interventionism and unpaid female labor sources in the eligibility pool were excluded as not relevant to generational politics, further reducing the evidence base.
 
 ## Iran Context
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
 
 Iran's generational politics are shaped by a defining paradox: the Islamic Republic was itself a product of youth mobilization (university students were central to the 1979 revolution), yet it now faces a youth population that overwhelmingly rejects the system's ideological foundations. The evidence reviewed here illuminates specific dimensions of this paradox.
 
@@ -59,6 +65,8 @@ A post-transition strategy for youth engagement would need to: (1) create formal
 | Otayek, R. | 2014 | Arab uprisings revealed youth and women as new political actors rejecting both authoritarianism and Islamism — democratic regulation of cultural pluralism is the key challenge |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 **Institutional Mapping:** Youth political engagement in Iran is shaped by institutions designed to channel, co-opt, or suppress generational energy. The **Basij** (بسیج) functions as the primary regime instrument for youth mobilization, offering economic incentives (university admission preferences, employment access, subsidized goods) in exchange for ideological conformity — estimated membership of several million, though active participation is substantially lower. The **Ministry of Science, Research and Technology** (وزارت علوم) controls university governance, including appointment of politically vetted university presidents and enforcement of cultural codes on campuses. The **Supreme Council of the Cultural Revolution** (شورای عالی انقلاب فرهنگی) sets educational and cultural policy designed to reproduce revolutionary ideology across generations. The **Ministry of Sports and Youth Affairs** (وزارت ورزش و جوانان) manages youth programming but functions primarily as a regime loyalty mechanism. **IRIB** controls media narratives targeting youth, while the **Cyber Police** (پلیس فتا) monitors and restricts the social media platforms where young Iranians actually build political consciousness. Student organizations at universities — both officially sanctioned **Islamic Student Associations** (انجمن‌های اسلامی دانشجویان) and underground networks — serve as contested spaces for political expression.
 

@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
+
 Spain's post-Franco judicial reform (1978–1990s) offers a cautionary model of how democracies can institutionalize courts without root-and-branch purges. Rather than dismissing Franco-era judges, Spain's 1978 Constitution created new institutional structures: an independent Constitutional Court (1980), strengthened judicial councils, and reformed selection processes (Magalhães et al. 2006). Critically, Spain maintained most existing judges but insulated them through constitutional and organic law changes—a gradualist approach that prioritized stability over revolutionary cleansing. However, this meant Franco-era judicial culture persisted, and the judiciary's reputation remained tainted for decades.
 
 Poland's experience from 1989 to 2015, and then again from 2015 onwards, reveals both the promise and fragility of judicial independence in post-communist transitions. Initial reforms under EU pre-accession conditionality and Council of Europe pressure were substantial: independent Constitutional Courts, judicial councils with peer input, and merit-based appointment procedures (Magalhães 1999; Piana 2009). Yet the Law and Justice Party's (PiS) capture of the courts from 2015 onwards—through lowered retirement ages, controlled judicial appointments, and politicized disciplinary procedures—demonstrated how constitutionally embedded safeguards can be dismantled when populist governments control constitutional amending procedures and electoral legitimacy (Drinóczi & Bień-Kacała 2019). The EU's external pressure proved insufficient once a government framed court reform as "de-communization" and populist reclamation.
@@ -8,9 +10,13 @@ These contrasting paths—Spain's institutional layering without purges versus P
 
 ## Cross-Country Patterns
 
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
+
 Three patterns emerge across these cases. First, institutional designs that separate court governance from electoral politics—constitutional courts, independent judiciaries, and insulated appointment procedures—are necessary but insufficient. They require sustained political consensus to protect them, especially in polarized societies. Second, transitional justice approaches differ sharply: Spain chose continuity with institutional reform; Poland inherited communist judicial structures but reformed them; Iran never underwent institutional discontinuity—the Islamic Republic embedded clerical authority in the constitution itself. This means Iran's reform challenge is fundamentally different: not rehabilitating a captured judiciary or transitioning from authoritarian judges, but decoupling Islamic jurisprudence and the Guardian Council's judicial oversight from party-political and regime-preservation functions. Third, external pressure (EU conditionality, Council of Europe mechanisms) can accelerate formal institutional change, but it cannot create political will to defend those institutions against domestic populist backlash or theocratic consolidation.
 
 ## Iran Context
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
 
 Iran's dual legal system—combining civil code, Islamic jurisprudence (fiqh), and clerical institutional oversight—presents a singular challenge for judicial independence that neither Spain's nor Poland's models address. The velayat-e faqih (guardianship of the jurist) framework constitutionalized clerical authority over the judiciary in 1979 (Saffari 1993), embedding the Supreme Leader's ideological control within formal law. The Guardian Council functions as a dual watchdog: vetting legislation for Islamic compliance and supervising elections, while the Special Clerical Court operates beyond ordinary judicial channels to try clergy members accused of crimes against the state. This design is not a captured court system that can be reformed through institutional insulation—it is an intentional theocratic integration of law and executive authority.
 
@@ -31,6 +37,8 @@ Yet Iran's own legal system contains seeds of judicial independence claims that 
 Source citations are documented in the article database. Key works consulted: Saffari (1993) on constitutional clerical authority; Tabari (2003) on reformist rule-of-law discourse; Osanloo (2020) on Islamic law's forgiveness mechanisms; Arjomand & Brown (2013) on constitutional Islam; Drinóczi & Bień-Kacała (2019) on judicial capture; Magalhães et al. (2006) on Spain's post-authoritarian judicial reform; Magalhães (1999) on post-communist judicial transitions; Piana (2009) on Council of Europe pressure and EU conditionality.
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
 
 **Institutional Mapping**
 

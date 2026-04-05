@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
+
 Iran's press freedoms have experienced dramatic cycles of liberalization and control throughout the 20th and 21st centuries. During the Constitutional Era (1906-1925), newspapers like Kaveh and Ettelaat became forums for intellectual debate and political contestation, establishing early traditions of adversarial journalism that would resurface repeatedly (Alalaq, 2016). The constitutional movement itself was substantially enabled by a vibrant press landscape that mobilized both elite and popular audiences around questions of law, rights, and governance.
 
 The Khatami presidency (1997-2005) represented a "press boom" period, with the expansion from fewer than 30 newspapers in 1997 to over 600 publications by 2000 (Farjami, 2014). This included unprecedented diversity in editorial perspectives, with reformist publications like Jahan-e Islam and Salaam explicitly challenging official narratives. Political satire emerged as a coded form of dissent, with cartoons and humorous commentary functioning as indices of permitted press freedom (Farjami, 2014). However, this opening was followed by systematic crackdown: the Press Court, operational since 1986, intensified prosecutions of journalists, and by 2005 most reformist publications had been shuttered (Tarock, 2001).
@@ -10,6 +12,8 @@ International comparisons illuminate patterns of post-authoritarian media transi
 
 ## Cross-Country Patterns
 
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
+
 Media transitions from state control follow recurrent patterns worldwide, with systematic challenges emerging across contexts. First, ownership concentration persists even after formal deregulation: political elites and commercial interests typically capture newly "privatized" media outlets, replacing state control with oligarchic or factional dominance (Tarock, 2001). Iran's existing media landscape already reflects this pattern—while IRIB maintains state control, pro-government and factional print publications operate under informal licensing arrangements that reward loyalty to particular power centers.
 
 Second, diaspora media creates a competing authority structure. When journalists and media organizations flee authoritarian contexts, they establish news operations abroad but remain bound to domestic audiences through language, audience loyalty, and mission. Manoto, BBC Persian, and Iran International collectively reach millions of Iranians, shaping perceptions of domestic politics while remaining largely inaccessible to state regulation (Afshari, 2001). Post-transition scenarios must thus negotiate relationships with diaspora media as either partners in pluralism or competitors for legitimacy.
@@ -17,6 +21,8 @@ Second, diaspora media creates a competing authority structure. When journalists
 Third, the digital-print tension reflects asymmetric state capacity. Governments typically retain superior ability to regulate print and broadcast infrastructure through licensing and legal mechanisms, but digital platforms create regulatory gaps where social media, encrypted messaging, and decentralized platforms outpace official capacity for control (Boroujerdi, 2001). Societies with sustained digital migration (as Iran has experienced) develop hybrid public spheres where formal journalism coexists with networked, amateur, and semi-anonymous digital discourse.
 
 ## Iran Context
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (5 sources)
 
 Iran's contemporary media landscape reflects contested negotiations between state capacity, technological change, and diaspora influence. The Islamic Republic of Iran Broadcasting (IRIB) maintains monopolistic control over television and radio, providing unified messaging on strategic issues—particularly foreign policy and security matters—while permitting limited diversity on cultural and social topics (Frick, 2008). This broadcasting monopoly is protected by constitutional and legal frameworks that explicitly designate IRIB as a state institution accountable to the Supreme Leader.
 
@@ -49,6 +55,8 @@ A post-transition media architecture would need to address several institutional
 | 3122 | ["\u0639\u0644\u0627\u0621 \u0627\u0644\... | 2016 | The position of the Iranian press on the inte... | 4.0 | 4.91 |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 **Institutional Mapping:** Post-transition media architecture in Iran must contend with deeply entrenched institutional actors. **IRIB** (صدا و سیمای جمهوری اسلامی ایران), constitutionally subordinate to the **Supreme Leader**, operates as a monopolistic broadcast entity controlling all domestic television and radio — its annual budget, personnel (estimated 30,000+ employees), and transmission infrastructure represent the largest single media institution in the country. The **Ministry of Cultural Affairs and Islamic Guidance** (وزارت فرهنگ و ارشاد اسلامی) licenses print publications and regulates publishing, cinema, and cultural production through a permit system that functions as pre-publication censorship. The **Press Court** (دادگاه مطبوعات) adjudicates media cases under vaguely defined offenses — "insulting Islam," "threatening national security," "spreading falsehoods" — that enable selective prosecution of critical journalism. The **Cyber Police** (پلیس فتا) and **Supreme Council of Cyberspace** (شورای عالی فضای مجازی) regulate digital platforms, implementing filtering, surveillance, and periodic internet shutdowns. The **IRGC's media apparatus** — including Tasnim News Agency, Fars News Agency, and affiliated publications — operates a parallel pro-regime media ecosystem with military-intelligence backing.
 

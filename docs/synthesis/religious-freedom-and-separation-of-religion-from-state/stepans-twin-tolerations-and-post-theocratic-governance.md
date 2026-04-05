@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (2 sources)
+
 Alfred Stepan's "twin tolerations" framework, introduced in his foundational 2000 Journal of Democracy article, provides the most useful analytical lens for Iran's religion-state question. Stepan defines twin tolerations as the minimal boundaries of freedom of action between political institutions and religious authorities: religious citizens must grant elected officials freedom to legislate without religious vetoes, and the state must permit religious citizens to freely express values and participate in politics.
 
 Stepan developed this framework explicitly as an alternative to European secularization theory, arguing that twin tolerations transcend the Western-centric concept of "secularism" and accommodate the diverse institutional arrangements through which Muslim-majority societies have achieved reciprocal respect between religion and politics. His empirical focus on Turkey, Indonesia, and Senegal demonstrated that Islam-democracy compatibility is not theoretical but demonstrated in functioning polities.
@@ -8,11 +10,15 @@ The framework was subsequently applied to Tunisia by Stepan and Linz, who showed
 
 ## Cross-Country Patterns
 
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
+
 The primary pattern is that analytical frameworks describing desirable outcomes need institutional enforcement mechanisms. Twin tolerations achieved through constitutional negotiation (Tunisia 2014) can be undone through constitutional revision (Tunisia 2022). The framework lacks a theory of institutional preservation — the locks and guardrails that prevent backsliding.
 
 A secondary pattern is the relevance gap between Muslim-world models and European secularism. Consistently across the literature, scholars find that European church-state models have limited applicability to Muslim-majority transitions. The relevant comparisons are lateral — Turkey to Indonesia to Tunisia to Senegal — not vertical from Europe downward.
 
 ## Iran Context
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 The twin tolerations framework is most applicable to Iran precisely because it avoids both maximalist secularism (which would alienate Iran's religious population) and Islamic governance (which has produced four decades of theocratic authoritarianism). However, operationalizing twin tolerations in a post-theocratic context presents a challenge the framework does not address.
 
@@ -33,6 +39,8 @@ Iran would need to achieve twin tolerations not from religion-state separation (
 | Sapsford, R. et al. | 2017 | Corruption-trust nexus undermines legitimacy of both secular and religious governance |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
 
 **Institutional Mapping:** Operationalizing twin tolerations in Iran requires transforming every institution where religious and political authority are currently fused. The Supreme Leader's office embodies the fusion — the ولی فقیه is simultaneously religious and political authority. The Guardian Council exercises both theological review (Islamic conformity of legislation) and political gatekeeping (candidate vetting). The judiciary operates under both civil legal codes and فقه (Islamic jurisprudence) as interpreted by Supreme Leader-appointed judges. The حوزه علمیه trains both religious scholars and governance personnel. The Friday Prayer network serves as both religious practice and regime communication infrastructure. Twin tolerations require separating each of these pairs: religious authority without political power, political institutions without religious veto, judiciary under civil law supremacy, seminaries as autonomous religious institutions, and Friday Prayers as congregational practice without state management.
 

@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+
 Education systems are never politically neutral institutions — they are the primary mechanism through which states reproduce ideology, shape collective identity, and determine the human capital trajectory of their economies. South Korea's post-democratization education reform illustrates both the promise and the difficulty of transforming an authoritarian-era education system. Becker and Woessmann (2009), in their analysis of human capital and economic history, demonstrate that education systems create deep path dependencies: the values, pedagogical approaches, and institutional structures embedded in educational institutions persist across regime changes because they are reproduced daily through millions of teacher-student interactions that no policy reform can instantly redirect.
 
 Iran's education system presents a distinctive case where ideological content has been more explicitly woven into curriculum than in most authoritarian states. Barabadi and Razmjoo (2015) use Activity Theory to analyze ELT reform in Iranian public schools, finding that top-down curriculum reform collided with classroom-level realities — teacher training gaps, resource constraints, and conflicting institutional incentives — producing implementation failures despite policy ambition. Firoozi, Razavipour, and Ahmadi (2019) document similar patterns in language assessment literacy, showing that teachers lacked the professional development needed to implement new assessment paradigms. Safari and Sahragard (2015) corroborate these findings, identifying a persistent gap between reform rhetoric and classroom practice.
@@ -8,11 +10,15 @@ Dabbagh, Babaii, and Atai (2022) provide a critical lens on the cultural schemas
 
 ## Cross-Country Patterns
 
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+
 Two patterns dominate comparative education reform in transitional states. First, curriculum reform is among the most politically contested elements of any transition because it determines whose narrative of history, identity, and values will be taught to the next generation. South Korea's history textbook controversies — which persist four decades after democratization — illustrate that "depoliticizing" education is itself a political project that generates new conflicts rather than resolving old ones.
 
 Second, the gap between curriculum policy and classroom implementation is systematically larger in post-authoritarian states than reformers anticipate. Teachers trained under the old regime carry internalized pedagogical habits and ideological frameworks that curriculum documents cannot override. South Korea invested heavily in teacher retraining and professional development; states that attempted curriculum reform without parallel investment in teacher transformation (many post-Soviet states) found that new textbooks were taught using old methods, producing cosmetic rather than substantive change.
 
 ## Iran Context
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 Iran's education reform challenge operates at multiple levels simultaneously. At the curriculum level, the current system embeds Islamic ideology throughout all subjects — not just religious studies but history, literature, social sciences, and even natural sciences include framing that reflects the regime's interpretation of Islam and its revolutionary narrative. Post-transition reform would need to develop new curricula for every subject at every level, a task that took South Korea over a decade and was never fully completed to any faction's satisfaction.
 
@@ -42,6 +48,8 @@ The diaspora dimension adds opportunity: tens of thousands of Iranian educators 
 | 8 | Miranda, Muinelo-Gallo & Roca-Sagalés | 2022 | Human development and decentralization | DOI |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 **Institutional Mapping:** Education reform in Iran would engage the **Ministry of Education** (وزارت آموزش و پرورش), which controls curriculum development, textbook production, and teacher training for K-12; the **Ministry of Science, Research and Technology** (وزارت علوم) overseeing higher education; the **Supreme Council of the Cultural Revolution** (شورای عالی انقلاب فرهنگی), which sets ideological parameters for all educational content; the **howzeh** (حوزه علمیه) system, which influences religious studies requirements and places clerics in school administration; the **Farhangian University** (دانشگاه فرهنگیان) teacher training system, which has produced approximately 900,000 teachers socialized into the current ideological framework; and **IRIB**, which broadcasts educational programming reinforcing regime narratives. The **Basij** student organizations operate within universities as surveillance and ideological enforcement mechanisms.
 

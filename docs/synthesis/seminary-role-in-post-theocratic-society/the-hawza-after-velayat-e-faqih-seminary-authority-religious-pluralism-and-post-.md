@@ -10,6 +10,8 @@ Note on evidence certainty: Limited. All sources focus on Iran; no comparative c
 
 ## Evidence & Key Findings
 
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+
 Evidence: Velayat-e Faqih, Reformist Jurisprudence, and Institutional Strain
 
 How Velayat-e Faqih fused clerical and state authority: Morady (2025) traces how theocratic republicanism institutionalized the Velayat-e Faqih doctrine, making the Supreme Leader simultaneously a spiritual and political authority. This fusion created structural dependency: seminary legitimacy became inseparable from regime legitimacy. Afrachteh (1981) documents the dilemmas this created—theocratic populism required mass mobilization through clerical networks, yet this politicization strained scholarly autonomy. The hawza became an instrument of state power rather than an independent knowledge institution.
@@ -19,6 +21,8 @@ The emergence of alternative jurisprudential traditions: Ghobadzadeh (2022) iden
 Institutional tension and pressure for depoliticization: Alinejad (2022, 2025) analyzes the rivalry between secular and religious nationalism in Iran, showing how this split identity creates pressure on institutions claiming to represent both. The tension between Iranian nationalism and Islamism forces the seminary to choose: remain a theocratic tool or become a guardian of Shi'i scholarship independent of state power. Mir-Hosseini (2012) provides historical depth, tracing how sharia's relationship to national law has been contested since the Constitutional Revolution of 1906—the seminary has always faced a tension between religious authority and state law. Yazdani (2012) shows this politicization runs deeper, back to the late 19th century when Shi'i piety itself became a site of political struggle. The hawza did not invent this tension; it inherited it.
 
 ## Cross-Country Patterns
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 Patterns: Limited Analogies and a Testable Proposition
 
@@ -33,6 +37,8 @@ Both analogies break down: neither involved a clerical class with direct governi
 Testable proposition: Seminary depoliticization requires an internal reformist tradition strong enough to provide legitimacy for post-political religious authority—a condition partially met by the Montazeri school but contested within the hawza. This proposition is testable: monitoring seminary publications, fatwa patterns, and emerging schisms after any regime transition would reveal whether reformist jurisprudence gains institutional weight or remains marginal.
 
 ## Iran Context
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 Iran Case: The Qom Seminary as Site of Contradiction
 
@@ -71,6 +77,8 @@ ID 3671: Alinejad (2025) - Iran nationalism vs Islamism; rel=4.0, rlb=2.92
 ID 7215: Yazdani (2012) - Religious contentions in modern Iran 1881-1941, politicization of Shi'i piety; rel=4.0, rlb=55.0
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 **Institutional Mapping**
 

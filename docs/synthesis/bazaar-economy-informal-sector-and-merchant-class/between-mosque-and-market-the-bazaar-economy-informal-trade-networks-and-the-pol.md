@@ -10,6 +10,8 @@ This hypothesis is tested against three sources: Ahmad (2012) on the political e
 
 ## Evidence & Key Findings
 
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
+
 The evidence illuminates three mechanisms through which bazaar-type economies persist and exercise political influence.
 
 **Merchant-State Relations and Islamic State Formation.** Ahmad (2012) offers the most theoretically ambitious contribution, providing a political economy explanation of state formation in failed states through the lens of business community behavior. Based on field research in Somalia, Kenya, Pakistan, Afghanistan, and the UAE, the dissertation identifies two causal processes: first, a long-term transformation of Islamic identity within merchant communities as a mechanism to reduce transaction costs and improve market access; and second, a short-term strategic calculation where merchants weigh the cost of operating under warlord protection rackets against financing a political alternative. The key insight for Iran is that merchant classes are not passive economic actors but strategic political agents who invest in political order when it serves their commercial interests. The bazaari class's historical support for the Islamic Revolution follows this logic precisely — the Shah's modernization program threatened bazaari commercial networks, and the revolutionary movement offered a political alternative that would restore their institutional position.
@@ -20,6 +22,8 @@ The evidence illuminates three mechanisms through which bazaar-type economies pe
 
 ## Cross-Country Patterns
 
+> 🔴 **Evidence Confidence: Low** — Limited source triangulation (3 sources); contains explicit low-confidence language
+
 One overarching pattern emerges from this limited evidence base: **bazaar-type economies persist because they embed institutional functions — trust enforcement, transaction cost reduction, information transmission — in social structures (ethnicity, religion, kinship) that formal institutions cannot easily replicate.**
 
 Ahmad (2012) demonstrates this at the macro-political level: merchants invest in Islamic movements because shared religious identity reduces transaction costs more effectively than secular state institutions in environments of institutional collapse. Rezaei (2009) demonstrates it at the micro-economic level: the Persian carpet trade survives because Azerbaijani ethnic networks provide enforcement and information mechanisms superior to formal market institutions. Goyal and Heine (2021) provide the theoretical explanation: the knowledge required to operate in these markets is tacit, embedded in practice rather than codifiable in rules, making formal institutional substitution fundamentally difficult.
@@ -27,6 +31,8 @@ Ahmad (2012) demonstrates this at the macro-political level: merchants invest in
 **Evidence limitations:** This synthesis draws on only three sources, none of which addresses Iran's domestic bazaar economy directly (Rezaei examines the diaspora trade dimension). The absence of evidence on the Tehran Grand Bazaar's internal governance structures, the bazaari class's relationship with the clerical establishment, or the sanctions economy's impact on bazaar-based finance (including the hawala system and informal credit networks) represents significant gaps. Additional research directives targeting Iranian economic history, bazaar guilds (asnaf), and informal finance would substantially strengthen this category.
 
 ## Iran Context
+
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
 
 Iran's bazaari class occupies a unique position in the country's political economy — historically the most powerful independent economic force outside state control, with deep institutional ties to the clerical establishment and proven capacity for political mobilization. The evidence reviewed here, while limited, illuminates several critical dimensions for transition planning.
 
@@ -54,6 +60,8 @@ The sanctions economy has added a further complication: the bazaar's informal fi
 | Goyal, Y. & Heine, K. | 2021 | Informal markets resist formalization because they run on tacit knowledge that cannot be codified or transferred — formalization programs that ignore this knowledge infrastructure will fail (13 citations) |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
 
 **Institutional Mapping:** The bazaar economy engages a distinctive set of Iranian institutions operating at the intersection of commerce, religion, and politics. The **Tehran Grand Bazaar** (بازار بزرگ تهران) and provincial bazaars function as self-governing commercial ecosystems with their own guild structures (**asnaf**/اصناف), credit networks, and dispute resolution mechanisms operating largely outside formal state regulation. The **Chamber of Guilds** (اتاق اصناف) provides nominal state interface but does not control bazaar internal governance. The **howzeh** (حوزه علمیه) seminary system maintains deep institutional ties with the bazaari class — historically, bazaari merchants have financed clerical education through religious tithes (خمس و زکات), and this financial relationship underpins the clergy-merchant alliance that supported the 1979 revolution. The **IRGC's economic expansion** has increasingly encroached on bazaari commercial territory, creating competitive tensions. The **Central Bank** (بانک مرکزی) regulates formal banking but has limited visibility into bazaari informal finance networks — **hawala** (حواله) transfer systems, **sarafi** (صرافی) currency exchange, and informal credit arrangements that expanded dramatically under sanctions.
 

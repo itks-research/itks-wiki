@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (5 sources)
+
 The transformation of Poland's economy from state-controlled to market-oriented provides crucial lessons for large-scale privatization efforts. The 1990 Balcerowicz Plan initiated Poland's economic transition with a comprehensive privatization strategy implemented in the early 1990s (Gros & Steinherr, 1995). This plan included multiple privatization mechanisms, most significantly the mass privatization program and employee buyout provisions.
 
 Poland employed three primary privatization methods: direct sales to strategic investors, employee buyouts, and a mass privatization program involving voucher distribution to citizens. The Balcerowicz reforms fundamentally restructured state-owned enterprises by enabling workers to purchase shares, creating a unique ownership structure where employees became stakeholders in previously state-run companies (Roberts & Zhou, 2000). This approach was designed to address both economic efficiency and social legitimacy concerns.
@@ -12,11 +14,15 @@ By the late 1990s, assessments of Poland's privatization revealed a paradox: rap
 
 ## Cross-Country Patterns
 
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
+
 Privatization method selection fundamentally shapes distributional outcomes and social legitimacy. Poland's experience reveals a critical tradeoff: rapid privatization through direct sales and insider buyouts achieved swift transition to market mechanisms but concentrated wealth among existing elites and skilled negotiators. Conversely, more inclusive methods—such as broad voucher distribution or worker ownership provisions—promoted democratic legitimacy and reduced initial inequality but created governance challenges and slower decision-making.
 
 The strategic choice between speed and fairness proves decisive. Governments prioritizing rapid institutional transformation must often sacrifice equitable distribution, while those emphasizing fairness necessarily slow transition processes. This tension between efficiency and equity cannot be fully reconciled; every privatization design reflects explicit or implicit choices about which costs to bear. Poland's mixed approach—combining market sales, employee buyouts, and voucher distribution—attempted to balance these concerns but satisfied neither fully, resulting in outcomes that were neither optimally efficient nor equitably distributed.
 
 ## Iran Context
+
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
 
 Iran's approach to privatization, formalized through the Article 44 amendment to its constitution in 2006, provides a direct test case for Poland's lessons. The amendment ostensibly transferred significant state-owned enterprises to the private sector, yet actual ownership transfer proved nominal in many cases. Rather than genuine privatization distributing assets to broad constituencies, the mechanism became a vehicle for concentrating control among Revolutionary Guard Corps (IRGC) entities and state-connected foundations (bonyads).
 
@@ -50,6 +56,8 @@ Poland's experience indicates that genuine privatization preventing insider capt
 | 5351 | Corporate Governance in Founders' Controlled Companies | Maria Aluchna | 2013 | Poland | 4.5 |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 **Institutional Mapping**
 

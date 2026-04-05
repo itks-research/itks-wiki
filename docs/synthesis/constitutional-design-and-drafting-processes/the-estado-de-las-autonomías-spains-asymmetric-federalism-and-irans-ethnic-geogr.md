@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
+
 Spain's 1978 constitutional framework created the "Estado de las Autonomías" (State of Autonomies) as a novel middle path between federalism and unitarism, fundamentally reshaping how post-authoritarian states organize territory and ethnicity. During the transition from Franco's centralized dictatorship, Spanish architects confronted a territorial question complicated by distinct historical nations—Catalonia, the Basque Country, and Galicia—each with separate linguistic and cultural traditions demanding recognition.
 
 The initial constitutional design employed the principle of "café para todos" (coffee for everyone), offering all regions equal opportunities for autonomy status despite their vastly different political demands and historical weight. This symmetrical framework proved untenable; Catalonia and the Basque Country possessed mobilized nationalist movements with historical states, while smaller regions had weaker territorial consciousness. The constitution allowed for asymmetry through Article 151's supermajority pathway, enabling faster devolution to regions that demanded it—a safety valve that transformed the system into what scholars recognize as "asymmetric federalism."
@@ -10,6 +12,8 @@ The 2017 Catalan independence crisis tested this design to destruction. When Mad
 
 ## Cross-Country Patterns
 
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
+
 Post-authoritarian constitutional designers face an enduring dilemma: whether to grant equal autonomy to all regions (symmetry) or to accommodate historically mobilized nations through differentiated powers (asymmetry). Symmetry offers democratic elegance and prevents resentment among regions denied special status, but fails to address why some territories possess institutionalized national movements with centuries of distinct governance. Asymmetry recognizes political reality and historical difference, but generates zero-sum conflicts where denied regions demand equal treatment.
 
 Spain's Estado de las Autonomías attempted to transcend this binary through recursive asymmetry—offering all regions the formal right to asymmetric arrangements while few possessed the political organization to exercise it. This created stability through asymmetric equilibrium: regions with nationalist movements gained accelerated devolution and fiscal autonomy, while regions without such pressure remained integrated but could theoretically demand parity. The mechanism worked through three decades because nationalist mobilization remained geographically contained.
@@ -19,6 +23,8 @@ Fiscal autonomy proved essential to sustaining the territorial bargain. When his
 The Spanish model's broader applicability depends on institutional prerequisites: a constitutional court accepted as neutral arbiter, multiple veto points preventing unilateral revision, political elite commitment to elite-pacting rather than majoritarianism, and crucially, willingness of historically-dominant regions to accept reduced privilege. Spain's 2017 crisis reveals these are not inevitable—they depend on sustained political will.
 
 ## Iran Context
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 Iran's territorial organization challenges mirror Spain's in some respects but differ fundamentally in others. The Islamic Republic confronts four regions with significant non-Persian, non-Shia identities: Kurdistan (Sunni Kurdish population, ~2.5% of Iran), Azerbaijan (ethnically Turkic, ~25% of population, substantial in northwest), Khuzestan (Arab identity and separatist history, ~2-3%), and Baluchistan (Sunni Baluch minority, ~2%). Unlike Spain's Catalan and Basque questions, these are not nationalist movements rooted in pre-modern polities but modern ethnic categories crystallized through 20th-century nation-building and minority consciousness. Kurds and Baluchs belong to larger stateless nations spanning Iraq, Syria, Turkey, and Pakistan; Azerbaijanis are affiliated with the Republic of Azerbaijan; Arabs have broader Pan-Arab consciousness. Iran's minorities thus face cross-border pull in ways Spanish nationalists did not.
 
@@ -50,6 +56,8 @@ Sources Referenced:
 8. ["Peter McDonough", "Antonio L\u00f3pez Pina", "Samuel H. Barnes"] (1981). "The Spanish Public in Political Transition" | Case Study: Spain | ID: 348
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 **Institutional Mapping**
 

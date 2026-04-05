@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+
 Iran's sanctions regime represents the most complex and multilayered economic coercion architecture ever applied to a mid-size economy, and its unwinding would be equally unprecedented in scale and complexity. Clayton, Maggiori, and Schreger (2024) provide the theoretical framework with their theory of economic coercion and fragmentation, arguing that sanctions create self-reinforcing structural changes in the target economy — supply chain reconfigurations, financial system workarounds, parallel trade networks — that do not simply reverse when sanctions are lifted. This "hysteresis" effect means that sanctions unwinding is not merely the inverse of sanctions imposition; it requires active reconstruction of economic linkages that have atrophied or been replaced.
 
 Ghomi (2021) offers the most rigorous analysis of sanctions' macroeconomic and distributional effects on Iran, demonstrating that sanctions have not only reduced aggregate output but systematically redistributed economic power toward sanctions-resistant actors — primarily IRGC-connected entities with access to smuggling networks, currency arbitrage, and state-allocated foreign exchange. Draca, Garred, Stickland, and Warrinnier (2022) corroborate this finding from the other side, examining how sanctions target the economic interests of elite policymakers and finding that targeted sanctions create incentives for asset concealment and institutional opacity that persist beyond the sanctions period.
@@ -8,11 +10,15 @@ The JCPOA experience (2015-2018) provides a partial natural experiment. Pratt an
 
 ## Cross-Country Patterns
 
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+
 Two patterns emerge from comparative sanctions unwinding. First, the economic recovery trajectory after sanctions removal is consistently slower and more uneven than the economic decline during sanctions imposition. South Africa's post-apartheid reintegration, Myanmar's partial opening, and Cuba's ongoing normalization all demonstrate that decades of economic isolation create structural distortions — import dependency patterns, brain drain, institutional decay, technology gaps — that persist well beyond formal sanctions removal.
 
 Second, the distributional effects of sanctions and their lifting are not symmetric. Sanctions tend to concentrate economic power among regime-connected actors who can exploit scarcity; sanctions lifting does not automatically redistribute this concentrated power but can actually amplify it if connected actors are better positioned to capture the benefits of economic opening. Wood (2008) provides the political dimension, showing that economic sanctions and state repression interact — sanctions can increase repression in the short term while potentially contributing to longer-term regime instability, a dynamic directly relevant to Iran's trajectory.
 
 ## Iran Context
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 Iran's reintegration would face challenges at three levels. At the financial infrastructure level, decades of exclusion from SWIFT, correspondent banking networks, and international capital markets have created a parallel financial system — hawala networks, cryptocurrency channels, barter arrangements with China and Russia, and IRGC-controlled currency exchange operations — that would not simply dissolve with sanctions removal. Re-establishing correspondent banking relationships, achieving Financial Action Task Force (FATF) compliance, and rebuilding central bank credibility would require years of institutional reform.
 
@@ -39,6 +45,8 @@ At the political economy level, the actors who benefit most from sanctions — s
 | 7 | Wood | 2008 | Economic Sanctions and State Repression | DOI |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 **Institutional Mapping:** Sanctions unwinding for Iran would engage the **Central Bank of Iran** (بانک مرکزی ایران), which has been excluded from SWIFT and international correspondent banking networks; the **Ministry of Foreign Affairs** managing diplomatic negotiations; the **Supreme National Security Council** (شورای عالی امنیت ملی) coordinating security dimensions of reintegration; the **IRGC economic networks** that have been structured specifically to evade sanctions through smuggling, currency arbitrage, and intermediary-country trade; the **Ministry of Petroleum** overseeing energy sector reintegration; and the **Financial Action Task Force** (FATF) compliance process, which Iran has repeatedly failed to complete due to resistance from hardline institutions — particularly the **Guardian Council** and **Expediency Council**, which blocked FATF-related legislation.
 

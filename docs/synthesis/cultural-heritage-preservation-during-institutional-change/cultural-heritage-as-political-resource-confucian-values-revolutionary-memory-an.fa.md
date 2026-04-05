@@ -1,3 +1,5 @@
+> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+
 ## Evidence: میراث فرهنگی as Political Resource During Institutional Transition
 
 The بسیج of میراث فرهنگی during periods of تحول نهادی reveals patterns of strategic مشروعیت‌بخشی across diverse political contexts. When societies undergo constitutional or تغییر انقلابی, their relationship to خاطرۀ تاریخی and هویت فرهنگی becomes a central arena for negotiating new institutional frameworks.
@@ -9,6 +11,8 @@ Similarly, Chile's transition from Pinochet's military regime involved sustained
 Iran presents a more complex case of layered میراث فرهنگی competition. The Islamic Republic's 1979 revolutionary constitution deliberately effaced the Pahlavi regime's cultivation of pre-Islamic Persian identity while simultaneously claiming continuity with a specifically Islamic Iranian past. Vanessa Martín's work on the Constitutional Revolution (2013) and Robert Steele's analysis of the Pahlavi coronation rituals (2021) together illustrate how successive institutional regimes—from Qajar constitutionalism to Pahlavi modernism to Islamic republicanism—each mobilized competing visions of Iran's میراث فرهنگی to legitimize their respective institutional projects. The pre-Islamic/Sasanian heritage that Mohammad Reza Shah deployed to buttress monarchical authority became ideologically incompatible with the Islamic Republic's revolutionary چارچوب نهادی, requiring systematic deemphasization despite continuous scholarly and cultural interest.
 
 These cases demonstrate a consistent pattern: institutional transitions do not occur in a cultural vacuum. Rather, societies navigate change by selectively deploying, reinterpreting, or suppressing میراث فرهنگی in service of legitimating new institutional arrangements. Heritage functions as a resource—sometimes constraining, sometimes enabling the institutional possibilities available to transitional societies.
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 ## Patterns: Tradition and نوسازی نهادی
 
@@ -23,6 +27,8 @@ This tension manifests in three recurring patterns:
 **Third, the layering of multiple identities.** Complex societies like Iran maintain simultaneous cultural heritages—pre-Islamic Persian, Islamic, early-modern, modern—that can be foregrounded or backgrounded depending on institutional needs. طراحی نهادی must navigate these layered identities without fully suppressing any, maintaining a precarious balance.
 
 These patterns suggest that تغییر نهادی is not merely a technical legal or organizational matter; it is fundamentally a cultural-hermeneutical process of reinterpreting heritage to legitimate new institutional frameworks.
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 ## Iran: Layered هویت فرهنگی and طراحی نهادی
 

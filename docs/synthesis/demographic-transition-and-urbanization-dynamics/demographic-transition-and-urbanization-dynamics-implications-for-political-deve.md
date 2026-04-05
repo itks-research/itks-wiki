@@ -10,6 +10,8 @@ Iran presents a critical test case: its fertility decline from ~4% to <1% annual
 
 ## Evidence & Key Findings
 
+> 🟡 **Evidence Confidence: Moderate** — Well-triangulated evidence (20 sources); sources with gate2 concerns
+
 The comparative evidence establishes three interconnected dynamics: the demographic transition itself, its urbanization consequences, and the political outcomes that follow.
 
 **The Demographic Transition as Political Catalyst.** LaGraffe (2012) provides the most direct evidence linking demographics to political transition, demonstrating that Egypt's youth bulge played a major role in the Arab Spring. With a median age of 24 and youth unemployment exceeding 25%, the demographic structure concentrated grievances in precisely the urban areas where protest mobilization is most feasible. Cervellati and Sunde (2017) establish the theoretical foundation, showing that the demographic transition is a key turning point for economic development across countries, with both similarities and significant differences in timing and consequences. Adams (2022) formalizes the relationship between urbanization, long-run growth, and demographic transition, demonstrating that all three transitions are causally interlinked: countries that urbanize without completing the demographic transition face structural challenges.
@@ -22,11 +24,15 @@ Iran's internal evidence adds depth. Mirzaei and Sadeghi (2023) document Iran's 
 
 ## Cross-Country Patterns
 
+> 🟡 **Evidence Confidence: Moderate** — Well-triangulated evidence (20 sources); sources with gate2 concerns
+
 Two structural patterns emerge from the evidence. First, **the demographic dividend is time-limited and conditional**. The window between fertility decline and population aging lasts approximately 30-40 years (Cervellati & Sunde 2017). Countries that invest in education and labor-absorbing industries during this window capture the dividend (Adams 2022); those that fail to do so face a 'premature aging' trap where the population ages before achieving high-income status. Iran's fertility decline began in the early 1990s, placing the dividend window's midpoint around 2010-2015 — a period that coincided with intensified sanctions rather than economic opening.
 
 Second, **urbanization without institutional development produces spatial inequality traps**. Pilehvar (2021) documents this for Iran; Kaprata (2022, 2023) for Albania; Afsar and Hossain (2020) for Bangladesh. In each case, demographic transition drives urban concentration, but the absence of responsive governance converts the concentration into spatial poverty rather than agglomeration benefits. The pattern suggests that Iran's ~75% urbanization rate, combined with youth unemployment and water scarcity, creates a compound vulnerability: the demographic window is closing while the urbanization dividend remains uncaptured.
 
 ## Iran Context
+
+> 🟡 **Evidence Confidence: Moderate** — Well-triangulated evidence (20 sources); sources with gate2 concerns
 
 Iran's demographic position is simultaneously a major asset and an urgent liability. The asset: Iran's rapid fertility decline produced a large, educated working-age population — the classic demographic dividend. Mirzaei and Sadeghi (2023) document this as a 'potential for development' while Hakimian (2006) traces the paradoxical origins in post-revolutionary population policy. The liability: the dividend window is closing. Iran's population is aging faster than its economy is diversifying, and the cohorts born during the 1980s baby boom are now entering middle age without the economic opportunities their numbers warranted.
 
@@ -54,6 +60,8 @@ Any post-transition framework must treat demographic timing as a hard constraint
 | Dyson, T. | 2011 | Demographic transition itself drives urbanization through differential fertility and migration |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 **Institutional Mapping**
 

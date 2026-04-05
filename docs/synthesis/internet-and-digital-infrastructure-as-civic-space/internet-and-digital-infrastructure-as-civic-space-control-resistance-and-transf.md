@@ -10,6 +10,8 @@ The key empirical debate — whether the internet empowers activists or autocrat
 
 ## Evidence & Key Findings
 
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (11 sources)
+
 The evidence reveals a three-phase evolution in the relationship between digital infrastructure and civic space, from early optimism through authoritarian adaptation to the current contested equilibrium.
 
 **Phase 1: Liberation Technology Thesis.** The earliest evidence supported digital optimism. Khamis and Vaughn (2011) document how cyberactivism during the Egyptian Revolution used social media — particularly Facebook and Twitter — to organize protests, distribute citizen journalism, and tilt the balance against the Mubarak regime. Howard (2010) theorized this as 'the digital origins of dictatorship and democracy,' arguing that information technologies fundamentally alter the balance between states and citizens in Muslim-majority countries. Morozov (2009), however, provided an early warning from Iran's 2009 Green Movement: the 'Twitter Revolution' narrative obscured how the regime rapidly adapted, using the same platforms for surveillance, identification, and prosecution of activists.
@@ -20,11 +22,15 @@ The evidence reveals a three-phase evolution in the relationship between digital
 
 ## Cross-Country Patterns
 
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (11 sources)
+
 The central pattern is **co-evolutionary escalation**: state digital control and civic digital resistance develop in response to each other, with neither achieving permanent dominance. Iran's trajectory illustrates this clearly — the regime's internet shutdown during the 2019 Bloody November protests was technically more sophisticated than any previous intervention, but the subsequent development of circumvention tools and satellite-based communication showed civic adaptation.
 
 A secondary pattern involves **the internationalization of digital civic space**. Michaelsen (2016) documents how Iranian diaspora activists operate from jurisdictions beyond regime reach, while Conduit (2025) shows that authoritarian states purchase surveillance tools to extend control transnationally. This means digital civic space is increasingly deterritorialized — neither contained within national borders nor accessible solely through domestic infrastructure. Any post-transition digital governance framework must account for this deterritorialization.
 
 ## Iran Context
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (11 sources)
 
 Iran is arguably the world's most important test case for the liberation-vs-control debate. The regime has invested heavily in both censorship infrastructure (the National Information Network) and surveillance technology (including commercially acquired spyware documented by Conduit 2025). Yet Iran simultaneously has one of the highest internet penetration rates in the Middle East and a digitally sophisticated population — particularly among the under-35 cohort that constitutes the majority.
 
@@ -52,6 +58,8 @@ A post-transition Iran would face the inverse challenge: rebuilding digital infr
 | Morozov, E. | 2009 | Iran's 'Twitter Revolution' narrative obscured rapid regime adaptation to digital surveillance |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 **Institutional Mapping**
 

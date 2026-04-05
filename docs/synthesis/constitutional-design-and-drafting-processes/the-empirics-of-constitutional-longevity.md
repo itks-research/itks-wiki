@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
+
 The most significant empirical contribution in the constitutional design literature comes from Ginsburg, Elkins, and Blount's analysis of 935 national constitutions spanning 1789 to 2005. Their central finding reframes the entire field: the median constitutional lifespan is only 19 years. Constitutional design is therefore not about creating permanent documents but about creating documents durable enough to become entrenched through practice and political investment.
 
 Four design variables predict longevity with statistical significance. First, amendment flexibility: constitutions with more accessible amendment procedures survive longer, contradicting the common assumption that rigidity protects constitutional integrity. The mechanism is straightforward. Rigid constitutions force political actors to choose between living with outdated provisions and replacing the entire document, while flexible ones allow incremental adaptation. Second, inclusivity in drafting: constitutions produced by processes that include minority groups, opposition parties, and civil society representatives outlast those drafted by narrow elites. Public ratification adds approximately 8% to survival probability. Third, specificity: more detailed constitutions survive longer than skeletal frameworks, likely because specificity reduces interpretive disputes. Fourth, power distribution: constitutions that distribute authority across multiple institutions demonstrate greater stability than those concentrating it in a single actor.
@@ -8,11 +10,15 @@ These findings draw on the broadest dataset ever assembled for constitutional an
 
 ## Cross-Country Patterns
 
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
+
 Two cross-cutting patterns emerge from the longevity data. First, there is a consistent inverse relationship between constitutional rigidity and survival. Countries that designed their constitutions to be nearly unamendable (requiring unanimity or supermajority thresholds above 80%) experienced shorter constitutional lifespans than those with more moderate thresholds (60-67% legislative supermajority plus ratification). Second, the inclusivity effect is multiplicative rather than additive: constitutions that combined broad participation in drafting with public ratification survived significantly longer than those that had only one or the other.
 
 The specificity finding challenges the minimalist school of constitutional design, which holds that constitutions should establish broad principles and leave details to legislation. The empirical evidence suggests the opposite: detailed constitutions that specify institutional roles, enumerate rights, and establish procedures survive longer, likely because they leave less room for powerful actors to reshape the framework through creative interpretation.
 
 ## Iran Context
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 These findings have direct operational implications for Iranian constitutional design. Iran's 1979 Constitution, amended in 1989, established a highly rigid framework. The amendment process requires Supreme Leader approval and a referendum, but the more fundamental constraint is the entrenchment of velayat-e faqih as an unamendable principle. The Guardian Council's approbatory supervision (nezarat-e estesvabi) further rigidifies the system by pre-screening candidates and legislation for conformity with the existing constitutional framework.
 
@@ -34,6 +40,8 @@ A future Iranian constitution should incorporate four design principles drawn fr
 | Persson & Tabellini | 2004 | Constitutional rules on government form and electoral system have significant economic effects |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
 
 **Institutional Mapping:** The longevity findings apply to specific Iranian institutional design choices. The Guardian Council (شورای نگهبان) represents the paradigmatic rigid, exclusionary institution: it was designed to make the constitutional framework unamendable by filtering both legislation and political personnel. A successor constitutional court must be designed with the longevity evidence in mind — independent appointment mechanisms (perhaps combining parliamentary nomination, judicial selection, and regional representation), fixed terms with staggered replacement, and jurisdiction limited to constitutional review without electoral gatekeeping. The current مجلس شورای اسلامی (Islamic Consultative Assembly/Parliament) operates under Guardian Council pre-approval of both candidates and legislation — a future parliament must exercise genuine legislative sovereignty with constitutional court review as the only check. Regional governance structures must balance the 31 existing provinces (استان‌ها) with ethnic and linguistic realities, particularly in Kurdistan, Azerbaijan, Sistan-Baluchestan, Khuzestan, and Turkmen Sahra.
 

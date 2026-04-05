@@ -1,3 +1,5 @@
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+
 ## Evidence Base
 
 The research on Ethnic federalism in Iran reveals several consistent patterns across case studies. Drawing from key sources in this domain ([6793], [2020]), we observe that successful transitions in this area typically involve coordinated institutional changes, elite consensus on core objectives, and sequenced implementation to manage resistance from threatened groups.
@@ -5,6 +7,8 @@ The research on Ethnic federalism in Iran reveals several consistent patterns ac
 Cross-case analysis indicates that outcomes vary significantly based on: (1) strength of civil society institutions prior to reform, (2) degree of economic dependency on the sector being reformed, and (3) international pressure and external support for change. These patterns emerge consistently across the 7 sources reviewed, though with important contextual variations.
 
 Key mechanisms identified include institutional bargaining ([2021]), elite negotiation frameworks ([2019]), and gradual institutional adaptation. Evidence suggests that precipitous change without adequate preparation risks institutional breakdown, whereas overly gradual approaches allow reform opponents to mobilize resistance (Source [2020], [2021]).
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 ## Cross-Cutting Patterns
 
@@ -29,6 +33,8 @@ prolonged institutional gridlock.
 These patterns hold across diverse geographic, economic, and political contexts, suggesting some 
 underlying structural dynamics in how this category of change occurs.
 
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+
 ## Implications for Iran
 
 The comparative evidence on Ethnic federalism in Iran offers several implications for Iran's potential transition:
@@ -51,6 +57,8 @@ reshaping their substance, or (b) a fundamental rupture with existing institutio
 scenarios—where reform occurs through elite negotiation while maintaining revolutionary authority structures—
 are plausible based on Tunisia and Indonesia precedents, but face higher institutional resistance in Iran 
 given the theological-institutional depth of existing arrangements.
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 ## Iran-Specific Implications (Institutional Mapping & Transition Scenarios)
 

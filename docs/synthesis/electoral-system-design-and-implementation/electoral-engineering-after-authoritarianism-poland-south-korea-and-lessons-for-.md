@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (9 sources)
+
 The design of electoral systems in post-authoritarian contexts is never a neutral technical exercise — it is a political settlement that shapes who wins, who loses, and whether democracy survives its first decades. Poland's post-1989 experience offers a particularly rich laboratory. Tworzecki (1996) documents how Poland's initial fully proportional system with low thresholds produced extreme parliamentary fragmentation — the 1991 Sejm contained 29 parties, making coalition governance nearly impossible. The subsequent introduction of a 5% threshold and d'Hondt method in 1993 dramatically consolidated the party system, but at the cost of excluding roughly 35% of voters whose parties fell below the threshold. This tension between inclusion and governability haunts every transitional electoral design.
 
 South Korea took a different path, adopting a mixed-member system that combined single-member districts with proportional list seats. Merkel (2004) classifies South Korea as an "embedded democracy" with defective elements, noting that the electoral system's majoritarian bias reinforced regional voting blocs (Honam vs. Yeongnam) that persist to this day. The lesson is that electoral systems do not merely reflect existing political cleavages — they freeze and amplify them. White, Batt, and Lewis (1998) provide broader context for Central and Eastern European electoral choices, showing how the initial system design created path dependencies that proved remarkably resistant to subsequent reform.
@@ -8,11 +10,15 @@ Iran's current electoral architecture operates under fundamentally different con
 
 ## Cross-Country Patterns
 
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (9 sources)
+
 A cross-cutting pattern emerges from post-authoritarian electoral design: the choice between proportional representation and majoritarian systems maps onto deeper tensions about the pace and inclusiveness of transition. Countries that chose proportional systems (Poland, Czech Republic, Tunisia) tended to produce more fragmented but more inclusive legislatures in the early years. Countries with majoritarian or mixed systems (South Korea, Indonesia) produced more stable governments but risked entrenching dominant regional or ethnic blocs.
 
 A second pattern concerns the sequencing problem. Poland's experience — where the electoral system was redesigned three times in the first decade of democracy — suggests that getting it "right" from the start matters less than building institutional capacity for legitimate revision. The danger for Iran is not choosing the wrong system initially but locking in a system that serves transitional elites while lacking mechanisms for democratic adjustment. Sandholtz and Koetzle (2000) demonstrate that electoral system design interacts with economic structure and corruption patterns, suggesting that Iran's sanctions-distorted economy and rent-seeking structures would interact with any electoral system in ways that pure institutional analysis cannot predict.
 
 ## Iran Context
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (9 sources)
 
 Iran's electoral redesign would face at least three challenges without close precedent. First, the dismantling of approbatory supervision (نظارت استصوابی) would represent not just a rule change but the removal of the Guardian Council's most powerful political tool. Any replacement system would need credible independence from both revolutionary institutions and transitional political forces — a balance that neither Poland's State Electoral Commission nor South Korea's National Election Commission had to achieve under comparable institutional complexity.
 
@@ -41,6 +47,8 @@ Third, the role of the Iranian diaspora in elections — whether through externa
 | 9 | Tezcur | 2005 | How do political religious groups develop sustainable democratic commitments | — |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 **Institutional Mapping:** Electoral reform in Iran would directly engage the **Guardian Council** (شورای نگهبان), which exercises approbatory supervision (نظارت استصوابی) over all candidates for parliamentary, presidential, and Assembly of Experts elections. The **Ministry of Interior** administers elections operationally, while the **Supreme Leader's office** (بیت رهبری) exerts informal influence over both bodies. The **Majles** (مجلس شورای اسلامی) would be both the subject and the arena of electoral reform. The **Expediency Council** (مجمع تشخیص مصلحت نظام) adjudicates disputes between the Guardian Council and Majles, adding a further veto point. Any transitional electoral commission would need to navigate or replace this entire architecture.
 

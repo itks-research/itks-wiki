@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+
 
 Labor market formalization and social protection systems constitute interconnected policy domains that have shaped development trajectories across diverse institutional contexts. Following the 1997 financial crisis, South Korea underwent rapid labor market liberalization that paradoxically increased informal employment despite strong manufacturing growth (Kong, 2006). The crisis exposed weaknesses in employment protection frameworks, prompting reforms that decoupled permanent from contingent workers. Rather than strengthening comprehensive social safety nets, initial responses fragmented coverage, leaving informal workers—estimated at 30-40% of the workforce—with limited access to unemployment insurance, healthcare, or pension systems.
 
@@ -8,6 +10,8 @@ Indonesia's experience with decentralized minimum wage setting illustrates the c
 Spain's vulnerability to trade-induced labor displacement, examined through the lens of China's emergence as a manufacturing powerhouse (Autor, Dorn, and Hanson, 2016), demonstrated how EU labor market regulatory frameworks could simultaneously protect insider workers while creating dualistic labor markets. Manufacturing-dependent regions experienced concentrated job losses that formal employment protections inadequately cushioned, as EU-mandated flexibility requirements enabled mass shifts to temporary and part-time contracts. This European experience reveals a paradox: regulatory convergence within supranational institutions can homogenize formal labor standards while obscuring persistent informality at the margins and reinforcing insider-outsider dynamics that undermine social cohesion.
 
 ## Cross-Country Patterns
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 
 Four cross-cutting patterns emerge across these diverse national contexts. First, labor market dualism (formal-informal segmentation) does not reflect simple policy failure but rather institutional adaptation to structural constraints: trade openness, capital mobility, and global supply chain integration consistently produce bifurcated labor markets regardless of national policy intent. South Korea, Indonesia, and Spain all experienced formalization plateaus despite explicit reform efforts, suggesting that dualism reflects deep structural features rather than shallow policy design.
@@ -19,6 +23,8 @@ Third, democratic legitimacy increasingly depends on disconnecting social protec
 Finally, informality is not transitional but structural in many middle-income economies, requiring policy frameworks that accept rather than resist this reality while expanding non-employment-based protections.
 
 ## Iran Context
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 
 Iran represents an extreme case of labor market informality with approximately 40% of the workforce operating outside formal employment structures, concentrated in petty trade, transport, domestic service, and microenterprises. Youth unemployment exceeds 25% in formal sector employment registries, though actual labor force participation rates among 15-29 year-olds remain substantially below demographic potential, indicating substantial discouraged worker effects and informal sector absorption of surplus labor. The disconnect between formal unemployment statistics and actual employment realities reflects structural informality rather than cyclical slack.
@@ -54,6 +60,8 @@ Addressing Iran's labor informality and social protection deficits requires deco
 
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
 
 **Institutional Mapping:** Labor market reform in Iran engages the **Ministry of Cooperatives, Labour and Social Welfare** (وزارت تعاون، کار و رفاه اجتماعی), which administers the labor code and social insurance; the **Social Security Organization** (سازمان تأمین اجتماعی), which provides employment-linked pension, healthcare, and unemployment insurance to formal sector workers only; the **IRGC economic apparatus**, which operates a parallel 'security economy' providing formal employment for politically reliable constituencies while leaving the general labor force in informal arrangements; the **Basij Cooperative Foundation** (بنیاد تعاون بسیج), distributing subsidized goods and services that function as informal social protection; the **Imam Khomeini Relief Foundation** (کمیته امداد امام خمینی), providing means-tested welfare; and the **subsidy system** (یارانه), which after the 2010 reform created a universal cash transfer mechanism serving as a de facto basic income for millions of informal workers.
 

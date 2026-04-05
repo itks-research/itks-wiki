@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (2 sources)
+
 Iran's velayat-e faqih (Guardianship of the Islamic Jurist) system is unique in the Muslim world. No other country institutionalizes permanent religious juristic authority over all state functions. Khomeini's innovation went beyond traditional Shi'a quietism — which held that clerics should advise but not govern — to argue that righteous Islamic jurists should directly administer state affairs until the return of the Twelfth Imam.
 
 The Guardian Council, the primary institutional expression of this principle, comprises 12 members: 6 Islamic jurists appointed by the Supreme Leader and 6 lawyers nominated by the chief justice (who is himself appointed by the Supreme Leader, giving the Leader effective control over the entire body). Research covering 1980-2015 shows the Guardian Council approved over 80% of parliamentary legislation overall — but during the reformist period (2000-2004), the approval rate dropped to 75.9%, with the Council rejecting 17 of 44 parliamentary decisions in one six-month period.
@@ -8,11 +10,15 @@ Beyond legislative veto, the Guardian Council's approbatory supervision (nezarat
 
 ## Cross-Country Patterns
 
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
+
 The defining pattern of velayat-e faqih is structural self-reinforcement through dual veto power. Unlike other authoritarian systems where reform can proceed through elections (as in South Korea) or internal party liberalization (as in the Soviet Union), Iran's system blocks both channels simultaneously. The Guardian Council vetoes reformist legislation and disqualifies reformist candidates, creating a closed loop that can only be broken from outside the constitutional framework.
 
 A secondary pattern is the corruption of religious authority through political power. Four decades of theocratic governance have eroded the clergy's moral legitimacy in the eyes of many Iranians. This mirrors the corruption-trust nexus documented by Sapsford et al. (2017) in MENA contexts: when governance institutions lose integrity, both secular and religious trust collapse.
 
 ## Iran Context
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 The institutional architecture of velayat-e faqih cannot be reformed incrementally — it is structurally designed to resist reform through the very veto mechanisms that reform would need to remove. This creates the fundamental catch-22: legislative reform requires Guardian Council approval, but the Guardian Council will not approve legislation reducing its own power.
 
@@ -34,6 +40,8 @@ This is why comparative literature on constitutional transitions emphasizes extr
 | Sapsford, R. et al. | 2017 | Corruption erodes institutional trust in religious and secular governance alike |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
 
 **Institutional Mapping:** The ولایت فقیه system creates interlocking institutional dependencies that make incremental reform structurally impossible. The Supreme Leader (رهبر) exercises authority through: direct appointment of the head of the judiciary, the head of IRIB, the commanders of all armed forces, six of twelve Guardian Council members, the Friday Prayer Imams, and representatives on the Supreme National Security Council; indirect control of the Guardian Council's remaining six members through the chief justice he appoints; control of the Assembly of Experts through the Guardian Council's vetting of candidates; and economic authority through the بیت رهبری's supervision of bonyads and religious endowments. The Guardian Council's dual veto — نظارت استصوابی (approbatory supervision) over elections and legislative review for Islamic conformity — creates the structural catch-22: reform requires Guardian Council approval, but the Guardian Council will not approve reform of its own authority.
 

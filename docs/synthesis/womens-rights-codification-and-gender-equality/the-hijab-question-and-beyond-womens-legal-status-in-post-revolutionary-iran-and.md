@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
+
 Iran's Post-Revolutionary Gender Legal Framework: Codification and Reversals
 
 The Iranian Revolution of 1979 marked a dramatic reversal in women's legal status. The 1967 Family Protection Law, which had granted women expanded divorce and custody rights, was revoked and replaced with the 1979 Islamic Republic Constitution establishing a fundamentally different legal regime (Hoodfar & Sadr, 2010). The mandatory hijab requirement became law in 1983, institutionalizing dress codes through civil and penal codes that criminalized non-compliance (Derayeh, 2006). 
@@ -22,6 +24,8 @@ The Woman Life Freedom movement of 2022-2023 crystallized these contradictions: 
 
 ## Cross-Country Patterns
 
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
+
 Democratic Transitions and Women's Rights Advancement: A Structural Pattern
 
 Cross-national scholarship reveals a counterintuitive pattern: women's rights movements often strengthen during democratic transitions, yet face sustained backlash once new regimes consolidate power. Tunisia's transition (1987-2014) saw window of opportunity for women's rights expansion; the Ben Ali era and post-2011 constitutional period produced competing feminist and Islamist visions. Indonesia's 1998-1999 transition similarly empowered women's advocacy while religious conservative coalitions mobilized to constrain reforms in family law.
@@ -33,6 +37,8 @@ Yet women's movements paradoxically became the strongest drivers of democratic c
 The tension between secular feminist agendas and religious conservative coalitions played out differently across cases. In Tunisia, secular post-colonial nationalism enabled the 1956 reforms before Islamist mobilization; in Indonesia, federalism and religious authority decentralization allowed parallel legal systems. In Iran, centralized religious authority made compromise structurally difficult: guardianship and hijab cannot coexist with equal citizenship. Women's movements succeeded not by negotiating compromise but by fundamentally challenging the regime's legitimacy claim—positioning legal reform as prerequisite to democratic and economic stability.
 
 ## Iran Context
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 The Woman Life Freedom Movement: Gender Rights as Regime Legitimacy Crisis
 
@@ -76,6 +82,8 @@ Unlike Tunisia's 1956 reforms (enacted by nationalist elites positioning moderni
 
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 **Institutional Mapping**
 

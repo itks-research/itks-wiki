@@ -10,6 +10,8 @@ This hypothesis is tested against seven Iran-focused studies spanning 2019-2025,
 
 ## Evidence & Key Findings
 
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+
 The evidence organizes into three interconnected channels through which Iran's health system navigates reform under constraint.
 
 **Health System Reform Plan: Ambitious Design, Fragile Implementation.** Kalroozi et al. (2020) provide the most systematic critical analysis of Iran's HSRP, initiated in June 2015 across public hospitals affiliated with Medical Sciences Universities. Their review of 45 studies identifies genuine gains: relative decreases in patient cost-sharing, improved emergency wards, and reduced cesarean section rates. However, the analysis reveals structural fragilities — the HSRP's success depended on stable and adequate financing, proper resource management, payment mechanism reform, and private sector participation. Each of these dependencies was subsequently disrupted by the reimposition of US sanctions following the 2018 JCPOA withdrawal. The authors document how the plan relied on 'a few instructions' rather than comprehensive institutional infrastructure, making it vulnerable to external shocks.
@@ -26,6 +28,8 @@ Pourmohammadi et al. (2020) contribute a strategic analysis of Iranian public ho
 
 ## Cross-Country Patterns
 
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+
 Two cross-cutting patterns emerge from the evidence.
 
 First, **Iran's health reforms follow a 'two steps forward, one step back' trajectory driven by the sanctions cycle.** The HSRP (2015) was launched during the brief JCPOA relief period and achieved measurable gains; the reimposition of sanctions (2018) undermined those gains by disrupting financing, supply chains, and institutional capacity. Aloosh et al.'s (2019) GDP data confirm this cyclicality quantitatively, while Kalroozi et al. (2020) and Karami Matin et al. (2022) document it qualitatively at the institutional level. This pattern suggests that any post-transition health reform strategy must be sanctions-resilient by design — decoupled from the assumption of stable external economic conditions.
@@ -33,6 +37,8 @@ First, **Iran's health reforms follow a 'two steps forward, one step back' traje
 Second, **the sanctions impact on health operates through institutional degradation, not direct deprivation.** The evidence consistently shows that sanctions do not cause direct medical shortages (medications are technically exempt under humanitarian carve-outs). Instead, they degrade the institutional infrastructure that delivers care: banking channels for pharmaceutical procurement, hospital budgeting processes, specialist retention, and patient purchasing power. Nazari et al.'s (2025) cancer care findings illustrate this most vividly — the problem is not that cancer drugs are sanctioned but that the financial, logistical, and human systems required to deliver them are systematically weakened. This institutional degradation mechanism means that simply 'lifting sanctions' is insufficient; the damaged institutional capacity must be actively rebuilt.
 
 ## Iran Context
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 Iran's health system challenge in a transition context is distinctive because it combines three features: (1) a partially modernized health infrastructure with genuine technical capacity (Iran's HSRP demonstrates the ability to design sophisticated reform), (2) chronic institutional erosion from decades of sanctions that has weakened implementation capacity, and (3) a centralized governance structure where health policy is entangled with political control rather than technocratic independence.
 
@@ -62,6 +68,8 @@ A credible post-transition health strategy would need to: (1) preserve existing 
 | Al Mustanyir, S. | 2024 | Iranian healthcare spending proved resilient to sanctions unlike Venezuela, suggesting long-experience coping mechanisms at quality cost |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 **Institutional Mapping:** Iran's health system reform engages a layered institutional architecture. The **Ministry of Health and Medical Education** (وزارت بهداشت، درمان و آموزش پزشکی) administers the Health System Reform Plan (HSRP) and oversees public hospitals affiliated with Medical Sciences Universities. The **Supreme Leader's office** exercises indirect influence through appointment of university heads and control over parallel health institutions operated by **bonyads** — particularly the **Imam Khomeini Relief Foundation** (کمیته امداد) and the **Martyrs Foundation** (بنیاد شهید), which operate hospitals and clinics serving regime-loyal constituencies. The **IRGC** maintains its own military-medical infrastructure through **Baqiyatallah Hospital** and affiliated facilities. The **Islamic Health Insurance Organization** and **Social Security Organization** (سازمان تامین اجتماعی) manage coverage but face chronic underfunding exacerbated by sanctions. The **Majles Health Committee** legislates health policy but cannot compel funding commitments that compete with security expenditures prioritized by the Supreme Leader and IRGC.
 

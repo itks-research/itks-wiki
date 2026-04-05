@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> 🟡 **Evidence Confidence: Moderate** — Well-triangulated evidence (8 sources); sources with gate2 concerns
+
 Iran's political landscape presents a paradox: a system that prohibits genuine party pluralism while sustaining an elaborate factional competition that scholars have struggled to classify. Adib-Moghaddam (2006) argues that Iranian reformism constitutes an indigenous political culture operating bottom-up, from society to the state, rather than through formal party channels. This "pluralistic momentum" persists despite the absence of the institutional infrastructure — autonomous parties, transparent funding, competitive primaries — that comparative democratization theory treats as essential. The contrast with South Korea, where Wong (2014) documents a "weakly institutionalized party system" that nonetheless enabled democratic consolidation through electoral competition, illuminates what Iran's factional system lacks: the capacity for peaceful alternation of power through organized political vehicles.
 
 Nikfar (2016) identifies three major waves of party formation in Iran — after the Constitutional Revolution (1909), during the 1941-53 opening, and after the 1979 Revolution — each truncated by authoritarian consolidation. The Tudeh Party's trajectory is instructive: Randjbar-Daemi (2020) shows how it built genuine mass mobilization around the peasant question between 1941 and 1953, demonstrating that Iranians are not culturally averse to party politics, as some orientalist scholarship implies, but that party development has been repeatedly crushed by state power. The anjuman (local council) tradition documented by Qoraboyev (2026) reveals even deeper roots of organized political participation predating Western-style parties. Iran's problem is not the absence of a pluralistic tradition but the systematic destruction of its institutional expressions — a pattern with distinct echoes in Indonesia, where Slater (2004) documents how post-Suharto "party cartels" produced accountability traps rather than genuine pluralism.
@@ -8,11 +10,15 @@ Kalb (2022) offers a crucial corrective to the standard narrative by examining c
 
 ## Cross-Country Patterns
 
+> 🟡 **Evidence Confidence: Moderate** — Well-triangulated evidence (8 sources); sources with gate2 concerns
+
 Across transitional states, a recurring pattern emerges: the formal creation of multiparty systems often precedes genuine party institutionalization by decades. Indonesia's post-Suharto experience, where Webber (2006) found the rapid establishment of "patrimonial democracy" with parties serving as elite vehicles rather than programmatic organizations, parallels Iran's risk profile. South Korea's experience is similarly cautionary — Wong (2014) documents persistent weak institutionalization even after three decades of democracy, with parties frequently dissolving, merging, and rebranding around individual leaders rather than building durable organizational identities.
 
 The comparative evidence suggests that Iran's transition challenge is not simply to legalize parties but to navigate the gap between formal party creation and genuine institutionalization. Countries that rushed to create multiparty systems without addressing underlying patronage structures (Indonesia) or personality-driven politics (South Korea) produced democratic forms without fully democratic substance. Iran's factional system, while authoritarian in its ultimate constraints, has paradoxically created a more complex landscape of organized political interests than many post-authoritarian states possessed at their moment of transition.
 
 ## Iran Context
+
+> 🟡 **Evidence Confidence: Moderate** — Well-triangulated evidence (8 sources); sources with gate2 concerns
 
 Iran's post-transition party landscape would confront unique structural challenges. The factional system — principlist, reformist, and pragmatist camps with their associated media outlets, think tanks, and economic networks — represents a proto-party infrastructure that is simultaneously an asset and a liability. These factions have organizational capacity, elite networks, and mobilization experience, but they are embedded in a system of patronage tied to revolutionary institutions (the IRGC's economic empire, bonyad networks, and the seminary system's resource allocation). Transforming factions into parties would require severing these institutional dependencies, a process with no close comparative precedent.
 
@@ -38,6 +44,8 @@ The approbatory supervision exercised by the Guardian Council has systematically
 | 8 | Webber | 2006 | A consolidated patrimonial democracy? Democratization in post-Suharto Indonesia | DOI |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 Iran's factional system maps onto specific institutional actors whose interests would shape any transition to genuine party pluralism. The **Supreme Leader's office** functions as the ultimate arbiter of factional balance, maintaining competition within acceptable bounds while preventing any faction from gaining decisive power. The **Guardian Council** enforces these bounds through approbatory supervision (nezarat-e estesvabi), vetoing candidates and organizations that challenge regime parameters — functioning as the institutional mechanism that prevents factions from evolving into genuine parties.
 

@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+
 Indonesia's transition from centralized authoritarianism to a decentralized democracy beginning in 1998-1999 offers a critical case study for understanding the relationship between fiscal decentralization, local governance capacity, and corruption accountability. Following the fall of Suharto's regime, Indonesia enacted two landmark laws in 1999: Law No. 22/1999 on Regional Autonomy and Law No. 25/1999 on Fiscal Balance (Alatas, 2003). These laws represented one of the world's most dramatic "Big Bang" decentralization initiatives, transferring substantial budgetary authority, administrative responsibility, and legislative power from the central government to Indonesia's 34 provinces and 500+ municipalities (Aspinall & Fealy, 2003).
 
 The decentralization outcome proved contradictory. While the devolution of fiscal resources to local governments theoretically enhanced democratic responsiveness and reduced the patronage capacity of the central state, it simultaneously created novel opportunities for predatory local elites to capture resource streams and extract rents. Studies document that corruption did not decline but rather shifted from Jakarta to provincial and municipal capitals, where regulatory oversight was weaker and institutional capacity lower (Panizza, 2012). The fragmentation of fiscal authority across hundreds of local jurisdictions created a patchwork of accountability mechanisms; some regions built effective oversight institutions while others saw local governments become personal fiefdoms of regional strongmen. Crucially, Indonesia's experience reveals that decentralization without simultaneous institutional strengthening—particularly in audit capacity, transparency mechanisms, and judicial independence at the local level—can amplify rather than mitigate corrupt rent extraction (Graycar & Prenzler, 2013).
@@ -7,10 +9,14 @@ The decentralization outcome proved contradictory. While the devolution of fisca
 
 ## Cross-Country Patterns
 
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+
 Across Indonesia and comparative cases, a consistent pattern emerges: decentralization interacts with corruption through a "governance capacity lag" mechanism. When fiscal authority is devolved faster than institutional safeguards can be established, local governments gain control over substantial budgets but lack functional internal controls, external audit capacity, or meaningful central oversight (Tanzi, 1995). Accountability in such contexts becomes narrowly local—constrained by elite capture of regional media, pressure on judges, and manipulation of local legislatures. Democratic consolidation at the local level is thus neither automatic nor linear; decentralized elections can legitimize predatory local elites as much as empower reformist ones (North, Wallis & Weingast, 2009).
 
 
 ## Iran Context
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 For Iran's multi-ethnic regions, Indonesia's experience carries both cautionary and instructive implications. Iran's Kurdish, Azerbaijani (Azeri), Baloch, and Arab populations represent roughly 40-50% of the country's demographics, yet central state capacity to govern these peripheries remains contested, particularly in security and resource extraction (Hassanpour, 1992). Were Iran to undertake administrative decentralization without dismantling parallel governance structures—particularly the Islamic Revolutionary Guard Corps (IRGC) military-commercial apparatus that operates outside normal provincial oversight—the result could replicate Indonesia's corruption multiplication effect. The IRGC controls vast oil, gas, and manufacturing enterprises across Iranian provinces; genuine fiscal decentralization would require simultaneous subordination of these parallel structures to elected provincial authorities, a politically implausible reform under current circumstances.
 
@@ -45,6 +51,8 @@ Moreover, Iran's provincial revenues flow predominantly from oil and gas extract
 
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 **Institutional Mapping:** Decentralization in Iran would engage the **Ministry of Interior** (وزارت کشور), which appoints provincial governors (استانداران) and controls local administrative authority; the **Plan and Budget Organization** (سازمان برنامه و بودجه), which allocates fiscal transfers to provinces; the **IRGC**, whose military-commercial apparatus operates outside provincial oversight across all regions; the **Islamic City and Village Councils** (شوراهای اسلامی شهر و روستا), which represent Iran's only elected local governance institution but possess minimal fiscal authority; the **Friday Prayer Imams** (ائمه جمعه) appointed by the Supreme Leader in each province, functioning as parallel governance authorities; and the **provincial representatives of the Supreme Leader** (نمایندگان ولی فقیه در استان‌ها) who supervise state institutions in each region. The **Majles** controls national budget allocation, and provincial deputations (نمایندگان مجلس) operate primarily as conduits for central patronage rather than as agents of local accountability.
 

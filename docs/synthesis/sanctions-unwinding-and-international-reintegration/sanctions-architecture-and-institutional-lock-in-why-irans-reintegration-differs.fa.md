@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
+
 EVIDENCE: Layered Architecture of Iran تحریم‌ها and the JCPOA Paradox
 
 Iran faces an unprecedented تحریم‌ها architecture that exceeds any precedent in structural complexity. Unlike historical cases—South Africa (targeted apartheid regime تحریم‌ها), Myanmar (sectoral targeting), or Cuba (comprehensive embargo)—Iran's sanction regime operates simultaneously across three distinct institutional layers: UN Security Council multilateral تحریم‌ها (UNSC Res. 1737-2231), US unilateral and extraterritorial secondary تحریم‌ها, and autonomous European Union sectoral تحریم‌ها. This layered architecture creates compounding institutional rigidity.
@@ -14,6 +16,8 @@ The سپاه پاسداران انقلاب اسلامی designation complicates 
 
 ## Cross-Country Patterns
 
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
+
 PATTERNS: Institutional Lock-In Mechanisms in تحریم‌ها Regimes
 
 تحریم‌ها regimes develop institutional lock-in through four reinforcing mechanisms:
@@ -27,6 +31,8 @@ PATTERNS: Institutional Lock-In Mechanisms in تحریم‌ها Regimes
 4. The Snap-Back Problem: The JCPOA's "snap-back" mechanism (automatic reinstatement of تحریم‌ها upon non-compliance) created psychological and institutional precedent for rapid re-escalation. This symmetry reversal—where تحریم‌ها lift quickly but snap back suddenly—discourages investment and creates vested interests against reintegration among actors whose economic models depend on تحریم‌ها persistence.
 
 ## Iran Context
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 IRAN'S UNIQUE تحریم‌ها CHALLENGE: Economic Adaptation and Vested Interests
 

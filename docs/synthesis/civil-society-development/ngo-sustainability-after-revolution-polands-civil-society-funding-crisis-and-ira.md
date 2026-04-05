@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
+
 Poland's post-Solidarity civil society presents a striking paradox: the very movement that toppled communist authoritarianism struggled to sustain itself as a democratic institution. Following 1989, Solidarity's mass mobilization capacity fragmented into competing political parties, trade unions, and increasingly professionalized NGOs. This transformation reflected what scholars identify as the "demobilization problem" inherent to successful revolutions—once state repression lifts, the urgency binding diverse coalitions dissipates (Korolczuk & Graff, 2018).
 
 Foreign donor dependency became structural within Polish civil society during the 1990s and 2000s. Western foundations, bilateral donors, and international financial institutions conditioned funding on specific agenda items: governance capacity-building, rule-of-law initiatives, and market-economy support. This created a two-tiered civil society: internationally-funded NGOs with professional staff concentrated in Warsaw, and grassroots organizations in provincial areas starved of resources (Regulska, 1999). The professionalization trap meant that by the 2000s, Polish civil society had adopted the language and frameworks of Western donors, often at the expense of organic constituency mobilization.
@@ -7,6 +9,8 @@ Foreign donor dependency became structural within Polish civil society during th
 The 2015-2023 period under Law and Justice (PiS) governance intensified these structural vulnerabilities. The government attacked NGOs through legal restrictions on foreign funding (the 2016 NGO amendments), defamation suits against civil society critics, and the appropriation of state resources for ruling-party-aligned organizations. Critically, Poland's domestically-rooted civil society lacked sufficient fundraising infrastructure, philanthropic tradition, or state support mechanisms to withstand this assault (McGann, 2010; Weil, Huffman & Gautier, 1993). Thousands of smaller organizations faced closure, while larger institutions adapted by narrowing their scope or shifting operations. The paradox deepened: the transition that had liberated civil society had simultaneously created structural conditions for its hollowing.
 
 ## Cross-Country Patterns
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 The "post-transition civil society depression" appears as a recurrent phenomenon across regime transitions from authoritarianism to nominal democracy. Movements mobilized against external repression dissolve when that repression recedes, but democratic watchdog functions require sustained organizational infrastructure that revolutionary coalitions lack. Poland exemplifies this pattern: Solidarity could not morph into a durable multi-sectoral civil society ecosystem without institutional scaffolding.
 
@@ -21,6 +25,8 @@ Three variables emerge as critical to post-transition civil society sustainabili
 The lesson generalizes: revolutions that dismantle state control but fail to construct robust domestic civil society infrastructure trade one vulnerability (repression) for another (capture or atrophy).
 
 ## Iran Context
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 Iran's civil society operates under dual constraint: systematic state repression and international sanctions that collapse external funding pathways. The comparison to Poland illuminates both distinct pressures and analogous institutional gaps.
 
@@ -52,6 +58,8 @@ Poland's trajectory suggests that Iran faces a double bind: (a) continued author
 | 4443 | Sadowy & Lisiecki | 2019 | Post-industrial, post-socialist or new productive city? Case study... | Poland | Urban/spatial dimensions of post-transition civil society geography |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited
 
 **Institutional Mapping**
 

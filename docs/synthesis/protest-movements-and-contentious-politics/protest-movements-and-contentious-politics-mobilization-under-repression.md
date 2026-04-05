@@ -10,6 +10,8 @@ The evidence tests this configuration across the Arab Spring cases, Eastern Euro
 
 ## Evidence & Key Findings
 
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (27 sources)
+
 The comparative evidence addresses four dimensions of contentious politics: the origins of protest mobilization, the dynamics of repression and resistance, the role of digital technologies, and post-mobilization trajectories.
 
 **Origins and Intergenerational Transmission.** Lawrence (2016) provides the most granular evidence on protest initiation, demonstrating from Morocco's February 20th Movement that 'first movers' — those who initiate protest against authoritarian regimes — disproportionately come from families previously punished for opposition. This intergenerational transmission of activist identity means repression has paradoxical long-term effects: it deters immediate action but cultivates future activists. Dupont and Passy (2011) analyze the Arab Spring's origins, emphasizing how Mohamed Bouazizi's self-immolation activated pre-existing networks of grievance across Tunisia, while Alimi and Meyer (2011) frame the Arab Spring through political opportunity theory, arguing that structural conditions — not just triggering events — determine whether grievances translate into movements.
@@ -22,6 +24,8 @@ The comparative evidence addresses four dimensions of contentious politics: the 
 
 ## Cross-Country Patterns
 
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (27 sources)
+
 Three patterns emerge from the evidence. First, **repression produces radicalization through intergenerational effects** rather than simple deterrence. Lawrence (2016) and Ayanian et al. (2020) together demonstrate that state violence against activists cultivates the next generation of more committed opponents. This pattern has direct implications for Iran, where the 2009, 2017-18, 2019, and 2022 protest cycles each drew on communities traumatized by previous repression.
 
 Second, **digital tools accelerate mobilization but cannot substitute for organizational infrastructure**. The comparison between Egypt (rapid mobilization, rapid demobilization) and more sustained movements suggests that Etling et al.'s (2010) warning about digital 'fragility' is empirically confirmed. Movements that combine digital reach with offline organizational depth (Rivetti 2020 on Iranian student networks) demonstrate greater sustainability.
@@ -29,6 +33,8 @@ Second, **digital tools accelerate mobilization but cannot substitute for organi
 Third, **the pathway from protest to political transition depends on elite fracture, not movement size alone**. Hinnebusch (2015) and the Arab Spring cases collectively show that mass mobilization is necessary but not sufficient; the critical variable is whether protests fracture elite cohesion. This helps explain why Iran's massive 2022 protests did not produce transition despite unprecedented geographic and demographic breadth.
 
 ## Iran Context
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (27 sources)
 
 Iran is one of the most active sites of contentious politics in the contemporary world. The 2009 Green Movement, 2017-18 economic protests, November 2019 uprising (Bloody November), and 2022 Woman Life Freedom movement constitute an accelerating cycle with distinctive characteristics: each successive movement has been broader in geographic scope, more diverse in social composition, and more explicitly revolutionary in its demands.
 
@@ -56,6 +62,8 @@ The critical gap, identified by Rivetti (2020), is institutional: Iranian protes
 | Wu, F. & Martus, E. | 2020 | Contested environmentalism enables civic participation under authoritarian constraints |
 
 ## Implications for Iran
+
+> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
 
 **Institutional Mapping**
 
