@@ -10,7 +10,7 @@ The AKP era (2002-present) reveals the inherent vulnerability of this design. Un
 
 ## Cross-Country Patterns
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (2 sources)
 
 The central pattern from Turkey's experience is that state control of religion creates capture vulnerability. Institutional infrastructure built to manage religion can be repurposed to promote religion when political leadership changes. The Diyanet was designed as a secularist tool to contain religious influence; under the AKP, it became a vehicle for expanding that influence. This pattern is consistent with broader institutional theory: organizations created for one purpose accumulate bureaucratic capacity that subsequent actors can redirect.
 
@@ -18,7 +18,7 @@ A secondary pattern concerns minority exclusion. State management of religion in
 
 ## Iran Context
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (2 sources)
 
 Turkey's experience reveals a specific danger for post-transition Iran. If reformers replace velayat-e faqih with a state religious affairs directorate — placing the seminary system, Friday Prayer network, and religious endowments (awqaf) under government management — they risk creating exactly the kind of capture-vulnerable institution that Turkey's AKP exploited. The objective for Iran should be reducing religious authority's control over the state, not replacing clerical governance with bureaucratic religious management.
 
@@ -39,7 +39,7 @@ Iran's religious landscape adds complexity that Turkey's Diyanet model cannot ac
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (2 sources); strong claims with limited sources
 
 **Institutional Mapping:** The Diyanet's cautionary lesson applies directly to Iran's post-transition institutional design. Iran currently has an extensive religious bureaucracy that could be restructured into a Diyanet-style directorate: the Islamic Propaganda Organization (سازمان تبلیغات اسلامی) manages ideological outreach; the Friday Prayer Imam network (شبکه ائمه جمعه) functions as a nationwide communication system; the Endowments and Charitable Affairs Organization (سازمان اوقاف و امور خیریه) administers religious properties; the Islamic Culture and Guidance Ministry (وزارت فرهنگ و ارشاد اسلامی) controls cultural production; and state broadcasting (صداوسیمای جمهوری اسلامی ایران, IRIB) enforces religious-ideological messaging. Converting this apparatus into a state religious affairs directorate would replicate Turkey's capture-vulnerable model at far greater scale.
 

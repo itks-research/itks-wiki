@@ -10,7 +10,7 @@ Beyond legislative veto, the Guardian Council's approbatory supervision (nezarat
 
 ## Cross-Country Patterns
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
 
 The defining pattern of velayat-e faqih is structural self-reinforcement through dual veto power. Unlike other authoritarian systems where reform can proceed through elections (as in South Korea) or internal party liberalization (as in the Soviet Union), Iran's system blocks both channels simultaneously. The Guardian Council vetoes reformist legislation and disqualifies reformist candidates, creating a closed loop that can only be broken from outside the constitutional framework.
 
@@ -18,7 +18,7 @@ A secondary pattern is the corruption of religious authority through political p
 
 ## Iran Context
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
 
 The institutional architecture of velayat-e faqih cannot be reformed incrementally — it is structurally designed to resist reform through the very veto mechanisms that reform would need to remove. This creates the fundamental catch-22: legislative reform requires Guardian Council approval, but the Guardian Council will not approve legislation reducing its own power.
 
@@ -41,7 +41,7 @@ This is why comparative literature on constitutional transitions emphasizes extr
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
 
 **Institutional Mapping:** The ولایت فقیه system creates interlocking institutional dependencies that make incremental reform structurally impossible. The Supreme Leader (رهبر) exercises authority through: direct appointment of the head of the judiciary, the head of IRIB, the commanders of all armed forces, six of twelve Guardian Council members, the Friday Prayer Imams, and representatives on the Supreme National Security Council; indirect control of the Guardian Council's remaining six members through the chief justice he appoints; control of the Assembly of Experts through the Guardian Council's vetting of candidates; and economic authority through the بیت رهبری's supervision of bonyads and religious endowments. The Guardian Council's dual veto — نظارت استصوابی (approbatory supervision) over elections and legislative review for Islamic conformity — creates the structural catch-22: reform requires Guardian Council approval, but the Guardian Council will not approve reform of its own authority.
 

@@ -1,1 +1,0 @@
-Examines Indonesia's post-Suharto decentralization as a comparative model for Iran's potential devolution from centralized governance to meaningful provincial autonomy.

@@ -46,7 +46,7 @@ Saffari (1993) traces this architecture to the 1906 Constitutional Revolution, s
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
 
 **Institutional Mapping:** Judicial reform in Iran engages a dense institutional web: the **Head of the Judiciary** (رئیس قوه قضائیه), appointed directly by the **Supreme Leader** for renewable five-year terms; the **Guardian Council**, whose six jurist-members are nominated by the judiciary head; the **Special Clerical Court** (دادگاه ویژه روحانیت), operating entirely outside normal legal procedure under the Supreme Leader's direct authority; **Revolutionary Courts** (دادگاه‌های انقلاب) handling political and security cases with minimal due process; and the **General Inspection Organization** (سازمان بازرسی کل کشور), nominally an oversight body but structurally subordinate to the judiciary it supervises. The **howzeh** (حوزه علمیه) shapes the judiciary through personnel — many judges hold seminary rather than law school credentials.
 

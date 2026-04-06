@@ -10,7 +10,7 @@ The 2022 Woman Life Freedom movement catalyzed a quantum leap. The Iranian Archi
 
 ## Cross-Country Patterns
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 The diaspora documentation ecosystem fundamentally changes the transitional justice calculus compared to earlier transitions. Spain's amnesty succeeded partly because evidence was fragmented and witnesses aged out over decades. South Korea's prosecution succeeded partly because evidence was domestically controlled. Iran's case differs on both counts: a distributed, international, digitally preserved evidence base that cannot be destroyed by any single domestic political decision.
 
@@ -18,7 +18,7 @@ This creates what might be called a "persistent evidence constraint" on future p
 
 ## Iran Context
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 Strategic planning for an Iranian transition must account for this reality: the evidentiary infrastructure for accountability already exists and is growing. The question is not whether evidence will be available but whether domestic institutions will be built to process it. Three operational implications follow.
 
@@ -41,7 +41,7 @@ First, any future truth commission must develop protocols for integrating diaspo
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 **Institutional Mapping:** Iran's diaspora documentation ecosystem constitutes an unprecedented institutional infrastructure for transitional justice. Key organizations include: the Iran Human Rights Documentation Center (IHRDC), maintaining systematic databases of first-hand violation accounts; the Center for Human Rights in Iran (CHRI), conducting investigative documentation from abroad; the Iranian Archive, holding over one million videos from the 2022 movement within a coalition including the Atlantic Council's Strategic Litigation Project, Mnemonic, UCLA Law's Promise Institute, UC Berkeley Human Rights Center, Amnesty International's Digital Verification Corps, and the IHRDC; the Iranian Diaspora Collective (IDC), advocating for secular democratic governance; and numerous smaller organizations documenting specific categories of violations. Inside Iran, despite severe repression, citizen journalists and underground documentation networks continue to produce evidentiary material. International institutional partners include the UN Independent International Fact-Finding Mission on Iran, European courts exercising universal jurisdiction, and academic human rights centers.
 

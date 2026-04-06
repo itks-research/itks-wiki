@@ -61,7 +61,7 @@ Addressing Iran's labor informality and social protection deficits requires deco
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 **Institutional Mapping:** Labor market reform in Iran engages the **Ministry of Cooperatives, Labour and Social Welfare** (وزارت تعاون، کار و رفاه اجتماعی), which administers the labor code and social insurance; the **Social Security Organization** (سازمان تأمین اجتماعی), which provides employment-linked pension, healthcare, and unemployment insurance to formal sector workers only; the **IRGC economic apparatus**, which operates a parallel 'security economy' providing formal employment for politically reliable constituencies while leaving the general labor force in informal arrangements; the **Basij Cooperative Foundation** (بنیاد تعاون بسیج), distributing subsidized goods and services that function as informal social protection; the **Imam Khomeini Relief Foundation** (کمیته امداد امام خمینی), providing means-tested welfare; and the **subsidy system** (یارانه), which after the 2010 reform created a universal cash transfer mechanism serving as a de facto basic income for millions of informal workers.
 

@@ -56,7 +56,7 @@ A post-transition media architecture would need to address several institutional
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
 
 **Institutional Mapping:** Post-transition media architecture in Iran must contend with deeply entrenched institutional actors. **IRIB** (صدا و سیمای جمهوری اسلامی ایران), constitutionally subordinate to the **Supreme Leader**, operates as a monopolistic broadcast entity controlling all domestic television and radio — its annual budget, personnel (estimated 30,000+ employees), and transmission infrastructure represent the largest single media institution in the country. The **Ministry of Cultural Affairs and Islamic Guidance** (وزارت فرهنگ و ارشاد اسلامی) licenses print publications and regulates publishing, cinema, and cultural production through a permit system that functions as pre-publication censorship. The **Press Court** (دادگاه مطبوعات) adjudicates media cases under vaguely defined offenses — "insulting Islam," "threatening national security," "spreading falsehoods" — that enable selective prosecution of critical journalism. The **Cyber Police** (پلیس فتا) and **Supreme Council of Cyberspace** (شورای عالی فضای مجازی) regulate digital platforms, implementing filtering, surveillance, and periodic internet shutdowns. The **IRGC's media apparatus** — including Tasnim News Agency, Fars News Agency, and affiliated publications — operates a parallel pro-regime media ecosystem with military-intelligence backing.
 

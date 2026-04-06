@@ -50,7 +50,7 @@ A plausible transitional scenario would involve pact negotiations between regime
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
 
 **Institutional Mapping:** Power-sharing negotiations in a future Iranian transition would engage virtually every major institutional actor. The **Supreme Leader's office** holds constitutional veto authority over all state functions and commands the loyalty of the **IRGC** and **Basij**. The **Assembly of Experts** (مجلس خبرگان رهبری) theoretically selects and oversees the Supreme Leader but has never exercised independent authority. The **Expediency Discernment Council** (مجمع تشخیص مصلحت نظام) mediates legislative-Guardian Council disputes and could serve as a transitional deliberative body. The **Majles** retains procedural legitimacy as an elected institution, though its authority is constrained by نظارت استصوابی (approbatory supervision) exercised by the **Guardian Council**. Beyond regime institutions, critical actors include the secular-democratic opposition (both domestic and diaspora), ethno-national movements (Kurdish, Baloch, Arab, Azerbaijani), the **Mojahedin-e Khalq** (MEK), monarchist factions, and labor-leftist organizations.
 

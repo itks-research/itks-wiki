@@ -57,7 +57,7 @@ Poland's experience indicates that genuine privatization preventing insider capt
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 **Institutional Mapping**
 

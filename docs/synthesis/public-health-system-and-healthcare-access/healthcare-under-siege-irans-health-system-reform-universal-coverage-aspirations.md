@@ -69,7 +69,7 @@ A credible post-transition health strategy would need to: (1) preserve existing 
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 **Institutional Mapping:** Iran's health system reform engages a layered institutional architecture. The **Ministry of Health and Medical Education** (وزارت بهداشت، درمان و آموزش پزشکی) administers the Health System Reform Plan (HSRP) and oversees public hospitals affiliated with Medical Sciences Universities. The **Supreme Leader's office** exercises indirect influence through appointment of university heads and control over parallel health institutions operated by **bonyads** — particularly the **Imam Khomeini Relief Foundation** (کمیته امداد) and the **Martyrs Foundation** (بنیاد شهید), which operate hospitals and clinics serving regime-loyal constituencies. The **IRGC** maintains its own military-medical infrastructure through **Baqiyatallah Hospital** and affiliated facilities. The **Islamic Health Insurance Organization** and **Social Security Organization** (سازمان تامین اجتماعی) manage coverage but face chronic underfunding exacerbated by sanctions. The **Majles Health Committee** legislates health policy but cannot compel funding commitments that compete with security expenditures prioritized by the Supreme Leader and IRGC.
 

@@ -42,7 +42,7 @@ Key research gaps limit understanding of FDI attraction under sanctions legacy c
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 **Institutional Mapping:** FDI attraction in Iran is structurally blocked by the **IRGC's control of upstream sectors** — oil and gas, petrochemicals, telecommunications, and construction — which combines political authority with direct commercial interest, deterring foreign investors uncertain about contract enforcement or profit repatriation. The **Central Bank of Iran** (بانک مرکزی) lacks the independence and institutional credibility required to guarantee currency convertibility. The **Ministry of Economic Affairs and Finance** (وزارت امور اقتصادی و دارایی) and the **Organization for Investment, Economic, and Technical Assistance of Iran** (سازمان سرمایه‌گذاری) nominally manage FDI policy but lack authority over IRGC-controlled sectors. The **Guardian Council** and **Expediency Council** have blocked FATF compliance legislation necessary for financial integration. The **judiciary** lacks the independent contract enforcement and transparent bankruptcy procedures that FDI requires.
 

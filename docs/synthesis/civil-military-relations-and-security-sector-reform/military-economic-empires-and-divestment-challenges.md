@@ -10,13 +10,13 @@ The institutional predictability that Rodrik (2000) identifies as essential for 
 
 ## Cross-Country Patterns
 
-> 🟢 **Evidence Confidence: High** — Voluntary divestment failure pattern is consistent across all documented cases (Indonesia, Egypt, Pakistan). High empirical regularity.
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
 
 Two cross-cutting patterns define the military-economic divestment challenge. First, voluntary divestment does not occur. In every documented case — Indonesia, Egypt, Pakistan — military establishments either resisted divestment entirely, exploited legal delays, or expanded their economic footprint during transition periods. Egypt's case is the starkest: the Armed Forces Engineering Authority undertook 276 projects worth $3.96 billion, and a Ministry of Defense affiliate holds a 51% stake in the New Administrative Capital. Second, sanctions create perverse incentives. Rather than weakening military-economic actors, international sanctions can drive economic activity underground, making it harder to track and harder to dismantle during any future transition.
 
 ## Iran Context
 
-> 🟡 **Evidence Confidence: Moderate** — Iran-specific data derived from secondary sources; IRGC ownership opacity limits precision. Comparative extrapolation is reasonable but unverified.
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
 
 Iran's specific challenge exceeds any comparator because the IRGC combines the scale of Pakistan's Fauji Foundation, the breadth of Indonesia's TNI businesses, and the political entrenchment of Egypt's SCAF — but with an additional ideological dimension absent from all three. The IRGC's economic empire is not merely a source of patronage; it is structurally tied to sanctions evasion networks, the bonyad system, and the Supreme Leader's office. Any transition framework must treat economic divestment as a precondition for meaningful برتری نهاد غیرنظامی (civilian supremacy), not as a secondary consequence of political reform.
 
@@ -43,7 +43,7 @@ Concretely, a transition government would face simultaneous challenges: mapping 
 
 ## Implications for Iran
 
-> 🟡 **Evidence Confidence: Moderate** — Institutional mapping is well-grounded; numerical estimates rely on estimates rather than verified data.
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
 
 **Institutional Mapping:** The IRGC economic empire involves a constellation of specific entities requiring individual treatment in any divestment framework. Khatam al-Anbiya Construction Headquarters (قرارگاه سازندگی خاتم‌الانبیا) is the flagship, with approximately 25,000 employees and project values exceeding $7 billion. The IRGC Cooperative Foundation (بنیاد تعاون سپاه) extends into telecommunications (through holdings in MTN Irancell via proxy companies), petrochemicals, steel, agriculture, and banking. The Basij Cooperative Foundation operates parallel economic networks at provincial and municipal levels. Beyond the IRGC proper, the bonyad system — particularly the Bonyad-e Mostazafan (Foundation of the Oppressed), Astan-e Qods-e Razavi, and the Imam Khomeini Relief Foundation — constitutes a quasi-state economic sector directly supervised by the Supreme Leader's office (بیت رهبری). The Ministry of Intelligence (MOIS/VAJA) maintains its own economic interests distinct from the IRGC's. The Artesh (regular military) operates a comparatively smaller but still significant economic portfolio through the Military Industries Organization.
 

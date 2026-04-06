@@ -48,7 +48,7 @@ The Women's Rights report on the Middle East and North Africa (2011) documents h
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
 
 **Institutional Mapping:** Civil society development in Iran operates against an institutional architecture designed to prevent autonomous civic organization. The **Ministry of Interior** (وزارت کشور) controls NGO registration and can dissolve organizations at will. The **IRGC Intelligence Organization** (سازمان اطلاعات سپاه) and **Ministry of Intelligence** (وزارت اطلاعات, VAJA) monitor civic activists. The **Basij** (بسیج) operates as a regime-aligned pseudo-civil-society network with millions of nominal members, controlling neighborhood councils, student organizations, and professional associations. The **bonyad** (بنیاد) system — charitable foundations controlling 20-30% of GDP — represents regime-aligned 'civil society' commanding resources that dwarf any independent organization. The **judiciary** criminalizes independent organizing through national security charges. The **Supreme Leader's network** of Friday Prayer Imams (ائمه جمعه) provides an ideological surveillance infrastructure paralleling civic space.
 

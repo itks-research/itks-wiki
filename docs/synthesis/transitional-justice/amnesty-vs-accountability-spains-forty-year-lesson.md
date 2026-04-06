@@ -10,7 +10,7 @@ The state eventually followed civil society. The 2007 Historical Memory Law reco
 
 ## Cross-Country Patterns
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (11 sources)
 
 Two structural patterns emerge from Spain's experience. First, amnesty does not resolve transitional justice demands but merely defers them. The temporal pattern is consistent: short-term stability purchased through impunity generates long-term democratic fragility. Aguilar's (2008) concept of "post-transitional justice" captures this precisely -- TJ demands do not disappear when a transition is declared complete but resurface as new generations gain political voice. Kressel (2019) shows this pattern replicated in Latin America, where Spain's amnesty model informed Argentine and Chilean transitions with similar delayed consequences.
 
@@ -18,7 +18,7 @@ Second, civil society can substitute for state inaction, but at a cost. Grassroo
 
 ## Iran Context
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (11 sources)
 
 Spain's experience carries a direct warning for Iran. Any future pact of silence regarding the Islamic Republic's four decades of human rights violations would face even shorter odds of durability than Spain's thirty-year amnesty. Three factors compress the timeline. First, the scale and recency of violations: the 1988 prison massacres, the 2009 Green Movement crackdown, the November 2019 killings, and the 2022 Woman Life Freedom suppression represent successive waves of documented state violence. Second, diaspora documentation networks have already built an extensive, digitally preserved evidentiary base that cannot be destroyed by domestic political decisions. Third, the digital age's resistance to collective forgetting means that an Iranian Pacto del Olvido would face challenges from social media, citizen journalism, and international legal proceedings that Spain's 1977 bargain never confronted.
 
@@ -46,7 +46,7 @@ The Spanish experience counsels that some form of structured accountability -- e
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (11 sources)
 
 **Institutional Mapping:** A future Iranian amnesty-versus-accountability debate would center on specific institutions and their documented violations. The 1988 Death Commissions (هیئت‌های مرگ) operated under direct fatwa from Supreme Leader Khomeini, implicating the بیت رهبری. Revolutionary Courts have issued thousands of politically motivated sentences over four decades. The IRGC intelligence organization and MOIS conducted the chain murders (قتل‌های زنجیره‌ای) of dissident intellectuals in 1998. The Basij and IRGC ground forces carried out the November 2019 crackdown (estimates of 300-1,500 killed). FARAJA's morality police (گشت ارشاد) caused the death of Mahsa (Jina) Amini in September 2022, triggering the Woman Life Freedom movement. The judiciary under successive chief justices (all Supreme Leader appointees) has systematically denied due process. Each institution requires a distinct accountability approach calibrated to its specific role and the evidence available.
 

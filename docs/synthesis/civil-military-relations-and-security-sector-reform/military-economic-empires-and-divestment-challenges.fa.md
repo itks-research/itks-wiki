@@ -10,13 +10,13 @@
 
 ## Cross-Country Patterns
 
-> 🟢 **Evidence Confidence: High** — Voluntary divestment failure pattern is consistent across all documented cases (Indonesia, Egypt, Pakistan). High empirical regularity.
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
 
 دو الگوی بین‌بخشی چالش واگذاری اقتصادی نظامیان را تعریف می‌کند. نخست، واگذاری داوطلبانه رخ نمی‌دهد. در همه موارد مستند — اندونزی، مصر، پاکستان — نهادهای نظامی یا در برابر واگذاری مقاومت کردند، یا از تأخیرهای قانونی بهره بردند، یا ردپای اقتصادی خود را در دوران گذار گسترش دادند. مورد مصر گویاترین است: سازمان مهندسی نیروهای مسلح ۲۷۶ پروژه به ارزش حدود ۴ میلیارد دلار اجرا کرد. دوم، تحریم‌ها مشوق‌های معکوس ایجاد می‌کنند. تحریم‌های بین‌المللی به‌جای تضعیف بازیگران نظامی-اقتصادی، می‌توانند فعالیت اقتصادی را به زیرزمین برانند و ردیابی و برچیدن آنها را در هر گذار آینده دشوارتر سازند.
 
 ## Iran Context
 
-> 🟡 **Evidence Confidence: Moderate** — Iran-specific data derived from secondary sources; IRGC ownership opacity limits precision. Comparative extrapolation is reasonable but unverified.
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
 
 چالش ایران از هر مورد مشابهی فراتر می‌رود، زیرا سپاه پاسداران انقلاب اسلامی مقیاس بنیاد فوجی پاکستان، گستردگی کسب‌وکارهای ارتش اندونزی، و جایگاه سیاسی شورای عالی نیروهای مسلح مصر را ترکیب می‌کند — اما با بُعد ایدئولوژیکی که در هر سه مورد غایب است. امپراتوری اقتصادی سپاه صرفاً منبع حمایت‌سازی نیست؛ به‌صورت ساختاری با شبکه‌های دور زدن تحریم‌ها، نظام بنیادها، و دفتر مقام رهبری گره خورده است. هر چارچوب گذار باید واگذاری اقتصادی را پیش‌شرط برتری نهاد غیرنظامی واقعی بداند، نه پیامد فرعی اصلاحات سیاسی.
 

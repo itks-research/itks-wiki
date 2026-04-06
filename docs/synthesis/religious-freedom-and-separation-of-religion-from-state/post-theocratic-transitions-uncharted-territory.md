@@ -10,7 +10,7 @@ The nearest analogues are transitions from ideological one-party states — comm
 
 ## Cross-Country Patterns
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
 
 The overarching pattern is the absence of precedent. Iran's transition, if and when it occurs, will constitute a first-mover case in democratization studies. This means institutional innovation is required rather than template adoption.
 
@@ -18,7 +18,7 @@ A secondary pattern is the relevance of ideological-state transitions. Communist
 
 ## Iran Context
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
 
 The absence of precedent means Iran's transition will require institutional innovation that comparative evidence can inform but not determine. The strongest procedural template is Arato's post-sovereign two-stage model: first establishing procedural ground rules through negotiation, then attempting substantive constitutional settlement. The roundtable stage would need to include political parties, civil society, representatives of the seminary system, the marja'iyya (Shi'a religious authority structure independent of state institutions), and religious minority communities — all with guaranteed voice in designing the new religion-state relationship.
 
@@ -40,7 +40,7 @@ The lustration question is acute: Iran's clerical establishment spans hundreds o
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
 
 **Institutional Mapping:** The absence of precedent means every institution requires novel treatment. The Supreme Leader's office (نهاد رهبری) must be abolished as a governance institution — no comparator involves "reforming" rather than eliminating the central theocratic authority. The Guardian Council (شورای نگهبان) must be replaced by a secular constitutional court — its dual function (Islamic review and electoral gatekeeping) has no reformable middle ground. The Assembly of Experts (مجلس خبرگان) loses its function entirely if ولایت فقیه is removed. The Special Clerical Court must be dissolved — clerics should face the same judiciary as all citizens. The حوزه علمیه must be reconstituted as an autonomous religious institution — neither a state agency nor a governance body. The IRGC must be addressed simultaneously because its legitimacy derives from the revolutionary-Islamic framework that ولایت فقیه provides. The مرجعیت structure (independent of the state) should be preserved and even strengthened as a model of religious authority without political governance.
 

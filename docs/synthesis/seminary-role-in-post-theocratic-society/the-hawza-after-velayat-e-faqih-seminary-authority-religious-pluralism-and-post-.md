@@ -78,7 +78,7 @@ ID 7215: Yazdani (2012) - Religious contentions in modern Iran 1881-1941, politi
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 **Institutional Mapping**
 

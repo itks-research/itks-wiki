@@ -58,7 +58,7 @@ A post-transition Iran would need to develop بازگشت و ادغام (return 
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 **Institutional Mapping**
 

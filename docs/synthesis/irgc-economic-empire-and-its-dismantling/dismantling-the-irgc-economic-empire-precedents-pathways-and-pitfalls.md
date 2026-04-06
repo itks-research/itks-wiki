@@ -50,7 +50,7 @@ The critical variable is whether IRGC commanders and their economic networks can
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (9 sources)
 
 **Institutional Mapping:** The **IRGC economic empire** constitutes the central obstacle to economic transition in Iran. **Khatam al-Anbiya** (قرارگاه سازندگی خاتم‌الانبیاء) controls construction, energy, and infrastructure contracts worth tens of billions annually. The **IRGC Cooperative Foundation** (بنیاد تعاون سپاه) manages investments across telecommunications, banking, and import-export operations. Individual IRGC commanders control subsidiary holdings through opaque corporate structures. The **Basij** (بسیج) operates its own economic networks — cooperatives, retail chains, subsidized distribution systems — that double as social welfare and surveillance mechanisms. **Setad Ejraiye Farmane Hazrate Emam** (ستاد اجرایی فرمان حضرت امام), nominally under the **Supreme Leader**, controls an estimated $95 billion in seized and accumulated assets. The **bonyads** occupy a parallel track — **Bonyad Mostazafan** alone manages assets comparable to small national GDPs.
 

@@ -66,7 +66,7 @@ A credible post-transition environmental strategy would need to: (1) consolidate
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+> 🟡 **Evidence Confidence: Moderate** — Well-triangulated evidence (37 sources); sources with gate2 concerns
 
 **Institutional Mapping:** Environmental governance in Iran is institutionally dispersed and politically subordinated. The **Department of Environment** (سازمان حفاظت محیط زیست), headed by a vice-president, formally coordinates environmental policy but lacks enforcement authority against powerful development actors. The **Ministry of Energy** (وزارت نیرو) controls water resource management — the most acute environmental crisis — and prioritizes agricultural and industrial allocation over ecological sustainability. The **Ministry of Petroleum** and **NIOC** manage hydrocarbon extraction with minimal environmental accountability. **Khatam al-Anbiya** (قرارگاه خاتم‌الانبیا), the IRGC's engineering arm, executes major infrastructure projects (dams, roads, pipelines) with documented environmental impacts and effective immunity from environmental review. The **Ministry of Agriculture** (وزارت جهاد کشاورزی) has promoted water-intensive farming practices contributing to aquifer depletion. Local **governorates** (استانداری‌ها) manage regional environmental enforcement but are politically subordinate to central government priorities.
 

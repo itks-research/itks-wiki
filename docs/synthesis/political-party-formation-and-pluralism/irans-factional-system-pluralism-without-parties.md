@@ -45,7 +45,7 @@ The approbatory supervision exercised by the Guardian Council has systematically
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Well-triangulated evidence (9 sources); sources with gate2 concerns
 
 Iran's factional system maps onto specific institutional actors whose interests would shape any transition to genuine party pluralism. The **Supreme Leader's office** functions as the ultimate arbiter of factional balance, maintaining competition within acceptable bounds while preventing any faction from gaining decisive power. The **Guardian Council** enforces these bounds through approbatory supervision (nezarat-e estesvabi), vetoing candidates and organizations that challenge regime parameters — functioning as the institutional mechanism that prevents factions from evolving into genuine parties.
 

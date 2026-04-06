@@ -1,6 +1,6 @@
 ## Evidence & Key Findings
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 Poland's judicial independence journey illustrates both the possibilities and perils of post-authoritarian democratic reconstruction. After 1989, Poland undertook significant institutional reforms, establishing an independent judiciary seemingly insulated from political pressure through constitutional protections and a reformed court system (Drináóczi & Bienvenu-Kacala, 2019). The Constitutional Court and Supreme Court were redesigned with tenure protections and peer review mechanisms intended to prevent executive capture.
 
@@ -12,7 +12,7 @@ Poland's experience reveals that institutional design—constitutional courts, j
 
 ## Cross-Country Patterns
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 The Poland case exemplifies a broader vulnerability in judicial independence: newly liberated judiciaries possess institutional forms but lack deep cultural roots. Institutional design assumes rational compliance by political actors, yet democratic backsliding occurs precisely when those actors decide that institutional constraints are obstacles to their preferred policies rather than legitimate safeguards. Poland's judges were not corrupt in the classical sense; rather, political actors systematized the conversion of judicial selection into patronage machinery.
 
@@ -20,7 +20,7 @@ This pattern reveals that judicial independence requires two complementary found
 
 ## Iran Context
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 Iran's judicial system operates within a fundamentally different institutional logic than Poland's, yet reveals parallel vulnerabilities to judicial capture—though in this case, capture by clerical authority rather than electoral majorities. Iran's dual court system comprises secular courts for ordinary litigation, revolutionary courts for state security cases, and the Special Clerical Court adjudicating disputes among the clergy (Tabari, 2003). This fragmentation ensures the judiciary's ultimate subordination to theocratic authority: the Supreme Leader appoints the judiciary's head and retains authority over revolutionary courts, rendering the entire system an instrument of theocratic governance rather than an independent rule-of-law mechanism.
 
@@ -44,7 +44,7 @@ The deeper parallel: both judicial systems reveal that institutional autonomy is
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 **Institutional Mapping:** Building judicial independence in Iran requires confronting a system designed for clerical supremacy rather than rule of law. The **head of the judiciary** (رئیس قوه قضائیه) is directly appointed by the **Supreme Leader** for five-year terms, with no confirmation by the Majles or any independent body. The **Supreme Court** (دیوان عالی کشور) exercises appellate jurisdiction but operates under the judiciary head's authority. **Revolutionary Courts** (دادگاه‌های انقلاب) handle national security, narcotics, and political cases with procedures that lack basic due process protections — closed hearings, limited defense access, and predetermined outcomes for political defendants. The **Special Clerical Court** (دادگاه ویژه روحانیت), operating outside the formal judiciary entirely, adjudicates cases involving clergy and reports directly to the Supreme Leader. The **Guardian Council** reviews legislation for Islamic compatibility, functioning as a quasi-constitutional court without adversarial proceedings. The **Administrative Justice Court** (دیوان عدالت اداری) handles citizen complaints against government agencies but lacks enforcement authority against security institutions.
 

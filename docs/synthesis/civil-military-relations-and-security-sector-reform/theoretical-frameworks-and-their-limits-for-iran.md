@@ -10,13 +10,13 @@ The MIT Security Studies Program's reassessment of Huntington identifies a "para
 
 ## Cross-Country Patterns
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (5 sources)
 
 The overarching pattern is theoretical insufficiency. All existing frameworks assume one or more conditions that Iran violates. Huntington assumes a clear military-civilian distinction; the IRGC operates across military, economic, intelligence, political, and ideological domains simultaneously. Makara assumes that coup-proofing is primarily a regime survival strategy; for Iran, the parallel structure is also an economic and ideological infrastructure. Professionalization theory assumes apolitical military norms; the IRGC's professionalism is defined by ideological loyalty rooted in velayat-e faqih doctrine and seminary-linked training. The convergence of these theoretical gaps suggests that Iran may require an entirely new analytical vocabulary — one that integrates security sector reform, economic restructuring, and ideological de-institutionalization as interdependent components of a single challenge.
 
 ## Iran Context
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (5 sources)
 
 Iran's IRGC defies every existing theoretical category. It is not a "military" in Huntington's sense because its sphere is governance itself. It is not merely a "coup-proofing" institution in Makara's sense because it generates autonomous revenue. It is not an "unprofessional" military in Ouedraogo's sense because its officers are trained to high operational standards — but trained for regime loyalty, not apolitical service. The velayat-e faqih doctrine means that the IRGC's political role is not an aberration to be corrected but a foundational feature designed into the institution from its creation.
 
@@ -42,7 +42,7 @@ The practical implication is that transition planners cannot import any single c
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (5 sources)
 
 **Institutional Mapping:** The IRGC's institutional character defies classification under any single theoretical framework. As Huntington's framework requires: the IRGC is not a "professional military" because its mandate extends to governance, ideology, and economy — it is a revolutionary institution with military capabilities, not a military institution with revolutionary ideology. The relevant institutional actors for theoretical reframing include: the Supreme Leader's office (ولی فقیه), which provides constitutional-theological legitimacy; the IRGC General Command; the Quds Force (نیروی قدس); the Basij Organization; the IRGC Intelligence Organization (سازمان اطلاعات سپاه), distinct from MOIS; the IRGC-affiliated economic entities (Khatam al-Anbiya, Cooperative Foundation); the seminary system (حوزه علمیه) that trains IRGC ideological officers; and the Revolutionary Courts (دادگاه‌های انقلاب) that provide juridical enforcement. Each institution corresponds to a different theoretical category — military, intelligence, economic conglomerate, religious seminary, judicial body — yet all are integrated through the velayat-e faqih (ولایت فقیه) doctrine into a single institutional complex.
 

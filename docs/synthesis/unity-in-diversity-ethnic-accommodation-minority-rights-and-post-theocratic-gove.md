@@ -1,1 +1,0 @@
-Analyzes frameworks for ethnic accommodation in Iran's multi-ethnic society, comparing Indonesian models of managing diversity through decentralization, cultural recognition, and political inclusion.

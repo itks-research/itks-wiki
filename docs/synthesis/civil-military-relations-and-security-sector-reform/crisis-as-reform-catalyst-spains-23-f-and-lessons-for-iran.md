@@ -12,7 +12,7 @@ The challenge of military institutionalization extends beyond Spain itself. Lubi
 
 ## Cross-Country Patterns
 
-> 🟡 **Evidence Confidence: Moderate** —  | 📎 **Source Alignment: 🟡 Moderate** (70%)
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (2 sources) | 📎 **Source Alignment: 🟡 Moderate** (70%)
 
 The cross-cutting pattern is that crises can function as reform catalysts, but only under specific conditions. First, civilian leadership must have institutional blueprints prepared before the crisis. Spain's reformers had detailed plans for defense ministry restructuring. Second, a legitimacy anchor must exist to rally cross-factional support during the crisis window. King Juan Carlos served this role in Spain. Third, the crisis must be resolved decisively and publicly — ambiguous outcomes allow military establishments to regroup. The comparison between Spain (where the 23-F was resolved within 18 hours by a clear royal intervention) and Egypt (where the 2011 revolution produced an ambiguous civil-military outcome) illustrates this difference.
 
@@ -20,7 +20,7 @@ Cross-cutting institutional patterns emerge from comparative military law schola
 
 ## Iran Context
 
-> 🔴 **Evidence Confidence: Low** —  | 📎 **Source Alignment: 🟡 Moderate** (65%)
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (2 sources) | 📎 **Source Alignment: 🟡 Moderate** (65%)
 
 Iran's crisis moments — the 2009 Green Movement, the 2019 November protests, the 2022 Woman Life Freedom movement — have to date been resolved in favor of the security establishment. The 23-F lesson is not that Iran needs a failed coup to consolidate civilian control, but that prepared institutional blueprints are the precondition for converting crisis into reform. Iran's opposition movements have generated crisis moments but lacked implementable institutional alternatives.
 
@@ -48,7 +48,7 @@ Iranian constitutional architects must contend with the IRGC as an institutional
 
 ## Implications for Iran
 
-> 🔴 **Evidence Confidence: Low** —  | 📎 **Source Alignment: 🟡 Moderate** (62%)
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (2 sources) | 📎 **Source Alignment: 🟡 Moderate** (62%)
 
 **Institutional Mapping:** The institutions that would determine whether a crisis moment catalyzes reform or repression include: the Supreme Leader's office (بیت رهبری), which currently monopolizes the legitimacy-anchor function that Juan Carlos played in Spain; the IRGC command structure, which would need at minimum passive acquiescence for any reform to proceed; the Assembly of Experts (مجلس خبرگان), the only body with constitutional authority to address Supreme Leader succession; the Guardian Council (شورای نگهبان), whose veto power blocks legislative reform pathways; the judiciary (قوه قضائیه), headed by a Supreme Leader appointee; and the Expediency Discernment Council (مجمع تشخیص مصلحت نظام), which arbitrates Guardian Council-Parliament disputes. The Artesh, Basij, FARAJA, and MOIS each play distinct roles in crisis response, with the IRGC's intelligence organization and the Basij's Ashura battalions serving as primary domestic repression forces.
 

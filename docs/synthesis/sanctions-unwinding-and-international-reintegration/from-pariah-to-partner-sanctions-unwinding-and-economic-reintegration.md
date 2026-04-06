@@ -46,7 +46,7 @@ At the political economy level, the actors who benefit most from sanctions — s
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (9 sources)
 
 **Institutional Mapping:** Sanctions unwinding for Iran would engage the **Central Bank of Iran** (بانک مرکزی ایران), which has been excluded from SWIFT and international correspondent banking networks; the **Ministry of Foreign Affairs** managing diplomatic negotiations; the **Supreme National Security Council** (شورای عالی امنیت ملی) coordinating security dimensions of reintegration; the **IRGC economic networks** that have been structured specifically to evade sanctions through smuggling, currency arbitrage, and intermediary-country trade; the **Ministry of Petroleum** overseeing energy sector reintegration; and the **Financial Action Task Force** (FATF) compliance process, which Iran has repeatedly failed to complete due to resistance from hardline institutions — particularly the **Guardian Council** and **Expediency Council**, which blocked FATF-related legislation.
 

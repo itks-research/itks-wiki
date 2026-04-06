@@ -45,7 +45,7 @@ The Polish experience suggests that even robust constitutional press freedom gua
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (5 sources)
 
 **Institutional Mapping:** Media reform in Iran would confront **Islamic Republic of Iran Broadcasting** (صدا و سیمای جمهوری اسلامی ایران, IRIB), a constitutionally-mandated state broadcasting monopoly whose head is appointed directly by the **Supreme Leader**. The **Ministry of Culture and Islamic Guidance** (وزارت فرهنگ و ارشاد اسلامی) controls press licensing and publication permits. The **Supreme Council of Cyberspace** (شورای عالی فضای مجازی) oversees internet policy, while the **IRGC's Cyber Command** and **FATA police** (پلیس فتا) enforce digital censorship and surveillance. The **judiciary** prosecutes journalists under vague national security provisions. **Basij** networks operate troll armies and state-sponsored social media accounts. The **bonyads** and IRGC-connected companies control advertising revenue streams that could be redirected to capture nominally independent media post-transition.
 

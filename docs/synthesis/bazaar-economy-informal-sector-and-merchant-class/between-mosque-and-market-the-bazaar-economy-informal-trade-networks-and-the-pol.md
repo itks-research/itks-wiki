@@ -61,7 +61,7 @@ The sanctions economy has added a further complication: the bazaar's informal fi
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
 
 **Institutional Mapping:** The bazaar economy engages a distinctive set of Iranian institutions operating at the intersection of commerce, religion, and politics. The **Tehran Grand Bazaar** (بازار بزرگ تهران) and provincial bazaars function as self-governing commercial ecosystems with their own guild structures (**asnaf**/اصناف), credit networks, and dispute resolution mechanisms operating largely outside formal state regulation. The **Chamber of Guilds** (اتاق اصناف) provides nominal state interface but does not control bazaar internal governance. The **howzeh** (حوزه علمیه) seminary system maintains deep institutional ties with the bazaari class — historically, bazaari merchants have financed clerical education through religious tithes (خمس و زکات), and this financial relationship underpins the clergy-merchant alliance that supported the 1979 revolution. The **IRGC's economic expansion** has increasingly encroached on bazaari commercial territory, creating competitive tensions. The **Central Bank** (بانک مرکزی) regulates formal banking but has limited visibility into bazaari informal finance networks — **hawala** (حواله) transfer systems, **sarafi** (صرافی) currency exchange, and informal credit arrangements that expanded dramatically under sanctions.
 

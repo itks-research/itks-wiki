@@ -59,7 +59,7 @@ A post-transition Iran would face the inverse challenge: rebuilding digital infr
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (9 sources)
 
 **Institutional Mapping**
 

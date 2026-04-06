@@ -48,7 +48,7 @@ Third, the role of the Iranian diaspora in elections — whether through externa
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (10 sources)
 
 **Institutional Mapping:** Electoral reform in Iran would directly engage the **Guardian Council** (شورای نگهبان), which exercises approbatory supervision (نظارت استصوابی) over all candidates for parliamentary, presidential, and Assembly of Experts elections. The **Ministry of Interior** administers elections operationally, while the **Supreme Leader's office** (بیت رهبری) exerts informal influence over both bodies. The **Majles** (مجلس شورای اسلامی) would be both the subject and the arena of electoral reform. The **Expediency Council** (مجمع تشخیص مصلحت نظام) adjudicates disputes between the Guardian Council and Majles, adding a further veto point. Any transitional electoral commission would need to navigate or replace this entire architecture.
 

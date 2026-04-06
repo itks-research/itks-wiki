@@ -1,1 +1,0 @@
-Compares Czech voucher privatization and Polish gradualist approaches to extract lessons for dismantling Iran's state-owned enterprise sector including bonyads and IRGC-linked firms.

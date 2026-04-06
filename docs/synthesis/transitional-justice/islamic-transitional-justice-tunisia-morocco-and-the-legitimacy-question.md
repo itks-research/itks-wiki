@@ -10,7 +10,7 @@ Morocco's earlier Equity and Reconciliation Commission (IER), established in Jan
 
 ## Cross-Country Patterns
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (23 sources)
 
 The core pattern is that Islamic jurisprudential concepts offer a distinct pathway for transitional justice that Western-only frameworks lack: local legitimacy. Four concepts intersect with TJ practice. Qisas (retribution) treats certain violations as matters where victims or their heirs choose between punishment and compensation. Diya (blood money/compensation) provides a mechanism for financial restitution. Sulh (reconciliation) integrates truth-seeking, compensation, and tawbah (repentance) into a composite mechanism. Islah (reform) connects societal renewal to authentic Islamic teaching.
 
@@ -18,7 +18,7 @@ The pattern across Tunisia and Morocco is that these concepts can broaden the co
 
 ## Iran Context
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (23 sources)
 
 For Iran, Islamic TJ concepts represent both a strategic opportunity and a significant risk. The opportunity: if a future Iranian TJ process can frame accountability using qisas, diya, and sulh rather than exclusively through International Criminal Court frameworks, it may achieve broader societal buy-in that bridges secular and religious constituencies. Iran's Shia jurisprudential tradition offers additional resources -- the concept of mazlumiyyat (the justice of the oppressed) and the Karbala narrative provide powerful cultural frames for victim-centered justice.
 
@@ -41,7 +41,7 @@ The risk is co-optation. Regime-affiliated clerics could redefine these concepts
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (23 sources)
 
 **Institutional Mapping:** Islamic transitional justice concepts for Iran would engage a distinctive set of institutions. The حوزه علمیه (seminary system), particularly in Qom, contains scholars ranging from quietist مراجع who oppose clerical governance to regime-aligned ideologues. The مرجعیت (marja'iyya, supreme religious authority structure) includes independent figures like Grand Ayatollah Sistani in Najaf whose theological positions support clerical non-interference in governance. The Special Clerical Court (دادگاه ویژه روحانیت), currently used to discipline dissident clerics, would itself be subject to accountability. The Guardian Council's fiqhi (jurisprudential) members have issued rulings enabling systematic rights violations. The Assembly of Experts theoretically possesses theological authority to reinterpret the boundaries of religious governance. Diaspora-based religious scholars and reformist clerics inside Iran (such as those in the tradition of Montazeri, Kadivar, and Soroush) could provide the independent theological voice necessary to prevent co-optation.
 

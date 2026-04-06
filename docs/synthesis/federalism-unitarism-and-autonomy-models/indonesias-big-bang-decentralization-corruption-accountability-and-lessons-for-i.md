@@ -52,7 +52,7 @@ Moreover, Iran's provincial revenues flow predominantly from oil and gas extract
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 **Institutional Mapping:** Decentralization in Iran would engage the **Ministry of Interior** (وزارت کشور), which appoints provincial governors (استانداران) and controls local administrative authority; the **Plan and Budget Organization** (سازمان برنامه و بودجه), which allocates fiscal transfers to provinces; the **IRGC**, whose military-commercial apparatus operates outside provincial oversight across all regions; the **Islamic City and Village Councils** (شوراهای اسلامی شهر و روستا), which represent Iran's only elected local governance institution but possess minimal fiscal authority; the **Friday Prayer Imams** (ائمه جمعه) appointed by the Supreme Leader in each province, functioning as parallel governance authorities; and the **provincial representatives of the Supreme Leader** (نمایندگان ولی فقیه در استان‌ها) who supervise state institutions in each region. The **Majles** controls national budget allocation, and provincial deputations (نمایندگان مجلس) operate primarily as conduits for central patronage rather than as agents of local accountability.
 

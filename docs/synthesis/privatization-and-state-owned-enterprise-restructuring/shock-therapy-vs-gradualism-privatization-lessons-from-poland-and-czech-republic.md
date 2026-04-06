@@ -47,7 +47,7 @@ Article 44 of Iran's constitution already mandates a mixed economy with state, c
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
 
 **Institutional Mapping:** Privatization in Iran engages a uniquely complex institutional landscape: the **IRGC's Khatam al-Anbiya** (قرارگاه سازندگی خاتم‌الانبیاء) construction conglomerate; the **bonyad** system including **Bonyad Mostazafan** (بنیاد مستضعفان), **Astan Quds Razavi** (آستان قدس رضوی), and dozens of smaller foundations; the **Setad Ejraiye Farmane Hazrate Emam** (ستاد اجرایی فرمان حضرت امام), the Supreme Leader's personal economic office controlling an estimated $95 billion in assets; semi-state enterprises clustered around the **Expediency Council**; and conventional state-owned enterprises under various ministries. Article 44 of the constitution (اصل ۴۴ قانون اساسی) mandates a mixed economy, and the 2006 implementation policies nominally authorized privatization — but in practice, 'privatized' enterprises were transferred to IRGC-connected entities, concentrating rather than dispersing economic power.
 

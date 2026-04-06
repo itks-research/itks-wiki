@@ -10,13 +10,13 @@ Ouedraogo (2014) documents how weak military professionalism in Africa — manif
 
 ## Cross-Country Patterns
 
-> 🟢 **Evidence Confidence: High** — Double-edged nature of coup-proofing structures robustly documented across MENA cases.
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
 
 The decisive cross-cutting pattern is that coup-proofing structures are double-edged for transitions. They stabilize authoritarian regimes by preventing military defection during protests — as confirmed by Iran's experience in 2009, 2019, and 2022, when the security apparatus remained intact. But they simultaneously destabilize any reform process because dismantling parallel structures without adequate institutional alternatives produces security vacuums. The collapse of parallel security structures in Iraq (2003), Syria (post-2011), and Libya (2011) provides cautionary evidence: fragmentation of coercive capacity produced competing armed factions, not civilian supremacy. The pattern suggests a sequencing dilemma: parallel structures must be reformed gradually to prevent fragmentation, but their existence blocks the very civilian supremacy needed to direct reform.
 
 ## Iran Context
 
-> 🟡 **Evidence Confidence: Moderate** — Iran security structure analysis draws on public sources; internal command relationships not independently verifiable.
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
 
 Iran maintains at least five distinct security and coercive bodies: Artesh (regular military), IRGC including the Quds Force, Basij paramilitary militia, MOIS (Ministry of Intelligence and Security), and FARAJA (Law Enforcement Command). This fragmentation ensures that no single body can unilaterally challenge the regime. Makara's three coup-proofing mechanisms map with remarkable precision onto this architecture.
 
@@ -45,7 +45,7 @@ Any transition framework must account for the risk that dismantling the IRGC's p
 
 ## Implications for Iran
 
-> 🟡 **Evidence Confidence: Moderate** — Specific institutional data (personnel counts) based on open-source estimates with significant uncertainty ranges.
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
 
 **Institutional Mapping:** Iran's five-body security architecture constitutes the most elaborate coup-proofing structure documented in the comparative literature. The Artesh (ارتش, regular military, ~350,000 active personnel) handles conventional defense. The IRGC (سپاه پاسداران, ~125,000+) manages internal security, extraterritorial operations via the Quds Force (نیروی قدس), and ideological enforcement. The Basij (بسیج, millions of nominal members, perhaps 90,000 active) provides paramilitary depth and social surveillance. MOIS/VAJA (وزارت اطلاعات) conducts intelligence operations parallel to IRGC intelligence. FARAJA (فرماندهی انتظامی) manages law enforcement. The Supreme Leader's office coordinates across all five through direct appointment of commanders, creating a hub-and-spoke model where no single body can act autonomously. The Coordination Council of the Islamic Propaganda Organization (شورای هماهنگی تبلیغات اسلامی) and the Friday Prayer Imams network provide ideological surveillance complementing the security bodies.
 

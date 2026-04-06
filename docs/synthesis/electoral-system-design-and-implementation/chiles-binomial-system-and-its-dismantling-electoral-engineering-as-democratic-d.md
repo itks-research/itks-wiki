@@ -50,7 +50,7 @@ For Iran specifically, Chile's experience suggests that Guardian Council vetting
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 **Institutional Mapping:** Iran's electoral engineering problem centers on the **Guardian Council's** (شورای نگهبان) exercise of نظارت استصوابی (approbatory supervision) — the power to vet and disqualify candidates for presidential, parliamentary, and Assembly of Experts elections. This mechanism functions as Iran's equivalent of Chile's binomial system: both are authoritarian-era rules embedded within formally democratic electoral institutions that systematically predetermine the range of permissible political competition. The **Ministry of Interior** (وزارت کشور) administers elections but lacks authority to override Guardian Council vetoes. The **Supreme Leader** appoints six clerical members of the Guardian Council directly and controls appointment of the judiciary head who selects the remaining six jurist members — creating a vetting chain entirely subordinate to supreme authority. The **Majles** has no constitutional mechanism to reform the vetting system, as any such legislation would itself be subject to Guardian Council review. The **Assembly of Experts** (مجلس خبرگان) is itself subject to Guardian Council candidate vetting, creating a closed loop where the body theoretically overseeing the Supreme Leader is filtered by an institution the Supreme Leader controls.
 

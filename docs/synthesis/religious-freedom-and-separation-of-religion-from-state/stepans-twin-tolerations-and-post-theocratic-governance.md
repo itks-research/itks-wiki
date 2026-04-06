@@ -10,7 +10,7 @@ The framework was subsequently applied to Tunisia by Stepan and Linz, who showed
 
 ## Cross-Country Patterns
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (2 sources)
 
 The primary pattern is that analytical frameworks describing desirable outcomes need institutional enforcement mechanisms. Twin tolerations achieved through constitutional negotiation (Tunisia 2014) can be undone through constitutional revision (Tunisia 2022). The framework lacks a theory of institutional preservation — the locks and guardrails that prevent backsliding.
 
@@ -18,7 +18,7 @@ A secondary pattern is the relevance gap between Muslim-world models and Europea
 
 ## Iran Context
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (2 sources)
 
 The twin tolerations framework is most applicable to Iran precisely because it avoids both maximalist secularism (which would alienate Iran's religious population) and Islamic governance (which has produced four decades of theocratic authoritarianism). However, operationalizing twin tolerations in a post-theocratic context presents a challenge the framework does not address.
 
@@ -40,7 +40,7 @@ Iran would need to achieve twin tolerations not from religion-state separation (
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (2 sources); strong claims with limited sources
 
 **Institutional Mapping:** Operationalizing twin tolerations in Iran requires transforming every institution where religious and political authority are currently fused. The Supreme Leader's office embodies the fusion — the ولی فقیه is simultaneously religious and political authority. The Guardian Council exercises both theological review (Islamic conformity of legislation) and political gatekeeping (candidate vetting). The judiciary operates under both civil legal codes and فقه (Islamic jurisprudence) as interpreted by Supreme Leader-appointed judges. The حوزه علمیه trains both religious scholars and governance personnel. The Friday Prayer network serves as both religious practice and regime communication infrastructure. Twin tolerations require separating each of these pairs: religious authority without political power, political institutions without religious veto, judiciary under civil law supremacy, seminaries as autonomous religious institutions, and Friday Prayers as congregational practice without state management.
 

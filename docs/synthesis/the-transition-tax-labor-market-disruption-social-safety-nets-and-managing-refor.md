@@ -1,1 +1,0 @@
-Examines labor market disruptions during democratic transitions in Czech Republic and Spain to develop frameworks for managing social costs of Iran's potential economic restructuring.

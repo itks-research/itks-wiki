@@ -61,7 +61,7 @@ A credible post-transition housing and urban strategy would need to: (1) address
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
 
 **Institutional Mapping:** Housing, urban inequality, and regional development in Iran engage institutions operating at multiple governance levels. The **Ministry of Roads and Urban Development** (وزارت راه و شهرسازی) administers national housing policy, including the controversial **Mehr Housing Project** (مسکن مهر) launched under Ahmadinejad and the subsequent **National Housing Movement** (نهضت ملی مسکن). The **Housing Foundation of the Islamic Revolution** (بنیاد مسکن انقلاب اسلامی) focuses on rural housing and disaster reconstruction but operates as a bonyad under Supreme Leader oversight rather than parliamentary accountability. **Municipal governments** (شهرداری‌ها), particularly Tehran Municipality, control urban planning, zoning, and construction permits — with documented corruption in high-density rezoning that enriches politically connected developers. The **IRGC's Khatam al-Anbiya** dominates large-scale construction, infrastructure, and development projects, often receiving no-bid contracts that crowd out private sector competition. The **Planning and Budget Organization** allocates regional development funds but systematically favors Tehran and major urban centers. Provincial **governorates** lack fiscal autonomy for independent development initiatives.
 

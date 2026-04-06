@@ -64,7 +64,7 @@ Moreover, Tunisia's 2021 collapse suggests that fragmentation creates vulnerabil
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 **Institutional Mapping**
 

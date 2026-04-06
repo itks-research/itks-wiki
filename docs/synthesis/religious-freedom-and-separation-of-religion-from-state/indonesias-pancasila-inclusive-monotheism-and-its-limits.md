@@ -10,7 +10,7 @@ However, the Pancasila model has significant limitations. Religious minorities o
 
 ## Cross-Country Patterns
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
 
 The central pattern from Indonesia is that inclusive religious frameworks require massive civil society infrastructure to sustain. Pancasila works not primarily because of its constitutional text but because NU and Muhammadiyah — organizations with combined membership exceeding 70 million — actively promote pluralist interpretations of Islam. Without this civil society anchor, the constitutional text would be vulnerable to exclusivist reinterpretation.
 
@@ -18,7 +18,7 @@ A secondary pattern is the hierarchy-of-recognition trap. Defining "recognized" 
 
 ## Iran Context
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
 
 Pancasila's inclusive monotheism offers a conceptual template for Iran, where religion is deeply embedded in national identity but religious diversity exists. Iran's religious landscape includes Shi'a and Sunni Muslims, Baha'is (estimated 300,000+), Christians, Jews, Zoroastrians, and a growing secular population. An Iranian equivalent — constitutionally affirming spiritual values without specifying Islamic law as the governance framework — could provide an inclusive foundation.
 
@@ -40,7 +40,7 @@ However, Indonesia's experience with "recognized" religions carries a direct war
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
 
 **Institutional Mapping:** Indonesia's Pancasila model's implications for Iran involve the following institutions: the Guardian Council (شورای نگهبان), which would need replacement by a non-religious constitutional court; the حوزه علمیه, which would transition from governance training to autonomous religious education; the Baha'i community (جامعه بهائیان ایران, estimated 300,000+), currently denied legal recognition and facing systematic persecution — the most critical test case for any inclusive framework; Sunni communities (predominantly Kurdish, Baloch, and Turkmen), who face institutional discrimination under the Shi'a-dominated system; Christian, Jewish, and Zoroastrian communities, currently recognized but subordinated; and the growing irreligious population, particularly among urban youth, whose freedom of conscience must be explicitly protected. Iran lacks equivalents to Indonesia's NU and Muhammadiyah — massive civil society organizations that provide social infrastructure for religious values within a pluralist framework — though the حوزه system and religious charitable networks could potentially evolve to serve such functions.
 

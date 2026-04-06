@@ -10,7 +10,7 @@ Hungary adopted an exposure-based model from 1994 to 2003 without mandatory cons
 
 ## Cross-Country Patterns
 
-> 🟡 **Evidence Confidence: Moderate** —  | 📎 **Source Alignment: 🟡 Moderate** (72%)
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources) | 📎 **Source Alignment: 🟡 Moderate** (72%)
 
 The core pattern is that lustration design determines whether a society achieves trust, reconciliation, or both. Exclusionary systems (Czech model) establish institutional trust through decisive action but sacrifice social cohesion. Exposure-only systems (Hungarian model) achieve neither reliably. Confession-based systems (Polish model) can achieve both trust and reconciliation, but only if the confession mechanism is perceived as genuine rather than performative.
 
@@ -18,7 +18,7 @@ A second pattern is that lustration scope must be calibrated to institutional ca
 
 ## Iran Context
 
-> 🔴 **Evidence Confidence: Low** —  | 📎 **Source Alignment: 🟡 Moderate** (65%)
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources) | 📎 **Source Alignment: 🟡 Moderate** (65%)
 
 Iran's lustration challenge dwarfs Central Europe's in scope. The Czech Republic screened half a million people for StB collaboration; Iran would need to address personnel of the IRGC (estimated 125,000+ active), Basij (potentially millions of members at varying levels of involvement), the judiciary (thoroughly politicized under decades of theocratic governance), intelligence services, the Friday Prayer network, and seminary-linked governance structures. A Czech-style exclusionary model would be operationally impossible -- there are simply too many individuals with regime connections to exclude from public life without paralyzing state functions.
 
@@ -45,7 +45,7 @@ A Polish-style confession model offers a more viable template for Iran. Individu
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 **Institutional Mapping:** Iran's lustration challenge involves specific institutional categories with vastly different scales and characteristics. The IRGC (سپاه پاسداران): estimated 125,000+ active personnel, with officers requiring individual vetting for intelligence, command, and political roles. The Basij (بسیج): potentially millions of nominal members at varying levels of involvement — from active commanders who directed protest suppression to passive members who joined for university admission preferences or subsidized goods. The judiciary (قوه قضائیه): Revolutionary Court judges, prosecutors, and officials thoroughly politicized over four decades of Supreme Leader appointments. Intelligence services (MOIS/VAJA and IRGC Intelligence): personnel with direct involvement in surveillance, interrogation, and extrajudicial operations. The Friday Prayer Imam network (شبکه ائمه جمعه): Supreme Leader-appointed clerics serving as ideological surveillance and regime communication infrastructure. Seminary-linked governance personnel: members of the Guardian Council, Assembly of Experts, Expediency Council, and Special Clerical Court who exercised governance authority through religious credentials.
 

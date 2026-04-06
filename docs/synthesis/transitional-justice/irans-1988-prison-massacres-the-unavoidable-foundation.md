@@ -10,7 +10,7 @@ The case's political salience is heightened by the fact that alleged perpetrator
 
 ## Cross-Country Patterns
 
-> 🟡 **Evidence Confidence: Moderate** —  | 📎 **Source Alignment: 🟡 Moderate** (73%)
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (12 sources) | 📎 **Source Alignment: 🟡 Moderate** (73%)
 
 The 1988 case illustrates the temporal dynamics observed in Spain's amnesty reappraisal -- but compressed and intensified. Unlike Spain, where evidentiary documentation was sparse for decades, Iran's case has progressively accumulating evidence across multiple independently verifiable layers. Unlike Spain, where perpetrators had largely passed from public life before reappraisal began, Iran's perpetrators remained in power. This creates a TJ demand that is simultaneously well-documented, internationally classified at the highest legal standard, and politically explosive.
 
@@ -18,7 +18,7 @@ The pattern also demonstrates what might be called the "evidence accumulation ra
 
 ## Iran Context
 
-> 🔴 **Evidence Confidence: Low** —  | 📎 **Source Alignment: 🟡 Moderate** (65%)
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (12 sources) | 📎 **Source Alignment: 🟡 Moderate** (65%)
 
 The operational challenge is sequencing. A maximalist approach -- immediate prosecution of all identifiable Death Commission members and their superiors -- could alienate regime insiders whose cooperation is needed for a successful transition. Many mid-ranking security officials who were not involved in 1988 but participated in later crackdowns would interpret maximalist prosecution as a signal that no cooperation pathway exists. A minimalist approach -- deferring 1988 accountability in favor of forward-looking reforms -- would alienate the victim community, repeat Spain's error, and face immediate legal challenges through universal jurisdiction proceedings already developing in European courts.
 
@@ -42,7 +42,7 @@ The South Korean prosecution-pardon model suggests a middle path for the 1988 ca
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (12 sources)
 
 **Institutional Mapping:** The 1988 massacres implicate specific institutional chains of command that any TJ process must trace. Supreme Leader Khomeini issued the foundational fatwa. The Death Commissions (هیئت‌های مرگ) comprised three members in each jurisdiction: a sharia judge, a prosecutor, and an intelligence representative. The Tehran commission included members who later held senior government positions, including a former president. Provincial commissions operated in cities including Karaj, Isfahan, Shiraz, Tabriz, Mashhad, and others. The judiciary (قوه قضائیه) provided the institutional framework — although the commissions operated outside any judicial procedure, they were staffed by judicial officials. The IRGC and MOIS provided the security infrastructure for executions. The prison system (سازمان زندان‌ها), particularly Evin and Gohardasht (Rajai Shahr), were the primary execution sites. Hossein-Ali Montazeri's letters of protest from within the establishment — and Ahmad Montazeri's subsequent release of audio recordings of his father confronting commission members — provide the most significant insider evidence.
 

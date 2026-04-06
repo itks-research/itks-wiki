@@ -48,7 +48,7 @@ The secondary but critical problem involves IRGC (Islamic Revolutionary Guard Co
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
 
 **Institutional Mapping:** Financial liberalization in Iran engages the **Central Bank of Iran** (بانک مرکزی ایران), which lacks genuine independence — its governor is appointed by the president with parliamentary approval but operates under de facto political direction; **state-owned banks** (Bank Melli, Bank Tejarat, Bank Sepah, and others) controlling approximately 80% of banking sector assets; **IRGC-connected financial institutions** (including Ansar Bank, formerly Ghavamin Bank, and other Revolutionary Guard-affiliated credit institutions) managing an estimated 20-30% of banking assets with reduced transparency and security-oriented governance; the **Guardian Council** and **Expediency Council**, which have blocked FATF compliance legislation; and **Sharia compliance committees** (کمیته‌های فقهی) operating within banks alongside conventional supervisory mechanisms, creating dual regulatory frameworks and arbitrage opportunities.
 

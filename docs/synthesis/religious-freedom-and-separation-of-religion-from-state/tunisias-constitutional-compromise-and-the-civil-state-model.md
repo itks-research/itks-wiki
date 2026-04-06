@@ -10,7 +10,7 @@ This constitutional architecture emerged from broader ideological evolution. Tam
 
 ## Cross-Country Patterns
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
 
 Two cross-cutting patterns emerge from Tunisia's constitutional experience. First, constitutional acknowledgment of religion does not require theocratic authority. Tunisia's Article 1 architecture demonstrates that a Muslim-majority society can constitutionally affirm Islam's centrality while establishing civil law supremacy. The key mechanism is distributing religion's constitutional presence across multiple articles that check and balance each other, rather than concentrating it in a single provision.
 
@@ -18,7 +18,7 @@ Second, internal Islamist party dynamics matter more than external pressure. The
 
 ## Iran Context
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
 
 Tunisia's Article 1 architecture offers a direct template for Iran's most pressing constitutional question: how to handle Islam's public role. Iran's Guardian Council currently vetoes legislation for non-compliance with Islamic law — a power without parallel in any other political system. Tunisia's model suggests an alternative: constitutional recognition of Islam as the country's religious heritage paired with explicit supremacy of civil law and elected legislative authority.
 
@@ -43,7 +43,7 @@ The Ennahda internal vote pattern is particularly instructive for Iran. Iran's c
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
 
 **Institutional Mapping:** Tunisia's Article 1 model — constitutional acknowledgment of Islam without legislative Sharia veto — directly addresses Iran's Guardian Council problem. The institutions requiring transformation include: the Guardian Council (شورای نگهبان), which must be abolished or fundamentally reconstituted as a non-religious constitutional court; the Assembly of Experts (مجلس خبرگان), which would lose its raison d'etre if ولایت فقیه is removed; the Special Clerical Court, which should be dissolved entirely as an extra-judicial body; and the حوزه علمیه system, which would need to transition from a governance-training institution to an autonomous religious educational establishment. The مراجع (senior clerical authorities), particularly those in Najaf who have maintained independence from the Iranian state, represent potential partners for a "civil state" framework.
 

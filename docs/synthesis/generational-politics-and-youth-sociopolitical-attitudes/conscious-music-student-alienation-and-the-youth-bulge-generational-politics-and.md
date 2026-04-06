@@ -66,7 +66,7 @@ A post-transition strategy for youth engagement would need to: (1) create formal
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
 
 **Institutional Mapping:** Youth political engagement in Iran is shaped by institutions designed to channel, co-opt, or suppress generational energy. The **Basij** (بسیج) functions as the primary regime instrument for youth mobilization, offering economic incentives (university admission preferences, employment access, subsidized goods) in exchange for ideological conformity — estimated membership of several million, though active participation is substantially lower. The **Ministry of Science, Research and Technology** (وزارت علوم) controls university governance, including appointment of politically vetted university presidents and enforcement of cultural codes on campuses. The **Supreme Council of the Cultural Revolution** (شورای عالی انقلاب فرهنگی) sets educational and cultural policy designed to reproduce revolutionary ideology across generations. The **Ministry of Sports and Youth Affairs** (وزارت ورزش و جوانان) manages youth programming but functions primarily as a regime loyalty mechanism. **IRIB** controls media narratives targeting youth, while the **Cyber Police** (پلیس فتا) monitors and restricts the social media platforms where young Iranians actually build political consciousness. Student organizations at universities — both officially sanctioned **Islamic Student Associations** (انجمن‌های اسلامی دانشجویان) and underground networks — serve as contested spaces for political expression.
 

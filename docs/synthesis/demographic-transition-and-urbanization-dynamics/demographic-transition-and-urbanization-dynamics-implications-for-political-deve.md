@@ -61,7 +61,7 @@ Any post-transition framework must treat demographic timing as a hard constraint
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (11 sources)
 
 **Institutional Mapping**
 

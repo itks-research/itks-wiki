@@ -62,7 +62,7 @@ A credible anti-corruption strategy for post-transition Iran would need to: (1) 
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+> 🟡 **Evidence Confidence: Moderate** — Well-triangulated evidence (9 sources); sources with gate2 concerns
 
 **Institutional Mapping**
 

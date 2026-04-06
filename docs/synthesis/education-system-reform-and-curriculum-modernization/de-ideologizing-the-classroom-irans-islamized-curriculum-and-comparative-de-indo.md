@@ -50,7 +50,7 @@ Educational reform is simultaneously essential and explosive in any post-authori
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 **Institutional Mapping**
 

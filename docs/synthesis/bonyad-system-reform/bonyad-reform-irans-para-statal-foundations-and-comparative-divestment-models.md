@@ -51,7 +51,7 @@ The political sequencing question remains contested. Conservative political fact
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
 
 **Institutional Mapping:** Bonyad reform in Iran directly engages the **Supreme Leader's office** (بیت رهبری), which serves as the constitutional trustee and ultimate authority over all major bonyads. The **Bonyad-e Mostazafan va Janbazan** (Foundation of the Oppressed and Disabled) controls an estimated 400+ companies across mining, construction, food, and finance. **Astan-e Qods-e Razavi** in Mashhad manages one of the largest religious endowments in the world, with extensive agricultural, industrial, and real estate holdings. The **Imam Khomeini Relief Foundation** (کمیته امداد امام خمینی) and the **Martyrs Foundation** (بنیاد شهید) operate parallel welfare-patronage systems. The **Majles** has repeatedly attempted oversight legislation but lacks constitutional authority to compel disclosure from entities under Supreme Leader supervision. The **Guardian Council** (شورای نگهبان) would likely block any legislative reform threatening bonyad autonomy as inconsistent with Islamic governance principles.
 

@@ -10,13 +10,13 @@ Kuehn and Croissant's (2023) systematic six-case comparison confirms that defens
 
 ## Cross-Country Patterns
 
-> 🟢 **Evidence Confidence: High** — Civilianization-as-necessary-but-insufficient pattern is consistent across South Korea, Indonesia, and Spain case studies.
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (16 sources)
 
 The central pattern across cases is that civilianizing defense ministry leadership is necessary but insufficient. South Korea removed political generals and prosecuted coup leaders, yet internal bureaucratic structures preserved military decision-making dominance for decades. The information asymmetry between civilian appointees and career military officers creates a persistent advantage for uniformed personnel in policy debates. This finding suggests that "civilianization" must be understood as a multi-layered process: removing political control at the top, restructuring career pathways in the middle, and building civilian expertise at the working level. Each layer operates on a different timeline — years for the first, a decade for the second, a generation for the third.
 
 ## Iran Context
 
-> 🟡 **Evidence Confidence: Moderate** — Iran-specific analysis is inferential from structural comparison; no post-transition Iran CMR data exists by definition.
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (16 sources)
 
 For Iran, the civilianization challenge is compounded by institutional multiplicity. South Korea had one unified military establishment; Iran has at minimum five distinct security bodies (Artesh, IRGC, Basij, MOIS, FARAJA), each requiring its own civilianization process. The IRGC's economic autonomy adds a dimension South Korea never faced — in Seoul, budget control was a viable lever for civilian supremacy because the military depended on state appropriations. The IRGC generates its own revenue through Khatam al-Anbiya and the IRGC Cooperative Foundation, neutralizing this lever.
 
@@ -44,7 +44,7 @@ Furthermore, Iran lacks the external security guarantee that facilitated South K
 
 ## Implications for Iran
 
-> 🟡 **Evidence Confidence: Moderate** — Institutional mapping accurate for public knowledge; classified aspects of IRGC-MODAFL relationship are unknown.
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (16 sources)
 
 **Institutional Mapping:** Iran's defense establishment lacks the unified structure that enabled South Korea's civilianization campaign. The relevant institutions include: the Ministry of Defense and Armed Forces Logistics (MODAFL, وزارت دفاع و پشتیبانی نیروهای مسلح), which nominally oversees defense procurement but lacks operational control; the IRGC General Staff, subordinate directly to the Supreme Leader; the Artesh General Staff (ستاد کل ارتش), the conventional military; the General Staff of the Armed Forces (ستاد کل نیروهای مسلح), theoretically coordinating all military branches but dominated by IRGC-aligned officers; the Basij Organization, formally under the IRGC but operationally semi-autonomous; and FARAJA (فرماندهی انتظامی), the law enforcement command restructured from NAJA in 2021. Each body maintains separate intelligence, logistics, and personnel systems. The Supreme National Security Council (شورای عالی امنیت ملی) serves as the civilian-military coordination body but is chaired by the president and dominated by security establishment representatives.
 

@@ -49,7 +49,7 @@ The diaspora dimension adds opportunity: tens of thousands of Iranian educators 
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (10 sources)
 
 **Institutional Mapping:** Education reform in Iran would engage the **Ministry of Education** (وزارت آموزش و پرورش), which controls curriculum development, textbook production, and teacher training for K-12; the **Ministry of Science, Research and Technology** (وزارت علوم) overseeing higher education; the **Supreme Council of the Cultural Revolution** (شورای عالی انقلاب فرهنگی), which sets ideological parameters for all educational content; the **howzeh** (حوزه علمیه) system, which influences religious studies requirements and places clerics in school administration; the **Farhangian University** (دانشگاه فرهنگیان) teacher training system, which has produced approximately 900,000 teachers socialized into the current ideological framework; and **IRIB**, which broadcasts educational programming reinforcing regime narratives. The **Basij** student organizations operate within universities as surveillance and ideological enforcement mechanisms.
 

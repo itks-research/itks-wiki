@@ -10,7 +10,7 @@ South Korea provides the concrete illustration. Presidents Chun Doo-hwan and Roh
 
 ## Cross-Country Patterns
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (12 sources)
 
 The central pattern is that deterrence and reconciliation are not mutually exclusive -- they can operate sequentially. The prosecution-pardon model establishes a crucial precedent: former heads of state are not immune from criminal accountability, while clemency remains available as a political tool for reconciliation. This calibrated approach appears more effective for long-term human rights outcomes than either pure impunity or maximalist punishment.
 
@@ -18,7 +18,7 @@ A second pattern is that domestic institutional capacity is the critical variabl
 
 ## Iran Context
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (12 sources)
 
 The Kim-Sikkink evidence base provides the strongest empirical argument for some form of accountability mechanism in a future Iranian transition. The South Korean prosecution-pardon sequence offers a specific procedural template: establish criminal liability through prosecution, then exercise clemency strategically for reconciliation.
 
@@ -41,7 +41,7 @@ This model is particularly relevant for mid-ranking officials in the IRGC, judic
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (12 sources)
 
 **Institutional Mapping:** Prosecution in a future Iranian transition would target specific institutional chains of command. For the 1988 massacres: the Death Commissions (هیئت‌های مرگ) operated in Tehran, Karaj, and provincial prisons under Supreme Leader Khomeini's fatwa, with identified members including former senior officials. For the 2019 November crackdown: the Supreme National Security Council issued the suppression order; the IRGC ground forces, Basij, and FARAJA executed it; the IRGC intelligence organization and MOIS conducted subsequent arrests and interrogations. For systematic judicial violations: Revolutionary Court judges (قضات دادگاه‌های انقلاب) issued sentences without due process over decades. For the 2022 crackdown: FARAJA's morality police, IRGC intelligence, and Basij forces are documented perpetrators. The judiciary (headed by Supreme Leader appointees Sadegh Larijani, Ebrahim Raisi, Gholamhossein Mohseni-Ejei) bears institutional responsibility for legitimizing repression through legal process.
 

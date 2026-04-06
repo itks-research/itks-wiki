@@ -47,7 +47,7 @@ The seminary system's role adds another layer: in the current system, religious 
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
 
 **Institutional Mapping:** Gender equality reform in Iran engages the **Guardian Council** (شورای نگهبان), which vetoes legislation inconsistent with its interpretation of شریعت; the **judiciary**, which enforces family law (قانون خانواده) including unequal divorce, custody, and inheritance provisions; the **howzeh** (حوزه علمیه), which produces the jurisprudential opinions underlying gender-discriminatory rulings; the **Morality Police** (گشت ارشاد) and **Basij** networks enforcing mandatory hijab; the **Ministry of Education** embedding gender ideology in curricula; and the **IRIB** broadcasting gender norms through state media. The **Vice Presidency for Women and Family Affairs** (معاونت امور زنان و خانواده ریاست جمهوری) has historically served as a co-optation mechanism rather than a reform instrument, channeling women's activism into regime-compatible frameworks.
 

@@ -1,1 +1,0 @@
-Analyzes how Spain's post-Franco political party system emerged from clandestine opposition, negotiated transition, and electoral competition, with comparative lessons for Iran's potential multiparty development.
