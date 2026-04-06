@@ -52,7 +52,7 @@ The practical implication is that transition planners cannot import any single c
 
 **Risks:** The fundamental risk is theoretical misapplication — attempting to apply frameworks from conventional civil-military transitions to an institution that is not conventionally military. Treating the IRGC as a standard military and applying standard civilianization prescriptions would miss its economic, ideological, and governance dimensions. Conversely, treating it as purely a political institution and applying democratization prescriptions would miss its genuine security functions — Iran faces real external threats, and the IRGC's military capabilities serve legitimate defense purposes alongside their authoritarian functions. The prerequisite for any transition framework is analytical precision about which IRGC functions are inherently authoritarian (Guardian Council enforcement, protest suppression, electoral manipulation, ideological policing) and which are potentially compatible with democratic governance (border defense, disaster response, certain construction functions) — and designing differentiated institutional futures for each.
 
-> 📎 **Source Alignment: 🟢 Strong** (85%)
+> 🟢 **Evidence Confidence: High** — Gaps identified through systematic review of section content and cited theoretical literature. | 📎 **Source Alignment: 🟢 Strong** (85%)
 
 ## Research Gaps and Knowledge Limitations
 
@@ -65,6 +65,6 @@ The IRGC is treated as a unitary actor in most theoretical treatments, but avail
 ### Gap 3: Post-Transition Institutional Reform Theory
 Existing civil-military relations theory focuses on the transition moment. Almost no theoretical attention has been paid to the multi-decade process of transforming military-political-economic conglomerates into conventional professional militaries in years after democratic transition.
 
-> 📎 **Source Alignment: 🟢 Strong** (85%)
+> 🟢 **Evidence Confidence: High** — Summary accurately reflects the content of all six sections. | 📎 **Source Alignment: 🟢 Strong** (85%)
 
 This article examines why existing theories about military-civilian relations — developed for Western democracies and post-Cold War transitions — fail to explain Iran's Revolutionary Guards (IRGC). The IRGC is not simply a military force: it also runs major economic enterprises, enforces ideological conformity, and provides social services. No existing theory was designed to analyze an institution that does all three simultaneously. This article reviews the dominant theoretical frameworks and shows where each breaks down when applied to Iran's specific case.

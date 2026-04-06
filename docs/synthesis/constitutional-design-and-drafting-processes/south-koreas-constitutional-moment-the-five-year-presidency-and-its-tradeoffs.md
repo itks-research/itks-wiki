@@ -1,6 +1,6 @@
 ## Evidence & Key Findings
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
 
 South Korea's 1987 constitutional moment demonstrates how concentrated popular pressure can compress decades of institutional reform into weeks. The June Democratic Struggle (June 10-29, 1987) saw mass pro-democracy protests across major cities, driven by student movements, labor unions, and a broad middle-class coalition outraged by the military regime's plan to install Roh Tae-woo through an indirect electoral college. On June 29, Roh capitulated, issuing an eight-point declaration conceding direct presidential elections, press freedom, political prisoner releases, and constitutional amendment.
 
@@ -10,7 +10,7 @@ The constitution was drafted through the National Assembly, approved by referend
 
 ## Cross-Country Patterns
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
 
 Mosler (2020) finds that the constitution's longevity (39 years without amendment) results from a paradox: the very factors that create pressure for reform also prevent consensus on what amendments should look like. Any change to presidential term structure benefits some political actors and threatens others. This gridlock-as-stability dynamic differs fundamentally from the Ginsburg/Elkins flexibility finding, suggesting that non-amendment can be a path to longevity under specific conditions: when the constitution is detailed enough to constrain actors and when the political cost of replacement exceeds the cost of living with imperfect provisions.
 
@@ -18,7 +18,7 @@ The "lemon presidency" pattern recurred across multiple administrations. Lee Myu
 
 ## Iran Context
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
 
 South Korea's experience offers both a model and a warning for Iran. The single-term presidency successfully prevented authoritarian regression through electoral manipulation, a critical concern for any Iranian transition where former regime actors might seek to recapture power through democratic means. The absolute re-election ban addressed a specific pathology that Iran shares: the history of leaders using constitutional mechanisms to extend their rule, from the Shah's constitutional manipulations to the 1989 amendments that expanded the Supreme Leader's powers.
 
@@ -41,7 +41,7 @@ However, the "lemon presidency" phenomenon means that term limits alone are insu
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
 
 **Institutional Mapping:** Iran's executive structure choice is complicated by the ولایت فقیه legacy. The current system already has a president, but one subordinate to the Supreme Leader — the presidency is an elected but constrained office. The relevant institutional design choices include: presidential versus parliamentary versus semi-presidential systems; single-term versus renewable term limits; the relationship between the executive and a new constitutional court (replacing the Guardian Council); the relationship between the executive and the military (particularly IRGC integration or dissolution); and the structure of executive authority over the judiciary (currently the Supreme Leader appoints the head of the judiciary). South Korea's five-year single-term model addresses the specific pathology of leaders extending their rule — relevant given both the Shah's constitutional manipulations and the 1989 amendments that expanded the Supreme Leader's powers.
 
@@ -50,3 +50,17 @@ However, the "lemon presidency" phenomenon means that term limits alone are insu
 **Key Actors and Sequencing:** The executive structure decision must be made during the constitutional drafting process (Arato's Stage 2), but preliminary parameters should be established at the roundtable stage (Stage 1). Key considerations: (1) A parliamentary system may be preferable for the initial transition period because it distributes executive authority across a coalition, preventing capture by any single personality — but Iran lacks established political parties capable of forming stable coalitions. (2) A semi-presidential system (French model) provides dual executive authority but risks the cohabitation conflicts that have destabilized other post-authoritarian transitions. (3) A single-term presidency with a strong constitutional court (Korean model) provides decisive executive authority for the transition period but risks the lame-duck pathology. The judiciary question is particularly acute: the current head of the judiciary is a Supreme Leader appointee — any transition must simultaneously restructure the executive and establish judicial independence, preventing the "captured judiciary" problem that Korea's single-term presidency generated through different mechanisms.
 
 **Risks:** The primary risk is that executive structure design becomes a proxy battle for political power: different factions will advocate for the system that maximizes their constituency's influence. Kurdish and Azeri groups may prefer parliamentary systems that give regional parties coalition leverage; centralist forces may prefer strong presidencies; conservative clerical elements may seek hybrid systems preserving institutional religious influence. The Assembly of Experts (مجلس خبرگان) model — an elected body with authority to oversee the Supreme Leader — demonstrated that oversight mechanisms lack genuine teeth when the overseen institution controls the oversight body's composition. Any future constitutional court must have structural independence exceeding even the South Korean model, given the depth of institutional capture under ولایت فقیه. The prerequisite is that constitutional court appointment mechanisms must be the first institutional question resolved, before executive structure, because every other institution's effectiveness depends on an independent arbiter.
+
+## Knowledge Gaps
+
+**Limited longitudinal evidence on the "lemon presidency" mechanism.** Choi's (2022) concept of the "lemon presidency" — where single-term limits create incentives for judicial capture — is analytically compelling, but the empirical evidence base is primarily South Korean case studies across a limited number of administrations. Whether the mechanism generalizes to other single-term presidential systems, and under what conditions strong judicial independence can counteract it, is not systematically assessed in the comparative literature cited.
+
+**Presidential vs. parliamentary design trade-offs for Iran are underspecified.** The article raises the question of whether Iran should adopt a presidential, parliamentary, or semi-presidential system but does not engage the comparative literature on which system has performed better in post-authoritarian transitions with high religious salience, low party institutionalization, and significant ethnic diversity. The evidence base for this design choice — arguably the most consequential in Iranian constitutional design — is thin.
+
+**Absence of evidence on judicial independence construction timelines.** The article identifies independent judicial institutions as the essential complement to term limits, but the comparative evidence on how long it takes to build genuinely independent judiciaries after decades of politicization — and what sequencing of institutional reforms most effectively achieves this — is not engaged. South Korea's own judicial capture during the lemon presidency periods suggests the construction challenge is formidable.
+
+**Constitutional Court appointment mechanisms across post-authoritarian contexts.** The article recommends a constitutional court with structural independence exceeding the South Korean model, but does not engage comparative evidence on which appointment mechanisms — parliamentary nomination, judicial selection, presidential appointment with supermajority confirmation, or rotation across institutional bodies — best insulate constitutional courts from political capture. This is precisely the design question where the evidence would be most valuable.
+
+**Iran-specific IRGC variable absent from analysis.** South Korea's constitutional design involved managing a military that had previously governed directly. Iran's equivalent challenge involves the IRGC — an entity that is simultaneously a military, an economic conglomerate, and a political actor. How executive structure choices interact with IRGC reform or dissolution is not addressed, leaving a consequential variable outside the comparative framework.
+
+South Korea's democracy was born in 1987 from weeks of mass street protests that forced a military-backed government to accept direct presidential elections — and the constitution that emerged from that moment created a one-term-only presidency specifically to prevent leaders from entrenching themselves in power. This design has largely succeeded in preventing the authoritarian backsliding South Korea feared, but it created a different problem: every president enters office already a lame duck, which has repeatedly tempted them to try to lock in their legacy by placing loyalists in courts and prosecution offices. The lesson for Iran is that preventing one form of power concentration is not enough — you need strong, independent judicial institutions at the same time, or term limits simply shift the location of the problem.

@@ -53,7 +53,7 @@ The risk is co-optation. Regime-affiliated clerics could redefine these concepts
 
 ## What We Don't Know
 
-> 📎 **Source Alignment: 🟡 Moderate** (70%)
+> 🟡 **Evidence Confidence: Moderate** —  | 📎 **Source Alignment: 🟡 Moderate** (70%)
 
 **Open Research Questions**
 
@@ -67,6 +67,6 @@ The risk is co-optation. Regime-affiliated clerics could redefine these concepts
 
 5. **Perpetrator community acceptance**: Do Islamic TJ frameworks achieve greater acceptance from security sector perpetrators (who may be religiously conservative) than purely secular mechanisms? No direct evidence exists on this question.
 
-> 📎 **Source Alignment: 🟡 Moderate** (70%)
+> 🟡 **Evidence Confidence: Moderate** —  | 📎 **Source Alignment: 🟡 Moderate** (70%)
 
 Transitional justice — the process of holding a prior regime accountable while building a stable future — takes very different forms depending on whether Islamic jurisprudential concepts are incorporated. Tunisia, Morocco, and Indonesia show that Muslim-majority societies can design accountability processes that draw on local religious concepts (restorative retribution, blood money compensation, reconciliation through religious mediation) to achieve domestic legitimacy that purely Western frameworks lack. For Iran, this matters because an Islamic TJ process might gain acceptance from communities skeptical of International Criminal Court framing — but also risks being captured by clerical conservatives who would use Islamic concepts to protect perpetrators rather than deliver accountability. The evidence suggests the legitimacy gains are real but require careful institutional design to prevent perversion.

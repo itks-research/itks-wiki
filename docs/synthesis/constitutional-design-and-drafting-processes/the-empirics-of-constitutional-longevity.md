@@ -1,6 +1,6 @@
 ## Evidence & Key Findings
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
 
 The most significant empirical contribution in the constitutional design literature comes from Ginsburg, Elkins, and Blount's analysis of 935 national constitutions spanning 1789 to 2005. Their central finding reframes the entire field: the median constitutional lifespan is only 19 years. Constitutional design is therefore not about creating permanent documents but about creating documents durable enough to become entrenched through practice and political investment.
 
@@ -10,7 +10,7 @@ These findings draw on the broadest dataset ever assembled for constitutional an
 
 ## Cross-Country Patterns
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
 
 Two cross-cutting patterns emerge from the longevity data. First, there is a consistent inverse relationship between constitutional rigidity and survival. Countries that designed their constitutions to be nearly unamendable (requiring unanimity or supermajority thresholds above 80%) experienced shorter constitutional lifespans than those with more moderate thresholds (60-67% legislative supermajority plus ratification). Second, the inclusivity effect is multiplicative rather than additive: constitutions that combined broad participation in drafting with public ratification survived significantly longer than those that had only one or the other.
 
@@ -18,7 +18,7 @@ The specificity finding challenges the minimalist school of constitutional desig
 
 ## Iran Context
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
 
 These findings have direct operational implications for Iranian constitutional design. Iran's 1979 Constitution, amended in 1989, established a highly rigid framework. The amendment process requires Supreme Leader approval and a referendum, but the more fundamental constraint is the entrenchment of velayat-e faqih as an unamendable principle. The Guardian Council's approbatory supervision (nezarat-e estesvabi) further rigidifies the system by pre-screening candidates and legislation for conformity with the existing constitutional framework.
 
@@ -41,7 +41,7 @@ A future Iranian constitution should incorporate four design principles drawn fr
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
 
 **Institutional Mapping:** The longevity findings apply to specific Iranian institutional design choices. The Guardian Council (شورای نگهبان) represents the paradigmatic rigid, exclusionary institution: it was designed to make the constitutional framework unamendable by filtering both legislation and political personnel. A successor constitutional court must be designed with the longevity evidence in mind — independent appointment mechanisms (perhaps combining parliamentary nomination, judicial selection, and regional representation), fixed terms with staggered replacement, and jurisdiction limited to constitutional review without electoral gatekeeping. The current مجلس شورای اسلامی (Islamic Consultative Assembly/Parliament) operates under Guardian Council pre-approval of both candidates and legislation — a future parliament must exercise genuine legislative sovereignty with constitutional court review as the only check. Regional governance structures must balance the 31 existing provinces (استان‌ها) with ethnic and linguistic realities, particularly in Kurdistan, Azerbaijan, Sistan-Baluchestan, Khuzestan, and Turkmen Sahra.
 
@@ -50,3 +50,17 @@ A future Iranian constitution should incorporate four design principles drawn fr
 **Key Actors and Sequencing:** Four design principles drawn from the longevity evidence should guide Iranian constitutional architects: (1) Detail over skeleton: specify institutional roles, rights protections, and dispute resolution mechanisms concretely rather than relying on general principles susceptible to authoritarian reinterpretation (the 1979 Constitution's general rights provisions were systematically nullified by the Guardian Council's "Islamic conformity" review). (2) Amendable but demanding: two-thirds parliamentary majority plus regional ratification (perhaps requiring approval by at least two-thirds of provincial assemblies) creates a process difficult enough to prevent frivolous amendment but achievable enough to enable adaptation. (3) Inclusive drafting: structured participation from all major constituencies — with particular attention to groups historically excluded (Baha'is, Sunni minorities, women, secular citizens, ethnic communities). (4) Distributed power: multiple institutional veto points (executive, legislature, constitutional court, regional councils) preventing concentration in any single actor.
 
 **Risks:** The paradox of rigidity creates a specific risk for Iran: constitutional designers, traumatized by four decades of ولایت فقیه, may attempt to permanently entrench secularism, human rights, or democratic procedures through unamendable clauses. The empirical evidence warns against this impulse — unamendable provisions do not protect constitutional values; they force future political actors to abandon the entire document rather than adapting specific provisions. The exception: international human rights norms incorporated by reference may be appropriate as unamendable principles, given their external enforcement mechanisms (international courts, treaty obligations). A second risk is that the inclusive drafting imperative conflicts with the urgency of transition — assembling a genuinely representative constitutional process takes time that a fragile transition may not afford. Tunisia's 27-month process provides a realistic benchmark, but political stability during that period requires a credible interim governance arrangement.
+
+## Knowledge Gaps
+
+**The longevity dataset's applicability to post-theocratic founding moments.** Ginsburg, Elkins, and Blount's 935-constitution dataset likely includes few or no constitutions designed to replace a theocratic predecessor. Whether design variables predicting longevity — amendment flexibility, inclusivity, specificity, power distribution — hold equally when constitutional replacement involves a fundamental change in the legitimating principle of governance (from religious to secular-democratic) is an open question the dataset was not designed to address.
+
+**The specificity-longevity correlation in multi-ethnic contexts.** The mechanism through which specificity promotes longevity — leaving less room for powerful actors to reshape the framework through interpretation — may interact with ethnic heterogeneity in complex ways. In deeply divided societies, specificity on contested questions (territorial arrangements, language rights, religious status) may generate conflict rather than stability. The aggregate finding may mask variation across different types of constitutional specificity.
+
+**Amendment flexibility and theocratic restoration risk.** The recommendation to adopt an accessible amendment process follows the aggregate longevity finding, but may create specific vulnerability in a post-theocratic context where risk of amendment to restore religious governance is higher than in other post-authoritarian transitions. No comparative evidence on this relationship is available.
+
+**Public ratification under low institutional trust.** The 8% survival probability gain from public ratification derives from cases where ratification was genuinely free. Holding a credible Iranian referendum under conditions of low institutional trust, high mobilization, and potential spoiler activity requires political prerequisites that the comparative evidence does not address.
+
+**Regional governance design evidence is thin.** The article recommends distributing power across regional councils but provides no specific evidence on how Iran's 31 provinces might be reorganized relative to ethnic and linguistic realities, or what decentralization models have succeeded in post-authoritarian states with comparable diversity.
+
+Researchers who have studied nearly every national constitution written since the 1700s found a striking result: the average constitution lasts only about 19 years, and the ones that last longest are not the ones designed to be hardest to change — they are the ones that allow for adaptation through a demanding but achievable amendment process. This finding challenges the instinct of constitution-writers coming out of authoritarian systems to lock in democratic gains through provisions that can never be changed. For Iran, the practical implication is that a new constitution should be detailed, broadly participatory in its drafting, and deliberately designed to distribute power across multiple institutions rather than concentrate it in any single authority.

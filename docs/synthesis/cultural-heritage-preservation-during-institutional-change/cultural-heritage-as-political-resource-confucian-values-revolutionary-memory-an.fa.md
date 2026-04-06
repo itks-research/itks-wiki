@@ -1,4 +1,4 @@
-> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 ## Evidence: میراث فرهنگی as Political Resource During Institutional Transition
 
@@ -12,7 +12,7 @@ Iran presents a more complex case of layered میراث فرهنگی competition
 
 These cases demonstrate a consistent pattern: institutional transitions do not occur in a cultural vacuum. Rather, societies navigate change by selectively deploying, reinterpreting, or suppressing میراث فرهنگی in service of legitimating new institutional arrangements. Heritage functions as a resource—sometimes constraining, sometimes enabling the institutional possibilities available to transitional societies.
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 ## Patterns: Tradition and نوسازی نهادی
 
@@ -28,7 +28,7 @@ This tension manifests in three recurring patterns:
 
 These patterns suggest that تغییر نهادی is not merely a technical legal or organizational matter; it is fundamentally a cultural-hermeneutical process of reinterpreting heritage to legitimate new institutional frameworks.
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 ## Iran: Layered هویت فرهنگی and طراحی نهادی
 

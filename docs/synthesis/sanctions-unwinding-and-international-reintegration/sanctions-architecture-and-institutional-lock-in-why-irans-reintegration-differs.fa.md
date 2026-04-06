@@ -1,6 +1,6 @@
 ## Evidence & Key Findings
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 EVIDENCE: Layered Architecture of Iran تحریم‌ها and the JCPOA Paradox
 
@@ -16,7 +16,7 @@ The سپاه پاسداران انقلاب اسلامی designation complicates 
 
 ## Cross-Country Patterns
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 PATTERNS: Institutional Lock-In Mechanisms in تحریم‌ها Regimes
 
@@ -32,7 +32,7 @@ PATTERNS: Institutional Lock-In Mechanisms in تحریم‌ها Regimes
 
 ## Iran Context
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 IRAN'S UNIQUE تحریم‌ها CHALLENGE: Economic Adaptation and Vested Interests
 

@@ -1,6 +1,6 @@
 ## Evidence & Key Findings
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
 
 Tunisia's 2014 Constitution represents the most extensively documented case of democratic constitution-making in the ITKS corpus. The National Constituent Assembly (NCA), elected October 2011 with 217 members, spent approximately 27 months drafting the constitution through iterative revision. Four successive drafts (August 2012, December 2012, April 2013, June 2013) allowed progressive refinement and pressure-testing of contested provisions. The final ratification vote on January 26, 2014, produced an overwhelming 200-12 result with 4 abstentions.
 
@@ -12,7 +12,7 @@ Tunisia's constitution-making process and its civic infrastructure outcomes have
 
 ## Cross-Country Patterns
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
 
 Tunisia's experience reveals two structural patterns. First, civil society organizations with institutional weight (organized labor, professional associations, employer federations) can serve constitutional functions that go beyond advocacy: mediation, process guarantorship, and legitimacy anchoring. This role requires organizations with independent membership bases, organizational capacity for sustained engagement, and credibility with multiple political factions. Advocacy NGOs, however important, typically lack these characteristics.
 
@@ -22,7 +22,7 @@ Three patterns emerge from the Tunisia case. First, institutional innovation in 
 
 ## Iran Context
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
 
 Tunisia's process offers three direct lessons for Iran. First, the Quartet model demonstrates that civil society organizations with institutional weight can serve as constitutional process infrastructure. Iran's equivalent institutions include the Workers' House (Khaneh-ye Kargar), chambers of commerce, the bar association, and medical councils. These organizations could play analogous mediating roles if they can operate independently of state control, a condition that would need to be established during the transition itself.
 
@@ -52,7 +52,7 @@ Iran's civil society infrastructure presents both advantages and obstacles for T
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
 
 **Institutional Mapping:** Iran possesses civil society institutions that could potentially serve the Quartet function — organizations with institutional weight capable of mediating between political factions during a constitutional crisis. The Workers' House (خانه کارگر), though currently regime-linked, represents organized labor. The chambers of commerce (اتاق بازرگانی) represent the private business community. The bar association (کانون وکلا) has historically maintained greater independence than most Iranian institutions. Medical councils, engineering associations, and academic institutions provide professional organizational infrastructure. The key difference from Tunisia: Iran's civil society organizations have been systematically co-opted or suppressed over four decades, meaning their independence and mediating capacity would need to be rebuilt during — not before — the transition. Diaspora civil society organizations (IDC, professional associations, academic networks) could supplement domestic capacity during the initial period.
 
@@ -61,3 +61,17 @@ Iran's civil society infrastructure presents both advantages and obstacles for T
 **Key Actors and Sequencing:** The Tunisian model suggests three operational lessons for Iran. (1) Institutional weight matters more than political alignment: the Quartet succeeded because its member organizations represented genuine social constituencies (workers, employers, lawyers, human rights advocates) rather than political parties. Iran's equivalent must similarly draw on organizations with organic social bases — professional associations, regional chambers of commerce, student organizations, women's movements — rather than political formations. (2) Multi-draft iteration is essential: Tunisia's 27-month, four-draft constitutional process allowed progressive refinement. Iran should plan for a comparable timeline, with multiple revision cycles and structured public feedback mechanisms. (3) Islamist engagement is necessary: Ennahda's concessions — dropping Sharia as a legislative source, accepting the "civil state" formulation, voting to separate political and religious activities — demonstrate that Islamist actors can be constructive partners when institutional design incentivizes compromise. Iran's constitutional process must engage the religious establishment, including seminary figures and pragmatic clerical politicians, as participants rather than adversaries.
 
 **Risks:** Tunisia's subsequent democratic backsliding under President Saied — who suspended parliament in 2021 despite the 2014 Constitution — demonstrates that constitutional quality is necessary but insufficient for democratic durability. The Quartet model produced a constitutionally excellent outcome that did not prevent authoritarian regression when a determined president exploited a governance crisis. For Iran, this warns that civil society constitutional infrastructure must be sustained beyond the drafting period — ongoing monitoring, judicial enforcement, and organized civic defense of constitutional norms are required. A second risk is that Iran's civil society capacity deficit cannot be overcome quickly enough to serve the mediating function during what may be a narrow transition window. The prerequisite is dual-track preparation: strengthening domestic civil society organizations (to the extent possible under current repression) while building diaspora-based organizational capacity that can supplement domestic institutions during the initial transition. Usman et al.'s (2025) emphasis on organizational networks for sustaining participatory constitution-making underscores that institutional infrastructure must precede or accompany the constitutional moment itself.
+
+## Knowledge Gaps
+
+**Tunisia's post-2021 backsliding is undertheorized.** The article notes Saied's suspension of parliament demonstrates constitutional quality is insufficient for democratic durability, but does not engage the emerging analytical literature on why Tunisia's consolidation failed. Whether the failure reflects the Quartet model's limitations, broader structural conditions (economic crisis, constitutional court weakness), or contingent factors shapes how applicable the lessons are for Iran.
+
+**Iranian civil society organizational capacity is asserted without systematic evidence.** The article identifies the Workers' House, bar association, and chambers of commerce as potential Quartet equivalents, but does not engage empirical evidence on their actual membership bases, operational independence from the state, or demonstrated negotiating capacity. The claim that these could serve a mediating function rests on institutional type-matching rather than organizational assessment.
+
+**The Ennahda analogy to Iran's clerical establishment is under-examined.** Ennahda was an Islamist political party operating outside state structures; Iran's clerical establishment is embedded in governance institutions. This structural difference may make the analogy weaker than presented, and no systematic comparison of the two actors' incentive structures is offered.
+
+**Diaspora civil society fragmentation is noted but not analyzed.** The article suggests diaspora organizations could supplement domestic capacity, but Iranian diaspora civil society is known to be deeply fragmented across monarchist, republican, leftist, and ethno-nationalist lines. No evidence on whether diaspora organizations have demonstrated the cross-factional credibility that the Quartet's mediating function required is engaged.
+
+**Multi-draft iteration timelines under unstable conditions are unaddressed.** The article recommends Tunisia's 27-month timeline as a realistic benchmark but does not assess what political and security conditions made that duration feasible, or whether comparable conditions are likely to obtain in an Iranian transition context where spoiler activity and economic crisis may compress available time.
+
+When Tunisia's democracy-building process nearly collapsed in 2013 due to political assassinations and fears of a military takeover, an unlikely alliance of trade unions, employers, lawyers, and human rights groups stepped in to mediate — and their intervention saved the process, eventually earning the Nobel Peace Prize. This "Quartet" model shows that civil society organizations with genuine institutional weight can serve as the backbone of democratic constitution-making in a way that political parties often cannot. For Iran, the lesson is that equivalent organizations — bar associations, professional unions, chambers of commerce — could play this role, but only if they can establish meaningful independence from state control, which would itself require significant early work during any transition period.

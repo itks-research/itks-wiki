@@ -1,6 +1,6 @@
 ## Evidence & Key Findings
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 Iran's Post-Revolutionary Gender Legal Framework: Codification and Reversals
 
@@ -24,7 +24,7 @@ The Woman Life Freedom movement of 2022-2023 crystallized these contradictions: 
 
 ## Cross-Country Patterns
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 Democratic Transitions and Women's Rights Advancement: A Structural Pattern
 
@@ -38,7 +38,7 @@ The tension between secular feminist agendas and religious conservative coalitio
 
 ## Iran Context
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 The Woman Life Freedom Movement: Gender Rights as Regime Legitimacy Crisis
 
@@ -83,7 +83,7 @@ Unlike Tunisia's 1956 reforms (enacted by nationalist elites positioning moderni
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 **Institutional Mapping**
 

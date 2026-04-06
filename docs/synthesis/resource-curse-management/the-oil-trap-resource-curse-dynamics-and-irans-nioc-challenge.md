@@ -1,6 +1,6 @@
 ## Evidence & Key Findings
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
 
 Resource curse theory posits that countries with abundant natural resources often experience slower economic growth and weaker institutions than resource-poor counterparts—a paradox termed the "resource curse" (Venables, 2016). The foundational mechanisms are threefold: First, resource wealth creates fiscal dominance whereby governments derive revenue from resource extraction rather than taxation, reducing accountability to citizens and weakening democratic institutions. Second, exchange rate appreciation from resource exports undermines manufacturing competitiveness, narrowing the economic base. Third, resource volatility creates boom-bust cycles that destabilize macroeconomic management and undermine long-term investment in human capital and infrastructure.
 
@@ -10,7 +10,7 @@ The National Iranian Oil Company (NIOC) represents the institutional nexus throu
 
 ## Cross-Country Patterns
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
 
 Resource wealth fundamentally alters democratic transition dynamics by creating rentier states dependent on resource revenue rather than taxation. This inverts the standard social contract: citizens expect public goods in exchange for taxes, but when governments derive income from natural resources, populations have minimal leverage to demand accountability. Rentier dynamics interact perversely with democratization. During transitions, resource wealth can weaponize opposition through patronage and subsidies—observed in Venezuela, Saudi Arabia, and Iran.
 
@@ -18,7 +18,7 @@ Sanctions paradoxically create diversification pressures and reduce the fiscal c
 
 ## Iran Context
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
 
 Iran's resource curse manifests through NIOC's institutional capture by the Revolutionary Guard Corps. Yong's (2013) analysis documents NIOC as a contested political space reflecting power balances between technocratic management, presidential networks, and IRGC-affiliated entities. This capture undermines efficient resource management and sustainable fiscal policy, prioritizing factional patronage, military procurement, and parallel security apparatus funding escaping public budgetary oversight.
 
@@ -49,7 +49,7 @@ Critical analytical gaps remain in understanding Iran's resource curse dynamics:
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
 
 **Institutional Mapping:** Iran's resource curse operates through a specific institutional architecture. The **National Iranian Oil Company (NIOC)** is the formal custodian of oil and gas production but functions as a contested institutional space where **IRGC-affiliated entities**, **presidential factional networks**, and **technocratic managers** compete for control over revenue flows. **Khatam al-Anbiya Construction Headquarters** (قرارگاه سازندگی خاتم‌الانبیا), the IRGC's engineering and construction arm, has expanded from defense contracting into oil and gas infrastructure, pipeline construction, and petrochemical development, creating a parallel extraction economy. The **Supreme Leader's office** exercises ultimate authority over oil revenue allocation through the **National Development Fund** (صندوق توسعه ملی) and informal budgetary channels that bypass **Majles** oversight. The **Ministry of Petroleum** nominally coordinates sector policy but lacks autonomous authority when IRGC or Supreme Leader interests are engaged. The **Planning and Budget Organization** (سازمان برنامه و بودجه) attempts macroeconomic management but cannot control revenues flowing through parallel channels.
 

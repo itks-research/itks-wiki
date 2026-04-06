@@ -1,6 +1,6 @@
 ## Evidence & Key Findings
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 Iran's Post-Revolutionary Gender Legal Framework: Codification and Reversals
 
@@ -24,7 +24,7 @@ The جنبش زن زندگی آزادی movement of 2022-2023 crystallized these
 
 ## Cross-Country Patterns
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 Democratic Transitions and حقوق زنان Advancement: A Structural Pattern
 
@@ -38,7 +38,7 @@ The tension between secular feminist agendas and religious conservative coalitio
 
 ## Iran Context
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 The جنبش زن زندگی آزادی Movement: Gender Rights as Regime مشروعیت Crisis
 

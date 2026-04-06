@@ -1,5 +1,7 @@
 ## Evidence & Key Findings
 
+> 🟢 **Evidence Confidence: High** — South Korea CMR literature is among best-documented in comparative politics. Chung (2009), Kim & Kuehn (2022) are peer-reviewed longitudinal studies.
+
 South Korea's trajectory from military authoritarianism to civilian democracy is the most extensively documented success case in the civil-military literature — yet recent scholarship reveals how incomplete that success remains. Chung (2009) documents how "politics was the continuation of war by other means" under the security-dominated post-Korean War state. The election of civilian president Kim Young-sam in 1992 marked a critical inflection. His 1993 purge of the Hanahoe — a secret society of Korean Military Academy graduates centered on coup leaders Chun Doo-hwan and Roh Tae-woo — removed the informal power structure sustaining military political dominance. Over 1,000 officers were retired; the December 1995 arrest of Chun and 16 co-conspirators on insurrection charges signaled that military impunity was over. This decisive action carries direct implications for Iran, where informal networks within the IRGC command structure may prove as consequential as formal institutions.
 
 However, Kim and Kuehn (2022) present a significant corrective to the triumphalist narrative. Their analysis of 1,060 employees across 21 Ministry of National Defense departments reveals a persistent "clear cut between the military domain and the civilian domain within the MND." Professional soldiers retained effective decision-making power over critical policy areas despite 30 years of civilian efforts. Kim K-J (2014) similarly finds that parliamentary control through the National Defense Committee was formally established but limited in practice. Croissant (2011) places South Korea in comparative East Asian context, noting that both structural and agential factors — not just formal institutional design — determine outcomes.
@@ -8,9 +10,13 @@ Kuehn and Croissant's (2023) systematic six-case comparison confirms that defens
 
 ## Cross-Country Patterns
 
+> 🟢 **Evidence Confidence: High** — Civilianization-as-necessary-but-insufficient pattern is consistent across South Korea, Indonesia, and Spain case studies.
+
 The central pattern across cases is that civilianizing defense ministry leadership is necessary but insufficient. South Korea removed political generals and prosecuted coup leaders, yet internal bureaucratic structures preserved military decision-making dominance for decades. The information asymmetry between civilian appointees and career military officers creates a persistent advantage for uniformed personnel in policy debates. This finding suggests that "civilianization" must be understood as a multi-layered process: removing political control at the top, restructuring career pathways in the middle, and building civilian expertise at the working level. Each layer operates on a different timeline — years for the first, a decade for the second, a generation for the third.
 
 ## Iran Context
+
+> 🟡 **Evidence Confidence: Moderate** — Iran-specific analysis is inferential from structural comparison; no post-transition Iran CMR data exists by definition.
 
 For Iran, the civilianization challenge is compounded by institutional multiplicity. South Korea had one unified military establishment; Iran has at minimum five distinct security bodies (Artesh, IRGC, Basij, MOIS, FARAJA), each requiring its own civilianization process. The IRGC's economic autonomy adds a dimension South Korea never faced — in Seoul, budget control was a viable lever for civilian supremacy because the military depended on state appropriations. The IRGC generates its own revenue through Khatam al-Anbiya and the IRGC Cooperative Foundation, neutralizing this lever.
 
@@ -18,11 +24,15 @@ Furthermore, Iran lacks the external security guarantee that facilitated South K
 
 ## Open Research Questions
 
+> 🟡 **Evidence Confidence: Moderate** — Questions identify genuine empirical gaps; phased approach is plausible but untested in cases with Iran-like complexity.
+
 - Could a phased civilianization approach — starting with the Artesh (which has a more conventional military culture) before addressing the IRGC — create institutional precedents and build civilian expertise incrementally?
 - What role could Iran's military diaspora play in providing civilian defense expertise during a transition, given that pre-1979 officers had Western-style professional training?
 - How would parliamentary oversight of Iran's security sector function given the legacy of approbatory supervision by the Guardian Council, which has historically vetted candidates for ideological loyalty?
 
 ## Sources
+
+> 🟢 **Evidence Confidence: High** — Source attribution complete.
 
 | Source | Year | Key Finding |
 |--------|------|-------------|
@@ -34,6 +44,8 @@ Furthermore, Iran lacks the external security guarantee that facilitated South K
 
 ## Implications for Iran
 
+> 🟡 **Evidence Confidence: Moderate** — Institutional mapping accurate for public knowledge; classified aspects of IRGC-MODAFL relationship are unknown.
+
 **Institutional Mapping:** Iran's defense establishment lacks the unified structure that enabled South Korea's civilianization campaign. The relevant institutions include: the Ministry of Defense and Armed Forces Logistics (MODAFL, وزارت دفاع و پشتیبانی نیروهای مسلح), which nominally oversees defense procurement but lacks operational control; the IRGC General Staff, subordinate directly to the Supreme Leader; the Artesh General Staff (ستاد کل ارتش), the conventional military; the General Staff of the Armed Forces (ستاد کل نیروهای مسلح), theoretically coordinating all military branches but dominated by IRGC-aligned officers; the Basij Organization, formally under the IRGC but operationally semi-autonomous; and FARAJA (فرماندهی انتظامی), the law enforcement command restructured from NAJA in 2021. Each body maintains separate intelligence, logistics, and personnel systems. The Supreme National Security Council (شورای عالی امنیت ملی) serves as the civilian-military coordination body but is chaired by the president and dominated by security establishment representatives.
 
 **Structural Parallels:** South Korea's experience demonstrates that even three decades of sustained civilianization effort produces incomplete results — Kim and Kuehn's finding of a persistent "clear cut between military and civilian domains" within the Korean MND is a sobering benchmark. The parallel holds insofar as both Iran and South Korea feature deeply institutionalized military cultures with extensive political networks. However, it breaks down fundamentally in two dimensions. First, South Korea's military depended entirely on state appropriations, making budget control an effective lever for civilian supremacy (برتری نهاد غیرنظامی). The IRGC generates autonomous revenue through Khatam al-Anbiya, the Cooperative Foundation, and sanctions evasion networks, neutralizing this lever entirely. Second, the U.S.-ROK alliance provided the South Korean military with an external security guarantee that made civilian governance palatable — the military could accept civilian oversight because national defense was not solely its responsibility. Iran lacks any equivalent external reassurance, meaning IRGC commanders would perceive civilianization as a direct threat to national security rather than a reallocation of domestic roles.
@@ -41,6 +53,8 @@ Furthermore, Iran lacks the external security guarantee that facilitated South K
 **Key Actors and Sequencing:** The critical sequencing insight from South Korea is that prosecutorial action against informal power networks (Kim Young-sam's purge of the Hanahoe) preceded institutional reform. Iran's equivalent would target the بیت رهبری (Supreme Leader's house) networks that connect IRGC commanders, judiciary officials, and economic elites. However, Iran lacks the prosecutorial independence that enabled Kim Young-sam's action. Sequencing must therefore proceed differently: (1) establishing an independent defense oversight commission with international advisory support; (2) creating unified budgetary transparency across all five security bodies, requiring parliamentary appropriations committee authority over IRGC spending; (3) gradual transfer of Artesh operational planning to MODAFL civilian staff; (4) integrating FARAJA fully under Interior Ministry civilian authority; (5) addressing IRGC civilianization only after external security frameworks reduce institutional anxiety. The seminary system's (حوزه علمیه) role in IRGC officer ideological training means "democratic socialization" of the officer corps — Spain's key differentiator — requires engaging religious educational institutions, not just military academies.
 
 **Risks:** Premature civilianization without external security frameworks risks either a coup scenario (unlikely given fragmented structure but not impossible if IRGC commanders perceive existential threat) or institutional sabotage (more likely, where IRGC elements formally accept civilian oversight while maintaining parallel command structures). The "hollow reform" warning from Kim and Kuehn's Korean findings is the most probable Iranian outcome: formal civilianization producing institutions where military officers retain effective decision-making authority behind civilian facades. The ideological dimension adds a risk absent from the Korean case — civilianization challenges not just institutional power but theological legitimacy, meaning resistance will be framed as defense of Islam rather than defense of institutional prerogative, dramatically expanding the potential constituency for opposition.
+
+> 🟢 **Evidence Confidence: High** — Knowledge gaps are specific, empirically grounded, and traceable to absence of documented evidence.
 
 ## Knowledge Gaps
 
@@ -56,6 +70,8 @@ Civilianization requires civilian bureaucrats with defense policy expertise. Bui
 **Gap 4: International Technical Assistance Limitations**
 NATO's partnership programs facilitated CMR reform in Poland and the Czech Republic. These programs have no direct equivalents for non-NATO-track or hostile-relationship states. Whether functional equivalents can be developed for post-transition Iran is unexamined.
 
+
+> 🟢 **Evidence Confidence: High** — Plain-language summary accurately reflects article content without introducing new claims.
 
 ## General Reader Summary
 

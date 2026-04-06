@@ -1,6 +1,6 @@
 ## Evidence & Key Findings
 
-> 📎 **Source Alignment: 🟢 Strong** (75%)
+> 🟡 **Evidence Confidence: Moderate** —  | 📎 **Source Alignment: 🟢 Strong** (75%)
 
 Any future transitional justice process in Iran would inevitably confront the 1988 prison massacres as its foundational case. In August-September 1988, following a fatwa from Supreme Leader Khomeini, "Death Commissions" were formed across Iranian prisons to execute political prisoners. The first wave targeted supporters of the Mojahedin-e Khalq Organization; the second wave targeted leftist and communist prisoners. Death toll estimates range from 2,800-5,000 documented killings to claims of up to 30,000. The three-member Death Commissions operated entirely outside any judicial framework.
 
@@ -10,7 +10,7 @@ The case's political salience is heightened by the fact that alleged perpetrator
 
 ## Cross-Country Patterns
 
-> 📎 **Source Alignment: 🟡 Moderate** (73%)
+> 🟡 **Evidence Confidence: Moderate** —  | 📎 **Source Alignment: 🟡 Moderate** (73%)
 
 The 1988 case illustrates the temporal dynamics observed in Spain's amnesty reappraisal -- but compressed and intensified. Unlike Spain, where evidentiary documentation was sparse for decades, Iran's case has progressively accumulating evidence across multiple independently verifiable layers. Unlike Spain, where perpetrators had largely passed from public life before reappraisal began, Iran's perpetrators remained in power. This creates a TJ demand that is simultaneously well-documented, internationally classified at the highest legal standard, and politically explosive.
 
@@ -18,7 +18,7 @@ The pattern also demonstrates what might be called the "evidence accumulation ra
 
 ## Iran Context
 
-> 📎 **Source Alignment: 🟡 Moderate** (65%)
+> 🔴 **Evidence Confidence: Low** —  | 📎 **Source Alignment: 🟡 Moderate** (65%)
 
 The operational challenge is sequencing. A maximalist approach -- immediate prosecution of all identifiable Death Commission members and their superiors -- could alienate regime insiders whose cooperation is needed for a successful transition. Many mid-ranking security officials who were not involved in 1988 but participated in later crackdowns would interpret maximalist prosecution as a signal that no cooperation pathway exists. A minimalist approach -- deferring 1988 accountability in favor of forward-looking reforms -- would alienate the victim community, repeat Spain's error, and face immediate legal challenges through universal jurisdiction proceedings already developing in European courts.
 
@@ -52,7 +52,7 @@ The South Korean prosecution-pardon model suggests a middle path for the 1988 ca
 
 **Risks:** The sequencing dilemma is acute. Maximalist prosecution of all identifiable 1988 participants signals to current security officials that no cooperation pathway exists, potentially stiffening resistance to transition. Minimalist deferral repeats Spain's error and betrays victims who have campaigned for over three decades. The South Korean prosecution-pardon model offers the best available template: establish criminal liability through due process, then exercise clemency strategically. The specific risk is that perpetrator identification becomes a political tool — given that the 1988 massacres targeted primarily Mojahedin-e Khalq supporters and leftists, accountability could be instrumentalized by specific political factions rather than serving universal justice. A TJ process must address all victim communities equally and resist capture by any single political constituency. The prerequisite is early engagement with victim communities to establish expectations, timelines, and process legitimacy before political negotiations determine substantive outcomes.
 
-> 📎 **Source Alignment: 🟢 Strong** (80%)
+> 🟡 **Evidence Confidence: Moderate** — Knowledge gaps identified from systematic review of 1988 massacre documentation and TJ literature; Iran-specific gaps reflect active information suppression | 📎 **Source Alignment: 🟢 Strong** (80%)
 
 ## Knowledge Gaps
 
@@ -73,3 +73,5 @@ The South Korean prosecution-pardon model suggests a middle path for the 1988 ca
 ### Methodological Caveat
 
 This article synthesizes from a literature that is necessarily incomplete due to the Islamic Republic's active suppression of 1988-related documentation. Evidence confidence is accordingly lower than for cases where full state archives are available. The 1988 massacres are a case where the transition itself is a precondition for adequate documentation.
+
+In the summer of 1988, the Iranian government secretly executed thousands of political prisoners — primarily leftists and members of an opposition group — following a religious decree from Supreme Leader Khomeini. The United Nations formally classified these killings as crimes against humanity and genocide in a 2024 investigation, and leaked audio recordings provide direct evidence of senior officials who later held top government posts discussing the executions. Any serious process of accountability and healing in Iran's future would have to confront this event as its starting point, making it one of the most consequential and unavoidable issues in thinking about what justice might look like after the Islamic Republic.

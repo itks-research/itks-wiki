@@ -55,7 +55,7 @@ The Ennahda internal vote pattern is particularly instructive for Iran. Iran's c
 
 ## What We Don't Know
 
-> 📎 **Source Alignment: 🟡 Moderate** (70%)
+> 🟡 **Evidence Confidence: Moderate** —  | 📎 **Source Alignment: 🟡 Moderate** (70%)
 
 **Open Research Questions**
 
@@ -69,6 +69,6 @@ The Ennahda internal vote pattern is particularly instructive for Iran. Iran's c
 
 5. **Comparative Muslim-majority constitutional outcomes**: Is Tunisia's pre-2022 experience genuinely distinct from Indonesia, Morocco, Jordan, and Malaysia, or do they represent a spectrum of civil state variants? Systematic comparison of implementation across these cases is lacking.
 
-> 📎 **Source Alignment: 🟡 Moderate** (70%)
+> 🟡 **Evidence Confidence: Moderate** —  | 📎 **Source Alignment: 🟡 Moderate** (70%)
 
 Tunisia's 2014 constitution solved a dilemma that Iran will eventually face: how to write a constitution that affirms the country's Islamic identity without giving religious institutions legislative authority. The Tunisian "civil state" model — where Article 1 says "Islam is the religion of the state" but other articles establish civil courts and prohibit any single group from claiming religious authority — showed that this balance is constitutionally achievable. The critical mechanism was Ennahda's strategic decision to prioritize institutional survival over religious legislation. For Iran, the Tunisian model offers a template, but also a cautionary lesson: the 2022 reversal under President Saied shows that constitutional formulas alone don't guarantee stability — independent courts, a free press, and strong civil society are necessary to make them durable.

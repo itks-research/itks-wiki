@@ -1,13 +1,13 @@
 # Research Dashboard
 
-*Last updated: 2026-04-05 21:28*
+*Last updated: 2026-04-06 08:57*
 
 ## Summary
 
 | Metric | Count |
 |--------|-------|
-| Total Sources | 4930 |
-| Sources Scored | 4930 (100%) |
+| Total Sources | 4932 |
+| Sources Scored | 4932 (100%) |
 | Sources Translated (Farsi) | 0 (0%) |
 | Relationships Mapped | 6216 |
 | Synthesis Articles | 42 |
@@ -16,6 +16,10 @@
 
 | Article | Category | Status | Last Updated |
 |---------|----------|--------|-------------|
+| [Indonesia's Pancasila: Inclusive Monotheism and Its Limits](synthesis/indonesias-pancasila-inclusive-monotheism-and-its-limits.md) | Religious freedom and separation of religion from state | machine_generated | 2026-04-06 |
+| [Velayat-e Faqih: Iran's Unique Institutional Architecture](synthesis/velayat-e-faqih-irans-unique-institutional-architecture.md) | Religious freedom and separation of religion from state | machine_generated | 2026-04-06 |
+| [Stepan's Twin Tolerations and Post-Theocratic Governance](synthesis/stepans-twin-tolerations-and-post-theocratic-governance.md) | Religious freedom and separation of religion from state | machine_generated | 2026-04-06 |
+| [Post-Theocratic Transitions: Uncharted Territory](synthesis/post-theocratic-transitions-uncharted-territory.md) | Religious freedom and separation of religion from state | machine_generated | 2026-04-06 |
 | [Corruption, Rent-Seeking, and Patronage Networks in Transitional States](synthesis/corruption-rent-seeking-and-patronage-networks-in-transitional-states.md) | Corruption, rent-seeking, and patronage networks | machine_generated | 2026-04-04 |
 | [Demographic Transition and Urbanization Dynamics: Implications for Political Development](synthesis/demographic-transition-and-urbanization-dynamics-implications-for-political-deve.md) | Demographic transition and urbanization dynamics | machine_generated | 2026-04-04 |
 | [Diaspora Repatriation and Reintegration: Lessons for Iran's Post-Transition Recovery](synthesis/diaspora-repatriation-and-reintegration-lessons-for-irans-post-transition-recove.md) | Diaspora repatriation and reintegration | machine_generated | 2026-04-04 |
@@ -45,10 +49,6 @@
 | [Labor Market Dualism and Social Protection: South Korea, Spain, and Iran's Informal Economy](synthesis/labor-market-dualism-and-social-protection-south-korea-spain-and-irans-informal-.md) | Labor market reform and social safety nets | ai_reviewed | 2026-03-31 |
 | [Tunisia's Constitutional Compromise and the Civil State Model](synthesis/tunisias-constitutional-compromise-and-the-civil-state-model.md) | Religious freedom and separation of religion from state | machine_generated | 2026-03-29 |
 | [Turkey's Diyanet Model: State Control vs. Separation](synthesis/turkeys-diyanet-model-state-control-vs-separation.md) | Religious freedom and separation of religion from state | machine_generated | 2026-03-29 |
-| [Indonesia's Pancasila: Inclusive Monotheism and Its Limits](synthesis/indonesias-pancasila-inclusive-monotheism-and-its-limits.md) | Religious freedom and separation of religion from state | machine_generated | 2026-03-29 |
-| [Velayat-e Faqih: Iran's Unique Institutional Architecture](synthesis/velayat-e-faqih-irans-unique-institutional-architecture.md) | Religious freedom and separation of religion from state | machine_generated | 2026-03-29 |
-| [Stepan's Twin Tolerations and Post-Theocratic Governance](synthesis/stepans-twin-tolerations-and-post-theocratic-governance.md) | Religious freedom and separation of religion from state | machine_generated | 2026-03-29 |
-| [Post-Theocratic Transitions: Uncharted Territory](synthesis/post-theocratic-transitions-uncharted-territory.md) | Religious freedom and separation of religion from state | machine_generated | 2026-03-29 |
 | [Religious Freedom and Separation of Religion from State](synthesis/religious-freedom-and-separation-of-religion-from-state.md) | Religious freedom and separation of religion from state | machine_generated | 2026-03-29 |
 | [Transitional Justice: Accountability, Memory, and Institutional Design](synthesis/transitional-justice-accountability-memory-and-institutional-design.md) | Transitional justice | machine_generated | 2026-03-29 |
 | [Constitutional Design and Drafting Processes](synthesis/constitutional-design-and-drafting-processes.md) | Constitutional design and drafting processes | machine_generated | 2026-03-29 |
@@ -85,7 +85,7 @@
 |------------|---------|--------|---------------|
 | [Iran](case-studies/iran.md) | 4317 | 4317 | 2.6 |
 | [Chile](case-studies/chile.md) | 1874 | 1874 | 2.5 |
-| [Poland](case-studies/poland.md) | 1475 | 1171 | 3.0 |
+| [Poland](case-studies/poland.md) | 1475 | 1475 | 2.9 |
 | [Indonesia](case-studies/indonesia.md) | 702 | 702 | 2.4 |
 | [South Korea](case-studies/south-korea.md) | 454 | 454 | 2.9 |
 | [Spain](case-studies/spain.md) | 341 | 341 | 2.9 |

@@ -56,7 +56,7 @@ The Spanish experience counsels that some form of structured accountability -- e
 
 **Risks:** The Spain precedent identifies the core risk precisely: amnesty purchases short-term stability but generates long-term democratic fragility. For Iran, this risk is amplified by scale and recency. However, the opposite risk is equally real: maximalist accountability demands that convince security establishment insiders they have no path to personal safety could trigger violent resistance to transition rather than negotiated handover. The Vox party's exploitation of memory politics in Spain warns that transitional justice can be instrumentalized by revanchist political forces — in Iran, hardline factions could mobilize against accountability processes by framing them as victors' justice or Western-imposed punishment. The prerequisite for navigating between these risks is a credible, legally grounded framework established before transition that offers clear rules: which violations trigger prosecution, which trigger truth-telling obligations, and which fall below the threshold of formal accountability.
 
-> 📎 **Source Alignment: 🟢 Strong** (85%)
+> 🟢 **Evidence Confidence: High** — Knowledge gaps derived from systematic review of what the cited sources do and do not address. | 📎 **Source Alignment: 🟢 Strong** (85%)
 
 ## Research Gaps and Knowledge Limitations
 
@@ -69,6 +69,6 @@ Spain's 1977 Amnesty Law is often cited as evidence that accountability generate
 ### Gap 3: Iran-Specific Accountability Feasibility
 No published research has conducted a systematic assessment of Iran-specific accountability feasibility: which perpetrators are prosecutable under international law, where documentary evidence exists, which institutions would have jurisdiction, and what political conditions would make prosecution viable during a transition.
 
-> 📎 **Source Alignment: 🟢 Strong** (85%)
+> 🟢 **Evidence Confidence: High** — Summary accurately reflects the evidence and argument of the article. | 📎 **Source Alignment: 🟢 Strong** (85%)
 
 Spain's 1977 amnesty law — which guaranteed full impunity for all crimes committed during Franco's dictatorship — is often cited as a model for successful transitions through forgiveness rather than prosecution. This article challenges that reading: forty years later, Spain's courts were still grappling with Franco-era crimes, families were still demanding answers, and political polarization around historical memory remained intense. For Iran, the lesson is sobering: any future amnesty arrangement for Islamic Republic officials would face even more intense long-term pressure, given Iran's large diaspora, the scale of documented violations including the 1988 prison massacres, and the availability of international legal mechanisms that did not exist in 1977.

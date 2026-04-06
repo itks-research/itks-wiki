@@ -53,7 +53,7 @@ This model is particularly relevant for mid-ranking officials in the IRGC, judic
 
 ## What We Don't Know
 
-> 📎 **Source Alignment: 🟡 Moderate** (70%)
+> 🟡 **Evidence Confidence: Moderate** —  | 📎 **Source Alignment: 🟡 Moderate** (70%)
 
 **Open Research Questions**
 
@@ -67,6 +67,6 @@ This model is particularly relevant for mid-ranking officials in the IRGC, judic
 
 5. **Interaction with amnesty provisions**: How do partial amnesty provisions (common in transition bargaining) interact with deterrence calculations? Does conditional amnesty increase or decrease the credibility of prosecution threats?
 
-> 📎 **Source Alignment: 🟡 Moderate** (70%)
+> 🟡 **Evidence Confidence: Moderate** —  | 📎 **Source Alignment: 🟡 Moderate** (70%)
 
 Can prosecuting former human rights abusers deter future violations? The evidence says yes — but the mechanism is more complex than simple punishment threat. Kim and Sikkink's landmark study shows that countries with prosecution records have better subsequent human rights outcomes, but the causal pathway involves international norms diffusion, civil society pressure, and institutional design as much as direct deterrence of potential perpetrators. For Iran, this matters because any transition will involve decisions about how to handle IRGC commanders, prison officials, and intelligence officers responsible for documented atrocities. The evidence suggests that prosecution of high-level commanders, even when incomplete, produces better long-term outcomes than blanket amnesty — but the design of prosecution mechanisms matters enormously for both justice and political sustainability.

@@ -1,6 +1,6 @@
 ## Evidence & Key Findings
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 EVIDENCE: Layered Architecture of Iran Sanctions and the JCPOA Paradox
 
@@ -16,7 +16,7 @@ The IRGC designation complicates sectoral relief pathways. The Guards control ma
 
 ## Cross-Country Patterns
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 PATTERNS: Institutional Lock-In Mechanisms in Sanctions Regimes
 
@@ -32,7 +32,7 @@ Sanctions regimes develop institutional lock-in through four reinforcing mechani
 
 ## Iran Context
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 IRAN'S UNIQUE SANCTIONS CHALLENGE: Economic Adaptation and Vested Interests
 
@@ -78,7 +78,7 @@ Average reliability score: 4.66
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 **Institutional Mapping**
 

@@ -1,6 +1,6 @@
 ## Evidence & Key Findings
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
 
 نفرین منابع theory posits that countries with abundant natural resources often experience slower economic growth and weaker institutions than resource-poor counterparts—a paradox termed the "نفرین منابع" (Venables, 2016). The foundational mechanisms are threefold: First, resource wealth creates fiscal dominance whereby governments derive revenue from resource extraction rather than taxation, reducing پاسخگویی to citizens and weakening نهادهای دموکراتیک. Second, exchange rate appreciation from resource exports undermines manufacturing competitiveness, narrowing the economic base. Third, resource volatility creates boom-bust cycles that destabilize macroeconomic management and undermine long-term investment in human capital and infrastructure.
 
@@ -10,7 +10,7 @@ The National Iranian Oil Company (NIOC) represents the institutional nexus throu
 
 ## Cross-Country Patterns
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
 
 Resource wealth fundamentally alters گذار دموکراتیک dynamics by creating rentier states dependent on resource revenue rather than taxation. This inverts the standard social contract: citizens expect public goods in exchange for taxes, but when governments derive income from natural resources, populations have minimal leverage to demand پاسخگویی. Rentier dynamics interact perversely with democratization. During transitions, resource wealth can weaponize opposition through patronage and subsidies—observed in Venezuela, Saudi Arabia, and Iran.
 
@@ -18,7 +18,7 @@ Sanctions paradoxically create diversification pressures and reduce the fiscal c
 
 ## Iran Context
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
 
 Iran's نفرین منابع manifests through NIOC's تسخیر نهادی by the Revolutionary Guard Corps. Yong's (2013) analysis documents NIOC as a contested political space reflecting power balances between technocratic management, presidential networks, and سپاه پاسداران انقلاب اسلامی-affiliated entities. This capture undermines efficient resource management and sustainable fiscal policy, prioritizing factional patronage, military procurement, and parallel security apparatus funding escaping public budgetary oversight.
 

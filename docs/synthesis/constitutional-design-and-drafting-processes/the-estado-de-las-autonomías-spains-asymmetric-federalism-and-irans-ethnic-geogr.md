@@ -1,6 +1,6 @@
 ## Evidence & Key Findings
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 Spain's 1978 constitutional framework created the "Estado de las Autonomías" (State of Autonomies) as a novel middle path between federalism and unitarism, fundamentally reshaping how post-authoritarian states organize territory and ethnicity. During the transition from Franco's centralized dictatorship, Spanish architects confronted a territorial question complicated by distinct historical nations—Catalonia, the Basque Country, and Galicia—each with separate linguistic and cultural traditions demanding recognition.
 
@@ -12,7 +12,7 @@ The 2017 Catalan independence crisis tested this design to destruction. When Mad
 
 ## Cross-Country Patterns
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 Post-authoritarian constitutional designers face an enduring dilemma: whether to grant equal autonomy to all regions (symmetry) or to accommodate historically mobilized nations through differentiated powers (asymmetry). Symmetry offers democratic elegance and prevents resentment among regions denied special status, but fails to address why some territories possess institutionalized national movements with centuries of distinct governance. Asymmetry recognizes political reality and historical difference, but generates zero-sum conflicts where denied regions demand equal treatment.
 
@@ -24,7 +24,7 @@ The Spanish model's broader applicability depends on institutional prerequisites
 
 ## Iran Context
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 Iran's territorial organization challenges mirror Spain's in some respects but differ fundamentally in others. The Islamic Republic confronts four regions with significant non-Persian, non-Shia identities: Kurdistan (Sunni Kurdish population, ~2.5% of Iran), Azerbaijan (ethnically Turkic, ~25% of population, substantial in northwest), Khuzestan (Arab identity and separatist history, ~2-3%), and Baluchistan (Sunni Baluch minority, ~2%). Unlike Spain's Catalan and Basque questions, these are not nationalist movements rooted in pre-modern polities but modern ethnic categories crystallized through 20th-century nation-building and minority consciousness. Kurds and Baluchs belong to larger stateless nations spanning Iraq, Syria, Turkey, and Pakistan; Azerbaijanis are affiliated with the Republic of Azerbaijan; Arabs have broader Pan-Arab consciousness. Iran's minorities thus face cross-border pull in ways Spanish nationalists did not.
 
@@ -57,7 +57,7 @@ Sources Referenced:
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
 **Institutional Mapping**
 

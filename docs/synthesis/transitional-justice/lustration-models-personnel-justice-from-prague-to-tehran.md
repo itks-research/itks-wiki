@@ -1,6 +1,6 @@
 ## Evidence & Key Findings
 
-> 📎 **Source Alignment: 🟡 Moderate** (74%)
+> 🟡 **Evidence Confidence: Moderate** —  | 📎 **Source Alignment: 🟡 Moderate** (74%)
 
 Central European lustration experiences offer Iran concrete institutional design options for addressing the personnel dimension of transitional justice -- what to do with officials of the former regime who staffed the security, judicial, and administrative apparatus. Three distinct models emerged from the post-communist transitions, each with documented outcomes.
 
@@ -10,7 +10,7 @@ Hungary adopted an exposure-based model from 1994 to 2003 without mandatory cons
 
 ## Cross-Country Patterns
 
-> 📎 **Source Alignment: 🟡 Moderate** (72%)
+> 🟡 **Evidence Confidence: Moderate** —  | 📎 **Source Alignment: 🟡 Moderate** (72%)
 
 The core pattern is that lustration design determines whether a society achieves trust, reconciliation, or both. Exclusionary systems (Czech model) establish institutional trust through decisive action but sacrifice social cohesion. Exposure-only systems (Hungarian model) achieve neither reliably. Confession-based systems (Polish model) can achieve both trust and reconciliation, but only if the confession mechanism is perceived as genuine rather than performative.
 
@@ -18,7 +18,7 @@ A second pattern is that lustration scope must be calibrated to institutional ca
 
 ## Iran Context
 
-> 📎 **Source Alignment: 🟡 Moderate** (65%)
+> 🔴 **Evidence Confidence: Low** —  | 📎 **Source Alignment: 🟡 Moderate** (65%)
 
 Iran's lustration challenge dwarfs Central Europe's in scope. The Czech Republic screened half a million people for StB collaboration; Iran would need to address personnel of the IRGC (estimated 125,000+ active), Basij (potentially millions of members at varying levels of involvement), the judiciary (thoroughly politicized under decades of theocratic governance), intelligence services, the Friday Prayer network, and seminary-linked governance structures. A Czech-style exclusionary model would be operationally impossible -- there are simply too many individuals with regime connections to exclude from public life without paralyzing state functions.
 
@@ -55,7 +55,7 @@ A Polish-style confession model offers a more viable template for Iran. Individu
 
 **Risks:** The primary risk is operational paralysis — if lustration is too broad, the state loses the institutional capacity to function. Iran cannot simultaneously exclude from public service hundreds of thousands of IRGC members, judiciary officials, and governance-track clerics without paralyzing state administration, national defense, and basic public services. This argues decisively for the confession-based (Polish) model over the exclusionary (Czech) model. A second risk is that lustration becomes a tool of political revenge rather than institutional transformation — former opposition groups using vetting processes to settle scores rather than establish accountability. The Basij present the most complex case: at the organizational core are committed regime enforcers who directed violence; at the periphery are millions who obtained Basij membership cards for practical benefits (subsidized goods, university admission quotas, employment preferences). A lustration process that treats both categories identically would be both unjust and operationally impossible.
 
-> 📎 **Source Alignment: 🟢 Strong** (78%)
+> 🟡 **Evidence Confidence: Moderate** — Knowledge gaps drawn from systematic review of lustration literature; Iran-specific scale estimates flagged as uncertain | 📎 **Source Alignment: 🟢 Strong** (78%)
 
 ## Knowledge Gaps
 

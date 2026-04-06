@@ -1,4 +1,4 @@
-> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 ## Evidence: Cultural Heritage as Political Resource During Institutional Transition
 
@@ -12,7 +12,7 @@ Iran presents a more complex case of layered cultural heritage competition. The 
 
 These cases demonstrate a consistent pattern: institutional transitions do not occur in a cultural vacuum. Rather, societies navigate change by selectively deploying, reinterpreting, or suppressing cultural heritage in service of legitimating new institutional arrangements. Heritage functions as a resource—sometimes constraining, sometimes enabling the institutional possibilities available to transitional societies.
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 ## Patterns: Tradition and Institutional Modernization
 
@@ -28,7 +28,7 @@ This tension manifests in three recurring patterns:
 
 These patterns suggest that institutional change is not merely a technical legal or organizational matter; it is fundamentally a cultural-hermeneutical process of reinterpreting heritage to legitimate new institutional frameworks.
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 ## Iran: Layered Cultural Identity and Institutional Design
 
@@ -66,7 +66,7 @@ Constitutional and institutional design must navigate these three heritage claim
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 **Institutional Mapping:** The politics of cultural heritage in Iran engages a complex institutional landscape. **IRIB** (Islamic Republic of Iran Broadcasting) controls the dominant narrative apparatus, systematically foregrounding Islamic revolutionary identity while marginalizing pre-Islamic Persian heritage in state media. The **Ministry of Cultural Affairs and Islamic Guidance** (وزارت فرهنگ و ارشاد اسلامی) regulates publishing, cinema, music, and cultural production, enforcing ideological boundaries on which heritage traditions receive institutional support. The **howzeh** (حوزه علمیه) seminary system in Qom shapes the theological framework within which cultural identity is officially interpreted. **Sazman-e Miras-e Farhangi** (Cultural Heritage Organization) manages archaeological sites and museums, operating under tension between preservation mandates and ideological constraints on pre-Islamic celebration. The **Supreme Council of the Cultural Revolution** (شورای عالی انقلاب فرهنگی), appointed by the Supreme Leader, sets overarching cultural policy and has historically suppressed expressions of Persian nationalist identity deemed incompatible with Islamic governance.
 

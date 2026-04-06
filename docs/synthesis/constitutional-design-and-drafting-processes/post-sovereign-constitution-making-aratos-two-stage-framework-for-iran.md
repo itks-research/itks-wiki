@@ -1,6 +1,6 @@
 ## Evidence & Key Findings
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
 
 Andrew Arato's Post Sovereign Constitution Making (2016) provides the theoretical framework most directly applicable to Iran's situation. Arato distinguishes three models of constitution-making: revolutionary, where a constituent assembly claims sovereign power to create a new order ex nihilo; imposed, where existing authorities decree a constitution; and post-sovereign, where multiple actors negotiate a constitutional settlement that none fully controls.
 
@@ -14,7 +14,7 @@ Arato's framework for post-sovereign constitution-making encounters its most sev
 
 ## Cross-Country Patterns
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
 
 The post-sovereign model addresses a fundamental tension in constitutional design: how to create a democratic founding document through a process that is itself democratically constrained. Revolutionary constituent assemblies claim unlimited power, which risks majoritarian overreach (as Chile demonstrated). Imposed constitutions lack democratic legitimacy. The two-stage model resolves this by separating the procedural framework (negotiated at the roundtable) from the substantive constitution (drafted by an elected assembly within that framework).
 
@@ -24,7 +24,7 @@ Three critical constraints emerge from Iran's constitutional history. First, con
 
 ## Iran Context
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
 
 Arato's framework is the most promising procedural template for Iran, but its application requires significant adaptation. The model assumes that existing regime actors are willing to negotiate, which may not hold for Iran's hardline elements: the Supreme Leader's office, the IRGC leadership, and the Guardian Council. However, the model does not require all regime actors to participate, only a critical mass sufficient to prevent violent spoiling. If a transition creates conditions where a significant portion of the existing establishment (reformist clerics, pragmatic military commanders, technocratic administrators) calculates that negotiation offers better prospects than resistance, the roundtable stage becomes feasible.
 
@@ -54,7 +54,7 @@ Kar (2003) and Samii (2001) provide the critical assessment: constitutional cons
 
 ## Implications for Iran
 
-> ⚫ **Evidence Confidence: Very Low** — No sources cited; strong claims with limited sources
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
 
 **Institutional Mapping:** Arato's two-stage framework maps onto specific Iranian institutional requirements. Stage 1 (roundtable) must produce agreement on: the abolition of ولایت فقیه as a governance principle; the framework for religion-state relations (civil state model); the security sector's future (IRGC dissolution, transformation, or integration timeline); the territorial structure (unitary with devolution, federal, or asymmetric); interim governance arrangements during the constitutional process; and rules for the Stage 2 elected assembly. The institutions that would participate include: existing state actors willing to negotiate (potentially reformist clerics, pragmatic military commanders, technocratic administrators from the مجمع تشخیص مصلحت نظام/Expediency Council), opposition political formations, ethnic community organizations, religious minority representatives, women's movement organizations, diaspora representatives, and international mediators. Stage 2 (elected assembly) would draft the permanent constitution within the roundtable's constraints, with a constitutional court — established at Stage 1 — providing oversight.
 
@@ -63,3 +63,17 @@ Kar (2003) and Samii (2001) provide the critical assessment: constitutional cons
 **Key Actors and Sequencing:** The central question is whether Arato's model can work when significant regime actors refuse to negotiate. The framework does not require universal participation — only a critical mass sufficient to prevent violent spoiling. Three scenarios: (1) Negotiated transition: sufficient establishment elements (reformist clerics, pragmatic IRGC commanders, technocratic administrators) calculate that negotiation offers better prospects than resistance. This is the optimal scenario for the two-stage model. The roundtable would need to offer credible incentives: guaranteed pension and economic security for military personnel, institutional preservation of the حوزه as an autonomous religious body, amnesty or graduated accountability for lower-level participants. (2) Collapse transition: regime falls through accumulated pressure (economic crisis, succession crisis, security apparatus fracture) without negotiated handover. The two-stage model applies with modifications: opposition forces and civil society conduct the Stage 1 roundtable among themselves, without regime participants, establishing principles for the constituent assembly. Risk: excluded regime elements become spoilers. (3) Hybrid transition: partial regime participation, with some institutions cooperating and others resisting. This is the most likely scenario and the most complex for the two-stage framework — requiring adaptive design that incorporates willing participants while managing resistant ones.
 
 **Risks:** Kar (2003) identifies the foundational risk: constitutional constraints function only through institutions that voluntarily enforce them. The 1979 Constitution contains explicit rights protections that have been systematically non-enforced — demonstrating that constitutional text without institutional commitment is insufficient. Samii (2001) shows the Guardian Council as a structural obstacle designed to prevent democratic governance. Tarock (2002) documents repeated reform attempts (1989, 1997-2005, 2009-2010, 2015-2019) blocked by security actors. The collective lesson: Arato's framework assumes that constitution-making can create new normative frameworks that constrain future behavior, but Iran's experience demonstrates that executive and security authorities will recognize the threat and attempt to block the constitutionalizing process itself. The prerequisite for the two-stage model is either security apparatus fragmentation (creating competing constituencies within the IRGC and military that prevent unified resistance) or sufficient external pressure to make resistance costlier than participation. Constitution-making alone cannot engineer these conditions — political strategy must create them before the constitutional process can succeed.
+
+## Knowledge Gaps
+
+**The roundtable stage requires willing regime participants — a precondition the framework cannot engineer.** Arato's model assumes a critical mass of regime actors willing to negotiate but provides no mechanism for generating this condition. As Tarock (2002) and Kar (2003) document, every prior Iranian reform attempt has been blocked by security actors who calculated resistance was preferable to constraint. The framework cannot explain how this calculus changes, and the political strategy required lies outside the constitutional design literature.
+
+**South Africa's two-dimensionality versus Iran's multi-dimensionality is acknowledged but not bridged.** South Africa's essentially racial power negotiation was structurally simpler than Iran's five-dimensional problem (religious authority, ethnic claims, military interests, economic structure, political power). No comparative evidence from cases involving simultaneously multi-dimensional constitutional negotiation is engaged to assess whether such complexity is manageable or requires sequential treatment.
+
+**Constitutional court design is underspecified.** The South African Constitutional Court's return of the first draft is cited as evidence of genuine enforcement capacity, but the specific institutional features that produced this capacity — appointment process, jurisdiction, enforcement mechanisms — are not analyzed. For Iran, where the Guardian Council demonstrates how oversight can become an instrument of power concentration, the design question is critical and underaddressed.
+
+**Interim governance arrangements are unaddressed.** The period between a Stage 1 roundtable and a ratified final constitution requires workable governance. What arrangements would sustain Iran during an extended constitutional process — given IRGC economic penetration, sanctions-damaged infrastructure, and potential regional destabilization — is not engaged.
+
+**The role of external actors in Stage 1 is undertheorized.** Arato's framework focuses on domestic constitutional engineering, but Iran's transition would occur amid intense international involvement — regional powers, sanctions architecture, nuclear agreement implications. How external actors might facilitate or undermine the roundtable stage is not assessed.
+
+Political theorist Andrew Arato developed a framework for how deeply divided societies can write new constitutions without any single faction seizing control of the process — first, representatives of different groups negotiate agreed ground rules, and then a separately elected body writes the actual constitution within those rules, with an independent court to ensure the rules are followed. This two-stage approach helped produce successful transitions in Spain, Poland, Hungary, and most notably South Africa. For Iran, it is the most promising constitutional design model available, but it faces a fundamental obstacle: it requires a critical mass of the existing establishment to be willing to negotiate at all, and Iran's system has been specifically designed to prevent those actors from accepting constitutional constraints on their power.

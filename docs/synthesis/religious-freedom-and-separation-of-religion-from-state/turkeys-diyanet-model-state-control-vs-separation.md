@@ -51,7 +51,7 @@ Iran's religious landscape adds complexity that Turkey's Diyanet model cannot ac
 
 ## What We Don't Know
 
-> 📎 **Source Alignment: 🟡 Moderate** (70%)
+> 🟡 **Evidence Confidence: Moderate** —  | 📎 **Source Alignment: 🟡 Moderate** (70%)
 
 **Open Research Questions**
 
@@ -65,6 +65,6 @@ Iran's religious landscape adds complexity that Turkey's Diyanet model cannot ac
 
 5. **Legitimacy comparison**: Is state-controlled religious provision actually more legitimate to ordinary believers than market-based provision? Survey evidence from Turkey, Iran, and Indonesia comparing religious institution trust by institutional model would directly address this — and does not exist.
 
-> 📎 **Source Alignment: 🟡 Moderate** (70%)
+> 🟡 **Evidence Confidence: Moderate** —  | 📎 **Source Alignment: 🟡 Moderate** (70%)
 
 Turkey's Directorate of Religious Affairs (Diyanet) offers a model of how a state can maintain official involvement in religion without granting religious institutions governing authority — a "managed religious establishment" rather than either theocracy or strict secularism. The Diyanet employs 80,000+ imams, controls mosque content, sets religious education standards, and issues fatwas — but does so under civilian state authority, not clerical authority. For Iran, this matters because a post-velayat-e faqih transition will face pressure to completely separate religion from state, but eliminating all state-religion connection may be politically impossible in a society where most people are practicing Muslims. The Diyanet model suggests a middle path — but one that requires either negotiating with or overcoming Iran's far more institutionally powerful clerical establishment, which the Turkish secular establishment largely destroyed in the early 20th century rather than accommodating.
