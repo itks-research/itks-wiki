@@ -95,6 +95,5 @@
 ### منابع
 
 1. [Cultural Heritage as Political Resource: Confucian Values, Revolutionary Memory, and Iran's Pre-Islamic Identity](cultural-heritage-as-political-resource-confucian-values-revolutionary-memory-an.md)
-2. [The Impact of Institutional Change on Cultural Heritage Preservation](the-impact-of-institutional-change-on-cultural-heritage-preservation.md)
 
 </div>

@@ -4,7 +4,7 @@
 
 *اقتصادی* · 1 مقاله · 52 منبع
 
-- [پیش‌بینی‌های تحلیلی برای اصلاح نظام بانکی ایران](financial-liberalization-sequencing-south-koreas-1997-crisis-and-implications-for-iran.md)
+- [پیش‌بینی‌های تحلیلی برای اصلاح نظام بانکی ایران](financial-liberalization-sequencing-south-koreas-1997-crisis-and-implications-fo.md)
 
 
 ## مقدمه
@@ -47,14 +47,6 @@
 در این صفحه، به برخی از منابعی اشاره شده است که در اصلاحات نظام بانکی و مالی ایران مفید هستند:
 
 
-*   [Financial Liberalization Sequencing: South Korea's 1997 Crisis and Implications for Iran's Banking Overhaul](financial-liberalization-sequencing-south-koreas-1997-crisis-and-implications-for-iran.md)
-
-
-## جستارهای وابسته
-در این صفحه، به برخی از موضوعاتی اشاره شده است که در اصلاحات نظام بانکی و مالی ایران مفید هستند:
-
-
-*   [اصلاحات اقتصادی](economic-reform.md)
-*   [اصلاحات سیاسی](political-reform.md)
+*   [Financial Liberalization Sequencing: South Korea's 1997 Crisis and Implications for Iran's Banking Overhaul](financial-liberalization-sequencing-south-koreas-1997-crisis-and-implications-fo.md)
 
 </div>
