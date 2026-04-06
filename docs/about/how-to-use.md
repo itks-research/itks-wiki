@@ -11,7 +11,10 @@ Start here for thematic deep dives. We have **84 synthesis articles across 40 re
 Explore by country. **11 case studies** (Iran, South Korea, Spain, Poland, Indonesia, Tunisia, Czech Republic, Chile, Egypt, Russia, Turkey) each show sources organized by research category, with links to the most relevant papers. Compare how different countries addressed similar governance and economic challenges.
 
 ### Transition Mechanisms
-Discover **20 transition mechanisms** — the structural reforms and governance models that have worked across different countries and contexts. Each mechanism page shows how it was implemented in different case studies and what evidence suggests about its effectiveness.
+Discover **20 transition mechanisms** — the structural reforms and governance models that have worked across different countries and contexts. Each mechanism page shows its description, context requirements, expected outcomes, and Iran applicability testing results, sorted by applicability score.
+
+### Topic Analysis
+The **Topic Analysis** section offers structured, context-aware analysis of 44 research topics organized by domain (Governance, Economy, Society, Security, Iran-Specific, External Relations). These pages include overview, theoretical framework, comparative evidence, cross-case patterns, Iran relevance, knowledge gaps, and linked sources — designed for systematic reading across the full scope of transition research.
 
 ### Source Explorer
 Use the [Source Explorer](../explorer.md) when you want to find specific papers. You can:

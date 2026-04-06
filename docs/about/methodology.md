@@ -56,7 +56,7 @@ Synthesis is organized in a four-tier architecture:
 
 ## Transition Mechanisms
 
-ITKS identifies and traces twenty defined causal mechanisms linking institutional changes to outcomes—for example, military defection during transition, constitutional lock-in preventing reversal, collapse of information control systems, or elite preference shifts. Each mechanism receives Iran Applicability Scoring to assess whether it's relevant to Iran's specific context.
+ITKS identifies and traces twenty defined causal mechanisms linking institutional changes to outcomes—for example, military defection during transition, constitutional lock-in preventing reversal, collapse of information control systems, or elite preference shifts. Each mechanism has a dedicated wiki page with its description, context requirements, expected outcomes, typical triggers, and Iran Applicability Scoring based on cross-case testing.
 
 ## Master Question Framework
 
