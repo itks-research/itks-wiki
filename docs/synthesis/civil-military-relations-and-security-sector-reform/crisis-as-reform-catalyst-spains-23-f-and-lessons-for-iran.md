@@ -77,3 +77,7 @@ The most significant gap for applying the 23-F lesson to Iran is the absence of 
 ### Methodological Caveat
 
 This article synthesizes from Spanish transition scholarship. The Spain case is well-documented but represents a single observation of a crisis-to-reform sequence. The generalizability of the mechanism depends on additional cases, several of which are examined elsewhere in the ITKS (South Korea, Poland). Cross-case synthesis would strengthen the mechanism specification.
+
+## Summary for General Readers
+
+Spain's 1981 attempted coup — the "23-F" incident when Colonel Tejero seized the parliament at gunpoint — paradoxically accelerated democratic consolidation rather than derailing it, because King Juan Carlos publicly sided with democracy and reformers had institutional plans ready to implement when the crisis passed. The lesson for Iran is not that crises are good, but that crisis moments create compressed windows for institutional change that reformers either have plans to exploit or lose to those who want to maintain the status quo. Whether a future moment of instability in Iran opens toward democratic reform or military consolidation will depend largely on whether civilian reformers have credible coordination mechanisms, institutional blueprints, and prepared political alliances — not on improvisation in the moment.
