@@ -82,3 +82,13 @@ The primary danger is the Egyptian trap: extraordinary street mobilization that 
 | Aouragh, M. & Chakravartty, P. | 2016 | Arab Spring digital media analysis must attend to geopolitical 'infrastructures of empire' |
 | Mahmood, S. | 2006 | Agency and resistance must be understood on local terms, not imposed Western categories |
 | Wu, F. & Martus, E. | 2020 | Contested environmentalism enables civic participation under authoritarian constraints |
+
+## Overview
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (27 sources)
+
+How do popular uprisings against authoritarian regimes begin, survive repression, and — sometimes — achieve lasting political change? This page synthesizes comparative research on protest movements and contentious politics, aiming to distill what scholars have learned from cases spanning Morocco, the Arab Spring states, and beyond into lessons applicable to Iran's own accelerating cycle of mobilization.
+
+The evidence draws on studies of protest initiation, the dynamics of state repression, the role of digital communications, and the organizational challenges movements face when trying to translate street power into durable political outcomes. A central finding is that repression rarely extinguishes protest over the long run — it tends instead to radicalize the next generation of activists through intergenerational transmission of grievance.
+
+Iran's context gives these findings particular urgency. The 2009 Green Movement, the 2017–18 economic protests, the November 2019 uprising, and the 2022 Woman Life Freedom movement form a pattern of escalating scope, broader social composition, and increasingly explicit demands for systemic change. Each wave has drawn on communities shaped by earlier rounds of state violence. What comparative research cannot yet fully answer is how a movement without formal organizational infrastructure converts mobilization into governing capacity — precisely the gap that makes Iran's situation both analogous to and distinct from precedent cases. The sections below work through the evidence on each phase of this problem.

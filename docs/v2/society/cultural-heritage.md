@@ -2,6 +2,8 @@
 
 ***Sources:** 93 | **Last Updated:** 2026-04-05*
 
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources)
+
 ## Evidence: Cultural Heritage as Political Resource During Institutional Transition
 
 The mobilization of cultural heritage during periods of institutional transformation reveals patterns of strategic legitimation across diverse political contexts. When societies undergo constitutional or revolutionary change, their relationship to historical memory and cultural identity becomes a central arena for negotiating new institutional frameworks.
@@ -13,6 +15,8 @@ Similarly, Chile's transition from Pinochet's military regime involved sustained
 Iran presents a more complex case of layered cultural heritage competition. The Islamic Republic's 1979 revolutionary constitution deliberately effaced the Pahlavi regime's cultivation of pre-Islamic Persian identity while simultaneously claiming continuity with a specifically Islamic Iranian past. Vanessa Martín's work on the Constitutional Revolution (2013) and Robert Steele's analysis of the Pahlavi coronation rituals (2021) together illustrate how successive institutional regimes—from Qajar constitutionalism to Pahlavi modernism to Islamic republicanism—each mobilized competing visions of Iran's cultural heritage to legitimize their respective institutional projects. The pre-Islamic/Sasanian heritage that Mohammad Reza Shah deployed to buttress monarchical authority became ideologically incompatible with the Islamic Republic's revolutionary institutional framework, requiring systematic deemphasization despite continuous scholarly and cultural interest.
 
 These cases demonstrate a consistent pattern: institutional transitions do not occur in a cultural vacuum. Rather, societies navigate change by selectively deploying, reinterpreting, or suppressing cultural heritage in service of legitimating new institutional arrangements. Heritage functions as a resource—sometimes constraining, sometimes enabling the institutional possibilities available to transitional societies.
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources)
 
 ## Patterns: Tradition and Institutional Modernization
 
@@ -27,6 +31,8 @@ This tension manifests in three recurring patterns:
 **Third, the layering of multiple identities.** Complex societies like Iran maintain simultaneous cultural heritages—pre-Islamic Persian, Islamic, early-modern, modern—that can be foregrounded or backgrounded depending on institutional needs. Institutional design must navigate these layered identities without fully suppressing any, maintaining a precarious balance.
 
 These patterns suggest that institutional change is not merely a technical legal or organizational matter; it is fundamentally a cultural-hermeneutical process of reinterpreting heritage to legitimate new institutional frameworks.
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources)
 
 ## Iran: Layered Cultural Identity and Institutional Design
 
@@ -70,3 +76,28 @@ Constitutional and institutional design must navigate these three heritage claim
 | Nina G. Hamedani | 2012 | Ways of Manifesting Collectivism: An Analysis of Iranian and... | 3.0 | 3.92 |
 | Andrew Canessa | 2017 | Who Is Indigenous? Self-Identification, Indigeneity, And Cla... | 3.0 | 3.92 |
 | Benjamin Keen | 1988 | A history of Latin America | 3.0 | 3.77 |
+
+
+## Overview
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources)
+
+Cultural heritage — tangible sites, intangible traditions, historical narratives, linguistic heritage — becomes politically contested during regime transitions. New governments use heritage to legitimize their authority; opposition movements invoke heritage to challenge incumbent narratives; minority communities assert heritage rights as a form of political recognition. Iran's exceptionally rich pre-Islamic and Islamic heritage makes this dimension particularly important for any transition.
+
+This topic examines how transitional governments have navigated competing claims over cultural heritage, drawing on cases ranging from post-communist Eastern Europe (where communist-era monuments were removed and pre-communist heritage rehabilitated) to post-colonial transitions where indigenous heritage was reclaimed from nationalist narratives.
+
+For Iran, the specific challenges include: the tension between pre-Islamic Persian heritage (Achaemenid, Sassanid) and Islamic heritage; the status of heritage sites in minority regions (Kurdish, Azeri, Baloch); the role of diaspora in heritage preservation; and how heritage narratives can either bridge or deepen sectarian divisions during a politically fragile transition.
+
+## Theoretical Framework
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources)
+
+Cultural heritage scholarship in political science draws on three analytical traditions.
+
+**Heritage as Political Resource** (Hobsbawm, Ranger, "invention of tradition" tradition) treats cultural heritage as actively constructed rather than passively preserved. Elites and social movements select, interpret, and deploy heritage claims to serve contemporary political purposes. This framework explains why the same artifact or site can be celebrated or suppressed depending on who holds power.
+
+**Transitional Justice and Symbolic Politics** extends accountability frameworks to symbolic rather than legal redress. Statues, street names, monuments, and holidays function as symbolic acknowledgments of the past regime's character. Removal of authoritarian symbols and rehabilitation of suppressed heritage signals regime change. This literature examines whether such symbolic acts matter substantively for democratic consolidation or are merely performative.
+
+**Memory Studies** (Nora, Assmann, Connerton) examines how social groups encode collective memory in physical artifacts and practices, and how this memory is disrupted and reconstructed during social upheaval. For transitions, memory studies focuses on how competing memory regimes (the official past of the old regime vs. suppressed memories of victims) negotiate over public space.
+
+For Iran, heritage politics involves Persian vs. Islamic heritage narratives, pre-Revolutionary vs. post-Revolutionary historical frames, and minority heritage claims from Kurdish, Azeri, Arab, and Baloch communities. Each of these dimensions will be contested in a transition.

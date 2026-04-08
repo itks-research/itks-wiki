@@ -2,6 +2,36 @@
 
 ***Sources:** 469 | **Last Updated:** 2026-04-05*
 
+## Overview
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (11 sources)
+
+Education reform in transitional states sits at the intersection of politics and the future: every curriculum choice reflects a theory of what the next generation should believe, value, and be capable of. This page draws on evidence from Poland, Czech Republic, South Korea, and Indonesia to examine how states have navigated the triple challenge of depoliticizing curricula, professionalizing teaching, and reorienting universities toward economic productivity. The consistent finding is that education reform is simultaneously one of the most durable long-term investments — compounding across generations — and one of the most politically contested, because curriculum battles proxy deeper identity conflicts.
+
+For Iran, the challenge has three specific dimensions. First, K-12 content is saturated with revolutionary ideology and religious content; removing it requires political confrontation with institutions that have strong incentives to defend the curriculum. Second, the university entrance examination (konkour) functions as a high-stakes bottleneck that concentrates access advantages among well-resourced urban families. Third, Iranian women significantly outnumber men in university enrollment but face substantial formal and informal barriers to professional employment — a gender paradox that education reform alone cannot resolve.
+
+Key comparative findings: post-communist states that reformed education quickly (Poland, Czech Republic) achieved lasting human capital gains; states that delayed reform locked in disadvantage for a decade; and the most effective education reforms linked curriculum change to teacher reskilling rather than treating curriculum revision as a purely administrative exercise. The strongest predictor of durable education reform across cases is the degree to which teachers' professional associations were incorporated as partners rather than treated as obstacles.
+
+## Theoretical Framework
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (11 sources)
+
+**Human Capital, Institutional Change, and Depoliticization**
+
+Education reform in transitional states is analyzed through four intersecting theoretical frameworks:
+
+**1. Human Capital Theory and Capabilities**
+The foundational economic framework treats education as investment in productive capacity (Becker 1964). Sen's capabilities extension argues that education is not merely instrumental but constitutive of human agency — the capacity to make meaningful choices about one's own life. This dual framing matters for transitional education reform: purely economistic reform designs tend to emphasize STEM and vocational alignment while neglecting civic education, tolerance, and critical thinking capacities that democratic governance requires.
+
+**2. Institutional Path Dependence**
+Education systems are "sticky" institutions. Unlike constitutions or electoral rules, which can be rewritten in founding moments, education systems have deeply embedded path dependencies: the teaching workforce's pedagogical assumptions, textbook publishing infrastructure, university entrance examination systems, and curricular sequencing all resist rapid change even after political transition. Post-communist evidence consistently shows that education reform takes 10-15 years to produce measurable outcome improvements even when political will exists.
+
+**3. The Hidden Curriculum and Ideological Reproduction**
+Bourdieu's concept of the "hidden curriculum" — the implicit social norms, authority relations, and cultural assumptions embedded in educational practice — is particularly relevant for states transitioning from ideological education systems. Explicit curriculum change is insufficient without pedagogical reform: revolutionary or theocratic educational systems produce students whose cognitive habits resist the forms of critical inquiry that democratic culture requires.
+
+**4. External Conditionality and Reform Incentives**
+Poland's experience introduces a fourth mechanism: EU integration conditionality created external pressure for education modernization that internal political actors could not achieve against vested interests. Iran would lack this specific mechanism but might face analogous pressures from international aid conditionality, technology transfer requirements, or diaspora-funded institution-building programs.
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)

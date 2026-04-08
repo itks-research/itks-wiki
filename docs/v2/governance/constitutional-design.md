@@ -10,7 +10,7 @@ This article examines how countries emerging from authoritarian or theocratic ru
 
 ## Evidence & Key Findings
 
-> 📎 **Source Alignment: 🟢 Strong** (82%)
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (25 sources) | 📎 **Source Alignment: 🟢 Strong** (82%)
 
 The most significant empirical contribution in the constitutional design literature comes from Ginsburg, Elkins, and Blount's analysis of 935 national constitutions spanning 1789 to 2005. Their central finding reframes the entire field: the median constitutional lifespan is only 19 years. Constitutional design is therefore not about creating permanent documents but about creating documents durable enough to become entrenched through practice and political investment.
 
@@ -115,7 +115,7 @@ The South Korean case also illustrates the "sequencing problem": constitutional 
 
 ## Cross-Country Patterns
 
-> 📎 **Source Alignment: 🟢 Strong** (78%)
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (13 sources) | 📎 **Source Alignment: 🟢 Strong** (78%)
 
 Two cross-cutting patterns emerge from the longevity data. First, there is a consistent inverse relationship between constitutional rigidity and survival. Countries that designed their constitutions to be nearly unamendable (requiring unanimity or supermajority thresholds above 80%) experienced shorter constitutional lifespans than those with more moderate thresholds (60-67% legislative supermajority plus ratification). Second, the inclusivity effect is multiplicative rather than additive: constitutions that combined broad participation in drafting with public ratification survived significantly longer than those that had only one or the other.
 
@@ -198,7 +198,7 @@ The cases consistently show that constitutional design works best when it follow
 
 ## Iran Analysis
 
-> 📎 **Source Alignment: 🟡 Moderate** (72%)
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (17 sources) | 📎 **Source Alignment: 🟡 Moderate** (72%)
 
 **Institutional Mapping:** Constitutional design for Iran must address the institutional legacy of ولایت فقیه across every branch of governance. The institutions requiring constitutional reconstitution include: replacement of the Supreme Leader's office with a distributed authority structure (presidential or parliamentary executive, or hybrid); replacement of the Guardian Council with an independent constitutional court whose members are selected through a process independent of any single authority; abolition of the Assembly of Experts as a governance body (its function disappears with ولایت فقیه); restructuring of the judiciary under full independence from both political and clerical authority; establishment of parliamentary committees with genuine oversight authority over defense, intelligence, and budget (replacing the current rubber-stamp مجلس شورای اسلامی); creation of regional governance structures that accommodate ethnic and linguistic diversity (Persian, Azeri, Kurdish, Baloch, Arab, Turkmen, Lor) without triggering secessionist dynamics; and constitutional protection for individual rights including religious freedom, gender equality, and minority protections.
 
@@ -623,3 +623,18 @@ Sources Referenced:
 | [2301] | Milani | 1988 | The Making Of Iran's Islamic Revolution | Iran | Monarchy-to-republic transition dynamics |
 | [2304] | Ehteshami | 1995 | After Khomeini: The Iranian Second Republic | Iran | Constitutional reform under succession |
 | [336] | Widner | 2008 | Constitution Writing in Post-conflict Settings: An Overview | Comparative | Post-conflict constitutional design overview |
+
+
+## Theoretical Framework
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+
+Constitutional design scholarship draws on three major theoretical traditions that structure how scholars understand why constitutions succeed or fail.
+
+**Historical Institutionalism** treats constitutions as path-dependent frameworks: the choices made during founding moments constrain all subsequent political development. This tradition emphasizes that the politics of constitutional drafting leave lasting marks on institutional evolution. Constitutions that emerge from negotiated settlements tend to produce more inclusive political systems than those imposed by dominant actors.
+
+**Rational Choice Institutionalism** models constitutional design as a coordination game: parties to the founding agree on rules because they are uncertain about their future political positions. This Rawlsian "veil of ignorance" insight explains why constitutional framers often agree to minority protections and rights provisions they might otherwise reject — they cannot know whether they will be in the majority or minority once the constitution takes effect.
+
+**Empirical Constitutionalism** (associated with Ginsburg, Elkins, and colleagues) uses large-N comparative data to test which constitutional features actually predict longevity, democratic performance, and human rights compliance. This tradition has yielded the most policy-relevant findings: amendment flexibility predicts survival; inclusive drafting predicts rights compliance; power distribution predicts stability.
+
+For Iran, all three frameworks are relevant. Historical institutionalism warns that Iran's theocratic founding in 1979 will be a contested reference point in any successor constitution. Rational choice theory suggests that uncertainty about post-transition winners creates incentives for negotiated compromise. Empirical constitutionalism provides specific design prescriptions tested across many transitions.

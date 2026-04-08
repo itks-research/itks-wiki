@@ -2,6 +2,36 @@
 
 ***Sources:** 460 | **Last Updated:** 2026-04-05*
 
+## Overview
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (19 sources)
+
+Of all the decisions a new democracy makes, few have more lasting consequences than the electoral system it chooses. Proportional representation, winner-takes-all majority systems, and mixed models each embed different assumptions about what elections are for — whether to produce accountable governments or representative legislatures, whether to express pluralism or force coalitions, whether to protect minority voices or reward governing majorities. Comparative evidence from Poland, Tunisia, South Korea, Spain, and Indonesia shows that these choices prove remarkably durable: electoral systems adopted in founding moments are self-reinforcing because the parties that benefit from the existing design have little incentive to change it.
+
+For Iran, a post-transition electoral system would need to resolve several specific tensions simultaneously: how to represent an ethnically diverse population (Persians, Azerbaijanis, Kurds, Arabs, Baloch, Turkmen) without triggering secessionist incentives; how to prevent a repeat of the Guardian Council's candidate vetting system; and how to design thresholds that produce governable coalitions without excluding minority voices. The absence of genuine competitive national elections since 1906 means Iran would build an electoral architecture largely from scratch — making the foundational choice both more consequential and more contingent on which political actors control the transition moment.
+
+Key findings from this page: proportional systems produce more representative legislatures but often require coalition governments that can slow reform; mixed electoral systems (like those adopted in post-communist states) offer a compromise but create two tiers of legitimacy; and the geographic dimension of electoral design — single vs. multi-member districts — is particularly consequential for ethnically heterogeneous societies like Iran.
+
+## Theoretical Framework
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (19 sources)
+
+**The Institutional Choice Tradition**
+
+Electoral systems are studied as path-dependent institutional choices with self-reinforcing properties (Powell 2000; Lijphart 1999). Three analytical frameworks guide comparative analysis:
+
+**1. Majoritarian vs. Proportional Systems**
+Lijphart's foundational distinction identifies two models of democracy: majoritarian systems that concentrate power in governing majorities, and consensus systems that distribute power across multiple veto players. Electoral rules are the primary mechanism through which this distribution occurs. Proportional representation (PR) tends to produce multiparty systems, coalition governments, and better representation of minority groups. Majoritarian systems (first-past-the-post, two-round majority) produce legislative majorities but systematically under-represent groups whose support is geographically dispersed.
+
+**2. Duverger's Law and Party System Effects**
+Duverger's Law predicts a causal relationship between electoral rules and party system size: plurality rules generate two-party competition; proportional rules generate multiparty competition. Subsequent research has complicated this picture — the number of parties also depends on social cleavage structure, regional concentration of minority parties, and constitutional design of government formation. However, the directional relationship holds robustly across transitions.
+
+**3. Veto Players and Reform Capacity**
+Tsebelis's veto players framework analyzes how electoral system design affects the number of actors whose agreement is required for policy change. Systems with many veto players (large coalitions required to govern) produce policy stability but limit reform capacity — relevant for transitions where rapid economic or institutional reform is urgently needed.
+
+**4. The Sequential Logic of Transitional Electoral Design**
+For transitional states, an additional framework applies: electoral systems in founding moments are often chosen by precisely the political actors who will most benefit from specific designs (Geddes 1999). This endogenous selection creates systematic bias in transitional electoral institutions. Comparative evidence suggests that externally mediated or constitutionally constrained transitional processes produce more durable and equitable electoral designs than actor-driven bargaining.
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (9 sources)

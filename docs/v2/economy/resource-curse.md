@@ -2,7 +2,33 @@
 
 ***Sources:** 203 | **Last Updated:** 2026-04-05*
 
+## Overview
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources)
+
+The relationship between natural resource wealth and political development is one of the most extensively studied paradoxes in comparative politics and development economics. Across a wide range of contexts—from sub-Saharan Africa to the Middle East to Latin America—countries with large hydrocarbon or mineral endowments have tended to develop weaker democratic institutions, higher levels of corruption, and more volatile economic trajectories than comparable resource-poor countries. This is the "resource curse": the counterintuitive finding that natural wealth can impede rather than enable the institutional and economic development that citizens might expect it to fund. Understanding why this happens, and what conditions allow some resource-rich countries to escape the pattern, is directly relevant to thinking about any future transition in Iran.
+
+The core mechanisms of the resource curse operate through several channels. Fiscally, resource revenues allow governments to reduce or eliminate taxation of citizens, which weakens the political accountability relationship: when citizens pay taxes, they have stronger incentives to demand transparent governance and effective public services, while governments have stronger incentives to maintain the institutional capacity to collect taxes and spend them legitimately. Resource revenues substitute for this relationship, enabling what scholars call the "rentier state"—a polity in which the government distributes rents rather than collecting taxes, building loyalty through patronage rather than performance. Economically, resource export revenues tend to appreciate exchange rates, making other export sectors less competitive—a phenomenon known as "Dutch Disease." Institutionally, resource wealth creates incentives for elites to capture the state apparatus controlling resource revenue rather than building the productive economy and institutional infrastructure that generates sustainable prosperity.
+
+Yet the curse is not universal. Norway built a sovereign wealth fund that has become a global benchmark for responsible resource management. Botswana used diamond revenues to sustain consistently high growth and relatively strong institutions. Chile developed fiscal rules that smooth copper revenue across boom-bust cycles. The comparative literature is increasingly focused on identifying what these success cases share—early institutionalization, strong pre-existing governance capacity, effective checks on executive discretion over resource revenues—and whether these conditions can be created rather than simply inherited.
+
+Iran's resource curse has distinctive features shaped by the intersection of oil dependence, international sanctions, and the penetration of the state's resource apparatus by the Revolutionary Guard Corps. Understanding these features is essential to designing reform strategies that do not simply reproduce the curse under new political management.
+
+## Theoretical Framework
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources)
+
+This page applies a CMO framework to analyze resource curse dynamics in the specific context of democratic transitions, asking: under what contextual conditions do resource revenues undermine or support democratic consolidation, and what mechanisms—institutional, fiscal, or political—can redirect resource wealth toward democratic development? The framework distinguishes between contexts defined by the pre-transition character of resource governance (degree of IRGC penetration, structure of the national oil company, fiscal dependence on hydrocarbon revenues), the maturity of civil society organizations capable of demanding resource accountability, and the presence of international frameworks for resource governance.
+
+Three theoretical traditions structure the analysis. The first is rentier state theory, developed by Mahdavy (1970) and elaborated by Beblawi and Luciani (1987) and more recently by Ross (2012). The theory argues that states deriving revenue from external resource rents rather than domestic taxation develop distinctive political characteristics: weak legislative oversight of the budget (because parliaments derive their power from the right to tax), patrimonial distribution of resource revenues to strategic constituencies, and systematic underdevelopment of non-resource state capacity. Ross's empirical work extends this framework to show that oil wealth specifically reduces the probability of democratization by enabling governments to repress opposition, co-opt potential challengers, and maintain patronage networks that substitute for programmatic political appeal. The implication for Iran is not merely that oil revenues have funded authoritarianism but that the institutional structure built around oil extraction and distribution would need to be redesigned to support a different political economy.
+
+The second tradition is fiscal sociology, which examines how tax systems shape political relationships and institutional development. Tilly's (1992) historical argument that state-building and warfare created European fiscal-military states that were eventually transformed into representative democracies through bargaining over taxation is the foundational reference. Applied to resource states, the argument suggests that a shift toward tax-based financing of the state—even partial—could strengthen accountability relationships and create the social foundations for democratic consolidation. This is not simply a technical fiscal argument but a political-institutional one: who pays for the state shapes who can credibly demand accountability from it.
+
+The third tradition is the political economy of sovereign wealth funds and resource revenue management, including Collier's (2010) work on the "plunder of natural resources" and Humphreys, Sachs, and Stiglitz's (2007) edited volume on escaping the resource curse. This literature identifies specific institutional designs—independent revenue management authorities, sovereign wealth fund governance structures, subnational revenue sharing arrangements, and mandatory parliamentary oversight of extractive industry contracts—that have successfully insulated resource revenues from short-term political capture in some contexts. The CMO framework applies these comparative insights to Iran's specific starting conditions, mapping which mechanisms are feasible given Iran's institutional inheritance and which would require prior political changes before they could function.
+
 ## Evidence & Key Findings
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources)
 
 Resource curse theory posits that countries with abundant natural resources often experience slower economic growth and weaker institutions than resource-poor counterparts—a paradox termed the "resource curse" (Venables, 2016). The foundational mechanisms are threefold: First, resource wealth creates fiscal dominance whereby governments derive revenue from resource extraction rather than taxation, reducing accountability to citizens and weakening democratic institutions. Second, exchange rate appreciation from resource exports undermines manufacturing competitiveness, narrowing the economic base. Third, resource volatility creates boom-bust cycles that destabilize macroeconomic management and undermine long-term investment in human capital and infrastructure.
 
@@ -12,11 +38,15 @@ The National Iranian Oil Company (NIOC) represents the institutional nexus throu
 
 ## Cross-Country Patterns
 
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources)
+
 Resource wealth fundamentally alters democratic transition dynamics by creating rentier states dependent on resource revenue rather than taxation. This inverts the standard social contract: citizens expect public goods in exchange for taxes, but when governments derive income from natural resources, populations have minimal leverage to demand accountability. Rentier dynamics interact perversely with democratization. During transitions, resource wealth can weaponize opposition through patronage and subsidies—observed in Venezuela, Saudi Arabia, and Iran.
 
 Sanctions paradoxically create diversification pressures and reduce the fiscal cushion sustaining rentier governance. Iran's experience shows reduced oil revenue's share of state income, yet simultaneously concentrated power within security-aligned entities (IRGC) controlling alternative revenue streams (Abdelsalam, 2020). This creates a "second-generation" resource curse wherein reduced resource dependency doesn't weaken authoritarianism but crystallizes it around militarized actors controlling non-resource revenues.
 
 ## Iran Analysis
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources)
 
 Iran's resource curse manifests through NIOC's institutional capture by the Revolutionary Guard Corps. Yong's (2013) analysis documents NIOC as a contested political space reflecting power balances between technocratic management, presidential networks, and IRGC-affiliated entities. This capture undermines efficient resource management and sustainable fiscal policy, prioritizing factional patronage, military procurement, and parallel security apparatus funding escaping public budgetary oversight.
 

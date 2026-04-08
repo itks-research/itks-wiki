@@ -4,7 +4,7 @@
 
 ## Overview
 
-> 📎 **Source Alignment: 🟢 Strong** (85%)
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources) | 📎 **Source Alignment: 🟢 Strong** (85%)
 
 Spain's 1977 amnesty law — which guaranteed full impunity for all crimes committed during Franco's dictatorship — is often cited as a model for successful transitions through forgiveness rather than prosecution. This article challenges that reading: forty years later, Spain's courts were still grappling with Franco-era crimes, families were still demanding answers, and political polarization around historical memory remained intense. For Iran, the lesson is sobering: any future amnesty arrangement for Islamic Republic officials would face even more intense long-term pressure, given Iran's large diaspora, the scale of documented violations including the 1988 prison massacres, and the availability of international legal mechanisms that did not exist in 1977.
 
@@ -60,7 +60,7 @@ Hungary adopted an exposure-based model from 1994 to 2003 without mandatory cons
 
 ## Cross-Country Patterns
 
-> 📎 **Source Alignment: 🟡 Moderate** (73%)
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources) | 📎 **Source Alignment: 🟡 Moderate** (73%)
 
 Two structural patterns emerge from Spain's experience. First, amnesty does not resolve transitional justice demands but merely defers them. The temporal pattern is consistent: short-term stability purchased through impunity generates long-term democratic fragility. Aguilar's (2008) concept of "post-transitional justice" captures this precisely -- TJ demands do not disappear when a transition is declared complete but resurface as new generations gain political voice. Kressel (2019) shows this pattern replicated in Latin America, where Spain's amnesty model informed Argentine and Chilean transitions with similar delayed consequences.
 
@@ -98,7 +98,7 @@ A second pattern is that lustration scope must be calibrated to institutional ca
 
 ## Iran Analysis
 
-> 📎 **Source Alignment: 🟡 Moderate** (65%)
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources) | 📎 **Source Alignment: 🟡 Moderate** (65%)
 
 **Institutional Mapping:** Iran's transitional justice landscape implicates virtually every state institution. The judiciary (قوه قضائیه), including Revolutionary Courts (دادگاه‌های انقلاب) and the Special Clerical Court (دادگاه ویژه روحانیت), has been the primary instrument of legal repression. The IRGC and its intelligence organization have conducted extrajudicial operations, enforced disappearances, and protest suppression. The Basij has served as the frontline force in crackdowns (2009, 2019, 2022). MOIS/VAJA has conducted surveillance, interrogation, and the "chain murders" (قتل‌های زنجیره‌ای) of the late 1990s. The prison system (سازمان زندان‌ها), particularly Evin and Rajai Shahr, is a primary site of documented torture and abuse. The Guardian Council and Assembly of Experts bear institutional responsibility for maintaining the system of ولایت فقیه that enabled these violations. The Supreme Leader's office holds ultimate command responsibility for the 1988 prison massacres, the 2019 shoot-to-kill orders, and systematic repression across four decades.
 
@@ -362,3 +362,19 @@ The lustration literature is normatively loaded — there are genuine scholarly 
 | Justice as prevention (2007) | Vetting public employees as preventive justice in transitional societies | 820 |
 | Lustration and legitimacy (2010) | Relationship between lustration processes and political legitimacy | 893 |
 | Rethinking lustrations (2022) | Contemporary reassessment of lustration as TJ mechanism | 867 |
+
+## Theoretical Framework
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources)
+
+Transitional justice scholarship draws on four theoretical traditions, each emphasizing different mechanisms and goals.
+
+**Retributive Theory** holds that accountability for mass atrocities is a moral obligation independent of political consequences. This tradition underlies international criminal law and the doctrine of universal jurisdiction. Its empirical extension argues that prosecutions deter future abuses and contribute to democratic consolidation.
+
+**Restorative Justice Theory** emphasizes healing relationships between victims, perpetrators, and communities over punishment. This approach prioritizes truth-telling, acknowledgment, and reparations. Truth commissions are its primary institutional expression.
+
+**Transitional Justice as Institution-Building** focuses on how mechanisms contribute to democratic institution building. Vetting processes purge authoritarian actors from public service; lustration laws prevent former officials from holding sensitive positions; judicial reform removes compromised judges. These mechanisms matter more for long-term democratic performance than prosecution or truth-telling alone.
+
+**Political Economy of Transitional Justice** (Olsen, Payne, Reiter) uses cross-national data to test whether combinations of mechanisms outperform single-mechanism approaches. Their finding: combinations of amnesty plus prosecution, trials plus reparations produce the best democratic outcomes.
+
+For Iran, the relevant theoretical debates concern: whether the scale of the Islamic Republic's repression demands prosecutorial accountability or allows amnesty; which combination of mechanisms will produce the best democratic consolidation; and how transitional justice interacts with Iran's factional politics.

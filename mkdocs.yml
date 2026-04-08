@@ -297,12 +297,12 @@ nav:
     - Security:
       - Civil Military Relations: v2/security/civil-military-relations.md
     - Iran Current State:
-      - Governance State: v2/iran-context/iran-governance-state.md
-      - Economic State: v2/iran-context/iran-economic-state.md
-      - Social State: v2/iran-context/iran-social-state.md
-      - Security State: v2/iran-context/iran-security-state.md
-      - External Relations State: v2/iran-context/iran-external-state.md
-      - Velayat-e Faqih State: v2/iran-context/iran-velayat-faqih.md
+      - Iran Economic State: v2/iran-context/iran-economic-state.md
+      - Iran External State: v2/iran-context/iran-external-state.md
+      - Iran Governance State: v2/iran-context/iran-governance-state.md
+      - Iran Security State: v2/iran-context/iran-security-state.md
+      - Iran Social State: v2/iran-context/iran-social-state.md
+      - Iran Velayat Faqih: v2/iran-context/iran-velayat-faqih.md
     - Iran-Specific:
       - Bonyad System: v2/iran-specific/bonyad-system.md
       - Digital Infrastructure Iran: v2/iran-specific/digital-infrastructure-iran.md

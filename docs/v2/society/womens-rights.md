@@ -2,6 +2,30 @@
 
 ***Sources:** 685 | **Last Updated:** 2026-04-05*
 
+## Overview
+
+In every democratic transition in a Muslim-majority society, women's rights have been among the most politically charged reforms. This page synthesizes evidence from Tunisia, Turkey, Indonesia, Morocco, and Iran's own 1979 experience to examine when and how gender equality becomes constitutionally and legally durable — and when gender reform is traded away in transition bargaining. The central paradox is that women are often essential to successful transitions — as in Tunisia's 2011 uprising and Iran's 2022-2023 Woman Life Freedom movement — yet their specific rights demands are frequently bargained away in founding moments.
+
+Iranian women occupy a distinctive position in comparative perspective. They are among the most educated populations in the Middle East — comprising over 60% of university enrollments for two decades — but face some of the most codified gender discrimination among middle-income countries: mandatory hijab, restricted divorce and custody rights, legal blood money differentials, guardianship requirements for travel and marriage, and employment sector exclusions. This combination of high educational attainment, organized feminist tradition, and dense legal constraint creates both a strong constituency for reform and a powerful institutional apparatus defending the current system.
+
+Key comparative findings: legal gender equality provisions are most durable when embedded in constitutional rights frameworks with independent judicial enforcement; states that produced gender reform through "feminist ijtihad" (reform within Islamic jurisprudential tradition) achieved more stable outcomes than states that imposed secular gender norms against religious opposition; and the sequencing of gender reform relative to other democratic consolidation measures matters — premature gender rights controversies can destabilize coalitions needed for broader democratic transition.
+
+## Theoretical Framework
+
+**Gender and Democratic Transition: Three Analytical Frameworks**
+
+**1. Women as Transition Assets and Bargaining Liabilities**
+A robust finding across transitional literature is that women's movements play essential mobilization roles in transitions but face systematic underrepresentation in transition bargaining. Waylen (2007) documents this pattern across Latin America, Eastern Europe, and Africa: the same political opening that creates space for women's mobilization produces negotiating tables dominated by male elites from the outgoing and incoming regimes. The consequence is that gender provisions in founding documents reflect the degree to which women's organizations achieved independent institutional presence before the transition moment — not the degree of women's participation in the transition itself.
+
+**2. Constitutional Entrenchment and Judicial Enforcement**
+Gender equality provisions are analytically distinct from gender equality outcomes. The constitutionalization of gender equality matters most when paired with: independent judicial review capable of striking down discriminatory statutes; legal aid access enabling women to assert constitutional rights in practice; and cultural norm reinforcement through education and media. Tunisia's 2014 constitution embedded gender equality in Article 21 alongside civil law supremacy — a formula that has proven more robust than aspirational equality provisions lacking enforcement mechanisms.
+
+**3. Islamic Feminism and Feminist Ijtihad**
+The emergence of feminist legal reasoning within Islamic jurisprudential tradition (ijtihad) represents a theoretically significant development: it rejects the premise that Islamic law is inherently incompatible with gender equality, arguing instead that early Islamic texts support women's rights and that historical restrictions reflect patriarchal interpretation rather than divine command. Fatima Mernissi, Amina Wadud, and Iranian scholars including Shahla Sherkat and Ziba Mir-Hosseini have developed this tradition most fully. Feminist ijtihad provides a path for family law reform that does not require either complete secularization or abandonment of Islamic identity — a politically significant option for transitional Iran.
+
+**4. Revolutionary Gender Accommodation**
+Iran's 1979 transition adds a theoretical wrinkle absent from most comparative literature: a revolution that simultaneously mobilized women as essential participants and institutionalized their legal subordination. The Islamic Republic's constitution theoretically affirms women's rights to education and employment while restricting their legal status in family law and public dress — a "revolutionary gender accommodation" that absorbed women's energy into the revolution while containing feminist demands.
+
 ## Evidence & Key Findings
 
 The codification of gender equality in Muslim-majority transitional states navigates a terrain where legal reform, religious interpretation, and social practice intersect in ways that Western feminist frameworks only partially capture. Hoodfar and Sadr (2010) examine Iranian feminists' quest for gender equality within the specific constraints of Islamic politics, documenting how women's rights activists developed sophisticated strategies that worked both within and against the religious framework — using Islamic jurisprudential arguments (ijtihad) to challenge discriminatory interpretations while simultaneously building secular feminist discourse. This dual-track approach, operating in the space between religious legitimacy and universal rights claims, is distinctive to the Iranian context and has no clean parallel in comparative transitions.

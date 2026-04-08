@@ -74,3 +74,11 @@ The primary danger is missing the demographic window: if economic restructuring 
 | Cervellati, M. & Sunde, U. | 2017 | Demographic transition is a key turning point for development; window is time-limited |
 | AghaKouchak, A. et al. | 2021 | 'Anthropogenic drought' — water scarcity from governance failure, not climate alone |
 | Dyson, T. | 2011 | Demographic transition itself drives urbanization through differential fertility and migration |
+
+## Overview
+
+Iran's demographic profile has undergone dramatic change since the Revolution. A post-revolutionary baby boom produced a large youth cohort that is now entering middle age; fertility rates have fallen below replacement level in urban areas; and urbanization has accelerated, with over 75% of Iranians now living in cities. These changes create both opportunities and pressures for any future government.
+
+This topic examines how demographic transitions interact with urbanization to shape political dynamics in developing and transitional states. The comparative focus is on countries that experienced rapid urbanization and demographic transition in the late twentieth century — particularly South Korea, Turkey, and Indonesia — and what policy lessons they offer for managing the social consequences of demographic change.
+
+For Iran, the key questions concern the "youth bulge" effect on political stability, the housing crisis in major cities, migration pressures on Tehran and other urban centers, and how demographic distribution affects regional political dynamics. Comparative evidence suggests that rapid urbanization without corresponding housing and employment infrastructure creates conditions for sustained political unrest.

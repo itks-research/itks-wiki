@@ -75,3 +75,11 @@ The primary danger is scope: Iran's corruption is not a governance failure to be
 | Gorgin Akbarabadi, E. & Najafi Tavana, A. | 2016 | Iranian rent-seeking as financial abuse of power linked to discrimination |
 | Beheshti, S. & Nowrouzi, F. | 2022 | Two decades of Iranian corruption research confirms systemic but unaddressed problem |
 | Ahmadpour, A. et al. | 2025 | Sanctions drive tax evasion through related-party transactions in Iran |
+
+## Overview
+
+One of the most consistent findings in the study of political transitions is also one of the most sobering: corruption rarely declines when regimes change. It transforms. The networks that distributed rents under the old system adapt to the new environment, converting political relationships into business ones, and exploiting institutional vacuums that transitions invariably create. This page examines the comparative evidence on how corruption, rent-seeking, and patronage networks behave during and after transitions — and what, if anything, reformers can do about it.
+
+The evidence draws on cases from Afghanistan's post-Taliban justice sector, post-Mubarak Egypt, the Gulf rentier states, and Central Asian post-Soviet transitions. Across all of them, a common pattern holds: where institutional constraints remain weak after a transition, rational actors with access to state resources will exploit them regardless of the new government's nominal commitments.
+
+Iran's corruption architecture is structurally distinct from any single comparator. It combines large oil and gas rents, extensive sanctions-driven economic opacity that makes asset-tracing exceptionally difficult, and an ideologically legitimized parallel economy in which the bonyad system, IRGC conglomerates, and Supreme Leader-controlled endowments operate with limited accountability even by the standards of the Islamic Republic itself. This combination — resource rents, opacity, and ideological legitimation — has no precise historical precedent, which means the detailed sections on mechanisms and sequencing matter more, not less, than the pattern-level findings.

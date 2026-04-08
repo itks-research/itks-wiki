@@ -105,3 +105,13 @@ Indonesia's experience reveals Iran's central risk: decentralization without ade
 ---
 
 [Source 1624] Decentralization and Economic Performance in Indonesia. GDP-growth correlation analysis. [Source 1642] Poverty alleviation in context of fiscal decentralization in Indonesia. Revenue sharing and development outcomes. [Source 1637] The Politics of Indonesia's Decentralization Law Based on Regional Competency. Administrative capacity analysis. [Source 1625] Indonesian Decentralization: Evaluation, Recent Movement and Future Perspectives. Longitudinal assessment. [Source 1664] Evaluation of regional autonomy implementation in Indonesia. Elite capture documentation. [Source 1676] Structure of local government budgets and local fiscal autonomy. Fiscal dependency analysis. [Source 1679] Urgency of Political Decentralization and Regional Autonomy. Political accountability mechanisms. [Source 1623] Decentralization and Democracy in Indonesia: Critique of Neo-Institutionalist Perspectives.
+
+## Overview
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+
+When authoritarian regimes collapse, questions about who governs where — and who controls what resources — often determine whether a transition holds together or fractures. This page examines how federalism and administrative decentralization interact with democratic consolidation, with particular attention to ethnically diverse states where central authority has long been contested.
+
+The primary comparative case is Indonesia, which in 1999 undertook one of the most sweeping decentralization experiments in modern history following the fall of Suharto's 32-year regime. Smaller cases from Latin America and Eastern Europe supplement this anchor analysis. Together they reveal a consistent tension: transferring fiscal authority to local governments faster than accountability institutions can be built tends to entrench local elites rather than empower citizens.
+
+For Iran, these lessons are acutely relevant. With Azerbaijani, Kurdish, Baloch, and Arab populations comprising roughly 40–50% of the country, any post-transition settlement will need to negotiate the relationship between Tehran and the periphery. The comparative evidence suggests that decentralization is not inherently democratizing — its effects depend heavily on whether local institutions, civil society, and oversight mechanisms develop alongside devolved powers. The detailed sections that follow examine the specific mechanisms and sequencing questions that determine whether administrative reform deepens or undermines democratic accountability.

@@ -181,3 +181,11 @@ SOURCES USED
 ---
 
 [Source 6945] Freedom of Expression in Islam. Legal frameworks governing minority expression. [Source 6950] The Tarbiyat Girls' School: Baha'i educational contributions and institutional dismantlement. [Source 7016] Hierarchies within feminist movements in Iran: Kurdish and ethnic minority women's marginalization. [Source 6962] From Radical-Religious Movement to Democratic Social Sub-Movement. Reformist trajectories in religious governance. [Source 7023] Educational identity development models in Iranian-Islamic framework. Ethnic identity marginalization analysis. [Source 7027] Re-reading the nation from inside: Woman Life Freedom ethnic dimensions. [Source 6946] Rational Shari'ah: Ahmad Qabel's reformist approach to Islamic governance and minority accommodation.
+
+## Overview
+
+Iran is one of the world's most ethnically and religiously diverse states. Persians constitute approximately 50-55% of the population, with Azeris (15-20%), Kurds (7-10%), Arabs (3%), Baloch (2%), and other groups making up the remainder. The Islamic Republic has managed this diversity through a combination of Persian cultural nationalism and religious homogenization — an approach that has generated persistent grievances in peripheral regions.
+
+This topic examines how comparable multiethnic states have managed minority rights during democratic transitions, drawing on Indonesia's post-Suharto experience, Spain's devolution to Basque and Catalan communities, and the broader literature on ethnic accommodation. The central design question is whether Iran's transition should pursue formal minority rights protections, territorial autonomy, or cultural recognition — and what combination is most likely to preserve national unity while reducing ethnic grievances.
+
+Comparative evidence consistently shows that purely administrative decentralization without meaningful political participation fails; that group rights framed as "special protections" generate backlash; and that successful accommodation combines territorial self-governance with individual rights guarantees.

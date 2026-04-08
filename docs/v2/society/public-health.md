@@ -74,3 +74,11 @@ A credible post-transition health strategy would need to: (1) preserve existing 
 | Nazari, M. et al. | 2025 | Cancer care disrupted through medicine scarcity, equipment procurement barriers, specialist flight, and patient financial collapse |
 | Pourmohammadi, K. et al. | 2020 | PESTLE analysis of Iranian hospitals identifies sanctions, corruption, centralization, and disease pattern changes as macro-level threats |
 | Al Mustanyir, S. | 2024 | Iranian healthcare spending proved resilient to sanctions unlike Venezuela, suggesting long-experience coping mechanisms at quality cost |
+
+## Overview
+
+Iran faces a dual public health challenge: a technically sophisticated health system built over four decades of the Islamic Republic, which nonetheless struggles under the combined pressures of economic sanctions, management centralization, pharmaceutical scarcity, and institutional misalignment. Any post-transition government will inherit both the system's strengths (a rural primary care network, high vaccination coverage, functional medical education) and its structural weaknesses.
+
+This topic synthesizes comparative evidence on how transitions affect health systems, drawing primarily on Eastern European transitions (where health system restructuring accompanied political change) and Middle Eastern contexts where sanctions and health system quality intersect. The core question is: how can a post-transition Iranian government reform its health system without causing the collapse in health outcomes that characterized some post-Soviet transitions?
+
+Key comparative lessons center on sequencing (reforming financing before restructuring providers), protecting essential services during transition turbulence, and leveraging diaspora medical expertise in system rebuilding.

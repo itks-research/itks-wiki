@@ -71,3 +71,11 @@ A post-transition strategy for youth engagement would need to: (1) create formal
 | Maghazei, M. | 2014 | Conscious music in Iran since the 1990s (rock, fusion, classical) serves as generational political expression when formal channels are blocked — awakening, challenging dogmas, critical debate |
 | Casale, D. & Resnick, D. | 2011 | African youth vote less, show lower partisanship, and are NOT more likely to protest than older citizens — contradicts the 'youth bulge as threat' thesis |
 | Otayek, R. | 2014 | Arab uprisings revealed youth and women as new political actors rejecting both authoritarianism and Islamism — democratic regulation of cultural pluralism is the key challenge |
+
+## Overview
+
+Iran has one of the world's youngest populations, and its youth cohort has been a consistent driver of political pressure on the Islamic Republic — from the 1999 student protests to the 2009 Green Movement to the 2022 Woman, Life, Freedom uprising. Understanding how authoritarian systems manage youth political energy, and how transitions can channel it constructively, is central to Iran's political future.
+
+This topic synthesizes comparative evidence on youth political mobilization in authoritarian and transitional contexts, with particular attention to how demographic bulges interact with economic grievances, social media, and political opportunity structures. The comparative cases include Eastern European youth movements before 1989, Indonesia's student activism preceding Suharto's fall, and Latin American youth engagement in post-authoritarian transitions.
+
+Key questions for Iran's transition planners include: how to incorporate youth voice into constitutional design; how to address the youth unemployment crisis (estimated 25-30% formally, higher informally); and how to channel protest energy into institutionalized civic participation.

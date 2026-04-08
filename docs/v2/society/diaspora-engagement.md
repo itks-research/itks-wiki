@@ -2,6 +2,16 @@
 
 ***Sources:** 123 | **Last Updated:** 2026-04-05*
 
+## Overview
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (11 sources)
+
+When political systems collapse or reform, skilled emigrants who left under authoritarian regimes face a consequential choice: return and rebuild, or remain abroad as a bridge. This page examines the conditions under which diaspora communities contribute to democratic transition — from South Korea's return of Korean-American scientists to Poland's diaspora investment networks to Iraq's failed mobilization of expatriate professionals — with direct application to Iran's exceptional diaspora.
+
+Iran's approximately four million diaspora members are distinctive in global comparison. They are among the most educated abroad of any developing nation, with exceptional concentrations in medicine, engineering, and technology. Unlike many diaspora populations, Iranians abroad have not primarily emigrated for economic reasons but for political and social reasons — meaning return requires political liberalization, not just economic incentives. A second distinctive feature is the diaspora's active civil society engagement: the Persian digital sphere maintains a diasporic intellectual infrastructure that directly influenced domestic political movements, most visibly during the 2022-2023 Woman Life Freedom uprising.
+
+The key comparative finding is that diaspora return follows political liberalization, not the reverse. Economic incentives alone do not overcome security concerns, credential non-recognition barriers, and family risk calculations without credible rule-of-law commitments. South Korea's successful repatriation of overseas scientists depended on prior establishment of university autonomy and research funding systems. Iraq's failure to mobilize its diaspora post-2003 is instructive: the expatriate business community identified security, corruption, and property rights uncertainty as disqualifying before economic opportunity calculations even became relevant. For Iran, this sequencing logic suggests that diaspora engagement policy must begin with institutional credibility rather than economic recruitment.
+
 ## Theoretical Framework
 
 REALIST SYNTHESIS FRAMEWORK (CMO Configuration)

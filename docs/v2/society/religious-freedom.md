@@ -2,6 +2,34 @@
 
 ***Sources:** 640 | **Last Updated:** 2026-04-05*
 
+## Overview
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources)
+
+How does a state transition from constitutionally mandated religious rule to a framework protecting religious freedom without abandoning religious identity? This question — which animated Tunisia's 2014 constitutional process, Turkey's decades-long secular-Islamist conflict, and Indonesia's pancasila debates — is existential for any post-velayat-e faqih Iran. This page synthesizes comparative evidence on the political and institutional mechanics of separating religious authority from state power in Muslim-majority and formerly theocratic contexts.
+
+The central finding is counterintuitive: constitutional acknowledgment of Islam's cultural role and civil law supremacy are not contradictory. Tunisia's Article 1 architecture demonstrates that a Muslim-majority society can constitutionally affirm Islamic identity while establishing that no religious authority holds legislative power. The mechanism is distributional — spreading religion's constitutional presence across multiple balanced provisions rather than concentrating it in a single article that becomes either a theocratic opening or a secular erasure. For Iran, the institutional challenge is substantially more complex than Tunisia's: dismantling velayat-e faqih requires restructuring five overlapping institutions simultaneously — the Office of the Supreme Leader, the Guardian Council, the Assembly of Experts, the seminary system, and IRGC political commissars — each with its own organizational interest base.
+
+Key comparative findings: no Muslim-majority state has successfully transitioned from full theocratic government to secular constitutionalism in a single step; transitions that engaged religious actors as constitution-drafting participants produced more durable religion-state settlements than transitions that imposed secularist frameworks over religious opposition; and internal divisions within religious establishments (moderate vs. hardline clerics, reformist vs. traditionalist theologians) are the primary leverage point for transitional negotiation over religion's constitutional role.
+
+## Theoretical Framework
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources)
+
+**Religion-State Relations in Transitional Contexts**
+
+**1. The Separation Spectrum and the "Civil State" Model**
+Monsma and Soper's comparative typology of religion-state relations ranges from strict wall-of-separation (French laïcité) through established churches to theocratic governance. Muslim-majority democracies occupying a "civil state" position — acknowledging Islam's cultural centrality while denying religious law legislative supremacy — constitute a theoretically distinct category. Indonesia's pancasila and Tunisia's post-2014 constitution both exemplify this model: the state affirms Islamic identity through symbolic and educational dimensions while maintaining civil courts, non-religious legislation, and formal equality across religious communities.
+
+**2. The Twin Tolerations (Stepan)**
+Alfred Stepan's "twin tolerations" framework identifies the minimum conditions for democratic coexistence between religious and political institutions: democratic government must tolerate religious actors' civil society roles without subordinating state authority to religious law; religious institutions must tolerate democratic government's authority over secular matters without imposing doctrinal compliance as a condition of citizenship. Transitions fail the twin tolerations test when either pole is violated — when governments attempt to eliminate religious institutions' social roles or when religious actors demand legislative supremacy.
+
+**3. Constitutionalization and Veto Points**
+How religion-state tensions are embedded in constitutional text determines the space available for subsequent political contestation. Tunisia's 2014 example shows that careful constitutional drafting can satisfy both religious identity demands (Article 1: Islam is the religion of the state) and civil law demands (Article 6: the state is the guardian of religion and protector of the sacred) by distributing provisions across multiple balanced articles. The alternative — a single provision that either fully establishes or fully excludes religion — creates winner-takes-all contestation that destabilizes democratic consolidation.
+
+**The Velayat-e Faqih Exception**
+Comparative religion-state theory does not have a direct analog to velayat-e faqih, which is not theocracy in the conventional sense but a specific juridical-political innovation: the constitutional assignment of sovereign authority to a jurist holding religious qualifications. Dismantling it requires not merely political reform but constitutional reconstruction of the basis of legitimate government — a theoretically unprecedented challenge in comparative transitional literature.
+
 ## Evidence & Key Findings
 
 > 🔴 **Evidence Confidence: Low** — Moderate source triangulation (4 sources)
@@ -54,6 +82,8 @@ The nearest analogues are transitions from ideological one-party states — comm
 
 ## Cross-Country Patterns
 
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources)
+
 Two cross-cutting patterns emerge from Tunisia's constitutional experience. First, constitutional acknowledgment of religion does not require theocratic authority. Tunisia's Article 1 architecture demonstrates that a Muslim-majority society can constitutionally affirm Islam's centrality while establishing civil law supremacy. The key mechanism is distributing religion's constitutional presence across multiple articles that check and balance each other, rather than concentrating it in a single provision.
 
 Second, internal Islamist party dynamics matter more than external pressure. The Ennahda vote pattern — where pragmatic abstention exceeded both support and opposition — suggests that party elites can be moved by institutional incentives rather than ideological conversion. Democratic competition, coalition necessities, and public opinion drove moderation more effectively than secularist confrontation.
@@ -89,6 +119,8 @@ The overarching pattern is the absence of precedent. Iran's transition, if and w
 A secondary pattern is the relevance of ideological-state transitions. Communist transitions in Eastern Europe addressed parallel challenges: dismantling an ideological apparatus embedded in all state institutions, managing a cadre trained in the old ideology, and preventing both revanchist restoration and nihilistic rejection. The lustration debates — how extensively to purge, whether to prioritize reconciliation or accountability — preview questions Iran would face regarding the clerical establishment's post-transition status.
 
 ## Iran Analysis
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources)
 
 **Institutional Mapping:** Iran's religion-state fusion is maintained through a dense institutional network. The Supreme Leader (ولی فقیه) holds constitutional authority over all state functions through the doctrine of ولایت فقیه. The Guardian Council (شورای نگهبان) exercises legislative veto and electoral gatekeeping through its interpretation of Islamic law. The Assembly of Experts (مجلس خبرگان) theoretically oversees the Supreme Leader but is itself vetted by the Guardian Council. The حوزه علمیه (seminary system), centered in Qom with significant presence in Mashhad, Isfahan, and other cities, provides ideological training for both clerics and IRGC officers. The Special Clerical Court (دادگاه ویژه روحانیت) disciplines dissident clerics outside the regular judiciary. Friday Prayer Imams (ائمه جمعه), appointed by the Supreme Leader, function as a nationwide ideological surveillance and communication network. Astan-e Qods-e Razavi (the Imam Reza shrine endowment in Mashhad) controls one of Iran's largest economic conglomerates. The Islamic Propaganda Organization (سازمان تبلیغات اسلامی), Islamic Culture and Guidance Ministry, and IRIB (state broadcasting) enforce ideological conformity.
 
