@@ -190,3 +190,7 @@ The most significant knowledge gap for applying these lessons is the absence of 
 ### Methodological Caveats
 
 This analysis applies Realist Synthesis across two non-Iranian cases. The CMO configuration identifies structural analogies but cannot account for Iran's theocratic constitutional framework, which embeds military loyalty to clerical authority in a way without direct parallel in either Poland or Indonesia. The comparative evidence provides orientation, not a roadmap. Transition planning would require Iran-specific empirical groundwork that falls outside the scope of this comparative synthesis.
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (15 sources)
+
+Poland and Indonesia took opposite approaches to reforming their militaries after authoritarian rule — Poland anchored reform to NATO accession requirements, forcing institutional change to meet external standards; Indonesia reformed largely on its own terms after Suharto, producing incomplete results that left the military with extensive business empires and informal political influence. For Iran, neither model is cleanly applicable: the IRGC is not just a military force but an economic empire and intelligence apparatus intertwined with the entire state structure. The key insight is that without either an external anchor (Iran has no NATO equivalent) or sustained domestic political will (which requires a civilian government with security guarantees), IRGC reform will remain superficial.

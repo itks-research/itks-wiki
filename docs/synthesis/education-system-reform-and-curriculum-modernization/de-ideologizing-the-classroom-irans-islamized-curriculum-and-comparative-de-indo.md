@@ -67,3 +67,23 @@ Enablers: Iranian educators who privately resist ideological content (documented
 **Risks**
 
 Rapid de-ideologization risks provoking a cultural backlash among constituencies for whom Islamic education represents genuine identity commitment — not merely state imposition. Unlike Poland, where communist ideology had limited organic support, Iran's Islamic education has produced genuine believers alongside coerced conformists. The teacher retraining challenge is massive: 1+ million educators trained exclusively in revolutionary pedagogy cannot be replaced but must be reoriented, requiring sustained investment and political sensitivity. A second risk is the "identity vacuum" — removing Islamic revolutionary narrative without providing a compelling alternative could create susceptibility to ultranationalist, ethno-supremacist, or nihilistic ideologies. Prerequisites: curriculum revision involving diverse Iranian voices (secular intellectuals, reformist clerics, ethnic minority educators, diaspora scholars); teacher retraining with adequate compensation and respect for educators' dignity; gradual timeline that allows communities to participate in reform rather than experiencing it as imposition; and preservation of Islamic studies as an elective — demonstrating that reform seeks educational pluralism, not anti-religious purge.
+
+## What We Don't Know
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+
+**What this synthesis cannot fully answer:**
+
+1. **Teacher retraining at scale**: Iran employs over one million teachers, most trained under the post-revolutionary curriculum framework. Research on how Central Asian states retrained their Soviet-era teaching corps after 1991 — the most analogous large-scale challenge — is underdeveloped in the comparative education literature.
+
+2. **Textbook printing monopolies**: In Iran, textbook production and distribution is controlled by state monopolies. Research on how to restructure curriculum production infrastructure — breaking the political economy of state textbook monopolies — is thin relative to the content-focused literature on what to teach.
+
+3. **Religious education negotiation**: Iran's educational system includes mandatory religious education (Quran, Islamic studies, ethics) that would require negotiation in any reform process. How Turkey (secular-to-Islamic shift) and Indonesia (Islamic to moderate-Islamic) have handled mandatory religious education reforms provides lessons not fully incorporated in this synthesis.
+
+4. **Curriculum timing in transitions**: When in a political transition curriculum reform should begin — whether changing textbooks before or after political stabilization — is contested. Early curriculum change can signal regime change and build legitimacy; delayed change allows incumbent educators to shape the new curriculum.
+
+5. **Digital learning and parallel education**: Iranian students' access to international online content through VPNs, and the existence of informal tutoring networks teaching non-approved content, represent informal curriculum systems that could accelerate formal reform but are not addressed in the academic literature.
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+
+Iran's post-1979 "Cultural Revolution" comprehensively rewrote the curriculum to embed Islamic revolutionary values into every subject — from history to mathematics to physical education. This article examines what it takes to undo this kind of systematic ideological saturation, drawing on cases from post-communist Europe. The key finding is that changing textbooks is the easy part; the harder challenge is retraining the million teachers whose professional identity, livelihoods, and sometimes personal beliefs are bound up with the current curriculum. Countries that succeeded in curriculum reform combined textbook change with teacher retraining, created institutional space for educational pluralism, and were patient enough to wait for generational change.

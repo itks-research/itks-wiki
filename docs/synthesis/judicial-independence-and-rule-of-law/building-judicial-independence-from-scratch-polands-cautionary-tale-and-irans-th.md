@@ -53,3 +53,23 @@ The deeper parallel: both judicial systems reveal that institutional autonomy is
 **Enablers and Blockers:** Reform enablers include **legal academics** in Iranian law faculties who have studied comparative judicial systems, **reformist lawyers** within the bar association (کانون وکلای دادگستری) who have advocated for due process reforms, and **international legal institutions** (ICJ, Venice Commission) that could provide technical assistance. Diaspora legal professionals constitute a significant resource. Blockers include the **revolutionary court judiciary** whose institutional existence depends on the current system, **IRGC and Ministry of Intelligence** officials who rely on revolutionary courts for political prosecutions, **hardline clerics** who view Islamic jurisprudence (فقه) as superior to secular legal frameworks, and the **Supreme Leader's office** which loses its most direct instrument of political control if judicial appointment authority is transferred.
 
 **Iran-Specific Challenges:** Iran's judicial reform challenge is structurally more severe than Poland's for three reasons. First, Iran lacks any historical precedent for judicial independence — neither the Qajar, Pahlavi, nor Islamic Republic periods established genuinely independent courts, meaning the cultural foundation that Poland (despite its weaknesses) possessed is absent. Second, the dual legal system — secular law and Islamic jurisprudence — creates a constitutional question that Poland never faced: what is the role of شریعت (Sharia) in a post-transition legal order? Even a democratic Iran would likely maintain some Islamic legal principles in personal status law, requiring institutional design that separates religious jurisprudential authority from judicial independence in criminal, commercial, and constitutional matters. Third, the revolutionary courts have created decades of contested judgments — executions, property confiscations, political imprisonments — that any new judiciary must address through transitional justice mechanisms, creating immediate conflicts between judicial independence and political accountability demands.
+
+## What We Don't Know
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+
+**What this synthesis cannot fully answer:**
+
+1. **Velayat-e faqih and structural independence**: Existing comparative literature does not directly address how Iran's doctrine of guardianship of the jurist (ولایت فقیه) can be reconciled with any form of genuine judicial independence. Most case studies involve secular or nominally religious constitutional systems.
+
+2. **Islamic judicial models with de facto independence**: Comparative research on Islamic legal systems — including Morocco's constitutional court reforms (2011) and Malaysia's dual legal system — that achieved substantive judicial autonomy without abandoning Islamic identity framing remains thin and underdeveloped in the academic literature.
+
+3. **Bar associations as transition actors**: The role of independent bar associations in building judicial culture during transitions is well-documented in Eastern European cases but understudied for Middle Eastern contexts, where bar associations have often operated under state control.
+
+4. **Post-2015 reversal in Poland**: Poland's Constitutional Tribunal capture by PiS after 2015 represents the most important recent case of judicial independence reversal, but peer-reviewed analysis of the mechanisms enabling this reversal — and how they might be prevented — has only begun to appear in the literature.
+
+5. **Lustration and judicial purge thresholds**: Research on optimal vetting depth is contested. The tradeoff between systemic competence loss (over-purging) and legitimacy deficit (under-purging) is not resolved in the literature, and Iran's specific case — where judicial roles overlap with religious authority — adds complexity not present in Central European analogues.
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+
+Poland's attempt to build an independent judiciary after communism succeeded for 25 years — then the PiS government dismantled it in a matter of months by packing the Constitutional Tribunal. For Iran, the challenge is even more fundamental: the head of the judiciary is directly appointed by the Supreme Leader, making judicial independence structurally impossible without constitutional change at the deepest level. This article examines what genuine judicial independence requires — and how hard it is to reverse once political pressure mounts.

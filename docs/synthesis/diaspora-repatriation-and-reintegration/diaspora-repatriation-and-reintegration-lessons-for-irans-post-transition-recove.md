@@ -75,3 +75,23 @@ The Iranian diaspora's professional concentration (35% STEM/medicine, 25% academ
 **Risks**
 
 The primary danger is the savior-domestic resentment dynamic: treating diaspora as institutional replacements rather than supplements. Domestic professionals who remained under difficult conditions — teaching in underfunded universities, practicing medicine in sanctions-depleted hospitals, building businesses under regulatory hostility — would rightfully resent returnees receiving preferential treatment. The Morocco model of leveraging diaspora economic resources while respecting migrants' transformed identities provides guidance. A second risk is surveillance persistence: security apparatus institutional culture and technical infrastructure for monitoring would persist post-transition, deterring return and enabling selective prosecution disguised as legal process. A third risk is political instrumentalization: a post-transition government using diaspora returnees for international legitimacy while constraining their domestic political participation. A fourth risk is brain drain acceleration: incomplete transition could identify and expose potential returnees to repression if political conditions reverse. Prerequisites: credible security guarantees verified by international observers; balanced integration frameworks; institutional reform preceding recruitment (reformed institutions rather than reformed people in unreformed institutions); gradual timeline (5-15 years); and realistic expectations — most diaspora members will contribute through investment and remote collaboration rather than physical return.
+
+## What We Don't Know
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (9 sources)
+
+**What this synthesis cannot fully answer:**
+
+1. **Political diversity and organizational capacity**: Iran's diaspora contains sharply competing political factions — monarchists, reformists, leftists, Mujahedin-e Khalq, ethnic organizations — whose mutual hostility has prevented the formation of a unified representation body. How competing diaspora parties would relate to a transitional government, and whether coordination is possible, is not addressed in general diaspora repatriation frameworks.
+
+2. **Security service deterrence effects**: How many potential returnees are deterred by realistic fear of arrest or asset seizure — versus how many would return if legal guarantees were credible — is not quantified in the academic literature. The 2022 protests showed that diaspora engagement with Iranian domestic politics has increased, but the barrier to physical return remains high.
+
+3. **Remittance vs. return tradeoff**: For Iran's economy, formal remittance flows from diaspora could fund reconstruction without requiring physical return (which has security, housing, and employment constraints). The relative value of remittances versus in-person talent return is not modeled for Iran's specific economic structure.
+
+4. **Women's return and legal vulnerability**: Diaspora women returning to Iran face specific legal risks — custody battles, freedom of movement restrictions, professional licensing barriers. Gender-specific legal protections required for safe female return are not addressed in the general diaspora repatriation literature.
+
+5. **Brain circulation vs. return**: Research increasingly suggests that the most economically valuable diaspora model is "brain circulation" (frequent short-term engagement) rather than permanent return. Whether Iran's specific needs — institution-building, technical capacity transfer — are better served by return or circulation is not resolved.
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (9 sources)
+
+Iran has one of the world's most educated diasporas — concentrated in Silicon Valley, European universities, and Gulf professional sectors, with extraordinary concentrations of engineers, doctors, and academics who left because of political constraints or economic opportunity. Getting them to return or engage constructively with a post-transition Iran could dramatically accelerate reconstruction. The biggest barrier is not economic incentives but security: Iranians who returned in previous eras faced surveillance, asset seizure, and sometimes arrest. Any serious diaspora repatriation strategy must begin with dismantling the intelligence apparatus that makes return dangerous — which means starting with security sector reform, not diaspora outreach programs.

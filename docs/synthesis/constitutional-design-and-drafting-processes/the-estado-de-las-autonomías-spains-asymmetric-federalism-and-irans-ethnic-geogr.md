@@ -74,3 +74,23 @@ Key ethnic stakeholders include: Kurdish political organizations (KDPI, Komala, 
 **Risks**
 
 The primary danger is centrifugal pressure: autonomy frameworks perceived as insufficient by minority elites but threatening by Persian nationalists could satisfy no one and accelerate separatism. Iran's cross-border dimensions amplify this — Kurdish autonomy could be perceived as a pathway to Kurdish unification across Iran, Iraq, Syria, and Turkey, triggering regional intervention. A second risk is elite capture: without robust accountability mechanisms, devolution could empower local strongmen and create provincial authoritarian fiefdoms — the Indonesian elite capture problem documented in the evidence. IRGC provincial commanders could transition from security chiefs to political bosses. Prerequisites: genuine negotiation with minority representatives (not unilateral framework imposition); security sector reform reducing IRGC provincial dominance; constitutional protections making autonomy arrangements irreversible except by supermajority; fiscal mechanisms ensuring resource-producing regions retain adequate revenue while maintaining solidarity transfers to poorer provinces; and regional diplomacy reassuring neighboring states that Iranian federalism does not threaten their territorial integrity.
+
+## What We Don't Know
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+
+**What this synthesis cannot fully answer:**
+
+1. **Iran's ethnic geography and resource distribution**: Systematic data on regional economic disparities in Iran — the fiscal relationship between oil-producing Khuzestan (Arab-majority), gas-rich Balochistan, and the Persian heartland — is not available in peer-reviewed academic literature and is crucial for designing any autonomy model.
+
+2. **Ongoing Catalan strain**: Spain's Estado de las Autonomías is under significant strain from Catalan independence claims that the model was supposed to resolve. Research on why asymmetric federalism failed to satisfy Catalan demands offers important lessons about the limits of the Spanish model, but post-2017 analysis is still emerging.
+
+3. **Kurdish autonomy models**: Iraq's Kurdish Regional Government (KRG) represents the most applicable existing model for Iran's Kurdish population, but it is not systematically compared with the Spanish case in the academic literature. KRG dynamics — oil revenue disputes, Peshmerga integration, border management — would be directly relevant to Iranian Kurdish autonomy design.
+
+4. **Azeri identity complexity**: Iranian Azeris represent the largest ethnic minority and are internally divided between autonomist, pan-Azerbaijani, and integrationist political currents. Research on how these currents interact with potential decentralization offers a more complex picture than the Catalan comparison captures.
+
+5. **Sequencing territorial reform with constitution-writing**: Whether territorial autonomy should be resolved before or during constitutional drafting — and whether constitutional guarantees are achievable before political stabilization — is a sequencing question the literature does not resolve.
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+
+Spain faced a challenge after Franco that Iran will face: how to hold together a country where major regions (Catalonia, Basque Country) have strong separate identities and had been violently suppressed. Spain's solution was "asymmetric federalism" — different regions got different levels of self-governance based on their specific history. This worked reasonably well for 40 years but is now under severe strain from Catalan independence demands. For Iran, the ethnic geometry is more complex — Kurdish, Azeri, Arab, and Baloch regions have deeper grievances and fewer shared cultural touchpoints with the Persian center — which means Spain's model is instructive but not directly transferable without significant adaptation.

@@ -47,3 +47,23 @@ Ethnic stakeholders with varying demands: Kurdish organizations (KDPI, Komala) s
 **Risks**
 
 The primary danger is that accommodation is perceived as either too little (triggering radicalization) or too much (provoking Persian nationalist backlash and centrifugal pressure). Iran's cross-border ethnic dimensions amplify this: Kurdish autonomy could be perceived as enabling Pan-Kurdish unification; Azeri cultural rights could invite Turkish or Azerbaijani political influence; Arab cultural recognition could be read as Gulf state meddling. A second risk is the religious dimension: extending equality to Baha'is challenges the theological foundations of the Islamic Republic more fundamentally than any ethnic accommodation. A third risk is instrumentalization: ethnic parties could be captured by regional powers (Turkey backing Azeri parties, Iraq/Gulf states backing Arab parties) undermining domestic democratic development. Prerequisites: security sector reform in minority regions preceding accommodation; constitutional reform establishing genuine pluralism; educational reform enabling mother-tongue instruction; economic development investment addressing regional disparities; and sustained engagement with ethnic community representatives as partners in framework design.
+
+## What We Don't Know
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+
+**What this synthesis cannot fully answer:**
+
+1. **Pancasila as an Iranian analogue**: Indonesia's Pancasila ideology — a deliberately non-ethnic, non-religious national identity framework — successfully contained ethnic fragmentation without requiring full cultural assimilation. Whether a comparable post-theocratic Iranian national identity framework could be constructed that accommodates both Persian and minority identities is a cultural-political question not answered by comparative political science.
+
+2. **Azeri political diversity**: Iranian Azeris are internally divided between integrationists, cultural autonomy advocates, and pan-Azerbaijani nationalists. The academic literature treats the Azeri community as a unified political bloc, which does not reflect its actual internal diversity. This matters for assessing whether decentralization satisfies or encourages Azeri demands.
+
+3. **Arab minority in Khuzestan**: Iran's Arab minority in Khuzestan — in an oil-producing region with cross-border ties to Iraq's Arab Shia community — faces specific dynamics not addressed in the general minority rights literature. The combination of oil wealth, cross-border ethnic ties, and Shia sectarian identity creates an unusually complex accommodation challenge.
+
+4. **Balochistan's international dimension**: Baloch communities span Iran, Pakistan, and Afghanistan, creating cross-border ethnic networks that give Iranian Baloch politics an international dimension absent from most comparative minority cases. This cross-border dimension is mentioned but not systematically analyzed in the literature.
+
+5. **Transitional justice and ethnic reconciliation**: Whether transitional justice mechanisms directed at regime abuses against ethnic minorities would help or complicate accommodation — given that prosecuting IRGC officers for operations against Kurdish or Baloch communities could provoke military resistance — is not addressed in the comparative minority rights literature.
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+
+Indonesia manages extraordinary ethnic and religious diversity — over 300 ethnic groups, 700 languages, and a Muslim-majority population with significant Christian, Hindu, and Buddhist minorities — through a combination of decentralization, power-sharing, and a deliberately pluralistic national identity framework. For Iran, where the Islamic Republic has systematically suppressed Kurdish, Azeri, Arab, and Baloch cultural expression, Indonesia offers a compelling comparative case. The key lesson is that formal rights protections matter less than whether the national identity framework has room for minority cultures — Indonesia's success came from Pancasila's deliberate ethnic neutrality, not just legal guarantees.

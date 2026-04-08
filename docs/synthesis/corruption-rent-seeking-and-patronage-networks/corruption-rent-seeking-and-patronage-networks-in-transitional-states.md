@@ -79,3 +79,23 @@ Anti-corruption reform must address not just individuals but entire institutiona
 **Risks**
 
 The primary danger is scope: Iran's corruption is not a governance failure to be corrected but an economic system sustaining millions of livelihoods. Rapid anti-corruption reform without economic alternatives for the intermediary class would trigger political backlash from a broad constituency — not just elites. The Afghan and Egyptian evidence confirms this: anti-corruption campaigns that target individuals while leaving structures intact merely rearrange patronage networks. A second risk is the "reformer's trap": using anti-corruption rhetoric to conduct political purges (as occurred in China's anti-corruption campaign) rather than structural institutional reform. A third risk is that sanctions-era opacity — undocumented transactions, cash-based trade, informal financial networks — makes asset mapping extraordinarily difficult. The Iranian research confirms that تعارض منافع (conflict of interest) at the systemic level has prevented meaningful reform for decades. Prerequisites: economic alternatives for displaced rent-dependent populations (the transition tax concept); asset mapping infrastructure and political will to confront connected interests; international cooperation for cross-border asset recovery; and calibrated expectations — institutional anti-corruption reform requires 10-20 years of sustained effort.
+
+## What We Don't Know
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (10 sources)
+
+**What this synthesis cannot fully answer:**
+
+1. **IRGC business empire mapping**: The precise scope of IRGC economic holdings — the full list of subsidiaries under Khatam al-Anbiya, Mobin Trust, and IRGC-affiliated foundations — is not documented in peer-reviewed academic literature. Estimates of 20-40% of GDP come from think tanks and journalists, not systematic corporate research. Anti-corruption reform requires knowing what is being reformed.
+
+2. **Bonyad internal governance**: Religious foundations (Setad, Bonyad-e Mostazafin) operate with opacity that makes academic analysis extremely difficult. Whether they are genuinely religious welfare organizations, state enterprises by another name, or vehicles for patronage distribution — or all three simultaneously — affects reform strategies differently.
+
+3. **Corruption measurement and perception divergence**: Iran consistently scores in the high-corruption range on Transparency International's Corruption Perceptions Index, but this reflects elite perceptions rather than systematic corruption mapping. Research distinguishing different types of corruption (petty administrative, grand political, institutional capture) and their relative prevalence is not available.
+
+4. **Transitional justice and anti-corruption overlap**: Whether corruption prosecutions of IRGC or clergy figures should be integrated with transitional justice processes or kept separate — and how this sequencing affects both processes — is not addressed in either the anti-corruption or transitional justice literature.
+
+5. **Post-transition corruption surge risk**: Evidence from Central European transitions suggests corruption often increases during the privatization and institutional reconstruction phase before declining. Whether this intermediate surge can be managed, and through what institutions, is a transition management question not resolved in the literature.
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (10 sources)
+
+Every major transition sees corruption — the combination of weakened institutions, new resources to distribute, and uncertain political rules creates ideal conditions for rent-seeking. Iran's corruption challenge is distinctive because the IRGC and bonyad foundations have institutionalized corrupt access into the formal structure of the economy: they don't just benefit from corruption, they are the system. This article examines what anti-corruption strategies have worked in other transitions and finds that legal tools alone are insufficient — successful corruption reduction required institutional redesign that removed the structural advantages that regime-linked actors had accumulated.

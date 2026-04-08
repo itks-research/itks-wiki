@@ -81,3 +81,23 @@ Potential party nuclei already exist: reformist networks (Khatami-aligned, Rouha
 **Risks**
 
 Tunisia's trajectory illuminates Iran's primary danger: rapid party proliferation producing fragmentation, unstable coalitions, and public disillusionment that opens space for authoritarian reversal. Iran's additional risks include: ethnic party mobilization triggering centrifugal pressures (Kurdish parties demanding autonomy, Azeri parties seeking cultural recognition) that overwhelm national coalition-building; IRGC-backed parties using organizational advantages and intimidation to dominate early elections; and clerical parties claiming religious legitimacy to undermine secular competitors. The religious dimension is uniquely explosive: separating the clerical establishment from party politics requires institutional redesign (ending constitutionally mandated clerical political roles) while protecting clerics' individual right to political participation. Prerequisites: constitutional reform preceding party liberalization; electoral system design incentivizing coalition-building; transitional justice framework preventing blanket exclusion of former regime figures while holding accountability for serious violations; and sustained international support for democratic institution-building.
+
+## What We Don't Know
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+
+**What this synthesis cannot fully answer:**
+
+1. **Tunisia's democratic reversal**: President Saied's July 2021 dissolution of parliament and subsequent constitutional changes effectively ended Tunisia's democratic transition. Systematic academic analysis of how party system fragmentation contributed to this reversal — creating the political crisis that Saied exploited — is still being produced. This is the most important gap: the outcome of the experiment this article analyzes was democratic collapse, not consolidation.
+
+2. **Ennahda's organizational model**: The specific organizational techniques that allowed Ennahda to maintain underground networks under Ben Ali, then rapidly field candidates in 2011, offer potential comparative lessons for Iran's reformist and underground opposition. This organizational history has not been systematically documented.
+
+3. **Electoral system effects on fragmentation**: Whether Tunisia's proportional representation system contributed to excessive party fragmentation, and what threshold modifications could have produced more governable outcomes, remains a contested empirical question in the Tunisian literature.
+
+4. **Party finance and foreign influence**: The role of Gulf state and Turkish financial support in funding specific Tunisian parties — particularly Ennahda — after 2011 has been alleged but not systematically documented. Foreign funding dynamics in transitions create structural dependencies that are understudied.
+
+5. **Exile party reintegration**: How parties formed in diaspora communities (many Iranian opposition parties operate from exile) reintegrate with domestic constituencies after a transition is understudied in the comparative party literature.
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+
+Tunisia went from Ben Ali's single-party dictatorship to over 100 registered political parties almost overnight after 2011 — and the chaos this created contributed to the democratic collapse that followed. President Saied used the dysfunctional parliament as justification to dissolve it in 2021 and rewrite the constitution. For Iran, this is a cautionary tale: the first challenge of transition isn't building parties, it's building parties capable of governing. Without coordination mechanisms — whether a broad transitional coalition or an electoral system designed to reward alliance-building — a flood of parties can produce paralysis that discredits democracy before it has a chance to consolidate.

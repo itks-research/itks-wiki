@@ -47,3 +47,23 @@ The Article 44 experience provides a diagnostic: privatization proceeded without
 **Risks**
 
 Iran faces a uniquely compound privatization risk: the combination of military-business complex (IRGC), religious-charitable complex (bonyads), and state patronage complex (conventional SOEs) creates multiple simultaneous capture threats. The primary danger is that any reform pathway — voucher distribution, strategic sales, or employee buyouts — is captured by connected insiders rebranding as "private" actors. The Czech tunneling experience would be reproduced at national scale. A second risk is premature foreign investment: without adequate regulatory infrastructure, foreign buyers could engage in asset stripping rather than productive investment. A third risk is social disruption: rapid SOE restructuring affecting 40-50% of formal employment would create massive displacement without adequate safety nets. The evidence is clear that new firm creation matters more than existing firm privatization — enabling conditions for entrepreneurship (simplified registration, access to credit, commercial law) should receive equal or greater priority. Prerequisites: institutional development before ownership transfer; comprehensive transparency of current holdings; graduated timeline distinguishing manageable from structural privatization; social safety net construction for displaced workers; and recognition that bonyad and IRGC restructuring are security sector reform problems requiring political solutions, not merely economic policy.
+
+## What We Don't Know
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+
+**What this synthesis cannot fully answer:**
+
+1. **Investment privatization fund failure mechanisms**: Czech investment privatization funds concentrated ownership, then looted the enterprises they controlled — a specific failure mode involving fund management incentives and weak securities regulation. Research on whether this failure mode was prevented in other voucher programs (Russia failed similarly; Poland's hybrid model partially avoided it) is contested.
+
+2. **IRGC-linked enterprise governance reform**: Whether Iran's IRGC-linked enterprises could be restructured into genuine private corporations — with dispersed ownership, independent boards, and competitive market exposure — without political confrontation with the IRGC is a political economy question without empirical precedent.
+
+3. **Securities regulation prerequisites**: Czech privatization's failure partly resulted from inadequate securities law and regulatory infrastructure. What minimum institutional prerequisites must exist before privatization for it not to result in oligarchic capture is not resolved in the literature.
+
+4. **Sanctions-era asset valuation**: Iran's SOEs have been operating under sanctions constraints, creating severely distorted asset values. How enterprises would be valued for privatization — and who would bear the cost of adjusting to market prices — is a technical and political question not addressed by the transitions literature.
+
+5. **Worker representation in privatization**: Czech worker-buyout provisions generated different governance dynamics than pure voucher programs. Iran's labor unions — weakened but present — might advocate for worker representation in privatization; the governance implications of different labor stake arrangements are understudied.
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+
+The Czech Republic's voucher privatization was one of the boldest economic experiments of the post-communist transitions — and one of the most instructive failures. Giving citizens vouchers to buy shares in state enterprises seemed democratic, but investment funds concentrated those shares, then stripped assets rather than building businesses. The core lesson for Iran is that privatization only transfers power if there is a functioning regulatory state to prevent reconcentration. Without securities law, independent courts, and corporate governance standards in place first, privatization can simply move state assets into the hands of a new oligarchy — which in Iran's case would mean IRGC-linked entities rather than genuine private capital.

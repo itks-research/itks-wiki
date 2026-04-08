@@ -78,3 +78,23 @@ A credible post-transition health strategy would need to: (1) preserve existing 
 **Enablers and Blockers:** Health reform enablers include the **medical professional community** — Iran produces highly trained physicians and has substantial hospital infrastructure — and **technocratic health planners** who designed the HSRP's sophisticated multi-component reform. The **pharmaceutical industry** (both domestic producers and importers) would benefit from sanctions relief and supply chain normalization. Blockers include **IRGC-affiliated pharmaceutical importers** who profit from sanctions-era scarcity rents and parallel supply chains, **bonyad health facilities** that resist integration into unified national health governance, and **security establishment actors** who prioritize military-intelligence budgets over health spending.
 
 **Iran-Specific Challenges:** Iran's health reform challenge is uniquely compounded by the sanctions-institutional degradation nexus documented in the evidence. Sanctions do not directly deprive Iran of medicines (humanitarian carve-outs technically exist) but systematically degrade the institutional infrastructure for delivering care — banking channels for pharmaceutical procurement, hospital budgeting processes, specialist retention, and patient purchasing power. This means that sanctions relief alone is insufficient; the institutional damage accumulated over decades of disruption must be actively rebuilt. A post-transition health strategy must: (1) preserve the existing medical knowledge base and institutional coping mechanisms (informal supply networks, NGO-mediated patient support) while formalizing them, (2) rapidly restore formal pharmaceutical supply chains through banking normalization, (3) depoliticize health governance by separating bonyad and IRGC health facilities from patronage functions and integrating them into a unified national system, and (4) implement the 105-factor UHC framework identified by Derakhshani et al. with regulatory independence as the foundation rather than political loyalty.
+
+## What We Don't Know
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+
+**What this synthesis cannot fully answer:**
+
+1. **Sanctions effects on health outcomes**: While sanctions are documented to have reduced access to medicines and medical equipment, systematic epidemiological research on mortality and morbidity changes attributable specifically to sanctions (versus other factors) is methodologically challenging and underdeveloped in the literature.
+
+2. **Bonyad-run healthcare systems**: Iran's IRGC-linked and religious foundation-run hospitals and clinics constitute a parallel healthcare system serving specific constituencies. How this parallel system would integrate with or compete with public healthcare in a transition is not addressed in health system reform literature.
+
+3. **Medical brain drain scale**: The emigration rate of Iranian physicians and medical scientists is high but not precisely quantified. Research on what incentives would be required to retain and repatriate medical talent — and what the economic and educational prerequisites are — is not available.
+
+4. **Pharmaceutical manufacturing base**: Iran has developed domestic pharmaceutical manufacturing capacity under sanctions. Whether this capacity would be sustainable or would collapse under competition from imported medicines post-sanctions is a health system design question with important implications for both healthcare access and industrial policy.
+
+5. **Primary care vs. hospital investment**: Iran's health system reform focused on hospital care coverage; primary and preventive care infrastructure is weaker. Comparative research on which investment strategy produces better health outcomes in transitional contexts is contested.
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+
+Iran's public health system has been under sustained pressure from both sanctions — which restricted access to medicines and equipment — and the regime's prioritization of hospital-based care over primary health infrastructure. This article examines what successful health system reform looks like in transitional contexts and finds that the technical design of universal coverage is less important than the political economy: which groups lose funding in restructuring, and whether they have the political power to block reform. For Iran, the specific challenge is that IRGC-linked hospitals and bonyad-run clinics constitute a privileged parallel system whose institutional interests will complicate any rationalization of healthcare delivery.

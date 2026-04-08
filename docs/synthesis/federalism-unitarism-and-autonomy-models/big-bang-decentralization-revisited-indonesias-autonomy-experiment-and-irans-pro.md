@@ -47,3 +47,23 @@ Stakeholders demanding decentralization: Azeri cultural movements (Turkey-orient
 **Risks**
 
 Indonesia's experience reveals Iran's central risk: decentralization without adequate institutional capacity produces local elite capture rather than democratic governance. Provincial IRGC commanders could become regional strongmen; Friday Prayer Imams could leverage religious authority for political control; and bazaari networks could capture economic governance. A second risk is fiscal dependency: if most provinces cannot generate significant own-source revenue (Indonesia averaged only 10-15% local revenue), dependence on central transfers would perpetuate Tehran's leverage. A third risk is separatism: Kurdish autonomy perceived as insufficient could fuel independence demands linked to broader Kurdish national aspirations across the region. Prerequisites: administrative capacity building in provincial governments before authority transfer; anti-corruption mechanisms preventing elite capture; graduated timeline — fiscal transparency first, then administrative devolution, then political autonomy; security sector reform reducing IRGC provincial dominance before civilian decentralization; and regional diplomacy ensuring neighbors (Turkey, Iraq, Pakistan, Azerbaijan) support Iran's internal restructuring.
+
+## What We Don't Know
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+
+**What this synthesis cannot fully answer:**
+
+1. **Oil revenue decentralization**: Iran's fiscal federalism challenge is qualitatively different from Indonesia's because oil revenues constitute a dominant share of central government revenue. How oil wealth would be distributed in a decentralized Iran — particularly whether oil-producing Khuzestan would claim regional ownership of petroleum revenues — is a distributional question not addressed by Indonesia's agricultural-economy-oriented decentralization literature.
+
+2. **IRGC economic decentralization**: The IRGC's regional economic enterprises — construction and infrastructure through Khatam al-Anbiya — are embedded in provincial economies. How provincial decentralization would interact with these cross-regional military enterprises has no parallel in the Indonesian case.
+
+3. **Kurdish autonomy and KRG precedent**: Iraq's Kurdish Regional Government represents the closest existing model for potential Kurdish autonomy in Iran, but the academic literature does not systematically compare Iranian and Iraqi Kurdish political dynamics in a decentralization framework.
+
+4. **Local capacity building**: Indonesia's big bang decentralization revealed severe capacity constraints in local governments suddenly responsible for service delivery. Iran's provincial administrations have more institutional capacity than Indonesian districts in 1999, but capacity audits of provincial governance capacity are not available in the academic literature.
+
+5. **Sequencing with constitutional design**: Whether decentralization should be constitutionally mandated before or during political stabilization — and whether interim decentralization arrangements can build capacity without permanently entrenching premature territorial boundaries — is a sequencing question not resolved in the literature.
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+
+Indonesia's 1998 transition produced the most extreme decentralization experiment in modern history: overnight, the Suharto-era central state transferred massive responsibilities to hundreds of local governments that had never exercised independent authority. The results were mixed — corruption migrated from Jakarta to local capitals, ethnic conflicts increased in some regions, but service delivery also improved in others. For Iran, the key lesson is not whether to decentralize but how much and how fast. A phased approach that builds local government capacity before full fiscal decentralization would likely outperform a big bang, but Iran's ethnic geography — with Kurds, Azeris, Arabs, and Baloch demanding meaningful autonomy — creates political pressure for rapid change.

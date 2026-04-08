@@ -55,3 +55,23 @@ Enablers: reformist jurists and lawyers who have invoked rule-of-law concepts wi
 **Risks**
 
 Rapid judicial reform risks either institutional vacuum (if existing judges are purged) or persistent illiberalism (if they are retained without reorientation). Spain's experience — maintaining Franco-era judges while building new structures — demonstrates the latter risk: judicial culture persisted for decades after formal institutional change. Iran would face this at greater intensity because judges are trained in seminary-influenced jurisprudence that treats religious authority as constitutive of legal legitimacy. A second risk is post-transition judicial capture by new political actors — Poland's PiS experience shows this can happen even in EU-member democracies with external pressure. Iran, lacking such external anchoring, would be more vulnerable. The most dangerous risk is that failure to reform the judiciary enables transitional justice abuses: without independent courts, accountability processes for regime crimes could become political vendettas. Prerequisites: constitutional reform separating judicial appointment from Supreme Leader authority; transitional justice framework establishing accountability principles before court reform; sustained investment in judicial retraining (5-10 year program); and preservation of Islamic jurisprudential tradition as scholarly resource while removing its coercive state enforcement.
+
+## What We Don't Know
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
+
+**What this synthesis cannot fully answer:**
+
+1. **Islamic judicial reform precedents**: Morocco's 2011 constitutional reforms created a new Constitutional Court with formal independence, and Jordan's 2011 amendments restructured the Supreme Constitutional Court. These cases of Islamic-identity-maintaining judicial reform are not systematically incorporated into this synthesis, which draws primarily on European cases.
+
+2. **Clerical courts (دادگاه ویژه روحانیت)**: Iran's Special Court for the Clergy, which operates outside the formal judiciary and tries clerics accused of political offenses, has no parallel in any transition case. Whether it would be abolished, integrated, or maintained in a reformed system is unaddressed in the literature.
+
+3. **Jurisprudential plurality within Shia Islam**: Iran's Shia jurisprudence contains significant internal debate about the compatibility of velayat-e faqih with democratic governance — the "Najaf model" represented by Ayatollah Sistani in Iraq offers an alternative Islamic constitutionalism. This internal theological competition as a resource for judicial reform is understudied.
+
+4. **Judge retraining vs. replacement**: Poland and Spain both largely retained existing judges rather than replacing them, relying on constitutional restructuring to change incentives. Whether Iran's judges — many of whom have participated in politically motivated prosecutions — can be functionally retrained or must be replaced raises questions the comparative lustration literature does not resolve for judicial systems.
+
+5. **International judicial standards and Islamic law**: The relationship between international human rights standards (ICCPR, UN Basic Principles on Independence of Judiciary) and Islamic jurisprudence in a post-transition Iranian constitution is a legal-philosophical question with practical consequences not addressed in the transitions literature.
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
+
+Spain and Poland both built genuinely independent judiciaries after authoritarian rule — though Poland's has since come under political attack. The key lesson for Iran is that judicial independence is not just about writing it into a constitution: it requires building a legal culture where judges' careers are not tied to political loyalty, lawyers can challenge the state, and bar associations function as independent professional bodies rather than regime auxiliaries. For Iran, the additional challenge is that Islamic jurisprudence is not just a political overlay on the legal system — it is the formal basis of the entire system, which means judicial reform requires engaging substantively with questions of Islamic law rather than simply removing clerical supervision.

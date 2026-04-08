@@ -47,3 +47,23 @@ Enablers: Iran's nuclear workforce (3,000-5,000 active researchers and technicia
 **Risks**
 
 The primary danger is incomplete civilian transition: maintaining enrichment capability under nominal civilian authority while IRGC institutional influence persists, perpetuating international distrust and sanctions justification. A second risk is the "national pride trap": nuclear capability is deeply embedded in Iranian national identity across the political spectrum, making any perceived capitulation (enrichment suspension, facility closure) politically explosive — even a democratic government would face domestic pressure to maintain capabilities. A third risk is the verification credibility problem: Iran's history of undeclared nuclear activities (discovered at Natanz in 2002, Fordow in 2009) means international confidence in civilian intent requires sustained, intrusive verification that may conflict with sovereignty sensitivities. Prerequisites: political transition enabling civilian authority over nuclear decisions; comprehensive security guarantees addressing Iran's legitimate threat environment; negotiated framework distinguishing between civilian enrichment rights and proliferation-sensitive capabilities; institutional separation of AEOI from IRGC influence; and sustained international engagement supporting civilian nuclear development rather than demanding complete capability elimination.
+
+## What We Don't Know
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+
+**What this synthesis cannot fully answer:**
+
+1. **IRGC/MOIS opacity in nuclear program**: The actual scope of military research occurring under civilian AEOI cover is not documented in open-source academic literature. The 2003 IAEA Additional Protocol disclosures revealed systematic deception; subsequent research has not resolved what undisclosed military research may continue.
+
+2. **South Korea model limitations**: South Korea's civilian nuclear program succeeded partly because US extended deterrence removed the security motivation for maintaining weapons capability. Iran lacks an equivalent security guarantee, making the incentive structure fundamentally different. This constraint is acknowledged but not resolved in the literature.
+
+3. **Civilian nuclear economics under sanctions**: Whether Iran's existing nuclear infrastructure — the Bushehr plant, enrichment facilities, research reactors — can be economically operated as a civilian program once military applications are eliminated is an engineering and economics question not addressed in the political transitions literature.
+
+4. **Technology transfer and NPT compliance**: The conditions under which Iran could receive civilian nuclear technology from other NPT signatories following a political transition — and what verification architecture would enable this — involves technical details beyond the scope of the comparative transitions literature.
+
+5. **Regional proliferation dynamics**: Whether a successful Iranian civilian nuclear transition would reduce or increase nuclear ambitions among Saudi Arabia, Turkey, and Egypt depends on factors the Iran-focused literature does not address.
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+
+South Korea in the 1970s had a secret nuclear weapons program — and shut it down in exchange for US security guarantees and civilian nuclear cooperation. This article asks whether a comparable deal is possible for Iran. The nuclear infrastructure Iran has built is very different from South Korea's early program: it is more advanced technically, more integrated into the industrial economy, and more politically symbolic — uranium enrichment has become a nationalist cause. The key finding is that civilian nuclear transition is technically feasible but requires a credible security guarantee that Iran cannot get from any single actor in the current regional environment.

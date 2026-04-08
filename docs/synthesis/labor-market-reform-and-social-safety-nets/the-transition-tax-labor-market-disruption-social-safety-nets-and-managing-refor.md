@@ -47,3 +47,23 @@ Key stakeholders: the formal-sector workforce in SOEs, bonyads, and IRGC-linked 
 **Risks**
 
 The primary danger is economic shock without social cushion: rapid SOE restructuring displacing millions without adequate safety nets could trigger political instability capable of derailing transition entirely. Spain's 20% unemployment during transition was sustainable because the Moncloa Pacts maintained social consensus; Iran would need an equivalent grand bargain. A second risk is subsidy reform backlash: energy and food subsidy reduction is fiscally necessary but politically explosive — the 2019 fuel subsidy reduction triggered Iran's most violent protest since 1979 (Bloody November/آبان ۹۸). A third risk is gendered displacement: if restructuring disproportionately affects female workers (already marginalized) or fails to create female employment opportunities, transition could worsen rather than improve women's economic position. Prerequisites: social safety net construction before or simultaneous with economic restructuring (not after); independent labor institutions enabling worker voice in transition design; petroleum revenue management ensuring fiscal capacity for transfer programs; regional development strategy preventing geographic concentration of unemployment; and realistic timeline — full labor market adjustment requires 10-15 years, not shock therapy.
+
+## What We Don't Know
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+
+**What this synthesis cannot fully answer:**
+
+1. **Iran's labor market informal sector**: Iran has a large informal economy estimated at 40-50% of GDP. Research on how transition has affected informal sector workers — who lack social security coverage and formal labor rights — in comparable transitions is thin. Spain and Czech Republic had smaller informal sectors, making direct comparison difficult.
+
+2. **Bonyad welfare systems**: Iran's religious foundations (بنیادها) operate parallel welfare systems serving veterans' families, martyrs' families, and regime loyalists. How these parallel systems would be integrated with or replaced by public social safety nets is not addressed in the comparative transitions literature.
+
+3. **Unemployment shock magnitude**: The range of plausible unemployment scenarios in an Iranian transition — from moderate restructuring to catastrophic IRGC enterprise collapse — spans a much wider range than the historical cases. Stress-testing social safety net designs against extreme scenarios is not done in the literature.
+
+4. **Youth employment and political stability nexus**: Iran's young, urbanized, educated population represents both a human capital resource and a political risk if transition-era unemployment is severe. Research on how youth unemployment contributed to democratic reversal in transitions (Tunisia's case is instructive) is not fully incorporated into labor market reform planning.
+
+5. **Gender and labor market transition**: Iran's female labor force participation is among the lowest in the world by formal measures, despite high female educational attainment. How a transition would affect female employment — positively through removing restrictions, negatively through economic disruption — is not addressed in the comparative literature.
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+
+Spain's democratic transition came with a brutal economic cost: unemployment rose from 5% in 1975 to over 20% by 1985, with youth unemployment above 40%. The Czech Republic managed transition more smoothly, partly through deliberate sequencing of reforms. For Iran, the transition tax will be severe because of the specific structure of its economy: the IRGC controls large industrial enterprises that are economically inefficient but employ hundreds of thousands; bonyad foundations provide welfare services that would collapse without their organizational infrastructure; and sanctions have suppressed exactly the foreign investment that could create new employment. Planning for this disruption — not hoping it can be avoided — is the core lesson this article draws from the comparative evidence.

@@ -100,3 +100,23 @@ The WLF movement identified a politically astute sequencing: mandatory hijab rep
 **Risks**
 
 Rapid family law reform risks provoking a conservative backlash capable of destabilizing transition. Iran differs from Tunisia in that gender law is constitutively linked to regime legitimacy — reform does not merely change policy but challenges the theological foundation of governance. A second risk is the urban-rural divide in women's priorities: urban educated women prioritizing hijab and professional autonomy versus rural and working-class women needing inheritance, custody, and economic rights reform. A transition government that addresses symbolic demands without substantive economic reform for rural women would replicate the class divide evident in Iranian protest movements. Prerequisites: broad-based women's coalition maintaining unity across class and urban-rural lines; reformed judicial system capable of enforcing new laws in provincial areas; economic measures accompanying legal reform (inheritance redistribution, employment access, childcare infrastructure); and theological engagement — reformed Islamic jurisprudence supporting gender equality, not merely secular imposition — to maintain legitimacy across Iranian society.
+
+## What We Don't Know
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+
+**What this synthesis cannot fully answer:**
+
+1. **Post-2022 legal consequences**: The "Woman, Life, Freedom" (زن، زندگی، آزادی) uprising of 2022-2023 represents a major inflection point in Iranian women's rights mobilization, but systematic academic research on its medium-term legal and political consequences has not yet been produced. Most available analysis is journalistic or think-tank-based.
+
+2. **Islamic feminist jurisprudence**: The internal Islamic scholarly debate about gender equality — ijtihad-based arguments for reform from within the Shia legal tradition — is underrepresented in comparative gender law literature, which focuses primarily on secular legal frameworks. Understanding what reinterpretation is available within Islamic jurisprudence matters for assessing reform pathways.
+
+3. **Tunisia and Morocco models**: Tunisia's 2017 inheritance law reforms and Morocco's 2004 Mudawwana (Family Code) reform — both achieved within Islamic identity frameworks — offer potentially transferable models for Iran, but they have not been systematically compared in the academic literature as applicable precedents.
+
+4. **CEDAW ratification pathways**: The process by which Muslim-majority countries have ratified CEDAW with or without reservations, and what reservations were maintained, provides a practical legal toolkit for transitions but is not synthesized in the Iran-focused literature.
+
+5. **Men's coalitional support for gender reform**: Research on which male political and religious actors have historically supported women's rights reforms in transitional Muslim-majority contexts is thin, limiting understanding of the coalition-building requirements for reform.
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+
+Iran's 1979 revolution didn't just change the government — it legally redefined women as second-class citizens, stripping rights that had existed under the Shah: mandatory hijab, unequal divorce, reduced legal standing in courts. The "Woman, Life, Freedom" uprising of 2022 demonstrated that these restrictions have created massive pent-up opposition. This article examines how countries have reformed discriminatory gender law, particularly in Islamic contexts, and finds that the most durable reforms used Islamic jurisprudential arguments rather than secular challenges — reinterpreting the tradition from within rather than trying to override it from without.

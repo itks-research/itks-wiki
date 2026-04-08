@@ -47,3 +47,23 @@ Potential party nuclei exist across the political spectrum: reformist networks (
 **Risks**
 
 The primary danger is party system capture by well-resourced regime remnants: IRGC-backed organizations could dominate early elections through superior organizational capacity, media access, and financial resources — even without formal vetting advantages. Spain's UCD demonstrates that regime-insider parties can succeed democratically, but Iran's IRGC poses a qualitatively different challenge: an armed organization with economic empire and intelligence capabilities. A second risk is diaspora-domestic disconnect: exile-based parties returning with foreign funding and connections but lacking domestic constituency understanding. A third risk is ethnic party mobilization overwhelming national coalition-building: if Kurdish, Azeri, and Arab parties pursue maximalist ethnic agendas, cross-cutting national coalitions become impossible. Prerequisites: security sector reform ensuring IRGC cannot function as a political party; level playing field in media access and financing; transitional justice framework preventing blanket exclusion of former regime participants while ensuring accountability; electoral system design empirically tested against fragmentation; and sustained commitment to institutional development over rapid democratization.
+
+## What We Don't Know
+
+> 🔴 **Evidence Confidence: Low** — Moderate source triangulation (7 sources); sources with gate2 concerns
+
+**What this synthesis cannot fully answer:**
+
+1. **Iranian regime-insider parties**: The UCD in Spain was composed of regime insiders who navigated the transition. In Iran, whether IRGC-affiliated or reformist Islamic Republic figures could play an analogous role — credibly committing to democratic rules while maintaining enough insider legitimacy to prevent regime hardliners from rejecting the transition — is a highly Iran-specific question not resolvable from the comparative literature.
+
+2. **MEK and exile parties**: The Mojahedin-e Khalq (MEK) and other exile organizations represent a distinctive challenge not present in Spain or Tunisia: organizations with military histories and foreign government sponsors seeking to reenter domestic politics. How to integrate or exclude such organizations without creating security risks or democratic legitimacy deficits is not addressed in the transitions literature.
+
+3. **Social media and party organization**: Spain built parties through physical networks; Tunisia used satellite television. Iran's opposition would primarily organize through social media platforms that can be monitored and disrupted by state security. How party organization functions under ongoing digital surveillance — even in a transitional environment — is not theorized in the comparative party formation literature.
+
+4. **Islamic parties in post-theocratic context**: Tunisia's Ennahda navigated the transition from underground Islamist movement to governing party. Whether Iran could have a legitimate Islamic democratic party operating within a constitutional framework that replaces velayat-e faqih — and how its relationship with Qom seminaries would work — is theoretically important but empirically understudied.
+
+5. **First-mover advantages in party competition**: Research on how first-mover advantages in post-authoritarian party formation — which party registers first, claims key organizational assets, hires experienced party workers — affect long-term party system development is thin in the transitions literature.
+
+> 🔴 **Evidence Confidence: Low** — Moderate source triangulation (7 sources); sources with gate2 concerns
+
+Spain's peaceful transition from Franco's dictatorship involved a remarkable feat: building competitive political parties almost from scratch, while keeping the military from intervening and preventing extremists on both sides from derailing the process. The key mechanism was elite agreement — the "Pact of Moncloa" that established shared rules for political competition before anyone knew who would win under those rules. For Iran, the challenge is that the equivalent of Spain's moderate Francoists — regime insiders willing to accept democratic rules in exchange for guarantees about the past — would need to come from the IRGC and clerical establishment, actors whose entire institutional identity is built around rejecting competitive politics. Identifying which, if any, IRGC and clergy figures could play this bridging role is Iran's most critical pre-transition political problem.

@@ -95,3 +95,23 @@ Potential enablers of seminary depoliticization: "quietist" maraji (senior ayato
 **Risks**
 
 The primary danger is institutional collapse: if depoliticization is experienced as dispossession, the seminary could lose its most capable scholars to diaspora institutions (already competing for theological authority) while retaining only those dependent on political patronage — producing an impoverished, resentful institution. A second risk is IRGC resistance: the Guards' institutional identity depends on revolutionary Islamic legitimacy, making seminary depoliticization an existential threat to IRGC ideological foundations. A third risk is irrelevance: a younger generation that has experienced theocratic governance may reject clerical authority entirely, producing not a reformed seminary but a marginal institution. The sanctions economy has paradoxically strengthened seminary institutions through bonyad connections; financial reform that severs these connections could destabilize seminary capacity before alternative funding develops. Prerequisites: financial transition plan sustaining seminary institutional capacity during depoliticization; engagement with marja'iya as partners in transformation rather than subjects of reform; preservation of Shi'i jurisprudential tradition as scholarly heritage; and acceptance that the seminary's post-theocratic form cannot be designed externally but must emerge from internal scholarly deliberation.
+
+## What We Don't Know
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+
+**What this synthesis cannot fully answer:**
+
+1. **Post-Khamenei succession and Hawza**: The transition after Khamenei's death — and whether the Hawza reasserts independence in choosing his successor or remains subordinate — is the single most consequential institutional moment for Iran's seminary system. Academic literature on how Shia succession processes have historically worked under political pressure is thin and contested.
+
+2. **Najaf model applicability**: Ayatollah Sistani's Quiet Quietism in Iraq offers an alternative model of seminary-state relations — clerical authority maintained through religious prestige rather than state power — but its transferability to Iran's institutional context (where velayat-e faqih is constitutionally embedded) is not systematically analyzed.
+
+3. **Seminary institutional economics**: The Hawza's internal governance — how it funds itself, assigns prestige, grants qualifications, and selects its senior scholars — is understudied. Understanding these internal dynamics matters for assessing whether the Hawza could autonomously reassert independence or requires external institutional change.
+
+4. **Reformist jurisprudence as political resource**: The internal theological critiques of velayat-e faqih from scholars like Montazeri, Kadivar, and Shabestari represent resources for post-transition legitimation that have not been systematically catalogued or assessed for political utility.
+
+5. **Religious pluralism after theocracy**: Research on what happens to formal clerical authority in post-theocratic transitions — specifically how Turkey managed (or failed) the relationship between Diyanet and political Islam — provides comparative purchase not fully developed in the Iran-focused literature.
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+
+Iran's post-revolution state fused religious and governmental authority in unprecedented ways — the Supreme Leader is both the head of state and the paramount religious authority. This article examines what happens to the Qom seminary system if this fusion is unwound: does the Hawza return to its pre-revolutionary political quietism, splinter along political lines, or try to maintain political relevance through institutional maneuvering? The key finding is that the seminary's long-term relationship with state power has created structural dependencies that will make genuine separation difficult — and that successor leadership to Khamenei will be the critical inflection point.

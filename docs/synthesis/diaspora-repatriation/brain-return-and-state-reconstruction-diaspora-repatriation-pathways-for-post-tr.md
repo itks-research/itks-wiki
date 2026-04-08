@@ -141,3 +141,23 @@ The Iranian diaspora (estimated 4-5 million) is unusually concentrated in profes
 **Risks**
 
 The primary danger is the "savior trap": treating diaspora as replacements for domestic capacity rather than supplements. Domestic professionals — who remained under difficult conditions — may resent returnees receiving preferential appointments, salaries, or institutional authority. This resentment could become politically explosive if returnees are perceived as culturally disconnected or aligned with foreign interests. A second risk is surveillance persistence: even post-transition, security apparatus institutional culture and technical infrastructure for monitoring returnees would persist, deterring return and undermining trust. A third risk is brain drain acceleration: if transition is incomplete or reversed, diaspora engagement programs could identify and expose potential returnees to repression. Prerequisites: credible security guarantees verified by international observers; balanced integration frameworks respecting both returnee and domestic professional contributions; institutional reform preceding recruitment (reformed universities, independent research institutions) rather than recruiting into unreformed institutions; and realistic expectations — diaspora return will be gradual (5-15 year process) rather than immediate.
+
+## What We Don't Know
+
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
+
+**What this synthesis cannot fully answer:**
+
+1. **MOIS threat assessment uncertainty**: Whether the Ministry of Intelligence and Security would treat returning diaspora as security threats — and how this risk calculus would change in a transition scenario — is not resolvable from the comparative literature. South Korea's success depended partly on the absence of an ongoing security apparatus with memories of diaspora activism.
+
+2. **Diaspora composition and political diversity**: Iran's diaspora includes mutually hostile political factions (monarchists, reformists, leftists, MEK affiliates). How competing diaspora parties would relate to a transitional government, and which skills and networks would be most valuable, is not systematically studied.
+
+3. **Reverse brain drain economics**: The academic literature on diaspora repatriation focuses heavily on South Korea and Taiwan, both of which had rapidly growing economies to attract returnees. Iran's transition may involve economic contraction before recovery, creating a different incentive structure for skilled return that is not modeled in the existing literature.
+
+4. **Women and diaspora return**: Diaspora women returning to Iran face specific risks and require specific legal protections (custody of children, freedom of movement, professional licensing) that are not addressed in general diaspora repatriation frameworks.
+
+5. **Remittance vs. return tradeoffs**: For Iran's economy, whether it is preferable to encourage remittances from diaspora or in-person return — particularly given housing and labor market constraints — is a policy question without clear empirical guidance from the literature.
+
+> 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
+
+Iran has one of the largest diasporas in the world — over 5 million people, concentrated in the US, Europe, and the Gulf, with extraordinary concentrations of scientists, engineers, doctors, and entrepreneurs. South Korea and Taiwan successfully attracted their diasporas back to support economic development; this article asks whether Iran could do the same. The obstacle is not primarily legal or economic — it is security: returning Iranians have historically faced arrest, asset seizure, and in some cases execution. Any serious diaspora repatriation strategy must begin by dismantling the intelligence surveillance infrastructure that makes return dangerous, not just offering financial incentives.

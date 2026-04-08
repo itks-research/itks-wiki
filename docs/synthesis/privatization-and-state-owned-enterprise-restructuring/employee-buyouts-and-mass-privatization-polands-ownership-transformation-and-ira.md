@@ -74,3 +74,23 @@ Any genuine privatization requires confronting the IRGC economic empire directly
 **Risks**
 
 The primary danger is replicating Article 44's failure: nominal privatization that transfers state assets to new regime-connected actors rather than creating genuine market competition. Iran's sanctions-era economic networks — import-license holders, currency traders, IRGC smuggling operations — constitute a class of rent-seekers who would resist market liberalization. A second risk is fire-sale privatization under fiscal pressure: a post-transition government desperate for revenue could sell state assets at deep discounts to well-capitalized buyers (including IRGC-linked figures rebranding as private investors). Prerequisites: comprehensive asset registry; functioning commercial courts with enforcement capacity; securities regulation preventing concentrated control acquisition; constitutional protections for property rights enabling foreign investment; and graduated timeline distinguishing manageable privatizations (small SOEs) from structural transformations (IRGC divestiture, bonyad reform).
+
+## What We Don't Know
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (5 sources)
+
+**What this synthesis cannot fully answer:**
+
+1. **IRGC economic integration depth**: The full extent of IRGC-linked entities in Iran's formal economy — estimated at 20-40% of GDP across subsidiaries of Khatam al-Anbiya, Mobin Trust, and related networks — is not precisely documented in peer-reviewed economics literature. Most quantitative estimates come from think tanks and sanctions compliance databases rather than systematic academic research.
+
+2. **Bonyad governance and privatization**: The religious foundations (بنیادها) that hold large shares of Iran's economy — Bonyad-e Mostazafin, Setad Ejraiye Farmane Hazrate Emam — operate with opaque governance structures. How they would respond to privatization pressure, and whether they constitute genuine private ownership or state ownership by other means, is poorly theorized.
+
+3. **Voucher privatization legacy**: Poland's mass privatization program generated significant long-term corporate governance problems (investment fund capture, worker-ownership dilution). Whether Iran's post-transition economy could avoid repeating these outcomes with better design is not answered by the existing literature.
+
+4. **Energy sector special case**: Privatization of natural resource extraction industries — oil, gas, petrochemicals — has different dynamics than manufacturing. The literature on Poland focuses on manufacturing privatization; Iran's dominant state enterprises are in energy, where privatization models remain contested globally.
+
+5. **Sequencing under sanctions**: Whether sanctions relief must precede privatization for Iranian enterprises to attract genuine private investment, or whether sequencing can run in parallel, is a policy-relevant question not addressed by the transitions literature.
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (5 sources)
+
+Poland privatized its state-owned enterprises through mass voucher programs and direct sales in the 1990s, transforming its economy in under a decade. The key lesson for Iran is not the speed but the politics: Poland's partial privatization kept political allies in key industries for years, slowing the transition. Iran's challenge is far more complex because the IRGC and religious foundations are not just political actors but economic empires — any privatization effort will require directly confronting their ownership claims in sectors they've spent decades acquiring. Without resolving this, 'privatization' risks being a paper transfer to IRGC-linked entities rather than genuine market reform.

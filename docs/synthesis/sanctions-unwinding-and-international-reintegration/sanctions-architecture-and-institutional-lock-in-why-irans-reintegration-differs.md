@@ -95,3 +95,23 @@ Reintegration requires simultaneous domestic and international reform — a coor
 **Risks**
 
 The primary danger is partial sanctions relief that perpetuates the worst features of both sanctions and integration: enough relief to reduce reform pressure but insufficient to enable genuine economic restructuring. The JCPOA experience demonstrated this: 2016-2018 partial relief benefited connected insiders while ordinary Iranians saw limited improvement. A second risk is the vested interest problem: sanctions-era economic actors (including IRGC networks) repositioning as "private sector" actors during reintegration, capturing the benefits of relief while maintaining rent-seeking structures. A third risk is geopolitical: Iran-China economic alignment developed during sanctions may prove more durable than assumed, reducing Iranian incentives for Western reintegration. Prerequisites for credible reintegration: comprehensive financial reform including FATF compliance; transparent asset mapping of designated entities; political transition establishing civilian authority over sanctions-relevant decisions; and international framework linking relief to verifiable institutional reform rather than mere nuclear compliance.
+
+## What We Don't Know
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+
+**What this synthesis cannot fully answer:**
+
+1. **Sanctions-created institutional lock-in**: While the structural argument that sanctions generate new economic winners with political interests in their perpetuation is theoretically compelling, systematic empirical research on this mechanism in Iran's specific case — documenting which IRGC entities have become dominant in which sectors as a direct result of sanctions-imposed competitive advantages — is thin in peer-reviewed literature.
+
+2. **Venezuela and North Korea comparisons**: Both countries have developed sophisticated sanctions-circumvention architectures over decades. Comparative research on how these systems functioned and what their unwinding would require could strengthen the Iran analysis, but direct comparisons are underdeveloped in the academic literature.
+
+3. **Credible commitment under sanctions relief**: The literature on how states credibly commit to nuclear compliance after sanctions relief — the JCPOA's core challenge — does not resolve the verification question. Game-theoretic models exist but do not capture Iran's specific institutional context.
+
+4. **Secondary sanctions and third-country behavior**: How secondary sanctions (penalties on non-US entities doing business with Iran) have reshaped the behavior of European, Asian, and Gulf countries in ways that persist even after primary sanctions are lifted is documented in business and legal literature but not fully integrated into political economy analysis.
+
+5. **Timing and sequencing**: When in a political transition sanctions relief should occur — before, during, or after power transfer — is a policy question with competing theoretical arguments but little empirical evidence from analogous transitions.
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+
+Iran faces the most complex sanctions architecture ever assembled against a single country — not just US sanctions, but overlapping EU, UN, and bilateral sanctions targeting hundreds of specific people, companies, and sectors. The counterintuitive finding of this article is that these sanctions have created a powerful constituency *against* their own removal: IRGC-linked companies that built market dominance by navigating sanctions workarounds now benefit economically from the sanctions environment and would lose competitive advantages if Iran reintegrated normally with the global economy. Unwinding sanctions is therefore not just a diplomatic problem — it's a domestic political economy problem.

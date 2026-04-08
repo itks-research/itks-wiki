@@ -76,3 +76,23 @@ Iran's tech-literate population — demonstrated through three successive digita
 **Risks**
 
 The primary danger is surveillance persistence: billions invested in digital monitoring infrastructure — IRGC Cyber Command, MOIS capabilities, commercially acquired spyware, embedded telecom monitoring — would not disappear with regime change. These capabilities could be repurposed by successor governments or captured by security apparatus elements during transition. Tunisia confirms this risk. A second danger is the "digital divide" risk: if NIN infrastructure is dismantled without replacement, populations dependent on domestic digital services (rural, lower-income, less technically sophisticated) could lose access while VPN-savvy urban populations gain. A third risk is diaspora dependency: over-reliance on foreign-based technical solutions rather than building domestic institutional capacity for open digital governance. A fourth risk is the commercial spyware market: even post-transition, the international spyware industry documented by Conduit would continue marketing surveillance capabilities to Iranian security agencies. Prerequisites: pre-transition mapping of surveillance infrastructure; data protection legislation before e-government deployment; telecom ownership restructuring; international cooperation on spyware export controls; investment in domestic digital infrastructure; and recognition that digital transition is a 5-10 year institutional transformation, not a switch to be flipped.
+
+## What We Don't Know
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (10 sources)
+
+**What this synthesis cannot fully answer:**
+
+1. **National Information Network kill switch**: Iran's domestic intranet infrastructure — built to allow complete disconnection from the global internet — has been used during protests (November 2019, September 2022). Whether this infrastructure can be permanently dismantled without creating vulnerabilities that require the same capabilities, and who controls the switch during a transition, is a technical and political question not addressed in the internet freedom literature.
+
+2. **VPN ecosystem integration**: Iran's massive VPN usage has created a parallel information market that operates outside state control. How this informal infrastructure would evolve in a transition — whether it becomes obsolete or becomes the foundation of a new independent media ecosystem — is not theorized.
+
+3. **AI surveillance systems**: Research on the use of artificial intelligence for facial recognition, network analysis, and content moderation in authoritarian contexts is rapidly evolving, but systematic analysis of Iran's specific capabilities — and what would be required to audit and dismantle them — is not available in the open-source literature.
+
+4. **Digital economy transition**: Iran's technology sector (e-commerce, fintech, application development) grew substantially under sanctions-imposed isolation from international platforms. How Iranian digital companies would fare in open competition, and whether digital liberalization would strengthen or displace this sector, is understudied.
+
+5. **Media pluralism and disinformation risks**: Removing censorship infrastructure creates free speech, but also opens space for organized disinformation campaigns. How to build media pluralism that is resilient to manipulation — particularly from external actors (Russia, Gulf states) with interests in Iran's information environment — is not addressed in the digital freedom literature.
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (10 sources)
+
+Iran has built one of the world's most sophisticated internet control systems — and its citizens have become some of the world's most experienced VPN users to get around it. This article examines what happens to digital infrastructure in transitions: does internet freedom create the civic space it promises, or does it simply shift control from state censors to platform algorithms and foreign influence operations? The key finding is that removing censorship is necessary but not sufficient for democratic digital governance — the institutional infrastructure (independent media, digital literacy, platform regulation) matters as much as the technical architecture.

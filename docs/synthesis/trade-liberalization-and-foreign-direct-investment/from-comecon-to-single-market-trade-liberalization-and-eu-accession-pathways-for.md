@@ -47,3 +47,23 @@ Enablers: Iran's existing manufacturing base (automotive, petrochemicals, steel,
 **Risks**
 
 Shock therapy trade liberalization could destroy Iran's import-substitution industries — employing millions — before competitive alternatives develop. Poland's initial unemployment spike (5% to 20% in a decade) occurred in a diversified economy with EU access; Iran, more petroleum-dependent and sanctions-damaged, would face worse outcomes from rapid opening. A second risk is IRGC trade capture: the Guards' control of smuggling networks and port operations means liberalization could be co-opted — IRGC entities converting from smugglers to "legitimate" importers with superior logistics infrastructure. A third risk is Dutch disease: petroleum revenue normalization during sanctions relief would appreciate the currency, destroying non-oil export competitiveness. Prerequisites: graduated liberalization sequenced with institutional development (the CEE evidence is clear on this); industrial policy supporting non-oil sectors before competitive exposure; IRGC trade infrastructure divestiture; customs modernization reducing corruption and smuggling; and diaspora investment legal framework enabling capital mobilization.
+
+## What We Don't Know
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+
+**What this synthesis cannot fully answer:**
+
+1. **Iran-specific trade structure**: Poland and Czech Republic's trade liberalization was shaped by pre-existing industrial capacity and geographic proximity to EU markets. Iran's trade structure — oil-dominated exports, substantial manufacturing base, geographic position between Gulf and Central Asian markets — is distinct enough that direct application of the Central European model is limited. Iran-specific trade modeling is needed but not available in the academic literature.
+
+2. **Regional trade architecture**: No comprehensive regional trade institution exists in Iran's neighborhood equivalent to the Europe Agreement. Gulf Cooperation Council membership is implausible for Iran; SCO membership is possible but does not provide EU-style regulatory harmonization. What Iran's realistic regional trade integration pathway looks like is undertheorized.
+
+3. **Sanctions unwinding and FDI timing**: Whether foreign investment would flow into Iran quickly after sanctions relief — as it did in Poland after EU association — or remain constrained by residual risk perceptions and legal uncertainty is not predictable from the Central European case, which did not involve comparable sanctions history.
+
+4. **Chinese economic penetration**: Iran has deepened economic ties with China under sanctions, creating dependency relationships that create different integration incentives than Poland's unipolar European anchor. How these Chinese economic interests would interact with Western reintegration is not addressed in the transitions literature.
+
+5. **Brain drain and skilled labor**: Poland experienced substantial net emigration to EU countries after accession. Iran's brain drain is already severe; trade liberalization might accelerate emigration rather than creating compensating inflows. The net effect on human capital is not modeled in the literature.
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+
+Poland and the Czech Republic transformed themselves from Soviet-era command economies into integrated European market economies in about 15 years — one of the most successful trade liberalization stories in modern history. The anchor for this transformation was EU accession, which provided both a destination market and a regulatory template that forced institutional modernization. Iran has no equivalent anchor: it cannot join the EU, the WTO would be the closest alternative but lacks the same integration pull, and Iran's main trading partners (China, India, Russia) do not demand institutional reform as a condition of access. This article finds that Iran will need to develop its own integration pathway rather than copying the Central European model, and that this pathway will be slower and more contested.

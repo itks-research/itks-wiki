@@ -80,3 +80,23 @@ Iran's accelerating protest cycle (2009, 2017-18, 2019, 2022) demonstrates extra
 **Risks**
 
 The primary danger is the Egyptian trap: extraordinary street mobilization that removes the regime but cannot build democratic institutions, creating a power vacuum filled by the most organized institutional actor — in Iran's case, the IRGC. The IRGC's institutional capacity (military, economic, intelligence) vastly exceeds any civilian organization, making this scenario the most likely failure mode for an Iranian transition triggered by mass protest. A second risk is repressive escalation: the regime's demonstrated willingness to employ lethal force at scale (Bloody November 2019) could intensify if protest cycles continue accelerating, potentially producing a Syria-type scenario of sustained violent confrontation. Gunitsky's documentation of how authoritarian regimes co-opt social media — corrupting the cyber-commons with state-generated noise — adds a digital dimension to this risk. A third risk is movement fragmentation: the WLF's remarkable cross-cutting identity could fracture along ethnic, class, generational, or political lines as competing factions contest leadership and direction. Prerequisites: organizational infrastructure development between protest episodes (Rivetti's key finding); formal-informal movement coordination mechanisms; diaspora-domestic cooperation frameworks; transitional justice planning that precedes transition; and institutional design that channels mobilization capacity into governance participation — constitutional assembly models incorporating movement representation.
+
+## What We Don't Know
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (10 sources)
+
+**What this synthesis cannot fully answer:**
+
+1. **2022 Mahsa Amini uprising dynamics**: The "Woman, Life, Freedom" movement represents the most significant challenge to the Islamic Republic since 2009. Systematic academic analysis of its organizational mechanisms, geographic scope, and why it failed to produce regime change — despite its breadth — is still emerging and not incorporated in this synthesis.
+
+2. **Protest-to-transition conversion mechanisms**: The comparative literature on contentious politics documents when protests succeed or fail but does not provide a reliable framework for predicting when protest intensity crosses the threshold required for regime transition. Iran-specific factors (IRGC internal cohesion, elite defection likelihood) are poorly modeled.
+
+3. **Digital repression evolution**: Iran's use of internet shutdown, social media monitoring, and AI-assisted surveillance during protests (2019, 2022) represents a rapidly evolving repression toolkit. Research on how state digital repression affects protest sustainability is not keeping pace with the technology.
+
+4. **Cross-class coalition formation**: Iran's 2019 protests began with fuel-price grievances (lower class) while 2022 protests were more youth/middle-class driven. Whether cross-class coalitions are forming — and what issues would unite them — is a sociological question not resolved in the literature.
+
+5. **Security forces' fragmentation**: Evidence suggests fractures within the security apparatus — regular military vs. IRGC, IRGC ground forces vs. Basij — with different levels of willingness to fire on protesters. Systematic evidence on these fractures and their significance for transition probability is classified or unavailable.
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (10 sources)
+
+Iran has seen major protest waves in 2009, 2019, and 2022 — each broader and more intense than the last, and each suppressed by increasingly brutal force. The academic literature on contentious politics suggests that these protests, while failing to produce immediate regime change, are gradually eroding the regime's capacity and legitimacy. The key question for Iran is not whether protest will continue but what would convert protest into transition — and the literature's answer is sobering: it usually requires fractures within the security apparatus, not just streets full of protesters. Understanding which IRGC and military factions might refuse orders is more predictive of transition timing than measuring the intensity of civilian mobilization.

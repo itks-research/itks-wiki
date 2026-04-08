@@ -57,3 +57,23 @@ Enablers: Iranian voters who have repeatedly demonstrated electoral engagement d
 **Risks**
 
 The primary danger is that electoral reform without prior institutional reform produces competitive authoritarianism rather than democracy — managed elections with slightly expanded choice sets but continued IRGC/Guardian Council influence over outcomes. Khatami's 1997-2005 experience demonstrates this trap: electoral victories could not translate into policy change because unelected institutions retained veto power. A second risk is that rapid electoral opening produces the "Saied scenario" — fragmentation and ungovernability creating space for an authoritarian populist claiming to speak for "the people" against "corrupt politicians." The IRGC's institutional capacity makes this more plausible than Tunisia's version. Prerequisites: institutional reform (reduced Guardian Council powers, security sector reform) must precede or accompany electoral reform; electoral system design must incentivize coalition-building; voter education programs must prepare citizens for multi-party competition after decades of managed elections; and international election monitoring must be comprehensive and credible.
+
+## What We Don't Know
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
+
+**What this synthesis cannot fully answer:**
+
+1. **Guardian Council veto under new constitution**: How Iran's approbatory supervision (نظارت استصوابی) would be constitutionally abolished or replaced — and what institutional substitute could provide quality control without partisan control — is a constitutional design question the comparative electoral literature does not address directly.
+
+2. **IRGC organizational capacity in elections**: The IRGC's ability to mobilize voters, control media, and use economic leverage represents an electoral playing-field asymmetry without clear parallel in the comparative cases (Indonesia, Poland). Research on how electoral management bodies have constrained military economic actors in post-authoritarian transitions is thin.
+
+3. **Iraq and Pakistan as comparative cases**: Both countries navigated transitions involving strong religious veto players and ethnic complexity. Their electoral system choices — Iraq's modified proportional representation, Pakistan's single-member plurality — offer relevant comparisons not incorporated in this synthesis.
+
+4. **Diaspora voting**: With millions of Iranians abroad, diaspora enfranchisement represents a significant electoral design question. How post-authoritarian transitions have handled diaspora voting — including potential bloc voting effects and disproportionate influence — is underdeveloped in the literature.
+
+5. **First-election effects**: Research on how first post-transition elections shape subsequent political competition — including whether first-election winners gain structural incumbency advantages — is contested in the literature and highly relevant to Iran's transition design.
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
+
+Designing a fair electoral system for Iran requires solving a problem most democracies don't face: how to transition from a system where the Guardian Council decides who can run before the election. This article examines what electoral systems have worked in post-authoritarian, ethnically diverse transitions. The research suggests proportional representation with moderate thresholds (around 5%) works better than winner-take-all systems because it gives minority groups representation without creating so many parties that governance becomes impossible. The harder design question is what replaces the Guardian Council's filtering function — some vetting mechanism may be necessary to prevent IRGC-linked organizations from simply running as political parties.

@@ -78,3 +78,23 @@ The demographic clock creates a hard constraint: Iran has perhaps 10-15 years be
 **Risks**
 
 The primary danger is missing the demographic window: if economic restructuring is delayed by political instability, sanctions persistence, or institutional incapacity, Iran's working-age population advantage will become a dependency burden. This is a hard deadline, not a soft constraint. A second risk is the water crisis: anthropogenic drought — driven by damming, irrigation mismanagement, and political allocation of water resources to connected interests rather than need — threatens food security and could displace millions from agricultural regions into already-stressed cities. A third risk is the "revenge of places that don't matter": if transition benefits concentrate in Tehran and Isfahan while peripheral provinces experience continued neglect, regional resentment could fuel separatist pressures and political destabilization. Prerequisites: immediate economic reform beginning with transition (no luxury of sequential approaches); water governance restructuring as an urgent priority; regional development investment preventing spatial inequality; women's economic participation as a growth strategy, not merely a rights issue; and realistic demographic planning acknowledging the aging transition's fiscal implications.
+
+## What We Don't Know
+
+> 🟡 **Evidence Confidence: Moderate** — Well-triangulated evidence (10 sources); sources with gate2 concerns
+
+**What this synthesis cannot fully answer:**
+
+1. **Iran's youth bulge political timeline**: Iran's demographic transition has been unusually rapid — fertility dropped from over 5 children per woman in 1985 to under 2 by 2000, creating a youth bulge that is now aging out. Predictions about when this demographic pressure will peak and what political consequences it will produce are contested in the literature.
+
+2. **Urban housing and political mobilization nexus**: The connection between housing unaffordability — Iran's housing cost-to-income ratio is among the highest in the region — and political mobilization has been observed empirically (protests in 2019 concentrated in urban periphery) but not systematically theorized.
+
+3. **Rural-urban migration acceleration**: Whether political transition would accelerate or decelerate rural-urban migration in Iran is uncertain. If transition brings rural agricultural liberalization, migration might slow; if it produces economic disruption, urbanization could accelerate rapidly beyond planning capacity.
+
+4. **Second-generation immigrant comparison**: Iran's urban periphery includes large second-generation migrant communities from rural areas. Their political behavior in transitions — whether they are a stabilizing force (family ties) or destabilizing force (frustrated expectations) — is not well studied in the Iranian context.
+
+5. **Environmental stress and urbanization**: Iran's water crisis — aquifer depletion, river diversion, desertification — is producing forced internal migration from water-stressed regions. How this environmentally-driven migration interacts with political transition dynamics is not addressed in the demographic transitions literature.
+
+> 🟡 **Evidence Confidence: Moderate** — Well-triangulated evidence (10 sources); sources with gate2 concerns
+
+Iran underwent one of history's most rapid demographic transitions: fertility rates crashed from 5+ children per woman to near-replacement within 20 years, driven by urbanization, female education, and deliberate family planning policy that the Islamic Republic then reversed when it realized it had succeeded too well. This created a massive youth bulge that is now the core of Iran's protest movements — the "Woman, Life, Freedom" generation. This article examines what countries with similar demographic profiles have experienced in transitions and finds that managing the employment expectations of a large young educated population is the single most important economic challenge: when young people can't find jobs matching their education, political instability follows.

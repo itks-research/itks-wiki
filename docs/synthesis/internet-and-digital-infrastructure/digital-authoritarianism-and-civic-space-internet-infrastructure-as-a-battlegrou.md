@@ -47,3 +47,23 @@ Iran's digitally sophisticated population is a powerful enabler: the Woman Life 
 **Risks**
 
 The primary danger is surveillance persistence: Iran has invested billions in digital monitoring infrastructure that would not disappear with regime change. Intelligence agencies' institutional culture, technical personnel, and infrastructure could be repurposed by successor governments — Tunisia's experience confirms this risk. A second risk is the "digital divide" deepening during transition: if NIN infrastructure is dismantled without replacement, rural and lower-income populations dependent on domestic services could lose access. A third risk is over-reliance on diaspora technology communities whose solutions may not address domestic infrastructure needs. Prerequisites: comprehensive audit of surveillance infrastructure before democratic transition activates it under new management; data protection legislation with independent enforcement; telecom restructuring separating infrastructure ownership from security entities; sustained investment in domestic digital infrastructure serving all populations; and international technical cooperation embedding open standards and interoperability from inception.
+
+## What We Don't Know
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
+
+**What this synthesis cannot fully answer:**
+
+1. **Internet kill switch reversibility**: Iran's National Information Network (Intranet) infrastructure — built to allow complete disconnection from global internet — represents a technical control capacity not present in the Tunisia comparison. Whether this infrastructure can be effectively dismantled, or would remain available to future authoritarian actors, is an engineering question not addressed in the political science literature.
+
+2. **VPN ecosystem and informal digital society**: Iran's extensive VPN use and Telegram-based information networks have created a parallel digital public sphere that operates outside state control. How this informal infrastructure would evolve in a transitional environment — whether it becomes integrated into a free internet or creates fragmented information markets — is not theorized in the literature.
+
+3. **Digital economy transition**: Iran's e-commerce, fintech, and technology sector have grown substantially under sanctions-imposed isolation. Their relationship to international digital platforms — and whether Iranian digital companies could compete once trade barriers are removed — is understudied.
+
+4. **Surveillance infrastructure dismantling**: The comparative literature on transitioning from digital surveillance states is almost entirely absent. Cybersecurity expertise required to audit, understand, and dismantle surveillance architecture is scarce, and no model transition has addressed this systematically.
+
+5. **Media ecosystem transformation**: How Iran's dominated media landscape — state television, regime-aligned digital news, censored social media — would transform under free conditions, and what institutional support for independent journalism would require, is addressed only partially in the Tunisia case.
+
+> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
+
+Iran has built one of the world's most sophisticated internet censorship systems — and then watched its population find workarounds through VPNs and Telegram anyway. Tunisia's 2011 transition is the most applicable case: it dismantled systematic filtering but struggled to prevent both state and commercial surveillance from persisting under new legal frameworks. For Iran, the technical challenge is greater because the National Information Network infrastructure was built specifically to allow complete disconnection from the global internet. This kill switch capability means that infrastructure dismantling — not just policy change — is required for genuine digital freedom.

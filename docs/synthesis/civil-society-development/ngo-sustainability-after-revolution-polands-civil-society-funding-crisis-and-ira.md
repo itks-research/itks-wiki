@@ -76,3 +76,23 @@ Enablers include Iran's extensive informal civic networks: professional guilds (
 **Risks**
 
 The primary danger is the "Polish vacuum" — political opening without civil society infrastructure produces either capture by well-resourced regime remnants or rapid atrophy of newly formed organizations. Iran's sanctions environment amplifies this: even post-transition, residual financial restrictions would persist for years, leaving domestic funding as the only reliable resource. A second risk is the professionalization trap accelerated by diaspora involvement: well-funded returnee-led NGOs displacing organic grassroots organizations, replicating the Warsaw-province divide across a Tehran-periphery axis. Prerequisites include: legal reform enabling independent association before political opening; domestic philanthropic infrastructure development (reforming bonyad taxation to enable independent charitable foundations); training programs for civic organizers drawing on syndicate and women's movement experience; and mechanisms preventing IRGC-linked organizations from rebranding as civil society actors during transition.
+
+## What We Don't Know
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+
+**What this synthesis cannot fully answer:**
+
+1. **Iranian underground civil society**: The organizational forms, network structure, and resource strategies of Iran's repressed civil society — women's networks, labor unions, student associations, ethnic cultural organizations — are poorly documented in academic literature due to obvious access constraints. Most research relies on diaspora accounts and journalists.
+
+2. **Bazaar and awqaf as civil society infrastructure**: Iran's merchant networks (bazaar) and religious endowments (awqaf/بنیادها) function as informal civil society infrastructure, but their role as potential foundations for post-transition associational life is not examined in the comparative transitions literature.
+
+3. **Regime-aligned organizations as competitors**: How Basij social services and bonyad welfare programs may reconstitute themselves as civil society actors in a transition — outcompeting independent NGOs through superior resources — is theoretically predicted but empirically understudied in comparable transitions.
+
+4. **Foreign funding sustainability models**: The long-term sustainability of NGOs dependent on international democracy promotion funding (NED, Soros, EU) has been questioned since Poland's experience, but alternative funding models for post-authoritarian civil society have not been rigorously tested across cases.
+
+5. **Digital civil society**: Online networks, Telegram channels, and social media communities as civil society substitutes under digital authoritarianism represent a qualitatively new form of organization not captured in the Solidarity-era literature this article primarily draws on.
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+
+Poland's Solidarity movement overthrew communism with massive civic energy — then discovered that revolution-building organizations make poor everyday governance institutions. Unions, community groups, and advocacy organizations fragmented after 1989, and many became financially dependent on foreign donors rather than domestic constituencies. For Iran, the warning is clear: the regime's decade of suppressing independent civil society has created a capacity gap that won't be filled automatically once repression ends. The most dangerous risk may not be civic weakness but civic capture — IRGC-aligned and bonyad-backed organizations using their superior resources to dominate the new civil society space.
