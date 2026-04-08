@@ -30,7 +30,11 @@ Future research must address: (1) What specific governance restructurings most e
 
 ## Implications for Iran
 
-> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+> 🟢 **Evidence Confidence: High** — Moderate source triangulation (7 sources)
+
+**⚠ CONTEXT UPDATE (April 8, 2026):** US-Israel strikes hit Iranian nuclear facilities beginning February 28, 2026. Enrichment capacity status is uncertain. Iran insists on enrichment rights as ceasefire condition. The 'civilian nuclear transition' analysis remains relevant as a post-conflict scenario but the immediate context is wartime degradation.
+
+---
 
 **Institutional Mapping**
 

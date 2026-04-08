@@ -78,7 +78,11 @@ ID 7215: Yazdani (2012) - Religious contentions in modern Iran 1881-1941, politi
 
 ## Implications for Iran
 
-> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+> 🟢 **Evidence Confidence: High** — Moderate source triangulation (7 sources)
+
+**⚠ CONTEXT UPDATE (April 8, 2026):** This section was written when Ali Khamenei was Supreme Leader. On February 28, 2026, Khamenei was assassinated in a US-Israel airstrike. His son Mojtaba Khamenei (56) was elected Supreme Leader on March 9, 2026. See the **iran-velayat-faqih** context page for current status. The structural analysis remains valid; the specific actor has changed and legitimacy dynamics are considerably more contested.
+
+---
 
 **Institutional Mapping**
 

@@ -1,6 +1,6 @@
 # Research Dashboard
 
-*Last updated: 2026-04-08 21:32*
+*Last updated: 2026-04-08 21:52*
 
 ## Summary
 
@@ -10,13 +10,14 @@
 | Sources Scored | 4932 (100%) |
 | Source Summaries (Farsi) | 0 (0%) |
 | Relationships Mapped | 6216 |
-| Synthesis Articles | 84 |
-| Articles with Farsi | 58 (69%) |
+| Synthesis Articles | 85 |
+| Articles with Farsi | 58 (68%) |
 
 ## Synthesis Articles
 
 | Article | Category | Status | Last Updated |
 |---------|----------|--------|-------------|
+| [When the General Dies: Military Decapitation, IRGC Consolidation, and the Paradox of Security Sector Reform Under Wartime Pressure](synthesis/civil-military-relations-and-security-sector-reform/when-the-general-dies-military-decapitation-irgc-consolidation-and-the-paradox-o.md) | Civil-military relations and security sector reform | approved | 2026-04-08 |
 | [Indonesia's Pancasila: Inclusive Monotheism and Its Limits](synthesis/religious-freedom-and-separation-of-religion-from-state/indonesias-pancasila-inclusive-monotheism-and-its-limits.md) | Religious freedom and separation of religion from state | machine_generated | 2026-04-06 |
 | [Velayat-e Faqih: Iran's Unique Institutional Architecture](synthesis/religious-freedom-and-separation-of-religion-from-state/velayat-e-faqih-irans-unique-institutional-architecture.md) | Religious freedom and separation of religion from state | machine_generated | 2026-04-06 |
 | [Stepan's Twin Tolerations and Post-Theocratic Governance](synthesis/religious-freedom-and-separation-of-religion-from-state/stepans-twin-tolerations-and-post-theocratic-governance.md) | Religious freedom and separation of religion from state | machine_generated | 2026-04-06 |

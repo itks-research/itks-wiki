@@ -78,7 +78,11 @@ Average reliability score: 4.66
 
 ## Implications for Iran
 
-> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
+> 🟢 **Evidence Confidence: High** — Moderate source triangulation (7 sources)
+
+**⚠ CONTEXT UPDATE (April 8, 2026):** Iran demands complete sanctions lifting in Islamabad negotiations. IRGC-entity exclusions are the central unresolved issue. This article's framework applies directly to the current ceasefire-to-deal negotiation challenge.
+
+---
 
 **Institutional Mapping**
 

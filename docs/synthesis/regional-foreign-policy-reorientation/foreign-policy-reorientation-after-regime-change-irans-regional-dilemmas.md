@@ -59,7 +59,11 @@ Key research gaps shape the analysis of Iran's potential foreign policy reorient
 
 ## Implications for Iran
 
-> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
+> 🟢 **Evidence Confidence: High** — Moderate source triangulation (6 sources)
+
+**⚠ CONTEXT UPDATE (April 8, 2026):** Iran's regional proxy network is severely degraded post-war. A two-week ceasefire is in effect (April 7-8). Islamabad talks ongoing. The foreign policy reorientation analysis remains structurally valid but the baseline has shifted to a significantly weakened Iran with greater transition pressure.
+
+---
 
 **Institutional Mapping:** Iran's foreign policy architecture is institutionally fragmented in ways that would profoundly complicate post-transition reorientation. The **Quds Force** (نیروی قدس), a branch of the **IRGC**, operates semi-autonomously from the **Ministry of Foreign Affairs**, managing proxy networks across Iraq (Popular Mobilization Forces), Syria (Shiite militias), Lebanon (**Hezbollah**), and Yemen (Ansar Allah/Houthis). The **Supreme Leader's office** exercises ultimate authority over both tracks — formal diplomacy and extraterritorial operations — creating a dual foreign policy architecture where the Foreign Ministry manages state-to-state relations while the Quds Force manages sub-state networks. The **Supreme National Security Council** (شورای عالی امنیت ملی) nominally coordinates these tracks but in practice the Supreme Leader arbitrates conflicts. The **Majles National Security and Foreign Policy Committee** exercises limited oversight, and the **Artesh** (regular military) maintains conventional defense relationships distinct from IRGC regional operations.
 
