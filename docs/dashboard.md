@@ -1,22 +1,24 @@
 # Research Dashboard
 
-*Last updated: 2026-04-10 00:37*
+*Last updated: 2026-04-10 01:21*
 
 ## Summary
 
 | Metric | Count |
 |--------|-------|
-| Total Sources | 4967 |
-| Sources Scored | 4967 (100%) |
+| Total Sources | 5389 |
+| Sources Scored | 5389 (100%) |
 | Source Summaries (Farsi) | 0 (0%) |
 | Relationships Mapped | 6216 |
-| Synthesis Articles | 86 |
-| Articles with Farsi | 58 (67%) |
+| Synthesis Articles | 88 |
+| Articles with Farsi | 58 (65%) |
 
 ## Synthesis Articles
 
 | Article | Category | Status | Last Updated |
 |---------|----------|--------|-------------|
+| [De-Ba'athification as Template: What Iraq's Personnel Purge Teaches About De-IRGC-ification](synthesis/transitional-justice/de-baathification-as-template-what-iraqs-personnel-purge-teaches-about-de-irgc-i.md) | Transitional justice | approved | 2026-04-10 |
+| [If the Regime Falls: Post-IRGC Governance Scenarios and the Bonyad Question](synthesis/privatization-and-state-owned-enterprise-restructuring/if-the-regime-falls-post-irgc-governance-scenarios-and-the-bonyad-question.md) | Privatization and state-owned enterprise restructuring | approved | 2026-04-10 |
 | [Ceasefire to Settlement: What Comparative Evidence Tells Us About Iran's Post-War Pathway — Islamabad Talks, Reconstruction Conditionality, and the Four Scenarios](synthesis/sanctions-unwinding-and-international-reintegration/ceasefire-to-settlement-what-comparative-evidence-tells-us-about-irans-post-war-.md) | Sanctions unwinding and international reintegration | approved | 2026-04-10 |
 | [When the General Dies: Military Decapitation, IRGC Consolidation, and the Paradox of Security Sector Reform Under Wartime Pressure](synthesis/civil-military-relations-and-security-sector-reform/when-the-general-dies-military-decapitation-irgc-consolidation-and-the-paradox-o.md) | Civil-military relations and security sector reform | approved | 2026-04-08 |
 | [Indonesia's Pancasila: Inclusive Monotheism and Its Limits](synthesis/religious-freedom-and-separation-of-religion-from-state/indonesias-pancasila-inclusive-monotheism-and-its-limits.md) | Religious freedom and separation of religion from state | machine_generated | 2026-04-06 |
@@ -135,17 +137,19 @@
 | [Spain](case-studies/spain.md) | 341 | 341 | 2.9 |
 | [Tunisia](case-studies/tunisia.md) | 277 | 277 | 3.1 |
 | [Czech Republic](case-studies/czech-republic.md) | 241 | 241 | 2.7 |
-| [Iraq](case-studies/iraq.md) | 23 | 23 | 4.3 |
-| [Libya](case-studies/libya.md) | 12 | 12 | 4.1 |
+| [Iraq](case-studies/iraq.md) | 193 | 193 | 4.0 |
+| [Libya](case-studies/libya.md) | 144 | 144 | 4.0 |
+| [Afghanistan](case-studies/afghanistan.md) | 129 | 129 | 4.0 |
+| [Kosovo](case-studies/kosovo.md) | 85 | 85 | 4.0 |
 
 ## Coverage by Domain
 
 | Domain | Sources | Case Studies | Avg Relevance |
 |--------|---------|-------------|---------------|
-| Political | 3710 | 10 | 2.8 |
-| Social Cultural | 3401 | 8 | 2.4 |
-| Economic | 1835 | 10 | 2.8 |
-| Iran Specific | 770 | 7 | 2.4 |
+| Political | 4119 | 12 | 2.9 |
+| Social Cultural | 3437 | 12 | 2.4 |
+| Economic | 1877 | 12 | 2.8 |
+| Iran Specific | 793 | 10 | 2.4 |
 
 ## Detailed Coverage
 

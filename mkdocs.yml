@@ -147,6 +147,7 @@ nav:
       - Transitional justice:
         - Overview: synthesis/transitional-justice/index.md
         - "Amnesty vs. Accountability: Spain's Forty-Year Lesson": synthesis/transitional-justice/amnesty-vs-accountability-spains-forty-year-lesson.md
+        - "De-Ba'athification as Template: What Iraq's Personnel Purge Teaches About De-IRGC-ification": synthesis/transitional-justice/de-baathification-as-template-what-iraqs-personnel-purge-teaches-about-de-irgc-i.md
         - "Diaspora Documentation and the Digital Evidence Revolution": synthesis/transitional-justice/diaspora-documentation-and-the-digital-evidence-revolution.md
         - "Does Prosecution Deter? The Kim-Sikkink Evidence and South Korea's Model": synthesis/transitional-justice/does-prosecution-deter-the-kim-sikkink-evidence-and-south-koreas-model.md
         - "Iran's 1988 Prison Massacres: The Unavoidable Foundation": synthesis/transitional-justice/irans-1988-prison-massacres-the-unavoidable-foundation.md
@@ -166,6 +167,7 @@ nav:
       - Privatization:
         - Overview: synthesis/privatization-and-state-owned-enterprise-restructuring/index.md
         - "Employee Buyouts and Mass Privatization: Poland's Ownership Transformation and Iran's SOE Challenge": synthesis/privatization-and-state-owned-enterprise-restructuring/employee-buyouts-and-mass-privatization-polands-ownership-transformation-and-ira.md
+        - "If the Regime Falls: Post-IRGC Governance Scenarios and the Bonyad Question": synthesis/privatization-and-state-owned-enterprise-restructuring/if-the-regime-falls-post-irgc-governance-scenarios-and-the-bonyad-question.md
         - "Shock Therapy vs. Gradualism: Privatization Lessons from Poland and Czech Republic": synthesis/privatization-and-state-owned-enterprise-restructuring/shock-therapy-vs-gradualism-privatization-lessons-from-poland-and-czech-republic.md
         - "The Voucher Gamble: Czech Mass Privatization, Corporate Governance Failures, and Lessons for Iran's SOE Reform": synthesis/privatization-and-state-owned-enterprise-restructuring/the-voucher-gamble-czech-mass-privatization-corporate-governance-failures-and-le.md
       - "Resource curse management": synthesis/resource-curse-management/the-oil-trap-resource-curse-dynamics-and-irans-nioc-challenge.md
@@ -239,6 +241,8 @@ nav:
     - Czech Republic: case-studies/czech-republic.md
     - Iraq: case-studies/iraq.md
     - Libya: case-studies/libya.md
+    - Afghanistan: case-studies/afghanistan.md
+    - Kosovo: case-studies/kosovo.md
     - Egypt: case-studies/egypt.md
     - Russia: case-studies/russia.md
     - Turkey: case-studies/turkey.md

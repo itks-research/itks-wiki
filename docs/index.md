@@ -2,7 +2,7 @@
 
 An autonomous research system mapping development pathways relevant to Iran's future governance. Every claim traces back to a verifiable source.
 
-**9,687** sources · **6,216** relationships · **11** case studies · **40** research themes · **20** transition mechanisms
+**10,238** sources · **6,216** relationships · **15** case studies · **40** research themes · **20** transition mechanisms
 
 ---
 
@@ -14,7 +14,7 @@ An autonomous research system mapping development pathways relevant to Iran's fu
 
 **[Research Findings](synthesis/index.md)**
 
-84 synthesis articles across 40 themes
+86+ synthesis articles across 40 themes
 
 </div>
 
@@ -22,7 +22,7 @@ An autonomous research system mapping development pathways relevant to Iran's fu
 
 **[Case Studies](case-studies/iran.md)**
 
-11 countries compared
+15 countries compared
 
 </div>
 
@@ -30,7 +30,7 @@ An autonomous research system mapping development pathways relevant to Iran's fu
 
 **[Source Explorer](explorer.md)**
 
-Search & filter all 9,687 sources
+Search & filter all 10,238 sources
 
 </div>
 
@@ -54,28 +54,31 @@ Interactive relationship visualization
 
 ## Latest Research
 
+- [Ceasefire to Settlement: What Comparative Evidence Tells Us About Iran's Post-War Pathway](synthesis/sanctions-unwinding-and-international-reintegration/ceasefire-to-settlement-what-comparative-evidence-tells-us-about-irans-post-war-.md) *(NEW — April 2026)*
+- [When the General Dies: Military Decapitation, IRGC Consolidation, and the Paradox of Security Sector Reform](synthesis/civil-military-relations-and-security-sector-reform/when-the-general-dies-military-decapitation-irgc-consolidation-and-the-paradox-o.md) *(NEW — April 2026)*
 - [Iran's Ethnic Mosaic and the Federalism Question: Decentralization Pathways Between Unity and Accommodation](synthesis/ethnic-federalism-in-iran/)
 - [Constitutional Design and Drafting Processes: Lessons for Transitions from Authoritarian Rule](synthesis/constitutional-design-and-drafting-processes/)
-- [Two Paths to Civilian Control: Poland's NATO Integration vs. Indonesia's Autonomous Reform — Lessons for Iran's IRGC](synthesis/civil-military-relations-and-security-sector-reform/)
-- [The Hawza After Velayat-e Faqih: Seminary Authority, Religious Pluralism, and Post-Theocratic Governance](synthesis/seminary-role-in-post-theocratic-society/the-hawza-after-velayat-e-faqih-seminary-authority-religious-pluralism-and-post-.md)
-- [De-Ideologizing the Classroom: Iran's Islamized Curriculum and Comparative De-Indoctrination](synthesis/education-system-reform-and-curriculum-modernization/de-ideologizing-the-classroom-irans-islamized-curriculum-and-comparative-de-indo.md)
-- [Employee Buyouts and Mass Privatization: Poland's Ownership Transformation and Iran's SOE Challenge](synthesis/privatization-and-state-owned-enterprise-restructuring/employee-buyouts-and-mass-privatization-polands-ownership-transformation-and-ira.md)
+- [Two Paths to Civilian Control: Poland's NATO Integration vs. Indonesia's Autonomous Reform](synthesis/civil-military-relations-and-security-sector-reform/)
 
 ## Case Studies
 
-| Country | Sources | Avg Relevance |
-|---------|---------|---------------|
-| [Iran](case-studies/iran.md) | 2,106 | 3.5 |
-| [Chile](case-studies/chile.md) | 878 | 3.2 |
-| [Poland](case-studies/poland.md) | 745 | 3.6 |
-| [Indonesia](case-studies/indonesia.md) | 323 | 3.6 |
-| [South Korea](case-studies/south-korea.md) | 302 | 3.4 |
-| [Spain](case-studies/spain.md) | 232 | 3.4 |
-| [Tunisia](case-studies/tunisia.md) | 211 | 3.5 |
-| [Czech Republic](case-studies/czech-republic.md) | 156 | 3.3 |
-| [Egypt](case-studies/egypt.md) | 0 | — |
-| [Russia](case-studies/russia.md) | 0 | — |
-| [Turkey](case-studies/turkey.md) | 0 | — |
+| Country | Sources | Type |
+|---------|---------|------|
+| [Iran](case-studies/iran.md) | 4,288 | Target state |
+| [Chile](case-studies/chile.md) | 1,874 | Peaceful transition |
+| [Poland](case-studies/poland.md) | 1,475 | Peaceful transition |
+| [Indonesia](case-studies/indonesia.md) | 696 | Peaceful transition |
+| [South Korea](case-studies/south-korea.md) | 451 | Peaceful transition |
+| [Spain](case-studies/spain.md) | 340 | Peaceful transition |
+| [Tunisia](case-studies/tunisia.md) | 277 | Peaceful transition |
+| [Czech Republic](case-studies/czech-republic.md) | 241 | Peaceful transition |
+| [Iraq](case-studies/iraq.md) | 193 | **Foreign intervention** |
+| [Libya](case-studies/libya.md) | 144 | **Foreign intervention** |
+| [Afghanistan](case-studies/afghanistan.md) | 129 | **Foreign intervention** |
+| [Kosovo](case-studies/kosovo.md) | 85 | **Foreign intervention** |
+| [Egypt](case-studies/egypt.md) | 0 | Failed transition |
+| [Russia](case-studies/russia.md) | 0 | Failed transition |
+| [Turkey](case-studies/turkey.md) | 0 | Failed transition |
 
 ---
 

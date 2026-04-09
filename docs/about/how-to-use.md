@@ -1,14 +1,14 @@
 # How to Use This Site
 
-This site is a research knowledge system with over 9,687 academic sources organized around Iran's development pathways. Every claim traces back to verifiable evidence. Here's how to navigate it effectively.
+This site is a research knowledge system with over 10,238 academic sources organized around Iran's development pathways. Every claim traces back to verifiable evidence. Here's how to navigate it effectively.
 
 ## Starting Points
 
 ### Research Findings
-Start here for thematic deep dives. We have **84 synthesis articles across 40 research themes** (e.g., Constitutional Design, Transitional Justice, Banking Reform). Each theme overview synthesizes evidence from multiple countries, with focused sub-articles diving deeper into specific aspects.
+Start here for thematic deep dives. We have **86+ synthesis articles across 40 research themes** (e.g., Constitutional Design, Transitional Justice, Banking Reform). Each theme overview synthesizes evidence from multiple countries, with focused sub-articles diving deeper into specific aspects.
 
 ### Case Studies
-Explore by country. **11 case studies** (Iran, South Korea, Spain, Poland, Indonesia, Tunisia, Czech Republic, Chile, Egypt, Russia, Turkey) each show sources organized by research category, with links to the most relevant papers. Compare how different countries addressed similar governance and economic challenges.
+Explore by country. **15 case studies** (Iran, South Korea, Spain, Poland, Indonesia, Tunisia, Czech Republic, Chile, Iraq, Libya, Afghanistan, Kosovo, Egypt, Russia, Turkey) each show sources organized by research category, with links to the most relevant papers. Compare how different countries addressed similar governance and economic challenges.
 
 ### Transition Mechanisms
 Discover **20 transition mechanisms** — the structural reforms and governance models that have worked across different countries and contexts. Each mechanism page shows its description, context requirements, expected outcomes, and Iran applicability testing results, sorted by applicability score.
