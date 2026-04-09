@@ -2,6 +2,10 @@
 
 ***Sources:** 39 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Overview
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (9 sources)
@@ -60,6 +64,10 @@ prolonged institutional gridlock.
 
 These patterns hold across diverse geographic, economic, and political contexts, suggesting some 
 underlying structural dynamics in how this category of change occurs.
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (9 sources)
 

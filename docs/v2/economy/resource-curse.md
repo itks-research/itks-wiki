@@ -2,6 +2,10 @@
 
 ***Sources:** 203 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Overview
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources)
@@ -45,6 +49,10 @@ Resource wealth fundamentally alters democratic transition dynamics by creating 
 Sanctions paradoxically create diversification pressures and reduce the fiscal cushion sustaining rentier governance. Iran's experience shows reduced oil revenue's share of state income, yet simultaneously concentrated power within security-aligned entities (IRGC) controlling alternative revenue streams (Abdelsalam, 2020). This creates a "second-generation" resource curse wherein reduced resource dependency doesn't weaken authoritarianism but crystallizes it around militarized actors controlling non-resource revenues.
 
 ## Iran Analysis
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources)
 

@@ -2,6 +2,10 @@
 
 ***Sources:** 414 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Overview
 
 Civil society — the network of voluntary associations, civic organizations, independent media, professional bodies, and informal networks that operate between the household and the state — is widely regarded as essential infrastructure for democratic governance. In theory, a vibrant civil society performs several critical functions: it aggregates citizen preferences, holds governments accountable, provides services the state does not deliver, and builds the habits of collective action and compromise that democratic institutions require. In practice, the relationship between civil society and democratic governance is considerably more complicated, and the Iranian case illustrates both the possibilities and the limits of civic energy under conditions of sustained repression.
@@ -59,6 +63,10 @@ Three variables emerge as critical to post-transition civil society sustainabili
 The lesson generalizes: revolutions that dismantle state control but fail to construct robust domestic civil society infrastructure trade one vulnerability (repression) for another (capture or atrophy).
 
 ## Iran Analysis
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 Iran's civil society landscape is simultaneously rich and constrained. Despite decades of repression, Iranian society has generated persistent civic energy: the reform movement of the late 1990s, the Green Movement of 2009, the Woman Life Freedom movement of 2022, and ongoing labor activism, environmental campaigns, and human rights documentation all demonstrate deep civic capacity. The key analytical question is whether this oppositional civic energy can transform into constructive democratic governance infrastructure — a question the Polish experience answers with qualified optimism and significant caveats.
 

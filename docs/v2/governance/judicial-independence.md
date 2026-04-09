@@ -2,6 +2,10 @@
 
 ***Sources:** 448 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Overview
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
@@ -69,6 +73,10 @@ This pattern reveals that judicial independence requires two complementary found
 Three patterns emerge across these cases. First, institutional designs that separate court governance from electoral politics—constitutional courts, independent judiciaries, and insulated appointment procedures—are necessary but insufficient. They require sustained political consensus to protect them, especially in polarized societies. Second, transitional justice approaches differ sharply: Spain chose continuity with institutional reform; Poland inherited communist judicial structures but reformed them; Iran never underwent institutional discontinuity—the Islamic Republic embedded clerical authority in the constitution itself. This means Iran's reform challenge is fundamentally different: not rehabilitating a captured judiciary or transitioning from authoritarian judges, but decoupling Islamic jurisprudence and the Guardian Council's judicial oversight from party-political and regime-preservation functions. Third, external pressure (EU conditionality, Council of Europe mechanisms) can accelerate formal institutional change, but it cannot create political will to defend those institutions against domestic populist backlash or theocratic consolidation.
 
 ## Iran Analysis
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 Iran's judiciary presents a challenge fundamentally different from Poland's: the starting point is not a formally independent judiciary that has been captured but an institution that was never designed for independence. The head of the judiciary is appointed by the Supreme Leader for renewable five-year terms, and the institution has functioned as an enforcement arm of the regime — prosecuting political dissidents, enforcing morality laws, and managing property disputes in ways that serve connected interests. Osanloo (2020) documents how even the limited spaces for judicial discretion, such as victim forgiveness mechanisms in murder cases, operate within a framework that reinforces rather than checks state power.
 

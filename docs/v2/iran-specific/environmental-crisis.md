@@ -2,6 +2,10 @@
 
 ***Sources:** 18 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Theoretical Framework
 
 Framework: Narrative Synthesis — Popay et al. (2006)
@@ -35,6 +39,10 @@ Second, **the sanctions economy actively retards green transition.** Lu et al.'s
 **Evidence limitations:** This synthesis draws on only four sources, and the comparative studies (Lu et al. 2020; Hallegatte et al. 2011) do not address Iran specifically. The Iran-specific evidence (Salari & Mousavi 2025; Mashayekh et al. 2018) is diagnostic rather than prescriptive. Additional research directives on Iran's water crisis, desertification, Lake Urmia, air pollution in Tehran and Isfahan, and the environmental footprint of IRGC-controlled industries would substantially strengthen this category.
 
 ## Iran Analysis
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 Iran's environmental crisis is among the most severe in the Middle East, encompassing water scarcity (Lake Urmia's near-disappearance, aquifer depletion), desertification, urban air pollution, and oil industry environmental damage. The evidence reviewed here addresses the institutional and policy dimensions rather than the physical crisis itself, but the implications for post-transition governance are significant.
 

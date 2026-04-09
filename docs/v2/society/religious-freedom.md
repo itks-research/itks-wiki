@@ -2,6 +2,10 @@
 
 ***Sources:** 640 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Overview
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources)
@@ -119,6 +123,10 @@ The overarching pattern is the absence of precedent. Iran's transition, if and w
 A secondary pattern is the relevance of ideological-state transitions. Communist transitions in Eastern Europe addressed parallel challenges: dismantling an ideological apparatus embedded in all state institutions, managing a cadre trained in the old ideology, and preventing both revanchist restoration and nihilistic rejection. The lustration debates — how extensively to purge, whether to prioritize reconciliation or accountability — preview questions Iran would face regarding the clerical establishment's post-transition status.
 
 ## Iran Analysis
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources)
 

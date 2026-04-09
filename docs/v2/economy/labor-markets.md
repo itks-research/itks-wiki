@@ -2,6 +2,10 @@
 
 ***Sources:** 231 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Theoretical Framework
 
 Realist Synthesis CMO Framework for Labor Market Transition. Context: Democratic transitions involving economic restructuring impose significant labor market disruption. Czech Republic's post-1989 transition saw unemployment rise from near-zero to 8-10% as state enterprises restructured. Spain's transition (1975-1985) coincided with European economic crisis, pushing unemployment to 20%+, with devastating effects on youth employment. Iran's potential transition would involve restructuring an economy where the state (including bonyads and IRGC) employs an estimated 40-50% of formal workforce, with additional informal economy workers (30-40% of labor force) highly vulnerable to economic disruption. Mechanism: Labor market adjustment during transition operates through: (1) enterprise restructuring eliminates redundant employment but creates productivity gains; (2) new private sector emergence absorbs displaced workers but with time lags; (3) social safety nets bridge adjustment periods, preventing political backlash that reverses reform [Source 6140, 1097]. Countervailing mechanisms: (a) 'creative destruction' may destroy faster than it creates, especially in low-capacity institutional environments; (b) safety nets may create dependency rather than bridging; (c) informal economy expansion may substitute for formal employment recovery. Outcome: Transitions that built social safety nets before or simultaneously with restructuring experienced lower political disruption. Evidence certainty: Strong for European cases, Moderate for transferability to Iran.
@@ -39,6 +43,10 @@ Finally, informality is not transitional but structural in many middle-income ec
 Cross-case patterns for managing labor market transition. First, social pacts as political insurance: Spain's Moncloa Pacts and subsequent social agreements demonstrate that formal tripartite bargaining (government-employer-labor) can sustain democratic reform through economic pain. The pact mechanism works by: distributing adjustment costs across stakeholders, providing voice to those bearing costs, and establishing reciprocal commitments that reduce uncertainty. Iran lacks independent trade unions and employer associations, so institutional development would need to precede or accompany pact negotiation [Source 1097]. Second, timing of restructuring affects political sustainability: Czech 'delayed restructuring' initially preserved employment but postponed adjustment costs, which arrived during a less favorable political moment. Spain's simultaneous restructuring and safety net expansion, though more painful initially, produced more sustainable outcomes. Moderate evidence suggests 'frontloading' restructuring with simultaneous safety nets is preferable to delayed adjustment [Source 1175]. Third, regional policy essential complement: both Czech and Spanish transitions produced geographical concentration of unemployment. Regional development policy, infrastructure investment in lagging areas, and mobility support are necessary complements to national labor market policy [Source 1321]. Fourth, informal economy expansion as pressure valve and trap: transition economies consistently see informal employment expansion as formal sector contracts. While cushioning immediate disruption, informality reduces tax revenues, social protection coverage, and long-term productivity growth. Managing informal-formal transitions requires graduated formalization incentives rather than punitive enforcement [Source 1638].
 
 ## Iran Analysis
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 

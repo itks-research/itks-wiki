@@ -171,6 +171,7 @@ nav:
       - "Resource curse management": synthesis/resource-curse-management/the-oil-trap-resource-curse-dynamics-and-irans-nioc-challenge.md
       - Sanctions unwinding:
         - Overview: synthesis/sanctions-unwinding-and-international-reintegration/index.md
+        - "Ceasefire to Settlement: What Comparative Evidence Tells Us About Iran's Post-War Pathway — Islamabad Talks, Reconstruction Conditionality, and the Four Scenarios": synthesis/sanctions-unwinding-and-international-reintegration/ceasefire-to-settlement-what-comparative-evidence-tells-us-about-irans-post-war-.md
         - "From Pariah to Partner: Sanctions Unwinding and Economic Reintegration": synthesis/sanctions-unwinding-and-international-reintegration/from-pariah-to-partner-sanctions-unwinding-and-economic-reintegration.md
         - "Sanctions Architecture and Institutional Lock-In: Why Iran's Reintegration Differs from Every Precedent": synthesis/sanctions-unwinding-and-international-reintegration/sanctions-architecture-and-institutional-lock-in-why-irans-reintegration-differs.md
       - Trade liberalization:
@@ -236,6 +237,8 @@ nav:
     - Spain: case-studies/spain.md
     - Tunisia: case-studies/tunisia.md
     - Czech Republic: case-studies/czech-republic.md
+    - Iraq: case-studies/iraq.md
+    - Libya: case-studies/libya.md
     - Egypt: case-studies/egypt.md
     - Russia: case-studies/russia.md
     - Turkey: case-studies/turkey.md
@@ -267,7 +270,9 @@ nav:
       - Electoral Systems: v2/governance/electoral-systems.md
       - Federalism Autonomy: v2/governance/federalism-autonomy.md
       - Judicial Independence: v2/governance/judicial-independence.md
+      - Occupation Dynamics Sovereignty: v2/governance/occupation-dynamics-sovereignty.md
       - Political Parties: v2/governance/political-parties.md
+      - Post Conflict State Building Reconstruction: v2/governance/post-conflict-state-building-reconstruction.md
       - Power Sharing: v2/governance/power-sharing.md
       - Protest Movements: v2/governance/protest-movements.md
       - Transitional Justice: v2/governance/transitional-justice.md
@@ -296,6 +301,7 @@ nav:
       - Youth Politics: v2/society/youth-politics.md
     - Security:
       - Civil Military Relations: v2/security/civil-military-relations.md
+      - Wartime Fragmentation Militia Politics: v2/security/wartime-fragmentation-militia-politics.md
     - Iran Current State:
       - Iran Economic State: v2/iran-context/iran-economic-state.md
       - Iran External State: v2/iran-context/iran-external-state.md
@@ -311,6 +317,8 @@ nav:
       - Irgc Economic Empire: v2/iran-specific/irgc-economic-empire.md
       - Seminary System: v2/iran-specific/seminary-system.md
     - External Relations:
+      - Ceasefire To Settlement Pathways: v2/external/ceasefire-to-settlement-pathways.md
+      - Foreign Military Intervention Regime Change: v2/external/foreign-military-intervention-regime-change.md
       - Nuclear Program: v2/external/nuclear-program.md
       - Regional Foreign Policy: v2/external/regional-foreign-policy.md
   - Source Explorer: explorer.md

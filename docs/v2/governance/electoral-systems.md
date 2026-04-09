@@ -2,6 +2,10 @@
 
 ***Sources:** 460 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Overview
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (19 sources)
@@ -75,6 +79,10 @@ The enabling conditions for reform include: catalytic social mobilization that d
 Three patterns emerge across these cases. First, elite capture of electoral institutions persists across regimes: Iran's Guardian Council mirrors the veto powers preserved in Chile's initial post-transition system, while Indonesia's elite-dominated party structure replicated authoritarian patronage networks despite democratic forms. Electoral rules concentrate power through candidate vetting (Iran), coalition arithmetic (Chile), or party gatekeeping (Indonesia). Second, voter disaffection signals legitimacy crises when electoral systems exclude meaningful contestation. Chile's 40% abstention rate by 2003 revealed that managed competition without genuine pluralism exhausts democratic participation (Olavarría 2003). Iran faces analogous legitimacy erosion: boycotts in 2019-2021 reflected understanding that vetting and Basij mobilization render individual votes meaningless. Third, technical electoral reforms alone prove insufficient: Indonesia's shift to proportional representation succeeded partly because party elites (despite their dominance) accepted competitive outcomes. Chile's reform toward proportionality followed generational pressure and economic crisis. Iran's system lacks these destabilizing pressures—the regime controls both the rules and the enforcers, allowing indefinite perpetuation without redesign.
 
 ## Iran Analysis
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (9 sources)
 

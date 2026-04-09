@@ -2,6 +2,10 @@
 
 ***Sources:** 123 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Overview
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (11 sources)
@@ -120,6 +124,10 @@ These patterns hold across diverse geographic, economic, and political contexts,
 underlying structural dynamics in how this category of change occurs.
 
 ## Iran Analysis
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 > 🟢 **Evidence Confidence: High** — Moderate source triangulation (4 sources)
 

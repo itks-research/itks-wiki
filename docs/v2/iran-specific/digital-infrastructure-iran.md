@@ -2,6 +2,10 @@
 
 ***Sources:** 32 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Theoretical Framework
 
 CMO Framework for Digital Authoritarianism and Civic Space. Context: Authoritarian states across the Middle East and North Africa have invested heavily in digital surveillance and filtering systems. Iran's National Information Network (SHOMA/NIN) represents a strategic attempt to create a parallel internet ecosystem under government control, while Tunisia's pre-2011 Ben Ali regime deployed the AMMAR system for comprehensive censorship [Source 6211]. These systems reflect broader patterns: digital infrastructure is explicitly designed as an apparatus of control, monitoring, and suppression of dissent [Source 2167]. Mechanism: Digital systems designed for surveillance contain structural features that can be repurposed for civic participation. The mechanism operates through three pathways: (1) Technical architecture for state control often embeds affordances for network communication citizens can appropriate; (2) Administrative systems for digital governance, once captured by democratic processes, provide scalable platforms for civic services; (3) Expertise required to build control infrastructure creates cadres of digital professionals who can redirect skills toward open governance [Source 3338]. Outcome: Two divergent outcomes across similar starting conditions. Tunisia's post-2011 transition produced a relatively open internet ecosystem. Iran's dual architecture creates competing digital spaces—controlled NIN constrains participation while global internet access via VPNs enables a vibrant diaspora-connected digital public sphere [Source 7069]. Evidence certainty: Moderate.
@@ -45,6 +49,10 @@ The central pattern is **co-evolutionary escalation**: state digital control and
 A secondary pattern involves **the internationalization of digital civic space**. Michaelsen (2016) documents how Iranian diaspora activists operate from jurisdictions beyond regime reach, while Conduit (2025) shows that authoritarian states purchase surveillance tools to extend control transnationally. This means digital civic space is increasingly deterritorialized — neither contained within national borders nor accessible solely through domestic infrastructure. Any post-transition digital governance framework must account for this deterritorialization.
 
 ## Iran Analysis
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 > 🟢 **Evidence Confidence: High** — Moderate source triangulation (6 sources)
 

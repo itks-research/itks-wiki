@@ -2,6 +2,10 @@
 
 ***Sources:** 51 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Theoretical Framework
 
 Framework: Realist Synthesis — Context-Mechanism-Outcome Configuration
@@ -31,6 +35,10 @@ Two cross-cutting patterns emerge from the comparative evidence. First, **corrup
 Second, **resource rents and sanctions create compound corruption traps**. Where natural resource wealth provides concentrated rent flows (Auty 2007, Moti 2019), and international sanctions drive economic activity into opaque channels (Ahmadpour et al. 2025), the combination produces corruption that is simultaneously more deeply entrenched and harder to detect. This compound effect distinguishes Iran from comparators like Indonesia or Tunisia, where transition-era corruption lacked the sanctions-driven opacity dimension.
 
 ## Iran Analysis
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 Iran's corruption challenge is structurally unique because it combines three features absent from any single comparator: massive resource rents from oil and gas, extensive sanctions-driven economic opacity, and an ideologically legitimized parallel economy controlled by revolutionary institutions. The bonyad system, IRGC economic conglomerates, and Supreme Leader-controlled endowments constitute a patronage architecture that would survive any political transition unless specifically dismantled.
 

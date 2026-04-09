@@ -2,6 +2,10 @@
 
 ***Sources:** 93 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources)
 
 ## Evidence: Cultural Heritage as Political Resource During Institutional Transition
@@ -31,6 +35,10 @@ This tension manifests in three recurring patterns:
 **Third, the layering of multiple identities.** Complex societies like Iran maintain simultaneous cultural heritages—pre-Islamic Persian, Islamic, early-modern, modern—that can be foregrounded or backgrounded depending on institutional needs. Institutional design must navigate these layered identities without fully suppressing any, maintaining a precarious balance.
 
 These patterns suggest that institutional change is not merely a technical legal or organizational matter; it is fundamentally a cultural-hermeneutical process of reinterpreting heritage to legitimate new institutional frameworks.
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources)
 

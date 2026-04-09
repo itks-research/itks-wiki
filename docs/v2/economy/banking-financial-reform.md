@@ -2,6 +2,10 @@
 
 ***Sources:** 332 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Overview
 
 Financial system reform may be the most technically demanding dimension of democratic transition. Economies that were organized around state control of credit allocation—directing lending to politically favored sectors, maintaining exchange rate regimes that served regime interests, and managing inflation through administrative rather than market mechanisms—face a deep restructuring challenge when political systems change. The difficulty is not simply technical: financial reform intersects with virtually every other dimension of transition. Banking sector liberalization affects employment, investment, and access to credit; central bank independence requires enforceable constitutional or statutory commitments; and the resolution of state-owned enterprises' debts touches on questions of economic justice, property rights, and the distribution of transition costs.
@@ -37,6 +41,10 @@ Financial liberalization interacts critically with democratic institution-buildi
 The specific danger lies in the interaction between three factors: (1) weak banking supervision institutions, often inherited from authoritarian regimes lacking modern central banking independence; (2) fragmented regulatory authority during transitions, where multiple agencies compete without clear hierarchies; and (3) political pressure from both foreign investors and domestic private capital seeking unrestricted market access. When these coincide, premature liberalization creates systematically procyclical credit growth, excessive risk-taking by financial institutions competing for market share, and contagion through undercapitalized banking systems. The sequencing problem thus becomes a democratic problem: how to sustain political support for institutional development that constrains financial actors, during a period when capital mobility creates exit options for those same actors.
 
 ## Iran Analysis
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 Iran's banking system presents a structurally distinct but institutionally comparable case to 1990s South Korea and post-1989 Czech Republic. The Islamic Republic's financial architecture reflects decades of theocratic control, foreign sanctions, and revolutionary institutional experimentation rather than market socialism. State-owned banks (including Bank Melli Iran, Bank Tejarat, and Bank Sepah) continue to dominate credit allocation with limited transparency or commercial discipline. Approximately 80% of banking sector assets remain under direct or indirect state control, compared to roughly 20-30% in comparable middle-income countries (Central Bank of Iran data, 2024).
 

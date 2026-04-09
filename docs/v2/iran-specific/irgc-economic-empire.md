@@ -2,6 +2,10 @@
 
 ***Sources:** 97 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Evidence & Key Findings
 
 The IRGC's economic empire represents a form of military-commercial organization without direct historical parallel. Robin (2011) provides the foundational analysis, documenting how the IRGC evolved from a revolutionary militia into an economic conglomerate controlling construction (Khatam al-Anbiya), telecommunications, banking, import-export operations, and energy sector contracts worth an estimated $20-40 billion annually. Unlike military-industrial complexes in democratic states or even military businesses in other authoritarian contexts (Egypt's military economy, Pakistan's Fauji Foundation, Myanmar's military conglomerates), the IRGC combines commercial operations with active military and intelligence functions, religious-revolutionary legitimacy, and direct political representation through veterans in parliament and local government.
@@ -19,6 +23,10 @@ The comparative literature on military economic empires across transitional stat
 A second pattern concerns the security-economy nexus: military economic actors have both the motivation and the capability to destabilize transitions that threaten their economic interests. Successful transitions have either co-opted military economic interests (South Korea's chaebol integration), negotiated explicit economic guarantees (Spain's military pact), or created transitional mechanisms that maintained military welfare while restructuring military businesses (Indonesia's partial approach). Transitions that attempted to confront military economic power directly without negotiation (Egypt after 2011) ended in military reassertion of control.
 
 ## Iran Analysis
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 The IRGC's economic empire presents unique challenges that exceed any comparative case. First, the scale is larger — by most estimates, IRGC-connected entities control 25-40% of Iran's GDP, dwarfing Indonesia's TNI business holdings (estimated at 5-10% of GDP at their peak) or Egypt's military economic sector (estimated at 5-15% of GDP). Second, the integration between military, economic, and religious functions is deeper — the IRGC's economic operations fund not just military capacity but social welfare programs (through the Basij), religious institutions, and political patronage networks that create a web of dependencies extending throughout Iranian society.
 

@@ -2,6 +2,10 @@
 
 ***Sources:** 215 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Overview
 
 > 📎 **Source Alignment: 🟢 Strong** (85%)
@@ -116,6 +120,10 @@ underlying structural dynamics in how this category of change occurs.
 **Outcome:** Iran's local councils — originally a control mechanism — have in several cycles (especially 2003 Tehran municipal elections, 2017-2018 council elections) been won by reformist or opposition-aligned candidates, creating genuine subnational governance experience that could be adapted in a post-transition architecture. This is the "Trojan horse" dynamic: authoritarian decentralization plants institutional infrastructure that democratic forces can later populate.
 
 **Evidence quality:** HIGH — Tajbakhsh (2022) documents this with 20 years of field data; the 2003 Tehran council elections are a documented historical fact.
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 > 📎 **Source Alignment: 🟡 Moderate** (65%)
 

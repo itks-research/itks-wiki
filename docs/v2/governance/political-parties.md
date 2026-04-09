@@ -2,6 +2,10 @@
 
 ***Sources:** 577 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Overview
 
 > 🔴 **Evidence Confidence: Low** — Moderate source triangulation (7 sources); sources with gate2 concerns
@@ -67,6 +71,10 @@ The distinction between genuine pluralism and pathological atomization matters: 
 Cross-case patterns for political party development. First, regime insider parties as transition vehicle: Spain's UCD and Tunisia's Nidaa Tounes demonstrate that parties formed by moderate regime insiders can facilitate transition by providing continuity and reassuring security establishments. Iran's reformist faction (associated with Khatami, Mousavi traditions) could play an analogous role, though the reformist camp has been systematically weakened since 2009. The mechanism requires regime elites calculating that democratic competition serves their interests better than authoritarian persistence [Source 1120]. Second, opposition credibility translates to electoral capital: Spain's PSOE leveraged decades of anti-Franco opposition into democratic legitimacy, eventually winning 1982 elections decisively. Iran's Green Movement (2009) and Women Life Freedom movement (2022) created opposition credibility that could translate into party formation capital during transition [Source 2596]. Third, electoral system design shapes party consolidation: Spain's modified d'Hondt system with provincial constituencies created moderate multipartism (3-5 effective parties), avoiding both two-party duopoly and excessive fragmentation. Tunisia's proportional representation contributed to excessive party proliferation (48 parties won seats in 2011 Constituent Assembly). Electoral system choice is a critical institutional design decision for Iran [Source 322]. Fourth, feminist advocacy integration: Lessons from late-adopting democracies show that gender quota incorporation during party system formation produces more durable women's representation than post-hoc reform [Source 5227]. Given the Women Life Freedom movement's centrality to Iranian opposition, gender-responsive party design should be a founding principle.
 
 ## Iran Analysis
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources); sources with gate2 concerns
 

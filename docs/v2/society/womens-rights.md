@@ -2,6 +2,10 @@
 
 ***Sources:** 685 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Overview
 
 In every democratic transition in a Muslim-majority society, women's rights have been among the most politically charged reforms. This page synthesizes evidence from Tunisia, Turkey, Indonesia, Morocco, and Iran's own 1979 experience to examine when and how gender equality becomes constitutionally and legally durable — and when gender reform is traded away in transition bargaining. The central paradox is that women are often essential to successful transitions — as in Tunisia's 2011 uprising and Iran's 2022-2023 Woman Life Freedom movement — yet their specific rights demands are frequently bargained away in founding moments.
@@ -77,6 +81,10 @@ Yet women's movements paradoxically became the strongest drivers of democratic c
 The tension between secular feminist agendas and religious conservative coalitions played out differently across cases. In Tunisia, secular post-colonial nationalism enabled the 1956 reforms before Islamist mobilization; in Indonesia, federalism and religious authority decentralization allowed parallel legal systems. In Iran, centralized religious authority made compromise structurally difficult: guardianship and hijab cannot coexist with equal citizenship. Women's movements succeeded not by negotiating compromise but by fundamentally challenging the regime's legitimacy claim—positioning legal reform as prerequisite to democratic and economic stability.
 
 ## Iran Analysis
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 Iran's transition would inherit one of the most codified systems of gender discrimination among middle-income countries — mandatory hijab, restricted divorce and custody rights, blood money differentials, employment sector exclusions, and travel permission requirements from male guardians. Simultaneously, Iranian women are among the most educated in the Middle East (comprising over 60% of university enrollments in recent decades), have a deep tradition of organized feminist activism spanning from the Constitutional Revolution to the Woman Life Freedom movement, and possess significant economic agency in practice despite legal constraints.
 

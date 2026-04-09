@@ -2,6 +2,10 @@
 
 ***Sources:** 59 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Theoretical Framework
 
 Framework: Process Tracing Causal Chain
@@ -37,6 +41,10 @@ Both analogies break down: neither involved a clerical class with direct governi
 Testable proposition: Seminary depoliticization requires an internal reformist tradition strong enough to provide legitimacy for post-political religious authority—a condition partially met by the Montazeri school but contested within the hawza. This proposition is testable: monitoring seminary publications, fatwa patterns, and emerging schisms after any regime transition would reveal whether reformist jurisprudence gains institutional weight or remains marginal.
 
 ## Iran Analysis
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 Iran Case: The Qom Seminary as Site of Contradiction
 

@@ -2,6 +2,10 @@
 
 ***Sources:** 438 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Overview
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (9 sources)
@@ -59,6 +63,10 @@ Second, diaspora media creates a competing authority structure. When journalists
 Third, the digital-print tension reflects asymmetric state capacity. Governments typically retain superior ability to regulate print and broadcast infrastructure through licensing and legal mechanisms, but digital platforms create regulatory gaps where social media, encrypted messaging, and decentralized platforms outpace official capacity for control (Boroujerdi, 2001). Societies with sustained digital migration (as Iran has experienced) develop hybrid public spheres where formal journalism coexists with networked, amateur, and semi-anonymous digital discourse.
 
 ## Iran Analysis
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 Iran's media landscape at the point of any transition would present challenges without direct precedent. The state controls all broadcast media through Islamic Republic of Iran Broadcasting (IRIB), operates extensive internet filtering infrastructure, and maintains legal frameworks (press law, cybercrime law, national security provisions) that criminalize independent journalism. Simultaneously, Iran has a vibrant underground and diaspora media ecosystem — satellite channels broadcasting from London, Los Angeles, and Istanbul; Persian-language social media with millions of users despite VPN restrictions; and a tradition of samizdat-style citizen journalism that exploded during the Woman Life Freedom movement.
 

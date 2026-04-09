@@ -2,6 +2,10 @@
 
 ***Sources:** 123 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Theoretical Framework
 
 Framework: Realist Synthesis — Context-Mechanism-Outcome Configuration
@@ -31,6 +35,10 @@ Two structural patterns emerge from the evidence. First, **the demographic divid
 Second, **urbanization without institutional development produces spatial inequality traps**. Pilehvar (2021) documents this for Iran; Kaprata (2022, 2023) for Albania; Afsar and Hossain (2020) for Bangladesh. In each case, demographic transition drives urban concentration, but the absence of responsive governance converts the concentration into spatial poverty rather than agglomeration benefits. The pattern suggests that Iran's ~75% urbanization rate, combined with youth unemployment and water scarcity, creates a compound vulnerability: the demographic window is closing while the urbanization dividend remains uncaptured.
 
 ## Iran Analysis
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 Iran's demographic position is simultaneously a major asset and an urgent liability. The asset: Iran's rapid fertility decline produced a large, educated working-age population — the classic demographic dividend. Mirzaei and Sadeghi (2023) document this as a 'potential for development' while Hakimian (2006) traces the paradoxical origins in post-revolutionary population policy. The liability: the dividend window is closing. Iran's population is aging faster than its economy is diversifying, and the cohorts born during the 1980s baby boom are now entering middle age without the economic opportunities their numbers warranted.
 

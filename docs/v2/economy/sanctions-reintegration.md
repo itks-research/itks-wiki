@@ -2,6 +2,10 @@
 
 ***Sources:** 314 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Overview
 
 Economic sanctions are among the most powerful instruments of international coercion, and their removal — sanctions unwinding — is one of the most consequential and least-understood processes in international political economy. When a country that has been subjected to comprehensive sanctions begins reintegrating into global trade, finance, and diplomatic networks, it faces challenges that go well beyond reversing the original measures. Supply chains, financial systems, and institutional arrangements built to survive isolation do not simply normalize when sanctions are lifted; the structural adaptations that made survival possible become obstacles to genuine reintegration.
@@ -65,6 +69,10 @@ Sanctions regimes develop institutional lock-in through four reinforcing mechani
 4. The Snap-Back Problem: The JCPOA's "snap-back" mechanism (automatic reinstatement of sanctions upon non-compliance) created psychological and institutional precedent for rapid re-escalation. This symmetry reversal—where sanctions lift quickly but snap back suddenly—discourages investment and creates vested interests against reintegration among actors whose economic models depend on sanctions persistence.
 
 ## Iran Analysis
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 Iran's reintegration would face challenges at three levels. At the financial infrastructure level, decades of exclusion from SWIFT, correspondent banking networks, and international capital markets have created a parallel financial system — hawala networks, cryptocurrency channels, barter arrangements with China and Russia, and IRGC-controlled currency exchange operations — that would not simply dissolve with sanctions removal. Re-establishing correspondent banking relationships, achieving Financial Action Task Force (FATF) compliance, and rebuilding central bank credibility would require years of institutional reform.
 

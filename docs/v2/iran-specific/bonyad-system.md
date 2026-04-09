@@ -2,6 +2,10 @@
 
 ***Sources:** 66 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Evidence & Key Findings
 
 The Iranian bonyad system represents a distinctive institutional form of revolutionary state ownership, originating from confiscations of assets belonging to the former monarchy and its affiliated interests following the 1979 Iranian Revolution. These semi-autonomous religious foundations, most notably Bonyad-e Mostazafan va Janbazan-e Engelab-e Eslami (Foundation of the Oppressed and Disabled), consolidated control over vast economic holdings including industrial enterprises, agricultural land, and financial institutions. According to estimates cited in comparative studies, Iran's major bonyads collectively control between 10-20% of the formal economy, positioning them as significant state actors operating outside conventional fiscal oversight mechanisms (Astrov et al., 2018; Botenga, 2009). The scale and autonomy of these foundations reflect their status as institutions nominally serving social welfare objectives—providing support for war veterans, disabled persons, and orphans—while simultaneously functioning as economic conglomerates answerable primarily to Supreme Leader oversight rather than parliamentary regulation.
@@ -17,6 +21,10 @@ Revolutionary and post-authoritarian states frequently encounter structural impe
 Transparency requirements represent a consistent pressure point in such transitions. External oversight mechanisms, particularly those demanded by international capital markets or multilateral institutions, conflict with foundational principles of institutional autonomy and Supreme Leader supervision. Historical precedent from other post-revolutionary contexts demonstrates that asset divestment without accompanying institutional transparency reforms typically results in informal concentration of control rather than genuine marketization (Dadgar, 2018). The sequencing question—whether transparency and structural reform precedes or follows political transition—remains unresolved in comparative literature, with different contexts producing divergent outcomes based on relative power configurations among reformist and conservative political factions.
 
 ## Iran Analysis
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 Iran's bonyad reform agenda confronts distinctive institutional constraints rooted in the theocratic constitutional framework. Unlike corporate reform processes addressing accountability to shareholders or state divestment responding to legislative mandates, bonyad reform involves entities accountable constitutionally to the Supreme Leader, who remains their principal trustee and beneficiary of their financial surpluses. This arrangement creates asymmetries in reform leverage: parliamentary reform initiatives lack constitutional authority to mandate disclosure or restructuring, constraining reform to advisory capacity or implementation through Supreme Leader directives (Telek, 2021). The accumulation of tax exemptions—estimated at substantial foregone state revenue—creates fiscal pressures for reform, yet simultaneously complicates politically feasible solutions insofar as eliminating exemptions redistributes burden to non-exempt sectors and potentially undermines bonyad competitiveness (Akbari, 2007).
 

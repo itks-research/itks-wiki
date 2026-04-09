@@ -2,6 +2,10 @@
 
 ***Sources:** 469 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Overview
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (11 sources)
@@ -63,6 +67,10 @@ Second, the gap between curriculum policy and classroom implementation is system
 Educational de-ideologization follows consistent sequencing patterns across diverse transition contexts. First, textbook revision typically begins with eliminating explicit propagandistic content while maintaining narrative coherence—a technically difficult task requiring subject-matter expertise and political sensitivity. Polish experience showed that direct substitution without attention to pedagogical continuity created gaps that teachers had to improvise around. Second, teacher retraining proves more essential than textbook replacement, as educators trained in ideological pedagogy must internalize pluralistic frameworks—this requires both technical professional development and attitudinal shifts that take 2-3 years. Third, history curriculum remains the most politically sensitive domain; neither rapid revision nor excessive neutralization satisfies stakeholder expectations. South Korea's experience revealed that overly "objective" history curricula alienated conservative constituencies while inadequate treatment of authoritarian-era abuses disappointed progressive stakeholders. Successful transitions balance narrative restoration (recovering suppressed historical voices) with critical literacy (enabling students to evaluate competing accounts). Finally, the timing of reforms relative to political transition matters substantially: early curriculum changes risk reversal if political conditions shift, while delayed reforms allow stakeholder consensus to develop but perpetuate ideological education during critical formation years.
 
 ## Iran Analysis
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 

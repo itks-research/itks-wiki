@@ -2,6 +2,10 @@
 
 ***Sources:** 41 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Theoretical Framework
 
 Framework: Narrative Synthesis — Popay et al. (2006)
@@ -33,6 +37,10 @@ Ahmad (2012) demonstrates this at the macro-political level: merchants invest in
 **Evidence limitations:** This synthesis draws on only three sources, none of which addresses Iran's domestic bazaar economy directly (Rezaei examines the diaspora trade dimension). The absence of evidence on the Tehran Grand Bazaar's internal governance structures, the bazaari class's relationship with the clerical establishment, or the sanctions economy's impact on bazaar-based finance (including the hawala system and informal credit networks) represents significant gaps. Additional research directives targeting Iranian economic history, bazaar guilds (asnaf), and informal finance would substantially strengthen this category.
 
 ## Iran Analysis
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 Iran's bazaari class occupies a unique position in the country's political economy — historically the most powerful independent economic force outside state control, with deep institutional ties to the clerical establishment and proven capacity for political mobilization. The evidence reviewed here, while limited, illuminates several critical dimensions for transition planning.
 

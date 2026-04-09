@@ -2,6 +2,10 @@
 
 ***Sources:** 29 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Theoretical Framework
 
 Framework: Narrative Synthesis — Popay et al. (2006)
@@ -35,6 +39,10 @@ Second, **demographic pressure does not automatically produce political mobiliza
 **Evidence limitations:** This synthesis draws on only four sources, two Iran-specific and two comparative. The absence of evidence on Iran's 2022 Woman Life Freedom movement, social media as political infrastructure, diaspora youth networks, or comparative youth politics in post-authoritarian transitions (Spain, South Korea, Indonesia) represents significant gaps. The GCC interventionism and unpaid female labor sources in the eligibility pool were excluded as not relevant to generational politics, further reducing the evidence base.
 
 ## Iran Analysis
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 Iran's generational politics are shaped by a defining paradox: the Islamic Republic was itself a product of youth mobilization (university students were central to the 1979 revolution), yet it now faces a youth population that overwhelmingly rejects the system's ideological foundations. The evidence reviewed here illuminates specific dimensions of this paradox.
 

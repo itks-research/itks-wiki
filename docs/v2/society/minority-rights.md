@@ -2,6 +2,10 @@
 
 ***Sources:** 375 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Theoretical Framework
 
 Realist Synthesis CMO Framework for Ethnic Accommodation. Context: Iran is one of the Middle East's most ethnically diverse states. Persians constitute approximately 50-55% of the population, with Azeris (16-25%), Kurds (7-10%), Lurs (6%), Arabs (2-3%), Baluch (2-3%), Turkmen (2%), and other groups comprising the remainder. The Islamic Republic manages ethnic diversity through centralized governance, Persian linguistic hegemony, Shia religious identity as unifying framework, and security-based approaches to ethnic mobilization (particularly in Kurdish, Baluch, and Arab regions). Indonesia, with over 300 ethnic groups, provides the most directly relevant comparison: a large, diverse state that transitioned from authoritarian centralism to democratic accommodation of ethnic plurality. Mechanism: Ethnic accommodation in diverse states operates through three channels: (1) constitutional recognition of ethnic identity establishes symbolic inclusion and legal rights; (2) territorial autonomy and fiscal decentralization provide material stakes in system stability; (3) political inclusion through proportional representation or power-sharing reduces exclusion grievances [Source 6962]. Countervailing mechanisms: (a) recognition can reinforce identity boundaries; (b) territorial autonomy can enable separatism; (c) political quotas can freeze ethnic categories. Outcome: Stable multi-ethnic governance requires balancing recognition with integration. Evidence certainty: Moderate for general patterns, Limited for Iran-specific application.
@@ -39,6 +43,10 @@ The democratization paradox in minority rights protection reveals that electoral
 Cross-case patterns for ethnic accommodation in transitioning states. First, constitutional recognition before territorial autonomy: Successful multi-ethnic transitions typically begin with symbolic constitutional recognition of ethnic plurality before implementing territorial arrangements. Indonesia's post-1998 constitutional amendments recognized regional cultural identities before specific autonomy negotiations. Premature territorial autonomy without constitutional framework risks ad hoc bargaining rather than systematic rights architecture. Second, language rights as litmus test: Language policy—education in mother tongue, official status for regional languages, media access—serves as both symbolic recognition and practical policy. Indonesia's recognition of hundreds of regional languages alongside Bahasa Indonesia provides a model. Iran's Persian-only education system and media restrictions on Kurdish, Azeri, Arabic, and Baluch constitute measurable grievances with concrete policy solutions. Third, security sector ethnic inclusion: Ethnically homogeneous security forces deployed in minority regions generate specific grievances. Indonesia's military reform included (imperfectly) diversifying security forces and establishing civilian police authority. Iran's deployment of Persian-dominated IRGC and basij in Kurdish and Baluch regions represents a structural provocant that accommodation frameworks must address. Fourth, economic equity as complement to recognition: Cultural recognition without economic equity is perceived as tokenism. Resource-producing minority regions (Khuzestan Arabs, Baluch border economy, Kurdish agriculture) require visible economic benefit from resource extraction to legitimate political accommodation. Indonesia's revenue-sharing formula for resource-producing regions addresses this dynamic.
 
 ## Iran Analysis
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 > 🔴 **Evidence Confidence: Low** — No sources cited
 

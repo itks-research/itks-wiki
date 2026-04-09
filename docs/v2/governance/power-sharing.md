@@ -1,6 +1,8 @@
 # Power-Sharing During Transitions
 
-***Sources:** 34 | **Last Updated:** 2026-04-05*
+***Sources:** 34 | **Last Updated:** 2026-04-10*
+
+
 
 ## Overview
 
@@ -38,21 +40,47 @@ The relationship between power-sharing and democratic deepening remains conteste
 
 ## Iran Analysis
 
-Iran's contemporary political structure exemplifies power-sharing within authoritarian constraints, with competing factional blocs—reformists, principalists, pragmatists—negotiating influence over policy, messaging, and institutional positioning without challenging the Supreme Leader's ultimate authority. Reformists, associated with figures like Khatami and Rouhani, advocate expanded civil liberties, nuclear diplomacy, and economic integration; principalists (osoulgarayan), anchored in Revolutionary Guard leadership and hardline clergy, defend revolutionary ideology, nuclear autonomy, and state control of strategic sectors; pragmatists seek technocratic efficiency and managed modernization without ideological transformation. These factions contest elections, legislative seats, cabinet positions, and media space, creating genuine competition within hierarchical constraints. Crucially, this intra-regime competition has real policy effects: the Rouhani presidency advanced the JCPOA through factional alignment with pragmatists, while subsequent principalist dominance reversed it.
+**[CONTEXT UPDATE — April 2026: Islamabad talks represent real-world power-sharing negotiation; ceasefire creates transitional power-sharing dynamics; Mojtaba Khamenei's legitimacy deficit shapes power-sharing geometry]**
 
-However, Iran's factional system differs fundamentally from power-sharing during democratic transition: it operates under a single veto player (the Supreme Leader) who can override factional consensus, and all factions accept revolutionary authority as non-negotiable. A genuine transitional power-sharing arrangement in Iran would require incorporating actors currently excluded from regime competition—notably, the secular opposition, Marxist-influenced groups, and ethnic-nationalist movements whose demands center on constitutional limits to supreme authority, separation of religion and governance, and national (rather than revolutionary-Islamic) identity. The integration challenge is severe: existing regime factions share commitment to an Islamic state, while opposition movements define themselves against this very principle. Furthermore, institutional integration of such opposition would require the IRGC—now a major economic actor and military power—to accept constraints on its institutional autonomy and resource control, a concession unlikely absent external military pressure or internal fracturing.
+Iran's power-sharing landscape has been fundamentally altered by three simultaneous shocks: the assassination and succession of the Supreme Leader (February-March 2026), the active military conflict with US and Israel, and the ceasefire creating a negotiation context that involves external actors in Iran's governance trajectory for the first time since 1953. The standard comparative analysis of factional power-sharing within authoritarian constraints must now be supplemented by analysis of **externally-conditioned power-sharing** — a structurally different problem.
 
-A plausible transitional scenario would involve pact negotiations between regime pragmatists, reformists, and moderate opposition figures around transitional mechanisms: a constitutional commission with representation from all major factions and opposition currents; a transition period with IRGC integration into civilian democratic control rather than parallel authority; security guarantees for regime actors contingent on acceptance of constitutional limits and accountability mechanisms. The factional depth within the regime—particularly between pragmatists and principalists—creates potential opening for cross-factional alliance with opposition moderates around shared interests in technocratic governance, reduced ideological constraint, and normalized international relations. Yet such alignment remains speculative absent significant internal change within regime factions or external pressure forcing recalculation of regime elites' interests in transition versus maintenance.
+**Intervention lens — imposed vs. emergent power-sharing:**
 
----
+The comparative literature distinguishes sharply between:
 
-**Institutional Mapping:** Power-sharing negotiations in a future Iranian transition would engage virtually every major institutional actor. The **Supreme Leader's office** holds constitutional veto authority over all state functions and commands the loyalty of the **IRGC** and **Basij**. The **Assembly of Experts** (مجلس خبرگان رهبری) theoretically selects and oversees the Supreme Leader but has never exercised independent authority. The **Expediency Discernment Council** (مجمع تشخیص مصلحت نظام) mediates legislative-Guardian Council disputes and could serve as a transitional deliberative body. The **Majles** retains procedural legitimacy as an elected institution, though its authority is constrained by نظارت استصوابی (approbatory supervision) exercised by the **Guardian Council**. Beyond regime institutions, critical actors include the secular-democratic opposition (both domestic and diaspora), ethno-national movements (Kurdish, Baloch, Arab, Azerbaijani), the **Mojahedin-e Khalq** (MEK), monarchist factions, and labor-leftist organizations.
+- **Emergent power-sharing** (Poland's Roundtable 1989, South Africa's CODESA 1991-1993): Internal factions negotiate the terms of transition, with external actors providing support/pressure but not dictating outcomes. These processes produce more durable settlements because all parties have ownership.
 
-**Structural Parallels:** Spain's Moncloa Pacts provide the most instructive parallel for Iran. Like post-Franco Spain, Iran harbors multiple ideological factions — Islamist conservatives, reformists, secular nationalists, ethno-national minorities, and leftists — none of which can govern alone. The Spanish model's success rested on a shared calculation that negotiated transition was preferable to civil conflict. Iran's factional landscape is arguably more complex: whereas Spain's factions shared a common national identity, Iran's transition must simultaneously address regime-type change, ethno-linguistic federalism demands, and the status of religious authority in governance. South Korea's dual transition (political and economic) parallels Iran's need to manage simultaneous political democratization and economic restructuring (sanctions unwinding, IRGC divestiture).
+- **Imposed power-sharing** (Iraq CPA 2003-2004, Bosnia Dayton 1995): External actors design the power-sharing architecture, creating formal structures that often lack indigenous legitimacy. Bosnia's Dayton entities remain contested 30 years later; Iraq's ethno-sectarian apportionment system entrenched communal divisions rather than building cross-cutting coalitions.
 
-**Enablers and Blockers:** The most likely enablers of power-sharing are **pragmatist technocrats** within the regime who calculate that managed transition preserves their institutional positions, and **reformist clerics** who can provide religious legitimacy for democratic governance. The primary blockers are **IRGC hardliners** whose economic empire depends on the current constitutional arrangement, **Guardian Council jurists** whose institutional authority dissolves under democratic constitutionalism, and **Supreme Leader loyalists** for whom any power-sharing implies abandonment of ولایت فقیه. The **bazaari class** would support transition only if property rights and commercial continuity are guaranteed.
+Iran's Islamabad context sits between these models: external military pressure (coercive) but a surviving government (not collapsed), creating a negotiation rather than imposition dynamic. The most relevant comparative case may be **South Korea's 1980s democratization** — where US pressure created space for opposition but internal civil society drove the actual transition terms — or the **Chile 1990 plebiscite** — where Pinochet's government survived but was constrained to accept democratic transition through international isolation.
 
-**Iran-Specific Challenges:** Unlike Spain or South Korea, Iran faces a unique "spoiler with ideology" problem: the IRGC is simultaneously a military force, an economic conglomerate, and an ideological institution. Its integration into a democratic order requires addressing all three dimensions — security sector reform, economic divestiture, and ideological deradicalization — simultaneously. The absence of a unifying figure (Iran lacks a Juan Carlos or Adolphe Suárez equivalent) makes elite-pact formation more difficult. Furthermore, external actors — the United States, Russia, China, Gulf states — have competing interests in the outcome that complicate purely domestic negotiations. The Quds Force's regional networks create extraterritorial stakeholders (Hezbollah, Iraqi militias) whose interests must be addressed in any comprehensive settlement.
+**Current power-sharing geometry — April 2026:**
+
+The pre-war Iranian factional landscape (reformist / pragmatist / principalist triangle) has been substantially altered:
+
+1. **Mojtaba Khamenei as Supreme Leader**: Elected by the Assembly of Experts March 9, 2026 with a reported 62 of 88 votes — weaker mandate than his father's original selection. His legitimacy deficit (no senior clerical rank, dynastic succession, wartime leadership) means he requires IRGC backing as a substitute for clerical legitimacy. This creates a structural IRGC-Supreme Leader dependency that strengthens IRGC political role.
+
+2. **IRGC as dominant power broker**: Ahmad Vahidi (IRGC commander) holds more effective power than in any previous period — wartime conditions have eliminated civilian oversight and the IRGC's decision-making role in Islamabad negotiations is unclear but likely significant.
+
+3. **Reformists and pragmatists**: Severely marginalized by wartime emergency governance. However, the Islamabad talks context creates potential for reformist factions to position as interlocutors with external actors — similar to how Iraqi exile groups positioned themselves during Gulf War diplomacy. The difference: Iranian reformists have domestic legitimacy that Iraqi exiles lacked.
+
+4. **Exile opposition**: Currently fragmented and not formally included in Islamabad talks (as of April 10). The question of exile opposition's role is a critical Islamabad variable — analogous to the Iraqi exile groups' role in CPA governance design. Including them risks undermining the surviving government's legitimacy; excluding them loses the most democratically legitimate Iranian voices.
+
+**Power-sharing mechanisms applicable under intervention conditions:**
+
+*For a negotiated settlement framework:*
+- **Inclusive national dialogue** (Yemen model, albeit a failed one): Formal multi-stakeholder body including IRGC-aligned government, reformists, ethnic minority representatives, exile opposition. Requires external facilitation and security guarantees.
+- **Constitutional commission with proportional representation**: Delegates authority for constitutional redesign to a body with explicit representation of major factions. The Iraq 2005 model failed because de-Ba'athification excluded Sunni participation; an Iranian version would need to explicitly include reformist and minority voices.
+- **Transitional technocratic government**: Appoint technocratic cabinet (not IRGC-aligned) to manage reconstruction and institutional reform while political settlement is negotiated. Analogous to Tunisia's Beji Caid Essebsi transitional arrangement.
+
+*For a coercive compliance framework (more likely):*
+- External actors accept continued IRGC-adjacent government in exchange for capacity limits and governance benchmarks
+- Reformists gain political space through reconstruction conditionality (external pressure for civil society opening, free press, political prisoner release) rather than formal power-sharing
+- This reproduces a liberalizing authoritarianism dynamic (Mexico 1977-2000, Taiwan 1986-1996) rather than negotiated transition
+
+**Critical variable — reconstruction conditionality as power-sharing lever:** The Islamabad talks' reconstruction access terms may do more to shape Iran's internal power-sharing than any formal political agreement. If reconstruction conditionality includes: free press requirements, political prisoner release, civil society registration freedom, and electoral reform — these create structural space for opposition participation without requiring regime change. This is the model most consistent with what external actors can credibly deliver and Iran can survivably accept.
+
+*[Update when Islamabad talks produce clearer framework. Context keys: imposed_governance_conditions, international_negotiation_framework, reconstruction_framework, opposition_exile_role.]*
 
 ## Knowledge Gaps & Open Questions
 

@@ -2,6 +2,10 @@
 
 ***Sources:** 67 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Theoretical Framework
 
 Framework: Narrative Synthesis — Popay et al. (2006)
@@ -33,6 +37,10 @@ The implication is that post-transition housing and urban policy cannot be desig
 **Evidence limitations:** This synthesis draws on only three genuinely relevant sources from a pool of 13 categorized under 'Housing, cost of living, and urban inequality.' The 10 excluded sources (sanctions law, foreign policy, marine insurance, Serbia, Russo-Ukrainian war, Afghan constitutional design) reflect a severe category assignment problem — likely caused by automated ingestion during directive processing. This category urgently needs: (1) re-scoring of existing sources to correct category assignments, and (2) new research directives specifically targeting Iranian housing policy, Tehran's housing crisis, rent control debates, informal settlements (hashiyeneshini), and the Mehr Housing Project.
 
 ## Iran Analysis
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 Iran's housing and urban inequality challenge is among the most politically salient issues facing any future government. Tehran's housing prices have increased by over 500% in dollar terms between 2018 and 2024, informal settlements (hashiyeneshini) surround every major city, and the Mehr Housing Project — the most ambitious public housing initiative in the Islamic Republic's history — produced widely criticized results. The evidence reviewed here, while limited, illuminates structural dimensions of this crisis.
 

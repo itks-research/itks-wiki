@@ -2,6 +2,10 @@
 
 ***Sources:** 204 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Theoretical Framework
 
 Realist Synthesis CMO Framework for Trade Liberalization. Context: Poland and Czech Republic transitioned from COMECON-integrated planned economies to EU single market members over approximately 15 years (1989-2004). This required dismantling state trading monopolies, adopting EU acquis communautaire (80,000+ pages of regulations), and restructuring industrial sectors exposed to international competition. Iran's economy, isolated by comprehensive sanctions since 2012 (and partial sanctions since 1979), faces analogous reintegration challenges: an economy structured around sanctions circumvention, state-dominated trade channels, and industrial sectors protected from competition. Mechanism: Trade liberalization creates developmental outcomes through three channels: (1) competition pressure forces firm-level productivity improvements or exit; (2) FDI inflows transfer technology, management practices, and market access; (3) institutional harmonization with trade partners creates regulatory quality improvements [Source 1035, 1052]. Countervailing mechanisms include: (a) import competition destroying domestic capacity before productivity gains materialize; (b) FDI concentrating in extractive rather than productive sectors; (c) regulatory harmonization imposing inappropriate standards on developing economies. Outcome: Poland and Czech Republic achieved sustained GDP growth, industrial upgrading, and institutional modernization. However, regional inequality increased and certain sectors (agriculture, heavy industry) experienced painful adjustment. Evidence certainty: Strong for EU accession outcomes, Limited for Iran transferability.
@@ -31,6 +35,10 @@ FDI policy sequencing across successful cases reveals three consistent patterns.
 Four cross-case patterns emerge. First, anchor institution effect: EU accession provided an external anchor for institutional reform—the acquis communautaire imposed regulatory standards, transparency requirements, and governance benchmarks that domestic politics alone might not have produced. Countries with similar starting conditions but without EU accession anchor (Ukraine, Belarus) show significantly different institutional trajectories. Iran lacks an equivalent regional integration anchor, though WTO accession or bilateral frameworks could partially substitute [Source 1035]. Second, FDI composition matters more than FDI volume: Greenfield manufacturing FDI (new factories, supply chain integration) produced stronger growth effects than mergers/acquisitions or extractive sector FDI. Poland's automotive sector FDI generated 200,000+ direct jobs and extensive supplier networks. Iran's FDI, historically concentrated in petroleum, would need deliberate diversification toward manufacturing [Source 1236]. Third, sequencing of liberalization affects outcomes: Countries that built institutional capacity (commercial courts, competition authorities, customs modernization) before full trade opening experienced smoother adjustment. Rapid liberalization without institutional preparation produced firm closures, unemployment spikes, and political backlash [Source 1034]. Fourth, regional inequality as persistent cost: Both Poland and Czech Republic experienced growing regional disparities—capital cities and western border regions captured disproportionate FDI and growth, while eastern/peripheral regions lagged. This pattern is relevant to Iran where Tehran-province concentration already dominates. Strong evidence across multiple transition economies supports these patterns.
 
 ## Iran Analysis
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 

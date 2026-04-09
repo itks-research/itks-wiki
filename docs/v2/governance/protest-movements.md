@@ -2,6 +2,10 @@
 
 ***Sources:** 68 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Theoretical Framework
 
 Framework: Realist Synthesis — Context-Mechanism-Outcome Configuration
@@ -37,6 +41,10 @@ Second, **digital tools accelerate mobilization but cannot substitute for organi
 Third, **the pathway from protest to political transition depends on elite fracture, not movement size alone**. Hinnebusch (2015) and the Arab Spring cases collectively show that mass mobilization is necessary but not sufficient; the critical variable is whether protests fracture elite cohesion. This helps explain why Iran's massive 2022 protests did not produce transition despite unprecedented geographic and demographic breadth.
 
 ## Iran Analysis
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (27 sources)
 

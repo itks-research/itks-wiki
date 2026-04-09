@@ -2,6 +2,10 @@
 
 ***Sources:** 622 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Overview
 
 > 📎 **Source Alignment: 🟢 Strong** (82%)
@@ -197,6 +201,10 @@ The cases consistently show that constitutional design works best when it follow
 
 
 ## Iran Analysis
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (17 sources) | 📎 **Source Alignment: 🟡 Moderate** (72%)
 

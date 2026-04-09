@@ -2,6 +2,10 @@
 
 ***Sources:** 95 | **Last Updated:** 2026-04-05*
 
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
+
 ## Theoretical Framework
 
 Framework: Narrative Synthesis — Popay et al. (2006)
@@ -37,6 +41,10 @@ First, **Iran's health reforms follow a 'two steps forward, one step back' traje
 Second, **the sanctions impact on health operates through institutional degradation, not direct deprivation.** The evidence consistently shows that sanctions do not cause direct medical shortages (medications are technically exempt under humanitarian carve-outs). Instead, they degrade the institutional infrastructure that delivers care: banking channels for pharmaceutical procurement, hospital budgeting processes, specialist retention, and patient purchasing power. Nazari et al.'s (2025) cancer care findings illustrate this most vividly — the problem is not that cancer drugs are sanctioned but that the financial, logistical, and human systems required to deliver them are systematically weakened. This institutional degradation mechanism means that simply 'lifting sanctions' is insufficient; the damaged institutional capacity must be actively rebuilt.
 
 ## Iran Analysis
+
+
+> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+
 
 Iran's health system challenge in a transition context is distinctive because it combines three features: (1) a partially modernized health infrastructure with genuine technical capacity (Iran's HSRP demonstrates the ability to design sophisticated reform), (2) chronic institutional erosion from decades of sanctions that has weakened implementation capacity, and (3) a centralized governance structure where health policy is entangled with political control rather than technocratic independence.
 
