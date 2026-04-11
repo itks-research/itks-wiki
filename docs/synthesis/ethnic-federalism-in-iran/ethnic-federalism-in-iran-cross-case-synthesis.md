@@ -2,181 +2,138 @@
 
 ## Evidence Base
 
-The research on Ethnic federalism in Iran reveals several consistent patterns across case studies. Drawing from key sources in this domain ([6793], [2020]), we observe that successful transitions in this area typically involve coordinated institutional changes, elite consensus on core objectives, and sequenced implementation to manage resistance from threatened groups.
+تحقیق درباره فدرالیسم قومی در ایران الگوهای منسجمی را در میان مطالعات موردی نشان می‌دهد. استخراج‌شده از منابع کلیدی در این حوزه ([6793], [2020])، ما مشاهده می‌کنیم که انتقال موفقیت‌آمیز در این حوزه معمولاً شامل تغییرات نهادی هماهنگ، اجماع نخبگی بر اهداف اساسی، و اجرای مرحله‌ای برای مدیریت مقاومت از گروه‌های تهدید‌شده است.
 
-Cross-case analysis indicates that outcomes vary significantly based on: (1) strength of civil society institutions prior to reform, (2) degree of economic dependency on the sector being reformed, and (3) international pressure and external support for change. These patterns emerge consistently across the 7 sources reviewed, though with important contextual variations.
+تجزیه و تحلیل متقاطع مورد نشان می‌دهد که نتایج به‌طور قابل‌توجهی بر اساس تفاوت می‌کند: (۱) قوت نهادهای جامعه مدنی قبل از اصلاح، (۲) درجه وابستگی اقتصادی به بخش اصلاح‌شده، و (۳) فشار بین‌المللی و حمایت خارجی برای تغییر. این الگوها به‌طور مسلسل در میان ۷ منبع بررسی‌شده بروز می‌کند، اگرچه با تغییرات زمینه‌ای مهم.
 
-Key mechanisms identified include institutional bargaining ([2021]), elite negotiation frameworks ([2019]), and gradual institutional adaptation. Evidence suggests that precipitous change without adequate preparation risks institutional breakdown, whereas overly gradual approaches allow reform opponents to mobilize resistance (Source [2020], [2021]).
+مکانیسم‌های کلیدی شامل معامله‌گری نهادی ([2021])، چارچوب‌های مذاکره نخبگی ([2019])، و سازگاری نهادی تدریجی است. شواهد نشان می‌دهند که تغییر شتاب‌دار بدون آماده‌سازی کافی خطر فروپاشی نهادی دارد، در حالی که رویکرد‌های بسیار تدریجی مخالفان اصلاح را برای سازماندهی مقاومت اجازه می‌دهد (منبع [2020], [2021]).
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 ## Cross-Cutting Patterns
 
-Analysis across case studies reveals important patterns in how Ethnic federalism in Iran unfolds:
+تجزیه و تحلیل متقاطع مطالعات موردی الگوهای مهمی را در روند چگونگی فدرالیسم قومی در ایران آشکار می‌کند:
 
-1. **Institutional Variation:** Different case studies show varied institutional mechanisms for achieving 
-similar outcomes. Where centralized decision-making enables rapid reform implementation, decentralized 
-systems require building broader consensus but generate more durable change.
+۱. **تنوع نهادی:** مطالعات موردی مختلف مکانیسم‌های نهادی متفاوتی برای دستیابی به نتایج مشابه نشان می‌دهند. جایی که تصمیم‌گیری متمرکز اجرای اصلاح سریع را فعال می‌کند، سیستم‌های غیرمتمرکز نیازمند ساختن اجماع گسترده‌تر اما تغییر پایدارتری تولید می‌کند.
 
-2. **Sequencing Matters:** The order of reforms significantly affects outcomes. Cases where preliminary 
-institutional capacity-building preceded substantive policy change showed higher success rates than 
-cases attempting simultaneous institutional and policy transformation.
+۲. **ترتیب‌دهی مهم است:** ترتیب اصلاحات به‌طور قابل‌توجهی بر نتایج تأثیر می‌گذارد. مواردی که ساختمان نهادی ظرفیت پیش‌قائم تغییر سیاسی بنیادی نشان دادند نسبت به موارد تلاش برای تحول نهادی و سیاستی همزمان نرخ موفقیت بالاتری داشتند.
 
-3. **International Context:** External factors—whether sanctions, alliances, or institutional pressure—
-significantly shape feasibility and trajectory. Countries with strong international partnerships 
-achieved outcomes different from those facing isolation or pressure.
+۳. **زمینه بین‌المللی:** عوامل خارجی — خواه تحریم‌ها، اتحادیه‌ها، یا فشار نهادی — به‌طور قابل‌توجهی امکان‌پذیری و مسیر را شکل می‌دهند. کشورهای با شراکت‌های بین‌المللی قوی نتایج متفاوتی در مقایسه با آن‌هایی که با ایزولاسیون یا فشار روبروند به دست آوردند.
 
-4. **Elite Consensus:** Successful cases consistently featured elite agreement on core objectives, 
-even when implementation diverged. Cases lacking this baseline consensus experienced reform reversal or 
-prolonged institutional gridlock.
+۴. **اجماع نخبگی:** مورد موفقیت‌آمیز به‌طور مسلسل از توافق نخبگی بر اهداف اساسی برخوردار بودند، حتی وقتی اجرا متفاوت شد. موارد فاقد این اجماع پایه تجربهٔ بازگرایی اصلاح یا بن‌بست نهادی طولانی‌شده را متحمل شدند.
 
-These patterns hold across diverse geographic, economic, and political contexts, suggesting some 
-underlying structural dynamics in how this category of change occurs.
+این الگوها در سراسر زمینه‌های جغرافیایی، اقتصادی، و سیاسی متنوع برقرار هستند، نشان‌دهندهٔ دینامیک‌های ساختاری پایه‌ای برخی در چگونگی دسته‌بندی این تغییر رخ می‌دهند.
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 ## Implications for Iran
 
-The comparative evidence on Ethnic federalism in Iran offers several implications for Iran's potential transition:
+شواهد مقایسه‌ای درباره فدرالیسم قومی در ایران چندین مفهوم برای انتقال احتمالی ایران را فراهم می‌کند:
 
-**Contextual Assessment:** Iran shares key structural features with several case studies: 
-a resource-dependent economy, a military-political complex with extensive economic holdings, 
-religious institutional authority embedded in state structures, and international sanctions constraining 
-economic policy autonomy. These parallels suggest that mechanisms observed in comparable cases may be 
-plausible in Iran's context.
+**ارزیابی زمینه‌ای:** ایران ویژگی‌های ساختاری کلیدی را با چندین مطالعه موردی به‌اشتراک می‌گذارد: اقتصاد وابسته به منابع، مجموعهٔ نظامی-سیاسی با دارایی‌های اقتصادی گسترده، اقتدار نهادی مذهبی تعبیه‌شده در ساختار دولتی، و تحریم‌های بین‌المللی محدود‌کننده خودمختاری سیاست اقتصادی. این موازات‌ها نشان می‌دهند که مکانیسم‌های دیده‌شده در موارد مقارن ممکن است در زمینهٔ ایران معقول باشند.
 
-**Critical Differences:** However, Iran's specific configuration differs in important ways. 
-The Velayat-e Faqih (Supreme Leader authority) creates a concentrated veto point with unique 
-theological-political foundations. The IRGC's economic integration is more extensive and constitutionally 
-embedded than in most comparison cases. And Iran's sanctions economy creates distinct constraints on 
-economic restructuring unavailable in the case studies reviewed.
+**تفاوت‌های بحرانی:** با این حال، پیکربندی خاص ایران به روش‌های مهمی متفاوت است. **ولایت فقیه** (اقتدار رهبر عالی) نقطهٔ وتو متمرکز‌شدهٔ منحصر با بنیادهای الهی-سیاسی ایجاد می‌کند. یکپارچگی اقتصادی سپاه گسترده‌تر و در قانون اساسی تعبیه‌شده‌تر از بیشتر موارد مقایسه است. و اقتصاد تحریم‌های ایران محدودیت‌های متفاوتی بر بازنگری ساختار اقتصادی خلق می‌کند در دسترس در مطالعات موردی بررسی‌شده.
 
-**Feasibility Assessment:** Evidence from this analysis suggests that change in Ethnic federalism in Iran 
-would likely require either (a) negotiated elite consensus that preserves core power structures while 
-reshaping their substance, or (b) a fundamental rupture with existing institutions. Intermediate 
-scenarios—where reform occurs through elite negotiation while maintaining revolutionary authority structures—
-are plausible based on Tunisia and Indonesia precedents, but face higher institutional resistance in Iran 
-given the theological-institutional depth of existing arrangements.
+**ارزیابی امکان‌پذیری:** شواهد از این تجزیه و تحلیل نشان می‌دهد که تغییر در فدرالیسم قومی در ایران احتمالاً نیازمند یا (الف) اجماع نخبگی مذاکره‌شده که نهادهای اساسی قوت را حفظ می‌کند در حالی که جوهر آنها را بازنگری می‌کند، یا (ب) شکست بنیادی با نهادهای موجود است. سناریوهای میانی — جایی که اصلاح از طریق مذاکره نخبگی در حالی که حفظ ساختار اقتدار انقلابی رخ می‌دهد — بر اساس سابقهٔ تونس و اندونزی معقول هستند، اما با مقاومت نهادی بالاتری در ایران با توجه به عمق الهی-نهادی ترتیبات موجود رو رو هستند.
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 ## Iran-Specific Implications (Institutional Mapping & Transition Scenarios)
 
-### Institutional Mapping
+### نقشه‌کشی نهادی
 
-The following Iranian institutions are directly implicated by the comparative evidence on Ethnic federalism in Iran:
+نهادهای ایرانی زیر به‌طور مستقیم توسط شواهد مقایسه‌ای درباره فدرالیسم قومی در ایران درگیر شده‌اند:
 
-- **Guardian Council (ethnic representation in oversight)**: [Role and current constraints]
-- **Parliament (provincial representation)**: [Role and current constraints]
-- **Provincial governors (devolution capacity)**: [Role and current constraints]
-- **Ethnic parties (KDPI, Komala, Baloch organizations)**: [Role and current constraints]
-- **IRGC regional commands**: [Role and current constraints]
+- **شورای نگهبان** (نمایندگی قومی در نظارت): [نقش و محدودیت‌های فعلی]
+- **مجلس شورای اسلامی** (نمایندگی استانی): [نقش و محدودیت‌های فعلی]
+- **استانداران استان** (ظرفیت انتقال اختیار): [نقش و محدودیت‌های فعلی]
+- **احزاب قومی** (KDPI، کومه، سازمان‌های بلوچ): [نقش و محدودیت‌های فعلی]
+- **فرمان‌های منطقه‌ای سپاه**: [نقش و محدودیت‌های فعلی]
 
+### همخوانی‌های ساختاری
 
-### Structural Parallels
+مقایسهٔ مکانیسم‌های انتقال مشاهده‌شده در مطالعات موردی به منظر نهادی ایران:
 
-Comparing the transition mechanisms observed in case studies to Iran's institutional landscape:
+- **یکپارچگی نهادی:** چالش‌های نهادی ایران با کشورهایی با یکپارچگی نظامی-سیاسی-اقتصادی عمیق (اندونزی، کره جنوبی) موازی است. نقش چند‌بخشی سپاه — امنیتی، اقتصادی، سیاسی — اصلاح در فدرالیسم قومی در ایران را مشروط بر مذاکره نخبگی در این دامنه‌ها می‌سازد.
 
-- **Institutional Integration:** Iran's institutional challenges parallel those in countries with deep 
-military-political-economic fusion (Indonesia, South Korea). The IRGC's multi-faceted role—security, 
-economic, political—makes reform in Ethnic federalism in Iran contingent on elite negotiation across these domains.
+- **معماری نقطه وتو:** شورای نگهبان و ولایت فقیه ایران نقاط وتو دوگانه (الهی و نهادی) ایجاد می‌کنند که تفاوت کردن در مقایسه با کشورهای مطالعه موردی کار می‌کنند. این تر عمیقتر بخشی به تغییر و — احتمالاً — راه‌های مذاکره چندگانه ایجاد می‌کند.
 
-- **Veto Point Architecture:** Iran's Guardian Council and Velayat-e Faqih create dual veto points 
-(theological and institutional) that function differently than in case study countries. This creates 
-both greater barriers to change and—potentially—multiple negotiation pathways.
+- **محدودیت‌های بین‌المللی:** مانند موارد با تحریم‌ها یا ایزولاسیون (کره جنوبی تحت پارک، تونس تحت بن‌علی)، ایران محدودیت‌های خارجی را نمی‌کند که انتقال اقتصادی موثر را شکل می‌دهد.
 
-- **International Constraints:** Like cases with sanctions or isolation (South Korea under Park, 
-Tunisia under Ben Ali), Iran faces external constraints that shape what transitions are economically 
-feasible.
+### عوامل کلیدی و طرفین سرمایه‌دار
 
-### Key Actors & Stakeholders
+**فعال‌کننده‌های تغییر:**
+- فصول اصلاح‌طلب در مجلس و دستگاه دولتی
+- جامعه‌های دیاسپورا (به‌خصوص مرتبط برای دسته مهاجرت مغز)
+- شراکت‌های بین‌المللی (اگر رفع تحریم رخ دهد)
+- شبکه‌های جامعه مدنی
 
-**Enablers of Change:**
-- Reformist factions within parliament and civil service
-- Diaspora communities (particularly relevant for brain-drain category)
-- International partners (if sanctions relief occurs)
-- Civil society networks
+**مسدود‌کننده‌های محتمل:**
+- سپاه و دستگاه امنیتی
+- روحانیون محافظه‌کار
+- بهره‌مندان از ترتیبات فعلی
+- متحدان منطقه‌ای وابسته به وضع موجود
 
-**Likely Blockers:**
-- IRGC and security apparatus
-- Conservative clergy
-- Beneficiaries of current arrangements
-- Regional allies dependent on status quo
+### سناریوهای انتقال
 
-### Transition Scenarios
+بر اساس شواهد مقایسه‌ای، سه مسیر معقول بروز می‌کند:
 
-Based on comparative evidence, three plausible pathways emerge:
+**سناریوی الف (انتقال مذاکره‌شده):**
+- تغییر تدریجی از طریق اجماع نخبگی
+- حفظ اقتدار اساسی شورای نگهبان/رهبر عالی
+- اصلاحات جوهر در حالی که ساختار قوت را نگاه می‌دارد
+- مدت: ۵ تا ۱۵ سال
+- احتمال بر اساس شواهد مقایسه‌ای: متوسط
 
-**Scenario A (Negotiated Transition):**
-- Incremental change through elite consensus
-- Preserves core Guardian Council/Supreme Leader authority
-- Reforms substance while maintaining power structure
-- Timeline: 5-15 years
-- Probability based on comparative evidence: Moderate
+**سناریوی الف (شکست/انتقال سریع):**
+- فروپاشی نهادی ناگهانی و جانشینی مختلف
+- بازنگری نهادی جامع
+- خطر تنزاع بالا
+- مدت: ۲ تا ۵ سال
+- احتمال: کمتر، اما تحول‌آور اگر رخ دهد
 
-**Scenario B (Rupture/Rapid Transition):**
-- Sudden institutional collapse and contested succession
-- Comprehensive institutional restructuring
-- High conflict risk
-- Timeline: 2-5 years
-- Probability: Lower, but transformative if occurs
+**سناریوی درخ (اصلاح تدریجی از درون):**
+- تغییر توسط نیروهای اصلاح‌طلب داخلی
+- بدون ترمیم رسمی قانون اساسی
+- استفاده از انعطاف‌پذیری نهادی موجود
+- مدت: ۱۰ تا ۲۰ سال
+- احتمال: بالا، با توجه به سابقهٔ اصلاح‌طلب ایران
 
-**Scenario C (Gradual Reform from Within):**
-- Change driven by internal reformist forces
-- No formal constitutional amendment
-- Uses existing institutional flexibility
-- Timeline: 10-20 years
-- Probability: High, given Iran's reformist precedent
+### خطرات و ترتیب‌دهی
 
-### Risks and Sequencing
+**خطرات ترتیب‌دهی:**
+- تلاش برای تغییر سیاستی قبل از وجود ظرفیت نهادی (دام اندونزی)
+- ادامه بدون اجماع نخبگی (دینامیک بازگرایی تونس)
+- وابستگی بین‌المللی ایجاد آسیب‌پذیری برای شوک خارجی
 
-**Sequencing Risks:**
-- Attempting policy change before institutional capacity exists (Indonesia trap)
-- Proceeding without elite consensus (Tunisia reversal dynamic)
-- International dependency creating vulnerability to external shocks
+**شرایط بحرانی:**
+- رفع تحریم‌ها یا رژیم تحریم مدیریت‌شده (بر امکان‌پذیری اقتصادی تأثیر می‌گذارد)
+- اجماع نخبگی داخلی بر مرزهای تغییر قابل‌قبول
+- توسعه جامعه مدنی برای حمایت از ترتیبات نهادی جدید
 
-**Critical Preconditions:**
-- Sanctions relief or managed sanctions regime (affects economic feasibility)
-- Internal elite consensus on boundaries of acceptable change
-- Civil society development to support new institutional arrangements
-
-**Reform Reversibility:**
-Evidence suggests that changes in Ethnic federalism in Iran are highly reversible if not embedded in:
-1. New institutional procedures (not just policy directives)
-2. Elite consensus strong enough to survive leadership succession
-3. International agreements constraining reversal options
+**بازگشت‌پذیری اصلاح:**
+شواهد نشان می‌دهند که تغییر در فدرالیسم قومی در ایران بسیار بازگشت‌پذیر است اگر تعبیه نشده باشد در:
+۱. روش‌های نهادی جدید (نه تنها دستوری سیاستی)
+۲. اجماع نخبگی به اندازهٔ کافی قوی برای بقای جانشینی رهبری
+۳. توافق‌های بین‌المللی محدود‌کننده گزینه‌های بازگرایی
 
 ---
 
-**Overall Assessment:** The comparative evidence suggests change in Ethnic federalism in Iran is institutionally 
-plausible in Iran, though constrained by Iran's specific theological-institutional architecture and 
-international position. Outcomes would depend critically on sequencing, elite consensus, and management 
-of veto points.
+**ارزیابی کلی:** شواهد مقایسه‌ای نشان می‌دهد تغییر در فدرالیسم قومی در ایران از نظر نهادی معقول در ایران است، اگرچه محدود شده توسط معماری الهی-نهادی خاص ایران و موقعیت بین‌المللی. نتایج بحرانی بر ترتیب‌دهی، اجماع نخبگی، و مدیریت نقاط وتو متوقف خواهند بود.
 
 ## Research Questions & Evidence Gaps
 
-Based on this analysis, the following research gaps would strengthen understanding of how Ethnic federalism in Iran 
-unfolds in Iran's specific context:
+بر اساس این تجزیه و تحلیل، شکاف‌های تحقیقی زیر درک را از چگونگی فدرالیسم قومی در ایران در زمینهٔ خاص ایران تقویت خواهد کرد:
 
-1. **Mechanism Specificity:** How exactly do elite consensus-building processes function across Iran's 
-multi-layered power structure (Supreme Leader, Guardian Council, IRGC, Parliament, Reformists)? 
-Case studies provide patterns but not mechanism-level detail for Iran's unique configuration.
+۱. **تخصصی بودن مکانیسم:** دقیقاً چگونه فرآیند‌های ایجاد اجماع نخبگی در ساختار قوت چندلایهٔ ایران کار می‌کند (رهبر عالی، شورای نگهبان، سپاه، مجلس، اصلاح‌طلبان)؟ مطالعات موردی الگوها فراهم می‌کند اما جزئیات سطح مکانیسم برای پیکربندی منحصر ایران ندارند.
 
-2. **Historical Precedent:** What do Iran's previous reform attempts (1997-2005, Green Movement, JCPOA era) 
-reveal about elite negotiation capacity in Ethnic federalism in Iran? This would ground transition probability 
-estimates in empirical Iranian evidence.
+۲. **سابقهٔ تاریخی:** آنچه تلاش‌های اصلاح قبلی ایران (۱۳۷۶-۱۳۸۴، حرکت سبز، دورهٔ JCPOA) در مورد ظرفیت مذاکره نخبگی در فدرالیسم قومی در ایران نشان می‌دهد؟ این برآورد احتمال انتقال را در شواهد تجربی ایران پایه خواهد کرد.
 
-3. **Diaspora Engagement** (if relevant): How might Iran-diaspora reconnection function given sanctions and 
-regime legitimacy concerns? Case studies on diaspora economic engagement exist, but Iran-specific institutional 
-barriers need investigation.
+۳. **نشان‌دهندگی دیاسپورا** (اگر مرتبط باشد): چگونه باید بازاتصال ایران-دیاسپورا با توجه به تحریم‌ها و مسائل مشروعیت رژیم عمل کند؟ مطالعات موردی درباره نشان‌دهندگی دیاسپورا اقتصادی وجود دارد، اما مسائل نهادی خاص ایران نیازمند تحقیق است.
 
-4. **International Dependency:** What would sanctions relief or JCPOA reconstitution enable in terms of 
-institutional restructuring in Ethnic federalism in Iran? This would clarify whether international preconditions are 
-binding constraints or secondary factors.
+۴. **وابستگی بین‌المللی:** رفع تحریم‌ها یا بازسازی JCPOA چه چیزی را در شرایط بازنگری نهادی در فدرالیسم قومی در ایران فعال خواهد کرد؟ این شفاف خواهد کرد که آیا پیش‌شرط‌های بین‌المللی محدودیت‌های الزام‌آور یا عوامل ثانویه هستند.
 
-5. **Ethnic Federalism Specifics** (if relevant): How would federal arrangements accommodate Iran's specific 
-ethnic geographies and existing power distributions? Federal models exist, but Iran-specific constitutional 
-questions require targeted research.
+۵. **تخصصی بودن فدرالیسم قومی** (اگر مرتبط باشد): ترتیبات فدرالی چگونه جغرافیای قومی خاص ایران و توزیع قوت موجود را مطابقت می‌دهند؟ مدل‌های فدرالی وجود دارند، اما مسائل قانون اساسی خاص ایران نیازمند تحقیق مستقیم هستند.
 
 ## Sources
 

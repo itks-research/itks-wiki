@@ -1,74 +1,76 @@
-# Intra-regime factional conflict → transition window: Cross-Country Evidence Review
+<div dir="rtl" markdown>
 
-## Mechanism Definition
-When authoritarian regimes split between hardliners and reformers, the resulting elite conflict creates openings for opposition mobilization. If reform factions are strong enough, they may use opposition pressure as leverage against hardliners; this strategic instability opens space for independent civil society and negotiation before hardliners can reassert control.
+# تعارض جناحی درون‌حکومتی ← پنجره گذار: مرور شواهد بین‌کشوری
 
-## Context Requirements
-- **Regime Coherence**: fractured_into_clear_factions
-- **Factional Strength**: roughly_balanced
-- **Ideological Differences**: substantive_not_tactical
-- **External Pressure**: amplifies_factional_divisions
-- **Organizational Capacity**: opposition_ready_to_mobilize
+## تعریف مکانیسم
+هنگامی که حکومت‌های اقتدارگرا بین تندروها و اصلاح‌طلبان شکاف می‌خورند، تعارض نخبگان حاصله فرصت‌هایی برای بسیج اپوزیسیون ایجاد می‌کند. اگر جناح‌های اصلاح‌طلب به اندازه کافی قوی باشند، ممکن است از فشار اپوزیسیون به‌عنوان اهرم علیه تندروها استفاده کنند؛ این بی‌ثباتی استراتژیک فضایی برای جامعه مدنی مستقل و مذاکره قبل از بازتحکیم کنترل توسط تندروها باز می‌کند.
 
-## Evidence Across Cases
+## شرایط زمینه‌ای
+- **انسجام حکومت**: شکاف‌خورده به جناح‌های مشخص
+- **قدرت جناحی**: تقریباً متوازن
+- **اختلافات ایدئولوژیکی**: ماهوی و نه تاکتیکی
+- **فشار خارجی**: تشدیدکننده شکاف‌های جناحی
+- **ظرفیت سازمانی**: اپوزیسیون آماده بسیج
 
-### Iran (86 sources)
-Evidence from Iran provides 86 sources on this mechanism's operation in context-specific variations.
+## شواهد در موارد مختلف
 
-### Chile (10 sources)
-Chile's plebiscite-driven transition (1988) involved military leaders fracturing over whether to accept electoral results. The mechanism fired when key military factions chose exit over continued enforcement of dictatorship, though institutional design limited accountability.
+### ایران (۸۶ منبع)
+شواهد از ایران ۸۶ منبع درباره عملکرد این مکانیسم در تنوع‌های زمینه‌ای خاص ارائه می‌دهد.
 
-### South Korea (6 sources)
-South Korea's transition from military rule involved gradual military withdrawal from politics rather than dramatic defection. Elite bargaining between military holdouts, civilian opposition, and emerging democratic forces led to negotiated transition with preserved military autonomy.
+### شیلی (۱۰ منبع)
+گذار شیلی از طریق همه‌پرسی (۱۹۸۸) شامل شکاف رهبران نظامی بر سر پذیرش نتایج انتخابات بود. مکانیسم زمانی فعال شد که جناح‌های کلیدی نظامی خروج از حکومت را بر ادامه اجرای دیکتاتوری ترجیح دادند، اگرچه طراحی نهادی پاسخگویی را محدود کرد.
 
-### Tunisia (5 sources)
-Evidence from Tunisia provides 5 sources on this mechanism's operation in context-specific variations.
+### کره جنوبی (۶ منبع)
+گذار کره جنوبی از حکومت نظامی شامل خروج تدریجی ارتش از سیاست بود، نه انشعاب چشمگیر. چانه‌زنی نخبگان بین مقاومت‌کنندگان نظامی، اپوزیسیون غیرنظامی، و نیروهای دموکراتیک نوظهور به گذار مذاکره‌ای با حفظ خودمختاری نظامی انجامید.
 
-### Poland (4 sources)
-Poland's transition saw security apparatus (Jaruzelski faction) negotiate with solidarity, creating space for democratic change. Military/security defection was non-violent but effective because it signaled regime elite acceptance of transition.
+### تونس (۵ منبع)
+شواهد از تونس ۵ منبع درباره عملکرد این مکانیسم در تنوع‌های زمینه‌ای خاص ارائه می‌دهد.
 
-### Indonesia (4 sources)
-Indonesia's 1998 transition from Suharto's military-dominated authoritarian regime demonstrates how this mechanism operates when military cohesion fragments. The military's internal divisions and factional disputes during economic crisis created space for civil society mobilization and democratic transition.
+### لهستان (۴ منبع)
+گذار لهستان شاهد مذاکره دستگاه امنیتی (جناح یاروزلسکی) با جنبش همبستگی بود که فضایی برای تغییر دموکراتیک ایجاد کرد. عقب‌نشینی نظامی/امنیتی غیرخشونت‌آمیز اما مؤثر بود زیرا نشان‌دهنده پذیرش گذار از سوی نخبگان حکومتی بود.
 
-### Spain (3 sources)
-Evidence from Spain provides 3 sources on this mechanism's operation in context-specific variations.
+### اندونزی (۴ منبع)
+گذار اندونزی در سال ۱۹۹۸ از حکومت اقتدارگرای نظامی‌محور سوهارتو نشان می‌دهد که این مکانیسم هنگام فروپاشی انسجام نظامی چگونه عمل می‌کند. اختلافات داخلی و منازعات جناحی ارتش در دوره بحران اقتصادی، فضایی برای بسیج جامعه مدنی و گذار دموکراتیک ایجاد کرد.
 
-### unknown (1 sources)
-Evidence from unknown provides 1 sources on this mechanism's operation in context-specific variations.
+### اسپانیا (۳ منبع)
+شواهد از اسپانیا ۳ منبع درباره عملکرد این مکانیسم در تنوع‌های زمینه‌ای خاص ارائه می‌دهد.
 
+### نامشخص (۱ منبع)
+شواهد از منبع نامشخص ۱ منبع درباره عملکرد این مکانیسم در تنوع‌های زمینه‌ای خاص ارائه می‌دهد.
 
-## Pattern Analysis
-This mechanism fires most reliably when military officers face irreconcilable ideological or factional divides that exceed personal loyalty bonds. The mechanism tends to fail when: (1) military cohesion is maintained through patronage networks or shared repression, (2) alternative security forces (paramilitary, intelligence agencies) provide enforcement, or (3) external military support (from allies) substitutes for domestic force. Cross-country evidence suggests military defection is often a symptom rather than cause of regime collapse—it occurs after legitimacy crises have already fractured elite consensus.
+## تحلیل الگو
+این مکانیسم بیشترین قابلیت اطمینان را زمانی نشان می‌دهد که افسران نظامی با شکاف‌های ایدئولوژیکی یا جناحی آشتی‌ناپذیری مواجه شوند که فراتر از پیوندهای وفاداری شخصی باشد. این مکانیسم معمولاً در موارد زیر شکست می‌خورد: (۱) انسجام نظامی از طریق شبکه‌های حامی‌پروری یا سرکوب مشترک حفظ شود، (۲) نیروهای امنیتی جایگزین (شبه‌نظامیان، سازمان‌های اطلاعاتی) عملیات اجرایی را بر عهده بگیرند، یا (۳) حمایت نظامی خارجی (از متحدان) جایگزین نیروی داخلی شود. شواهد بین‌کشوری نشان می‌دهد که عقب‌نشینی نظامی اغلب نشانه فروپاشی حکومت است و نه علت آن — بعد از بحران‌های مشروعیتی رخ می‌دهد که اجماع نخبگان را از قبل شکسته‌اند.
 
-## Reliability Assessment
-This mechanism shows MODERATE-TO-HIGH reliability across democratic transitions (Indonesia, Philippines, Chile, Poland) but lower reliability in cases of civil war or renewed authoritarianism (Egypt, Ukraine). Boundary conditions are critical: defection is more effective when accompanied by civil society mobilization and when regime lacks alternative enforcement capacity. The mechanism's reliability is constrained by how defecting military factions are incorporated—exclusion or prosecution often triggers counter-defection.
+## ارزیابی قابلیت اطمینان
+این مکانیسم قابلیت اطمینان متوسط تا بالا در گذارهای دموکراتیک (اندونزی، فیلیپین، شیلی، لهستان) نشان می‌دهد اما قابلیت اطمینان کمتری در موارد جنگ داخلی یا بازگشت اقتدارگرایی (مصر، اوکراین) دارد. شرایط مرزی حیاتی هستند: عقب‌نشینی زمانی مؤثرتر است که با بسیج جامعه مدنی همراه باشد و حکومت فاقد ظرفیت اجرایی جایگزین باشد. قابلیت اطمینان مکانیسم با نحوه ادغام جناح‌های نظامی منشعب محدود می‌شود — انزوا یا پیگرد قضایی اغلب موجب ضدانشعاب می‌شود.
 
 ---
 
-# Intra-regime factional conflict → transition window: Iran Application Assessment
+# تعارض جناحی درون‌حکومتی ← پنجره گذار: ارزیابی کاربرد در ایران
 
-## Applicability Score: 22.0%
+## امتیاز قابلیت اعمال: ۲۲.۰٪
 
-## Context Match Analysis
-- **Regime Coherence**: Condition regime_coherence=fractured_into_clear_factions requires evaluation
-- **Factional Strength**: Condition factional_strength=roughly_balanced requires evaluation
-- **Ideological Differences**: Condition ideological_differences=substantive_not_tactical requires evaluation
-- **External Pressure**: Condition external_pressure=amplifies_factional_divisions requires evaluation
-- **Organizational Capacity**: Condition organizational_capacity=opposition_ready_to_mobilize requires evaluation
+## تحلیل تطابق زمینه‌ای
+- **انسجام حکومت**: شرط انسجام حکومت = شکاف‌خورده به جناح‌های مشخص نیاز به ارزیابی دارد
+- **قدرت جناحی**: شرط قدرت جناحی = تقریباً متوازن نیاز به ارزیابی دارد
+- **اختلافات ایدئولوژیکی**: شرط اختلافات ایدئولوژیکی = ماهوی و نه تاکتیکی نیاز به ارزیابی دارد
+- **فشار خارجی**: شرط فشار خارجی = تشدیدکننده شکاف‌های جناحی نیاز به ارزیابی دارد
+- **ظرفیت سازمانی**: شرط ظرفیت سازمانی = اپوزیسیون آماده بسیج نیاز به ارزیابی دارد
 
+## مقایسه با مورد مرجع
+گذار اندونزی در ۱۹۹۸ نزدیک‌ترین مورد مرجع قابل قیاس را ارائه می‌دهد: شکاف‌های جناحی نظامی مشابه، بحران اقتصادی به‌عنوان شتاب‌دهنده، و گذار از حکومت اقتدارگرای طولانی‌مدت. با این حال، حکومت ایدئولوژیک ایران و ادغام اقتصادی سپاه تفاوت‌هایی ایجاد می‌کنند.
 
-## Reference Case Comparison
-Indonesia's 1998 transition provides the most analogous reference case: similar military factional divisions, economic crisis as accelerant, and transition from long-term authoritarian rule. However, Iran's ideological regime and IRGC's economic integration create differences.
+## ارزیابی ویژه ایران
+شکاف‌های جناحی سپاه پاسداران (عمل‌گرایان در برابر تندروها) و تنش‌ها با دولت غیرنظامی زمینه‌ای برای این مکانیسم ایجاد می‌کنند. با این حال، برخلاف ارتش‌ها در گذارهای دموکراتیک، رهبری سپاه منافع ایدئولوژیکی و اقتصادی راسخی در بقای حکومت دارد. عقب‌نشینی نظامی در ایران مستلزم یکی از دو مورد است: (۱) تغییر ایدئولوژیکی نخبگان به سوی حکمرانی دموکراتیک (با توجه به اصول بنیادین جمهوری اسلامی بعید است)، یا (۲) شکاف سپاه به حدی شدید که جناح تندرو کنترل را از دست بدهد (سابقه تاریخی محدود). این مکانیسم در صورتی قابلیت اعمال متوسطی دارد که گذار ایران از الگوی مذاکره‌محور نخبگان به سبک تونس پیروی کند، نه فروپاشی حکومتی به سبک اندونزی.
 
-## Iran-Specific Assessment
-The IRGC's factional divisions (pragmatists vs. hardliners) and tensions with civilian government create potential for this mechanism. However, unlike militaries in democratic transitions, IRGC leadership has vested ideological and economic interests in the regime's survival. Military defection in Iran would require either: (1) Elite ideological shift toward democratic governance (unlikely given Islamic Republic's founding principles), or (2) IRGC fracture so severe that hardline faction loses control (historical precedent limited). The mechanism is moderately applicable if Iran's transition follows Tunisia-style elite-driven negotiation rather than Indonesia-style regime collapse.
+## شرایط فعال‌سازی
+- **محتمل اگر:** جناح عمل‌گرای سپاه برتری یابد؛ سلامت/جانشینی رهبر معظم خلأ مشروعیتی ایجاد کند؛ فشار خارجی با بحران اقتصادی داخلی ترکیب شود
+- **بعید اگر:** تندروهای سپاه کنترل را تحکیم کنند؛ ایدئولوژی منسجم بماند؛ دستگاه سرکوب حکومت متحد باقی بماند
 
-## Conditions for Activation
-- **Likely if:** IRGC pragmatist faction gains ascendance; Supreme Leader's health/succession creates legitimacy void; external pressure combines with internal economic crisis
-- **Unlikely if:** IRGC hardliners consolidate control; ideology remains cohesive; regime's coercive apparatus remains unified
+## شکاف‌های شواهد
+- شکاف‌های جناحی سپاه چگونه به عقب‌نشینی واقعی در مقابل اصلاحات مذاکره‌ای تبدیل می‌شوند؟
+- چه سابقه‌ای برای نیروهای امنیتی متعهد ایدئولوژیک در انتخاب گذار دموکراتیک وجود دارد؟
+- سلسله‌مراتب مذهبی ایران و نهاد رهبری معظم چگونه بر محاسبات وفاداری نظامی تأثیر می‌گذارند؟
+- آیا منافع اقتصادی خصوصی‌شده سپاه انشعاب جناحی را تسریع یا مانع می‌شود؟
 
-## Evidence Gaps
-- How would IRGC factional divides translate into actual defection vs. negotiated reform?
-- What precedent exists for ideologically-committed security forces choosing democratic transition?
-- How do Iran's religious hierarchy and Supreme Leader institution affect military loyalty calculations?
-- Would privatized IRGC economic interests accelerate or impede factional defection?
+</div>

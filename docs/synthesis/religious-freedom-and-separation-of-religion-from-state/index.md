@@ -1,24 +1,24 @@
-## Key Insights
+## یافته‌های کلیدی
 
-- **No single religion-state model fits all Muslim-majority transitions**: Turkey (state control), Tunisia (cooperative separation), Indonesia (inclusive monotheism), and Iran (jurist guardianship) represent fundamentally different arrangements. Iran's post-transition design must be indigenous, not imported.
-- **Islamist parties can evolve into democratic partners under institutional incentives**: Ennahda's transformation from Islamist movement to "Muslim democratic" party (93.5% delegate vote in 2016) demonstrates that democratic competition can drive ideological moderation.
-- **State control of religion creates capture vulnerability**: Turkey's Diyanet model shows that placing religion under bureaucratic management creates infrastructure that can be captured by religious-political entrepreneurs, transforming management into promotion.
-- **Iran's velayat-e faqih system is structurally designed to resist reform**: The Guardian Council's veto power creates a catch-22 where legislative reform requires approval from the very institution reform would dismantle.
-- **No theocracy has ever transitioned to democracy**: Iran would be the first-mover case, requiring institutional innovation rather than template adoption from other transition types.
+- **هیچ الگوی واحدی برای رابطه دین و دولت در گذار کشورهای مسلمان وجود ندارد**: ترکیه (کنترل دولتی بر دین)، تونس (جدایی همکارانه)، اندونزی (یکتاپرستی فراگیر) و ایران (ولایت فقیه) ترتیبات بنیادین متفاوتی را نشان می‌دهند. طراحی نهادی پساگذار ایران باید بومی باشد، نه وارداتی.
+- **احزاب اسلام‌گرا می‌توانند به شریکان دموکراتیک تبدیل شوند، مشروط بر مشوق‌های نهادی**: تحول النهضه از جنبش اسلام‌گرا به حزب «دموکرات مسلمان» (با رأی ۹۳.۵ درصد نمایندگان در ۲۰۱۶) نشان می‌دهد رقابت دموکراتیک می‌تواند اعتدال ایدئولوژیک ایجاد کند.
+- **کنترل دولتی بر دین آسیب‌پذیری در برابر مصادره ایجاد می‌کند**: مدل دیانت ترکیه نشان می‌دهد قرار دادن دین زیر مدیریت بوروکراتیک، زیرساختی می‌سازد که کارگزاران سیاسی-مذهبی می‌توانند تصاحب کنند و مدیریت را به ترویج تبدیل نمایند.
+- **نظام ولایت فقیه ایران ساختاراً برای مقاومت در برابر اصلاح طراحی شده است**: حق وتوی شورای نگهبان بن‌بستی ایجاد می‌کند که در آن اصلاح قانونی نیازمند تأیید همان نهادی است که اصلاح در پی برچیدن آن است.
+- **هیچ حکومت دینی هرگز به دموکراسی گذار نکرده است**: ایران نخستین مورد خواهد بود و به نوآوری نهادی نیاز دارد، نه اقتباس الگو از دیگر انواع گذار.
 
-## What We Know
+## آنچه می‌دانیم
 
-Comparative evidence from Tunisia, Turkey, Indonesia, Spain, and Senegal provides diverse models for religion-state institutional design. Stepan's "twin tolerations" framework — requiring reciprocal respect between religious and political domains — offers the most applicable analytical lens for Iran. Constitutional acknowledgment of Islam's social role is compatible with civil law supremacy, as Tunisia's 2014 Constitution demonstrated. Corruption erodes trust in both secular and religious governance (Sapsford et al., 2017), making institutional quality inseparable from religion-state design.
+شواهد تطبیقی از تونس، ترکیه، اندونزی، اسپانیا و سنگال الگوهای متنوعی برای طراحی نهادی رابطه دین و دولت فراهم می‌کند. چارچوب «تساهل دوگانه» استپان — که مستلزم احترام متقابل میان نهادهای دینی و سیاسی است — کاربردی‌ترین عدسی تحلیلی برای ایران را ارائه می‌دهد. به رسمیت شناختن نقش اجتماعی اسلام در قانون اساسی با برتری قانون مدنی سازگار است، چنان‌که قانون اساسی ۲۰۱۴ تونس نشان داد. فساد اعتماد به حکمرانی سکولار و دینی را یکسان تخریب می‌کند (Sapsford et al., 2017) و کیفیت نهادی را از طراحی رابطه دین و دولت جدایی‌ناپذیر می‌سازد.
 
-## What We Don't Know
+## آنچه نمی‌دانیم
 
-How to operationalize "twin tolerations" in a post-theocratic context where religious institutions have been deeply compromised by political power. What role Iran's seminary system (howzeh) should play after velayat-e faqih — autonomous institution, regulated body, or hybrid. How Shi'a jurisprudential concepts (marja'iyya, ijtihad) interact with democratic governance differently from Sunni contexts. Whether a viable "third way" exists between militant secularism and reformed theocracy. How to protect religious minorities — especially Baha'is — without creating new hierarchies of state-recognized faiths.
+چگونه می‌توان «تساهل دوگانه» را در بافت پساحکومت‌دینی عملیاتی کرد، جایی که نهادهای مذهبی عمیقاً با قدرت سیاسی آلوده شده‌اند. حوزه علمیه ایران پس از ولایت فقیه چه نقشی باید ایفا کند — نهاد دینی مستقل، نهاد آموزشی تحت تنظیم، یا ترکیبی از هر دو. مفاهیم فقهی شیعه (مرجعیت، اجتهاد) چگونه با حکمرانی دموکراتیک تعامل می‌کنند، متفاوت از بافت‌های سنّی. آیا «راه سوم» قابل‌ دوامی میان سکولاریسم ستیزه‌جو و حکومت دینی اصلاح‌شده وجود دارد. چگونه باید از اقلیت‌های دینی — به‌ویژه بهائیان — حمایت کرد بدون آنکه سلسله‌مراتب جدیدی از ادیان رسمی‌شده ایجاد شود.
 
-## Sub-Articles in This Theme
+## زیرمقاله‌ها
 
-1. **Tunisia's Constitutional Compromise and the "Civil State" Model** — How the 2014 Constitution negotiated Islam's public role without theocratic authority, and lessons for Iran
-2. **[Turkey's Diyanet Model: State Control vs. Separation](./turkeys-diyanet-model-state-control-vs-separation.md)** — Why placing religion under bureaucratic management risks capture and does not constitute genuine reform
-3. **[Indonesia's Pancasila: Inclusive Monotheism and Its Limits](./indonesias-pancasila-inclusive-monotheism-and-its-limits.md)** — How pluralist frameworks manage religious diversity but risk creating hierarchies of recognized faiths
-4. **[Velayat-e Faqih: Iran's Unique Institutional Architecture](./velayat-e-faqih-irans-unique-institutional-architecture.md)** — The structural challenge of dismantling a theocratic veto system with no historical precedent
-5. **[Stepan's Twin Tolerations and Post-Theocratic Governance](./stepans-twin-tolerations-and-post-theocratic-governance.md)** — The most applicable framework for Iran and its unresolved institutional gaps
-6. **[Post-Theocratic Transitions: Uncharted Territory](./post-theocratic-transitions-uncharted-territory.md)** — Why Iran would be the first democracy-from-theocracy case and what procedural templates exist
+۱. **سازش قانون‌اساسی تونس و الگوی «دولت مدنی»** — چگونه قانون اساسی ۲۰۱۴ نقش عمومی اسلام را بدون اقتدار حکومت دینی تنظیم کرد و درس‌هایی برای ایران
+۲. **مدل دیانت ترکیه: کنترل دولتی در برابر جدایی** — چرا قرار دادن دین زیر مدیریت بوروکراتیک خطر مصادره دارد و اصلاح واقعی نیست
+۳. **پانچاسیلای اندونزی: یکتاپرستی فراگیر و محدودیت‌های آن** — چگونه چارچوب‌های کثرت‌گرا تنوع دینی را مدیریت می‌کنند اما خطر ایجاد سلسله‌مراتب ادیان رسمی را دارند
+۴. **ولایت فقیه: معماری نهادی منحصربه‌فرد ایران** — چالش ساختاری برچیدن نظام وتوی حکومت دینی بدون سابقه تاریخی
+۵. **تساهل دوگانه استپان و حکمرانی پساحکومت‌دینی** — کاربردی‌ترین چارچوب برای ایران و شکاف‌های نهادی حل‌نشده آن
+۶. **گذار پساحکومت‌دینی: قلمرو ناشناخته** — چرا ایران نخستین مورد دموکراسی‌از‌حکومت‌دینی خواهد بود و چه الگوهای رویه‌ای در دسترس است

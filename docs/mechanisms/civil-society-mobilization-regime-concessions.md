@@ -1,62 +1,64 @@
-# Civil society mobilization → regime concessions: Cross-Country Evidence Review
+<div dir="rtl" markdown>
 
-## Mechanism Definition
-When civil society organizations (labor unions, student groups, professional associations, religious communities) coordinate mass participation in protests or boycotts, regimes often make limited concessions (release of prisoners, electoral reforms, rights expansions) to defuse pressure. These concessions can incrementally expand political space and establish precedent for further demands.
+# بسیج جامعه مدنی ← امتیازدهی حکومت: مرور شواهد بین‌کشوری
 
-## Context Requirements
-- **Civil Society Organizational Capacity**: moderate_to_high
-- **Cross Cutting Civil Society Coalition**: multiple_sectors_united
-- **Regime Capacity For Mass Repression**: limited_by_public_scrutiny
-- **International Attention**: sustained_media_coverage
-- **Movement Discipline**: escalation_coordinated_not_random
+## تعریف مکانیسم
+هنگامی که سازمان‌های جامعه مدنی (اتحادیه‌های کارگری، گروه‌های دانشجویی، انجمن‌های صنفی، جوامع مذهبی) مشارکت گسترده مردمی در اعتراضات یا تحریم‌ها را هماهنگ می‌کنند، حکومت‌ها اغلب امتیازات محدودی (آزادی زندانیان، اصلاحات انتخاباتی، گسترش حقوق) برای کاهش فشار اعطا می‌کنند. این امتیازات می‌توانند به‌تدریج فضای سیاسی را گسترش دهند و سابقه‌ای برای مطالبات بیشتر ایجاد کنند.
 
-## Evidence Across Cases
+## شرایط زمینه‌ای
+- **ظرفیت سازمانی جامعه مدنی**: متوسط تا بالا
+- **ائتلاف فرابخشی جامعه مدنی**: اتحاد چند بخش مختلف
+- **ظرفیت حکومت برای سرکوب گسترده**: محدود به‌دلیل نظارت عمومی
+- **توجه بین‌المللی**: پوشش رسانه‌ای پایدار
+- **انضباط جنبش**: تشدید هماهنگ و نه تصادفی
 
-### Iran (47 sources)
-Evidence from Iran provides 47 sources on this mechanism's operation in context-specific variations.
+## شواهد در موارد مختلف
 
-### Indonesia (7 sources)
-Indonesia's 1998 transition from Suharto's military-dominated authoritarian regime demonstrates how this mechanism operates when military cohesion fragments. The military's internal divisions and factional disputes during economic crisis created space for civil society mobilization and democratic transition.
+### ایران (۴۷ منبع)
+شواهد از ایران ۴۷ منبع درباره عملکرد این مکانیسم در تنوع‌های زمینه‌ای خاص ارائه می‌دهد.
 
-### Poland (2 sources)
-Poland's transition saw security apparatus (Jaruzelski faction) negotiate with solidarity, creating space for democratic change. Military/security defection was non-violent but effective because it signaled regime elite acceptance of transition.
+### اندونزی (۷ منبع)
+گذار اندونزی در سال ۱۹۹۸ از حکومت اقتدارگرای نظامی‌محور سوهارتو نشان می‌دهد که این مکانیسم هنگام فروپاشی انسجام نظامی چگونه عمل می‌کند. اختلافات داخلی و منازعات جناحی ارتش در دوره بحران اقتصادی، فضایی برای بسیج جامعه مدنی و گذار دموکراتیک ایجاد کرد.
 
-### Tunisia (1 sources)
-Evidence from Tunisia provides 1 sources on this mechanism's operation in context-specific variations.
+### لهستان (۲ منبع)
+گذار لهستان شاهد مذاکره دستگاه امنیتی (جناح یاروزلسکی) با جنبش همبستگی بود که فضایی برای تغییر دموکراتیک ایجاد کرد. عقب‌نشینی نظامی/امنیتی غیرخشونت‌آمیز اما مؤثر بود زیرا نشان‌دهنده پذیرش گذار از سوی نخبگان حکومتی بود.
 
+### تونس (۱ منبع)
+شواهد از تونس ۱ منبع درباره عملکرد این مکانیسم در تنوع‌های زمینه‌ای خاص ارائه می‌دهد.
 
-## Pattern Analysis
-This mechanism fires most reliably when military officers face irreconcilable ideological or factional divides that exceed personal loyalty bonds. The mechanism tends to fail when: (1) military cohesion is maintained through patronage networks or shared repression, (2) alternative security forces (paramilitary, intelligence agencies) provide enforcement, or (3) external military support (from allies) substitutes for domestic force. Cross-country evidence suggests military defection is often a symptom rather than cause of regime collapse—it occurs after legitimacy crises have already fractured elite consensus.
+## تحلیل الگو
+این مکانیسم بیشترین قابلیت اطمینان را زمانی نشان می‌دهد که افسران نظامی با شکاف‌های ایدئولوژیکی یا جناحی آشتی‌ناپذیری مواجه شوند که فراتر از پیوندهای وفاداری شخصی باشد. این مکانیسم معمولاً در موارد زیر شکست می‌خورد: (۱) انسجام نظامی از طریق شبکه‌های حامی‌پروری یا سرکوب مشترک حفظ شود، (۲) نیروهای امنیتی جایگزین (شبه‌نظامیان، سازمان‌های اطلاعاتی) عملیات اجرایی را بر عهده بگیرند، یا (۳) حمایت نظامی خارجی (از متحدان) جایگزین نیروی داخلی شود. شواهد بین‌کشوری نشان می‌دهد که عقب‌نشینی نظامی اغلب نشانه فروپاشی حکومت است و نه علت آن — بعد از بحران‌های مشروعیتی رخ می‌دهد که اجماع نخبگان را از قبل شکسته‌اند.
 
-## Reliability Assessment
-This mechanism shows MODERATE-TO-HIGH reliability across democratic transitions (Indonesia, Philippines, Chile, Poland) but lower reliability in cases of civil war or renewed authoritarianism (Egypt, Ukraine). Boundary conditions are critical: defection is more effective when accompanied by civil society mobilization and when regime lacks alternative enforcement capacity. The mechanism's reliability is constrained by how defecting military factions are incorporated—exclusion or prosecution often triggers counter-defection.
+## ارزیابی قابلیت اطمینان
+این مکانیسم قابلیت اطمینان متوسط تا بالا در گذارهای دموکراتیک (اندونزی، فیلیپین، شیلی، لهستان) نشان می‌دهد اما قابلیت اطمینان کمتری در موارد جنگ داخلی یا بازگشت اقتدارگرایی (مصر، اوکراین) دارد. شرایط مرزی حیاتی هستند: عقب‌نشینی زمانی مؤثرتر است که با بسیج جامعه مدنی همراه باشد و حکومت فاقد ظرفیت اجرایی جایگزین باشد. قابلیت اطمینان مکانیسم با نحوه ادغام جناح‌های نظامی منشعب محدود می‌شود — انزوا یا پیگرد قضایی اغلب موجب ضدانشعاب می‌شود.
 
 ---
 
-# Civil society mobilization → regime concessions: Iran Application Assessment
+# بسیج جامعه مدنی ← امتیازدهی حکومت: ارزیابی کاربرد در ایران
 
-## Applicability Score: 32.2%
+## امتیاز قابلیت اعمال: ۳۲.۲٪
 
-## Context Match Analysis
-- **Civil Society Organizational Capacity**: Iran has constrained civil society capacity
-- **Cross Cutting Civil Society Coalition**: Iran has constrained civil society capacity
-- **Regime Capacity For Mass Repression**: Condition regime_capacity_for_mass_repression=limited_by_public_scrutiny requires evaluation
-- **International Attention**: Condition international_attention=sustained_media_coverage requires evaluation
-- **Movement Discipline**: Condition movement_discipline=escalation_coordinated_not_random requires evaluation
+## تحلیل تطابق زمینه‌ای
+- **ظرفیت سازمانی جامعه مدنی**: ایران ظرفیت جامعه مدنی محدودی دارد
+- **ائتلاف فرابخشی جامعه مدنی**: ایران ظرفیت جامعه مدنی محدودی دارد
+- **ظرفیت حکومت برای سرکوب گسترده**: شرط ظرفیت سرکوب گسترده = محدود به نظارت عمومی نیاز به ارزیابی دارد
+- **توجه بین‌المللی**: شرط توجه بین‌المللی = پوشش رسانه‌ای پایدار نیاز به ارزیابی دارد
+- **انضباط جنبش**: شرط انضباط جنبش = تشدید هماهنگ و نه تصادفی نیاز به ارزیابی دارد
 
+## مقایسه با مورد مرجع
+گذار اندونزی در ۱۹۹۸ نزدیک‌ترین مورد مرجع قابل قیاس را ارائه می‌دهد: شکاف‌های جناحی نظامی مشابه، بحران اقتصادی به‌عنوان شتاب‌دهنده، و گذار از حکومت اقتدارگرای طولانی‌مدت. با این حال، حکومت ایدئولوژیک ایران و ادغام اقتصادی سپاه تفاوت‌هایی ایجاد می‌کنند.
 
-## Reference Case Comparison
-Indonesia's 1998 transition provides the most analogous reference case: similar military factional divisions, economic crisis as accelerant, and transition from long-term authoritarian rule. However, Iran's ideological regime and IRGC's economic integration create differences.
+## ارزیابی ویژه ایران
+شکاف‌های جناحی سپاه پاسداران (عمل‌گرایان در برابر تندروها) و تنش‌ها با دولت غیرنظامی زمینه‌ای برای این مکانیسم ایجاد می‌کنند. با این حال، برخلاف ارتش‌ها در گذارهای دموکراتیک، رهبری سپاه منافع ایدئولوژیکی و اقتصادی راسخی در بقای حکومت دارد. عقب‌نشینی نظامی در ایران مستلزم یکی از دو مورد است: (۱) تغییر ایدئولوژیکی نخبگان به سوی حکمرانی دموکراتیک (با توجه به اصول بنیادین جمهوری اسلامی بعید است)، یا (۲) شکاف سپاه به حدی شدید که جناح تندرو کنترل را از دست بدهد (سابقه تاریخی محدود). این مکانیسم در صورتی قابلیت اعمال متوسطی دارد که گذار ایران از الگوی مذاکره‌محور نخبگان به سبک تونس پیروی کند، نه فروپاشی حکومتی به سبک اندونزی.
 
-## Iran-Specific Assessment
-The IRGC's factional divisions (pragmatists vs. hardliners) and tensions with civilian government create potential for this mechanism. However, unlike militaries in democratic transitions, IRGC leadership has vested ideological and economic interests in the regime's survival. Military defection in Iran would require either: (1) Elite ideological shift toward democratic governance (unlikely given Islamic Republic's founding principles), or (2) IRGC fracture so severe that hardline faction loses control (historical precedent limited). The mechanism is moderately applicable if Iran's transition follows Tunisia-style elite-driven negotiation rather than Indonesia-style regime collapse.
+## شرایط فعال‌سازی
+- **محتمل اگر:** جناح عمل‌گرای سپاه برتری یابد؛ سلامت/جانشینی رهبر معظم خلأ مشروعیتی ایجاد کند؛ فشار خارجی با بحران اقتصادی داخلی ترکیب شود
+- **بعید اگر:** تندروهای سپاه کنترل را تحکیم کنند؛ ایدئولوژی منسجم بماند؛ دستگاه سرکوب حکومت متحد باقی بماند
 
-## Conditions for Activation
-- **Likely if:** IRGC pragmatist faction gains ascendance; Supreme Leader's health/succession creates legitimacy void; external pressure combines with internal economic crisis
-- **Unlikely if:** IRGC hardliners consolidate control; ideology remains cohesive; regime's coercive apparatus remains unified
+## شکاف‌های شواهد
+- شکاف‌های جناحی سپاه چگونه به عقب‌نشینی واقعی در مقابل اصلاحات مذاکره‌ای تبدیل می‌شوند؟
+- چه سابقه‌ای برای نیروهای امنیتی متعهد ایدئولوژیک در انتخاب گذار دموکراتیک وجود دارد؟
+- سلسله‌مراتب مذهبی ایران و نهاد رهبری معظم چگونه بر محاسبات وفاداری نظامی تأثیر می‌گذارند؟
+- آیا منافع اقتصادی خصوصی‌شده سپاه انشعاب جناحی را تسریع یا مانع می‌شود؟
 
-## Evidence Gaps
-- How would IRGC factional divides translate into actual defection vs. negotiated reform?
-- What precedent exists for ideologically-committed security forces choosing democratic transition?
-- How do Iran's religious hierarchy and Supreme Leader institution affect military loyalty calculations?
-- Would privatized IRGC economic interests accelerate or impede factional defection?
+</div>

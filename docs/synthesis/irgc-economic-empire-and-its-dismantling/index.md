@@ -1,5 +1,5 @@
-# IRGC economic empire and its dismantling
+# امپراتوری اقتصادی سپاه و انحلال آن
 
-*Iran-Specific* · 1 articles · 22 sources
+*ویژه ایران* · 1 مقاله · 22 منبع
 
 - [Dismantling the IRGC Economic Empire: Precedents, Pathways, and Pitfalls](dismantling-the-irgc-economic-empire-precedents-pathways-and-pitfalls.md)

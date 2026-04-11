@@ -1,202 +1,166 @@
-# Comparative Analysis: Civil-Military Relations and Security Sector Reform
+<div dir="rtl" markdown>
 
-**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-29 06:07:29
+# تحلیل تطبیقی: روابط نظامی-مدنی و اصلاحات بخش امنیتی
 
-# Comparative Analysis: Civil-Military Relations and Security Sector Reform
-
-## Metadata
-- **Category:** Civil-military relations and security sector reform
-- **Case Studies:** South Korea, Spain, Tunisia, Egypt, Indonesia, Pakistan, Taiwan, Philippines, Thailand, Chile, Syria, Yemen, Libya, Iraq
-- **Sources Analyzed:** 33 (0 full-text, 33 abstract-only)
-- **Date Generated:** 2026-03-28
-- **Impact Level:** medium
+## فراداده
+- **دسته‌بندی:** Civil-military relations and security sector reform
+- **مطالعات موردی:** کره جنوبی، اسپانیا، تونس، مصر، اندونزی، پاکستان، تایوان، فیلیپین، تایلند، شیلی، سوریه، یمن، لیبی، عراق
+- **منابع تحلیل‌شده:** ۳۳ (۰ متن کامل، ۳۳ فقط چکیده)
+- **تاریخ تولید:** 2026-03-28
+- **سطح تأثیر:** متوسط
 
 ---
 
-## Part I: Broad Synthesis
+## بخش اول: ترکیب کلی
 
-### 1. Overview
+### ۱. مرور کلی
 
-The relationship between armed forces and civilian governance stands as one of the most consequential institutional challenges in any democratic transition. Where authoritarian regimes have relied on military power — whether through direct rule, coup-proofing strategies, or the military's integration into economic life — the transition to democracy requires fundamentally renegotiating who controls the instruments of coercion and how that control is institutionalized. The literature assembled here spans three decades of scholarship across South Korea, Spain, Tunisia, and comparative frameworks encompassing East Asia, Latin America, Africa, and the Arab world.
+رابطه میان نیروهای مسلح و حکومت مدنی یکی از مهم‌ترین چالش‌های نهادی در هر انتقال دموکراتیک به شمار می‌رود. در جایی که رژیم‌های استبدادی بر قدرت نظامی تکیه داشته‌اند — خواه از طریق حکومت مستقیم، استراتژی‌های اثبات کودتا، یا ادغام ارتش در زندگی اقتصادی — انتقال به دموکراسی نیازمند بازنوسازی بنیادی در خصوص کنترل ابزارهای بر زور و نهادینه‌سازی آن کنترل است. متون جمع‌آوری‌شده در اینجا بر سه دهه تحقیقات تخصصی در کره جنوبی، اسپانیا، تونس و چارچوب‌های تطبیقی در اقیانوسیه آسیا، آمریکای لاتین، آفریقا و جهان عرب پیوند دارند.
 
-The centrality of this topic to the ITKS project's four pillars is direct. **Prosperity** depends on institutional predictability that military interference undermines (Rodrik, 2000; Bardhan, 2005). **Personal freedoms** are curtailed wherever security forces operate outside civilian oversight, as the Maghreb anti-terrorism law analysis demonstrates (Tamburini, 2018). **Economic strength** is compromised when military establishments control significant economic assets outside market discipline. And **sovereignty** — paradoxically — is weakened rather than strengthened when armed forces dominate governance, as external powers gain leverage through military aid relationships (Cunningham, 2015).
+ارتباط مرکزی این موضوع با چهار ستون پروژه ITKS مستقیم است. **رفاه و برخوری** به پیش‌انبازی نهادی وابسته است که دخالت نظامی آن را تضعیف می‌کند (Rodrik, 2000; Bardhan, 2005). **آزادی‌های شخصی** در هر جایی که نیروهای امنیتی خارج از نظارت مدنی فعال باشند محدود می‌شوند، همان‌طور که تحلیل قانون مبارزه با تروریسم در منطقه مغرب عربی نشان می‌دهد (Tamburini, 2018). **قدرت اقتصادی** هنگامی کاهش می‌یابد که نهادهای نظامی بر دارایی‌های اقتصادی قابل توجه خارج از انضباط بازار کنترل داشته باشند. و **حاکمیت** — به‌طور متناقض — هنگامی ضعیف‌تر می‌شود که نیروهای مسلح بر حکومت تسلط یابند، زیرا قدرت‌های خارجی از طریق روابط کمک نظامی اهرم دست می‌یابند (Cunningham, 2015).
 
-The literature reveals no single model for achieving civilian supremacy but converges on a set of recurring dynamics: the sequencing of institutional reforms, the role of defense ministry civilianization, the persistence of military prerogatives even under nominal civilian control, and the critical importance of what Huntington (1995) calls the "tortoise strategy" — gradual, persistent pressure rather than dramatic confrontation.
+متون موجود هیچ مدل منحصر به فردی برای دستیابی به تسلط مدنی نشان نمی‌دهند اما بر مجموعه‌ای از دینامیک‌های عود کننده همگرا می‌شوند: ترتیب زمانی اصلاحات نهادی، نقش غیرنظامی‌سازی وزارت دفاع، پایداری مزایای نظامی حتی تحت کنترل نامی مدنی، و اهمیت بحرانی آنچه هانتینگتون (Huntington, 1995) «استراتژی لاک پشت» می‌نامد — فشار ملایم، پیوسته و درپی به جای برخوردی درخشان.
 
-### 2. Comparative Evidence
+### ۲. شواهد تطبیقی
 
-#### South Korea
+#### کره جنوبی
 
-South Korea's trajectory from military-controlled authoritarianism to consolidated civilian democracy is the most extensively documented case in this corpus, and the one most frequently cited as a success story — though the literature is increasingly nuanced about the completeness of that success. The transition of 1987 opened a gradual process. Chung (2009) documents how "politics was the continuation of war by other means" under the security-dominated post-Korean War state, and how the election of civilian president Kim Young-sam in 1992 marked a critical inflection point. Kim's prosecution of former military presidents Chun Doo-hwan and Roh Tae-woo signaled that the era of military impunity was over.
+مسیر کره جنوبی از استبداد کنترل‌شده نظامی به دموکراسی مدنی تثبیت‌شده، بیش‌تر اقلام موجود در این مجموعه توثیق‌شده است و یکی از موارد متکرراً به‌عنوان داستان موفقیت استناد‌شده است — اگرچه ادبیات به‌تدریج نسبت به کمال این موفقیت نسبت به شک و تردید بیش‌تر می‌شود. انتقال 1987 یک فرایند تدریجی را باز کرد. چانگ (Chung, 2009) نشان می‌دهد که چگونه «سیاست ادامه جنگ به وسایل دیگر بود» تحت دولت پس از جنگ داخلی کره‌ای با حاکمیت امنیتی، و چگونه انتخاب کیم یانگ‌سام رئیس‌جمهور مدنی در سال 1992 نقطه عطف حیاتی را علامت‌گذاری کرد. تعقیب کیم از رؤسای جمهور سابق نظامی چون دو‌هوان و رو تائه‌وو به‌این معنی بود که دوران ایمنی نظامی پایان یافت.
 
-However, Kim and Kuehn (2022) present a significant corrective to the triumphalist narrative. Their analysis of 1,060 employees across 21 Ministry of National Defense (MND) departments reveals a persistent "clear cut between the military domain and the civilian domain within the MND," demonstrating that professional soldiers retained effective decision-making power over critical policy areas despite 30 years of civilian efforts to expand their role. Kim K-J (2014) similarly finds that while parliamentary control through the National Defense Committee (NDC) was formally established, it remained limited in practice.
+با این حال، کیم و کوهن (Kim and Kuehn, 2022) اصلاح معنی‌دار به روایت پیروزی‌خواهانه ارائه می‌دهند. تحلیل آنان از 1,060 کارمند در سراسر 21 بخش وزارت دفاع ملی (MND) یک «تقسیم‌بندی واضح میان حوزه نظامی و حوزه مدنی در درون MND» را نشان می‌دهد، و نشان می‌دهد که سربازان حرفه‌ای در طی 30 سال تلاش‌های مدنی برای توسعه نقششان، قدرت تصمیم‌گیری موثر را بر حوزه‌های سیاستی حیاتی حفظ کردند. کیم کی‌جی (Kim K-J, 2014) نیز متشابهاً متوجه می‌شود که اگرچه کنترل پارلمانی از طریق کمیته دفاع ملی (NDC) به‌طور رسمی تثبیت شد، در عمل محدود باقی ماند.
 
-Croissant (2011) places South Korea's experience in comparative East Asian context, contrasting it with Thailand's failed institutionalization, the Philippines' prolonged crisis, and Indonesia's conditional subordination of the military. His analysis argues that both structural and agential factors — not just formal institutional design — determine outcomes. Kuehn (2008) reinforces this through the Taiwan case, showing how elected civilians "managed to curb military political power and have successively widened their influence over former exclusively military prerogatives" through a gradual, strategic process rather than a single decisive reform.
+کروسن (Croissant, 2011) تجربه کره جنوبی را در بافت تطبیقی آسیای شرقی قرار می‌دهد، آن را با تایلند ناموفق‌نهادینه‌سازی، بحران طولانی فیلیپین، و تبعیت مشروط ارتش اندونزی در تقابل می‌آورد. تحلیل وی استدلال می‌کند که هم عوامل ساختاری و هم عوامل عاملانه — نه صرفاً طراحی نهادی رسمی — بر نتایج تعیین‌کننده هستند. کوهن (Kuehn, 2008) این را از طریق مورد تایوان تقویت می‌کند، نشان می‌دهد که چگونه مدنی‌های انتخاب‌شده «موفق شدند قدرت سیاسی نظامی را محدود کنند و بتدریج نفوذ خود را بر مزایای قبلاً انحصاری نظامی گسترش دادند» از طریق یک فرایند تدریجی و استراتژیک بجای اصلاح منفرد و نهایی.
 
-#### Spain
+#### اسپانیا
 
-Huntington's (1995) landmark essay places Spain within a broader typology of authoritarian-to-democratic transitions, distinguishing between military governments, one-party regimes, personal dictatorships, and racial oligarchies. Spain, classified as a personal dictatorship under Franco, followed what Huntington calls the "tortoise strategy" — civilian leaders gradually, persistently expanded their authority over military prerogatives rather than attempting a dramatic confrontation. Kuehn and Croissant (2023), in their systematic six-case comparison (including South Korea, Chile, and Spain as successes), confirm that Spain's early prioritization of defense ministry reform and emphasis on the "democratic socialization" of the officer corps were key differentiators.
+مقاله نقطه‌عطف هانتینگتون (Huntington, 1995) اسپانیا را در درون یک تیپ‌شناسی گسترده‌تر از انتقال‌های استبدادی به دموکراتیک قرار می‌دهد، میان حکومت‌های نظامی، رژیم‌های تک‌حزبی، دیکتاتوری‌های شخصی، و الیگارشی‌های نژادی تمایز قایل می‌شود. اسپانیا، طبقه‌بندی‌شده به‌عنوان دیکتاتوری شخصی تحت فرانکو، از آنچه هانتینگتون «استراتژی لاک پشت» می‌نامد پیروی کرد — رهبران مدنی تدریجاً و پیوسته اختیار خود را بر مزایای نظامی گسترش دادند تا بجای برخورد درخشان. کوهن و کروسن (Kuehn and Croissant, 2023)، در مقایسه نظام‌مند شش‌موردی خود (شامل کره جنوبی، شیلی و اسپانیا به‌عنوان موفقیت‌ها)، تأیید می‌کنند که تقدم‌دهی اسپانیا در برابر در اصلاح وزارت دفاع و تأکید بر «اجتماعی‌سازی دموکراتیک» تیم افسران عوامل متمایز‌کننده در موفقیت آن بودند.
 
-#### Tunisia and the Broader Arab/African Context
+#### تونس و بافت گسترده‌تر عرب/آفریقایی
 
-The Tunisian case is less directly represented in this corpus, but the surrounding literature is illuminating. Makara (2013) develops a theory of military defection based on three coup-proofing strategies — building parallel security institutions, distributing material incentives, and exploiting communal ties — tested against the Arab Spring experiences of Egypt, Syria, and Yemen. The key finding is that parallel security institutions (like Iran's IRGC alongside the regular Artesh) make military defection less likely because no single security body has the capacity to unilaterally side with protesters.
+مورد تونس کمتر به‌طور مستقیم در این مجموعه نشان‌داده شده است، اما ادبیات محیطی روشن‌کننده است. مکارا (Makara, 2013) یک نظریه کناره‌گیری نظامی بر اساس سه استراتژی اثبات کودتا — ایجاد نهادهای امنیتی موازی، توزیع انگیزه‌های مادی، و بهره‌برداری از روابط جمعی — بر علیه تجربیات بهار عربی در مصر، سوریه و یمن آزمایش شده بسط می‌دهد. یافته کلیدی این است که نهادهای امنیتی موازی (مانند سپاه پاسداران (IRGC) در کنار ارتش منظم (Artesh)) کناره‌گیری نظامی را کم‌تر احتمالی می‌کند زیرا بدن امنیتی منفردی ظرفیت یک‌طرفه برای تعضیت از معترضین را ندارد.
 
-Tamburini (2018) examines anti-terrorism legislation across Algeria, Mauritania, Morocco, and Tunisia, finding a "common attitude that tended to preserve national security at the expense of civil freedoms and human rights." Counter-terrorism frameworks, ostensibly designed for security, became instruments for controlling dissidence and opposition — a pattern directly relevant to understanding how Iran's security apparatus justifies its political role.
+تامبورینی (Tamburini, 2018) قانون‌گذاری مبارزه با تروریسم در الجزایر، موریتانی، مراکش و تونس را بررسی می‌کند، یافته این است که «نگرش مشترکی که تمایل به حفظ امنیت ملی بر هزینه آزادی‌های مدنی و حقوق بشری داشت». چارچوب‌های مبارزه با تروریسم، ظاهراً برای امنیت طراحی‌شده، ابزار کنترل جدال و مخالفت گردیده — الگویی مستقیماً برای درک چگونگی توجیه ارتش امنیتی ایران نقش سیاسی خود مرتبط.
 
-Ouedraogo (2014) provides the African perspective, documenting how "weak military professionalism" — manifested as coups, mutinies, human rights abuses, and corruption — persists "decades after the end of colonialism, despite billions of dollars of security sector assistance."
+اودراگو (Ouedraogo, 2014) منظر آفریقایی را فراهم می‌کند، اسناد‌سازی چگونگی «حرفه‌پروری نظامی ضعیف» — آشکارشده‌شده به‌عنوان کودتاها، شورش‌ها، تجاوز‌های حقوق بشری و فساد — «دهه‌ها پس از خاتمه استعمار، علی‌رغم میلیاردها دلار کمک بخش امنیتی» پایداری می‌کند.
 
-### 3. Cross-Cutting Patterns
+### ۳. الگوهای بین‌بخشی
 
-Three structural patterns emerge across the cases. First, **civilian control is a spectrum, not a binary state**. South Korea achieved civilian supremacy in formal terms but retained military dominance within the defense establishment's internal structure (Kim and Kuehn, 2022). This suggests that even "successful" transitions leave institutional residues that require ongoing vigilance and reform over decades, not years.
+سه الگوی ساختاری در تمام موارد ظاهر می‌شوند. اول، **کنترل مدنی یک طیف است، نه وضعیت دوتایی**. کره جنوبی تسلط مدنی را در شرایط رسمی حاصل کرد اما تسلط نظامی را در درون ساختار داخلی مؤسسه دفاع حفظ کرد (Kim and Kuehn, 2022). این نشان می‌دهد که حتی انتقال‌های «موفق» باقی‌مانده نهادی را ترک می‌کنند که دهه‌ها نیست سال‌ها بر نظارت و اصلاح مستمر نیاز دارند.
 
-Second, **the sequencing of reform matters critically**. Kuehn and Croissant's (2023) six-case comparison identifies defense ministry civilianization and parliamentary oversight as the two pillars of successful reform, but finds that their sequencing — which is prioritized first — varies by context and shapes long-term outcomes. The "tortoise strategy" (Huntington, 1995) — gradual, persistent institutional pressure — outperforms dramatic confrontation in every documented case.
+دوم، **ترتیب زمانی اصلاح به‌شدت اهمیت دارد**. مقایسه شش‌موردی کوهن و کروسن (Kuehn and Croissant, 2023) غیرنظامی‌سازی وزارت دفاع و نظارت پارلمانی را به‌عنوان دو ستون اصلاح موفق شناسایی می‌کند، اما متوجه می‌شود که ترتیب زمانی شان — کدام اول تقدم یافت — بر بافت متفاوت و بر نتایج طولانی‌مدت شکل می‌دهند. «استراتژی لاک پشت» (Huntington, 1995) — فشار نهادی تدریجی و پیوسته — در هر مورد موثق درخشان‌تر عمل می‌کند.
 
-Third, **coup-proofing structures create their own transition dynamics**. Makara's (2013) analysis of parallel security institutions is directly relevant to Iran. Regimes that distribute coercive capacity across multiple security bodies (regular military, revolutionary guard, intelligence services, paramilitaries) create a fragmented landscape where no single body can defect to the opposition — but also where reform requires negotiating with multiple institutional stakeholders simultaneously.
+سوم، **نهادهای اثبات کودتا دینامیک انتقال خود را خلق می‌کنند**. تحلیل مکارا (Makara, 2013) درخصوص نهادهای امنیتی موازی مستقیماً برای ایران مرتبط است. رژیم‌هایی که ظرفیت بر‌زور را در تمام اجسام امنیتی متعددی توزیع می‌کنند (ارتش منظم، گارد انقلاب، سازمان‌های اطلاعات، نیروهای شبه‌نظامی) یک منظر متفرق‌شده را خلق می‌کنند جایی که هیچ بدن منفردی نمی‌تواند از طریق معترضین در جریان ایستادگی معترضین — اما جایی که اصلاح نیاز به مذاکره با چندین متقاضی نهادی همزمان دارد.
 
-### 4. Implications for Iran
+### ۴. پیامدها برای ایران
 
-Iran presents perhaps the most complex civil-military reform challenge of any plausible transition scenario. The IRGC is not merely a military force; it is an economic conglomerate, an intelligence apparatus, a political faction, and an ideological institution simultaneously. The comparative evidence suggests several implications.
+ایران شاید به‌طور محتمل پیچیده‌ترین چالش اصلاح روابط نظامی-مدنی از هر سناریوی انتقال است. سپاه پاسداران نه‌تنها یک نیروی نظامی است؛ این یک کنگلومرای اقتصادی، یک ابزار اطلاعات، یک جریان سیاسی، و یک نهاد ایدئولوژیکی بیک‌وقت است. شواهد تطبیقی چندین پیامد را پیشنهاد می‌کند.
 
-The South Korean experience indicates that prosecuting former military leaders (as Kim Young-sam did) can signal a break with the past, but the MND case shows that institutional cultures resist civilianization for decades. For Iran, this means that removing IRGC commanders from visible political roles would be insufficient without deep structural reform of how defense and security institutions are staffed and governed.
+تجربه کره جنوبی نشان می‌دهد که تعقیب رهبران سابق نظامی (همان‌طور که کیم یانگ‌سام انجام داد) می‌تواند شکستی با گذشته را سیگنال دهد، اما مورد MND نشان می‌دهد که فرهنگ‌های نهادی مقاومت‌شده غیرنظامی‌سازی برای دهه‌ها. برای ایران، این بدان معنی است که حذف فرماندهان سپاه پاسداران از نقش‌های سیاسی نمایان بدون اصلاح ساختاری عمیق چگونگی کادر و حکومت نهادهای دفاع و امنیتی ناکافی خواهد بود.
 
-Makara's coup-proofing analysis suggests that Iran's parallel security architecture (Artesh, IRGC, Basij, MOIS, Law Enforcement Command) would make any transition inherently more complex than South Korea's (which had a more unified military establishment) or Spain's (where Franco's personal authority was the linchpin, not an institutional network). Each of these bodies would need to be addressed as a separate institutional stakeholder with its own incentives, corporate interests, and potential spoiler capacity.
+تحلیل اثبات کودتای مکارا نشان می‌دهد که معماری امنیتی موازی ایران (ارتش، سپاه پاسداران، بسیج، وزارت اطلاعات، فرماندهی نیروی انتظامی) هر انتقالی را ذاتاً پیچیده‌تر از کره جنوبی (که نهادی نظامی یکپارچه‌تر داشت) یا اسپانیا (جایی که سلطه شخصی فرانکو بدل نهاد شبکه نهادی بود) می‌کند. هریک از این اجسام باید به‌عنوان متقاضی نهادی متجزا با انگیزه‌ها، منافع شرکتی و ظرفیت خراب‌کننده احتمالی خود توجه شود.
 
-The economic dimension — absent from most civil-military literature but central to Iran — remains the critical gap. The IRGC's control over construction, telecommunications, oil and gas, and financial services means that security sector reform in Iran cannot be separated from economic restructuring. The literature on privatization and SOE reform (covered in a separate ITKS category) must be read in conjunction with this civil-military evidence.
+ابعاد اقتصادی — غیر موجود از بیشتر ادبیات روابط نظامی-مدنی اما مرکزی برای ایران — باقی‌مانده شکاف بحرانی است. کنترل سپاه پاسداران بر ساخت و ساز، مخابرات، نفت و گاز، و خدمات مالی بدان معنی است که اصلاح بخش امنیتی در ایران نمی‌تواند از بازمسازی اقتصادی جدا شود. ادبیات درخصوص خصوصی‌سازی و اصلاح SOE (شامل یک دسته ITKS جدا) باید همراه با این شواهد روابط نظامی-مدنی خوانده شود.
 
-### 5. Open Questions
+### ۵. پرسش‌های باز
 
-- How do transitions handle security forces with extensive **economic empires**, as opposed to purely military/coercive roles? The existing literature largely assumes military establishments that are economically dependent on the state, not economically autonomous.
-- What is the role of **external security guarantees** in enabling civil-military reform? South Korea had the U.S. security alliance; Spain had NATO accession. What equivalent, if any, would reassure an Iranian military establishment that civilian governance would not compromise national security?
-- How do **parallel security institutions** (IRGC/Artesh model) affect transition dynamics differently from unified military establishments? Makara (2013) opens this question but focuses on defection during protests, not post-transition institutional reform.
-- What happens when the military's **ideological role** (as in Iran's velayat-e faqih doctrine) must be addressed alongside its political and economic roles?
-- How does the **diaspora military expertise** factor into reform planning? Iran has a significant diaspora with military and security expertise from the pre-1979 era and from post-revolution defectors.
-
----
-
-## Part II: Deep Dives
-
-*Note: Direct full-text PDF access to academic publishers was unavailable during this cycle. The following deep dives are based on extensive web research triangulating findings from multiple authoritative sources (think tanks, human rights organizations, government reports, and secondary academic analyses) to go beyond what the abstracts alone reveal.*
-
-### Deep Dive 1: The IRGC's Economic Empire — A Comparative Anomaly
-
-The existing civil-military literature assumes that military establishments are economically *dependent* on the state budget, making budget control a lever for civilian supremacy. Iran's IRGC fundamentally breaks this assumption. The IRGC's Khatam al-Anbiya Construction Headquarters alone employs approximately 25,000 engineers and staff, with reported project values exceeding $7 billion as early as 2006 — roughly 70% military and 30% civilian projects. It works with an estimated 5,000 specialized subcontractor companies across infrastructure, energy, telecommunications, and transportation sectors. In 2010, Khatam al-Anbiya was awarded development rights to phases 13, 14, 22, 23, and 24 of the South Pars gas field, placing a military entity at the center of Iran's most strategic energy asset.
-
-The IRGC Cooperative Foundation (Bonyad-e Ta'avon-e Sepah) extends this reach further into telecommunications, manufacturing, petrochemicals, steel, agriculture, and banking. Prior to a 2019 merger, the foundation controlled Ansar Bank and held significant stakes in Mehr Eqtesad Bank. Its 24 provincial housing cooperatives and majority holdings in enterprises like Zagros Steel and Kermanshah Petrochemical Industries make the IRGC an autonomous economic actor, not merely a military one. International sanctions designations (OFAC December 2010, EU May 2011, Canada November 2011) have not dismantled these holdings but rather driven them into less transparent ownership structures.
-
-**Comparative context strengthens the significance of this finding.** Indonesia's TNI (military) operated over 200 directly-owned businesses plus approximately 1,000 cooperatives through 23 foundations as documented in 2007. Law No. 34/2004 mandated complete divestment within five years, but Human Rights Watch's 2010 report "Unkept Promise" found the government was still only *preparing* to divest by 2009. Egypt's military economy, estimated at 1.5–2% of GDP by conventional measures (some scholars suggest up to one-third), expanded *after* the 2011 revolution rather than contracting. General Mahmud Nasr of SCAF declared publicly in 2012 that he would "fight" to protect the armed forces' business interests and that "their money does not belong to the state." The Armed Forces Engineering Authority undertook 276 projects worth 198 billion EGP ($3.96 billion), and a Ministry of Defense affiliate holds a 51% stake in the New Administrative Capital, a project estimated at $45 billion. Pakistan's Fauji Foundation has accumulated net assets of approximately $6 billion, including control of roughly 80% of the country's fertilizer market through Fauji Fertilizer Company and 22% of gas output through Mari Petroleum.
-
-**Analytical Implication for Iran:** Iran's IRGC combines the scale of Pakistan's Fauji Foundation, the breadth of Indonesia's TNI businesses, and the political entrenchment of Egypt's SCAF — but with an additional ideological dimension absent from all three comparators. None of the existing theoretical frameworks (Huntington's objective/subjective civilian control, Makara's coup-proofing typology) adequately addresses military-economic conglomerates with autonomous revenue streams. Any transition framework for Iran must treat economic divestment not as a secondary consequence of political reform but as a *precondition* for meaningful civilian supremacy. Indonesia's failed five-year divestment timeline and Egypt's post-revolution economic *expansion* of military holdings both suggest that absent coercive institutional pressure, military businesses do not voluntarily contract.
-
-### Deep Dive 2: Defense Ministry Civilianization — South Korea's Incomplete Success
-
-The abstracts from Kim and Kuehn (2022) flag the persistence of military dominance within South Korea's Ministry of National Defense (MND) despite three decades of civilian government. Research into the institutional mechanics reveals a more granular picture.
-
-The critical breakthrough was President Kim Young-sam's 1993 purge of the Hanahoe — a secret society of Korean Military Academy 11th-class graduates (1961 intake) centered on Chun Doo-hwan and Roh Tae-woo. Hanahoe members had used their network to seize the Army Security Command and execute the December 12, 1979 coup. Kim's dissolution of this network — culminating in the December 1995 arrest of Chun and 16 co-conspirators on charges of insurrection and conspiracy, followed by public trial in March 1996 — removed the *informal* power structure that had sustained military political dominance. Over 1,000 officers were retired as part of the purge.
-
-However, *formal* institutional redesign lagged behind this political decapitation. Kim and Kuehn's data on 1,060 MND employees across 21 departments reveals a decentralized structure that delegates policy decision-making in critical areas to professional soldiers. The "civilian domain" and "military domain" within the MND operate as parallel tracks rather than an integrated hierarchy. This finding challenges the assumption that removing political generals automatically produces civilian-controlled defense policy. South Korea's experience suggests that civilianizing the *leadership* of a defense ministry is necessary but insufficient — the internal bureaucratic structure, career pathways, and information asymmetries between civilian appointees and career military officers remain sites of institutional resistance.
-
-**Analytical Implication for Iran:** For Iran, this implies a multi-decade timeline. Even in South Korea — where the regular military had no independent economic base comparable to the IRGC, where the U.S. alliance provided an external security guarantee that reduced the military's leverage, and where a vibrant democratic civil society maintained sustained pressure — genuine civilian control of defense policy took 30+ years and remains incomplete. Iran's more complex institutional landscape (Artesh, IRGC, Basij, MOIS, Law Enforcement Command) would require parallel civilianization processes for each body, with the IRGC's economic autonomy adding a dimension South Korea never faced.
-
-### Deep Dive 3: Spain's 23-F and the Acceleration of Reform
-
-Spain's path to civilian military control was not linear — it required a crisis to catalyze decisive reform. On February 23, 1981, Lieutenant-Colonel Antonio Tejero led 200 armed Civil Guard officers into the Congress of Deputies, holding parliamentarians and ministers hostage for 18 hours during the investiture vote for Prime Minister Leopoldo Calvo-Sotelo. King Juan Carlos I's televised address denouncing the coup and affirming constitutional order proved decisive in its failure.
-
-The 23-F coup attempt, paradoxically, *accelerated* rather than retarded civilian control. The manifest failure of military intervention — and the monarchy's unambiguous alignment with democracy — shifted the political equilibrium decisively. The subsequent period saw rapid consolidation: the opposition PSOE agreed to legislation harmonizing the autonomous community process partly to placate military concerns about national unity, while simultaneously, constitutional democratic norms became entrenched as the only legitimate framework for political competition.
-
-Kuehn and Croissant's (2023) six-case comparison identifies Spain's early prioritization of defense ministry reform and emphasis on "democratic socialization" of the officer corps as differentiating factors in its success. The 23-F crisis converted what had been contested terrain — whether democracy was compatible with Spanish military tradition — into settled consensus. Spain's subsequent entry into NATO (1982) and the EU provided an external institutional framework that further constrained military autonomy.
-
-**Analytical Implication for Iran:** The 23-F lesson is not that Iran needs a failed coup to consolidate civilian control, but rather that *crises can be converted into reform catalysts* if civilian leadership acts decisively in the immediate aftermath. Iran's equivalent crisis moments — the 2009 Green Movement, the 2019 November protests, the 2022 Woman Life Freedom movement — have to date been resolved in favor of the security establishment. A future transition scenario in which such a crisis is resolved differently could create the political opening for rapid institutional reform, but only if reformers have a prepared institutional blueprint. Spain had the advantage of King Juan Carlos as a legitimacy anchor; Iran would need an equivalent source of cross-factional legitimacy.
-
-### Deep Dive 4: Coup-Proofing Frameworks and Iran's Parallel Security Architecture
-
-Makara's (2013) coup-proofing framework, tested against the Arab Spring experiences of Egypt, Syria, and Yemen, identifies three strategies: building parallel security institutions, distributing material incentives, and exploiting communal ties. The research reveals that these three mechanisms map with remarkable precision onto Iran's security architecture.
-
-**Parallel institutions:** The Islamic Republic maintains at least five distinct security/coercive bodies — the regular military (Artesh), the Islamic Revolutionary Guard Corps (IRGC) including its Quds Force, the Basij paramilitary militia, the Ministry of Intelligence and Security (MOIS), and the Law Enforcement Command (FARAJA). This fragmentation ensures that no single body possesses sufficient autonomous capacity to challenge the regime. Makara's finding that parallel institutions make military defection *less likely* during protests has been empirically confirmed by Iran's experience: in 2009, 2019, and 2022, the security apparatus remained intact precisely because coordination across multiple bodies was controlled from above (the Supreme Leader's office) rather than vested in any single military chain of command.
-
-**Material incentives:** The IRGC's economic empire (detailed in Deep Dive 1) functions as a massive material incentive structure binding senior officers to regime survival. Unlike Egypt, where SCAF's economic interests could theoretically be preserved under civilian rule, the IRGC's enterprises are deeply entangled with sanctions evasion, politically allocated contracts, and ideological legitimacy — making them vulnerable to any genuine market reform or international reintegration.
-
-**Communal ties:** The IRGC's recruitment draws heavily on specific socioeconomic and regional demographics — provincial, lower-middle-class, religiously conservative families — creating a communal identity distinct from both the urban middle class and the Artesh's more nationally representative recruitment base. This communal dimension means that security sector reform in Iran is simultaneously a social and economic transformation, not merely an institutional redesign.
-
-The collapse of parallel security structures in Iraq (2003), Syria (post-2011), and Libya (2011) provides cautionary counter-evidence: when parallel structures *do* collapse, the result is not orderly transition but fragmentation of coercive capacity among competing armed factions. Any Iranian transition framework must account for the risk that dismantling the IRGC's parallel structure without adequate institutional alternatives could produce a security vacuum, not civilian supremacy.
-
-### Deep Dive 5: Huntington's Framework Revisited — The Limits of Existing Theory
-
-Huntington's *The Soldier and the State* (1957) and his 1995 essay on reforming civil-military relations provide the dominant theoretical vocabulary in this field. His concept of "objective civilian control" — professional military autonomy in operational matters combined with civilian authority over policy — and the "tortoise strategy" of gradual, persistent institutional reform have been widely applied. The six-case comparison by Kuehn and Croissant (2023) broadly validates the tortoise approach: in South Korea, Chile, and Spain, civilian leaders who pursued incremental reform achieved more durable results than those who attempted dramatic confrontation.
-
-However, the research reveals significant theoretical gaps when applied to cases like Iran. Huntington's framework assumes a clear distinction between "military" and "civilian" spheres — the military handles security, civilians handle governance. But the IRGC operates simultaneously across military, economic, intelligence, political, and ideological domains. There is no "military sphere" to grant autonomy over because the military's sphere *is* governance. Similarly, Huntington's framework assumes that professionalization — training officers in apolitical military norms — is a path toward objective civilian control. But IRGC officers are explicitly trained in *political-ideological* norms; their "professionalism" is defined by regime loyalty, not by the Western military professional ethic Huntington describes.
-
-The MIT Security Studies Program's recent reassessment of Huntington (2019) identifies a "paradox of professionalism" — that greater military autonomy, paradoxically, decreases civilian oversight of military affairs. For Iran, this paradox is inverted: the IRGC's lack of professional military autonomy (it is a political body) means that introducing Western-style professionalism would actually *increase* civilian control — but only if the ideological infrastructure (seminary-linked training, velayat-e faqih doctrine) is simultaneously reformed.
-
-### Connecting Threads
-
-Five threads emerge from these deep dives that were not visible from abstracts alone:
-
-1. **Economic autonomy is the critical variable.** The literature treats military economic activity as a footnote; for Iran it is the central obstacle. Indonesia, Egypt, and Pakistan all demonstrate that military businesses resist divestment absent overwhelming institutional pressure — and in Egypt's case, military economic power actually *grew* after a political transition.
-
-2. **Institutional complexity multiplies transition timelines.** South Korea's 30+ year journey toward (still incomplete) civilian control involved a single unified military. Iran's five-body security architecture would require parallel reform processes, each with distinct institutional incentives and spoiler capacities.
-
-3. **Crisis as catalyst is contingent on preparation.** Spain's 23-F accelerated reform because civilian leaders had institutional blueprints ready. Iran's opposition movements have generated crisis moments but lacked implementable institutional alternatives.
-
-4. **Coup-proofing structures are double-edged.** They prevent military defection during protest (stabilizing for the regime) but also prevent orderly transition (destabilizing for reform). Dismantling them risks security fragmentation, as Iraq, Syria, and Libya demonstrate.
-
-5. **Existing theoretical frameworks are insufficient.** Neither Huntington's objective/subjective civilian control nor Makara's coup-proofing typology accounts for military-economic-ideological conglomerates like the IRGC. Iran may require an entirely new theoretical vocabulary for civil-military reform — one that integrates security sector reform, economic restructuring, and ideological de-institutionalization as a single, interdependent challenge.
+- نیروهای امنیتی که دارای **پادشاهی‌های اقتصادی وسیع** هستند، چگونه انتقال‌ها را مدیریت می‌کند، برخلاف نقش‌های صرفاً نظامی/بر زور؟ ادبیات موجود تقریباً نهادهای نظامی را فرض می‌کند که اقتصادی از دولت وابسته هستند، نه اقتصادی خودمختار.
+- نقش **تضمین‌های امنیتی خارجی** در فعال‌سازی اصلاح روابط نظامی-مدنی چیست؟ کره جنوبی اتحاد امنیتی ایالات متحده داشت؛ اسپانیا عضویت ناتو داشت. متعادل، اگر موجود بود، یک مؤسسه نظامی ایرانی را فراهم‌کند که حکومت مدنی حاکمیت ملی را تضعیف نمی‌کند؟
+- **نهادهای امنیتی موازی** (مدل IRGC/Artesh) پویایی انتقال را بر اساس نهادهای نظامی یکپارچه متفاوتاً تحت‌تأثیر قرار می‌دهند؟ مکارا (Makara, 2013) این پرسش را باز می‌کند اما بر انحراف حین اعتراضات تمرکز می‌کند، نه اصلاح نهادی پس‌ازانتقال.
+- وقتی **نقش ایدئولوژیکی** ارتش (همان‌طور که در دکترین ولایت‌فقیه ایران باشد) باید همراه نقش سیاسی و اقتصادی خود مورد رسیدگی قرار گیرد، چه اتفاقی می‌افتد؟
+- **تخصص نظامی دیاسپورایی** چگونه در برنامه‌ریزی اصلاح نقش ایفا می‌کند؟ ایران دیاسپورایی قابل توجهی را دارا است با تخصص نظامی و امنیتی از دوره پیش‌1979 و از بیرون‌رونی‌های پس‌انقلاب.
 
 ---
 
-## Sources
+## بخش دوم: تحلیل‌های عمیق
 
-| # | Author(s) | Year | Title | Case Study | Access |
-|---|-----------|------|-------|------------|--------|
-| 1 | Rodrik | 2000 | Institutions for High-Quality Growth | Comparative | abstract |
-| 2 | Bardhan | 2005 | Institutions and Development | Comparative | abstract |
-| 3 | Tamburini | 2018 | Anti-Terrorism Legislation in the Maghreb | Tunisia, Algeria, Morocco, Mauritania | abstract |
-| 4 | Cunningham | 2015 | Military Aid and Civil-Military Relations | Comparative | abstract |
-| 5 | Huntington | 1995 | Reforming Civil-Military Relations | Spain, Comparative | abstract |
-| 6 | Chung | 2009 | Politics as Continuation of War: South Korean Civil-Military Relations | South Korea | abstract |
-| 7 | Kim & Kuehn | 2022 | Civilian Control and Military Domain in South Korea's MND | South Korea | abstract |
-| 8 | Kim K-J | 2014 | Parliamentary Control of the Military in South Korea | South Korea | abstract |
-| 9 | Croissant | 2011 | Civil-Military Relations in East Asia | South Korea, Thailand, Philippines, Indonesia | abstract |
-| 10 | Kuehn | 2008 | Civilian Control of the Military in Taiwan | Taiwan | abstract |
-| 11 | Kuehn & Croissant | 2023 | Six-Case Comparison of Civil-Military Reform | South Korea, Chile, Spain | abstract |
-| 12 | Makara | 2013 | Coup-Proofing, Military Defection, and the Arab Spring | Egypt, Syria, Yemen | abstract |
-| 13 | Ouedraogo | 2014 | Weak Military Professionalism in Africa | Africa (comparative) | abstract |
-| 14 | Huntington | 1957 | The Soldier and the State | Comparative (theoretical) | abstract |
-| 15 | MIT Security Studies Program | 2019 | Reassessment of Huntington's Framework | Comparative (theoretical) | abstract |
-| 16 | Human Rights Watch | 2010 | Unkept Promise: TNI Military Business Divestment | Indonesia | abstract |
+*توجه: دسترسی مستقیم متن کامل PDF به ناشران دانشگاهی در این چرخه دست‌رس نبود. تحلیل‌های عمیق زیر بر تحقیق جستجویی گسترده بنا شده است که یافته‌های متعددی را از منابع معتبر (تانک‌های فکری، سازمان‌های حقوق بشری، گزارش‌های دولتی و تحلیل‌های دانشگاهی ثانوی) برای فراتر رفتن از آنچه فقط چکیده‌های تنهایی نشان می‌دهند تثلیث می‌کند.*
+
+### تحلیل عمیق ۱: پادشاهی اقتصادی سپاه پاسداران — یک غیرعادی تطبیقی
+
+ادبیات روابط نظامی-مدنی موجود فرض می‌کند که نهادهای نظامی از نظر اقتصادی *وابسته* به بودجه دولت هستند، که کنترل بودجه را یک اهرم برای تسلط مدنی می‌سازد. سپاه پاسداران ایران بنیادی این فرض را شکست می‌دهد. مقر ساخت خاتم‌الأنبیاء سپاه پاسداران تنهایی تقریباً 25,000 مهندس و کادر استخدام می‌کند، با ارزش پروژه‌های گزارش‌شده از 7 میلیارد دلار بیشتر از 2006 — تقریباً 70% پروژه‌های نظامی و 30% پروژه‌های مدنی. با تقریباً 5,000 شرکت پیمانکار تخصصی در سراسر بخش‌های زیرساخت، انرژی، مخابرات و حمل‌ونقل کار می‌کند. در 2010، خاتم‌الأنبیاء اختیار توسعه فازهای 13، 14، 22، 23 و 24 میدان گاز جنوب پارس را دریافت کرد، که یک نهاد نظامی را در مرکز منبع انرژی استراتژیک ترین ایران قرار داد.
+
+بنیاد تعاون سپاه (بنیادِ تعاونِ سپاه) این دسترسی را بیشتر در مخابرات، ساخت و تولید، پتروشیمی، فولاد، کشاورزی و خدمات بانکی گسترش می‌دهد. پیش از ادغام 2019، بنیاد انصار بانک و سهام‌های قابل توجهی را در بانک اقتصاد مهر نگاه‌داری می‌کرد. تعاونی‌های مسکن 24 استانی و سهام‌گذاری اکثریت در شرکت‌هایی مانند فولاد زاگرس و صنایع پتروشیمی کرمانشاه سپاه پاسداران را یک بازیگر اقتصادی خودمختار، نه صرفاً یک نهاد نظامی، می‌سازند. تعیین‌کننده‌های تحریم بین‌المللی (OFAC دسامبر 2010، اتحادیه اروپا مه 2011، کانادا نوامبر 2011) این سهام‌داری را تخریب نکردند بلکه به‌جای آن آنان را به ساختارهای مالکیت کمتر شفاف راندند.
+
+**بافت تطبیقی این یافته را تقویت می‌کند.** TNI اندونزی (نظامی) بیش از 200 کسب‌وکار مستقیماً مالکی بعلاوه تقریباً 1,000 تعاونی از طریق 23 بنیاد را به‌طور موثق‌شده 2007 اداره می‌کردند. قانون شماره 34/2004 سلب‌تملک کامل را در طول پنج سال الزام‌آور کرد، اما گزارش «وعده عملی‌نشده» Human Rights Watch از 2010 متوجه شد که دولت هنوز تنها در حال *آمادگی* برای سلب‌تملک توسط 2009 بود. اقتصاد نظامی مصر، تخمین شده در 1.5–2% از GDP توسط اقدامات روایتی (برخی از دانشوران را پیشنهاد می‌کند تا یک‌سوم)، بعد از انقلاب 2011 به‌جای کاهش بسط یافت. جنرال محمود ناصر از SCAF به‌طور عمومی 2012 در اعلام کرد که او «مبارزه» خواهد کرد برای محافظت منافع تجاری نیروهای مسلح و که «پول شان به دولت متعلق نیست.» ستاد مهندسی نیروهای مسلح 276 پروژه با ارزش 198 میلیارد جنیه (3.96 میلیارد دلار) بردار بود، و یک وابسته وزارت دفاع 51% سهام جدید پایتخت اداری را نگاه‌داری می‌کند، پروژه‌ای تخمین‌شده در 45 میلیارد دلار. بنیاد فاجی پاکستان دارایی خالص تقریباً 6 میلیارد دلار را جمع کرده، شامل کنترل تقریباً 80% از بازار کود پاکستان از طریق شرکت کود فاجی و 22% از خروجی گاز از طریق شرکت نفت ماری.
+
+**پیامد تحلیلی برای ایران:** سپاه پاسداران ایران مقیاس بنیاد فاجی پاکستان، پهنای کسب‌وکار TNI اندونزی و گرفتاری سیاسی SCAF مصر را ترکیب می‌کند — اما با ابعاد ایدئولوژیکی اضافی غیرموجود از تمام سه مقایسه‌کننده. هیچ‌یک از چارچوب‌های نظری موجود (تسلط مدنی عینی/ذهنی هانتینگتون، تیپ‌شناسی اثبات کودتای مکارا) به‌طور کافی نهادهای نظامی-اقتصادی با جریان‌های درآمدی خودمختار را مورد رسیدگی قرار می‌دهند. هر چارچوب انتقال برای ایران باید سلب‌تملک اقتصادی را نه‌تنها یک عاقبت ثانوی اصلاح سیاسی بلکه یک **شرط‌پیش** برای تسلط مدنی معنی‌دار تعامل کند. جدول زمانی ناموفق پنج‌سال سلب‌تملک اندونزی و **بسط** اقتصادی پس‌انقلاب مصر از مالکیت نظامی هر دو نشان می‌دهند که بدون فشار نهادی اجباری، کسب‌وکار نظامی به‌طور داوطلبانه منقبض نمی‌شوند.
+
+### تحلیل عمیق ۲: غیرنظامی‌سازی وزارت دفاع — موفقیت ناقص کره جنوبی
+
+چکیده‌های کیم و کوهن (Kim and Kuehn, 2022) پایداری تسلط نظامی در درون وزارت دفاع ملی (MND) کره جنوبی علی‌رغم سه دهه حکومت مدنی را برافروخت‌میز می‌کند. تحقیق در مکانیک نهادی یک تصویر دانه‌فرتر را آشکار می‌کند.
+
+نقطه عطف حیاتی خلوص 1993 رئیس‌جمهور کیم یانگ‌سام از هاناهو — جمعیت مخفی از دانش‌آموختگان آکادمی نظامی کره‌ای طبقه یازدهم (درآمد 1961) متمرکز بر چون دو‌هوان و رو تائه‌وو بود. اعضای Hanahoe شبکه خود را برای تسخیر فرماندهی امنیت ارتش و اجرای کودتای 12 دسامبر 1979 استفاده کردند. برکناری کیم از این شبکه — نهایتی در دسامبر 1995 بازداشت چون و 16 همکار بر اتهام شورش و توطئه، و دنبال کردن محاکمه عمومی در مارس 1996 — ساختار **غیررسمی** قدرت را حذف کرد که تسلط سیاسی نظامی را داخل دارداشت. بیش از 1,000 افسر بازنشسته شدند به‌عنوان بخشی از خلوص.
+
+با این‌حال، *نوسازی نهادی رسمی* برای این انحراف سیاسی عقب‌ماندند. داده‌های کیم و کوهن روی 1,060 کارمند MND در سراسر 21 بخش ساختار غیرمتمرکز را نشان می‌دهد که تصمیم‌گیری سیاستی را در حوزه‌های حیاتی برای سربازان حرفه‌ای اختیار می‌دهد. «حوزه مدنی» و «حوزه نظامی» درون MND به‌جای ترتیب ادغام‌شده‌ای به‌عنوان مسیرهای موازی کار می‌کند. این یافته فرض را چالش می‌برد که حذف جنرال‌های سیاسی خودکارانه کنترل مدنی سیاست دفاعی را تولید می‌کند. تجربه کره جنوبی نشان می‌دهد که غیرنظامی‌سازی **رهبری** یک وزارت دفاع ضروری اما ناکافی است — ساختار بوروکراتیکی داخلی، مسیرهای شغلی و نابرابری‌های اطلاعات میان نیابندگان مدنی و افسران نظامی حرفه‌ای باقی‌مانده مکان‌های مقاومت نهادی هستند.
+
+**پیامد تحلیلی برای ایران:** برای ایران، این چندین‌دهه‌ای ترتیب زمانی را پیشنهاد می‌کند. حتی در کره جنوبی — جایی که ارتش منظم نه‌بنیاد اقتصادی مستقل قابل مقایسه با سپاه پاسداران، جایی که اتحاد امنیتی ایالات متحده یک تضمین امنیتی خارجی فراهم کرد که اهرم ارتش را کاهش داد، و جایی که جامعه مدنی دموکراتیکی حیات‌بخش فشار نیروی پیوسته حفظ کرد — کنترل مدنی صحیح سیاست دفاعی طول 30+ سال گرفت و ناقص باقی‌مانده. منظر نهادی پیچیده‌تر ایران (ارتش، سپاه پاسداران، بسیج، وزارت اطلاعات، فرماندهی نیروی انتظامی) فرایند‌های غیرنظامی‌سازی موازی برای هر بدن، با خودمختاری اقتصادی سپاه پاسداران که ابعاد کره جنوبی هرگز رو‌به‌رو شد، نیاز دارد.
+
+### تحلیل عمیق ۳: 23-F اسپانیا و شتاب‌دهی اصلاح
+
+مسیر اسپانیا برای کنترل نظامی مدنی خطی نبود — یک بحران برای شتاب‌دهی اصلاح تصمیم‌گیری نیاز داشت. در 23 فوریه 1981، سرهنگ‌یک آنتونیو تاخرو 200 افسر گارد ملی مسلح را در کنگره ابتدایی رهبری کرد، رئیس‌جمهور‌ها و وزیران را برای 18 ساعت تحت حصار در رایگیری سرمایه‌گذاری برای نخست‌وزیر لئوپولدو کالوو‌سوتلو گرفتند. سخنرانی تلویزیونی شاه خوان کارلوس اول دفاع‌کننده کودتا و تأیید نظم قانونی حاکم ثابت‌شد تصمیم‌گیری در شکست آن.
+
+تلاش کودتای 23-F، به‌طور متناقض، تسلط مدنی را **شتاب‌داد** بجای تأخیر. ظهور شکست دخالت نظامی — و هم‌ترازی بدون ابهام سلطنت با دموکراسی — تعادل سیاسی را به‌طور تصمیم‌گیری جابه‌جا کرد. دوره بعدی تثبیت سریع را مشاهدی کرد: مخالف PSOE به آیین‌قانون تجانس‌سازی فرآیند جامعه خودمختار تا اندازه‌ای برای‌ریخت نگرانی‌های نظامی درخصوص وحدت ملی، در حین‌ که به‌طور همزمان نهادهای دموکراتیک نهادی به‌عنوان تنهایی چارچوب مشروع برای رقابت سیاسی تک می‌شد.
+
+مقایسه شش‌موردی کوهن و کروسن (Kuehn and Croissant, 2023) اولویت اسپانیا در اصلاح وزارت دفاع و تأکید بر «اجتماعی‌سازی دموکراتیک» نیروی افسران را به‌عنوان عوامل متمایز‌کننده در موفقیت شناسایی می‌کند. بحران 23-F چه بود زمین مسابقه — آیا دموکراسی سازگار با سنت نظامی اسپانیایی بود — به اجماع تثبیت‌شده. ورود بعدی اسپانیا به ناتو (1982) و اتحادیه اروپا چارچوب نهادی خارجی فراهم کرد که خودمختاری نظامی را مزید محدود کرد.
+
+**پیامد تحلیلی برای ایران:** درس 23-F نه این است که ایران یک کودتای ناموفق برای تثبیت کنترل مدنی نیاز دارد، بلکه اینکه **بحران‌ها اگر رهبری مدنی در پی‌آمد فوری اقدام تصمیم‌گیری را اصلاح کاتالیزت را می‌تواند** تبدیل شود. لحظه‌های بحرانی معادل ایران — جنبش سبز 2009، اعتراضات نوامبر 2019، جنبش زنان زندگی آزادی 2022 — تا کنون در حمایت از مؤسسه امنیتی حل شدند. سناریوی انتقال آتی جایی که چنین بحران‌ای به‌صورت متفاوتی حل شود می‌تواند درگشایش سیاسی برای اصلاح نهادی سریع ایجاد کند، اما تنهایی اگر اصلاح‌گران برای یک نقشه‌ خانه نهادی آماده شده باشند. اسپانیا شاه خوان کارلوس اول به‌عنوان یک تکیه‌گاه مشروعیت داشتند؛ ایران باید منبع متعادل مشروعیت سازمان‌های عاملی برای رسیدگی معادل نیاز دارد.
+
+### تحلیل عمیق ۴: چارچوب‌های اثبات کودتا و معماری امنیتی موازی ایران
+
+چارچوب اثبات کودتای مکارا (Makara, 2013)، آزمایش‌شده برعلیه تجربه بهار عربی مصر، سوریه و یمن، سه استراتژی شناسایی می‌کند: ایجاد نهادهای امنیتی موازی، توزیع انگیزه‌های مادی، و بهره‌برداری از روابط جمعی. تحقیق نشان می‌دهد که این سه مکانیسم با دقت قابل توجه بر معماری امنیتی ایران نقشه‌کشی شده‌اند.
+
+**نهادهای موازی:** جمهوری اسلامی حداقل پنج بدن امنیتی/بر زور‌ متمایز را نگاه‌داری می‌کند — ارتش منظم (ارتش)، سپاه پاسداران (IRGC) شامل نیروی قدس، نیروی بسیج شبه‌نظامی، وزارت اطلاعات و امنیت (MOIS)، و فرماندهی نیروی انتظامی (FARAJA). این پراکندگی اطمینان می‌دهد که هیچ بدن منفردی ظرفیت خودمختار کافی برای چالش رژیم را داراست. یافته مکارا که نهادهای موازی انحراف نظامی را **کمتر احتمالی** در طول اعتراضات می‌سازند توسط تجربه ایران بطور تجربی تأیید‌شده‌اند: در 2009، 2019 و 2022، ابزار امنیتی بدون‌شکاف باقی‌مانده دقیقاً زیرا هم‌سازی بر تمام بدن‌های متعددی بالا (دفتر رهبر عالی) کنترل‌شده‌اند به‌جای درآمد هر ترتیب زنجیر‌فرماندهی نظامی منفردی.
+
+**انگیزه‌های مادی:** پادشاهی اقتصادی سپاه پاسداران (نشان داده در تحلیل عمیق ۱) یک ساختار انگیزه مادی بزرگ کار می‌کند به‌عنوان افسران ارشد پیوستن به بقای رژیم. برخلاف مصر، جایی که منافع اقتصادی SCAF به‌طور نظری می‌تواند تحت حکومت مدنی محافظ‌شود، سازمان‌های سپاه پاسداران عمیقاً با تهیه تحریم، قرارداد سیاسی‌تر، و مشروعیت ایدئولوژیکی درهم‌بافته — که آنان را بر هر اصلاح بازار صحیح یا بازیاب‌سازی بین‌المللی آسیب‌پذیر می‌سازند.
+
+**روابط جمعی:** استخدام سپاه پاسداران سنگین‌تر بر معیشت اجتماعی و ترجیح جغرافیایی خاص رسم می‌کند — خانواده‌های شهرستان، پایین‌تر-درون‌دست، محافظ‌کار از نظر مذهبی — هویت جمعی ساخت متفاوت از هم طبقه متوسط شهری و پایه استخدام منطقه‌ای نمایندگی ارتش. این بُعد جمعی بدان معنی است که اصلاح بخش امنیتی در ایران به‌طور همزمان اجتماعی و اقتصادی تبدیلی، نه صرفاً طراحی نهادی نیست.
+
+فروپاشی ساختارهای امنیتی موازی در عراق (2003)، سوریه (پس از 2011)، و لیبی (2011) شواهد هشداری متوازن را فراهم می‌کند: وقتی ساختارهای موازی **کاهش** می‌یابند، نتیجه انتقال منظم نیست اما تفرق ظرفیت بر زور میان گروه‌های مسلح متنافس. هر چارچوب انتقال ایرانی باید خطر را محاسبه کند که تخریب معماری موازی سپاه پاسداران بدون جایگزین نهادی کافی می‌تواند خلا امنیتی، نه تسلط مدنی را تولید کند.
+
+### تحلیل عمیق ۵: چارچوب هانتینگتون بازنگری — حدود نظریه موجود
+
+*The Soldier and the State* (1957) هانتینگتون و مقاله 1995 وی در زمینه اصلاح روابط نظامی-مدنی واژگان نظری غالب این حوزه را فراهم می‌کند. مفهوم وی از «کنترل مدنی عینی» — خودمختاری عملیاتی نظامی حرفه‌ای جفت‌شده به اختیار سیاستی مدنی — و «استراتژی لاک پشت» از اصلاح نهادی ملایم، پیوسته بطور گسترده مورد نقاش رفت. مقایسه شش‌موردی کوهن و کروسن (Kuehn and Croissant, 2023) به‌طور گسترده رویکرد لاک پشت را معتبر می‌سازد: در کره جنوبی، شیلی و اسپانیا، رهبران مدنی که اصلاح افزایشی را دنبال کردند نتایج دوام‌دارتر نسبت به آن‌هایی که برخورد درخشان را تلاش کردند حاصل کردند.
+
+با این‌حال، تحقیق نشان می‌دهد که شکاف‌های نظری قابل توجهی هنگام اعمال به موارد مانند ایران وجود دارند. چارچوب هانتینگتون تمایز واضح میان حوزه «نظامی» و «مدنی» را فرض می‌کند — ارتش امنیت را مدیریت می‌کند، مدنی‌ها حکومت را مدیریت می‌کند. اما سپاه پاسداران بر حوزه‌های نظامی، اقتصادی، اطلاعات، سیاسی و ایدئولوژیکی به‌طور همزمان کار می‌کند. هیچ «حوزه نظامی» برای اعطای خودمختاری وجود ندارد زیرا حوزه نظامی *حکومت است*. بطور مشابه، چارچوب هانتینگتون فرض می‌کند که حرفه‌پروری — آموزش افسران در اهدافی سیاسی نظامی — مسیری نحو کنترل مدنی عینی است. اما افسران سپاه پاسداران به‌طور واضح در هنجارهای **ایدئولوژیکی سیاسی** آموزش می‌دیند؛ «حرفه‌پروری» آنان توسط وفاداری رژیم تعریف‌شده‌است، نه توسط نظریه حرفه‌ای نظامی غربی که هانتینگتون توصیف می‌کند.
+
+ارزیابی اخیر MIT Security Studies Program از هانتینگتون (2019) یک «پارادوکس حرفه‌پروری» را شناسایی می‌کند — که خودمختاری نظامی بیشتر، به‌طور متناقض، نظارت مدنی بر امور نظامی را کاهش می‌دهد. برای ایران، این پارادوکس وارونه‌شده است: کمبود حرفه‌پروری نظامی سپاه پاسداران (یک بدن سیاسی است) بدان معنی است که معرفی حرفه‌پروری غربی آن شیوه **کنترل مدنی را افزایش می‌دهد** — اما تنهایی اگر زیرساخت ایدئولوژیکی (آموزش مرتبط‌به‌حوزه‌علمیه، نظریه ولایت‌فقیه) به‌طور همزمان اصلاح‌شود.
+
+### رشته‌های پیوندی
+
+پنج رشته از این تحلیل‌های عمیق ظاهر می‌شوند که از چکیده‌ها تنهایی نامرئی نبودند:
+
+1. **خودمختاری اقتصادی متغیر بحرانی است.** ادبیات فعالیت اقتصادی نظامی را یک پی‌نوشت تعامل می‌کند؛ برای ایران آن مانع مرکزی است. اندونزی، مصر و پاکستان تمام نشان می‌دهند که کسب‌وکار نظامی سلب‌تملک درون‌کن فشار نهادی غالب — و در مورد مصر، قدرت اقتصادی نظامی در واقع **پس از اصلاح سیاسی بسط‌یافت**.
+
+2. **پیچیدگی نهادی ترتیب زمانی انتقال را چند‌برابر می‌کند.** سفر 30+ سالم کره جنوبی نحو کنترل مدنی (هنوز ناقص) یک ارتش یکپارچه‌ منفردی شامل شد. معماری امنیتی پنج‌بدنی ایران فرایند‌های اصلاح موازی را نیاز‌مند می‌کند، هر‌یک با انگیزه‌های نهادی متفاوت و ظرفیت‌های خراب‌کننده.
+
+3. **بحران به‌عنوان کاتالیزت آماده‌سازی برای شرط‌بندی است.** 23-F اسپانیا شتاب‌داد زیرا رهبران مدنی نقشه‌خانه نهادی آماده‌شده داشتند. جنبش‌های مخالفت ایران لحظه‌های بحرانی تولید کردند اما جایگزین‌های نهادی قابل اجرا را لاک کردند.
+
+4. **ساختارهای اثبات کودتا دو‌لبه هستند.** آنان انحراف نظامی در طول اعتراضات را جلوگیری می‌کند (پایدار‌کننده برای رژیم) اما همچنین انتقال منظم را جلوگیری می‌کند (بیثبات‌کننده برای اصلاح). تخریب آنان خطر تفرق امنیتی را دارد، همان‌طور که عراق، سوریه و لیبی نشان می‌دهند.
+
+5. **چارچوب‌های نظری موجود ناکافی‌اند.** نه کنترل مدنی عینی/ذهنی هانتینگتون و نه تیپ‌شناسی اثبات کودتای مکارا کنگلومرای نظامی-اقتصادی-ایدئولوژیکی مانند سپاه پاسداران را محاسبه می‌کند. ایران شاید واژگان نظری کاملاً نویدی برای اصلاح روابط نظامی-مدنی نیاز‌مند — یکی که اصلاح بخش امنیتی، بازمسازی اقتصادی و غیرنهادینه‌سازی ایدئولوژیکی را به‌عنوان یک چالش منفرد، درهم‌بافته یکپارچه می‌کند.
+
+---
+
+## منابع
+
+| # | نویسنده(گان) | سال | عنوان | مطالعه موردی | دسترسی |
+|---|-------------|------|-------|-------------|--------|
+| ۱ | Rodrik | 2000 | Institutions for High-Quality Growth | Comparative | abstract |
+| ۲ | Bardhan | 2005 | Institutions and Development | Comparative | abstract |
+| ۳ | Tamburini | 2018 | Anti-Terrorism Legislation in the Maghreb | Tunisia, Algeria, Morocco, Mauritania | abstract |
+| ۴ | Cunningham | 2015 | Military Aid and Civil-Military Relations | Comparative | abstract |
+| ۵ | Huntington | 1995 | Reforming Civil-Military Relations | Spain, Comparative | abstract |
+| ۶ | Chung | 2009 | Politics as Continuation of War: South Korean Civil-Military Relations | South Korea | abstract |
+| ۷ | Kim & Kuehn | 2022 | Civilian Control and Military Domain in South Korea's MND | South Korea | abstract |
+| ۸ | Kim K-J | 2014 | Parliamentary Control of the Military in South Korea | South Korea | abstract |
+| ۹ | Croissant | 2011 | Civil-Military Relations in East Asia | South Korea, Thailand, Philippines, Indonesia | abstract |
+| ۱۰ | Kuehn | 2008 | Civilian Control of the Military in Taiwan | Taiwan | abstract |
+| ۱۱ | Kuehn & Croissant | 2023 | Six-Case Comparison of Civil-Military Reform | South Korea, Chile, Spain | abstract |
+| ۱۲ | Makara | 2013 | Coup-Proofing, Military Defection, and the Arab Spring | Egypt, Syria, Yemen | abstract |
+| ۱۳ | Ouedraogo | 2014 | Weak Military Professionalism in Africa | Africa (comparative) | abstract |
+| ۱۴ | Huntington | 1957 | The Soldier and the State | Comparative (theoretical) | abstract |
+| ۱۵ | MIT Security Studies Program | 2019 | Reassessment of Huntington's Framework | Comparative (theoretical) | abstract |
+| ۱۶ | Human Rights Watch | 2010 | Unkept Promise: TNI Military Business Divestment | Indonesia | abstract |
 
 
-## Sources Used
-
-- [Institutions for High-Quality Growth: What They are and How to Acquire Them](../explorer/?id=261)
-- [Institutions matter, but which ones?](../explorer/?id=190)
-- [Coup-Proofing, Military Defection, and the Arab Spring](../explorer/?id=4)
-- [Reforming civil–military relations](../explorer/?id=228)
-- [Democratization and Civilian Control of the Military in Taiwan](../explorer/?id=162)
-- [U.S. Military Aid and the Role of Foreign Armies in Civil Politics](../explorer/?id=157)
-- [Demilitarizing politics in South Korea: Toward a positive consolidation of civilian supremacy](../explorer/?id=158)
-- [Civilian Control over the Military in East Asia](../explorer/?id=161)
-- [The Soldier and the State in South Korea: Crafting Democratic Civilian Control of the Military](../explorer/?id=164)
-- [The Ministry of National Defence in South Korea: Military dominance despite civilian supremacy?](../explorer/?id=194)
-- [The three pillars of stability: legitimation, repression, and co-optation in autocratic regimes](../explorer/?id=159)
-- [Economic growth and income inequality](../explorer/?id=270)
-- [The Enemy Within: Personal Rule, Coups, and Civil War in Africa](../explorer/?id=169)
-- [The New Authoritarianism in Latin America.](../explorer/?id=172)
-- [Scraps of Paper? Agreements and the Durability of Peace](../explorer/?id=179)
-- [COVID-19 and the Politics of Crisis](../explorer/?id=186)
-- [The hidden costs of power-sharing: Reproducing insurgent violence in Africa](../explorer/?id=185)
-- [2013 Global Go To Think Tank Index Report](../explorer/?id=191)
-- [The Making of Chinese Foreign and Security Policy in the Era of Reform](../explorer/?id=248)
-- [Land Reform in South Korea under the U.S. Military Occupation, 1945–1948](../explorer/?id=210)
-- [Analyzing South Korea's Defense Reform 2020](../explorer/?id=233)
-- [The Prospects of Economic Reform in North Korea: Comparisons with China, Vietnam and Yugoslavia](../explorer/?id=234)
-- [South Korea’s Failure to Implement “Defense Reform 2020”](../explorer/?id=200)
-- [Modern state formation and land management in South Korea: 1945–1960](../explorer/?id=201)
-- [Comparative Case Study on Institutionalization of Ruling Parties Under Military Authoritarianism: Democratic Republican Party Under Park Chung-Hee Regime in South Korea (1961-1979) and GOLKAR Under Suharto Regime in Indonesia (1966-1998)](../explorer/?id=199)
-- [The Land Reform of 1946 in North Korea and the Soviet Military Administration](../explorer/?id=198)
-- [An analysis of the civilianization of the Ministry of National Defense in the Republic of Korea in support of Defense Reform 2020](../explorer/?id=205)
-- [The “Bunce Plan” and the Aborted Land Reform of 1946](../explorer/?id=206)
-- [The States Right and the Thirteenth Amendment](../explorer/?id=209)
-- [Armed Forces and Democracy: Reforming Civil-Military Relations](../explorer/?id=367)
-- [The 2006 Military Takeover in Fiji : A Coup to End All Coups?](../explorer/?id=567)
-- [Advancing Military Professionalism in Africa](../explorer/?id=564)
-- [Anti-Terrorism Laws in the Maghreb Countries: The Mirror of a Democratic Transition that Never Was](../explorer/?id=666)
+</div>

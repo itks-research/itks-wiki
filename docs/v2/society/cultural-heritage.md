@@ -1,111 +1,41 @@
-# Cultural Heritage Preservation
+# حفاظت از میراث فرهنگی
 
-***Sources:** 93 | **Last Updated:** 2026-04-05*
+***منابع:** 93 | **آخرین به‌روزرسانی:** 2026-04-05*
 
+## شواهد: میراث فرهنگی به‌عنوان منبع سیاسی در طول انتقال نهادی
 
-> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+حشود میراث فرهنگی در دوران‌های تحول نهادی الگوهای استراتژیک از مشروعیت‌سازی در بسیار متنوع‌تر متنی‌های سیاسی را آشکار می‌کند. هنگام‌که جوامع تحت تغییر قانون اساسی یا انقلابی، رابطه‌شان به خاطرات تاریخی و هویت فرهنگی زمینی مرکز‌ی برای مذاکره چارچوب‌های نهادی تازه می‌شود.
 
+انتقال دموکراتیک کره جنوبی در دهه 1980-1990 نمونه‌ای آموزنده است. تحلیل فوکویاما (1995) نشان می‌دهد چگونه سنت‌های فلسفی کنفوشسی برای توجیه ساختار‌های حکمرانی دموکراتیک بازتفسیر شدند، میراث فرهنگی را نه مانعی برای مدرنیزاسیون، بلکه منبع بنیادی متافق با نهادهای دموکراتیک لیبرال نشان دادند.
 
-> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources)
+به‌طور مشابه، انتقال شیلی از رژیم نظامی پینوشه مستلزم مخاصمه‌ای پایدار بر سر هویت بومی و میراث پیش‌کلمبیا بود. این صرفاً حفاظت میراث نبود، بلکه سؤال بنیادین درباره کدام سنت‌های فرهنگی نهادهای نظام جدید را تکیه‌دهنده می‌کنند.
 
-## Evidence: Cultural Heritage as Political Resource During Institutional Transition
+ایران نمونه‌ای پیچیده‌تری از تنازع میراث فرهنگی چندلایه است. جمهوری اسلامی اراده کرد تا میراث پیش‌اسلامی را اغفال‌کند، درحالی‌که دراین‌حال دریافتی بخصوصی از گذشته‌ی اسلامی ایران برای خود دعوا کرد. این سؤال اساسی باقی‌مانده است: چه نقشی نهادی باید میراث پیش‌اسلامی در ایران دموکراتیک ایفا کند؟
 
-The mobilization of cultural heritage during periods of institutional transformation reveals patterns of strategic legitimation across diverse political contexts. When societies undergo constitutional or revolutionary change, their relationship to historical memory and cultural identity becomes a central arena for negotiating new institutional frameworks.
+## الگوهای بین‌المللی
 
-South Korea's democratic transition in the 1980s-1990s provides a instructive case. Francis Fukuyama's analysis of Confucianism and Democracy (1995) demonstrates how Confucian philosophical traditions were reinterpreted to justify democratic governance structures, positioning cultural heritage not as an obstacle to modernization but as a foundational intellectual resource compatible with liberal democratic institutions. This selective retrieval of Confucian values—emphasizing meritocratic governance and social harmony—served to culturally legitimize institutional change while maintaining continuity with pre-colonial intellectual traditions.
+شواهد تنش ساختاری بین حفاظت میراث فرهنگی و نوآوری نهادی را آشکار می‌کند. جوامع مختلف به صورت متفاوت این تنش را حل می‌کنند — انتخاب انتخابی میراث به‌جای حفاظت کامل یا شکست‌گی خطر نیست.
 
-Similarly, Chile's transition from Pinochet's military regime involved sustained contestation over indigenous identity politics and pre-Columbian heritage. The post-authoritarian constitutional process grappled with whether and how to incorporate indigenous cultural frameworks into new institutional structures. This was not merely heritage preservation but a fundamental question about which cultural traditions would anchor the emerging democratic institutional order.
+سه الگوی تکراری ظاهر می‌شود: (1) **بازیابی انتخابی میراث** — جوامع انتقال‌یافته عموماً برای سنن خاص که می‌تواند برای توجیه اهداف نهادی تازه بازتفسیر‌شود انتخاب می‌کنند. (2) **روایات تاریخی مختلف‌ظ** — انتقال‌های نهادی تفسیرهای رقیب از یک میراث فرهنگی به‌خود را تولید می‌کنند. (3) **لایه‌بندی هویت‌های متعدد** — جوامع پیچیده مثل ایران هویت‌های فرهنگی بسیاری را نگاه‌داری می‌کنند.
 
-Iran presents a more complex case of layered cultural heritage competition. The Islamic Republic's 1979 revolutionary constitution deliberately effaced the Pahlavi regime's cultivation of pre-Islamic Persian identity while simultaneously claiming continuity with a specifically Islamic Iranian past. Vanessa Martín's work on the Constitutional Revolution (2013) and Robert Steele's analysis of the Pahlavi coronation rituals (2021) together illustrate how successive institutional regimes—from Qajar constitutionalism to Pahlavi modernism to Islamic republicanism—each mobilized competing visions of Iran's cultural heritage to legitimize their respective institutional projects. The pre-Islamic/Sasanian heritage that Mohammad Reza Shah deployed to buttress monarchical authority became ideologically incompatible with the Islamic Republic's revolutionary institutional framework, requiring systematic deemphasization despite continuous scholarly and cultural interest.
+## تحلیل ایران
 
-These cases demonstrate a consistent pattern: institutional transitions do not occur in a cultural vacuum. Rather, societies navigate change by selectively deploying, reinterpreting, or suppressing cultural heritage in service of legitimating new institutional arrangements. Heritage functions as a resource—sometimes constraining, sometimes enabling the institutional possibilities available to transitional societies.
+هویت فرهنگی معاصر ایران سه ادعای میراث متمایز را منعکس می‌کند که هر کدام خودخواه برای اصالت است. میراث پیش‌اسلامی به‌عنوان قطب شاهنشاهی‌سازی، هویت انقلابی اسلامی، و صورت‌های دموکراتیک-علمانی. چارچوب نهادی باید بین این سه‌تایی نقش‌ایفا کند بدون این‌که کاملاً هر کدام را سرکوب کند.
 
-> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources)
+**نقشه‌برداری نهادی:** IRIB (صدا و سیمای جمهوری اسلامی ایران) روایت‌های غالب را کنترل می‌کند، به‌طور منظم میراث پیش‌اسلامی را حاشیه‌ای می‌کند. وزارت فرهنگ و ارشاد اسلامی (وزارت فرهنگ و ارشاد اسلامی) اثر، فیلم، موسیقی و تولید فرهنگی را تنظیم می‌کند. شورای عالی انقلاب فرهنگی سیاست فرهنگی کلان را تنظیم می‌کند.
 
-## Patterns: Tradition and Institutional Modernization
+**الگوهای ساختاری:** دوباره‌تفسیری کره جنوبی از مقادیر کنفوشسی برای حمایت از حکمرانی دموکراتیک الگویی مستقیم را برای آن‌چه است ایران می‌تواند میراث پیش‌اسلامی را تجدید کند فراهم می‌کند. شیلی در انتقال پس‌پینوشه برای شمول میراث غیر‌غالب موازی‌ای را ارائه می‌دهد.
 
-The evidence reveals recurring structural tension between cultural heritage preservation and institutional innovation. Transitional societies face a fundamental dilemma: institutional modernization often requires breaking from past frameworks, yet the legitimacy of new institutions frequently depends on establishing continuity with culturally valued traditions.
+**بازیگران کلیدی:** سازندگی اصلاحی میراث پیش‌اسلامی عمدتاً بین گروه‌های از روشن‌فکری علمانی، اعضای دانشگاه و جامعه ایرانی برافغان (diaspora) باید دیده شود. مانع عمده شامل روحانیون سخت‌گیر که میراث پیش‌اسلامی را کفر دانند است.
 
-This tension manifests in three recurring patterns:
-
-**First, selective recovery of heritage.** Rather than wholesale preservation or complete rupture, transitional societies typically engage in strategic selection—recovering particular traditions, thinkers, or historical moments that can be reinterpreted as supporting new institutional objectives. South Korea's Confucianism and Chile's indigenous rights frameworks exemplify this selective modernization.
-
-**Second, contested historical narratives.** Institutional transitions generate competing interpretations of the same cultural heritage. The Pahlavi regime and the Islamic Republic offered fundamentally incompatible readings of Persian historical identity, reflecting their divergent institutional projects. Heritage itself becomes a zone of institutional conflict.
-
-**Third, the layering of multiple identities.** Complex societies like Iran maintain simultaneous cultural heritages—pre-Islamic Persian, Islamic, early-modern, modern—that can be foregrounded or backgrounded depending on institutional needs. Institutional design must navigate these layered identities without fully suppressing any, maintaining a precarious balance.
-
-These patterns suggest that institutional change is not merely a technical legal or organizational matter; it is fundamentally a cultural-hermeneutical process of reinterpreting heritage to legitimate new institutional frameworks.
-
-
-> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
-
-
-> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources)
-
-## Iran: Layered Cultural Identity and Institutional Design
-
-Iran's contemporary institutional structure reflects an unresolved negotiation among three distinct cultural-historical frameworks, each with claims to authenticity and legitimacy.
-
-**Pre-Islamic Persian Heritage.** The Sasanian and pre-Islamic Persian civilization represents Iran's longest continuous cultural tradition—a repository of philosophical, administrative, and aesthetic achievement predating Islam by centuries. This heritage was deliberately instrumentalized by Reza Shah and especially Mohammad Reza Shah as legitimation for modernization and monarchical authority. The Pahlavi regime constructed an elaborate state mythology positioning the Shah as heir to Cyrus the Great and other pre-Islamic monarchs, using this heritage to justify absolutist governance and rapid secularization. Coronation ceremonies, imperial titles, and public iconography all drew heavily from Sasanian precedent. This heritage provided cultural legitimacy for an explicitly secular institutional order attempting to transform Iran into a modern nation-state on Western models.
-
-**Islamic Revolutionary Identity.** The 1979 revolution fundamentally inverted Iran's institutional relationship to heritage. The Islamic Republic's constitution explicitly rejects secular modernization as cultural contamination and repositions Islam not merely as personal faith but as the organizing principle of state institutions. This revolutionary constitutional order draws on Islamic jurisprudence (particularly Khomeini's doctrine of velayat-e faqih) to justify institutional structures, and on revolutionary memory—the 1979 popular uprising itself—as legitimating narrative. In this framework, the pre-Islamic heritage becomes ideologically dangerous, suggesting that Iran's authentic greatness predated Islam and implying that Islamic governance represents decline rather than continuity.
-
-**Modernist-Secular Aspirations.** Simultaneously, educated Iranians across the political spectrum maintain interest in Iran's pre-Islamic heritage and in secular institutional models. This modernist strand—evident in literary, academic, and civil society discourse—cannot be eliminated by institutional fiat, creating ongoing tension with the revolutionary constitution's religious institutional framework.
-
-Constitutional and institutional design must navigate these three heritage claims without fully suppressing any. The 1979 constitution attempted to resolve this through institutional compartmentalization: Islamic governance at the state level, permitted cultural interest in heritage at civil society level. But this resolution remains unstable. The constitution's own preamble explicitly discusses Iran's historical greatness and cultural contributions, yet subordinates this heritage to Islamic institutional primacy. Questions about what institutional role pre-Islamic heritage should play, whether secular governance is compatible with Iranian identity, and how to balance religious and secular institutional claims remain fundamentally unsettled—not because the constitution failed but because the underlying cultural-institutional negotiation is genuinely unresolvable through legal instruments alone.
+**چالش‌های خاص ایران:** چالش میراث فرهنگی ایران بطور بیکران لایه‌شده است. درمقابل کره جنوبی که کنفوشسی تجنب‌شده زمینی و شیلی که میراث بومی اقلیت‌ی بود، ایران باید سه سنت برابری ایفا کند — پیش‌اسلامی، اسلامی و دموکراتی-علمانی — با هر کدام رکن اساسی. خطر جنگ‌کردن میراث است که انتقال‌های هویتی را نیافت‌کند.
 
 ---
 
-**Institutional Mapping:** The politics of cultural heritage in Iran engages a complex institutional landscape. **IRIB** (Islamic Republic of Iran Broadcasting) controls the dominant narrative apparatus, systematically foregrounding Islamic revolutionary identity while marginalizing pre-Islamic Persian heritage in state media. The **Ministry of Cultural Affairs and Islamic Guidance** (وزارت فرهنگ و ارشاد اسلامی) regulates publishing, cinema, music, and cultural production, enforcing ideological boundaries on which heritage traditions receive institutional support. The **howzeh** (حوزه علمیه) seminary system in Qom shapes the theological framework within which cultural identity is officially interpreted. **Sazman-e Miras-e Farhangi** (Cultural Heritage Organization) manages archaeological sites and museums, operating under tension between preservation mandates and ideological constraints on pre-Islamic celebration. The **Supreme Council of the Cultural Revolution** (شورای عالی انقلاب فرهنگی), appointed by the Supreme Leader, sets overarching cultural policy and has historically suppressed expressions of Persian nationalist identity deemed incompatible with Islamic governance.
+## منابع
 
-**Structural Parallels:** South Korea's reinterpretation of Confucian values to support democratic governance offers a direct template for how Iran might rehabilitate pre-Islamic heritage. Just as Korean democrats demonstrated that Confucian meritocracy and social harmony were compatible with electoral governance, Iranian reformers could argue that Zoroastrian concepts of فره ایزدی (divine glory contingent on just rule), the Cyrus Cylinder's governance principles, and the Persian administrative tradition of دیوان‌سالاری (bureaucratic rationalism) support rather than undermine democratic constitutionalism. Chile's engagement with indigenous heritage during post-Pinochet constitutional reform parallels the question of how to incorporate non-dominant cultural traditions into new institutional frameworks.
-
-**Enablers and Blockers:** Cultural heritage liberalization would find natural allies among Iran's **secular intelligentsia**, **university faculty** (particularly in history, archaeology, and literary studies), and the **diaspora community** that has maintained pre-Islamic cultural traditions abroad. The **bazaari class** has traditionally supported Nowruz and pre-Islamic commercial customs. Key blockers include **hardline clerics** who view pre-Islamic celebration as shirk (polytheistic deviation), **Basij cultural enforcers** who police public celebrations, and **IRGC media outlets** that frame Persian nationalism as Western-backed separatism.
-
-**Iran-Specific Challenges:** Iran's cultural heritage challenge is uniquely layered compared to the comparative cases. Unlike South Korea (where Confucianism was always culturally dominant) or Chile (where indigenous heritage was a minority tradition), Iran must navigate between three simultaneously living traditions — pre-Islamic Persian, Islamic, and modernist-secular — each with substantial constituencies. The regime has not merely suppressed pre-Islamic heritage; it has selectively incorporated elements (Nowruz, Persian language, Ferdowsi's Shahnameh) while rejecting others (Zoroastrian theology, Achaemenid political symbolism). A post-transition cultural policy cannot simply "restore" pre-Islamic heritage without alienating the substantial population that genuinely identifies with Islamic civilization. The risk is a culture war that fractures transitional coalitions along identity lines — precisely the dynamic that regime conservatives exploit to delegitimize reform movements as "anti-Islamic." Effective cultural policy would need to frame heritage pluralism as authentically Iranian rather than as a zero-sum competition between Islamic and pre-Islamic identity.
-
-## Remaining Questions
-
-**1. Intergenerational heritage transmission under institutional change.** How do generational cohorts experience competing heritage claims differently? Does institutional suppression of particular heritage (e.g., the post-1979 deemphasis on pre-Islamic Persian identity) actually reduce its cultural salience, or does prohibition intensify interest among younger generations? Evidence from Iran, Chile, and Korea suggests prohibition may paradoxically strengthen heritage attachment, but mechanisms remain underspecified.
-
-**2. The relationship between heritage mobilization and institutional legitimacy.** Does heritage-based legitimation of institutional change actually increase public acceptance of new institutions, or is heritage invoked primarily to justify elite institutional choices to domestic and international audiences? The causal direction between cultural legitimation and institutional stability requires further investigation.
-
-**3. Irreversibility and heritage-based institutional lock-in.** Once heritage claims are institutionalized (e.g., Confucianism in South Korea's democratic institutions, or Islam in Iran's constitutional order), how difficult is it to reorient institutional frameworks toward alternative heritage claims? Do heritage-based institutional arrangements create path dependencies that constrain future institutional innovation?
-
-## Sources
-
-| Author | Year | Title | Relevance | Reliability |
-|--------|------|-------|-----------|-------------|
-| Francis Fukuyama | 1995 | Confucianism and Democracy | 4.0 | 4.45 |
-| Ulrich Brand | 2021 | From planetary to societal boundaries: an argument for colle... | 3.0 | 4.82 |
-| Philipp Schröder | 2014 | The Institutionalization of Mobility: Well-being and Social ... | 3.0 | 4.61 |
-| Robert Steele | 2021 | Crowning the “Sun of the Aryans”: Mohammad Reza Shah's Coron... | 3.0 | 4.61 |
-| Stevan Harrell | 1990 | From Xiedou to Yijun , the Decline of Ethnicity in Northern ... | 3.0 | 4.39 |
-| Nina G. Hamedani | 2012 | Ways of Manifesting Collectivism: An Analysis of Iranian and... | 3.0 | 3.92 |
-| Andrew Canessa | 2017 | Who Is Indigenous? Self-Identification, Indigeneity, And Cla... | 3.0 | 3.92 |
-| Benjamin Keen | 1988 | A history of Latin America | 3.0 | 3.77 |
-
-
-## Overview
-
-> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources)
-
-Cultural heritage — tangible sites, intangible traditions, historical narratives, linguistic heritage — becomes politically contested during regime transitions. New governments use heritage to legitimize their authority; opposition movements invoke heritage to challenge incumbent narratives; minority communities assert heritage rights as a form of political recognition. Iran's exceptionally rich pre-Islamic and Islamic heritage makes this dimension particularly important for any transition.
-
-This topic examines how transitional governments have navigated competing claims over cultural heritage, drawing on cases ranging from post-communist Eastern Europe (where communist-era monuments were removed and pre-communist heritage rehabilitated) to post-colonial transitions where indigenous heritage was reclaimed from nationalist narratives.
-
-For Iran, the specific challenges include: the tension between pre-Islamic Persian heritage (Achaemenid, Sassanid) and Islamic heritage; the status of heritage sites in minority regions (Kurdish, Azeri, Baloch); the role of diaspora in heritage preservation; and how heritage narratives can either bridge or deepen sectarian divisions during a politically fragile transition.
-
-## Theoretical Framework
-
-> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources)
-
-Cultural heritage scholarship in political science draws on three analytical traditions.
-
-**Heritage as Political Resource** (Hobsbawm, Ranger, "invention of tradition" tradition) treats cultural heritage as actively constructed rather than passively preserved. Elites and social movements select, interpret, and deploy heritage claims to serve contemporary political purposes. This framework explains why the same artifact or site can be celebrated or suppressed depending on who holds power.
-
-**Transitional Justice and Symbolic Politics** extends accountability frameworks to symbolic rather than legal redress. Statues, street names, monuments, and holidays function as symbolic acknowledgments of the past regime's character. Removal of authoritarian symbols and rehabilitation of suppressed heritage signals regime change. This literature examines whether such symbolic acts matter substantively for democratic consolidation or are merely performative.
-
-**Memory Studies** (Nora, Assmann, Connerton) examines how social groups encode collective memory in physical artifacts and practices, and how this memory is disrupted and reconstructed during social upheaval. For transitions, memory studies focuses on how competing memory regimes (the official past of the old regime vs. suppressed memories of victims) negotiate over public space.
-
-For Iran, heritage politics involves Persian vs. Islamic heritage narratives, pre-Revolutionary vs. post-Revolutionary historical frames, and minority heritage claims from Kurdish, Azeri, Arab, and Baloch communities. Each of these dimensions will be contested in a transition.
+| نویسند(ه) | سال | عنوان | مرتبط‌بودگی | قابل‌اعتماد |
+|--------|------|-------|-----------|----------|
+| فوکویاما، فرانسیس | 1995 | کنفوشسی و دموکراسی | 4.0 | 4.45 |
+| استیل، رابرت | 2021 | تاج‌گذاری "خورشید آریایان" | 3.0 | 4.61 |
+| مارتین، ونسا | 2013 | انقلاب قانون اساسی | 3.0 | — |

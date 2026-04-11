@@ -1,5 +1,5 @@
-site_name: 'Iran Development Knowledge System'
-site_description: 'An autonomous research wiki mapping development pathways'
+site_name: 'سامانه دانش توسعه ایران'
+site_description: 'ویکی پژوهشی خودمختار برای ترسیم مسیرهای توسعه'
 site_url: 'https://itks-research.github.io/itks-wiki/'
 
 theme:
@@ -37,67 +37,67 @@ plugins:
       docs_structure: suffix
       fallback_to_default: true
       languages:
-        - locale: en
-          default: true
-          name: English
-          build: true
         - locale: fa
+          default: true
           name: فارسی
           build: true
+        - locale: en
+          name: English
+          build: true
           nav_translations:
-            About: درباره
-            Banking and financial system reform: اصلاح نظام بانکی و مالی
-            Bonyad system reform: اصلاح نظام بنیادها
-            Brain-drain reversal: بازگشت نخبگان
-            Case Studies: مطالعات موردی
-            Chile: شیلی
-            Civil society development: توسعه جامعه مدنی
-            Civil-military relations: روابط نظامی-غیرنظامی
-            Comparative Analysis: تحلیل تطبیقی
-            Constitutional design: طراحی
-            Cultural heritage preservation during institutional change: حفظ میراث فرهنگی در دوره تحولات نهادی
-            Czech Republic: جمهوری چک
-            Diaspora repatriation and reintegration: بازگشت و ادغام دیاسپورا
-            Economic Reform: اصلاحات اقتصادی
-            Education system reform: اصلاح نظام آموزشی
-            Electoral system design and implementation: طراحی و اجرای نظام انتخاباتی
-            Ethnic federalism in Iran: فدرالیسم قومی در ایران
-            Federalism, unitarism, and autonomy models: فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری
-            Home: خانه
-            How to Use This Site: راهنمای استفاده از سایت
-            IRGC economic empire: امپراتوری اقتصادی سپاه
-            Indonesia: اندونزی
-            Internet and digital infrastructure as civic space: اینترنت و زیرساخت دیجیتال به‌عنوان فضای مدنی
-            Iran: ایران
-            Iran-Specific: ویژه ایران
-            Judicial independence and rule of law: استقلال قضایی و حاکمیت قانون
-            Knowledge Graph: نمودار دانش
-            Labor market reform: اصلاح بازار کار
-            Media freedom: آزادی رسانه
-            Methodology: روش‌شناسی
-            Minority rights: حقوق اقلیت‌ها
-            Nuclear program civilian transition: انتقال غیرنظامی برنامه هسته‌ای
-            Overview: نمای کلی
-            Poland: لهستان
-            Political Institutions: نهادهای سیاسی
-            Political party formation and pluralism: شکل‌گیری احزاب سیاسی و تکثرگرایی
-            Power-sharing mechanisms during transition periods: سازوکارهای تقسیم قدرت در دوره گذار
-            Privatization: خصوصی‌سازی
-            Regional foreign policy reorientation: بازتعریف سیاست خارجی منطقه‌ای
-            Religious freedom: آزادی مذهبی
-            Research Findings: یافته‌های پژوهشی
-            Resource curse management: مدیریت نفرین منابع طبیعی
-            Sanctions unwinding: رفع تحریم‌ها
-            Seminary role in post-theocratic society: نقش حوزه علمیه در جامعه پساتئوکراتیک
-            Society & Culture: جامعه و فرهنگ
-            Source Explorer: کاوشگر منابع
-            South Korea: کره جنوبی
-            Spain: اسپانیا
-            System Status: وضعیت سامانه
-            Trade liberalization: آزادسازی تجارت
-            Transitional justice: عدالت انتقالی
-            Tunisia: تونس
-            "Women's rights codification": تدوین حقوق زنان
+            درباره: About
+            اصلاح نظام بانکی و مالی: Banking and financial system reform
+            اصلاح نظام بنیادها: Bonyad system reform
+            بازگشت نخبگان: Brain-drain reversal
+            مطالعات موردی: Case Studies
+            شیلی: Chile
+            توسعه جامعه مدنی: Civil society development
+            روابط نظامی-غیرنظامی: Civil-military relations
+            تحلیل تطبیقی: Comparative Analysis
+            طراحی قانون اساسی: Constitutional design
+            حفظ میراث فرهنگی در دوره تحولات نهادی: Cultural heritage preservation during institutional change
+            جمهوری چک: Czech Republic
+            بازگشت و ادغام دیاسپورا: Diaspora repatriation and reintegration
+            اصلاحات اقتصادی: Economic Reform
+            اصلاح نظام آموزشی: Education system reform
+            طراحی و اجرای نظام انتخاباتی: Electoral system design and implementation
+            فدرالیسم قومی در ایران: Ethnic federalism in Iran
+            "فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری": "Federalism, unitarism, and autonomy models"
+            خانه: Home
+            راهنمای استفاده از سایت: How to Use This Site
+            امپراتوری اقتصادی سپاه: IRGC economic empire
+            اندونزی: Indonesia
+            اینترنت و زیرساخت دیجیتال به‌عنوان فضای مدنی: Internet and digital infrastructure as civic space
+            ایران: Iran
+            ویژه ایران: Iran-Specific
+            استقلال قضایی و حاکمیت قانون: Judicial independence and rule of law
+            نمودار دانش: Knowledge Graph
+            اصلاح بازار کار: Labor market reform
+            آزادی رسانه: Media freedom
+            روش‌شناسی: Methodology
+            حقوق اقلیت‌ها: Minority rights
+            انتقال غیرنظامی برنامه هسته‌ای: Nuclear program civilian transition
+            نمای کلی: Overview
+            لهستان: Poland
+            نهادهای سیاسی: Political Institutions
+            شکل‌گیری احزاب سیاسی و تکثرگرایی: Political party formation and pluralism
+            سازوکارهای تقسیم قدرت در دوره گذار: Power-sharing mechanisms during transition periods
+            خصوصی‌سازی: Privatization
+            بازتعریف سیاست خارجی منطقه‌ای: Regional foreign policy reorientation
+            آزادی مذهبی: Religious freedom
+            یافته‌های پژوهشی: Research Findings
+            مدیریت نفرین منابع طبیعی: Resource curse management
+            رفع تحریم‌ها: Sanctions unwinding
+            نقش حوزه علمیه در جامعه پساتئوکراتیک: Seminary role in post-theocratic society
+            جامعه و فرهنگ: Society & Culture
+            کاوشگر منابع: Source Explorer
+            کره جنوبی: South Korea
+            اسپانیا: Spain
+            وضعیت سامانه: System Status
+            آزادسازی تجارت: Trade liberalization
+            عدالت انتقالی: Transitional justice
+            تونس: Tunisia
+            تدوین حقوق زنان: "Women's rights codification"
 
 nav:
   - Home: index.md
@@ -410,9 +410,9 @@ markdown_extensions:
 
 extra:
   alternate:
-    - name: English
-      link: /itks-wiki/
-      lang: en
     - name: فارسی
-      link: /itks-wiki/fa/
+      link: /itks-wiki/
       lang: fa
+    - name: English
+      link: /itks-wiki/en/
+      lang: en

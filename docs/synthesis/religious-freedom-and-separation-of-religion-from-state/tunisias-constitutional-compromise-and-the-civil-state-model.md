@@ -2,73 +2,41 @@
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
 
-Tunisia's 2014 Constitution embodies the most carefully negotiated religion-state framework in the contemporary Muslim world. Article 1 declares Tunisia as a state whose religion is Islam — language inherited from the 1959 Bourguiba-era constitution and constitutionally entrenched against amendment. However, Article 1 is mediated by a constellation of provisions that fundamentally transform its meaning. Article 2 defines Tunisia as a "civil state based on citizenship, the will of the people, and the supremacy of law." Article 6 guarantees freedom of conscience and commits the state to protecting the sacred while prohibiting takfir (accusations of apostasy).
+قانون اساسی ۲۰۱۴ تونس دقیق‌ترین چارچوب مذاکره‌شده رابطه دین و دولت در جهان اسلام معاصر را تجسم می‌بخشد. اصل نخست، تونس را کشوری اعلام می‌کند که دینش اسلام است — عبارتی موروثی از قانون اساسی دوران بورقیبه (۱۹۵۹) و تحکیم‌شده در برابر اصلاح. با این حال، اصل نخست توسط مجموعه‌ای از مقررات میانجی، معنای بنیادین خود را بازمی‌یابد. اصل دوم تونس را «دولت مدنی مبتنی بر شهروندی، اراده مردم و برتری قانون» تعریف می‌کند. اصل ششم آزادی وجدان را تضمین و دولت را متعهد به حفاظت از مقدسات می‌کند و در عین حال تکفیر را ممنوع می‌سازد.
 
-The negotiation that produced this architecture was substantively contentious. Ennahda initially sought to introduce Sharia law as a constitutional source of legislation. Massive secular protest forced retreat. When the specific vote on Sharia's constitutional role was held, it revealed deep divisions within Ennahda itself: only 22 deputies supported Sharia inclusion, 17 opposed, and 39 abstained — a remarkable display of internal pragmatism prevailing over doctrinal commitment (Zeghal, 2013). The resulting framework declares Islam as the religion of the state without making Islamic law a formal source of legislation — a distinction that appears subtle but is operationally decisive.
+مذاکراتی که این معماری را پدید آورد، عمیقاً پرتنش بود. النهضه در ابتدا درصدد گنجاندن شریعت به‌عنوان منبع قانون‌گذاری بود. اعتراضات گسترده سکولارها عقب‌نشینی را تحمیل کرد. هنگام رأی‌گیری مشخص درباره نقش قانون اساسی شریعت، شکاف‌های عمیق درون خود النهضه آشکار شد: تنها ۲۲ نماینده از گنجاندن شریعت حمایت کردند، ۱۷ نفر مخالفت و ۳۹ نفر رأی ممتنع دادند — نمایش چشمگیری از غلبه عمل‌گرایی درونی بر تعهد آموزه‌ای (Zeghal, 2013). چارچوب حاصل اسلام را دین دولت اعلام می‌کند بدون آنکه حقوق اسلامی را منبع رسمی قانون‌گذاری قرار دهد — تمایزی ظاهراً ظریف اما عملیاتی تعیین‌کننده.
 
-This constitutional architecture emerged from broader ideological evolution. Tamimi (2001) documents how Rachid Ghannouchi argued over decades that democracy is compatible with the Islamic concept of shura. The 2016 Ennahda party congress, where 93.5% of delegates voted to formally separate political and religious activities, marked the culmination of this trajectory. For Iran, Tunisia's experience suggests that constitutionally acknowledging Islam's social centrality while preventing religious law from becoming a legislative veto is achievable — but requires sustained negotiation between Islamist and secularist forces.
+این معماری قانون اساسی از تحول ایدئولوژیک گسترده‌تری برآمد. تمیمی (۲۰۰۱) مستند می‌کند که راشد الغنوشی طی دهه‌ها چگونه استدلال کرد که دموکراسی با مفهوم اسلامی شورا سازگار است. کنگره ۲۰۱۶ النهضه، که در آن ۹۳.۵ درصد نمایندگان به جدایی رسمی فعالیت‌های سیاسی و دینی رأی دادند، نقطه اوج این مسیر بود. برای ایران، تجربه تونس نشان می‌دهد که به رسمیت شناختن جایگاه اجتماعی اسلام در قانون اساسی و در عین حال جلوگیری از تبدیل شدن حقوق دینی به حق وتوی قانون‌گذاری، دست‌یافتنی است — اما مستلزم مذاکره پایدار میان نیروهای اسلام‌گرا و سکولار.
 
 ## Cross-Country Patterns
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
 
-Two cross-cutting patterns emerge from Tunisia's constitutional experience. First, constitutional acknowledgment of religion does not require theocratic authority. Tunisia's Article 1 architecture demonstrates that a Muslim-majority society can constitutionally affirm Islam's centrality while establishing civil law supremacy. The key mechanism is distributing religion's constitutional presence across multiple articles that check and balance each other, rather than concentrating it in a single provision.
+دو الگوی بین‌بخشی از تجربه قانون اساسی تونس پدیدار می‌شود. نخست، به رسمیت شناختن دین در قانون اساسی مستلزم اقتدار حکومت دینی نیست. معماری اصل نخست تونس نشان می‌دهد جامعه‌ای با اکثریت مسلمان می‌تواند محوریت اسلام را در قانون اساسی تأیید کند و در عین حال برتری قانون مدنی را تثبیت نماید. سازوکار کلیدی، توزیع حضور قانون اساسی دین در چندین اصل است که یکدیگر را مهار و موازنه می‌کنند، نه تمرکز آن در یک ماده واحد.
 
-Second, internal Islamist party dynamics matter more than external pressure. The Ennahda vote pattern — where pragmatic abstention exceeded both support and opposition — suggests that party elites can be moved by institutional incentives rather than ideological conversion. Democratic competition, coalition necessities, and public opinion drove moderation more effectively than secularist confrontation.
+دوم، پویایی درونی احزاب اسلام‌گرا بیش از فشار بیرونی اهمیت دارد. الگوی رأی‌گیری النهضه — که در آن رأی ممتنع عمل‌گرایانه از حمایت و مخالفت هر دو فراتر رفت — نشان می‌دهد نخبگان حزبی بیش از تبدیل ایدئولوژیک، با مشوق‌های نهادی قابل تغییرند. رقابت دموکراتیک، ضرورت‌های ائتلافی و افکار عمومی، اعتدال‌گرایی را مؤثرتر از رویارویی سکولاریستی پیش بردند.
 
 ## Iran Context
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
 
-Tunisia's Article 1 architecture offers a direct template for Iran's most pressing constitutional question: how to handle Islam's public role. Iran's Guardian Council currently vetoes legislation for non-compliance with Islamic law — a power without parallel in any other political system. Tunisia's model suggests an alternative: constitutional recognition of Islam as the country's religious heritage paired with explicit supremacy of civil law and elected legislative authority.
+معماری اصل نخست تونس الگویی مستقیم برای فوری‌ترین پرسش قانون اساسی ایران ارائه می‌دهد: چگونه باید نقش عمومی اسلام را مدیریت کرد. شورای نگهبان ایران در حال حاضر قوانین مجلس را به دلیل ناسازگاری با شریعت اسلامی وتو می‌کند — قدرتی بی‌نظیر در هر نظام سیاسی دیگری. الگوی تونس جایگزینی پیشنهاد می‌کند: به رسمیت شناختن اسلام در قانون اساسی به‌عنوان میراث دینی کشور، همراه با برتری صریح قانون مدنی و اقتدار قانون‌گذاری منتخب.
 
-The Ennahda internal vote pattern is particularly instructive for Iran. Iran's clerical establishment is not monolithic — it spans from quietist traditionalists (following Grand Ayatollah Sistani's model of clerical non-interference in governance) to reformist clerics to hardline velayat-e faqih advocates. Any transition framework must engage this internal diversity, recognizing that pragmatic majorities can prevail if institutional design incentivizes compromise over doctrinal rigidity.
+الگوی رأی‌گیری درونی النهضه به‌ویژه برای ایران آموزنده است. نهاد دینی حاکم ایران یکپارچه نیست — طیفی از سنت‌گرایان ساکت (پیرو الگوی آیت‌الله سیستانی در عدم مداخله روحانیت در حکمرانی) تا روحانیون اصلاح‌طلب و حامیان سرسخت ولایت فقیه را دربرمی‌گیرد. هر چارچوب گذاری باید با این تنوع درونی تعامل کند و بپذیرد که اکثریت‌های عمل‌گرا می‌توانند غلبه یابند، مشروط بر آنکه طراحی نهادی مشوق سازش باشد نه سخت‌گیری آموزه‌ای.
 
 ## Open Research Questions
 
-- Can the Tunisian "civil state" formula survive democratic backsliding? President Saied's 2022 constitutional revision reopened questions the 2014 text seemed to settle, suggesting that constitutional provisions alone cannot permanently resolve religion-state tensions.
-- How would Iran's much larger and more institutionalized clerical establishment respond to a Tunisian-style constitutional formula that acknowledged Islam but denied religious law legislative authority?
-- What mechanisms could prevent a future Iranian government from instrumentalizing either religion or secularism to consolidate power, as both Ben Ali and Saied did in Tunisia?
+- آیا فرمول «دولت مدنی» تونسی می‌تواند در برابر پسرفت دموکراتیک دوام آورد؟ بازنگری قانون اساسی ۲۰۲۲ توسط رئیس‌جمهور سعید، پرسش‌هایی را بازگشود که متن ۲۰۱۴ پاسخ داده به نظر می‌رسید، و نشان می‌دهد مقررات قانون اساسی به‌تنهایی نمی‌توانند تنش‌های دین و دولت را برای همیشه حل کنند.
+- نهاد روحانیت ایران — بسیار بزرگ‌تر و نهادینه‌تر — چگونه به فرمول قانون‌اساسی‌ای در سبک تونس واکنش نشان خواهد داد که اسلام را به رسمیت بشناسد اما اقتدار قانون‌گذاری حقوق دینی را نفی کند؟
+- چه سازوکارهایی می‌تواند مانع ابزارسازی دین یا سکولاریسم توسط دولت آینده ایران برای تحکیم قدرت شود، آن‌گونه که بن‌علی و سعید هر دو در تونس انجام دادند؟
 
 ## Sources
 
-| Source | Year | Key Finding |
+| منبع | سال | یافته کلیدی |
 |--------|------|-------------|
-| Zeghal, M. | 2013 | Tunisia's transition as confrontation between competing ways of life, not simple Islamist-secular binary |
-| Tamimi, A. | 2001 | Ghannouchi's decades-long argument for democracy-Islam compatibility through shura |
-| Pfeifer, H. | 2019 | Ennahda's normative discourse shifted from religious authority to democratic legitimacy |
-| McCarthy, R. | 2014 | Post-independence Tunisian secularism was state-imposed, not organically evolved |
-| Sapsford, R. et al. | 2017 | Corruption erodes trust in both secular and religious governance across MENA |
-| Zoubir, Y. | 2018 | Ennahda's political evolution from Islamist movement to Muslim democratic party |
-
-## Implications for Iran
-
-> 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
-
-**Institutional Mapping:** Tunisia's Article 1 model — constitutional acknowledgment of Islam without legislative Sharia veto — directly addresses Iran's Guardian Council problem. The institutions requiring transformation include: the Guardian Council (شورای نگهبان), which must be abolished or fundamentally reconstituted as a non-religious constitutional court; the Assembly of Experts (مجلس خبرگان), which would lose its raison d'etre if ولایت فقیه is removed; the Special Clerical Court, which should be dissolved entirely as an extra-judicial body; and the حوزه علمیه system, which would need to transition from a governance-training institution to an autonomous religious educational establishment. The مراجع (senior clerical authorities), particularly those in Najaf who have maintained independence from the Iranian state, represent potential partners for a "civil state" framework.
-
-**Structural Parallels:** The Ennahda internal vote on Sharia — 22 for inclusion, 17 against, 39 abstaining — reveals that even within Islamist organizations, pragmatic majorities can prevail when institutional design incentivizes compromise over doctrinal rigidity. This directly parallels the spectrum within Iran's clerical establishment: hardline ولایت فقیه advocates represent one pole, but quietist traditionalists, reformist clerics, and pragmatic institutionalists together likely constitute a larger constituency. The 2016 Ennahda congress vote (93.5% separating political and religious activities) demonstrates that evolution from Islamist movement to "Muslim democratic" party is empirically possible. The parallel breaks down in a crucial respect: Ennahda was an opposition party that had never governed; Iran's clerical establishment has governed for over four decades, creating institutional interests, economic dependencies, and identity investments far deeper than anything Ennahda confronted. The transition from governing theocracy to "Muslim democratic" politics is qualitatively more difficult than Ennahda's opposition-to-democratic-party evolution.
-
-**Key Actors and Sequencing:** The Tunisian model suggests engaging Iran's internal clerical diversity as a strategic priority. Key actors: (1) quietist مراجع who can provide theological legitimacy for separating political and religious authority — their argument that ولایت فقیه corrupts both religion and governance carries weight within the seminary system; (2) reformist intellectuals (روشنفکران دینی) in the tradition of Abdolkarim Soroush and Mohsen Kadivar who have developed Islamic democratic theory; (3) the Najaf-based marja'iyya, which models successful clerical influence without political governance; (4) practical-minded seminary students and mid-ranking clerics who recognize that theocratic governance has undermined public respect for religion. Sequencing: constitutional drafting should explicitly address the "civil state" (دولت مدنی) concept as distinct from both theocracy and militant secularism, with Article 1-style language acknowledging Iran's Islamic cultural heritage without granting religious law legislative authority.
-
-**Risks:** Tunisia's subsequent democratic backsliding under President Saied demonstrates that constitutional quality is necessary but insufficient. The Article 1 compromise survived Saied's authoritarian turn — he attacked democratic institutions but not the religion-state settlement — suggesting that once established, a civil state framework can become politically entrenched. However, implementation requires more than constitutional text: institutional capacity, judicial independence, and sustained civil society engagement are prerequisites. For Iran, the specific risk is that regime-affiliated clerics participate in a "civil state" process while maneuvering to preserve institutional power — a soft version of the Guardian Council's current function disguised as religious advisory authority. Clear institutional boundaries between religious counsel and political authority must be constitutionally specified rather than left to interpretation.
-
-## What We Don't Know
-
-> 🟡 **Evidence Confidence: Moderate** —  | 📎 **Source Alignment: 🟡 Moderate** (70%)
-
-**Open Research Questions**
-
-1. **Post-Saied durability**: President Saied's 2022 coup and new constitution explicitly undermined the "civil state" formula Tunisia had developed — what does this reversal tell us about the durability of constitutional religion-state settlements without independent judicial enforcement?
-
-2. **Transferability of Article 1 architecture**: Tunisia's constitutional compromise worked partly because Ennahda was a pragmatic Islamist party willing to accept civil law supremacy. Would the same compromise be achievable with more doctrinaire Islamist movements? What are the necessary conditions for the Article 1 approach?
-
-3. **Implementation gap**: Even before the 2022 reversal, Tunisia's gender equality provisions (Article 46 on parity) were not translated into electoral law. How large was the gap between constitutional text and implementation, and what explains it?
-
-4. **Iranian clerical response to civil state models**: What proportion of Iran's hawza scholars are open to a civil state framework? Systematic survey evidence does not exist — qualitative evidence suggests significant variation between Qom seminaries (more traditionalist) and Mashhad seminaries (historically more open to constitutional governance).
-
-5. **Comparative Muslim-majority constitutional outcomes**: Is Tunisia's pre-2022 experience genuinely distinct from Indonesia, Morocco, Jordan, and Malaysia, or do they represent a spectrum of civil state variants? Systematic comparison of implementation across these cases is lacking.
-
-> 🟡 **Evidence Confidence: Moderate** —  | 📎 **Source Alignment: 🟡 Moderate** (70%)
-
-Tunisia's 2014 constitution solved a dilemma that Iran will eventually face: how to write a constitution that affirms the country's Islamic identity without giving religious institutions legislative authority. The Tunisian "civil state" model — where Article 1 says "Islam is the religion of the state" but other articles establish civil courts and prohibit any single group from claiming religious authority — showed that this balance is constitutionally achievable. The critical mechanism was Ennahda's strategic decision to prioritize institutional survival over religious legislation. For Iran, the Tunisian model offers a template, but also a cautionary lesson: the 2022 reversal under President Saied shows that constitutional formulas alone don't guarantee stability — independent courts, a free press, and strong civil society are necessary to make them durable.
+| Zeghal, M. | ۲۰۱۳ | گذار تونس به‌مثابه رویارویی میان شیوه‌های زندگی رقیب، نه دوگانه ساده اسلام‌گرا-سکولار |
+| Tamimi, A. | ۲۰۰۱ | استدلال چنددهه‌ای غنوشی درباره سازگاری دموکراسی و اسلام از طریق شورا |
+| Pfeifer, H. | ۲۰۱۹ | گفتمان هنجاری النهضه از اقتدار دینی به مشروعیت دموکراتیک تغییر کرد |
+| McCarthy, R. | ۲۰۱۴ | سکولاریسم تونس پس از استقلال دولت‌ساخته بود، نه رشدیافته ارگانیک |
+| Sapsford, R. et al. | ۲۰۱۷ | فساد اعتماد به حکمرانی سکولار و دینی را در خاورمیانه و شمال آفریقا تخریب می‌کند |
+| Zoubir, Y. | ۲۰۱۸ | تحول سیاسی النهضه از جنبش اسلام‌گرا به حزب دموکرات مسلمان |

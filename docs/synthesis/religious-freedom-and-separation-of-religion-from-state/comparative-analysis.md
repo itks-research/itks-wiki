@@ -1,221 +1,167 @@
-# Comparative Analysis: Religious Freedom and Separation of Religion from State
+<div dir="rtl" markdown>
 
-**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-29 06:07:29
+# تحلیل تطبیقی: آزادی مذهبی و جدایی دین از حکومت
 
-# Comparative Analysis: Religious Freedom and Separation of Religion from State
-
-## Metadata
-- **Category:** Religious freedom and separation of religion from state
-- **Case Studies:** Tunisia, Spain, Turkey, Indonesia, Iran
-- **Sources Analyzed:** 51 (0 full-text, 51 abstract-only)
-- **Date Generated:** 2026-03-28
-- **Impact Level:** medium
+## فراداده
+- **دسته‌بندی:** Religious freedom and separation of religion from state
+- **مطالعات موردی:** تونس، اسپانیا، ترکیه، اندونزی، ایران
+- **منابع تحلیل‌شده:** ۵۱ (۰ متن کامل، ۵۱ فقط چکیده)
+- **تاریخ تولید:** 2026-03-28
+- **سطح تأثیر:** متوسط
 
 ---
 
-## Part I: Broad Synthesis
+## بخش اول: ترکیب کلی
 
-### 1. Overview
+### ۱. مرور کلی
 
-The relationship between religion and state is among the most consequential institutional design questions for any society transitioning from authoritarian rule — and for Iran, it is *the* defining question. The ITKS corpus contains 57 scored sources on this topic, overwhelmingly concentrated in Tunisia (50 sources) and Spain (1 source), with the Tunisian dominance reflecting both the richness of post-Arab Spring scholarship on Islam and democracy and the direct relevance of Tunisia's experiment to Iran's situation.
+رابطه میان دین و حکومت از جملهٔ مهمترین سؤالات طراحی نهادی برای هر جامعه‌ای که از حکومت استبدادی فاصله می‌گیرد — و برای ایران، این سؤال *تعریف‌کنندهٔ* وضعیت است. پیکرهٔ ITKS شامل ۵۷ منبع نمره‌شدهٔ در این موضوع است، که تمرکز غالب آن بر روی تونس (۵۰ منبع) و اسپانیا (۱ منبع) قرار دارد، و تسلط تونسی منعکس‌کننده‌ی هم غنای مطالعات پس‌از بهار عربی درباره‌ی اسلام و دموکراسی و هم مرتبط‌بودن مستقیم تجربهٔ تونس با وضعیت ایران است.
 
-This topic intersects with all four ITKS pillars in distinctive ways. **Prosperity** depends on institutional predictability and inclusive economic participation, both of which are undermined when religious authorities exercise arbitrary vetoes over economic policy (as Iran's Guardian Council does over legislation). **Personal freedoms** are directly at stake — freedom of belief, expression, dress, lifestyle, and association are all mediated by the religion-state relationship. **Economic strength** is affected because theocratic governance creates investor uncertainty and restricts the human capital pool (particularly female participation). **Sovereignty** is tested when religious governance models create dependencies on transnational religious networks or generate isolation from the international community.
+این موضوع با تمام چهار ستون ITKS به شیوه‌های متمایزی تقاطع دارد. **رفاه** به پایایی نهادی و مشارکت اقتصادی فراگیر بستگی دارد، دونهایی که هردو زمانی تضعیف می‌شوند که مقامات مذهبی نقض‌ناپذیر دلخواه بر سیاست اقتصادی اعمال کنند (همچون آنچه شورای نگهبان ایران بر قانون‌گذاری انجام می‌دهد). **آزادی‌های شخصی** مستقیماً درخطر هستند — آزادی باور، بیان، پوشش، سبک زندگی و انجمن‌پذیری همگی با رابطهٔ دین و حکومت واسطه‌دار هستند. **قدرت اقتصادی** تحت‌تأثیر قرار می‌گیرد زیرا حکومت تئوکراتیک عدم‌اطمینان سرمایه‌گذاری را ایجاد می‌کند و استخوانهٔ نیروی انسانی را محدود می‌سازد (به‌خصوص مشارکت زنان). **حاکمیت** زمانی آزمایش می‌شود که مدل‌های حکومت مذهبی وابستگی به شبکه‌های مذهبی فراملی ایجاد کنند یا انزوای بین‌المللی را برانگیزند.
 
-The literature has evolved significantly from the 1990s "clash of civilizations" framework (which treated Islam as inherently incompatible with democracy) toward more sophisticated analyses of how Muslim-majority societies have designed diverse institutional arrangements for managing religion-state relations. Stepan's "twin tolerations" concept — requiring reciprocal respect between religious and political domains — has become the dominant analytical framework, replacing the binary of "theocracy versus secularism."
+ادبیات این حوزه از چارچوبِ دهه‌ای ۱۹۹۰ «برخورد تمدن‌ها» (که اسلام را ذاتاً ناسازگار با دموکراسی می‌شمرد) به تحلیل‌های پیچیده‌تری درباره‌ی نحوهٔ طراحی جوامع اسلامی برای ترتیبات نهادی مختلف در مدیریت روابط دین و حکومت تکامل یافته است. مفهوم «تساهل دوگانه» استپان — که احترام متقابل میان حوزهٔ مذهبی و سیاسی را مستلزم است — به چارچوب تحلیلی غالب تبدیل شده است، جایگزین‌کننده‌ی دوقطبی «تئوکراسی در برابر سکولاریسم».
 
-### 2. Comparative Evidence
+### ۲. شواهد تطبیقی
 
-#### Tunisia
+#### تونس
 
-Tunisia dominates this corpus because it represents the most extensively documented case of a Muslim-majority society negotiating the religion-state relationship in real time through democratic processes. The literature spans four interconnected themes.
+تونس بر این پیکره غالب است زیرا آن را نمایندهٔ مفصّل‌ترین پرونده‌ای از جوامع اسلامی می‌سازد که روابط دین و حکومت را در لحظهٔ واقعی از طریق فرآیندهای دموکراتیک مذاکره می‌کند. ادبیات در چهار موضوع متصل گسترش می‌یابد.
 
-First, **Ennahda's ideological evolution**. Tamimi (2001) provides the foundational study of Rachid Ghannouchi's political theology, documenting how Ghannouchi argued over decades that "democracy is fully compatible with the Islamic concept of shura (consultation)" and that Islamic values can be pursued through democratic competition rather than state imposition. The 2016 Ennahda party congress, where 93.5% of delegates voted to formally separate political and religious activities, marked the culmination of this trajectory.
+نخست، **تکامل ایدئولوژیک النهضه**. تمیمی (۲۰۰۱) مطالعهٔ بنیادین الهیات سیاسی راشد غنوشی را فراهم می‌کند، مستند‌سازی کنندهٔ چگونگی استدلال غنوشی در طول دهه‌ها برای آنکه «دموکراسی به‌طور کامل با مفهوم اسلامی شورا (مشورت) سازگار است» و اینکه ارزش‌های اسلامی را می‌توان از طریق رقابت دموکراتیک به‌جای تحمیل دولتی دنبال کرد. کنگرهٔ حزب النهضه در سال ۲۰۱۶، جایی که ۹۳/۵ درصد نمایندگان برای جداسازی رسمی فعالیت‌های سیاسی و مذهبی رأی دادند، نقطهٔ اوجِ این مسیر را علامت‌گذاری می‌کند.
 
-Second, **the secularist-Islamist negotiation**. Zeghal (2013) frames Tunisia's transition as a confrontation between "competing ways of life" — Islamism, secularism, and public order — rather than a simple binary. The 2014 Constitution's resolution — declaring Islam as the state's religion while simultaneously defining Tunisia as a "civil state based on citizenship, the will of the people, and the supremacy of law" — represents an institutional compromise that neither abolished religion's public role nor subordinated state authority to religious law.
+دوم، **مذاکرهٔ سکولاریست‌علیه‌اسلام‌گرا**. زغال (۲۰۱۳) گذار تونس را به‌عنوان برخورد میان «سبک‌های زندگی رقیب» — اسلام‌گرایی، سکولاریسم، و نظمِ عمومی — نه یک دوقطبی ساده، تعریف می‌کند. حلِّ قانون‌اساسی ۲۰۱۴ — اعلام اسلام به‌عنوان دین دولت در حالی‌که‌همزمان تونس را به‌عنوان «دولتی مدنی براساس شهروندی، اراده‌ی مردم، و برتری قانون» تعریف می‌کند — نشان‌دهندهٔ سازشی نهادی است که نه دین‌داری نقش عمومی را حذف کرد و نه اختیار دولت را تحت سلطهٔ حقوق مذهبی قرار داد.
 
-Third, **the corruption-trust nexus**. Sapsford et al. (2017) provide empirical evidence that corruption in MENA societies erodes not only trust in government but interpersonal trust, creating conditions where neither secular nor religious governance commands legitimacy. This finding suggests that religion-state design cannot be separated from institutional quality: even a well-designed constitutional framework will fail if corruption undermines the state institutions that implement it.
+سوم، **پیوند فساد و اعتماد**. سپسفورد و همکاران (۲۰۱۷) شواهد تجربی فراهم می‌کنند که فساد در جوامع خاورمیانه و شمال‌افریقا نه‌تنها اعتماد به دولت بلکه اعتماد بین‌فردی را فرسایش می‌کند، شرایطی را ایجاد می‌کند که در آن نه حکومت سکولار و نه حکومت مذهبی شرعیت فراگیری دارند. این یافته پیشنهاد می‌کند که طراحی روابط دین و حکومت نمی‌تواند از کیفیت نهادی جدا باشد: حتی یک چارچوبِ قانون‌اساسی خوب‌طراحی شده شکست خواهد خورد اگر فساد نهادهای دولتی را که آن را اجرا می‌کنند تضعیف کند.
 
-Fourth, **democratic backsliding and women's rights instrumentalization**. The corpus includes sources documenting how both authoritarian secularists (Ben Ali) and authoritarian populists (Saied) have instrumentalized women's rights and religious freedom narratives to consolidate power, demonstrating that the religion-state question is vulnerable to manipulation from both directions.
+چهارم، **عقب‌نشینی دموکراتیک و ابزار‌سازی حقوق زنان**. پیکره شامل منابعی است که مستند می‌سازند چگونه سکولارهای استبدادی (بن‌علی) و پوپولیست‌های استبدادی (سعید) هردو روایت‌های حقوق زنان و آزادی مذهبی را برای تحکیم قدرت ابزار‌سازی کرده‌اند، نشان می‌دهد که سؤالِ دین و حکومت از هردو جهت در برابر دستکاری آسیب‌پذیر است.
 
-Lust (2011) provides the broader comparative frame, arguing that the "Third Wave" of democratization largely bypassed the Muslim world not because of Islam *per se* but because of specific institutional configurations — particularly the interaction between Islamist opposition movements and authoritarian incumbent strategies — that created conditions of uncertainty discouraging liberalization.
+لاست (۲۰۱۱) چارچوبِ تطبیقی گسترده‌تری فراهم می‌کند، استدلال می‌کند که «موج سوم» دموکراتیزاسیون بزرگی‌راه جهان اسلام را نه به‌سبب اسلام *در‌ذات‌خود* بلکه به‌سبب ترتیبات نهادی خاص — به‌خصوص تعامل میان حرکات‌های مخالفِ اسلام‌گرایی و راهبردهای مقام‌اندارانِ استبدادی — که شرایط عدم‌اطمینان ایجاد می‌کنند و آزادی‌بخشی را تثبیط می‌کنند، دور شد.
 
-Künkler (2012) draws comparative lessons from Turkey, Indonesia, and Senegal for Egypt and Tunisia, emphasizing that "religion-state models from the democratizing Muslim world" offer more relevant templates than European secularism.
+کونکلر (۲۰۱۲) درس‌های تطبیقی را از ترکیه، اندونزی و سنگال برای مصر و تونس استخراج می‌کند، با تأکید برآنکه «مدل‌های دین و حکومت از جهانِ دموکراتیزه‌شونده‌ی اسلامی» الگوهای مرتبط‌تری نسبت به سکولاریسم اروپایی ارائه می‌دهند.
 
-#### Spain
+#### اسپانیا
 
-Spain is represented by a single source (Souto Paz, 2001) but one of considerable analytical value. Spain's transition from a "secularly confessional political system" under Franco — where the Catholic Church was deeply embedded in state governance — to a pluralist model promoting "religious freedom and cooperation between the state and all religious faiths" offers a non-Muslim parallel to the challenges Iran faces. The key institutional innovation was replacing state-religion fusion with a cooperative model that maintained the state's engagement with religious institutions while removing religious authority's veto over legislation and public policy.
+اسپانیا با یک منبع واحد (سوتو‌پاز، ۲۰۰۱) نمایندگی می‌شود اما یکی از ارزش تحلیلی قابل‌توجهی. گذار اسپانیا از یک «سیستم سیاسی سکولاریستی مذهبی» تحت فرانکو — جایی که کلیسای کاتولیک عمیقاً در حکومت دولت تعبیه شده بود — به یک مدلِ پلورالیستی که آزادی مذهبی و همکاری میان دولت و تمام ایمان‌های مذهبی را تشویق می‌کند، موازی‌ای غیرمسلمان برای چالش‌هایی است که ایران با آن روبه‌روست. نوآوری نهادی کلیدی جایگزین‌کردن همجوشی دولت و دین با مدلی تعاونی بود که مشارکت دولت در نهادهای مذهبی را حفظ کرد همچنان‌که نقض‌ناپذیری اختیار مذهبی بر قانون‌گذاری و سیاست عمومی را حذف کرد.
 
-### 3. Cross-Cutting Patterns
+### ۳. الگوهای بین‌بخشی
 
-Three patterns emerge. First, **there is no single "correct" religion-state model for democratic transitions**. The literature documents at least five distinct institutional arrangements in Muslim-majority contexts: Turkish laïcité (state control of religion), Tunisian "civil state" (cooperative separation), Indonesian Pancasila (inclusive monotheism), Moroccan "Commander of the Faithful" (royal religious authority), and Iranian *velayat-e faqih* (jurist guardianship). Each produces different outcomes on the four ITKS pillars.
+سه الگو برآمده است. نخست، **یک مدلِ «صحیح» دین و حکومت برای گذارهای دموکراتیک وجود ندارد**. ادبیات حداقل پنج ترتیب نهادی متمایز را در متن‌های اسلامی مستند می‌سازد: لائیسیتهٔ ترکیه (کنترل دولتی دین)، «دولت مدنی» تونسی (جداسازی تعاونی)، پانچاسیلای اندونزی (توحید فراگیر)، «امیر المؤمنین» مراکش (اختیار مذهبی سلطنتی)، و *ولایت فقیه* ایران (سرپرستی فقیهی). هرکدام نتایج متفاوتی بر چهار ستونِ ITKS تولید می‌کند.
 
-Second, **Islamist parties can be constructive democratic partners under certain conditions**. Ennahda's evolution from an Islamist movement to a "Muslim democratic" party suggests that ideological transformation is possible when institutional incentives favor compromise. However, this evolution is neither automatic nor irreversible — it depends on sustained democratic competition, coalition-building necessities, and internal party dynamics.
+دوم، **احزاب اسلام‌گرا می‌توانند در شرایط معینی شریک‌های دموکراتیک سازنده باشند**. تکاملِ النهضه از یک حرکت اسلام‌گرایانه به یک حزب «دموکرات مسلمان» پیشنهاد می‌کند که تحول ایدئولوژیک هنگام‌ای امکان‌پذیر است که انگیزه‌های نهادی سازش را ترجیح دهند. با‌این‌حال، این تکامل نه خودکار است و نه برگشت‌ناپذیر — بستگی به رقابت دموکراتیک مداوم، ضرورت‌های تشکیل‌اتحاد، و دینامیک‌های درونِ حزب دارد.
 
-Third, **the religion-state question is recursive, not one-time**. Tunisia's post-2014 trajectory demonstrates that constitutional settlement does not permanently resolve religion-state tensions. President Saied's 2022 constitutional revision reopened questions that seemed settled in 2014. The implication is that any Iranian religion-state framework must include institutional mechanisms for ongoing renegotiation, not just initial settlement.
+سوم، **سؤالِ دین و حکومت بازگشتی است، نه یک‌بار**. مسیر پس‌از‌۲۰۱۴ تونس نشان می‌دهد که تسویهٔ قانون‌اساسی روابطِ دین و حکومت را به‌طور دائمی حل نمی‌کند. بازبینی قانون‌اساسی توسط رئیس‌جمهور سعید در سال ۲۰۲۲ سؤالاتی را دوباره گشود که در سال ۲۰۱۴ حل‌شدهٔ به‌نظر می‌رسیدند. پیامد آن است که هر چارچوبِ روابطِ دین و حکومتِ ایرانی باید شامل مکانیسم‌های نهادی برای مذاکرهٔ مجدد مستمر باشد، نه صرفاً تسویهٔ اولیه.
 
-### 4. Implications for Iran
+### ۴. پیامدها برای ایران
 
-Iran's religion-state challenge is unique in its structural depth. The *velayat-e faqih* system does not merely assign a role to religion in public life — it makes religious juristic authority the supreme source of state legitimacy, embedding the Supreme Leader, Guardian Council, Assembly of Experts, and seminary system into the constitutional architecture. No other country has this structure, and no existing model can be transplanted directly.
+چالشِ روابطِ دین و حکومتِ ایران در عمق ساختاری‌اش منحصربه‌فرد است. سیستمِ *ولایت فقیه* نه‌تنها نقشی را به دین در زندگی عمومی نسبت می‌دهد — بلکه اختیار قضائی مذهبی را بالاترین منبع شرعیتِ دولت قرار می‌دهد، رهبرِ عالی، شورای نگهبان، مجمعِ تخصص، و سیستمِ حوزه را در معماری قانون‌اساسی تعبیه می‌کند. هیچ کشور دیگری این ساختار را ندارد و هیچ مدل موجودی را نمی‌توان مستقیماً منتقل کرد.
 
-The Tunisian experience suggests that Iran's religious establishment is not monolithic. Just as Ennahda contained both doctrinaire and pragmatic factions, Iran's clerical establishment spans a wide spectrum from quietist traditionalists (who oppose clerical governance on religious grounds, following Grand Ayatollah Sistani's model) to reformist clerics to hardline velayat-e faqih advocates. Any transition framework must engage with this internal diversity rather than treating "the clergy" as a unitary actor.
+تجربهٔ تونس پیشنهاد می‌کند که مؤسسهٔ مذهبی ایران یکپارچه نیست. درست همچون‌آنکه النهضه شامل حاشیه‌های عقیدتی و عملی بود، مؤسسهٔ روحانی ایران از طیفی گسترده‌ای تشکیل‌شده‌است که از سنت‌گرایان ساکت (که بر مبنای مذهبی مخالفِ حکومت روحانی هستند، به‌پیروی از مدلِ آیت‌الله سیستانی) تا روحانیان اصلاح‌طلب تا حامیانِ سخت‌گیرِ ولایت فقیه امتداد می‌یابد. هر چارچوبِ گذاری باید با این تنوعِ درونی سروکار داشته باشد تا نه دریِ روحانیت» را به‌عنوان بازیگر یکتا در نظر گرفت.
 
-The corruption-trust nexus (Sapsford et al., 2017) is particularly relevant. Iran's Islamic Republic has presided over extensive corruption — from IRGC economic monopolies to bonyad mismanagement to judicial bribery — that has eroded the legitimacy of religious governance in the eyes of many Iranians. This creates both an opportunity (popular demand for institutional reform) and a risk (that anti-corruption sentiment may be channeled into reflexive anti-religious extremism that alienates Iran's significant practicing Muslim population).
+پیوندِ فساد و اعتماد (سپسفورد و همکاران، ۲۰۱۷) به‌خصوص مرتبط است. جمهوری اسلامی ایران بر فسادِ گسترده سرپرستی کرده است — از انحصارات اقتصادیِ سپاه تا بدمدیریت بنیادها تا رشوهٔ قضائی — که شرعیتِ حکومتِ مذهبی را در چشمِ بسیاری از ایرانیان فرسایش کرده است. این فرصتی (تقاضای عمومی برای اصلاح نهادی) و خطری (اینکه احساسِ ضد‌فساد ممکن است به افراط‌گرایی ضد‌دینی منتقل شود که جمعیتِ اسلام‌پذیری قابل‌توجهِ ایران را دور کند) هردو ایجاد می‌کند.
 
-### 5. Open Questions
+### ۵. پرسش‌های باز
 
-- Can the "twin tolerations" framework (Stepan, 2000) be operationalized in a post-theocratic context where religious institutions have been deeply compromised by political power?
-- What role should Iran's seminary system (howzeh) play in a post-*velayat-e faqih* governance structure — autonomous religious institution, regulated educational body, or something in between?
-- How do Shi'a jurisprudential concepts of religious authority (marja'iyya, ijtihad) interact with democratic governance differently from the Sunni contexts where most religion-state literature is based?
-- Is there a viable "third way" between militant secularism (which would alienate Iran's religious population) and reformed theocracy (which would preserve clerical institutional privileges)?
-- How should a future Iranian constitution address religious minorities (Baha'is, Christians, Jews, Zoroastrians, Sunni Muslims) whose rights are currently defined by the Islamic Republic's discriminatory framework?
+- آیا می‌توان چارچوبِ «تساهل دوگانه» (استپان، ۲۰۰۰) را در متنی پس‌از‌تئوکراتیک عملی‌پذیر کرد جایی که نهادهای مذهبی عمیقاً توسط قدرت سیاسی کثیف‌شده‌اند؟
+- چه نقشی باید سیستمِ حوزهٔ ایران (حوزه) در ساختارِ حکومتی پس‌از‌ولایت فقیه ایفا کند — نهادی مذهبی خودمختار، نهادِ آموزشی تنظیم‌شدهٔ دولتی، یا چیزی میان‌این‌دونهایت؟
+- چگونه مفاهیم فقهی شیعی از اختیار مذهبی (مرجعیت، اجتهاد) با حکومت دموکراتیک تفاوت در‌برابر متن‌های سنی که بسیاد ادبیات روابط‌ دین و حکومت براساس آن‌ها است، تعامل می‌کند؟
+- آیا یک «راهِ سوم» قابل‌اجرا میان سکولاریسمِ سیاسی‌زا (که جمعیتِ مذهبی ایران را دور می‌کند) و تئوکراسیِ اصلاح‌شدهٔ (که امتیازات نهادی روحانی را حفظ می‌کند) وجود دارد؟
+- چگونه باید قانون‌اساسِ ایرانی آینده بر اقلیت‌های مذهبی (بهائیان، مسیحیان، یهودیان، زرتشتیان، مسلمانان سنی) که حقوقشان در حال‌حاضر توسط چارچوب‌ غیرمنصفانهٔ جمهوری اسلامی تعریف می‌شود، رسیدگی کند؟
 
 ---
 
-## Part II: Deep Dives
+## بخش دوم: تحلیل‌های عمیق
 
-*Note: Direct full-text PDF access to academic publishers was unavailable during this cycle. The following deep dives are based on extensive web research triangulating findings from multiple authoritative sources.*
+*توجه: دسترسی مستقیم به متن‌کامل PDF از ناشرانِ آکادمیک در این دورهٔ در دسترس نبود. تحلیل‌های عمیقِ زیر براساس تحقیقی فراگیر است که یافته‌هایی را از چندین منابع معتبرِ وب‌پایهٔ مثلث‌بندی می‌کند.*
 
-### Deep Dive 1: Tunisia's Constitutional Compromise — The Article 1 Architecture
+### تحلیل عمیق ۱: سازش قانون‌اساسیِ تونس — معماری مادهٔ ۱
 
-Tunisia's 2014 Constitution embodies the most carefully negotiated religion-state framework in the contemporary Muslim world. Article 1 declares that "Tunisia is a free, independent, sovereign state; its religion is Islam, its language Arabic, and its system is republican" — language inherited from the 1959 Bourguiba-era constitution. This article is constitutionally entrenched: it cannot be amended.
+قانون‌اساسیِ تونس سال ۲۰۱۴ منطوی است بر دقیق‌ترین چارچوبِ روابطِ دین و حکومتی که در جهانِ مسلمان معاصر مذاکره شده است. مادهٔ ۱ تصریح می‌کند که «تونس، دولتی آزاد، مستقل و حاکم است؛ دینش اسلام، زبانش عربی، و سیستمش جمهوری است» — بیانی که از قانون‌اساسیِ دهه‌ای ۱۹۵۹ عصرِ بورقیبه ارث‌بری شده است. این مادهٔ قانون‌اساسی به‌شکل محکمی تعبیه شده است: نمی‌تواند اصلاح شود.
 
-However, Article 1 is mediated by a constellation of other provisions that fundamentally transform its meaning. Article 2 defines Tunisia as "a civil state based on citizenship, the will of the people, and the supremacy of law." Article 6 guarantees "freedom of conscience" and commits the state to protecting the "sacred" while prohibiting *takfir* (accusations of apostasy). The state is described as "guardian of religion" — but this guardianship operates within a framework of civic pluralism, not theocratic authority.
+با‌این‌حال، مادهٔ ۱ توسط مجموعهٔ تعیین‌کننده‌ای از تعهدات دیگری واسطه‌دار می‌شود که بنیادین معنی آن را تبدیل می‌کنند. مادهٔ ۲ تونس را به‌عنوان «دولتی مدنی براساس شهروندی، اراده‌ی مردم، و برتری قانون» تعریف می‌کند. مادهٔ ۶ «آزادی وجدان» را تضمین می‌کند و دولت را متعهد می‌کند برای حفاظت از «مقدسات» همچنان که تکفیر (متهم کردن به ارتداد) را منع می‌کند. دولت به‌عنوان «نگهبانِ دین» توصیف می‌شود — اما این نگهبانی درون چارچوبی از پلورالیسمِ شهروندی عملیات می‌کند، نه اختیار تئوکراتیک.
 
-The negotiation that produced this architecture was substantively contentious. Ennahda initially sought to introduce Sharia law as a constitutional source of legislation. Massive secular protest forced retreat. When the specific vote on Sharia's constitutional role was held, it revealed deep divisions even within Ennahda: only 22 deputies supported Sharia inclusion, 17 opposed, and 39 abstained — a remarkable display of internal pragmatism prevailing over doctrinal commitment. The resulting framework declares Islam as the religion of the state without making Islamic law a formal source of legislation — a distinction that appears subtle but is operationally decisive.
+مذاکرهٔ که این معماری را تولید کرد به‌شکل ذاتی منطقی بود. النهضه ابتدایی برای معرفی حقِ شریعت به‌عنوان منبعِ قانون‌اساسی برای قانون‌گذاری تلاش کرد. اعتراضِ گسترده‌ی سکولاریستی عقب‌نشینی را مستمری کرد. هنگام‌ی‌که رأی‌گیری خصوصی در مورد نقشِ قانون‌اساسیِ شریعت برگزار شد، تقسیم‌بندی عمیقی را حتی درونِ النهضه آشکار کرد: تنهای ۲۲ نماینده از شمول شریعت حمایت کردند، ۱۷ مخالف بودند، و ۳۹ امتناع کردند — نمایشِ قابل‌توجهی از عملی‌گرایی عملی بر سر التزام دکترینی. چارچوبِ حاصل اسلام را به‌عنوان دین دولت تصریح می‌کند بدون‌اینکه حقِ اسلامی را منبع رسمی قانون‌گذاری قرار دهد — تمایزی که ظاهری ساده به‌نظر می‌رسد اما از نظرِ عملیاتی تعیین‌کنندهٔ است.
 
-**Analytical Implication for Iran:** Tunisia's Article 1 architecture demonstrates that Muslim-majority societies can constitutionally acknowledge Islam's social centrality while preventing religious law from becoming a legislative veto. For Iran, where the Guardian Council currently vetoes legislation for non-compliance with Islamic law, Tunisia's model suggests an alternative: constitutional recognition of Islam as the country's religious heritage paired with explicit supremacy of civil law and elected legislative authority. The Ennahda internal vote pattern is instructive — it suggests that even within Islamist parties, pragmatic majorities can prevail if the institutional framework incentivizes compromise.
+**پیامد تحلیلی برای ایران:** معماری‌ مادهٔ ۱ تونس نشان می‌دهد که جوامع اسلام‌پذیر می‌توانند اسلام را به‌طورِ قانون‌اساسی مرکزی‌تر بشناسند در‌حالی‌که از پیشگیری از تبدیل حقِ مذهبی به نقض‌ناپذیری قانون‌گذاری دوری کنند. برای ایران، جایی که شورای نگهبان در حال‌حاضر بر قانون‌گذاری برای عدم‌تطابق با حقِ اسلامی نقض‌ناپذیری اعمال می‌کند، مدلِ تونس یک جایگزین پیشنهاد می‌کند: تسلیمِ قانون‌اساسی به ارثِ مذهبی ایران در زوجِ برتری صریح قانونِ مدنی و اختیارِ قانون‌گذار انتخابی. الگوی رأی‌گیری درونِ النهضه آموزشی است — پیشنهاد می‌کند که حتی درونِ احزابِ اسلام‌گرا، اکثریت‌های عملی‌گرا می‌توانند غالب شوند اگر چارچوبِ نهادی سازش را تشویق کند.
 
-### Deep Dive 2: Turkey's Diyanet Model — State Control, Not Separation
+### تحلیل عمیق ۲: مدلِ دیانت ترکیه — کنترلِ دولتی، نه جداسازی
 
-Turkey's secularism, established by Atatürk's reforms in the 1920s, is fundamentally different from European laïcité or American separation. Rather than removing religion from public life, Turkey's model placed religion under state management. The Directorate of Religious Affairs (Diyanet), established in 1924 under Article 136 of the constitution, supervises all mosques, employs and trains imams, approves sermon content, and manages religious education. The mainstream Hanafi school of Sunni Islam is entirely organized by the state.
+سکولاریسمِ ترکیه، که توسط اصلاحات کمال‌آتاتورک در دهه‌ای ۱۹۲۰ تأسیس شد، بنیادین‌طور متفاوت از لائیسیته اروپایی یا جداسازیِ امریکایی است. به‌جای حذفِ دین از زندگی عمومی، مدلِ ترکیه دین را تحت مدیریتِ دولت قرار داد. اداره‌ی کل امورِ دینی (دیانت)، که در سال ۱۹۲۴ تحت مادهٔ ۱۳۶ قانون‌اساسی تأسیس شد، بر تمام مساجد نظارت می‌کند، اماما‌ها را منصوب و آموزش می‌دهد، محتوای خطبه را تصویب می‌کند، و آموزشِ مذهبی را مدیریت می‌کند. مدرسهٔ حنفی‌ی اصلیِ اسلامِ سنی به‌طور کامل توسط دولت سازمان‌یافته است.
 
-This represents *control* rather than *separation*. The Diyanet's 2025 budget exceeds that of several Turkish ministries combined. It employs over 100,000 personnel. Its function is to define and enforce a state-sanctioned version of Islam while marginalizing alternatives — Alevi Muslims, Sufi orders, and non-Sunni communities have historically been excluded from or poorly served by this framework.
+این نمایندگی *کنترل* است، نه *جداسازی*. بودجهٔ سال ۲۰۲۵ دیانت از بسیاری از وزارتخانه‌های ترکیه بیشتر است. این موسسه بیش از ۱۰۰,۰۰۰ پرسنل منصوب می‌کند. عملکردش تعریف و اعمالِ نسخهٔ دولتی‌سرپرستی‌شدهٔ اسلام است در‌حالی‌که جایگزین‌ها را حاشیه‌ای می‌کند — مسلمانان علوی، سفارش‌های صوفیانه، و جوامعِ غیرسنی به‌طورِ تاریخی از این چارچوب حذف‌شده یا ضعیف‌خدمت‌شده‌اند.
 
-The AKP era (2002-present) has reinterpreted this control model. Under Erdogan, the Diyanet has expanded its role, state-sponsored religious education has increased, headscarf restrictions have been lifted, and religious conservative values have been promoted through state institutions. Yet a 2015 poll found that over 80% of Turkish citizens — including AKP voters — still supported Turkey's continuation as a secular state. This suggests a popular consensus that transcends partisan politics: Turks want religion in public life but do not want theocratic governance.
+دورهٔ AKP (۲۰۰۲ تاکنون) این مدلِ کنترلی را دوباره‌تعریف کرده است. تحت اردوغان، دیانت نقش‌خود را گسترش داده است، آموزشِ مذهبی دولتی‌پشتیبانی‌شدهٔ افزایش یافته است، محدودیت‌های روسری برداشته شده‌اند، و ارزش‌های محافظه‌کار مذهبی توسط نهادهای دولتی تشویق شده‌اند. با‌این‌حال، یک نظرسنجی سال ۲۰۱۵ یافت که بیش‌از ۸۰ درصد از شهروندانِ ترکیه‌ای — از جملهٔ رأی‌دهندگانِ AKP — هنوز ادامهٔ ترکیه به‌عنوان دولتی سکولار را حمایت می‌کردند. این پیشنهاد می‌دهد که اجماعی عمومی در فراتر از سیاست‌های حزبی وجود دارد: ترک‌ها می‌خواهند دین در زندگی عمومی باشد اما نمی‌خواهند حکومتِ تئوکراتیک.
 
-**Analytical Implication for Iran:** Turkey's experience reveals the danger of the "state control of religion" model: it creates an institutional infrastructure that can be captured by religious-political entrepreneurs (as the AKP has done), transforming state management of religion into state promotion of religion. For Iran, where the objective would be *reducing* religious authority's control over the state, importing a Turkish-style Diyanet model risks simply replacing clerical governance with bureaucratic religious management — a lateral move rather than genuine reform. The Turkish lesson is that institutional design must address not just the current relationship between religion and state but the *vulnerability* of that design to future capture.
+**پیامد تحلیلی برای ایران:** تجربهٔ ترکیه خطری را از مدلِ «کنترلِ دولتی دین» آشکار می‌کند: زیرساختِ نهادی ایجاد می‌کند که می‌تواند توسط کارآفرینانِ مذهبی‌سیاسی تسخیر شود (همچون AKP انجام داده است)، تبدیلِ مدیریت دولتی دین به تشویقِ دولتی دین. برای ایران، جایی که هدفِ *کاهشِ* کنترلِ اختیار مذهبی بر دولت است، درونِ‌سازی مدلِ دیانتی‌ای ترکیه خطرِ جایگزین‌کردن حکومتِ روحانی با مدیریتِ روحانیِ دولتی است — حرکتی جانبی تا‌نه اصلاح جامع. درسِ ترکیه این است که طراحیِ نهادی باید نه‌تنهای روابطِ کنونی دین و حکومت بلکه *آسیب‌پذیری* آن طراحی نسبت به تسخیرِ آینده را خاطرنشان کند.
 
-### Deep Dive 3: Indonesia's Pancasila — Inclusive Monotheism as Constitutional Foundation
+### تحلیل عمیق ۳: پانچاسیلای اندونزی — توحیدِ فراگیر به‌عنوان بنیادِ قانون‌اساسی
 
-Indonesia's Pancasila offers the most distinctive model of religion-state relations in the Muslim world. The first *sila* (principle) — "Belief in the One and Only God" (*Ketuhanan Yang Maha Esa*) — establishes monotheism as a state principle without specifying Islam. This was a deliberate compromise: the original Jakarta Charter (1945) included an obligation for Muslims to follow Sharia law, but Islamic leaders on the founding committee agreed to strike this language to prevent national division in the world's most religiously diverse Muslim-majority country.
+پانچاسیلای اندونزی متفاوت‌ترین مدل روابطِ دین و حکومت را در جهانِ اسلامی ارائه می‌دهد. سیلای نخست (اصل) — «باورِ به خدای یکتا و تنها» (*کتوهانان یانگ ماهاٌ اسا*) — توحید را به‌عنوان اصلِ دولتی بدونِ تعیینِ اسلام ایجاد می‌کند. این سازش‌پذیری عمدی بود: منشور جاکارتای اصلی (۱۹۴۵) شامل تعهدی برای مسلمانان پیرویِ از حقِ شریعت بود، اما روحانیانِ اسلامی در کمیتهٔ تأسیس‌کننده توافق کردند این زبان را حذف کنند تا از تقسیمِ ملی در متنوع‌ترین کشورِ اسلام‌پذیری‌شدهٔ جهان جلوگیری کنند.
 
-In 1952, the Ministry of Religious Affairs broadened the interpretation of monotheism to accommodate Confucian, Buddhist, and Hindu communities, establishing six officially recognized religions: Islam, Catholicism, Protestantism, Hinduism, Buddhism, and Confucianism. This pluralist framework is maintained by Indonesia's two massive Islamic civil society organizations: Nahdlatul Ulama (NU, "traditionalist," approximately 40 million members) and Muhammadiyah ("reformist," approximately 30 million members), which together provide a social infrastructure for Islamic values within a pluralist democratic framework.
+در سال ۱۹۵۲، وزارتخانهٔ امورِ مذهبی تفسیرِ توحید را به‌منظورِ برآوردن جوامعِ کنفوسیانی، بودایی، و هندو گسترش داد، شش دین رسمی‌شناخته‌شده را تأسیس کرد: اسلام، کاتولیسیسم، پروتستانتیسم، هندوئیسم، بودیسم، و کنفوسیانی‌گری. این چارچوبِ پلورالیستی توسط دو نهادِ مدنیِ عظیمِ اسلامیِ اندونزی حفظ می‌شود: نهضه‌الٌ عُلَماء (NU، «سنت‌پرست»، تقریباً ۴۰ میلیون عضو) و محمدیہ («احتهادی»، تقریباً ۳۰ میلیون عضو)، که به‌طورِ یکجا زیرساختِ اجتماعی را برای ارزش‌های اسلامی درونِ چارچوبِ دموکراتیک پلورالیستی فراهم می‌کنند.
 
-However, the Pancasila model has significant limitations. Religious minorities outside the six recognized faiths — including indigenous religions and heterodox Islamic movements like Ahmadiyya — face legal discrimination. Blasphemy laws are used to suppress religious dissent. And the model's dependence on two massive civil society organizations creates a structural vulnerability: if NU and Muhammadiyah shift toward exclusivism, the institutional framework has limited countervailing capacity.
+با‌این‌حال، مدلِ پانچاسیلا محدودیت‌های قابل‌توجهی دارد. اقلیت‌های مذهبی خارج از شش ایمان رسمی‌شناخته‌شدهٔ — از جملهٔ ادیان بومی و حرکات اسلامی غیرمتعارف همچون احمدیہ — تبعیضِ قانونی را تجربه می‌کنند. قوانینِ تهدیدِ دین برای سرکوب بیانات مذهبی مورد‌استفاده قرار می‌گیرند. و اتکایِ مدل بر دو نهادِ مدنیِ عظیم آسیب‌پذیری ساختاری را ایجاد می‌کند: اگر NU و محمدیہ بهسوی انحصارِ مذهبی حرکت کنند، چارچوبِ نهادی ظرفیتِ مقابل‌کننده محدود دارد.
 
-**Analytical Implication for Iran:** Pancasila's inclusive monotheism offers a conceptual template for a society where religion is deeply embedded in national identity but religious diversity exists. Iran's religious landscape includes Shi'a and Sunni Muslims, Baha'is, Christians, Jews, Zoroastrians, and a growing secular/non-religious population. An Iranian "Pancasila" — constitutionally affirming spiritual values without specifying Islamic law as the governance framework — could provide an inclusive foundation. However, Indonesia's experience with six "recognized" religions also demonstrates the risk of creating a hierarchy of legitimate and illegitimate faiths. For Iran's Baha'i community (estimated 300,000+), currently denied legal recognition entirely, any framework that conditions religious freedom on state "recognition" would perpetuate discrimination in a new form.
+**پیامد تحلیلی برای ایران:** توحیدِ فراگیرِ پانچاسیلا الگویِ مفهومی‌ای را برای جامعه‌ای ارائه می‌دهد جایی که دین عمیقاً درون هویت ملی تعبیه شده اما تنوعِ مذهبی وجود دارد. منظرِ مذهبی ایران شامل مسلمانان شیعه و سنی، بهائیان، مسیحیان، یهودیان، زرتشتیان، و جمعیتی فزایندهٔ سکولار/غیر‌مذهبی است. پانچاسیلای ایرانی — تصریح قانون‌اساسی به‌عنوان ارزش‌های روحانی بدونِ تعیینِ حقِ اسلامی به‌عنوان چارچوبِ حکومتی — می‌تواند بنیادی فراگیر فراهم کند. با‌این‌حال، تجربهٔ اندونزی با شش دین «رسمی‌شناخته‌شده» خطرِ ایجادِ سلسله‌مراتب ایمان‌های شرعی و غیرشرعی را نیز نشان می‌دهد. برای جمعیتِ بهائی‌ایران (برآورد‌شدهٔ بیش‌از ۳۰۰,۰۰۰)، در حال‌حاضر رسمی‌شناختِ قانونی کاملاً سلب‌شدهٔ، هر چارچوبی که آزادی مذهبی را به شرطِ دولتی «رسمی‌سازی» بندی می‌کند، تبعیضِ‌را در شکل نو دوام می‌بخشید.
 
-### Deep Dive 4: Velayat-e Faqih — Iran's Unique Institutional Challenge
+### تحلیل عمیق ۴: ولایتِ فقیه — چالشِ نهادی منحصربه‌فرد ایران
 
-Iran's *velayat-e faqih* (Guardianship of the Islamic Jurist) system is unique in the Muslim world. No other country institutionalizes permanent religious juristic authority over all state functions. Khomeini's innovation went beyond traditional Shi'a quietism (which held that clerics should advise but not govern) to argue that righteous Islamic jurists should directly administer state affairs until the return of the Twelfth Imam.
+سیستمِ *ولایت فقیه* (سرپرستی فقیه اسلامی) ایران درونِ جهانِ اسلامی منحصربه‌فرد است. هیچ کشورِ دیگری اختیار قضائیِ مذهبی جاودانی بر تمام عملکردهای دولت را نهادینه‌سازی نمی‌کند. نوآوری خمینی فراتر از سکوت سنتی شیعه (که معتقد بود روحانیان باید نصیح کنند اما حکومت نکنند) رفت تا استدلال کند که قاضیان اسلامی درستکار باید تا بازگشتِ امام دوازدهم مستقیماً امورِ دولت را اداره کنند.
 
-The Guardian Council, the primary institutional expression of this principle, comprises 12 members: 6 Islamic jurists appointed by the Supreme Leader and 6 lawyers nominated by the chief justice (who is himself appointed by the Supreme Leader, giving the Leader effective control over the entire body). Research covering 1980-2015 shows the Guardian Council approved over 80% of parliamentary legislation overall — but during the reformist period (2000-2004), the approval rate dropped to 75.9%, with the Council rejecting 17 of 44 parliamentary decisions (38.6%) in one six-month period. The Council's veto power is not merely theoretical: it is exercised regularly and strategically, particularly when reform-minded parliaments are elected.
+شورای نگهبان، اولیِ تجسمِ نهادی این اصل، شامل ۱۲ عضو است: ۶ قاضی اسلامی منصوبِ توسط رهبرِ عالی و ۶ حقوق‌دان نامزدِ توسط رئیسِ قضایی (که خود توسط رهبرِ عالی منصوب می‌شود، کنترلِ موثرِ رهبرِ را بر تمامِ نهاد دست‌بدهی می‌دهد). تحقیق پوششِ سال‌های ۱۹۸۰ تا ۲۰۱۵ نشان می‌دهد که شورای نگهبان بیش‌از ۸۰ درصد از قانون‌گذاریِ پارلمانی کل را تصویب کرد — اما در دورهٔ اصلاح‌طلبی (۲۰۰۰ تا ۲۰۰۴)، نرخِ تصویب تا ۷۵.۹ درصد کاهش یافت، با شورا ۱۷ تصمیمِ پارلمانی از ۴۴ را (۳۸.۶ درصد) در یک دورهٔ شش‌ماهی رد کرد. قدرتِ نقضِ شورا نه‌تنهای تئوری است: به‌طورِ منظم و استراتژیک اعمال می‌شود، به‌خصوص هنگام‌ی‌که پارلمان‌های اصلاح‌طلبِ انتخابی می‌شوند.
 
-Beyond legislative veto, the Guardian Council's *approbatory supervision* of elections — vetting and disqualifying candidates for the presidency, parliament, and Assembly of Experts — represents a constitutional power without parallel in any other political system. In the 2024 presidential election, for example, the Council approved only 6 of 80 registered candidates.
+فراتر از نقضِ قانون‌گذاری، نظارتِ «تأییدی» شورای نگهبان — بررسی و محرومِ‌کردن نامزدها برای ریاست‌جمهوری، پارلمان، و مجمعِ خبرگان — نمایندگیِ قدرتِ قانون‌اساسی بدون‌موازی در هر سیستمِ سیاسیِ دیگر است. درمثالِ انتخاباتِ ریاست‌جمهوری سال ۲۰۲۴، شورا تنهای ۶ از ۸۰ نامزدِ ثبت‌شدهٔ را تصویب کرد.
 
-**Analytical Implication for Iran:** The institutional architecture of *velayat-e faqih* cannot be reformed incrementally — it is structurally designed to resist reform through the very veto mechanisms that reform would need to remove. This creates a catch-22: legislative reform requires Guardian Council approval, but the Guardian Council will not approve legislation that reduces its own power. This is why the comparative literature on constitutional transitions emphasizes extra-constitutional moments (revolution, negotiated transition, popular referendum) as the mechanisms through which such structures are replaced. The South Korean model (popular pressure forcing elite concession) and the Spanish model (negotiated transition with external anchoring) both offer procedural templates, but neither faced the specific challenge of dismantling a theocratic veto structure.
+**پیامد تحلیلی برای ایران:** معماری نهادی *ولایت فقیه* نمی‌تواند به‌طورِ تدریجی اصلاح شود — به‌طور ساختاری برای مقاومت در برابر اصلاح از طریق همان مکانیسم‌های نقض‌ناپذیری طراحی‌شده‌ای که اصلاح نیاز‌دار آن‌ها است. این معضلِ ۲۲ را ایجاد می‌کند: اصلاحِ قانون‌گذاری نیاز‌دار تصویب شورای نگهبان است، اما شورای نگهبان قانونی را که قدرت‌های خود را کاهش دهد تصویب نخواهد کرد. این دلیلی است که ادبیاتِ تطبیقی بر گذارهای قانون‌اساسی بر لحظه‌های فوق‌قانون‌اساسی (انقلاب، گذار مذاکره‌شدهٔ، رفراندم عمومی) تأکید می‌کند به‌عنوان مکانیسم‌هایی که از طریق آن‌ها ساختارهای چنین جایگزین می‌شوند. مدلِ کرهٔ جنوبی (فشارِ عمومی جبرِ تنازل سران) و مدلِ اسپانیایی (گذارِ مذاکره‌شدهٔ با تثبیتِ خارجی) هردو الگوهای رویهٔ‌ای ارائه می‌دهند، اما نه‌یکی با چالشِ خصوص‌دار از بین‌بردن ساختارِ نقضِ تئوکراتیک روبه‌رو بود.
 
-### Deep Dive 5: Stepan's "Twin Tolerations" and the Post-Theocratic Challenge
+### تحلیل عمیق ۵: «تساهل دوگانه» استپان و چالشِ پس‌از‌تئوکراتیک
 
-Alfred Stepan's "twin tolerations" framework, introduced in his foundational 2000 *Journal of Democracy* article, provides the most useful analytical lens for Iran's religion-state question. Stepan defines twin tolerations as the minimal boundaries of freedom of action between political institutions and religious authorities: religious citizens must grant elected officials freedom to legislate without religious vetoes, and the state must permit religious citizens to freely express values and participate in politics.
+چارچوبِ «تساهل دوگانه» الفرد استپان، که در مقالهٔ بنیادینِ سال ۲۰۰۰ *مجلهٔ دموکراسی* معرفی‌شد، عدسیِ تحلیلی مفیدترین را برای پرسشِ روابطِ دین و حکومتِ ایران فراهم می‌کند. استپان تساهل دوگانه را به‌عنوان مرزهای بنیادی آزادی عملکرد میان نهادهای سیاسی و مقامات مذهبی تعریف می‌کند: شهروندانِ مذهبی باید مقام‌اندارانِ انتخابی را آزادی برای قانون‌گذاری بدونِ نقض‌ناپذیری مذهبی بدهند، و دولت باید شهروندانِ مذهبی را برای بیانِ آزاد ارزش‌ها و مشارکتِ سیاسی اجازه دهد.
 
-Stepan developed this framework explicitly as an alternative to European secularization theory, arguing that "twin tolerations" transcends the Western-centric concept of "secularism" and accommodates the diverse institutional arrangements through which Muslim-majority societies have achieved reciprocal respect between religion and politics. His empirical focus on Turkey, Indonesia, and Senegal demonstrated that Islam-democracy compatibility is not theoretical but demonstrated in functioning polities.
+استپان این چارچوب را بنیادین‌طور برای جایگزینی برای نظریهٔ سکولاریزاسیونِ اروپایی توسعه داد، استدلال می‌کند که «تساهل دوگانه» مفهومِ «سکولاریسم» مرکز‌غرب‌گریای را فراتر می‌رود و جاهای نهادی متنوع را برای حقیقت‌آوردن احترام متقابل میان دین و سیاست برای جوامع اسلام‌پذیر با‌هم سازگار می‌سازد. تمرکزِ تجربی‌اش بر ترکیه، اندونزی، و سنگال نشان داد که سازگاری اسلام و دموکراسی نه تئوری بلکه در بنیادهای فعال نشان‌داده‌شده است.
 
-The framework was subsequently applied to Tunisia by Stepan and Linz, who showed how the 2014 Constitution negotiated reciprocal toleration between religious and political domains. However, Tunisia's subsequent democratic backsliding under Saied (who suspended parliament in 2021 and rewrote the constitution in 2022) reveals a critical limitation of the framework: twin tolerations describe an *outcome* but do not specify the *institutional mechanisms* that sustain it over time.
+چارچوب بعداً توسط استپان و لینز برای تونس اعمال شد، چگونگی مذاکرهٔ قانون‌اساسیِ ۲۰۱۴ احترام متقابل میان حوزهٔ مذهبی و سیاسی را نشان داد. با‌این‌حال، عقب‌نشینی دموکراتیک تونس پس‌از‌۲۰۱۴ تحت سعید (که پارلمان را در سال ۲۰۲۱ تعلیق کرد و قانون‌اساسی را در سال ۲۰۲۲ بازنوشت کرد) محدودیت انتقادی چارچوب را آشکار می‌کند: تساهل دوگانه نتیجهٔ را توصیف می‌کند اما مکانیسم‌های نهادی را که آن را در طول زمان حفظ می‌کنند مشخص نمی‌کند.
 
-**Analytical Implication for Iran:** The twin tolerations framework is the most applicable analytical concept for Iran because it avoids both the maximalist secularism that would alienate Iran's religious population and the Islamic governance model that has produced four decades of theocratic authoritarianism. However, operationalizing twin tolerations in a *post-theocratic* context — where religious institutions have been deeply compromised by political power and much of the population has developed anti-clerical sentiment precisely because of this fusion — presents a challenge the framework does not address. Iran would need to achieve twin tolerations not from a position of religion-state separation (as in Turkey or Indonesia) but from a position of religion-state fusion, requiring simultaneous institutional restructuring and cultural reorientation. The seminary system, the Friday Prayer network, the religious endowments (awqaf), and the theological academies would all need to be reconstituted as autonomous religious institutions rather than state governance apparatus.
+**پیامد تحلیلی برای ایران:** چارچوبِ تساهل دوگانه مفهومِ تحلیلی قابل‌اعمالِ ترین برای ایران است زیرا هم سکولاریسمِ بیشینه‌ای که جمعیتِ مذهبی ایران را دور می‌کند و هم مدلِ حکومتِ اسلامی که چهار دهٔ ستم‌کاری تئوکراتیک را تولید کرده است از هم می‌جدای. با‌این‌حال، عملی‌کردن تساهل دوگانه درمتنی *پس‌از‌تئوکراتیک* — جایی که نهادهای مذهبی عمیقاً توسط قدرت سیاسی کثیف‌شده‌اند و بسیاری از جمعیت احساسِ ضد‌روحانی را دقیقاً به‌سبب این همجوشی توسعه‌داده‌اند — چالشی را ارائه می‌دهد که چارچوب ناپرداخت است. ایران باید تساهل دوگانه را نه از موضعِ جداسازیِ دین و دولت (همچون ترکیه یا اندونزی) بلکه از موضعِ همجوشی دین و دولت حقیقی‌سازی کند، نیازمندِ بازسازی نهادی و جهت‌گیری فرهنگی همزمان. سیستمِ حوزه، شبکهٔ نماز جمعه، وقف‌های مذهبی (اوقاف)، و اکادمی‌های الهیاتی همگی باید به‌عنوان نهادهای مذهبی خودمختار بازسازی شوند تا‌نه دستگاه‌های حکومتی.
 
-### Deep Dive 6: Post-Theocratic Transitions — An Uncharted Territory
+### تحلیل عمیق ۶: گذارهای پس‌از‌تئوکراتیک — منطقهٔ نامکشوفی
 
-Perhaps the most striking finding from the deep research is a negative one: **there are no documented historical examples of successful transitions from theocracy to democracy.** Iran 1979 represents the opposite trajectory — from secular monarchy to theocracy. The historical record shows transitions from monarchy to democracy, from military rule to democracy, from one-party states to democracy, and from communist states to democracy — but not from theocracy to democracy.
+شاید قابل‌توجه‌ترین یافتهٔ تحقیقِ عمیق منفی است: **هیچ نمونهٔ موثقِ تاریخی از گذارِ موفق از تئوکراسی به دموکراسی وجود ندارد.** ایران سال ۱۹۷۹ مسیرِ مقابل را نشان می‌دهد — از سلطنت سکولار به تئوکراسی. سوابقِ تاریخی نشان می‌دهد گذارها از سلطنت به دموکراسی، از حکومتِ نظامی به دموکراسی، از حکومت‌های یک‌حزبی به دموکراسی، و از حکومت‌های کمونیستی به دموکراسی — اما نه از تئوکراسی به دموکراسی.
 
-This absence is not because theocracies are inherently permanent. Massachusetts Bay Colony transitioned from Puritan theocracy to secular governance. The Papal States lost temporal power. Tibet's theocratic governance ended (by external conquest). But none of these involved a democratic transition in the modern sense: a negotiated or revolutionary transfer of authority from theocratic institutions to elected civilian government with constitutional protections for religious freedom.
+این نبودِ این‌نیست که تئوکراسی‌ها ذاتاً دائمی هستند. مستیوست‌شٌتسِ بی‌کالونی از تئوکراسیِ پیوریتن به حکومتِ سکولار گذار کرد. دولت‌های پاپی قدرتِ زمانی را از دست دادند. حکومتِ تئوکراتیک تبت پایان یافت (توسط فتح خارجی). اما هیچ‌یک از اینها گذاری دموکراتیک را در معنای مدرن شامل نبود: انتقالِ مذاکره‌شدهٔ یا انقلابی‌ اختیار از نهادهای تئوکراتیک به حکومتِ غیرنظامی انتخابی با محافظت‌های قانون‌اساسی برای آزادی مذهبی.
 
-Iran would therefore be a *first-mover* case — designing institutions for a post-theocratic transition without the benefit of direct precedent. The nearest analogues are transitions from ideological one-party states (communist transitions in Eastern Europe), where the entire institutional apparatus was structured around an official ideology that the transition repudiated. The lustration experience (Czech Republic, Hungary, Poland) is relevant here: how do you staff a post-ideological state when the existing cadre has been trained in the ideology you are replacing?
+ایران بنابراین موردِ *اولین‌بار* خواهد بود — طراحی نهادها برای گذاری پس‌از‌تئوکراتیک بدونِ فایدهٔ سابقهٔ مستقیم. قیاس‌های نزدیک‌تر گذارهای پس‌از‌دولت‌های یک‌ایدئولوژیانهٔ (گذارهای کمونیستی در اروپای شرقی) هستند، جایی که تمامِ دستگاه نهادی درونِ ایدئولوژیِ رسمی ساختار یافته‌ای بود که گذار انکار می‌کرد. تجربهٔ دفع (جمهوری چک، مجارستان، لهستان) در اینجا مرتبط است: چگونه یک دولتِ پس‌ایدئولوژیک را برای‌کار کنید هنگام‌ی‌که کادرِ موجود درون ایدئولوژیِ جایگزینی آموزش‌دیده‌است؟
 
-**Analytical Implication for Iran:** The absence of precedent means that Iran's transition, if and when it occurs, will require institutional innovation rather than template adoption. Comparative evidence from all other transition types can inform the process — Spain's consensus model, South Korea's popular pressure, Tunisia's civil society mediation, Indonesia's inclusive pluralism — but the specific challenge of dismantling theocratic institutional authority while preserving religious freedom and social cohesion has no ready-made solution. This strengthens the case for Arato's post-sovereign model: a two-stage process that first establishes procedural ground rules through negotiation and only then attempts the substantive constitutional settlement. The roundtable stage would need to include not only political parties and civil society but representatives of the seminary system, the marja'iyya (Shi'a religious authority structure independent of state institutions), and religious minority communities — all with guaranteed voice in designing the new religion-state relationship.
+**پیامد تحلیلی برای ایران:** نبودِ سابقه بدین معنی است که گذارِ ایران، اگر و هنگام‌ی‌که رخ دهد، نیازمندِ نوآوری نهادی نه الگو‌بردی است. شواهدِ تطبیقی از تمامِ انواعِ گذار دیگر فرآیندِ را می‌تواند آگاه کند — مدلِ اجماعِ اسپانیایی، فشارِ عمومیِ کرهٔ جنوبی، میانجی‌گری جمعیتِ مدنیِ تونسی، پلورالیسمِ فراگیر اندونزی — اما چالشِ خصوص‌دارِ از بین‌بردن اختیارِ نهادی تئوکراتیک در‌حالی‌که آزادی مذهبی و انسجامِ اجتماعی را حفظ می‌کنند حل‌شدهٔ آمادهٔ ندارد. این موردِ مدلِ پس‌حاکمیتِ آراتو را تقویت می‌کند: فرآیندِ دومرحله‌ای که نخست قوانینِ مرجعی را از طریق مذاکره تأسیس می‌کند و تنهای پس‌ازآن تسویهٔ قانون‌اساسیِ اساسی را تلاش می‌کند. مرحلهٔ میزِ گرد نیاز‌دار شامل نه‌تنهای احزابِ سیاسی و جمعیتِ مدنی بلکه نمایندگانِ سیستمِ حوزه، مرجعیتِ (ساختارِ اختیار مذهبیِ شیعهٔ مستقل از نهادهای دولت)، و جوامع اقلیتِ مذهبی است — همگی با سخن تضمین‌شدهٔ درطراحی روابطِ دین و حکومتِ نو.
 
-### Connecting Threads
+### رشته‌های پیوندی
 
-Five threads emerge from these deep dives:
+پنج رشته از این تحلیل‌های عمیق برآمده است:
 
-1. **No single religion-state model fits all.** Turkey (state control), Tunisia (cooperative separation), Indonesia (inclusive monotheism), Morocco (royal religious authority), and Iran (jurist guardianship) represent fundamentally different institutional arrangements. Iran's post-transition design must be indigenous, not imported.
+۱. **هیچ مدلِ دین و حکومت یکتا برای تمامی موارد مناسب نیست.** ترکیه (کنترلِ دولتی)، تونس (جداسازی تعاونی)، اندونزی (توحیدِ فراگیر)، مراکش (اختیار مذهبیِ سلطنتی)، و ایران (سرپرستیِ فقیهی) نمایندگیِ ترتیباتِ نهادی بنیادین‌طور متفاوتی هستند. طراحیِ پس‌گذار ایران باید بومی باشد، نه درونِ‌آمده.
 
-2. **Islamist parties can evolve — but institutional incentives matter.** Ennahda's transformation from Islamist movement to "Muslim democratic" party, culminating in the 2016 separation of religious and political activities (93.5% delegate vote), demonstrates that ideological evolution is possible when democratic competition creates incentives for compromise.
+۲. **احزابِ اسلام‌گرا می‌توانند تکامل یابند — اما انگیزه‌های نهادی اهمیت دارند.** تحولِ النهضه از حرکتِ اسلام‌گرایانه به حزبِ «دموکرات مسلمان»، به‌اوجِ جداسازی آزادی و سیاسی در سال ۲۰۱۶ (رأیِ نماینده ۹۳.۵ درصد)، نشان می‌دهد که تکاملِ ایدئولوژیک هنگام‌ی‌که رقابتِ دموکراتیک انگیزه برای سازش ایجاد می‌کند قابل‌اعمال است.
 
-3. **State control of religion creates capture vulnerability.** Turkey's Diyanet model shows that placing religion under state management creates institutional infrastructure that can be captured by religious-political entrepreneurs, transforming management into promotion.
+۳. **کنترلِ دولتی بر دین آسیب‌پذیری تسخیرِ را ایجاد می‌کند.** مدلِ دیانتِ ترکیه نشان می‌دهد که قرارِ دین تحت مدیریتِ دولت زیرساختِ نهادی ایجاد می‌کند که می‌تواند توسط کارآفرینانِ مذهبی‌سیاسی تسخیر شود، تبدیلِ مدیریت را به تشویق.
 
-4. **The twin tolerations framework needs institutional teeth.** Stepan's analytical lens describes the goal but not the mechanism. Tunisia achieved twin tolerations through the 2014 Constitution but lost them through Saied's 2021-2022 power grab. Any Iranian framework needs institutional enforcement mechanisms — constitutional court review, entrenched clauses, civil society monitoring — not just aspirational principles.
+۴. **چارچوبِ تساهلِ دوگانه نیاز‌دار دندان‌های نهادی است.** عدسیِ تحلیلی استپان هدفِ را توصیف می‌کند اما مکانیسمِ را نه. تونس تساهلِ دوگانه را از طریق قانون‌اساسیِ سال ۲۰۱۴ حقیقی‌سازی کرد اما آنها را از طریق تصرفِ قدرتِ سعید درسال‌های ۲۰۲۱ تا ۲۰۲۲ از دست داد. هر چارچوبِ ایرانی نیاز‌دار مکانیسم‌های اعمال نهادی است — بررسیِ دادرسی قانون‌اساسی، بندهای تعبیه‌شدهٔ، نظارتِ جمعیتِ مدنی — نه تنهای اصول مقصدی.
 
-5. **Iran faces an unprecedented challenge.** No theocracy has ever transitioned to democracy. Iran would be the first. This means institutional innovation is required — comparative evidence can inform but not determine the design. The strongest procedural template is Arato's post-sovereign two-stage model, adapted to include religious institutional stakeholders in the roundtable stage.
+۵. **ایران با چالشِ بی‌نظیری روبه‌روست.** هیچ تئوکراسی تاکنون به دموکراسی گذار کرده نیست. ایران نخستین خواهد بود. این بدین معنی است که نوآوریِ نهادی ضروری است — شواهدِ تطبیقی می‌تواند آگاه کند اما تعیین نه.
 
 ---
 
-## Sources
+## منابع
 
-| # | Author(s) | Year | Title | Case Study | Access |
-|---|-----------|------|-------|------------|--------|
-| 1 | Tamimi | 2001 | Rachid Ghannouchi: A Democrat within Islamism | Tunisia | abstract |
-| 2 | Zeghal | 2013 | Competing Ways of Life: Islamism, Secularism, and Public Order in the Tunisian Transition | Tunisia | abstract |
-| 3 | Sapsford et al. | 2017 | Corruption, Trust, and the Impact on Political Values in MENA Societies | Tunisia | abstract |
-| 4 | Lust | 2011 | Why the Third Wave Did Not Democratize the Muslim World | Comparative | abstract |
-| 5 | Künkler | 2012 | Religion-State Models from the Democratizing Muslim World: Lessons for Egypt and Tunisia | Comparative | abstract |
-| 6 | Souto Paz | 2001 | Religious Freedom and the Transition from Confessional State to Pluralism in Spain | Spain | abstract |
-| 7 | Stepan | 2000 | Religion, Democracy, and the "Twin Tolerations" | Comparative | abstract |
-| 8 | Stepan & Linz | 2013 | Democratization Theory and the "Arab Spring" | Tunisia | abstract |
-| 9 | Arato | — | Post-Sovereign Constitutional Making | Comparative | abstract |
+| # | نویسنده(گان) | سال | عنوان | مطالعه موردی | دسترسی |
+|---|-------------|------|-------|-------------|--------|
+| 1 | Tamimi | 2001 | Rachid Ghannouchi: A Democrat within Islamism | تونس | abstract |
+| 2 | Zeghal | 2013 | Competing Ways of Life: Islamism, Secularism, and Public Order in the Tunisian Transition | تونس | abstract |
+| 3 | Sapsford et al. | 2017 | Corruption, Trust, and the Impact on Political Values in MENA Societies | تونس | abstract |
+| 4 | Lust | 2011 | Why the Third Wave Did Not Democratize the Muslim World | تطبیقی | abstract |
+| 5 | Künkler | 2012 | Religion-State Models from the Democratizing Muslim World: Lessons for Egypt and Tunisia | تطبیقی | abstract |
+| 6 | Souto Paz | 2001 | Religious Freedom and the Transition from Confessional State to Pluralism in Spain | اسپانیا | abstract |
+| 7 | Stepan | 2000 | Religion, Democracy, and the "Twin Tolerations" | تطبیقی | abstract |
+| 8 | Stepan & Linz | 2013 | Democratization Theory and the "Arab Spring" | تونس | abstract |
+| 9 | Arato | — | Post-Sovereign Constitutional Making | تطبیقی | abstract |
 
 
-## Sources Used
-
-- [Perspectives on Religious Freedom in Spain](../explorer/?id=369)
-- [Rachid Ghannouchi](../explorer/?id=717)
-- [Missing the Third Wave: Islam, Institutions, and Democracy in the Middle East](../explorer/?id=685)
-- [Competing Ways of Life: Islamism, Secularism, and Public Order in the Tunisian Transition](../explorer/?id=713)
-- [Corruption, Trust, Inclusion and Cohesion in North Africa and the Middle East](../explorer/?id=706)
-- [Islam and the Arab awakening](../explorer/?id=728)
-- [Modernist Islamic Political Thought and the Egyptian and Tunisian Revolutions of 2011](../explorer/?id=731)
-- [Religion‐State Relations and Democracy in Egypt and Tunisia: Models from the Democratizing Muslim World – and their Limits](../explorer/?id=676)
-- [Tunisia: democracy and Islam in post-Arab Spring politics](../explorer/?id=742)
-- [Evoking Huntington: Albania’s Democratic Transition and the Revival of Religious Freedom](../explorer/?id=650)
-- [Religious Freedom and Secularism in Post-Revolutionary Tunisia](../explorer/?id=736)
-- [Secularism Confronts Islamism: Divergent Paths of Transitional Negotiations in Egypt and Tunisia](../explorer/?id=739)
-- [Islam and secularism in the Middle East](../explorer/?id=716)
-- [Democracy and Islam: Implications for Civilizational Conflict and the Democratic Peace](../explorer/?id=682)
-- [Transforming everyday life: Islamism and social movement theory](../explorer/?id=687)
-- [Citizenship Law in Africa. a Comparative Study](../explorer/?id=688)
-- [Political Islam: Theory](../explorer/?id=689)
-- [Contemporary Arab thought: studies in post-1967 Arab intellectual history](../explorer/?id=718)
-- [Re-thinking secularism in post-independence Tunisia](../explorer/?id=712)
-- [Islamism and secularism in North Africa](../explorer/?id=719)
-- [Turkey: Islam and Laicism between the interests of state, politics, and society](../explorer/?id=696)
-- [Islam and Institutional Religious Freedom in Indonesia](../explorer/?id=563)
-- [Nation and family: personal law, cultural pluralism, and gendered citizenship in India](../explorer/?id=720)
-- [Religious Institutions and Authoritarian States: church–state relations in the Middle East](../explorer/?id=704)
-- [The Implicit Sharia: Established Religion and Varietie of Secularism in Tunisia](../explorer/?id=714)
-- [Political Islam in Tunisia: the history of Ennahda](../explorer/?id=725)
-- [THE Making OF A Pancasila State:political Debates ON Secularism, Islam AND THE State IN Indonesia](../explorer/?id=727)
-- [The state and religion in the fundamentals of Islam and contemporary interpretation](../explorer/?id=722)
-- [The Normative Power of Secularism. Tunisian Ennahda's Discourse on Religion, Politics, and the State (2011–2016)](../explorer/?id=715)
-- [Tunisian intellectuals: responses to Islamism](../explorer/?id=733)
-- [The Sacred as Secular: State Control and Mosques Neutrality in Post-Revolutionary Tunisia](../explorer/?id=732)
-- [Islam and Democracy after the Arab Spring](../explorer/?id=741)
-- [Popular Protest in the New Middle East: Islamism and Post-Islamist Politics](../explorer/?id=738)
-- [Annual Review of the Sociology of Religion. Volume 12 (2021)](../explorer/?id=740)
-- [Dalla Transculturalità all'Islamicità? Il caso della Tunisia](../explorer/?id=734)
-- [Islamist Perceptions of US Policy in the Middle East](../explorer/?id=749)
-- [Christian Citizens in a Democratic State: Is a True Separation of Church and State Really Possible?](../explorer/?id=753)
-- [Dynamics of the Ethiopian Religious Landscape during Democratic Transition](../explorer/?id=658)
-- [Explaining the distinction between religious and political activism in Islamism: evidence from the Tunisian case](../explorer/?id=670)
-- [The Politicisation of Islam](../explorer/?id=744)
-- [Religious Freedom and Religious Equality in Western Democracies, 1990–2023: An Empirical Study of Government Policy and Societal Discrimination](../explorer/?id=651)
-- [The Defense of Religious Freedom in the Catholic Magazine Vida Nueva during a Catholic Confessional Dictatorship](../explorer/?id=659)
-- [Secularism under Dispute: Towards Agonistic, Pluralistic, and Democratic Politics. A Latin American Perspective](../explorer/?id=669)
-- [Confrontation and the Reconciliation Process among Islamists after the Arab Spring](../explorer/?id=684)
-- [John Locke’s “Unease”: The Theoretical Foundation of the Modern Separation of Church and State](../explorer/?id=755)
-- [Challenging the Gates: Religious Freedom and Access in South Africa's Theology Faculties](../explorer/?id=652)
-- [The Religious Legacy of Pope John Paul II during the Transition from the Communist Era](../explorer/?id=655)
-- [Democratic Fragility IN THE ERA OF Liquid Exception](../explorer/?id=662)
-- [Secularism and religion in Tunisia](../explorer/?id=737)
-- [Rainbows, Unicorns, and Separation of Church and State in the European Union](../explorer/?id=751)
-- [Freedom of Conscience and Separation of Church and State in Japan](../explorer/?id=752)
+</div>

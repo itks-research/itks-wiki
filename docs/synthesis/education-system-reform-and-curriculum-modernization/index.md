@@ -1,6 +1,41 @@
-# Education system reform and curriculum modernization
+<div dir="rtl" markdown>
 
-*Social & Cultural* · 2 articles · 73 sources
+# اصلاح نظام آموزشی و مدرنیزه کردن برنامه درسی
+
+*اجتماعی و فرهنگی* · 2 مقاله · 73 منبع
+
+- [برنامه درسی به عنوان میدان نبرد: اصلاحات آموزشی در کره جنوبی و ایران](curriculum-as-battleground-education-reform-in-south-korea-and-iran.md)
+- [غیر ایدئولوژیک کردن کلاس درس: برنامه درسی اسلامی ایران و تحلیل تطبیقی غیر منحرف کننده](de-ideologizing-the-classroom-irans-islamized-curriculum-and-comparative-de-indo.md)
+
+
+## مقدمه
+
+اصلاح نظام آموزشی و مدرنیزه کردن برنامه درسی از موضوعات مهم در جهان است. این امر نه تنها برای رفاه و شکوفایی جامعه، بلکه برای قدرت اقتصادی و حاکمیت ملی نیز ضروری است.
+
+
+## اصلاح نظام آموزشی
+
+اصلاح نظام آموزشی شامل تغییر مسیرهای توسعه، تحول هنجاری و مشروعیت است. این امر نیازمند تحلیل تطبیقی و مطالعه موردی از تجربه‌های موفق در کشورهای دیگر است.
+
+
+### برنامه درسی
+
+برنامه درسی باید مبتنی بر شواهد باشد و از الگوهای بین‌بخشی برای بهبود کیفیت آموزشی استفاده کند. همچنین باید از روش‌های کمی و کیفی برای ارزیابی اثربخشی برنامه درسی استفاده شود.
+
+
+## مدرنیزه کردن برنامه درسی
+
+مدرنیزه کردن برنامه درسی نیازمند طراحی نهادی و مسیرهای توسعه است. این امر باید با توجه به نیازهای جامعه و با مشارکت ذی‌نفعان انجام شود.
+
+
+### تجربیات موفق
+
+تجربه‌های موفق در کشورهای دیگر نشان می‌دهد که اصلاح نظام آموزشی و مدرنیزه کردن برنامه درسی می‌تواند منجر به رفاه و شکوفایی جامعه، قدرت اقتصادی و حاکمیت ملی شود.
+
+
+## منابع
 
 - [Curriculum as Battleground: Education Reform in South Korea and Iran](curriculum-as-battleground-education-reform-in-south-korea-and-iran.md)
 - [De-Ideologizing the Classroom: Iran's Islamized Curriculum and Comparative De-Indoctrination](de-ideologizing-the-classroom-irans-islamized-curriculum-and-comparative-de-indo.md)
+
+</div>

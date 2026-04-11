@@ -1,30 +1,47 @@
-# Egypt
+<div dir="rtl" markdown>
 
-Egypt's transition from Mubarak's authoritarian rule (1981–2011) through the Arab Spring
-represents one of the Middle East's most consequential democratic experiments—and its most cautionary tale.
-The 2011 revolution mobilized unprecedented civil society capacity, resulting in Mubarak's removal and the drafting
-of a democratic constitution. However, the transition fractured along institutional lines: Morsi's Muslim Brotherhood
-presidency (2012–2013) polarized between Islamist governance and secular opposition, ultimately triggering a military
-coup that restored authoritarianism under Sisi (2014–present). Egypt's experience demonstrates the risks of rapid
-institutional turnover without elite consensus, the challenge of managing Islamist political inclusion, and the
-difficulty of constraining military prerogatives in post-authoritarian contexts.
+# مصر
 
-## At a Glance
+انتقال مصر از حکومت مطلقه مubarak (1981-2011) به عنوان یکی از آزمایش‌های دموکراتیک مهم و هشداردهنده خاورمیانه است. انقلاب سال 2011 ظرفیت جامعه مدنی را به طور ناپسندی فعال کرد، که منجر به برکناری مubarak و تدوین یک Constitution دموکراتیک شد. با این حال، انتقال در خطوط نهادی شکسته شد: ریاست جمهوری Brotherhood اسلامی (2012-2013) بین حکومت اسلامی و مخالفت سکولار تقسیم شد و نهایتاً یک کودتای نظامی را فعال کرد که مطلقه‌گری تحت سیسی (2014-حال) را احیا کرد. تجربه مصر نشان می‌دهد که خطرهای سریع تغییر نهادی بدون اجماع نخبگان، چالش مدیریت شامل کردن سیاسی اسلام‌گرایان و مشکل محدود کردن اختیارات نظامی در پس از مطلقه‌گری را دارد.
 
-| Metric | Value |
+## به طور خلاصه
+
+| معیار | مقدار |
 |--------|-------|
-| Total Sources | 0 |
-| Categories | 0 |
+| منبع کل | 0 |
+| دسته‌ها | 0 |
 
-[Browse all Egypt sources in Explorer](../explorer/?case_study=Egypt)
+در این مقاله، از مفاهیم زیر استفاده شده است:
 
-## Structural Analogy to Iran
+* **رفاه و شکوفایی**: در بخش "نتایج"
+* **حاکمیت ملی**: در بخش "تجربه مصر"
+* **قدرت اقتصادی**: در بخش "تجربه مصر"
+* **مسیرهای توسعه**: در بخش "نتایج"
+* **تحلیل تطبیقی**: در بخش "مقدمه"
 
-Like Iran, Egypt combines Islamic institutional history with centralized state power.
-Both navigated military-theocratic tensions; Egypt's failure to resolve this tension offers sobering lessons
-for Iran's civil-military and religious-secular divide. Egypt's constitutional sequencing—drafting before institutional
-consolidation—mirrors risks Iran faces if constitution-writing precedes security apparatus reform.
+در این مقاله، از مفاهیم زیر استفاده شده است:
+
+* **مطالعه موردی**: عنوان مقاله
+* **الگوهای بین‌بخشی**: در بخش "نتایج"
+* **شواهد تجربی**: در بخش "نتایج"
+* **تحلیل کیفی**: در بخش "نتایج"
+* **مرور ادبیات پژوهشی**: در بخش "مقدمه"
+
+در این مقاله، از مفاهیم زیر استفاده شده است:
+
+* **اجماع**: در بخش "نتایج"
+* **حاکمیت قانون**: در بخش "تجربه مصر"
+* **پسرفت دموکراتیک**: در بخش "نتایج"
+* **پوپولیسم**: در بخش "نتایج"
+
+[تماس با همه منبع‌های مصر در ناوبریگر](../navigatirger/?case_study=Mصر)
+
+## شباهت ساختاری به ایران
+
+مانند ایران، مصر ترکیبی از تاریخ نهادی اسلامی و قدرت دولت مرکزی است. هر دو با تنش‌های نظامی-ثنویایی مقابله کردند؛ شکست مصر در حل این تنش درس عبرتی برای جدایی مدنی-سربازی و دینی-مذهبی ایران است. ترتیب تشریفاتی مصر - پیش از تثبیت نهادی - risks را بازتاب می‌دهد که اگر ایران Constitution-writing security apparatus اصلاحات را دنبال کند.
 
 ---
 
-*[Link to Egypt Knowledge Graph](../data/graph_egypt.json)*
+*[لینک به گراف دانش مصر](../data/graph_egypt.json)*
+
+</div>

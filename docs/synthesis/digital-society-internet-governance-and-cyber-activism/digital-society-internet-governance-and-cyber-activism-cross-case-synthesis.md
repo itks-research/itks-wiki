@@ -1,193 +1,122 @@
-> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (9 sources)
+# Digital Society, Internet Governance, and Cyber-Activism: Cross-Case Synthesis
+<!-- badges: digital-governance, internet-policy, activism -->
 
-## Evidence Base
+## خلاصه
 
-The research on Digital society, internet governance, and cyber activism reveals several consistent patterns across case studies. Drawing from key sources in this domain ([5457], [2020]), we observe that successful transitions in this area typically involve coordinated institutional changes, elite consensus on core objectives, and sequenced implementation to manage resistance from threatened groups.
+این ترکیب نقش فناوری دیجیتالی، حکمرانی اینترنت و فعالیت‌های سایبری در انتقال‌های سیاسی را بررسی می‌کند. با استفاده از مطالعات تطبیقی از موارد چند‌ملی—شامل ایران، چین، روسیه، بنگلادش و غرب بالکان—این ترکیب مکانیسم‌های زیرین را شناسایی می‌کند که از طریق آن فناوری دیجیتالی می‌تواند به عنوان ابزاری برای شفاف‌سازی، سازماندهی اجتماعی و تغییر سیاسی عمل کند. ایران به‌طور خاص یک موردمطالعه نافذ برای تقاطع بین سایبر‌نمایی و کنترل دولتی است: جمهوری اسلامی یکی از معمارهای تکنیکی سخت‌گیرانه‌ترین شبکه‌های جهان را ایجاد کرده است (Great Firewall ایرانی)، در حین حال تلگرام و VPN برای هزاران کاوشگری و فعالان اجتماعی تنها ابزارهایی برای شبکه‌سازی، جمع‌آوری اطلاعات و تنظیم اعتراض‌ات هستند. این ترکیب اثرات مختلفی را از جمله تقویت توان سمعه و عینک دید سیاسی، خطرات عدم تساوی دیجیتالی و نابرابری دسترسی، و تاثیری برای دولت‌هایی که به دنبال تثبیت کنترل و سلطه دیجیتالی هستند، شناسایی می‌کند.
 
-Cross-case analysis indicates that outcomes vary significantly based on: (1) strength of civil society institutions prior to reform, (2) degree of economic dependency on the sector being reformed, and (3) international pressure and external support for change. These patterns emerge consistently across the 9 sources reviewed, though with important contextual variations.
+## سیاق: دنیایی متصل شده و تقسیم‌های دیجیتالی
 
-Key mechanisms identified include institutional bargaining ([2021]), elite negotiation frameworks ([2019]), and gradual institutional adaptation. Evidence suggests that precipitous change without adequate preparation risks institutional breakdown, whereas overly gradual approaches allow reform opponents to mobilize resistance (Source [2020], [2021]).
+### حکمرانی اینترنت و کنترل دولتی
 
-> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (9 sources)
+تکنولوژی اینترنت—به‌ویژه پلتفرم‌های تجارتی و شبکه‌های اجتماعی—یکی از حوزه‌های رقابتی برتر بین دولت‌ها شده است. دولت‌ها در سراسر جهان با چالش متعارض مواجه هستند: چگونه اقتصاد دیجیتالی و نوآوری را تشویق کنیم، در حالی که نظارت، سرکوب و کنترل سیاسی را حفظ می‌کنیم؟
 
-## Cross-Cutting Patterns
+حکمرانی اینترنت برای ایران یک مسئله حساس است. جمهوری اسلامی به تدریج معمار شبکه‌های اینترنتی محدود و نیمه‌مستقل را توسعه داده است—یک سیاق که به‌عنوان «شبکه ملی اطلاعات» شناخته می‌شود. این شبکه می‌تواند از اینترنت جهانی جدا شود و سانسور اطلاعات ورودی و خروجی را تسهیل کند.
 
-Analysis across case studies reveals important patterns in how Digital society, internet governance, and cyber activism unfolds:
+اما این کنترل هزینه‌هایی دارد:
+- کاهش سرعت اینترنت و نوآوری فناوری
+- تحریک علیه دولت و آزادی بیان
+- فرار دانش‌پژوهان و متخصصان
 
-1. **Institutional Variation:** Different case studies show varied institutional mechanisms for achieving 
-similar outcomes. Where centralized decision-making enables rapid reform implementation, decentralized 
-systems require building broader consensus but generate more durable change.
+### فعالیت‌های سایبری و احتجاجات اجتماعی
 
-2. **Sequencing Matters:** The order of reforms significantly affects outcomes. Cases where preliminary 
-institutional capacity-building preceded substantive policy change showed higher success rates than 
-cases attempting simultaneous institutional and policy transformation.
+فعالیت‌های سایبری و استفاده از شبکه‌های اجتماعی در احتجاجات سیاسی یک پدیده نسبتاً جدید است. ایران در حرکت‌های اعتراضی مختلف (۲۰۰۹ به‌بعد) شاهد نقش بسیار مهم شبکه‌های دیجیتالی بوده است. تلگرام، اینستاگرام و توییتر برای هماهنگی و سازماندهی اعتراضات استفاده شدند. در سال‌های اخیر (۱۴۰۱-۱۴۰۲) فعالیت‌های سایبری و نزدیک‌شدن به حرکت «زن، زندگی، آزادی» نقش‌های برجسته‌ای داشتند.
 
-3. **International Context:** External factors—whether sanctions, alliances, or institutional pressure—
-significantly shape feasibility and trajectory. Countries with strong international partnerships 
-achieved outcomes different from those facing isolation or pressure.
+### نابرابری دیجیتالی و عدم دسترسی
 
-4. **Elite Consensus:** Successful cases consistently featured elite agreement on core objectives, 
-even when implementation diverged. Cases lacking this baseline consensus experienced reform reversal or 
-prolonged institutional gridlock.
+نه تمام نقاط جهان به طور یکسان به اینترنت دسترسی دارند. در ایران، دسترسی دیجیتالی عمدتاً در شهرهای بزرگ و میان جوانان و افراد تحصیل‌کرده متمرکز است. روستاهای دورافتاده و قشرهای کم‌درآمد از دسترسی محدودی برخوردارند. این نابرابری می‌تواند احتجاجات اجتماعی را به تقسیم‌های اجتماعی و جغرافیایی تقسیم کند.
 
-These patterns hold across diverse geographic, economic, and political contexts, suggesting some 
-underlying structural dynamics in how this category of change occurs.
+## مکانیسم‌ها: چگونه فناوری دیجیتالی تغییر سیاسی را تسهیل یا مانع می‌کند؟
 
-> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (9 sources)
+### مکانیسم ۱: شفاف‌سازی و ثبت شواهد
 
-## Implications for Iran
+شبکه‌های اجتماعی و فناوری‌های دیجیتالی (فیلم‌برداری با تلفن همراه، عکاسی، پادکست) اسناد خشونت دولتی، نقض حقوق بشر و سوء‌رفتار را امکان‌پذیر می‌کند. در ایران:
 
-The comparative evidence on Digital society, internet governance, and cyber activism offers several implications for Iran's potential transition:
+- ویدئوهای کتک‌خوردن معترضان توسط نیروهای انتظامی
+- شواهد فتوگرافی از بازداشت و شکنجه
+- ضبط‌های صوتی اعترافات اجباری
 
-**Contextual Assessment:** Iran shares key structural features with several case studies: 
-a resource-dependent economy, a military-political complex with extensive economic holdings, 
-religious institutional authority embedded in state structures, and international sanctions constraining 
-economic policy autonomy. These parallels suggest that mechanisms observed in comparable cases may be 
-plausible in Iran's context.
+این شواهد می‌تواند برای مقاصد حقوق‌بشری و شکایات بین‌المللی استفاده شود. با این حال، سانسور و کنترل دولتی بر انتشار و دسترسی به این شواهد کنترل می‌کند.
 
-**Critical Differences:** However, Iran's specific configuration differs in important ways. 
-The Velayat-e Faqih (Supreme Leader authority) creates a concentrated veto point with unique 
-theological-political foundations. The IRGC's economic integration is more extensive and constitutionally 
-embedded than in most comparison cases. And Iran's sanctions economy creates distinct constraints on 
-economic restructuring unavailable in the case studies reviewed.
+### مکانیسم ۲: سازماندهی و هماهنگی
 
-**Feasibility Assessment:** Evidence from this analysis suggests that change in Digital society, internet governance, and cyber activism 
-would likely require either (a) negotiated elite consensus that preserves core power structures while 
-reshaping their substance, or (b) a fundamental rupture with existing institutions. Intermediate 
-scenarios—where reform occurs through elite negotiation while maintaining revolutionary authority structures—
-are plausible based on Tunisia and Indonesia precedents, but face higher institutional resistance in Iran 
-given the theological-institutional depth of existing arrangements.
+شبکه‌های دیجیتالی برای سازماندهی احتجاجات، تجمع‌های اعتراضی و حتی شبکه‌های متقابل بین احزاب سیاسی استفاده می‌شوند. تلگرام و WhatsApp برای تنظیم موارد اعتراضی، توزیع کتاب‌های ممنوع و شبکه‌سازی سیاسی بسیار مهم هستند.
 
-> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (9 sources)
+اما دولت ایران نیز این ابزارها را برای نظارت استفاده می‌کند: بازداشت و پیگیری افرادی که از شبکه‌های دیجیتالی برای سازماندهی اعتراضات استفاده می‌کنند.
 
-## Iran-Specific Implications (Institutional Mapping & Transition Scenarios)
+### مکانیسم ۳: انتقال فرهنگی و ایدئولوژیکی
 
-### Institutional Mapping
+شبکه‌های دیجیتالی درباره نهادها، حقوق و آزادی‌های انسانی درون‌منترجم‌شده و در هم‌تنیده می‌کند. کتاب‌های ممنوع، فیلم‌های سیاسی و تقاریر حقوق‌بشری از طریق شبکه‌های دیجیتالی به گردش درمی‌آیند. این انتقال ایدئولوژیکی می‌تواند ذهن‌های سیاسی را تغییر دهد و مبنای فرهنگی برای تغییر دموکراتیک را تقویت کند.
 
-The following Iranian institutions are directly implicated by the comparative evidence on Digital society, internet governance, and cyber activism:
+### مکانیسم ۴: دیجیتالی‌سازی اقتصاد و توسعه
 
-- **Ministry of ICT**: [Role and current constraints]
-- **FATA (Forces, Facilities and Installations Administration) police**: [Role and current constraints]
-- **Supreme Council of Cyberspace**: [Role and current constraints]
-- **Revolutionary Guards (Cyber Force)**: [Role and current constraints]
-- **Ministry of Interior (NIN/SHOMA national ID system)**: [Role and current constraints]
+در طرف دیگر، حکمرانی انتقادی اینترنت و محدودسازی دسترسی به فناوری دیجیتالی آسیب‌های اقتصادی را ایجاد می‌کند: کاهش اقتصاد دیجیتالی، کاهش سرمایه‌گذاری در تحقیق و توسعه، و فرار سرمایه انسانی. ایران به دلیل تحریم‌های اقتصادی و محدودسازی فناوری به شدت دچار اقتصادی و تکنولوژیکی است. محدودسازی دسترسی به اینترنت این مشکلات را تشدید می‌کند.
 
+## نتایج: نتایج احتمالی در ایران
 
-### Structural Parallels
+### نتیجه ۱: تقویت حرکت‌های دموکراتیک و مدنی
 
-Comparing the transition mechanisms observed in case studies to Iran's institutional landscape:
+شبکه‌های دیجیتالی می‌توانند در ایران نقش‌های بسیار مهمی برای تقویت حرکت‌های دموکراتیک و حقوق بشر داشته باشند:
 
-- **Institutional Integration:** Iran's institutional challenges parallel those in countries with deep 
-military-political-economic fusion (Indonesia, South Korea). The IRGC's multi-faceted role—security, 
-economic, political—makes reform in Digital society, internet governance, and cyber activism contingent on elite negotiation across these domains.
+- شفاف‌سازی نقض‌های دولتی و خشونت
+- سازماندهی احتجاجات و تجمع‌های اعتراضی
+- انتقال مقاله‌های سیاسی و فرهنگی
+- تقویت شبکه‌های بین‌المللی و دسترسی دیاسپورا
 
-- **Veto Point Architecture:** Iran's Guardian Council and Velayat-e Faqih create dual veto points 
-(theological and institutional) that function differently than in case study countries. This creates 
-both greater barriers to change and—potentially—multiple negotiation pathways.
+### نتیجه ۲: خطر افزایش کنترل و سرکوب
 
-- **International Constraints:** Like cases with sanctions or isolation (South Korea under Park, 
-Tunisia under Ben Ali), Iran faces external constraints that shape what transitions are economically 
-feasible.
+با این حال، دولت ایران نیز از فناوری‌های دیجیتالی برای تقویت نظارت و کنترل استفاده می‌کند:
 
-### Key Actors & Stakeholders
+- پیگیری فعالان و فعالان سایبری
+- بلاک‌کردن برنامه‌ها و پلتفرم‌های دیجیتالی
+- تولید محتوای تبلیغاتی و سانسور
+- اخاذی و استفاده سیاسی بازداشت‌شدگان
 
-**Enablers of Change:**
-- Reformist factions within parliament and civil service
-- Diaspora communities (particularly relevant for brain-drain category)
-- International partners (if sanctions relief occurs)
-- Civil society networks
+### نتیجه ۳: نابرابری دیجیتالی و تقسیم‌های اجتماعی
 
-**Likely Blockers:**
-- IRGC and security apparatus
-- Conservative clergy
-- Beneficiaries of current arrangements
-- Regional allies dependent on status quo
+محدودسازی دسترسی دیجیتالی و نابرابری در اقتصاد دیجیتالی می‌تواند تقسیم‌های اجتماعی و جغرافیایی را تعمیق دهد:
 
-### Transition Scenarios
+- قشرهای کم‌درآمد و روستایی از دسترسی دیجیتالی محروم می‌مانند
+- اقتصاد دیجیتالی فقط برای شهرها و طبقات متوسط و بالا دسترس‌پذیر است
+- احتجاجات و فعالیت‌های سیاسی عمدتاً شهری و از طریق اینترنت می‌شود
 
-Based on comparative evidence, three plausible pathways emerge:
+### نتیجه ۴: فرصت‌های سرمایه‌گذاری و نوآوری
 
-**Scenario A (Negotiated Transition):**
-- Incremental change through elite consensus
-- Preserves core Guardian Council/Supreme Leader authority
-- Reforms substance while maintaining power structure
-- Timeline: 5-15 years
-- Probability based on comparative evidence: Moderate
+با بهبود حاکمیت اینترنت و آزادسازی سیاسی، ایران می‌تواند برای سرمایه‌گذاری و نوآوری دیجیتالی فرصت‌های بسیاری داشته باشد:
 
-**Scenario B (Rupture/Rapid Transition):**
-- Sudden institutional collapse and contested succession
-- Comprehensive institutional restructuring
-- High conflict risk
-- Timeline: 2-5 years
-- Probability: Lower, but transformative if occurs
+- توسعه اقتصاد دیجیتالی و فناوری
+- ایجاد شرکت‌های نوپا و استارت‌آپ
+- سرمایه‌گذاری بین‌المللی در حوزه فناوری
+- تقویت سرمایه انسانی و دانش‌پژوهش
 
-**Scenario C (Gradual Reform from Within):**
-- Change driven by internal reformist forces
-- No formal constitutional amendment
-- Uses existing institutional flexibility
-- Timeline: 10-20 years
-- Probability: High, given Iran's reformist precedent
+## ویژگی‌های خاص ایران و دیاسپورا
 
-### Risks and Sequencing
+### نقاط قوت
 
-**Sequencing Risks:**
-- Attempting policy change before institutional capacity exists (Indonesia trap)
-- Proceeding without elite consensus (Tunisia reversal dynamic)
-- International dependency creating vulnerability to external shocks
+1. **جوانی و آگاهی دیجیتالی**: جوانان ایران (شامل دیاسپورا) بسیار آگاه دیجیتالی و توانایی در استفاده از فناوری‌های دیجیتالی هستند. VPN، Tor و شبکه‌های محلی دیجیتالی برای آن‌ها ابزارهای روزمره‌ای هستند.
 
-**Critical Preconditions:**
-- Sanctions relief or managed sanctions regime (affects economic feasibility)
-- Internal elite consensus on boundaries of acceptable change
-- Civil society development to support new institutional arrangements
+2. **دیاسپورای فعال**: دیاسپورای ایران از میزان بالایی از حمایت برای حرکت‌های دموکراتیک برخوردار است. پیوندهای دیجیتالی می‌تواند میان دیاسپورا و فعالان داخلی تقویت شود.
 
-**Reform Reversibility:**
-Evidence suggests that changes in Digital society, internet governance, and cyber activism are highly reversible if not embedded in:
-1. New institutional procedures (not just policy directives)
-2. Elite consensus strong enough to survive leadership succession
-3. International agreements constraining reversal options
+3. **سرمایه انسانی در فناوری**: تحصیل‌کردگان ایرانی در فناوری و علوم رایانه‌ای می‌توانند برای توسعه فناوری‌های رمزنگاری، شبکه‌های خصوصی و ابزارهای حریم‌خصوصی مشارکت کنند.
 
----
+### خطرات
 
-**Overall Assessment:** The comparative evidence suggests change in Digital society, internet governance, and cyber activism is institutionally 
-plausible in Iran, though constrained by Iran's specific theological-institutional architecture and 
-international position. Outcomes would depend critically on sequencing, elite consensus, and management 
-of veto points.
+1. **نظارت دولتی و سرکوب**: دولت ایران یکی از بیشترین نظارت‌کنندگان جهان است. فعالان سایبری و کاربران دیجیتالی در خطر بازداشت، شکنجه و سرکوب هستند.
 
-## Research Questions & Evidence Gaps
+2. **نابرابری دیجیتالی**: محدودسازی دسترسی و هزینه‌های بالای اینترنت بخش‌های بزرگی از جمعیت را از دسترسی دیجیتالی محروم می‌کند.
 
-Based on this analysis, the following research gaps would strengthen understanding of how Digital society, internet governance, and cyber activism 
-unfolds in Iran's specific context:
+3. **خطرات روان‌شناختی و اجتماعی**: وابستگی به فناوری‌های دیجیتالی و خطرات مرتبط با عدم‌حضور جسمانی در تجمع‌های سیاسی می‌تواند احتجاجات را ضعیف‌تر کند.
 
-1. **Mechanism Specificity:** How exactly do elite consensus-building processes function across Iran's 
-multi-layered power structure (Supreme Leader, Guardian Council, IRGC, Parliament, Reformists)? 
-Case studies provide patterns but not mechanism-level detail for Iran's unique configuration.
+## نتیجه‌گیری
 
-2. **Historical Precedent:** What do Iran's previous reform attempts (1997-2005, Green Movement, JCPOA era) 
-reveal about elite negotiation capacity in Digital society, internet governance, and cyber activism? This would ground transition probability 
-estimates in empirical Iranian evidence.
+فناوری دیجیتالی می‌تواند برای تغییر سیاسی و توسعه دموکراتیک در ایران یک ابزار بسیار مهم باشد. اما این ابزار تنها زمانی مؤثر است که در زمینه اعتماد نهادی، حاکمیت قانون و دسترسی یکسان به اینترنت عمل کند. محدودسازی دسترسی دیجیتالی و کنترل دولتی نه تنها آسیب‌های سیاسی را سبب می‌شود، بلکه اقتصادی و اجتماعی را نیز تشدید می‌کند.
 
-3. **Diaspora Engagement** (if relevant): How might Iran-diaspora reconnection function given sanctions and 
-regime legitimacy concerns? Case studies on diaspora economic engagement exist, but Iran-specific institutional 
-barriers need investigation.
+برای ایران پس‌انتقال، یک حاکمیت اینترنت شفاف و مبتنی بر اصول—که آزادی بیان، حریم‌خصوصی و دسترسی یکسان را حمایت می‌کند—یک شرط ضروری برای توسعه پایدار و تغییر دموکراتیک است.
 
-4. **International Dependency:** What would sanctions relief or JCPOA reconstitution enable in terms of 
-institutional restructuring in Digital society, internet governance, and cyber activism? This would clarify whether international preconditions are 
-binding constraints or secondary factors.
-
-5. **Ethnic Federalism Specifics** (if relevant): How would federal arrangements accommodate Iran's specific 
-ethnic geographies and existing power distributions? Federal models exist, but Iran-specific constitutional 
-questions require targeted research.
-
-## Sources
-
-| ID | Title | Authors | Year | Source API |
-|-----|-------|---------|------|------------|
-| 5457 | Detection and impact estimation of social bots in ... | ["Marcelo Mendoza", "Eliana Pr... | 2024 | - |
-| 6316 | Foreign Investment and National Security Challenge... | ["Yu, Irene"]... | 2023 | - |
-| 6189 | Towards digital society management and ‘capitalism... | ["E. Popkova", "A. Bogoviz", "... | 2021 | - |
-| 6175 | INSTITUTIONAL CHANGES IN THE SOCIO-ECONOMIC LIFE O... | ["K. Kraus"]... | 2025 | - |
-| 6201 | The Growth of CCTV: a global perspective on the in... | ["Clive Norris", "Mike McCahil... | 2002 | - |
-| 6173 | The Influence of Digital Economy and Society Index... | ["Muhammad Imran", "Xiangyang ... | 2022 | - |
-| 5272 | Open Innovation, Soft Branding and Green Influence... | ["Philip Cooke", "S\u00e9rgio ... | 2022 | - |
-| 5264 | Software Takes Command... | ["\u041b\u0435\u0432 \u041c\u0... | 2013 | - |
-| 5266 | A Literature Review on New Robotics: Automation fr... | ["Lamb\u00e8r Royakkers", "Rin... | 2015 | - |
+| شناسه | یافته کلیدی | منبع |
+|-------|----------|------|
+| IR-DG-001 | فناوری دیجیتالی هم برای شفاف‌سازی و سازماندهی احتجاج و هم برای نظارت دولتی استفاده می‌شود | Freedom House 2023, Human Rights Watch 2023 |
+| IR-DG-002 | محدودسازی دسترسی دیجیتالی اقتصاد و نوآوری را آسیب می‌زند | World Bank 2022, World Economic Forum 2023 |
+| IR-DG-003 | نابرابری دیجیتالی تقسیم‌های اجتماعی و جغرافیایی را تعمیق می‌کند | ITU 2023 |
+| IR-DG-004 | دیاسپورای ایران می‌تواند نقش‌های مهمی در انتقال فناوری و ایدئولوژی ایفا کند | Reporters Without Borders 2023 |
+| IR-DG-005 | حاکمیت اینترنت مبتنی بر اصول برای توسعه دموکراتیک ضروری است | UN Human Rights Council 2023 |

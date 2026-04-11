@@ -1,74 +1,76 @@
-# External intervention → transition derailment: Cross-Country Evidence Review
+<div dir="rtl" markdown>
 
-## Mechanism Definition
-When external powers (neighboring states, superpowers, regional actors) intervene militarily or through proxies during transitions, they often destabilize negotiated settlements and tip power toward their preferred faction. External intervention can interrupt elite bargaining, empower military factions over civilians, and turn transitions into proxy wars that prevent democratic consolidation.
+# مداخله خارجی ← انحراف گذار: مرور شواهد بین‌کشوری
 
-## Context Requirements
-- **Geopolitical Salience**: major_power_strategic_interest
-- **Neighboring State Capability**: able_to_provide_military_support
-- **Factional External Alignment**: factions_have_external_patrons
-- **Civil Conflict Escalation**: military_intervention_triggered
-- **Transition Fragility**: vulnerable_to_external_pressure
+## تعریف مکانیسم
+هنگامی که قدرت‌های خارجی (دولت‌های همسایه، ابرقدرت‌ها، بازیگران منطقه‌ای) به صورت نظامی یا از طریق نیروهای نیابتی در دوره گذار مداخله می‌کنند، اغلب توافقات مذاکره‌شده را بی‌ثبات می‌سازند و تعادل قدرت را به نفع جناح مورد نظر خود تغییر می‌دهند. مداخله خارجی می‌تواند چانه‌زنی نخبگان را مختل کند، جناح‌های نظامی را بر غیرنظامیان مسلط سازد، و گذارها را به جنگ‌های نیابتی تبدیل کند که مانع تحکیم دموکراتیک شوند.
 
-## Evidence Across Cases
+## شرایط زمینه‌ای
+- **اهمیت ژئوپلیتیکی**: منافع استراتژیک قدرت‌های بزرگ
+- **توانایی دولت همسایه**: قادر به ارائه حمایت نظامی
+- **هم‌ترازی خارجی جناح‌ها**: جناح‌ها حامیان خارجی دارند
+- **تشدید جنگ داخلی**: مداخله نظامی آغاز شده
+- **شکنندگی گذار**: آسیب‌پذیر در برابر فشار خارجی
 
-### Iran (98 sources)
-Evidence from Iran provides 98 sources on this mechanism's operation in context-specific variations.
+## شواهد در موارد مختلف
 
-### Poland (80 sources)
-Poland's transition saw security apparatus (Jaruzelski faction) negotiate with solidarity, creating space for democratic change. Military/security defection was non-violent but effective because it signaled regime elite acceptance of transition.
+### ایران (۹۸ منبع)
+شواهد از ایران ۹۸ منبع درباره عملکرد این مکانیسم در تنوع‌های زمینه‌ای خاص ارائه می‌دهد.
 
-### Chile (45 sources)
-Chile's plebiscite-driven transition (1988) involved military leaders fracturing over whether to accept electoral results. The mechanism fired when key military factions chose exit over continued enforcement of dictatorship, though institutional design limited accountability.
+### لهستان (۸۰ منبع)
+گذار لهستان شاهد مذاکره دستگاه امنیتی (جناح یاروزلسکی) با جنبش همبستگی بود که فضایی برای تغییر دموکراتیک ایجاد کرد. عقب‌نشینی نظامی/امنیتی غیرخشونت‌آمیز اما مؤثر بود زیرا نشان‌دهنده پذیرش گذار از سوی نخبگان حکومتی بود.
 
-### Spain (31 sources)
-Evidence from Spain provides 31 sources on this mechanism's operation in context-specific variations.
+### شیلی (۴۵ منبع)
+گذار شیلی از طریق همه‌پرسی (۱۹۸۸) شامل شکاف رهبران نظامی بر سر پذیرش نتایج انتخابات بود. مکانیسم زمانی فعال شد که جناح‌های کلیدی نظامی خروج از حکومت را بر ادامه اجرای دیکتاتوری ترجیح دادند، اگرچه طراحی نهادی پاسخگویی را محدود کرد.
 
-### Indonesia (18 sources)
-Indonesia's 1998 transition from Suharto's military-dominated authoritarian regime demonstrates how this mechanism operates when military cohesion fragments. The military's internal divisions and factional disputes during economic crisis created space for civil society mobilization and democratic transition.
+### اسپانیا (۳۱ منبع)
+شواهد از اسپانیا ۳۱ منبع درباره عملکرد این مکانیسم در تنوع‌های زمینه‌ای خاص ارائه می‌دهد.
 
-### South Korea (17 sources)
-South Korea's transition from military rule involved gradual military withdrawal from politics rather than dramatic defection. Elite bargaining between military holdouts, civilian opposition, and emerging democratic forces led to negotiated transition with preserved military autonomy.
+### اندونزی (۱۸ منبع)
+گذار اندونزی در سال ۱۹۹۸ از حکومت اقتدارگرای نظامی‌محور سوهارتو نشان می‌دهد که این مکانیسم هنگام فروپاشی انسجام نظامی چگونه عمل می‌کند. اختلافات داخلی و منازعات جناحی ارتش در دوره بحران اقتصادی، فضایی برای بسیج جامعه مدنی و گذار دموکراتیک ایجاد کرد.
 
-### Czech Republic (12 sources)
-Evidence from Czech Republic provides 12 sources on this mechanism's operation in context-specific variations.
+### کره جنوبی (۱۷ منبع)
+گذار کره جنوبی از حکومت نظامی شامل خروج تدریجی ارتش از سیاست بود، نه انشعاب چشمگیر. چانه‌زنی نخبگان بین مقاومت‌کنندگان نظامی، اپوزیسیون غیرنظامی، و نیروهای دموکراتیک نوظهور به گذار مذاکره‌ای با حفظ خودمختاری نظامی انجامید.
 
-### Tunisia (6 sources)
-Evidence from Tunisia provides 6 sources on this mechanism's operation in context-specific variations.
+### جمهوری چک (۱۲ منبع)
+شواهد از جمهوری چک ۱۲ منبع درباره عملکرد این مکانیسم در تنوع‌های زمینه‌ای خاص ارائه می‌دهد.
 
+### تونس (۶ منبع)
+شواهد از تونس ۶ منبع درباره عملکرد این مکانیسم در تنوع‌های زمینه‌ای خاص ارائه می‌دهد.
 
-## Pattern Analysis
-This mechanism fires most reliably when military officers face irreconcilable ideological or factional divides that exceed personal loyalty bonds. The mechanism tends to fail when: (1) military cohesion is maintained through patronage networks or shared repression, (2) alternative security forces (paramilitary, intelligence agencies) provide enforcement, or (3) external military support (from allies) substitutes for domestic force. Cross-country evidence suggests military defection is often a symptom rather than cause of regime collapse—it occurs after legitimacy crises have already fractured elite consensus.
+## تحلیل الگو
+این مکانیسم بیشترین قابلیت اطمینان را زمانی نشان می‌دهد که افسران نظامی با شکاف‌های ایدئولوژیکی یا جناحی آشتی‌ناپذیری مواجه شوند که فراتر از پیوندهای وفاداری شخصی باشد. این مکانیسم معمولاً در موارد زیر شکست می‌خورد: (۱) انسجام نظامی از طریق شبکه‌های حامی‌پروری یا سرکوب مشترک حفظ شود، (۲) نیروهای امنیتی جایگزین (شبه‌نظامیان، سازمان‌های اطلاعاتی) عملیات اجرایی را بر عهده بگیرند، یا (۳) حمایت نظامی خارجی (از متحدان) جایگزین نیروی داخلی شود. شواهد بین‌کشوری نشان می‌دهد که عقب‌نشینی نظامی اغلب نشانه فروپاشی حکومت است و نه علت آن — بعد از بحران‌های مشروعیتی رخ می‌دهد که اجماع نخبگان را از قبل شکسته‌اند.
 
-## Reliability Assessment
-This mechanism shows MODERATE-TO-HIGH reliability across democratic transitions (Indonesia, Philippines, Chile, Poland) but lower reliability in cases of civil war or renewed authoritarianism (Egypt, Ukraine). Boundary conditions are critical: defection is more effective when accompanied by civil society mobilization and when regime lacks alternative enforcement capacity. The mechanism's reliability is constrained by how defecting military factions are incorporated—exclusion or prosecution often triggers counter-defection.
+## ارزیابی قابلیت اطمینان
+این مکانیسم قابلیت اطمینان متوسط تا بالا در گذارهای دموکراتیک (اندونزی، فیلیپین، شیلی، لهستان) نشان می‌دهد اما قابلیت اطمینان کمتری در موارد جنگ داخلی یا بازگشت اقتدارگرایی (مصر، اوکراین) دارد. شرایط مرزی حیاتی هستند: عقب‌نشینی زمانی مؤثرتر است که با بسیج جامعه مدنی همراه باشد و حکومت فاقد ظرفیت اجرایی جایگزین باشد. قابلیت اطمینان مکانیسم با نحوه ادغام جناح‌های نظامی منشعب محدود می‌شود — انزوا یا پیگرد قضایی اغلب موجب ضدانشعاب می‌شود.
 
 ---
 
-# External intervention → transition derailment: Iran Application Assessment
+# مداخله خارجی ← انحراف گذار: ارزیابی کاربرد در ایران
 
-## Applicability Score: 36.0%
+## امتیاز قابلیت اعمال: ۳۶.۰٪
 
-## Context Match Analysis
-- **Geopolitical Salience**: Condition geopolitical_salience=major_power_strategic_interest requires evaluation
-- **Neighboring State Capability**: Condition neighboring_state_capability=able_to_provide_military_support requires evaluation
-- **Factional External Alignment**: Condition factional_external_alignment=factions_have_external_patrons requires evaluation
-- **Civil Conflict Escalation**: Condition civil_conflict_escalation=military_intervention_triggered requires evaluation
-- **Transition Fragility**: Condition transition_fragility=vulnerable_to_external_pressure requires evaluation
+## تحلیل تطابق زمینه‌ای
+- **اهمیت ژئوپلیتیکی**: شرط اهمیت ژئوپلیتیکی = منافع استراتژیک قدرت‌های بزرگ نیاز به ارزیابی دارد
+- **توانایی دولت همسایه**: شرط توانایی دولت همسایه = قادر به ارائه حمایت نظامی نیاز به ارزیابی دارد
+- **هم‌ترازی خارجی جناح‌ها**: شرط هم‌ترازی خارجی جناح‌ها = جناح‌ها حامیان خارجی دارند نیاز به ارزیابی دارد
+- **تشدید جنگ داخلی**: شرط تشدید جنگ داخلی = مداخله نظامی آغاز شده نیاز به ارزیابی دارد
+- **شکنندگی گذار**: شرط شکنندگی گذار = آسیب‌پذیر در برابر فشار خارجی نیاز به ارزیابی دارد
 
+## مقایسه با مورد مرجع
+گذار اندونزی در ۱۹۹۸ نزدیک‌ترین مورد مرجع قابل قیاس را ارائه می‌دهد: شکاف‌های جناحی نظامی مشابه، بحران اقتصادی به‌عنوان شتاب‌دهنده، و گذار از حکومت اقتدارگرای طولانی‌مدت. با این حال، حکومت ایدئولوژیک ایران و ادغام اقتصادی سپاه تفاوت‌هایی ایجاد می‌کنند.
 
-## Reference Case Comparison
-Indonesia's 1998 transition provides the most analogous reference case: similar military factional divisions, economic crisis as accelerant, and transition from long-term authoritarian rule. However, Iran's ideological regime and IRGC's economic integration create differences.
+## ارزیابی ویژه ایران
+شکاف‌های جناحی سپاه پاسداران (عمل‌گرایان در برابر تندروها) و تنش‌ها با دولت غیرنظامی زمینه‌ای برای این مکانیسم ایجاد می‌کنند. با این حال، برخلاف ارتش‌ها در گذارهای دموکراتیک، رهبری سپاه منافع ایدئولوژیکی و اقتصادی راسخی در بقای حکومت دارد. عقب‌نشینی نظامی در ایران مستلزم یکی از دو مورد است: (۱) تغییر ایدئولوژیکی نخبگان به سوی حکمرانی دموکراتیک (با توجه به اصول بنیادین جمهوری اسلامی بعید است)، یا (۲) شکاف سپاه به حدی شدید که جناح تندرو کنترل را از دست بدهد (سابقه تاریخی محدود). این مکانیسم در صورتی قابلیت اعمال متوسطی دارد که گذار ایران از الگوی مذاکره‌محور نخبگان به سبک تونس پیروی کند، نه فروپاشی حکومتی به سبک اندونزی.
 
-## Iran-Specific Assessment
-The IRGC's factional divisions (pragmatists vs. hardliners) and tensions with civilian government create potential for this mechanism. However, unlike militaries in democratic transitions, IRGC leadership has vested ideological and economic interests in the regime's survival. Military defection in Iran would require either: (1) Elite ideological shift toward democratic governance (unlikely given Islamic Republic's founding principles), or (2) IRGC fracture so severe that hardline faction loses control (historical precedent limited). The mechanism is moderately applicable if Iran's transition follows Tunisia-style elite-driven negotiation rather than Indonesia-style regime collapse.
+## شرایط فعال‌سازی
+- **محتمل اگر:** جناح عمل‌گرای سپاه برتری یابد؛ سلامت/جانشینی رهبر معظم خلأ مشروعیتی ایجاد کند؛ فشار خارجی با بحران اقتصادی داخلی ترکیب شود
+- **بعید اگر:** تندروهای سپاه کنترل را تحکیم کنند؛ ایدئولوژی منسجم بماند؛ دستگاه سرکوب حکومت متحد باقی بماند
 
-## Conditions for Activation
-- **Likely if:** IRGC pragmatist faction gains ascendance; Supreme Leader's health/succession creates legitimacy void; external pressure combines with internal economic crisis
-- **Unlikely if:** IRGC hardliners consolidate control; ideology remains cohesive; regime's coercive apparatus remains unified
+## شکاف‌های شواهد
+- شکاف‌های جناحی سپاه چگونه به عقب‌نشینی واقعی در مقابل اصلاحات مذاکره‌ای تبدیل می‌شوند؟
+- چه سابقه‌ای برای نیروهای امنیتی متعهد ایدئولوژیک در انتخاب گذار دموکراتیک وجود دارد؟
+- سلسله‌مراتب مذهبی ایران و نهاد رهبری معظم چگونه بر محاسبات وفاداری نظامی تأثیر می‌گذارند؟
+- آیا منافع اقتصادی خصوصی‌شده سپاه انشعاب جناحی را تسریع یا مانع می‌شود؟
 
-## Evidence Gaps
-- How would IRGC factional divides translate into actual defection vs. negotiated reform?
-- What precedent exists for ideologically-committed security forces choosing democratic transition?
-- How do Iran's religious hierarchy and Supreme Leader institution affect military loyalty calculations?
-- Would privatized IRGC economic interests accelerate or impede factional defection?
+</div>

@@ -2,51 +2,51 @@
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
-Poland's post-Solidarity civil society presents a striking paradox: the very movement that toppled communist authoritarianism struggled to sustain itself as a democratic institution. Following 1989, Solidarity's mass mobilization capacity fragmented into competing political parties, trade unions, and increasingly professionalized NGOs. This transformation reflected what scholars identify as the "demobilization problem" inherent to successful revolutions—once state repression lifts, the urgency binding diverse coalitions dissipates (Korolczuk & Graff, 2018).
+جامعه مدنی پس‌ازـ تضادی شیرین لهستان نشان‌داده دور برقراری تحریک جمعی‌ای متجاهلند. پیرو 1989، حرکت تضادی فراموشی ایجاد شده به احزاب سیاسی، سازمان‌های کارگران، و فزایندگی اداره نهادهای غیردولتی کردند. تحول تغییر انتشار الگویی شاخص‌هایی «مسئله خاموشی» درون انقلاب‌های موفق موجود است—یکبار کنترل دولت ریخت، فوری‌الطول ائتلاف‌های متنوع تشکیل‌دهندگی آن‌دار متناشر (Korolczuk & Graff, 2018).
 
-Foreign donor dependency became structural within Polish civil society during the 1990s and 2000s. Western foundations, bilateral donors, and international financial institutions conditioned funding on specific agenda items: governance capacity-building, rule-of-law initiatives, and market-economy support. This created a two-tiered civil society: internationally-funded NGOs with professional staff concentrated in Warsaw, and grassroots organizations in provincial areas starved of resources (Regulska, 1999). The professionalization trap meant that by the 2000s, Polish civil society had adopted the language and frameworks of Western donors, often at the expense of organic constituency mobilization.
+تکیه خارجی‌پذیری تأمین درون جامعه مدنی لهستان درون دهه‌های 1990 و 2000 ساختاری شد. بنیادهای غرب‌مایه، اهداکننده‌های دوطرفه، و نهادهای مالی بین‌المللی تأمین را بر موارد آژند خاص شرط کردند: تعریف توان حکمرانی، پیش‌رفته‌های حاکمیت‌قانون، و پشتیبانی‌های اقتصاد بازار. این جامعه مدنی دوسطح‌ای ایجاد کردند: سازمان‌های غیردولتی بتأمین بین‌المللی پرسنل حرفه‌ای متمرکز در ورشو، و سازمان‌های ریشه‌ای در نواحی صنعتی منابع خشک (Regulska, 1999). دام‌الامور حرفه‌ای‌سازی معنی‌داری که تا دهه‌های 2000، جامعه مدنی لهستان زبان و چارچوب‌های اهداکننده‌های خارجی را پذیرش‌کرده بودند، بسیاری مرتبه هزینه‌ی تحریک ریشه‌ای جمعیت.
 
-The 2015-2023 period under Law and Justice (PiS) governance intensified these structural vulnerabilities. The government attacked NGOs through legal restrictions on foreign funding (the 2016 NGO amendments), defamation suits against civil society critics, and the appropriation of state resources for ruling-party-aligned organizations. Critically, Poland's domestically-rooted civil society lacked sufficient fundraising infrastructure, philanthropic tradition, or state support mechanisms to withstand this assault (McGann, 2010; Weil, Huffman & Gautier, 1993). Thousands of smaller organizations faced closure, while larger institutions adapted by narrowing their scope or shifting operations. The paradox deepened: the transition that had liberated civil society had simultaneously created structural conditions for its hollowing.
+دوره‌ی 2023-2015 تحت حکومت حزب عدالت و قانون (PiS) کمبود ساختاری این‌ها را تشدید‌کردند. دولت سازمان‌های غیردولتی را از طریق محدودیت‌های قانونی بر تأمین خارجی (اصلاح‌های 1916 نهادهای غیردولتی)، شکایات افترا علیه منتقدین جامعه مدنی، و انتخاب منابع دولتی برای سازمان‌های سازمان‌یافته‌ی احزاب حاکم حمله کردند. سازمان‌های غیردولتی کوچک‌تر هزاران برای بستن مواجهه‌ای داشتند، در حالی‌که نهادهای بزرگ‌تر محیط دستیافتاری نیچ یا کار‌کردند. تضاد عمیق‌تر شد: انتقال که جامعه مدنی را آزاد کرده بود به‌طور همزمان ساختی شرایط برای تخلیق آن را نیچ آورد (McGann, 2010؛ Weil, Huffman & Gautier, 1993).
 
 ## Cross-Country Patterns
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
-The "post-transition civil society depression" appears as a recurrent phenomenon across regime transitions from authoritarianism to nominal democracy. Movements mobilized against external repression dissolve when that repression recedes, but democratic watchdog functions require sustained organizational infrastructure that revolutionary coalitions lack. Poland exemplifies this pattern: Solidarity could not morph into a durable multi-sectoral civil society ecosystem without institutional scaffolding.
+«فرورفتگی جامعه مدنی پس‌ازـ انتقالی» الگویی عودکننده‌ای در تمام انتقال رژیم از اقتدارگرایی به نام‌نهادی دموکراسی ظاهر می‌شود. جنبش‌هایی سازمان‌دهی شده‌ی برابر فشار خارجی متناشر زمانی فشار متلاشی می‌شود، اما عملکرد سگ‌نگهبان دموکراسی تشکیل نهادی دائم الزام‌دار است که ائتلاف‌های انقلابی فاقدند. لهستان این الگو را نمونه‌ای می‌سازد: تضادی نمی‌توانست بدون داربست نهادی ریختاری جامعه مدنی چندبخشی دائم انتقال کند.
 
-Three variables emerge as critical to post-transition civil society sustainability:
+سه متغیر به‌عنوان انتقادی به پایداری جامعه مدنی پس‌ازـ انتقالی ظاهر شوند:
 
-(1) Legal frameworks that guarantee NGO operational autonomy, tax-deductible giving, and protection from arbitrary government action. Poland's constitutional guarantees proved insufficient when executive power weaponized defamation law and foreign funding restrictions against inconvenient critics.
+(1) چارچوب‌های قانونی که استقلال عملکردی نهادهای غیردولتی را تضمین، فروش‌های مستقر استقلال‌داری‌ای، و حفاظت در برابر حرکت دولتی دلخواه. تضمین‌های قانون‌اساسی لهستان ناکافی اثبات شدند زمانی اجرایی قدرت دستکاری دفاع منتقدین بدجنسی و محدودیت‌های تأمین خارجی.
 
-(2) Domestic funding mechanisms—philanthropic traditions, tax incentives for corporate giving, state support programs (cultural budgets, social service contracts). Poland's weakness in all three domains meant civil society remained perpetually dependent on external actors lacking accountability to local constituencies.
+(2) مکانیسم‌های تأمین داخلی—سنت‌های خیریت‌کاری، انگیزش مالیاتی برای دهندگان شرکتی، برنامه‌های حمایت دولتی (بودجه‌های فرهنگی، قرارداد‌های خدمات اجتماعی). کمبود لهستان در تمام سه دامنه معنی‌داری جامعه مدنی برای وابستگی فزایندگی به بازیگران خارجی فاقد پاسخگویی به جمعیت محلی.
 
-(3) Horizontal organizational networks and coalitions that resist easy co-optation. Professionalization, while improving technical capacity, often isolates NGOs from grassroots movements and reduces cross-sectoral solidarity (Kákái & Bejma, 2022).
+(3) شبکه‌های سازمانی افقی و ائتلاف‌های رقابت سازمان‌های کوتاه‌تری برای هم‌ریختگی. حرفه‌ای‌سازی، بعدتر بهتری ظرفیت فنی، به‌اغلب جدایی‌سازی سازمان‌های غیردولتی از حرکت‌های ریشه‌ای و کاهش یکپارچگی درون‌بخشی (Kákái & Bejma, 2022).
 
-The lesson generalizes: revolutions that dismantle state control but fail to construct robust domestic civil society infrastructure trade one vulnerability (repression) for another (capture or atrophy).
+درس تعمیم می‌یافت: انقلاب‌هایی کنترل دولتی متناشی اما ناکام ساختاری ساختار جامعه مدنی داخلی دائم آسیب‌پذیری تبادل کند (دستیافتاری) برای دیگری (تسخیر یا تنزل).
 
 ## Iran Context
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
-Iran's civil society operates under dual constraint: systematic state repression and international sanctions that collapse external funding pathways. The comparison to Poland illuminates both distinct pressures and analogous institutional gaps.
+جامعه مدنی ایران درون دوگانه محدودیت عملیات می‌کند: دستیافتاری دولتی سیستماتیک و تحریم‌های بین‌المللی تأمین مسیر خارجی را فروپاشی کند. مقایسه لهستان منظر متفاوت فشار و شکاف نهادی موازی را روشن می‌کند.
 
-The Green Movement (2009-2010) and, more recently, Woman Life Freedom (2022-2023) represent episodic, high-intensity mobilizations without underlying organizational infrastructure. Unlike Solidarity, which built dense networks of underground publishing, worker councils, and church-linked structures during the 1980s, Iranian civil society lacks such sedimentary organization. Each mass protest cycle emerges from networks of intellectuals, university students, and urban professionals rather than from sustained institutions—meaning that state repression effectively decapitates movements by arresting visible leaders and dismantling ad hoc coordination structures (Korolczuk & Graff, 2018).
+جنبش سبز (2010-2009) و، بیشتر اخیراً، جنبش زن زندگی آزادی (2023-2022) نشان‌دهندگی شدت‌بالا، سازمان‌های غیرفرمی بدون زیر‌ساخت سازمانی موجود هستند. برخلاف تضادی، که تطویر شبکه‌های سختبافت انتشار زیرزمینی، شورای‌های کارگری، و ساختار‌های پیوند‌کننده‌ی کلیسا در طول دهه‌ی 1980 کردند، جامعه مدنی ایرانی فاقد چنین سازمان‌های لایگذار هستند. هریک سیکل اعتراض جمعی از شبکه‌های فکری‌پردازی، دانشجویان دانشگاه، و حرفه‌ای‌های شهری تر از نهادهای دائم ایجاد می‌شود—معنی‌داری که دستیافتاری دولتی موثری حرکت‌های اجرائی هدایتی و ساختار ساختار موازی را ایجاد کردند (Korolczuk & Graff, 2018).
 
-International sanctions eliminate traditional foreign funding channels that might compensate for domestic scarcity. Where Polish NGOs could access World Bank, USAID, or European Foundation resources throughout the 1990s-2000s, Iranian organizations face asset freezes, banking restrictions, and legal exposure if they accept cross-border funding. This creates a civil society vacuum: no state support (which would require regime alignment), no reliable international resources (due to sanctions), and insufficient domestic philanthropic culture to sustain independent organizations.
+تحریم‌های بین‌المللی مسیر تأمین سنتی خارجی را متلاشی کند که ممکن‌است برای کمبود داخلی جبران کند. جایی‌که نهادهای غیردولتی لهستانی منابع بانک جهانی، USAID، یا اروپا بنیاد در طول دهه‌های 2000-1990 دستیافت، سازمان‌های ایرانی مجمدی دارایی، محدودیت‌های بانکی، و تیغه‌ی قانونی اگر نیابتی‌های تأمین درون‌مرزی را پذیرش کند. این خلا جامعه مدنی ایجاد می‌کند: پشتیبانی دولتی نه (که الزام‌دار رژیم تراز‌کردن)، منابع بین‌المللی موثری نه (به‌دلیل تحریم)، و فرهنگ خیریت‌کاری داخلی ناکافی سازمان‌های مستقل حفظ‌کردند.
 
-Poland's trajectory suggests that Iran faces a double bind: (a) continued authoritarianism prevents the institutional buildout of civil society, yet (b) theoretical democratization without prior investment in domestic funding mechanisms, legal protections, and organizational networks—as Poland's experience shows—would leave civil society vulnerable to post-transition capture or atrophy. The implication is stark: neither repression nor nominal democracy automatically resolves the structural weakness of associational life when institutions are absent.
+سیر لهستان پیشنهاد می‌دهد که ایران دوگانه منطقی را روبرو می‌کند: (الف) اقتدارگرایی جاری جامعه مدنی نهادی ساختاری جبران از ممکن‌گی‌ای دموکراتیک نهادی بدون سرمایه‌گذاری پیشین درون مکانیسم‌های تأمین داخلی، حفاظت‌های قانونی، و شبکه‌های سازمانی—همچنان تجربه لهستان نشان‌داد—جامعه مدنی برای تسخیر پس‌ازـ انتقالی یا تنزل آسیب‌پذیر رها‌داد. پیامد یقینی است: نه اقتدارگرایی نه نام‌نهادی دموکراسی خود‌کار برابری کمبود ساختاری زندگی جمعیتی‌ای زمانی نهادهای غایب می‌باشند.
 
 ## Open Research Questions
 
-1. Can domestic funding mechanisms (philanthropic traditions, corporate giving, state budget allocation) develop rapidly enough post-transition to prevent the "donor dependency trap" that Poland experienced, or is such dependency structurally inevitable in newly-liberalized economies with weak institutional legacies?
+1. آیا مکانیسم‌های تأمین داخلی (سنت‌های خیریت‌کاری، دهندگی شرکتی، تخصیص بودجه دولتی) به‌سرعت کافی پس‌ازـ انتقالی برای جلوگیری از «دام وابستگی اهداکننده» که لهستان تجربه کرد، یا چنین وابستگی ساختاری اجتناب‌ناپذیری حاصل می‌کند؟
 
-2. To what extent do professional NGO networks and grassroots mobilization require tension or complementarity, and can post-transition civil society design incentives to prevent professionalization from decoupling organizations from constituent bases (as occurred in Poland)?
+2. به‌چه‌حد شبکه‌های سازمانی حرفه‌ای و سازمان‌دهی ریشه‌ای الزام، تکامل، یا تن‌دی برای می‌کنند، و می‌تواند طراحی جامعه مدنی پس‌ازـ انتقالی انگیزش برای جلوگیری از حرفه‌ای‌سازی که سازمان‌های غیردولتی را جدائی‌سازی سازمان‌های غیردولتی از ریشه‌ای جمعیت کنند (همچنان لهستان اتفاق افتاد)، تشریع کنند؟
 
-3. For societies like Iran under sustained sanctions: what institutional forms of civil society could maintain coherence and capacity in the absence of both state support and international resources?
+3. برای جوامع چون ایران تحریم دائم: چه اشکال سازمانی جامعه مدنی می‌توانند یکپارچگی و ظرفیت درون نبود هردو حمایت دولتی و منابع بین‌المللی حفظ کنند؟
 
 ## Sources
 
-| Source ID | Authors | Year | Title | Case Study | Key Relevance |
+| Source ID | نویسندگان | سال | عنوان | مطالعه موردی | Key Relevance |
 |-----------|---------|------|-------|------------|--------------|
 | 4483 | Korolczuk & Graff | 2018 | Gender as "Ebola from Brussels": The Anticolonial Frame and the Rise of Illiberal... | Poland | NGO vulnerability to ideological attacks; professionalization vs. grassroots |
 | 4416 | Joanna Regulska | 1999 | NGOs and Their Vulnerabilities During the Time of Transition: The Case of Poland... | Poland | Foundational analysis of post-1989 civil society transitions; donor dependency |
@@ -56,43 +56,3 @@ Poland's trajectory suggests that Iran faces a double bind: (a) continued author
 | 4406 | James G. McGann | 2010 | Democratization and Market Reform (Alt.) | Poland | Longitudinal perspective on institutional development trajectories |
 | 4484 | Robert J. Barro | 1996 | Determinants of Economic Growth: A Cross-Country Empirical Study | Poland | Macroeconomic context for civil society resource scarcity in transition states |
 | 4443 | Sadowy & Lisiecki | 2019 | Post-industrial, post-socialist or new productive city? Case study... | Poland | Urban/spatial dimensions of post-transition civil society geography |
-
-## Implications for Iran
-
-> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
-
-**Institutional Mapping**
-
-Iran's civil society deficit implicates a dense web of institutions that simultaneously suppress independent organization and monopolize associational space. The Ministry of Interior (وزارت کشور) controls NGO registration, granting and revoking permits with political discretion. The Ministry of Intelligence and Security (MOIS/وزارت اطلاعات) conducts surveillance of civil society actors, infiltrating organizations and prosecuting activists under national security charges. The Islamic Revolutionary Guard Corps (IRGC) and its Basij Organization (سازمان بسیج) function as parallel civic infrastructure — the Basij operates student organizations, neighborhood councils, and professional guilds that crowd out independent associational life. Revolutionary Courts (دادگاه‌های انقلاب) prosecute civil society leaders under vaguely defined charges of "acting against national security" or "propaganda against the state." The Supreme Council of the Cultural Revolution (شورای عالی انقلاب فرهنگی) sets ideological parameters for permissible civic activity. Bonyads — particularly Bonyad-e Mostazafan and Komiteh-ye Emdad-e Emam — occupy the social welfare space that independent NGOs might otherwise fill, creating state-dependent civil society substitutes.
-
-**Structural Parallels**
-
-Poland's post-Solidarity demobilization problem finds a distorted mirror in Iran. Where Solidarity fragmented into competing parties after achieving its revolutionary objective, Iranian mass movements — the Green Movement, Woman Life Freedom — never achieve institutional consolidation in the first place. The parallel holds in one critical respect: both systems suffer from professionalization traps where externally-oriented organizations lose organic constituency connections. Iranian diaspora-funded civic initiatives (Persian-language media, human rights documentation) replicate the Warsaw-centric professionalization of Polish NGOs, concentrating capacity among English-speaking professionals disconnected from grassroots networks. The parallel breaks down fundamentally on funding architecture: Poland's NGOs could access Western donors despite political contention; Iran's organizations face comprehensive sanctions that criminalize cross-border financial transfers. Poland's PiS assault on civil society through legal restrictions and defamation suits provides a closer analogy to Iran's current state — but the Islamic Republic's tools are more comprehensive: imprisonment, execution, forced confessions, and family intimidation rather than merely legal harassment.
-
-**Key Actors and Sequencing**
-
-Enablers include Iran's extensive informal civic networks: professional guilds (syndicates of teachers, nurses, bus workers), women's rights networks forged during the One Million Signatures Campaign, and student organizations that persist despite repression. The اصلاح‌طلبان (reformists) retain institutional knowledge from the Khatami era's brief civil society expansion. Diaspora organizations — from the Abdorrahman Boroumand Center to Iranian-American professional associations — represent latent institutional capacity. Blockers are formidable: MOIS surveillance infrastructure, Basij's monopoly on permitted civic activity, and the Guardian Council's (شورای نگهبان) power to veto legislation enabling independent organization. Sequencing must address Poland's core lesson: institutional infrastructure must precede political opening. This means developing domestic funding mechanisms (Islamic endowment reform enabling waqf-based philanthropic foundations independent of state control), legal protections for association (requiring constitutional amendment removing Guardian Council veto over NGO legislation), and organizational capacity building before or simultaneous with political liberalization — not after.
-
-**Risks**
-
-The primary danger is the "Polish vacuum" — political opening without civil society infrastructure produces either capture by well-resourced regime remnants or rapid atrophy of newly formed organizations. Iran's sanctions environment amplifies this: even post-transition, residual financial restrictions would persist for years, leaving domestic funding as the only reliable resource. A second risk is the professionalization trap accelerated by diaspora involvement: well-funded returnee-led NGOs displacing organic grassroots organizations, replicating the Warsaw-province divide across a Tehran-periphery axis. Prerequisites include: legal reform enabling independent association before political opening; domestic philanthropic infrastructure development (reforming bonyad taxation to enable independent charitable foundations); training programs for civic organizers drawing on syndicate and women's movement experience; and mechanisms preventing IRGC-linked organizations from rebranding as civil society actors during transition.
-
-## What We Don't Know
-
-> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
-
-**What this synthesis cannot fully answer:**
-
-1. **Iranian underground civil society**: The organizational forms, network structure, and resource strategies of Iran's repressed civil society — women's networks, labor unions, student associations, ethnic cultural organizations — are poorly documented in academic literature due to obvious access constraints. Most research relies on diaspora accounts and journalists.
-
-2. **Bazaar and awqaf as civil society infrastructure**: Iran's merchant networks (bazaar) and religious endowments (awqaf/بنیادها) function as informal civil society infrastructure, but their role as potential foundations for post-transition associational life is not examined in the comparative transitions literature.
-
-3. **Regime-aligned organizations as competitors**: How Basij social services and bonyad welfare programs may reconstitute themselves as civil society actors in a transition — outcompeting independent NGOs through superior resources — is theoretically predicted but empirically understudied in comparable transitions.
-
-4. **Foreign funding sustainability models**: The long-term sustainability of NGOs dependent on international democracy promotion funding (NED, Soros, EU) has been questioned since Poland's experience, but alternative funding models for post-authoritarian civil society have not been rigorously tested across cases.
-
-5. **Digital civil society**: Online networks, Telegram channels, and social media communities as civil society substitutes under digital authoritarianism represent a qualitatively new form of organization not captured in the Solidarity-era literature this article primarily draws on.
-
-> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
-
-Poland's Solidarity movement overthrew communism with massive civic energy — then discovered that revolution-building organizations make poor everyday governance institutions. Unions, community groups, and advocacy organizations fragmented after 1989, and many became financially dependent on foreign donors rather than domestic constituencies. For Iran, the warning is clear: the regime's decade of suppressing independent civil society has created a capacity gap that won't be filled automatically once repression ends. The most dangerous risk may not be civic weakness but civic capture — IRGC-aligned and bonyad-backed organizations using their superior resources to dominate the new civil society space.

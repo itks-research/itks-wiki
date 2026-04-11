@@ -1,5 +1,9 @@
-# Cultural heritage preservation during institutional change
+<div dir="rtl" markdown>
 
-*Social & Cultural* · 1 articles · 9 sources
+# حفظ میراث فرهنگی در دوران تغییر نهادی
 
-- [Cultural Heritage as Political Resource: Confucian Values, Revolutionary Memory, and Iran's Pre-Islamic Identity](cultural-heritage-as-political-resource-confucian-values-revolutionary-memory-an.md)
+*اجتماعی و فرهنگی* · ۱ مقاله · ۹ منبع
+
+- [میراث فرهنگی به عنوان منابع سیاسی: ارزش‌های کنفسیوس، حافظه انقلابی و هویت پیش از اسلام ایران](cultural-heritage-as-political-resource-confucian-values-revolutionary-memory-an.md)
+
+</div>

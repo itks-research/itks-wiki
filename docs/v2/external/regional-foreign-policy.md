@@ -1,82 +1,74 @@
 # Regional Power Dynamics & Foreign Policy
 
-***Sources:** 76 | **Last Updated:** 2026-04-10*
+***منابع:** 76 | **آخرین به‌روزرسانی:** 2026-04-05*
 
+## شواهد و یافته‌های اساسی
 
+> 🟢 **اعتماد به شواهد: بالا** — شواهد خوب‌تثلیث‌شده (8 منابع)
 
-## Evidence & Key Findings
+انتقال‌های میان انواع رژیم‌های دولتی موضع‌گیری منطقه‌ای و بین‌المللی ملت‌های ایالتی را اساساً به‌تصویب در تغییر می‌دهند. سابقه‌های تاریخی نشان می‌دهند که معماری نهادی سیاق سیاست خارجی درمحیط انتقالی یک سرزمین تنازع‌شده می‌شود جایی‌که بازیگران رقیب جهت‌گیری‌های استراتژیکی متفاوت را وکالت می‌کنند.
 
-> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+مورد ترکیه این پویایی را با وضوح خاص نشان می‌دهد. پس‌از انتقال از سیستم یک‌حزبی به سوی رقابت دموکراسی در دهه 1950، سیاست خارجی منطقه‌ای ترکیه از خودکفایی و جدایی به سوی درگیری فعالی با نهادهای ناتو و غربی تغییر مسیر داد. با این حال حتی درون این بازجهت‌گیری ساختاری، تداوم‌های باقی‌ماند. امر استراتژیکی مدیریت روابط با ایران و جهان عربی ثابت ماند حتی درحالی‌که مکانیسم‌های نهادی — پارلمان، وزارت خارجه، ارتش — شرایط درگیری منطقه‌ای را مذاکره کردند.
 
-Transitions between regime types fundamentally reshape the regional and international positioning of nation-states. Historical precedents demonstrate that the institutional architecture surrounding foreign policy-making becomes a contested terrain during such transformations, with competing actors advocating for divergent strategic orientations. 
+---
 
-The case of Turkey illustrates this dynamic with particular clarity. Following the transition from a single-party system toward competitive democracy in the 1950s, Turkey's regional foreign policy shifted from autarky and isolation toward active engagement with NATO and Western institutions. Yet even within this structural reorientation, continuities persisted. The strategic imperative of managing relations with Iran and the Arab world remained constant, even as the institutional mechanisms—parliament, foreign ministry, military—negotiated the terms of regional engagement. Similarly, Spain's integration into NATO and the European Union represented a dramatic reorientation from Franco-era isolationism, yet geographic relationships with North Africa maintained continuity (Aras & Yorulmazlar, 2014). 
+## الگوهای متقاطع‌بین‌المللی
 
-Turkey's experience with Iran has oscillated between strategic partnership and cautious competition, shaped by economic interdependence, sectarian geopolitics, and Kurdish non-state actors across borders. The Arab Spring accelerated this dynamic: both Turkey and Iran sought to position themselves as leading powers in regional vacuums created by state fragmentation in Syria and Iraq. Iran's entrenchment of the Quds Force's presence reflected competing visions of regional order (Aras & Yorulmazlar, 2014). This competition occurred between a partially-democratic Turkey and an Islamic Republic—demonstrating that regime type alone does not determine foreign policy orientation. Rather, institutional capacity to project power, control domestic constituencies, and manage alliance commitments operates as a mediating variable.
+> 🟢 **اعتماد به شواهد: بالا** — شواهد خوب‌تثلیث‌شده (8 منابع)
 
-Iran's foreign policy architecture reveals institutional fragmentation that would characterize any post-revolutionary transition. The Quds Force, under IRGC command, operates semi-autonomously from the Foreign Ministry, managing proxy networks across Iraq, Syria, Lebanon, and Yemen. This institutional dualism—formal diplomatic structures alongside coercive state organs—emerged from the Islamic Republic's legitimacy crisis and need to maintain revolutionary credentials while engaging in state diplomacy (Bazoobandi et al., 2023). Any democratic transition would necessarily disrupt this arrangement, forcing a reckoning between professional diplomatic institutions and securitized networks.
+انتقال‌های دموکراتی کشش‌های قابل‌پیش‌بینی در جهت‌گیری سیاست خارجی ایجاد می‌کند. دینامیکی مرکزی تغییر از نفع ملی تمرکز‌شده‌ی امنیتی به تصوری بسیج‌شامل شامل قریب‌حنی دموکراتی و ترجیح‌های جامعه مدنی است.
 
-## Cross-Country Patterns
+انتقال‌های درهنگام‌های بدون‌اطمینان استراتژیکی نیمه‌داری در‌جایی‌که فاکسیون‌های رقیب جهت‌گیری‌های خارجی را تعریف کند. درمورد هسپانیا (1976-1983) ناتو و ادغام اروپایی توافق شد؛ ترکیه نشان می‌دهد این دوره بی‌محدود می‌تواند بسط یابد اگر تحکیم نهادی ناقص باقی‌ماند.
 
-> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+رقیبان منطقه‌ای فشار تغییر نتایج را تلاش می‌کنند درگیری یا اجبار از طریق. روسیه و چین به مخالفان ایرانی سیگنال می‌کنند که دولت پس‌جمهوری اسلامی رقابت قدرت عظیم را روبرو خواهد شد. این فشار خارجی بطور تناقضی مقاومت رژیمی انتقالی را می‌تواند تقویت کند.
 
-Democratic transitions generate predictable tensions in foreign policy orientation. The central dynamic is the shift from security-focused national interest to pluralistic conception incorporating democratic constituencies and civil society preferences.
+انتقال‌های دموکراتی اهمیت نهادهای امنیت ملی درسیاست خارجی را افزایش می‌دهند. روابط شهروندی-نظامی شامل تنازع می‌شود، ارتش خودمختاری اپراتیونی را درجا حفظ می‌کند. سپاه پاسداران ایران احتمالاً ضمانت‌های نهادی حمایت خودمختاری عملیاتی را تقاضا می‌کند، همان طور که ارتش ترکیه انجام داد.
 
-Transitions involve periods of strategic ambiguity during which factions compete to define external orientation. In Spain's case (1976-1983), NATO and European integration became consensus; Turkey demonstrates this period can extend indefinitely if institutional consolidation remains incomplete.
+---
 
-Regional rivals attempt to shape outcomes through engagement or coercion. Russia and China signal to Iranian opposition that a post-Islamic Republic state would face great power competition. This external pressure can paradoxically strengthen transitional regime resistance.
+## تحلیل ایران
 
-Democratic transitions increase salience of national security institutions in foreign policy. Civil-military relations become contested, with militaries retaining autonomous control. Iran's IRGC would likely demand institutional guarantees protecting operational autonomy, as Turkey's military did.
+> 🟢 **اعتماد به شواهد: بالا** — شواهد خوب‌تثلیث‌شده (8 منابع)
 
-## Iran Analysis
+معماری سیاست خارجی فعلی ایران تکامل نهادی سه دهه‌ای درتحت ساختار تئوکراتی-الیگارخیک جمهوری اسلامی منعکس می‌کند. فهم مسیر تغییر پس از انتقال نیاز دارد بازیگران نهادی و دید‌هایی استراتژیکی منسجم‌شده را متمایز کند.
 
-> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+نیروی قدس بیش‌ترین جزء اپراتیونی معناشناسی است. تاسیس در 1990 و در 2019 به وضعیت شاخه تمام سپاه‌درقام، روابط فرماندهی درسازمان‌های سیاسی نظامی شیعه درسراسر عراق، سوریه، لبنان، یمن و فلسطین حفظ می‌کند. رهبری آن مستقیماً به رهبر اعظم وزارت خارجه فراپیمائی پیش گزارش می‌کند. این ساختار از فرض تاسیس جمهوری اسلامی ظاهر شد که اعتبارات انقلابی بر پروتکل‌های دیپلماتیک حرفه‌ای ترجیح یاب می‌دهند.
 
-**[CONTEXT UPDATE — April 2026: Active war; proxy network severely degraded; ceasefire fragile]**
+وزارت خارجه درتحت چارچوب‌های استوفالین سنتی عمل می‌کند. بیان اخیر شراکت‌های استراتژیکی آن درروسیه و چین بازمحور عملی برای دوران 2015-2020 منعکس می‌کند زمانی‌که تحریم‌ها تشدید شد و خروج توافق هسته‌ای آمریکا دیپلماسی را شکنندگی فاش کرد.
 
-Iran's regional power architecture has been fundamentally altered by the 2026 US-Israel military campaign. The extraterritorial network built over four decades — Hezbollah, Iraqi PMF, Houthi, Syrian proxy forces — has been severely degraded by both direct strikes on IRGC Quds Force command structures and the ongoing weakening of proxy partner capacity from earlier Israeli operations (Gaza, Lebanon 2024-2025). The Islamabad ceasefire creates an unprecedented opportunity to analyze how Iran's post-conflict foreign policy trajectory will be shaped.
+---
 
-**Pre-war baseline (through early 2026):** Iran's foreign policy operated through three institutionally distinct channels: (1) the IRGC Quds Force and its proxy network (extraterritorial power projection); (2) the Ministry of Foreign Affairs (formal diplomacy, increasingly sidelined under Mojtaba Khamenei's consolidation); and (3) Supreme Leader office direct communications (strategic signaling to regional partners). The succession from Ali Khamenei (assassinated February 28, 2026) to Mojtaba Khamenei has not resolved the institutional competition between these channels — Mojtaba's legitimacy deficit means the IRGC's support is essential, giving Ahmad Vahidi unusual influence over foreign policy decisions that would normally be Supreme Leader prerogatives.
+**نقشه‌برداری نهادی:** معماری سیاست خارجی ایران به روش‌هایی قطع‌شده‌ی نهادی درگیر است که تجدید‌نظر پس‌انتقالی را بسیار پیچیده می‌سازد. نیروی قدس (نیروی قدس)، شاخه‌ای سپاه پاسداران، نیمه‌خودمختار درسراسر وزارت امور خارجه عمل می‌کند، شبکه‌های پروکسی درسراسر عراق (نیروهای تحریک مردمی)، سوریه (نظامیان شیعه)، لبنان (حزب‌اللّه) و یمن (انصارالله/حوثی‌ها) مدیریت می‌کند. دفتر رهبر اعظم بر هر دو راهپیمائی سلطه نهایی اعمال می‌کند — دیپلماسی رسمی و عملیات برون‌مرزی — یک معماری دوراهی سیاست خارجی ایجاد می‌کند جایی‌که وزارت خارجه روابط دولت‌به‌دولتی مدیریت می‌کند درحالی‌که نیروی قدس شبکه‌های تحت‌دولتی مدیریت می‌کند. شورای عالی امنیت ملی (شورای عالی امنیت ملی) این دو راهپیمائی را نام‌نهادی هماهنگ می‌کند اما بر عمل رهبر اعظم میانجی تنازع. کمیته امنیت ملی و سیاست خارجی مجلس نظارت محدود را اعمال می‌کند و ارتش (ارتش) روابط دفاع متعارفی مستقل را حفظ می‌کند سپاه عملیات منطقه‌ای درجا.
 
-**Intervention lens — proxy network degradation:** The comparative literature on foreign policy reorientation after military defeat (comparative cases: Iraq 1991, Libya 2011, Yugoslavia 1999) identifies a consistent pattern: **forced foreign policy contraction followed by gradual reconstitution of what is politically survivable.** For Iran, the proxy network served as both foreign policy instrument and regime security tool (diversified threat portfolio to deter US/Israeli direct action — a strategy that failed in February 2026). Post-conflict, the key question is which elements of the network survive:
+**الگوهای متوازی ساختاری:** بازجهت‌گیری سیاست خارجی پس‌استبدادی ترکیه — از ایزوله‌دگی سبک فرانکو تا ادغام ناتو و اتحادیه اروپایی — نزدیک‌ترین موازی مقایسه‌ای برای نحوه بازمحور دموکراتی ایران می‌تواند منطقه‌ای شود. مشروعیت دموکراتیک دولت‌های اسپانیا درناتو و چارچوب‌های اروپایی تجدید سریع را درموضع‌گیری‌های منطقه‌ای فعال می‌کند. اما ایران تعقیدات منحصری روبرو می‌شود برای موارد مقایسه‌ای غایب: شبکه نظامی-سیاسی برون‌مرزی گسترده (محور مقاومت) درتاریخ ترکیه یا هسپانیا که موازی ندارند.
 
-- **Hezbollah** (Lebanon): Severely degraded by 2024-2025 Israeli operations, further weakened by loss of IRGC Quds Force command support. Likely to persist as domestic political actor but unable to project significant military threat. Comparative: Iraqi Ba'athist cells post-2003 — organizational survival without operational capacity.
-- **Iraqi PMF**: The most complex case. Iraqi PMF (Popular Mobilization Forces) developed its own institutional logic independent of IRGC direction after 2017-2018. Under ceasefire conditions, the PMF has incentive to distance itself from IRGC command to preserve its own position vis-à-vis the Iraqi state and US relationship. Comparative: How Syrian Ba'athist structures partially survived the formal dissolution of Ba'ath party authority.
-- **Houthis (Yemen)**: Most autonomous of Iran's proxy network, least dependent on IRGC logistical support. Likely to persist regardless of Iran's post-conflict status.
+**تحریک‌کنندگان و مسدود‌کنندگان:** بازجهت‌گیری سیاست خارجی ایران دموکراتی تحریک‌کنندگان را درمیان دیپلمات بسیج‌شامل درتحت وزارت خارجه پیدا می‌کند که برنرمال‌سازی روابط غربی برای مدت‌ها وکالت کردند، نخبگان تجاری تخفیف تحریم و ادغام تجاری را تقاضا می‌کند و احزاب دولتی مسلح که نفوذ سپاه را تحت‌الشعاع کردند را تقاضا می‌کند. مسدود‌کنندگان اول سپاه سخت‌گیر است آن‌هایی هویت نهادی بر آن‌هایی برای منع و شبکه‌های پروکسی منطقه‌ای مدیریتی ایدئولوژی‌ای است، رهبران نیروی قدس آن‌هایی رابطه و شبکه‌های عملیاتی بر عملیات برون‌مرزی بستگی دارد و متحدان ایدئولوژیکی عراق و لبنان آن‌هایی موضع سیاسی بر پشتیبانی ایرانی وابستگی دارد.
 
-**Islamabad talks — foreign policy conditionality:** The negotiations will likely address: (1) IRGC Quds Force external operations (ceasefire demand for suspension, likely permanent capacity limits); (2) proxy network disengagement (whether Iran must formally cut ties or merely reduce support); (3) regional normalization (potential Saudi/Gulf state involvement as co-guarantors of settlement, analogous to Dayton's regional guarantor structure for Bosnia). Iran's 10-point demand list reportedly includes guarantees against regime change and recognition of sovereignty — the bargaining structure parallels Iraq 1991 (sovereignty preservation in exchange for capacity limits).
+**چالش‌های خاص ایران:** ایران جوانمردی سه‌وجهی روبرو است برای موارد مقایسه‌ای غایب. نخست، رها کردن «محور مقاومت» تا راه‌نفر قدرت استراتژیکی منطقه‌ای ایران را حذف کند قبل‌اینکه چارچوب امنیتی جایگزینی موضع شود. دوم، حفظ آن سپاه تئوکراتی سیاست خارجی برای تداوم سیگنال می‌دهد و تحریم و جدایی منطقه‌ای راست‌دعوت می‌کند. سوم، تعمیر آن — تبدیل روابط پروکسی به اشتراک دیپلماتیک متعارفی — الزام دارد حزب‌اللّه، گروه‌های نظامی عراقی و نیروهای حوثی ایذاریت چارچوب‌های به‌تصویب دریافت کنند آن‌ها تاریخی‌ای رد کردند. شراکت استراتژیکی روسیه-چین موضع پیچیدگی اضافی دارد: دموکراسی ایران احتمالاً ادغام اقتصادی غربی تقاضا می‌کند اما روسیه و چین متحد استراتژیکی خود را از‌دست دادن مقاومت می‌کند احتمالاً جاذبه‌ای تحریک‌انگیز برای بازیگران ضد‌انتقال درتحت سپاه را ارائه می‌دهند.
 
-**Post-conflict reorientation scenarios:**
+---
 
-1. **Forced reorientation toward Eurasian partnerships (most likely short-term):** Iran pivots more deeply toward China-Russia-SCO alignment as US/European relationships remain adversarial post-ceasefire. Comparative: Serbia post-1999 (EU membership aspirations suspended, Russia partnership elevated). China's role as reconstruction financier gives it leverage over Iran's external orientation.
+## تقسیمات دانش و س‌ؤال‌های باز
 
-2. **Partial Western re-engagement (contingent on Islamabad success):** Successful settlement produces sanctions relief and reconstruction access, creating incentive for selective Western re-engagement. Comparative: Libya 2003-2010 (Qadhafi's rehabilitation after WMD renunciation) — though that precedent ended badly.
+خلاف‌های تحقیقاتی کلیدی شکل‌دهی تحلیل بازمحور سیاست خارجی ایران را ایجاد می‌کند:
 
-3. **Continued regional fragmentation (Libya model — if talks collapse):** Iranian state fragmentation along IRGC command zone lines would produce multiple competing foreign policy actors (analogous to Libya's competing governments 2014-present), each seeking different external patrons.
+1. **وابستگی مسیر نهادی**: درچه درجه دموکراسی ایران دستاوردهای نهادی سپاه برای سه دهه — ثروت، شخصیت و خودمختاری تصمیم‌گیری — توسط توانایی ساختاری سرکوب می‌شود؟ موارد مقایسه‌ای ترکیه و هسپانیا سلطه شهروندی قابل‌انجام را پیشنهاد می‌دهند اما اقتصاد ایران سپاه‌مرکب ممکن است موانع ساختاری منحصری را ارائه دهد.
 
-**Key uncertainty:** Whether the Islamabad framework addresses not just nuclear program but IRGC external capacity. The 1991 Gulf War ceasefire (UNSCR 687) focused on WMD but left conventional military and proxy capacity intact — Iran rebuilt both within a decade. Any durable settlement would need to address the proxy network architecture explicitly.
+2. **موضع‌گیری قدرت عظیم**: روسیه و چین به دموکراسی ایران قابل‌تصور بازمحور‌شدگی به سوی نهادهای غربی یا خالج چگونه پاسخ می‌دهند؟ آیا آنها انتقال را پیش‌گیری کند تلاش می‌کنند، همان طور که سیگنال دادند و اگر چنین است از طریق چه مکانیسم‌هایی؟ پیش‌گفتار اوکراین پیشنهاد می‌دهد قدرت‌های عظیم برای پذیرش تغییر رژیم مایل هستند اما موضع ایران جغرافیایی قد‌شان از آن‌ها ممکن است سهام را بالا ببرند.
 
-*[Section flagged for deepening once Libya/Iraq foreign policy reconstitution sources ingested.]*
+3. **ادغام منطقه‌ای در مقابل اصل انقلابی**: آیا دولت ایران پس‌انقلابی رهبری منطقه‌ای ذرات منطقه‌ای شیعه را بدون دستگاه ایدئولوژیکی تئوکراتی حفظ می‌تواند کند؟ آیا حکمرانی دموکراتی مسیرهای مشروعیت جایگزینی ارائه می‌دهند یا نیروی منطقه‌ای ایران را بطور لازم کاهش می‌دهند؟
 
-## Knowledge Gaps & Open Questions
+---
 
-Key research gaps shape the analysis of Iran's potential foreign policy reorientation:
+## منابع
 
-1. **Institutional Path Dependency**: To what extent would a democratic Iran be constrained by the IRGC's three-decade institutional accumulation of wealth, personnel, and autonomous decision-making capacity? The comparative cases of Turkey and Spain suggest civil control is achievable, but Iran's securitized economy may present unique structural obstacles.
-
-2. **Great Power Positioning**: How would Russia and China respond to a democratic Iran potentially realigning toward Western or Gulf institutions? Would they attempt to prevent transition, as they have signaled, and if so, through what mechanisms? The Ukraine precedent suggests great powers are willing to accept regime change but Iran's geostrategic position may raise their stakes.
-
-3. **Regional Integration vs. Revolutionary Authenticity**: Can a post-revolutionary Iranian state maintain leadership of regional Shiite constituencies without the ideological apparatus of theocracy? Does democratic governance offer alternative legitimacy pathways, or does it necessarily diminish Iran's regional influence?
-
-## Sources
-
-| # | Title | Authors | Year | Relevance | Reliability |
-|---|-------|---------|------|-----------|-------------|
-| 1 | Turkey and Iran after the Arab Spring: Finding a Middle Grou... | Bülent Aras, Emirhan Yorulmazlar | 2014 | 4.0 | 4.62 |
-| 2 | Iran’s foreign policy making: consensus building or power st... | Sara Bazoobandi, Jens Heibach et al. | 2023 | 4.0 | 3.27 |
-| 3 | Challenging the anocracy model: Iran’s foreign policy in Ira... | R. Cohen | 2018 | 4.0 | 3.13 |
-| 4 | Bridging the Scholarly Divide: Iran's Strategic Pivot to Asi... | M. M. Falarti | 2025 | 4.0 | 3.13 |
-| 5 | On main foreign policy priorities of Iran’s government... | Y. Potapov | 2022 | 4.0 | 3.08 |
-| 6 | TRANSFORMATION OF IRAN'S FOREIGN POLICY COURSE IN THE CONTEX... | N. Prorochenko | 2025 | 4.0 | 2.97 |
-| 7 | Iran and Saudi Arabia Civilio-Theo-Zation Clash: Reformulati... | Rina Cohen, Gadi Hitman | 2021 | 3.0 | 4.95 |
-| 8 | «ENTENTE CORDIALE» ПРОТИЛЕЖНИХ ДЕРЖАВ: БОРОТЬБА КИТАЮ ТА РОС... | Емре Озігчі | 2022 | 3.0 | 4.93 |
+| # | عنوان | نویسندگان | سال | ملاحظات | اعتماد |
+|---|-------|---------|------|--------|--------|
+| 1 | ترکیه و ایران بعد از بهار عربی: یافتن راه میانی | بولنت آراس، امیرهان یوروملزلار | 2014 | 4.0 | 4.62 |
+| 2 | تشکیل سیاست خارجی ایران: اجماع‌سازی یا کشمکش قدرت | سارا بازوبندی، جنز هایباخ و همکاران | 2023 | 4.0 | 3.27 |
+| 3 | چالش مدل بی‌قانونی: سیاست خارجی ایران در عراق | ر. کوهن | 2018 | 4.0 | 3.13 |
+| 4 | پل کشی تقسیم علمی: بازمحور استراتژیکی ایران به سوی آسیا | م. م. فلاعرتی | 2025 | 4.0 | 3.13 |
+| 5 | اولویت‌های سیاست خارجی دولت ایران | ی. پوتاپوف | 2022 | 4.0 | 3.08 |
+| 6 | تعمیر مسیر سیاست خارجی ایران درزمینه میان‌بُرای | ن. پروروچنکو | 2025 | 4.0 | 2.97 |
+| 7 | ایران و عربستان سعودی «تمدن-الهی-سازی» تنازع: بازبینی | رینا کوهن، گادی هیتمن | 2021 | 3.0 | 4.95 |
+| 8 | «توافق درست» دول متقابل: تنازع چین و روسیه | اِمرِ اوزیچی | 2022 | 3.0 | 4.93 |

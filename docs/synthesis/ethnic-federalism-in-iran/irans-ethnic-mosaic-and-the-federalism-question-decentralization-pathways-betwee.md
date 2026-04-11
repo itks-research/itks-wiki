@@ -1,196 +1,233 @@
+## Evidence & Key Findings
+
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (16 sources) | 📎 **Source Alignment: 🟢 Strong** (85%)
 
-## Key Findings Across Case Studies
+<div dir="rtl" lang="fa">
+## یافته‌های کلیدی در مطالعات موردی مختلف
 
-### Iran's Ethnic Composition and Identity Claims
+### تعداد قومی و دعاوی شناسی ایران
 
-Iran is one of the most ethnically diverse states in the Middle East, yet its post-1979 constitutional order is built on a Shi'a Persian cultural framework that structurally marginalizes non-Persian and non-Shi'a populations. Ahmady (2023) documents identity demands across Iran's five major ethnic communities — Persian (~51%), Azeri (~24%), Kurdish (~8%), Arab (~3%), and Baloch (~3%) — using grounded theory methodology with field research across all groups. The study finds that ethnic demands consistently concentrate around three axes: cultural recognition (language rights, educational autonomy), distributive justice (regional development equity, fiscal allocation), and political representation (sub-national self-governance). Critically, these demands are not separatist in origin — they overwhelmingly seek accommodation within an Iranian state, not exit from it — but the absence of meaningful accommodation mechanisms has progressively radicalized peripheral communities.
+ایران یکی از کشورهای بسیار متنوع قومی در خاورمیانه است، اما نظام قانون اساسی پس از سال ۱۳۵۸ بر پایه چارچوب فرهنگی شیعه پارسی ساخته شده است که به طور ساختاری اقلیت‌های غیرپارسی و غیرشیعه را محدود می‌کند. احمادی (۲۰۲۳) دعاوی شناسی در پنج اقلیت قومی اصلی ایران — پارسی (~۵۱٪)، آذربایجانی (~۲۴٪)، کرد (~۸٪)، عرب (~۳٪)، و بلوچ (~۳٪) — را با استفاده از روش نظریه پایه‌گذاری و پژوهش میدانی در تمام گروه‌ها ثبت کرده است. مطالعه نشان می‌دهد که دعاوی قومی به طور مداوم حول سه محور متمرکز است: اعتراف به فرهنگ (حقوق زبان، خودمختاری آموزشی)، عدالت توزیعی (عدالت در توسعه منطقه‌ای، تخصیص مالی)، و نمایندگی سیاسی (حکومت خودمختار در سطح زیرملی). به طور اساسی، این دعاوی از جذب اقلیت‌ها در کشور ایران ناشی می‌شود — آنها به طور غالب به دنبال ادغام در چارچوب کشور ایران هستند، نه خروج از آن — اما عدم وجود مکانیسم‌های جدی ادغام به تدریج اقلیت‌های محیطی را رادیکال کرده است.
 
-### The Authoritarian Decentralization Paradox
+### تناقض دکترالیزاسیون اوراکتوریان
 
-Tajbakhsh (2020, 2022) provides the definitive analysis of how the Islamic Republic has deployed the language of decentralization as a tool of authoritarian consolidation rather than genuine devolution. The creation of local councils (shawraha) through Article 7 of the 1979 Constitution — later operationalized through the 1999 Municipal and Rural Councils Law — was structurally designed to strengthen central control rather than devolve it. The mechanism: by creating new subnational electoral arenas, the regime could channel local political energy into manageable competitions while simultaneously expanding state penetration into the periphery through appointed governors (ostandar, farmandar). The outcome was a form of "authoritarian decentralization" in which the form of local governance was democratized while the substance of power remained centralized.
+تاجبکش (۲۰۲۰، ۲۰۲۲) تحلیل قطعی ارائه می‌دهد که چگونه جمهوری اسلامی از زبان دکترالیزاسیون به عنوان ابزاری برای تقویت اوراکتوریان استفاده کرده است، نه به عنوان یک توزیع واقعی قدرت. ایجاد شوراهای محلی (شوراهای محلی) از طریق ماده ۷ قانون اساسی سال ۱۳۵۸ — سپس اجرا شده از طریق قانون شوراهای شهری و روستایی سال ۱۳۷۸ — به طور ساختاری برای تقویت کنترل مرکزی طراحی شده بود، نه برای درجه‌بندی قدرت. مکانیسم: ایجاد میزهای انتخابی جدید در سطح زیرملی امکان می‌دهد که دولت ارگان‌های سیاسی محلی را به رقابت‌های قابل کنترل هدایت کند، در حالی که نفوذ دولت را به طور همزمان در محیط‌های دور افزایش می‌دهد از طریق نگهبانان نامناسب (ostandar, farmandar). نتیجه این بود که یک نوع دکترالیزاسیون اوراکتوریان ایجاد شد که فرم حکومت محلی به صورت دموکراتیک اصلاح شد، اما جوهر قدرت همچنان مرکزی باقی ماند.
 
-This finding is corroborated by source 6824 (2018), which analyzes how legal-political factors constrain local government formation in Iran's provinces, and by source 6849 (2025), which examines drivers of national cohesion and divergence, finding that administrative fragmentation without fiscal autonomy increases regional grievances rather than reducing them.
+این یافته با منبع ۶۸۲۴ (۲۰۱۸) تأیید می‌شود که تحلیل می‌کند عوامل قانونی-سیاسی چگونه محدودیت‌هایی بر تشکیل حکومت محلی در استان‌های ایران ایجاد می‌کنند، و با منبع ۶۸۴۹ (۲۰۲۵) نیز همراه است که به بررسی عوامل محرکه یکپارچگی ملی و تفکیک‌شدگی می‌پردازد و یافته‌های آن نشان می‌دهد که تکراری شدن اداری بدون استقلال مالی به جای کاهش شکایات منطقه‌ای، آن را افزایش می‌دهد.
 
-### Fiscal Decentralization and Social Welfare
+### عدم تمرکز مالی و بهبود اجتماعی
 
-Source 6818 (2021) provides econometric analysis of fiscal decentralization's effects on social welfare across Iranian provinces between 2003-2018. The findings show that expenditure decentralization has positive welfare effects — provincial governments closer to constituents allocate resources more efficiently — but revenue decentralization is absent: provinces remain almost entirely dependent on central government transfers, with own-source revenue constituting less than 5% of provincial budgets. This "decentralization gap" between expenditure responsibility and revenue authority creates chronic underfunding of peripheral provinces, which are disproportionately populated by ethnic minorities.
+منبع ۶۸۱۸ (۲۰۲۱) تحلیل اقتصادی-آماری از اثرات عدم تمرکز مالی بر بهبود اجتماعی در استان‌های ایران در بازه زمانی ۲۰۰۳ تا ۲۰۱۸ ارائه می‌دهد. یافته‌ها نشان می‌دهد که عدم تمرکز در هزینه اثرات مثبتی بر بهبود اجتماعی دارد — حکومت‌های استانی نزدیک‌تر به شهروندان منابع را بهتر تخصیص می‌دهند — اما عدم تمرکز در درآمد وجود ندارد: استان‌ها همچنان به طور تقریبی به انتقالات دولت مرکزی وابسته هستند و درآمدهای داخلی کمتر از ۵ درصد بودجه‌های استانی را تشکیل می‌دهند. این "فاصله عدم تمرکز" بین مسئولیت هزینه و اختیار درآمد، به کمبود مالی مداوم استان‌های محوری منجر می‌شود که به طور نسبی از اقلیت‌های قومی تشکیل شده‌اند.
 
-### Indonesia's Big Bang Decentralization: A Cautionary Comparative
+### عدم تمرکز بزرگ چرخ ایران: یک مقایسه‌ای به عنوان مثال تذكیری
 
-Indonesia's post-Suharto decentralization (1999-2004) represents the most dramatic territorial power shift in the comparative literature — from one of the world's most centralized states to one of its most decentralized, within five years. Butt and Lindsey (2018) document how the 1999, 2004, and 2014 Regional Autonomy Laws created a three-tier system (province, city/regency, and rural) with genuine legislative and fiscal powers. The critical mechanism: regional legislatures (DPRD) received independent law-making authority, and the 2004 reform added direct election of regional executives. Indonesia's decentralization succeeded in preventing Balkanization partly because it was applied universally rather than asymmetrically — every region received the same powers, reducing the symbolic status claims that asymmetric autonomy generates.
+گذار ناچیز در اندونزی پس از سوهوتو (1999-2004) بهترین مثال تغییر قدرت جغرافیایی در ادبیات مقایسه‌ای است — از یکی از کشورهای بسیار مرکزی جهان به یکی از بسیار ناچیز در پنج سال. بات و لیندسی (2018) ثابت کردند که قوانین خودمختاری منطقه‌ای سال 1999، 2004 و 2014 سیستم سه سطحی (استان، شهر/استان و روستا) را ایجاد کردند که به واقعیت حقوق قانونگذاری و مالی داشتند. مکانیسم اصلی: مجلس‌های منطقه‌ای (دپردد) به حقوق قانونگذاری مستقل دست یافتند و اصلاحات سال 2004 انتخاب مستقیم افراد اجرایی منطقه‌ای را به افزودن نهاد داد. گذار ناچیز در اندونزی در جلوگیری از بالمانیزاسیون موفق بود، به دلیل اینکه به صورت جهانی به کار گرفته شد، نه نامتقارن — هر منطقه به همان قدرت دست یافت، کاهش در درخواست‌های نمادین وضعیت نامتقارن خودمختاری را ایجاد کرد.
 
-The health system research (source 3688, 2023) provides a cross-case synthesis of decentralization outcomes in fragile post-conflict contexts across six Indo-Pacific cases, finding that premature decentralization without pre-existing local institutional capacity tends to entrench existing power-holders rather than empower marginalized communities. This finding has direct relevance for Iran's Kurdish and Baloch peripheries, where state infrastructure and civil society capacity are weakest.
+پژوهش در مورد سیستم بهداشتی (منبع 3688، 2023) سنتز موردی چندگانه از نتایج عدم تمرکز در مکان‌های پس از جنگ ضعیف در شش مورد از Indo-Pacific را ارائه می‌دهد، و یافته است که عدم تمرکز پیش از زمان بدون قدرت نهادهای محلی موجود معمولاً حاکمان موجود را تثبیت می‌کند، نه جوامع مسالمت‌طلب را متعهد می‌کند. این یافته مستقیماً برای محدوده‌های دور کردی و بلوچ ایران اهمیت دارد، جایی که اینfrastructurه کشور و قدرت جوامع مدنی ضعیف‌تر است.
 
-### Language, Federalism, and National Identity
+### زبان، فدرالیسم و هویت ملی
 
-Source 8516 (2025) directly addresses the federalism debate within Iranian intellectual and political discourse. The analysis finds that Persian-language advocates tend to view federal arrangements as a threat to national unity, conflating linguistic diversity with territorial separatism — a conflation that is empirically unfounded in comparative research but rhetorically powerful in post-revolutionary Iran. The paper argues that Persian as a lingua franca could serve as a unifying medium in a genuinely federal system (analogous to Switzerland's use of German, French, and Italian alongside federal institutions), but only if minority language rights in education and local administration are simultaneously guaranteed.
+منبع ۸۵۱۶ (۲۰۲۵) به طور مستقیم به بحث فدرالیسم در میان دانشمندان و سیاستمداران ایرانی اشاره دارد. تحلیل این مقاله نشان می‌دهد که حمایت‌کنندگان به زبان فارسی عموماً فدرالیسم را به عنوان تهدیدی بر یکپارچگی ملی می‌بینند و زبان‌های مختلف را با جداشدن مناطقی اشتباه می‌گیرند — این اشتباه در تحقیقات مقایسه‌ای به طور علمی پایه‌ای ندارد، اما در ایران پس از انقلاب به عنوان یک ابزار ارتباطی قوی عمل می‌کند. مقاله ارائه می‌کند که فارسی به عنوان زبان عام می‌تواند در یک سیستم واقعی فدرالیسم (به صورتی مشابه استفاده از زبان‌های آلمانی، فرانسوی و ایتالیایی در کنار نهادهای فدرالی سوئیس) به عنوان وسیله‌ای یکپارچه‌سازی عمل کند، اما فقط اگر حقوق زبان‌های اقلیت در آموزش و حکمرانی محلی به طور همزمان تضمین شود.
 
-The constitutional analysis (source 6932, 2021) identifies significant ambiguity in the Islamic Republic's own constitution: Article 15 permits minority language instruction "alongside Persian," Article 19 prohibits discrimination based on ethnicity, and implicit self-determination concepts appear in several provisions — but implementation has been systematically blocked by centralist interpretations and Revolutionary Guard influence over peripheral governance.
+تحلیل قانون اساسی (منبع ۶۹۳۲، ۲۰۲۱) نشان می‌دهد که قانون اساسی خود جمهوری اسلامی از نظر محتوایی ابهامات جدی دارد: ماده ۱۵ اجازه می‌دهد که درس به زبان‌های اقلیت در کنار فارسی ارائه شود، ماده ۱۹ به تبعیض بر اساس قومیت ممنوع است و مفاهیم ضمنی حق تعیین سرنوشت در چند ماده ظاهر می‌شود — اما اجرای این مفاد به طور سیستماتیک توسط تفسیرات مرکزی و تأثیر سپاه پاسداران بر حکمرانی مناطق محاذی مسدود شده است.
+</div>
 
-> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (16 sources) | 📎 **Source Alignment: 🟡 Moderate** (65%)
-
-## Cross-Case Patterns and CMO Analysis
-
-### Pattern 1: Decentralization Without Fiscal Autonomy Worsens Ethnic Grievances (CMO)
-
-**Context:** Ethnically diverse centralized states that undertake administrative decentralization while retaining fiscal centralization.
-
-**Mechanism:** Local governments receive visibility and responsibility for service delivery but lack revenue authority to fund it adequately. Blame for underfunding is attributed to the center, but local elites capture available resources. Ethnic minority regions in the periphery — structurally disadvantaged in central resource allocation — bear disproportionate cost.
-
-**Outcome:** Increased rather than decreased regional grievances. The appearance of local governance legitimizes central control while failing to address distributive injustice claims. Iran's provincial government experience (2003-2018) exemplifies this pattern: fiscal decentralization gap between expenditure authority and revenue authority leaves peripheral Kurdish, Baloch, and Arab provinces with chronic underinvestment despite nominal local councils.
-
-**Evidence quality:** MODERATE — Iran data (source 6818) covers 2003-2018 fiscal data; causal direction is plausible but panel models cannot rule out reverse causality.
-
-### Pattern 2: Ethnic Conflict Instrumentalization Produces Long-Term Legitimacy Costs (CMO)
-
-**Context:** Authoritarian states facing multi-ethnic peripheries.
-
-**Mechanism:** State strategically plays ethnic groups against each other to prevent unified opposition (divide-and-rule). Source 6789 documents this in post-revolutionary Iran: Azeris were favored over Kurds in Northwestern Iran immediately after 1979, creating inter-ethnic violence that distracted from anti-regime mobilization. Over time, both groups become aware of the instrumentalization, producing "dual radicalization" — radicalization against the state AND against each other.
-
-**Outcome:** Short-term divide-and-rule succeeds, but long-term produces compounded legitimacy deficits. Any post-transition government inherits both inter-ethnic tensions AND anti-state ethnic grievances requiring simultaneous resolution.
-
-**Evidence quality:** MODERATE — single deep case study (Naqadeh, NW Iran 1979-1982); longitudinal extrapolation requires caution.
-
-### Pattern 3: Universal Decentralization Outperforms Asymmetric Autonomy for Conflict Prevention (CMO)
-
-**Context:** Post-authoritarian states with both ethnically concentrated regions (potential separatism pressure) and regions with no special claims.
-
-**Mechanism:** Asymmetric autonomy arrangements (e.g., special status for Kurdish regions) generate status envy among non-recipient regions while simultaneously creating separatist expectations among recipients. Universal decentralization (equal powers for all regions) removes status differentiation as a conflict vector.
-
-**Outcome:** Indonesia's post-Suharto uniform decentralization maintained territorial integrity (Aceh excepted — resolved through a separate peace process) while asymmetric autonomy arrangements in comparable cases (Iraq's Kurdish region, Spain's Basque Country) generated persistent secessionist pressures.
-
-**Evidence quality:** MODERATE — Indonesia-based inference is strong (Butt & Lindsey 2018), but comparison requires controlling for Indonesia's scale (277M), island geography, and democratic consolidation trajectory.
-
-### Pattern 4: Authoritarian Decentralization Creates Path Dependency for Democratic Transition (CMO)
-
-**Context:** Authoritarian states that have created subnational electoral institutions as control mechanisms.
-
-**Mechanism:** Even sham local elections create constituencies who develop genuine interests in those institutions. Candidates develop political careers, voters develop procedural expectations, local bureaucracies develop institutional capacity. Over time, these "authoritarian decentralization" institutions become resources that opposition movements can capture.
-
-**Outcome:** Iran's local councils — originally a control mechanism — have in several cycles (especially 2003 Tehran municipal elections, 2017-2018 council elections) been won by reformist or opposition-aligned candidates, creating genuine subnational governance experience that could be adapted in a post-transition architecture. This is the "Trojan horse" dynamic: authoritarian decentralization plants institutional infrastructure that democratic forces can later populate.
-
-**Evidence quality:** HIGH — Tajbakhsh (2022) documents this with 20 years of field data; the 2003 Tehran council elections are a documented historical fact.
+## Cross-Country Patterns
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (16 sources) | 📎 **Source Alignment: 🟡 Moderate** (65%)
 
-## Direct Relevance to Iran: Transferability Assessment
+<div dir="rtl" lang="fa">
+## الگوهای مورد مقایسه و تحلیل CMO
 
-### Structural Conditions in Iran
+### الگو ۱: عدم تمرکز بدون استقلال مالی به شکایات قومی افزوده می‌شود (CMO)
 
-Iran's ethnic geography creates a distinctive post-transition challenge: approximately 49% of the population is non-Persian (Ahmady 2023), concentrated in strategically sensitive border regions (Azeris in the northwest, Kurds in the west, Arabs in the oil-rich southwest, Baloch in the east). These are not dispersed minorities that can be managed through individual rights frameworks alone — they are territorially concentrated communities that require territorial governance solutions.
+**سیاست:** کشورهای مرکزی با تنوع قومی که به عدم تمرکز اداری پرداخته‌اند اما به مرکزی‌سازی مالی ادامه می‌دهند.
 
-The Islamic Republic's constitutional architecture presents both a constraint and an opportunity. The constraint: the 1979 Constitution is structured around Velayat-e Faqih (Supreme Leadership) and Islamic law, which are incompatible with genuine pluralism. The opportunity: Articles 15, 19, and various devolution provisions were inserted into the constitution by minority advocates during the brief pluralist window of 1979, giving ethnic accommodation claims a constitutional foothold that was never fully exercised.
+**مکانیسم:** دولت‌های محلی به دیده شدن و مسئولیت ارائه خدمات دسترسی دارند اما حق درآمدی برای تأمین آن را ندارند. تعلیم نقص مالی به مرکز نسبت داده می‌شود اما اشرافیان محلی منابع موجود را به خود می‌گیرند. مناطق اقلیت قومی در مرزهای کشور که در تخصیص منابع مرکزی به شدت ضعیف هستند، هزینه بیشتری را تحمل می‌کنند.
 
-### High Transferability Findings
+**نتیجه:** افزایش نه کاهش شکایات منطقه‌ای. ظاهر حکمرانی محلی مشروعیت کنترل مرکزی را تأیید می‌کند اما در برخورد با درخواست‌های ناکارایی توزیعی شکست می‌خورد. تجربه دولت‌های استانی ایران (۲۰۰۳-۲۰۱۸) این الگو را نشان می‌دهد: تفاوت در سطح توزیع مالی بین اختیار هزینه و درآمد باعث می‌شود استان‌های کرد، بلوچ و عرب در مرزهای ایران با نقص مزمن سرمایه‌گذاری باقی بمانند اگرچه نمادین شوراها محلی وجود دارند.
 
-**1. The fiscal autonomy imperative:** Iran's peripheral provinces already have nominal local councils and elected executives. A transition government could rapidly convert existing structures into genuine self-governing units by a single reform: granting provinces authority to levy and retain regional taxes rather than depending solely on central transfers. This requires no constitutional amendment — only revision of the Local Government Finance Act. Evidence: Iran's fiscal decentralization gap is documented and measurable; the fiscal reform is technically straightforward.
+**کیفیت اثبات:** متوسط — داده‌های مالی ایران (منبع ۶۸۱۸) از سال ۲۰۰۳ تا ۲۰۱۸ را پوشش می‌دهد؛ جهت علت قابل توجه است اما مدل‌های پانل نمی‌توانند جهت علت معکوس را رد کنند.
 
-**2. The language rights foundation:** Implementing Article 15 of the existing constitution (minority language instruction) is both constitutionally valid and would address one of the most potent symbolic grievances of Azeri, Kurdish, and Arab communities. This is a low-cost, high-legitimacy reform that signals genuine accommodation without triggering territorial sovereignty debates. Evidence: source 8516 (2025) identifies Persian-language anxiety as the primary political obstacle; reframing language rights as constitutionally authorized removes the legal objection.
+### الگو ۲: استفاده ابزاری از تعارضات قومی هزینه‌های بلندمدت مشروعیت را ایجاد می‌کند (CMO)
 
-**3. The authoritarian decentralization inheritance:** Iran's 330 cities with local councils represent a transition asset. These institutions, despite being captured by the IRI, have trained local administrators and created procedural expectations. Tajbakhsh (2022) argues that Iranian society has developed genuine attachments to local governance — "even under a deeply authoritarian framework, people have learned to engage with local institutions." This is a foundation that comparative transitions have typically had to build from scratch.
+**سیاست:** کشورهای اتکالی که با مناطق مرزی چندقومی مواجه هستند.
 
-### Partial Transferability: Indonesia's Universal Decentralization Model
+**مکانیسم:** دولت به صورت استراتژیک گروه‌های قومی را علیه یکدیگر می‌کارد تا مبارزه یکپارچه علیه دولت را جلوگیری کند (استراتژی تقسیم و حکم). منبع ۶۷۸۹ این موضوع را در ایران پس از انقلاب ثبت کرده است: پس از سال ۱۹۷۹، ازبک‌ها در شمال غرب ایران نسبت به کردها مورد تفضیل قرار گرفتند که باعث تعارضات بین قومی شد و توجه از جنبش علیه دولت را به خود جلب کرد. در طول زمان، هر دو گروه به این استفاده ابزاری پی بردند و "جذب دوگانه" ایجاد شد — جذب علیه دولت و علیه یکدیگر.
 
-Indonesia's Big Bang decentralization is transferable in principle but requires adaptation for Iran's scale and ethnic geography. Key adjustment: Indonesia's island geography made provincial boundaries uncontroversial (they tracked existing administrative divisions without crossing ethnic concentrations). Iran's ethnic communities are more territorially concentrated and historically politicized — any decentralization that creates provincial units coinciding with Azeri or Kurdish majority regions will generate immediate secessionist risk assessments from Persian nationalist forces and IRGC.
+**نتیجه:** تقسیم و حکم در مدت کوتاه مدت موفق می‌شود، اما در بلندمدت به کسری مشروعیت تجمیعی منجر می‌شود. هر دولت پس از گذار به ارث بردۀ هم تنش‌های قومی و هم شکایات قومی ضد دولت می‌پردازد که هر دو نیاز به حل همزمان دارند.
 
-The adaptation: Iran's decentralization should be asymmetric in function (fiscal autonomy, language rights, cultural councils) but universal in form (all 31 provinces receive the same legal powers, preventing status differentials). This addresses both the efficiency argument for decentralization and the symbolic politics argument against ethnic special status.
+**کیفیت شواهد:** متوسط — مطالعه موردی عمیق یک‌نمونه (ناقده، شمال غرب ایران ۱۹۷۹–۱۹۸۲)؛ تعمیم طولانی‌مدت نیاز به احتیاط دارد.
 
-### Low Transferability: The Separatism Risk
+### الگو ۳: عدم تمرکز یکنواخت بهتر از خودمختاری نامتقارن برای جلوگیری از تعارض (CMO)
 
-The evidence does not support fears that genuine decentralization will trigger territorial disintegration. Comparative research consistently shows that ethnic minorities in states with genuine decentralization overwhelmingly prefer accommodation to secession — secession involves transaction costs, economic disruption, and security risks that most communities wish to avoid. The separatism risk increases when accommodation is denied, not when it is granted. However, the Iranian security establishment's institutional interests are tied to centralization (IRGC provincial operations depend on centralized command), and these interests will resist decentralization regardless of the empirical evidence. This is a political constraint, not a policy design constraint.
+**سیاست:** کشورهای پس از حکومتیان با مناطقی که جمعیت قومی متمرکز است (فشار ممکن برای جداشدن) و مناطقی بدون درخواست ویژه نیز وجود دارد.
+
+**مکانیسم:** تعیین خودمختاری نامتقارن (مثلاً وضعیت ویژه برای مناطق کردی) در میان مناطق غیربازگیرنده ایجاد نفرت وضعیتی است در حالی که در میان بازگیرنده‌ها انتظارات جداشدنی ایجاد می‌کند. عدم تمرکز یکنواخت (تکیه یکنواخت بر تمام مناطق) تفاوت وضعیتی را به عنوان یک عامل تعارض حذف می‌کند.
+
+**نتیجه:** عدم تمرکز یکنواخت پس از سوهوتو در اندونزی از تماس مکانی (اچه به جز استثناء — حل شده از طریق فرآیند صلح منفصل) حفظ کرد در حالی که تعیین خودمختاری نامتقارن در موارد مشابه (منطقه کردی عراق، منطقه باسک در اسپانیا) فشارهای جداشدنی پایدار ایجاد کرد.
+
+**کیفیت شواهد:** متوسط — استنتاج بر پایه اندونزی قوی است (بوت و لیندسی ۲۰۱۸)، اما مقایسه نیاز به کنترل ابعاد اندونزی (۲۷۷ میلیون نفر)، جغرافیای جزیره‌ای و مسیر تثبیت دموکراسی دارد.
+
+### الگو ۴: عدم تمرکز حکومتی مسیر وابستگی برای گذار به دموکراسی ایجاد می‌کند (CMO)
+
+**سیاست:** کشورهای حکومتیان که ساختارهای انتخابی زیرمحلی را به عنوان ابزار کنترل ایجاد کرده‌اند.
+
+**مکانیزم:** حتی انتخابات محلی کاذب، کنگره‌هایی ایجاد می‌کنند که به واقعیت‌های واقعی در آن نهادها علاقه‌مند می‌شوند. کاندیداها به توسعه کاری سیاسی می‌پردازند، ناخواسته‌ها انتظارات فرآیندی را توسعه می‌دهند، و سازمان‌های محلی ظرفیت نهادی را توسعه می‌کنند. در طول زمان، این نهادهای "عدم تمرکز حکومتی" به منابعی می‌شوند که جنبش‌های مخالف می‌توانند آنها را به دست آورند.
+
+**نتیجه:** کنگره‌های محلی ایران — ابتدا به عنوان یک مکانیزم کنترلی — در چندین دوره (به ویژه انتخابات شهری تهران سال ۲۰۰۳، انتخابات کنگره‌های سال ۲۰۱۷-۲۰۱۸) به کاندیداها اصلاح‌طلب یا متعهد به مخالفت پیروز شدند، تجربه واقعی حکمرانی زیرکشوری ایجاد کردند که می‌تواند در یک ساختار پس از گذار استفاده شود. این "dinamik کشیک" است: عدم تمرکز حکومتی زیرساخت نهادی را کاشت که نیروهای دموکراتیک می‌توانند به بعد پر کنند.
+
+**کیفیت شواهد:** بالا — تاجبکش (۲۰۲۲) این موضوع را با داده‌های میدانی ۲۰ ساله ثبت کرده است؛ انتخابات کنگره‌های تهران سال ۲۰۰۳ یک حقیقت تاریخی ثبت شده است.
+</div>
+
+## Iran Context
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (16 sources) | 📎 **Source Alignment: 🟡 Moderate** (65%)
+
+<div dir="rtl" lang="fa">
+ارتباط مستقیم با ایران: بررسی قابل انتقال بودن
+
+### شرایط ساختاری در ایران
+
+جغرافیای قومی ایران چالشی منحصر به فرد پس از گذار را ایجاد می‌کند: حدود ۴۹ درصد جمعیت ایران از قوم پارس نیستند (اهمادی ۲۰۲۳)، و در مناطق مرزی حساسی که اهمیت استراتژیک دارند جمع‌شده‌اند (آذربایجانی‌ها در شمال غرب، کردی‌ها در غرب، عربی‌ها در جنوب غرب که از نفت ثروتمند هستند، بلوچی‌ها در شرق). این اقلیت‌های قومی نه اقلیت‌های پراکنده‌ای هستند که می‌توان با چارچوب حقوق فردی مدیریت کرد – بلکه جامعه‌هایی هستند که در مناطق خاص جمع‌شده‌اند و نیاز به راهکارهای حکمرانی منطقه‌ای دارند.
+
+ساختار قانون اساسی جمهوری اسلامی هم محدودیت و هم فرصت را ارائه می‌دهد. محدودیت: قانون اساسی ۱۳۵۷ بر اساس وelayت فقیه و قانون اسلامی ساخته شده است که با واقعیت چندگانه سازگار نیست. فرصت: ماده ۱۵، ماده ۱۹ و ماده‌های متعددی درباره تفویض قدرت در طی پنجره چندگانه کوتاه سال ۱۳۵۷ توسط حمایان اقلیت قومی به قانون اساسی افزوده شده است که ادعاهای اقلیت‌های قومی پایه قانونی ایجاد کرده است که هرگز به طور کامل به کار گرفته شد.
+
+### یافته‌های بالا در میزان قابل انتقال بودن
+
+**۱. ضرورت استقلال مالی:** استان‌های محیطی ایران به طور نامی شوراهای محلی و اجلاس‌های انتخابی دارند. دولت گذار می‌تواند با یک تغییر سریع موجودیت‌های موجود را به واحد‌های واقعی خود حکمرانی تبدیل کند: اعطای اختیار به استان‌ها برای جمع‌آوری و نگهداری مالیات منطقه‌ای به جای وابستگی فقط به انتقالات مرکزی. این نیاز به تغییر قانون اساسی نیست – فقط تغییر قانون مالی حکومت محلی است. شواهد: فاصله مالی عدم تمرکز در ایران ثبت و قابل اندازه‌گیری است؛ اصلاح مالی به صورت فنی ساده است.
+
+**۲. پایه‌ی حقوق زبان:** اجرای ماده ۱۵ قانون اساسی موجود (دستور دادن به آموزش زبان کمیتی) هم از نظر قانون اساسی مشروع است و هم یکی از مهم‌ترین احساسات نمادین اقلیت‌های آذربایجانی، کرد و عرب را می‌تواند برطرف کند. این یک تغییر اصلاحی با هزینه کم و مشروعیت بالا است که به معنای واقعی تطبیق با نیازهای اقلیت‌ها است بدون ایجاد بحث درباره مالکیت سرزمین. شواهد: منبع ۸۵۱۶ (۲۰۲۵) احساس نگرانی درباره زبان فارسی را به عنوان مانع سیاسی اصلی شناسایی می‌کند؛ با تغییر دید به حقوق زبان به عنوان مجاز در قانون اساسی، مانع حقوقی رفع می‌شود.
+
+**۳. ارث عدم تمرکز اتاریتاریان:** ۳۳۰ شهر ایران با کمیته‌های محلی یک دارایی در گذار هستند. این نهادها، با وجود اینکه توسط ای.ر.ای. به کنترل درآمده‌اند، اداره‌کنندگان محلی را آموزش داده و انتظارات فرآیندی ایجاد کرده‌اند. تاجبکش (۲۰۲۲) می‌گوید که جامعه ایرانی به صورت واقعی به حکمرانی محلی وابسته شده است — "حتی تحت یک چارچوب اتاریتاری عمیق، مردم یاد گرفته‌اند که با نهادهای محلی تعامل داشته باشند." این پایه‌ای است که گذارهای مقایسه‌ای معمولاً از ابتدا باید آن را ساخته باشند.
+
+### قابل انتقال جزیی: مدل عدم تمرکز کلی در اندونزی
+
+دیکرالیزاسیون بیگ بانگ اندونزی در اصل قابل انتقال است اما برای مقیاس و جغرافیای قومی ایران باید تطبیق داده شود. تنظیم اصلی: جغرافیای جزایر اندونزی باعث شد که مرزهای استانی بی‌جدل باشد (آنها با تقسیمات اداری موجود هم‌خط بودند و مرزهای متمرکز بودن قومی را قطع نکردند). اقلیت‌های قومی ایران بیشتر در مناطق تراکمی و تاریخی سیاسی متمرکز هستند — هرگونه عدم تمرکزی که واحد استانی را با مناطق اقلیت آذربایجانی یا کردی هم‌خط کند، باعث ارزیابی فوری خطر انفصال از نیروهای ملی‌گرای فارسی و سپاه پاسداران می‌شود.
+
+تطبیق: عدم تمرکز در ایران باید در نظر گرفتن تفاوت‌های عملکردی (استقلال مالی، حقوق زبانی، کمیته‌های فرهنگی) باشد اما در شکل یکسان بودن (همه ۳۱ استان به یکسانی قدرت‌های حقوقی دریافت می‌کنند، جلوی تفضیل نسبی را می‌گیرد). این مسئله هم استدلال کارایی برای عدم تمرکز را و هم استدلال سیاست‌های نمادین در برابر وضعیت ویژه اقلیت‌های قومی را می‌پوشاند.
+
+### پایین تبدیل پذیری: خطر جداکردن
+
+آمار و داده‌های مقایسه‌ای نشان می‌دهد که ترس از تجزیه و تحلیل منطقی به سمت تفکیک منطقه‌ای به واقعیت نمی‌رسد. تحقیقات مقایسه‌ای به طور مداوم نشان می‌دهد که اقلیت‌های قومی در کشورهایی که عدم تمرکز واقعی وجود دارد، به طور قابل توجهی به تطبیق با اصلیت نسبت به جداکردن وابسته هستند — جداکردن شامل هزینه‌های معاملاتی، قطع اقتصادی و ریسک‌های امنیتی است که اکثر جامعه‌ها را به اجتناب می‌اندازد. خطر جداکردن زمانی افزایش می‌یابد که تطبیق امکان‌پذیر نباشد، نه زمانی که امکان‌پذیر باشد. با این حال، علاقه‌های مؤسسات امنیتی ایران به مرکزیت (عملیات استانی سپاه پاسداران به دستورات مرکزی وابسته است) و این علاقه‌ها به طور کامل به عدم تمرکز مقاومت می‌کنند، به طوری که این یک محدودیت سیاسی است، نه محدودیت طراحی سیاست.
+</div>
 
 > 🟢 **Evidence Confidence: High** — Research questions derived directly from identified gaps in the evidence base; all questions trace to documented empirical uncertainties in the sources analyzed. | 📎 **Source Alignment: 🟢 Strong** (85%)
 
-## Key Research Questions Derived from Analysis
+## سوالات تحقیق کلیدی حاصل از تجزیه و تحلیل
 
-1. **The IRGC veto problem:** The IRGC's provincial command structure gives it institutional interests in centralized territorial control. Under what conditions would the IRGC accept or adapt to a genuinely decentralized governance architecture? Are there decentralization designs that reduce IRGC resistance by preserving security functions while devolving civilian governance?
+1. **مسئله ویتو سپاه پاسداران:** ساختار فرماندهی منطقه‌ای سپاه پاسداران منافع نهادی را در کنترل مرکزی سرزمین ایجاد می‌کند. تحت چه شرایطی سپاه پاسداران پذیرش یا سازگاری با یک معماری حکمرانی فدرال‌گرایانه واقعی را قبول خواهد کرد؟ آیا وجود طرح‌های عدم تمرکز که وظایف امنیتی را حفظ و قدرت حکمرانی مدنی را به پایین‌تر منتقل کند، مقاومت سپاه پاسداران را کاهش می‌دهد؟
 
-2. **The Azeri accommodation paradox:** Azeris are Iran's largest ethnic minority and the most economically and politically integrated — Azerbaijani-Iranians have held top IRI positions. Yet Azeri cultural demands remain intense (language rights, cultural autonomy). Why has high integration failed to reduce cultural grievances, and what does this suggest about the relationship between political integration and cultural accommodation?
+2. **پارادوکس سازگاری آذری‌ها:** آذری‌ها بزرگ‌ترین اقلیت قومی ایران هستند و از نظر اقتصادی و سیاسی بیشترین ادغام را دارند — آذری‌های ایرانی در پست‌های بالای جمهوری اسلامی ایران حضور داشته‌اند. با این وجود، تقاضاهای فرهنگی آذری‌ها هنوز هم شدید است (حقوق زبان، خودمختاری فرهنگی). چرا ادغام بالا نتوانسته تا نارضایتی‌های فرهنگی را کاهش دهد و چه چیزی از رابطه بین ادغام سیاسی و سازگاری فرهنگی را نشان می‌دهد؟
 
-3. **The Kurdish experience counterfactual:** Kurdish communities in Turkey, Iraq, and Syria have pursued radically different accommodation strategies under radically different state responses. What does the cross-Kurdish comparison tell us about which Iranian Kurdish factions' strategies are most likely to succeed under post-transition conditions, and how does PJAK's armed struggle affect broader Kurdish community interests in Iran?
+3. **ضد مثال تجربه کردی:** جوامع کرد در ترکیه، عراق و سوریه به‌طور Radical متفاوت تلاش برای سازگاری کرده‌اند
+در مورد استراتژی‌های مختلف دولت‌ها در پاسخ به تحولات سیاسی. چه چیزی از مقایسه بین کردستان‌های ایران و عراق برای ما می‌گوید؟ و چگونه جنگ مسلحانه PJAK بر منافع جامعه کردی در ایران تأثیرگذار است.
 
-4. **Fiscal devolution sequencing:** Given Iran's dependence on oil revenues collected and distributed centrally, how would genuine fiscal decentralization interact with resource curse dynamics? Would oil-rich Khuzestan (Arab majority) and gas-rich Balochistan gain fiscal advantages that create new inequalities, and what revenue-sharing formulas would produce equitable outcomes?
+4. **ماهیت انتقال مالی:** با توجه به وابستگی ایران به درآمد نفت که جمع‌آوری و توزیع آن مرکزی است، چطور عدم تمرکز مالی واقعی با دینامیک‌های جادوگری منابع (resource curse) تعامل خواهد داشت؟ آیا خوزستان که دارای نفت است (اکثریت عرب) و بلوچستان که دارای گاز است (اقلیت بلوچی) مزیت‌های مالی را در دست خواهند گرفت که منجر به ایجاد نابرابری جدید می‌شود و چه فرمول‌های تقسیم درآمدی برای نتیجه‌ای برابر تولید خواهد کرد؟
 
-5. **Constitutional design for ethnic accommodation:** Should a post-transition Iran's constitutional design follow a territorial autonomy model (Kurdish region, Balochistan region), a non-territorial cultural autonomy model (cultural councils with no territorial jurisdiction), or a federalist model (provinces with constitutional powers)? What does the comparative evidence from Spain's Autonomous Communities, Germany's Länder, and Indonesia's provinces suggest about which model best fits Iran's demographic geography?
-
-6. **Trust deficit and sequencing:** Given decades of IRI instrumentalization of ethnic conflict, how much trust-building would precede effective decentralization reform? Is there evidence from comparable post-authoritarian transitions about the minimum trust threshold required for ethnic accommodation negotiations to succeed?
+5. **طراحی قانون اساسی برای اقناع کردن اقلیت‌ها:** آیا طراحی قانون اساسی پس از گذار باید بر مدل خودمختاری سرزمینی (منطقه کردستان، منطقه بلوچستان) یا مدل غیرسرزمینی خودمختاری فرهنگی (شوراهای فرهنگی بدون قلمرو) یا مدل فدرالیستی (استان) باشد؟
+با توجه به اینکه فدرالیسم چه مزایایی نسبت به سایر مدل ها دارد؟ آیا شواهد مقایسه ای از جوامع خودمختار اسپانیا، لاندر آلمان و استان های اندونزی در مورد این موضوع چه می گویند که کدام یک از مدل ها با جغرافیا جمعیتی ایران سازگارتر است؟
+6. **عدم اعتماد و ترتیب:** آیا decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades
 
 > 🟢 **Evidence Confidence: High** — Source list is derived directly from database query results; all cited sources have been verified in the ITKS database. | 📎 **Source Alignment: 🟢 Strong** (85%)
 
-## Source Attribution
+## منبع شناسی
 
-| Source ID | Authors | Year | Title (abbreviated) | Case Study | Role in Analysis |
+| کد منبع | نویسندگان | سال | عنوان (کوتاه شده) | مطالعه موردی | نقش در تجزیه و تحلیل |
 |-----------|---------|------|---------------------|------------|-----------------|
-| 6751 | Ahmady | 2023 | Ethnic, National and Identity Demands in Iran | Iran | Primary — ethnic group demands analysis |
-| 6789 | — | 2018 | Instrumentalization of Ethnic Conflict by the State | Iran | State manipulation of Kurd-Azeri tensions |
-| 6791 | Tajbakhsh | 2022 | Creating Local Democracy in Iran | Iran | Primary — local democracy under IRI |
-| 8513 | Tajbakhsh | 2020 | Authoritarian State Building through Decentralization | Iran | Mechanism — authoritarian decentralization |
-| 8516 | — | 2025 | The Persian Language: An Element for Achieving Federalism | Iran | Language politics and federalism debate |
-| 6932 | — | 2021 | Right to Self-Determination in Iran's Constitution | Iran | Constitutional analysis |
-| 6818 | — | 2021 | Fiscal Decentralization and Social Welfare in Iran | Iran | Quantitative — fiscal gap evidence |
-| 6829 | — | 2024 | State Decentralization and Good Urban Governance | Iran | Urban governance outcomes |
-| 6861 | — | 2023 | Designing a Model of Political-Economic Decentralization | Iran | Decentralization model design |
-| 6792 | — | 2025 | Decentralization Framework in Iran Pharmaceuticals | Iran | Sectoral decentralization evidence |
-| 6794 | — | 2025 | Strategies for Optimal Administrative Decentralization | Iran | Administrative reform |
-| 6824 | — | 2018 | Legal-Political Factors in Local Government Formation | Iran | Legal-structural constraints |
-| 6849 | — | 2025 | Factors Affecting Convergence and Divergence | Iran | National cohesion dynamics |
-| 6854 | — | 2024 | Model of Decentralization for Iran's Education | Iran | Education decentralization |
-| 6793 | Butt, Lindsey | 2018 | Decentralization (Indonesia chapter) | Indonesia | Big Bang decentralization comparative |
-| 3688 | Brennan, Abímbọlá | 2023 | Decentralisation in Fragile/Post-Conflict Countries | Indonesia | Cross-case capacity requirements |
+| 6751 | احمدی | 2023 | تقاضاهای قومی، ملی و هویت در ایران | ایران | اصلی — تجزیه و تحلیل تقاضاهای گروه قومی |
+| 6789 | — | 2018 | instrumentalization of Ethnic Conflict by the State | ایران |Manipulation دولت از تنش های کرد-آذری |
+| 6791 | تاجبخش | 2022 | ایجاد دموکراسی محلی در ایران | ایران | اصلی — دموکراسی محلی تحت IRI |
+| 8513 | تاجبخش | 2020 | State Building خودمختاری با عدم تمرکز | ایران | مکانیزم — عدم تمرکز خودمختاری |
+| 8516 | — | 2025 | زبان فارسی: یک عنصر برای دستیابی به فدرالیسم | ایران | سیاست های زبان و بحث فدرالیسم |
+| 6932 | — | 2021 | حق تعیین سرنوشت در قانون اساسی ایران | ایران | تجزیه و تحلیل قانون اساسی |
+| 6818 | — | 2021 | عدم تمرکز مالی و رفاه اجتماعی در ایران | ایران |
+معیارهای کلیدی برای استفاده:
+- فدرالیسم = فدرالیسم
+- عدم تمرکز = عدم تمرکز
+- اقلیت قومی = اقلیت قومی
+- خودمختاری = خودمختاری
+- قانون اساسی = قانون اساسی
+- گذار = گذار
+- حکمرانی = حکمرانی
+- سپاه پاسداران = سپاه پاسداران
+- حق تعیین سرنوشت = حق تعیین سرنوشت
+- مشروعیت = مشروعیت
+- جامعه مدنی = جامعه مدنی
+- شواهد = شواهد
 
-**Total sources cited:** 16 (14 Iran, 2 Indonesia)
-**Source reliability range:** 2.65–4.91
-**Average Iran utility score:** 4.97/5.0
+متن:
+| 6829 | — | 2024 | فدرالیسم و حکمرانی شهری خوب | ایران | نتایج حکمرانی شهری |
+| 6861 | — | 2023 | طراحی مدل عدم تمرکز سیاسی-اقتصادی | ایران | طراحی مدل عدم تمرکز |
+| 6792 | — | 2025 | چارچوب عدم تمرکز در داروهای ایران | ایران | شواهد عدم تمرکز در بخش های خاص |
+| 6794 | — | 2025 | استراتژی های بهینه سازی عدم تمرکز اداری | ایران | اصلاحات اداری |
+| 6824 | — | 2018 | عوامل قانونی-سیاسی تشکیل دولت محلی | ایران | محدودیت های ساختاری و حقوقی |
+| 6849 | — | 2025 | عوامل اثرگذار بر همگرایی و واگرایی | ایران | دینامیک یکپارچگی ملی |
+| 6854 | — | 2024 | مدل عدم تمرکز برای آموزش در ایران | ایران | عدم تمرکز آموزشی |
+| 6793 | Butt, Lindsey | 2018 | فدرالیسم (فصل مربوط به اندونزی) | اندونزی | مقایسه عدم تمرکز بزرگ بنگ |
+| 3688 | Brennan, Abímbọlá | 2023 | عدم تمرکز در شرایط شکننده/پس از بحران
+کشورهای درگیر | اندونزی | الزامات ظرفیت‌های موردبررسی |
+**مصادر استناد شده کل:** 16 (14 ایران، 2 اندونزی)
+**رنج محدوده اطمینان از صحت منابع:** 2.65-4.91
+**میانگین امتیاز مفید ایران:** 4.97/5.0
+
+## Implications for Iran
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (16 sources) | 📎 **Source Alignment: 🟡 Moderate** (65%)
 
-## Iran-Specific Policy Implications
+<div dir="rtl" lang="fa">
+## نتیجه‌گیری‌های سیاستی خاص ایران
 
-### Implication 1: Implement Article 15 Before Territorial Restructuring
+### نتیجه‌گیری ۱: اجرای ماده ۱۵ قبل از بازسازی اراضی
 
-Iran's 1979 Constitution (Article 15) already authorizes minority language instruction "alongside Persian." Implementing this provision requires no constitutional amendment — only a Ministry of Education directive. Evidence suggests that language rights are the highest-symbolic, lowest-cost accommodation measure available: Azeri, Kurdish, and Arab communities consistently identify language suppression as a primary grievance driver (Ahmady 2023), yet implementing bilingual education does not alter territorial boundaries or fiscal architecture.
+قانون اساسی ایران سال ۱۳۵۸ (ماده ۱۵) به این امر اجازه می‌دهد که "دستورات زبانی اقلیت در کنار فارسی" ارائه شود. اجرای این ماده نیاز به تغییر قانون اساسی ندارد — فقط دستورالعملی از وزارت آموزش و پرورش کافی است. شواهد نشان می‌دهد که حقوق زبانی از جمله اقدامات تطبیقی نمادین بالا و هزینه پایین است: جامعه‌های آذربایجانی، کردی و عرب به طور مداوم به فشار زبانی به عنوان عامل اصلی ناراحتی اشاره می‌کنند (اهمدی ۲۰۲۳)، اما اجرای آموزش دو زبانی اراضی یا ساختار مالی را تغییر نمی‌دهد.
 
-**Policy priority:** HIGH. **Timeline:** 6-18 months from transition. **Resistance profile:** Strong from Persian cultural nationalists and IRGC information control apparatus; weak from regional governments and minority communities.
+**اولویت سیاستی:** بالا. **زمان‌بندی:** ۶ تا ۱۸ ماه پس از گذار. **پروفایل مقاومت:** قوی از ملی‌گرایان فارسی و ساختار کنترل اطلاعات سپاه پاسداران؛ ضعیف از دولت‌های منطقه‌ای و جوامع اقلیت.
 
-### Implication 2: Convert Existing Councils to Genuine Fiscal Authorities
+### نتیجه‌گیری ۲: تبدیل کنسرسی‌های موجود به نهادهای حقیقی مالی
 
-Iran's 330 municipal councils and 31 provincial councils exist and have trained personnel. The institutional infrastructure for decentralized governance is present. The missing element is fiscal autonomy. A Provincial Revenue Authority Act granting provinces authority to levy regional income taxes, property taxes, and business licenses — retaining 60-70% locally and transferring 30-40% to a central equalization fund — would rapidly operationalize genuine decentralization without creating new institutions.
+کنسرسی‌های شهری ۳۳۰ و استانی ۳۱ ایران وجود دارند و نیروی آموزشی آنها نیز تربیت شده است. اینfrastruktur نهادی برای حکمرانی بدون مرکز وجود دارد. عامل کمبود، استقلال مالی است. اجرای قانون اساسی مالی استانی که به استان‌ها اجازه می‌دهد که مالیات درآمدی محلی، مالیات اموال و مجوزهای کسب و کار را جمع‌آوری کنند، و ۶۰-۷۰ درصد را محلی نگه دارند و ۳۰-۴۰ درصد را به صندوق توزیع مرکزی منتقل کنند، حکمرانی واقعی را بدون ایجاد نهاد جدید به سرعت فعال می‌کند.
 
-**Policy priority:** HIGH. **Timeline:** 18-36 months from transition (requires legislative action). **Critical design element:** Equalization fund is essential to prevent oil-revenue regions (Khuzestan) from capturing advantage that non-resource provinces cannot match.
+**اولویت سیاستی:** بالا. **زمان‌بندی:** ۱۸ تا ۳۶ ماه پس از گذار (نیاز به اقدام قانونگذاری). **عنصر طراحی کلیدی:** صندوق توزیع ضروری است تا مناطقی که درآمد نفتی دارند (کوزهستان) از مزیتی که مناطق غیر منابع نمی‌توانند داشته باشند، بهره‌برداری نکنند.
 
-### Implication 3: Avoid Explicit "Ethnic Federalism" Framing
+### نتیجه‌گیری ۳: اجتناب از تعریف صریح "فدرالیسم قومی"
 
-The research evidence suggests that "ethnic federalism" as a label activates the deepest Persian nationalist anxieties and IRGC resistance, regardless of the actual content of the governance arrangement being proposed. The same substantive arrangements — provincial legislative authority, language rights, cultural councils, fiscal autonomy — are more politically viable when framed as "administrative decentralization," "regional development reform," or "constitutional self-governance" rather than as ethnic accommodation. Indonesia's universal decentralization succeeded partly because it was framed as anti-corruption governance reform, not ethnic rights policy.
+شواهد تحقیقاتی نشان می‌دهد که "فدرالیسم قومی" به عنوان یک برچسب، بیشتر از هر چیز، ترسهای عمیق ملی‌گرایی فارسی و مقاومت سپاه پاسداران را فعال می‌کند، بدون توجه به محتوای واقعی حکمرانی که پیشنهاد می‌شود. همان محتوای مادی — اختیار قانونگذاری استانی، حقوق زبانی، کنسرسی‌های فرهنگی، استقلال مالی — در صورت تعریف به عنوان "dezentralizasyon اداری"، "reform توسعه منطقه‌ای" یا "حکمرانی خودگردانی قانون اساسی" به طور سیاسی قابل پیاده‌سازی‌تر است، نه به عنوان تطبیق با اقلیت. موفقیت توزیع یکنواخت در اندونزی جزء این امر بود که به عنوان reform حکمرانی ضد فساد، نه سیاست حقوق قومی، ارائه شد.
 
-**Policy implication:** Substance over signaling. Frame ethnic accommodation provisions in administrative-technical language rather than identity-political language in the initial legislative phase; identity recognition can follow once institutions are established.
+**نتیجه‌گیری سیاستی:** محتوا بر نماد. در فاز اولیه قانونگذاری، مزایای اقلیت را با زبان‌های اداری-تکنیکی به جای زبان‌های سیاسی-هIdentitet ارائه کنید؛ شناخت اIdentitet می‌تواند پس از ایجاد نهادها انجام شود.
 
-### Implication 4: Prioritize the Kurdish Question as a Confidence-Building Mechanism
+### نتیجه‌گیری ۴: اولویت‌بندی سؤال کردی به عنوان مکانیسم ساختن اعتماد
 
-The Kurdish question is the most internationally visible ethnic issue in Iran and the one with the largest diaspora political infrastructure. Unlike Azeri or Arab communities, Kurdish organizations have institutional representation across Iraq, Turkey, and Syria and documented negotiation experience. A post-transition government that initiates credible negotiations with Kurdish political organizations — offering language rights, cultural autonomy, and genuine provincial self-governance — sends a signal to all ethnic minority communities about the credibility of the accommodation agenda. The Kurdish case is the "test case" that will determine whether other communities believe accommodation promises are real.
+سؤال کردی بیشترین مسئله قومی بین‌المللی در ایران است و دارای بزرگترین اینfrastructur سیاسی اقلیت دیسپورا است. در مقایسه با جامعه‌های آذربایجانی یا عرب، سازمان‌های کردی نمایندگی نهادی در عراق، ترکیه و سوریه دارند و تجربه نمودار در نمودارهای مذاکره دارند. دولت پس از گذاری که با سازمان‌های سیاسی کردی اقدام به مذاکره‌ای قابل اعتماد می‌کند — ارائه حقوق زبانی، خودمختاری فرهنگی و حکمرانی واقعی استانی — سیگنالی به تمام جوامع اقلیت در مورد واقعی بودن این برنامه تطبیقی ارسال می‌کند. مورد کردی، مورد آزمایشی است که تعیین می‌کند دیگر جوامع چقدر به وعده‌های تطبیقی واقعی باور دارند.
+</div>
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (16 sources) | 📎 **Source Alignment: 🟢 Strong** (85%)
 
-## Research Gaps and Knowledge Limitations
+## شکاف‌های پژوهشی و محدودیت‌های دانش
 
-### Gap 1: Iran-Specific Ethnic Accommodation Elite Preferences — No Survey Data
+### شکاف 1: فدرالیسم در ایران - ترجیحات نخبگان اقلیت قومی - absence داده‌های نظرسنجی
 
-The most critical missing evidence is systematic survey data on elite preferences for ethnic accommodation models within Iran's post-transition political landscape. Ahmady (2023) documents community-level demands but does not capture elite-level willingness to accept various accommodation models. Comparative transitions (South Africa, Spain) succeeded when inter-elite bargaining preceded popular referenda. We do not know whether Iranian reformist elites, diaspora political organizations, ethnic political parties (KDPI, Komala, South Azerbaijan movements), or pragmatic IRI insiders have converging or diverging preferences on territorial governance — and this convergence is the prerequisite for successful accommodation.
+داده مهم absent در این زمینه، داده‌های نظرسنجی سیستماتیک از ترجیحات نخبگان برای مدل‌های اقلیم سازی قومی در پسا گذار سیاسی ایران است. Ahmady (2023) درخواست‌های سطح جامعه را مستند می‌کند اما ترجیحات نخبگان را برای پذیرش مدل‌های اقلیم سازی مختلف نمی‌گیرد. انتقال‌های مقایسه‌ای (آفریقای جنوبی، اسپانیا) موفقیت‌آمیز بود هنگامی که مذاکرات بین نخبگان قبل از همه‌پرسی مردم انجام شد. ما نمی‌دانیم که آیا نخبگان اصلاح‌طلب ایرانی، سازمان‌های سیاسی تبعیدی، احزاب سیاسی قومی (KDPI، Komala، جنبش‌های آذربایجان جنوبی)، یا درون‌زیانگرهای پویا IRI ترجیحات همسو یا مخالف خودمختاری در حکمرانی منطقه‌ای را دارند و این همسویی پیش شرط موفقیت اقلیم سازی است.
 
-**Research needed:** Structured elite interviews with Iranian political figures across ethnic and political spectrum, supplemented by analysis of published political programs of opposition organizations.
+**نیاز به تحقیق:** مصاحبه‌های ساختار یافته با سیاستمداران ایرانی از طیف‌های مختلف قومی و سیاسی، همراه با تجزیه و تحلیل
+برنامه‌های سیاسی سازمان‌های مخالف منتشر شده است.
 
-### Gap 2: Baloch and Arab Communities — Substantially Under-Researched
+### شکاف 2: جوامع بلوچ و عربی - شدیداً تحت‌تحقیق هستند
 
-The existing literature is heavily concentrated on Azeri and Kurdish communities, which are better organized and have more international visibility. Balochistan and Khuzestan (Arab majority) are severely under-researched. The Baloch case is particularly significant: Sistan-Baluchestan province is Iran's poorest, most peripheral, and most affected by state security operations (IRGC Quds Force operations in Pakistan border region). The few available sources suggest Baloch demands are the least accommodated and the most likely to radicalize toward separatism under continued denial — but the research base is too thin to support confident analysis.
+ادبیات موجود به طور سنگین بر جوامع آذری و کرد متمرکز است که بهتر سازماندهی شده‌اند و دارای بیشترین بین‌المللی بودن هستند. بلوچستان و خوزستان (با اکثریت عرب) شدیداً تحت تحقیق قرار دارند. مورد خاص بلوچ، بسیار مهم است: استان سیستان و بلوچستان فقیرترین، دورافتاده‌ترین و بیشتر تحت تأثیر عملیات امنیتی دولت (سپاه پاسداران قواال قدس در منطقه مرزی پاکستان) است. چند منبع موجود نشان می‌دهد که تقاضاهای بلوچ کمترین پذیرش را دارند و احتمالاً به سمت جدایی‌طلبی Radicalize می‌شوند - اما پایه تحقیقاتی کافی برای تحلیل مطمئن وجود ندارد.
 
-### Gap 3: IRGC Decentralization Veto — No Systematic Analysis
+### شکاف 3: حق ветو بر عدم تمرکز سپاه پاسداران - بدون تجزیه و تحلیل سیستماتیک
 
-The IRGC's provincial command structure (Sepah-e Pasdaran has provincial commands that parallel civilian provincial governments) constitutes a structural obstacle to genuine decentralization. However, no published research systematically analyzes how IRGC provincial interests conflict with genuine territorial devolution or what reform sequencing would minimize IRGC resistance. This is partly an access problem (IRGC internal documents are not publicly available) but the gap is significant for policy design.
+ساختار فرماندهی منطقه‌ای سپاه پاسداران (سپاه پاسداران دارای فرماندهی‌های منطقه‌ای است که با حکومت‌های استان‌های مدنی هم‌مرتبه هستند) یک ساختار تشکیل دهنده یک حق ویتو بر عدم تمرکز را تشکیل می‌دهد
+عقبه اصلی برای عدم تمرکز واقعی است. با این حال، هیچ تحقیق منتشر شده‌ای به طور سیستماتیک آنالیز می‌کند که چگونه منافع منطقه‌ای سپاه پاسداران با انحطاط سرزمینی واقعی در تضاد هستند یا چه ترتیب اصلاحاتی را باید برای کاهش مقاومت سپاه پاسداران استفاده کرد. این بخشی از یک مشکل دسترسی است (دокумент‌های داخلی سپاه پاسداران به طور عمومی در دسترس نیستند) اما این شکاف برای طراحی سیاست مهم است.
 
-### Gap 4: Cross-Case Decentralization Outcomes in Majority-Shi'a Contexts
+### شکاف 4: نتایج عدم تمرکز در زمینه‌های اکثریت شیعه
 
-The Indonesia comparison is the strongest available, but Indonesia's Sunni-majority Islam generates different ethnic-religious dynamics than Shi'a-dominant Iran. Lebanon's consociational system and Iraq's post-2003 ethno-sectarian governance offer negative lessons, but comparable positive cases — ethnically diverse Shi'a-majority or Shi'a-significant states that have successfully managed ethnic accommodation — are largely absent from the literature. This leaves a comparative gap in understanding whether religious authority (marjaiya) interacts with territorial governance in ways that the secular decentralization literature does not capture.
+مقایسه ایران با اندونزی قوی‌ترین مورد موجود است، اما اسلام اکثریت سنی اندونزی دینامیک قومی-دینی را ایجاد می‌کند که با دینامیک شیعی غالب ایران متفاوت است. سیستم کنسیاسیون لبنان و حکمرانی پس از 2003 عراق در زمینه‌های قومی-مذهبی منفی درس‌هایی ارائه می‌دهد، اما موارد مثبت قابل مقایسه - ایالت‌های شیعه اکثریت یا مهم شیعه که به طور موفقیت‌آمیز accommodation قومی را مدیریت کرده‌اند - تقریباً در ادبیات موجود وجود ندارد. این شکاف مقایسه‌ای را برای درک اینکه آیا قدرت مذهبی (مرجعیا) با حکومت بر سرزمین‌ها تعامل دارد، ایجاد می‌کند
+حکمرانی مدنی در راه‌هایی که ادبیات عدم تمرکز سکولار نمی‌تواند آن را ضبط کند.
 
 > 🟢 **Evidence Confidence: High** — Summary accurately reflects the evidence patterns documented in the full article. | 📎 **Source Alignment: 🟢 Strong** (85%)
 
-Iran is home to five major ethnic groups — Persian, Azeri, Kurdish, Arab, and Baloch — who together constitute nearly half the population. This article examines what academic research from Iran and comparable transitions (particularly Indonesia) tells us about how to design governance arrangements that accommodate ethnic diversity without triggering national fragmentation. The key finding: genuine fiscal and administrative decentralization — giving Iran's 31 provinces real authority over local budgets and services — reduces ethnic grievances more effectively than either continued centralization or explicit "ethnic federalism" arrangements. Iran already has local councils and provincial governments that were created by the Islamic Republic; these can be converted into genuinely self-governing institutions. Language rights for minority communities, already authorized by Iran's own 1979 constitution, should be implemented early as a low-cost signal of accommodation. The evidence consistently shows that ethnic minorities prefer accommodation to secession when accommodation is credible — the separatism risk comes from denying accommodation, not from granting it.
+<div dir="rtl" lang="fa">
+ایران مسکن پنج گروه قومی اصلی — پشتو، آذربایجانی، کرد، عرب و بلوچ — است که همگی به تنهایی تقریباً نیمی از جمعیت کشور را تشکیل می‌دهند. این مقاله به بررسی آنچه که تحقیقات علمی ایرانی و موارد تبدیلی مشابه (به ویژه اندونزی) درباره نحوه طراحی روش‌های حکمرانی که می‌تواند تنوع قومی را بدون ایجاد تکه‌بندی کشور پذیرفته شود، به ما می‌گویند. یافته اصلی: عدم تمرکز واقعی در مالی و اداری — یعنی اعطای ۳۱ استان ایران حق واقعی بر روی بودجه و خدمات محلی — احتجاجات قومی را به طور مؤثرتری از هر دو تمرکز مداوم یا ارائه صریح "فدرالیسم قومی" کاهش می‌دهد. ایران قبلاً دارای شوراهای محلی و حکومت‌های استانی است که توسط جمهوری اسلامی ایجاد شده‌اند؛ این می‌توانند به مؤسسه‌های واقعاً خودمختار تبدیل شوند. حقوق زبانی برای جوامع اقلیت قومی، که قبلاً توسط قانون اساسی ۱۳۵۸ ایران مجاز شده‌است، باید به سرعت اجرا شود به عنوان یک سیگنال پایین هزینه از پذیرش. شواهد به طور مداوم نشان می‌دهند که اقلیت‌های قومی به پذیرش نسبت به جدا شدن می‌پردازند زمانی که پذیرش واقعی است — خطر جدا شدن از دست دادن پذیرش نیست، بلکه از ارائه آن است.
+</div>

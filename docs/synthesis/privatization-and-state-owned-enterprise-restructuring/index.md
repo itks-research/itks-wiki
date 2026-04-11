@@ -1,6 +1,6 @@
-# Privatization and state-owned enterprise restructuring
+# خصوصی‌سازی و بازسازی شرکت‌های دولتی
 
-*Economic* · 2 articles · 213 sources
+*اقتصادی* · 2 مقاله · 213 منبع
 
 - [Employee Buyouts and Mass Privatization: Poland's Ownership Transformation and Iran's SOE Challenge](employee-buyouts-and-mass-privatization-polands-ownership-transformation-and-ira.md)
 - [Shock Therapy vs. Gradualism: Privatization Lessons from Poland and Czech Republic](shock-therapy-vs-gradualism-privatization-lessons-from-poland-and-czech-republic.md)

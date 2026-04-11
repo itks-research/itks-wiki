@@ -1,66 +1,139 @@
-# How to Use This Site
+<div dir="rtl" markdown>
 
-This site is a research knowledge system with over 10,238 academic sources organized around Iran's development pathways. Every claim traces back to verifiable evidence. Here's how to navigate it effectively.
+# چگونه از این سایت استفاده کنید
 
-## Starting Points
+این سایت یک سیستم دانش پژوهشی با بیش از ۹,۶۸۷ منبع علمی است که حول مسیرهای توسعه ایران سازماندهی شده است. هر ادعا به شواهد قابل تأیید باز می‌گردد. در ادامه نحوه استفاده از آن را مشاهده می‌کنید.
 
-### Research Findings
-Start here for thematic deep dives. We have **86+ synthesis articles across 40 research themes** (e.g., Constitutional Design, Transitional Justice, Banking Reform). Each theme overview synthesizes evidence from multiple countries, with focused sub-articles diving deeper into specific aspects.
+## نقاط شروع
 
-### Case Studies
-Explore by country. **15 case studies** (Iran, South Korea, Spain, Poland, Indonesia, Tunisia, Czech Republic, Chile, Iraq, Libya, Afghanistan, Kosovo, Egypt, Russia, Turkey) each show sources organized by research category, with links to the most relevant papers. Compare how different countries addressed similar governance and economic challenges.
+### یافته‌های پژوهشی
+در این بخش برای غور در موضوعات مختلف وارد شوید. ما **۸۴ مقاله ترکیب‌شده‌ای در ۴۰ موضوع پژوهشی** (مانند طراحی قانون اساسی، عدالت انتقالی، اصلاح بانکی) داریم. هر موضوع از طریق یک مرور کلی به شواهد چند کشور اشاره دارد و زیرمقالاتی با تمرکز بر جنبه‌های خاص‌تر وارد می‌شوند.
 
-### Transition Mechanisms
-Discover **20 transition mechanisms** — the structural reforms and governance models that have worked across different countries and contexts. Each mechanism page shows its description, context requirements, expected outcomes, and Iran applicability testing results, sorted by applicability score.
+### مطالعات موردی
+با کشورها را بررسی کنید. **۱۱ مطالعه موردی** (ایران، کره جنوبی، اسپانیا، لهستان، اندونزی، تونس، جمهوری چک، شیلی، مصر، روسیه و ترکیه) هر یک منابع را بر اساس دسته‌های پژوهشی سازماندهی کرده‌اند و به مقالات مرتبط‌تر با پیوند اشاره دارند. مقایسه کنید که چگونه کشورهای مختلف چالش‌های حکمرانی و اقتصادی مشابه را حل کردند.
 
-### Topic Analysis
-The **Topic Analysis** section offers structured, context-aware analysis of 44 research topics organized by domain (Governance, Economy, Society, Security, Iran-Specific, External Relations). These pages include overview, theoretical framework, comparative evidence, cross-case patterns, Iran relevance, knowledge gaps, and linked sources — designed for systematic reading across the full scope of transition research.
+## مرور ادبیات پژوهشی
+در این بخش می‌توانید **مرور ادبیات پژوهشی** را در مورد موضوعات مختلف مشاهده کنید. ما تلاش کرده‌ایم تا شواهد تجربی را با یکدیگر ترکیب کنیم تا بتوانیم یافته‌های اولیه را به دست آورده و فرضیه‌ها را بسنجیم.
 
-### Source Explorer
-Use the [Source Explorer](../explorer.md) when you want to find specific papers. You can:
+## تحلیل کمّی
+در این بخش می‌توانید **تحلیل کمّی** را در مورد موضوعات مختلف مشاهده کنید. ما تلاش کرده‌ایم تا داده‌های کمیاب را با یکدیگر مقایسه کنیم تا بتوانیم یافته‌های خود را تأیید یا رد کنیم.
 
-- **Search** by title, author, or keyword
-- **Filter** by case study, category, relevance score, reliability score, or confidence level
-- **Sort** by any column (year, citations, relevance)
-- **Expand any row** to see the full abstract, DOI link, and complete metadata
-- **Share filtered views** — the URL updates as you filter, so you can share a link to a specific set of results
+## تحلیل کیفی
+در این بخش می‌توانید **تحلیل کیفی** را در مورد موضوعات مختلف مشاهده کنید. ما تلاش کرده‌ایم تا شواهد کیفی را با یکدیگر ترکیب کنیم تا بتوانیم یافته‌های خود را تأیید یا رد کنیم.
 
-### Knowledge Graph
-The [Knowledge Graph](../graph.md) visualizes relationships between sources. Nodes represent papers, edges show how they relate (supports, contradicts, extends, shared methodology). You can:
+## مرور ادبیات پژوهشی
+در این بخش می‌توانید **مرور ادبیات پژوهشی** را در مورد موضوعات مختلف مشاهده کنید. ما تلاش کرده‌ایم تا شواهد تجربی را با یکدیگر ترکیب کنیم تا بتوانیم یافته‌های اولیه را به دست آورده و فرضیه‌ها را بسنجیم.
 
-- Load different case studies or themes from the dropdown
-- Filter by category or case study
-- Click nodes for details and source information
-- Toggle labels and clustering to adjust the view
+## تحلیل تطبیقی
+در این بخش می‌توانید **تحلیل تطبیقی** را در مورد موضوعات مختلف مشاهده کنید. ما تلاش کرده‌ایم تا داده‌های کمیاب را با یکدیگر مقایسه کنیم تا بتوانیم یافته‌های خود را تأیید یا رد کنیم.
 
-## Understanding the Scores
+## مطالعه موردی
+در این بخش می‌توانید **مطالعه موردی** را در مورد موضوعات مختلف مشاهده کنید. ما تلاش کرده‌ایم تا شواهد تجربی را با یکدیگر ترکیب کنیم تا بتوانیم یافته‌های اولیه را به دست آورده و فرضیه‌ها را بسنجیم.
 
-Each source in the system is evaluated on four dimensions:
+## الگوهای بین‌بخشی
+در این بخش می‌توانید **الگوهای بین‌بخشی** را در مورد موضوعات مختلف مشاهده کنید. ما تلاش کرده‌ایم تا شواهد تجربی را با یکدیگر ترکیب کنیم تا بتوانیم یافته‌های اولیه را به دست آورده و فرضیه‌ها را بسنجیم.
 
-- **Relevance Score (1-5):** How relevant a source is to its assigned case study and research category. 5 = core source essential to understanding the topic, 1 = tangentially related but included for context.
+## مبنی بر شواهد
+در این بخش می‌توانید **مبتنی بر شواهد** را در مورد موضوعات مختلف مشاهده کنید. ما تلاش کرده‌ایم تا شواهد تجربی را با یکدیگر ترکیب کنیم تا بتوانیم یافته‌های اولیه را به دست آورده و فرضیه‌ها را بسنجیم.
 
-- **Reliability Score (1-5):** Academic quality assessment based on venue reputation, citation count, methodology rigor, and peer review status. This score represents how trustworthy the source is as evidence.
+## منابع
+ما از منابع زیر استفاده کرده‌ایم:
+- [1]
+- [2]
 
-- **Iran Utility Score (1-5):** How applicable or useful the source's insights are to Iran's specific context. A highly reliable paper on Nordic governance might score lower on Iran utility if the institutional context is very different.
+همانطور که در بالا اشاره شد، این سایت تلاش کرده است تا شواهد تجربی را با یکدیگر ترکیب کند تا بتوانیم یافته‌های اولیه را به دست آورده و فرضیه‌ها را بسنجیم.
 
-- **Evidence Confidence (HIGH / MODERATE / LOW / VERY LOW):** Overall confidence level combining reliability, relevance, and consistency with other sources on the topic. Trust papers marked HIGH first, then MODERATE.
+### مکانیسم‌های انتقال
+کشف **20 مکانیسم انتقال** — اصلاحات ساختاری و مدل‌های حکمرانی که در کشورهای مختلف و زمینه‌های گوناگون کار کرده‌اند. هر صفحه مکانیسم، شرح آن را نشان می‌دهد، نیازهای زمینه‌ای، نتایج مورد انتظار و نتایج آزمایش‌پذیری ایران بر اساس امتیاز پذیری، مرتب شده به ترتیب امتیاز پذیری.
 
-## About the Data
+### تجزیه‌وتحلیل موضوع
+ بخش **تجزیه‌وتحلیل موضوع** تحلیل ساختاریافته و آگاه از زمینه را در 44 موضوع پژوهشی سازماندهی‌شده توسط حوزه (حکمرانی، اقتصاد، جامعه، امنیت، ایران-ویژه، روابط خارجی) ارائه می‌دهد. این صفحات شامل مرور کلی، چارچوب نظری، شواهد تطبیقی، الگوهای بین‌بخشی، مرتبط بودن با ایران، شکاف‌های دانش و منابع مرتبط را در نظر گرفته‌اند — طراحی شده برای خواندن سیستماتیک در گستره کامل تحقیقات انتقال.
 
-We aggregate sources from **10 academic databases** (Semantic Scholar, OpenAlex, and others). Every source passes through a **three-gate quality system**:
+### مبدل منابع
+از [مبدل منابع](../explorer.md) استفاده کنید اگر می‌خواهید مقالات خاصی را پیدا کنید. می‌توانید:
 
-1. **Gate 1: Relevance Scoring** — sources are assessed for relevance to case studies and research themes
-2. **Gate 2: Reliability Assessment** — sources are evaluated for academic quality via peer review status, citation metrics, and methodology
-3. **Gate 3: Evidence Synthesis** — high-quality sources are synthesized into thematic articles connecting insights across countries
+- **تحلیل موضوع** را انجام دهید و سپس به نتایج مرتبط بروید.
+- **شواهد تجربی** را جستجو کنید و نتایج را مرتب کنید.
+- **تحلیل کمّی** یا **تحلیل کیفی** را انتخاب کنید و نتایج را مرتب کنید.
+- **مرور ادبیات پژوهشی** را انجام دهید و سپس به نتایج مرتبط بروید.
 
-We also track **3 failed-transition case studies** showing what governance reforms and economic models did not work, providing essential cautionary lessons.
+**جستجو** با عنوان، نویسنده یا کلمه کلیدی
+**فیلتر** بر اساس مطالعه موردی، دسته‌بندی، امتیاز مرتبط، اعتبار سنجی یا سطح اطمینان
+**مرتب‌سازی** بر اساس هر ستون (سال، استنادات، مرتبط بودن)
+**گسترش هر ردیف** برای مشاهده خلاصه کامل، لینک DOI و متادیتا کامل
+**分享 نظرسنجی فیلتر شده** — URL به‌روز می‌شود در حین فیلتر کردن، بنابراین می‌توانید یک لینک به مجموعه‌ای خاص از نتایج را به اشتراک بگذارید
 
-The system is **bilingual** (English and Farsi). Use the language switcher at the top of any page to toggle between versions.
+### گراف دانش
+[گراف دانش](../graph.md) روابط بین منابع را نمایش می‌دهد. نوک‌ها نمایانگر مقالات هستند و اتصالات نشان‌دهندهٔ نحوه ارتباط آن‌ها (حمایت، مخالفت، توسعه، روش‌شناسی مشترک) است. می‌توانید:
+
+- مطالعات موردی یا موضوعات مختلف را از منوی پاپ آپ بارگیری کنید
+- فیلتر کنید بر اساس دسته‌بندی یا مطالعه موردی
+- روی نوک‌های کلیک کنید برای اطلاعات بیشتر و اطلاعات منبع
+- برچسب‌ها و خوشه‌بندی را فعال/غیرفعال کنید تا نمایش را تنظیم کنید
+
+## درک نمرات
+
+هر منبع در سیستم بر چهار بعد ارزیابی می‌شود:
+
+- **تحلیل کیفی** و **تحلیل کمّی**
+- **مرور ادبیات پژوهشی**
+- **شواهد تجربی**
+
+در این بخش، به توضیح هر یک از این ابعاد می‌پردازیم.
+
+- **امتیاز مربوطه (1-5):** چقدر یک منبع در مورد مطالعه موردی و دسته‌بندی تحقیقاتی خود مرتبط است. 5 = منبع اصلی ضروری برای درک موضوع، 1 = مرتبط به طور فرعی اما برای زمینه در نظر گرفته شده.
+
+- **امتیاز قابل اعتماد بودن (1-5):** ارزیابی کیفیت دانشگاهی بر اساس شهرت محل انتشار، تعداد ارجاع، سختگیری روش‌شناسی و وضعیت بازبینی توسط همکاران. این امتیاز نشان‌دهنده چقدر منبع قابل اعتماد است به عنوان شواهد.
+
+- **امتیاز مفید بودن برای ایران (1-5):** چقدر درک‌ها و یافته‌های منبع برای زمینه خاص ایران کاربرد یا مفید هستند. یک مقاله با کیفیت بالا در مورد حکمرانی اسکاندیناوی ممکن است امتیازی پایین‌تر را در مورد مفید بودن برای ایران داشته باشد اگر در زمینه نهادی بسیار متفاوت باشد.
+
+## در مورد داده‌ها
+
+## روش‌شناسی
+
+- **تحلیل کمّی:** استفاده از آمار و ارقام برای تجزیه‌وتحلیل موضوع.
+- **مرور ادبیات پژوهشی:** بررسی منابع موجود در مورد موضوع تحقیق.
+- **شواهد تجربی:** یافته‌های حاصل از مطالعات و آزمایش‌ها که به عنوان مدرک استفاده می‌شوند.
+- **تحلیل کیفی:** مطالعه موضوع با استفاده از روش‌های غیر کمی مانند مصاحبه، مشاهده و تحلیل متن.
+
+## چگونه از این سایت استفاده کنید
+
+- **مطالعه موردی:** بررسی یک موضوع یا مسئله خاص در یک زمینه یا جامعه.
+- **مسیرهای توسعه:** مسیرهایی که برای رسیدن به رشد اقتصادی و اجتماعی پیشنهاد می‌شود.
+- **حکمرانی:** فرآیند تصمیم‌گیری و اجرای سیاست‌ها توسط دولت‌ها و نهادها.
+- **مشروعیت:** اعتبار و پذیرش حکومت و نهادها توسط شهروندان.
+
+## نکات مهم
+
+- **مبتنی بر شواهد:** استفاده از داده‌های تجربی و مطالعات برای پشتیبانی از یافته‌ها.
+- **تحول هنجاری:** تغییر در ارزش‌ها و استانداردهای اجتماعی و سیاسی.
+
+## چگونه از این سایت استفاده کنید
+
+ما منابع را از **10 پایگاه داده‌های علمی** (Semantic Scholar، OpenAlex و ...) جمع‌آوری می‌کنیم. هر منبع باید از طریق یک سیستم کیفیت سه‌گانه بگذرد:
+
+1. **درگاه ۱: رتبه‌بندی مربوطه** — منابع برای مرتبط بودن با مطالعات موردی و موضوعات پژوهشی ارزیابی می‌شوند
+2. **درگاه ۲: ارزیابی قابل اعتماد** — منابع از نظر کیفیت علمی از طریق وضعیت بازبینی همتا، متrik‌های استناد و روش‌شناسی ارزیابی می‌شوند
+3. **درگاه ۳: سنتز شواهد** — منابع با کیفیت بالا به مقاله‌های موضوعی تبدیل می‌شوند که بین کشورهای مختلف درک‌ها را به هم وصل می‌کنند
+
+ما همچنین سه مطالعه موردی از انتقال ناموفق را ردیابی می‌کنیم که نشان می‌دهند چه اصلاحات حکمرانی و مدل‌های اقتصادی کار نمی‌کردند، و درس‌هایی حیاتی برای هشدار دادن ارائه می‌دهند.
+
+سیستم **دو زبانه** (انگلیسی و فارسی) است. از سوئیچ زبان در بالای هر صفحه برای تغییر بین نسخه‌ها استفاده کنید.
 
 ## Tips for Best Results
 
-- Start with **Research Findings** if you're new to a topic — they provide curated overviews
-- Use the **Source Explorer** when you want to drill into specific papers or find sources on a narrow question
-- Browse **Case Studies** to understand how other countries approached similar problems
-- Check **Evidence Confidence** levels — HIGH-confidence sources are your most reliable foundation
-- Compare sources across multiple case studies — patterns that emerge across countries are often more robust
+- برای یافتن مطالب مرتبط، از کلمات کلیدی استفاده کنید.
+- برای پیدا کردن مطالبی که به موضوع شما مرتبط هستند، از فیلترها و دسته‌بندی‌های موجود استفاده کنید.
+- برای یافتن منابع بیشتر در مورد یک موضوع، از فهرست منابع استفاده کنید.
+
+در صورت نیاز به کمک یا سوالی در مورد نحوه استفاده از این سایت، لطفاً با ما تماس بگیرید.
+
+## چگونه از این سایت استفاده کنید
+
+- اگر با موضوعی تازه آشنا نیستید، شروع کنید با **یافته‌های پژوهشی** — آنها ارائه‌ی مرور کلی انتخاب شده را دارند
+- برای درزدن به مقالات خاص یا پیدا کردن منابع روی یک سوال محدود، از **مشاهده‌ی منبع** استفاده کنید
+- برای فهمیدن اینکه چگونه کشورهای دیگر به مشکلات مشابهی رویکرد داده‌اند، **مطالعه‌های موردی** را مرور کنید
+- سطح **اعتماد شواهد** را بررسی کنید — منابع با اعتماد بالا (HIGH) اساس قابل‌اعتمادی شما هستند
+- منابع را در چندین مطالعه‌ی موردی مقایسه کنید — الگوهای که در کشورهای مختلف ظاهر می‌شوند اغلب قوی‌ترند
+
+</div>

@@ -1,176 +1,174 @@
-# Comparative Analysis: Constitutional Design and Drafting Processes
+<div dir="rtl" markdown>
 
-**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-29 06:07:29
+# تحلیل تطبیقی: طراحی قانون اساسی و فرآیندهای تدوین آن
 
-# Comparative Analysis: Constitutional Design and Drafting Processes
-
-## Metadata
-- **Category:** Constitutional design and drafting processes
-- **Case Studies:** South Korea, Spain, Tunisia, Chile, Iraq, Romania, Philippines, South Africa, Poland, Hungary
-- **Sources Analyzed:** 225 (0 full-text, 225 abstract-only)
-- **Date Generated:** 2026-03-28
-- **Impact Level:** medium
+## فراداده
+- **دسته‌بندی:** Constitutional design and drafting processes
+- **مطالعات موردی:** کره جنوبی، اسپانیا، تونس، چیلی، عراق، رومانی، فیلیپین، آفریقای جنوبی، لهستان، مجارستان
+- **منابع تحلیل‌شده:** ۲۲۵ (۰ متن کامل، ۲۲۵ فقط چکیده)
+- **تاریخ تولید:** 2026-03-28
+- **سطح تأثیر:** متوسط
 
 ---
 
-## Part I: Broad Synthesis
+## بخش اول: ترکیب کلی
 
-### 1. Overview
+### ۱. مرور کلی
 
-Constitutional design sits at the intersection of all four ITKS pillars. The choice of how a constitution is written — who participates, what processes structure deliberation, and how competing interests are balanced — shapes the institutional foundations on which prosperity, personal freedoms, economic strength, and sovereignty depend for decades afterward. The ITKS corpus contains 269 scored sources spanning South Korea (54), Spain (101), and Tunisia (70), plus comparative studies covering Latin America, Africa, the Middle East, and post-communist Europe.
+طراحی قانون اساسی در تقاطع تمام چهار ستون ITKS قرار دارد. انتخاب روش تدوین قانون اساسی — کیان مشارکت می‌کند، چه فرآیندهایی مباحثات را ساختاربندی می‌کنند، و چگونه منافع متنافع متوازن می‌شوند — بنیادهای نهادی را شکل می‌دهد که رفاه، آزادی‌های شخصی، قدرت اقتصادی و حاکمیت برای دهه‌های آینده بر آن تکیه دارند. مجموعه متون ITKS شامل ۲۶۹ منبع امتیازدهی‌شده است که بر کره جنوبی (۵۴)، اسپانیا (۱۰۱)، و تونس (۷۰) را پوشش می‌دهد، به‌علاوه مطالعات تطبیقی که آمریکای لاتین، آفریقا، خاورمیانه، و اروپای پس‌از کمونیسم را شامل می‌کند.
 
-The literature has moved beyond the binary of "good constitutions" versus "bad constitutions" toward a more sophisticated understanding of *process* as determinant of *outcome*. Ginsburg, Elkins, and Blount (2009) demonstrate empirically that the median national constitution survives only 19 years, and that process variables — participation breadth, amendment flexibility, and power distribution — significantly predict longevity. Arato (2016) theorizes this as "post-sovereign constitution making," arguing that negotiated two-stage processes (roundtable plus elected assembly) outperform both revolutionary constituent assemblies and elite-imposed documents.
+ادبیات فراتر از دوگانه‌ی «قوانین اساسی خوب» در برابر «قوانین اساسی بد» حرکت کرده است و به سوی درک پیشرفته‌تری از *فرآیند* به عنوان تعیین‌کننده *نتیجه* رفته است. Ginsburg, Elkins, و Blount (2009) به‌طور تجربی نشان می‌دهند که قانون اساسی ملی متوسط تنها ۱۹ سال دوام می‌آورد، و متغیرهای فرآیند — پهنای مشارکت، انعطاف‌پذیری تعدیل، و توزیع قدرت — به‌طور معنادار دوام‌پذیری را پیش‌بینی می‌کنند. Arato (2016) این را به عنوان «تدوین قانون اساسی پس‌از حاکمیت» نظری‌سازی می‌کند، استدلال می‌کند که فرآیندهای دو‌مرحله‌ای توافق‌یافته (میز گرد به‌علاوه مجمع انتخاب‌شده) از هر دو مجمع تشکیل‌دهنده انقلابی و اسناد تحمیلی از سوی نخبگان بهتر عمل می‌کنند.
 
-The centrality of this topic to Iran is self-evident. Iran's 1979 Constitution, amended in 1989, established the *velayat-e faqih* system and the Guardian Council's legislative veto — institutional choices that have defined the boundaries of political possibility for four decades. Any transition scenario involves constitutional redesign as the foundational act, making the comparative evidence on process design directly operational.
+اهمیت مرکزی این موضوع برای ایران واضح است. قانون اساسی ایران در سال ۱۳۵۸، اصلاح‌شده در سال ۱۳۶۸، سیستم *ولایت فقیه* و وتوی قانونی شورای نگهبان را برقرار کرد — انتخاب‌های نهادی که برای چهار دهه مرزهای امکان سیاسی را تعریف کرده‌اند. هر سناریوی گذار شامل بازتدوین قانون اساسی به عنوان عمل بنیادی است، که شواهد تطبیقی را در مورد طراحی فرآیند مستقیماً عملیاتی می‌کند.
 
-### 2. Comparative Evidence
+### ۲. شواهد تطبیقی
 
-#### South Korea
+#### کره جنوبی
 
-South Korea's constitutional history offers a distinctive case of *constitutional resilience through non-amendment*. Mosler (2020) documents that South Korea has one of the oldest non-amended constitutions in the world (since 1987), a puzzling outcome given the frequency of constitutional crises in its early democratic decades. The 1987 Constitution emerged from the June Democratic Struggle — mass pro-democracy protests that forced the military regime's designated successor, Roh Tae-woo, to issue the June 29 Declaration conceding direct presidential elections. The constitution was drafted through the National Assembly, approved by referendum on October 28, 1987 with 93% support, and took effect in February 1988.
+تاریخ قانون اساسی کره جنوبی مورد منحصربه‌فردی از *دوام‌پذیری قانون اساسی در غیاب تعدیل* را ارائه می‌دهد. Mosler (2020) مستند می‌کند که کره جنوبی یکی از قدیم‌ترین قوانین اساسی تعدیل‌نشده جهان را دارد (از سال ۱۳۶۶)، نتیجه‌ای عجیب و غریب با توجه به فراوانی بحران‌های قانون اساسی در دهه‌های اول دموکراتیک آن. قانون اساسی ۱۳۶۶ از «تحرک دموکراتیک ژوئن» — اعتراضات سراسری موافق دموکراسی که رژیم نظامی را وادار کرد تا به تعیینی‌شده‌ی خود Roh Tae-woo، اعلام‌نامه ۲۹ ژوئن را صادر کند تا انتخابات ریاست‌جمهوری مستقیم را بپذیرد. قانون اساسی از طریق مجمع ملی تدوین شد، به‌وسیلة رفراندوم در ۷ نوامبر ۱۳۶۶ با ۹۳٪ حمایت تایید شد، و در فوریه ۱۳۶۷ اجرایی شد.
 
-Key institutional compromises included reducing the presidential term from seven to five years with an absolute ban on re-election, and transferring significant powers from the presidency to the National Assembly. Choi (2022) introduces the concept of a "lemon presidency" — where democratically elected presidents attempt to personalize their regimes through captured judicial authorities — documenting that South Korea experienced this under Lee Myung-bak and Park Geun-hye despite the 1987 constitutional safeguards.
+سازش‌های نهادی کلیدی شامل کاهش مدت ریاست‌جمهوری از هفت سال به پنج سال با ممنوعیت مطلق انتخاب‌شدن دوباره، و انتقال قدرت‌های قابل‌توجهی از ریاست‌جمهوری به مجمع ملی بود. Choi (2022) مفهوم «ریاست‌جمهوری لیموی» را معرفی می‌کند — جایی که رؤسای انتخاب‌شده دموکراتیک تلاش می‌کنند رژیم خود را از طریق اختیارات قضایی تسخیر‌شده شخصی‌سازی کنند — مستند می‌کند که کره جنوبی این را زیر Lee Myung-bak و Park Geun-hye تجربه کرد با وجود حفاظت‌های قانون اساسی ۱۳۶۶.
 
-Yeh (2010) provides the comparative institutional analysis, examining how constitutional courts in South Korea and Taiwan adjudicate contentious presidential politics, serving as "facilitators of dialogue between political actors" rather than mere arbiters of constitutionality. This dialogic function proved critical during moments of democratic stress, when the Constitutional Court could mediate between competing institutional claims without precipitating constitutional breakdown.
+Yeh (2010) تحلیل نهادی تطبیقی را فراهم می‌کند، بررسی می‌کند که دادگاه‌های قانون اساسی در کره جنوبی و تایوان چگونه سیاست‌های ریاست‌جمهوری متنازع‌انگیز را داوری می‌کنند، به عنوان «تسهیل‌کنندگان گفتگو بین بازیگران سیاسی» بجای صرفاً داوران قانون‌اساسی‌بودن. این عملکرد دیالوگی در لحظه‌های استرس دموکراتیک حیاتی ثابت شد، زمانی که دادگاه قانون اساسی می‌توانست میان ادعاهای نهادی متنافع میانجی‌گری کند بدون اینکه باعث فروپاشی قانون اساسی شود.
 
-Hutchcroft and Rocamora (2003) offer the cautionary counterpoint through the Philippines, demonstrating that "strong demands and weak institutions" — where democratic aspirations outpace institutional capacity — produce persistent democratic deficits even across a century of constitutional experience.
+Hutchcroft و Rocamora (2003) نقطه‌ی انتباهی احتیاطی را از طریق فیلیپین ارائه می‌دهند، نشان می‌دهند که «تقاضاهای قوی و نهادهای ضعیف» — جایی که آرمان‌های دموکراتیک از توانایی نهادی فراتر رود — کمبود دموکراتیک مداوم را تولید می‌کنند حتی در سراسر یک قرن تجربة قانون اساسی.
 
-#### Spain
+#### اسپانیا
 
-Spain dominates this corpus (101 sources), reflecting both the richness of the 1978 constitutional experience and the subsequent crisis generated by Catalan secessionism. The 1978 Constitution emerged from a carefully structured consensus process: a seven-member *ponencia* (drafting commission) representing all major parliamentary groups deliberated across more than 100 sessions between July 1977 and March 1978, producing a text designed to be acceptable to the broadest possible coalition.
+اسپانیا این مجموعة متون را غلبه می‌کند (۱۰۱ منبع)، که بازتاب‌کننده‌ی هر دو بروازی تجربة قانون اساسی ۱۳۵۷ و بحرانی که بعداً به‌وسیلة جدایی‌طلبی کاتالونیا ایجاد شده است. قانون اساسی ۱۳۵۷ از فرآیند توافق احتیاطی‌شده‌ای بیرون آمد: یک *ponencia* هفت‌نفره (کمیسیون تدوین) نماینده‌ی تمام گروه‌های پارلمانی اصلی در طی بیش از ۱۰۰ جلسه میان ژوئیه ۱۳۵۶ و مارس ۱۳۵۷ مباحثه کردند، متنی تولید کردند که برای گسترده‌ترین احتمالی‌ترین ائتلاف قابل‌قبول باشد.
 
-Ginsburg, Elkins, and Blount (2009) identify the Spanish process as a paradigmatic example of inclusive constitution-making. The *consenso* approach — requiring effective supermajority agreement rather than simple majority imposition — produced durability: the 1978 Constitution has survived for nearly five decades, despite severe tests including the 23-F coup attempt (1981) and the Catalan crisis (2010s).
+Ginsburg, Elkins, و Blount (2009) فرآیند اسپانیایی را به عنوان نمونة الگوی تدوین قانون اساسی فراگیر شناسایی می‌کنند. روش *consenso* — که نیاز به توافق موثر فوق‌اکثریت به‌جای تحمیل اکثریت ساده دارد — دوام را تولید کرد: قانون اساسی ۱۳۵۷ برای حدود پنج دهه دوام آورده است، با وجود آزمایش‌های شدید شامل کودتای ۲۳-F (۱۳۶۰) و بحران کاتالونی (دهه ۲۰۱۰).
 
-However, the Spanish experience also demonstrates the limits of constitutional ambiguity. Article 2 contains a deliberate tension: guaranteeing both "the indissoluble unity of the Spanish Nation" and "the right to autonomy of the nationalities and regions." Colino (2008) analyzes how this creative ambiguity enabled the initial transition but eventually generated the Catalan constitutional crisis, as subnational units pushed autonomy claims beyond what the original drafters envisioned. Rico and Liñeira (2014) document how secessionism moved from fringe to mainstream in the 2012 Catalan election.
+با این‌حال، تجربة اسپانیایی نیز محدودیت ابهام قانون‌اساسی را نشان می‌دهد. مادة ۲ تناقض‌ی عمدی را دارد: تضمین هر دو «وحدت ناگسستنی ملت اسپانیایی» و «حق خودمختاری ملی‌گرایی‌ها و مناطق». Colino (2008) تحلیل می‌کند که چگونه این ابهام خلاقانه گذار اولیه را ممکن کرد اما بعداً بحران قانون اساسی کاتالونی را ایجاد کرد، زیرا واحدهای تحت‌اختیار ادعاهای خودمختاری را فراتر از آنچه تدوین‌کنندگان اصلی تصور کردند پیش رفتند. Rico و Liñeira (2014) مستند می‌کنند که چگونه جدایی‌طلبی از حاشیه به جریان‌اصلی در انتخابات کاتالونی ۲۰۱۲ حرکت کرد.
 
-Arato (2016) places Spain within his "post-sovereign" theoretical framework, arguing that the transition exemplified negotiated constitution-making where no single actor claimed sovereign constituent power. The king, the reformed Francoist institutions, the newly legalized left, and regional national movements all participated as co-authors of a constitutional settlement that none fully controlled.
+Arato (2016) اسپانیا را درون چارچوب نظری «پس‌از حاکمیت» خود قرار می‌دهد، استدلال می‌کند که انتقال نمونه‌ای از تدوین قانون اساسی توافق‌یافته بود جایی که هیچ بازیگر منفردی قدرت تشکیل‌دهنده حاکمیتی ادعا نکرد. شاه، نهادهای اصلاح‌شده فرانکویستی، چپ به‌تازگی قانون‌مند‌شده، و حرکت‌های ملی‌گرایی منطقه‌ای همگی به عنوان هم‌نویسندگان تسویة قانون اساسی‌ای مشارکت کردند که هیچ‌کدام کاملاً کنترل نمی‌کردند.
 
-#### Tunisia
+#### تونس
 
-Tunisia's 2014 Constitution represents the most recent and extensively documented case of democratic constitution-making in the ITKS corpus. Zemni (2014) frames the post-Ben Ali era as a period of "extraordinary politics" in which popular participation aimed to transform not just state institutions but "social imaginaries, cultural orientations, and economic structures." The National Constituent Assembly (NCA), elected October 2011 with 217 members, spent approximately 27 months drafting the constitution through iterative revision (four drafts between August 2012 and June 2013).
+قانون اساسی تونس ۱۳۹۳ نمونة اخیرتر و به‌طور گسترده‌ای مستند‌شده‌ی تدوین قانون اساسی دموکراتیک در مجموعة ITKS است. Zemni (2014) دورة پس‌از‌بن‌علی را به عنوان دورة «سیاست فوق‌‌العاده‌ای» قاب‌بندی می‌کند که مشارکت عمومی برای تبدیل نه تنها نهادهای دولتی بلکه «تخیلات اجتماعی، جهت‌گیری‌های فرهنگی، و ساختارهای اقتصادی» هدف داشت. مجمع ملی تشکیل‌دهنده (NCA)، انتخاب‌شده در اکتبر ۱۳۹۰ با ۲۱۷ عضو، تقریباً ۲۷ ماه تدوین قانون اساسی را از طریق تجدید تکراری (چهار پیش‌نویس میان اگست ۱۳۹۱ و ژوئن ۱۳۹۲) سپری کرد.
 
-The critical institutional innovation was the Tunisian National Dialogue Quartet — comprising the UGTT trade union, UTICA employers' federation, the National Bar Association, and the Human Rights League — which mediated a political crisis in summer 2013 that had halted constitutional work. The Quartet's mediation (earning the 2015 Nobel Peace Prize) demonstrated that civil society institutions can serve as constitutional process infrastructure, not merely as external advocates.
+نوآوری نهادی حیاتی، رباعی گفتگوی ملی تونسی بود — شامل اتحادیة UGTT کارگری، فدراسیون UTICA کارفرمایان، انجمن ملی وکلای دادگستری، و فدراسیون LTDH حقوق بشر — که یک بحران سیاسی را در تابستان ۱۳۹۲ میانجی‌گری کرد که کار قانون اساسی را متوقف کرد. میانجی‌گری رباعی (که جایزة صلح نوبل ۱۳۹۴ را کسب کرد) نشان داد که نهادهای جامعة مدنی می‌توانند به عنوان زیرساخت فرآیند قانون اساسی خدمت کنند، نه تنها به عنوان وکیل‌های خارجی.
 
-Negretto and Sánchez-Talanquer (2021) provide the empirical framework for evaluating Tunisia, arguing that constitutions are most likely to enhance liberal democracy "when they emerge through a plural agreement among political elites with distinct bases of social support." Tunisia's final vote — 200-12 with 4 abstentions — reflected this plural agreement, though subsequent democratic backsliding under President Saied (2021-present) demonstrates that constitutional quality is a necessary but insufficient condition for democratic durability.
+Negretto و Sánchez-Talanquer (2021) چارچوب تجربی را برای ارزیابی تونس فراهم می‌کنند، استدلال می‌کنند که قوانین اساسی بیشتر احتمال دارند دموکراسی لیبرال را افزایش دهند «زمانی که از طریق توافق جمعی میان نخبگان سیاسی با پایگاه‌های اجتماعی متمایز بیرون آیند». رأی نهایی تونس — ۲۰۰-۱۲ با ۴ امتناع — این توافق جمعی را منعکس کرد، اگرچه رکود دموکراتیک متعاقب زیر ریاست‌جمهوری Saied (۱۴۰۰-کنون) نشان می‌دهد که کیفیت قانون اساسی شرط ضروری اما ناکافی برای دوام‌پذیری دموکراتیک است.
 
-The comparative studies in this corpus extend the analysis to Chile's failed 2022 process (Larraín, Negretto, and Voigt, 2023), Iraq's rushed 2005 constitution (Rabb, 2008), Romania's semi-presidential crisis (Perju, 2015), and African public participation models (Abbiate, Böckenförde, and Federico, 2017), providing a rich empirical base for evaluating process choices.
+مطالعات تطبیقی در این مجموعه تحلیل را به فرآیند ناموفق چیلی ۱۴۰۱ (Larraín, Negretto, و Voigt, ۱۴۰۲)، قانون اساسی عراق با شتاب ۱۳۸۴ (Rabb, ۲۰۰۸)، بحران نیمه‌ریاست‌جمهوری رومانی (Perju, ۲۰۱۵)، و مدل‌های مشارکت عمومی آفریقایی (Abbiate, Böckenförde، و Federico, ۲۰۱۷) گسترش می‌دهد، که پایگاه تجربی غنی برای ارزیابی انتخاب‌های فرآیند فراهم می‌کند.
 
-### 3. Cross-Cutting Patterns
+### ۳. الگوهای بین‌بخشی
 
-Four structural patterns emerge from the evidence. First, **process inclusivity predicts constitutional longevity**. Ginsburg, Elkins, and Blount's analysis of 935 constitutions (1789-2005) shows that constitutions subject to public ratification are approximately 8% more likely to survive, and that inclusive processes with minority representation significantly enhance durability independent of amendment ease. Spain's 47-year-old constitution and South Korea's 39-year-old document both emerged from broadly inclusive processes; Iraq's 2005 constitution, drafted under severe time pressure with Sunni alienation, has required fundamental renegotiation.
+چهار الگوی ساختاری از شواهد بیرون آمده‌اند. اول، **فراگیری فرآیند دوام‌پذیری قانون اساسی را پیش‌بینی می‌کند**. تحلیل Ginsburg, Elkins، و Blount از ۹۳۵ قانون اساسی (۱۷۶۸-۱۳۸۴) نشان می‌دهد که قوانین اساسی مشمول تصویب عمومی تقریباً ۸٪ بیشتر احتمال دارند دوام آورند، و فرآیندهای فراگیر با نماینده‌گری اقلیت به‌طور معنادار دوام‌پذیری را بدون توجه به آسانی تعدیل افزایش می‌دهند. قانون اساسی ۴۷‌ساله اسپانیا و سند ۳۹‌ساله کره جنوبی هر دو از فرآیندهای گسترده فراگیر بیرون آمدند؛ قانون اساسی ۱۳۸۴ عراق، تدوین‌شده تحت فشار شدید زمانی در باعث الکاهر انزوا، نیازمند بازتفاوت بنیادی است.
 
-Second, **amendment flexibility paradoxically enhances stability**. The empirical finding that easier-to-amend constitutions survive longer challenges the intuition that rigidity protects constitutional integrity. South Korea's non-amended constitution is the exception rather than the rule — most durable constitutions survive precisely because they can adapt without requiring replacement.
+دوم، **انعطاف‌پذیری تعدیل به‌طریقی متناقض استحکام را افزایش می‌دهد**. یافتة تجربی که قوانین اساسی تعدیل‌پذیری‌تر بیشتر دوام می‌آورند به شهود که سختی حفاظت قانون اساسی‌بودن را می‌فهمند چالش می‌زند. قانون اساسی تعدیل‌نشده کره جنوبی استثنا به‌جای قاعده است — اکثر قوانین اساسی پایدار دقیقاً به این دلیل دوام می‌آورند که می‌توانند بدون نیاز به جایگزینی تطابق یابند.
 
-Third, **constitutional ambiguity is a double-edged instrument**. Spain's Article 2 enabled the initial transition by deferring resolution of the unity-autonomy tension, but this deferral eventually generated the Catalan crisis. The implication is that creative ambiguity can be a legitimate transition strategy — but only if accompanied by institutional mechanisms (courts, amendment procedures, intergovernmental forums) capable of resolving the deferred tensions when they eventually surface.
+سوم، **ابهام قانون اساسی سلاح دو‌لبه است**. مادة ۲ اسپانیا گذار اولیه را با تعویق تفسیر تناقض وحدت-خودمختاری ممکن کرد، اما این تعویق بعداً بحران کاتالونی را ایجاد کرد. پیامد این است که ابهام خلاقانه می‌تواند استراتژی گذار مشروع باشد — اما تنها اگر همراه با مکانیسم‌های نهادی (دادگاه‌ها، فرآیندهای تعدیل، انجمن‌های میان‌دولتی) باشد که قادر باشند تناقض‌های تأخیر‌افتاده را هنگام ظهور بعدی حل کنند.
 
-Fourth, **civil society can serve as constitutional process infrastructure**. Tunisia's Quartet demonstrates a role for civil society that goes beyond advocacy: serving as mediator, process guarantor, and legitimacy anchor when political actors reach impasse. This is distinct from and complementary to Arato's two-stage model, which focuses on elite-level negotiation.
+چهارم، **جامعة مدنی می‌تواند به عنوان زیرساخت فرآیند قانون اساسی خدمت کند**. رباعی تونس نقشی برای جامعة مدنی را نشان می‌دهد که فراتر از حمایت است: به عنوان میانجی، تضمین‌کننده فرآیند، و لنگرِ مشروعیت هنگامی که بازیگران سیاسی به بن‌بست رسند. این متمایز و متمم Arato است، دو مرحله‌ای مدل که بر میانجی‌گری سطح نخبگان تمرکز دارد.
 
-### 4. Implications for Iran
+### ۴. پیامدها برای ایران
 
-Iran's constitutional challenge is exceptional in several dimensions. The 1979 Constitution institutionalized *velayat-e faqih* — a system without precedent in Islamic jurisprudence or comparative constitutional law — creating a dual sovereignty structure where democratic institutions (presidency, parliament) coexist with theocratic ones (Supreme Leader, Guardian Council, Assembly of Experts). Any transition requires not merely amending this structure but renegotiating the foundational relationship between religious authority and popular sovereignty.
+چالش قانون اساسی ایران در ابعاد متعددی استثنایی است. قانون اساسی ۱۳۵۸ *ولایت فقیه* را نهادی‌سازی کرد — سیستمی بدون سابقه در فقه اسلامی یا حقوق تطبیقی — و ساختار حاکمیت دوگانه را ایجاد کرد که در آن نهادهای دموکراتیک (ریاست‌جمهوری، پارلمان) با نهادهای تئوکراتیک (رهبر اعلی، شورای نگهبان، مجمع خبرگان) همزیست می‌کنند. هر گذار نیازمند نه تنها اصلاح این ساختار بلکه بازتفاوت رابطة بنیادی بین اختیار دینی و حاکمیت عمومی است.
 
-The comparative evidence suggests several operational implications. First, Spain's *consenso* model and Tunisia's Quartet mediation both point toward the necessity of inclusive, multi-stakeholder processes. Iran's political landscape — spanning reformists, principlists, ethnic and religious minorities, diaspora, secular and religious constituencies — makes majoritarian constitution-making infeasible. Arato's post-sovereign two-stage model (roundtable negotiation followed by elected assembly with constitutional court oversight) offers a procedural template suited to Iran's complexity.
+شواهد تطبیقی چندین پیامد عملیاتی را پیشنهاد می‌کند. اول، مدل *consenso* اسپانیایی و میانجی‌گری رباعی تونس هر دو به ضرورت فرآیندهای فراگیر و چند‌ذی‌نفعه اشاره می‌کنند. منظر سیاسی ایران — پوشش اصلاح‌طلبان، اصول‌گرایان، اقلیت‌های قومی و مذهبی، دیاسپورا، و گروه‌های علمانی و مذهبی — تدوین قانون اساسی اکثریتی را غیرممکن می‌سازد. مدل دو مرحله‌ای پس‌از‌حاکمیت Arato (میز گرد میانجی‌گری به‌علاوه مجمع انتخاب‌شده با نظارت دادگاه قانون اساسی) الگوی رویه‌ای را برای پیچیدگی ایران فراهم می‌کند.
 
-Second, the Ginsburg/Elkins evidence on amendment flexibility counsels against constitutional rigidity in Iran's case. A new Iranian constitution will inevitably require adjustment as the post-transition political landscape evolves. Building in accessible (but not trivial) amendment procedures reduces the risk of constitutional replacement cycles that have plagued other transitional countries.
+دوم، شواهد Ginsburg/Elkins بر انعطاف‌پذیری تعدیل بر علیه سختی قانون اساسی در موارد ایران نصیحت می‌کند. قانون اساسی جدید ایران به‌ناچار نیاز به تطابق دارد همان‌طور که منظر سیاسی پس‌از‌گذار تکامل می‌یابد. درج فرآیند تعدیل قابل‌دسترس (اما جزء ساده) ریسک چرخة جایگزینی قانون اساسی را که کشورهای گذار دیگری را آزار داده است کاهش می‌دهد.
 
-Third, the treatment of religion in constitutional design is Iran's most distinctive challenge. Neither Spain's secular model nor Tunisia's Article 1 compromise maps directly onto Iran's situation, where the entire state apparatus is structured around theocratic authority. The Chilean failure (2022) demonstrates that overreach in constitutional design — pushing a maximalist vision without broad consensus — invites decisive popular rejection.
+سوم، درمان دین در طراحی قانون اساسی چالش منحصر به‌فرد ایران است. نه مدل علمانی اسپانیایی و نه سازش مادة ۱ تونس مستقیماً بر شرایط ایران نقش نمی‌بندند، جایی که کل دستگاه دولتی حول اختیار تئوکراتیک ساختاریافته است. شکست چیلی (۱۴۰۱) نشان می‌دهد که تجاوز در طراحی قانون اساسی — رانده رؤیای حداکثری بدون اجماع گسترده — رد قاطع عمومی را دعوت می‌کند.
 
-### 5. Open Questions
+### ۵. پرسش‌های باز
 
-- How should a future Iranian constitution address the institutional legacy of *velayat-e faqih* — abolition, reform, or gradual sunset?
-- What role should Iran's diaspora play in a constitution-making process, given that 4-8 million Iranians live abroad?
-- Can Arato's post-sovereign two-stage model work in a context where the "existing regime" actors (IRGC, judiciary, clerical establishment) may refuse roundtable participation?
-- How should ethnic and linguistic diversity (Persian, Azeri, Kurdish, Baloch, Arab, Turkmen, Lor) be reflected in constitutional design — unitary state with cultural autonomy, asymmetric federalism, or something else?
-- What amendment threshold balances adaptability against the risk of majoritarian revision of minority protections?
+- چگونه باید قانون اساسی‌ای آتی ایران میراث نهادی *ولایت فقیه* را مورد توجه قرار دهد — الغا، اصلاح، یا غروب تدریجی؟
+- دیاسپورای ایران چه نقشی باید در فرآیند تدوین قانون اساسی داشته باشد، با توجه به اینکه ۴-۸ میلیون ایرانی در خارج زندگی می‌کنند؟
+- آیا مدل دو مرحله‌ای پس‌از‌حاکمیت Arato در زمینه‌ای کار می‌کند که در آن بازیگران «رژیم موجود» (IRGC، دستگاه قضایی، تشکیلات روحانی) ممکن است از مشارکت در میز گرد خودداری کنند؟
+- تنوع قومی و زبانی ایران (فارسی، آذری، کردی، بلوچی، عربی، ترکمن، لری) چگونه باید در طراحی قانون اساسی منعکس شود — دولت یکپارچه با خودمختاری فرهنگی، فدرالیسم نامتقارن، یا چیزی دیگر؟
+- چه آستانة تعدیل تطابق‌پذیری را متوازن می‌سازد در برابر ریسک نسخ اکثریتی از حفاظت‌های اقلیت؟
 
 ---
 
-## Part II: Deep Dives
+## بخش دوم: تحلیل‌های عمیق
 
-*Note: Direct full-text PDF access to academic publishers was unavailable during this cycle. The following deep dives are based on extensive web research triangulating findings from multiple authoritative sources.*
+*توجه: دسترسی مستقیم متن کامل PDF به ناشرین دانشگاهی در این چرخه دردسترس نبود. تحلیل‌های عمیق زیر مبتنی بر تحقیق وب گسترده است که یافته‌ها از منابع معتبر متعدد را مثلث‌بندی می‌کند.*
 
-### Deep Dive 1: The Empirics of Constitutional Longevity — Ginsburg, Elkins, and Blount
+### تحلیل عمیق ۱: تجربیات دوام‌پذیری قانون اساسی — Ginsburg, Elkins, و Blount
 
-The single most important empirical contribution in this corpus comes from Ginsburg, Elkins, and Blount's analysis of 935 national constitutions spanning 1789 to 2005. Their central finding — that the median constitutional lifespan is only 19 years — reframes the entire field: constitutional design is not about creating permanent documents but about creating documents that survive long enough to become entrenched through practice and political investment.
+مهم‌ترین مشارکت تجربی در این مجموعة متون از تحلیل Ginsburg, Elkins، و Blount از ۹۳۵ قانون اساسی ملی پوشش‌دهنده ۱۷۶۸ تا ۲۰۰۵ بیرون می‌آید. یافتة مرکزی آنها — که میانة دوام قانون اساسی تنها ۱۹ سال است — کل حوزه را بازتدوین می‌کند: طراحی قانون اساسی نه درباره ایجاد اسناد دائمی بلکه درباره ایجاد اسنادی است که به اندازة کافی دوام آورند تا از طریق عمل و سرمایه‌گذاری سیاسی تثبیت شوند.
 
-Four design variables predict longevity. First, *amendment flexibility*: constitutions with more accessible amendment procedures survive longer, contradicting the common assumption that rigidity protects constitutional integrity. The mechanism is straightforward — rigid constitutions force political actors to choose between living with outdated provisions and replacing the entire document, while flexible constitutions allow incremental adaptation. Second, *inclusivity in drafting*: constitutions produced by processes that include minority groups, opposition parties, and civil society representatives outlast those drafted by narrow elites. Public ratification adds approximately 8% to survival probability. Third, *specificity*: more detailed constitutions (comprehensive enumeration of rights, institutional procedures, and structural provisions) survive longer than skeletal frameworks, likely because specificity reduces interpretive disputes. Fourth, *power distribution*: constitutions that distribute authority across multiple institutions rather than concentrating it in a single actor demonstrate greater stability.
+چهار متغیر طراحی دوام را پیش‌بینی می‌کنند. اول، *انعطاف‌پذیری تعدیل*: قوانین اساسی با فرآیندهای تعدیل دسترس‌پذیرتر بیشتر دوام می‌آورند، چیزی که درک عام که سختی حفاظت قانون اساسی‌بودن را فرض کند را نفی می‌کند. مکانیسم سراسری است — قوانین اساسی سفت و سخت بازیگران سیاسی را مجبور می‌کند میان زندگی با مقررات منسوخ‌شده و جایگزینی سند کامل را انتخاب کنند، در حالی که قوانین اساسی انعطاف‌پذیر امکان تطابق تدریجی را می‌دهند. دوم، *فراگیری در تدوین*: قوانین اساسی تولید‌شده توسط فرآیندهایی که گروه‌های اقلیت، احزاب مخالف، و نمایندگان جامعة مدنی را شامل می‌کنند از آنهایی که توسط نخبگان باریک تدوین شده‌اند طولانی‌تر دوام می‌آورند. تصویب عمومی تقریباً ۸٪ به احتمال بقا اضافه می‌کند. سوم، *تخصیص*: قوانین اساسی مفصل‌تر (فهرست جامع حقوق، فرآیندهای نهادی، و مقررات ساختاری) از چارچوب‌های استخوانی دوام می‌آورند، به احتمال زیاد زیرا تخصیص نزاع‌های تفسیری را کاهش می‌دهد. چهارم، *توزیع قدرت*: قوانین اساسی که اختیار را در میان نهادهای متعدد توزیع می‌کنند نه‌تنها آن را در یک بازیگر می‌کند پایداری بیشتری را نشان می‌دهند.
 
-**Analytical Implication for Iran:** These findings have direct operational implications for Iranian constitutional design. A future Iranian constitution should be (a) detailed rather than skeletal — specifying institutional roles, rights protections, and dispute resolution mechanisms in concrete terms rather than leaving them to subsequent legislation; (b) amendable through a demanding but achievable supermajority process — perhaps two-thirds of parliament plus regional ratification, rather than the near-impossible thresholds that have prevented amendment in some countries; (c) drafted through a maximally inclusive process — not merely elite negotiation but structured public participation, ethnic minority representation, and diaspora input; and (d) distributive in its power architecture — creating multiple veto points (president, parliament, constitutional court, regional councils) rather than concentrating authority in any single institution.
+**پیامد تحلیلی برای ایران:** این یافته‌ها پیامد‌های عملیاتی مستقیمی برای طراحی قانون اساسی ایرانی دارند. قانون اساسی‌ای آتی ایران باید (الف) مفصل به‌جای استخوانی‌ای باشد — نقش‌های نهادی، حفاظت‌های حقوق، و مکانیسم‌های حل منازعه را به‌صورت عملی تعیین‌کند به‌جای اینکه آنها را برای قانون‌گذاری متعاقب رها کند؛ (ب) تعدیل‌پذیر از طریق فرآیند فوق‌اکثریت مطالب‌گر اما قابل‌دسترسی باشد — شاید دو‌سوم پارلمان به‌علاوه تصویب منطقه‌ای، نه آستانة نزدیک‌به‌غیرممکن که برخی کشورها را از تعدیل منع کرده است؛ (پ) از طریق فرآیند حداکثری فراگیر تدوین شده باشد — نه تنها میانجی‌گری نخبگان بلکه مشارکت عمومی ساختاریافته، نمایندگی اقلیت قومی، و ورودی دیاسپورا؛ و (د) توزیع‌کننده در معماری قدرت‌ای باشد — نقطه‌های وتو متعدد (رئیس، پارلمان، دادگاه قانون اساسی، شوراهای منطقه‌ای) را ایجاد کند نه‌تنها اختیار را در هر نهاد منفرد متمرکز کند.
 
-### Deep Dive 2: South Korea's June Democratic Struggle and the Five-Year Presidency
+### تحلیل عمیق ۲: تحرک دموکراتیک ژوئن کره جنوبی و ریاست‌جمهوری پنج‌ساله
 
-South Korea's 1987 constitutional moment demonstrates how concentrated popular pressure can compress decades of institutional reform into weeks. The June Democratic Struggle (June 10-29, 1987) saw mass pro-democracy protests across major cities, driven by student movements, labor unions, and a broad middle-class coalition outraged by the military regime's plan to install Roh Tae-woo as a handpicked successor through an indirect electoral college. On June 29, Roh capitulated, issuing an eight-point declaration conceding direct presidential elections, press freedom, political prisoner releases, and constitutional amendment.
+لحظة قانون اساسی ۱۳۶۶ کره جنوبی نشان می‌دهد چگونه فشار عمومی متمرکز دهه‌ها از اصلاح نهادی را می‌تواند در هفته‌ها فشرده کند. تحرک دموکراتیک ژوئن (۱۰-۲۹ ژوئن ۱۳۶۶) شاهد اعتراضات سراسری موافق دموکراسی در شهرهای بزرگ بود، رانده‌شده توسط حرکت‌های دانشجویی، اتحادیه‌های کارگری، و ائتلاف پهناور میان‌طبقة خشمگین از طرح رژیم نظامی برای نصب Roh Tae-woo به عنوان جانشین انتخاب‌شده توسط کالج انتخابی غیرمستقیم. در ۲۹ ژوئن، Roh تسلیم شد، اعلام‌نامه هشت‌نقطه‌ای را صادر کرد که انتخابات ریاست‌جمهوری مستقیم، آزادی مطبوعات، آزادی زندانیان سیاسی، و تعدیل قانون اساسی را پذیرفت.
 
-The resulting constitution embedded several distinctive design choices. The five-year single-term presidency was a direct response to the authoritarian experience: rather than allowing re-election (which both Rhee Syngman and Park Chung-hee had manipulated to extend their rule), the framers imposed an absolute ban. This prevents incumbents from using state resources to entrench themselves but creates its own pathology: each president enters office as a lame duck with a fixed horizon, producing what Choi (2022) calls the "lemon presidency" problem — the temptation to personalize power through captured judicial and prosecutorial institutions before the clock runs out.
+قانون اساسی نتیجه‌ای چندین انتخاب طراحی متمایز را تعبیه کرد. ریاست‌جمهوری پنج‌ساله‌ی یک‌دورة‌ای واکنش مستقیم به تجربة استبدادی بود: به‌جای اجازة انتخاب‌شدن دوباره (چیزی که Rhee Syngman و Park Chung-hee هر دو برای تمدید حکومت خود دستکاری کرده بودند)، تدوین‌کنندگان ممنوعیت مطلق تحمیل کردند. این مانع کند از اینکه مسئولان از منابع دولتی برای تثبیت خود استفاده کنند اما پاتولوژی خود را ایجاد می‌کند: هر رئیس منصب را به عنوان اردک افتاده‌ای با افق ثابت وارد می‌کند، تولید آنچه Choi (۲۰۲۲) «ریاست‌جمهوری لیموی» را می‌نام — وسوسة شخصی‌سازی قدرت از طریق نهادهای قضایی و مسئولانه‌ای تسخیر‌شده قبل از اینکه ساعت خاموش شود.
 
-Mosler (2020) finds that the constitution's longevity (39 years without amendment) results from a paradox: the very factors that create pressure for reform (presidential power concentration, prosecutorial abuse, regional economic disparities) also prevent consensus on what amendments should look like, because any change to presidential term structure benefits some political actors and threatens others.
+Mosler (۲۰۲۰) می‌یابد که ماندگاری قانون اساسی (۳۹ سال بدون تعدیل) از یک متناقض بیرون می‌آید: دقیقاً عواملی که فشار برای اصلاح ایجاد می‌کنند (تمرکز قدرت ریاست‌جمهوری، سوء استفاده کنندگی، نابرابری اقتصادی منطقه‌ای) همچنین اجماع در مورد آنچه تعدیل باید باشد را منع می‌کنند، زیرا هر تغییر ساختار ریاست‌جمهوری برخی بازیگران سیاسی را سود می‌رساند و دیگران را تهدید می‌کند.
 
-**Analytical Implication for Iran:** South Korea's experience offers both a model and a warning. The single-term presidency successfully prevented authoritarian regression through electoral manipulation — a critical concern for any Iranian transition where former regime actors might seek to recapture power through democratic means. However, the "lemon presidency" phenomenon suggests that term limits alone are insufficient without independent judicial institutions capable of resisting executive capture. For Iran, this means that constitutional design must simultaneously address the executive structure (presidential vs. parliamentary system), the judiciary (independence from both political and clerical authority), and the prosecutorial function (which South Korea's experience shows is a critical vulnerability).
+**پیامد تحلیلی برای ایران:** تجربة کره جنوبی هم مدل و هم انتباهی را ارائه می‌دهد. ریاست‌جمهوری یک‌دورة‌ای با موفقیت مانع از پسرفت استبدادی از طریق دستکاری انتخابی شد — نگرانی‌ای انتقادی برای هر انتقال ایرانی جایی که بازیگران رژیم سابق ممکن است بخواهند قدرت را از طریق وسائل دموکراتیک بازیابی کنند. با این‌حال، پدیدة «ریاست‌جمهوری لیموی» نشان می‌دهد که محدودیت‌های مدت به‌تنهایی ناکافی‌اند بدون نهادهای قضایی مستقل قادر بر مقاومت در برابر تسخیر کنندگی. برای ایران، این بدان معنا است که طراحی قانون اساسی باید همزمان ساختار کنندگی را (سیستم ریاست‌جمهوری در برابر پارلمانی)، دستگاه قضایی (استقلال از هر دو اختیار سیاسی و دینی)، و تابع کنندگی (که تجربة کره جنوبی نشان می‌دهد آسیب‌پذیری حیاتی است) مورد توجه قرار دهد.
 
-### Deep Dive 3: Spain's Consenso Model — Strengths and Fault Lines
+### تحلیل عمیق ۳: مدل Consenso اسپانیایی — قدرت و خطوط شکاف
 
-Spain's 1978 Constitution is the longest-surviving product of the "third wave" of democratization, and its drafting process is the most frequently cited model of consensus constitution-making. The seven-member *ponencia* included representatives from the governing UCD, the PSOE, the Catalan CiU, the Communist PCE, and the conservative AP — spanning the political spectrum from former Francoists to former underground communists. Their deliberations across more than 100 sessions produced a text that no party fully endorsed but all could accept.
+قانون اساسی ۱۳۵۷ اسپانیا محصول دوام‌تر «موج سوم» دموکراتیزاسیون است، و فرآیند تدوین آن نمونة بیشتر حوالہ‌شده‌ی تدوین قانون اساسی اجماعی است. *ponencia* هفت‌نفره نمایندگانی از UCD تاکیدی، PSOE، CiU کاتالونی، PCE کمونیستی، و AP محافظ‌کار را شامل می‌کرد — پوشش طیف سیاسی از فرانکویست‌های سابق تا کمونیست‌های زیرزمینی سابق. مباحثة آنها در طی بیش از ۱۰۰ جلسه متنی را تولید کردند که هیچ حزب کاملاً تصدیق نکرد اما همگی می‌توانستند بپذیرند.
 
-The *consenso* approach rested on three pillars. First, *procedural equality*: all major parties had drafting representation regardless of their electoral weight, preventing majoritarian imposition. Second, *substantive ambiguity*: on issues where consensus was impossible (the unity-autonomy tension, the role of the monarchy, church-state relations), the drafters chose deliberately vague language that could accommodate multiple interpretations. Third, *external anchoring*: the prospect of European Community membership provided an external reference point and institutional constraint that disciplined all parties toward democratic norms.
+روش *consenso* سه ستون را تشکیل می‌داد. اول، *برابری روالی*: تمام احزاب اصلی نمایندگی‌ای در تدوین داشتند بدون توجه به وزن انتخابی‌شان، تحمیل اکثریتی را منع می‌کرد. دوم، *ابهام موضوعی*: در موضوع‌هایی که اجماع غیرممکن بود (تناقض وحدت-خودمختاری، نقش سلطنت، روابط کلیسا-دولت)، تدوین‌کنندگان زبان عمداً مبهم را انتخاب کردند که می‌تواند تفسیرهای متعدد را جای دهد. سوم، *لنگری بیرونی*: چشم‌انداز عضویت جامعة اروپایی نقطة‌ی مرجعی بیرونی و محدودیت نهادی را فراهم کرد که همة احزاب را به سوی هنجارهای دموکراتیک منضبط کرد.
 
-The fault line emerged precisely where ambiguity was greatest. Article 2's simultaneous guarantee of national unity and regional autonomy enabled the initial transition but deferred the resolution of Spain's territorial question. Colino (2008) traces how bottom-up revision of subnational constitutional arrangements — Catalonia's 2006 Statute of Autonomy reform — tested the limits of the 1978 framework. The Constitutional Court's 2010 ruling striking down portions of the Catalan Statute precipitated the secessionist crisis that culminated in the 2017 unilateral declaration of independence.
+خط شکاف دقیقاً جایی بیرون آمد که ابهام بیشتر بود. مادة ۲ تضمین همزمان وحدت ملی و خودمختاری منطقه‌ای را فراهم کرد اما تفاوت سؤال منطقه‌ای اسپانیا را معوق کرد. Colino (۲۰۰۸) تعقیب می‌کند چگونه نسخ پایین‌رو مقررات قانون اساسی تحت‌اختیار — اصلاح مقررة خودمختاری کاتالونی ۲۰۱۵ — محدودیت‌های چارچوب ۱۳۵۷ را آزمایش کرد. حکم دادگاه قانون اساسی ۲۰۱۹ ضربة بخشی از مقررة کاتالونی را بحران جدایی‌طلبی‌ای فروپاشیدی که در اعلان یک‌طرفة استقلال ۲۰۱۶ نهایت یافت را متحرک کرد.
 
-**Analytical Implication for Iran:** Spain demonstrates both the power and the limits of creative ambiguity. For Iran, where ethnic and linguistic diversity (Persian, Azeri, Kurdish, Baloch, Arab, Turkmen) maps onto territorial claims, the Spanish model suggests that deliberate ambiguity on the unitary-federal spectrum could enable initial consensus. However, Spain's subsequent crisis counsels that any ambiguity must be accompanied by robust dispute resolution mechanisms — an empowered constitutional court, formal intergovernmental councils, and clear procedures for resolving center-periphery conflicts before they escalate to existential crises. The "autonomy" language that enabled Spain's transition became the battleground for its greatest post-transition crisis; Iran must learn from this and design institutions that can manage territorial tensions dynamically rather than deferring them indefinitely.
+**پیامد تحلیلی برای ایران:** اسپانیا هم قدرت و هم محدودیت ابهام خلاقانه را نشان می‌دهد. برای ایران، جایی که تنوع قومی و زبانی (فارسی، آذری، کردی، بلوچی، عربی، ترکمن) بر ادعاهای منطقه‌ای نقش‌بندی می‌شود، مدل اسپانیایی نشان می‌دهد که ابهام عمدی بر طیف یکپارچگی-فدرالیسم می‌تواند اجماع اولیه را ممکن کند. با این‌حال، بحران متعاقب اسپانیا نصیحت می‌کند که هر ابهام باید همراه با مکانیسم‌های حل منازعة مقتدر باشد — دادگاه قانون اساسی توانمند، شوراهای رسمی میان‌دولتی، و فرآیندهای واضح برای حل منازعات مرکز-محیط قبل از اینکه تا بحران وجودی تشدید شوند. زبان «خودمختاری» که گذار اسپانیا را فراهم کرد میدان جنگی بزرگ‌ترین بحران پس‌از‌گذار آن شد؛ ایران باید این‌ها را یاد بگیرد و نهادهایی را طراحی کند که می‌توانند تناقض‌های منطقه‌ای را دینامیکی مدیریت کنند نه‌تنها معوق کند.
 
-### Deep Dive 4: Tunisia's 2014 Process — The Quartet Innovation and Ennahda's Concessions
+### تحلیل عمیق ۴: فرآیند ۱۳۹۲ تونس — نوآوری رباعی و امتیازهای Ennahda
 
-Tunisia's constitution-making process took approximately 27 months — from the NCA's first session in November 2011 to the final ratification vote on January 26, 2014 (200-12, with 4 abstentions). This extended timeline, initially criticized as delay, proved essential: the four successive drafts (August 2012, December 2012, April 2013, June 2013) allowed iterative refinement and pressure-testing of contested provisions.
+فرآیند تدوین قانون اساسی تونس تقریباً ۲۷ ماه طول کشید — از اولین جلسة NCA در نوامبر ۱۳۹۰ تا رأی نهایی تصویب در ۱۶ ژانویه ۱۳۹۳ (۲۰۰-۱۲، با ۴ امتناع). این جدول زمانی گسترده، در ابتدا منتقد به عنوان تأخیر، ضروری ثابت شد: چهار پیش‌نویس متوالی (اگست ۱۳۹۱، دسامبر ۱۳۹۱، آوریل ۱۳۹۲، ژوئن ۱۳۹۲) تکمیل تکراری و آزمایش فشاری مقررات متنازع‌انگیز را اجازه داد.
 
-The critical innovation was the Tunisian National Dialogue Quartet's intervention during the summer 2013 crisis. When political assassinations and the Egyptian military coup against Morsi's Muslim Brotherhood government created fears of authoritarian reversion, the NCA's work ground to a halt. The Quartet — comprising the UGTT (trade union), UTICA (employers), ONAT (bar association), and LTDH (human rights league) — convened marathon negotiations that produced a package deal: the Ennahda-led government would dissolve in favor of a technocratic caretaker, new elections would be held by end of 2014, and the constitutional process would be accelerated to completion.
+نوآوری حیاتی، میانجی‌گری رباعی گفتگوی ملی تونسی در بحران تابستان ۱۳۹۲ بود. هنگامی‌که ترور سیاسی و کودتای نظامی مصر در برابر حکومت اخوان در ترس‌های بازگشت استبدادی ایجاد کردند، کار NCA متوقف شد. رباعی — شامل UGTT اتحادیة کارگری، UTICA فدراسیون کارفرمایان، ONAT انجمن وکلا، و LTDH فدراسیون حقوق بشر — مباحثات نفس‌گیرتری را تجویز کردند که معامله‌ای بسته‌ای را تولید کردند: حکومت Ennahda‌رهبری‌شده در تقابل یک کاری‌گر موقتی حل می‌شود، انتخابات جدید بر پایان ۱۳۹۳ برگزار می‌شود، و فرآیند قانون اساسی تسریع می‌شود برای تکمیل.
 
-The Ennahda party's concessions were decisive. Despite holding 40%+ of NCA seats, Ennahda dropped its goal of declaring Tunisia an Islamic state, abandoned attempts to enshrine Sharia as a source of legislation, and accepted the formulation of Tunisia as a "civil state based on citizenship, the will of the people, and the supremacy of law" alongside Article 1's declaration that the state's religion is Islam. Internal party dynamics shaped these concessions: on the vote regarding Sharia's constitutional role, only 22 Ennahda deputies supported inclusion, 17 opposed, and 39 abstained — revealing that the party's pragmatic wing prevailed over its doctrinal one.
+امتیازهای حزب Ennahda تعیین‌کننده بودند. علیرغم ۴۰٪+ صندلی‌های NCA، Ennahda به هدف اعلام تونس به عنوان دولت اسلامی دست کشید، تلاش برای تثبیت شریعت به عنوان منبع قانون‌گذاری را رها کرد، و فرمول‌بندی «دولت مدنی مبتنی بر شهروندی، اراده مردم، و تقدم قانون» را در کنار اعلان مادة ۱ که دین دولت اسلام است را پذیرفت. دینامیک حزب داخلی این امتیازها را شکل داد: در رأی گیری مربوط به نقش شریعت قانون اساسی، تنها ۲۲ نماینده Ennahda حمایت کردند، ۱۷ مخالفت کردند، و ۳۹ امتناع کردند — نشان می‌دهند که بال پراگماتیک حزب بر یکی دکترینی غلبه یافت.
 
-**Analytical Implication for Iran:** Tunisia's process offers three direct lessons. First, the Quartet model demonstrates that civil society organizations with *institutional weight* (trade unions, professional associations, not just advocacy NGOs) can serve as constitutional process infrastructure. Iran's equivalent institutions — the Workers' House, chambers of commerce, bar associations, medical councils — could play analogous mediating roles if they can operate independently of state control. Second, the iterative multi-draft approach produced a more robust text than a single-round process could have; any Iranian constitutional process should plan for multiple revision cycles rather than rushing to a single vote. Third, Ennahda's willingness to make concessions from a position of electoral strength suggests that Islamist parties can be constructive constitutional partners if the institutional framework provides both incentives for compromise and credible exit costs for obstruction.
+**پیامد تحلیلی برای ایران:** فرآیند تونس سه درس مستقیم را ارائه می‌دهد. اول، مدل رباعی نشان می‌دهد که سازمان‌های جامعة مدنی با *وزن نهادی* (اتحادیه‌های کارگری، انجمن‌های حرفه‌ای، نه تنها NGO‌های حمایت) می‌توانند به عنوان زیرساخت فرآیند قانون اساسی خدمت کنند. نهادهای معادل ایران — خانه کارگر، اتاق‌های تجارت، انجمن‌های وکلا، شوراهای حرفه‌ای — می‌توانند نقش‌های میانجی‌گری مشابهی ایفا کنند اگر بتوانند بدون کنترل دولتی کار کنند. دوم، روش چند‌پیش‌نویسی پیش‌رفت متنی را بیشتر قوی را بیش از فرآیند یک‌دور تولید می‌کند؛ هر فرآیند قانون اساسی‌ای ایرانی باید چرخة‌های تجدیدی‌های متعدد را برنامه‌ریزی کند نه‌تنها شتاب بر رأی منفرد. سوم، تمایل Ennahda برای امتیازدادن از موضع قدرت انتخابی نشان می‌دهد که احزاب اسلام‌گرا می‌توانند شریک‌های قانون اساسی سازنده باشند اگر چارچوب نهادی هم انگیزه‌های برای توافق و هزینة‌های خروج قابل باور برای انسداد را فراهم کند.
 
-### Deep Dive 5: Chile's 2022 Failure — Lessons in Constitutional Overreach
+### تحلیل عمیق ۵: شکست ۱۴۰۱ چیلی — درس در تجاوز قانون اساسی
 
-Chile's rejected 2022 constitutional proposal provides the corpus's most important negative case. On September 4, 2022, Chilean voters rejected the proposed constitution by 62% to 38% — a decisive margin that defied expectations given the broad public consensus that Pinochet's 1980 constitution needed replacement.
+پیشنهاد قانون اساسی ۱۴۰۱ چیلی پرونده‌ای منفی مهم‌ترین مجموعة متون را فراهم می‌کند. در ۲۳ سپتامبر ۱۴۰۱، رأی‌دهندگان چیلی قانون اساسی پیشنهادی را با ۶۲٪ علیه ۳۸٪ رد کردند — حاشیة قاطع که انتظار داشت با توجه به اجماع عام درباره نیاز Pinochet‌ی ۱۳۵۹ برای جایگزینی.
 
-The Constitutional Convention comprised 155 members elected in May 2021, including 17 reserved indigenous seats and strict gender parity (78 male, 77 female). However, party-less independents won 65 seats, the left won 28, center-left 25, and center-right 37 — producing a convention dominated by actors without party discipline or legislative experience. Larraín, Negretto, and Voigt (2023) identify three structural failures. First, the convention's control by independents lacking party structures prevented the kind of disciplined negotiation and trade-off management that Spain's *ponencia* achieved. Second, the political right was exceptionally underrepresented relative to its electoral weight, producing a text that lacked buy-in from a significant portion of the electorate. Third, the decentralized and public drafting process — while maximizing transparency — prevented the private compromises that comparative evidence suggests are essential for bridging fundamental disagreements.
+کنوانسیون قانون اساسی ۱۵۵ عضو انتخاب‌شده در مه ۲۰۰۰ را شامل می‌کرد، شامل ۱۷ صندلی محفوظ بومی و برابری جنسیتی سختگیرانه (۷۸ مرد، ۷۷ زن). با این‌حال، مستقل‌های بدون احزاب ۶۵ صندلی برنده شدند، چپ ۲۸، مرکز‌چپ ۲۵، و مرکز‌راست ۳۷ — تولید کنوانسیونی که توسط بازیگران بدون انضباط احزاب یا تجربة قانون‌گذاری بود. Larraín, Negretto، و Voigt (۱۴۰۲) سه شکست ساختاری را شناسایی می‌کنند. اول، کنترل کنوانسیون توسط مستقل‌های فاقد ساختار احزابی میانجی‌گری منضبط و مدیریت معامله را که *ponencia* اسپانیایی آن را یافت منع کرد. دوم، راست سیاسی به‌طور استثنایی تحت‌نماینده‌ی نسبت به وزن انتخابی‌ای بود، متنی تولید می‌کند که از بخشی قابل‌توجهی اقلیمی رأی‌دهنده بدون خرید بود. سوم، فرآیند متمرکز و عمومی تدوین — درحالی‌که شفافیت را حداکثر می‌کرد — سازش‌های خصوصی را منع کرد که شواهد تطبیقی نشان می‌دهد برای پل‌زدن نزاع‌های بنیادی ضروری است.
 
-The resulting 388-article document was criticized as excessively long, ideologically skewed leftward, and disconnected from median voter preferences. The rejection demonstrated that participatory constitution-making without structured negotiation mechanisms can produce documents that reflect activist preferences rather than social consensus.
+سند ۳۸۸-مادة‌ای نتیجه‌ای بر عنوان بیش‌الحد طویل، دیدگاه‌ای متعصبانه چپ، و غیرمتصل بر تنظیمات میانگین رأی‌دهنده نقادی شد. رد به نشان داد که تدوین قانون اساسی شهروندی بدون مکانیسم‌های میانجی‌گری ساختاریافته می‌تواند اسنادی تولید کند که بر عکس اراده تفعیل‌کننده تنظیمات عمومی را منعکس کند.
 
-**Analytical Implication for Iran:** Chile's failure counsels that procedural openness and substantive maximalism can be fatal in combination. For Iran, where the range of constitutional preferences spans from theocratic restoration to radical secularism, from ethnic federalism to centralized unitarism, from socialist economics to free-market liberalism, the risk of a Chile-style outcome is acute. The lesson is that constitutional conventions need structural guardrails: party representation (not just individual delegates), negotiation procedures that enable compromise, and scope limitations that prevent the document from trying to resolve every policy question simultaneously. Arato's two-stage model — with a roundtable establishing procedural ground rules before an elected assembly drafts the text — provides precisely this kind of structured framework.
+**پیامد تحلیلی برای ایران:** شکست چیلی نصیحت می‌کند که شفافیت روالی و مطلقیت موضوعی می‌توانند در ترکیب کشنده باشند. برای ایران، جایی که حدود تنظیمات قانون اساسی از احیای تئوکراتی تا علمانیت رادیکال، از فدرالیسم قومی تا یکپارچگی متمرکز، از اقتصاد سوسیالیستی تا سرمایه‌داری آزاد مارکت تمتد می‌کند، خطر نتیجة چیلی شبیه حاد است. درس این است که کنوانسیون‌های قانون اساسی نیاز به حفاظ ساختاری دارند: نماینده‌گری احزاب (نه صرفاً نماینده‌های انفرادی)، فرآیندهای میانجی‌گری که سازش را فراهم می‌کند، و محدودیت‌های دامنه که منع می‌کند سند تمام سؤالات سیاستی را همزمان حل کند. مدل دو مرحله‌ای Arato — با میز گرد‌های قواعد روالی بنیادی قبل از کنوانسیونی انتخاب‌شده‌ی متنی را تدوین می‌کند — دقیقاً این نوع چارچوب ساختاریافته را فراهم می‌کند.
 
-### Deep Dive 6: Arato's Post-Sovereign Theory and the Iranian Application
+### تحلیل عمیق ۶: نظریة پس‌از‌حاکمیت Arato و استفادة ایرانی
 
-Andrew Arato's *Post Sovereign Constitution Making* (2016) provides the theoretical framework most directly applicable to Iran's situation. Arato distinguishes between three models of constitution-making: revolutionary (where a constituent assembly claims sovereign power to create a new order *ex nihilo*), imposed (where existing authorities decree a constitution), and post-sovereign (where multiple actors negotiate a constitutional settlement that none fully controls).
+*Post Sovereign Constitution Making* Arato (۲۰۱۶) چارچوب نظری مستقیماً قابل‌استفاده برای شرایط ایران را فراهم می‌کند. Arato میان سه مدل تدوین قانون اساسی تمایز می‌کند: انقلابی (جایی که مجمع تشکیل‌دهنده ادعای قدرت حاکمیتی را تولید کند تا نظم جدید را *ex nihilo* ایجاد کند)، تحمیلی (جایی که اختیارات موجود قانون اساسی را فرمان می‌دهند)، و پس‌از‌حاکمیت (جایی که بازیگران متعدد تسویة قانون اساسی‌ای را میانجی‌گری می‌کنند که هیچ‌کدام کاملاً کنترل نمی‌کند).
 
-The post-sovereign model involves two stages. In Stage 1, roundtable negotiations between the existing regime and opposition forces establish ground rules, procedural frameworks, and an interim constitutional arrangement. In Stage 2, an elected constitutional assembly drafts the permanent constitution within the constraints established by the roundtable, with a constitutional court providing oversight to ensure the assembly respects the negotiated ground rules.
+مدل پس‌از‌حاکمیت دو مرحله را شامل می‌شود. در مرحلة ۱، میز گرد میانجی‌گری میان رژیم موجود و نیروهای مخالف قواعد، چارچوب‌های روالی، و تنظیم قانون اساسی موقتی را برقرار می‌کند. در مرحلة ۲، کنوانسیون قانون اساسی انتخاب‌شده‌ی دائمی متن را در محدودیت‌های برقرار‌شده توسط میز گرد تدوین می‌کند، با نظارت دادگاه قانون اساسی برای اطمینان کنوانسیون قواعد میز گرد را احترام می‌گذارد.
 
-Arato develops this model from the empirical experience of Spain (1977-78), Poland and Hungary (1989-90), and especially South Africa (1993-96), which he describes as the context where the model "was more or less perfected." The South African case involved two stages: the 1993 interim constitution establishing the procedural framework and constitutional principles, followed by the elected Constitutional Assembly that drafted the 1996 final constitution under Constitutional Court review (which famously sent the first draft back for revision on technical grounds).
+Arato این مدل را از تجربة تجربی اسپانیا (۱۹۷۷-۷۸)، لهستان و مجارستان (۱۹۸۹-۹۰)، و به‌خصوص آفریقای جنوبی (۱۹۹۳-۹۶) توسعه می‌دهد، که او زمینه‌ای را توصیف می‌کند جایی که مدل «کم‌وبیش کامل شد». مورد آفریقای جنوبی دو مرحله را شامل کرد: قانون اساسی موقتی ۱۹۹۲ چارچوب روالی و اصول قانون اساسی را برقرار می‌کرد، که بعد کنوانسیون قانون اساسی انتخاب‌شده‌ای متن نهایی ۱۹۹۵ را تحت نظارت دادگاه قانون اساسی تدوین کرد (که به‌شهرت اولین پیش‌نویس را برای نسخ‌شدن برای دلایل فنی برگرداند).
 
-The key innovation of post-sovereign constitution-making is *democratic self-restraint*: even in foundational moments, the process includes checks, negotiated constraints, and multi-stage deliberation to prevent majoritarian overreach or power concentration. This directly addresses the pathology Chile demonstrated — where an unconstrained convention produced a document that the electorate rejected.
+نوآوری کلیدی تدوین قانون اساسی پس‌از‌حاکمیت *خود‌بازداری دموکراتیک* است: حتی در لحظة بنیادی، فرآیند چک‌ها، محدودیت‌های میانجی‌گری‌شده، و مباحثة چند‌مرحله‌ای را شامل می‌شود برای منع بیش‌فراروی اکثریتی یا تمرکز قدرت. این به‌طور مستقیم پاتولوژی رد می‌کند چیلی نشان داد — جایی که کنوانسیون غیرمحدود متنی تولید می‌کند که اقلیم رأی‌دهنده رد کرد.
 
-**Analytical Implication for Iran:** Arato's framework is the most promising procedural template for Iran, but its application requires adaptation. The model assumes that existing regime actors are willing to negotiate — which may not hold for Iran's hardline elements (Supreme Leader's office, IRGC leadership). However, the model does not require *all* regime actors to participate, only a critical mass sufficient to prevent violent spoiling. If a transition creates conditions where a significant portion of the existing establishment calculates that negotiation offers better prospects than resistance, the roundtable stage becomes feasible. The constitutional court oversight mechanism is particularly relevant for Iran, where any transition would need to prevent both theocratic restoration (through Guardian Council-like vetoes embedded in the new constitution) and revolutionary overreach (through maximalist secular provisions that alienate the religious population).
+**پیامد تحلیلی برای ایران:** چارچوب Arato نمونة روالی پرامیدتر برای ایران است، اما استفادة آن تطابق نیاز دارد. مدل فرض می‌کند که بازیگران رژیم موجود میانجی‌گری‌کردن مایل هستند — چیزی که برای عناصر سخت‌گیر ایران (دفتر رهبر، رهبری IRGC) نگاه نمی‌کند. با این‌حال، مدل تمام بازیگران رژیم موجود برای مشارکت نیاز ندارد، تنها جرم حیاتی برای منع خرابی خشن. اگر گذار شرایطی را ایجاد می‌کند جایی که بخشی قابل‌توجهی از تشکیلات موجود محاسبه می‌کند که میانجی‌گری آپشن بهتری نسبت به مقاومت است، مرحلة میز گرد امکان‌پذیر می‌شود. مکانیسم نظارت دادگاه قانون اساسی خصوصاً برای ایران مرتبط است، جایی که هر گذار برای منع هر دو احیای تئوکراتی (از طریق شورای نگهبان‌شبیه وتو نهادی تعبیه‌شده در قانون اساسی جدید) و بیش‌فراروی انقلابی (از طریق مقررات علمانی مطلقی که جمعیت مذهبی را دور می‌کند) نیاز دارد.
 
-### Connecting Threads
+### رشته‌های پیوندی
 
-Six threads emerge from these deep dives that were not visible from abstracts alone:
+شش رشتة از این تحلیل‌های عمیق بیرون می‌آیند که از خلاصه‌ها نه‌تنها مرئی نبودند:
 
-1. **Constitutional longevity is predictable.** Ginsburg/Elkins' finding that the median constitution survives only 19 years transforms constitutional design from an exercise in permanent institution-building to an exercise in creating documents durable enough to become self-reinforcing through practice. Iran should plan for a constitution that can evolve, not one designed as eternal.
+۱. **دوام‌پذیری قانون اساسی قابل پیش‌بینی است.** یافتة Ginsburg/Elkins که قانون اساسی میانگین تنها ۱۹ سال دوام می‌آورد طراحی قانون اساسی را از تمرین ساختِ نهاد دائمی به تمرین ایجاد اسنادی تبدیل می‌کند که برای تکامل دردراز‌مدت پایدار باشند. ایران باید برای قانون اساسی که می‌تواند تکامل پیدا کند برنامه‌ریزی کند، نه یکی طراحی‌شده به عنوان ابدی.
 
-2. **The single-term presidency is a double-edged solution.** South Korea's five-year non-renewable term successfully prevented authoritarian regression but created the "lemon presidency" pathology of executive overreach within a fixed horizon. Iran's executive design must balance anti-authoritarian safeguards against governance functionality.
+۲. **ریاست‌جمهوری یک‌دورة‌ای حل دوگانه‌ای است.** دورة پنج‌ساله‌ی غیرتجدیدی کره جنوبی از موفقیت مانع انقلابی پسرفت استبدادی شد اما پاتولوژی «ریاست‌جمهوری لیموی» کنندگی اجراتی را اضافه کرد. طراحی کنندگی ایران باید حفاظ‌های ضد‌استبدادی را در برابر کار‌آیی‌ای دموکراتی متوازن کند.
 
-3. **Creative ambiguity enables transitions but defers crises.** Spain's Article 2 is the canonical example: enabling the initial consensus but generating the Catalan crisis decades later. Iran's ethnic diversity demands that any ambiguity on the territorial question be paired with robust dispute resolution mechanisms from the outset.
+۳. **ابهام خلاقانه گذار را ممکن می‌کند اما بحران را معوق می‌کند.** مادة ۲ اسپانیا نمونة قانونی است: اجماع اولیه را ممکن می‌کند اما بحران کاتالونی را دهه‌ها بعد تولید می‌کند. تنوع قومی ایران نیاز دارد که هر ابهام بر سؤال منطقه‌ای مکانیسم‌های حل نزاع مقتدر را از ابتدا جفت کند.
 
-4. **Civil society institutions can serve as constitutional process infrastructure.** Tunisia's Quartet demonstrated a role beyond advocacy — serving as mediator, process guarantor, and legitimacy anchor. This is a replicable institutional innovation.
+۴. **نهادهای جامعة مدنی می‌توانند به عنوان زیرساخت فرآیند قانون اساسی خدمت کنند.** رباعی تونس نقشی فراتر از حمایت را نشان داد — به عنوان میانجی، تضمین‌کننده فرآیند، و لنگر مشروعیت. این نوآوری نهادی قابل‌تکرار است.
 
-5. **Overreach produces rejection.** Chile's 2022 failure shows that maximalist constitutional ambitions, even when procedurally participatory, will be rejected if they exceed social consensus. Iran's constitutional process must resist the temptation to resolve every contested question in the founding document.
+۵. **بیش‌فراروی رد را تولید می‌کند.** شکست ۱۴۰۱ چیلی نشان می‌دهد که آرمان‌های قانون اساسی مطلقی، حتی زمانی که روالی شهروندی است، اگر اجماع اجتماعی را بیشتر می‌کنند رد می‌شوند. فرآیند قانون اساسی ایران باید وسوسة حل تمام سؤالات متنازع‌انگیز در سند بنیادی را منع کند.
 
-6. **Post-sovereign models provide the most promising template.** Arato's two-stage framework — roundtable followed by constrained elected assembly — addresses the specific pathologies visible in both the maximalist (Chile) and rushed (Iraq) approaches. Its application to Iran requires adapting the roundtable concept to a context where regime actors may resist participation.
+۶. **مدل‌های پس‌از‌حاکمیت نمونة پرامید‌تر را فراهم می‌کند.** چارچوب دو مرحله‌ای Arato — میز گرد شامل میانجی‌گری کنوانسیون محدود — پاتولوژی‌های مرئی در هر دو روش مطلقی (چیلی) و شتاب (عراق) را مورد توجه قرار می‌دهد. استفادة آن برای ایران نیاز به تطابق مفهوم میز گرد برای زمینه‌ای که بازیگران رژیم ممکن است مشارکت را ترک کنند دارد.
 
 ---
 
-## Sources
+## منابع
 
-| # | Author(s) | Year | Title | Case Study | Access |
-|---|-----------|------|-------|------------|--------|
+| # | نویسنده(گان) | سال | عنوان | مطالعه موردی | دسترسی |
+|---|-------------|------|-------|-------------|--------|
 | 1 | Ginsburg, Elkins, and Blount | 2009 | Does the Process of Constitution-Making Matter? | Comparative (935 constitutions) | abstract |
 | 2 | Arato | 2016 | Post Sovereign Constitution Making | Comparative (Spain, Poland, Hungary, South Africa) | abstract |
 | 3 | Mosler | 2020 | South Korea's Non-Amended Constitution | South Korea | abstract |
@@ -187,230 +185,4 @@ Six threads emerge from these deep dives that were not visible from abstracts al
 | 14 | Abbiate, Böckenförde, and Federico | 2017 | Public Participation in Constitution-Making in Africa | Africa (comparative) | abstract |
 
 
-## Sources Used
-
-- [Strong Demands and Weak Institutions: The Origins and Evolution of the Democratic Deficit in the Philippines](../explorer/?id=97)
-- [Democratization in the South: the jagged wave](../explorer/?id=121)
-- [Presidential politics and the judicial facilitation of dialogue between political actors in new Asian democracies: Comparing the South Korean and Taiwanese experiences](../explorer/?id=123)
-- [Dead Autonomy, A Thousand Cuts or Partial Independence? The Autonomous Status of Hong Kong](../explorer/?id=98)
-- [Popular sovereignty and popular participation: Mixed constitutional democracy in the Third World](../explorer/?id=150)
-- [People-Powered and Non-Violent Social Movements: Forcing Gradualist Democratic Reforms in Authoritarian Societies](../explorer/?id=133)
-- [Wellsprings of Discontent: Sources of Dissent in South Korean Student Values](../explorer/?id=147)
-- [Citizen in Uniform:" Democratic Germany and the Changing Bundeswehr"](../explorer/?id=96)
-- [Democracy and South Korea's Lemon Presidency](../explorer/?id=78)
-- [Understanding the Politics of Constitutional Resilience in South Korea](../explorer/?id=146)
-- [Constitutional Politics](../explorer/?id=151)
-- [Converging Histories: South Korea’s Martial Law Crisis in a Global Conjunctural Frame](../explorer/?id=153)
-- [Negotiating Political Power at ‘Critical Junctures’: Women and Constitution Drafting in South Africa and India](../explorer/?id=47)
-- [Theory of Constitutional Reform of South Korea's Power Structure : Constitutional Reform Directions to Overcome Limitations of the 1987 Constitution](../explorer/?id=42)
-- [The Constitution of South Korea](../explorer/?id=46)
-- [History of South Korea’s Courts and Constitutional Transitions](../explorer/?id=58)
-- [A Comparative Study on Legal System for Basic Rights of Democracy in South Korea and Indonesia](../explorer/?id=80)
-- [The Economic Consequences of Legal Origins](../explorer/?id=3)
-- [Institutions as the Fundamental Cause of Long-Run Growth](../explorer/?id=1)
-- [The second image reversed: the international sources of domestic politics](../explorer/?id=134)
-- [Bound to Fail: The Rise and Fall of the Liberal International Order](../explorer/?id=102)
-- [Government Failures in Development](../explorer/?id=148)
-- [Macroeconomics and Politics](../explorer/?id=113)
-- [Fish for Life : Interactive Governance for Fisheries](../explorer/?id=116)
-- [Health financing for universal coverage and health system performance: concepts and implications for policy](../explorer/?id=152)
-- [Proportionality Balancing and Global Constitutionalism](../explorer/?id=6)
-- [Norm Subsidiarity and Regional Orders: Sovereignty, Regionalism, and Rule-Making in the Third World1](../explorer/?id=95)
-- [Constitutions and Economic Policy](../explorer/?id=7)
-- [Cities, Climate Change and Multilevel Governance](../explorer/?id=20)
-- [‘Land grab’ as development strategy? The political economy of agricultural investment in Ethiopia](../explorer/?id=117)
-- [Discrimination in migration and citizenship](../explorer/?id=10)
-- [How Change Happens](../explorer/?id=40)
-- [Regulatory Governance in Developing Countries](../explorer/?id=28)
-- [Two Liberalisms](../explorer/?id=24)
-- [Study on the Political Involvement in Senior Staffing and on the Delineation of Responsibilities Between Ministers and Senior Civil Servants](../explorer/?id=22)
-- [Self-Determination in the Post-Cold War Era: A New Internal Focus?](../explorer/?id=27)
-- [The Lifespan of Written Constitutions](../explorer/?id=23)
-- [Resolving Constitutional Disputes in Contemporary China](../explorer/?id=39)
-- [Legal Reform in Korea](../explorer/?id=122)
-- [Family Reform in Socialist States: The Hidden Agenda](../explorer/?id=82)
-- [The July 2002 Reforms in North Korea: Liberman-Style Reforms or Road to Transformation?](../explorer/?id=125)
-- [The Constitutionalization of Local Government in Developing Countries—Analysis of African Experiences in Global Perspective](../explorer/?id=127)
-- [Democratization in China, Korea and Southeast Asia?](../explorer/?id=137)
-- [South Korea: The Lasting Pitfalls of the ‘Imperial Presidency’](../explorer/?id=130)
-- [Litigation in Korea](../explorer/?id=144)
-- [An Analysis and Evaluation of Secondary Social Studies Textbooks under South Korea’s First National Curriculum (1954–1963): Focusing on Yu Jin-o’s Politics and Society](../explorer/?id=41)
-- [Everyday Life during the Park Chung-hee’s Military Dictatorship in South Korea after the 1972 Yushin Constitution](../explorer/?id=43)
-- [The Meaning and Evolution of Criminal Jury Trials in the U.S. Constitution : In Relation to the Citizen Participation Trial in South Korea](../explorer/?id=45)
-- [State Support for the Arts and the Freedom of Artistic Expression: A Comparative Constitutional Analysis of South Korea and the United States](../explorer/?id=49)
-- [Cooperatives based on the values of dignified justice in Indonesia and comparison with USA, Sweden, South Korea and India](../explorer/?id=50)
-- [Legal Reform and Digital Citizenship: A Comparative Study of Cyberbullying Laws in Indonesia, South Korea, and Japan](../explorer/?id=56)
-- [The Appointment of Acting (Contract) Judges and Judicial Independence in Uganda: Understanding Article 142 of the Constitution in Light of its Drafting History](../explorer/?id=57)
-- [Formation AND Development OF THE Constitutional Court IN THE Republic OF Korea (south Korea)](../explorer/?id=59)
-- [Reform Trends of Criminal Procedure in South Korea: Transition to Constitutional Guarantee of Human Rights](../explorer/?id=149)
-- [Does the Process of Constitution-Making Matter?](../explorer/?id=316)
-- [The struggle for constitutional power: law, politics, and economic development in Egypt](../explorer/?id=320)
-- [Post Sovereign Constitution Making](../explorer/?id=391)
-- [Constitution Writing in Post-conflict Settings: An Overview](../explorer/?id=336)
-- [The normative origins of democracy in the European Union: toward a transformationalist theory of democratization](../explorer/?id=326)
-- [Replacing and Amending Constitutions: The Logic of Constitutional Change in Latin America](../explorer/?id=334)
-- [Constitutional Change Without Constitutional Reform: Spanish Federalism and the Revision of Catalonia's Statute of Autonomy](../explorer/?id=387)
-- [Constitutional Adjudication: Lessons from Europe](../explorer/?id=395)
-- [Bringing Secessionism into the Mainstream: The 2012 Regional Election in Catalonia](../explorer/?id=402)
-- [Constitutions in the global financial crisis : a comparative analysis](../explorer/?id=394)
-- [Contemporary Spanish Politics](../explorer/?id=403)
-- [The Spanish Public in Political Transition](../explorer/?id=348)
-- [The Politics of Constitutional Review](../explorer/?id=350)
-- [Provincializing the Italian Reading of Gramsci](../explorer/?id=358)
-- [Revealing the dark side of traditional democracies in plurinational societies: the case of Catalonia and the Spanish ‘Estado de las Autonomías’](../explorer/?id=413)
-- [Mexico and the Spanish Cortes, 1810–1822](../explorer/?id=405)
-- [Multi-level Coalitions and Statute Reform in Spain](../explorer/?id=404)
-- [The Constitution of Spain](../explorer/?id=409)
-- [Territorial Accommodation, Party Politics, and Statute Reform in Spain](../explorer/?id=371)
-- [Between justice and politics: the role of the Spanish Constitutional Court in the state of autonomies](../explorer/?id=418)
-- [Constituent power, primary assemblies, and the imperative mandate](../explorer/?id=354)
-- [The Rise of Constitutional Government in the Iberian Atlantic World: The Impact of the Cádiz Constitution of 1812](../explorer/?id=359)
-- [Constitutional review and democracy](../explorer/?id=447)
-- [Democratic Breakdown through Lawfare by Constitutional Courts: The Case of Post-"Democratic Transition" Thailand](../explorer/?id=277)
-- [A Holy Alliance between the Catholic Church and Constitution-Makers? The Diffusion of the Clause of Cooperation in Third Wave Democracies](../explorer/?id=364)
-- [Constitutional Repair: A Comparative Theory](../explorer/?id=289)
-- [Reading Rousseau in Spanish America during the wars of independence (1808–1826)](../explorer/?id=376)
-- [Spain as a Democratic State Governed by the Rule of Law and the Catalan Secessionist Process](../explorer/?id=279)
-- [Sudan's 2019 Constitutional Declaration: Its Impact on the Transition](../explorer/?id=292)
-- [The ‘Withdrawn Citizen’: Making Sense of the Failed Constitutional Process in Chile](../explorer/?id=298)
-- [Grand Narratives of Transition and the Quest for Democratic Constitutionalism in India and South Africa](../explorer/?id=282)
-- [In Pinochet’s Shadows: The Incidence of Authoritarian/Democratic Values on the Vote Choice in the 2022 Constitutional Plebiscite in Chile](../explorer/?id=275)
-- [THE Tunisian Constitutional Transition AND Debates: Islam, Women AND Other Actors IN THE WAKE OF THE POST Jasmine Revolution](../explorer/?id=290)
-- [Authoritarian Straitjacket or Vehicle for Democratic Transition?](../explorer/?id=295)
-- [The idea of citizens’ assemblies and other forms of citizens’ participation in constitutional changes and public initiatives: experience and prospects for constitutionalization in the New and Old World](../explorer/?id=305)
-- [Change through the Ballot: Examining the 2024 Constitutional Democracy in Senegal](../explorer/?id=306)
-- [Between Legal Certainty and Democratic Legitimacy: The Normative Void of the Constitutional Court Decision No. 135/PUU-XXII/2024 in Indonesia’s Constitutional System](../explorer/?id=272)
-- [Public Participation in Constitution Making for the Democratic Transition in Thailand](../explorer/?id=276)
-- [Constitutional transition to democracy in Spain](../explorer/?id=278)
-- [Democracy and the Constitutional Monarchy in Malaysia: A Constitutional Analysis of Monarchical Discretion and Democratic Legitimacy, 1983–2022](../explorer/?id=280)
-- [Is the constitution the problem in front of the democratic transition in Iraq?](../explorer/?id=281)
-- [Revisiting Constitutional Political Economy: A Literature Review on Institutional Design and Economic Policy Outcomes in the Philippine Context](../explorer/?id=283)
-- [Institutional Resilience and Democratic Sustainability in Post-Transition Europe: Lessons from Romania and Central-Eastern Europe](../explorer/?id=284)
-- [The 1978 Spanish Constitutional Design](../explorer/?id=285)
-- [The Development of Constitutional Institutions in Iraq Over the Past 20 Years](../explorer/?id=286)
-- [A Tale of Three Constitutional Courts in Democratic Transitions](../explorer/?id=287)
-- [THE FORM OF Government OF A Democratic State ON THE Background OF Crisis Political AND Institutional Design](../explorer/?id=288)
-- [Constitutional transition and the travail of judges: the courts of South Korea](../explorer/?id=294)
-- [Yemen’s Failed Constitutional Transition](../explorer/?id=297)
-- [THE Security AND Freedom Dilemma: Ukraine's Democratic PATH Through WAR AND THE Challenges OF Consolidation](../explorer/?id=300)
-- [Misreading the Court Decision: Reflecting on Constitutional Interpretation In Nusantara Capital Law Formation](../explorer/?id=301)
-- [Tunisian Exceptionalism Or Constitutional Timing: A Comparison Of Democratic Transitions In The Middle East](../explorer/?id=308)
-- [The Spanish Constitutional Reform as a Consequence of the Economic Crisis and the Budgetary Stability](../explorer/?id=396)
-- [The Brazilian health system: history, advances, and challenges](../explorer/?id=315)
-- [The Economic Consequences of Legal Origins](../explorer/?id=314)
-- [DOES Public Accountability Work? AN Assessment TOOL](../explorer/?id=311)
-- [Law and Courts in Authoritarian Regimes](../explorer/?id=319)
-- [New Modes of Pluralist Global Governance](../explorer/?id=327)
-- [Constitutional Pluralism Revisited](../explorer/?id=338)
-- [The People and the King: The Comunero Revolution in Colombia, 1781.](../explorer/?id=393)
-- [The European Convention: Bargaining in the Shadow of Rhetoric](../explorer/?id=422)
-- [The rise of digital constitutionalism in the European Union](../explorer/?id=342)
-- [Demystifying the modernized European data protection regime: Cross‐disciplinary insights from legal and regulatory governance scholarship](../explorer/?id=346)
-- [Post-Conflict Peace-Building and Constitution-Making](../explorer/?id=329)
-- [Reframing Sovereignty? Sub-State National Societies and Contemporary Challenges to the Nation-State](../explorer/?id=398)
-- [From sovereign villages to national states: city, state, and federation in Central America, 1759-1839](../explorer/?id=419)
-- [Reforming the Spanish Senate: Mission Impossible?](../explorer/?id=397)
-- [From Catalonia to California: Secession in Constitutional Law](../explorer/?id=353)
-- [Colombia: Democracy Under Assault](../explorer/?id=414)
-- [The Netherlands: Subnational Democracy and theReinvention of Tradition](../explorer/?id=361)
-- [The United States Constitution and its Roots in British Political Thought and Tradition](../explorer/?id=355)
-- [The Spanish Legal Framework for curbing the Public Debt and the Deficit](../explorer/?id=401)
-- [The state, policing and “Old Continental Europe”: managing the local/national tension](../explorer/?id=374)
-- [Why is the Spanish Upper Chamber So Difficult to Reform?](../explorer/?id=410)
-- [Democracy and cultural diversity](../explorer/?id=420)
-- [EU Enlargement - The Constitutional Impact at EU and National Level](../explorer/?id=363)
-- [Local Government Economics in Theory and Practice](../explorer/?id=423)
-- [La reforma del artículo 135 de la Constitución Española : ¿pueden los mercados quebrar el consenso constitucional?](../explorer/?id=406)
-- [El futuro de la justicia constitucional](../explorer/?id=408)
-- [Spain: A Federation In The Making?](../explorer/?id=351)
-- [Latin American Constitutions](../explorer/?id=352)
-- [De la Monarquía Católica a la Nación de los Católicos.](../explorer/?id=356)
-- [When Governments Promise to Prioritize Public Debt: Do Markets Care?](../explorer/?id=407)
-- [Second Round Reform. Devolution and constitutional reform in the United Kingdom, Spain and Italy](../explorer/?id=388)
-- [La reforma constitucional del Senado](../explorer/?id=412)
-- [Language rights in the 2004 draft of the European Union Constitution](../explorer/?id=357)
-- [The defence of health : the debates on health reform in 1970s Spain](../explorer/?id=362)
-- [Moderados and Exaltados: The Liberal Opposition to Ferdinand VII, 1814-1823](../explorer/?id=365)
-- [La organización territorial de España. Una reflexión sobre el estado de la cuestión y claves para la reforma constitucional](../explorer/?id=386)
-- [Linking Disconnected Spaces or Venue Shopping? Trade-Offs in Participatory Opportunities in the EU](../explorer/?id=380)
-- [The reform of the fiscal framework in Spain: constitutional limits and the new public spending growth rule](../explorer/?id=389)
-- ["Decision Making in Europe: Were Spain and Poland Right to Stop the Constitution in December 2003?"](../explorer/?id=360)
-- [Juridification by Constitution. National Sovereignty in Eighteenth and Nineteenth Century Europe](../explorer/?id=383)
-- [The Louisiana state constitution : a reference guide](../explorer/?id=373)
-- [Constitutional Transition in a Democratic State: A Critical View of the Omnibus Law Establishing Employment Copyright Law](../explorer/?id=273)
-- [Financing Referendum Campaigns in Spain](../explorer/?id=377)
-- [The right to care: a proposal from feminist perspectives for a constitutional reform in Spain](../explorer/?id=390)
-- [La reforma del procedimiento de reforma constitucional en España](../explorer/?id=417)
-- [Constitutional Design in Nigeria: An Imperative for Eliminating Energy Poverty of Women](../explorer/?id=274)
-- [Dr. Ambedkar’s Nation-Building Vision: Princely States, Constitutional Sovereignty, and Indian Unity](../explorer/?id=299)
-- [Centenary Paper: The First Spanish Constitution Draft: The ‘Constitutional Laws’ of Manuel de Aguirre (1786)](../explorer/?id=349)
-- [The Extraordinary Politics of the Tunisian Revolution: The Process of Constitution Making](../explorer/?id=575)
-- [Algeria versus the Arab Spring](../explorer/?id=542)
-- [F<scp>amilies</scp>, T<scp>ribes and</scp> C<scp>ities in the</scp> L<scp>ibyan</scp> R<scp>evolution</scp>](../explorer/?id=537)
-- [The Global State of Democracy 2022: Forging Social Contracts in a Time of Discontent](../explorer/?id=543)
-- [How not to write a constitution: lessons from Chile](../explorer/?id=551)
-- [Constitutional Origins and Liberal Democracy: A Global Analysis, 1900–2015](../explorer/?id=546)
-- [Bahrain: Political Development in a Modernizing Society](../explorer/?id=618)
-- [The Romanian double executive and the 2012 constitutional crisis](../explorer/?id=573)
-- [Public Participation in African Constitutionalism](../explorer/?id=616)
-- ['We the Jurists': Islamic Constitutionalism in Iraq](../explorer/?id=568)
-- [Transnational Constitution-Making: The Contribution of the Venice Commission on Law and Democracy](../explorer/?id=553)
-- [Democracy, Civil Liberties and the Role of Religion after the Arab Awakening: Constitutional Reforms in Tunisia and Morocco](../explorer/?id=614)
-- [Arab Spring constitution-making: polarization, exclusion, and constraints](../explorer/?id=577)
-- [Is Morocco Immune to Upheaval](../explorer/?id=629)
-- [Constitutionalism, Human Rights, and Islam after the Arab Spring](../explorer/?id=580)
-- [Military Support for Democracy](../explorer/?id=640)
-- [Negotiating the Post-Revolution Constitution for Tunisia – Members of the National Constituent Assembly Share Their Experiences](../explorer/?id=570)
-- [Challenges to legitimate governance in post-revolution Tunisia](../explorer/?id=578)
-- [A Critical Assessment of the Role of the Venice Commission in Processes of Domestic Constitutional Reform](../explorer/?id=619)
-- [Organized Interests in Constitutional Assemblies](../explorer/?id=579)
-- [Arab Constitutionalism](../explorer/?id=620)
-- [The Islamist Challenge: The Failure of Reform in Tunisia](../explorer/?id=628)
-- [Reconstituting Tunisia: Participation, Deliberation, and the Content of Constitution](../explorer/?id=581)
-- [UN Constitutional Assistance Projects in Comprehensive Peace Missions: An Inventory 1989–2011](../explorer/?id=610)
-- [The Constitutionalization of the Civil State: The Self-Definition of Egypt, Tunisia and Yemen Following the Arab Uprisings](../explorer/?id=729)
-- [Beyond Constituent Assemblies and Referenda: Assessing the Legitimacy of the Arab Spring Constitutions in Egypt and Tunisia](../explorer/?id=583)
-- [Constitutions against Revolutions: Political Participation in North Africa](../explorer/?id=585)
-- [Women and the Making of the Tunisian Constitution](../explorer/?id=582)
-- [The debate on religion, law and gender in post-revolution Tunisia](../explorer/?id=584)
-- [From Public Participation to Constitutional Legitimacy: Evidence from Tunisia](../explorer/?id=621)
-- [Tunisia’s democratisation process: when ‘consensus democracy’ undermines democratic consolidation](../explorer/?id=623)
-- [Conclusion: The Arab World at the Intersection of the National and Transnational](../explorer/?id=633)
-- [Post-Revolution Constitutionalism: The Impact of Drafting Processes on the Constitutional Documents in Tunisia and Egypt](../explorer/?id=586)
-- [Constitutional reform processes](../explorer/?id=622)
-- [Moroccan Exceptionalism Examined: Constitutional Insights pre- and post-2011](../explorer/?id=631)
-- [From Constructive Ambiguity to Harmonious Interpretation](../explorer/?id=637)
-- [Tunisia's Morning After](../explorer/?id=642)
-- [Semi-Presidentialism as a Form of Government: Lessons for Tunisia](../explorer/?id=587)
-- [The Political Infeasibility of 'Thin' Constitutions: Lessons from 2003-2006 Israeli Constitutional Debates](../explorer/?id=588)
-- [Deceptive Liberal Reforms: Institutional Adjustments and the Dynamics of Authoritarianism in Tunisia (1997–2005)](../explorer/?id=627)
-- [¿La quinta ola de democratización?: Cambio político sin cambio de régimen en los países árabes](../explorer/?id=639)
-- [Tunisian democratisation: dashed hopes between 2010 and 2022](../explorer/?id=536)
-- [The Reality and Future of Reforms in Morocco 2011-2021: The Question of Authority](../explorer/?id=632)
-- [The Provisional Constitution of the Federal Republic of Somalia: Process, Architecture and Perspectives](../explorer/?id=590)
-- [The National Constituent Assembly of Tunisia and Civil Society Dynamics. EUSpring Working Paper No. 2, 8 July 2015](../explorer/?id=591)
-- [The Tunisian transition: the evolving face of the second republic](../explorer/?id=596)
-- [Has the Arab Spring Led toward Democratic Gains? Examining the democratic implications of the recent uprisings in the Arab world using different data sources](../explorer/?id=638)
-- [The revival of Political Islam in the MENA region: the case of Ennahda in Tunisia](../explorer/?id=644)
-- [Interpreting the Tunisian Revolution: Beyond Bou’azizi](../explorer/?id=647)
-- [Tunisia in turmoil: how should the EU react?](../explorer/?id=598)
-- [Tunisia in turmoil: how should the EU react? CEPS Commentary, 4 March 2013](../explorer/?id=599)
-- [Tunisia's legitimacy and constitutional crisis : the Troika has failed](../explorer/?id=601)
-- [Views: Tunisian Human Rights Organisations and the ‘Path of 25 July’](../explorer/?id=604)
-- [Five years of Arab constitutional reform](../explorer/?id=606)
-- [Constitutional Reform and Emergency Powers in Egypt and Tunisia](../explorer/?id=615)
-- [Socio-Political, Legal, And Educational Transformation In Tunisia After The Arab Spring](../explorer/?id=648)
-- [Constitution-making in Tunisia - an analysis of contentious constitutional issues in the process of drafting the 2014-constitution](../explorer/?id=593)
-- [Good Urban Governance and City Resilience: An Afrocentric Approach to Sustainable Development](../explorer/?id=555)
-- [Networked Governance of Freedom and Tyranny: Peace in Timor-Leste](../explorer/?id=572)
-- [Strengthening governance and competitiveness in the MENA region for stronger and more inclusive growth](../explorer/?id=559)
-- [Constitutional Islamization and Human Rights: The Surprising Origin and Spread of Islamic Supremacy in Constitutions](../explorer/?id=539)
-- [Contemporary Legal Transplants -- Legal Families and the Diffusion of (Corporate) Law](../explorer/?id=566)
-- [Digital Constitutionalism](../explorer/?id=565)
-- [Peace and Democracy in the Middle East: The Constraints of Soft Budgets](../explorer/?id=597)
-- [The place of <i>Shi’i</i> clerics in the first Iranian constitution](../explorer/?id=635)
-- [The flawed public participation in the Egyptian constitutional process](../explorer/?id=592)
-- [Interpreting constitutions in divided societies](../explorer/?id=600)
-- [Hamas, Constitutionalism, and Palestinian Women](../explorer/?id=607)
-- [A Comparative Investigation of Gender Terminology in the Egyptian and Tunisian Constitutions](../explorer/?id=605)
-- [The Question of Education in the 2014 Tunisian Constitution: Article 39 and its Ambiguous Values](../explorer/?id=608)
+</div>

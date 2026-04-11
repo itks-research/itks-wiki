@@ -2,72 +2,46 @@
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (9 sources)
 
-The design of electoral systems in post-authoritarian contexts is never a neutral technical exercise — it is a political settlement that shapes who wins, who loses, and whether democracy survives its first decades. Poland's post-1989 experience offers a particularly rich laboratory. Tworzecki (1996) documents how Poland's initial fully proportional system with low thresholds produced extreme parliamentary fragmentation — the 1991 Sejm contained 29 parties, making coalition governance nearly impossible. The subsequent introduction of a 5% threshold and d'Hondt method in 1993 dramatically consolidated the party system, but at the cost of excluding roughly 35% of voters whose parties fell below the threshold. This tension between inclusion and governability haunts every transitional electoral design.
+طراحی نظام انتخاباتی در بافت‌های پسااقتدارگرا هرگز تمرین فنی خنثایی نیست — توافق سیاسی‌ای است که تعیین می‌کند چه کسی برنده می‌شود، چه کسی می‌بازد و آیا دموکراسی از دهه‌های نخست خود جان سالم به در می‌برد. تجربه لهستان پس از ۱۹۸۹ آزمایشگاه بسیار غنی‌ای ارائه می‌دهد. تورژتسکی (Tworzecki, 1996) مستند می‌کند که نظام کاملاً تناسبی اولیه لهستان با آستانه‌های پایین، پراکندگی شدید پارلمانی ایجاد کرد — مجلس سیم ۱۹۹۱ شامل ۲۹ حزب بود که حکمرانی ائتلافی را تقریباً ناممکن می‌ساخت. معرفی آستانه ۵ درصدی و روش دانت در ۱۹۹۳ نظام حزبی را به شدت تثبیت کرد، اما به قیمت حذف حدود ۳۵ درصد رأی‌دهندگانی که احزابشان به آستانه نرسیدند. این تنش میان شمول و حکمرانی‌پذیری، هر طراحی انتخاباتی دوران گذار را تسخیر می‌کند.
 
-South Korea took a different path, adopting a mixed-member system that combined single-member districts with proportional list seats. Merkel (2004) classifies South Korea as an "embedded democracy" with defective elements, noting that the electoral system's majoritarian bias reinforced regional voting blocs (Honam vs. Yeongnam) that persist to this day. The lesson is that electoral systems do not merely reflect existing political cleavages — they freeze and amplify them. White, Batt, and Lewis (1998) provide broader context for Central and Eastern European electoral choices, showing how the initial system design created path dependencies that proved remarkably resistant to subsequent reform.
+کره جنوبی مسیر متفاوتی پیمود و نظام مختلط عضویتی ترکیبی از حوزه‌های تک‌نفره با کرسی‌های فهرست تناسبی اتخاذ کرد. مرکل (Merkel, 2004) کره جنوبی را «دموکراسی تعبیه‌شده» با عناصر معیوب طبقه‌بندی می‌کند و اشاره دارد که تمایل اکثریتی نظام انتخاباتی، بلوک‌های رأی‌دهی منطقه‌ای (هونام در برابر یونگنام) را تقویت کرد. درس این است که نظام‌های انتخاباتی صرفاً شکاف‌های سیاسی موجود را بازتاب نمی‌دهند — آن‌ها را منجمد و تقویت می‌کنند.
 
-Iran's current electoral architecture operates under fundamentally different constraints. The approbatory supervision system, documented in studies of the Guardian Council's vetting practices (Tezcur, 2005), means that electoral rules matter less than candidate filtration — the game is decided before voters enter the booth. Kazemi and Akhzarian Kashani (2023) examine Iran's electoral governance model comparatively, finding that it lacks the institutional independence that even flawed democracies maintain between election administration and political power. Ansari (2010) provides a granular account of how these structural deficits culminated in the 2009 crisis, when the gap between electoral form and democratic substance became unsustainable.
+معماری انتخاباتی فعلی ایران تحت محدودیت‌های اساساً متفاوتی عمل می‌کند. نظام نظارت استصوابی به این معناست که قواعد انتخاباتی کمتر از پالایش نامزدها اهمیت دارند — بازی پیش از ورود رأی‌دهندگان به صندوق تعیین می‌شود. کاظمی و اخزریان کاشانی (Kazemi & Akhzarian Kashani, 2023) الگوی حکمرانی انتخاباتی ایران را به صورت تطبیقی بررسی کرده و دریافته‌اند که فاقد استقلال نهادی‌ای است که حتی دموکراسی‌های معیوب نیز میان مدیریت انتخابات و قدرت سیاسی حفظ می‌کنند. انصاری (Ansari, 2010) شرح دقیقی از نحوه تبلور این نقایص ساختاری در بحران ۲۰۰۹ ارائه می‌دهد.
 
 ## Cross-Country Patterns
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (9 sources)
 
-A cross-cutting pattern emerges from post-authoritarian electoral design: the choice between proportional representation and majoritarian systems maps onto deeper tensions about the pace and inclusiveness of transition. Countries that chose proportional systems (Poland, Czech Republic, Tunisia) tended to produce more fragmented but more inclusive legislatures in the early years. Countries with majoritarian or mixed systems (South Korea, Indonesia) produced more stable governments but risked entrenching dominant regional or ethnic blocs.
+الگوی بین‌بخشی از طراحی انتخاباتی پسااقتدارگرا پدیدار می‌شود: انتخاب میان نمایندگی تناسبی و نظام اکثریتی بر تنش‌های عمیق‌تری درباره سرعت و شمول‌پذیری گذار منطبق است. کشورهایی که نظام تناسبی انتخاب کردند (لهستان، جمهوری چک، تونس) مجالس پراکنده‌تر اما فراگیرتری در سال‌های نخست تولید کردند. کشورهای با نظام اکثریتی یا مختلط (کره جنوبی، اندونزی) دولت‌های باثبات‌تری ایجاد کردند اما در خطر تثبیت بلوک‌های منطقه‌ای یا قومی غالب بودند.
 
-A second pattern concerns the sequencing problem. Poland's experience — where the electoral system was redesigned three times in the first decade of democracy — suggests that getting it "right" from the start matters less than building institutional capacity for legitimate revision. The danger for Iran is not choosing the wrong system initially but locking in a system that serves transitional elites while lacking mechanisms for democratic adjustment. Sandholtz and Koetzle (2000) demonstrate that electoral system design interacts with economic structure and corruption patterns, suggesting that Iran's sanctions-distorted economy and rent-seeking structures would interact with any electoral system in ways that pure institutional analysis cannot predict.
+الگوی دوم به مسئله توالی مربوط است. تجربه لهستان — جایی که نظام انتخاباتی سه بار در دهه اول دموکراسی بازطراحی شد — نشان می‌دهد که درست انتخاب کردن از ابتدا کمتر از ایجاد ظرفیت نهادی برای بازنگری مشروع اهمیت دارد. خطر برای ایران نه انتخاب نظام نادرست در ابتدا، بلکه قفل شدن نظامی است که نخبگان دوران گذار را خدمت کند بدون آنکه سازوکارهایی برای تعدیل دموکراتیک داشته باشد.
 
 ## Iran Context
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (9 sources)
 
-Iran's electoral redesign would face at least three challenges without close precedent. First, the dismantling of approbatory supervision (نظارت استصوابی) would represent not just a rule change but the removal of the Guardian Council's most powerful political tool. Any replacement system would need credible independence from both revolutionary institutions and transitional political forces — a balance that neither Poland's State Electoral Commission nor South Korea's National Election Commission had to achieve under comparable institutional complexity.
+بازطراحی انتخاباتی ایران دست‌کم با سه چالش بدون سابقه نزدیک مواجه خواهد شد. نخست، برچیدن نظارت استصوابی نه صرفاً تغییر قاعده، بلکه حذف مؤثرترین ابزار سیاسی شورای نگهبان خواهد بود. هر نظام جایگزین به استقلال معتبر از نهادهای انقلابی و نیروهای سیاسی دوران گذار نیاز دارد — تعادلی که نه کمیسیون انتخاباتی دولتی لهستان و نه کمیسیون انتخابات ملی کره جنوبی مجبور نبودند در پیچیدگی نهادی مشابهی به دست آورند.
 
-Second, Iran's ethnic and linguistic diversity (Persian, Azeri, Kurdish, Baluch, Arab, Turkmen, and Lor populations) creates representational challenges that Poland's relatively homogeneous society did not face. A purely proportional system risks creating ethnic party blocs; a purely majoritarian system risks permanent minority exclusion. Some form of mixed system, potentially with reserved seats or autonomy-linked representation, would need to balance national cohesion with legitimate diversity claims — drawing on lessons from Indonesia's post-Suharto electoral design rather than the more ethnically homogeneous East Asian and Southern European cases.
+دوم، تنوع قومی و زبانی ایران (فارس، آذری، کُرد، بلوچ، عرب، ترکمن و لُر) چالش‌های نمایندگی‌ای ایجاد می‌کند که جامعه نسبتاً همگن لهستان با آن مواجه نبود. نظام کاملاً تناسبی خطر ایجاد بلوک‌های حزبی قومی دارد؛ نظام کاملاً اکثریتی خطر حذف دائمی اقلیت‌ها را. شکلی از نظام مختلط، احتمالاً با کرسی‌های اختصاصی یا نمایندگی مرتبط با خودمختاری، باید انسجام ملی و ادعاهای مشروع تنوع را متوازن سازد.
 
-Third, the role of the Iranian diaspora in elections — whether through external voting, candidacy rights, or reserved representation — has no precedent at the scale Iran would require. An estimated 4-5 million Iranians abroad represent significant political and economic capital, but also security sensitivities given the diaspora's political fragmentation and the involvement of some groups with foreign intelligence services.
+سوم، نقش ایرانیان خارج از کشور در انتخابات — اعم از رأی‌گیری خارجی، حق نامزدی، یا نمایندگی اختصاصی — سابقه‌ای در مقیاسی که ایران نیاز خواهد داشت ندارد. تخمین ۴ تا ۵ میلیون ایرانی خارج از کشور سرمایه سیاسی و اقتصادی قابل توجهی را نمایندگی می‌کنند، اما حساسیت‌های امنیتی نیز با توجه به پراکندگی سیاسی این جامعه وجود دارد.
 
 ## Open Research Questions
 
-- What electoral threshold (if any) would balance Iran's need for inclusive representation of its diverse factional and ethnic landscape against the risk of parliamentary fragmentation that paralyzed Poland's early democracy?
-- How should electoral district boundaries be drawn in a country where provincial borders reflect both administrative convenience and ethnic settlement patterns, and where gerrymandering by revolutionary institutions has shaped existing constituencies?
-- Can external voting mechanisms be designed that enfranchise the Iranian diaspora without creating security vulnerabilities or allowing disproportionate influence by well-resourced exile political organizations?
+- چه آستانه انتخاباتی‌ای (در صورت وجود) می‌تواند نیاز ایران به نمایندگی فراگیر از چشم‌انداز متنوع جناحی و قومی را با خطر پراکندگی پارلمانی که دموکراسی اولیه لهستان را فلج کرد متوازن سازد؟
+- مرزهای حوزه‌های انتخاباتی چگونه باید در کشوری ترسیم شوند که مرزهای استانی هم بازتاب سهولت اداری و هم الگوهای سکونت قومی هستند؟
+- آیا سازوکارهای رأی‌گیری خارجی می‌توانند بدون ایجاد آسیب‌پذیری‌های امنیتی یا اجازه نفوذ نامتناسب سازمان‌های سیاسی تبعیدی ثروتمند، ایرانیان خارج از کشور را رأی‌دار کنند؟
 
 ## Sources
 
-| # | Author(s) | Year | Title | Access |
-|---|-----------|------|-------|--------|
-| 1 | Tworzecki | 1996 | Parties and politics in post-1989 Poland | — |
-| 2 | White, Batt & Lewis | 1998 | Developments in Central and East European Politics 2 | — |
-| 3 | Sandholtz & Koetzle | 2000 | Accounting for Corruption: Economic Structure, Democracy, and Trade | DOI |
-| 4 | Mieńkowska-Norkiene et al. | 2024 | The deteriorating legislative role of the legislature in multilevel democracies: Poland | DOI |
-| 5 | — | 2003 | Theocracy versus democracy: Iran considers political parties | — |
-| 6 | Kazemi & Akhzarian Kashani | 2023 | Examining the design of the model of electoral governance in Iran | — |
-| 7 | Ansari | 2010 | Crisis of Authority: Iran's 2009 Presidential Election | — |
-| 8 | Merkel | 2004 | Embedded and defective democracies | DOI |
-| 9 | Tezcur | 2005 | How do political religious groups develop sustainable democratic commitments | — |
-
-## Implications for Iran
-
-> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (10 sources)
-
-**Institutional Mapping:** Electoral reform in Iran would directly engage the **Guardian Council** (شورای نگهبان), which exercises approbatory supervision (نظارت استصوابی) over all candidates for parliamentary, presidential, and Assembly of Experts elections. The **Ministry of Interior** administers elections operationally, while the **Supreme Leader's office** (بیت رهبری) exerts informal influence over both bodies. The **Majles** (مجلس شورای اسلامی) would be both the subject and the arena of electoral reform. The **Expediency Council** (مجمع تشخیص مصلحت نظام) adjudicates disputes between the Guardian Council and Majles, adding a further veto point. Any transitional electoral commission would need to navigate or replace this entire architecture.
-
-**Structural Parallels:** Poland's experience with extreme parliamentary fragmentation (29 parties in 1991) carries a direct warning for Iran, where decades of suppressed political competition have produced a fragmented opposition landscape — monarchists, republican nationalists, ethnic parties, religious reformists, leftists, and diaspora factions — that would likely produce similar or greater fragmentation if proportional representation were adopted without thresholds. South Korea's regionalized voting blocs (Honam vs. Yeongnam) parallel Iran's ethno-linguistic political geography, where Azeri, Kurdish, Baluch, and Arab constituencies could crystallize into permanent regional blocs under majoritarian systems, replicating rather than transcending the identity-based politics the transition seeks to overcome.
-
-**Key Actors and Sequencing:** The **Guardian Council** is the primary blocker — its vetting authority (نظارت استصوابی) is the mechanism through which electoral outcomes are pre-determined, and its twelve members (six clerical appointees of the Supreme Leader, six jurists nominated by the judiciary head) have no incentive to dismantle their own power. Potential enablers include reformist clergy within the **howzeh** (حوزه علمیه) who have argued for supervisory rather than approbatory electoral oversight, and technocrats within the Interior Ministry who possess operational electoral expertise separable from ideological filtration. Sequencing should prioritize: (1) abolition of approbatory supervision and replacement with a post-hoc judicial review mechanism; (2) establishment of an independent electoral commission with constitutional protection; (3) adoption of a mixed electoral system balancing proportional representation (with a 3-5% threshold to prevent fragmentation) with single-member districts to maintain geographic accountability.
-
-**Unique Challenges:** Iran's electoral redesign confronts at least three challenges absent from comparative cases. First, the 4-5 million-strong diaspora demands representation but raises security and logistical complications unprecedented at this scale. Second, the dual sovereignty structure of ولایت فقیه means that even a freely elected parliament could be overridden by unelected revolutionary institutions unless the constitutional architecture is simultaneously reformed — electoral engineering without constitutional reform risks producing a decorative parliament. Third, the IRGC and **Basij** networks have historically mobilized voters and monitored polling stations; removing this infrastructure requires building alternative civic election monitoring capacity from near-zero baseline.
-
-## What We Don't Know
-
-- **Absence of Iran-specific empirical data on voter behavior:** The article draws on Polish and South Korean electoral outcomes to model the likely effects of threshold levels and district designs, but there is no systematic empirical survey data on Iranian voter preferences across ethnic, class, and regional lines under free electoral conditions. Projections about fragmentation risk and minority-bloc formation remain speculative in the absence of such baseline data.
-
-- **Limited comparative coverage of Muslim-majority or theocratic-to-democratic transitions:** The electoral engineering literature is dominated by Central and Eastern European, East Asian, and Latin American cases. There are no comparable cases of dismantling an approbatory supervision (nezarat-e estesvaabi) system, which is qualitatively distinct from conventional electoral administration reform. Indonesia's post-Suharto experience offers partial guidance but lacks the Guardian Council equivalent.
-
-- **Diaspora representation without precedent at scale:** The article acknowledges that external voting for an estimated 4–5 million diaspora members is unprecedented, but the academic literature on diaspora electoral participation does not address scenarios of this magnitude, political fragmentation, or security sensitivity. The cited evidence on external voting mechanisms comes from contexts (emigrant communities in stable democracies) that differ fundamentally from Iran's case.
-
-- **Absence of longitudinal evidence on mixed-system outcomes in divided societies:** While the article recommends a mixed electoral system as a balance between proportional representation and majoritarian logics, the comparative literature on mixed systems in ethnically and linguistically diverse post-authoritarian states is thin, particularly regarding second-order effects on minority party viability over multiple electoral cycles.
-
-- **Theoretical gap on sequencing electoral reform alongside constitutional reform:** The article notes that electoral engineering without constitutional reform risks producing a decorative parliament under velayat-e faqih, but the political science literature does not provide tested models for simultaneously restructuring an electoral system and a dual-sovereignty constitutional architecture. The interdependencies between these two reform tracks are undertheorized.
-
-This article examines how countries like Poland and South Korea redesigned their voting systems after authoritarian rule, and asks what lessons apply to Iran. The key finding is that the design of elections — how many parties can compete, how districts are drawn, who gets to run — shapes who holds power for decades, making these choices among the most consequential any transition must face. For Iran, the article finds that the Guardian Council's power to disqualify candidates is the central obstacle: no voting system can produce genuine democracy until candidate filtration is abolished and replaced by an independent electoral authority.
+| # | نویسنده(گان) | سال | عنوان | دسترسی |
+|---|-------------|------|-------|--------|
+| ۱ | Tworzecki | ۱۹۹۶ | Parties and politics in post-1989 Poland | — |
+| ۲ | White, Batt & Lewis | ۱۹۹۸ | Developments in Central and East European Politics 2 | — |
+| ۳ | Sandholtz & Koetzle | ۲۰۰۰ | Accounting for Corruption: Economic Structure, Democracy, and Trade | DOI |
+| ۴ | Mieńkowska-Norkiene et al. | ۲۰۲۴ | The deteriorating legislative role of the legislature: Poland | DOI |
+| ۵ | — | ۲۰۰۳ | Theocracy versus democracy: Iran considers political parties | — |
+| ۶ | Kazemi & Akhzarian Kashani | ۲۰۲۳ | Examining the design of the model of electoral governance in Iran | — |
+| ۷ | Ansari | ۲۰۱۰ | Crisis of Authority: Iran's 2009 Presidential Election | — |
+| ۸ | Merkel | ۲۰۰۴ | Embedded and defective democracies | DOI |
+| ۹ | Tezcur | ۲۰۰۵ | How do political religious groups develop sustainable democratic commitments | — |

@@ -1,5 +1,5 @@
-# Seminary role in post-theocratic society
+# نقش حوزه علمیه در جامعه پساتئوکراتیک
 
-*Iran-Specific* · 1 articles · 22 sources
+*ویژه ایران* · 1 مقاله · 22 منبع
 
 - [The Hawza After Velayat-e Faqih: Seminary Authority, Religious Pluralism, and Post-Theocratic Governance](the-hawza-after-velayat-e-faqih-seminary-authority-religious-pluralism-and-post-.md)

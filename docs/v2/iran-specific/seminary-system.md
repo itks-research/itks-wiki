@@ -1,101 +1,93 @@
-# Seminary (Hawza) System & Religious Establishment
+# سیستم حوزه (Hawza) و تأسیسات دینی
 
-***Sources:** 59 | **Last Updated:** 2026-04-05*
+***منابع:** 59 | **آخرین بروزرسانی:** 1405-01-16*
 
+## چارچوب نظری
 
-> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+چارچوب: رد و زنی فرایند زنجیره علی
 
+این سنتز یک تحول نهادی بی نظیر را بررسی می کند: چگونه حوزه (سیستم حوزه شیعی) ممکن است پس از پایان حاکمیت لاهوتی بازسازی شود. ما رد و زنی فرایند را برای شناسایی زنجیره علی فرضی استقرار می کنیم:
 
-## Theoretical Framework
+ولایت فقیه سیاسی سازی حوزه → اقتدار دینی به قدرت دولتی وابسته می شود → روحانیون اصلاح جو جریسپرودنس جایگزینی توسعه می دهند → انتقال رژیم بحران نهادی برای روحانیت سیاسی ایجاد می کند → حوزه انتخاب بین غیرسیاسی سازی و بی اهمیتی توجه می کند
 
-Framework: Process Tracing Causal Chain
+توجه برای اطمینان شواهد: محدود. تمام منابع بر ایران متمرکز شده اند؛ هیچ موارد تطبیقی از تحول حوزه پس از پایان حاکمیت لاهوتی موجود نیستند. این زنجیره فرضی است، ناشی از مسیرهای فکری داخلی ایران و سابقه تاریخی، تر از الگوهای تجربی مشخص شده.
 
-This synthesis examines an unprecedented institutional transformation: how the Hawza (Shi'i seminary system) might restructure after theocratic governance ends. We employ process tracing to identify a hypothetical causal chain:
+## شواهد و یافته های کلیدی
 
-Velayat-e Faqih politicizes seminary → clerical authority becomes tied to state power → reformist clerics develop alternative jurisprudence → regime transition creates institutional crisis for politicized clergy → seminary faces choice between depoliticization and irrelevance
+شواهد: ولایت فقیه، جریسپرودنس اصلاح جو و فشار نهادی
 
-Note on evidence certainty: Limited. All sources focus on Iran; no comparative cases of seminary transformation after theocratic governance exist. This chain is hypothetical, derived from internal Iranian intellectual trajectories and historical precedent, rather than established empirical patterns.
+چگونه ولایت فقیه دینی و دولتی صلاحیت را فیوز کرد: Morady (۲۰۲۵) تتبع تاریخی می کند چگونه جمهوری لاهوتی دکترین ولایت فقیه را نهادی کرد، رهبر عالی را به طور همزمان صلاحیت روحانی و سیاسی می کند. این فیوژن وابستگی ساختاری ایجاد کرد: اعتبارریزی حوزه نشده ممکن از اعتبارریزی رژیم جداگانه. Afrachteh (۱۹۸۱) مشکلاتی که این ایجاد کرد مستند می کند - جمهوری لاهوتی جمهوری نیاز به متحرک سازی دستی طریق شبکه های دینی داشت، اما این سیاسی سازی خودمختاری علمی را فشار آورد. حوزه یک ابزار قدرت دولتی تر از یک نهاد دانش مستقل شد.
 
-## Evidence & Key Findings
+ظهور سنت های جریسپرودنس جایگزینی: Ghobadzadeh (۲۰۲۲) شناسایی می کند گفتمان wasatiyya ایتالیایی Montazeri به عنوان نقد پیچیده داخلی از در درون سیستم حوزه خود. جریسپرودنس حقوق بشری Montazeri و استدلال برای صلاحیت دینی محدود نشان دهنده سنت اصلاح جو که مدل ولایت فقیه را زیر سؤال می برند از درون تفسیر اسلامی است. این سنت جایگزینی موجود است، با دانش تئولوژیکی و علمی متقابل - فراهم آوری بنیاد نهادی بالقوه برای هویت حوزه پس سیاسی.
 
-Evidence: Velayat-e Faqih, Reformist Jurisprudence, and Institutional Strain
+فشار نهادی و تغییر برای غیرسیاسی سازی: Alinejad (۲۰۲۲، ۲۰۲۵) تجزیه و تحلیل می کند رقابت بین ملیت غیردینی و مذهبی در ایران، نشان می دهد چگونه این انقسام هویت فشار را بر نهادهایی که ادعای نمایندگی هر دو کنند ایجاد می کند. تش بین ملیت ایرانی و اسلام گرایی حوزه را مجبور می کند انتخاب کند: درون ابزار لاهوتی باقی بمانید یا حامی علم شیعی مستقل از قدرت دولتی شوید. Mir-Hosseini (۲۰۱۲) عمق تاریخی فراهم می کند، تتبع تاریخی میکند رابطه شریعت برای قانون ملی در ایران از انقلاب قانونی ۱۹۰۶ متنازع شده است - حوزه هماره این تنش را با مواجه کردند. Yazdani (۲۰۱۲) نشان می دهد این سیاسی سازی عمیقتر تاریخی می رود، به دوران آخر قرن ۱۹ وقتی پرستش شیعی خود یک تالار مبارزه سیاسی بود. حوزه این تنش را اختراع نکرد؛ آن را وارث کرد.
 
-How Velayat-e Faqih fused clerical and state authority: Morady (2025) traces how theocratic republicanism institutionalized the Velayat-e Faqih doctrine, making the Supreme Leader simultaneously a spiritual and political authority. This fusion created structural dependency: seminary legitimacy became inseparable from regime legitimacy. Afrachteh (1981) documents the dilemmas this created—theocratic populism required mass mobilization through clerical networks, yet this politicization strained scholarly autonomy. The hawza became an instrument of state power rather than an independent knowledge institution.
+## الگوهای بین المللی
 
-The emergence of alternative jurisprudential traditions: Ghobadzadeh (2022) identifies Ayatollah Montazeri's wasatiyya discourse as a sophisticated internal critique from within the seminary system itself. Montazeri's human rights jurisprudence and arguments for limited clerical authority represent a reformist tradition that contests the Velayat-e Faqih model from within Islamic jurisprudence. This alternative tradition exists, invested with theological and scholarly authority—providing a potential institutional foundation for post-political seminary identity.
+الگوهای: تشبیهات محدود و یک فرضیه آزمایش پذیر
 
-Institutional tension and pressure for depoliticization: Alinejad (2022, 2025) analyzes the rivalry between secular and religious nationalism in Iran, showing how this split identity creates pressure on institutions claiming to represent both. The tension between Iranian nationalism and Islamism forces the seminary to choose: remain a theocratic tool or become a guardian of Shi'i scholarship independent of state power. Mir-Hosseini (2012) provides historical depth, tracing how sharia's relationship to national law has been contested since the Constitutional Revolution of 1906—the seminary has always faced a tension between religious authority and state law. Yazdani (2012) shows this politicization runs deeper, back to the late 19th century when Shi'i piety itself became a site of political struggle. The hawza did not invent this tension; it inherited it.
+هیچ مقایسه مستقیمی موجود نیستند. این به طور واقعاً منحصر به فرد است: هیچ لاهوتی کنترل شده توسط یک طبقه روحانی متحول نشده است برای حاکمیت پس لاهوتی. با این حال، تشبیهات محدود آن چالش را روشن می کند:
 
-## Cross-Country Patterns
+نقش کلیسایی رومی کاتولیک پس فرانکو در اسپانیا: پس از مرگ فرانکو، کلیسا خود را برای نقش به عنوان صلاحیت اخلاقی عقب کشید. با این حال، کلیسای اسپانیایی هرگز صلاحیت حاکمیتی معادل ولایت فقیه را نگه داشت؛ آن سیاسی طور قابل توجهی بود اما قانونی طور مستقیم تأمین نشد.
 
-Patterns: Limited Analogies and a Testable Proposition
+مدل Diyanet ترکیه: دولت ترکیه نهادهای دینی را تر از برعکس کنترل می کند - دین درون محدودیت های دولتی عمل می کند. این مورد ایرانی را معکوس می کند و یک نمونه برای خودمختاری حوزه پس داشتن قدرت دولتی فراهم نمی کند.
 
-No direct comparisons exist. This is genuinely unique: no theocracy controlled by a clerical class has transitioned to post-theocratic governance. However, limited analogies illuminate the challenge:
+هر دو تشبیهات سقوط می کند: هیچ کدام یک طبقه روحانی با صلاحیت حاکمیتی مستقیم درگیر نبودند که باید غیرسیاسی سازی شود در حالی که یکپارچگی نهادی و مسئولیت علمی را حفظ می کند. حوزه با یک مسئله سخت تر روبرو است.
 
-The Catholic Church's post-Franco role in Spain: After Franco's death, the Church retreated from direct political involvement to a role as moral authority. However, the Spanish Church never held governing power equivalent to the Velayat-e Faqih; it was politically influential but not constitutionally entrenched.
+فرضیه آزمایش پذیر: غیرسیاسی سازی حوزه نیازمند سنت اصلاح جو داخلی قوی کافی برای فراهم آوری اعتبارریزی برای صلاحیت دینی پس سیاسی - یک شرط به طور جزئی درحالی که مدرسه Montazeri اما متنازع درون حوزه است. این فرضیه آزمایش پذیر است: نگارش انتشارات حوزه، الگوهای فتوا و شکاف های بروز پس از هر انتقالی رژیم آشکار می کند که آیا جریسپرودنس اصلاح جو وزن نهادی را دستیافته یا حاشیه ای باقی می ماند.
 
-Turkey's Diyanet model: The Turkish government controls religious institutions rather than the reverse—religion operates within state constraints. This inverts the Iranian case and does not provide a model for seminary autonomy after having held state power.
+## تجزیه و تحلیل ایران
 
-Both analogies break down: neither involved a clerical class with direct governing authority who must then depoliticize while maintaining institutional integrity and scholarly credibility. The hawza faces a harder problem.
+موارد ایران: حوزه قم به عنوان تالار تناقض
 
-Testable proposition: Seminary depoliticization requires an internal reformist tradition strong enough to provide legitimacy for post-political religious authority—a condition partially met by the Montazeri school but contested within the hawza. This proposition is testable: monitoring seminary publications, fatwa patterns, and emerging schisms after any regime transition would reveal whether reformist jurisprudence gains institutional weight or remains marginal.
+سیستم حوزه قم به طور همزمان بنیاد نهادی حاکمیت لاهوتی و تالار نقد داخلی پیچیده ترین آن است. دو واقعیت تناقض نهادی ایجاد می کند:
 
-## Iran Analysis
+اولاً، سنت Montazeri منابع تئولوژیکی برای هویت حوزه پس سیاسی فراهم می کند. جریسپرودنس ایتالیایی Montazeri بر صلاحیت دینی محدود، حقوق بشری و سازگاری علم شیعی با حاکمیت دموکراتیک اساس دارند هویت نهادی جایگزینی ریشه ای در تعلم اسلامی، تر از قدرت دولتی فراهم می کند.
 
+دوماً، رابطه symbiotic سپاه پاسداران با حاکمیت پشتیبانی شده حوزه مقاومت نهادی برای غیرسیاسی سازی ایجاد می کند. سپاه پاسداران برای اعتبارریزی روحانی بستگی دارد؛ روحانیون برای اجرایی سپاه پاسداران وابسته اند. این رابطه متقابل بعد رژیم تغییر راحت نخواهد تحلیل شد. بی حرکتی نهادی و شبکه های حمایت برای غیرسیاسی سازی مقاومت خواهند کرد.
 
-> ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
+اساسی نامشخص: آیا حوزه قم پس انتقالی "نمونه واتیکان" (صلاحیت اخلاقی مستقل، نشر، علم) یا قطعه مراجع تقلید (مراکز مرجعیت رقابتی ادعای اعتبارریزی از طریق سنت های جریسپرودنس متفاوت). یک احتمال سوم: بی اهمیتی جزئی، به عنوان نسل جوان تری اولویت اعتبارات غیردینی و تخصص حرفه ای بر صلاحیت روحانی می دهند.
 
+عامل پیچیده کننده: اقتصاد تحریم ها به طور تناقض گرایی نهادهای حوزه را از طریق اتصالات بنیاد آنها تقویت کرده است. حوزه متصل بنیادها دارایی های اقتصادی قابل توجهی کنترل کنند. اصلاح مالی و بازسازی اقتصادی سپاه پاسداران بطور مستقیم روحانیت ظرفیت نهادی را تحت تأثیر قرار می دهد و استقلال را.
 
-Iran Case: The Qom Seminary as Site of Contradiction
-
-The Qom seminary system is simultaneously the institutional base of theocratic governance and the site of its most sophisticated internal critique. Two facts create institutional contradiction:
-
-First, the Montazeri tradition provides theological resources for post-theocratic seminary identity. Ayatollah Montazeri's jurisprudence on limited clerical authority, human rights, and the compatibility of Shi'i scholarship with democratic governance offers an alternative institutional identity rooted in Islamic learning, not state power.
-
-Second, the IRGC's symbiotic relationship with seminary-backed governance creates institutional resistance to depoliticization. The Revolutionary Guards depend on clerical legitimacy; clerics depend on IRGC enforcement. This reciprocal relationship will not dissolve easily after regime change. Institutional inertia and patronage networks will resist depoliticization.
-
-Key unknown: whether post-transition Qom would follow a "Vatican model" (independent moral authority, publishing, scholarship) or fragment along marja'iya lines (competing centers of authority claiming legitimacy through different jurisprudential traditions). A third possibility: partial irrelevance, as a younger generation prioritizes secular credentials and professional expertise over clerical authority.
-
-Complicating factor: The sanctions economy has paradoxically strengthened seminary institutions through their Bonyad (foundation) connections. Seminary-linked foundations control significant economic assets. Financial reform and IRGC economic restructuring would thus directly affect seminary institutional capacity and autonomy.
-
-Limitation: All analysis is necessarily speculative. No precedent exists for predicting how a clerical institution managing a theocracy will restructure when that theocracy ends.
+محدودیت: تمام تجزیه و تحلیل ضروری طور فرضی است. هیچ سابقه برای پیش گویی چگونگی نهاد روحانی حاکمیتی تحت آن لاهوتی قطع شود بازسازی خواهد شد موجود نیست.
 
 ---
 
-**Institutional Mapping**
+**نقشه برداری نهادی**
 
-The Qom seminary system (حوزه علمیه قم) and its network of approximately 200 madrasas constitute the institutional base of ولایت فقیه (velayat-e faqih). The Supreme Leader's office draws theological legitimacy from the howzeh while exercising authority over it through appointment of key administrators and financial control. The Society of Seminary Teachers of Qom (جامعه مدرسین حوزه علمیه قم) functions as a conservative political body aligning seminary interests with regime policy. The مراجع تقلید (maraji-e taqlid, sources of emulation) — senior Grand Ayatollahs — hold independent theological authority that can either legitimize or contest state religious claims. The IRGC depends on clerical legitimacy for its ideological mission; the seminary depends on IRGC enforcement for its political authority — creating a reciprocal dependency that would resist separation. Bonyads with seminary connections — particularly Astan-e Qods-e Razavi in Mashhad and the Imam Khomeini Relief Foundation — provide economic infrastructure that sustains clerical institutional capacity independent of state budgets. The Assembly of Experts (مجلس خبرگان رهبری), composed of senior seminary-trained clerics, selects and theoretically supervises the Supreme Leader.
+سیستم حوزه قم (حوزه علمیه قم) و شبکه آن تقریباً ۲۰۰ مدرسه بنیاد نهادی ولایت فقیه (ولایت فقیه) را تشکیل می دهد. دفتر رهبر عالی اعتبارریزی تئولوژیکی را از حوزه استخراج می کند در حالی که صلاحیت برتری بر آن را از طریق تعیین مدیران کلیدی و کنترل مالی ورزش می کند. جامعه مدرسین حوزه علمیه قم (جامعه مدرسین حوزه علمیه قم) به عنوان بدن سیاسی محافظه کار مطابق با منافع حوزه برای سیاست رژیم عمل می کند. مراجع تقلید (مراجع تقلید، منابع تقلید) - ایتالیایی Grand Ayatollahs - صلاحیت تئولوژیکی مستقل را نگه دارند که می تواند اعتبارریزی یا زیر سؤال صلاحیت دینی دولتی. سپاه پاسداران برای اعتبارریزی روحانی برای مأموریت ایدئولوژیکی آن بستگی دارد؛ حوزه برای اجرایی سپاه پاسداران برای صلاحیت سیاسی آن - یک وابستگی متقابل که جدایی برای مقاومت میل ایجاد می کند. بنیادهای متصل حوزه - به ویژه استان قدس رضوی در مشهد و بنیاد کمیته امداد امام خمینی - زیرساخت اقتصادی را فراهم می کند که صلاحیت نهادی حوزه را ورزش می کند از بودجه دولتی مستقل. مجلس خبرگان (مجلس خبرگان رهبری)، متشکل از روحانیون بزرگ تهران شده، رهبر عالی را انتخاب می کند و نظری از نظر تئولوژیکی.
 
-**Structural Parallels**
+**موازی های ساختاری**
 
-The Vatican model — independent moral authority, scholarly production, and pastoral care without direct governance — provides the most frequently invoked analogy for a post-theocratic howzeh. But the parallel breaks down on institutional structure: the Catholic Church has a hierarchical authority structure (Pope, bishops, dioceses) while Shi'i Islam's marja'iya system is inherently decentralized — multiple competing authorities with independent followings. A depoliticized Qom might fragment along marja'iya lines rather than consolidating into a single institutional identity. The closer parallel is the Najaf seminary during Iraq's Ba'athist period: Najaf maintained scholarly activity and institutional identity under Saddam's repression, proving that Shi'i seminaries can function without state power. However, Najaf survived as a suppressed institution — Qom would need to transform from governing institution to scholarly one, a fundamentally different trajectory. The Montazeri tradition's jurisprudence on limited clerical authority provides the internal theological resource for this transformation — analogous to Vatican II's reorientation of the Catholic Church's relationship with political authority.
+نمونه واتیکان - صلاحیت اخلاقی مستقل، تولید علمی و مراقبت روحانی بدون حاکمیت مستقیم - رکتوری بیشتری برای حوزه پس سیاسی را ارائه می دهد. اما نمونه بر ساختار نهادی سقوط می کند: کلیسای کاتولیک سلسله مراتب صلاحیت (پوپ، بیشاپ، دیوسز) دارد در حالی که نظام مراجع شیعی به طور ذاتی غیرمتمرکز است - منابع مرجعی متعدد با پیروی مستقل. حوزه غیرسیاسی سازی شده ممکن است مراجع خطوط قطعه شود تر از متحد اقتصادی در یک هویت نهادی منفرد. نزدیکتر متوازی حوزه Najaf در دوران Ba'athist عراق است: Najaf فعالیت علمی و هویت نهادی را ورزش کرد بدون قدرت دولتی. با این حال، Najaf برای حفاظت نهاد محدود باقی ماند - حوزه باید تحول داشته باشد از نهاد حاکمیتی تر از گذاشتن آن، مسیر به طور بنیادی متفاوت. سنت Montazeri جریسپرودنس بر صلاحیت دینی محدود منابع داخلی تئولوژیکی برای این تحول فراهم می کند - toughly به Vatican II جهت دهی مجدد رابطه کلیسای کاتولیک با صلاحیت سیاسی.
 
-**Key Actors and Sequencing**
+**بازیگران کلیدی و توالی**
 
-Potential enablers of seminary depoliticization: "quietist" maraji (senior ayatollahs who have maintained theological independence from regime politics, though their names are sensitive to publish); scholars in the Montazeri tradition advocating wasatiyya (moderation) discourse; younger seminary students who may prefer scholarly careers to political entanglement; and Najaf's institutional example as a competing model of seminary authority. Blockers: the Society of Seminary Teachers of Qom, deeply invested in political Islam; IRGC commanders who depend on clerical legitimacy; bonyad administrators whose institutional positions derive from seminary-state fusion; and the Assembly of Experts members whose political relevance depends on constitutional clerical roles. Sequencing: (1) constitutional reform removing mandated clerical political roles (Supreme Leader, Guardian Council composition, Assembly of Experts authority) — this is the foundational step; (2) financial separation — establish transparent bonyad governance independent of both seminary and state, with waqf revenues dedicated to charitable purposes rather than political patronage; (3) educational autonomy — allow seminary curriculum to develop without state direction, enabling theological pluralism; (4) institutional space — preserve Qom's physical infrastructure, libraries, and scholarly resources while removing security apparatus presence; (5) dialogue — engage marja'iya in defining the seminary's post-theocratic mission rather than imposing external models.
+فعالان بالقوه غیرسیاسی سازی حوزه: "ساکت" مراجع (ایتالیایی که استقلال تئولوژیکی را از سیاست رژیم حفظ کرده اند، اگرچه نام آنها حساس است برای انتشار)؛ محققان در سنت Montazeri wasatiyya (تجریسپرودنس تعدیل)؛ دانشجویان حوزه جوان تر که ممکن است شیوه های علمی تر از درگیری سیاسی را ترجیح دهند؛ و نمونه نهادی Najaf به عنوان مدل رقابتی صلاحیت حوزه. بلوکرها: جامعه مدرسین حوزه علمیه قم، که عمیقاً برای اسلام سیاسی سرمایه گذاری می کند؛ فرماندهان سپاه پاسداران که برای اعتبارریزی انقلابی اسلامی بستگی دارند؛ مدیران بنیاد که موقعیت های نهادی آنها از حوزه-دولت فیوژن ناشی می شود؛ و فرهنگ نهادی نیروی امنیتی فراهم کننده مراقبت. توالی: (۱) اصلاح قانونی برآورد فرض روحانی سیاسی (رهبر عالی، ترکیب شورای نگهبان، صلاحیت مجلس خبرگان) - این قدم بنیادی است؛ (۲) جدایی مالی - نهاد حاکمیت شفاف بنیاد مستقل از هر حوزه و دولت، با درآمدهای وقف برای مقصد خیریه تر از حمایت سیاسی؛ (۳) استقلال تحصیلی - برنامه درسی حوزه برای توسعه بدون تعاریف دولتی، تئولوژیکی تیری را فراهم می کند؛ (۴) فضای نهادی - حفاظت زیرساخت فیزیکی قم، کتب خانه ها و منابع علمی بدون حضور کنندگی امنیتی؛ (۵) مکالمه - مراجع تقلید را در تعریف مأموریت پس سیاسی حوزه به عنوان شراکت دار درگیر کنید تر از تابع اصلاح خارجی.
 
-**Risks**
+**خطرات**
 
-The primary danger is institutional collapse: if depoliticization is experienced as dispossession, the seminary could lose its most capable scholars to diaspora institutions (already competing for theological authority) while retaining only those dependent on political patronage — producing an impoverished, resentful institution. A second risk is IRGC resistance: the Guards' institutional identity depends on revolutionary Islamic legitimacy, making seminary depoliticization an existential threat to IRGC ideological foundations. A third risk is irrelevance: a younger generation that has experienced theocratic governance may reject clerical authority entirely, producing not a reformed seminary but a marginal institution. The sanctions economy has paradoxically strengthened seminary institutions through bonyad connections; financial reform that severs these connections could destabilize seminary capacity before alternative funding develops. Prerequisites: financial transition plan sustaining seminary institutional capacity during depoliticization; engagement with marja'iya as partners in transformation rather than subjects of reform; preservation of Shi'i jurisprudential tradition as scholarly heritage; and acceptance that the seminary's post-theocratic form cannot be designed externally but must emerge from internal scholarly deliberation.
+خطر اساسی فروپاشی نهادی است: اگر غیرسیاسی سازی به عنوان تصرف تجربه شود، حوزه می تواند محققان کارآمد ترین خود را برای نهادهای تاجران دستمزد دهد درون حالی که تنها آنهایی را منع کند که بر روی حمایت سیاسی متکی اند - تولید یک نهاد فقیر ریشه شده. خطر دوم مقاومت سپاه پاسداران است: هویت نهادی سپاه پاسداران بر اعتبارریزی اسلام انقلابی عمیق کننده بستگی دارد، غیرسیاسی سازی حوزه برای یک تهدیدی وجودی. خطر سوم بی اهمیتی است: نسل جوان تری که تحت حاکمیت لاهوتی تجربه کرده است ممکن است صلاحیت روحانی را کاملاً رفع کند، یک نهاد حاشیه ای تر از اقتدار دولتی منطقی تولید می کند. اقتصاد تحریم ها به طور تناقض حوزه نهادها را از طریق اتصالات بنیاد ارتقا داده است؛ اصلاح مالی ارزش آن قطع می دهد قبل از آن که تأمین مالی جایگزینی توسعه یابد. پیش شرط ها: برنامه انتقالی مالی حفاظت ظرفیت نهادی حوزه در طول غیرسیاسی سازی؛ درگیری با مراجع تقلید به عنوان شراکت دار تحول تر از موضوع اصلاح؛ حفاظت سنت جریسپرودنس شیعی به عنوان میراث علمی؛ و پذیرش که شکل پس سیاسی حوزه می تواند به طور خارجی طراحی شود نه بلکه باید از مباحث علمی درونی ظهور یابد.
 
-## Knowledge Gaps & Open Questions
+## شکاف های دانش و سؤالات باز
 
-Open Questions: Three Research Gaps
+سؤالات باز: سه شکاف تحقیقی
 
-1. Generational attitudes and reformist potential: How do current seminary students and junior faculty in Qom understand the relationship between clerical authority and state power? Do generational differences predict reformist potential, or are cohort effects overwhelmed by institutional socialization? Longitudinal interviews with seminary faculty across age cohorts would test the proposition that reformist jurisprudence has institutional depth.
+۱. نگرش نسل و بالقوه اصلاح جو: دانشجویان حوزه فعلی و اعضای هیئت جوان تر در قم رابطه بین صلاحیت روحانی و قدرت دولتی را چگونه درک می کند؟ آیا تفاوت های نسل اصلاح جو بالقوه را پیش گویی می کند، یا اثرات cohort توسط جامعه شناسی نهادی غالب می شود؟ مصاحبه های طولانی مدت با اعضای هیئت حوزه در گروه های سنی متفاوت فرضیه را آزمایش می کند که جریسپرودنس اصلاح جو عمق نهادی دارد.
 
-2. Institutional models from other religious traditions: What institutional models from the Catholic Church (synodality, papal collegiality, moral authority without political control), Sunni Waqf systems, or Buddhist monastic organization could inform seminary depoliticization while preserving scholarly autonomy? Comparative study of how other religious traditions maintain independent authority structures after losing political power would provide practical models.
+۲. نمونه های نهادی از سنت های دینی دیگری: نمونه های نهادی از کلیسای کاتولیک (همافتی بر مراجعت، امتیاز پوپ، صلاحیت اخلاقی بدون کنترل سیاسی)، سیستم های وقف سنی یا سازمان مختاری بودایی می تواند غیرسیاسی سازی حوزه را مطلع کند در حالی که خودمختاری علمی را حفظ کند؟ مطالعه تطبیقی از نحوه حفاظت سنت های دینی دیگری صلاحیت مستقل پس از از دست دادن قدرت سیاسی نمونه های عملی را فراهم می کند.
 
-3. Financial independence and Bonyad reform: How would the financial independence of seminaries be affected by Bonyad reform and IRGC economic restructuring? Tracing the economic networks linking seminaries to state enterprises would clarify the material constraints on institutional autonomy.
+۳. استقلال مالی و اصلاح بنیاد: استقلال مالی حوزه ها توسط اصلاح بنیاد و بازسازی اقتصادی سپاه پاسداران چگونه تحت تأثیر قرار می گیرند؟ تتبع شبکه های اقتصادی حوزه متصل به شرکت های دولتی درک را روشن می کند محدودیت های مادی برای استقلال نهادی.
 
-## Sources
+## منابع
 
-Sources Cited
+مناب ع حواله شده
 
-ID 7202: Ghobadzadeh (2022) - Wasatiyya discourse in Shi'i Islam, Ayatollah Montazeri, human rights jurisprudence; rel=4.0, rlb=80.0
-ID 7219: Morady (2025) - Islam, theocratic republicanism, Velayat-e Faqih governance; rel=3.5, rlb=70.0
-ID 7205: Alinejad (2022) - Rivalry between secular and religious nationalisms, split Iranian identity; rel=3.5, rlb=75.0
-ID 3639: Mir-Hosseini (2012) - Sharia and national law in Iran, clerical monopoly on law; rel=4.0, rlb=3.66
-ID 7224: Afrachteh (1981) - Theocratic populism dilemmas in contemporary Iran; rel=3.5, rlb=65.0
-ID 3671: Alinejad (2025) - Iran nationalism vs Islamism; rel=4.0, rlb=2.92
-ID 7215: Yazdani (2012) - Religious contentions in modern Iran 1881-1941, politicization of Shi'i piety; rel=4.0, rlb=55.0
+شناسه ۷۲۰۲: Ghobadzadeh (۲۰۲۲) - گفتمان wasatiyya در اسلام شیعی، ایتالیایی Montazeri، جریسپرودنس حقوق بشری؛ rel=4.0، rlb=80.0
+شناسه ۷۲۱۹: Morady (۲۰۲۵) - اسلام، جمهوری لاهوتی، حاکمیت ولایت فقیه؛ rel=3.5، rlb=70.0
+شناسه ۷۲۰۵: Alinejad (۲۰۲۲) - رقابت بین ملیت غیردینی و مذهبی، انقسام هویت ایرانی؛ rel=3.5، rlb=75.0
+شناسه ۳۶۳۹: Mir-Hosseini (۲۰۱۲) - شریعت و قانون ملی در ایران، انحصار روحانی برای قانون؛ rel=4.0، rlb=3.66
+شناسه ۷۲۲۴: Afrachteh (۱۹۸۱) - مشکلات جمهوری لاهوتی در عصر معاصر ایران؛ rel=3.5، rlb=65.0
+شناسه ۳۶۷۱: Alinejad (۲۰۲۵) - ملیت ایران بر Islamism؛ rel=4.0، rlb=2.92
+شناسه ۷۲۱۵: Yazdani (۲۰۱۲) - کشمکش های مذهبی در ایران جدید ۱۸۸۱-۱۹۴۱، سیاسی سازی پرستش شیعی؛ rel=4.0، rlb=55.0

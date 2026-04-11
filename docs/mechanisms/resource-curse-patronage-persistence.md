@@ -1,74 +1,76 @@
-# Resource curse → patronage persistence: Cross-Country Evidence Review
+<div dir="rtl" markdown>
 
-## Mechanism Definition
-When states depend on revenue from concentrated natural resources (oil, gas, minerals), they can bypass taxation and maintain patronage networks rather than building accountable state capacity. This resource curse mechanism perpetuates elite extraction and prevents democratic institutions (legislatures, courts, taxation) from developing the autonomy and strength needed to constrain authoritarian power.
+# نفرین منابع ← تداوم حامی‌پروری: مرور شواهد بین‌کشوری
 
-## Context Requirements
-- **Resource Revenue Share**: 30_percent_plus_of_state_revenue
-- **Resource Concentration**: geographic_and_ownership_elite
-- **Patronage Network Dependence**: regime_survival_dependent_on_distribution
-- **Taxation Avoidance**: low_tax_burden_on_elites
-- **Institutional Autonomy**: weak_legislative_and_judicial_capacity
+## تعریف مکانیسم
+هنگامی که دولت‌ها به درآمد حاصل از منابع طبیعی متمرکز (نفت، گاز، مواد معدنی) وابسته هستند، می‌توانند از مالیات‌ستانی چشم‌پوشی کرده و به‌جای ایجاد ظرفیت دولتی پاسخگو، شبکه‌های حامی‌پروری را حفظ کنند. این مکانیسم نفرین منابع، استخراج توسط نخبگان را تداوم می‌بخشد و مانع از آن می‌شود که نهادهای دموکراتیک (مجالس قانون‌گذاری، دادگاه‌ها، نظام مالیاتی) خودمختاری و قدرت لازم برای مهار قدرت اقتدارگرا را توسعه دهند.
 
-## Evidence Across Cases
+## شرایط زمینه‌ای
+- **سهم درآمد منابع**: بیش از ۳۰ درصد درآمد دولت
+- **تمرکز منابع**: جغرافیایی و مالکیتی در دست نخبگان
+- **وابستگی شبکه حامی‌پروری**: بقای حکومت وابسته به توزیع رانت
+- **اجتناب از مالیات**: بار مالیاتی پایین بر نخبگان
+- **خودمختاری نهادی**: ظرفیت ضعیف قانون‌گذاری و قضایی
 
-### Iran (113 sources)
-Evidence from Iran provides 113 sources on this mechanism's operation in context-specific variations.
+## شواهد در موارد مختلف
 
-### Chile (40 sources)
-Chile's plebiscite-driven transition (1988) involved military leaders fracturing over whether to accept electoral results. The mechanism fired when key military factions chose exit over continued enforcement of dictatorship, though institutional design limited accountability.
+### ایران (۱۱۳ منبع)
+شواهد از ایران ۱۱۳ منبع درباره عملکرد این مکانیسم در تنوع‌های زمینه‌ای خاص ارائه می‌دهد.
 
-### South Korea (19 sources)
-South Korea's transition from military rule involved gradual military withdrawal from politics rather than dramatic defection. Elite bargaining between military holdouts, civilian opposition, and emerging democratic forces led to negotiated transition with preserved military autonomy.
+### شیلی (۴۰ منبع)
+گذار شیلی از طریق همه‌پرسی (۱۹۸۸) شامل شکاف رهبران نظامی بر سر پذیرش نتایج انتخابات بود. مکانیسم زمانی فعال شد که جناح‌های کلیدی نظامی خروج از حکومت را بر ادامه اجرای دیکتاتوری ترجیح دادند، اگرچه طراحی نهادی پاسخگویی را محدود کرد.
 
-### Indonesia (15 sources)
-Indonesia's 1998 transition from Suharto's military-dominated authoritarian regime demonstrates how this mechanism operates when military cohesion fragments. The military's internal divisions and factional disputes during economic crisis created space for civil society mobilization and democratic transition.
+### کره جنوبی (۱۹ منبع)
+گذار کره جنوبی از حکومت نظامی شامل خروج تدریجی ارتش از سیاست بود، نه انشعاب چشمگیر. چانه‌زنی نخبگان بین مقاومت‌کنندگان نظامی، اپوزیسیون غیرنظامی، و نیروهای دموکراتیک نوظهور به گذار مذاکره‌ای با حفظ خودمختاری نظامی انجامید.
 
-### Poland (11 sources)
-Poland's transition saw security apparatus (Jaruzelski faction) negotiate with solidarity, creating space for democratic change. Military/security defection was non-violent but effective because it signaled regime elite acceptance of transition.
+### اندونزی (۱۵ منبع)
+گذار اندونزی در سال ۱۹۹۸ از حکومت اقتدارگرای نظامی‌محور سوهارتو نشان می‌دهد که این مکانیسم هنگام فروپاشی انسجام نظامی چگونه عمل می‌کند. اختلافات داخلی و منازعات جناحی ارتش در دوره بحران اقتصادی، فضایی برای بسیج جامعه مدنی و گذار دموکراتیک ایجاد کرد.
 
-### Czech Republic (9 sources)
-Evidence from Czech Republic provides 9 sources on this mechanism's operation in context-specific variations.
+### لهستان (۱۱ منبع)
+گذار لهستان شاهد مذاکره دستگاه امنیتی (جناح یاروزلسکی) با جنبش همبستگی بود که فضایی برای تغییر دموکراتیک ایجاد کرد. عقب‌نشینی نظامی/امنیتی غیرخشونت‌آمیز اما مؤثر بود زیرا نشان‌دهنده پذیرش گذار از سوی نخبگان حکومتی بود.
 
-### Spain (7 sources)
-Evidence from Spain provides 7 sources on this mechanism's operation in context-specific variations.
+### جمهوری چک (۹ منبع)
+شواهد از جمهوری چک ۹ منبع درباره عملکرد این مکانیسم در تنوع‌های زمینه‌ای خاص ارائه می‌دهد.
 
-### Tunisia (5 sources)
-Evidence from Tunisia provides 5 sources on this mechanism's operation in context-specific variations.
+### اسپانیا (۷ منبع)
+شواهد از اسپانیا ۷ منبع درباره عملکرد این مکانیسم در تنوع‌های زمینه‌ای خاص ارائه می‌دهد.
 
+### تونس (۵ منبع)
+شواهد از تونس ۵ منبع درباره عملکرد این مکانیسم در تنوع‌های زمینه‌ای خاص ارائه می‌دهد.
 
-## Pattern Analysis
-This mechanism fires most reliably when military officers face irreconcilable ideological or factional divides that exceed personal loyalty bonds. The mechanism tends to fail when: (1) military cohesion is maintained through patronage networks or shared repression, (2) alternative security forces (paramilitary, intelligence agencies) provide enforcement, or (3) external military support (from allies) substitutes for domestic force. Cross-country evidence suggests military defection is often a symptom rather than cause of regime collapse—it occurs after legitimacy crises have already fractured elite consensus.
+## تحلیل الگو
+این مکانیسم بیشترین قابلیت اطمینان را زمانی نشان می‌دهد که افسران نظامی با شکاف‌های ایدئولوژیکی یا جناحی آشتی‌ناپذیری مواجه شوند که فراتر از پیوندهای وفاداری شخصی باشد. این مکانیسم معمولاً در موارد زیر شکست می‌خورد: (۱) انسجام نظامی از طریق شبکه‌های حامی‌پروری یا سرکوب مشترک حفظ شود، (۲) نیروهای امنیتی جایگزین (شبه‌نظامیان، سازمان‌های اطلاعاتی) عملیات اجرایی را بر عهده بگیرند، یا (۳) حمایت نظامی خارجی (از متحدان) جایگزین نیروی داخلی شود. شواهد بین‌کشوری نشان می‌دهد که عقب‌نشینی نظامی اغلب نشانه فروپاشی حکومت است و نه علت آن — بعد از بحران‌های مشروعیتی رخ می‌دهد که اجماع نخبگان را از قبل شکسته‌اند.
 
-## Reliability Assessment
-This mechanism shows MODERATE-TO-HIGH reliability across democratic transitions (Indonesia, Philippines, Chile, Poland) but lower reliability in cases of civil war or renewed authoritarianism (Egypt, Ukraine). Boundary conditions are critical: defection is more effective when accompanied by civil society mobilization and when regime lacks alternative enforcement capacity. The mechanism's reliability is constrained by how defecting military factions are incorporated—exclusion or prosecution often triggers counter-defection.
+## ارزیابی قابلیت اطمینان
+این مکانیسم قابلیت اطمینان متوسط تا بالا در گذارهای دموکراتیک (اندونزی، فیلیپین، شیلی، لهستان) نشان می‌دهد اما قابلیت اطمینان کمتری در موارد جنگ داخلی یا بازگشت اقتدارگرایی (مصر، اوکراین) دارد. شرایط مرزی حیاتی هستند: عقب‌نشینی زمانی مؤثرتر است که با بسیج جامعه مدنی همراه باشد و حکومت فاقد ظرفیت اجرایی جایگزین باشد. قابلیت اطمینان مکانیسم با نحوه ادغام جناح‌های نظامی منشعب محدود می‌شود — انزوا یا پیگرد قضایی اغلب موجب ضدانشعاب می‌شود.
 
 ---
 
-# Resource curse → patronage persistence: Iran Application Assessment
+# نفرین منابع ← تداوم حامی‌پروری: ارزیابی کاربرد در ایران
 
-## Applicability Score: 43.8%
+## امتیاز قابلیت اعمال: ۴۳.۸٪
 
-## Context Match Analysis
-- **Resource Revenue Share**: Iran has resource-curse elements
-- **Resource Concentration**: Iran has resource-curse elements
-- **Patronage Network Dependence**: Condition patronage_network_dependence=regime_survival_dependent_on_distribution requires evaluation
-- **Taxation Avoidance**: Iran has resource-curse elements
-- **Institutional Autonomy**: Condition institutional_autonomy=weak_legislative_and_judicial_capacity requires evaluation
+## تحلیل تطابق زمینه‌ای
+- **سهم درآمد منابع**: ایران عناصر نفرین منابع دارد
+- **تمرکز منابع**: ایران عناصر نفرین منابع دارد
+- **وابستگی شبکه حامی‌پروری**: شرط وابستگی شبکه حامی‌پروری = بقای حکومت وابسته به توزیع رانت نیاز به ارزیابی دارد
+- **اجتناب از مالیات**: ایران عناصر نفرین منابع دارد
+- **خودمختاری نهادی**: شرط خودمختاری نهادی = ظرفیت ضعیف قانون‌گذاری و قضایی نیاز به ارزیابی دارد
 
+## مقایسه با مورد مرجع
+گذار اندونزی در ۱۹۹۸ نزدیک‌ترین مورد مرجع قابل قیاس را ارائه می‌دهد: شکاف‌های جناحی نظامی مشابه، بحران اقتصادی به‌عنوان شتاب‌دهنده، و گذار از حکومت اقتدارگرای طولانی‌مدت. با این حال، حکومت ایدئولوژیک ایران و ادغام اقتصادی سپاه تفاوت‌هایی ایجاد می‌کنند.
 
-## Reference Case Comparison
-Indonesia's 1998 transition provides the most analogous reference case: similar military factional divisions, economic crisis as accelerant, and transition from long-term authoritarian rule. However, Iran's ideological regime and IRGC's economic integration create differences.
+## ارزیابی ویژه ایران
+شکاف‌های جناحی سپاه پاسداران (عمل‌گرایان در برابر تندروها) و تنش‌ها با دولت غیرنظامی زمینه‌ای برای این مکانیسم ایجاد می‌کنند. با این حال، برخلاف ارتش‌ها در گذارهای دموکراتیک، رهبری سپاه منافع ایدئولوژیکی و اقتصادی راسخی در بقای حکومت دارد. عقب‌نشینی نظامی در ایران مستلزم یکی از دو مورد است: (۱) تغییر ایدئولوژیکی نخبگان به سوی حکمرانی دموکراتیک (با توجه به اصول بنیادین جمهوری اسلامی بعید است)، یا (۲) شکاف سپاه به حدی شدید که جناح تندرو کنترل را از دست بدهد (سابقه تاریخی محدود). این مکانیسم در صورتی قابلیت اعمال متوسطی دارد که گذار ایران از الگوی مذاکره‌محور نخبگان به سبک تونس پیروی کند، نه فروپاشی حکومتی به سبک اندونزی.
 
-## Iran-Specific Assessment
-The IRGC's factional divisions (pragmatists vs. hardliners) and tensions with civilian government create potential for this mechanism. However, unlike militaries in democratic transitions, IRGC leadership has vested ideological and economic interests in the regime's survival. Military defection in Iran would require either: (1) Elite ideological shift toward democratic governance (unlikely given Islamic Republic's founding principles), or (2) IRGC fracture so severe that hardline faction loses control (historical precedent limited). The mechanism is moderately applicable if Iran's transition follows Tunisia-style elite-driven negotiation rather than Indonesia-style regime collapse.
+## شرایط فعال‌سازی
+- **محتمل اگر:** جناح عمل‌گرای سپاه برتری یابد؛ سلامت/جانشینی رهبر معظم خلأ مشروعیتی ایجاد کند؛ فشار خارجی با بحران اقتصادی داخلی ترکیب شود
+- **بعید اگر:** تندروهای سپاه کنترل را تحکیم کنند؛ ایدئولوژی منسجم بماند؛ دستگاه سرکوب حکومت متحد باقی بماند
 
-## Conditions for Activation
-- **Likely if:** IRGC pragmatist faction gains ascendance; Supreme Leader's health/succession creates legitimacy void; external pressure combines with internal economic crisis
-- **Unlikely if:** IRGC hardliners consolidate control; ideology remains cohesive; regime's coercive apparatus remains unified
+## شکاف‌های شواهد
+- شکاف‌های جناحی سپاه چگونه به عقب‌نشینی واقعی در مقابل اصلاحات مذاکره‌ای تبدیل می‌شوند؟
+- چه سابقه‌ای برای نیروهای امنیتی متعهد ایدئولوژیک در انتخاب گذار دموکراتیک وجود دارد؟
+- سلسله‌مراتب مذهبی ایران و نهاد رهبری معظم چگونه بر محاسبات وفاداری نظامی تأثیر می‌گذارند؟
+- آیا منافع اقتصادی خصوصی‌شده سپاه انشعاب جناحی را تسریع یا مانع می‌شود؟
 
-## Evidence Gaps
-- How would IRGC factional divides translate into actual defection vs. negotiated reform?
-- What precedent exists for ideologically-committed security forces choosing democratic transition?
-- How do Iran's religious hierarchy and Supreme Leader institution affect military loyalty calculations?
-- Would privatized IRGC economic interests accelerate or impede factional defection?
+</div>

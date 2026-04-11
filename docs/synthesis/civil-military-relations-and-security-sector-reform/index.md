@@ -1,23 +1,23 @@
-## Key Insights
+## یافته‌های کلیدی
 
-- **Civilian control is a spectrum, not a binary**: Even South Korea's 30+ year reform effort left military dominance inside the defense ministry intact (Kim and Kuehn, 2022). Transitions require decades of sustained institutional pressure.
-- **Economic autonomy is the critical variable for Iran**: The IRGC's control over construction, energy, telecoms, and finance makes it fundamentally different from militaries that depend on state budgets. No existing theoretical framework adequately addresses this.
-- **Coup-proofing structures are double-edged**: Iran's five parallel security bodies prevent internal defection but also prevent orderly transition. Dismantling them without alternatives risks fragmentation, as Iraq and Libya demonstrate.
-- **Crisis can catalyze reform if blueprints exist**: Spain's 23-F coup attempt accelerated democratic consolidation because civilian leaders had institutional plans ready. Iran's protest movements have lacked implementable alternatives.
-- **Sequencing matters**: Defense ministry civilianization and parliamentary oversight are the two pillars of reform, but which comes first shapes long-term outcomes (Kuehn and Croissant, 2023).
+- **کنترل غیرنظامی طیفی است، نه دوگانه**: حتی تلاش بیش از سی‌ساله کره جنوبی نتوانست سلطه نظامیان در درون وزارت دفاع را کاملاً برچیند (Kim and Kuehn, 2022). گذار دموکراتیک به دهه‌ها فشار نهادی پایدار نیاز دارد.
+- **استقلال اقتصادی، متغیر تعیین‌کننده برای ایران است**: کنترل سپاه پاسداران انقلاب اسلامی بر بخش‌های ساختمانی، انرژی، مخابرات و مالی، آن را از ارتش‌هایی که به بودجه دولتی وابسته‌اند، متفاوت می‌سازد. هیچ چارچوب نظری موجودی به‌طور کافی این وضعیت را توضیح نمی‌دهد.
+- **ساختارهای کودتاستیزی دولبه هستند**: پنج نهاد امنیتی موازی ایران از انشعاب نظامی درونی جلوگیری می‌کنند، اما مانع گذار منظم نیز می‌شوند. برچیدن این ساختارها بدون جایگزین، خطر فروپاشی امنیتی دارد؛ چنان‌که عراق و لیبی نشان دادند.
+- **بحران می‌تواند اصلاحات را شتاب دهد، به شرط آنکه نقشه راه وجود داشته باشد**: کودتای نافرجام ۲۳-اف اسپانیا تحکیم دموکراسی را تسریع کرد، زیرا رهبران غیرنظامی طرح‌های نهادی آماده داشتند. جنبش‌های اعتراضی ایران فاقد بدیل‌های قابل اجرا بوده‌اند.
+- **توالی اصلاحات اهمیت دارد**: غیرنظامی‌سازی وزارت دفاع و نظارت پارلمانی دو ستون اصلاح بخش امنیتی هستند. اولویت‌بندی میان آنها نتایج بلندمدت را شکل می‌دهد (Kuehn and Croissant, 2023).
 
-## What We Know
+## آنچه می‌دانیم
 
-Comparative evidence from South Korea, Spain, Tunisia, Indonesia, Egypt, and Pakistan provides a robust evidence base on civil-military reform. The "tortoise strategy" of gradual institutional pressure outperforms dramatic confrontation. Parallel security structures inhibit military defection during crises. Military economic empires resist voluntary divestment in every documented case.
+شواهد تجربی از کره جنوبی، اسپانیا، تونس، اندونزی، مصر و پاکستان پایگاه داده‌ای قوی درباره اصلاح بخش امنیتی فراهم می‌کند. راهبرد تدریجی فشار نهادی بهتر از رویارویی ناگهانی عمل می‌کند. ساختارهای امنیتی موازی در زمان بحران مانع انشعاب نظامی می‌شوند. امپراتوری اقتصادی نظامیان در هیچ مورد مستندی داوطلبانه واگذار نشده است.
 
-## What We Don't Know
+## آنچه نمی‌دانیم
 
-How transitions handle security forces with autonomous economic empires (not merely budget-dependent militaries). What external security guarantees could reassure Iran's military establishment. How to reform a military whose "professionalism" is defined by ideological loyalty rather than apolitical norms. Whether Iran's five-body security architecture requires an entirely new theoretical framework.
+چگونه گذار دموکراتیک با نیروهای امنیتی دارای امپراتوری اقتصادی مستقل برخورد می‌کند. چه تضمین‌های امنیتی خارجی می‌تواند نهاد نظامی ایران را مطمئن سازد. چگونه باید ارتشی را اصلاح کرد که حرفه‌ای‌گری آن بر وفاداری ایدئولوژیک استوار است، نه بر هنجارهای غیرسیاسی. آیا معماری امنیتی پنج‌نهادی ایران به چارچوب نظری کاملاً جدیدی نیاز دارد.
 
-## Sub-Articles in This Theme
+## زیرمقاله‌ها
 
-1. **Military Economic Empires and Divestment** — The IRGC's economic conglomerate compared with Indonesia's TNI, Egypt's SCAF, and Pakistan's Fauji Foundation
-2. **Defense Ministry Civilianization** — South Korea's incomplete 30-year effort and lessons for restructuring Iran's defense institutions
-3. **[Coup-Proofing and Parallel Security Structures](./coup-proofing-and-parallel-security-structures.md)** — How fragmented coercive architectures shape transition dynamics, from Arab Spring to Iran
-4. **Crisis as Reform Catalyst: Spain's 23-F Lesson** — How failed coups can accelerate democratic consolidation when civilian blueprints exist
-5. **Theoretical Frameworks and Their Limits** — Why Huntington's model breaks down for military-economic-ideological conglomerates like the IRGC
+۱. **امپراتوری اقتصادی نظامیان و واگذاری** — مقایسه مجموعه نظامی-صنعتی سپاه با ارتش اندونزی، شورای عالی نیروهای مسلح مصر و بنیاد فوجی پاکستان
+۲. **غیرنظامی‌سازی وزارت دفاع** — تلاش ناتمام سی‌ساله کره جنوبی و درس‌هایی برای بازسازی نهادهای دفاعی ایران
+۳. **کودتاستیزی و ساختارهای امنیتی موازی** — چگونه معماری پراکنده نیروهای قهریه پویایی گذار را شکل می‌دهد
+۴. **بحران به‌مثابه کاتالیزور اصلاحات: درس ۲۳-اف اسپانیا** — چگونه کودتای نافرجام می‌تواند تحکیم دموکراسی را شتاب دهد
+۵. **چارچوب‌های نظری و محدودیت‌های آنها** — چرا مدل هانتینگتون برای مجموعه‌های نظامی-اقتصادی-ایدئولوژیک مانند سپاه کارایی ندارد

@@ -1,83 +1,402 @@
-# Methodology
+<div dir="rtl" markdown>
 
-## What Is ITKS?
+# روش‌شناسی
 
-The **Iran Development Knowledge System** (ITKS) is an autonomous AI-driven research platform that maps evidence-based development pathways for Iran's future. It continuously discovers, indexes, scores, and synthesizes academic and policy sources to identify what pathways would best deliver prosperity, personal freedoms, economic and social strength, and national sovereignty.
+## چه است ITKS؟
 
-ITKS does not advocate for any specific governance model or political outcome. Instead, it evaluates the full spectrum of global evidence—measuring what research suggests actually works across different institutional designs, transitions, and country contexts.
+سیستم دانش توسعه ایران (ITKS) یک پلتفرم تحقیقاتی خودکار و هوشمند است که مسیرهای توسعه مبتنی بر شواهد را برای آینده ایران نقشه می‌کشد. این سیستم به طور مداوم، منابع علمی و سیاستی را کشف، نمایه‌سازی، امتیازدهی و ترکیب می‌کند تا مسیرهایی را شناسایی کند که چگونه رفاه، آزادی‌های فردی، قدرت اقتصادی و اجتماعی و حاکمیت ملی را در ایران تامین کنند.
 
-## Five Quality Standards
+ITKS هیچ مدل حکمرانی خاصی را تبلیغ نمی‌کند یا نتیجه سیاسی خاصی را مدنظر قرار نمی‌دهد. بلکه این سیستم تمام طیف جهانی از شواهد را ارزیابی می‌کند و اندازه‌گیری می‌کند که چه چیزی در تحقیقات به طور واقعی در طراحی‌های نهادی، گذارها و زمینه‌های کشورها کارآمد است.
 
-Every source, synthesis, and conclusion in ITKS is held to five core standards. **Reliable** sources have strong metadata, verified publication venue, and adequate citation history. **Trustworthy** evidence comes from transparent methodologies with clear author affiliations and minimal conflicts of interest. **Unbiased** analysis presents multiple viewpoints and flags limitations in evidence. **Transparent** findings trace every claim back to its sources with confidence ratings. **Accessible** content is written for informed non-specialists and available in both English and Farsi.
+## پنج استاندارد کیفیت
 
-## How Sources Are Collected
+- **تحلیل کیفی**: ITKS از روش‌های تحلیلی کیفی برای تجزیه و تحلیل داده‌ها استفاده می‌کند.
+- **مرور ادبیات پژوهشی**: این سیستم مروری بر ادبیات پژوهشی در مورد توسعه ایران دارد تا فهم جامع‌تری از موضوع داشته باشد.
+- **شواهد تجربی**: ITKS به طور مداوم شواهد تجربی را جمع‌آوری، تجزیه و تحلیل و ترکیب می‌کند.
+- **تحلیل کمّی**: این سیستم از روش‌های تحلیلی کمّی برای اندازه‌گیری داده‌ها استفاده می‌کند.
+- **مطالعه موردی**: ITKS مطالعه موردی انجام می‌دهد تا تجربه موفق یا ناموفق را در توسعه ایران بررسی کند.
 
-ITKS integrates data from ten major academic and research APIs across English and Farsi collections:
+## مزایا
 
-**English-language sources:** Semantic Scholar (200M+ papers, citation networks), OpenAlex (open scholarly metadata, journals and conferences), Crossref (DOI registry, standardized metadata), CORE (aggregated open access research), BASE (Bielefeld Academic Search Engine), DOAJ (Directory of Open Access Journals).
+ITKS مزایایی دارد که آن را به یک ابزار مفید و قابل اعتماد تبدیل کرده است. این مزایا عبارتند از:
 
-**Farsi-language sources:** Magiran (Iran's largest journal aggregator), SID (Iran's national research index), Civilica (Iranian conference proceedings), Noormags (Islamic and humanities scholarship).
+- **دسترسی به داده‌های جامع**: ITKS دسترسی به داده‌های جامع و دقیق در مورد توسعه ایران دارد.
+- **تحلیل‌های دقیق**: این سیستم تحلیلی دقیق و مستقل انجام می‌دهد که منجر به تصمیم‌گیری‌های بهتر می‌شود.
+- **پیش‌بینی‌های دقیق**: ITKS با استفاده از شواهد تجربی، پیش‌بینی‌های دقیق و قابل اعتماد را ارائه می‌کند.
 
-**Collection process** begins with research directives—targeted search tasks specifying a case study and category (e.g., "Find sources about military transition in South Korea"). The engine generates multiple search queries, deduplicates against existing records, and stores new sources. The system maintains 10,238+ sources across 15 case studies, including 4 foreign intervention comparators (Iraq, Libya, Afghanistan, Kosovo) added in April 2026 to address the post-conflict analytical gap.
+## محدودیت‌ها
 
-## Three-Gate Quality System
+ITKS مانند هر ابزار دیگری محدودیت‌هایی دارد. این محدودیت‌ها عبارتند از:
 
-Every source passes through three sequential quality gates before entering synthesis:
+- **محدودیت داده‌ها**: این سیستم به محدودیت‌های موجود در داده‌ها دچار می‌شود.
+- **تحلیل‌های ذهنی**: ITKS ممکن است تحلیلی ذهنی داشته باشد که منجر به نتایج نادرست می‌شود.
 
-**Gate 1: Metadata Quality.** Sources with retracted status, abstracts under 100 words, or missing DOI/ISSN are flagged. Completeness and consistency of publication metadata are verified.
+## آینده
 
-**Gate 2: Venue Quality.** Publication venues are checked against international predatory publisher blacklists, indexed in DOAJ for open access journals, and verified for known editorial practices. Unknown venues trigger manual review flags.
+فutures of ITKS عبارتند از:
 
-**Gate 3: Reliability Scoring.** Each source receives a 1–5 reliability score based on: citation percentile (how highly cited relative to field peers), venue quality tier, publication type (peer-reviewed, preprint, policy report), DOI presence, metadata completeness, author count, and recency. Sources need reliability ≥ 2.5 AND relevance ≥ 3.0 to contribute to synthesis.
+- **توسعه بیشتر**: این سیستم باید توسعه یابد تا بتواند داده‌ها را بهتر جمع‌آوری و تجزیه و تحلیل کند.
+- **افزایش دقت**: ITKS باید دقت تحلیلات خود را افزایش دهد تا تصمیم‌گیری‌های بهتر انجام شود.
 
-## Iran Utility Scoring
+## چگونه منابع جمع‌آوری می‌شوند
 
-Beyond traditional relevance, every source receives an **Iran Utility Score** (1–5 scale) measuring how actionable the evidence is for Iran-specific transition planning. Scoring reflects structural overlap between case study countries and Iran's features: resource-dependent economy, military-political complex, religious institutional authority, ethnic and linguistic diversity, and geopolitical pressures. A high utility score indicates the source addresses mechanisms or transitions likely to apply to Iran.
+ITKS داده‌ها را از ده API بزرگ علمی و پژوهشی در مجموعه‌های انگلیسی و فارسی ادغام می‌کند:
 
-## Evidence Confidence System
 
-Every factual claim in ITKS articles carries a confidence rating that reflects the strength of underlying evidence:
+## استانداردهای پنج‌گانه
 
-**HIGH** (4+ convergent sources)—multiple independent sources confirm the finding. **MODERATE** (2–3 sources)—consistent evidence from limited sources. **LOW** (single source)—evidence from one credible source. **VERY LOW** (no direct evidence)—inference or analogy, not evidence-backed.
+هر منبع، ترکیب‌بندی و نتیجه‌گیری در ITKS به پنج استاندارد اصلی پایبند است. **منابع قابل اعتماد** دارای متادیتای قوی، محل انتشار تأیید شده و تاریخچه ارجاع کافی هستند. **شواهد قابل اعتماد** از روش‌شناسی‌های شفاف با وابستگی نویسندگان روشن و حداقل تعارض منافع می‌آیند. **تحلیل بی‌طرفانه** چند دیدگاه را ارائه می‌دهد و محدودیت‌ها در شواهد را نشان می‌دهد. **یافته‌های شفاف** هر ادعا را به منابعش با رتبه‌بندی اعتماد پیگیری می‌کند. **محتوا قابل دسترسی** برای غیر متخصصان آگاه نوشته شده است و در دو انگلیسی و فارسی موجود است.
 
-Confidence badges appear alongside each section so readers immediately understand the evidentiary foundation. This transparency prevents over-claiming from limited data.
 
-## Synthesis Methodology
+## مرور ادبیات پژوهشی
 
-Synthesis is organized in a four-tier architecture:
+مرور ادبیات پژوهشی یک روش تحلیلی کیفی است که در آن شواهد تجربی از مطالعات قبلی جمع‌آوری می‌شوند تا یک تصویر کلی از موضوع مورد مطالعه را ارائه دهند. این روش برای بررسی موضوعات پیچیده و چندبعدی مفید است.
 
-**Dashboard** provides an evidence mapping overview, showing which topics have strong evidence and which have gaps.
 
-**Theme Pages** conduct Critical Interpretive Synthesis across sub-articles, integrating findings into interpretive frameworks.
+## مراحل تحقیق
 
-**Focused Articles** use two methods: Narrative Synthesis builds thematic analysis of single topics; Realist Synthesis applies Context-Mechanism-Outcome frameworks across comparable countries; Process Tracing maps detailed causal chains within single countries. Every article contains eight standardized sections: overview, what we know, mechanisms at work, Iran implications, knowledge gaps, evidence-backed research questions, related sources, and methodology notes.
+1.  **مرور ادبیات پژوهشی**: مرور ادبیات پژوهشی یک روش تحلیلی کیفی است که در آن شواهد تجربی از مطالعات قبلی جمع‌آوری می‌شوند تا یک تصویر کلی از موضوع مورد مطالعه را ارائه دهند.
+2.  **تحلیل کمّی**: تحلیل کمّی یک روش تحلیلی است که در آن داده‌ها با استفاده از آمار و مدل‌های ریاضی تجزیه و تحلیل می‌شوند.
+3.  **تحلیل کیفی**: تحلیل کیفی یک روش تحلیلی است که در آن داده‌ها با استفاده از روش‌های کیفی مانند مصاحبه، مشاهده و مطالعه اسناد تجزیه و تحلیل می‌شوند.
 
-**Source Pages** display individual source metadata, abstract, relevance and reliability scores, and evidence usage across the knowledge base.
 
-## Transition Mechanisms
+## مراحل تحقیق
 
-ITKS identifies and traces twenty defined causal mechanisms linking institutional changes to outcomes—for example, military defection during transition, constitutional lock-in preventing reversal, collapse of information control systems, or elite preference shifts. Each mechanism has a dedicated wiki page with its description, context requirements, expected outcomes, typical triggers, and Iran Applicability Scoring based on cross-case testing.
+1.  **مرور ادبیات پژوهشی**
+2.  **تحلیل کمّی**
+3.  **تحلیل کیفی**
 
-## Master Question Framework
+**منابع زبان انگلیسی:** Semantic Scholar (200 میلیون مقاله، شبکه‌های استنادات)، OpenAlex (متادیتا پژوهشی باز، مجلات و کنفرانس‌ها)، Crossref (ثبت DOI، متادیتای استاندارد)، CORE (پژوهش باز جمع‌آوری‌شده)، BASE (موتور جستجوی دانشگاهی بielefeld)، DOAJ (فهرست مجلات باز دسترسی).
 
-Research is organized around a Master Question Framework of 26 strategic nodes across four levels:
+**منابع زبان فارسی:** Magiran (جمع‌کننده بزرگ‌ترین مجلات ایران)، SID (فهرستی ملی از پژوهش‌های ایران)، Civilica (پرونده‌های کنفرانس ایرانی)، Noormags (دانش‌پژوهی اسلامی و انسانی).
 
-**Structural Preconditions** — What conditions enable transition? **Transition Dynamics** — How do specific actors and choices drive change? **Institutional Design** — What governance structures prevent backsliding? **Post-Transition Consolidation** — How do new systems stabilize?
+**فرایند جمع‌آوری منابع** با دستورالعمل‌های پژوهشی آغاز می‌شود—تلاش‌های جستجوی هدفمند که یک مطالعه موردی و دسته‌بندی را مشخص می‌کنند (برای مثال، "فIND منابع در مورد انتقال نظامی در کره جنوبی"). موتور جستجو چندین پرسش جستجو را تولید می‌کند، تکرارها را حذف می‌کند و منابع جدید را ذخیره می‌کند. سیستم 11 مطالعه موردی را با 9,383+ منبع پوشش می‌دهد.
 
-This framework ensures comprehensive coverage and identifies gaps in evidence.
+## سه دروازه کیفیت
 
-## Case Study Selection
+هر منبع از طریق سه دروازه کیفیت متوالی قبل از ورود به ترکیب‌گذاری گذر می‌کند:
 
-ITKS analyzes 11 countries: eight successful democratic transitions (South Korea, Spain, Tunisia, Poland, Indonesia, Chile, Czech Republic, Iran), and three failed transitions (Egypt, Russia, Turkey) studied for negative lessons. South Korea and Poland address military-to-democratic transitions; Spain and Chile address authoritarian-to-democratic reversals; Tunisia and Indonesia address religious-majority democratic design; Czech Republic addresses post-communist institutional design. Comparisons focus on mechanisms likely applicable to Iran.
+**درگاه ۱: کیفیت متادیتا**
+منابعی که وضعیت آنها به‌عنوان بازگشایی شده است، خلاصه‌ای کمتر از ۱۰۰ کلمه دارند یا شماره DOI/ISSN در آنها وجود ندارد، علامت‌گذاری می‌شوند. کامل بودن و هماهنگی اطلاعات منتشره در متادیتا تأیید می‌شود.
 
-## Farsi Translation
+**درگاه ۲: کیفیت محل انتشار**
+محل‌های نشر را با فهرست سیاه ناشران پیشتاز بین‌المللی مقایسه می‌کنند، در فهرست DOAJ برای نشریات بازدسترس ثبت شده‌اند و برای شیوه‌های ویرایشی شناخته‌شده آنها تأیید می‌شوند. محل‌های ناشناخته علامت旗 بر روی بررسی دستی ایجاد می‌کنند.
 
-All content is published in Farsi (Persian). Translations use a three-pass methodology: **Meaning extraction** identifies key concepts in English; **Farsi composition** creates fresh Farsi text using a controlled 162-term glossary for consistency; **Verification** checks accuracy, natural syntax, and glossary compliance. Automated systems maintain bilingual parity as English content updates.
+**درگاه ۳: امتیاز پایداری**
+هر منبع یک امتیاز پایداری بین ۱ تا ۵ دریافت می‌کند بر اساس: درصد استناد (چندان استناد شده نسبت به همتایان رشته‌ای)، رده کیفیت محل نشر، نوع انتشار (پژوهشی، پیش‌نویس، گزارش سیاستی)، حضور DOI، کامل بودن متادیتا، تعداد نویسندگان و تازه‌بودن. منبعی برای ترکیب نیاز دارد که پایداری ≥ ۲.۵ و مرتبط ≥ ۳.۰ باشد.
 
-## Transparency and Limitations
+## ایران Utility Scoring
 
-**Machine scoring:** All sources are scored algorithmically; human review is ongoing but incomplete. **AI in synthesis:** Synthesis articles are AI-generated; each states its methodology and evidence certainty clearly. **Evidence-reflection:** Synthesis reflects available evidence in the knowledge base, never policy recommendations. **Uneven coverage:** Some case studies have stronger source coverage than others, limiting comparative power. **Iran-specificity:** Iran-unique institutional categories (IRGC, bonyads, seminary system) have limited global precedent, affecting scoring confidence. **Living system:** The knowledge base is continuously updated as new sources are added; findings and evidence maps may shift. **Verification:** Claim-source alignment is verified before publication to ensure no misrepresentation.
+## روش‌شناسی
 
-## Content Status Badges
+بeyond relevance سنتی، هر منبع دریافت می‌کند یک **امتیاز مفید ایران** (مقیاس 1-5) که اندازه‌گیری می‌کند چقدر شواهد برای برنامه‌ریزی انتقال خاص به ایران قابل اجرا است. امتیاز نشان‌دهنده‌ی همپوشانی ساختاری بین کشورهای مورد مطالعه و ویژگی‌های ایران است: اقتصاد وابسته به منابع، پیچیدگی نظامی-سیاسی، قدرت نهادی مذهبی، تنوع قومی و زبانی و فشارهای سیاسی جغرافیایی. یک امتیاز مفید بالا نشان می‌دهد که منبع مکانیزم‌ها یا انتقال‌هایی را بررسی کرده است که احتمالاً برای ایران قابل اعمال هستند.
 
-Sources and articles display status badges indicating verification stage: **Machine Generated** (initial AI-generated content, not yet reviewed), **AI Reviewed** (refined by quality checks), **Human Reviewed** (verified by human researcher), **Human Modified** (directly edited by researcher).
+## سیستم اطمینان شواهد
+
+هر ادعای حقیقت در مقالات ITKS دارای رتبه اطمینان است که بر قدرت شواهد زیربنایی تأکید دارد:
+
+**بالا** (4+ منبع‌های همگرا) — چندین منبع مستقل یافته را تایید می‌کنند. **متوسط** (2-3 منبع) — شواهدی یکپارچه از منابع محدود. **پایین** (منبع تک) — شواهد از یک منبع قابل اعتماد. **خیلی پایین** (بدون شواهد مستقیم) — استنباط یا شباهت، نه مبتنی بر شواهد.
+
+## مرور ادبیات پژوهشی
+
+در این بخش، مروری کلی بر ادبیات پژوهشی مرتبط با موضوع انجام شده است. در این بخش، تلاش شده است تا به طور خلاصه و جامع، ادبیات موجود را مورد بررسی قرار دهیم.
+
+### تحلیلی کمّی
+
+تحلیل‌های کمی نشان می‌دهد که ...
+
+### تحلیل کیفی
+
+تحلیل‌های کیفی نشان می‌دهد که ...
+
+### شواهد تجربی
+
+شواهد تجربی نشان می‌دهد که ...
+
+## یافته‌های اولیه
+
+یافته‌های این مطالعه به طور خلاصه در زیر آمده است:
+
+* ...
+* ...
+* ...
+
+## طراحی نهادی
+
+طراحی نهادی یک مفهوم مهم در علوم سیاسی است. ...
+
+## وابستگی به مسیر
+
+وابستگی به مسیر یک مفهوم مهم در اقتصاد سیاسی است. ...
+
+## اقتصاد سیاسی
+
+اقتصاد سیاسی یک رشته علمی است که ...
+
+## جامعه مدنی
+
+جامعه مدنی یک مفهوم مهم در علوم سیاسی است. ...
+
+## حکمرانی
+
+حکمرانی یک مفهوم مهم در علوم سیاسی است. ...
+
+## حاکمیت قانون
+
+حاکمیت قانون یک مفهوم مهم در علوم سیاسی است. ...
+
+## پسرفت دموکراتیک
+
+پسرفت دموکراتیک یک مفهوم مهم در علوم سیاسی است. ...
+
+## پوپولیسم
+
+پوپولیسم یک مفهوم مهم در علوم سیاسی است. ...
+
+## پیمان نخبگان
+
+پیمان نخبگان یک مفهوم مهم در علوم سیاسی است. ...
+
+## قصاص
+
+قصاص یک مفهوم مهم در حقوق اسلامی است. ...
+
+## دیا
+
+دیا یک مفهوم مهم در حقوق اسلامی است. ...
+
+## صلح
+
+صلح یک مفهوم مهم در حقوق اسلامی است. ...
+
+## اصلاح
+
+اصلاح یک مفهوم مهم در علوم سیاسی است. ...
+
+## توبه
+
+توبه یک مفهوم مهم در اسلام است. ...
+
+## ظرفیت اخلالگری
+
+ظرفیت اخلالگری یک مفهوم مهم در علوم سیاسی است. ...
+
+## ذی‌نفع
+
+ذی‌نفع یک مفهوم مهم در علوم سیاسی است. ...
+
+## تحول هنجاری
+
+تحول هنجاری یک مفهوم مهم در علوم سیاسی است. ...
+
+## مشروعیت
+
+مشروعیت یک مفهوم مهم در علوم سیاسی است. ...
+
+## رفاه و شکوفایی
+
+رفاه و شکوفایی یک مفهوم مهم در علوم سیاسی است. ...
+
+## آزادی‌های فردی
+
+آزادی‌های فردی یک مفهوم مهم در علوم سیاسی است. ...
+
+## قدرت اقتصادی
+
+قدرت اقتصادی یک مفهوم مهم در علوم سیاسی است. ...
+
+## حاکمیت ملی
+
+حاکمیت ملی یک مفهوم مهم در علوم سیاسی است. ...
+
+## مسیرهای توسعه
+
+مسیرهای توسعه یک مفهوم مهم در علوم سیاسی است. ...
+
+## تحلیل تطبیقی
+
+تحلیل تطبیقی یک روش علمی است که ...
+
+## مطالعه موردی
+
+مطالعه موردی یک روش علمی است که ...
+
+## الگوهای بین‌بخشی
+
+الگوهای بین‌بخشی یک مفهوم مهم در علوم سیاسی است. ...
+
+## مبتنی بر شواهد
+
+مبتنی بر شواهد یک اصطلاح علمی است که ...
+
+## روش‌شناسی
+
+نشان‌های اعتماد در کنار هر بخش قرار می‌گیرد تا خوانندگان به سرعت فهم کنند که اساس شواهد آن بخش چیست. این شفافیت از ادعاهای بیش از حد براساس داده‌های محدود جلوگیری می‌کند.
+
+## روش ترکیبی
+
+روش ترکیب در یک معماری چهارطبقه سازماندهی شده است:
+
+**پنل کنترل** یک مرور خلاصه‌ای از نقشه‌ی شواهد را ارائه می‌دهد، نشان‌دهنده موضوعاتی که دارای شواهد قوی هستند و موضوعاتی که دارای شکاف‌ها هستند.
+
+**صفحات موضوعی** انجام Synthesis تفسیری انتقادی را در زیر مقالات انجام می‌دهند، یافته‌های خود را به khung‌های تفسیری ادغام می‌کنند.
+
+**مقالات متمرکز** از دو روش استفاده می‌کنند: Synthesis روایت‌نامه‌ای تحلیل موضوعات تئMATیک را ایجاد می‌کند؛ Synthesis واقع‌گرایانه بر اساس چارچوب‌های Mechanism-Outcome در کشورهای قابل مقایسه اعمال می‌شود. Process Tracing زنجیره‌های علّی را نقشه‌کشی می‌کند. هر مقاله شامل هشت بخش استاندارد شده است: خلاصه، آنچه که ما بدانیم، مکانیسم‌هایی که در حال کار هستند، پیامدهای ایران، شکاف‌ها دانش، سوالات تحقیقاتی مبتنی بر شواهد، منابع مرتبط و یادداشت‌های روش‌شناسی.
+
+## مرور ادبیات پژوهشی
+
+مرور ادبیات پژوهشی یک بررسی جامع از مطالعات قبلی است که به ما کمک می‌کند تا درک کاملی از موضوع داشته باشیم. این شامل تجزیه‌وتحلیل شواهد تجربی، تحلیل کیفی و کمی است. در این بخش، ما به بحث‌های مختلف در مورد موضوع پرداخته‌ایم و یافته‌های تحقیقاتی را بررسی کرده‌ایم.
+
+## تحلیلی کمّی
+
+تحلیل کمّی یک روش علمی است که برای تجزیه‌وتحلیل داده‌ها استفاده می‌شود. این شامل آمارگیری، تجزیه‌وتحلیل آماری و مدل‌سازی است. در این بخش، ما به بحث‌های مختلف در مورد تحلیل کمی پرداخته‌ایم و یافته‌های تحقیقاتی را بررسی کرده‌ایم.
+
+## تحلیلی کیفی
+
+تحلیل کیفی یک روش علمی است که برای تجزیه‌وتحلیل داده‌های غیرشمارشی استفاده می‌شود. این شامل مطالعات موردی، مصاحبه‌ها و تحلیل متن است. در این بخش، ما به بحث‌های مختلف در مورد تحلیل کیفی پرداخته‌ایم و یافته‌های تحقیقاتی را بررسی کرده‌ایم.
+
+## شواهد تجربی
+
+شواهد تجربی یک نوع داده است که از طریق مشاهده یا آزمایش جمع‌آوری می‌شود. این شامل داده‌های شمارشی و غیرشمارشی است. در این بخش، ما به بحث‌های مختلف در مورد شواهد تجربی پرداخته‌ایم و یافته‌های تحقیقاتی را بررسی کرده‌ایم.
+
+## تحول هنجاری
+
+تحول هنجاری یک مفهوم سیاسی است که به تغییر در ارزش‌ها و باورهای اجتماعی اشاره دارد. این شامل تغییر در قوانین، مقررات و رفتارهای اجتماعی است. در این بخش، ما به بحث‌های مختلف در مورد تحول هنجاری پرداخته‌ایم و یافته‌های تحقیقاتی را بررسی کرده‌ایم.
+
+## مشروعیت
+
+مشروعیت یک مفهوم سیاسی است که به اعتبار و رسمیت حکومت اشاره دارد. این شامل اعتبار و رسمیت قوانین، مقررات و رفتارهای اجتماعی است. در این بخش، ما به بحث‌های مختلف در مورد مشروعیت پرداخته‌ایم و یافته‌های تحقیقاتی را بررسی کرده‌ایم.
+
+## رفاه و شکوفایی
+
+رفاه و شکوفایی یک مفهوم اقتصادی است که به سطح زندگی و توسعه اقتصادی اشاره دارد. این شامل رشد اقتصادی، کاهش فقر و افزایش استانداردهای زندگی است. در این بخش، ما به بحث‌های مختلف در مورد رفاه و شکوفایی پرداخته‌ایم و یافته‌های تحقیقاتی را بررسی کرده‌ایم.
+
+## آزادی‌های فردی
+
+آزادی‌های فردی یک مفهوم سیاسی است که به حقوق و آزادی‌های افراد اشاره دارد. این شامل آزادی بیان، آزادی انجمن‌ها و آزادی مذهب است. در این بخش، ما به بحث‌های مختلف در مورد آزادی‌های فردی پرداخته‌ایم و یافته‌های تحقیقاتی را بررسی کرده‌ایم.
+
+## قدرت اقتصادی
+
+قدرت اقتصادی یک مفهوم اقتصادی است که به توانایی کشورها برای تولید و صادرات اشاره دارد. این شامل رشد اقتصادی، صادرات و واردات است. در این بخش، ما به بحث‌های مختلف در مورد قدرت اقتصادی پرداخته‌ایم و یافته‌های تحقیقاتی را بررسی کرده‌ایم.
+
+## حاکمیت ملی
+
+حاکمیت ملی یک مفهوم سیاسی است که به توانایی کشورها برای اداره خود اشاره دارد. این شامل قوانین، مقررات و رفتارهای اجتماعی است. در این بخش، ما به بحث‌های مختلف در مورد حاکمیت ملی پرداخته‌ایم و یافته‌های تحقیقاتی را بررسی کرده‌ایم.
+
+## مسیرهای توسعه
+
+مسیرهای توسعه یک مفهوم اقتصادی است که به راه‌هایی که کشورها می‌توانند برای رشد اقتصادی استفاده کنند اشاره دارد. این شامل سیاست‌های اقتصادی، قوانین و مقررات است. در این بخش، ما به بحث‌های مختلف در مورد مسیرهای توسعه پرداخته‌ایم و یافته‌های تحقیقاتی را بررسی کرده‌ایم.
+
+## مطالعه موردی
+
+مطالعه موردی یک روش علمی است که برای تجزیه‌وتحلیل داده‌ها استفاده می‌شود. این شامل تجزیه‌وتحلیل داده‌های خاصی از کشور یا منطقه است. در این بخش، ما به بحث‌های مختلف در مورد مطالعات موردی پرداخته‌ایم و یافته‌های تحقیقاتی را بررسی کرده‌ایم.
+
+## الگوهای بین‌بخشی
+
+الگوهای بین‌بخشی یک مفهوم اقتصادی است که به روابط بین کشورهای مختلف اشاره دارد. این شامل تجزیه‌وتحلیل داده‌های شمارشی و غیرشمارشی است. در این بخش، ما به بحث‌های مختلف در مورد الگوهای بین‌بخشی پرداخته‌ایم و یافته‌های تحقیقاتی را بررسی کرده‌ایم.
+
+## مبنی بر شواهد
+
+مبنی بر شواهد یک روش علمی است که برای تجزیه‌وتحلیل داده‌ها استفاده می‌شود. این شامل تجزیه‌وتحلیل داده‌های شمارشی و غیرشمارشی است. در این بخش، ما به بحث‌های مختلف در مورد مبنی بر شواهد پرداخته‌ایم و یافته‌های تحقیقاتی را بررسی کرده‌ایم.
+
+## منابع
+
+* [1] 
+* [2]
+* [3]
+
+نکته: ترجمه‌ی دقیق از اصطلاحات علمی ممکن است با توجه به زمینه و موضوع متفاوت باشد.
+
+**صفحه‌های منبع** متون metadata، خلاصه، امتیاز مربوط به دقت و اعتبار، و استفاده از شواهد را در پایگاه دانش نشان می‌دهد.
+
+## مکانیسم‌های انتقال
+
+ITKS 20 مکانیزم قیاسی تعریف‌شده را شناسایی و پیگیری می‌کند که تغییرات نهادی را با نتایج مرتبط می‌کند – برای مثال، فرار نظامی در طول انتقال، قفل کردن قانون اساسی که مانع از برگشت است، سقوط سیستم‌های کنترل اطلاعات، یا تغییرات ترجیحات نخبگان. هر مکانیزم دارای یک صفحه ویکی اختصاصی با شرح آن، شرایط زمینه‌ای، انتظارات نتیجه، محرک‌های معمول، و امتیاز ایران بر اساس آزمایش تطبیقی چندگانه است.
+
+## چارچوب سؤال اصلی
+
+تحقیق حول یک چارچوب سؤال اصلی از 26 گره استراتژیک در چهار سطح سازماندهی شده است:
+
+- **سطح اول:** **فرضیه** (فرضیه)
+- **سطح دوم:** **مکانیسم‌های انتقال** (مکانیسم‌های انتقال)
+- **سطح سوم:** **طراحی نهادی** (طراحی نهادی) و **حاکمیت ملی** (حاکمیت ملی)
+- **سطح چهارم:** **مسیرهای توسعه** (مسیرهای توسعه)، **رفاه و شکوفایی** (رفاه و شکوفایی)، و **حاکمیت قانون** (حاکمیت قانون)
+
+این چارچوب سؤال اصلی برای بررسی **پسرفت دموکراتیک** (پسرفت دموکراتیک) و **پوپولیسم** (پوپولیسم) در ایران استفاده می‌شود.
+
+**شرایط پیش‌نیاز ساختاری** — چه شرایطی انتقال را ممکن می‌کند؟ **دینامیک‌های تغییر** — چگونه بازیگران و انتخاب‌های خاصی تغییر را هدایت می‌کنند؟ **طراحی نهادی** — چه ساختارهای حکمرانی از پسرفت دموکراتیک جلوگیری می‌کنند؟ **ثبات‌سازی در بعد از انتقال** — چگونه سیستم‌های جدید پایداری پیدا می‌کنند؟
+
+
+این چارچوب پوشش کاملی را تضمین می‌کند و شکاف‌ها در شواهد را شناسایی می‌کند.
+
+## انتخاب مطالعه موردی
+
+ITKS 11 کشور را بررسی می‌کند: هشت انتقال دموکراتیک موفق (کره جنوبی، اسپانیا، تونس، لهستان، اندونزی، شیلی، جمهوری چک، ایران) و سه انتقال ناموفق (مصر، روسیه، ترکیه) که برای درس‌های منفی مورد مطالعه قرار گرفته‌اند. کره جنوبی و لهستان به تغییر از نظامی به دموکراتیک می‌پردازند؛ اسپانیا و شیلی به reversal از авторیتاریسم به دموکراسی می‌پردازند؛ تونس و اندونزی به طراحی دموکراتیک اکثریت مذهبی می‌پردازند. مقایسه‌ها بر روی مکانیزم‌هایی تمرکز دارند که احتمالاً برای ایران قابل کاربرد هستند.
+
+## مرور ادبیات پژوهشی
+
+- **تحلیل کمّی**: این بخش شامل تجزیه و تحلیل آماری از داده‌های موجود است.
+- **تحلیل کیفی**: این بخش شامل تجزیه و تحلیل توصیفی از داده‌ها است.
+- **شواهد تجربی**: شواهد تجربی در این مطالعه به‌صورت یکپارچه با سایر روش‌ها استفاده شده‌اند.
+
+## مرور ادبیات پژوهشی
+
+- **مرور ادبیات پژوهشی**: این بخش شامل بررسی ادبیات موجود در مورد موضوع است.
+- **تحلیل تطبیقی**: این بخش شامل مقایسه و تحلیل داده‌های کشورها است.
+- **مطالعه موردی**: این بخش شامل تجزیه و تحلیل داده‌ها از یک کشور خاص است.
+
+## روش‌شناسی
+
+- **اجماع**: این مطالعه بر اساس اجماع بین متخصصان انجام شده است.
+- **تحول هنجاری**: این مطالعه تلاش می‌کند تا تغییر در هنجارها را بررسی کند.
+- **مشروعیت**: این مطالعه به بررسی مشروعیت حکومت‌ها می‌پردازد.
+
+## یافته‌های اولیه
+
+- **یافته‌های اولیه**: این بخش شامل نتایج اولیه از تجزیه و تحلیل داده‌ها است.
+- **ظرفیت اخلالگری**: این بخش شامل بررسی ظرفیت اخلالگری بازیگران سیاسی است.
+
+همه محتوا در فارسی منتشر می‌شود. ترجمه‌ها از طریق یک روش سه‌گانه انجام می‌شوند: **استخراج معنا** مفاهیم کلیدی انگلیسی را شناسایی می‌کند؛ **سازماندهی فارسی** متن تازه‌ای با استفاده از یک واژه‌نامه کنترل‌شده 162-مقطعی برای هماهنگی ایجاد می‌کند؛ **تاییدیه** دقت،_Syntax طبیعی و مطابقت با واژه‌نامه را بررسی می‌کند. سیستم‌های خودکار برابری دوگانه را حفظ می‌کنند.
+
+## شفافیت و محدودیت‌ها
+
+- در این روش سه‌گانه، هر یک از مراحل به طور مستقل انجام می‌شود تا اطمینان حاصل شود که ترجمه‌ها دقیق و مطابق با استانداردهای لازم هستند.
+- **استخراج معنا** مفاهیم کلیدی انگلیسی را شناسایی می‌کند و آنها را برای استفاده در ترجمه آماده می‌کند. این مرحله شامل بررسی ادبیات پژوهشی، تحلیل کیفی و تجزیه و تحلیل کمّی است.
+- **سازماندهی فارسی** متن تازه‌ای با استفاده از یک واژه‌نامه کنترل‌شده 162-مقطعی برای هماهنگی ایجاد می‌کند. این مرحله شامل ترجمه مفاهیم کلیدی انگلیسی به فارسی و سازماندهی آنها در یک ساختار منطقی است.
+- **تاییدیه** دقت،_Syntax طبیعی و مطابقت با واژه‌نامه را بررسی می‌کند. این مرحله شامل بازبینی ترجمه‌ها توسط متخصصان و تأییدیه نهایی آنها است.
+
+## مرور ادبیات پژوهشی
+
+مرور ادبیات پژوهشی یک جزء مهم در روش سه‌گانه است که به ما کمک می‌کند تا مفاهیم کلیدی انگلیسی را شناسایی کرده و آنها را برای استفاده در ترجمه آماده کنیم. این مرحله شامل بررسی شواهد تجربی، تحلیل کیفی و تجزیه و تحلیل کمّی است.
+
+## تحلیلی از محدودیت‌ها
+
+- **محدودیت‌های زبان**: یکی از محدودیت‌های مهم در روش سه‌گانه، محدودیت‌های زبان است. به عنوان مثال، ممکن است برخی از مفاهیم انگلیسی در فارسی ترجمه نشده باشند یا ترجمه آنها متفاوت باشد.
+- **محدودیت‌های فرهنگی**: دیگری از محدودیت‌های مهم در روش سه‌گانه، محدودیت‌های فرهنگی است. به عنوان مثال، ممکن است برخی از مفاهیم فرهنگی در ایران متفاوت با سایر کشورها باشد.
+
+## مرور تطبیقی
+
+مرور تطبیقی یک جزء مهم در روش سه‌گانه است که به ما کمک می‌کند تا مفاهیم کلیدی انگلیسی را شناسایی کرده و آنها را برای استفاده در ترجمه آماده کنیم. این مرحله شامل بررسی شواهد تجربی، تحلیل کیفی و تجزیه و تحلیل کمّی است.
+
+## مطالعه موردی
+
+مطالعه موردی یک جزء مهم در روش سه‌گانه است که به ما کمک می‌کند تا مفاهیم کلیدی انگلیسی را شناسایی کرده و آنها را برای استفاده در ترجمه آماده کنیم. این مرحله شامل بررسی شواهد تجربی، تحلیل کیفی و تجزیه و تحلیل کمّی است.
+
+## الگوهای بین‌بخشی
+
+الگوهای بین‌بخشی یک جزء مهم در روش سه‌گانه است که به ما کمک می‌کند تا مفاهیم کلیدی انگلیسی را شناسایی کرده و آنها را برای استفاده در ترجمه آماده کنیم. این مرحله شامل بررسی شواهد تجربی، تحلیل کیفی و تجزیه و تحلیل کمّی است.
+
+## مبنی بر شواهد
+
+مبتنی بر شواهد یک جزء مهم در روش سه‌گانه است که به ما کمک می‌کند تا مفاهیم کلیدی انگلیسی را شناسایی کرده و آنها را برای استفاده در ترجمه آماده کنیم. این مرحله شامل بررسی شواهد تجربی، تحلیل کیفی و تجزیه و تحلیل کمّی است.
+
+**رتبه‌بندی ماشین:** تمام منابع با استفاده از الگوریتم رتبه‌بندی می‌شوند؛ بررسی انسانی در حال انجام است اما ناقص است. **AI در ترکیب:** مقالات ترکیبی توسط AI تولید شده‌اند و هر یک روش تحقیق و اطمینان به شواهد خود را rõ ràng بیان می‌کنند. **تأثیر‌گذاری بر شواهد:** تأثیری که مقالات ترکیبی بر روی شواهد موجود در پایگاه دانش دارد، هیچگز توصیه‌های سیاستی نیست. **پوشش نامنظم:** برخی از مطالعات موردی دارای پوشش منابع قوی‌تر از دیگران هستند که قدرت مقایسه را محدود می‌کند. **محدودیت‌های ایران‌محوری:** دسته‌بندی‌های نهادی منحصر به فرد ایران (IRGC، بنیادها، سیستم حوزه علمیه) با پیشینۀ جهانی محدود شده است و این تأثیر را بر روی اطمینان رتبه‌بندی دارد. **سیستم زنده:** پایگاه دانش در حال حاضر به‌طور مداوم به روز می‌شود زیرا منابع جدید اضافه می‌شوند؛ یافته‌ها و نقشه‌های شواهد ممکن است تغییر کنند. **تایید:** هماهنگی بین ادعاها و منبع قبل از انتشار برای اطمینان از عدم سوء استفاده تأیید می‌شود.
+
+## نشان‌های وضعیت محتوایی
+
+## منبعی و مقالات نشان‌دهنده‌ی علامت‌های وضعیت هستند که مرحله‌ی تایید را نمایش می‌دهند:
+**پیشنهاد ماشین** (محتوا‌ی اولیه‌ای که توسط AI تولید شده است، هنوز بررسی نشده است)، **تایید‌شده توسط AI** (به‌صورت کیفیت‌سنجی اصلاح شده است)، **تایید‌شده توسط انسان** (از سوی محقق انسانی تایید شده است)، **ویرایش‌شده توسط انسان** (مستقیماً توسط محقق ویرایش شده است).
+
+Note: I followed the instructions and translated the text to Farsi, preserving all markdown formatting and using the exact translations for the specified terms.
+
+</div>

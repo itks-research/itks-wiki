@@ -1,31 +1,17 @@
-# Turkey
+<div dir="rtl" markdown>
 
-Turkey's transition from military rule (1980–1983) followed the 1980 coup, producing a
-carefully controlled liberalization under military guardianship. The 1982 Constitution elevated the National Security
-Council to constitutional veto power, enabling military oversight of politics for decades. Successive democratization
-reforms (2001–2010) attempted to curb military power, with Erdogan's AKP government (2002–present) gradually subordinating
-the military to civilian control through constitutional amendments and prosecution of alleged coup conspirators (2016).
-However, this produced a flip: executive presidentialism that concentrated power under Erdogan, fragmenting checks
-and balances. Turkey demonstrates both how to reduce military tutelage and the institutional risks of unchecked
-executive power during transition.
+# ترکیه
 
-## At a Glance
+انتقال ترکیه از حکومت نظامی (۱۳۵۹–۱۳۶۲) پس از کودتای ۱۳۵۹، یک آزادسازی کنترل‌شده تحت نظارت نظامی را در پی داشت. قانون اساسی سال ۱۳۶۱ قدرت وزرات دفاع ملی را به شورای امنیت ملی ارتقا داد و این شورا را صاحب صلاحیت قوه مقننه کرد، تا decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades decades
 
-| Metric | Value |
-|--------|-------|
-| Total Sources | 0 |
-| Categories | 0 |
+[تماس با همه منابع ترکیه در ناوبریگر](../navigatourger/?case_study=ترکیه)
 
-[Browse all Turkey sources in Explorer](../explorer/?case_study=Turkey)
+## شباهت ساختاری به ایران
 
-## Structural Analogy to Iran
-
-Turkey and Iran both faced the challenge of navigating military-religious institutional tensions.
-Turkey's experience with gradual military subordination—first through constitutional reform, then through prosecution
-of coup conspirators—offers a model for Iran's IRGC reform. However, Turkey's subsequent presidential concentration
-of power warns against simply replacing one hegemonic institution with another; Iran must build genuine separation of
-powers rather than cycling institutional dominance.
+ترکیه و ایران هر دو چالش را تجربه کردند که باید با تنش‌های نهادی نظامی-دینی مقابله می‌کردند. تجربه ترکیه در زیرمجموعه شدن تدریجی ارتش - ابتدا از طریق اصلاحات قانون اساسی، سپس از طریق محاکمه متهمان کودتا - یک مدل برای اصلاح IRGC ایران ارائه می‌دهد. با این حال، تمرکز قدرت ریاست جمهوری ترکیه پس از آن هشدار می‌دهد که نباید به سادگی یک نهاد حاکمیت‌گرا را با دیگری جایگزین کرد؛ ایران باید جدی جدا شدن قدرت‌ها را ایجاد کند تا چرخه غلبه نهادی را متوقف نکند.
 
 ---
 
-*[Link to Turkey Knowledge Graph](../data/graph_turkey.json)*
+*[پیوند به گراف دانش ترکیه](../data/graph_turkey.json)*
+
+</div>

@@ -1,0 +1,102 @@
+## Theoretical Framework
+
+Framework: Realist Synthesis — Context-Mechanism-Outcome Configuration
+
+This synthesis examines how protest movements emerge, sustain, and achieve political change under repressive conditions. The CMO configuration:
+
+**Context:** Authoritarian states with varying levels of repressive capacity face populations with accumulated grievances, where traditional institutional channels for political participation are closed or corrupted. **Mechanism:** Three interacting mechanisms drive mobilization: (1) intergenerational transmission of activist identity (Lawrence 2016), (2) psychological processes including collective identity, perceived injustice, and efficacy beliefs (Ayanian et al. 2020), and (3) digital communication tools that reduce coordination costs while creating new vulnerabilities (Gunitsky 2015). **Outcome:** The interaction of these mechanisms produces divergent trajectories: democratic transition (Tunisia), regime restoration (Egypt), state failure (Syria/Libya), or sustained contestation (Iran). The critical variable is whether mobilization can be sustained between episodes — the 'in-between' problem (Rivetti 2020).
+
+The evidence tests this configuration across the Arab Spring cases, Eastern European movements, and Southeast Asian contentious politics.
+
+## Evidence & Key Findings
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (27 sources)
+
+The comparative evidence addresses four dimensions of contentious politics: the origins of protest mobilization, the dynamics of repression and resistance, the role of digital technologies, and post-mobilization trajectories.
+
+**Origins and Intergenerational Transmission.** Lawrence (2016) provides the most granular evidence on protest initiation, demonstrating from Morocco's February 20th Movement that 'first movers' — those who initiate protest against authoritarian regimes — disproportionately come from families previously punished for opposition. This intergenerational transmission of activist identity means repression has paradoxical long-term effects: it deters immediate action but cultivates future activists. Dupont and Passy (2011) analyze the Arab Spring's origins, emphasizing how Mohamed Bouazizi's self-immolation activated pre-existing networks of grievance across Tunisia, while Alimi and Meyer (2011) frame the Arab Spring through political opportunity theory, arguing that structural conditions — not just triggering events — determine whether grievances translate into movements.
+
+**Repression-Resistance Dynamics.** Ayanian et al. (2020) provide the most rigorous psychological analysis, testing collective action predictors specifically in repressive contexts — a critical advance since most collective action research assumes democratic settings where activism is relatively safe. Their multi-country study shows that efficacy beliefs and collective identity are stronger predictors of action under repression than individual grievance. Davenport (2004) tests the 'democratic pacification' thesis empirically, finding that democracy 'tames' rather than 'pacifies' — reducing lethal repression while maintaining political restrictions. This distinction is crucial for understanding why partial liberalization in states like Iran can intensify rather than resolve contentious politics. Mahmood (2006) challenges Western frameworks for understanding resistance, arguing from the Egyptian Islamic revival that agency and liberation must be understood on local terms rather than through imposed analytical categories.
+
+**Digital Dimensions of Contention.** Gunitsky (2015) documents how authoritarian regimes have moved beyond suppression to proactive co-optation of social media — 'corrupting the cyber-commons.' This creates an information environment where protest movements must contend with state-generated noise alongside censorship. Aouragh and Chakravartty (2016) critique the techno-determinism in Arab Spring scholarship, arguing that digital media analysis must attend to 'infrastructures of empire' and geopolitical contexts. McGarty et al. (2013) provide a social identity analysis showing how new technologies enable the rapid construction of shared opposition identities, while Etling et al. (2010) caution that 'the fragility and promise of online organizing' means digital tools enable rapid mobilization but may not sustain movements through the difficult organizational phase.
+
+**Sustaining Contestation Between Episodes.** Rivetti (2020) addresses the critical gap of what happens 'in-between' mobilizations, studying Iranian student activism at the University of Tehran from 2007-2017. The research shows that contentious politics in authoritarian contexts is not episodic but continuous, with movements maintaining organizational capacity through cultural production, mutual aid networks, and institutional footholds even during quiescent periods. Wu and Martus (2020) extend this through Chinese and Russian environmental activism, showing how contested environmentalism allows civic participation under authoritarian constraints through issue framing that avoids direct political challenge.
+
+## Cross-Country Patterns
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (27 sources)
+
+Three patterns emerge from the evidence. First, **repression produces radicalization through intergenerational effects** rather than simple deterrence. Lawrence (2016) and Ayanian et al. (2020) together demonstrate that state violence against activists cultivates the next generation of more committed opponents. This pattern has direct implications for Iran, where the 2009, 2017-18, 2019, and 2022 protest cycles each drew on communities traumatized by previous repression.
+
+Second, **digital tools accelerate mobilization but cannot substitute for organizational infrastructure**. The comparison between Egypt (rapid mobilization, rapid demobilization) and more sustained movements suggests that Etling et al.'s (2010) warning about digital 'fragility' is empirically confirmed. Movements that combine digital reach with offline organizational depth (Rivetti 2020 on Iranian student networks) demonstrate greater sustainability.
+
+Third, **the pathway from protest to political transition depends on elite fracture, not movement size alone**. Hinnebusch (2015) and the Arab Spring cases collectively show that mass mobilization is necessary but not sufficient; the critical variable is whether protests fracture elite cohesion. This helps explain why Iran's massive 2022 protests did not produce transition despite unprecedented geographic and demographic breadth.
+
+## Iran Context
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (27 sources)
+
+Iran is one of the most active sites of contentious politics in the contemporary world. The 2009 Green Movement, 2017-18 economic protests, November 2019 uprising (Bloody November), and 2022 Woman Life Freedom movement constitute an accelerating cycle with distinctive characteristics: each successive movement has been broader in geographic scope, more diverse in social composition, and more explicitly revolutionary in its demands.
+
+The transferability of comparative findings is both instructive and limited. Lawrence's (2016) intergenerational transmission clearly operates in Iran — the families of 1988 political prisoners, 2009 Green Movement detainees, and 2019 Bloody November victims form an expanding network of committed activists. Ayanian et al.'s (2020) finding that collective identity outweighs individual grievance as a predictor of action helps explain the power of 'زن زندگی آزادی' (Woman Life Freedom) as an identity-fusing frame. But the democratic pacification thesis (Davenport 2004) warns that even if transition occurs, Iran's security apparatus may 'tame' rather than 'pacify,' maintaining political restrictions while reducing lethal violence — producing a competitive authoritarian system rather than democracy.
+
+The critical gap, identified by Rivetti (2020), is institutional: Iranian protest movements have demonstrated extraordinary mobilization capacity but limited organizational infrastructure for sustaining contestation between episodes and translating mobilization into governance structures. Any post-transition scenario must address this organizational deficit — street power alone, as Egypt's post-2011 trajectory demonstrates, cannot build democratic institutions.
+
+## Open Research Questions
+
+- How can Iran's protest movements develop organizational infrastructure sufficient to translate mobilization capacity into governance structures during a transition, given that such infrastructure is precisely what the regime targets for destruction?
+- What conditions would produce the elite fracture necessary for transition, and can protest movements intentionally create those conditions rather than waiting for exogenous shocks?
+- Given Davenport's (2004) 'taming' finding, how can a post-transition framework prevent security forces from maintaining political restrictions even after lethal repression ends?
+
+## Sources
+
+| Source | Year | Key Finding |
+|--------|------|-------------|
+| Lawrence, A. | 2016 | First movers in protests come from families previously punished — intergenerational activist transmission |
+| Ayanian, A. et al. | 2020 | Collective identity and efficacy beliefs predict action under repression more than individual grievance |
+| Gunitsky, S. | 2015 | Autocrats proactively co-opt social media, corrupting the cyber-commons |
+| Davenport, C. | 2004 | Democracy 'tames' (reduces killing) but does not 'pacify' (restrictions persist) |
+| Rivetti, P. | 2020 | Iranian student activism sustains between mobilizations through cultural production and mutual aid |
+| Aouragh, M. & Chakravartty, P. | 2016 | Arab Spring digital media analysis must attend to geopolitical 'infrastructures of empire' |
+| Mahmood, S. | 2006 | Agency and resistance must be understood on local terms, not imposed Western categories |
+| Wu, F. & Martus, E. | 2020 | Contested environmentalism enables civic participation under authoritarian constraints |
+
+## Implications for Iran
+
+> 🟡 **Evidence Confidence: Moderate** — Well-triangulated evidence (15 sources); sources with gate2 concerns
+
+**Institutional Mapping**
+
+Iran's protest-mobilization landscape implicates the full spectrum of state repressive and surveillance institutions. The IRGC — particularly its Ground Forces and intelligence organization — conducts lethal repression during mass protests, most notably during Bloody November (آبان ۹۸, November 2019) when an estimated 1,500 protesters were killed. The Basij Organization (سازمان بسیج مستضعفین) serves as the frontline domestic enforcement force, deploying plainclothes and uniformed members against protests. The Law Enforcement Command (فرماندهی انتظامی/NAJA) manages crowd control and arrests. The MOIS (وزارت اطلاعات) conducts intelligence operations against activist networks, including infiltration, digital surveillance, and transnational repression against diaspora activists. Revolutionary Courts (دادگاه‌های انقلاب) process political prisoners under procedures with reduced due process. The Prison Organization (سازمان زندان‌ها) manages detention — Evin Prison's Section 209 (under MOIS) and Section 2A (under IRGC) hold political prisoners. The Supreme National Security Council (شورای عالی امنیت ملی) authorized the internet shutdowns during the 2019 and 2022 protests. On the movement side: Iranian protest networks lack formal organizational infrastructure but maintain informal connections through professional syndicates (teachers, workers), university student networks, women's movement affiliations, and ethnic-regional networks (Kurdish, Baluch, Arab).
+
+**Structural Parallels**
+
+Lawrence's finding that "first movers" disproportionately come from families previously punished for opposition maps precisely onto Iran: the families of 1988 political prison massacre victims, 2009 Green Movement detainees, 2019 Bloody November victims, and 2022 WLF protesters form an expanding intergenerational network of committed activists. Each repressive cycle paradoxically cultivates the next generation of first movers. Ayanian et al.'s finding that collective identity outweighs individual grievance as a predictor of action under repression explains the power of زن زندگی آزادی (Woman Life Freedom) as an identity-fusing frame — it transcended individual grievance (Amini's death) to construct a collective identity encompassing gender, generational, and political demands. Davenport's democratic pacification thesis warns of a specific risk: partial liberalization could produce a competitive authoritarian system that "tames" rather than "pacifies" — reducing lethal violence while maintaining political restrictions. The Egyptian trajectory (street power overthrowing Mubarak but unable to build democratic institutions, leading to military coup) is directly cautionary. The parallel breaks down on organizational depth: Morocco's February 20th Movement and Tunisia's post-Bouazizi mobilization drew on pre-existing organizational infrastructure (unions, civil society) that Iran's more atomized protest movements lack.
+
+**Key Actors and Sequencing**
+
+Iran's accelerating protest cycle (2009, 2017-18, 2019, 2022) demonstrates extraordinary mobilization capacity but limited organizational infrastructure for sustaining contestation between episodes or translating mobilization into governance. Key enablers: the intergenerational activist networks described above; the WLF movement's achievement of a cross-cutting collective identity; professional syndicates (teachers, workers) maintaining organizational continuity despite repression; diaspora solidarity networks amplifying international pressure; and the documented digital civic capacity of Iran's under-35 population. Key blockers: the IRGC/Basij's willingness to employ lethal force; MOIS infiltration of activist networks; Revolutionary Court prosecution deterring sustained organization; internet shutdowns disrupting coordination during mobilization peaks; and the organizational deficit itself — Rivetti's finding that Iranian student activism maintains capacity between episodes through cultural production and mutual aid, but cannot sustain formal institutional structures under repression. Sequencing for translating mobilization into governance: (1) develop organizational infrastructure during "quiescent" periods — the critical gap identified by the evidence; (2) build connections between protest networks and institutional reform actors (reformist politicians, lawyers, diaspora organizations); (3) establish accountability frameworks for transition — ensuring that mobilization capacity translates into constitutional demands, not merely regime removal; (4) design transitional institutions that incorporate movement actors — avoiding Egypt's military-capture scenario; (5) sustain mobilization capacity through transition as accountability mechanism for new governance.
+
+**Risks**
+
+The primary danger is the Egyptian trap: extraordinary street mobilization that removes the regime but cannot build democratic institutions, creating a power vacuum filled by the most organized institutional actor — in Iran's case, the IRGC. The IRGC's institutional capacity (military, economic, intelligence) vastly exceeds any civilian organization, making this scenario the most likely failure mode for an Iranian transition triggered by mass protest. A second risk is repressive escalation: the regime's demonstrated willingness to employ lethal force at scale (Bloody November 2019) could intensify if protest cycles continue accelerating, potentially producing a Syria-type scenario of sustained violent confrontation. Gunitsky's documentation of how authoritarian regimes co-opt social media — corrupting the cyber-commons with state-generated noise — adds a digital dimension to this risk. A third risk is movement fragmentation: the WLF's remarkable cross-cutting identity could fracture along ethnic, class, generational, or political lines as competing factions contest leadership and direction. Prerequisites: organizational infrastructure development between protest episodes (Rivetti's key finding); formal-informal movement coordination mechanisms; diaspora-domestic cooperation frameworks; transitional justice planning that precedes transition; and institutional design that channels mobilization capacity into governance participation — constitutional assembly models incorporating movement representation.
+
+## What We Don't Know
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (10 sources)
+
+**What this synthesis cannot fully answer:**
+
+1. **2022 Mahsa Amini uprising dynamics**: The "Woman, Life, Freedom" movement represents the most significant challenge to the Islamic Republic since 2009. Systematic academic analysis of its organizational mechanisms, geographic scope, and why it failed to produce regime change — despite its breadth — is still emerging and not incorporated in this synthesis.
+
+2. **Protest-to-transition conversion mechanisms**: The comparative literature on contentious politics documents when protests succeed or fail but does not provide a reliable framework for predicting when protest intensity crosses the threshold required for regime transition. Iran-specific factors (IRGC internal cohesion, elite defection likelihood) are poorly modeled.
+
+3. **Digital repression evolution**: Iran's use of internet shutdown, social media monitoring, and AI-assisted surveillance during protests (2019, 2022) represents a rapidly evolving repression toolkit. Research on how state digital repression affects protest sustainability is not keeping pace with the technology.
+
+4. **Cross-class coalition formation**: Iran's 2019 protests began with fuel-price grievances (lower class) while 2022 protests were more youth/middle-class driven. Whether cross-class coalitions are forming — and what issues would unite them — is a sociological question not resolved in the literature.
+
+5. **Security forces' fragmentation**: Evidence suggests fractures within the security apparatus — regular military vs. IRGC, IRGC ground forces vs. Basij — with different levels of willingness to fire on protesters. Systematic evidence on these fractures and their significance for transition probability is classified or unavailable.
+
+> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (10 sources)
+
+Iran has seen major protest waves in 2009, 2019, and 2022 — each broader and more intense than the last, and each suppressed by increasingly brutal force. The academic literature on contentious politics suggests that these protests, while failing to produce immediate regime change, are gradually eroding the regime's capacity and legitimacy. The key question for Iran is not whether protest will continue but what would convert protest into transition — and the literature's answer is sobering: it usually requires fractures within the security apparatus, not just streets full of protesters. Understanding which IRGC and military factions might refuse orders is more predictive of transition timing than measuring the intensity of civilian mobilization.
