@@ -2,7 +2,7 @@
 
 An autonomous research system mapping development pathways relevant to Iran's future governance. Every claim traces back to a verifiable source.
 
-**10,238** sources · **6,216** relationships · **15** case studies · **40** research themes · **20** transition mechanisms
+**13,991** sources · **6,216** relationships · **15** case studies · **40** research themes · **20** transition mechanisms
 
 ---
 
@@ -14,7 +14,7 @@ An autonomous research system mapping development pathways relevant to Iran's fu
 
 **[Research Findings](synthesis/index.md)**
 
-86+ synthesis articles across 40 themes
+89+ synthesis articles across 40 themes
 
 </div>
 
@@ -30,7 +30,7 @@ An autonomous research system mapping development pathways relevant to Iran's fu
 
 **[Source Explorer](explorer.md)**
 
-Search & filter all 10,238 sources
+Search & filter all 13,991 sources
 
 </div>
 
@@ -54,7 +54,8 @@ Interactive relationship visualization
 
 ## Latest Research
 
-- [Ceasefire to Settlement: What Comparative Evidence Tells Us About Iran's Post-War Pathway](synthesis/sanctions-unwinding-and-international-reintegration/ceasefire-to-settlement-what-comparative-evidence-tells-us-about-irans-post-war-.md) *(NEW — April 2026)*
+- [Justice After the Bombs: Transitional Justice Frameworks for Post-War Iran](synthesis/transitional-justice/) *(NEW — April 2026)*
+- [Ceasefire to Settlement: What Comparative Evidence Tells Us About Iran's Post-War Pathway](synthesis/sanctions-unwinding-and-international-reintegration/ceasefire-to-settlement-what-comparative-evidence-tells-us-about-irans-post-war-.md) *(April 2026)*
 - [When the General Dies: Military Decapitation, IRGC Consolidation, and the Paradox of Security Sector Reform](synthesis/civil-military-relations-and-security-sector-reform/when-the-general-dies-military-decapitation-irgc-consolidation-and-the-paradox-o.md) *(NEW — April 2026)*
 - [Iran's Ethnic Mosaic and the Federalism Question: Decentralization Pathways Between Unity and Accommodation](synthesis/ethnic-federalism-in-iran/)
 - [Constitutional Design and Drafting Processes: Lessons for Transitions from Authoritarian Rule](synthesis/constitutional-design-and-drafting-processes/)

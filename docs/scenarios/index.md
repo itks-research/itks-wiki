@@ -1,234 +1,238 @@
-# Iran Scenarios: A Framework for What Comes Next
+<div dir="rtl" markdown>
 
-***Last Updated:** 2026-04-10*
+# سناریوهای ایران: چارچوبی برای آنچه در پیش است
 
----
-
-## What These Scenarios Are
-
-This section presents six distinct scenarios for Iran's political future, written in April 2026 — during a fragile ceasefire following 39 days of war between the United States, Israel, and the Islamic Republic. The scenarios are not predictions. They are analytical tools: structured explorations of how Iran's current trajectory could fork depending on decisions made in the next weeks, months, and years.
-
-Each scenario is grounded in:
-
-- **Comparative case evidence** from the ITKS corpus (Chile, Poland, South Korea, Spain, Tunisia, Indonesia, Iraq, and others)
-- **Mechanism analysis** from the 20 transition mechanisms documented in this wiki
-- **Iran-specific structural realities**: the IRGC's economic empire, the velayat-e faqih system, ethnic and religious diversity, the nuclear program, oil dependency, and the diaspora
-- **Current context** as of April 2026: a new Supreme Leader with contested legitimacy, an ongoing military conflict, mass protests, economic collapse, and Islamabad ceasefire negotiations
-
-These scenarios are written for educated Iranians and Iran analysts. They do not sanitize violence, instability, or historical atrocity. They also do not presume that any particular outcome is inevitable or desirable — that is a political judgment beyond this project's scope. What we can do is map the terrain honestly.
+*آخرین به‌روزرسانی: ۲۰۲۶-۰۴-۱۰*
 
 ---
 
-## The Six Scenarios
+## این سناریوها چیست؟
 
-| Scenario | Short Description | Rough Probability Window* |
-|----------|------------------|--------------------------|
-| [Reform Within](./reform-within.md) | Islamic Republic persists, meaningful liberalization | Low-to-moderate (15–25%) |
-| [Status Quo Decay](./status-quo-decay.md) | Islamic Republic persists, no reform, slow collapse | Moderate (25–35%) |
-| [Democratic Transition](./democratic-transition.md) | Negotiated or revolutionary transition to democratic governance | Low-to-moderate (15–20%) |
-| [Fragmentation](./fragmentation.md) | State authority fragments, no single center controls Iran | Low (10–15%) |
-| [Pahlavi Path](./pahlavi-path.md) | Monarchist restoration under Reza Pahlavi or similar figure | Very low (5–10%) |
-| [War Escalation](./war-escalation.md) | Ceasefire collapses, conflict intensifies or expands | Low-to-moderate (15–25%) |
+این بخش شش سناریوی متمایز برای آینده سیاسی ایران را ارائه می‌کند که در آوریل 2026 نوشته شده است - در طی یک آتش‌بس شکننده پس از 39 روز جنگ بین ایالات متحده، اسرائیل و جمهوری اسلامی. سناریوها پیش بینی نیستند. آنها ابزارهای تحلیلی هستند: کاوش های ساختاریافته در مورد اینکه چگونه مسیر فعلی ایران بسته به تصمیمات اتخاذ شده در هفته ها، ماه ها و سال های آینده می تواند منشعب شود.
 
-*These probability estimates are illustrative, not model outputs. They reflect the synthesis of comparative literature applied to April 2026 conditions. They will change as events unfold. The scenarios are not mutually exclusive — elements of several can coexist, and most real outcomes will be hybrid.*
+هر سناریو مبتنی بر موارد زیر است:
 
----
+- **شواهد موردی مقایسه ای** از مجموعه ITKS (شیلی، لهستان، کره جنوبی، اسپانیا، تونس، اندونزی، عراق و دیگران)
+- **تحلیل مکانیزم** از 20 مکانیسم انتقال مستند شده در این ویکی
+- **واقعیت‌های ساختاری خاص ایران**: امپراتوری اقتصادی سپاه، نظام ولایت فقیه، تنوع قومیتی و مذهبی، برنامه هسته‌ای، وابستگی به نفت و دیاسپورا
+- **زمینه فعلی** از آوریل 2026: رهبر جدید با مشروعیت مورد مناقشه، درگیری نظامی مداوم، اعتراضات گسترده، فروپاشی اقتصادی، و مذاکرات آتش بس اسلام آباد
 
-## Methodology
-
-### Why Scenarios?
-
-Iran's political future involves deep uncertainty across multiple interacting dimensions: military outcomes, internal elite dynamics, economic trajectory, external pressure, and mass mobilization. No single analytical model handles this well. Scenarios allow us to:
-
-1. **Make uncertainty explicit** rather than burying it in false precision
-2. **Identify decision points** where actions today affect which scenario becomes likely
-3. **Prepare for multiple futures** rather than anchoring on the most probable outcome
-4. **Test proposed policies** against diverse futures to identify robust vs. scenario-dependent recommendations
-
-### How the Scenarios Were Built
-
-Each scenario is structured around nine analytical sections:
-
-**1. Summary** — What this scenario looks like concretely. Not a prediction but a vivid description of the institutional, economic, and social configuration that would exist if this scenario materializes.
-
-**2. Trigger conditions** — the specific configuration of events and structural factors required for this scenario to materialize. These are drawn directly from mechanism analysis: what conditions activate or block which mechanisms?
-
-**3. Historical parallels** — not analogies (Iran is not Indonesia), but structural comparisons that illuminate specific dynamics. The key analytical discipline is asking: what exactly does this case tell us, and what are the limits of the comparison?
-
-**4. Transition pathway** — a phase-by-phase account of how the scenario unfolds over 100 days, 1 year, and 5 years. These timelines are grounded in comparative transition studies. The 100-day framing reflects the critical window the ceasefire-to-settlement literature identifies as decisive for whether transitions consolidate or collapse (Fortna 2004).
-
-**5. Key mechanisms at play** — which of the 20 ITKS transition mechanisms are activated or blocked in this scenario. This creates cross-referencing between the scenario layer and the comparative evidence base.
-
-**6. Critical risks** — failure modes drawn from precedent. Every scenario has pathological variants. A democratic transition can produce the Poland 1989 model or the Libya 2011 model; understanding the difference is the analytical work.
-
-**7. What should be done now** — action recommendations for different actors: civil society, the diaspora, international actors, and reform-oriented elites within the system. These are grounded in comparative evidence about what has actually worked, not normative prescription.
-
-**8. Iran-specific complications** — structural features unique to Iran that differentiate it from every comparative case: the IRGC economic empire, Velayat-e Faqih, ethnic diversity, oil dependency, nuclear program, seminary system, sanctions architecture, and proxy network.
-
-**9. Indicators to watch** — observable signals that can be monitored in real time to assess which scenario is becoming more or less likely. These are designed for analysts, journalists, and civil society organizations who need to make real-time assessments.
-
-### Analytical discipline
-
-Three principles govern the analysis:
-
-**Grounding**: Every claim is grounded in either (a) comparative case evidence documented in the ITKS research base, (b) mechanism analysis with documented reliability assessments, or (c) direct observation of Iran's current structural conditions. Claims without this grounding are marked as speculative.
-
-**Honesty about uncertainty**: Where the evidence is insufficient to support a judgment, the analysis says so. The ITKS research base has documented knowledge gaps — these are acknowledged, not papered over.
-
-**Cross-scenario coherence**: Each scenario's failure mode points to one or more other scenarios. Reform Within that fails becomes Status Quo Decay or Democratic Transition. Status Quo Decay that reaches a tipping point becomes Fragmentation or Democratic Transition. War Escalation can lead to any of the other five scenarios depending on its resolution. These linkages are made explicit.
+این سناریوها برای ایرانیان تحصیل کرده و تحلیل گران ایران نوشته شده است. آنها خشونت، بی ثباتی یا قساوت تاریخی را پاکسازی نمی کنند. آنها همچنین فرض نمی کنند که هیچ نتیجه خاصی اجتناب ناپذیر یا مطلوب است - این یک قضاوت سیاسی فراتر از محدوده این پروژه است. کاری که ما می توانیم انجام دهیم این است که با صداقت از زمین نقشه برداری کنیم.
 
 ---
 
-## The April 2026 Starting Point
+## شش سناریو
 
-All six scenarios begin from the same baseline. Understanding this baseline is essential:
+| سناریو | توضیحات کوتاه | پنجره احتمال تقریبی* |
+|----------|-----------------|--------------------------|
+| [اصلاح درون](./reform-within.md) | جمهوری اسلامی پابرجاست، آزادسازی معنادار | کم تا متوسط ​​(15-25%) |
+| [زوال وضعیت موجود](./status-quo-decay.md) | جمهوری اسلامی پابرجاست، بدون اصلاح، فروپاشی کند | متوسط (۲۵–۳۵٪) |
+| [انتقال دموکراتیک](./democratic-transition.md) | انتقال انقلابی یا مذاکره شده به حکومت دموکراتیک | کم تا متوسط ​​(15-20%) |
+| [چندپارگی](./fragmentation.md) | اقتدار دولتی تکه‌تکه می‌شود، هیچ مرکزی ایران را کنترل نمی‌کند | کم (۱۰–۱۵٪) |
+| [راه پهلوی](./pahlavi-path.md) | احیای سلطنت طلب در زمان رضا پهلوی یا شخصیت مشابه | بسیار کم (5-10%) |
+| [تشدید جنگ](./war-escalation.md) | آتش بس فرو می ریزد، درگیری ها تشدید یا گسترش می یابد | کم تا متوسط ​​(15-25%) |
 
-### The ceasefire (April 7–8, 2026)
-
-A two-week pause following 39 days of US-Israel strikes targeting Iran's nuclear sites, IRGC facilities, and infrastructure. The Islamabad talks (April 10+) represent the critical conversion window. The comparative literature (Fortna 2004) identifies 60–90 days as the highest-risk period for ceasefire relapse. Coercive ceasefires — imposed through military superiority rather than mutual exhaustion — convert to durable settlements in approximately 40-50% of cases. The Islamabad talks are the critical test of whether this ceasefire joins the successful or failed cohort.
-
-Iran holds Strait of Hormuz leverage (global energy insurance) as its primary negotiating asset. The US holds military superiority and sanctions enforcement. Iran's conditions include full sanctions lifting, asset release, enrichment rights, and reparations. US conditions include nuclear deal, no nuclear weapons, and IRGC capacity limits. The gap is wide — but the cost of non-agreement is high for both sides.
-
-### The new Supreme Leader (Mojtaba Khamenei)
-
-Elected March 9, 2026 by 62 of 88 Assembly of Experts votes — weaker mandate than his father's original selection. Mojtaba is the Islamic Republic's deepest legitimacy experiment: a mid-ranking cleric without independent theological accomplishment, without revolutionary pedigree, governing through IRGC backing rather than clerical consensus. His first public communications have been via written statements, not televised addresses. At 56, he could theoretically lead for decades — but his authority depends entirely on delivering political results that generate secular legitimacy to replace the theological legitimacy he lacks.
-
-Qom's marjas have notably not uniformly endorsed him. The separation between political authority (Velayat-e Faqih) and theological authority (marja'iyya) — already wide under Ali Khamenei — has widened further. This is not a temporary situation; it represents a structural transformation of the Islamic Republic's legitimacy architecture.
-
-### IRGC dominance (Commander Ahmad Vahidi)
-
-The IRGC has emerged from the war as the dominant power center — wartime conditions formalized control that was previously informal. Vahidi (on international sanctions lists for the 1994 Buenos Aires bombing) insists on IRGC control over all sensitive decisions. The IRGC's economic empire (15–25% of GDP through bonyads, construction, import monopolies) is damaged by strikes but structurally intact.
-
-The decentralized command structure — each commander with named successors spanning three ranks — was a wartime resilience strategy. It worked: the IRGC continued functioning despite losing multiple senior commanders. But it also created a structural risk: mid-ranking officers empowered to make autonomous decisions may miscalculate or act contrary to central authority, with consequences ranging from ceasefire violation to factional fragmentation.
-
-### Economic collapse
-
-Inflation 60–100% under wartime conditions. Currency in crisis. Sanctions fully in force. Oil exports curtailed. Infrastructure damaged by strikes. The Strait of Hormuz, partially reopened under ceasefire terms, provides Iran with its most significant leverage — but does not generate revenue.
-
-The bonyad system remains operational but disrupted. IRGC economic holdings face significant damage. Iran has demanded full sanctions lifting plus release of frozen assets ($10-20B) plus reparations as conditions for any deal. Without sanctions relief, economic recovery is impossible regardless of domestic political trajectory.
-
-### Mass protest movement
-
-The December 2025-April 2026 protest movement spans all 31 provinces, encompasses workers, teachers, pensioners, merchants, students, women, ethnic minorities, and rural populations. It is the broadest social mobilization since the 1979 revolution. At least 3,117 people have been killed in government suppression. Internet and telephone access have been severely restricted since January 8, 2026.
-
-The movement is leaderless but not uncoordinated. Chants include "Neither Gaza nor Lebanon, My Life for Iran" — explicitly linking economic grievances to foreign policy priorities. The war has complicated the protest dynamic: some Iranians rally around the state against external attack; others see the war as a consequence of regime policies. The protest movement's trajectory — suppression, co-optation, organization, or escalation — is a key variable in every scenario.
-
-### Degraded proxy network
-
-Hezbollah severely weakened from the 2024–25 war. Hamas degraded. Houthi capacity reduced. Iran's axis of resistance is at multi-year lows. This degradation reduces Iran's regional power projection but also reduces a major source of international concern — proxy activity was a primary driver of the conflict. Whether the IRGC attempts to reconstitute proxy networks during the ceasefire is a critical indicator.
-
-### Nuclear uncertainty
-
-US-Israel strikes hit nuclear facilities. Enrichment capacity damaged but full extent unclear. Iran insists on the right to enrich uranium as a red line. The nuclear question is the dominant external constraint on every scenario: its resolution (or non-resolution) shapes the international response to any domestic political trajectory.
+*این تخمین‌های احتمال گویا هستند، نه خروجی‌های مدل. آنها منعکس کننده ترکیب ادبیات مقایسه ای اعمال شده در شرایط آوریل 2026 هستند. آنها با آشکار شدن رویدادها تغییر خواهند کرد. سناریوها متقابلاً انحصاری نیستند - عناصر مختلف می توانند در کنار هم وجود داشته باشند و بیشتر نتایج واقعی ترکیبی خواهند بود.*
 
 ---
 
-## Cross-Cutting Iran-Specific Complications
+## روش شناسی
 
-Every scenario must navigate the same structural features of Iran that have no precise parallel in the comparative literature. These are documented in depth elsewhere in this wiki; here we flag their scenario-relevance:
+### چرا سناریوها؟
 
-### The IRGC economic empire
+آینده سیاسی ایران شامل عدم اطمینان عمیق در ابعاد مختلف متقابل است: نتایج نظامی، پویایی نخبگان داخلی، مسیر اقتصادی، فشار خارجی، و بسیج توده‌ای. هیچ مدل تحلیلی واحدی به خوبی از عهده این کار بر نمی آید. سناریوها به ما اجازه می دهند:
 
-The IRGC is not a military that can be pensioned off. It controls construction contracts (Khatam al-Anbiya with 25,000+ employees), energy pipelines, import monopolies, and financial institutions. Estimates of IRGC GDP share range from 10-40% — the uncertainty itself reflects the opacity of the empire's structure. The comparative evidence is unambiguous: no military-economic conglomerate of this scale has ever voluntarily divested. Indonesia's TNI, Egypt's SCAF, Pakistan's Fauji Foundation — none divested willingly, and most expanded their economic holdings during transition periods. Any scenario that requires constraining the IRGC faces its resistance as an economic actor, not only a security one.
+1. **آشکارسازی عدم‌قطعیت** به جای پنهان کردن آن در پس دقت کاذب
+2. **شناسایی نقاط تصمیم‌گیری** که اقدامات امروز بر محتمل شدن سناریوها تأثیر می‌گذارد
+3. **آمادگی برای آینده‌های متعدد** به جای لنگر انداختن بر محتمل‌ترین نتیجه
+4. **آزمون سیاست‌های پیشنهادی** در برابر آینده‌های مختلف برای شناسایی توصیه‌های پایدار در مقابل وابسته به سناریو
 
-### Velayat-e faqih's institutional catch-22
+### سناریوها چگونه ساخته شدند
 
-The Guardian Council vets all legislation and candidates. Legislative reform of the velayat-e faqih system requires Guardian Council approval — which the Guardian Council will not grant. There is no constitutional off-ramp. This is the structural feature that makes Iran's theocratic authoritarianism different from military or party-based authoritarianism: the system has an internal veto against its own reform that is constitutionally embedded.
+هر سناریو حول 9 بخش تحلیلی ساختار یافته است:
 
-Comparative evidence from Chile (Pinochet's constitutional enclaves, removed gradually over 15 years) and Indonesia (sequential amendments to the 1945 constitution, 1999-2002) suggests that constitutional transformation requires either (a) the authoritarian establishment concluding that reform preserves more than resistance, or (b) sufficient external pressure to force constitutional revision. Neither condition is currently met in Iran.
+**1. خلاصه** — این سناریو مشخصاً چه شکلی دارد. نه یک پیش‌بینی، بلکه توصیفی واضح از پیکربندی نهادی، اقتصادی و اجتماعی که در صورت تحقق این سناریو وجود خواهد داشت.
 
-### Ethnic and regional diversity
+**2. شرایط ماشه** - پیکربندی خاص رویدادها و عوامل ساختاری مورد نیاز برای تحقق این سناریو. اینها مستقیماً از تحلیل مکانیسم استخراج می شوند: چه شرایطی کدام مکانیسم ها را فعال یا مسدود می کند؟
 
-Kurdish, Azeri, Baloch, Arab, and Turkmen communities constitute approximately 40% of Iran's population. Each has distinct political grievances that overlap with — but do not reduce to — the broader democratic opposition. Kurdish regions have active armed resistance (PJAK). Balochistan has its own insurgency (Jaish al-Adl). Khuzestan's Arab population faces systematic underdevelopment alongside water crisis.
+**3. تشابهات تاریخی** - نه قیاس (ایران اندونزی نیست)، بلکه مقایسه‌های ساختاری که پویایی‌های خاصی را روشن می‌کند. رشته اصلی تحلیلی این سوال را مطرح می کند: این مورد دقیقاً چه چیزی را به ما می گوید، و محدودیت های مقایسه چیست؟
 
-Any transition scenario must address regional autonomy and minority rights or risk fragmentation along ethnic lines. Spain's Estado de las Autonomías (asymmetric federalism) offers one model; Iraq's federal structure offers a cautionary counter-example. The constitutional design literature shows that ignoring ethnic diversity during constitution-making produces instabilities that surface within a decade.
+**4. مسیر انتقال** — یک گزارش مرحله‌به‌مرحله از نحوه باز شدن سناریو در 100 روز، 1 سال و 5 سال. این جدول‌های زمانی بر اساس مطالعات انتقال مقایسه‌ای هستند. چارچوب 100 روزه پنجره بحرانی را منعکس می کند که ادبیات آتش بس تا حل و فصل آن را به عنوان تعیین کننده برای تحکیم یا فروپاشی انتقال ها شناسایی می کند (فورتنا 2004).
 
-### Nuclear program and international stakes
+**5. مکانیسم‌های کلیدی در حال بازی** - کدام یک از 20 مکانیسم انتقال ITKS در این سناریو فعال یا مسدود شده‌اند. این ارجاع متقابل بین لایه سناریو و پایگاه شواهد مقایسه ای ایجاد می کند.
 
-The nuclear file means that any Iranian transition is conditioned by international actors with their own agendas. A democratic transition that keeps an enrichment program will face different international responses than one that surrenders it. The Libya cautionary case (Gaddafi surrendered his nuclear program for normalized relations, then was overthrown by NATO intervention) weighs on Iranian calculations. This shapes every scenario's external dimension and constrains the range of deals that any Iranian government — reformist or revolutionary — can accept.
+**6. خطرات بحرانی** — حالت‌های شکست برگرفته از سابقه. هر سناریو دارای انواع پاتولوژیک است. یک گذار دموکراتیک می تواند مدل لهستان 1989 یا مدل لیبی 2011 را ایجاد کند. درک تفاوت کار تحلیلی است.
 
-### The 1988 massacre and the accountability ratchet
+**7. اکنون چه باید کرد** — توصیه‌های اقدام برای بازیگران مختلف: جامعه مدنی، دیاسپورا، بازیگران بین المللی، و نخبگان اصلاح گرا در داخل سیستم. اینها مبتنی بر شواهد مقایسه ای در مورد آنچه واقعاً کار کرده است، نه نسخه هنجاری است.
 
-The 2024 UN classification of the 1988 prison massacres as crimes against humanity and genocide, combined with the million-plus-video Iranian Archive and extensive diaspora documentation networks, means that any political settlement faces a "persistent evidence constraint." Unlike Spain in 1977, where amnesty succeeded partly because evidence was fragmented and witnesses aged out, Iran's accountability record cannot be made to disappear by a domestic political deal. Universal jurisdiction proceedings in European courts could continue regardless of any domestic amnesty arrangement. This constrains every scenario that requires elite bargaining with regime figures.
+**8. پیچیدگی های خاص ایران** - ویژگی های ساختاری منحصر به فرد ایران که آن را از هر مورد مقایسه ای متمایز می کند: امپراتوری اقتصادی سپاه پاسداران، ولایت فقیه، تنوع قومیتی، وابستگی به نفت، برنامه هسته ای، نظام حوزه علمیه، معماری تحریم ها، و شبکه نیابتی.
 
-The evidence accumulation dynamic is a ratchet: each new disclosure (Montazeri audio recordings, UN reports, survivor testimony) raises the baseline expectation for accountability, making any future impunity deal harder to sustain politically.
+**9. شاخص‌های رصد** — سیگنال‌های قابل مشاهده که می‌توانند در زمان واقعی نظارت شوند تا ارزیابی شود که کدام سناریو بیشتر یا کمتر محتمل است. اینها برای تحلیلگران، روزنامه نگاران و سازمان های جامعه مدنی طراحی شده اند که نیاز به ارزیابی در زمان واقعی دارند.
 
-### The seminary system and Qom
+### رشته تحلیلی
 
-Qom's reaction to Mojtaba Khamenei's succession is the most underanalyzed variable in current Iran analysis. The separation between political and religious authority — already widening under Ali Khamenei — has widened further. Mojtaba's election reflects IRGC and hardline political preferences more than theological consensus. Whether Qom's senior marjas move toward overt opposition, strategic silence, or compliance will shape the religious legitimacy dimension of every scenario.
+سه اصل بر تحلیل حاکم است:
 
-The seminary system is also the most likely source of a theological challenge to Velayat-e Faqih — through the Montazeri legacy of quietist marja'iyya (religious guides who counsel rather than govern). This tradition has gained retroactive credibility as the political velayat system faces crisis.
+**پایه‌بندی**: هر ادعایی مبتنی بر (الف) شواهد موردی مقایسه‌ای مستند شده در پایگاه تحقیقاتی ITKS، (ب) تجزیه و تحلیل مکانیسم با ارزیابی‌های قابلیت اطمینان مستند، یا (ج) مشاهده مستقیم شرایط ساختاری فعلی ایران است. ادعاهای بدون این مبنای به عنوان حدس و گمان مشخص می شوند.
 
-### Sanctions architecture complexity
+**صداقت در مورد عدم قطعیت**: در جایی که شواهد برای حمایت از یک قضاوت کافی نیست، تحلیل چنین می گوید. پایگاه تحقیقاتی ITKS شکاف‌های دانشی را مستند کرده است - این شکاف‌ها تایید شده‌اند، نه اینکه به صورت کاغذی توضیح داده شوند.
 
-Iran faces the most complex sanctions regime ever constructed: US primary and secondary sanctions, EU sanctions, SWIFT exclusion, IAEA monitoring requirements, individual designations, and asset freezes. Even with a comprehensive deal, unwinding this architecture is a multi-year, multi-agency process. The JCPOA experience (2015-2018) shows that sanctions relief can be reversed by a single US administration change, creating fundamental uncertainty that deters long-term foreign investment regardless of the deal's terms.
-
-### Proxy network remnants
-
-Even in reform or transition scenarios, Iran retains institutional relationships with Hezbollah, Hamas, and Houthi remnants. Any deal that does not address regional proxy activities faces US and Israeli objections. But dismantling proxy relationships is perceived domestically as surrender, limiting any government's flexibility. The proxy question intersects with the IRGC question: the Quds Force (IRGC's external operations arm) is the institutional home of proxy relationships, and its future is part of any IRGC restructuring discussion.
-
----
-
-## How to Use This Section
-
-**If you are analyzing current events**: Each scenario page includes "Indicators to Watch" — observable signals that suggest the trajectory is moving toward or away from that scenario. These can be used as real-time monitoring criteria as the Islamabad talks unfold and subsequent events develop.
-
-**If you are planning civil society or diaspora activity**: Each scenario's "What Should Be Done Now" section provides comparative-evidence-grounded recommendations. Crucially, many recommended actions are valuable across multiple scenarios — constitutional design preparation, documentation infrastructure, coalition-building, and institutional capacity development. These "robust" investments are the highest-priority activities because they pay off regardless of which scenario materializes.
-
-**If you are designing policy**: The cross-scenario patterns — which actions are beneficial in multiple scenarios — identify the highest-priority investments. Constitutional design preparation, lustration framework development, IRGC economic restructuring planning, and anti-capture privatization mechanisms are examples of actions whose value does not depend on which scenario materializes.
-
-**If you are trying to understand Iran**: Read the scenarios not as predictions but as structured arguments about causal dynamics. The goal is not to know what will happen but to understand *why* different things could happen — and what would have to be true for each of them.
-
-### Recommended Reading Order
-
-For a comprehensive understanding, read in this order:
-
-1. This overview (you are here)
-2. [Status Quo Decay](./status-quo-decay.md) — the baseline if nothing changes
-3. [Reform Within](./reform-within.md) — the regime's best-case adaptation
-4. [Democratic Transition](./democratic-transition.md) — the aspirational pathway
-5. [Fragmentation](./fragmentation.md) — the worst-case domestic outcome
-6. [War Escalation](./war-escalation.md) — the worst-case external outcome
-7. [Pahlavi Path](./pahlavi-path.md) — the wildcard
-
-Each scenario cross-references the others at failure points and branching conditions. Reading them in sequence builds cumulative understanding of the causal connections between scenarios.
+**انسجام سناریوهای متقابل**: حالت شکست هر سناریو به یک یا چند سناریو دیگر اشاره دارد. اصلاحات در داخل که شکست می خورد، تبدیل به فروپاشی وضعیت موجود یا انتقال دموکراتیک می شود. زوال وضعیت موجود که به نقطه بحرانی می‌رسد، تبدیل به چندپارگی یا گذار دموکراتیک می‌شود. تشدید جنگ می تواند به هر یک از پنج سناریو دیگر بسته به حل آن منجر شود. این پیوندها به صراحت بیان می شوند.
 
 ---
 
-## Cross-Scenario Decision Matrix
+## نقطه شروع آوریل 2026
 
-Certain actions are valuable across multiple scenarios. This matrix identifies the most robust investments:
+هر شش سناریو از یک خط پایه شروع می شوند. درک این پایه ضروری است:
 
-| Action | Reform Within | Status Quo Decay | Democratic Transition | Fragmentation | Pahlavi Path | War Escalation |
+### آتش بس (7 تا 8 آوریل 2026)
+
+وقفه دو هفته‌ای پس از 39 روز حملات آمریکا و اسرائیل که سایت‌های هسته‌ای، تأسیسات سپاه و زیرساخت‌های ایران را هدف قرار دادند. مذاکرات اسلام آباد (بیش از 10 آوریل) پنجره بحرانی تبدیل را نشان می دهد. ادبیات تطبیقی ​​(Fortna 2004) 60-90 روز را به عنوان بالاترین دوره خطر برای بازگشت آتش بس شناسایی می کند. آتش بس های اجباری - که از طریق برتری نظامی به جای فرسودگی متقابل تحمیل می شود - تقریباً در ۴۰ تا ۵۰ درصد موارد به توافقات پایدار تبدیل می‌شود. گفتگوهای اسلام آباد آزمونی حیاتی برای این است که آیا این آتش بس به گروه موفق یا شکست خورده می پیوندد.
+
+ایران اهرم تنگه هرمز (بیمه انرژی جهانی) را به عنوان دارایی اصلی مذاکره خود در اختیار دارد. ایالات متحده برتری نظامی و اجرای تحریم ها را دارد. شرایط ایران شامل لغو کامل تحریم ها، آزادسازی دارایی ها، حقوق غنی سازی و غرامت است. شرایط ایالات متحده شامل توافق هسته ای، نداشتن سلاح هسته ای و محدودیت ظرفیت سپاه است. شکاف گسترده است - اما هزینه عدم توافق برای هر دو طرف زیاد است.
+
+### رهبر جدید (مجتبی خامنه ای)
+
+در 9 مارس 2026 با 62 رای از 88 رای مجلس خبرگان انتخاب شد - اختیارات ضعیف‌تر از انتخاب اصلی پدرش. مجتبی عمیق‌ترین آزمایش مشروعیت جمهوری اسلامی است: روحانی متوسطی بدون دستاورد الهیات مستقل، بدون شجره‌نامه انقلابی، با حمایت سپاه و نه اجماع روحانیون. اولین ارتباطات عمومی او از طریق بیانیه های مکتوب بوده است نه نشانی های تلویزیونی. در سن 56 سالگی، او از نظر تئوریک می‌توانست برای دهه‌ها رهبری کند - اما اقتدار او کاملاً به ارائه نتایج سیاسی بستگی دارد که مشروعیت سکولار را برای جایگزینی مشروعیت الهیاتی که او فاقد آن است، ایجاد کند.
+
+مراجع قم به طور مشخص از او حمایت نکرده اند. جدایی بین مرجعیت سیاسی (ولایت فقیه) و مرجعیت (مرجعیت) - که قبلاً در زمان علی خامنه ای گسترده بود - بیشتر شده است. این یک وضعیت موقتی نیست. این بیانگر تحول ساختاری معماری مشروعیت جمهوری اسلامی است.
+
+### تسلط سپاه (فرمانده احمد وحیدی)
+
+سپاه پاسداران انقلاب اسلامی از جنگ به عنوان مرکز قدرت مسلط بیرون آمده است - شرایط زمان جنگ کنترلی را که قبلا غیررسمی بود، رسمیت بخشید. وحیدی (در فهرست تحریم های بین المللی برای بمب گذاری بوئنوس آیرس در سال 1994) بر کنترل سپاه بر تمام تصمیمات حساس اصرار دارد. امپراتوری اقتصادی سپاه پاسداران انقلاب اسلامی (۱۵ تا ۲۵ درصد تولید ناخالص داخلی از طریق بنیادها، ساخت‌وساز، انحصار واردات) در اثر اعتصابات آسیب دیده است، اما از نظر ساختاری دست نخورده است.
+
+ساختار فرماندهی غیرمتمرکز - هر فرمانده با جانشینان نام‌گذاری شده در سه رده - یک استراتژی مقاومت در زمان جنگ بود. نتیجه داد: سپاه علیرغم از دست دادن چندین فرمانده ارشد به کار خود ادامه داد. اما این یک خطر ساختاری نیز ایجاد کرد: افسران میان رده ای که اختیار تصمیم گیری مستقل را دارند ممکن است اشتباه محاسباتی کرده یا بر خلاف اقتدار مرکزی عمل کنند که پیامدهای آن از نقض آتش بس تا چندپارگی جناحی را شامل می شود.
+
+### فروپاشی اقتصادی
+
+تورم 60 تا 100 درصد در شرایط زمان جنگ. ارز در بحران تحریم ها به طور کامل اجرا می شود. صادرات نفت کاهش یافت زیرساخت های آسیب دیده از اعتصابات تنگه هرمز که بخشی از آن تحت شرایط آتش بس بازگشایی شده است، مهمترین اهرم فشار خود را برای ایران فراهم می کند – اما درآمدزایی ندارد.
+
+سیستم بنیاد همچنان فعال است اما مختل شده است. هلدهای اقتصادی سپاه با آسیب قابل توجهی مواجه هستند. ایران خواستار لغو کامل تحریم‌ها به علاوه آزادسازی دارایی‌های مسدود شده (10 تا 20 میلیارد دلار) به‌علاوه غرامت به‌عنوان شرایط هر توافقی شده است. بدون لغو تحریم ها، بهبود اقتصادی بدون توجه به مسیر سیاسی داخلی غیرممکن است.
+
+### جنبش اعتراضی توده ای
+
+جنبش اعتراضی دسامبر 2025 تا آوریل 2026 تمام 31 استان را در بر می گیرد و کارگران، معلمان، بازنشستگان، بازرگانان، دانش آموزان، زنان، اقلیت های قومی و جمعیت روستایی را در بر می گیرد. این گسترده ترین بسیج اجتماعی از زمان انقلاب 1979 است. دست کم 3117 نفر در سرکوب دولتی کشته شده اند. دسترسی به اینترنت و تلفن از 8 ژانویه 2026 به شدت محدود شده است.
+
+جنبش بدون رهبر است اما ناهماهنگ نیست. شعارها شامل "نه غزه نه لبنان، زندگی من برای ایران" است - که به صراحت نارضایتی های اقتصادی را به اولویت های سیاست خارجی مرتبط می کند. جنگ پویایی اعتراض را پیچیده کرده است: برخی از ایرانیان در اطراف دولت علیه حمله خارجی تجمع می کنند. دیگران جنگ را نتیجه سیاست های رژیم می دانند. خط سیر جنبش اعتراضی — سرکوب، جذب و همسوسازی، سازماندهی یا تشدید - یک متغیر کلیدی در هر سناریو است.
+
+### شبکه پروکسی تخریب شده
+
+حزب الله پس از جنگ 2024-25 به شدت ضعیف شد. حماس تحقیر شد. ظرفیت حوثی ها کاهش یافت محور مقاومت ایران در پایین ترین سطح چند ساله خود قرار دارد. این تخریب قدرت منطقه‌ای ایران را کاهش می‌دهد، اما منبع اصلی نگرانی بین‌المللی را نیز کاهش می‌دهد - فعالیت‌های نیابتی محرک اصلی درگیری بود. اینکه آیا سپاه پاسداران انقلاب اسلامی در جریان آتش بس تلاش می کند تا شبکه های نیابتی را بازسازی کند، یک شاخص حیاتی است.
+
+### عدم قطعیت هسته ای
+
+حملات آمریکا و اسرائیل به تاسیسات هسته ای اصابت کرد. ظرفیت غنی سازی آسیب دیده است اما به طور کامل نامشخص است. ایران بر حق غنی سازی اورانیوم به عنوان خط قرمز پافشاری می کند. مسئله هسته ای محدودیت خارجی غالب در هر سناریو است: حل (یا عدم حل آن) پاسخ بین المللی به هر مسیر سیاسی داخلی را شکل می دهد.
+
+---
+
+## پیچیدگی‌های فرابخشی خاص ایران
+
+هر سناریویی باید همان ویژگی‌های ساختاری ایران را دنبال کند که مشابهت دقیقی در ادبیات تطبیقی ندارد. اینها به طور عمیق در جای دیگر این ویکی مستند شده است. در اینجا ما سناریو مربوط بودن آنها را علامت گذاری می کنیم:
+
+### امپراتوری اقتصادی سپاه
+
+سپاه نظامی نیست که بتوان آن را بازنشست کرد. قراردادهای ساخت و ساز (خاتم الانبیا با بیش از 25000 کارمند)، خطوط لوله انرژی، انحصارات واردات و موسسات مالی را کنترل می کند. تخمین‌ها از سهم تولید ناخالص داخلی سپاه بین 10 تا 40 درصد است - این عدم قطعیت خود نشان‌دهنده عدم شفافیت ساختار امپراتوری است. شواهد مقایسه ای واضح است: هیچ شرکت نظامی-اقتصادی در این مقیاس هرگز داوطلبانه واگذار نکرده است. TNI اندونزی، SCAF مصر، بنیاد فاوجی پاکستان - هیچ یک به میل خود را واگذار نکردند، و بیشتر دارایی های اقتصادی خود را در طول دوره های گذار گسترش دادند. هر سناریویی که مستلزم محدود کردن سپاه باشد با مقاومت آن به عنوان یک بازیگر اقتصادی و نه تنها امنیتی روبرو می شود.
+
+### بن‌بست نهادی ولایت فقیه
+
+شورای نگهبان همه قوانین و نامزدها را بررسی می کند. اصلاح قانوني نظام ولايت فقيه مستلزم تصويب شوراي نگهبان است كه شوراي نگهبان آن را نمي دهد. قانون اساسی خارج از رمپ وجود ندارد. این ویژگی ساختاری است که استبداد تئوکراتیک ایران را با اقتدارگرایی نظامی یا حزبی متمایز می‌کند: این سیستم در برابر اصلاحات خود که در قانون اساسی گنجانده شده است، حق وتوی داخلی دارد.
+
+شواهد مقایسه‌ای از شیلی (محصورهای قانون اساسی پینوشه که به تدریج طی 15 سال حذف شدند) و اندونزی (اصلاحات متوالی قانون اساسی 1945، 1999-2002) نشان می‌دهد که تغییر قانون اساسی یا مستلزم (الف) تشکیلات اقتدارگرا است که به این نتیجه برسد که اصلاحات بیش از فشارهای خارجی کافی را حفظ می‌کند، یا (ب) در حال حاضر هیچ یک از این شرایط در ایران رعایت نمی شود.
+
+### تنوع قومیتی و منطقه ای
+
+جوامع کرد، آذری، بلوچ، عرب و ترکمن تقریباً 40 درصد جمعیت ایران را تشکیل می دهند. هر کدام نارضایتی‌های سیاسی مشخصی دارند که با اپوزیسیون دموکراتیک گسترده‌تر همپوشانی دارند - اما به آنها تقلیل نمی‌یابند. مناطق کردنشین دارای مقاومت مسلحانه فعال (پژاک) هستند. بلوچستان شورش خاص خود را دارد (جیش العدل). جمعیت عرب خوزستان در کنار بحران آب با توسعه نیافتگی سیستماتیک مواجه است.
+
+هر سناریوی انتقالی باید به خودمختاری منطقه ای و حقوق اقلیت ها بپردازد یا اینکه در امتداد خطوط قومی به خطر بیاندازد. Estado de las Autonomías (فدرالیسم نامتقارن) اسپانیا یک مدل ارائه می دهد. ساختار فدرال عراق یک مثال متقابل هشدار دهنده ارائه می دهد. ادبیات طراحی قانون اساسی نشان می دهد که نادیده گرفتن تنوع قومی در طول قانون اساسی، بی ثباتی هایی را ایجاد می کند که ظرف یک دهه ظاهر می شود.
+
+### برنامه هسته‌ای و منافع بین‌المللی
+
+پرونده هسته ای به این معناست که هرگونه انتقال ایران مشروط به بازیگران بین المللی با برنامه های خود است. یک انتقال دموکراتیک که برنامه غنی‌سازی را حفظ می‌کند، با واکنش‌های بین‌المللی متفاوتی نسبت به آنچه که آن را تسلیم می‌کند، مواجه خواهد شد. مورد احتیاطی لیبی (قذافی برنامه هسته ای خود را برای عادی سازی روابط تسلیم کرد، سپس با مداخله ناتو سرنگون شد) بر محاسبات ایران سنگینی می کند. این ابعاد خارجی هر سناریویی را شکل می‌دهد و دامنه معاملاتی را که هر حکومت ایران - اصلاح‌طلب یا انقلابی - می‌تواند بپذیرد، محدود می‌کند.
+
+### کشتار ۱۳۶۷ و زنجیره تشدیدشونده پاسخگویی
+
+طبقه‌بندی سازمان ملل در سال 2024 از قتل‌عام‌های زندان 1988 به عنوان جنایات علیه بشریت و نسل‌کشی، همراه با میلیون‌ها ویدئو بایگانی ایرانیان و شبکه‌های اسناد گسترده در دیاسپورا، به این معنی است که هر حل و فصل سیاسی با «محدودیت شواهد مداوم» مواجه است. برخلاف اسپانیا در سال 1977، جایی که عفو تا حدودی به دلیل تکه تکه شدن شواهد و قدیمی بودن شاهدان موفقیت آمیز بود، سابقه پاسخگویی ایران را نمی توان با یک توافق سیاسی داخلی ناپدید کرد. رسیدگی های صلاحیت جهانی در دادگاه های اروپایی می تواند بدون توجه به هرگونه ترتیبات عفو داخلی ادامه یابد. این امر هر سناریویی را که مستلزم چانه زنی نخبگان با شخصیت های رژیم است محدود می کند.
+
+پویایی انباشت شواهد یک مکانیسم برگشت‌ناپذیر است: هر افشای جدید (ضبط‌های صوتی منتظری، گزارش‌های سازمان ملل، شهادت بازماندگان) انتظارات اولیه را برای پاسخگویی افزایش می‌دهد و هر گونه معامله معافیت از مجازات آینده را از نظر سیاسی سخت‌تر می‌کند.
+
+### نظام حوزه و قم
+
+واکنش قم به جانشینی مجتبی خامنه‌ای کم‌تحلیل‌ترین متغیر در تحلیل کنونی ایران است. جدایی بین اقتدار سیاسی و مذهبی - که قبلاً در زمان علی خامنه ای گسترش یافته بود - بیشتر شده است. انتخاب مجتبی بیش از اجماع کلامی منعکس کننده ترجیحات سیاسی سپاه و تندرو است. این که مراجع ارشد قم به سمت مخالفت آشکار، سکوت راهبردی یا تبعیت حرکت کنند، بُعد مشروعیت دینی هر سناریویی را شکل خواهد داد.
+
+نظام حوزه علمیه همچنین محتمل ترین منبع چالش الهیاتی برای ولایت فقیه است - از طریق میراث منتظری مرجعیت آرام (رهنمای مذهبی که به جای حکومت، مشاوره می دهند). این سنت در شرایطی که نظام ولایت سیاسی با بحران مواجه است، اعتبار ماسبق پیدا کرده است.
+
+### پیچیدگی معماری تحریم‌ها
+
+ایران با پیچیده ترین تحریم های ساخته شده تاکنون مواجه است: تحریم های اولیه و ثانویه ایالات متحده، تحریم های اتحادیه اروپا، حذف سوئیفت، الزامات نظارت آژانس، تعیین تک تک دارایی ها و مسدود شدن دارایی ها. حتی با یک معامله جامع، باز کردن این معماری یک فرآیند چند ساله و چند آژانسی است. تجربه برجام (2015-2018) نشان می‌دهد که کاهش تحریم‌ها می‌تواند با یک تغییر دولت ایالات متحده معکوس شود و عدم اطمینان اساسی ایجاد کند که بدون در نظر گرفتن شرایط توافق، سرمایه‌گذاری خارجی بلندمدت را متوقف می‌کند.
+
+### بقایای شبکه پروکسی
+
+حتی در سناریوهای اصلاحات یا انتقال، ایران روابط نهادی با حزب الله، حماس و بقایای حوثی ها را حفظ می کند. هر معامله ای که به فعالیت های نیابتی منطقه ای نپردازد با مخالفت های آمریکا و اسرائیل مواجه می شود. اما از بین بردن روابط نیابتی در داخل کشور به عنوان تسلیم تلقی می شود که انعطاف هر دولت را محدود می کند. سؤال نیابتی با سؤال سپاه تلاقی می کند: نیروی قدس (بازوی عملیات خارجی سپاه) خانه نهادی روابط نیابتی است و آینده آن بخشی از هر بحث بازسازی سپاه است.
+
+---
+
+## نحوه استفاده از این بخش
+
+**اگر رویدادهای جاری را تجزیه و تحلیل می کنید**: هر صفحه سناریو شامل "شاخص هایی برای تماشا" است - سیگنال های قابل مشاهده که نشان می دهد مسیر به سمت آن سناریو یا از آن دور می شود. اینها را می توان به عنوان معیارهای نظارتی بلادرنگ با گسترش مذاکرات اسلام آباد و توسعه رویدادهای بعدی مورد استفاده قرار داد.
+
+**اگر در حال برنامه ریزی برای فعالیت جامعه مدنی یا دیاسپورا هستید**: بخش "اکنون چه باید کرد" هر سناریو توصیه های مبتنی بر شواهد مقایسه ای را ارائه می دهد. بسیار مهم است که بسیاری از اقدامات توصیه شده در چندین سناریو ارزشمند هستند - آماده سازی طرح قانون اساسی، زیرساخت مستندسازی، ایجاد ائتلاف، و توسعه ظرفیت سازمانی. این سرمایه‌گذاری‌های «قوی» اولویت‌ترین فعالیت‌ها هستند، زیرا صرف‌نظر از اینکه کدام سناریو تحقق می‌یابد، نتیجه می‌دهند.
+
+**اگر در حال طراحی خط مشی هستید**: الگوهای متقابل سناریویی - که اقدامات در سناریوهای متعدد سودمند هستند - سرمایه‌گذاری‌های دارای اولویت را مشخص می‌کنند. تهیه طرح قانون اساسی، توسعه چارچوب تضعیف‌سازی، برنامه‌ریزی تجدید ساختار اقتصادی سپاه پاسداران انقلاب اسلامی و سازوکارهای خصوصی‌سازی ضد تصرف نمونه‌هایی از اقداماتی هستند که ارزش آنها بستگی به سناریوی تحقق ندارد.
+
+**اگر می خواهید ایران را درک کنید**: سناریوها را نه به عنوان پیش بینی، بلکه به عنوان استدلال های ساختار یافته در مورد پویایی های علی بخوانید. هدف این نیست که بدانیم چه اتفاقی خواهد افتاد، بلکه درک *چرا* چیزهای مختلف ممکن است اتفاق بیفتد - و آنچه باید برای هر یک از آنها صادق باشد.
+
+### سفارش خواندن توصیه شده
+
+برای درک جامع به این ترتیب بخوانید:
+
+1. این نمای کلی (شما اینجا هستید)
+2. [زوال وضعیت موجود](./status-quo-decay.md) — خط مبنا اگر چیزی تغییر نکند
+3. [اصلاح از درون](./reform-within.md) — بهترین سازگاری رژیم
+4. [گذار دموکراتیک](./democratic-transition.md) — مسیر آرمانی
+5. [چندپارگی](./fragmentation.md) — بدترین نتیجه داخلی
+6. [تشدید جنگ](./war-escalation.md) — بدترین نتیجه خارجی
+7. [مسیر پهلوی](./pahlavi-path.md) — متغیر غیرمنتظره
+
+هر سناریو به سایر سناریوها در نقاط شکست و شرایط انشعاب ارجاع می دهد. خواندن آنها به ترتیب باعث ایجاد درک تجمعی از ارتباطات علی بین سناریوها می شود.
+
+---
+
+## ماتریس تصمیم متقابل سناریو
+
+برخی اقدامات در چندین سناریو ارزشمند هستند. این ماتریس قوی ترین سرمایه گذاری ها را مشخص می کند:
+
+| اقدام | اصلاحات درون | زوال وضعیت موجود | انتقال دموکراتیک | چندپارگی | مسیر پهلوی | تشدید جنگ |
 |--------|:---:|:---:|:---:|:---:|:---:|:---:|
-| Constitutional design preparation | ● | ● | ● | ● | ● | ○ |
-| Diaspora documentation infrastructure | ● | ● | ● | ● | ● | ● |
-| Labor/civil society organizing | ● | ● | ● | ○ | ● | ○ |
-| IRGC economic restructuring planning | ● | ○ | ● | ○ | ● | ○ |
-| Cross-ethnic coalition building | ● | ● | ● | ● | ● | ○ |
-| Transitional justice framework design | ○ | ● | ● | ○ | ● | ○ |
-| Anti-capture privatization mechanisms | ● | ○ | ● | ○ | ● | ○ |
-| Nuclear governance frameworks | ● | ○ | ● | ● | ● | ● |
-| Humanitarian preparedness | ○ | ● | ○ | ● | ○ | ● |
+| تهیه طرح قانون اساسی | ● | ● | ● | ● | ● | ○ |
+| زیرساخت اسناد دیاسپورا | ● | ● | ● | ● | ● | ● |
+| سازمان کارگری/جامعه مدنی | ● | ● | ● | ○ | ● | ○ |
+| برنامه ریزی تجدید ساختار اقتصادی سپاه | ● | ○ | ● | ○ | ● | ○ |
+| ائتلاف‌سازی بین‌قومی | ● | ● | ● | ● | ● | ○ |
+| طراحی چارچوب عدالت انتقالی | ○ | ● | ● | ○ | ● | ○ |
+| مکانیسم های خصوصی سازی ضد تصرف | ● | ○ | ● | ○ | ● | ○ |
+| چارچوب های حکومت هسته ای | ● | ○ | ● | ● | ● | ● |
+| آمادگی بشردوستانه | ○ | ● | ○ | ● | ○ | ● |
 
-● = High value in this scenario | ○ = Lower or context-dependent value
+● = مقدار بالا در این سناریو | ○ = مقدار کمتر یا وابسته به زمینه
 
-The actions that appear valuable across the most scenarios — constitutional design preparation, diaspora documentation, and cross-ethnic coalition building — represent the highest-priority investments for any actor preparing for Iran's uncertain future.
+اقداماتی که در اکثر سناریوها ارزشمند به نظر می رسند - تهیه طرح قانون اساسی، مستندسازی مهاجران، و ایجاد ائتلاف بین قومی - نشان دهنده بالاترین اولویت سرمایه گذاری برای هر بازیگری است که برای آینده نامشخص ایران آماده می شود.
 
 ---
 
-## Cross-References
+## ارجاعات متقابل
 
-- [Iran Governance State →](../v2/iran-context/iran-governance-state.md)
-- [Iran Security State →](../v2/iran-context/iran-security-state.md)
-- [Iran Economic State →](../v2/iran-context/iran-economic-state.md)
-- [Iran External Relations →](../v2/iran-context/iran-external-state.md)
-- [Iran Social State →](../v2/iran-context/iran-social-state.md)
-- [Velayat-e Faqih →](../v2/iran-context/iran-velayat-faqih.md)
-- [Mechanisms Index →](../mechanisms/)
-- [Civil-Military Relations →](../v2/security/civil-military-relations.md)
-- [Constitutional Design →](../v2/governance/constitutional-design.md)
-- [Transitional Justice →](../v2/governance/transitional-justice.md)
-- [Power-Sharing →](../v2/governance/power-sharing.md)
-- [Ceasefire-to-Settlement Pathways →](../v2/external/ceasefire-to-settlement-pathways.md)
-- [Foreign Military Intervention →](../v2/external/foreign-military-intervention-regime-change.md)
+- [حکمرانی ایران →](../v2/iran-context/iran-governance-state.md)
+- [دولت امنیتی ایران →](../v2/iran-context/iran-security-state.md)
+- [وضعیت اقتصادی ایران →](../v2/iran-context/iran-economic-state.md)
+- [روابط خارجی ایران →](../v2/iran-context/iran-external-state.md)
+- [وضعیت اجتماعی ایران →](../v2/iran-context/iran-social-state.md)
+- [ولایت فقیه →](../v2/iran-context/iran-velayat-faqih.md)
+- [شاخص مکانیسم‌ها →](../mechanisms/)
+- [روابط نظامی-غیرنظامی →](../v2/security/civil-military-relations.md)
+- [طراحی قانون اساسی →](../v2/governance/constitutional-design.md)
+- [عدالت انتقالی →](../v2/governance/transitional-justice.md)
+- [تقسیم قدرت →](../v2/governance/power-sharing.md)
+- [مسیرهای آتش بس تا حل و فصل →](../v2/external/ceasefire-to-settlement-pathways.md)
+- [مداخله نظامی خارجی →](../v2/external/foreign-military-intervention-regime-change.md)
+
+</div>

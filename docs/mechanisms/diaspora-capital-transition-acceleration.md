@@ -1,6 +1,6 @@
 <div dir="rtl" markdown>
 
-# Diaspora capital → transition acceleration
+# سرمایه دیاسپورا ← تسریع گذار
 
 *ترجمه فارسی در دست تهیه*
 

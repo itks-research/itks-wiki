@@ -36,11 +36,15 @@ This tension manifests in three recurring patterns:
 
 These patterns suggest that institutional change is not merely a technical legal or organizational matter; it is fundamentally a cultural-hermeneutical process of reinterpreting heritage to legitimate new institutional frameworks.
 
+## Iran Analysis
+
 
 > ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
 
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (20 sources)
+
+**[April 2026 Wartime Context Notice]** The analysis below was prepared prior to the onset of US-Israel military strikes on Iran (February 28, 2026) and the subsequent political developments including the assassination of Supreme Leader Ali Khamenei, the election of Mojtaba Khamenei as his successor (March 9, 2026), the two-week ceasefire agreed April 7–8, and the opening of multi-party Islamabad talks on April 10. These events have materially altered the transition timeline, compressing what was previously modeled as a gradual internal transition into an externally accelerated and contested process. The comparative analysis below retains its analytical value but should be read in light of this wartime context.
 
 ## Iran: Layered Cultural Identity and Institutional Design
 
@@ -63,6 +67,8 @@ Constitutional and institutional design must navigate these three heritage claim
 **Enablers and Blockers:** Cultural heritage liberalization would find natural allies among Iran's **secular intelligentsia**, **university faculty** (particularly in history, archaeology, and literary studies), and the **diaspora community** that has maintained pre-Islamic cultural traditions abroad. The **bazaari class** has traditionally supported Nowruz and pre-Islamic commercial customs. Key blockers include **hardline clerics** who view pre-Islamic celebration as shirk (polytheistic deviation), **Basij cultural enforcers** who police public celebrations, and **IRGC media outlets** that frame Persian nationalism as Western-backed separatism.
 
 **Iran-Specific Challenges:** Iran's cultural heritage challenge is uniquely layered compared to the comparative cases. Unlike South Korea (where Confucianism was always culturally dominant) or Chile (where indigenous heritage was a minority tradition), Iran must navigate between three simultaneously living traditions — pre-Islamic Persian, Islamic, and modernist-secular — each with substantial constituencies. The regime has not merely suppressed pre-Islamic heritage; it has selectively incorporated elements (Nowruz, Persian language, Ferdowsi's Shahnameh) while rejecting others (Zoroastrian theology, Achaemenid political symbolism). A post-transition cultural policy cannot simply "restore" pre-Islamic heritage without alienating the substantial population that genuinely identifies with Islamic civilization. The risk is a culture war that fractures transitional coalitions along identity lines — precisely the dynamic that regime conservatives exploit to delegitimize reform movements as "anti-Islamic." Effective cultural policy would need to frame heritage pluralism as authentically Iranian rather than as a zero-sum competition between Islamic and pre-Islamic identity.
+
+**Cultural Site Protection During Conflict (April 2026):** The February 2026 military operations have raised significant concerns about the protection of Iran's cultural heritage under conflict conditions. While stated strike objectives focused on nuclear and IRGC military infrastructure, the spatial proximity of some targeted areas to historically significant sites — particularly in western Iran and in urban centers with pre-Islamic and early Islamic archaeological layers — has generated international cultural heritage protection concerns. UNESCO and international heritage bodies issued emergency protocols following the outbreak of hostilities. The wartime context has also politicized Iran's cultural heritage in new ways: the pre-Islamic Persian heritage that regime critics have long mobilized as a counter-narrative to Islamic Republic identity politics has been invoked more prominently in wartime protest aesthetics and exile political communication, while the regime has simultaneously attempted to harness Persian civilizational nationalism as a rallying frame for wartime unity. This instrumentalization of heritage for wartime political purposes reinforces the analysis below regarding the contested nature of Iran's cultural identity frameworks — and adds the post-conflict dimension of how competing cultural heritage claims will be adjudicated in any transitional institutional design.
 
 ## Remaining Questions
 

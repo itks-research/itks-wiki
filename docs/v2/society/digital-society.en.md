@@ -65,11 +65,15 @@ prolonged institutional gridlock.
 These patterns hold across diverse geographic, economic, and political contexts, suggesting some 
 underlying structural dynamics in how this category of change occurs.
 
+## Iran Analysis
+
 
 > ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
 
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (9 sources)
+
+**[April 2026 Wartime Context Notice]** The analysis below was prepared prior to the onset of US-Israel military strikes on Iran (February 28, 2026) and the subsequent political developments including the assassination of Supreme Leader Ali Khamenei, the election of Mojtaba Khamenei as his successor (March 9, 2026), the two-week ceasefire agreed April 7–8, and the opening of multi-party Islamabad talks on April 10. These events have materially altered the transition timeline, compressing what was previously modeled as a gradual internal transition into an externally accelerated and contested process. The comparative analysis below retains its analytical value but should be read in light of this wartime context.
 
 ## Implications for Iran
 
@@ -188,6 +192,8 @@ Evidence suggests that changes in Digital society, internet governance, and cybe
 plausible in Iran, though constrained by Iran's specific theological-institutional architecture and 
 international position. Outcomes would depend critically on sequencing, elite consensus, and management 
 of veto points.
+
+**Cyber Dimensions of War and IRGC Cyberwarfare (April 2026):** The February 2026 conflict has introduced a significant cyber warfare dimension that the pre-war digital governance analysis did not anticipate at this intensity. IRGC cyber units have conducted retaliatory operations against Israeli and US infrastructure, demonstrating offensive capability development that continued despite the nuclear program's degradation. Simultaneously, Iran's domestic digital infrastructure has been targeted by offensive operations, creating an unusual situation where the regime's own surveillance and control infrastructure has been partially disrupted by external actors — inadvertently creating space for domestic civil society digital activity even as the regime attempts wartime shutdown. The National Information Network has experienced both externally-caused outages and regime-imposed shutdowns, making it difficult to attribute specific connectivity failures. The Islamabad talks have raised the question of cyber conflict de-escalation as a component of any broader ceasefire consolidation, with technical working groups reportedly discussing mutual cyber restraint frameworks. Post-transition digital governance planning should explicitly address the demobilization of IRGC cyber units and the reorientation of their technical capacity toward civilian cybersecurity functions.
 
 ## Research Questions & Evidence Gaps
 

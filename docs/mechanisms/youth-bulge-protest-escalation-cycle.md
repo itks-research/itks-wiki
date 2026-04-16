@@ -1,6 +1,6 @@
 <div dir="rtl" markdown>
 
-# Youth bulge → protest escalation cycle
+# جوانی جمعیت ← چرخه تشدید اعتراض
 
 *ترجمه فارسی در دست تهیه*
 

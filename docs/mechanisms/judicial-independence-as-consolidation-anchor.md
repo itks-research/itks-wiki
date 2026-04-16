@@ -1,6 +1,6 @@
 <div dir="rtl" markdown>
 
-# Judicial independence as consolidation anchor
+# استقلال قضایی به‌عنوان لنگر تحکیم
 
 *ترجمه فارسی در دست تهیه*
 

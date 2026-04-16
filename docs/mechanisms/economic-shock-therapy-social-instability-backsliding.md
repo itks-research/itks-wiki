@@ -1,6 +1,6 @@
 <div dir="rtl" markdown>
 
-# Economic shock therapy → social instability → backsliding
+# شوک‌درمانی اقتصادی ← بی‌ثباتی اجتماعی ← عقب‌گرد
 
 *ترجمه فارسی در دست تهیه*
 

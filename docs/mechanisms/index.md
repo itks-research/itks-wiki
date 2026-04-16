@@ -23,7 +23,7 @@
 | [انتقال مشروعیت مرجعیت دینی](religious-authority-legitimacy-transfer.md) | ۲۴.۰٪ | منتشرشده |
 | [استقلال قضایی به‌عنوان لنگر تحکیم](judicial-independence-as-consolidation-anchor.md) | ۲۲.۶٪ | منتشرشده |
 | [تعارض جناحی درون‌حکومتی ← پنجره گذار](intra-regime-factional-conflict-transition-window.md) | ۲۲.۰٪ | منتشرشده |
-| [تطهیر و عدالت انتقالی ← اعتماد نهادی](lustration-and-transitional-justice-institutional-trust.md) | ۲۰.۰٪ | منتشرشده |
+| [پاکسازی اداری و عدالت انتقالی ← اعتماد نهادی](lustration-and-transitional-justice-institutional-trust.md) | ۲۰.۰٪ | منتشرشده |
 | [تکثر رسانه‌ای ← سازوکارهای پاسخگویی](media-pluralism-accountability-mechanisms.md) | ۲۰.۰٪ | منتشرشده |
 | [ادغام اقتصادی سپاه ← انسداد اصلاحات](irgc-economic-integration-reform-blockage.md) | ۱۹.۰٪ | منتشرشده |
 | [نهادینه‌سازی نظام حزبی ← ثبات دموکراتیک](party-system-institutionalization-democratic-stability.md) | ۱۹.۰٪ | منتشرشده |

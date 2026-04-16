@@ -1,6 +1,6 @@
 <div dir="rtl" markdown>
 
-# Military defection from authoritarian coalition
+# عقب‌نشینی نظامی از ائتلاف اقتدارگرا
 
 *ترجمه فارسی در دست تهیه*
 

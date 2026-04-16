@@ -1,411 +1,415 @@
-# Scenario: War Escalation and External Shock
+<div dir="rtl" markdown>
 
-***Last Updated:** 2026-04-10*
+# سناریو: تشدید جنگ و شوک خارجی
 
-> **In brief**: The April 2026 ceasefire collapses. Military conflict between Iran and the US-Israel coalition resumes, potentially expanding to include regional actors, renewed proxy warfare, and Strait of Hormuz closure. This scenario is not primarily about Iran's democratic future — it is about whether there is a functional Iranian state remaining to have a democratic future, and about the regional and global consequences of sustained conflict involving the world's most significant oil chokepoint and a country of 87 million people.
+*آخرین به‌روزرسانی: ۲۰۲۶-۰۴-۱۰*
 
----
-
-## 1. Summary
-
-The ceasefire agreed on April 7-8, 2026 paused 39 days of active war between the US-Israel coalition and the Islamic Republic. As of April 10, Islamabad talks are beginning under Pakistani mediation. But this ceasefire is structurally fragile. Multiple escalation pathways exist, and all of them begin with ceasefire breakdown.
-
-Mojtaba Khamenei's authority rests on IRGC backing rather than institutional or clerical legitimacy — he was elected Supreme Leader on March 9, only nine days after his father's assassination, with Ahmad Vahidi's IRGC faction engineering the Assembly of Experts vote. Vahidi insists on IRGC control of all critical decisions. The IRGC command structure was deliberately decentralized before the strikes — each figure with named successors spanning three ranks, mid-ranking officers empowered with pre-delegated authority. This is the organizational architecture of a military that expected to be decapitated. It is also the architecture most likely to produce an unauthorized escalation that restarts the war before anyone in Tehran decides to restart it.
-
-The most likely trigger for ceasefire collapse is autonomous IRGC action. Decentralized command creates resilience during war but miscalculation risk during peace. A naval unit mining a shipping lane, a missile test, a proxy attack attributed to Iran — any of these could restart hostilities without authorization from Tehran. The ceasefire literature is clear on the timeline: coercive ceasefires convert to durable settlements in approximately 40-50% of cases (Fortna 2004), and the 60-90 day window after ceasefire is the highest risk period for relapse. If no political framework emerges from the Islamabad talks by mid-July 2026, relapse probability increases substantially.
-
-When the ceasefire breaks, the dynamics that were suppressed during 39 days of war resume at higher intensity. US and Israeli strikes restart with less restraint — the political cost of a second campaign having already been paid. Iran responds with its remaining ballistic missiles and drones. The Strait of Hormuz is physically blocked, not merely threatened. Global oil prices spike past $150/barrel. Asian economies face acute energy shocks.
-
-The question that determines whether this scenario reaches regional catastrophe or another ceasefire is whether US war aims expand from nuclear disarmament to regime change. This is the key distinction: bounded versus open-ended intervention. Coercive settlement theory indicates that settlements succeed when the stronger party's demands are limited and the weaker party retains state function. If regime removal becomes the objective, the Islamic Republic cannot negotiate — it can only fight or collapse. This is the difference between Iraq 1991 (limited aims, regime survives, sanctions follow) and Iraq 2003 (regime change, occupation, insurgency, state failure).
-
-The first ships are only now passing through the Strait with Iranian coordination after the ceasefire, oil prices remain at approximately $100/barrel (up from $70 pre-war), and the entire arrangement rests on the continued compliance of a decentralized military apparatus that was designed for exactly the kind of autonomous action that could collapse it.
-
-The war escalation scenario does not have a democratic transition pathway in the conventional sense. It has military and economic trajectories that may eventually produce political outcomes — but those outcomes are more likely to be [fragmentation](./fragmentation.md), prolonged [status quo decay](./status-quo-decay.md) under a damaged regime, or externally imposed arrangements that the comparative literature shows survive at lower rates than internally generated transitions. Externally imposed democracies fail at higher rates than internally generated ones — the evidence on this is extensive (Downes & Monten 2013, Enterline & Greig 2008). War escalation is the scenario in which the most people die, the most infrastructure is destroyed, and the conditions for every other scenario become harder to achieve. It deserves to be analyzed with that weight.
+> **به طور خلاصه**: آتش بس آوریل 2026 سقوط می کند. درگیری نظامی بین ایران و ائتلاف آمریکا-اسرائیل از سر گرفته می‌شود و احتمالاً شامل بازیگران منطقه‌ای، جنگ نیابتی مجدد و بسته شدن تنگه هرمز می‌شود. این سناریو اساساً مربوط به آینده دموکراتیک ایران نیست - این سناریو در مورد این است که آیا یک دولت ایرانی کارآمد برای داشتن آینده ای دموکراتیک باقی مانده است یا خیر، و در مورد پیامدهای منطقه ای و جهانی درگیری پایدار که مهم ترین نقطه نفتی جهان و کشوری با 87 میلیون نفر جمعیت را شامل می شود.
 
 ---
 
-## 2. Trigger Conditions
+## 1. خلاصه
 
-The ceasefire is a pause, not a resolution. Any of the following could restart active hostilities:
+آتش بس توافق شده در 7 و 8 آوریل 2026، 39 روز جنگ فعال بین ائتلاف آمریکا و اسرائیل و جمهوری اسلامی را متوقف کرد. از 10 آوریل، مذاکرات اسلام آباد با میانجیگری پاکستان آغاز می شود. اما این آتش بس از نظر ساختاری شکننده است. مسیرهای تشدید چندگانه وجود دارد و همه آنها با شکست آتش بس آغاز می شوند.
 
-### IRGC Autonomous Action
+اقتدار مجتبی خامنه ای به جای مشروعیت نهادی یا روحانی بر پشتوانه سپاه است - او در 9 مارس، تنها 9 روز پس از ترور پدرش، با مهندسین رای مجلس خبرگان توسط جناح سپاه پاسداران احمد وحیدی، به عنوان رهبر انتخاب شد. وحیدی بر کنترل تمام تصمیمات حیاتی توسط سپاه اصرار دارد. ساختار فرماندهی سپاه پیش از اعتصاب عمداً غیرمتمرکز بود - هر کدام از افراد با جانشینان نام‌گذاری شده در سه رده، افسران میان‌رده دارای اختیارات از پیش تفویض شده بودند. این ساختار سازمانی نظامی است که انتظار داشت سر از تن جدا شود. همچنین این معماری به احتمال زیاد یک تشدید غیرمجاز را ایجاد می کند که جنگ را قبل از اینکه کسی در تهران تصمیم به شروع مجدد آن بگیرد، دوباره آغاز می کند.
 
-The decentralized command structure is the highest-probability trigger. Mid-ranking IRGC commanders were given pre-delegated authority to continue operations if senior leadership was eliminated. Many of these commanders retained that authority through the ceasefire. An IRGC naval unit mining a shipping lane in the Strait. A missile unit conducting a reload that Israeli intelligence interprets as preparation for launch. A Quds Force proxy operation in Iraq or Syria attributed to Iran. Any of these could restart the war before Tehran authorizes escalation.
+محتمل ترین محرک برای فروپاشی آتش بس، اقدام خودگردان سپاه است. فرماندهی غیرمتمرکز در زمان جنگ انعطاف‌پذیری ایجاد می‌کند اما در زمان صلح خطر محاسبات نادرست را ایجاد می‌کند. یک واحد نیروی دریایی مین گذاری مسیر کشتیرانی، آزمایش موشکی، یک حمله نیابتی منتسب به ایران – هر یک از اینها می تواند خصومت ها را بدون مجوز تهران از سر بگیرد. ادبیات آتش بس در جدول زمانی مشخص است: آتش بس های اجباری تقریباً در 40-50٪ موارد به توافقات پایدار تبدیل می شوند (فورتنا 2004)، و پنجره 60-90 روزه پس از آتش بس بالاترین دوره خطر برای بازگشت است. اگر هیچ چارچوب سیاسی از مذاکرات اسلام آباد تا اواسط ژوئیه 2026 ظاهر نشود، احتمال عود به طور قابل توجهی افزایش می یابد.
 
-This is not paranoia — it is the standard organizational risk of decentralized military command. The Gulf of Tonkin incident (1964), which escalated US involvement in Vietnam beyond the intentions of political leadership, resulted from tactical commanders acting within their delegated authority. The IRGC's structure is designed to create exactly this kind of resilience. It also creates exactly this kind of risk. Decentralized command means resilience during war but miscalculation risk during peace — and the ceasefire period is precisely when miscalculation is most dangerous.
+هنگامی که آتش بس شکسته می شود، پویایی که در طول 39 روز جنگ سرکوب شده بود، با شدت بیشتری از سر گرفته می شود. حملات ایالات متحده و اسرائیل با محدودیت کمتری از سر گرفته می شود - هزینه سیاسی کمپین دوم قبلاً پرداخت شده است. ایران با موشک‌های بالستیک و پهپادهای باقی‌مانده پاسخ می‌دهد. تنگه هرمز از نظر فیزیکی مسدود شده است، نه صرفاً در معرض تهدید. قیمت جهانی نفت به بیش از 150 دلار در هر بشکه رسید. اقتصادهای آسیایی با شوک های حاد انرژی روبرو هستند.
 
-### Islamabad Talks Failure
+سوالی که تعیین می کند آیا این سناریو به فاجعه منطقه ای می رسد یا آتش بس دیگری این است که آیا اهداف جنگ ایالات متحده از خلع سلاح هسته ای به تغییر رژیم گسترش می یابد؟ این تمایز کلیدی است: مداخله محدود در مقابل مداخله باز. تئوری تسویه حساب اجباری نشان می دهد که تسویه حساب ها زمانی موفق می شوند که خواسته های حزب قوی تر محدود شود و حزب ضعیف عملکرد دولتی را حفظ کند. اگر هدف برکناری رژیم باشد، جمهوری اسلامی نمی تواند مذاکره کند - فقط می تواند بجنگد یا سقوط کند. این تفاوت بین عراق 1991 (هدف محدود، رژیم بقا، تحریم ها به دنبال دارد) و عراق 2003 (تغییر رژیم، اشغال، شورش، شکست دولت) است.
 
-If the April 10+ negotiations produce no framework within 30-45 days, the ceasefire becomes a suspension of violence without political content. The comparative ceasefire literature (Fortna 2004, Beardsley 2011) identifies this as the highest-risk configuration: a pause that both sides use to rearm and reposition rather than to negotiate.
+اولین کشتی‌ها تنها پس از آتش‌بس با هماهنگی ایران از تنگه عبور می‌کنند، قیمت نفت تقریباً 100 دلار در هر بشکه (از 70 دلار قبل از جنگ) باقی می‌ماند و کل ترتیبات مبتنی بر تداوم انطباق یک دستگاه نظامی غیرمتمرکز است که دقیقاً برای آن نوع اقدام خودمختاری طراحی شده بود که می‌توانست آن را فرو بپاشد.
 
-Iran's demands — full sanctions lifting, frozen asset release ($10-20B), US military withdrawal from the region, enrichment rights, reparations for infrastructure destruction and the 120+ historical sites bombed — are maximalist. US demands — comprehensive nuclear deal, verifiable end to weapons program, no aggressive IRGC behavior — require Iranian concessions that Vahidi has publicly opposed. When both sides conclude the other is not negotiating in good faith, domestic pressure to resume operations grows. Trump's expressed preference for decisive action over extended diplomacy — and his stated "annihilation" deadline — shortens this timeline considerably.
-
-### Hardliner Spoiler Sabotage
-
-IRGC hardliners who benefit from emergency conditions and oppose the political opening that a deal would require may deliberately conduct an operation designed to trigger US-Israeli retaliation. This is documented extensively in peace process literature: hardliner factions that calculate their institutional interests are better served by continued conflict than by settlement (Stedman 1997, Kydd & Walter 2006).
-
-The Hamas 1996 bus bombings that derailed the Oslo process, the IRA Real splinter group's Omagh bombing (1998), and Baruch Goldstein's Cave of the Patriarchs massacre (1994) are all examples of spoiler violence during negotiation windows. Within the IRGC, figures who have built careers on the "resistance axis" framework have material and ideological incentives to prevent a deal that would constrain IRGC autonomy. Emergency conditions are the IRGC's preferred operating environment — wartime powers, reconstruction contracts, import monopolies, social control. A peace deal threatens all of this.
-
-### Israeli Escalation
-
-Netanyahu's government entered the war with regime-change objectives that a ceasefire-without-regime-change does not fulfill. The ceasefire was accepted under US pressure, not because Israeli war aims were achieved. Netanyahu's political survival depends on demonstrating that the war achieved its objectives — nuclear dismantlement and, ideally, regime change. Domestic Israeli pressure for more decisive action — particularly if Iran is assessed to be reconstituting nuclear capacity — could drive Israeli military action during the ceasefire period. Israel's strike on the Osirak reactor (1981) and the Syrian reactor at al-Kibar (2007) demonstrate a pattern of unilateral action on nuclear threats regardless of diplomatic context.
-
-### Nuclear Site Reconstitution Assessment
-
-If US or Israeli intelligence concludes that Iran's enrichment program is rebuilding faster than anticipated during the ceasefire, the case for resumed strikes becomes politically compelling in Washington before a diplomatic solution is reached. The enrichment capacity status remains uncertain after the February-March strikes. Any detection of centrifuge reinstallation, uranium movement, or new underground construction could trigger preemptive action regardless of the Islamabad talks' progress.
-
-### Trump Deadline Pressure
-
-Trump's "annihilation" deadline framework creates its own escalation dynamic. If the Islamabad talks do not produce rapid, visible results, domestic political pressure within the US for resumed action grows. The deadline framework turns a diplomatic process into a countdown — and countdowns create pressure for action before the clock runs out, regardless of whether the underlying conditions warrant it.
+سناریوی تشدید جنگ یک مسیر گذار دموکراتیک به معنای متعارف ندارد. دارای مسیرهای نظامی و اقتصادی است که ممکن است در نهایت نتایج سیاسی ایجاد کند - اما این نتایج بیشتر احتمال دارد که [چندپارگی](./fragmentation.md)، طولانی‌مدت [زوال وضعیت موجود](./status-quo-decay.md) تحت یک رژیم آسیب‌دیده، یا ترتیبات تحمیلی خارجی باشد که ادبیات انتقال مقایسه‌ای نشان می‌دهد که با نرخ پایین‌تری باقی می‌ماند. دموکراسی‌های تحمیلی خارجی با نرخ‌های بالاتری نسبت به دموکراسی‌های داخلی شکست می‌خورند - شواهد در این مورد گسترده است (دانز و مونتن، 2013، انترلاین و گریگ، 2008). تشدید جنگ سناریویی است که در آن بیشترین افراد کشته می‌شوند، بیشترین زیرساخت‌ها ویران می‌شوند و شرایط برای هر سناریوی دیگری سخت‌تر می‌شود. شایسته تحلیل با آن وزن است.
 
 ---
 
-## 3. Historical Parallels
+## 2. شرایط ماشه
 
-### Gulf War 1991: Coercive War Without Regime Change
+آتش بس یک مکث است نه یک قطعنامه. هر یک از موارد زیر می تواند خصومت های فعال را از سر بگیرد:
 
-**What happened**: The US-led coalition expelled Iraqi forces from Kuwait in a 42-day air campaign and 100-hour ground war. Saddam Hussein's regime survived. The UN imposed comprehensive sanctions, weapons inspections (UNSCOM/UNMOVIC), and no-fly zones. For 12 years, Iraq lived under a coercive containment regime that devastated the civilian economy — UNICEF estimated 500,000 excess child deaths — while the regime maintained power through internal repression. The containment eventually failed: the US invaded in 2003.
+### اقدام خودمختار سپاه
 
-**The parallel to Iran**: This is the closest template for what happens if the current ceasefire leads to a coercive settlement with limited aims. The US achieves partial military objectives, the regime survives damaged, comprehensive sanctions are maintained, and the fundamental political questions are deferred. Iran under prolonged post-war sanctions would experience the same civilian suffering Iraq did — compounded by the fact that Iran's economy is already in wartime collapse. The 12-year status quo decay that Iraq experienced between 1991 and 2003 is the most likely trajectory if the current ceasefire holds but produces no comprehensive settlement.
+ساختار فرمان غیرمتمرکز محرک با بالاترین احتمال است. به فرماندهان میان رده سپاه، اختیارات از پیش تفویض شده بود تا در صورت حذف رهبری ارشد، به عملیات ادامه دهند. بسیاری از این فرماندهان این اختیار را از طریق آتش بس حفظ کردند. یک یگان نیروی دریایی سپاه مین گذاری خط کشتیرانی در تنگه. یک واحد موشکی در حال انجام بارگیری مجدد است که اطلاعات اسرائیل آن را به عنوان آماده سازی برای پرتاب تفسیر می کند. عملیات نیابتی نیروی قدس در عراق یا سوریه منسوب به ایران. هر یک از اینها می تواند جنگ را قبل از اینکه تهران مجوز تشدید تنش را صادر کند، از سر بگیرد.
 
-**Limits of the comparison**: Saddam had no functional nuclear program after 1991 and no Strait of Hormuz leverage; his continued power was acceptable to the US because containment was sustainable. Iran's Hormuz leverage and nuclear program make indefinite coercive equilibrium harder to maintain. Iraq's population was 25 million; Iran's is 87 million.
+این پارانویا نیست - این خطر سازمانی استاندارد فرماندهی نظامی غیرمتمرکز است. حادثه خلیج تونکین (1964)، که دخالت ایالات متحده در ویتنام را فراتر از اهداف رهبری سیاسی تشدید کرد، ناشی از عمل فرماندهان تاکتیکی در چارچوب اختیارات تفویض شده آنها بود. ساختار سپاه دقیقاً برای ایجاد چنین مقاومتی طراحی شده است. همچنین دقیقاً این نوع ریسک را ایجاد می کند. فرماندهی غیرمتمرکز به معنای انعطاف پذیری در زمان جنگ است، اما خطر محاسبه اشتباه در زمان صلح - و دوره آتش بس دقیقاً زمانی است که محاسبه اشتباه خطرناک ترین است.
 
-### Korean War Armistice: Permanent Ceasefire Without Peace
+### مذاکرات اسلام آباد شکست خورد
 
-**What happened**: The Korean War armistice of July 1953 halted fighting without a peace treaty. Over 70 years later, the Korean Peninsula remains technically at war. The armistice created a demilitarized zone, froze the conflict, and allowed both sides to maintain massive military buildups along the border. North Korea became one of the most repressive states on earth; South Korea eventually democratized — but through internal processes (the 1987 June Democracy Movement), not through the armistice framework.
+اگر مذاکرات 10 آوریل+ طی 30 تا 45 روز هیچ چارچوبی ایجاد نکند، آتش بس به تعلیق خشونت بدون محتوای سیاسی تبدیل می شود. ادبیات آتش بس مقایسه ای (Fortna 2004، Beardsley 2011) این را به عنوان پیکربندی پرخطر معرفی می کند: مکثی که هر دو طرف به جای مذاکره از آن برای تجهیز مجدد و تغییر موقعیت استفاده می کنند.
 
-**The parallel to Iran**: The Korean case demonstrates that a ceasefire without political resolution can become permanent — not as peace, but as frozen conflict. If the Islamabad talks produce an armistice-style agreement (cessation of hostilities, monitoring mechanisms, but no resolution of the nuclear question, sanctions, or political system), Iran could enter a Korean-style indefinite suspension. The regime survives. Sanctions continue. Military readiness remains high on all sides. The democratic transition that Iranians sought through protests is indefinitely deferred — not impossible, but removed from the political agenda by the permanence of the security framework.
+خواسته های ایران - لغو کامل تحریم ها، آزادسازی دارایی های مسدود شده (10 تا 20 میلیارد دلار)، خروج نظامی آمریکا از منطقه، حقوق غنی سازی، غرامت برای تخریب زیرساخت ها و بیش از 120 مکان تاریخی بمباران شده - حداکثری است. خواسته های ایالات متحده - توافق جامع هسته ای، پایان قابل راستی آزمایی برنامه تسلیحاتی، عدم رفتار تهاجمی سپاه - مستلزم امتیازاتی است که وحیدی علناً با آن مخالفت کرده است. وقتی هر دو طرف به این نتیجه برسند که طرف مقابل با حسن نیت مذاکره نمی کند، فشار داخلی برای از سرگیری عملیات افزایش می یابد. ترجیح ترامپ برای اقدام قاطع بر دیپلماسی طولانی - و ضرب الاجل اعلام شده وی برای "نابودی" - این جدول زمانی را به میزان قابل توجهی کوتاه می کند.
 
-**Limits of the comparison**: South Korea had a US security guarantee and massive economic support (the Marshall Plan equivalent for Asia) that enabled development even under armistice conditions. Iran would face sanctions, not support. The Korean armistice succeeded in preventing renewed war partly because both sides' patrons (US and China) had strong interests in stability; whether the US, Israel, China, and Russia all have convergent interests in an Iranian armistice is far less certain. The Korean case is encouraging for ceasefire durability but discouraging for political resolution — 70 years without a peace treaty is not the outcome Iranians are hoping for.
+### خرابکاری اسپویلر تندرو
 
-### Vietnam 1973-75: Paris Peace Accords Collapse
+تندروهای سپاه پاسداران انقلاب اسلامی که از شرایط اضطراری سود می برند و با گشایش سیاسی مورد نیاز برای توافق مخالفند، ممکن است به عمد عملیاتی را انجام دهند که برای تحریک آمریکا و اسرائیل طراحی شده است. این به طور گسترده در ادبیات روند صلح مستند شده است: جناح های تندرو که منافع نهادی خود را محاسبه می کنند، با تداوم درگیری بهتر از حل و فصل خدمت می کنند (استدمن 1997، کید و والتر 2006).
 
-**What happened**: The Paris Peace Accords of January 1973 ended US military involvement in Vietnam but left North Vietnamese forces in the South and did not resolve the fundamental political question. Within two years, North Vietnam launched a conventional offensive that conquered South Vietnam by April 1975. The ceasefire was a mechanism for US withdrawal, not a mechanism for political settlement.
+بمب‌گذاری‌های اتوبوس حماس در سال 1996 که روند اسلو را از مسیر خود خارج کرد، بمب‌گذاری اوماغ (1998) گروه منشعب‌شده IRA Real، و قتل عام پدرسالاران غار باروخ گلدشتاین (1994) همگی نمونه‌هایی از خشونت‌های مخرب در طول پنجره‌های مذاکره هستند. در درون سپاه، چهره‌هایی که در چارچوب «محور مقاومت» کار کرده‌اند، انگیزه‌های مادی و ایدئولوژیکی برای جلوگیری از معامله‌ای دارند که استقلال سپاه را محدود می‌کند. شرایط اضطراری محیط عملیاتی ترجیحی سپاه است - قدرت های زمان جنگ، قراردادهای بازسازی، انحصارات واردات، کنترل اجتماعی. توافق صلح همه اینها را تهدید می کند.
 
-**The parallel to Iran**: The Vietnam case demonstrates that a ceasefire without political resolution is unsustainable when one party views the pause as an opportunity to prepare for resumed conflict rather than as a path to settlement. If hardline IRGC factions view the Islamabad process as a temporary pause to rebuild military capacity — or if the US and Israel view it as a pause to prepare expanded strike packages — the Paris Accords dynamic applies. The ceasefire collapses not because of a specific incident but because neither side ever intended it as a permanent arrangement.
+### تشدید تنش اسرائیل
 
-**Limits of the comparison**: Vietnam's ceasefire collapsed because the US withdrew and could not re-intervene politically. The US has not withdrawn from the Middle East and retains the capacity to resume strikes within hours. The power asymmetry between the US and Iran is far greater than the asymmetry between the US-backed South Vietnam and North Vietnam by 1973. But the structural lesson — that ceasefires without genuine political settlement are inherently unstable — applies regardless of the military balance.
+دولت نتانیاهو با اهداف تغییر رژیم وارد جنگ شد که آتش بس بدون تغییر رژیم محقق نمی شود. آتش بس تحت فشار آمریکا پذیرفته شد، نه به این دلیل که اهداف جنگی اسرائیل محقق شد. بقای سیاسی نتانیاهو به این بستگی دارد که نشان دهد جنگ به اهداف خود دست یافته است - برچیدن هسته ای و در حالت ایده آل، تغییر رژیم. فشار داخلی اسرائیل برای اقدام قاطع‌تر - به ویژه اگر ارزیابی شود که ایران در حال بازسازی ظرفیت هسته‌ای است - می‌تواند باعث اقدام نظامی اسرائیل در طول دوره آتش‌بس شود. حمله اسرائیل به رآکتور اوسیراک (1981) و راکتور سوریه در الکبار (2007) نشان دهنده الگوی اقدام یکجانبه علیه تهدیدات هسته ای بدون توجه به زمینه دیپلماتیک است.
 
-### Yugoslavia 1991-95: Regional Conflict Escalation
+### ارزیابی بازسازی سایت هسته ای
 
-**What happened**: The breakup of Yugoslavia began with Slovenian and Croatian declarations of independence in 1991. International efforts to contain the conflict failed repeatedly. Ceasefires were agreed and broken — over 60 ceasefire agreements were violated during the Bosnian War alone. The conflict expanded unpredictably from a manageable secession crisis to a regional war involving six countries, ethnic cleansing, the Srebrenica genocide, and ultimately NATO military intervention in 1995 (Bosnia) and 1999 (Kosovo).
+اگر اطلاعات آمریکا یا اسرائیل به این نتیجه برسند که برنامه غنی‌سازی ایران سریع‌تر از آنچه در آتش‌بس پیش‌بینی می‌شد بازسازی می‌شود، پیش از دستیابی به راه‌حل دیپلماتیک، پرونده حملات مجدد در واشنگتن از نظر سیاسی قانع‌کننده می‌شود. وضعیت ظرفیت غنی سازی پس از اعتصابات فوریه تا مارس نامشخص است. هرگونه شناسایی نصب مجدد سانتریفیوژ، جابجایی اورانیوم یا ساخت و ساز زیرزمینی جدید می تواند بدون توجه به پیشرفت مذاکرات اسلام آباد، اقدام پیشگیرانه را آغاز کند.
 
-**The parallel to Iran**: Yugoslavia demonstrates that once containment of a regional conflict fails, escalation is unpredictable and difficult to reverse. The current Iran conflict involves actors across multiple countries — Hezbollah in Lebanon, PMF/Hashd al-Shaabi in Iraq, Houthis in Yemen, and potentially Shia populations in Bahrain, Pakistan, and beyond. If the ceasefire collapses, the geographic scope of conflict could expand in ways that no party currently intends. The Yugoslav experience also demonstrates the limits of ceasefire agreements: when parties lack commitment to settlement, ceasefires become tactical pauses rather than paths to peace.
+### فشار ضرب الاجل ترامپ
 
-**Limits of the comparison**: Yugoslavia fragmented along ethnic and national lines within a multinational federation. Iran, despite its ethnic diversity, has a stronger national identity and is not a federation. The fragmentation dynamic in Iran would follow IRGC command boundaries and economic networks rather than ethnic lines — though ethnic dimensions (Kurdish, Baloch, Azeri, Arab) would emerge in a prolonged conflict. The deeper lesson from Yugoslavia is about the failure of containment: once the international community assumes a conflict can be managed short of resolution, the conflict finds its own equilibrium — usually at a much higher level of violence than anyone anticipated.
-
-### 1973 Yom Kippur War Oil Shock: Strait Closure Economic Parallel
-
-**What happened**: The Arab oil embargo following the October 1973 Yom Kippur War reduced global oil supply by approximately 7%. Oil prices increased roughly 400%, from $3 to $12 per barrel. The resulting economic shock produced the worst global recession since World War II, permanently altered the geopolitical architecture of energy, and demonstrated that oil supply disruption translates directly into economic damage measured in GDP percentage points.
-
-**The parallel to Iran**: A sustained Strait of Hormuz closure would produce an oil supply disruption far larger than 1973 — removing 20% of global oil transit rather than 7%. The price impact would be proportionally greater: oil at $100/barrel pre-crisis could spike to $200+ during sustained closure. The 1973 shock reshaped global politics for a decade; a Hormuz closure would have comparable structural effects. The difference is that the 1973 embargo was a deliberate policy choice by oil-producing states, while a Hormuz closure during a resumed war might be the product of autonomous IRGC naval action rather than a calculated strategic decision.
-
-**Limits of the comparison**: Global oil dependency has decreased since 1973 (renewables, efficiency gains, diversified supply), and strategic petroleum reserves provide 90 days of buffer. Asian economies (China, Japan, South Korea, India) are more dependent on Hormuz oil than Western economies were on Arab oil in 1973 — the geographic distribution of economic impact would be different. The political consequences, however, could be comparable: the 1973 shock permanently altered Middle Eastern geopolitics, and a Hormuz closure would do the same for great power dynamics in the Persian Gulf.
-
-### Iraq 2003: Regime Change Without Institutional Planning
-
-**What happened**: The US invaded Iraq with 130,000 troops, toppled Saddam's government in three weeks, then occupied the country for eight years. CPA Order 1 (de-Ba'athification) and Order 2 (dissolution of the Iraqi military) dismantled the state without institutional replacement. The result was an insurgency, a sectarian civil war (2006-2008) that killed over 100,000 civilians, the rise of al-Qaeda in Iraq (later ISIS), and a state that remains dysfunctional two decades later. The total Iraqi civilian death toll exceeds 200,000 by conservative estimates. The project consumed $2.3 trillion.
-
-**The parallel to Iran**: If US war aims expand to regime change, Iraq 2003 is the primary cautionary case. Regime change without institutional planning produces outcomes worse than the regime that was removed. The IRGC is more deeply integrated into Iran's economy and society than the Ba'ath Party was in Iraq — its dismantlement would be more disruptive than de-Ba'athification, and de-Ba'athification was catastrophic. A de-Sepah-ification order would remove the organizational infrastructure for construction, import distribution, and social welfare (through bonyads) simultaneously with removing the security apparatus. Post-conflict institutional design research (Paris 2004) is clear: security must precede governance, governance must precede elections. Iraq 2003 violated every principle simultaneously.
-
-**Limits of the comparison**: Iran has stronger pre-existing civil society, a more educated population, and a more diversified economy than 2003 Iraq. Iranian nationalism is a cohesive force that Iraqi national identity was not. But these advantages are precisely what prolonged war would degrade. The university system, professional class, and civil society networks that could build post-regime institutions are the same structures that sustained bombing destroys.
+چارچوب ضرب الاجل "نابودی" ترامپ، پویایی تشدید خود را ایجاد می کند. اگر مذاکرات اسلام آباد نتایج سریع و قابل مشاهده ای به همراه نداشته باشد، فشار سیاسی داخلی در داخل ایالات متحده برای از سرگیری اقدام افزایش می یابد. چارچوب ضرب‌الاجل، یک فرآیند دیپلماتیک را به شمارش معکوس تبدیل می‌کند - و شمارش معکوس فشاری را برای اقدام قبل از پایان ساعت ایجاد می‌کند، صرف نظر از اینکه آیا شرایط اساسی آن را ایجاب می‌کند یا خیر.
 
 ---
 
-## 4. Transition Pathway
+## 3. موازی های تاریخی
 
-This scenario does not have a democratic transition pathway in the usual sense. The trajectory is military and economic before it is political.
+### جنگ خلیج فارس 1991: جنگ اجباری بدون تغییر رژیم
 
-### Phase 1: First 30 Days After Ceasefire Collapse
+**چه اتفاقی افتاد**: ائتلاف به رهبری ایالات متحده نیروهای عراقی را در یک عملیات هوایی 42 روزه و جنگ زمینی 100 ساعته از کویت بیرون کرد. رژیم صدام حسین جان سالم به در برد. سازمان ملل تحریم های جامع، بازرسی های تسلیحاتی (UNSCOM/UNMOVIC) و مناطق پرواز ممنوع را اعمال کرد. به مدت 12 سال، عراق تحت یک رژیم مهار اجباری زندگی کرد که اقتصاد غیرنظامی را ویران کرد - یونیسف 500000 مرگ اضافی کودکان را تخمین زد - در حالی که رژیم از طریق سرکوب داخلی قدرت را حفظ کرد. مهار در نهایت شکست خورد: ایالات متحده در سال 2003 به آن حمله کرد.
 
-**The first 72 hours**: Hostilities resume with higher intensity than the February-March round. US and Israeli strike packages are larger and include additional target categories — regime leadership facilities, communications infrastructure, electrical grid nodes, remaining IRGC command centers. The political cost of a second campaign has already been paid; restraint decreases. Iran deploys its remaining ballistic missile stockpile and activates drone production lines.
+**موازی با ایران**: این نزدیکترین الگو برای اینکه چه اتفاقی می افتد اگر آتش بس فعلی منجر به حل و فصل اجباری با اهداف محدود شود، است. ایالات متحده به اهداف نظامی جزئی دست می یابد، رژیم آسیب دیده جان سالم به در می برد، تحریم های همه جانبه حفظ می شود و مسائل اساسی سیاسی به تعویق می افتد. ایران تحت تحریم‌های طولانی‌مدت پس از جنگ، همان رنج غیرنظامیان را که عراق متحمل شد، تجربه خواهد کرد - که با این واقعیت که اقتصاد ایران در زمان جنگ در حال فروپاشی است، ترکیب شده است. فروپاشی وضعیت موجود 12 ساله که عراق بین سال‌های 1991 و 2003 تجربه کرد، محتمل‌ترین مسیر در صورت برقراری آتش‌بس کنونی است، اما حل و فصل جامعی حاصل نمی‌شود.
 
-**Strait of Hormuz closure**: Iran implements physical closure within the first 72 hours — not threats but mines, IRGC naval deployments, and anti-ship missile positioning. The first ships had only just begun passing through with Iranian coordination after the ceasefire. The Strait carries 20-21% of global oil transit. Oil futures spike above $150/barrel within days. Asian economies — China, Japan, South Korea, India — face acute energy shocks. European economies, already strained, face recession. Global GDP effects are measured in percentage points, not fractions of a percent.
+**محدودیت های مقایسه **: صدام پس از سال 1991 هیچ برنامه هسته ای کاربردی و اهرم فشار تنگه هرمز نداشت. قدرت مستمر او برای ایالات متحده قابل قبول بود زیرا مهار پایدار بود. اهرم هرمز و برنامه هسته ای ایران حفظ تعادل اجباری نامحدود را سخت تر می کند. جمعیت عراق 25 میلیون نفر بود. ایران 87 میلیون است.
 
-**Rally-around-the-flag suppresses protests**: The protest movement that persisted across all 31 provinces since December 28, 2025 suppresses itself — not from support for the regime but from the survival logic of staying off streets during airstrikes. Iranian nationalism — one of the most powerful cohesive forces in the Middle East — operates to the regime's benefit during active foreign attack, even among populations that despise the regime. Iranians who protested at the cost of their lives will rally against foreign invasion. This happened during the Iran-Iraq War (1980-88): Iranians who opposed Khomeini fought for Iran.
+### آتش بس جنگ کره: آتش بس دائمی بدون صلح
 
-**Civilian casualties escalate**: The 39-day first war caused significant civilian casualties and damaged 120+ historical sites. A resumed campaign with expanded target sets and depleted Iranian air defenses produces substantially more. Water treatment, electrical generation, hospital power, telecommunications — the infrastructure that sustains civilian life — degrades rapidly. Iran's cities are dense: Tehran (9 million), Isfahan (2 million), Mashhad (3 million), Tabriz (1.7 million). Precision munitions reduce but do not eliminate civilian casualties in urban environments. The humanitarian trajectory moves toward Iraq 1991-2003 sanctions conditions, compressed into months rather than years.
+**چه اتفاقی افتاد**: آتش بس جنگ کره در ژوئیه 1953 جنگ را بدون معاهده صلح متوقف کرد. بیش از 70 سال بعد، شبه جزیره کره از نظر فنی در حال جنگ است. این آتش بس یک منطقه غیرنظامی ایجاد کرد، درگیری را متوقف کرد و به هر دو طرف اجازه داد تا تجمعات نظامی گسترده را در امتداد مرز حفظ کنند. کره شمالی به یکی از سرکوبگرترین کشورهای روی زمین تبدیل شد. کره جنوبی در نهایت دموکراتیزه شد - اما از طریق فرآیندهای داخلی (جنبش دموکراسی ژوئن 1987)، نه از طریق چارچوب آتش بس.
 
-**Economic freefall**: Iran's economy, already in wartime collapse with 60-100%+ inflation, enters a deeper crisis. The rial becomes functionally worthless for international transactions. Import supply chains — food, medicine, industrial inputs — break down. The bonyad system, which distributes subsidized goods to millions of lower-income Iranians, loses its ability to import and distribute as ports and transportation networks are damaged. Black market prices for essential goods spike. The economic experience of ordinary Iranians becomes one of scarcity — not poverty in the development sense but acute shortage of goods that were available weeks earlier.
+**موازی با ایران**: پرونده کره نشان می دهد که آتش بس بدون راه حل سیاسی می تواند دائمی شود - نه به عنوان صلح، بلکه به عنوان درگیری منجمد. اگر مذاکرات اسلام آباد به توافقی به سبک آتش بس (توقف درگیری ها، مکانیسم های نظارتی، اما عدم حل مسئله هسته ای، تحریم ها یا سیستم سیاسی) منجر شود، ایران می تواند وارد یک تعلیق نامحدود به سبک کره ای شود. رژیم زنده می ماند. تحریم ها ادامه دارد. آمادگی نظامی از همه طرف بالاست. گذار دموکراتیکی که ایرانیان از طریق اعتراضات به دنبال آن بودند، به طور نامحدود به تعویق افتاده است - غیرممکن نیست، اما با دوام چارچوب امنیتی از دستور کار سیاسی حذف شده است.
 
-**Ground invasion vs. continued air campaign**: The critical US decision point. An air-only campaign can destroy infrastructure and degrade military capacity but cannot produce regime change — no government in history has been overthrown by airpower alone without ground force or internal collapse. Ground forces would be required to occupy territory — but Iran's geography (1.6 million square kilometers, mountainous terrain, 87 million people in urban centers) makes occupation a military commitment orders of magnitude larger than Iraq. The most likely configuration is sustained air campaign with special operations forces and proxy support — which means the war has no clear military endpoint.
+**محدودیت های مقایسه **: کره جنوبی از تضمین امنیتی ایالات متحده و حمایت اقتصادی گسترده (معادل طرح مارشال برای آسیا) برخوردار بود که توسعه را حتی در شرایط آتش بس امکان پذیر می کرد. ایران با تحریم روبرو خواهد شد نه حمایت. آتش بس کره موفق شد تا حدی از جنگ مجدد جلوگیری کند زیرا حامیان هر دو طرف (ایالات متحده و چین) منافع زیادی در ثبات داشتند. اینکه آیا ایالات متحده، اسرائیل، چین و روسیه همگی منافع همگرایانه ای در یک آتش بس با ایران دارند یا خیر، چندان قطعی نیست. پرونده کره برای دوام آتش‌بس دلگرم‌کننده است اما برای راه‌حل سیاسی دلسردکننده است – ۷۰ سال بدون معاهده صلح نتیجه‌ای نیست که ایرانی‌ها به آن امیدوار هستند.
 
-### Phase 2: 60-180 Days (June-October 2026)
+### ویتنام 1973-1975: فروپاشی توافقنامه صلح پاریس
 
-Two divergent pathways emerge, determined by whether US demands remain bounded or expand to regime change:
+**چه اتفاقی افتاد**: پیمان صلح پاریس در ژانویه 1973 به دخالت نظامی ایالات متحده در ویتنام پایان داد، اما نیروهای ویتنام شمالی را در جنوب باقی گذاشت و مسئله اساسی سیاسی را حل نکرد. در عرض دو سال، ویتنام شمالی یک حمله متعارف را آغاز کرد که ویتنام جنوبی را تا آوریل 1975 فتح کرد. آتش بس مکانیزمی برای خروج ایالات متحده بود، نه مکانیزمی برای حل و فصل سیاسی.
 
-**Pathway A — Coercive Settlement via Hormuz Pressure**: The Strait closure forces a negotiated resolution. This is the mechanism that makes Iran's geography strategically significant. China, Japan, South Korea, and India — facing energy crises that threaten their domestic economies — apply combined diplomatic and economic pressure on both Iran and the US. Asian economies that import through Hormuz cannot sustain a months-long closure; their pressure on Washington to accept a deal with imperfect terms is the primary force driving Pathway A.
+**موازی با ایران**: پرونده ویتنام نشان می دهد که آتش بس بدون راه حل سیاسی زمانی ناپایدار است که یکی از طرفین مکث را فرصتی برای آماده شدن برای از سرگیری درگیری بداند تا راهی برای حل و فصل. اگر جناح های تندرو سپاه پاسداران انقلاب اسلامی روند اسلام آباد را یک توقف موقت برای بازسازی ظرفیت نظامی بدانند - یا اگر ایالات متحده و اسرائیل آن را به عنوان توقفی برای آماده کردن بسته های حمله گسترده تلقی کنند - پویایی توافق پاریس اعمال می شود. آتش بس نه به دلیل یک حادثه خاص، بلکه به این دلیل که هیچ یک از طرفین هرگز آن را به عنوان یک ترتیب دائمی در نظر نگرفته اند.
 
-A new ceasefire is negotiated under broader international auspices, likely with Chinese participation that the first round lacked. The nuclear question is addressed through a freeze-and-verify framework. Hormuz reopens. Reconstruction conditionality (Doyle & Sambanis 2006) provides leverage for settlement terms: international reconstruction assistance tied to nuclear compliance and IRGC behavioral constraints.
+**محدودیت های مقایسه **: آتش بس ویتنام شکست خورد زیرا ایالات متحده عقب نشینی کرد و نتوانست دوباره مداخله سیاسی کند. ایالات متحده از خاورمیانه خارج نشده است و ظرفیت از سرگیری حملات در عرض چند ساعت را حفظ کرده است. عدم تقارن قدرت بین ایالات متحده و ایران بسیار بیشتر از عدم تقارن بین ویتنام جنوبی تحت حمایت ایالات متحده و ویتنام شمالی تا سال 1973 است. اما درس ساختاری - که آتش بس بدون حل و فصل سیاسی واقعی ذاتاً بی ثبات است - صرف نظر از توازن نظامی اعمال می شود.
 
-**Pathway B — Escalation Toward Regime Change**: US domestic politics and Netanyahu's objectives converge on regime change as the war aim. Strikes expand to target Mojtaba directly, IRGC senior leadership, financial centers, and the remaining telecommunications infrastructure. This is the Iraq 2003 pathway. The objective shifts from coercion to collapse.
+### یوگسلاوی 1991-95: تشدید درگیری منطقه ای
 
-Once regime change becomes the stated aim, the dynamics become self-reinforcing: the Islamic Republic cannot negotiate its own destruction, so it fights; continued fighting justifies continued strikes; continued strikes degrade the state further. The endpoint is not a negotiated settlement but either regime collapse or a war of attrition that exhausts both sides. Under Pathway B, civilian infrastructure becomes a target category — not to punish the population but to degrade the regime's ability to maintain control. Power grid destruction, telecommunications shutdown, financial system disruption — the same tools used against Iraq in 2003 and against Serbia in 1999. The humanitarian consequences escalate proportionally.
+**چه اتفاقی افتاد**: تجزیه یوگسلاوی با اعلام استقلال اسلوونی و کرواسی در سال 1991 آغاز شد. تلاش های بین المللی برای مهار مناقشه بارها با شکست مواجه شد. آتش بس مورد توافق قرار گرفت و شکست - بیش از 60 قرارداد آتش بس تنها در طول جنگ بوسنی نقض شد. این درگیری به طور غیر قابل پیش بینی از یک بحران جدایی قابل مدیریت به یک جنگ منطقه ای شامل شش کشور، پاکسازی قومی، نسل کشی سربرنیتسا، و در نهایت مداخله نظامی ناتو در سال 1995 (بوسنی) و 1999 (کوزوو) گسترش یافت.
 
-### Phase 3: One Year After Collapse (April 2027)
+**موازی با ایران**: یوگسلاوی نشان می دهد که وقتی مهار یک درگیری منطقه ای شکست بخورد، تشدید تنش غیرقابل پیش بینی است و برگشت آن دشوار است. درگیری کنونی ایران بازیگرانی را در چندین کشور درگیر می کند - حزب الله در لبنان، حزب الله لبنان/حشد الشعبی در عراق، حوثی ها در یمن، و احتمالاً جمعیت شیعه در بحرین، پاکستان و فراتر از آن. در صورت فروپاشی آتش بس، دامنه جغرافیایی درگیری می تواند به گونه ای گسترش یابد که هیچ طرفی در حال حاضر قصد ندارد. تجربه یوگسلاوی نیز محدودیت‌های توافق‌های آتش‌بس را نشان می‌دهد: وقتی طرف‌ها تعهدی برای حل و فصل ندارند، آتش‌بس به جای مسیری برای صلح، به مکث‌های تاکتیکی تبدیل می‌شود.
 
-**If Pathway A (coercive settlement)**: Iran enters a damaged [status quo decay](./status-quo-decay.md) trajectory. Mojtaba claims survival-as-victory — a narrative technique the Islamic Republic has used since the Iran-Iraq War ("holy defense" framing of a war that achieved none of its stated objectives). The economy is devastated. Reconstruction requires either sanctions relief (which requires nuclear concessions Vahidi opposes) or autarkic development (which requires Chinese and Russian support at levels neither has historically provided).
+**محدودیت های مقایسه **: یوگسلاوی بر اساس خطوط قومی و ملی در یک فدراسیون چند ملیتی تکه تکه شده است. ایران با وجود تنوع قومیتی که دارد، هویت ملی قوی تری دارد و فدراسیون نیست. پویایی تکه تکه شدن در ایران به جای خطوط قومی، از مرزهای فرماندهی سپاه پاسداران و شبکه های اقتصادی تبعیت می کند - هرچند ابعاد قومی (کرد، بلوچ، آذری، عرب) در یک درگیری طولانی ظاهر می شود. درسی عمیق‌تر از یوگسلاوی درباره شکست مهار است: زمانی که جامعه بین‌المللی تصور می‌کند که می‌توان یک درگیری را بدون حل و فصل مدیریت کرد، درگیری تعادل خاص خود را پیدا می‌کند - معمولاً در سطح بسیار بالاتری از خشونت که هر کسی پیش‌بینی می‌کرد.
 
-The IRGC's economic position actually strengthens — wartime reconstruction contracts, import monopolies during sanctions, and emergency governance powers all flow to Sepah-affiliated entities. The bonyads expand their role as the primary distribution mechanism for scarce goods. Iran's middle class, already eroded, shrinks further. Brain drain accelerates — the professionals who could rebuild the country leave because the country offers them nothing. The protest movement reactivates as bombing stops, now facing a regime that has used wartime emergency powers to further consolidate IRGC control.
+### 1973 شوک نفتی جنگ یوم کیپور: موازی اقتصادی بسته شدن تنگه
 
-**If Pathway B (regime change attempt)**: The Islamic Republic fragments before it falls. IRGC regional commanders, cut off from central authority by communications destruction, begin operating as autonomous warlords — controlling local resources, maintaining local security forces, negotiating locally with tribal and ethnic leaders. This is the [Fragmentation scenario](./fragmentation.md) arrived at through military force rather than internal collapse.
+**چه اتفاقی افتاد**: تحریم نفت اعراب به دنبال جنگ یوم کیپور در اکتبر 1973 عرضه جهانی نفت را تقریباً 7 درصد کاهش داد. قیمت نفت تقریباً 400 درصد افزایش یافت و از 3 دلار به 12 دلار در هر بشکه رسید. شوک اقتصادی حاصل، بدترین رکود جهانی را از زمان جنگ جهانی دوم به وجود آورد، معماری ژئوپلیتیک انرژی را برای همیشه تغییر داد و نشان داد که اختلال در عرضه نفت مستقیماً به آسیب اقتصادی تبدیل می‌شود که بر حسب درصد تولید ناخالص داخلی اندازه‌گیری می‌شود.
 
-The fragmentation pattern follows geographic and IRGC command boundaries: Kurdish-majority western provinces (Kurdistan, Kermanshah, Ilam) aligning with Iraqi Kurdistan; Azeri-majority northwest (East Azerbaijan, West Azerbaijan, Ardabil, Zanjan) developing autonomous governance with Turkish and Azerbaijani connections; Baloch-majority Sistan-Baluchestan developing its own arrangements with Pakistani Balochistan; Arab-majority Khuzestan becoming a contested zone due to its oil resources; and the Persian-majority central plateau fragmenting along IRGC jurisdictional lines. Tehran itself could become contested ground between multiple IRGC factions, Basij remnants, and armed civilian groups.
+**موازی با ایران**: بسته شدن مداوم تنگه هرمز باعث اختلال در عرضه نفت به مراتب بزرگتر از سال 1973 می شود - به جای 7 درصد، 20 درصد از ترانزیت جهانی نفت را از بین می برد. تاثیر قیمت به نسبت بیشتر خواهد بود: قیمت نفت 100 دلار در هر بشکه قبل از بحران ممکن است در طول بسته شدن پایدار به 200 دلار افزایش یابد. شوک 1973 سیاست جهانی را برای یک دهه تغییر داد. بسته شدن هرمز اثرات ساختاری مشابهی خواهد داشت. تفاوت این است که تحریم 1973 یک انتخاب سیاستی عمدی از سوی کشورهای تولیدکننده نفت بود، در حالی که بسته شدن هرمز در طول جنگ مجدد ممکن است محصول اقدام دریایی خودمختار سپاه پاسداران انقلاب اسلامی باشد تا یک تصمیم استراتژیک حساب شده.
 
-International attention shifts from regime change to preventing humanitarian catastrophe, nuclear material security, and containing regional spillover. Refugee flows — potentially 5-10 million people — destabilize Turkey, Iraq, and Pakistan. The bonyad system — which, despite its corruption, distributes social welfare to millions — ceases to function. The civil service — 2+ million employees — loses its organizational framework. The judiciary, whatever its political capture, provided a dispute resolution mechanism; its collapse means disputes are resolved by armed force.
+**محدودیت های مقایسه **: وابستگی جهانی به نفت از سال 1973 کاهش یافته است (تجدیدپذیرها، افزایش بهره وری، عرضه متنوع)، و ذخایر استراتژیک نفتی 90 روز حائل ایجاد می کنند. اقتصادهای آسیایی (چین، ژاپن، کره جنوبی، هند) بیشتر از اقتصادهای غربی به نفت اعراب در سال 1973 به نفت هرمز وابسته هستند - توزیع جغرافیایی تأثیر اقتصادی متفاوت خواهد بود. با این حال، پیامدهای سیاسی می تواند قابل مقایسه باشد: شوک 1973 به طور دائمی ژئوپلیتیک خاورمیانه را تغییر داد، و بسته شدن هرمز همین کار را برای پویایی قدرت های بزرگ در خلیج فارس انجام می دهد.
 
-The democratic transition that Iranians demanded in their protests is further away than it was in 2025, not closer. The legitimacy deficit theory applies with full force: externally imposed governments face structural deficits that internally generated transitions do not (Beetham 1991, Gilley 2009). War did not produce liberation; it produced conditions under which liberation is structurally impossible for a generation.
+### عراق 2003: تغییر رژیم بدون برنامه ریزی نهادی
 
----
+**چه اتفاقی افتاد**: آمریکا با 130000 سرباز به عراق حمله کرد، در عرض سه هفته دولت صدام را سرنگون کرد، سپس این کشور را به مدت هشت سال اشغال کرد. دستور 1 CPA (بعث زدایی) و دستور 2 (انحلال ارتش عراق) دولت را بدون جایگزینی نهادی متلاشی کرد. نتیجه یک شورش، یک جنگ داخلی فرقه ای (2006-2008) بود که بیش از 100000 غیرنظامی را کشت، ظهور القاعده در عراق (بعدا داعش) و دولتی بود که دو دهه بعد همچنان ناکارآمد باقی مانده است. بر اساس برآوردهای محافظه کارانه، مجموع تلفات غیرنظامیان عراقی بیش از 200000 نفر است. این پروژه 2.3 تریلیون دلار مصرف کرد.
 
-## 5. Key Mechanisms at Play
+**موازی با ایران**: اگر هدف جنگ ایالات متحده به تغییر رژیم گسترش یابد، عراق 2003 مورد هشدار اولیه است. تغییر رژیم بدون برنامه ریزی نهادی نتایجی بدتر از رژیمی دارد که برکنار شد. سپاه در مقایسه با حزب بعث عراق عمیق‌تر در اقتصاد و جامعه ایران ادغام شده است - برچیده شدن آن بیشتر از بعثی‌زدایی مخرب بود و بعث‌زدایی فاجعه‌بار بود. دستور سپه‌زدایی، زیرساخت‌های سازمانی ساخت و ساز، توزیع واردات و رفاه اجتماعی (از طریق بنیادها) را همزمان با حذف دستگاه‌های امنیتی حذف می‌کند. تحقیقات طراحی نهادی پس از مناقشه (پاریس 2004) واضح است: امنیت باید بر حاکمیت مقدم باشد، حکومت باید بر انتخابات مقدم باشد. عراق 2003 همه اصول را به طور همزمان زیر پا گذاشت.
 
-### External Intervention and Transition Derailment
-
-([mechanism page](../mechanisms/external-intervention-transition-derailment.md))
-
-This is the central mechanism. External military intervention fundamentally alters the political dynamics that would otherwise operate: it empowers military factions, delegitimizes civilian opposition (which can be framed as treason during wartime), and creates security imperatives that crowd out political process. The ITKS evidence base for this mechanism is extensive — 98 Iran-relevant sources document how external intervention derails transition processes. The pattern is consistent across cases: the act of intervention generates nationalist backlash that sustains the regime it was meant to weaken, while simultaneously destroying the institutional infrastructure that democratic transition requires.
-
-### Elite Bargaining Failure and Stalemate
-
-([mechanism page](../mechanisms/elite-bargaining-failure-stalemate-or-coup.md))
-
-A resumed war eliminates the space for elite bargaining that the ceasefire created. Under active bombardment, factional divisions within the IRGC are suppressed — no pragmatist can argue for negotiated compromise when hardline resistance is the only politically viable position. The bargaining failure becomes structural rather than tactical. Reform-oriented figures within the system — Pezeshkian's network, pragmatist IRGC commanders — lose their constituency and their argument simultaneously. War does not just fail to create bargaining opportunities; it actively destroys the ones that existed during the ceasefire.
-
-### IRGC Economic Integration and Reform Blockage
-
-([mechanism page](../mechanisms/economic-crisis-as-transition-trigger.md))
-
-The IRGC's deep integration into Iran's economy — through construction companies, import monopolies, bonyad control, and financial networks — means that wartime emergency conditions are the IRGC's preferred operating environment. War legitimizes the security state's control over economic resources. Reconstruction contracts, import monopolies during sanctions, emergency rationing powers — all flow to IRGC-affiliated entities. The mechanism that would normally operate (economic crisis triggering reform pressure) is inverted: the economic crisis strengthens the security apparatus that controls economic distribution, rather than weakening it. This is the paradox of war escalation for reform prospects.
-
-### Information Control Collapse and Elite Confidence Drop
-
-Even during war, the regime's information control mechanisms are degrading. The 39-day war demonstrated that internet shutdowns, media control, and narrative management cannot fully suppress information flow — Starlink terminals, VPN usage, and diaspora media channels maintained information penetration. This mechanism operates even during war: regime elites who see the full picture of military losses, economic collapse, and international isolation may lose confidence in the regime's viability. But the mechanism's effects are deferred during active conflict — confidence erosion translates to political action only when the security situation stabilizes enough for factional maneuvering to resume.
-
-### Military Defection Under Extreme Pressure
-
-([mechanism page](../mechanisms/military-defection-from-authoritarian-coalition.md))
-
-Prolonged war creates contradictory pressures on military cohesion. In the short term, external attack consolidates military unity — this is the rally-around-the-flag dynamic. Over time — months to years — sustained losses, supply shortages, pay disruptions, and family casualties erode unit cohesion. The Artesh (regular military) and IRGC have different institutional cultures and loyalties. Under extreme pressure, the Artesh may distinguish itself from the IRGC politically, as Tunisia's military distinguished itself from the internal security apparatus in 2011. But this mechanism requires time and sustained pressure — it does not operate in the first months of renewed conflict. It is a medium-term possibility, not a short-term trigger.
-
-### Civil Society Destruction During Prolonged Conflict
-
-War destroys the organizational infrastructure of civil society — not through targeted repression (which the regime already practices) but through physical destruction, displacement, and the prioritization of survival over organizing. Universities close. Professional associations cease meeting. Independent media outlets lose their physical and electronic infrastructure. The human capital base for democratic transition — the lawyers, teachers, journalists, engineers, and activists who would staff transitional institutions — is killed, displaced, or reduced to subsistence survival. Every month of sustained conflict degrades this capacity further, and it takes years to rebuild. This mechanism operates silently alongside the more visible military dynamics, but its long-term consequences for transition prospects may be more damaging than any military outcome.
-
-### Wartime Fragmentation and Militia Politics
-
-([related page](../v2/security/wartime-fragmentation-militia-politics.md))
-
-Prolonged conflict produces armed non-state actors. In Iran, this would begin with IRGC units that lose contact with central command and continue operating autonomously. It would expand to include ethnic militias (Kurdish peshmerga-equivalent forces, Baloch armed groups, Arab tribal militias in Khuzestan), criminal organizations that acquire weapons, and possibly foreign-backed proxy forces. Once this fragmentation occurs, it is extremely difficult to reverse — Libya, Syria, and Yemen all demonstrate that militia politics, once established, creates self-reinforcing dynamics of local power that resist reintegration into unified governance. The transition from conventional war to militia politics is the transition from a scenario with bad outcomes to a scenario with worse ones.
+**محدودیت های مقایسه**: ایران نسبت به عراق در سال 2003 دارای جامعه مدنی قوی تر، جمعیت تحصیل کرده تر و اقتصاد متنوع تر است. ناسیونالیسم ایرانی نیروی منسجمی است که هویت ملی عراق چنین نبود. اما این مزایا دقیقاً همان چیزی است که جنگ طولانی مدت آن را کاهش می دهد. سیستم دانشگاهی، طبقات حرفه ای و شبکه های جامعه مدنی که می توانند نهادهای پس از رژیم را بسازند، همان ساختارهایی هستند که بمباران مداوم آنها را ویران می کند.
 
 ---
 
-## 6. Critical Risks
+## 4. مسیر انتقال
 
-### Strait of Hormuz and Global Energy Security
+این سناریو یک مسیر گذار دموکراتیک به معنای معمول ندارد. مسیر پیش از آنکه سیاسی باشد، نظامی و اقتصادی است.
 
-An extended Strait of Hormuz closure — weeks rather than days — would trigger the most significant oil supply shock since 1973. The Strait carries approximately 17-20 million barrels per day, roughly 20% of global oil transit. Strategic petroleum reserves in OECD countries provide approximately 90 days of coverage; an extended closure would exhaust these. Oil at $150-200/barrel produces recession in every major economy. The GDP effects are measured in percentage points: the 1973 oil shock, which involved a 7% supply disruption, produced GDP contractions of 2-4% across industrialized economies. A 20% disruption would be proportionally more severe. Countries without strategic reserves — much of the developing world — face energy rationing. The economic damage is not temporary: energy infrastructure investment patterns shift, supply chain restructuring accelerates, and the geopolitical architecture of energy dependence is permanently altered.
+### فاز 1: 30 روز اول پس از فروپاشی آتش بس
 
-### Nuclear Material Security in a Collapsed State
+**72 ساعت اول**: خصومت ها با شدت بیشتری نسبت به دور فوریه تا مارس از سر گرفته می شود. بسته‌های حمله ایالات متحده و اسرائیل بزرگ‌تر هستند و شامل دسته‌های هدف اضافی هستند - تأسیسات رهبری رژیم، زیرساخت‌های ارتباطی، گره‌های شبکه برق، مراکز فرماندهی باقی‌مانده سپاه. هزینه سیاسی کمپین دوم قبلاً پرداخت شده است. مهار کاهش می یابد. ایران انبار باقیمانده موشک های بالستیک خود را مستقر کرده و خطوط تولید پهپاد را فعال می کند.
 
-Three distinct nuclear risks operate simultaneously. First, nuclear material security: if war produces regime collapse, Iran's nuclear sites — already damaged — become a proliferation crisis. Fissile material in a fragmented state is the worst-case nuclear security scenario. Second, radiological contamination: strikes on nuclear facilities may have already released radioactive material; continued strikes on partially destroyed sites increase contamination risk for surrounding populations. Third, the theoretical possibility — low probability but catastrophic consequence — that Iran has achieved a threshold nuclear capability that has not been publicly assessed. The intelligence community's assessment of Iran's enrichment capacity after the February-March strikes carries enormous weight; if that assessment is wrong, the escalation dynamics change fundamentally.
+**بسته شدن تنگه هرمز**: ایران در 72 ساعت اول بسته شدن فیزیکی را اجرا می کند – نه تهدید، بلکه مین، استقرار نیروی دریایی سپاه پاسداران انقلاب اسلامی، و موقعیت یابی موشک های ضد کشتی. اولین کشتی‌ها تازه با هماهنگی ایران پس از آتش‌بس شروع به عبور کرده بودند. این تنگه 20 تا 21 درصد ترانزیت نفت جهان را حمل می کند. قیمت های آتی نفت طی چند روز به بالای 150 دلار در هر بشکه رسید. اقتصادهای آسیایی - چین، ژاپن، کره جنوبی، هند - با شوک های حاد انرژی روبرو هستند. اقتصادهای اروپایی که در حال حاضر تحت فشار قرار گرفته اند، با رکود روبرو هستند. اثرات تولید ناخالص داخلی جهانی بر حسب درصد اندازه گیری می شود، نه کسری از درصد.
 
-### IRGC Autonomous Action and Unintended Escalation
+**تجمع حول پرچم، اعتراضات را سرکوب می‌کند**: جنبش اعتراضی که از 28 دسامبر 2025 در تمام 31 استان ادامه داشت، خود را سرکوب می کند - نه به دلیل حمایت از رژیم، بلکه از منطق بقای دور ماندن از خیابان ها در طول حملات هوایی. ناسیونالیسم ایرانی - یکی از قدرتمندترین نیروهای منسجم در خاورمیانه - در هنگام حمله فعال خارجی، حتی در میان جمعیت هایی که رژیم را تحقیر می کنند، به نفع رژیم عمل می کند. ایرانیانی که به قیمت جان خود دست به اعتراض زدند، علیه تهاجم بیگانگان تجمع خواهند کرد. این در طول جنگ ایران و عراق (1980-1988) اتفاق افتاد: ایرانیانی که مخالف خمینی بودند برای ایران جنگیدند.
 
-The Gulf of Tonkin parallel is not rhetorical. In 1964, a disputed naval incident in Vietnamese waters — possibly a radar ghost, possibly aggressive maneuvering by tactical commanders — provided the legal authorization for a decade of war. The IRGC's decentralized command creates dozens of potential Gulf of Tonkin incidents. A naval skirmish in the Strait, a missile unit reload misinterpreted as launch preparation, a proxy attack that Iran did not authorize but cannot credibly deny — any of these could restart the war through a chain of tactical decisions rather than strategic choices. The structural risk is that the ceasefire's survival depends on the compliance of every empowered IRGC commander, not just the decisions of Tehran leadership.
+**تلفات غیرنظامی تشدید می شود**: جنگ اول 39 روزه باعث تلفات غیرنظامی قابل توجهی شد و به بیش از 120 مکان تاریخی آسیب رساند. از سرگیری کمپین با مجموعه‌های هدف توسعه‌یافته و دفاع هوایی ضعیف ایران، به‌طور قابل‌توجهی بیشتر تولید می‌کند. تصفیه آب، تولید برق، نیروی بیمارستانی، ارتباطات راه دور - زیرساختی که زندگی غیرنظامیان را حفظ می کند - به سرعت تخریب می شود. شهرهای ایران متراکم هستند: تهران (9 میلیون)، اصفهان (2 میلیون)، مشهد (3 میلیون)، تبریز (1.7 میلیون). مهمات دقیق تلفات غیرنظامیان را در محیط های شهری کاهش می دهد اما از بین نمی برد. مسیر بشردوستانه به سمت شرایط تحریم‌های 1991-2003 عراق پیش می‌رود که به‌جای سال‌ها فشرده می‌شود.
 
-### Hezbollah Remnant Reactivation and Geographic Expansion
+**سقوط آزاد اقتصادی**: اقتصاد ایران که در زمان جنگ با تورم 60 تا 100%+ در حال فروپاشی است، وارد بحران عمیق تری می شود. ریال از نظر عملکردی برای معاملات بین المللی بی ارزش می شود. زنجیره تامین واردات - غذا، دارو، نهاده های صنعتی - از بین می رود. سامانه بنیاد که کالاهای یارانه ای را بین میلیون ها ایرانی کم درآمد توزیع می کند، با آسیب دیدن بنادر و شبکه های حمل و نقل، توانایی واردات و توزیع خود را از دست می دهد. قیمت کالاهای اساسی در بازار سیاه افزایش یافت. تجربه اقتصادی ایرانیان عادی به تجربه کمیابی تبدیل می شود - نه فقر به معنای توسعه بلکه کمبود شدید کالاهایی که هفته ها قبل در دسترس بودند.
 
-The "axis of resistance" is severely degraded — Hezbollah weakened, Hamas degraded, Houthi capacity reduced. But "degraded" is not "destroyed." These organizations retain cadres, institutional knowledge, weapons caches, and ideological motivation. A resumed war gives them purpose and urgency. Iraqi Shia militia groups (PMF/Hashd al-Shaabi) face immediate pressure to attack US forces in Iraq, forcing Iraq's government into an impossible choice between its alliance with the US and its Shia-majority population's sympathies. Houthi forces target Gulf shipping and Saudi infrastructure. The conflict expands from a US-Israel-Iran triangle to a regional crisis involving at minimum six countries and multiple non-state actors.
+**تهاجم زمینی در مقابل کمپین هوایی ادامه دار**: نقطه تصمیم حیاتی ایالات متحده. یک کمپین فقط هوایی می‌تواند زیرساخت‌ها را نابود کند و ظرفیت نظامی را کاهش دهد، اما نمی‌تواند باعث تغییر رژیم شود - هیچ دولتی در تاریخ تنها با نیروی هوایی بدون نیروی زمینی یا فروپاشی داخلی سرنگون نشده است. نیروهای زمینی برای اشغال قلمرو مورد نیاز خواهند بود - اما جغرافیای ایران (1.6 میلیون کیلومتر مربع، مناطق کوهستانی، 87 میلیون نفر در مراکز شهری) اشغال را به یک تعهد نظامی بزرگتر از عراق تبدیل می کند. محتمل ترین پیکربندی، عملیات هوایی پایدار با نیروهای عملیات ویژه و پشتیبانی نیابتی است - که به این معنی است که جنگ نقطه پایانی نظامی مشخصی ندارد.
 
-### Humanitarian Catastrophe
+### فاز 2: 60-180 روز (ژوئن-اکتبر 2026)
 
-The direct costs of sustained war on Iran's civilian population must be stated plainly. Iran has 87 million people, the majority living in cities within range of precision-guided munitions. Sustained bombing of infrastructure — power, water, communications, transportation — produces civilian casualties not primarily from direct strikes but from the collapse of systems that sustain life. Hospitals without power. Water treatment plants without chemicals. Diabetics without insulin. Dialysis patients without electricity. The elderly and disabled without social support systems. The Iraq sanctions period and the Yemen war provide the empirical basis for estimating the civilian toll of sustained infrastructure degradation: it is measured in hundreds of thousands over years, with children and the elderly bearing disproportionate costs.
+دو مسیر متفاوت پدیدار می‌شوند که با توجه به اینکه آیا خواسته‌های ایالات متحده محدود می‌مانند یا به تغییر رژیم گسترش می‌یابند، مشخص می‌شوند:
 
-### State Collapse Without Institutional Successor
+**مسیر الف - حل و فصل اجباری از طریق فشار هرمز**: بسته شدن تنگه باعث ایجاد یک راه حل مورد مذاکره می شود. این مکانیسمی است که جغرافیای ایران را از نظر استراتژیک مهم می کند. چین، ژاپن، کره جنوبی و هند - که با بحران انرژی مواجه هستند که اقتصاد داخلی آنها را تهدید می کند - فشارهای دیپلماتیک و اقتصادی ترکیبی را هم بر ایران و هم بر ایالات متحده اعمال می کنند. اقتصادهای آسیایی که از طریق هرمز وارد می کنند، نمی توانند یک ماه تعطیلی را تحمل کنند. فشار آنها بر واشنگتن برای پذیرش توافقی با شرایط ناقص، نیروی اصلی محرک مسیر A است.
 
-If the Islamic Republic is destroyed militarily without a prepared institutional successor, Iran becomes a larger, more complex Libya. The state ceases to function as a unitary entity. The [Fragmentation scenario](./fragmentation.md) describes this outcome in detail: it is not liberation but chaos, and chaos is not the precondition for democracy — it is the precondition for warlordism. The comparative literature on post-conflict institutional design (Paris 2004, Doyle & Sambanis 2006) is unambiguous: the sequence matters. Security must be established before governance can function; governance must function before elections are meaningful. Iraq 2003 attempted all three simultaneously and failed at all three. Iran under Pathway B would repeat this failure at larger scale.
+آتش‌بس جدید تحت نظارت گسترده‌تر بین‌المللی، احتمالاً با مشارکت چین که دور اول فاقد آن بود، مورد مذاکره قرار می‌گیرد. مسئله هسته ای از طریق یک چارچوب ثابت و راستی آزمایی مورد بررسی قرار می گیرد. هرمز بازگشایی شد شرط بازسازی (دویل و سامبانیس 2006) اهرمی را برای شرایط حل و فصل فراهم می کند: کمک های بین المللی بازسازی مرتبط با انطباق هسته ای و محدودیت های رفتاری سپاه پاسداران.
 
-### Regional Conflagration
+**مسیر B - تشدید به سوی تغییر رژیم**: سیاست داخلی ایالات متحده و اهداف نتانیاهو بر روی تغییر رژیم به عنوان هدف جنگ همگرایی دارند. اعتصابات گسترش می یابد تا مجتبی، رهبری ارشد سپاه، مراکز مالی و زیرساخت های مخابراتی باقی مانده را هدف قرار دهد. این مسیر عراق 2003 است. هدف از اجبار به فروپاشی تغییر می کند.
 
-A resumed Iran war does not stay contained to Iran. Hezbollah remnants in Lebanon — severely degraded but not destroyed — face pressure to reactivate against Israeli targets. Iraqi Shia militia groups attack US forces in Iraq, forcing Iraq's government into an impossible position. Houthi forces in Yemen, with reduced but real capacity, target Gulf shipping and Saudi infrastructure. The Abraham Accords partners (UAE, Bahrain) face domestic pressure from populations sympathetic to Iran's civilian casualties. Turkey faces refugee flows and Kurdish autonomy dynamics on its border. Pakistan, the ceasefire mediator, faces domestic pressure from its Shia population. The conflict expands from a US-Israel-Iran triangle to a regional crisis involving at minimum six countries.
+هنگامی که تغییر رژیم به هدف اعلام شده تبدیل شود، پویایی خود تقویت می شود: جمهوری اسلامی نمی تواند درباره نابودی خود مذاکره کند، بنابراین می جنگد. ادامه جنگ ادامه اعتصاب ها را توجیه می کند. ادامه اعتصابات باعث تنزل بیشتر دولت می شود. نقطه پایانی یک راه حل از طریق مذاکره نیست، بلکه فروپاشی رژیم یا جنگ فرسایشی است که هر دو طرف را خسته می کند. در مسیر B، زیرساخت‌های غیرنظامی به یک مقوله هدف تبدیل می‌شوند - نه برای تنبیه جمعیت، بلکه برای تنزل دادن توانایی رژیم برای حفظ کنترل. تخریب شبکه برق، تعطیلی مخابرات، اختلال در سیستم مالی - همان ابزارهایی که علیه عراق در سال 2003 و علیه صربستان در سال 1999 استفاده شد.
 
-### China's Position: Three Options
+### فاز 3: یک سال پس از فروپاشی (آوریل 2027)
 
-China's response to a resumed war is one of the most consequential variables, and China faces three options.
+**اگر مسیر الف (تسویه حساب اجباری)**: ایران وارد یک مسیر آسیب دیده [زوال وضعیت موجود](./status-quo-decay.md) می شود. مجتبی مدعی بقا در حد پیروزی است – تکنیکی روایی که جمهوری اسلامی از زمان جنگ ایران و عراق استفاده کرده است (فیلم بندی «دفاع مقدس» از جنگی که به هیچ یک از اهداف اعلام شده خود نرسید). اقتصاد ویران شده است. بازسازی مستلزم رفع تحریم ها (که مستلزم امتیازات هسته ای با مخالفت وحیدی است) یا توسعه خودکامه (که نیاز به حمایت چین و روسیه در سطوحی دارد که هیچ کدام از آنها در طول تاریخ ارائه نشده است) دارد.
 
-First, neutrality — maintaining its current posture of rhetorical opposition to the war while avoiding material intervention. This is the default but becomes unsustainable if Hormuz closure threatens Chinese energy supplies (China imports approximately 40% of its oil through the Strait).
+موقعیت اقتصادی سپاه در واقع تقویت می شود - قراردادهای بازسازی در زمان جنگ، انحصارات واردات در دوران تحریم، و اختیارات حاکمیتی اضطراری همگی به نهادهای وابسته به سپاه سرازیر می شوند. بنیادها نقش خود را به عنوان مکانیزم توزیع اولیه برای کالاهای کمیاب گسترش می دهند. طبقه متوسط ​​ایران که قبلاً فرسایش یافته بود، بیشتر کوچک می‌شود. فرار مغزها تسریع می‌شود - متخصصانی که می‌توانند کشور را بازسازی کنند، آنجا را ترک می‌کنند که کشور چیزی به آنها ارائه نمی‌دهد. جنبش اعتراضی با توقف بمباران ها دوباره فعال می شود و اکنون با رژیمی مواجه است که از قدرت های اضطراری زمان جنگ برای تحکیم بیشتر کنترل سپاه استفاده کرده است.
 
-Second, reduced support for Iran — cooperating with sanctions enforcement and limiting economic ties, in exchange for US concessions on other issues (Taiwan, trade). This weakens Iran's bargaining position and accelerates Pathway A (coercive settlement).
+**اگر راه ب (تلاش برای تغییر رژیم)**: جمهوری اسلامی قبل از سقوط تکه تکه می شود. فرماندهان منطقه ای سپاه پاسداران انقلاب اسلامی که به دلیل تخریب ارتباطات از قدرت مرکزی جدا شده اند، به عنوان جنگ سالاران خودمختار شروع به فعالیت می کنند - کنترل منابع محلی، حفظ نیروهای امنیتی محلی، مذاکره محلی با رهبران قبیله ای و قومی. این [سناریوی تکه تکه شدن](./fragmentation.md) از طریق نیروی نظامی به جای فروپاشی داخلی است.
 
-Third, active diplomatic intervention using economic leverage — China positions itself as the essential mediator, using its role as Iran's largest oil customer and trading partner to pressure Iran toward concessions, while using its economic leverage over the US (debt holdings, supply chains) to constrain US war aims. Xi Jinping's personal engagement would signal this third option and would be the strongest positive indicator for a negotiated outcome.
+الگوی پراکندگی از مرزهای جغرافیایی و فرماندهی سپاه پیروی می کند: استان های غربی با اکثریت کرد (کردستان، کرمانشاه، ایلام) همسو با کردستان عراق. شمال غرب با اکثریت آذری (آذربایجان شرقی، آذربایجان غربی، اردبیل، زنجان) در حال توسعه حکومت خودمختار با ارتباطات ترکیه و آذربایجان. سیستان و بلوچستان با اکثریت بلوچ در حال توسعه ترتیبات خود با بلوچستان پاکستان است. خوزستان با اکثریت عرب به دلیل منابع نفتی به منطقه مورد مناقشه تبدیل شد. و فلات مرکزی با اکثریت فارس تکه تکه شدن در امتداد خطوط قضایی سپاه. تهران خود می تواند به میدان رقابت بین چند جناح سپاه، بقایای بسیج و گروه های غیرنظامی مسلح تبدیل شود.
 
----
+توجه بین المللی از تغییر رژیم به جلوگیری از فاجعه انسانی، امنیت مواد هسته ای و مهار سرریزهای منطقه ای معطوف می شود. جریان پناهجویان - بالقوه 5 تا 10 میلیون نفر - ترکیه، عراق و پاکستان را بی‌ثبات می‌کند. سیستم بنیاد - که با وجود فسادش، رفاه اجتماعی را بین میلیون‌ها نفر توزیع می‌کند - دیگر کار نمی‌کند. خدمات مدنی - بیش از 2 میلیون کارمند - چارچوب سازمانی خود را از دست می دهد. قوه قضائیه، صرف نظر از تصرف سیاسی آن، مکانیسم حل اختلاف را فراهم کرد. فروپاشی آن به معنای حل و فصل اختلافات با نیروی مسلح است.
 
-## 7. What Should Be Done Now
-
-### Civil Society Inside Iran
-
-War resumption requires survival-first strategy. During the 39-day first war, organizational networks were maintained through the lull in protest activity; this is possible again but harder the second time — more infrastructure destroyed, more communications disrupted, more activists detained.
-
-**Survival and evacuation planning**: Provincial civil society networks should develop evacuation plans for key organizers and documentation teams. Geographic redundancy is essential — no single city's destruction should eliminate organizational capacity. The protest movement's decentralized structure, which was a weakness for coordinated political action, becomes a strength for wartime survival.
-
-**Documentation through internet blackout**: The most important civil society function during war is evidence preservation. Human rights violations, civilian casualties, infrastructure destruction — all must be documented for future accountability processes. Secure communication channels established during the protest movement must be maintained through wartime internet blackouts. Physical documentation (photographs, written records, USB drives, printed materials) becomes critical when digital infrastructure fails. The diaspora's ability to receive, store, and verify this documentation is essential.
-
-**Network preservation**: Leadership networks must survive the war. This means identifying backup leadership, dispersing organizational knowledge across multiple individuals and locations, and establishing communication protocols that function without internet. The Iranian civil society's experience with the 2019 internet shutdown provides operational templates — but a wartime shutdown would be more prolonged and complete.
-
-**Preparing for post-war**: Even during war, civil society should prepare transition plans — constitutional frameworks, institutional designs, governance proposals. The comparative evidence (Poland, South Africa, Tunisia) shows that transitions succeed when opposition forces have concrete institutional proposals ready at the moment of political opening. That moment may come suddenly after a ceasefire, and the organizations that have proposals ready will shape the outcome. This preparation is not futile optimism — it is strategic positioning for a post-war moment that will arrive eventually, whether in months or years.
-
-### Diaspora
-
-**Humanitarian logistics**: The logistics of supporting Iranians in an active war zone — financial transfers through sanctioned banking systems, medical supply networks, evacuation assistance — require organizational infrastructure that should be prepared in advance rather than improvised during crisis. Diaspora organizations should establish relationships with international humanitarian agencies, develop financial transfer mechanisms that survive sanctions regimes, and build medical supply chains now.
-
-**Political messaging: "democratic transition without regime collapse"**: The diaspora's most important political function is maintaining a credible alternative narrative. The message must be: Iranians want democratic change AND oppose foreign military intervention. These are not contradictory positions; they are the actual positions of the protest movement. The narrative capture risk is real — during the Iraq war, Ahmed Chalabi's Iraqi National Congress shaped US policy through Washington relationships rather than Iraqi legitimacy. The MEK has attempted similar positioning for decades. During a resumed war, the temptation for Western policymakers to elevate an exile group that tells them what they want to hear is significant. The diaspora must be the loudest voice against military regime change that has no institutional successor plan. The Iraq 2003 case is the argument: regime change without institutional preparation produces outcomes worse than the regime that was removed.
-
-**Opposing regime-change-without-plan**: The diaspora should be the loudest voice against military regime change that has no institutional successor plan. Diaspora organizations that credibly demonstrate institutional preparation — constitutional proposals, transitional justice frameworks, economic reconstruction plans — provide the alternative to "bomb first, plan later." This is not abstract advocacy: it is the difference between Iraq 2003 and the transitions that actually produced functional states.
-
-### International Community
-
-**Enforce the ceasefire seriously**: The single most important action is preventing ceasefire collapse. This means: monitoring IRGC activities for compliance violations; establishing rapid consultation mechanisms so potential violations can be assessed before triggering automatic retaliation; maintaining the Islamabad process even when negotiations are difficult. The 60-90 day window identified in ceasefire literature is critical — if this window closes without progress on a political framework, relapse probability increases substantially. International actors who allow this window to pass bear responsibility for what follows.
-
-**If war resumes — limited vs. maximalist aims**: Every international actor with influence on US decision-making — European allies, Gulf partners, Asian energy consumers — should communicate clearly that regime-change war aims against Iran would produce Iraq 2003 outcomes at vastly larger scale. This is not advocacy for the Islamic Republic; it is recognition that military regime change without institutional preparation produces state failure, not democratization. The Iraq 2003 evidence is unambiguous on this point.
-
-**Rapid consultation mechanisms**: Pre-agreed channels for assessing potential ceasefire violations before they trigger escalation. A maritime incident in the Strait, a missile unit movement, a proxy attack in Iraq — each of these needs a mechanism for rapid assessment and de-escalation rather than automatic military response. The 60-90 day window is the critical period for establishing these mechanisms.
-
-**Nuclear site security planning**: International actors should pre-position plans for nuclear material security in the event of state collapse. Rapid-deployment teams, cooperative arrangements with neighboring states, and contingency protocols that do not require functioning Iranian government consent should be prepared during the ceasefire as insurance.
-
-**Refugee corridor planning**: Turkey, Iraq, and Pakistan will bear the primary refugee burden. UNHCR pre-positioning, bilateral agreements on refugee processing, and financial commitments to host countries should be established during the ceasefire. An Iranian refugee crisis would be larger than the Syrian crisis that destabilized European politics. Iran's 87 million people live in a country bordered by seven states, several of which (Iraq, Afghanistan) have limited absorption capacity themselves.
-
-**Humanitarian corridor preparation**: If war resumes, humanitarian access to Iranian civilians must be established immediately, not after months of advocacy. Pre-positioned aid supplies in neighboring countries, agreed humanitarian corridors, and medical evacuation frameworks should be prepared during the ceasefire as contingency planning, not after bombing resumes as crisis response.
-
-### Reform-Minded Elites Within the System
-
-War resumption eliminates the reform option. If the ceasefire collapses, the window for negotiated transition closes — possibly for years. Pragmatist IRGC figures, reformist government officials, and Pezeshkian's network have strong incentive to take active steps to prevent IRGC autonomous actions that could trigger escalation. This is the single most valuable thing reform elites can do right now.
-
-Concretely: internal advocacy for ceasefire compliance; intelligence sharing about unauthorized military preparations; communication through back channels with international actors about regime willingness to negotiate; and efforts to prevent hardliner spoiler operations. Reform-minded elites who maintain credibility with both the international community and domestic constituencies will be positioned for the [Reform Within](./reform-within.md) or [Democratic Transition](./democratic-transition.md) scenarios if the ceasefire survives. Those who fully identified with the hardline position will not be. War resumption eliminates the reform option — this message needs to reach every pragmatist in Tehran.
+گذار دموکراتیکی که ایرانیان در اعتراضات خود خواستار آن بودند، از سال 2025 دورتر است، نه نزدیکتر. تئوری کسری مشروعیت با قدرت کامل اعمال می شود: دولت های تحمیلی از بیرون با کسری های ساختاری مواجه هستند که انتقال های داخلی با آن مواجه نیستند (Beetham 1991, Gilley 2009). جنگ باعث رهایی نشد. شرایطی را ایجاد کرد که تحت آن رهایی از نظر ساختاری برای یک نسل غیرممکن است.
 
 ---
 
-## 8. Iran-Specific Complications
+## 5. مکانیسم های کلیدی در بازی
 
-### Mojtaba's Untested War Leadership
+### مداخله خارجی و خروج از مسیر
 
-Mojtaba Khamenei has no symbolic capital beyond his father's name. He was elected Supreme Leader on March 9 — nine days after his father's assassination, in an Assembly of Experts vote engineered by Vahidi's IRGC faction. He has no clerical credentials of consequence, no military experience, no popular legitimacy, and no demonstrated capacity for the kind of wartime decision-making that determines whether a state survives or collapses.
+([صفحه مکانیزم](../mechanisms/external-intervention-transition-derailment.md))
 
-His authority depends entirely on IRGC backing, specifically Vahidi's faction. If the IRGC calculates that continued resistance is catastrophically costly — that the war is unwinnable and survival requires settlement — Mojtaba's authority may not survive the calculation. He has no independent base from which to resist an IRGC decision to negotiate over his head, or to replace him if he becomes an obstacle to their institutional survival. His father survived the Iran-Iraq War because he had genuine revolutionary legitimacy; Mojtaba has none. This is a structural weakness that affects every aspect of Iran's war decision-making.
+این مکانیسم مرکزی است. مداخله نظامی خارجی اساساً پویایی سیاسی را که در غیر این صورت عمل می‌کرد تغییر می‌دهد: جناح‌های نظامی را قدرتمند می‌کند، مخالفان غیرنظامی را مشروعیت می‌بخشد (که می‌تواند به عنوان خیانت در زمان جنگ تلقی شود)، و الزامات امنیتی ایجاد می‌کند که روند سیاسی را از بین می‌برد. پایگاه شواهد ITKS برای این مکانیسم گسترده است - 98 منبع مرتبط با ایران مستند می کنند که چگونه مداخله خارجی فرآیندهای گذار را از مسیر خارج می کند. این الگو در همه موارد ثابت است: عمل مداخله واکنش‌های ناسیونالیستی ایجاد می‌کند که رژیمی را که قرار بود تضعیف کند، حفظ می‌کند، در حالی که به طور همزمان زیرساخت‌های نهادی را که انتقال دموکراتیک به آن نیاز دارد، از بین می‌برد.
 
-### IRGC Decentralized Command as Structural Miscalculation Risk
+### شکست و بن بست چانه زنی نخبگان
 
-The IRGC's deliberate decentralization — named successors three ranks deep, pre-delegated operational authority — was designed to survive leadership decapitation. It succeeded: the IRGC continued to function after the February 28 strike. But this structure means that no single authority — not Mojtaba, not Vahidi — can guarantee that every IRGC unit will comply with ceasefire terms. A regional commander in Khuzestan, a naval commander in Bandar Abbas, a missile unit commander in Kermanshah — each has the authority and capability to conduct operations that restart the war. The ceasefire's survival depends on the compliance of every empowered commander, not just the decisions of Tehran leadership. This is not a bug in the system — it is the system's design. And it makes the ceasefire structurally fragile in a way that no diplomatic framework can fully address.
+([صفحه مکانیزم](../mechanisms/elite-bargaining-failure-stalemate-or-coup.md))
 
-### Bonyads and Post-War Reconstruction
+از سرگیری جنگ فضایی را برای چانه زنی نخبگان که آتش بس ایجاد کرده بود از بین می برد. تحت بمباران‌های فعال، اختلافات جناحی در سپاه سرکوب می‌شود - هیچ عمل‌گرای نمی‌تواند برای سازش از طریق مذاکره استدلال کند، وقتی که مقاومت تندرو تنها موقعیت سیاسی قابل دوام باشد. شکست چانه زنی به جای تاکتیکی، ساختاری می شود. چهره‌های اصلاح‌طلب در نظام - شبکه پزشکیان، فرماندهان عمل‌گرای سپاه - همزمان حوزه انتخابیه و استدلال خود را از دست می‌دهند. جنگ فقط در ایجاد فرصت های چانه زنی شکست نمی خورد. آن‌هایی را که در زمان آتش‌بس وجود داشتند، فعالانه نابود می‌کند.
 
-Iran's bonyad (foundation) system controls an estimated 20-40% of the non-oil economy. These quasi-state foundations — Bonyad-e Mostazafan (Foundation of the Oppressed), Astan-e Quds-e Razavi (controlling the Imam Reza shrine endowment), and others — distribute subsidized goods, manage construction projects, and provide social welfare to millions. They are also deeply intertwined with IRGC economic networks.
+### انسداد یکپارچگی اقتصادی و اصلاحات سپاه
 
-In any post-war reconstruction scenario, bonyad allocation patterns will determine who benefits and who does not. The historical pattern is that reconstruction contracts flow through IRGC-affiliated entities: Khatam al-Anbiya Construction Headquarters (the IRGC's construction conglomerate) received the majority of major infrastructure contracts after the Iran-Iraq War. A resumed war followed by reconstruction would repeat this pattern — strengthening IRGC economic control, not weakening it. International actors conditioning reconstruction assistance on transparent allocation would face the reality that Iran's institutional infrastructure for large-scale construction is Sepah-controlled.
+([صفحه مکانیزم](../mechanisms/economic-crisis-as-transition-trigger.md))
 
-### Proxy War in Iraq and Syria
+ادغام عمیق سپاه پاسداران انقلاب اسلامی در اقتصاد ایران - از طریق شرکت‌های ساختمانی، انحصارات وارداتی، کنترل بنیادها، و شبکه‌های مالی - به این معنی است که شرایط اضطراری زمان جنگ، محیط عملیاتی مطلوب سپاه است. جنگ، کنترل دولت امنیتی بر منابع اقتصادی را مشروعیت می بخشد. قراردادهای بازسازی، انحصار واردات در دوران تحریم، اختیارات سهمیه بندی اضطراری - همه به نهادهای وابسته به سپاه سرازیر می شوند. مکانیسمی که به طور معمول عمل می کند (بحران اقتصادی که باعث فشار اصلاحات می شود) معکوس است: بحران اقتصادی به جای تضعیف دستگاه امنیتی که توزیع اقتصادی را کنترل می کند، تقویت می کند. این پارادوکس تشدید جنگ برای چشم انداز اصلاحات است.
 
-A resumed Iran war immediately activates proxy dynamics in Iraq and Syria. The PMF/Hashd al-Shaabi in Iraq — Shia militia groups with varying degrees of Iranian IRGC support — face pressure to attack US forces in Iraq. This forces Iraq's government into an impossible position: the government depends on US military partnership, but its Shia-majority population and powerful Shia militia factions demand solidarity with Iran. Iraq could fragment politically under this pressure, with the Kurdistan Region aligning with the US and southern Shia provinces aligning with Iran.
+### فروپاشی کنترل اطلاعات و کاهش اعتماد نخبگان
 
-In Syria, Iranian-backed forces face Israeli strikes while Assad's weakened government must calculate whether maintaining the Iranian alliance is worth the military cost. The proxy dimension means that a resumed Iran war is never just a bilateral conflict — it reshapes the politics of every country in which Iran has proxy relationships.
+حتی در زمان جنگ، مکانیسم های کنترل اطلاعات رژیم در حال تحقیر است. جنگ 39 روزه نشان داد که خاموش شدن اینترنت، کنترل رسانه‌ها و مدیریت روایت نمی‌تواند به طور کامل جریان اطلاعات را سرکوب کند - پایانه‌های Starlink، استفاده از VPN و کانال‌های رسانه‌ای دیاسپورا نفوذ اطلاعات را حفظ کردند. این مکانیسم حتی در زمان جنگ نیز عمل می‌کند: نخبگان رژیم که تصویر کاملی از خسارات نظامی، فروپاشی اقتصادی و انزوای بین‌المللی را می‌بینند ممکن است اعتماد خود را نسبت به دوام رژیم از دست بدهند. اما اثرات این مکانیسم در طول درگیری فعال به تعویق می افتد - فرسایش اعتماد تنها زمانی به اقدام سیاسی تبدیل می شود که وضعیت امنیتی به اندازه کافی تثبیت شود تا مانورهای جناحی از سر گرفته شود.
 
-### Pakistan Mediator Role Collapse
+### فرار نظامی تحت فشار شدید
 
-Pakistan is mediating the Islamabad talks, but Pakistan's position is structurally conflicted. Pakistan has a significant Shia minority population (estimated 15-20%) that is sympathetic to Iran. Pakistan's military calculates strategically based on its relationship with both China (its primary patron) and the US (a complicated but important partner).
+([صفحه سازوکار](../mechanisms/military-defection-from-authoritarian-coalition.md))
 
-If the ceasefire collapses during Pakistani-mediated talks, Pakistan faces domestic political pressure from its Shia population, strategic calculations about its own nuclear deterrent (the only Muslim-majority nuclear state), and the practical burden of Iranian refugees crossing its eastern border. Pakistan's collapse as mediator would remove the only diplomatic framework currently operating — and no obvious replacement mediator exists. Oman, which mediated the 2015 JCPOA back-channel, is a candidate but lacks Pakistan's strategic weight.
+جنگ طولانی فشارهای متناقضی بر انسجام نظامی ایجاد می کند. در کوتاه مدت، حمله خارجی وحدت نظامی را تحکیم می کند - این پویایی تجمع در اطراف پرچم است. با گذشت زمان - از ماه ها تا سال ها - تلفات پایدار، کمبود عرضه، اختلال در پرداخت، و تلفات خانوادگی انسجام واحد را از بین می برد. آرتش (نظامی عادی) و سپاه دارای فرهنگ های نهادی و وفاداری متفاوتی هستند. تحت فشار شدید، آرتش ممکن است از نظر سیاسی خود را از سپاه پاسداران متمایز کند، همانطور که ارتش تونس در سال 2011 خود را از دستگاه امنیت داخلی متمایز کرد. اما این مکانیسم نیاز به زمان و فشار مداوم دارد - این مکانیسم در ماه‌های اول جنگ مجدد عمل نمی‌کند. این یک احتمال میان مدت است، نه یک محرک کوتاه مدت.
 
-### Strait of Hormuz as Asymmetric Leverage
+### تخریب جامعه مدنی در طول درگیری های طولانی مدت
 
-No other country in the world holds a comparable geographic chokepoint over global economic infrastructure. Iran's ability to close the Strait — through mines, naval vessels, shore-based anti-ship missiles, and the IRGC naval forces based at Bandar Abbas — gives Iran leverage over the global economy disproportionate to its military power. Twenty percent of global oil transits these waters. This leverage is both Iran's greatest deterrent against regime-change war aims and its greatest provocation for conflict. The Strait functions as Iran's nuclear deterrent equivalent: the threat that makes the cost of war unacceptable to Iran's adversaries, but whose use would invite the very escalation it is meant to prevent.
+جنگ زیرساخت های سازمانی جامعه مدنی را نابود می کند – نه از طریق سرکوب هدفمند (که رژیم از قبل انجام می دهد) بلکه از طریق تخریب فیزیکی، جابجایی، و اولویت دادن به بقا بر سازماندهی. دانشگاه ها تعطیل می شوند. انجمن های حرفه ای تشکیل جلسه نمی دهند. رسانه های مستقل زیرساخت فیزیکی و الکترونیکی خود را از دست می دهند. پایگاه سرمایه انسانی برای گذار دموکراتیک - وکلا، معلمان، روزنامه نگاران، مهندسان و فعالانی که در نهادهای انتقالی کار می کنند - کشته شده، آواره شده، یا به بقای امرار معاش تقلیل یافته است. هر ماه درگیری مستمر این ظرفیت را بیشتر کاهش می‌دهد و سال‌ها طول می‌کشد تا بازسازی شود. این مکانیسم در سکوت در کنار پویایی نظامی قابل مشاهده تر عمل می کند، اما پیامدهای بلندمدت آن برای چشم انداز انتقال ممکن است از هر نتیجه نظامی آسیب زاتر باشد.
 
-### Iranian Nationalism's Rallying Effect
+### تجزیه در زمان جنگ و سیاست شبه نظامیان
 
-Iranian national identity is one of the oldest continuous civilizational identities in the world. Iranians who despise the Islamic Republic — who protested at the cost of their lives — will rally against foreign invasion. This is not hypothetical: during the Iran-Iraq War (1980-88), Iranians who opposed Khomeini fought for Iran. The regime's narrative that Iran is under civilizational attack by foreign enemies is, during an active bombing campaign, factually accurate. This nationalism is the most important constraint on the war escalation scenario's political utility: military force that is meant to liberate Iranians from their government instead unifies Iranians behind their government, at least temporarily. The effect fades with time and accumulated suffering — but in the critical early months of renewed conflict, it operates powerfully against the political objectives of intervention.
+([صفحه مرتبط](../v2/security/wartime-fragmentation-militia-politics.md))
 
-### Nuclear Knowledge Cannot Be Bombed
-
-Iran's nuclear program employed an estimated 10,000+ technical personnel. Even if every centrifuge is destroyed, the scientists, engineers, and technicians who built them retain their knowledge. Iran's history of concealment — the Fordow underground facility was not publicly revealed until 2009, years after construction began — means that the assessed damage may not reflect actual damage. A peace deal must address not just physical infrastructure but the human capital of the program — through international integration, employment in civilian research, or monitoring arrangements. Military strikes address symptoms (facilities) not causes (knowledge and motivation). This means the nuclear question cannot be resolved through war alone, regardless of how many facilities are destroyed.
-
-### Shia Holy Sites
-
-Qom and Mashhad are Iran's holiest Shia cities, containing shrines visited by millions of pilgrims annually. Qom's Hazrat-e Masumeh shrine and Mashhad's Imam Reza shrine are among the most sacred sites in Shia Islam. Any military operation that damages these sites — even collaterally — would transform the conflict from a geopolitical confrontation into a civilizational one. The 2006 Samarra mosque bombing in Iraq triggered a sectarian civil war. Damage to Shia holy sites in Iran would mobilize Shia populations across Iraq, Lebanon, Bahrain, Pakistan, and India — expanding the conflict's geographic scope and making diplomatic resolution dramatically harder.
-
-### Iranian Geography and the Occupation Impossibility
-
-Iran is 1,648,195 square kilometers — larger than France, Germany, Spain, and the UK combined. Its terrain includes the Zagros and Alborz mountain ranges, vast deserts, and dense urban centers. Its population of 87 million is spread across cities, towns, and villages. This geography makes Iran ungovernable by external military force. The US occupied Iraq (438,000 sq km, 25 million people) with 130,000 troops and failed to establish governance. Iran would require a force several times larger — a commitment that exceeds US military capacity without mobilization. Any war planner who considers ground operations in Iran must confront this geography honestly: Iran cannot be occupied, only bombed. And bombing without occupation cannot produce regime change — no government in history has been overthrown by airpower alone without ground force or internal collapse.
-
-### Generational Anti-Western Nationalism
-
-The most long-term risk. Military intervention against Iran by Western powers validates the Islamic Republic's central narrative: that Iran is besieged by foreign enemies who seek to destroy its sovereignty and civilization. This narrative has been propaganda for 47 years. A sustained bombing campaign makes it true. The generation of Iranians who grow up under American bombs will carry that experience for decades — just as the generation that experienced the 1953 coup and the 1980-88 war carried theirs. Even if the Islamic Republic falls, the anti-Western nationalism generated by the war will shape Iranian politics for a generation. The democratic Iran that eventually emerges will be more anti-Western, more suspicious of international institutions, and less willing to integrate into Western-led order than it would have been without the war. This is the deepest strategic cost of military escalation, and it is almost never factored into escalation decisions.
+درگیری طولانی مدت بازیگران غیر دولتی مسلح تولید می کند. در ایران، این امر با یگان‌های سپاه آغاز می‌شود که ارتباط خود را با فرماندهی مرکزی قطع می‌کنند و به طور مستقل به فعالیت خود ادامه می‌دهند. این شامل شبه‌نظامیان قومی (نیروهای همتای پیشمرگه‌های کرد، گروه‌های مسلح بلوچ، شبه‌نظامیان قبیله‌ای عرب در خوزستان)، سازمان‌های جنایتکار که به سلاح‌ها دست می‌یابند، و احتمالاً نیروهای نیابتی تحت حمایت خارجی را نیز در بر می‌گیرد. هنگامی که این چندپارگی رخ داد، برگشت آن بسیار دشوار است - لیبی، سوریه و یمن همگی نشان می‌دهند که سیاست شبه‌نظامی، پس از استقرار، پویایی‌های خودتقویت‌کننده قدرت محلی ایجاد می‌کند که در برابر ادغام مجدد در حکومت واحد مقاومت می‌کند. گذار از جنگ متعارف به سیاست شبه نظامی، گذار از سناریویی با نتایج بد به سناریویی با نتایج بدتر است.
 
 ---
 
-## 9. Indicators to Watch
+## 6. خطرات بحرانی
 
-### Highest-Risk Early Warning: Ceasefire Collapse Imminent
+### تنگه هرمز و امنیت جهانی انرژی
 
-- IRGC naval vessels conducting unusual maneuvers near shipping lanes in the Strait of Hormuz
-- Mine-laying activity detected in or near the Strait
-- IRGC missile units conducting reload operations at launch sites
-- Houthi or Iraqi militia attacks on US or Israeli assets (potentially IRGC-authorized or IRGC-not-controlling)
-- Israeli intelligence assessments leaked or published indicating Iranian nuclear reconstitution — this is the trigger most likely to drive Israeli unilateral action
-- Islamabad talks break down without a scheduled resumption date — the single clearest diplomatic failure indicator
-- Vahidi or senior IRGC commanders making statements that implicitly threaten ceasefire compliance ("we reserve the right to defend our sovereignty by all means")
-- US carrier strike group movements toward the Persian Gulf beyond current deployment
-- Trump administration statements referencing the "annihilation" deadline or expressing impatience with Islamabad negotiations
-- Evacuation of diplomatic personnel from Gulf states
-- US domestic political figures publicly calling for resumed military action
+بسته شدن طولانی مدت تنگه هرمز - هفته ها به جای چند روز - می تواند مهم ترین شوک عرضه نفت را از سال 1973 ایجاد کند. این تنگه تقریباً 17 تا 20 میلیون بشکه در روز حمل می کند که تقریباً 20 درصد ترانزیت جهانی نفت است. ذخایر استراتژیک نفت در کشورهای OECD تقریباً 90 روز پوشش می دهد. بسته شدن طولانی مدت اینها را خسته می کند. قیمت نفت 150 تا 200 دلار در هر بشکه باعث ایجاد رکود در هر اقتصاد بزرگ می شود. اثرات تولید ناخالص داخلی بر حسب درصد اندازه گیری می شود: شوک نفتی سال 1973، که شامل 7 درصد اختلال در عرضه بود، باعث کاهش 2 تا 4 درصدی تولید ناخالص داخلی در سراسر اقتصادهای صنعتی شد. یک اختلال 20 درصدی به نسبت شدیدتر خواهد بود. کشورهای بدون ذخایر استراتژیک - بیشتر کشورهای در حال توسعه - با سهمیه بندی انرژی روبرو هستند. آسیب اقتصادی موقتی نیست: الگوهای سرمایه گذاری زیرساخت های انرژی تغییر می کند، تجدید ساختار زنجیره تامین سرعت می گیرد و معماری ژئوپلیتیکی وابستگی به انرژی برای همیشه تغییر می کند.
 
-### Signals That Escalation Is Intensifying
+### امنیت مواد هسته ای در یک دولت فروپاشیده
 
-- Strikes expanding to include civilian infrastructure (power grid, water treatment, telecommunications) rather than military targets only
-- Iranian ballistic missile attacks reaching Israeli population centers rather than military installations
-- Strait of Hormuz physically blocked (mines confirmed, shipping halted) rather than merely threatened
-- Oil prices sustained above $130/barrel for more than two weeks
-- Ground force deployment discussions appearing in US media with official sourcing
-- Chinese diplomatic intervention — which would signal Beijing's assessment that the crisis threatens Chinese economic interests critically
-- Refugee movements exceeding 500,000 from Iranian border regions into Turkey, Iraq, or Pakistan
-- IRGC regional commanders making independent statements not aligned with Tehran messaging — indicating command fragmentation
-- Hezbollah remnant operations in Lebanon or Syrian border areas
+سه خطر هسته ای متمایز به طور همزمان عمل می کنند. اول، امنیت مواد هسته‌ای: اگر جنگ منجر به فروپاشی رژیم شود، سایت‌های هسته‌ای ایران - که قبلاً آسیب دیده‌اند - به یک بحران گسترش سلاح‌های هسته‌ای تبدیل می‌شوند. مواد شکاف پذیر در حالت تکه تکه شده بدترین سناریوی امنیت هسته ای است. دوم، آلودگی رادیولوژیکی: حملات به تأسیسات هسته ای ممکن است قبلاً مواد رادیواکتیو را منتشر کرده باشد. حملات مداوم به سایت های نیمه تخریب شده خطر آلودگی را برای جمعیت های اطراف افزایش می دهد. سوم، احتمال تئوریک - احتمال کم اما پیامد فاجعه بار - که ایران به آستانه توانایی هسته ای دست یافته است که به طور عمومی ارزیابی نشده است. ارزیابی جامعه اطلاعاتی از ظرفیت غنی سازی ایران پس از حملات فوریه تا مارس، وزن بسیار زیادی دارد. اگر آن ارزیابی اشتباه باشد، پویایی تشدید به طور اساسی تغییر می کند.
 
-### Positive Stabilization Indicators
+### اقدام خودمختار سپاه و تشدید ناخواسته
 
-- Islamabad framework agreement announced — the single most important stabilization indicator
-- IRGC command re-centralization: Vahidi publicly asserting authority over regional commanders and being obeyed, indicating that decentralized command is being pulled back
-- Iranian compliance with nuclear monitoring confidence-building measures — IAEA inspectors invited or readmitted to remaining facilities
-- China's Xi Jinping personally engaging in the diplomatic process — signals Chinese decision to use economic leverage for settlement rather than remaining passive
-- Artesh (regular military) leadership publicly distinguishing their position from IRGC hardline statements — indicating institutional differentiation that opens space for negotiation
-- Mojtaba Khamenei making public statements that emphasize negotiation rather than resistance
-- Oil prices declining below $90/barrel (indicates market assessment that Hormuz reopening is durable)
-- Gulf states (UAE, Qatar, Oman) conducting shuttle diplomacy independent of the Islamabad framework
-- Humanitarian access to affected Iranian areas being negotiated or granted
-- Reconstruction conditionality discussions beginning in international forums — indicating that actors are planning for settlement rather than escalation
+موازی خلیج تونکین لفاظی نیست. در سال 1964، یک حادثه دریایی مورد مناقشه در آب‌های ویتنام - احتمالاً یک روح راداری، احتمالاً مانور تهاجمی فرماندهان تاکتیکی - مجوز قانونی یک دهه جنگ را فراهم کرد. فرماندهی غیرمتمرکز سپاه ده ها حادثه بالقوه خلیج تونکین را ایجاد می کند. درگیری دریایی در تنگه، بارگیری مجدد یگان موشکی که به اشتباه به عنوان آماده‌سازی پرتاب تعبیر می‌شود، یک حمله نیابتی که ایران مجوز آن را نداده اما نمی‌تواند به طور قابل اعتمادی انکار کند – هر یک از این‌ها می‌توانند جنگ را از طریق زنجیره‌ای از تصمیم‌های تاکتیکی به جای انتخاب‌های استراتژیک آغاز کنند. خطر ساختاری این است که بقای آتش بس به پایبندی هر فرمانده قدرتمند سپاه بستگی دارد، نه فقط تصمیمات رهبری تهران.
+
+### فعالیت مجدد بقایای حزب الله و گسترش جغرافیایی
+
+"محور مقاومت" به شدت تخریب شده است - حزب الله تضعیف شد، حماس تنزل یافت، ظرفیت حوثی ها کاهش یافت. اما «تحقیر شده» «تخریب» نمی شود. این سازمان ها کادرها، دانش سازمانی، انبارهای سلاح و انگیزه ایدئولوژیک را حفظ می کنند. از سرگیری جنگ به آنها هدف و فوریت می دهد. گروه‌های شبه‌نظامی شیعه عراقی (PMF/حشد الشعبی) با فشار فوری برای حمله به نیروهای آمریکایی در عراق مواجه می‌شوند و دولت عراق را مجبور به انتخاب غیرممکن بین اتحاد خود با ایالات متحده و همدردی‌های اکثریت شیعه آن می‌کند. نیروهای حوثی کشتیرانی خلیج فارس و زیرساخت های عربستان را هدف قرار می دهند. درگیری از مثلث آمریکا، اسرائیل و ایران به یک بحران منطقه‌ای که حداقل شش کشور و چندین بازیگر غیردولتی را درگیر می‌کند، گسترش می‌یابد.
+
+### فاجعه انسانی
+
+هزینه های مستقیم جنگ مداوم بر جمعیت غیرنظامی ایران باید به صراحت بیان شود. ایران 87 میلیون نفر جمعیت دارد که اکثریت آنها در شهرهایی زندگی می کنند که دارای مهمات هدایت شونده دقیق هستند. بمباران مستمر زیرساخت‌ها - برق، آب، ارتباطات، حمل‌ونقل - باعث تلفات غیرنظامیان می‌شود، نه در اثر حملات مستقیم، بلکه از فروپاشی سیستم‌هایی که حیات را حفظ می‌کنند. بیمارستان ها بدون برق تصفیه خانه های آب بدون مواد شیمیایی دیابتی ها بدون انسولین بیماران دیالیزی بدون برق سالمندان و معلولان بدون سیستم حمایت اجتماعی. دوره تحریم‌های عراق و جنگ یمن مبنای تجربی را برای تخمین تلفات غیرنظامی تخریب پایدار زیرساخت‌ها فراهم می‌کند: این میزان در صدها هزار سال در طول سال اندازه‌گیری می‌شود و کودکان و افراد مسن هزینه‌های نامتناسبی را متحمل می‌شوند.
+
+### فروپاشی دولت بدون جانشین نهادی
+
+اگر جمهوری اسلامی بدون جانشین نهادی آماده به صورت نظامی نابود شود، ایران به لیبی بزرگتر و پیچیده تر تبدیل می شود. دولت به عنوان یک موجودیت واحد عمل نمی کند. [سناریوی تکه تکه شدن](./fragmentation.md) این نتیجه را به تفصیل توصیف می کند: این رهایی نیست، بلکه هرج و مرج است، و هرج و مرج پیش شرط دموکراسی نیست - پیش شرط جنگ سالاری است. ادبیات تطبیقی ​​در مورد طراحی نهادی پس از جنگ (پاریس 2004، دویل و سامبانیس 2006) بدون ابهام است: توالی مهم است. قبل از اینکه حکومت بتواند عمل کند، باید امنیت برقرار شود. حکومت باید قبل از معنی دار شدن انتخابات عمل کند. عراق 2003 هر سه را به طور همزمان انجام داد و در هر سه شکست خورد. ایران تحت مسیر B این شکست را در مقیاس بزرگتر تکرار خواهد کرد.
+
+### آتش سوزی منطقه ای
+
+جنگ از سر گرفته شده با ایران محدود به ایران نمی شود. بقایای حزب الله در لبنان - به شدت تخریب شده اما تخریب نشده - برای فعال شدن مجدد علیه اهداف اسرائیل با فشار مواجه هستند. گروه های شبه نظامی شیعه عراقی به نیروهای آمریکایی در عراق حمله می کنند و دولت عراق را در موقعیت غیرممکنی قرار می دهند. نیروهای حوثی در یمن، با ظرفیت کاهش یافته اما واقعی، کشتیرانی خلیج فارس و زیرساخت های سعودی را هدف قرار می دهند. شرکای پیمان آبراهام (امارات متحده عربی، بحرین) با فشار داخلی از سوی مردمی که نسبت به تلفات غیرنظامیان ایران دلسوز هستند، مواجه هستند. ترکیه با جریان پناهجویان و پویایی خودمختاری کردها در مرز خود مواجه است. پاکستان، میانجی آتش بس، با فشار داخلی از سوی جمعیت شیعه خود مواجه است. درگیری از مثلث آمریکا، اسرائیل و ایران به یک بحران منطقه‌ای که حداقل شش کشور را درگیر می‌کند، گسترش می‌یابد.
+
+### موقعیت چین: سه گزینه
+
+واکنش چین به از سرگیری جنگ یکی از پیامدترین متغیرها است و چین با سه گزینه روبروست.
+
+اول، بی طرفی - حفظ موضع فعلی مخالفت لفاظی خود با جنگ و در عین حال اجتناب از مداخله مادی. این پیش فرض است، اما اگر بسته شدن هرمز منابع انرژی چین را تهدید کند، ناپایدار می شود (چین تقریباً 40 درصد نفت خود را از طریق تنگه وارد می کند).
+
+دوم، کاهش حمایت از ایران - همکاری با اجرای تحریم ها و محدود کردن روابط اقتصادی، در ازای امتیازات ایالات متحده در مورد سایر موضوعات (تایوان، تجارت). این امر موقعیت چانه زنی ایران را تضعیف می کند و مسیر A (تسویه حساب قهری) را تسریع می بخشد.
+
+سوم، مداخله دیپلماتیک فعال با استفاده از اهرم اقتصادی - چین خود را به عنوان میانجی اصلی قرار می دهد و از نقش خود به عنوان بزرگترین مشتری نفت و شریک تجاری ایران برای فشار دادن ایران به سمت امتیازات استفاده می کند، در حالی که از اهرم اقتصادی خود بر ایالات متحده (دارایی های بدهی، زنجیره تامین) برای محدود کردن اهداف جنگی ایالات متحده استفاده می کند. تعامل شخصی شی جین پینگ نشانه این گزینه سوم خواهد بود و قوی ترین شاخص مثبت برای یک نتیجه مذاکره خواهد بود.
 
 ---
 
-## Cross-References
+## 7. اکنون چه کاری باید انجام شود
 
-**Other scenarios:**
+### جامعه مدنی در داخل ایران
 
-- [Status Quo Decay](./status-quo-decay.md) — The outcome if war produces another ceasefire without resolution; Pathway A's most likely trajectory
-- [Fragmentation](./fragmentation.md) — The outcome if war produces regime collapse without institutional successor; Pathway B's endpoint
-- [Democratic Transition](./democratic-transition.md) — The outcome that war makes harder but does not make impossible; requires ceasefire survival as precondition
-- [Reform Within](./reform-within.md) — The outcome that requires ceasefire survival; reform elites' window closes if war resumes
-- [Pahlavi Path](./pahlavi-path.md) — The monarchist option; external intervention could theoretically install but comparative evidence on externally imposed regimes suggests it would not consolidate
+از سرگیری جنگ نیاز به استراتژی بقا دارد. در طول جنگ 39 روزه اول، شبکه های سازمانی از طریق آرامش در فعالیت اعتراضی حفظ شدند. این دوباره امکان پذیر است، اما بار دوم سخت تر - زیرساخت های بیشتر تخریب شده، ارتباطات بیشتر مختل شده، فعالان بیشتری بازداشت شده اند.
 
-**Mechanisms:**
+**برنامه ریزی بقا و تخلیه **: شبکه های جامعه مدنی استانی باید برنامه های تخلیه را برای سازمان دهندگان کلیدی و تیم های مستندسازی تهیه کنند. افزونگی جغرافیایی ضروری است - تخریب هیچ شهری نباید ظرفیت سازمانی را از بین ببرد. ساختار غیرمتمرکز جنبش اعتراضی، که نقطه ضعفی برای اقدام سیاسی هماهنگ بود، به نقطه قوتی برای بقای زمان جنگ تبدیل می‌شود.
 
-- [External Intervention and Transition Derailment](../mechanisms/external-intervention-transition-derailment.md) — The central mechanism of this scenario (98 Iran-relevant sources)
-- [Elite Bargaining Failure](../mechanisms/elite-bargaining-failure-stalemate-or-coup.md) — Why war eliminates the negotiation option
-- [Military Defection](../mechanisms/military-defection-from-authoritarian-coalition.md) — Operates under sustained pressure but not short-term crisis; Artesh-IRGC differentiation is the key indicator
+**اسناد از طریق خاموشی اینترنت**: مهمترین کارکرد جامعه مدنی در طول جنگ، حفظ شواهد است. نقض حقوق بشر، تلفات غیرنظامی، تخریب زیرساخت ها - همه باید برای فرآیندهای پاسخگویی آینده مستند شوند. کانال های ارتباطی امن ایجاد شده در جریان جنبش اعتراضی باید از طریق قطعی اینترنت در زمان جنگ حفظ شود. اسناد فیزیکی (عکس‌ها، سوابق مکتوب، درایوهای USB، مواد چاپی) زمانی که زیرساخت دیجیتال از کار می‌افتد، حیاتی می‌شود. توانایی دیاسپورا برای دریافت، ذخیره و تأیید این اسناد ضروری است.
 
-**Comparative and contextual analysis:**
+**حفظ شبکه**: شبکه های رهبری باید از جنگ جان سالم به در ببرند. این به معنای شناسایی رهبری پشتیبان، پراکندگی دانش سازمانی در افراد و مکان‌های متعدد و ایجاد پروتکل‌های ارتباطی است که بدون اینترنت کار می‌کنند. تجربه جامعه مدنی ایران با خاموشی اینترنت در سال 2019، الگوهای عملیاتی را ارائه می‌کند – اما تعطیلی زمان جنگ طولانی‌تر و کامل‌تر خواهد بود.
 
-- [Civil-Military Relations](../synthesis/civil-military-relations-and-security-sector-reform/comparative-analysis.md) — Comparative evidence on military behavior during political crises
-- [Ceasefire-to-Settlement Pathways](../v2/external/ceasefire-to-settlement-pathways.md) — Why ceasefires hold or collapse; the 60-90 day window
-- [Foreign Military Intervention](../v2/external/foreign-military-intervention-regime-change.md) — Comparative analysis of intervention outcomes
-- [Iran Security State](../v2/iran-context/iran-security-state.md) — IRGC structure, capabilities, and command dynamics
-- [Iran External Relations](../v2/iran-context/iran-external-state.md) — Iran's international position and leverage
-- [Wartime Fragmentation](../v2/security/wartime-fragmentation-militia-politics.md) — How prolonged conflict produces militia politics
+**آماده شدن برای پس از جنگ**: حتی در زمان جنگ، جامعه مدنی باید برنامه های انتقالی را آماده کند - چارچوب های قانون اساسی، طرح های نهادی، پیشنهادهای حکومتی. شواهد مقایسه ای (لهستان، آفریقای جنوبی، تونس) نشان می دهد که انتقال زمانی موفق می شود که نیروهای اپوزیسیون پیشنهادهای نهادی مشخصی را در لحظه گشایش سیاسی آماده کنند. آن لحظه ممکن است به طور ناگهانی پس از آتش‌بس فرا برسد و سازمان‌هایی که پیشنهادهایی آماده دارند، نتیجه را رقم خواهند زد. این آمادگی یک خوش بینی بیهوده نیست - این یک موقعیت استراتژیک برای یک لحظه پس از جنگ است که در نهایت خواهد رسید، چه در ماه ها و چه سال ها.
+
+### دیاسپورا
+
+**لجستیک بشردوستانه**: لجستیک حمایت از ایرانیان در یک منطقه جنگی فعال - نقل و انتقالات مالی از طریق سیستم های بانکی تحریم شده، شبکه های تامین پزشکی، کمک تخلیه - مستلزم زیرساخت های سازمانی است که باید از قبل آماده شود و نه بداهه در زمان بحران. سازمان‌های دیاسپورا باید با آژانس‌های بین‌المللی بشردوستانه روابط برقرار کنند، مکانیسم‌های انتقال مالی را ایجاد کنند که از رژیم‌های تحریم جان سالم به در ببرد، و زنجیره‌های تامین پزشکی را هم‌اکنون ایجاد کنند.
+
+**پیام سیاسی: "انتقال دموکراتیک بدون فروپاشی رژیم"**: مهمترین کارکرد سیاسی دیاسپورا حفظ یک روایت جایگزین معتبر است. پیام باید این باشد: ایرانیان خواهان تغییرات دموکراتیک هستند و با مداخله نظامی خارجی مخالفند. اینها مواضع متناقضی نیستند. آنها مواضع واقعی جنبش اعتراضی هستند. خطر دستگیری روایت واقعی است - در طول جنگ عراق، کنگره ملی عراق احمد چلبی سیاست ایالات متحده را از طریق روابط واشنگتن شکل داد تا مشروعیت عراق. سازمان مجاهدین خلق برای چندین دهه تلاش کرده است که موقعیت مشابهی داشته باشد. در طول یک جنگ از سر گرفته شده، وسوسه سیاستگذاران غربی برای بالا بردن یک گروه تبعیدی که به آنها می گوید آنچه می خواهند بشنوند بسیار مهم است. دیاسپورا باید بلندترین صدا علیه تغییر رژیم نظامی باشد که هیچ طرح جانشین نهادی ندارد. بحث عراق در سال 2003 این است: تغییر رژیم بدون آمادگی نهادی نتایجی بدتر از رژیمی دارد که برکنار شد.
+
+**مخالفت با تغییر رژیم بدون برنامه**: دیاسپورا باید بلندترین صدا علیه تغییر رژیم نظامی باشد که برنامه جانشین نهادی ندارد. سازمان‌های دیاسپورا که به طور قابل اعتمادی آمادگی نهادی را نشان می‌دهند - پیشنهادهای قانون اساسی، چارچوب‌های عدالت انتقالی، طرح‌های بازسازی اقتصادی - جایگزینی برای «اول بمباران، بعد برنامه‌ریزی» ارائه می‌کنند. این حمایت انتزاعی نیست: این تفاوت بین عراق 2003 و انتقالی است که در واقع دولت‌های کارکردی را ایجاد کرد.
+
+### جامعه بین المللی
+
+**اجرای آتش بس با جدیت **: مهمترین اقدام، جلوگیری از فروپاشی آتش بس است. این به این معنی است: نظارت بر فعالیت‌های سپاه از نظر نقض انطباق. ایجاد مکانیسم‌های مشاوره سریع به‌منظور ارزیابی تخلفات احتمالی قبل از شروع انتقام‌جویی خودکار؛ حفظ روند اسلام آباد حتی زمانی که مذاکرات دشوار است. پنجره 60 تا 90 روزه مشخص شده در ادبیات آتش بس حیاتی است - اگر این پنجره بدون پیشرفت در چارچوب سیاسی بسته شود، احتمال عود به طور قابل توجهی افزایش می یابد. بازیگران بین‌المللی که اجازه می‌دهند این پنجره بگذرد، مسئولیت آنچه در ادامه می‌آید بر عهده دارند.
+
+**اگر جنگ از سر گرفته شود - اهداف محدود در مقابل حداکثرگرایانه**: هر بازیگر بین المللی که بر تصمیم گیری ایالات متحده تأثیر دارد - متحدان اروپایی، شرکای خلیج فارس، مصرف کنندگان انرژی آسیایی - باید به وضوح بیان کنند که اهداف جنگ تغییر رژیم علیه ایران نتایج 2003 عراق را در مقیاسی بسیار بزرگتر به همراه خواهد داشت. این دفاع از جمهوری اسلامی نیست. این به رسمیت شناختن این است که تغییر رژیم نظامی بدون آمادگی نهادی باعث شکست دولت می شود، نه دموکراتیزه شدن. شواهد عراق 2003 در این مورد بدون ابهام است.
+
+**مکانیسم های مشاوره سریع**: کانال های از پیش توافق شده برای ارزیابی نقض احتمالی آتش بس قبل از تشدید آتش بس. یک حادثه دریایی در تنگه، یک حرکت واحد موشکی، یک حمله نیابتی در عراق - هر یک از اینها به جای پاسخ نظامی خودکار، به مکانیزمی برای ارزیابی سریع و کاهش تنش نیاز دارند. پنجره 60-90 روزه دوره حیاتی برای ایجاد این مکانیسم ها است.
+
+**برنامه‌ریزی امنیت سایت هسته‌ای**: بازیگران بین‌المللی باید در صورت فروپاشی دولت، برنامه‌هایی را برای امنیت مواد هسته‌ای پیش‌بینی کنند. تیم‌های استقرار سریع، ترتیبات همکاری با کشورهای همسایه و پروتکل‌های اضطراری که نیازی به رضایت دولت ایران ندارند باید در طول آتش‌بس به عنوان بیمه آماده شوند.
+
+**برنامه ریزی کریدور پناهندگان**: ترکیه، عراق و پاکستان بار اصلی پناهندگان را بر عهده خواهند داشت. پیش از مواضع کمیساریای عالی پناهندگان سازمان ملل متحد، موافقت نامه های دوجانبه در مورد رسیدگی به پناهندگان و تعهدات مالی به کشورهای میزبان باید در طول آتش بس ایجاد شود. بحران پناهندگان ایرانی بزرگتر از بحران سوریه است که سیاست اروپا را بی ثبات کرد. 87 میلیون نفر جمعیت ایران در کشوری زندگی می کنند که با هفت ایالت هم مرز است که چندین کشور (عراق، افغانستان) خودشان ظرفیت جذب محدودی دارند.
+
+**آماده سازی کریدور بشردوستانه**: در صورت از سرگیری جنگ، دسترسی بشردوستانه به غیرنظامیان ایرانی باید فورا برقرار شود، نه پس از ماه ها حمایت. کمک های از پیش تعیین شده در کشورهای همسایه، کریدورهای بشردوستانه مورد توافق، و چارچوب های تخلیه پزشکی باید در طول آتش بس به عنوان برنامه ریزی اضطراری آماده شوند، نه پس از از سرگیری بمباران به عنوان پاسخ به بحران.
+
+### نخبگان اصلاح طلب در درون نظام
+
+از سرگیری جنگ گزینه اصلاحات را حذف می کند. اگر آتش‌بس از بین برود، پنجره انتقال با مذاکره بسته می‌شود - احتمالاً برای سال‌ها. چهره‌های عمل‌گرای سپاه پاسداران، مقامات دولت اصلاح‌طلب و شبکه پزشکیان انگیزه قوی برای برداشتن گام‌های فعال برای جلوگیری از اقدامات خودمختار سپاه پاسداران انقلاب اسلامی دارند که می‌تواند باعث تشدید تنش شود. این تنها ارزشمندترین کاری است که نخبگان اصلاحات می توانند در حال حاضر انجام دهند.
+
+به طور مشخص: حمایت داخلی برای رعایت آتش بس. به اشتراک گذاری اطلاعات در مورد آمادگی های نظامی غیرمجاز؛ ارتباط از طریق کانال های عقب با بازیگران بین المللی در مورد تمایل رژیم به مذاکره. و تلاش برای جلوگیری از عملیات اسپویلر تندرو. نخبگان اصلاح‌طلب که هم نزد جامعه بین‌المللی و هم در حوزه‌های داخلی اعتبار دارند، در صورت تداوم آتش‌بس، برای سناریوهای [اصلاح در درون](./reform-within.md) یا [انتقال دموکراتیک](./democratic-transition.md) قرار خواهند گرفت. کسانی که به طور کامل با موضع تندرو شناسایی می شوند، نخواهند بود. از سرگیری جنگ گزینه اصلاحات را حذف می کند - این پیام باید به گوش هر عمل گرا در تهران برسد.
+
+---
+
+## 8. عوارض خاص ایران
+
+### رهبری جنگ آزموده مجتبی
+
+مجتبی خامنه ای سرمایه نمادینی فراتر از نام پدرش ندارد. او در 9 مارس – نه روز پس از ترور پدرش، در رأی گیری مجلس خبرگان که توسط فراکسیون سپاه وحیدی مهندسی شده بود، به عنوان رهبر انتخاب شد. او هیچ گونه اعتبار روحانی از پیامدها، هیچ تجربه نظامی، هیچ مشروعیت مردمی، و هیچ ظرفیت اثبات شده ای برای تصمیم گیری در زمان جنگ که تعیین کننده بقا یا فروپاشی یک دولت است، ندارد.
+
+اختیارات او کاملاً به حمایت سپاه پاسداران، به ویژه جناح وحیدی بستگی دارد. اگر سپاه محاسبه کند که ادامه مقاومت به طرز فاجعه‌باری پرهزینه است - که جنگ غیرقابل پیروزی است و بقا مستلزم حل و فصل است - اقتدار مجتبی ممکن است از این محاسبه جان سالم به در نبرد. او هیچ پایگاه مستقلی ندارد که بتواند در برابر تصمیم سپاه برای مذاکره بالای سرش مقاومت کند یا اگر مانع بقای نهادی آنها شود، او را جایگزین کند. پدرش از جنگ ایران و عراق جان سالم به در برد زیرا مشروعیت انقلابی واقعی داشت. مجتبی ندارد. این یک ضعف ساختاری است که بر هر جنبه ای از تصمیم گیری های جنگی ایران تأثیر می گذارد.
+
+### فرماندهی غیرمتمرکز سپاه به عنوان ریسک محاسبات نادرست ساختاری
+
+تمرکززدایی عمدی سپاه - که جانشینان سه درجه عمیق و از پیش تفویض شده عملیاتی نامیده شد - برای زنده ماندن از سر بریدن رهبری طراحی شده بود. موفق شد: سپاه بعد از اعتصاب 7 بهمن به کار خود ادامه داد. اما این ساختار به این معناست که هیچ مرجع واحدی - نه مجتبی و نه واحدی - نمی تواند تضمین کند که هر واحد سپاه از شرایط آتش بس پیروی می کند. یک فرمانده منطقه ای در خوزستان، یک فرمانده نیروی دریایی در بندرعباس، یک فرمانده یگان موشکی در کرمانشاه - هر کدام صلاحیت و توانایی انجام عملیاتی را دارند که جنگ را دوباره آغاز کند. بقای آتش بس بستگی به تبعیت هر فرمانده قدرتمند دارد، نه فقط تصمیمات رهبری تهران. این یک اشکال در سیستم نیست - این طراحی سیستم است. و این آتش بس را از نظر ساختاری شکننده می کند به گونه ای که هیچ چارچوب دیپلماتیک نمی تواند به طور کامل به آن رسیدگی کند.
+
+### بنیادها و بازسازی پس از جنگ
+
+سیستم بنیاد (بنیاد) ایران حدود 20 تا 40 درصد از اقتصاد غیرنفتی را کنترل می کند. این بنیادهای شبه دولتی - بنیاد مستضعفان (بنیاد مستضعفان)، آستان قدس رضوی (کنترل موقوفه حرم امام رضا) و سایرین - کالاهای یارانه ای را توزیع می کنند، پروژه های عمرانی را مدیریت می کنند و رفاه اجتماعی میلیون ها نفر را تامین می کنند. آنها همچنین عمیقاً با شبکه های اقتصادی سپاه در هم تنیده اند.
+
+در هر سناریوی بازسازی پس از جنگ، الگوهای تخصیص بنیاد تعیین می کند که چه کسی سود می برد و چه کسی نه. الگوی تاریخی این است که قراردادهای بازسازی از طریق نهادهای وابسته به سپاه انجام می شود: قرارگاه سازندگی خاتم الانبیا (مجموعه سازندگی سپاه) اکثر قراردادهای زیرساختی عمده را پس از جنگ ایران و عراق دریافت کرد. از سرگیری جنگ و به دنبال آن بازسازی، این الگو را تکرار خواهد کرد - تقویت کنترل اقتصادی سپاه، نه تضعیف آن. بازیگران بین‌المللی که کمک‌های بازسازی را به تخصیص شفاف مشروط می‌کنند با این واقعیت مواجه خواهند شد که زیرساخت‌های سازمانی ایران برای ساخت‌وسازهای بزرگ در کنترل سپاه است.
+
+### جنگ نیابتی در عراق و سوریه
+
+از سرگیری جنگ ایران فوراً پویایی نیابتی را در عراق و سوریه فعال می کند. حشد الشعبی در عراق - گروه های شبه نظامی شیعه با درجات مختلفی از حمایت سپاه پاسداران ایران - برای حمله به نیروهای آمریکایی در عراق با فشار روبرو هستند. این دولت عراق را در موقعیتی غیرممکن قرار می‌دهد: دولت به مشارکت نظامی ایالات متحده وابسته است، اما جمعیت اکثریت شیعه و گروه‌های قدرتمند شبه‌نظامی شیعه خواستار همبستگی با ایران هستند. عراق می‌تواند تحت این فشار از نظر سیاسی تجزیه شود، با همسویی منطقه کردستان با ایالات متحده و استان‌های شیعه جنوب با ایران.
+
+در سوریه، نیروهای تحت حمایت ایران با حملات اسرائیل روبرو می‌شوند، در حالی که دولت تضعیف شده اسد باید محاسبه کند که آیا حفظ اتحاد ایران ارزش هزینه‌های نظامی را دارد یا خیر. بعد نیابتی به این معناست که از سرگیری جنگ با ایران هرگز فقط یک درگیری دوجانبه نیست - بلکه سیاست هر کشوری را که ایران در آن روابط نیابتی دارد، تغییر می‌دهد.
+
+### فروپاشی نقش میانجی پاکستان
+
+پاکستان در مذاکرات اسلام آباد میانجیگری می کند، اما موضع پاکستان از نظر ساختاری در تضاد است. پاکستان جمعیت قابل توجهی از اقلیت شیعه دارد (تخمین زده می شود 15 تا 20 درصد) که نسبت به ایران همدل هستند. ارتش پاکستان بر اساس روابط خود با چین (حامی اصلی آن) و ایالات متحده (یک شریک پیچیده اما مهم) به صورت استراتژیک محاسبه می کند.
+
+اگر آتش بس طی مذاکرات با میانجیگری پاکستان از بین برود، پاکستان با فشار سیاسی داخلی از سوی جمعیت شیعه خود، محاسبات استراتژیک در مورد بازدارندگی هسته ای خود (تنها کشور هسته ای با اکثریت مسلمان)، و بار عملی پناهندگان ایرانی که از مرزهای شرقی خود عبور می کنند، مواجه خواهد شد. فروپاشی پاکستان به عنوان میانجی تنها چارچوب دیپلماتیک فعلی را از بین خواهد برد – و هیچ میانجی جایگزین آشکاری وجود ندارد. عمان که میانجی‌گری در کانال پشتیبان برجام در سال 2015 بود، یک نامزد است اما فاقد وزن استراتژیک پاکستان است.
+
+### تنگه هرمز به عنوان اهرم نامتقارن
+
+هیچ کشور دیگری در جهان دارای نقطه اختناق جغرافیایی قابل مقایسه در زیرساخت های اقتصادی جهانی نیست. توانایی ایران برای بستن تنگه - از طریق مین‌ها، کشتی‌های دریایی، موشک‌های ضد کشتی مستقر در ساحل، و نیروی دریایی سپاه پاسداران انقلاب اسلامی مستقر در بندرعباس - به ایران اهرمی را بر اقتصاد جهانی می‌دهد که متناسب با قدرت نظامی‌اش نیست. 20 درصد نفت جهان از این آب ها عبور می کند. این اهرم هم بزرگترین عامل بازدارنده ایران در برابر اهداف جنگ تغییر رژیم و هم بزرگترین تحریک آن برای درگیری است. تنگه به ​​عنوان معادل بازدارنده هسته‌ای ایران عمل می‌کند: تهدیدی که هزینه جنگ را برای دشمنان ایران غیرقابل قبول می‌کند، اما استفاده از آن باعث تشدید تنش‌هایی می‌شود که قرار است از آن جلوگیری کند.
+
+### اثر تجمع ناسیونالیسم ایرانی
+
+هویت ملی ایرانی یکی از قدیمی ترین هویت های تمدنی پیوسته در جهان است. ایرانیانی که جمهوری اسلامی را تحقیر می کنند - که به قیمت جانشان اعتراض کردند - علیه تهاجم خارجی تجمع خواهند کرد. این فرضی نیست: در طول جنگ ایران و عراق (1980-1988)، ایرانیان مخالف خمینی برای ایران جنگیدند. روایت رژیم مبنی بر اینکه ایران مورد حمله تمدنی دشمنان خارجی قرار گرفته است، در طی یک کمپین بمباران فعال، واقعاً دقیق است. این ناسیونالیسم مهم‌ترین محدودیت برای سودمندی سیاسی سناریوی تشدید جنگ است: نیروی نظامی که قرار است ایرانی‌ها را از دست دولت‌شان رهایی بخشد، در عوض ایرانی‌ها را حداقل به‌طور موقت پشت سر دولتشان متحد می‌کند. این اثر با گذشت زمان و رنج انباشته از بین می‌رود - اما در ماه‌های بحرانی اولیه درگیری‌های مجدد، به شدت علیه اهداف سیاسی مداخله عمل می‌کند.
+
+### دانش هسته ای را نمی توان بمباران کرد
+
+برنامه هسته ای ایران بیش از 10000 پرسنل فنی را به کار گرفته بود. حتی اگر هر سانتریفیوژ نابود شود، دانشمندان، مهندسان و تکنسین هایی که آنها را ساخته اند، دانش خود را حفظ می کنند. تاریخچه پنهان‌کاری ایران - تأسیسات زیرزمینی فردو تا سال 2009، سال‌ها پس از شروع ساخت، به طور عمومی فاش نشد - به این معنی است که آسیب ارزیابی‌شده ممکن است منعکس کننده آسیب واقعی نباشد. یک توافق صلح نه تنها باید زیرساخت های فیزیکی بلکه سرمایه انسانی برنامه را مورد توجه قرار دهد - از طریق ادغام بین المللی، استخدام در تحقیقات غیرنظامی، یا ترتیبات نظارتی. اعتصابات نظامی نشانه ها (امکانات) را نشان می دهد نه علل (دانش و انگیزه). این بدان معناست که مسئله هسته ای صرف نظر از اینکه چه تعداد از تأسیسات ویران شده است، تنها از طریق جنگ قابل حل نیست.
+
+### اماکن مقدس شیعیان
+
+قم و مشهد مقدس‌ترین شهرهای شیعه ایران هستند که سالانه میلیون‌ها زائر از آن‌ها زیارت می‌کنند. حرم حضرت معصومه قم و حرم امام رضا مشهد از مقدس ترین اماکن شیعه هستند. هرگونه عملیات نظامی که به این سایت‌ها آسیب برساند - حتی به صورت جانبی - درگیری را از یک رویارویی ژئوپلیتیکی به یک رویارویی تمدنی تبدیل می‌کند. بمب گذاری در مسجد سامرا در سال 2006 در عراق باعث یک جنگ داخلی فرقه ای شد. آسیب به اماکن مقدس شیعیان در ایران، جمعیت شیعیان را در سراسر عراق، لبنان، بحرین، پاکستان و هند بسیج می‌کند - دامنه جغرافیایی درگیری را گسترش می‌دهد و حل دیپلماتیک را به طرز چشمگیری سخت‌تر می‌کند.
+
+### جغرافیای ایران و ناممکنی اشغال
+
+مساحت ایران 1648195 کیلومتر مربع است که از مجموع فرانسه، آلمان، اسپانیا و بریتانیا بزرگتر است. قلمرو آن شامل رشته کوه های زاگرس و البرز، بیابان های وسیع و مراکز شهری متراکم است. جمعیت 87 میلیونی آن در شهرها، شهرستان ها و روستاها پراکنده شده است. این موقعیت جغرافیایی ایران را با نیروی نظامی خارجی غیرقابل کنترل می کند. ایالات متحده عراق (438000 کیلومتر مربع، 25 میلیون نفر) را با 130000 نیرو اشغال کرد و در ایجاد حکومت ناکام ماند. ایران به نیرویی چندین برابر بزرگتر نیاز دارد - تعهدی که بیش از ظرفیت نظامی ایالات متحده بدون بسیج است. هر طراح جنگی که به عملیات زمینی در ایران فکر می کند، باید صادقانه با این جغرافیا مقابله کند: ایران را نمی توان اشغال کرد، فقط بمباران کرد. و بمباران بدون اشغال نمی تواند باعث تغییر رژیم شود - هیچ دولتی در تاریخ تنها با نیروی هوایی بدون نیروی زمینی یا فروپاشی داخلی سرنگون نشده است.
+
+### ناسیونالیسم ضدغربی نسلی
+
+بلند مدت ترین ریسک مداخله نظامی قدرت‌های غربی علیه ایران، روایت مرکزی جمهوری اسلامی را تایید می‌کند: ایران در محاصره دشمنان خارجی است که به دنبال نابودی حاکمیت و تمدن آن هستند. این روایت 47 سال است که تبلیغ می شود. یک کمپین بمباران مستمر آن را واقعی می کند. نسل ایرانی‌هایی که زیر بمب‌های آمریکایی بزرگ می‌شوند، این تجربه را برای دهه‌ها با خود خواهند داشت – درست همانطور که نسلی که کودتای ۱۹۵۳ و جنگ ۱۹۸۰-۱۹۸۸ را تجربه کرد، تجربه خود را داشت. حتی اگر جمهوری اسلامی سقوط کند، ناسیونالیسم ضد غربی ناشی از جنگ، سیاست ایران را برای یک نسل شکل خواهد داد. ایران دموکراتیکی که در نهایت ظهور می‌کند، بیشتر از آنچه که بدون جنگ بود، ضدغربی‌تر، نسبت به نهادهای بین‌المللی مشکوک‌تر و کمتر مایل به ادغام در نظم تحت رهبری غرب خواهد بود. این عمیق ترین هزینه راهبردی تشدید تنش نظامی است و تقریباً هرگز در تصمیم گیری های تشدید قرار نمی گیرد.
+
+---
+
+## 9. شاخص هایی برای تماشا
+
+### هشدار اولیه با بالاترین خطر: فروپاشی آتش بس قریب الوقوع است
+
+مانورهای غیرعادی شناورهای نیروی دریایی سپاه در نزدیکی خطوط کشتیرانی در تنگه هرمز
+- فعالیت مین گذاری در داخل یا نزدیک تنگه شناسایی شده است
+- یگان های موشکی سپاه در حال انجام عملیات بارگیری مجدد در سایت های پرتاب
+- حملات حوثی‌ها یا شبه‌نظامیان عراقی به دارایی‌های ایالات متحده یا اسرائیل (احتمالاً مجاز توسط سپاه پاسداران یا غیرقابل کنترل سپاه)
+- ارزیابی‌های اطلاعاتی اسرائیل به بیرون درز کرد یا منتشر شد که نشان‌دهنده بازسازی هسته‌ای ایران است - این محرکی است که احتمالاً اقدام یکجانبه اسرائیل را هدایت می‌کند.
+- مذاکرات اسلام آباد بدون یک تاریخ از سرگیری برنامه ریزی شده شکست می خورد - واضح ترین شاخص شکست دیپلماتیک
+- اظهارات وحیدی یا فرماندهان ارشد سپاه پاسداران انقلاب اسلامی که تلویحاً پایبندی به آتش بس را تهدید می کند ("ما حق دفاع از حاکمیت خود را به هر وسیله ای برای خود محفوظ می داریم")
+- تحرکات گروه ضربتی ناو آمریکایی به سمت خلیج فارس فراتر از استقرار فعلی
+- اظهارات دولت ترامپ با اشاره به ضرب الاجل "نابودی" یا ابراز بی حوصلگی نسبت به مذاکرات اسلام آباد
+- تخلیه پرسنل دیپلماتیک از کشورهای خلیج فارس
+- شخصیت های سیاسی داخلی ایالات متحده علناً خواستار از سرگیری اقدامات نظامی شدند
+
+### سیگنال هایی که تشدید تشدید است
+
+- حملات به جای اهداف نظامی که فقط شامل زیرساخت‌های غیرنظامی (شبکه برق، تصفیه آب، مخابرات) می‌شوند.
+- حملات موشکی بالستیک ایران به مراکز جمعیتی اسرائیل به جای تأسیسات نظامی
+- تنگه هرمز از نظر فیزیکی مسدود شد (مین‌ها تایید شد، کشتی‌رانی متوقف شد) نه اینکه صرفا تهدید شود.
+- قیمت نفت برای بیش از دو هفته بالای 130 دلار در هر بشکه باقی ماند
+- بحث استقرار نیروی زمینی با منبع رسمی در رسانه های ایالات متحده ظاهر می شود
+- مداخله دیپلماتیک چین - که نشان دهنده ارزیابی پکن است که بحران منافع اقتصادی چین را به شدت تهدید می کند
+- جابجایی بیش از 500000 پناهجو از مناطق مرزی ایران به ترکیه، عراق یا پاکستان
+- بیانیه‌های مستقل فرماندهان منطقه‌ای سپاه که با پیام‌رسانی تهران همسو نیستند - نشان دهنده پراکندگی فرماندهی است.
+- عملیات بقایای حزب الله در لبنان یا مناطق مرزی سوریه
+
+### شاخص های تثبیت مثبت
+
+- موافقتنامه چارچوب اسلام آباد - مهمترین شاخص ثبات - اعلام شد
+- تمرکز مجدد فرماندهی سپاه: وحیدی علناً بر فرماندهان منطقه تأکید می کند و از او اطاعت می شود که نشان می دهد فرماندهی غیرمتمرکز در حال عقب نشینی است.
+- پایبندی ایران به اقدامات اعتمادسازی نظارت بر هسته‌ای - بازرسان آژانس بین‌المللی انرژی اتمی به تأسیسات باقی‌مانده دعوت یا مجدداً پذیرش شدند.
+- شی جین پینگ چین شخصاً در روند دیپلماتیک شرکت می کند - نشان دهنده تصمیم چین برای استفاده از اهرم اقتصادی برای حل و فصل به جای منفعل ماندن است.
+- رهبری آرتش (نظامی عادی) علناً موضع خود را از اظهارات تندرو سپاه متمایز می کند - که نشان دهنده تمایز نهادی است که فضا را برای مذاکره باز می کند.
+- اظهارات علنی مجتبی خامنه ای که بر مذاکره تاکید دارد تا مقاومت
+- کاهش قیمت نفت به زیر 90 دلار در هر بشکه (نشان دهنده ارزیابی بازار مبنی بر دوام بازگشایی هرمز است)
+- کشورهای حاشیه خلیج فارس (امارات متحده عربی، قطر، عمان) دیپلماسی شاتل را مستقل از چارچوب اسلام آباد انجام می دهند.
+- دسترسی بشردوستانه به مناطق آسیب دیده ایران در حال مذاکره یا اعطا است
+- شروع بحث مشروط بازسازی در مجامع بین المللی - نشان می دهد که بازیگران به جای تشدید تنش، برای حل و فصل برنامه ریزی می کنند.
+
+---
+
+## ارجاعات متقابل
+
+**سناریوهای دیگر:**
+
+- [تخریب وضعیت موجود](./status-quo-decay.md) - نتیجه اگر جنگ آتش‌بس دیگری را بدون حل و فصل ایجاد کند. محتمل ترین مسیر مسیر A
+- [چندپارگی](./fragmentation.md) - نتیجه اگر جنگ منجر به فروپاشی رژیم بدون جانشین نهادی شود. نقطه پایانی مسیر B
+- [انتقال دموکراتیک](./democratic-transition.md) - نتیجه ای که جنگ سخت تر می کند اما غیرممکن نمی کند. مستلزم بقای آتش بس به عنوان پیش شرط است
+- [اصلاح درون](./reform-within.md) - نتیجه ای که مستلزم بقای آتش بس است. در صورت از سرگیری جنگ پنجره نخبگان اصلاحات بسته می شود
+- [راه پهلوی](./pahlavi-path.md) - گزینه سلطنت طلب; مداخله خارجی از نظر تئوری می تواند نصب شود، اما شواهد مقایسه ای در مورد رژیم های تحمیلی از خارج نشان می دهد که آن را تحکیم نمی کند.
+
+**مکانیسم ها:**
+
+- [مداخله خارجی و خروج از ریل](../mechanisms/external-intervention-transition-derailment.md) - مکانیسم مرکزی این سناریو (98 منابع مرتبط با ایران)
+- [شکست چانه زنی نخبگان](../mechanisms/elite-bargaining-failure-stalemate-or-coup.md) - چرا جنگ گزینه مذاکره را حذف می کند
+- [دستورالعمل نظامی](../mechanisms/military-defection-from-authoritarian-coalition.md) - تحت فشار مستمر اما نه بحران کوتاه‌مدت عمل می‌کند. تمایز آرتش و سپاه شاخص کلیدی است
+
+**تحلیل مقایسه ای و زمینه ای:**
+
+- [روابط نظامی-مدنی](../synthesis/civil-military-relations-and-security-sector-reform/comparative-analysis.md) - شواهد مقایسه ای در مورد رفتار نظامی در طول بحران های سیاسی
+- [مسیرهای آتش بس تا حل و فصل](../v2/external/ceasefire-to-settlement-pathways.md) - چرا آتش بس ها پابرجا می ماند یا فرو می ریزد. پنجره 60-90 روزه
+- [مداخله نظامی خارجی](../v2/external/foreign-military-intervention-regime-change.md) - تحلیل مقایسه ای نتایج مداخله
+- [دولت امنیتی ایران](../v2/iran-context/iran-security-state.md) - ساختار، قابلیت‌ها و پویایی فرماندهی سپاه
+- [روابط خارجی ایران](../v2/iran-context/iran-external-state.md) - موقعیت و اهرم بین المللی ایران
+- [تجزیه در زمان جنگ](../v2/security/wartime-fragmentation-militia-politics.md) - چگونه درگیری طولانی مدت باعث ایجاد سیاست شبه نظامیان می شود
+
+</div>

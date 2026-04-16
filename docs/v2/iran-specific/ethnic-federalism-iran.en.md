@@ -121,11 +121,15 @@ underlying structural dynamics in how this category of change occurs.
 
 **Evidence quality:** HIGH — Tajbakhsh (2022) documents this with 20 years of field data; the 2003 Tehran council elections are a documented historical fact.
 
+## Iran Analysis
+
 
 > ⚠️ **Context Review Needed** — This section may contain outdated assumptions about Iran's current state.
 
 
 > 📎 **Source Alignment: 🟡 Moderate** (65%)
+
+**[April 2026 Wartime Context Notice]** The analysis below was prepared prior to the onset of US-Israel military strikes on Iran (February 28, 2026) and the subsequent political developments including the assassination of Supreme Leader Ali Khamenei, the election of Mojtaba Khamenei as his successor (March 9, 2026), the two-week ceasefire agreed April 7–8, and the opening of multi-party Islamabad talks on April 10. These events have materially altered the transition timeline, compressing what was previously modeled as a gradual internal transition into an externally accelerated and contested process. The comparative analysis below retains its analytical value but should be read in light of this wartime context.
 
 ## Implications for Iran
 
@@ -298,6 +302,8 @@ The research evidence suggests that "ethnic federalism" as a label activates the
 ### Implication 4: Prioritize the Kurdish Question as a Confidence-Building Mechanism
 
 The Kurdish question is the most internationally visible ethnic issue in Iran and the one with the largest diaspora political infrastructure. Unlike Azeri or Arab communities, Kurdish organizations have institutional representation across Iraq, Turkey, and Syria and documented negotiation experience. A post-transition government that initiates credible negotiations with Kurdish political organizations — offering language rights, cultural autonomy, and genuine provincial self-governance — sends a signal to all ethnic minority communities about the credibility of the accommodation agenda. The Kurdish case is the "test case" that will determine whether other communities believe accommodation promises are real.
+
+**Ethnic Minority Regions' Responses to Wartime Conditions (April 2026):** Military conflict since February 2026 has activated distinct political dynamics in Iran's major ethnic minority regions. Kurdish political organizations — including KDPI and Komala, which maintained armed presence in border areas before the war — have used the conflict period to expand territorial control and political organization in Kurdistan province and adjacent areas. Baloch groups, energized by the ongoing protest cycle and wartime weakening of IRGC security presence in Sistan-Baluchestan, have increased cross-border coordination with Pakistani Baloch networks. The Azeri community presents a more complex picture: Turkey's interest in the Islamabad talks and longstanding Azerbaijani-Iranian ethnic connections create both diplomatic and ethno-political pressures that could either moderate or intensify Azeri minority claims depending on how international actors frame ethnic minority rights in any settlement. Arab communities in Khuzestan, in a major oil-producing region with existing grievances, face the additional dimension of proximity to energy infrastructure damage from the strikes. Transition planners developing federalism or decentralization proposals should account for the fact that wartime conditions have materially changed the organizational capacity and political demands of minority communities relative to pre-war baselines.
 
 > 📎 **Source Alignment: 🟢 Strong** (85%)
 

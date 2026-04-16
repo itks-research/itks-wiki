@@ -1,402 +1,406 @@
-# Scenario: Islamic Republic Persists with Reform
+<div dir="rtl" markdown>
 
-***Last Updated:** 2026-04-10*
+# سناریو: جمهوری اسلامی بر اصلاحات پافشاری می کند
 
-> **In brief**: The Islamic Republic survives the 2026 military crisis intact, but the combination of wartime trauma, Mojtaba Khamenei's legitimacy deficit, economic desperation, and international pressure forces meaningful liberalization. The system does not collapse, but it changes — in ways that may or may not prove durable. No theocracy has ever transitioned to democracy from within; this scenario tests whether one can liberalize enough to survive without democratizing.
+*آخرین به‌روزرسانی: ۲۰۲۶-۰۴-۱۰*
 
----
-
-## 1. What This Looks Like Concretely
-
-The ceasefire holds. Islamabad negotiations produce a framework agreement — not as comprehensive as the 2015 JCPOA, but sufficient to restore some sanctions relief and halt further strikes. Mojtaba Khamenei, lacking his father's base of personal authority, cannot govern through sheer repression alone. He needs a political win, and the deal is it.
-
-In return for sanctions relief and international reconstruction access, the Islamic Republic makes real — not cosmetic — concessions: a significant reduction in IRGC economic holdings (structured divestment over 5-7 years), a release of political prisoners (possibly thousands), loosened press restrictions, and the legalization of some civil society organizations. Presidential elections in 2025 already brought Pezeshkian to power; under reform-within conditions, the reformist faction's hand strengthens within the factional triangle.
-
-**What daily life looks like in Year One**: Inflation drops from 60-100% toward 30-40% as sanctions relief restores some hard currency. The rial stabilizes enough that grocery prices stop changing weekly. Internet filtering loosens — Instagram and WhatsApp return, though VPNs remain necessary for Twitter/X and YouTube. Some political prisoners come home.
-
-Mandatory hijab enforcement by gasht-e ershad is quietly suspended in Tehran, Isfahan, and Shiraz, though not formally repealed. University campuses regain a degree of political discussion. Labor unions file for legal recognition. Independent newspapers apply for permits — some are granted, most are delayed indefinitely. Small businesses reopen. Bazaar merchants resume normal import operations, though the rial's instability makes pricing difficult. Young Iranians cautiously test the boundaries of the new space — posting political commentary online, attending public lectures, organizing reading groups that are political in content if not in name.
-
-**What daily life does not look like**: Free elections. Independent judiciary. IRGC accountability for the 3,117+ killed. Freedom to organize political parties outside the approved spectrum. An end to the Guardian Council's candidate vetting. Public discussion of velayat-e faqih's abolition.
-
-This is not democracy. It is a softer authoritarianism — more like the Iran of 1997-2004, or Turkey's managed pluralism in the 2000s before Erdogan's consolidation, than the fully militarized regime of 2023-2026. The red lines remain: no questioning of the Supreme Leader's authority, no independent investigation of IRGC conduct during the war or protests, no organized political opposition that challenges the system's foundational principles. The boundaries of permissible speech expand, but they remain boundaries.
-
-The scenario's central tension: reforms sufficient to stabilize the regime also expand the space through which more transformative demands can be pressed. The history of "reform within the system" strategies — from Khatami's presidency to Gorbachev's glasnost — is that they either stall (Iran 2004-2009 backlash) or accelerate beyond the regime's intended boundaries (Soviet Union 1989-1991). This scenario is inherently unstable in the medium term. It is best understood not as a destination but as a waystation — a transitional phase that leads either back toward authoritarian consolidation or forward toward more fundamental transformation. The question is not whether reform-within is sustainable indefinitely (it is not), but whether it creates the institutional foundations and political habits that make a subsequent democratic transition possible rather than violent.
+> **به طور خلاصه**: جمهوری اسلامی از بحران نظامی 2026 دست نخورده جان سالم به در می برد، اما ترکیبی از آسیب های دوران جنگ، کسری مشروعیت مجتبی خامنه ای، استیصال اقتصادی و فشار بین المللی باعث آزادسازی معنادار می شود. سیستم فرو نمی‌پاشد، اما تغییر می‌کند - به روش‌هایی که ممکن است دوام داشته باشند یا نشوند. هیچ حکومت دینی هرگز از درون به دموکراسی منتقل نشده است. این سناریو آزمایش می‌کند که آیا می‌توان به اندازه کافی آزادسازی کرد تا بدون دموکراسی‌سازی زنده بماند.
 
 ---
 
-## 2. Trigger Conditions
+## 1. این به طور مشخص چگونه به نظر می رسد
 
-This scenario requires several conditions to align simultaneously. None is inevitable; their joint probability is low to moderate.
+آتش بس برقرار است. مذاکرات اسلام آباد یک توافق چارچوبی را ایجاد می کند - نه به اندازه برجام 2015، اما برای بازگرداندن برخی کاهش تحریم ها و توقف حملات بیشتر کافی است. مجتبی خامنه ای که فاقد پایگاه اقتدار شخصی پدرش است، نمی تواند تنها از طریق سرکوب محض حکومت کند. او به یک پیروزی سیاسی نیاز دارد و معامله همین است.
 
-**Ceasefire converts to framework agreement**: The Islamabad talks produce a sustainable nuclear arrangement. Probability assessed at 25-35% by the comparative ceasefire literature ([Ceasefire-to-Settlement Pathways](../v2/external/ceasefire-to-settlement-pathways.md)). The 60-90 day window after ceasefire is critical — if framework is not reached by mid-July 2026, the probability drops sharply. The ceasefire-to-settlement conversion rate in comparable cases is approximately 40-50%, but most collapses occur in this early window. Without a framework agreement, the economic drivers of reform disappear. Pakistan's mediation role is significant: Islamabad has credibility with both the US and Iran, but Pakistan's own domestic instability limits its leverage.
+در ازای رفع تحریم‌ها و دسترسی به بازسازی بین‌المللی، جمهوری اسلامی امتیازات واقعی – نه زیبایی – می‌دهد: کاهش قابل توجه دارایی‌های اقتصادی سپاه (اختلاف ساختار یافته طی ۵ تا ۷ سال)، آزادی زندانیان سیاسی (احتمالاً هزاران نفر)، کاهش محدودیت‌های مطبوعاتی، و قانونی شدن برخی سازمان‌های جامعه مدنی. انتخابات ریاست جمهوری در سال 2025 پزشکیان را به قدرت رساند. در شرایط اصلاحات، دست جناح اصلاح طلب در داخل مثلث جناحی تقویت می شود.
 
-**Mojtaba Khamenei consolidates around deal-making, not hardline resistance**: His legitimacy deficit makes him structurally dependent on political success. A ceasefire deal would be his first major achievement and the basis for independent authority. This is possible but opposed by IRGC hardliners like Ahmad Vahidi who benefit from continued emergency conditions. Mojtaba's situation has no clean historical parallel — a hereditary successor in a system that theoretically selects by religious qualification, installed during wartime by a 62/88 vote in the Assembly of Experts, with the IRGC as his only institutional base. He is neither a reformer by conviction nor a hardliner by temperament; he is a survivor who will reform if reform is the price of survival.
+**زندگی روزمره در سال اول چگونه به نظر می رسد**: تورم از 60 تا 100 درصد به 30 تا 40 درصد کاهش می یابد زیرا کاهش تحریم ها مقداری ارز را بازیابی می کند. ریال به قدری تثبیت می‌شود که قیمت‌های مواد غذایی تغییر هفتگی را متوقف می‌کنند. فیلتر اینترنت کاهش می‌یابد – اینستاگرام و واتس‌اپ برمی‌گردند، اگرچه VPN‌ها برای Twitter/X و YouTube ضروری هستند. برخی از زندانیان سیاسی به خانه می آیند.
 
-**IRGC pragmatist faction prevails over hardliners**: The IRGC is not monolithic. The pragmatist-hardliner split runs along a specific institutional fault line. Commanders whose pre-war wealth depended on normal economic conditions — construction contracts, import monopolies, banking through entities like Khatam al-Anbiya — have material incentive to accept sanctions relief even at the cost of political opening. Commanders whose power derives from the security apparatus — intelligence, Basij coordination, border enforcement — benefit from permanent emergency. Vahidi represents the latter faction. His removal or marginalization is a necessary (not sufficient) condition for reform-within.
+اجرای اجباری حجاب توسط گشت ارشاد بی سر و صدا در تهران، اصفهان و شیراز به حالت تعلیق درآمده است، اما به طور رسمی لغو نشده است. پردیس های دانشگاه درجه ای از بحث سیاسی را به دست می آورند. سندیکاهای کارگری برای شناسایی قانونی اقدام می کنند. روزنامه‌های مستقل برای مجوز درخواست می‌کنند - برخی از آنها اعطا می‌شوند و بیشتر آنها برای مدت نامحدودی به تأخیر می‌افتند. کسب و کارهای کوچک بازگشایی می شوند. بازرگانان بازار عملیات واردات عادی خود را از سر می گیرند، اگرچه بی ثباتی ریال قیمت گذاری را دشوار می کند. جوان‌های ایرانی با احتیاط مرزهای فضای جدید را آزمایش می‌کنند - ارسال نظرات سیاسی آنلاین، شرکت در سخنرانی‌های عمومی، سازمان‌دهی گروه‌های خواندنی که از نظر محتوایی، اگر نامشان سیاسی نباشد.
 
-The split also has a generational dimension. Older IRGC commanders who fought in the Iran-Iraq War carry personal legitimacy that younger commanders lack. The war generation is aging out. Their replacements are technocrats and businessmen in uniform, more interested in contract management than ideological warfare. This generational turnover, accelerated by wartime casualties among senior officers, could shift the IRGC's internal center of gravity toward pragmatism — but not quickly enough to guarantee the outcome. The IRGC's 500,000-700,000 active personnel, with family connections extending to several million Iranians, constitute a constituency that any reform must address rather than antagonize.
+**زندگی روزمره چه چیزی شبیه نیست**: انتخابات آزاد. قوه قضائیه مستقل پاسخگویی سپاه پاسداران در قبال 3117+ کشته شدگان. آزادی سازماندهی احزاب سیاسی خارج از طیف مصوب. پایان بررسی نامزدهای شورای نگهبان بحث عمومی لغو ولایت فقیه.
 
-**International conditionality is structured, not symbolic**: Reform-within requires external actors to provide both carrot and stick in a sustained, graduated manner. The most effective historical parallel is Poland's NATO/EU conditionality after 1989: concrete institutional benchmarks (civilian defense ministry, independent courts, free press) tied to concrete economic benefits (EU accession, NATO membership). If the US and EU offer front-loaded sanctions relief without institutional conditions, the regime captures the economic benefit and reverses political concessions. If they offer nothing, the regime has no incentive to reform. The optimal structure — graduated relief tied to verifiable benchmarks — requires diplomatic sophistication that the current US administration may or may not possess. The JCPOA precedent is cautionary: one US administration change reversed years of diplomacy. Any new framework must be more durable than an executive agreement.
+این دموکراسی نیست. این یک اقتدارگرایی نرم‌تر است - بیشتر شبیه ایران 1997-2004، یا پلورالیسم مدیریت شده ترکیه در دهه 2000 قبل از تحکیم اردوغان، تا رژیم کاملاً نظامی شده 2023-2026. خطوط قرمز همچنان باقی است: عدم زیر سوال بردن اقتدار رهبری، عدم بررسی مستقل رفتار سپاه پاسداران انقلاب اسلامی در زمان جنگ یا اعتراضات، عدم وجود اپوزیسیون سیاسی سازمان یافته که اصول اساسی نظام را به چالش می کشد. حدود گفتار مباح گسترش می یابد، اما حد و مرز باقی می ماند.
 
-**Protest movement remains below revolutionary threshold**: The December 2025-April 2026 protest wave is severe but leaderless, spanning all 31 provinces. A reform-within scenario requires the regime to make concessions fast enough to reduce protest intensity before it reaches the organizational cohesion of Solidarity (Poland 1980-89) or the ANC (South Africa 1980s). The regime's violent response — 3,117+ killed — has already pushed this in a more radical direction. Every killing creates a family with a grievance that no reform can address. The question is whether partial concessions can peel away enough of the protest base to prevent revolutionary consolidation.
-
-**Qom remains cautious rather than oppositional**: If senior marjas move from silence to overt opposition to Mojtaba, the religious legitimacy pillar collapses and the scenario shifts toward [Status Quo Decay](./status-quo-decay.md) or [Democratic Transition](./democratic-transition.md). Reform-within requires Qom's continued acquiescence, even without endorsement. The seminary system's internal debate about velayat-e faqih is already underway, but so long as it remains an academic rather than political discussion, the system holds. Mojtaba's lack of clerical credentials — he is not a recognized marja — means this acquiescence is thinner than it appears.
+تنش محوری سناریو: اصلاحات کافی برای تثبیت رژیم همچنین فضایی را گسترش می‌دهد که از طریق آن می‌توان خواسته‌های دگرگون‌کننده‌تری را تحت فشار قرار داد. تاریخچه استراتژی‌های «اصلاحات درون نظام» - از ریاست‌جمهوری خاتمی تا گلاسنوست گورباچف ​​- این است که یا متوقف می‌شوند (ایران 2004-2009 واکنش متقابل) یا سرعت می‌گیرند فراتر از مرزهای مورد نظر رژیم (اتحاد شوروی 1989-1991). این سناریو ذاتاً در میان مدت ناپایدار است. بهتر است آن را نه به عنوان یک مقصد، بلکه به عنوان یک ایستگاه راه درک کنیم - یک مرحله انتقالی که یا به سمت تحکیم اقتدارگرایانه یا به جلو به سمت دگرگونی اساسی تر منتهی می شود. مسئله این نیست که آیا اصلاحات در درون به طور نامحدود پایدار است یا نه، بلکه این است که آیا پایه‌های نهادی و عادات سیاسی را ایجاد می‌کند که انتقال دموکراتیک بعدی را به جای خشونت ممکن می‌سازد.
 
 ---
 
-## 3. Historical Parallels
+## 2. شرایط ماشه
 
-### China post-Tiananmen (1989-present): economic reform without political opening
+این سناریو مستلزم چندین شرط برای تراز کردن همزمان است. هیچ کدام اجتناب ناپذیر است. احتمال مشترک آنها کم تا متوسط ​​است.
 
-The CCP's post-Tiananmen strategy is the authoritarian reformer's ideal: deliver economic growth sufficient to buy legitimacy while maintaining political monopoly. Deng Xiaoping's 1992 Southern Tour restarted economic reform after three years of political retrenchment. GDP grew at 9-10% annually for two decades. Political dissent was managed through surveillance, selective repression, and co-optation of business elites into the party.
+**آتش بس به توافق چارچوب تبدیل می شود**: مذاکرات اسلام آباد یک ترتیبات هسته ای پایدار ایجاد می کند. احتمال 25-35٪ توسط ادبیات آتش بس مقایسه ای ([مسیرهای آتش بس تا حل و فصل](../v2/external/ceasefire-to-settlement-pathways.md)) ارزیابی شده است. پنجره 60 تا 90 روزه پس از آتش بس حیاتی است - اگر چارچوب تا اواسط ژوئیه 2026 محقق نشود، احتمال به شدت کاهش می یابد. نرخ تبدیل آتش بس به شهرک سازی در موارد مشابه تقریباً 40 تا 50 درصد است، اما بیشتر فروپاشی ها در همین پنجره اولیه رخ می دهد. بدون توافق چارچوب، محرک های اقتصادی اصلاحات ناپدید می شوند. نقش میانجی پاکستان قابل توجه است: اسلام آباد هم نزد ایالات متحده و هم در ایران اعتبار دارد، اما بی ثباتی داخلی پاکستان اهرم فشار آن را محدود می کند.
 
-**Why it maps**: The CCP demonstrated that economic reform and political control are not contradictory — at least for three decades. If Mojtaba's regime can deliver reconstruction and growth through sanctions relief, it could follow this model: concede economic space, retain political monopoly.
+**مجتبی خامنه ای حول محور معامله و نه مقاومت تندرو تجمیع می شود**: کسری مشروعیت او او را از نظر ساختاری به موفقیت سیاسی وابسته می کند. توافق آتش بس اولین دستاورد بزرگ او و مبنایی برای قدرت مستقل خواهد بود. این امر ممکن است اما با مخالفت تندروهای سپاه مانند احمد وحیدی که از ادامه شرایط اضطراری سود می برند، مخالف است. وضعیت مجتبی هیچ مشابه تاریخی پاکی ندارد - جانشینی موروثی در نظامی که به لحاظ نظری با صلاحیت مذهبی انتخاب می‌شود، در زمان جنگ با رأی 62/88 در مجلس خبرگان نصب شد و سپاه تنها پایگاه نهادی او بود. او نه از نظر اعتقادی اصلاح طلب است و نه از نظر خلق و خوی تندرو. او بازمانده ای است که اگر اصلاحات بهای بقا باشد اصلاح خواهد کرد.
 
-**Why it is limited**: China's post-1989 strategy required a functionally competent state bureaucracy, massive foreign direct investment, and an export-manufacturing boom. Iran has none of these. China had no equivalent of the IRGC's economic parasitism — the PLA was ordered to divest in 1998 and largely complied because the civilian economy offered better returns. Iran's IRGC controls 10-40% of GDP and has no profitable civilian economy to be diverted toward. China also had no equivalent of sanctions, no theological legitimacy requirement, and no ongoing military confrontation with a superpower. The model is aspirational for Iranian hardliners but structurally unavailable.
+**جناح عملگرای سپاه بر تندروها چیره شد**: سپاه یکپارچه نیست. انشعاب پراگماتیست و تندرو در امتداد یک خط گسل نهادی خاص جریان دارد. فرماندهانی که ثروت آنها در قبل از جنگ به شرایط عادی اقتصادی وابسته بود - قراردادهای ساخت و ساز، انحصار واردات، بانکداری از طریق نهادهایی مانند خاتم الانبیا - انگیزه مادی برای پذیرش لغو تحریم ها حتی به قیمت گشایش سیاسی دارند. فرماندهانی که اقتدارشان از دستگاه های امنیتی - اطلاعاتی، هماهنگی بسیج، نیروی مرزبانی - نشات می گیرد، از وضعیت اضطراری دائمی بهره مند می شوند. وحیدی نماینده جناح اخیر است. حذف یا به حاشیه راندن او شرط لازم (نه کافی) اصلاح درون است.
 
-### Mexico PRI (1977-2000): gradual liberalization under economic pressure
+انشعاب یک بعد نسلی نیز دارد. فرماندهان قدیمی سپاه که در جنگ ایران و عراق جنگیدند دارای مشروعیت شخصی هستند که فرماندهان جوان فاقد آن هستند. نسل جنگ در حال پیر شدن است. جانشینان آنها تکنوکرات ها و بازرگانانی یونیفرم پوش هستند که بیشتر به مدیریت قراردادها علاقه مند هستند تا جنگ ایدئولوژیک. این جابجایی نسلی، که با تلفات جنگ در میان افسران ارشد تسریع می‌یابد، می‌تواند مرکز ثقل داخلی سپاه را به سمت عمل‌گرایی سوق دهد – اما نه آنقدر سریع که نتیجه را تضمین کند. 500,000-700,000 پرسنل فعال سپاه، با روابط خانوادگی که به چندین میلیون ایرانی می رسد، حوزه ای را تشکیل می دهند که هر اصلاحی باید به جای مخالفت با آن رسیدگی کند.
 
-Mexico's Institutional Revolutionary Party (PRI) ruled for 71 unbroken years. Its managed liberalization over two decades offers the most instructive template for reform-within. The sequence was driven by economic crisis, not democratic conviction:
+**شرط بین المللی ساختار یافته است، نه نمادین**: اصلاحات در درون نیازمند بازیگران خارجی است که هم هویج و هم چوب را به شیوه ای پایدار و مدرج ارائه دهند. مؤثرترین موازی تاریخی، مشروطیت لهستان به ناتو/ اتحادیه اروپا پس از سال 1989 است: معیارهای نهادی مشخص (وزارت دفاع غیرنظامی، دادگاه های مستقل، مطبوعات آزاد) مرتبط با منافع اقتصادی مشخص (الحاق به اتحادیه اروپا، عضویت در ناتو). اگر ایالات متحده و اتحادیه اروپا لغو تحریم‌ها را بدون شرایط نهادی ارائه دهند، رژیم از منافع اقتصادی بهره می‌برد و امتیازات سیاسی را معکوس می‌کند. اگر چیزی ارائه ندهند، رژیم انگیزه ای برای اصلاحات ندارد. ساختار بهینه - تسکین مدرج که با معیارهای قابل تأیید مرتبط است - به پیچیدگی دیپلماتیک نیاز دارد که دولت فعلی ایالات متحده ممکن است از آن برخوردار باشد یا نداشته باشد. سابقه برجام هشداردهنده است: یک تغییر دولت ایالات متحده سال ها دیپلماسی را معکوس کرد. هر چارچوب جدید باید دوام بیشتری از یک توافقنامه اجرایی داشته باشد.
 
-- **1977**: After the Tlatelolco massacre (1968) and electoral crisis (1976), the PRI created a proportional representation system allowing opposition parties limited congressional seats. This was a pressure valve, not genuine pluralism.
-- **1982**: The debt crisis shattered the PRI's economic legitimacy. President de la Madrid began technocratic economic reform while maintaining political control.
-- **1988**: Cuauhtemoc Cardenas nearly won the presidency; the PRI resorted to blatant fraud ("se cayo el sistema" — the system crashed). The fraud delegitimized the PRI but also demonstrated the cost of not reforming.
-- **1990-1996**: Successive electoral reforms created an independent Federal Electoral Institute (IFE), public campaign financing, and media access rules. Each reform was forced by crisis, not volunteered.
-- **2000**: Vicente Fox won the presidency for PAN. The PRI accepted defeat because the institutional infrastructure for competitive elections had been built over 23 years.
+**جنبش اعتراضی زیر آستانه انقلابی باقی می ماند**: موج اعتراضی دسامبر 2025 تا آوریل 2026 شدید است اما بدون رهبری است و تمام 31 استان را در بر می گیرد. یک سناریوی اصلاحی مستلزم آن است که رژیم به اندازه کافی سریع امتیاز بدهد تا شدت اعتراض را قبل از رسیدن به انسجام سازمانی همبستگی (لهستان 1980-89) یا ANC (آفریقای جنوبی 1980) کاهش دهد. واکنش خشونت‌آمیز رژیم - بیش از 3117 کشته - این را به سمتی رادیکال‌تر سوق داده است. هر قتلی خانواده ای را با شکایتی ایجاد می کند که هیچ اصلاحی نمی تواند به آن رسیدگی کند. سوال این است که آیا امتیازات جزئی می تواند به اندازه کافی از پایه اعتراضی برای جلوگیری از تحکیم انقلابی جدا شود؟
 
-**Why it maps**: Economic crisis as the motor of political concession is directly applicable — Iran's current crisis is more severe than Mexico's 1982 or 1994 crises. The PRI's "tortoise strategy" of incremental institutional change over decades, where each reform seemed manageable but their accumulation proved transformative, is the optimistic version of reform-within. Spain's reform trajectory followed a similar pattern of gradual institutional pressure over decades.
-
-**Why it is limited**: Mexico's liberalization took 23 years. Iran's ceasefire window is 60-90 days. The compression of this timeline is the central challenge. Mexico also had no equivalent of the Guardian Council — the PRI controlled candidate selection internally, which made gradual opening possible through internal party reform. Iran's candidate vetting is constitutionally entrenched. And Mexico had no military economic empire; the PRI's patronage was civilian. Spain's transition (1975-1982) shows a faster timeline is possible but required a king willing to dismantle his own power — Mojtaba is no Juan Carlos.
-
-### Myanmar 2010-2015: military-managed opening and reversion
-
-Myanmar's generals initiated a controlled opening in 2010: releasing Aung San Suu Kyi, allowing her party (NLD) to contest elections, permitting independent media, and welcoming foreign investment. Western sanctions were lifted. The economy opened. For five years, Myanmar appeared to be transitioning.
-
-Then the military reversed everything. The 2021 coup reimposed military rule, demonstrated that the opening had been tactical (to escape sanctions and Chinese over-dependence), and revealed that no institutional safeguards had been built to prevent reversion. The constitution reserved 25% of parliamentary seats for the military and gave the commander-in-chief unilateral coup authority.
-
-**Why it maps**: Myanmar is the clearest warning case. The IRGC's constitutional protections (Guardian Council veto, Supreme Leader appointment) function like Myanmar's 25% military quota — structural ceilings that prevent reform from threatening military prerogatives. Any reform-within that does not address these structural features is vulnerable to Myanmar-style reversion.
-
-**Why it is limited**: Myanmar's military was less economically entrenched than the IRGC and had less ideological legitimacy. The Tatmadaw justified itself through ethnic-majority nationalism, not theology. Iran's regime has a deeper legitimacy infrastructure (velayat-e faqih, seminary system, revolutionary narrative) that both constrains reform and provides more tools for managing it.
-
-### Iran 1997-2004: Khatami presidency
-
-The closest precedent is Iran's own reform period. Khatami won the 1997 presidency with 70% of the vote on a platform of civil society expansion, press freedom, and rule of law. For four years, the reform movement achieved real gains: dozens of new newspapers, expanded university discourse, municipal elections, a vibrant public sphere. Then the Guardian Council systematically blocked legislative reform. The press was shuttered — over 100 publications closed between 2000 and 2004. A 2003 student uprising was suppressed. Reformists were disqualified from the 2004 Majles elections. By 2005, Ahmadinejad replaced Khatami and the reform era was over.
-
-The lesson: reform within the system can succeed for 4-6 years before hardline institutional blockage reasserts itself. The Guardian Council is the structural ceiling. Any reform that requires Guardian Council approval to weaken the Guardian Council is a constitutional catch-22 — the gatekeeper must approve its own demotion.
-
-The difference in 2026 is that the hardline faction's coercive legitimacy has also been damaged by the war. Ali Khamenei's assassination removed the single figure who could have arbitrated between factions. Mojtaba cannot play this role because he lacks the theological credentials and the personal networks. The Guardian Council's authority ultimately rested on the Supreme Leader's backing; with a weakened Supreme Leader, the Council's veto power becomes politically contestable in ways it was not under Khatami.
-
-### Taiwan 1986-1996: KMT managed transition
-
-The KMT regime liberalized incrementally under two leaders: Chiang Ching-kuo, who lifted martial law in 1987 and tolerated the formation of the Democratic Progressive Party (DPP), and Lee Teng-hui, who completed the transition to competitive elections by 1996. The key mechanisms:
-
-- **Internal reformist faction**: Lee Teng-hui was a native Taiwanese within a mainlander-dominated party. He used factional maneuvering to sideline hardliners.
-- **External pressure**: US democracy promotion, trade conditionality, and the broader Cold War context created incentives for liberalization that did not exist for the KMT's own ideological reasons.
-- **Economic integration**: Taiwan's export-oriented economy created a business class and middle class whose interests diverged from the party-state. Economic success made political opening less threatening.
-- **No military economic empire**: Unlike Iran, the KMT's economic control was exercised through state-owned enterprises and party assets, not through the military itself. The ROC military was subordinate to civilian authority throughout the transition.
-
-**Why it maps**: The reformist-faction mechanism is applicable if IRGC pragmatists gain ascendance. External pressure exists but is coercive (military strikes, sanctions) rather than integrative (trade conditionality, alliance membership).
-
-**Why it is limited**: Iran has no equivalent of Taiwan's export-oriented private sector. The IRGC's economic dominance means the constituency for market-driven liberalization is weaker. Civilian control of the military in South Korea took 30+ years and is still, in structural terms, incomplete. Taiwan's transition required a leader who genuinely wanted democratization; Mojtaba shows no such inclination.
-
-### Turkey 2002-2013: AKP as cautionary case
-
-The AKP's first decade looked like liberal reform within a system. The party curtailed military turf (Ergenekon trials, constitutional amendments reducing military judicial authority), expanded Kurdish cultural rights, pursued EU accession, and grew the economy. Western observers celebrated Turkey as a model of Islamic democracy.
-
-It was not. The AKP was consolidating factional power, not liberalizing. Once Erdogan's grip on the judiciary, military, and media was secure, the reforms reversed. The 2013 Gezi Park crackdown, the 2016 post-coup purges, and the 2017 constitutional referendum creating a presidential system revealed that the "reform" had been elite substitution: a religious-conservative elite replacing a secular-military one.
-
-**Why it maps**: This is the most dangerous parallel. A reform-within scenario in Iran could follow the AKP trajectory — where "reform" means one faction (IRGC pragmatists) consolidating power at the expense of another faction (IRGC hardliners), without any genuine structural change. The test is institutional: are new independent institutions being created (independent electoral commission, free press, civilian judiciary), or are existing institutions being captured by a different faction?
-
-**Why it is limited**: Turkey had NATO membership, EU candidacy, a functioning market economy, and no theocratic legitimacy structure. Iran has none of these anchors. The AKP parallel suggests that factional reform is likely in Iran, but that it will not produce liberalization — only a different configuration of authoritarian control. The diagnostic question for Iran observers: when IRGC pragmatists replace hardliners, are the new figures creating space for independent institutions, or are they merely installing loyalists in existing ones? If the latter, this is AKP trajectory, regardless of the rhetoric.
-
-### Gorbachev and glasnost: acceleration beyond control
-
-The Soviet parallel is the scenario's nightmare for regime insiders. Gorbachev intended glasnost as a controlled opening — enough transparency to enable economic reform (perestroika), not enough to destabilize the party's monopoly. Within four years, the opening had unleashed nationalist movements, labor strikes, and democratic demands that the party could not contain. By 1991, the Soviet Union dissolved.
-
-The mechanism: once information constraints are lifted, the population discovers that its private dissatisfaction is widely shared. The preference cascade — where public opinion shifts rapidly as people realize they are not alone — is inherently unpredictable and difficult to reverse once begun. Iran's 2022 Mahsa Amini protests demonstrated that preference cascades can ignite from single incidents. A systematic loosening of information controls under reform-within would create many more ignition points.
-
-**Why it maps**: Mojtaba's situation has structural similarities to Gorbachev's. Both inherited systems whose legitimacy was exhausted. Both faced economic crises that demanded reform. Both lacked the personal authority of their predecessors. The difference is that Gorbachev chose reform; Mojtaba would be forced into it. Leaders who reform under duress are more likely to try to reverse course, which typically accelerates the very instability they sought to prevent.
-
-### Why all parallels are limited
-
-All these cases involved regimes with higher institutional legitimacy than the Islamic Republic currently holds. Khatami's Iran had not just seen its Supreme Leader assassinated in a foreign airstrike. Mexico's PRI had not just fought a 39-day war. Taiwan's KMT had not killed 3,117+ protesters in the preceding months. Indonesia's Suharto fell after economic collapse, but Indonesia had not been bombed by foreign powers. China post-Tiananmen had a state apparatus capable of delivering 10% annual growth. The compound nature of Iran's 2026 crisis — military defeat, leadership assassination, economic collapse, mass protest, proxy network destruction, and nuclear capacity degradation occurring simultaneously — has no clean historical parallel. These structural differences make the reform-within scenario harder to sustain in Iran than in any of the precedent cases.
+**قم به جای مخالفت محتاط باقی می ماند**: اگر مراجع ارشد از سکوت به مخالفت آشکار با مجتبی بروند، ستون مشروعیت دینی فرو می ریزد و سناریو به سمت [تحویل وضع موجود](./status-quo-decay.md) یا [انتقال دموکراتیک](./democratic-transition.md) تغییر می کند. اصلاحات در داخل مستلزم رضایت مداوم قم، حتی بدون تایید است. بحث درونی نظام حوزوی درباره ولایت فقیه در حال حاضر در جریان است، اما تا زمانی که یک بحث آکادمیک و نه سیاسی باقی بماند، نظام پابرجاست. فقدان مدارک روحانیت مجتبی - او یک مرجع شناخته شده نیست - به این معنی است که این رضایت از آنچه به نظر می رسد نازکتر است.
 
 ---
 
-## 4. Transition Pathway
+## 3. موازی های تاریخی
 
-### Phase 1: First 100 Days (April-July 2026)
+### چین پس از تیان‌آن‌من (1989 تا کنون): اصلاحات اقتصادی بدون گشایش سیاسی
 
-The Islamabad framework agreement is the pivotal event. If it does not materialize by mid-July, this scenario's probability drops sharply (the 60-90 day window identified in ceasefire literature). Pakistan's role as mediator matters: Islamabad has back-channel relationships with both Washington and Tehran that no European mediator possesses, and Pakistan's own experience managing nuclear program negotiations provides institutional competence.
+استراتژی ح‌ک‌چ پس از تیان‌آن‌من آرمان اصلاح‌طلبان استبدادی است: رشد اقتصادی کافی برای خرید مشروعیت و در عین حال حفظ انحصار سیاسی. تور جنوبی دنگ شیائوپینگ در سال 1992 پس از سه سال تعدیل سیاسی، اصلاحات اقتصادی را دوباره آغاز کرد. تولید ناخالص داخلی برای دو دهه سالانه 9 تا 10 درصد رشد کرد. مخالفت های سیاسی از طریق نظارت، سرکوب انتخابی، و مشارکت نخبگان تجاری در حزب مدیریت می شد.
 
-**Framework agreement terms** (if reached): Iran agrees to enrichment caps (3.67% or below, matching JCPOA levels), enhanced IAEA inspections including military site access, and a commitment not to reconstitute destroyed centrifuge capacity. The US agrees to Phase 1 sanctions relief: $5-8B in frozen assets released from South Korean and Japanese accounts, humanitarian trade channels reopened, and a 120-day waiver on oil sanctions for select importers (China, India, Turkey). Both sides commit to continued negotiations toward a comprehensive settlement.
+**چرا نقشه می‌کشد**: ح‌ک‌چ نشان داد که اصلاحات اقتصادی و کنترل سیاسی متناقض نیستند - حداقل برای سه دهه. اگر رژیم مجتبی بتواند بازسازی و رشد را از طریق رفع تحریم ها انجام دهد، می تواند از این مدل پیروی کند: واگذاری فضای اقتصادی، حفظ انحصار سیاسی.
 
-**Mojtaba's domestic framing**: He announces the deal as "an honorable diplomatic victory consistent with our rights and our martyrs' sacrifice." The IRGC's public posture shifts from war footing to "resistance succeeded in defending sovereignty." This is not credible to most Iranians, but it provides the regime's base with a narrative that does not require admitting defeat.
+**چرا محدود است**: استراتژی چین پس از سال 1989 مستلزم یک بوروکراسی دولتی کارآمد، سرمایه گذاری مستقیم خارجی عظیم و رونق صادرات- تولید بود. ایران هیچ کدام از اینها را ندارد. چین هیچ معادلی برای انگلی اقتصادی سپاه پاسداران انقلاب اسلامی نداشت - PLA در سال 1998 دستور واگذاری آن را صادر کرد و تا حد زیادی از این امر پیروی کرد زیرا اقتصاد غیرنظامی بازدهی بهتری ارائه می‌کرد. سپاه ایران 10 تا 40 درصد تولید ناخالص داخلی را کنترل می کند و هیچ اقتصاد غیرنظامی سودآوری ندارد که بتوان به سمت آن سوق داد. چین همچنین هیچ معادلی برای تحریم، هیچ الزام مشروعیت الهیات، و هیچ رویارویی نظامی مداوم با یک ابرقدرت نداشت. این مدل برای تندروهای ایرانی آرزویی است اما از نظر ساختاری در دسترس نیست.
 
-**Institutional concessions in Phase 1**:
+### مکزیک PRI (1977-2000): آزادسازی تدریجی تحت فشار اقتصادی
 
-- Selective release of political prisoners: 2,000-5,000 as confidence-building measure, prioritizing non-violent protesters and journalists. High-profile activists (those with international recognition) released first as signal to Western audiences.
-- Announcement of a "National Reconstruction Dialogue" (Goftegu-ye Melli-ye Bazsazi) — a consultative body with no binding power but symbolic inclusion of reformist figures, university presidents, and selected civil society leaders. Modeled loosely on South Africa's CODESA but without CODESA's negotiating authority.
-- Internet restrictions partially lifted: Instagram and WhatsApp unblocked; Starlink jamming reduced but not eliminated; domestic platforms remain surveilled.
-- Gasht-e ershad patrols suspended in major cities, framed as "wartime resource reallocation" rather than policy change.
+حزب انقلابی نهادی مکزیک (PRI) به مدت 71 سال بدون وقفه حکومت کرد. آزادسازی مدیریت شده آن طی دو دهه، آموزنده ترین الگو را برای اصلاحات در داخل ارائه می دهد. این توالی ناشی از بحران اقتصادی بود، نه اعتقاد دموکراتیک:
 
-**The protest movement**: Some decline in protest intensity as economic pain begins to be addressed and prisoner releases occur. But the movement's organizational memory and the 3,117+ deaths will not be forgotten. Families of the killed will demand accountability that no reform-within scenario can deliver without threatening regime officials directly. This is a pause, not a resolution.
+- **1977**: پس از قتل عام Tlatelolco (1968) و بحران انتخاباتی (1976)، PRI یک سیستم نمایندگی تناسبی ایجاد کرد که به احزاب مخالف اجازه می داد کرسی های کنگره را محدود کنند. این یک سوپاپ فشار بود، نه کثرت گرایی واقعی.
+- **1982**: بحران بدهی مشروعیت اقتصادی PRI را در هم شکست. رئیس جمهور مادرید اصلاحات اقتصادی تکنوکراتیک را با حفظ کنترل سیاسی آغاز کرد.
+- **1988**: Cuauhtemoc Cardenas تقریباً به ریاست جمهوری رسید. PRI به تقلب آشکار متوسل شد ("se cayo el sistema" - سیستم از کار افتاد). این تقلب PRI را مشروعیت زدایی کرد اما هزینه اصلاح نکردن را نیز نشان داد.
+- **1990-1996**: اصلاحات انتخاباتی پی در پی یک موسسه مستقل انتخاباتی فدرال (IFE)، تامین مالی کمپین عمومی و قوانین دسترسی به رسانه ها را ایجاد کرد. هر اصلاحی به دلیل بحران مجبور شد، نه داوطلبانه.
+- **2000**: ویسنته فاکس برنده ریاست جمهوری PAN شد. PRI شکست را پذیرفت زیرا زیرساخت های سازمانی برای انتخابات رقابتی در طی 23 سال ساخته شده بود.
 
-**Economic indicators**: The rial stabilizes from crisis levels (approximately 800,000+ to dollar) toward 500,000-600,000 range. Basic imports resume. Bread and fuel subsidies are partially restored. None of this constitutes recovery — it constitutes the arrest of freefall.
+**چرا نقشه می‌کشد**: بحران اقتصادی به‌عنوان موتور امتیاز سیاسی مستقیماً قابل اجرا است - بحران کنونی ایران شدیدتر از بحران‌های 1982 یا 1994 مکزیک است. "استراتژی لاک پشت" PRI برای تغییرات نهادی فزاینده در طول دهه ها، که در آن هر اصلاحات قابل مدیریت به نظر می رسید اما انباشت آنها دگرگون کننده بود، نسخه خوش بینانه اصلاحات در درون است. مسیر اصلاحات اسپانیا از الگوی مشابهی از فشار نهادی تدریجی در طول چندین دهه پیروی کرد.
 
-**IRGC internal dynamics in Phase 1**: The first 100 days will reveal whether the IRGC's decentralized wartime command structure reconsolidates under a unified leadership or fragments into regional power centers. Vahidi and hardline commanders will attempt to frame the ceasefire as a tactical pause rather than a strategic settlement. Pragmatist commanders will push for sanctions relief as the basis for economic reconstruction — which is also the basis for restoring their pre-war business interests. Mojtaba's ability to manage this internal dynamic, without his father's arbitration skills or personal networks, is the scenario's most immediate uncertainty.
+**چرا محدود است**: آزادسازی مکزیک 23 سال طول کشید. پنجره آتش بس ایران 60 تا 90 روز است. فشرده سازی این جدول زمانی چالش اصلی است. مکزیک همچنین هیچ معادلی برای شورای نگهبان نداشت - حزب PRI انتخاب نامزدها را در داخل کنترل می کرد، که گشایش تدریجی را از طریق اصلاحات درون حزبی ممکن کرد. بررسی نامزدهای ایران بر اساس قانون اساسی ریشه‌دار است. و مکزیک امپراتوری اقتصادی نظامی نداشت. حمایت PRI غیرنظامی بود. انتقال اسپانیا (1975-1982) نشان می‌دهد که یک جدول زمانی سریع‌تر ممکن است، اما به پادشاهی نیاز دارد که بخواهد قدرت خود را از بین ببرد - مجتبی خوان کارلوس نیست.
 
-### Phase 2: One Year (April 2027)
+### میانمار 2010-2015: باز کردن و بازگشت با مدیریت نظامی
 
-Full JCPOA-equivalent agreement reached (or not — this is the fork point). If yes: sanctions relief on oil exports allows Iran to increase production from wartime lows (under 500,000 bpd) toward 1.5-2.0 million bpd. GDP growth resumes from a very low base — perhaps 3-5% after contracting 15-25% during the war. The rial continues stabilizing. Inflation declines toward 25-30%.
+ژنرال های میانمار در سال 2010 یک گشایش کنترل شده را آغاز کردند: آزادی آنگ سان سوچی، اجازه دادن به حزب او (NLD) برای رقابت در انتخابات، اجازه دادن به رسانه های مستقل و استقبال از سرمایه گذاری خارجی. تحریم های غرب برداشته شد. اقتصاد باز شد. به مدت پنج سال، به نظر می رسید میانمار در حال گذار است.
 
-**IRGC economic restructuring begins**: Mojtaba announces a "National Economic Rationalization Plan" that includes nominal divestment of IRGC commercial holdings. In practice, this means:
+سپس ارتش همه چیز را برعکس کرد. کودتای 2021 حکومت نظامی را مجدداً تحمیل کرد، نشان داد که این گشایش تاکتیکی بوده است (برای فرار از تحریم ها و وابستگی بیش از حد چین) و نشان داد که هیچ حفاظت نهادی برای جلوگیری از بازگشت ایجاد نشده است. قانون اساسی 25 درصد از کرسی های پارلمان را به ارتش اختصاص داد و به فرمانده کل قوا اختیار کودتا یکجانبه داد.
 
-- Khatam al-Anbiya Construction Headquarters is reorganized as a "civilian infrastructure authority" — same personnel, same contracts, different letterhead.
-- Some bonyad assets are transferred to a new sovereign wealth fund with nominal independent oversight. The oversight board is appointed by the Supreme Leader's office.
-- IRGC import monopolies (particularly in consumer electronics, automobiles, and agricultural commodities) are "opened to competition" — but licensing requirements ensure IRGC-linked firms retain market dominance.
-- International verification of divestment is resisted on sovereignty grounds. The IAEA model (inspections of nuclear facilities) does not extend to economic transparency.
+**چرا نقشه می‌گیرد**: میانمار واضح‌ترین مورد هشدار است. حمایت‌های قانون اساسی سپاه پاسداران انقلاب اسلامی (وتو شورای نگهبان، انتصاب رهبر) مانند سهمیه نظامی 25 درصدی میانمار عمل می‌کند - سقف‌های ساختاری که از تهدید حق‌های نظامی توسط اصلاحات جلوگیری می‌کند. هر اصلاحی در درون که به این ویژگی‌های ساختاری نپردازد، در برابر بازگشت به سبک میانماری آسیب‌پذیر است.
 
-The honest assessment: genuine IRGC economic divestment in Phase 2 is near-zero. No military-economic conglomerate has ever voluntarily divested. Indonesia's TNI, Egypt's SCAF, Pakistan's Fauji Foundation — all resisted divestment for decades after political transitions. The IRGC, which is more economically entrenched than any of these cases, will not be the exception.
+**چرا محدود است**: ارتش میانمار از نظر اقتصادی کمتر از سپاه بود و مشروعیت ایدئولوژیک کمتری داشت. Tatmadaw خود را از طریق ناسیونالیسم با اکثریت قومی توجیه کرد، نه الهیات. رژیم ایران زیرساخت مشروعیت عمیق تری دارد (ولایت فقیه، نظام حوزوی، روایت انقلابی) که هم اصلاحات را محدود می کند و هم ابزارهای بیشتری برای مدیریت آن فراهم می کند.
 
-**Electoral dynamics**: Reformist and technocratic figures test the extent of the Guardian Council's new tolerance. Some are approved for local and Majles elections; candidates explicitly calling for velayat-e faqih abolition are not. The election produces figures like a second Pezeshkian — reform-oriented within systemic constraints. Voter turnout increases from wartime lows, which the regime interprets as renewed legitimacy.
+### ایران 1997-2004: ریاست جمهوری خاتمی
 
-**Qom dynamics**: Senior marjas maintain political quietism. The seminary system begins a cautious internal debate about the appropriate role of clerical authority post-Khamenei. Grand Ayatollahs of the older generation have not endorsed Mojtaba but have not opposed him either. Younger seminary scholars — particularly those with connections to Najaf — are more openly skeptical. This debate will take years, but its trajectory matters: if Qom eventually legitimizes Mojtaba's authority, the regime stabilizes; if it delegitimizes velayat-e faqih itself, the regime's theological foundation erodes regardless of political reform.
+نزدیک ترین سابقه، دوره اصلاحات خود ایران است. خاتمی در سال 1997 با کسب 70 درصد آرا در زمینه گسترش جامعه مدنی، آزادی مطبوعات و حاکمیت قانون به ریاست جمهوری رسید. به مدت چهار سال، جنبش اصلاحات به دستاوردهای واقعی دست یافت: ده ها روزنامه جدید، گفتمان دانشگاهی گسترده، انتخابات شهرداری، یک حوزه عمومی پر جنب و جوش. سپس شورای نگهبان به طور سیستماتیک اصلاحات قانونگذاری را مسدود کرد. مطبوعات تعطیل شدند - بیش از 100 نشریه بین سال های 2000 و 2004 بسته شدند. قیام دانشجویی در سال 2003 سرکوب شد. اصلاح طلبان در انتخابات مجلس 2004 رد صلاحیت شدند. در سال 2005، احمدی نژاد جایگزین خاتمی شد و دوران اصلاحات به پایان رسید.
 
-**Sanctions-unwinding economics**: Sanctions unwinding is a multi-year, multi-agency process involving OFAC designations, EU autonomous measures, UN Security Council resolutions, and secondary sanctions on third-country entities. The JCPOA demonstrated that this architecture can be reversed by a single US administration change. Any new framework must be more durable — treaty ratification, multilateral escrow mechanisms, or structural anchoring in UN architecture. The critical question is who captures the economic dividend. If sanctions relief flows primarily through IRGC-controlled channels (as Iraq's oil-for-food revenue was captured by Ba'ath Party networks), ordinary Iranians see no benefit and protest pressure rebuilds. If relief is structured through international development banks, transparent procurement, and direct social transfers, the reform-within scenario gains popular constituency.
+درس: اصلاحات در سیستم می تواند برای 4-6 سال قبل از اینکه انسداد نهادی تندرو خود را نشان دهد، موفق شود. شورای نگهبان سقف ساختاری است. هر اصلاحی که برای تضعیف شورای نگهبان نیاز به تایید شورای نگهبان داشته باشد، یک قانون اساسی است-22 - دروازه بان باید تنزل مقام خود را تایید کند.
 
-### Phase 3: Five Years (April 2031)
+تفاوت در سال 2026 این است که مشروعیت اجباری جناح تندرو نیز در اثر جنگ آسیب دیده است. ترور علی خامنه ای فردی را که می توانست بین جناح ها داوری کند حذف کرد. مجتبی نمی تواند این نقش را ایفا کند زیرا فاقد اعتبارات کلامی و شبکه های شخصی است. صلاحیت شورای نگهبان در نهایت به پشتوانه رهبری بود. با یک رهبر ضعیف، حق وتوی شورا به گونه‌ای که در زمان خاتمی نبود، از نظر سیاسی قابل رقابت می‌شود.
 
-This is where reform-within trajectories historically diverge. The three possible paths at the five-year mark:
+### تایوان 1986-1996: انتقال مدیریت شده KMT
 
-*Path A — Gradual consolidation (Mexico model)*: The economic recovery is real but unequal; IRGC economic divestment has stalled at the paper-transfer stage; civil society is more active but the Guardian Council remains a hard ceiling. The system has stabilized at a more open authoritarianism. The velayat-e faqih system persists but Mojtaba's authority is accepted as pragmatic rather than theological. Women's dress codes are relaxed in practice across all major cities. Universities have regained academic freedom within limits. Independent media exists but self-censors on red lines (Supreme Leader, IRGC, nuclear program). Iran is reintegrated into the global economy at a modest level. This is sustainable for another 10-15 years but does not resolve underlying contradictions.
+رژیم KMT تحت رهبری دو رهبر به تدریج آزاد شد: چیانگ چینگ کو، که حکومت نظامی را در سال 1987 لغو کرد و تشکیل حزب دموکراتیک مترقی (DPP) را تحمل کرد، و لی تنگ هوی، که انتقال به انتخابات رقابتی را تا سال 1996 تکمیل کرد. مکانیسم‌های کلیدی:
 
-*Path B — Khatami backlash (Iran's own historical pattern)*: Hardliners reassert control through Guardian Council disqualifications and security crackdowns. Reformist gains are systematically reversed. Economic benefits are captured by IRGC-adjacent networks. The protest movement, deprived of political space, rebuilds toward another explosion. This path leads to [Status Quo Decay](./status-quo-decay.md) — a grimmer version of the pre-2026 status quo, but with deeper scars and less regime legitimacy.
+- **جناح اصلاح‌طلب داخلی**: لی تنگ هوی یک تایوانی بومی در یک حزب تحت سلطه سرزمین اصلی بود. او از مانور جناحی برای به حاشیه راندن تندروها استفاده کرد.
+- **فشار خارجی**: ترویج دموکراسی ایالات متحده، مشروط بودن تجارت، و زمینه جنگ سرد گسترده تر، انگیزه هایی را برای آزادسازی ایجاد کرد که به دلایل ایدئولوژیک خود KMT وجود نداشت.
+- **ادغام اقتصادی**: اقتصاد صادرات محور تایوان یک طبقه تجاری و طبقه متوسط ​​ایجاد کرد که منافع آنها از حزب-دولت متفاوت بود. موفقیت اقتصادی باعث شد که گشایش سیاسی کمتر تهدید کننده باشد.
+- **امپراتوری اقتصادی نظامی وجود ندارد**: برخلاف ایران، کنترل اقتصادی KMT از طریق شرکت های دولتی و دارایی های حزبی اعمال می شد، نه از طریق خود ارتش. ارتش ROC در طول دوران گذار تابع مقامات غیرنظامی بود.
 
-*Path C — Accelerating opening (Gorbachev trajectory)*: Economic integration with the global economy empowers constituencies (middle class, private sector, youth, women) whose interests diverge from IRGC-state capitalism. Pressure for political liberalization intensifies faster than the regime can manage. The preference cascade that began with Mahsa Amini in 2022 and continued through the December 2025 protests reaches a point where the regime must either fully democratize or fully repress. This path leads toward [Democratic Transition](./democratic-transition.md) — but only if the military does not intervene to prevent it.
+**چرا نقشه می کشد**: سازوکار اصلاح طلب-جناح در صورتی قابل اجراست که عملگرایان سپاه به برتری برسند. فشار خارجی وجود دارد اما اجباری است (حملات نظامی، تحریم) تا یکپارچه (شرط تجاری، عضویت در اتحاد).
 
-The constitutional study evidence (935 constitutions analyzed) suggests that constitutional frameworks designed through inclusive processes last an average of 19 years, while those imposed by narrow elites last an average of 12 years. If reform-within produces constitutional amendments, the process design matters as much as the content.
+**چرا محدود است**: ایران هیچ معادلی با بخش خصوصی صادرات محور تایوان ندارد. تسلط اقتصادی سپاه به این معنی است که حوزه آزادسازی بازار محور ضعیف تر است. کنترل غیرنظامی ارتش در کره جنوبی بیش از 30 سال طول کشید و هنوز از نظر ساختاری ناقص است. انتقال تایوان به رهبری نیاز داشت که واقعاً خواهان دموکراتیک شدن باشد. مجتبی چنین تمایلی نشان نمی دهد.
 
-**The probability question**: Which path is most likely at the five-year mark? Historical base rates from comparable managed-liberalization cases suggest: Path A (gradual consolidation) approximately 30%, Path B (backlash reversion) approximately 45%, Path C (accelerating opening) approximately 25%. Iran-specific factors — the compound nature of the 2026 crisis, the IRGC's deeper economic entrenchment, the theological legitimacy deficit, and the severity of state violence against protesters — push the probability toward Path B. The optimistic case for Path A requires sustained international conditionality, IRGC pragmatist ascendance, and Qom acquiescence, all holding simultaneously for five years. The optimistic case for Path C requires a population willing to press demands through sustained but non-revolutionary mobilization, and a regime that responds with further concession rather than crackdown. Neither is impossible; neither is likely.
+### ترکیه 2002-2013: AKP به عنوان یک مورد احتیاطی
 
----
+دهه اول حزب عدالت و توسعه شبیه اصلاحات لیبرال در یک سیستم بود. حزب چمن نظامی (محاکمات ارژنیکون، اصلاحات قانون اساسی که اختیارات قضایی نظامی را کاهش می دهد) را محدود کرد، حقوق فرهنگی کردها را گسترش داد، پیوستن به اتحادیه اروپا را دنبال کرد و اقتصاد را رشد داد. ناظران غربی ترکیه را به عنوان الگوی دموکراسی اسلامی تجلیل کردند.
 
-## 5. Key Mechanisms at Play
+نبود. حزب عدالت و توسعه در حال تحکیم قدرت جناحی بود، نه لیبرال. زمانی که سلطه اردوغان بر قوه قضاییه، ارتش و رسانه ها امن شد، اصلاحات معکوس شد. سرکوب پارک گزی در سال 2013، پاکسازی های پس از کودتا در سال 2016، و همه پرسی قانون اساسی در سال 2017 که سیستم ریاست جمهوری را ایجاد کرد، نشان داد که "اصلاحات" جایگزین نخبگان بوده است: نخبگان مذهبی-محافظه کار جایگزین نخبگان سکولار-نظامی شدند.
 
-**Intra-Regime Factional Conflict** ([mechanism page](../mechanisms/intra-regime-factional-conflict-transition-window.md)): The IRGC pragmatist vs. hardliner split is the engine of reform-within. If pragmatists gain ascendance — and they have economic incentives to do so under sanctions relief — reform becomes possible. The critical variable is whether Mojtaba can play factions against each other (as his father did for decades) or whether one faction consolidates and makes him irrelevant. His father managed factional balance through 34 years of accumulated relationships; Mojtaba has none of this capital. The IRGC's decentralized command structure, made more decentralized by wartime damage to C2 infrastructure, means factional dynamics may play out regionally rather than nationally — Tehran pragmatists may diverge from Khuzestan hardliners.
+**چرا نقشه می گیرد**: این خطرناک ترین موازی است. سناریوی اصلاح‌طلبی در ایران می‌تواند مسیر عدالت و توسعه را دنبال کند – جایی که «اصلاحات» به معنای تحکیم قدرت یک جناح (پراگماتیست‌های سپاه) به قیمت یک جناح دیگر (تندروهای سپاه) بدون هیچ تغییر ساختاری واقعی است. این آزمون نهادی است: آیا نهادهای مستقل جدیدی ایجاد می‌شوند (کمیسیون مستقل انتخابات، مطبوعات آزاد، قوه قضاییه غیرنظامی)، یا نهادهای موجود توسط جناح دیگری تسخیر می‌شوند؟
 
-**Civil Society Mobilization** ([mechanism page](../mechanisms/civil-society-mobilization-regime-concessions.md)): The protest movement functions as pressure even without achieving revolutionary thresholds. Regimes that make genuine concessions to sustained civil society pressure — rather than only violent suppression — can buy stability. Poland's Solidarity movement extracted concessions over nine years (1980-1989) that eventually produced the Roundtable Agreement. The Islamic Republic's historical record here is poor; the Khatami-era suppression of civil society is the relevant precedent. The difference in 2026: the regime's coercive apparatus is stretched thin after 39 days of war and months of protest. Repressive capacity is not unlimited. The protest movement's presence in all 31 provinces — including traditionally conservative cities — is structurally different from 2009 (Tehran-centric) or 2019 (economically driven, geographically limited).
+**چرا محدود است**: ترکیه عضویت در ناتو، نامزدی اتحادیه اروپا، اقتصاد بازار کارآمد و ساختار مشروعیت دینی نداشت. ایران هیچ کدام از این لنگرها را ندارد. موازی حزب عدالت و توسعه نشان می‌دهد که اصلاحات جناحی در ایران محتمل است، اما لیبرال‌سازی را به همراه نخواهد داشت - فقط یک پیکربندی متفاوت از کنترل استبدادی. سوال تشخیصی ناظران ایران: وقتی عملگرایان سپاه جایگزین تندروها می شوند، آیا چهره های جدید فضا را برای نهادهای مستقل ایجاد می کنند یا صرفاً وفادارانی را در نهادهای موجود نصب می کنند؟ اگر مورد دوم باشد، بدون توجه به لفاظی، این خط سیر AKP است.
 
-**Religious Authority and Legitimacy Transfer** ([mechanism page](../mechanisms/religious-authority-legitimacy-transfer.md)): This is the most Iran-specific mechanism. Mojtaba's legitimacy deficit means that clerical endorsement from Qom marjas would substantially strengthen reform-within. Conversely, overt Qom opposition would critically weaken it. The mechanism has no clean parallel — no other modern state depends on a seminary system's theological endorsement for governmental legitimacy. The closest analogy is the Catholic Church's role in Poland's transition, but the Church there was an opposition force, not a pillar of the regime. Tunisia's Ennahda offers a different angle: under democratic competition, Ennahda evolved from an Islamist party to a self-described "Muslim democratic" party. Could Iranian seminaries undergo a similar evolution under reform pressure? The theological resources exist — quietist Shi'a traditions (Sistani's model in Najaf) offer an alternative to Khomeini's activist velayat-e faqih.
+### گورباچف و گلاسنوست: شتاب خارج از کنترل
 
-**External Intervention and Conditionality** ([mechanism page](../mechanisms/sanctions-relief-economic-dividend-democratic-mandate.md)): The international community's role is structural, not merely diplomatic. Sanctions architecture, reconstruction aid conditionality, IAEA verification regimes, and international court jurisdiction all shape the reform-within pathway. The comparative evidence from post-conflict transitions (Bosnia, Kosovo, Iraq, Libya) suggests that external conditionality works when it is sustained over decades, not months. The US political cycle — with administration changes every 4-8 years — is the structural weakness. Any reform framework that depends on a single administration's commitment is fragile by design.
+موازی اتحاد جماهیر شوروی کابوس سناریو برای خودی های رژیم است. گورباچف ​​گلاسنوست را به عنوان یک گشایش کنترل شده در نظر گرفت - شفافیت کافی برای ایجاد اصلاحات اقتصادی (پرسترویکا) و نه برای بی ثبات کردن انحصار حزب. ظرف چهار سال، گشایش جنبش‌های ملی‌گرایانه، اعتصاب‌های کارگری و مطالبات دموکراتیک را به راه انداخت که حزب نتوانست آن‌ها را مهار کند. در سال 1991، اتحاد جماهیر شوروی منحل شد.
 
-**Elite Bargaining and Pact-Making**: The reform-within scenario ultimately depends on an implicit pact: the regime liberalizes enough to reduce domestic and international pressure, while retaining enough control to protect elite interests (especially IRGC economic interests and personal immunity from prosecution). This is the "pacted transition" model from Spain, Chile, and South Korea. The evidence from these cases suggests pacted transitions can work, but only when both sides have enough power to enforce the pact's terms. If the regime is too weak to deliver on reform promises, or if the opposition is too weak to hold the regime accountable, the pact collapses. Iran's situation in 2026 is characterized by mutual weakness — which makes a pact both more necessary and less stable.
+مکانیسم: هنگامی که محدودیت های اطلاعاتی برداشته می شود، جمعیت متوجه می شود که نارضایتی خصوصی آنها به طور گسترده ای به اشتراک گذاشته شده است. آبشار ترجیحات - که در آن افکار عمومی به سرعت تغییر می کند زیرا مردم متوجه می شوند که تنها نیستند - ذاتاً غیرقابل پیش بینی است و پس از شروع به سختی قابل برگشت است. اعتراضات مهسا امینی در سال 2022 در ایران نشان داد که آبشارهای ترجیحی می توانند از حوادث منفرد شعله ور شوند. کاهش سیستماتیک کنترل‌های اطلاعات تحت اصلاحات، نقاط اشتعال بیشتری ایجاد می‌کند.
 
-The pact model has a specific structural requirement: identifiable negotiating partners on both sides. Spain had the king and Suarez on the regime side, and organized party leaders (Felipe Gonzalez, Santiago Carrillo) on the opposition side. Poland had Jaruzelski and the Communists facing Walesa and Solidarity. Iran in 2026 lacks clear negotiating partners on the opposition side — the protest movement is leaderless, the diaspora is fragmented, and civil society organizations inside Iran have been systematically destroyed over two decades. Building negotiating capacity on the opposition side is therefore a prerequisite for the pact model, not a consequence of it. This chicken-and-egg problem is one of the scenario's deepest structural challenges.
+**چرا نقشه می کشد**: وضعیت مجتبی شباهت های ساختاری با گورباچف ​​دارد. هر دو سیستمی به ارث برده بودند که مشروعیت آنها تمام شده بود. هر دو با بحران های اقتصادی مواجه شدند که نیازمند اصلاحات بود. هر دو فاقد اقتدار شخصی پیشینیان خود بودند. تفاوت این است که گورباچف ​​اصلاحات را انتخاب کرد. مجتبی را مجبور می کردند. رهبرانی که تحت فشار اصلاح می‌کنند، احتمالاً سعی می‌کنند مسیرشان را معکوس کنند، که معمولاً همان بی‌ثباتی را که آنها می‌خواستند از آن جلوگیری کنند، تسریع می‌کند.
 
----
+### چرا همه موازی ها محدود هستند
 
-## 6. Critical Risks
-
-### Myanmar reversion: the reform that was never structural
-
-Myanmar's 2010-2015 opening was entirely controlled by the military. No independent institutions were created. The military retained constitutional veto power. When the NLD's electoral success threatened military prerogatives, the coup was technically legal under the military-written constitution. The lesson for Iran: if reform-within does not create genuinely independent institutions — an electoral commission not appointed by the Guardian Council, a judiciary not subordinate to the Supreme Leader, media not subject to IRGC pressure — then reversion is not a risk but a near-certainty. The structural safeguards matter more than the political atmosphere.
-
-The Myanmar case also illustrates how international actors can be complicit in premature celebration. Between 2012 and 2016, Western governments lifted sanctions, corporations invested, and aid organizations flooded in — all on the basis of a reform process that had no institutional anchoring. When the coup came, there were no effective levers remaining. Iran watchers and policymakers should apply the Myanmar test to any reform-within: are independent institutions being created, or is the reform atmosphere alone being mistaken for structural change?
-
-### Reform expectations outpacing delivery (Gorbachev problem)
-
-Gorbachev's glasnost created expectations that perestroika could not satisfy. The gap between political opening and economic improvement generated a legitimacy crisis worse than the original stagnation. In Iran, this risk is acute: the population's grievances are not merely economic. They include the 3,117+ killed, years of internet shutdowns, mandatory hijab enforcement, and the fundamental question of self-governance. Economic improvement alone cannot address these demands. If reform-within delivers lower inflation but not accountability for state violence, the expectations gap may prove fatal to the scenario.
-
-The sequencing problem is specific: economic reform takes years to produce visible results (sanctions unwinding alone requires multi-agency, multi-year processes), while political expectations escalate immediately once the opening begins. Gorbachev had approximately 18 months between glasnost's launch and the first major political crises it generated. Iran's information environment — with widespread VPN usage, satellite television, and diaspora media — means the preference cascade would move faster than in the Soviet case. The regime cannot control the pace of expectations in a population that has been connected to global information flows throughout the repression years.
-
-### IRGC economic empire as structural blockage
-
-The IRGC controls an estimated 10-40% of GDP through Khatam al-Anbiya, bonyads, import monopolies, construction, petrochemicals, telecommunications, and financial institutions. This is not a side business; it is the material foundation of IRGC power. Any reform that threatens IRGC economic interests triggers institutional resistance from 500,000-700,000 personnel whose livelihoods depend on the current structure, plus their families and dependents. No military-economic conglomerate anywhere in the world has ever voluntarily divested its holdings. Indonesia's TNI divested partially after 15 years under strong civilian pressure. Egypt's SCAF has not divested at all despite two revolutions. Pakistan's Fauji Foundation continues to expand. The IRGC will follow this pattern unless external pressure (sanctions conditionality specifically targeting IRGC entities) creates costs that exceed the benefits of retention. The critical insight from all comparative cases: military economic divestment is not a reform that can be implemented by decree. It requires sustained civilian institutional capacity to monitor, regulate, and enforce — precisely the institutional capacity that the IRGC's dominance has prevented Iran from developing.
-
-### Guardian Council as constitutional ceiling
-
-The Guardian Council's power to vet candidates for all elected offices is constitutionally entrenched. Changing this requires either constitutional amendment (which the Guardian Council must approve) or extra-constitutional action (which would mean the scenario has shifted to [Democratic Transition](./democratic-transition.md)). This is the Khatami-era catch-22 replicated: the gatekeeper must approve its own demotion. Under Khatami, the Guardian Council disqualified over 2,000 reformist candidates for the 2004 Majles elections, effectively ending the reform era. There is no reason to believe it would behave differently under Mojtaba unless the Supreme Leader explicitly instructs otherwise — and Mojtaba's dependence on conservative institutional support makes such instruction unlikely.
-
-### Accountability ratchet
-
-Every day that passes without accountability for the 3,117+ killed in protests creates a growing political debt. Families of the dead become an organized constituency. Their demand — justice — is incompatible with reform-within because the officials responsible are the same officials who would need to implement reform. This is the "accountability ratchet" observed in Chile (Pinochet), Argentina (dirty war), and South Korea (Gwangju massacre). In each case, the accountability question was deferred during transition but returned with greater force later. Iran's death toll is large enough, and the families' networks extensive enough, that this issue will not remain suppressed. If reform-within cannot offer a credible transitional justice mechanism — truth commission, compensation, institutional reform — it will face an opposition that no amount of economic improvement can satisfy.
-
-The comparative evidence offers few comfortable options. Spain's "pact of forgetting" (pacto del olvido) suppressed accountability for the Civil War and Franco-era crimes for decades — but this was possible because both sides had committed atrocities and both had reason to prefer silence. In Iran, the violence is overwhelmingly one-directional: state against civilians. The Argentine model — where a truth commission (CONADEP) preceded trials — required a complete regime change that reform-within does not contemplate. The South African Truth and Reconciliation Commission required a negotiated transition with both sides at the table. Reform-within offers none of these conditions, which means the accountability debt compounds with interest.
-
-### Khatami backlash pattern
-
-The most probable failure mode is repetition of Iran's own history. Reformists achieve 4-6 years of limited opening. Hardliners regroup. The Guardian Council reasserts veto power. Security services crack down. The reform constituency, disappointed and exhausted, withdraws from formal politics. The system returns to a harder authoritarianism, now with even less legitimacy. This is not a theoretical risk; it is the documented outcome of Iran's only previous reform-within attempt.
-
-The question is whether the 2026 context — wartime damage, leadership transition, economic crisis, proxy network collapse — has changed the structural conditions enough to produce a different result. Three factors differ from the Khatami era: (1) the IRGC's coercive apparatus has been weakened by war, reducing its capacity for sustained repression; (2) Mojtaba lacks the personal authority to arbitrate a hardline reassertion, meaning the backlash would require institutional consensus that may not exist; and (3) the population's tolerance for reformist gradualism has been exhausted by three decades of broken promises, meaning a second Khatami backlash might trigger revolutionary rather than resigned responses. The honest answer is: the Khatami backlash pattern remains the single most likely failure mode, but if it occurs in 2026-2031, it may produce [Status Quo Decay](./status-quo-decay.md) or even [Fragmentation](./fragmentation.md) rather than the managed disappointment of 2004-2005.
+همه این پرونده ها مربوط به رژیم هایی با مشروعیت نهادی بالاتر از جمهوری اسلامی است. ایران تحت رهبری خاتمی تنها شاهد کشته شدن رهبر خود در یک حمله هوایی خارجی نبوده است. PRI مکزیک فقط در یک جنگ 39 روزه شرکت نکرده بود. KMT تایوان در ماه‌های گذشته بیش از 3117 معترض را نکشته بود. سوهارتو اندونزی پس از فروپاشی اقتصادی سقوط کرد، اما اندونزی توسط قدرت های خارجی بمباران نشده بود. چین پس از تیان‌آن‌من دارای دستگاه دولتی بود که می‌توانست 10 درصد رشد سالانه را ارائه دهد. ماهیت مرکب بحران 2026 ایران - شکست نظامی، ترور رهبری، فروپاشی اقتصادی، اعتراض گسترده، تخریب شبکه های نیابتی، و تخریب ظرفیت هسته ای که همزمان رخ می دهد - هیچ شباهتی تاریخی ندارد. این تفاوت‌های ساختاری، حفظ سناریوی اصلاحات درون سناریویی را در ایران سخت‌تر از هر یک از موارد قبلی می‌سازد.
 
 ---
 
-## 7. What Should Be Done Now
+## 4. مسیر انتقال
 
-### Civil society and diaspora
+### فاز 1: 100 روز اول (آوریل-ژوئیه 2026)
 
-**Document everything**: Systematic documentation of state violence — names, dates, locations, responsible units — creates an evidentiary record that constrains future impunity negotiations. The Syrian experience shows that documentation during conflict can support accountability years later. Diaspora organizations should fund and coordinate documentation efforts using secure, distributed storage. This work must happen regardless of which scenario materializes.
+توافقنامه چارچوب اسلام آباد رویداد محوری است. اگر تا اواسط ژوئیه محقق نشود، احتمال این سناریو به شدت کاهش می یابد (بازه 60-90 روزه مشخص شده در ادبیات آتش بس). نقش پاکستان به عنوان میانجی مهم است: اسلام آباد با واشنگتن و تهران روابطی پشتیبان دارد که هیچ میانجی اروپایی آن را ندارد و تجربه خود پاکستان در مدیریت مذاکرات برنامه هسته ای صلاحیت نهادی را فراهم می کند.
 
-**Build parallel institutions**: Labor unions, professional associations, student organizations, women's networks, and neighborhood mutual aid structures should be built now, not after a political opening. Poland's Solidarity spent nine years building institutional capacity before the Roundtable. Tunisia's civil society organizations — particularly the UGTT labor union, the Tunisian League for Human Rights, the lawyers' bar, and the employers' association — formed the National Dialogue Quartet that guided the 2013-2014 political crisis to resolution rather than collapse. If reform-within creates space, organizations that already exist can occupy it immediately. Organizations that must be created from scratch will lose the window.
+**شرایط توافق چارچوب** (در صورت حصول): ایران با سقف های غنی سازی (3.67 درصد یا کمتر، مطابق با سطح برجام)، بازرسی های تقویت شده آژانس از جمله دسترسی به سایت نظامی و تعهد به عدم بازسازی ظرفیت سانتریفیوژ تخریب شده موافقت می کند. ایالات متحده با کاهش فاز 1 تحریم‌ها موافقت کرد: دارایی‌های مسدود شده 5 تا 8 میلیارد دلاری آزاد شده از حساب‌های کره جنوبی و ژاپن، بازگشایی کانال‌های تجاری بشردوستانه، و معافیت 120 روزه از تحریم‌های نفتی برای واردکنندگان منتخب (چین، هند، ترکیه). هر دو طرف متعهد به ادامه مذاکرات برای حل و فصل جامع هستند.
 
-**Develop constitutional expertise**: If reform-within reaches a constitutional amendment phase, the quality of constitutional design will determine whether changes endure. The 935-constitution comparative study shows that inclusive drafting processes produce constitutions lasting an average of 19 years, versus 12 for elite-imposed ones. Iranian constitutional lawyers, political scientists, and legal scholars — many in diaspora — should begin developing concrete constitutional proposals now. Iraq's 2005 constitutional process, which was rushed, exclusionary, and produced a document that entrenched sectarian division, is the negative example. South Africa's multi-year Constitutional Assembly process (1994-1996), which included extensive public consultation, is the positive one.
+**چارچوب داخلی مجتبی**: وی این معامله را "یک پیروزی افتخارآمیز دیپلماتیک منطبق بر حقوق ما و ایثار شهدا" اعلام می کند. موضع عمومی سپاه از موقعیت جنگی به «مقاومت موفق در دفاع از حاکمیت» تغییر می کند. این برای اکثر ایرانیان قابل اعتماد نیست، اما روایتی را برای پایگاه رژیم فراهم می کند که مستلزم اعتراف به شکست نیست.
 
-**Prepare for structured negotiation**: The diaspora should develop clear, prioritized demand sets — not maximalist wish lists but sequenced benchmarks that could anchor international conditionality. What are the minimum institutional changes required for the first phase? Prisoner releases, press freedom benchmarks, Guardian Council reform, IRGC transparency requirements. These should be published, translated into Farsi, and disseminated before any negotiation begins.
+**امتیازات نهادی در فاز 1**:
 
-**Maintain protest pressure without maximalism**: The reform-within scenario requires sustained pressure but not revolutionary escalation. This is the hardest strategic judgment. Too little pressure and the regime has no incentive to reform. Too much pressure and hardliners use the threat to justify crackdown. The optimal strategy is targeted, sustained, and disciplined — general strikes over specific demands rather than open-ended revolutionary calls. The Chilean opposition's experience with coordinated national protests (1983-1986) followed by plebiscite strategy (1988) illustrates this calibration.
+- آزادی انتخابی زندانیان سیاسی: 2000 تا 5000 به عنوان اقدام اعتمادسازی، اولویت دادن به معترضان و روزنامه نگاران بدون خشونت. فعالان سرشناس (آنهایی که شهرت بین المللی دارند) ابتدا به عنوان سیگنالی برای مخاطبان غربی منتشر شدند.
+- اعلام "گفتگوی ملی بازسازی" - یک نهاد مشورتی بدون قدرت الزام آور اما شامل نمادین چهره های اصلاح طلب، رؤسای دانشگاه ها و رهبران منتخب جامعه مدنی. الگوی آزادانه از CODESA آفریقای جنوبی اما بدون مرجع مذاکره CODESA.
+- محدودیت های اینترنت تا حدی برداشته شد: اینستاگرام و واتس اپ رفع انسداد شدند. پارازیت Starlink کاهش یافت اما حذف نشد. پلتفرم های داخلی همچنان تحت نظر هستند.
+- تعلیق گشت‌های گشت ارشاد در شهرهای بزرگ، به‌عنوان «تخصیص مجدد منابع زمان جنگ» به جای تغییر سیاست.
 
-### International community
+**جنبش اعتراضی**: با شروع رسیدگی به دردهای اقتصادی و وقوع آزادی زندانیان، شدت اعتراض تا حدودی کاهش می یابد. اما حافظه سازمانی جنبش و مرگ 3117+ فراموش نخواهد شد. خانواده های کشته شدگان خواستار پاسخگویی خواهند بود که هیچ سناریوی اصلاحی نمی تواند بدون تهدید مستقیم مقامات رژیم انجام دهد. این یک مکث است، نه یک قطعنامه.
 
-**Structure conditionality into the Islamabad framework**: Sanctions relief should be graduated and tied to verifiable benchmarks: prisoner releases (Phase 1), press freedom metrics (Phase 2), Guardian Council reform (Phase 3), IRGC economic transparency (Phase 4). Each phase should include snap-back provisions that are automatic, not discretionary, to insulate them from US political cycles.
+**شاخص های اقتصادی**: ریال از سطوح بحران (تقریباً 800000+ تا دلار) به محدوده 500000-600000 تثبیت می شود. واردات پایه از سر گرفته می شود یارانه نان و سوخت تا حدی احیا شده است. هیچ یک از اینها به منزله بهبودی نیست - بلکه به منزله توقف سقوط آزاد است.
 
-**Create multilateral anchoring**: The JCPOA's fatal weakness was its dependence on US executive authority. Any new framework should be anchored in UN Security Council resolutions, multilateral escrow mechanisms, or treaty structures that require legislative action to reverse. The EU, China, and Russia should be co-signatories with material stakes in compliance.
+** پویایی داخلی سپاه در فاز 1**: 100 روز اول نشان خواهد داد که آیا ساختار فرماندهی غیرمتمرکز در زمان جنگ سپاه پاسداران انقلاب اسلامی تحت رهبری یکپارچه تثبیت می شود یا در مراکز قدرت منطقه ای تکه تکه می شود. وحیدی و فرماندهان تندرو تلاش خواهند کرد آتش بس را به عنوان یک توقف تاکتیکی به جای یک حل و فصل راهبردی در نظر بگیرند. فرماندهان پراگماتیست برای رفع تحریم ها به عنوان پایه ای برای بازسازی اقتصادی - که همچنین مبنایی برای احیای منافع تجاری آنها قبل از جنگ است - فشار خواهند آورد. توانایی مجتبی در مدیریت این پویایی درونی، بدون مهارت های داوری پدرش یا شبکه های شخصی، فوری ترین عدم قطعیت سناریو است.
 
-**Target IRGC economic entities specifically**: Sanctions relief should distinguish between civilian economy sanctions (which should be lifted to benefit the population) and IRGC-specific designations (which should be maintained or expanded as leverage for genuine divestment). This requires granular intelligence on IRGC corporate structures — which US and EU sanctions offices already possess but have not fully deployed.
+### فاز 2: یک ساله (آوریل 2027)
 
-**Fund civil society directly**: International development funding should flow through channels that bypass regime-controlled institutions. Direct support to Iranian NGOs, universities, media outlets, and professional associations — modeled on the EU's pre-accession funding to Eastern European civil society in the 1990s — creates constituencies for continued reform.
+توافق کامل معادل برجام حاصل شد (یا نه - این نقطه انشعاب است). اگر بله: لغو تحریم‌ها بر صادرات نفت به ایران اجازه می‌دهد تولید خود را از پایین‌ترین سطح زمان جنگ (زیر 500000 بشکه در روز) به 1.5 تا 2.0 میلیون بشکه در روز افزایش دهد. رشد تولید ناخالص داخلی از پایه بسیار پایین از سر گرفته می شود - شاید 3-5٪ پس از انقباض 15-25٪ در طول جنگ. ارزش ریال به ثبات خود ادامه می دهد. تورم به 25-30 درصد کاهش می یابد.
 
-### Reform elites within the system
+**بازسازی اقتصادی سپاه آغاز شد**: مجتبی "طرح عقلانی سازی اقتصاد ملی" را اعلام کرد که شامل واگذاری اسمی هلدینگ های تجاری سپاه می شود. در عمل به این معنی است:
 
-**Secure institutional footholds before the window closes**: If reform-within creates political space, reformists must use it to build institutions, not just policies. An independent electoral commission, a press council with genuine autonomy, a civilian oversight mechanism for IRGC economic entities — these institutional foundations are more durable than any single policy concession. The Spanish transition's lesson: Franco-era reformers like Adolfo Suarez used their window to build electoral infrastructure that outlasted any individual government.
+- قرارگاه سازندگی خاتم الانبیاء (ص) به عنوان «مرجع زیرساخت غیرنظامی» - همان پرسنل، همان قراردادها، سربرگ های مختلف - سازماندهی مجدد می شود.
+- برخی از دارایی‌های بنیاد به یک صندوق سرمایه‌گذاری مستقل جدید با نظارت مستقل اسمی منتقل می‌شود. هیئت نظارت توسط دفتر مقام معظم رهبری تعیین می شود.
+- انحصارات واردات سپاه پاسداران انقلاب اسلامی (به ویژه در لوازم الکترونیکی مصرفی، خودرو، و کالاهای کشاورزی) "به روی رقابت باز هستند" - اما الزامات صدور مجوز تضمین می کند که شرکت های مرتبط با سپاه پاسداران انقلاب اسلامی تسلط خود را در بازار حفظ می کنند.
+- راستی‌آزمایی بین‌المللی واگذاری به دلایل حاکمیتی مخالف است. مدل آژانس بین المللی انرژی اتمی (بازرسی از تاسیسات هسته ای) به شفافیت اقتصادی تسری نمی یابد.
 
-**Build cross-factional coalitions**: Reform elites should seek alliances with IRGC pragmatists, bazaar merchants, Qom moderates, and provincial governors — not on the basis of shared ideology but shared interest in stability and economic recovery. The Chilean transition succeeded because the opposition built a broad coalition (Concertacion) that included Christian Democrats, Socialists, and independents. Narrow factional reform will be captured or reversed.
+ارزیابی صادقانه: واگذاری واقعی اقتصادی سپاه در فاز 2 نزدیک به صفر است. هیچ شرکت نظامی-اقتصادی تاکنون به طور داوطلبانه واگذار نکرده است. TNI اندونزی، SCAF مصر، بنیاد فاوجی پاکستان - همگی برای دهه‌ها پس از انتقال سیاسی در برابر سرمایه‌گذاری مقاومت کردند. سپاه پاسداران انقلاب اسلامی که از لحاظ اقتصادی از هیچ یک از این موارد بیشتر است، مستثنی نخواهد بود.
 
-**Engage Qom proactively**: The seminary system's theological debate about velayat-e faqih is the deepest legitimacy question. Reform elites should encourage Qom scholars who favor quietist or modified interpretations of clerical authority. This is a generational project, not a tactical maneuver, but its foundations must be laid now. The Najaf-Qom axis is relevant: Sistani's quietist model provides theological cover for clerics who want to disengage from governance without abandoning religious authority. Reform elites who can facilitate Qom-Najaf scholarly exchange are working on the deepest structural variable in this scenario.
+**پویایی انتخابات**: چهره های اصلاح طلب و تکنوکرات میزان تسامح جدید شورای نگهبان را محک می زنند. برخی برای انتخابات محلی و مجلس تایید شده اند. نامزدهایی که صراحتاً خواستار لغو ولایت فقیه هستند، نیستند. انتخابات چهره هایی مانند پزشکیان دوم را تولید می کند - اصلاحات محور در چارچوب محدودیت های سیستمی. میزان مشارکت رای دهندگان از پایین ترین سطح زمان جنگ افزایش می یابد که رژیم آن را مشروعیت مجدد تفسیر می کند.
 
-**Prepare for economic governance**: If reform-within produces sanctions relief, the question of how economic dividends are distributed will determine whether the reform has popular constituency. Reform elites should develop transparent mechanisms for reconstruction fund distribution — modeled on post-war European reconstruction (Marshall Plan conditionality) rather than post-Saddam Iraq (where $8.8B in Iraqi Development Fund money disappeared). Technical preparation for economic governance — auditing standards, procurement transparency, direct transfer mechanisms — is as important as political strategy.
+**پویایی قم**: مراجع ارشد بی اعتنایی سیاسی را حفظ می کنند. نظام حوزه علمیه بحث داخلی محتاطانه ای را درباره نقش مناسب مرجعیت روحانی پس از خامنه ای آغاز می کند. آیت الله العظمی نسل قدیم، مجتبی را تایید نکرده اند، اما با او مخالفت هم نکرده اند. علمای جوان‌تر حوزوی - به‌ویژه آن‌هایی که با نجف ارتباط دارند - آشکارا بدبین هستند. این بحث سال ها طول می کشد، اما مسیر آن مهم است: اگر قم در نهایت اقتدار مجتبی را مشروعیت بخشد، رژیم تثبیت می شود. اگر از خود ولایت فقیه مشروعیت زدایی کند، بدون توجه به اصلاحات سیاسی، بنیان کلامی رژیم از بین می رود.
 
----
+**اقتصاد رفع تحریم**: رفع تحریم ها یک فرآیند چند ساله و چند سازمانی است که شامل تعیین OFAC، اقدامات مستقل اتحادیه اروپا، قطعنامه های شورای امنیت سازمان ملل و تحریم های ثانویه علیه نهادهای کشورهای ثالث است. برجام نشان داد که این معماری را می توان با یک تغییر دولت ایالات متحده معکوس کرد. هر چارچوب جدید باید دوام بیشتری داشته باشد - تصویب معاهده، مکانیسم های سپردن چندجانبه، یا لنگر انداختن ساختاری در معماری سازمان ملل. سوال مهم این است که چه کسی سود اقتصادی را تصاحب می کند. اگر لغو تحریم‌ها عمدتاً از طریق کانال‌های تحت کنترل سپاه پاسداران انقلاب اسلامی جریان می‌یابد (از آنجایی که درآمد نفت در برابر غذا عراق توسط شبکه‌های حزب بعث تسخیر شده بود)، مردم عادی ایرانی هیچ سودی نمی‌بینند و فشار اعتراضی بازسازی می‌شود. اگر کمک‌ها از طریق بانک‌های توسعه بین‌المللی، تدارکات شفاف و نقل و انتقالات اجتماعی مستقیم شکل بگیرد، سناریوی اصلاحات در درون سناریوی محبوبیتی پیدا می‌کند.
 
-## 8. Iran-Specific Complications
+### فاز 3: پنج ساله (آوریل 2031)
 
-### IRGC economic empire
+این همان جایی است که مسیرهای اصلاحات از نظر تاریخی متفاوت است. سه راه ممکن در پنج سال:
 
-The IRGC's economic holdings are not a side effect of military power; they are its material foundation. Khatam al-Anbiya Construction Headquarters alone controls an estimated $10-12B in annual contracts. IRGC-linked firms dominate imports through Shahid Rajaee port and others. Bonyad-e Mostazafan (Foundation of the Oppressed) controls an estimated $95B in assets — real estate, manufacturing, agriculture, and financial services. These entities employ hundreds of thousands directly and support millions through supply chains. Any reform that threatens this structure faces resistance not only from IRGC commanders but from the economic constituency that depends on IRGC contracts. The Indonesian TNI parallel suggests that even nominal divestment takes 15-20 years under favorable conditions, and true divestment may never occur.
+*مسیر A - تحکیم تدریجی (مدل مکزیک)*: بهبود اقتصادی واقعی اما نابرابر است. واگذاری اقتصادی سپاه در مرحله انتقال کاغذ متوقف شده است. جامعه مدنی فعال تر است اما شورای نگهبان همچنان سقف سختی دارد. سیستم در یک استبداد بازتر تثبیت شده است. نظام ولايت فقيه پابرجاست، اما مرجعيت مجتبي به عنوان عمل گرايانه پذيرفته شده است تا الهي. قوانین لباس زنانه در تمام شهرهای بزرگ در عمل راحت است. دانشگاه ها در محدوده محدودی آزادی علمی را به دست آورده اند. رسانه های مستقل وجود دارند اما در خطوط قرمز خودسانسوری می کنند (مقام معظم رهبری، سپاه، برنامه هسته ای). ایران در سطح متوسطی دوباره به اقتصاد جهانی ادغام شده است. این برای 10-15 سال دیگر پایدار است اما تناقضات اساسی را حل نمی کند.
 
-### Velayat-e Faqih under Mojtaba
+*مسیر ب- واکنش خاتمی (الگوی تاریخی خود ایران)*: تندروها با رد صلاحیت های شورای نگهبان و سرکوب های امنیتی دوباره کنترل خود را به دست می گیرند. دستاوردهای اصلاح طلبان به طور سیستماتیک معکوس می شوند. منافع اقتصادی توسط شبکه های مجاور سپاه بدست می آید. جنبش اعتراضی که از فضای سیاسی محروم است، به سوی انفجاری دیگر بازسازی می شود. این مسیر به [تخریب وضعیت موجود](./status-quo-decay.md) منتهی می‌شود - یک نسخه تلخ‌تر از وضعیت موجود قبل از 2026، اما با زخم‌های عمیق‌تر و مشروعیت کمتر رژیم.
 
-The doctrine of velayat-e faqih — guardianship of the Islamic jurist — is the constitutional foundation of the Islamic Republic. Khomeini's innovation was to claim that a single jurist should exercise absolute political authority. This claim was always contested within Shi'a jurisprudence; many senior marjas rejected it. Ali Khamenei's authority rested on institutional entrenchment and IRGC backing, not theological consensus. Mojtaba's claim is weaker still: he lacks the clerical rank (he is not a recognized marja), the scholarly output, and the personal networks that gave his father residual legitimacy. If reform-within weakens the practical authority of the Supreme Leader without formally abolishing the office, velayat-e faqih becomes a constitutional fiction — an outcome similar to the Japanese emperor's post-1945 ceremonial role. This is possible but historically unprecedented in Islamic governance.
+*مسیر ج - گشایش شتاب‌دهنده (مسیر گورباچف)*: یکپارچگی اقتصادی با اقتصاد جهانی به حوزه‌هایی (طبقه متوسط، بخش خصوصی، جوانان، زنان) قدرت می‌دهد که منافعشان از سرمایه‌داری دولتی سپاه پاسداران انقلاب اسلامی فاصله دارد. فشار برای آزادسازی سیاسی سریعتر از آنچه رژیم بتواند مدیریت کند تشدید می شود. آبشار ترجیحی که با مهسا امینی در سال 2022 آغاز شد و تا اعتراضات دسامبر 2025 ادامه یافت، به جایی می رسد که رژیم یا باید به طور کامل دموکراتیزه شود یا به طور کامل سرکوب شود. این مسیر به [انتقال دموکراتیک](./democratic-transition.md) منتهی می شود - اما تنها در صورتی که ارتش برای جلوگیری از آن مداخله نکند.
 
-### Ethnic peripheries
+شواهد مطالعه قانون اساسی (935 قانون اساسی تجزیه و تحلیل شده) نشان می دهد که چارچوب های قانون اساسی طراحی شده از طریق فرآیندهای فراگیر به طور متوسط ​​19 سال طول می کشد، در حالی که آن هایی که توسط نخبگان محدود تحمیل شده اند به طور متوسط ​​12 سال دوام می آورند. اگر اصلاحات در چارچوب اصلاحات قانون اساسی ایجاد کند، طراحی فرآیند به اندازه محتوا اهمیت دارد.
 
-Iran is approximately 50-55% Persian, with significant Azerbaijani (16-24%), Kurdish (7-10%), Lur (6-7%), Arab (2-3%), Baluch (2%), and Turkmen populations. The protest movement has been strongest in ethnic minority regions — Kurdistan, Khuzestan, Sistan-Baluchistan — where political grievances compound with ethnic and economic marginalization. Reform-within must address periphery demands or risk the scenario shifting toward [Fragmentation](./fragmentation.md). The comparative evidence from Spain (Basque Country, Catalonia), Indonesia (Aceh, Papua), and Iraq (Kurdistan) suggests that managed decentralization can address ethnic demands within a reformed state — but only if the central government has sufficient legitimacy and institutional capacity to negotiate credibly. Iran's post-war state may lack both.
-
-The wartime context intensifies periphery dynamics. Khuzestan's Arab population bore disproportionate exposure to the military conflict given the province's proximity to Iraq and its oil infrastructure. Kurdish regions have cross-border connections to Iraqi Kurdistan's autonomous government. Sistan-Baluchistan's Sunni population faces both ethnic and sectarian marginalization. If reform-within offers cultural and linguistic concessions (Azerbaijani-language education, Kurdish broadcasting rights) without genuine fiscal and political decentralization, it may satisfy some demands while radicalizing others. The Spanish model — autonomous communities with real fiscal authority and legislative power — is the positive template, but Spain's devolution was anchored in a democratic constitution. Iran's centralized, theocratic constitutional structure makes equivalent devolution structurally harder to achieve within the system.
-
-### Oil dependency and Dutch disease
-
-Iran's economy remains structurally dependent on oil revenue (historically 50-70% of government budget, though reduced by sanctions). Sanctions relief that restores oil exports without structural economic reform will reproduce the pre-war pattern: oil revenue flows to the state, the state distributes through patronage networks (predominantly IRGC-linked), the private sector remains stunted, and the population remains dependent on state allocation. This is the classic resource curse, compounded by IRGC rent-seeking. Reform-within must include economic diversification to create constituencies for sustained political opening — but diversification requires the very private sector development that IRGC monopolies prevent.
-
-The paradox is structural: sanctions relief is necessary for economic recovery, but oil revenue strengthens the regime's capacity to resist political reform. Norway's sovereign wealth fund model — where oil revenue is insulated from government spending through institutional mechanisms — is often cited as an alternative, but it requires the very institutional transparency and accountability that the IRGC economic empire is designed to avoid. The more realistic comparison is post-Saddam Iraq, where oil revenue flowed through opaque government channels and fueled corruption that undermined democratic institutions from within. Without explicit institutional mechanisms to prevent oil revenue capture, sanctions relief will strengthen the regime's material base without creating accountability.
-
-### Nuclear program and verification
-
-The 2026 airstrikes destroyed significant enrichment capacity, but Iran's nuclear knowledge base is intact. Any framework agreement must address reconstitution risk. The IAEA verification regime required under a new agreement will be more intrusive than the JCPOA's, covering military sites that were previously off-limits. The IRGC will resist this as a sovereignty violation. The reform-within scenario requires Mojtaba to overrule IRGC resistance on verification — which tests the limits of his authority over the institution that installed him.
-
-The nuclear issue also creates a domestic political trap. The regime has spent decades framing the nuclear program as a symbol of national sovereignty and scientific achievement. Accepting intrusive inspections of military sites — especially after those sites were attacked — requires abandoning this narrative. Mojtaba can frame the deal as pragmatic survival, but he cannot frame it as victory. This narrative deficit empowers hardliners who can credibly argue that the concessions represent capitulation. The JCPOA faced precisely this dynamic: Rouhani's government defended the deal domestically, while the IRGC and hardline media systematically undermined it. Any successor agreement will face the same internal opposition, now amplified by wartime nationalism.
-
-### Seminary dynamics and Najaf
-
-Qom's seminary system is not a unified institution; it is a network of competing schools, marjas, and intellectual traditions. The quietist tradition — exemplified by Grand Ayatollah Sistani in Najaf — provides a theological alternative to velayat-e faqih that does not require secularism. If Qom marjas begin gravitating toward Sistani's model (clerical moral authority without political governance), the doctrinal foundation of the Islamic Republic erodes even without formal constitutional change. This process is already underway among younger seminary students. Its pace will accelerate if Mojtaba's political failures discredit activist clerical governance.
-
-The generational dynamic within the seminaries is significant. Older marjas who accommodated velayat-e faqih out of institutional loyalty or pragmatic calculation are aging. The younger generation of seminary scholars has lived through two decades of declining regime legitimacy, the 2009 Green Movement, the 2017-2018 protests, the 2019 fuel price protests, and the 2022 Mahsa Amini uprising. Their experience of the Islamic Republic is not the revolutionary promise of 1979 but the repressive reality of 2020s Iran. This generational shift will not produce immediate political consequences — seminary culture is deliberative, not revolutionary — but over 5-10 years, it will erode the theological infrastructure that makes velayat-e faqih defensible. Reform-within accelerates this erosion by demonstrating that governance can function with a weakened Supreme Leader, which implicitly undermines the doctrine's claim that strong clerical guardianship is necessary.
-
-### Sanctions architecture complexity
-
-Iran is subject to overlapping sanctions regimes: US primary sanctions (Treasury/OFAC), US secondary sanctions (targeting third-country entities), EU autonomous sanctions, UN Security Council resolutions, and country-specific measures from Japan, South Korea, Australia, Canada, and others. Unwinding this architecture is a multi-year, multi-agency process involving different legal authorities, different political constituencies, and different verification requirements. The JCPOA took 2+ years to negotiate, and its sanctions relief was partial and phased. Full normalization of Iran's economic relations would take 5-10 years under optimal diplomatic conditions. This timeline constrains the reform-within scenario's economic dividends: the population expects rapid improvement, but the sanctions architecture delivers gradual, conditional, and reversible relief.
-
-### Proxy network and regional rebalancing
-
-Hezbollah, Hamas, the Houthis, and Iraqi Shi'a militias have been severely degraded by the 2026 conflict. Iran's ability to project regional power through proxies — the core of its "forward defense" doctrine — is diminished. This has contradictory implications for reform-within. On one hand, reduced regional commitments free resources for domestic reconstruction. On the other hand, hardliners who built careers on proxy management lose institutional purpose and may resist reform to preserve their relevance. The proxy network's degradation also reduces Iran's leverage in regional negotiations — which means less bargaining power in the Islamabad talks.
-
-The Quds Force — the IRGC's external operations branch — faces an institutional identity crisis. Its raison d'etre was regional power projection through proxy networks that are now severely degraded. Quds Force personnel, many of whom spent decades building relationships in Lebanon, Iraq, Syria, and Yemen, face redeployment to domestic roles where they have less expertise and less institutional status. This creates a potentially dangerous pool of experienced, ideologically committed, and now marginalized operatives who may resist reform-within as a threat to their professional identity and institutional survival. The parallel is the KGB officers who resisted Gorbachev's reforms — not from the top, but through bureaucratic obstruction and information manipulation at the operational level.
-
-### Bonyad restructuring
-
-The bonyad system — quasi-governmental foundations controlling vast economic assets — is legally distinct from the IRGC but practically intertwined. Bonyad-e Mostazafan, Bonyad-e Shahid, and Astan-e Quds Razavi (the Mashhad shrine foundation, one of the largest landowners in Iran) answer to the Supreme Leader, not the elected government. Any reform-within that does not address bonyad governance leaves a parallel economic state intact. The South Korean chaebol reform experience suggests that restructuring concentrated economic power requires sustained regulatory pressure, transparent accounting requirements, and credible legal enforcement — none of which Iran currently possesses.
-
-The bonyads also serve a social welfare function — providing housing, education, employment, and pensions to veterans, martyrs' families, and the urban poor. This creates a political constituency that benefits from the current structure and would resist reform that threatens these services. Any restructuring must offer credible alternative service delivery or face opposition from the very populations that reformists claim to represent. The Indonesian experience with reforming Suharto-era foundations (yayasan) shows that even after the strongman falls, the foundations' beneficiary networks resist transparency and accountability for years.
+**سوال احتمال**: کدام مسیر در علامت پنج ساله بیشتر محتمل است؟ نرخ‌های پایه تاریخی از موارد مشابه آزادسازی مدیریت شده نشان می‌دهد: مسیر A (تثبیت تدریجی) تقریباً 30٪، مسیر B (بازگشت عکس) تقریباً 45٪، مسیر C (باز شدن سریع) تقریباً 25٪. عوامل خاص ایران - ماهیت مرکب بحران 2026، نفوذ اقتصادی عمیق‌تر سپاه پاسداران، کسری مشروعیت الهیاتی، و شدت خشونت دولتی علیه معترضان - احتمال را به سمت مسیر B سوق می‌دهد. به مدت پنج سال مورد خوشبینانه راه C مستلزم جمعیتی است که مایل به اعمال مطالبات از طریق بسیج پایدار اما غیرانقلابی باشد، و رژیمی که به جای سرکوب، با امتیاز بیشتر پاسخ دهد. هیچ کدام غیر ممکن نیست؛ هیچ کدام محتمل نیست
 
 ---
 
-## 9. Indicators to Watch
+## 5. مکانیسم های کلیدی در بازی
 
-### Positive signals (reform-within is materializing)
+**تعارض جناحی درون رژیم** ([صفحه سازوکار](../mechanisms/intra-regime-factional-conflict-transition-window.md)): انشعاب عملگرایان سپاه در مقابل تندروها موتور اصلاحات در درون است. اگر عمل‌گرایان به برتری برسند - و آنها انگیزه‌های اقتصادی برای انجام این کار تحت لغو تحریم‌ها داشته باشند - اصلاحات ممکن می‌شود. متغیر بحرانی این است که آیا مجتبی می‌تواند جناح‌ها را علیه یکدیگر بازی کند (همانطور که پدرش چندین دهه انجام می‌داد) یا اینکه یک جناح او را تثبیت و بی‌ربط می‌کند. پدرش تعادل جناحی را از طریق 34 سال روابط انباشته مدیریت کرد. مجتبی هیچ کدام از این سرمایه را ندارد. ساختار فرماندهی غیرمتمرکز سپاه پاسداران انقلاب اسلامی که به دلیل آسیب‌دیدگی در زمان جنگ به زیرساخت‌های C2 غیرمتمرکزتر شده است، به این معنی است که پویایی‌های جناحی ممکن است به جای اینکه در سطح ملی در سطح منطقه باشد، عمل‌گرایان تهرانی ممکن است از تندروهای خوزستان فاصله بگیرند.
 
-- Islamabad framework agreement signed with specific, verifiable benchmarks and timelines
-- Political prisoner releases exceeding 1,000, including high-profile activists and journalists
-- Independent newspapers granted publishing permits — not just applications accepted, but actual publication
-- Guardian Council approves reformist candidates for Majles or municipal elections without mass disqualification
-- Gasht-e ershad formally disbanded (not just suspended) in at least five provinces
-- IRGC economic entities submit to external audit (even partial)
-- Internet filtering lifted for major platforms without VPN requirement
-- Labor unions legally registered and permitted to organize
-- University faculty associations permitted to operate independently
-- Qom marjas issue statements supporting "national dialogue" or "institutional reform"
-- Oil production increases above 1.5 million bpd (indicating meaningful sanctions relief)
-- Foreign direct investment from non-Chinese sources exceeds $1B annually
-- Mojtaba publicly distances himself from Ahmad Vahidi or other hardline IRGC figures
+**بسیج جامعه مدنی** ([صفحه مکانیزم](../mechanisms/civil-society-mobilization-regime-concessions.md)): جنبش اعتراضی حتی بدون دستیابی به آستانه های انقلابی به عنوان فشار عمل می کند. رژیم هایی که امتیازات واقعی برای فشار پایدار جامعه مدنی می دهند - به جای سرکوب خشونت آمیز - می توانند ثبات را خریداری کنند. جنبش همبستگی لهستان امتیازاتی را در طول نه سال (1980-1989) به دست آورد که در نهایت توافقنامه میزگرد را تولید کرد. سابقه تاریخی جمهوری اسلامی در اینجا ضعیف است. سرکوب جامعه مدنی در دوران خاتمی سابقه مربوطه است. تفاوت در سال 2026: دستگاه قهری رژیم پس از 39 روز جنگ و ماه‌ها اعتراض ضعیف شده است. ظرفیت سرکوب نامحدود نیست. حضور جنبش اعتراضی در تمام 31 استان - از جمله شهرهای سنتی محافظه‌کار - از نظر ساختاری با سال 2009 (تهران محور) یا 2019 (محور اقتصادی، از نظر جغرافیایی محدود) متفاوت است.
 
-### Negative signals (reform-within is failing or being reversed)
+**اقتدار دینی و انتقال مشروعیت** ([صفحه مکانیزم](../mechanisms/religious-authority-legitimacy-transfer.md)): این خاص ترین سازوکار ایران است. کسری مشروعیت مجتبی به این معناست که تایید روحانیون از مراجع قم به طور قابل ملاحظه ای اصلاحات را در داخل تقویت می کند. برعکس، مخالفت آشکار قم به شدت آن را تضعیف خواهد کرد. این سازوکار هیچ شباهتی ندارد - هیچ دولت مدرن دیگری به تأیید الهیات یک نظام حوزوی برای مشروعیت حکومت وابسته نیست. نزدیکترین تشبیه، نقش کلیسای کاتولیک در انتقال لهستان است، اما کلیسا در آنجا یک نیروی مخالف بود، نه ستون رژیم. النهضه تونس زاویه‌ای متفاوت ارائه می‌کند: النهضه تحت رقابت دموکراتیک از یک حزب اسلام‌گرا به یک حزب «دموکراتیک مسلمان» تبدیل شد. آیا حوزه های علمیه ایران تحت فشار اصلاحات می توانند دچار تحولی مشابه شوند؟ منابع کلامی وجود دارد - روایات شیعه آرام (الگوی سیستانی در نجف) جایگزینی برای ولایت فقیه فعال خمینی ارائه می دهد.
 
-- Islamabad talks collapse without framework agreement by August 2026
-- Ceasefire violations or renewed military strikes
-- Mass arrests of protest leaders during or after nominal "dialogue" process
-- Guardian Council disqualifies reformist candidates for next electoral cycle
-- IRGC commanders publicly reject economic transparency or divestment
-- New internet shutdowns during protests or political events
-- Vahidi or equivalent hardliner promoted to senior security position
-- Qom marjas issue statements explicitly questioning Mojtaba's qualifications
-- Bonyad assets transferred to IRGC-linked entities rather than transparent structures
-- Sanctions relief funds channeled through IRGC-controlled financial institutions
-- Protest movement develops coordinated national leadership and escalates to general strike (shifts scenario toward [Democratic Transition](./democratic-transition.md))
-- Ethnic periphery regions (Kurdistan, Khuzestan, Sistan-Baluchistan) declare autonomous governance (shifts scenario toward [Fragmentation](./fragmentation.md))
-- Inflation remains above 50% despite partial sanctions relief, indicating structural capture of economic benefits
+**مداخله خارجی و مشروطیت** ([صفحه مکانیزم](../mechanisms/sanctions-relief-economic-dividend-democratic-mandate.md)): نقش جامعه بین المللی ساختاری است، نه صرفا دیپلماتیک. معماری تحریم‌ها، شرط‌بندی کمک‌های بازسازی، رژیم‌های راستی‌آزمایی آژانس بین‌المللی انرژی اتمی، و صلاحیت دادگاه بین‌المللی، همگی مسیر اصلاحات را شکل می‌دهند. شواهد مقایسه‌ای از انتقال‌های پس از جنگ (بوسنی، کوزوو، عراق، لیبی) نشان می‌دهد که مشروطیت خارجی زمانی کار می‌کند که در طول دهه‌ها و نه ماه‌ها پایدار بماند. چرخه سیاسی ایالات متحده - با تغییر دولت هر 4-8 سال - ضعف ساختاری است. هر چهارچوب اصلاحی که به تعهد یک دولت وابسته باشد از نظر طراحی شکننده است.
 
-### Ambiguous signals (could indicate either path)
+**معامله نخبگان و پیمان بستن**: سناریوی اصلاحات در نهایت به یک پیمان ضمنی بستگی دارد: رژیم به اندازه کافی آزادسازی می کند تا فشار داخلی و بین المللی را کاهش دهد و در عین حال کنترل کافی برای حفاظت از منافع نخبگان (به ویژه منافع اقتصادی سپاه و مصونیت شخصی از پیگرد قانونی) را حفظ کند. این مدل "انتقال توافق شده" از اسپانیا، شیلی و کره جنوبی است. شواهد به دست آمده از این موارد نشان می دهد که انتقال های توافق شده می تواند کارساز باشد، اما تنها زمانی که هر دو طرف قدرت کافی برای اجرای مفاد پیمان را داشته باشند. اگر رژیم برای اجرای وعده‌های اصلاحات ضعیف‌تر از آن باشد، یا اگر اپوزیسیون ضعیف‌تر از آن باشد که بتواند رژیم را پاسخگو کند، پیمان فرو می‌پاشد. وضعیت ایران در سال 2026 با ضعف متقابل مشخص می شود - که باعث می شود یک پیمان هم ضروری تر و هم کمتر با ثبات باشد.
 
-- Mojtaba consolidates personal power at the expense of IRGC factions — could mean reform capacity or AKP-style elite substitution
-- Protest intensity decreases — could mean concessions are working or repression is succeeding
-- IRGC internal leadership changes — pragmatist promotion could indicate genuine shift or cosmetic reshuffling
-- Qom silence continues — could mean cautious support for reform or preparation for opposition
-- Chinese and Russian engagement increases — could stabilize the regime for reform or entrench it against Western conditionality
-- "National Reconstruction Dialogue" announced — could be a genuine consultative process or a co-optation mechanism designed to absorb opposition energy without conceding power
-- Bazaar merchants resume normal trade — could indicate economic normalization or regime-merchant accommodation that bypasses structural reform
-- Reformist media publishes criticism of IRGC economic holdings — could test whether the red line has genuinely shifted or provoke a crackdown that reveals the reform's limits
-
-### Timeline benchmarks
-
-The reform-within scenario can be assessed against specific time-bound indicators:
-
-- **60 days (June 2026)**: Islamabad framework agreement — without this, the scenario's probability drops below 15%
-- **6 months (October 2026)**: Evidence of genuine (not cosmetic) prisoner releases and press permits — distinguishes reform from performative concession
-- **1 year (April 2027)**: Guardian Council behavior in next electoral cycle — the single most important institutional test
-- **2 years (April 2028)**: IRGC economic transparency — any external audit, however limited, would be unprecedented and significant
-- **5 years (April 2031)**: Fork point — Mexico-model consolidation, Khatami-backlash reversion, or Gorbachev-trajectory acceleration
+مدل پیمان یک نیاز ساختاری خاص دارد: شرکای مذاکره کننده قابل شناسایی در هر دو طرف. اسپانیا پادشاه و سوارز را در سمت رژیم داشت و رهبران حزب سازماندهی شده (فلیپه گونزالس، سانتیاگو کاریلو) در طرف مخالف. لهستان یاروزلسکی و کمونیست ها را در مقابل والسا و همبستگی قرار داد. ایران در سال 2026 فاقد شرکای مذاکره کننده واضح در طرف مخالف است - جنبش اعتراضی بدون رهبر است، دیاسپورا تکه تکه شده است، و سازمان های جامعه مدنی در داخل ایران به طور سیستماتیک طی دو دهه نابود شده اند. بنابراین، ایجاد ظرفیت مذاکره در طرف مخالف، پیش نیاز مدل پیمان است، نه پیامد آن. این مشکل مرغ و تخم مرغ یکی از عمیق ترین چالش های ساختاری این سناریو است.
 
 ---
 
-## Cross-References
+## 6. خطرات بحرانی
 
-### Other scenarios
+### بازگشت میانمار: اصلاحاتی که هرگز ساختاری نبود
 
-- [Status Quo Decay](./status-quo-decay.md) — where reform-within leads if hardliners reassert control (Khatami backlash pattern)
-- [Democratic Transition](./democratic-transition.md) — where reform-within leads if opening accelerates beyond regime control (Gorbachev trajectory)
-- [Fragmentation](./fragmentation.md) — where reform-within leads if ethnic peripheries reject central authority during transition
-- [War Escalation](./war-escalation.md) — the scenario that negates reform-within if ceasefire collapses
-- [Pahlavi Path](./pahlavi-path.md) — an alternative transition model that bypasses reform-within entirely
-- [Scenario Index](./index.md) — overview of all scenarios and probability assessments
+افتتاحیه میانمار در سال های 2010-2015 به طور کامل توسط ارتش کنترل شد. هیچ نهاد مستقلی ایجاد نشد. ارتش حق وتوی قانون اساسی را حفظ کرد. هنگامی که موفقیت انتخاباتی NLD امتیازات نظامی را تهدید کرد، کودتا از نظر فنی بر اساس قانون اساسی نوشته شده توسط ارتش قانونی بود. درسی برای ایران: اگر اصلاحات در درون نهادهای واقعاً مستقلی ایجاد نکند - کمیسیون انتخاباتی که شورای نگهبان منصوب نمی‌کند، قوه قضائیه زیرمجموعه رهبر نیست، رسانه‌هایی که تحت فشار سپاه نیستند - پس بازگشت یک خطر نیست، بلکه تقریباً یک قطعیت است. پادمان های ساختاری بیش از فضای سیاسی اهمیت دارد.
 
-### Related wiki pages
+پرونده میانمار همچنین نشان می دهد که چگونه بازیگران بین المللی می توانند در جشن های زودهنگام شریک باشند. بین سال‌های 2012 و 2016، دولت‌های غربی تحریم‌ها را لغو کردند، شرکت‌ها سرمایه‌گذاری کردند و سازمان‌های کمک‌رسان هجوم آوردند - همه این‌ها بر اساس یک روند اصلاحی که هیچ گونه لنگرگاهی نهادی نداشت. وقتی کودتا آمد، هیچ اهرم موثری باقی نمانده بود. ناظران و سیاستگذاران ایران باید آزمون میانمار را برای هر اصلاحات درونی به کار گیرند: آیا نهادهای مستقل ایجاد می‌شوند یا فضای اصلاحات به تنهایی با تغییرات ساختاری اشتباه گرفته می‌شود؟
 
-- [Ceasefire-to-Settlement Pathways](../v2/external/ceasefire-to-settlement-pathways.md) — comparative evidence on ceasefire durability and the 60-90 day conversion window
-- [Intra-Regime Factional Conflict](../mechanisms/intra-regime-factional-conflict-transition-window.md) — mechanism analysis for IRGC factional dynamics
-- [Sanctions Relief and Economic Dividend](../mechanisms/sanctions-relief-economic-dividend-democratic-mandate.md) — mechanism analysis for economic conditionality
-- [Civil Society Mobilization](../mechanisms/civil-society-mobilization-regime-concessions.md) — mechanism analysis for protest-to-concession dynamics
-- [Religious Authority and Legitimacy Transfer](../mechanisms/religious-authority-legitimacy-transfer.md) — mechanism analysis for Qom's role in legitimacy questions
+### پیشی گرفتن انتظارات از اصلاحات (مشکل گورباچف)
+
+گلاسنوست گورباچف انتظاراتی را ایجاد کرد که پرسترویکا نتوانست آنها را برآورده کند. شکاف بین گشایش سیاسی و بهبود اقتصادی یک بحران مشروعیت بدتر از رکود اولیه ایجاد کرد. در ایران، این خطر حاد است: گلایه‌های مردم صرفاً اقتصادی نیست. آنها شامل بیش از 3117 کشته، سال ها تعطیلی اینترنت، اجرای اجباری حجاب و مسئله اساسی خودگردانی هستند. بهبود اقتصادی به تنهایی نمی تواند این خواسته ها را برطرف کند. اگر اصلاحات در داخل تورم کمتری را ارائه دهد اما پاسخگوی خشونت دولتی نباشد، شکاف انتظارات ممکن است برای این سناریو کشنده باشد.
+
+مشکل توالی مشخص است: اصلاحات اقتصادی سالها طول می کشد تا نتایج قابل مشاهده ایجاد کند (تحریم ها به تنهایی نیازمند فرآیندهای چند سازمانی و چند ساله هستند)، در حالی که انتظارات سیاسی بلافاصله پس از شروع افتتاحیه تشدید می شود. گورباچف ​​تقریباً 18 ماه از راه اندازی گلاسنوست تا اولین بحران سیاسی بزرگی که ایجاد کرد فاصله داشت. محیط اطلاعاتی ایران - با استفاده گسترده از VPN، تلویزیون ماهواره‌ای و رسانه‌های دیاسپورا - به این معنی است که آبشار ترجیحی سریع‌تر از مورد شوروی حرکت می‌کند. رژیم نمی‌تواند سرعت انتظارات را در جمعیتی که در طول سال‌های سرکوب به جریان‌های اطلاعات جهانی مرتبط بوده، کنترل کند.
+
+### امپراتوری اقتصادی سپاه به مثابه انسداد ساختاری
+
+سپاه پاسداران حدود 10 تا 40 درصد تولید ناخالص داخلی را از طریق خاتم الانبیا، بنیادها، انحصارات وارداتی، ساخت و ساز، پتروشیمی، مخابرات و موسسات مالی کنترل می کند. این یک تجارت جانبی نیست. شالوده مادی قدرت سپاه است. هر اصلاحاتی که منافع اقتصادی سپاه را تهدید کند، باعث مقاومت نهادی 500000 تا 700000 پرسنل می شود که معیشت آنها به ساختار فعلی بستگی دارد، به علاوه خانواده ها و وابستگان آنها. هیچ شرکت نظامی-اقتصادی در هیچ کجای دنیا تا کنون داوطلبانه دارایی های خود را واگذار نکرده است. TNI اندونزی پس از 15 سال تحت فشار شدید غیرنظامیان، بخشی از آن را واگذار کرد. SCAF مصر علیرغم دو انقلاب به هیچ وجه واگذار نکرده است. بنیاد فاوجی پاکستان به گسترش خود ادامه می دهد. سپاه پاسداران انقلاب اسلامی از این الگو پیروی خواهد کرد مگر اینکه فشار خارجی (شرط تحریم‌ها به‌ویژه نهادهای سپاه را هدف قرار دهد) هزینه‌هایی را ایجاد کند که بیشتر از منافع حفظ شود. بینش انتقادی از همه موارد مقایسه ای: واگذاری اقتصادی نظامی اصلاحی نیست که بتوان آن را با فرمان اجرا کرد. این امر مستلزم ظرفیت نهادی غیرنظامی پایدار برای نظارت، تنظیم و اجرای آن است - دقیقاً همان ظرفیت نهادی که تسلط سپاه پاسداران انقلاب اسلامی مانع از توسعه ایران شده است.
+
+### شورای نگهبان به عنوان سقف قانون اساسی
+
+صلاحیت شورای نگهبان برای بررسی نامزدها برای همه مناصب منتخب بر اساس قانون اساسی تثبیت شده است. تغییر این امر مستلزم اصلاح قانون اساسی (که شورای نگهبان باید آن را تأیید کند) یا اقدام فراقانونی (که به معنای تغییر سناریو به [انتقال دموکراتیک] است (./democratic-transition.md)) نیاز دارد. این همان شکار 22 دوران خاتمی است که تکرار شد: دروازه بان باید تنزل رتبه خود را تایید کند. در دوره خاتمی، شورای نگهبان بیش از 2000 نامزد اصلاح طلب را برای انتخابات مجلس 2004 رد صلاحیت کرد و عملا به دوران اصلاحات پایان داد. هیچ دلیلی وجود ندارد که باور کنیم در زمان مجتبی رفتار متفاوتی خواهد داشت، مگر اینکه رهبر صراحتاً دستور دیگری بدهد - و وابستگی مجتبی به حمایت نهادی محافظه کار، چنین دستورالعملی را بعید می کند.
+
+### جغجغه پاسخگویی
+
+هر روزی که بدون پاسخگویی برای بیش از 3117 کشته در اعتراضات می گذرد، بدهی سیاسی فزاینده ای ایجاد می کند. خانواده های مردگان به یک حوزه انتخاباتی سازمان یافته تبدیل می شوند. مطالبه آنها - عدالت - با اصلاحات در درون ناسازگار است، زیرا مقامات مسئول همان مقاماتی هستند که باید اصلاحات را اجرا کنند. این "ضلع پاسخگویی" است که در شیلی (پینوشه)، آرژانتین (جنگ کثیف) و کره جنوبی (قتل عام گوانگجو) مشاهده شده است. در هر مورد، سؤال پاسخگویی در طول انتقال به تعویق افتاد اما بعداً با قدرت بیشتری بازگردانده شد. تعداد کشته شدگان ایران به اندازه کافی زیاد است و شبکه های خانواده ها به اندازه کافی گسترده است که این موضوع سرکوب نمی شود. اگر اصلاحات در داخل نتواند یک مکانیسم عدالت انتقالی معتبر - کمیسیون حقیقت، جبران خسارت، اصلاحات نهادی - ارائه دهد، با مخالفتی روبرو خواهد شد که هیچ مقدار از بهبود اقتصادی نمی تواند آن را برآورده کند.
+
+شواهد مقایسه ای چند گزینه راحت ارائه می دهد. «پیمان فراموشی» اسپانیا (pacto del olvido) مسئولیت‌پذیری در قبال جنگ داخلی و جنایات دوران فرانسه را برای دهه‌ها سرکوب کرد - اما این امکان پذیر بود زیرا هر دو طرف مرتکب جنایات شده بودند و هر دو دلیلی برای ترجیح سکوت داشتند. در ایران، خشونت عمدتاً یک طرفه است: دولت علیه غیرنظامیان. مدل آرژانتینی - که در آن یک کمیسیون حقیقت (CONADEP) قبل از محاکمه ها انجام شد - مستلزم تغییر رژیم کامل بود که اصلاحات در داخل به آن فکر نمی کرد. کمیسیون حقیقت و آشتی آفریقای جنوبی نیاز به انتقال با مذاکره با هر دو طرف در میز داشت. Reform-within هیچ یک از این شرایط را ارائه نمی دهد، که به این معنی است که بدهی پاسخگویی با بهره ترکیب می شود.
+
+### الگوی واکنش خاتمی
+
+محتمل ترین حالت شکست، تکرار تاریخ خود ایران است. اصلاح طلبان به 4-6 سال گشایش محدود دست می یابند. تندروها دوباره جمع می شوند. شورای نگهبان بار دیگر حق وتو را تایید کرد. سرویس های امنیتی سرکوب می کنند حوزه اصلاحات، ناامید و خسته، از سیاست رسمی کناره گیری می کند. این سیستم اکنون با مشروعیت کمتری به یک اقتدارگرایی سخت‌تر باز می‌گردد. این یک ریسک نظری نیست. این نتیجه مستند تنها تلاش قبلی ایران در اصلاحات است.
+
+سوال این است که آیا زمینه 2026 - آسیب های زمان جنگ، انتقال رهبری، بحران اقتصادی، فروپاشی شبکه پراکسی - شرایط ساختاری را به اندازه کافی تغییر داده است تا نتیجه متفاوتی را به همراه داشته باشد. سه عامل با دوران خاتمی متفاوت است: (1) دستگاه قهری سپاه در اثر جنگ تضعیف شده و ظرفیت آن برای سرکوب پایدار کاهش یافته است. (2) مجتبی فاقد صلاحیت شخصی برای داوری مجدد یک ادعای تندرو است، به این معنی که واکنش منفی مستلزم اجماع نهادی است که ممکن است وجود نداشته باشد. و (3) تحمل مردم در برابر تدریج‌گرایی اصلاح‌طلبان با سه دهه وعده‌های شکسته‌شده از بین رفته است، به این معنی که واکنش دوم خاتمی ممکن است واکنش‌های انقلابی را به‌جای استعفا به دنبال داشته باشد. پاسخ صادقانه این است: الگوی واکنش خاتمی محتمل ترین حالت شکست باقی می ماند، اما اگر در سال های 2026-2031 رخ دهد، ممکن است به جای ناامیدی مدیریت شده (./status-quo-decay.md) یا حتی [تجزیه](./fragmentation.md) ایجاد کند.
 
 ---
 
-*This scenario should be read alongside [Democratic Transition](./democratic-transition.md) (where reform-within succeeds too well) and [Status Quo Decay](./status-quo-decay.md) (where it fails). The three form a linked set of outcomes from the same starting conditions, differing primarily in the pace and direction of change.*
+## 7. اکنون چه کاری باید انجام شود
+
+### جامعه مدنی و دیاسپورا
+
+**همه چیز را مستند کنید**: مستندسازی سیستماتیک خشونت دولتی - نام ها، تاریخ ها، مکان ها، واحدهای مسئول - یک سابقه شواهد ایجاد می کند که مذاکرات معافیت از مجازات آینده را محدود می کند. تجربه سوریه نشان می‌دهد که اسناد و مدارک در طول جنگ می‌تواند سال‌ها بعد از پاسخ‌گویی پشتیبانی کند. سازمان‌های دیاسپورا باید تلاش‌های مستندسازی را با استفاده از ذخیره‌سازی امن و توزیع شده تأمین مالی و هماهنگ کنند. این کار باید بدون توجه به اینکه کدام سناریو محقق می شود اتفاق بیفتد.
+
+** مؤسسات موازی بسازید **: اتحادیه های کارگری، انجمن های حرفه ای، تشکل های دانشجویی، شبکه های زنان و ساختارهای کمک متقابل محله ای باید اکنون ساخته شوند، نه پس از یک گشایش سیاسی. همبستگی لهستان قبل از میزگرد نه سال را صرف ایجاد ظرفیت سازمانی کرد. سازمان‌های جامعه مدنی تونس - به‌ویژه اتحادیه کارگری UGTT، اتحادیه تونس برای حقوق بشر، کانون وکلا، و انجمن کارفرمایان - گروه چهارجانبه گفتگوی ملی را تشکیل دادند که بحران سیاسی 2013-2014 را به جای فروپاشی به سمت حل و فصل هدایت کرد. اگر اصلاحات درون فضایی ایجاد کند، سازمان هایی که از قبل وجود دارند می توانند فوراً آن را اشغال کنند. سازمان هایی که باید از ابتدا ایجاد شوند، پنجره را از دست خواهند داد.
+
+**توسعه تخصص در قانون اساسی**: اگر اصلاحات در چارچوب قانون اساسی به مرحله اصلاح قانون اساسی برسد، کیفیت طراحی قانون اساسی تعیین خواهد کرد که آیا تغییرات پایدار است یا خیر. مطالعه تطبیقی ​​قانون اساسی 935 نشان می دهد که فرآیندهای تهیه پیش نویس فراگیر قوانین اساسی را به طور متوسط ​​19 سال به طول می انجامد، در مقابل 12 سال برای قوانین تحمیلی نخبگان. حقوقدانان قانون اساسی ایران، دانشمندان علوم سیاسی و حقوقدانان - که بسیاری از آنها در دیاسپورا هستند - باید از هم اکنون شروع به تهیه پیشنهادهای ملموس قانون اساسی کنند. روند قانون اساسی عراق در سال 2005، که شتابزده، استثنایی و سندی بود که شکاف فرقه ای را ریشه دوانید، نمونه منفی آن است. روند چند ساله مجمع قانون اساسی آفریقای جنوبی (1994-1996)، که شامل مشاوره عمومی گسترده بود، روند مثبتی است.
+
+**آماده شدن برای مذاکره ساختاریافته**: دیاسپورا باید مجموعه های تقاضای شفاف و اولویت بندی شده را ایجاد کند – نه فهرست آرزوهای حداکثری، بلکه معیارهای توالی که می تواند مشروطیت بین المللی را تثبیت کند. حداقل تغییرات نهادی مورد نیاز برای مرحله اول چیست؟ آزادی زندانیان، معیارهای آزادی مطبوعات، اصلاح شورای نگهبان، الزامات شفافیت سپاه. اینها باید قبل از شروع مذاکره منتشر، به فارسی ترجمه و منتشر شوند.
+
+**حفظ فشار اعتراضی بدون حداکثر گرایی**: سناریوی اصلاحات در درون مستلزم فشار مداوم است، اما نه تشدید انقلابی. این سخت ترین قضاوت استراتژیک است. فشار خیلی کم است و رژیم انگیزه ای برای اصلاح ندارد. فشار بیش از حد و تندروها از تهدید برای توجیه سرکوب استفاده می کنند. استراتژی بهینه هدفمند، پایدار و منضبط است - اعتصابات عمومی بر سر مطالبات خاص به جای فراخوان های انقلابی بی پایان. تجربه اپوزیسیون شیلی از اعتراضات ملی هماهنگ (1983-1986) و به دنبال آن استراتژی همه‌پرسی (1988) این کالیبراسیون را نشان می‌دهد.
+
+### جامعه بین المللی
+
+**شرط بندی ساختار در چارچوب اسلام آباد**: رفع تحریم ها باید درجه بندی شده و با معیارهای قابل راستی آزمایی مرتبط شود: آزادی زندانیان (مرحله 1)، معیارهای آزادی مطبوعات (مرحله 2)، اصلاح شورای نگهبان (مرحله 3)، شفافیت اقتصادی سپاه پاسداران انقلاب اسلامی (فاز 4). هر مرحله باید شامل مفاد بازپرداختی باشد که به صورت خودکار و نه اختیاری باشد تا آنها را از چرخه های سیاسی ایالات متحده جدا کند.
+
+**ایجاد لنگر انداختن چندجانبه**: ضعف مهلک برجام وابستگی آن به مقامات اجرایی ایالات متحده بود. هر چارچوب جدید باید در قطعنامه‌های شورای امنیت سازمان ملل متحد، مکانیسم‌های سپردن چندجانبه، یا ساختارهای معاهده‌ای که نیاز به اقدام قانونی برای معکوس کردن دارد، تثبیت شود. اتحادیه اروپا، چین و روسیه باید با مشارکت مادی در رعایت این توافق، امضاکنندگان مشترک باشند.
+
+**به طور خاص نهادهای اقتصادی سپاه را مورد هدف قرار دهید**: رفع تحریم ها باید بین تحریم های اقتصاد غیرنظامی (که باید به نفع مردم برداشته شود) و نام گذاری های ویژه سپاه پاسداران (که باید به عنوان اهرمی برای واگذاری واقعی حفظ یا گسترش یابد) تمایز قائل شود. این امر مستلزم اطلاعات دقیق در مورد ساختارهای شرکتی سپاه است - که دفاتر تحریمی ایالات متحده و اتحادیه اروپا قبلاً در اختیار دارند اما به طور کامل مستقر نشده اند.
+
+**تامین مالی جامعه مدنی به طور مستقیم**: بودجه توسعه بین المللی باید از طریق کانال هایی جریان یابد که نهادهای تحت کنترل رژیم را دور بزنند. حمایت مستقیم از سازمان‌های غیردولتی، دانشگاه‌ها، رسانه‌ها، و انجمن‌های حرفه‌ای ایرانی - با الگوبرداری از بودجه پیش از الحاق اتحادیه اروپا به جامعه مدنی اروپای شرقی در دهه 1990 - زمینه‌هایی را برای ادامه اصلاحات ایجاد می‌کند.
+
+### نخبگان اصلاحات درون نظام
+
+**پایه های نهادی را قبل از بسته شدن پنجره ایمن کنید**: اگر اصلاحات درون فضای سیاسی ایجاد کند، اصلاح طلبان باید از آن برای ساختن نهادها استفاده کنند، نه فقط سیاست گذاری. یک کمیسیون مستقل انتخاباتی، یک شورای مطبوعاتی با خودمختاری واقعی، یک مکانیسم نظارتی غیرنظامی برای نهادهای اقتصادی سپاه پاسداران انقلاب اسلامی - این پایه‌های نهادی از هر امتیاز سیاستی بادوام‌تر هستند. درس انتقال اسپانیا: اصلاح‌طلبان عصر فرانسه مانند آدولفو سوارز از پنجره خود برای ایجاد زیرساخت‌های انتخاباتی استفاده کردند که از هر دولت منفرد پیشی گرفت.
+
+**ائتلاف های فراجناحی بسازید**: نخبگان اصلاحات باید به دنبال اتحاد با عمل گرایان سپاه، بازاریان، میانه روهای قم و استانداران باشند – نه بر اساس ایدئولوژی مشترک، بلکه منافع مشترک در ثبات و بهبود اقتصادی. انتقال شیلی موفقیت آمیز بود زیرا اپوزیسیون یک ائتلاف گسترده (Concertacion) ایجاد کرد که شامل دموکرات‌های مسیحی، سوسیالیست‌ها و مستقل‌ها بود. اصلاحات باریک جناحی دستگیر یا معکوس خواهد شد.
+
+**قم را فعالانه درگیر کنید**: بحث کلامی حوزه علمیه در مورد ولایت فقیه عمیق ترین پرسش مشروعیت است. نخبگان اصلاحات باید علمای قم را تشویق کنند که طرفدار تفسیرهای ساکت یا اصلاح شده از مرجعیت روحانی هستند. این یک پروژه نسلی است، نه یک مانور تاکتیکی، اما باید پایه های آن را هم اکنون گذاشت. محور نجف-قم موضوعیت دارد: الگوی ساکت‌گرایانه سیستانی پوشش الهیاتی را برای روحانیونی فراهم می‌کند که می‌خواهند بدون کنارگذاشتن مرجعیت دینی از حکومت جدا شوند. نخبگان اصلاح طلبی که می توانند تبادل علمی قم و نجف را تسهیل کنند، روی عمیق ترین متغیر ساختاری در این سناریو کار می کنند.
+
+**آمادگی برای حکمرانی اقتصادی**: اگر اصلاحات در داخل موجب کاهش تحریم ها شود، این سوال که سودهای اقتصادی چگونه تقسیم می شود تعیین خواهد کرد که آیا اصلاحات دارای حوزه مردمی است یا خیر. نخبگان اصلاحات باید سازوکارهای شفافی را برای توزیع بودجه بازسازی ایجاد کنند – با الگوبرداری از بازسازی اروپای پس از جنگ (شرط طرح مارشال) به جای عراق پس از صدام (جایی که 8.8 میلیارد دلار از پول صندوق توسعه عراق ناپدید شد). آمادگی فنی برای حاکمیت اقتصادی - استانداردهای حسابرسی، شفافیت تدارکات، مکانیسم‌های انتقال مستقیم - به اندازه استراتژی سیاسی مهم است.
+
+---
+
+## 8. عوارض خاص ایران
+
+### امپراتوری اقتصادی سپاه
+
+دارایی های اقتصادی سپاه از عوارض قدرت نظامی نیست. آنها پایه مادی آن هستند. قرارگاه سازندگی خاتم الانبیا به تنهایی بین 10 تا 12 میلیارد دلار قراردادهای سالانه را کنترل می کند. شرکت های مرتبط با سپاه پاسداران انقلاب اسلامی بر واردات از طریق بندر شهید رجایی و غیره مسلط هستند. بنیاد مستضعفان (بنیاد مستضعفان) حدود 95 میلیارد دلار دارایی - املاک و مستغلات، تولید، کشاورزی و خدمات مالی- را کنترل می کند. این نهادها صدها هزار نفر را مستقیماً استخدام می کنند و میلیون ها نفر را از طریق زنجیره تامین پشتیبانی می کنند. هر اصلاحی که این ساختار را تهدید کند، نه تنها از سوی فرماندهان سپاه، بلکه از سوی حوزه اقتصادی وابسته به قراردادهای سپاه با مقاومت روبرو می شود. موازی TNI اندونزی نشان می دهد که حتی واگذاری اسمی در شرایط مساعد 15 تا 20 سال طول می کشد و ممکن است واگذاری واقعی هرگز رخ ندهد.
+
+### ولایت فقیه در زمان مجتبی
+
+دکترین ولایت فقیه - ولایت فقیه - اساس قانون اساسی جمهوری اسلامی است. بدعت خمینی این بود که مدعی شد یک فقیه باید ولایت مطلقه سیاسی را اعمال کند. این ادعا همواره در فقه شیعه مورد مناقشه بود. بسیاری از مراجع ارشد آن را رد کردند. اقتدار علی خامنه ای بر پایه استقرار نهادی و حمایت سپاه است نه اجماع الهیات. ادعای مجتبی هنوز ضعیف تر است: او فاقد مرتبه روحانیت است (او مرجع رسمی نیست)، خروجی علمی، و شبکه های شخصی که به پدرش مشروعیت باقی مانده است. اگر اصلاحات در درون، اختیارات عملی رهبر را بدون لغو رسمی این مقام تضعیف کند، ولایت فقیه به یک افسانه قانون اساسی تبدیل می شود - نتیجه ای شبیه به نقش تشریفاتی امپراتور ژاپن پس از 1945. این امری ممکن است اما از نظر تاریخی در حکومت اسلامی بی سابقه است.
+
+### حاشیه های قومی
+
+ایران تقریباً 50 تا 55 درصد ایرانی است و جمعیت قابل توجه آذربایجان (24-16 درصد)، کرد (7-10 درصد)، لر (6-7 درصد)، عرب (2-3 درصد)، بلوچ (2 درصد) و ترکمن دارد. جنبش اعتراضی در مناطق اقلیت قومی - کردستان، خوزستان، سیستان و بلوچستان - که نارضایتی‌های سیاسی با حاشیه‌نشینی‌های قومیتی و اقتصادی همراه است، قوی‌ترین بوده است. اصلاحات در داخل باید به خواسته های پیرامونی بپردازد یا خطر تغییر سناریو به سمت [تجزیه](./fragmentation.md) را به همراه داشته باشد. شواهد مقایسه ای از اسپانیا (کشور باسک، کاتالونیا)، اندونزی (آچه، پاپوآ) و عراق (کردستان) نشان می دهد که تمرکززدایی مدیریت شده می تواند به خواسته های قومی در یک دولت اصلاح شده رسیدگی کند - اما تنها در صورتی که دولت مرکزی از مشروعیت کافی و ظرفیت نهادی برای مذاکره معتبر برخوردار باشد. دولت ایران پس از جنگ ممکن است فاقد هر دو باشد.
+
+زمینه زمان جنگ، پویایی پیرامونی را تشدید می کند. با توجه به نزدیکی استان به عراق و زیرساخت های نفتی آن، جمعیت عرب خوزستان به طور نامتناسبی در معرض درگیری نظامی قرار گرفتند. مناطق کردستان با دولت خودمختار کردستان عراق ارتباطات فرامرزی دارند. جمعیت سنی سیستان و بلوچستان هم با به حاشیه رانده شدن قومی و هم فرقه ای روبرو هستند. اگر اصلاحات در داخل امتیازات فرهنگی و زبانی (آموزش به زبان آذربایجانی، حقوق پخش کردی) را بدون تمرکززدایی مالی و سیاسی واقعی ارائه دهد، ممکن است برخی از خواسته ها را برآورده کند و برخی دیگر را رادیکال کند. مدل اسپانیایی - جوامع خودمختار با اختیارات مالی واقعی و قدرت قانونگذاری - الگوی مثبت است، اما تفویض اختیار اسپانیا در قانون اساسی دموکراتیک لنگر انداخته بود. ساختار قانون اساسی متمرکز و تئوکراتیک ایران، دستیابی به تفویض اختیار معادل را از لحاظ ساختاری در داخل سیستم سخت‌تر می‌کند.
+
+### وابستگی به نفت و بیماری هلندی
+
+اقتصاد ایران از نظر ساختاری به درآمد نفت وابسته است (به طور تاریخی 50 تا 70 درصد بودجه دولت، هر چند با تحریم ها کاهش یافته است). کاهش تحریم‌ها که صادرات نفت را بدون اصلاحات ساختاری اقتصادی احیا می‌کند، الگوی پیش از جنگ را بازتولید می‌کند: درآمد نفت به دولت جریان می‌یابد، دولت از طریق شبکه‌های حمایتی (عمدتاً وابسته به سپاه پاسداران انقلاب اسلامی) توزیع می‌کند، بخش خصوصی متوقف می‌ماند، و جمعیت همچنان وابسته به تخصیص دولت است. این نفرین کلاسیک منابع است که با رانت خواری سپاه ترکیب شده است. اصلاحات در داخل باید شامل تنوع اقتصادی برای ایجاد حوزه‌هایی برای گشایش سیاسی پایدار باشد – اما تنوع بخشی به توسعه بخش خصوصی نیاز دارد که انحصارات سپاه مانع از آن می‌شود.
+
+تناقض ساختاری است: رفع تحریم ها برای بهبود اقتصادی ضروری است، اما درآمد نفتی ظرفیت رژیم را برای مقاومت در برابر اصلاحات سیاسی تقویت می کند. مدل صندوق ثروت دولتی نروژ - که در آن درآمدهای نفتی از مخارج دولت از طریق مکانیسم‌های نهادی جدا می‌شود - اغلب به عنوان یک جایگزین ذکر می‌شود، اما این نیاز به شفافیت و مسئولیت‌پذیری نهادی دارد که امپراتوری اقتصادی سپاه پاسداران انقلاب اسلامی برای اجتناب از آن طراحی شده است. مقایسه واقع بینانه تر عراق پس از صدام است، جایی که درآمد نفت از کانال های غیرشفاف دولتی جریان می یافت و به فساد دامن می زد که نهادهای دموکراتیک را از درون تضعیف می کرد. بدون سازوکارهای سازمانی صریح برای جلوگیری از تسخیر درآمدهای نفتی، رفع تحریم ها پایه مادی رژیم را بدون ایجاد پاسخگویی تقویت خواهد کرد.
+
+### برنامه هسته ای و راستی آزمایی
+
+حملات هوایی 2026 ظرفیت غنی سازی قابل توجهی را از بین برد، اما پایگاه دانش هسته ای ایران دست نخورده باقی مانده است. هر توافق چارچوبی باید به ریسک بازسازی بپردازد. رژیم راستی‌آزمایی آژانس بین‌المللی انرژی اتمی که طبق یک توافق جدید مورد نیاز است، مزاحم‌تر از برجام خواهد بود و سایت‌های نظامی را که قبلاً غیرمجاز بودند، پوشش می‌دهد. سپاه پاسداران انقلاب اسلامی در مقابل این موضوع به عنوان نقض حاکمیت مقاومت خواهد کرد. سناریوی اصلاح‌طلبی مستلزم آن است که مجتبی مقاومت سپاه را در راستی‌آزمایی رد کند - که محدودیت‌های اختیارات او را بر نهادی که او را نصب کرده است، آزمایش می‌کند.
+
+موضوع هسته ای یک تله سیاسی داخلی نیز ایجاد می کند. رژیم دهه‌ها را صرف چارچوب‌بندی برنامه هسته‌ای به عنوان نمادی از حاکمیت ملی و دستاوردهای علمی کرده است. پذیرش بازرسی های سرزده از سایت های نظامی - به ویژه پس از حمله به آن سایت ها - مستلزم کنار گذاشتن این روایت است. مجتبی می تواند معامله را بقای عمل گرایانه تعریف کند، اما نمی تواند آن را به عنوان پیروزی تعریف کند. این کسری روایت به تندروها قدرت می‌دهد که می‌توانند به طور قابل اعتمادی استدلال کنند که امتیازات نشان دهنده تسلیم شدن است. برجام دقیقاً با این پویایی روبرو بود: دولت روحانی از توافق در داخل دفاع کرد، در حالی که سپاه پاسداران و رسانه های تندرو به طور سیستماتیک آن را تضعیف کردند. هر توافق جانشینی با همان مخالفت داخلی روبرو خواهد شد که اکنون با ناسیونالیسم زمان جنگ تقویت شده است.
+
+### پویایی حوزه علمیه و نجف
+
+حوزه علمیه قم یک نهاد واحد نیست. این شبکه ای از مدارس، مراجع، و سنت های فکری رقیب است. سنت ساکت گرایی – که نمونه آن آیت الله العظمی سیستانی در نجف بود – جایگزینی کلامی برای ولایت فقیه ارائه می کند که نیازی به سکولاریسم ندارد. اگر مراجع قم به سمت الگوی سیستانی (اقتدار اخلاقی روحانی بدون حاکمیت سیاسی) حرکت کنند، اساس اعتقادی جمهوری اسلامی حتی بدون تغییر رسمی قانون اساسی فرسوده می شود. این روند هم اکنون در میان طلاب جوان حوزه علمیه در حال انجام است. اگر شکست‌های سیاسی مجتبی، حکومت روحانی فعال را بی‌اعتبار کند، سرعت آن تسریع خواهد شد.
+
+پویایی نسلی در حوزه های علمیه قابل توجه است. مراجع مسن‌تری که از روی وفاداری نهادی یا محاسبات عمل‌گرایانه، ولایت فقیه را پذیرفتند، پیر شده‌اند. نسل جوان علمای حوزوی دو دهه کاهش مشروعیت رژیم، جنبش سبز 2009، اعتراضات 2017-2018، اعتراضات بهای سوخت در سال 2019 و قیام مهسا امینی در سال 2022 را تجربه کرده اند. تجربه آنها از جمهوری اسلامی نه وعده انقلابی 1979 بلکه واقعیت سرکوبگرانه دهه 2020 ایران است. این جابه‌جایی نسلی پیامدهای سیاسی فوری به همراه نخواهد داشت - فرهنگ حوزوی مشورتی است نه انقلابی - اما طی 10-5 سال، زیرساخت‌های کلامی را که ولایت فقیه را قابل دفاع می‌کند، از بین می‌برد. اصلاحات درون این فرسایش را با نشان دادن اینکه حکومت می‌تواند با یک رهبر ضعیف عمل کند، تسریع می‌کند، که به طور ضمنی ادعای دکترین مبنی بر اینکه یک قیمومیت قوی روحانی ضروری است، تضعیف می‌کند.
+
+### پیچیدگی معماری را تحریم می کند
+
+ایران مشمول رژیم‌های تحریمی همپوشانی است: تحریم‌های اولیه ایالات متحده (خزانه‌داری/OFAC)، تحریم‌های ثانویه ایالات متحده (با هدف قرار دادن نهادهای کشورهای ثالث)، تحریم‌های خودمختار اتحادیه اروپا، قطعنامه‌های شورای امنیت سازمان ملل، و اقدامات خاص کشور از سوی ژاپن، کره جنوبی، استرالیا، کانادا و سایرین. بازگشایی این معماری یک فرآیند چند ساله و چند سازمانی است که شامل مقامات قانونی مختلف، حوزه های سیاسی مختلف و الزامات تأیید متفاوت است. مذاکرات برجام بیش از 2 سال طول کشید و لغو تحریم‌ها جزئی و مرحله‌ای بود. عادی سازی کامل روابط اقتصادی ایران در شرایط بهینه دیپلماتیک 5 تا 10 سال طول می کشد. این جدول زمانی سود اقتصادی اصلاحات را محدود می کند: مردم انتظار بهبود سریع دارند، اما معماری تحریم ها تخفیف تدریجی، مشروط و برگشت پذیر را ارائه می دهد.
+
+### شبکه پروکسی و تعادل مجدد منطقه ای
+
+حزب‌الله، حماس، حوثی‌ها و شبه‌نظامیان شیعه عراقی به دلیل درگیری‌های سال 2026 به شدت تخریب شده‌اند. توانایی ایران برای طرح قدرت منطقه‌ای از طریق نیابت‌ها - هسته اصلی دکترین «دفاع روبه‌رو» - کاهش یافته است. این پیامدهای متناقضی برای اصلاحات درونی دارد. از یک سو، کاهش تعهدات منطقه ای منابع را برای بازسازی داخلی آزاد کرد. از سوی دیگر، تندروهایی که مشاغلی را بر اساس مدیریت نیابتی ایجاد کرده‌اند، هدف نهادی خود را از دست می‌دهند و ممکن است برای حفظ ارتباط خود در برابر اصلاحات مقاومت کنند. تنزل شبکه نیابتی همچنین اهرم ایران را در مذاکرات منطقه ای کاهش می دهد - که به معنای قدرت چانه زنی کمتر در مذاکرات اسلام آباد است.
+
+نیروی قدس - شاخه عملیات خارجی سپاه - با بحران هویت نهادی مواجه است. دلیل وجودی آن پیش بینی قدرت منطقه ای از طریق شبکه های پراکسی بود که اکنون به شدت تخریب شده اند. پرسنل نیروی قدس، که بسیاری از آنها دهه‌ها را صرف ایجاد روابط در لبنان، عراق، سوریه و یمن کرده‌اند، با اعزام مجدد به نقش‌های داخلی در جایی که تخصص کمتر و جایگاه نهادی کمتری دارند، مواجه می‌شوند. این یک مجموعه بالقوه خطرناک از عوامل باتجربه، متعهد ایدئولوژیک، و اکنون به حاشیه رانده شده را ایجاد می کند که ممکن است در برابر اصلاحات در داخل به عنوان تهدیدی برای هویت حرفه ای و بقای نهادی خود مقاومت کنند. موازی آن افسران KGB هستند که در برابر اصلاحات گورباچف ​​مقاومت کردند - نه از بالا، بلکه از طریق مانع تراشی بوروکراتیک و دستکاری اطلاعات در سطح عملیاتی.
+
+### تجدید ساختار بنیاد
+
+سیستم بنیاد - بنیادهای شبه دولتی که دارایی های اقتصادی گسترده را کنترل می کنند - از نظر قانونی از سپاه متمایز است اما عملاً در هم تنیده شده است. بنیاد مستضعفان، بنیاد شهید و آستان قدس رضوی (بنیاد حرم مشهد، یکی از بزرگترین زمین داران ایران) پاسخگوی مقام معظم رهبری هستند نه دولت منتخب. هر اصلاحی در داخل که به حکمرانی بنیادی توجهی نداشته باشد، وضعیت اقتصادی موازی را دست نخورده باقی می گذارد. تجربه اصلاحات چبل کره جنوبی نشان می دهد که تجدید ساختار قدرت اقتصادی متمرکز مستلزم فشار نظارتی مداوم، الزامات حسابداری شفاف و اجرای قانونی معتبر است – که ایران در حال حاضر هیچ یک از آنها را ندارد.
+
+بنیادها همچنین یک وظیفه رفاه اجتماعی را ایفا می کنند - ارائه مسکن، آموزش، اشتغال، و مستمری برای جانبازان، خانواده شهدا، و فقرای شهری. این یک حوزه سیاسی ایجاد می کند که از ساختار فعلی سود می برد و در برابر اصلاحاتی که این خدمات را تهدید می کند مقاومت می کند. هرگونه تغییر ساختار باید ارائه خدمات جایگزین معتبری را ارائه دهد یا با مخالفت همان جمعیتی مواجه شود که اصلاح طلبان ادعا می کنند نمایندگی می کنند. تجربه اندونزیایی با اصلاح بنیادهای دوران سوهارتو (یایاسان) نشان می‌دهد که حتی پس از سقوط مرد قدرتمند، شبکه‌های ذینفع بنیاد برای سال‌ها در برابر شفافیت و پاسخگویی مقاومت می‌کنند.
+
+---
+
+## 9. شاخص هایی برای تماشا
+
+### سیگنال های مثبت (اصلاحات درون در حال تحقق است)
+
+- توافقنامه چارچوب اسلام آباد با معیارها و جدول زمانی مشخص و قابل تأیید امضا شده است
+- آزادی بیش از 1000 زندانی سیاسی، از جمله فعالان برجسته و روزنامه نگاران
+- روزنامه‌های مستقل مجوز انتشار دادند - نه فقط درخواست‌ها پذیرفته شده، بلکه انتشار واقعی
+- شورای نگهبان نامزدهای اصلاح طلب مجلس یا شهرداری را بدون رد صلاحیت دسته جمعی تایید می کند
+- گشت ارشاد رسماً در حداقل پنج استان منحل شد (نه فقط تعلیق)
+- نهادهای اقتصادی سپاه به حسابرسی خارجی (حتی جزئی) مراجعه کنند.
+- فیلتر اینترنت برای سیستم عامل های اصلی بدون نیاز به VPN برداشته شد
+- اتحادیه های کارگری به طور قانونی ثبت شده و مجاز به سازماندهی هستند
+- انجمن های هیأت علمی دانشگاه مجاز به فعالیت مستقل هستند
+- بیانیه های مراجع قم در حمایت از «گفتگوی ملی» یا «اصلاح نهادی»
+- افزایش تولید نفت بیش از 1.5 میلیون بشکه در روز (نشان دهنده کاهش معنی دار تحریم ها)
+- سرمایه گذاری مستقیم خارجی از منابع غیر چینی بیش از 1 میلیارد دلار در سال است
+- مجتبی علناً از احمد وحیدی یا دیگر چهره های تندرو سپاه فاصله می گیرد
+
+### سیگنال های منفی (اصلاحات درون شکست می خورد یا معکوس می شود)
+
+- مذاکرات اسلام آباد بدون توافق چارچوبی تا اوت 2026 به هم می خورد
+- نقض آتش بس یا حملات نظامی مجدد
+- دستگیری دسته جمعی رهبران معترض در جریان یا پس از فرآیند اسمی "گفتگو".
+- شورای نگهبان نامزدهای اصلاح طلب را برای دوره بعدی انتخابات رد صلاحیت کرد
+- فرماندهان سپاه علناً شفافیت اقتصادی یا واگذاری را رد می کنند
+- قطعی جدید اینترنت در جریان اعتراضات یا رویدادهای سیاسی
+- وحیدی یا همتای آن تندرو به مقام ارشد امنیتی ارتقا یافت
+- مراجع قم به صراحت صلاحیت مجتبی را زیر سوال می برند
+- دارایی های بنیاد به جای ساختارهای شفاف به نهادهای مرتبط با سپاه منتقل شده است
+- صندوق های امداد تحریم ها از طریق موسسات مالی تحت کنترل سپاه پاسداران انقلاب اسلامی
+- جنبش اعتراضی رهبری هماهنگ ملی را ایجاد می کند و به اعتصاب عمومی می رسد (سناریو را به سمت [انتقال دموکراتیک] تغییر می دهد (./democratic-transition.md))
+- مناطق پیرامونی قومی (کردستان، خوزستان، سیستان و بلوچستان) حکمرانی خودمختار را اعلام می کنند (سناریو را به سمت [تجزیه] تغییر می دهد(./fragmentation.md))
+- تورم علیرغم رفع جزئی تحریم ها بالای 50 درصد باقی می ماند که نشان دهنده جذب ساختاری از منافع اقتصادی است.
+
+### سیگنال های مبهم (می تواند هر یک از مسیرها را نشان دهد)
+
+- مجتبی قدرت شخصی را به هزینه جناح های سپاه تحکیم می کند - می تواند به معنای ظرفیت اصلاحات یا جایگزینی نخبگان به سبک AKP باشد.
+- شدت اعتراض کاهش می‌یابد - می‌تواند به این معنی باشد که امتیازات کار می‌کنند یا سرکوب موفقیت‌آمیز است
+- تغییرات رهبری داخلی سپاه - ارتقای عملگرایانه می تواند نشان دهنده تغییر واقعی یا جابجایی ظاهری باشد.
+- سکوت قم ادامه دارد - می تواند به معنای حمایت محتاطانه از اصلاحات یا آمادگی برای مخالفت باشد
+- افزایش تعامل چین و روسیه - می تواند رژیم را برای اصلاحات تثبیت کند یا آن را در برابر مشروطیت غرب مستحکم کند
+- اعلام شد "گفتگوی بازسازی ملی" - می تواند یک فرآیند مشورتی واقعی یا یک مکانیسم مشارکتی باشد که برای جذب انرژی مخالفان بدون واگذاری قدرت طراحی شده است.
+- بازرگانان بازار تجارت عادی خود را از سر می گیرند - می تواند نشان دهنده عادی سازی اقتصادی یا سازگاری رژیم با بازرگانان باشد که اصلاحات ساختاری را دور می زند.
+- رسانه‌های اصلاح‌طلب انتقاداتی را از هلدینگ‌های اقتصادی سپاه منتشر می‌کنند - می‌توانند آزمایش کنند که آیا خط قرمز واقعاً تغییر کرده است یا باعث سرکوبی شود که محدودیت‌های اصلاحات را آشکار می‌کند.
+
+### معیارهای جدول زمانی
+
+سناریوی اصلاحات را می توان بر اساس شاخص های محدود زمانی خاص ارزیابی کرد:
+
+- **60 روز (ژوئن 2026)**: توافق چارچوب اسلام آباد - بدون این، احتمال سناریو به زیر 15٪ کاهش می یابد.
+- **6 ماه (اکتبر 2026)**: شواهدی مبنی بر آزادی واقعی (نه آرایشی) زندانیان و مجوزهای مطبوعاتی - اصلاحات را از امتیاز اجرایی متمایز می کند.
+- **1 سال (فروردین 2027)**: رفتار شورای نگهبان در دوره بعدی انتخابات - مهم ترین آزمون نهادی
+- **2 سال (آوریل 2028)**: شفافیت اقتصادی سپاه - هرگونه حسابرسی خارجی، هرچند محدود، بی سابقه و قابل توجه خواهد بود.
+- **5 سال (آوریل 2031)**: نقطه انشعاب - تثبیت مدل مکزیک، بازگشت عکس خاتمی، یا شتاب مسیر گورباچف
+
+---
+
+## ارجاعات متقابل
+
+### سناریوهای دیگر
+
+- [وضعیت وضعیت موجود](./status-quo-decay.md) - در صورتی که تندروها مجدداً کنترل خود را اعمال کنند، اصلاحات در داخل منجر می شود (الگوی واکنش خاتمی)
+- [انتقال دموکراتیک](./democratic-transition.md) - در صورتی که گشایش خارج از کنترل رژیم تسریع شود، اصلاحات در درون منجر می شود (مسیر گورباچف)
+- [تجزیه](./fragmentation.md) - جایی که اصلاحات در داخل منجر می شود اگر حاشیه های قومی قدرت مرکزی را در طول گذار رد کنند
+- [تشدید جنگ](./war-escalation.md) - سناریویی که در صورت فروپاشی آتش بس، اصلاحات را نفی می کند.
+- [مسیر پهلوی](./pahlavi-path.md) - یک مدل گذار جایگزین که اصلاحات را به طور کامل دور می زند.
+- [شاخص سناریو](./index.md) - نمای کلی همه سناریوها و ارزیابی‌های احتمال
+
+### صفحات ویکی مرتبط
+
+- [مسیرهای آتش بس به حل و فصل](../v2/external/ceasefire-to-settlement-pathways.md) - شواهد مقایسه ای در مورد دوام آتش بس و پنجره تبدیل 60-90 روزه
+- [درگیری جناحی درون رژیم](../mechanisms/intra-regime-factional-conflict-transition-window.md) — تحلیل مکانیزم برای پویایی جناحی سپاه
+- [تسهیل تحریم‌ها و سود اقتصادی](../mechanisms/sanctions-relief-economic-dividend-democratic-mandate.md) — تحلیل مکانیسم برای مشروطیت اقتصادی
+- [بسیج جامعه مدنی](../mechanisms/civil-society-mobilization-regime-concessions.md) - تجزیه و تحلیل مکانیسم برای پویایی اعتراض به امتیاز
+- [اقتدار دینی و انتقال مشروعیت](../mechanisms/religious-authority-legitimacy-transfer.md) - تحلیل مکانیزم نقش قم در مسائل مشروعیت
+
+---
+
+*این سناریو را باید در کنار [انتقال دموکراتیک](./democratic-transition.md) (جایی که اصلاحات-در درون خیلی خوب موفق می شود) و [وضعیت وضع موجود](./status-quo-decay.md) (جایی که شکست می خورد) خوانده شود. این سه مجموعه به هم پیوسته ای از نتایج را از شرایط شروع یکسان تشکیل می دهند که عمدتاً در سرعت و جهت تغییر متفاوت هستند.*
+
+</div>

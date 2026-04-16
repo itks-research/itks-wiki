@@ -1,400 +1,404 @@
-# Scenario: State Fragmentation and Contested Authority
+<div dir="rtl" markdown>
 
-***Last Updated:** 2026-04-10*
+# سناریو: چندپارگی دولت و اقتدار مورد منازعه
 
-> **In brief**: Iran's central state loses effective authority over significant parts of the country. No single political force — not the IRGC, not a transitional government, not a regional faction — controls Iran in any meaningful sense. The result is a competitive authority landscape: multiple armed actors, regional governments operating with de facto autonomy, and a rump central state with formal sovereignty but limited practical reach. This is the scenario that Iranians most fear and that the comparative literature most consistently identifies as the worst transition outcome. Every other scenario — including military dictatorship, including theocratic restoration — is preferable to deep fragmentation. This is not an abstract judgment. It is the conclusion drawn from Libya, Syria, Yemen, Somalia, and every other case where central authority collapsed without a successor arrangement.
+*آخرین به‌روزرسانی: ۲۰۲۶-۰۴-۱۰*
 
----
-
-## 1. Summary
-
-Fragmentation does not happen through a single event. It accumulates through a series of mutually reinforcing failures until the damage becomes self-sustaining. What makes this scenario distinct from all others in the ITKS framework is its irreversibility: a failed reform can be restarted, a coup can be reversed, even a war can end in ceasefire. Fragmentation, once it reaches the point where multiple armed actors have established territorial control and economic extraction systems, resists every reversal effort the international community has ever attempted. Libya is fifteen years in. Syria is fifteen years in. Yemen is eleven years in. None has recovered.
-
-### The IRGC Internal Fracture
-
-It begins inside the IRGC itself. The decentralized command structure established before the US-Israel strikes — each commander with named successors spanning three ranks — was designed as a resilience mechanism. Under fragmentation conditions, it becomes an independence mechanism. Consider the logic facing a regional IRGC ground forces commander in, say, Hamadan or Tabriz. He has local economic relationships — construction firms, import licenses, agricultural land — that generate revenue independent of Tehran. He has a named successor chain. He has lateral coordination capacity with neighboring commanders. And he is receiving directives from a center whose authority rests on Ahmad Vahidi's personal standing, not constitutional legitimacy.
-
-If Vahidi issues an order that this commander judges strategically wrong — or if Vahidi is incapacitated and two rival figures in Tehran both claim authority — the commander faces a choice. Obey an uncertain center and risk his local position, or make autonomous decisions that preserve his forces and economic interests. The rational calculation, in the absence of clear central authority, is autonomy.
-
-This does not happen as a declared break. A commander in Kurdistan accepts an arrangement with Kurdish leaders to maintain order in exchange for de facto political autonomy. A Khuzestan commander cuts deals with Arab tribal leaders over oil revenue distribution. A commander in Isfahan negotiates directly with protest leaders rather than implementing a suppression order he judges counterproductive. Each accommodation is local and pragmatic. Together, they hollow out central authority until it exists only on paper.
-
-The critical difference between the IRGC and, say, the Iraqi military in 2003 is that IRGC regional commanders have something the Iraqi officer corps lacked: economic assets that provide alternative livelihoods. An Iraqi colonel dissolved by CPA Order 2 lost everything. An IRGC brigadier who breaks with Tehran still has his construction company, his import network, his land holdings. This makes fragmentation more likely (the cost of breaking away is lower) but also potentially less violent (commanders have reasons to maintain local stability rather than fight).
-
-### The Ethnic Periphery
-
-Simultaneously, Iran's ethnic periphery — which the Islamic Republic has treated as a security problem rather than a political constituency for four decades — becomes ungovernable. Iran's 40% non-Persian population (Kurdish, Azeri, Baloch, Arab, Turkmen) spans every border region. The center has held the periphery through coercion. When coercion degrades, the periphery moves.
-
-**Sistan-Baluchestan** is already in a state of low-level armed conflict. Jaish al-Adl maintains operational capacity across the Pakistani border. The Baloch population, overwhelmingly Sunni in a Shia-defined state, has the lowest development indicators in Iran and the highest grievance levels. Under fragmentation conditions, Jaish al-Adl and affiliated groups do not need to win a military victory. They need only demonstrate that Tehran cannot maintain order — and then offer an alternative. The cross-border dimension with Pakistani Balochistan, where a parallel separatist movement exists, means that arms, fighters, and organizational capacity can flow across a border that Tehran can barely monitor under normal conditions and cannot monitor at all under fragmentation.
-
-**Kurdistan** presents a different dynamic. PJAK (the Kurdish Free Life Party) has maintained a low-level insurgency, but the Kurdish political tradition in Iran includes sophisticated urban political movements alongside armed resistance. Iranian Kurdistan's fragmentation trajectory is not pure insurgency — it is the rapid construction of parallel governance. Kurdish political organizations have institutional memory from decades of organizing. If the central government's writ weakens, they can establish functional local governance faster than any other ethnic periphery group. The precedent of Iraqi Kurdistan — which leveraged the post-1991 no-fly zone into effective autonomy and then leveraged the 2003 invasion into constitutional recognition — is well known to Iranian Kurdish leaders.
-
-**Khuzestan** is the most consequential case because of oil. Iran's Arab minority in Khuzestan sits on top of the country's primary revenue source. Khuzestan has experienced repeated protest waves, most recently the 2021 water crisis protests that were met with lethal force. The combination of ethnic grievance, environmental catastrophe (the drying of the Karoun River, the dust storms from drained marshlands), and control over oil infrastructure makes Khuzestan the region where fragmentation most directly threatens the fiscal basis of any central authority. An autonomous or semi-autonomous Khuzestan does not just reduce Tehran's territorial control — it eliminates Tehran's revenue.
-
-**Azerbaijan Province** follows a distinct logic. Iranian Azeris are the most integrated minority — they are heavily represented in the bazaar economy, the clergy, and even the security forces. Azeri fragmentation is less likely than Kurdish or Baloch fragmentation. But if it occurs, it is the most destabilizing, because it involves a population of 15-20 million (larger than many independent states) with a potential patron state (the Republic of Azerbaijan, backed by Turkey) on the border.
-
-### The Collapse of State Functions
-
-Beyond security, fragmentation means the collapse of the mundane functions that hold a country together. The medical system — already strained by sanctions and war damage — loses its supply chains as different regions fall under different authorities. The electrical grid, which requires national-level coordination, degrades. The banking system fractures as different authorities attempt to control financial flows. Universities close or operate intermittently. The rial, already under severe pressure, loses whatever remaining value it holds as competing authorities issue competing claims on revenue.
-
-The human dimension of this is not abstract. It means a diabetic in Zahedan who cannot get insulin. It means a family in Ahvaz whose savings become worthless. It means a student in Tabriz whose degree is recognized by no one. It means a mother in Kermanshah choosing between staying in a conflict zone with her elderly parents and fleeing with her children to a refugee camp where neither has a future. Fragmentation is not primarily a geopolitical event. It is a catastrophe experienced in kitchens, hospitals, and classrooms.
-
-The economic dimension compounds every other failure. Iran's wartime economy — already under comprehensive sanctions, already absorbing the damage of the 39-day war — has no reserves to absorb fragmentation. The rial's remaining value depends on central bank authority; the banking system's function depends on interbank coordination; the import system depends on government-to-government trade arrangements. Each of these collapses under fragmentation, and each collapse accelerates the others.
+> **به طور خلاصه**: دولت مرکزی ایران اقتدار مؤثر خود را بر بخشهای مهمی از کشور از دست می دهد. هیچ نیروی سیاسی واحدی – نه سپاه پاسداران انقلاب اسلامی، نه یک دولت انتقالی، نه یک جناح منطقه ای – ایران را به معنای معنادار کنترل نمی کند. نتیجه یک چشم‌انداز اقتدار رقابتی است: بازیگران مسلح متعدد، دولت‌های منطقه‌ای که با خودمختاری عملی عمل می‌کنند، و یک دولت مرکزی نابسامان با حاکمیت رسمی اما دسترسی عملی محدود. این سناریویی است که ایرانی‌ها بیشتر از آن می‌ترسند و ادبیات تطبیقی ​​به‌طور مداوم آن را بدترین پیامد گذار معرفی می‌کند. هر سناریوی دیگری - از جمله دیکتاتوری نظامی، از جمله احیای تئوکراتیک - بر تجزیه عمیق ارجحیت دارد. این یک قضاوت انتزاعی نیست. این نتیجه ای است که از لیبی، سوریه، یمن، سومالی و هر مورد دیگری که در آن قدرت مرکزی بدون ترتیبات جانشینی سقوط کرد، به دست آمده است.
 
 ---
 
-## 2. Trigger Conditions
+## 1. خلاصه
 
-### IRGC Command Fracture
+تکه تکه شدن از طریق یک رویداد واحد اتفاق نمی افتد. از طریق یک سری از شکست‌های تقویت‌کننده متقابل جمع می‌شود تا زمانی که آسیب به خود ادامه دهد. آنچه این سناریو را از همه سناریوهای دیگر در چارچوب ITKS متمایز می کند، برگشت ناپذیری آن است: یک اصلاحات شکست خورده را می توان دوباره شروع کرد، یک کودتا را می توان معکوس کرد، حتی یک جنگ می تواند به آتش بس ختم شود. تکه تکه شدن، زمانی که به نقطه ای می رسد که چندین بازیگر مسلح سیستم های کنترل ارضی و استخراج اقتصادی را ایجاد کرده اند، در برابر هر تلاشی که جامعه بین المللی تاکنون انجام داده است، مقاومت می کند. لیبی پانزده سال است. سوریه پانزده سال است. یمن یازده سال است. هیچ یک بهبود نیافته است.
 
-The decentralized command structure that is currently an IRGC resilience asset becomes a fragmentation driver if Vahidi is killed or removed and no consensus successor emerges. The IRGC does not have a constitutional succession mechanism — it has a political one, dependent on the Supreme Leader's appointment authority. With Mojtaba Khamenei's own legitimacy contested (elected by the Assembly of Experts on March 9, nine days after his father's assassination, with no independent base of authority), the appointment of a new IRGC commander becomes a political struggle rather than an institutional process.
+### شکستگی داخلی سپاه
 
-The specific danger is a succession struggle between regional IRGC commanders — each with local economic and military assets — in which no candidate can establish dominance without a fight. The IRGC's history includes internal purges (the 1980s consolidation, the post-2009 disciplining of reformist-sympathizing officers), but those purges were conducted from a position of clear central authority. A succession struggle under conditions of war damage, economic collapse, and a weakened Supreme Leader lacks the institutional scaffolding that previous internal IRGC conflicts had.
+از داخل خود سپاه شروع می شود. ساختار فرماندهی غیرمتمرکز که قبل از حملات ایالات متحده و اسرائیل ایجاد شد - هر فرمانده با جانشینان نام‌گذاری شده در سه رده - به عنوان مکانیزم انعطاف‌پذیری طراحی شد. در شرایط تکه تکه شدن، به مکانیزم استقلال تبدیل می شود. منطقی را در نظر بگیرید که یک فرمانده منطقه ای نیروی زمینی سپاه در مثلاً همدان یا تبریز با آن مواجه است. او روابط اقتصادی محلی دارد - شرکت‌های ساختمانی، مجوزهای واردات، زمین‌های کشاورزی - که مستقل از تهران درآمدزایی می‌کنند. او یک زنجیره جانشین به نام دارد. او دارای ظرفیت هماهنگی جانبی با فرماندهان همسایه است. و او دستوراتی را از مرکزی دریافت می کند که اقتدارش بر اساس جایگاه شخصی احمد وحیدی است نه مشروعیت قانون اساسی.
 
-### Economic Collapse Below Survival Threshold
+اگر وحیدی دستوری صادر کند که این فرمانده از نظر استراتژیک اشتباه می‌کند - یا اگر وحیدی ناتوان باشد و دو چهره رقیب در تهران هر دو ادعای اقتدار داشته باشند، فرمانده با یک انتخاب روبرو می‌شود. از یک مرکز نامطمئن اطاعت کنید و موقعیت محلی او را به خطر بیندازید، یا تصمیمات مستقلی بگیرید که نیروها و منافع اقتصادی او را حفظ کند. محاسبه عقلانی، در غیاب اقتدار مرکزی روشن، خودمختاری است.
 
-The current economic crisis is severe but has not crossed the threshold where regime networks cannot maintain their core constituencies. The critical threshold is not GDP decline or even inflation per se — it is the point at which the patronage network that maintains Basij and IRGC loyalty loses its material basis. IRGC-linked enterprises control an estimated 15-25% of GDP. If war damage, sanctions, and oil export disruption reduce IRGC revenue to where salaries and business contracts cannot be honored, the institution's cohesion depends entirely on ideology and coercion.
+این به عنوان یک استراحت اعلام شده اتفاق نمی افتد. یک فرمانده در کردستان توافقی را با رهبران کرد برای حفظ نظم در ازای خودمختاری واقعی سیاسی می پذیرد. یک فرمانده خوزستانی با سران قبایل عرب بر سر توزیع درآمد نفت معامله می کند. یک فرمانده در اصفهان مستقیماً با رهبران معترضان مذاکره می‌کند تا اینکه دستور سرکوبی را که او آن را غیرمولد می‌داند اجرا کند. هر اقامتگاه محلی و عملی است. آنها با هم، اقتدار مرکزی را تا زمانی که فقط روی کاغذ وجود داشته باشد، توخالی می کنند.
 
-Historical evidence on this threshold is sobering. The Afghan National Army collapsed in 2021 when material incentives disappeared — 300,000 troops on paper dissolved in weeks because loyalty was transactional. The IRGC's ideological commitment is deeper than the ANA's, but the IRGC's post-revolutionary generation (officers who joined after the 1980s) has a loyalty profile that is significantly more transactional than the founding generation's. Hyperinflation above 200% — not inconceivable if the ceasefire collapses and war resumes — would test this loyalty in ways the Islamic Republic has never experienced.
+تفاوت اساسی بین سپاه پاسداران انقلاب اسلامی و مثلاً ارتش عراق در سال 2003 این است که فرماندهان منطقه ای سپاه چیزی را دارند که سپاه افسران عراق فاقد آن بودند: دارایی های اقتصادی که معیشت جایگزین را فراهم می کند. یک سرهنگ عراقی منحل شده توسط CPA Order 2 همه چیز را از دست داد. یک سرتیپ سپاه که با تهران قطع رابطه می کند، هنوز شرکت ساختمانی، شبکه واردات، زمین هایش را دارد. این باعث می شود که تکه تکه شدن احتمال بیشتری داشته باشد (هزینه جدایی کمتر است) اما به طور بالقوه خشونت کمتری نیز دارد (فرماندهان دلایلی برای حفظ ثبات محلی به جای جنگ دارند).
 
-### Ethnic Periphery Armed Resistance
+### پیرامون قومی
 
-The 39-day war and its aftermath have strained the security apparatus's capacity to maintain its periphery presence. With 3,117+ killed in protest suppression across all 31 provinces, the IRGC is already stretched. Simultaneous escalation of armed resistance in Balochistan (Jaish al-Adl cross-border operations), Kurdistan (PJAK), and Khuzestan (water crisis-fueled Arab mobilization) would create a three-front internal security challenge on top of external military commitments. The IRGC can manage any one of these peripheries. Managing all three simultaneously while prosecuting a ceasefire, managing mass protests, and navigating a succession struggle exceeds any force's capacity.
+همزمان، پیرامون قومی ایران - که جمهوری اسلامی برای چهار دهه با آن به‌عنوان یک مشکل امنیتی و نه یک حوزه سیاسی برخورد می‌کند - غیرقابل کنترل می‌شود. جمعیت 40 درصدی غیرفارس ایران (کرد، آذری، بلوچ، عرب، ترکمن) در هر منطقه مرزی است. این مرکز با اجبار، پیرامون را در دست گرفته است. وقتی اجبار تنزل پیدا می کند، پیرامون حرکت می کند.
 
-### Simultaneous Ceasefire Failure and IRGC Succession Struggle
+**سیستان و بلوچستان** هم اکنون در وضعیت درگیری مسلحانه سطح پایین قرار دارد. جیش العدل ظرفیت عملیاتی خود را در سراسر مرز پاکستان حفظ می کند. جمعیت بلوچ که اکثراً سنی هستند در ایالتی که شیعه تعریف می‌کند، پایین‌ترین شاخص توسعه را در ایران و بالاترین سطح نارضایتی را دارد. در شرایط پراکندگی، جیش العدل و گروه های وابسته نیازی به پیروزی نظامی ندارند. آنها فقط باید نشان دهند که تهران نمی تواند نظم را حفظ کند - و سپس یک جایگزین ارائه دهند. بعد فرامرزی با بلوچستان پاکستان، جایی که یک جنبش جدایی‌طلب موازی وجود دارد، به این معنی است که تسلیحات، مبارزان و ظرفیت سازمانی می‌توانند از مرزی عبور کنند که تهران در شرایط عادی به سختی قادر به نظارت بر آن است و اصلاً نمی‌تواند تحت چندپارگی نظارت کند.
 
-The most dangerous trigger combination is the collapse of the April 7-8 ceasefire and the Islamabad talks simultaneous with an IRGC command crisis. War resumption imposes demands — military coordination, civilian protection, economic management — that require centralized authority. If that centralized authority is itself in dispute, the system faces a combinatorial overload that no institutional design can handle.
+**کردستان** پویایی متفاوتی ارائه می دهد. پژاک (حزب زندگی آزاد کرد) یک شورش در سطح پایین را حفظ کرده است، اما سنت سیاسی کردها در ایران شامل جنبش های سیاسی پیچیده شهری در کنار مقاومت مسلحانه است. مسیر تکه تکه شدن کردستان ایران، شورش محض نیست، بلکه ساخت سریع حکومت موازی است. سازمان‌های سیاسی کرد از دهه‌ها سازماندهی حافظه نهادی دارند. اگر دستورات دولت مرکزی تضعیف شود، آنها می توانند سریعتر از سایر گروه های قومی پیرامونی، حکومت محلی کارآمد را ایجاد کنند. پیشینه کردستان عراق - که منطقه پرواز ممنوع پس از 1991 را به خودمختاری مؤثر تبدیل کرد و سپس از تهاجم سال 2003 برای به رسمیت شناختن قانون اساسی استفاده کرد - برای رهبران کرد ایران به خوبی شناخته شده است.
 
-War resumption is particularly dangerous because it degrades the physical infrastructure of central control. Communications systems, transportation networks, command facilities — all of which are essential for maintaining central authority — become military targets. Each strike on a communications node or road junction reduces Tehran's ability to coordinate with the periphery.
+**خوزستان** پیامدترین مورد به خاطر نفت است. اقلیت عرب ایران در خوزستان در صدر منبع درآمد اولیه کشور قرار دارد. خوزستان موج های اعتراضی مکرری را تجربه کرده است که آخرین آن اعتراضات بحران آب در سال 2021 بود که با قدرت مرگباری مواجه شد. ترکیبی از نارضایتی قومی، فاجعه زیست محیطی (خشک شدن رودخانه کارون، طوفان های گرد و غبار ناشی از خشکی های باتلاقی)، و کنترل بر زیرساخت های نفتی، خوزستان را به منطقه ای تبدیل می کند که پراکندگی به طور مستقیم پایه های مالی هر مقام مرکزی را تهدید می کند. یک خوزستان خودمختار یا نیمه خودمختار فقط کنترل ارضی تهران را کاهش نمی دهد، بلکه درآمد تهران را از بین می برد.
 
-### External Actor Intervention
+**استان آذربایجان** از منطق مشخصی پیروی می کند. آذری‌های ایرانی یکپارچه‌ترین اقلیت هستند - آنها به شدت در اقتصاد بازار، روحانیون و حتی نیروهای امنیتی حضور دارند. احتمال تکه تکه شدن آذری ها کمتر از تکه تکه شدن کردها یا بلوچ ها است. اما اگر این اتفاق بیفتد، بی‌ثبات‌کننده‌ترین است، زیرا شامل جمعیتی بین 15 تا 20 میلیون نفر (بزرگتر از بسیاری از کشورهای مستقل) با یک کشور حامی بالقوه (جمهوری آذربایجان، تحت حمایت ترکیه) در مرز است.
 
-External actors can trigger fragmentation through two mechanisms. The first is direct: arming and funding ethnic periphery movements. If Turkey decides that an autonomous Kurdish zone in Iran serves its interests, if Saudi Arabia or the UAE channel resources to Sunni Baloch or Arab movements, if Pakistan's intelligence services support Baloch factions — each of these interventions creates an armed actor with external resources that the central government must contend with.
+### فروپاشی توابع دولت
 
-The second mechanism is indirect: competing external actors backing competing internal factions. If Russia supports a rump IRGC-led central government while the US supports a transitional opposition, if China protects its economic interests in specific regions while Gulf states promote their own clients — the result is not a single transition but a proxy competition in which Iran's internal factions become vehicles for external rivalries. The Yemen and Syria precedents show that this dynamic is self-reinforcing: once external actors invest in internal factions, withdrawal is politically costly, and each actor's involvement justifies the others' continued engagement.
+فراتر از امنیت، پراکندگی به معنای فروپاشی کارکردهای پیش پا افتاده ای است که یک کشور را در کنار هم نگه می دارد. سیستم پزشکی - که در حال حاضر تحت فشار تحریم ها و آسیب های جنگ قرار گرفته است - زنجیره تامین خود را از دست می دهد زیرا مناطق مختلف تحت نظارت مقامات مختلف قرار می گیرند. شبکه برق که نیاز به هماهنگی در سطح ملی دارد، تخریب می شود. با تلاش مقامات مختلف برای کنترل جریان های مالی، سیستم بانکی دچار شکستگی می شود. دانشگاه ها به طور متناوب تعطیل یا فعالیت می کنند. ریال که در حال حاضر تحت فشار شدید قرار گرفته است، ارزش باقیمانده خود را از دست می دهد زیرا مقامات رقیب ادعاهای رقابتی بر درآمد را صادر می کنند.
 
-### Mojtaba Authority Collapse
+بعد انسانی این امر انتزاعی نیست. یعنی دیابتی زاهدانی که نمی تواند انسولین بگیرد. یعنی خانواده ای در اهواز که پس اندازشان بی ارزش می شود. یعنی دانش آموزی در تبریز که مدرکش را هیچکس نمی شناسد. یعنی مادری در کرمانشاه بین ماندن در یک منطقه درگیری با والدین مسن خود و فرار با فرزندانش به اردوگاه پناهندگانی که هیچ کدام آینده ای ندارند، انتخاب کند. تکه تکه شدن در درجه اول یک رویداد ژئوپلیتیکی نیست. این یک فاجعه است که در آشپزخانه ها، بیمارستان ها و کلاس های درس تجربه شده است.
 
-If Mojtaba is removed — through assassination, coup, or forced resignation — the constitutional mechanism for succession requires the Assembly of Experts to convene and choose a replacement. This mechanism presupposes institutional functioning: that the Assembly can convene safely, that its members agree on the procedure, that the chosen successor is accepted by the security forces. Under chaotic conditions, any of these presuppositions can fail. If two factions of the Assembly each claim to have elected a different successor, or if the IRGC refuses to accept the Assembly's choice, the constitutional crisis produces exactly the legitimate authority vacuum that fragmentation requires.
+بعد اقتصادی هر شکست دیگری را ترکیب می کند. اقتصاد ایران در زمان جنگ - که در حال حاضر تحت تحریم‌های همه جانبه قرار گرفته است و آسیب‌های جنگ 39 روزه را جذب کرده است - ذخایری برای جذب تکه تکه شدن ندارد. ارزش باقیمانده ریال بستگی به اختیارات بانک مرکزی دارد. عملکرد سیستم بانکی به هماهنگی بین بانکی بستگی دارد. سیستم واردات به ترتیبات تجاری دولت به دولت بستگی دارد. هر یک از اینها در اثر تکه تکه شدن فرو می ریزد و هر فروپاشی دیگری را تسریع می کند.
+
+---
+
+## 2. شرایط ماشه
+
+### شکستگی فرماندهی سپاه
+
+ساختار فرماندهی غیرمتمرکز که در حال حاضر دارایی مقاومت سپاه است، در صورت کشته شدن یا برکناری وحیدی و عدم ظهور جانشین اجماع، به یک محرک پراکنده تبدیل می‌شود. سپاه دارای سازوکار جانشینی در قانون اساسی نیست - یک مکانیسم سیاسی دارد که وابسته به اختیارات انتصابی رهبر است. با مناقشه بر حقانیت خود مجتبی خامنه ای (که توسط مجلس خبرگان در 9 مارس، 9 روز پس از ترور پدرش، بدون هیچ پایگاه مستقلی از اختیارات انتخاب شد)، انتصاب یک فرمانده جدید سپاه تبدیل به یک مبارزه سیاسی می شود تا یک فرآیند نهادی.
+
+خطر خاص، جنگ جانشینی بین فرماندهان منطقه‌ای سپاه - هر کدام با دارایی‌های اقتصادی و نظامی محلی - است که در آن هیچ نامزدی نمی‌تواند بدون جنگ تسلط پیدا کند. تاریخ سپاه شامل پاکسازی‌های داخلی است (تجمیع دهه 1980، انضباط افسران دلسوز اصلاح‌طلبان پس از سال 2009)، اما این پاک‌سازی‌ها از موضع قدرت مرکزی مشخص انجام شد. مبارزه پیاپی در شرایط آسیب جنگ، فروپاشی اقتصادی، و رهبری ضعیف، فاقد داربست نهادی است که درگیری های داخلی قبلی سپاه داشت.
+
+### فروپاشی اقتصادی زیر آستانه بقا
+
+بحران اقتصادی کنونی شدید است، اما از آستانه ای که شبکه های رژیم نتوانند حوزه اصلی خود را حفظ کنند، عبور نکرده است. آستانه بحرانی کاهش تولید ناخالص داخلی یا حتی تورم فی نفسه نیست - این نقطه ای است که شبکه حمایتی که وفاداری بسیج و سپاه را حفظ می کند، اساس مادی خود را از دست می دهد. شرکت‌های مرتبط با سپاه پاسداران انقلاب اسلامی حدود 15 تا 25 درصد تولید ناخالص داخلی را کنترل می‌کنند. اگر آسیب های جنگ، تحریم ها و اختلال در صادرات نفت، درآمد سپاه را به جایی برساند که حقوق و قراردادهای تجاری قابل رعایت نباشد، انسجام این نهاد کاملاً به ایدئولوژی و اجبار بستگی دارد.
+
+شواهد تاریخی در این آستانه هشیارکننده است. ارتش ملی افغانستان در سال 2021 با ناپدید شدن انگیزه های مادی سقوط کرد - 300000 سرباز روی کاغذ در هفته ها منحل شدند زیرا وفاداری به صورت مبادله ای بود. تعهد ایدئولوژیک سپاه عمیق تر از ارتش ملی است، اما نسل پس از انقلاب سپاه (افسرانی که پس از دهه 1980 به آن پیوستند) دارای وفاداری است که به طور قابل توجهی نسبت به نسل بنیانگذاران، معاملاتی بیشتری دارد. تورم بیش از 200 درصد - غیرقابل تصور در صورت فروپاشی آتش بس و از سرگیری جنگ - این وفاداری را به روشی که جمهوری اسلامی هرگز تجربه نکرده است، آزمایش خواهد کرد.
+
+### مقاومت مسلحانه قومی پیرامونی
+
+جنگ 39 روزه و پیامدهای آن، ظرفیت دستگاه امنیتی برای حفظ حضور پیرامونی خود را تحت فشار قرار داده است. با بیش از 3117 کشته در سرکوب تظاهرات در تمام 31 استان، سپاه پاسداران انقلاب اسلامی در حال حاضر گسترش یافته است. تشدید همزمان مقاومت مسلحانه در بلوچستان (عملیات برون مرزی جیش العدل)، کردستان (پژاک) و خوزستان (بسیج عربی ناشی از بحران آب) علاوه بر تعهدات نظامی خارجی، یک چالش امنیتی داخلی سه جانبه ایجاد خواهد کرد. سپاه می تواند هر یک از این مناطق پیرامونی را مدیریت کند. مدیریت هر سه به طور همزمان در حین پیگیری آتش بس، مدیریت اعتراضات توده ای و هدایت جنگ جانشینی فراتر از ظرفیت هر نیرویی است.
+
+### شکست همزمان آتش بس و جنگ جانشینی سپاه
+
+خطرناک ترین ترکیب ماشه، فروپاشی آتش بس 7-8 آوریل و مذاکرات اسلام آباد همزمان با بحران فرماندهی سپاه است. از سرگیری جنگ مطالباتی را تحمیل می کند - هماهنگی نظامی، حفاظت غیرنظامی، مدیریت اقتصادی - که نیاز به اختیار متمرکز دارد. اگر آن مرجع متمرکز خودش مورد مناقشه باشد، سیستم با یک بار ترکیبی مواجه می شود که هیچ طرح نهادی نمی تواند آن را مدیریت کند.
+
+از سرگیری جنگ به ویژه خطرناک است زیرا زیرساخت فیزیکی کنترل مرکزی را تخریب می کند. سیستم های ارتباطی، شبکه های حمل و نقل، امکانات فرماندهی - که همه برای حفظ قدرت مرکزی ضروری هستند - به اهداف نظامی تبدیل می شوند. هر ضربه به یک گره ارتباطی یا تقاطع جاده، توانایی تهران را برای هماهنگی با حاشیه کاهش می دهد.
+
+### مداخله بازیگر خارجی
+
+بازیگران خارجی می توانند از طریق دو مکانیسم باعث تکه تکه شدن شوند. اولی مستقیم است: تسلیح و تأمین مالی جنبش های قومی پیرامونی. اگر ترکیه تصمیم بگیرد که یک منطقه خودمختار کردی در ایران در خدمت منافعش باشد، اگر عربستان سعودی یا امارات منابع را به جنبش‌های بلوچ سنی یا عرب هدایت کنند، اگر سرویس‌های اطلاعاتی پاکستان از جناح‌های بلوچ حمایت کنند - هر یک از این مداخلات یک بازیگر مسلح با منابع خارجی ایجاد می‌کند که دولت مرکزی باید با آن مبارزه کند.
+
+مکانیسم دوم غیرمستقیم است: بازیگران خارجی رقیب از جناح های داخلی رقیب حمایت می کنند. اگر روسیه از یک دولت مرکزی تحت رهبری سپاه پاسداران حمایت می کند در حالی که ایالات متحده از یک اپوزیسیون انتقالی حمایت می کند، اگر چین از منافع اقتصادی خود در مناطق خاص محافظت می کند در حالی که کشورهای خلیج فارس مشتریان خود را تبلیغ می کنند - نتیجه یک انتقال واحد نیست بلکه یک رقابت نیابتی است که در آن جناح های داخلی ایران به ابزاری برای رقابت های خارجی تبدیل می شوند. سوابق یمن و سوریه نشان می‌دهد که این پویایی خود را تقویت می‌کند: زمانی که بازیگران خارجی در جناح‌های داخلی سرمایه‌گذاری می‌کنند، عقب‌نشینی از نظر سیاسی پرهزینه است و مشارکت هر یک از بازیگران، ادامه تعامل دیگران را توجیه می‌کند.
+
+### فروپاشی مرجعیت مجتبی
+
+در صورت برکناری مجتبی - از طریق ترور، کودتا یا استعفای اجباری - مکانیسم قانون اساسی برای جانشینی مستلزم تشکیل مجلس خبرگان و انتخاب جایگزین است. این سازوکار مستلزم عملکرد نهادی است: این که مجمع بتواند با خیال راحت تشکیل جلسه دهد، اعضای آن در مورد رویه توافق کنند، جانشین منتخب توسط نیروهای امنیتی پذیرفته شود. در شرایط آشفته، هر یک از این پیش فرض ها ممکن است شکست بخورد. اگر دو فراکسیون مجلس هر کدام ادعا کنند که جانشین دیگری را انتخاب کرده‌اند، یا اگر سپاه از پذیرش انتخاب مجمع امتناع کند، بحران قانون اساسی دقیقاً خلأ اختیارات مشروعی را ایجاد می‌کند که تجزیه طلبی نیاز دارد.
 
 ### The Cascade Dynamic
 
-The most dangerous feature of these triggers is that they are not independent. War resumption accelerates economic collapse. Economic collapse undermines IRGC cohesion. IRGC fracture emboldens ethnic periphery movements. Ethnic periphery conflict invites external intervention. External intervention deepens internal fractures. Each trigger condition reinforces the others in a positive feedback loop. The system can absorb any single shock. The question is whether it can absorb three or four simultaneously — and the honest analytical answer is that no state in the comparative record has absorbed this combination without fragmentation.
+خطرناک ترین ویژگی این محرک ها مستقل نبودن آنهاست. از سرگیری جنگ، فروپاشی اقتصادی را تسریع می کند. فروپاشی اقتصادی انسجام سپاه را تضعیف می کند. شکست سپاه باعث جسارت جنبش های قومی پیرامونی می شود. درگیری های پیرامونی قومی نیازمند مداخله خارجی است. مداخله خارجی باعث عمیق تر شدن شکستگی های داخلی می شود. هر یک از شرایط ماشه، دیگران را در یک حلقه بازخورد مثبت تقویت می کند. این سیستم می تواند هر ضربه ای را جذب کند. سوال این است که آیا می تواند سه یا چهار را به طور همزمان جذب کند - و پاسخ تحلیلی صادقانه این است که هیچ وضعیتی در رکورد مقایسه ای این ترکیب را بدون تکه تکه شدن جذب نکرده است.
 
-The current situation as of April 10 — ceasefire fragile, Islamabad talks beginning, Mojtaba's authority untested, IRGC stretched across 31 provinces of protest, economy in wartime collapse — represents at least three of these triggers in early activation. This does not mean fragmentation is inevitable. It means the conditions for it are present in a way they have not been before.
-
----
-
-## 3. Historical Parallels
-
-### Libya 2011-Present: The Direct Warning
-
-Libya is the fragmentation case that most closely approximates a potential Iranian trajectory, and the one that should most alarm Iranian planners. NATO airpower removed Gaddafi's regime in 2011; no institutional successor existed; armed groups that had fought the regime reconstituted as autonomous territorial authorities. Fifteen years later, Libya has two competing governments (Tripoli and Benghazi), multiple armed factions controlling distinct territories, a resource economy looted by competing power centers, and no credible national political process.
-
-The Libya parallel is instructive in its specifics. Gaddafi had deliberately weakened all institutions except his personal security apparatus — the Libyan military was kept weak, the bureaucracy was personalized, tribal networks substituted for institutional governance. When Gaddafi fell, there was nothing to fall back on. Iran's institutional landscape is richer than Libya's was — the IRGC, the judiciary, the provincial governance system, the clerical establishment all have institutional depth that Libya lacked. But the warning remains: coercive regime removal without institutional preparation is not transition — it is fragmentation.
-
-Libya also demonstrates the persistence of fragmentation. International mediation efforts — the Skhirat Agreement (2015), the Berlin Conference (2020), the Government of National Unity (2021) — have repeatedly failed to produce lasting reunification. Once armed actors establish territorial control and economic extraction systems, they have no incentive to surrender those assets to a central authority. The Libyan precedent suggests that fragmentation, once established, can persist for decades.
-
-### Iraq 2003-2006: Institutional Destruction and Its Consequences
-
-The Coalition Provisional Authority's two most consequential decisions — de-Ba'athification (CPA Order 1) and the dissolution of the Iraqi military (CPA Order 2) — destroyed state capacity and created an armed, unemployed population in a single stroke.
-
-CPA Order 2 dismissed approximately 400,000 Iraqi military personnel. These were trained, organized men with access to weapons caches — and overnight, they lost their salaries, their status, and their institutional identity. The insurgency that followed was not spontaneous; it was organized by former military officers who used existing command networks to build resistance organizations. The lesson for Iran is precise: any transition that rapidly dismantles the IRGC without providing alternative employment and institutional roles for its members will produce the same result, multiplied by the IRGC's greater organizational sophistication.
-
-De-Ba'athification compounded the damage by excluding the Sunni Arab professional class from governance. The Iranian equivalent would be a post-transition "de-Sepahization" that excludes IRGC-affiliated professionals from governance — and it would produce the same catastrophic institutional hollowing. The sectarian dimension of Iraq's fragmentation is also instructive: muhasasa (sectarian quota governance) institutionalized division rather than resolving it. Iran's ethnic diversity — Kurdish, Azeri, Baloch, Arab, Turkmen, Lor — creates a similar risk of identity-based political mobilization under fragmentation conditions.
-
-### Syria 2011-Present: Regime Decentralization and Militia Politics
-
-Syria provides the most detailed case study of a specific fragmentation mechanism: wartime regime decentralization of security that produces post-conflict demobilization failure. When the Syrian uprising began in 2011, the Assad regime decentralized security to loyal armed groups — the shabiha militias, the National Defense Forces, and eventually Iranian-backed groups like Lebanese Hezbollah and Iraqi Shia militias. These groups were effective in combat but developed autonomous funding streams (checkpoints, looting, smuggling, war economy extraction) that made them independent of central command.
-
-The result was that when the military phase wound down, the regime discovered it had created dozens of armed groups with independent revenue, local territorial control, and no incentive to submit to central authority. The "post-conflict" Syrian state is not a unitary actor — it is a coalition of armed groups whose cooperation depends on continued patronage flows from a center that is itself financially exhausted. The parallel for Iran is direct: if the IRGC decentralizes security further under war conditions — delegating authority to Basij units, local commanders, and informal armed groups — it creates exactly the preconditions for this pattern.
-
-### Yemen 2014-Present: External Intervention and Territorial Fragmentation
-
-Yemen demonstrates how external military intervention transforms internal political conflict into durable territorial fragmentation. The Houthi movement's seizure of Sana'a in 2014 was an internal political event. The Saudi-led military intervention in 2015 transformed it into a regional proxy war that fragmented Yemen into at least four distinct territorial authorities: Houthi-controlled north, internationally recognized government, Southern Transitional Council (UAE-backed), and various tribal and Islamist territories.
-
-Yemen is relevant to Iran in three ways. First, the Houthis demonstrated that a determined armed faction with external support can maintain territorial control indefinitely against a technologically superior adversary — the same dynamic that would apply if Iranian ethnic armed movements receive comparable external support. Second, Yemen shows that external intervention does not resolve fragmentation — it entrenches it by giving each faction an external patron with its own strategic interests. Third, Yemen's humanitarian catastrophe illustrates the human cost of sustained fragmentation in a way that should be viscerally relevant to Iranians.
-
-### Lebanon: Managed Fragmentation as Stable Failure
-
-Lebanon represents managed fragmentation that is politically contained but never resolved. The Ta'if Agreement (1989) ended the civil war by institutionalizing sectarian power-sharing, but the underlying fragmentation — Hezbollah's autonomous military capacity, sectarian patronage networks, the absence of a functional central state — persisted for thirty-five years. Some Iranian analysts see managed fragmentation as a potential "least-worst" outcome. The counterargument is that Lebanon's managed fragmentation required specific conditions (small geographic size, international consensus on non-intervention, Hezbollah's external patron providing resources) that do not apply to a country of Iran's size, strategic significance, and nuclear status.
-
-### Afghanistan 2021: When Material Incentives Disappear
-
-The Afghan National Army's collapse demonstrated what happens when formal authority rests entirely on material incentives and those incentives disappear. The ANA existed on paper: 300,000 troops, billions in equipment, years of training. It dissolved in weeks because the institutional loyalty was transactional — paid for by American dollars and sustained by American logistics. When the withdrawal made those flows uncertain, the calculation changed overnight.
-
-The IRGC is not the ANA. Its ideological foundation is deeper, its institutional history longer, its internal cohesion stronger. But the post-revolutionary generation of IRGC officers — those who joined after the 1980s — has a loyalty profile closer to the ANA's than the founding generation's. Hyperinflation, sanctions-driven revenue collapse, and war damage to IRGC economic interests could replicate the material incentive disappearance that dissolved the ANA, testing whether ideological commitment fills the gap. The Afghan case warns against assuming that institutional continuity on paper guarantees institutional cohesion under stress.
-
-### Soviet Dissolution 1991: Formal Structures Persist While Authority Transfers Down
-
-The Soviet collapse involved formal structures persisting while actual authority transferred to republican and then sub-republican levels. The parallel for Iran is partial but important: the IRGC's decentralized command structure means that if the center loses authority, the periphery already has functioning organizational structures that can absorb governance functions.
-
-Unlike the Soviet republics, Iran's provinces do not have constitutional sovereignty claims, elected legislatures, or distinct national identities (with the partial exception of Kurdistan and Balochistan). Iranian fragmentation would therefore be messier than Soviet dissolution — less constitutionally mediated, more dependent on raw power dynamics. The Soviet case also illustrates the nuclear dimension: the cooperative threat reduction framework (Nunn-Lugar) that secured Soviet nuclear materials required a cooperative dissolution. Iranian fragmentation, which would be contested rather than cooperative, makes nuclear security far harder.
-
-### Yugoslavia 1991-1995: Ethnic and Military Fragmentation
-
-Yugoslavia provides the most direct parallel for the ethnic dimension of potential Iranian fragmentation. The Yugoslav People's Army (JNA) fragmented along ethnic lines when the federal structure dissolved — Serbian, Croatian, and Bosnian units reconstituted as national armies, often fighting former comrades. Iran's five parallel security bodies include personnel from all ethnic groups, but command structures are overwhelmingly Persian-dominated. Under fragmentation, the question of whether Kurdish or Azeri IRGC officers remain loyal to a Persian-dominated command or align with ethnic movements becomes critical.
-
-Yugoslavia's violence was concentrated where ethnic populations were intermixed — Bosnia above all. Iran's ethnic geography includes significant zones of intermixing (Khuzestan's Arab-Persian population, the Azeri-Kurdish borderlands, Tehran's multi-ethnic population). These zones face the highest risk of inter-communal violence under fragmentation — the same dynamic that produced ethnic cleansing in Bosnia.
-
-The Dayton model that ended Bosnia's war is also instructive as a potential endpoint: a formal state with practically partitioned governance. Configuration C in the transition pathway below approximates this outcome for Iran. But Dayton required NATO's willingness to deploy 60,000 troops for years. Whether any external actor would commit comparable forces to stabilize a fragmented Iran — a country of 1.6 million square kilometers with 88 million people, nuclear materials, and the Strait of Hormuz — is an open question. The scale of the commitment required may exceed what any coalition is willing to provide.
-
-### Why Fragmentation is Underestimated
-
-Analysts tend to think of regime change as a discrete event — a coup, a revolution, an election. Fragmentation is a process. It is often not recognized as having begun until it is well advanced. The Syrian civil war began as a protest movement; Yemen began as a political negotiation; Libya began as a military rebellion against a dictator who was assumed to have no popular support. None of these were predicted to produce the fragmentation they did.
-
-The coup-proofing insight explains why: the parallel security structures that Iran, Iraq, Syria, and Libya all maintained were designed to prevent military defection during protests. They succeeded at that. But they also prevented orderly transition. When these parallel structures fragment — as they did in Iraq, Syria, and Libya — the result is not civilian supremacy but competing armed factions, each with its own command structure, economic base, and territorial claims. Iran has the most elaborate coup-proofing architecture in the comparative literature (five parallel bodies). This is simultaneously its greatest source of regime stability and its greatest fragmentation risk.
-
-Iran watchers should assume that their baseline prediction is too optimistic and that the tail risk of fragmentation is higher than their models suggest. Spain's 23-F (1981) showed that a crisis can catalyze reform — but only because reformers had implementable alternatives ready. Iran's democratic movements have aspirations but lack the institutional blueprints, cross-ethnic coalitions, and security force relationships that Spain's reformers had built over years. The absence of these prerequisites makes the fragmentation tail risk larger, not smaller, than comfortable analysis admits.
+وضعیت کنونی تا 10 آوریل - آتش‌بس شکننده، مذاکرات اسلام‌آباد آغاز شده، اقتدار مجتبی آزمایش نشده، سپاه پاسداران انقلاب اسلامی در 31 استان اعتراضی گسترده شده است، اقتصاد در زمان جنگ فروپاشی کرده است - حداقل سه مورد از این محرک‌ها را در فعال‌سازی اولیه نشان می‌دهد. این بدان معنا نیست که پراکندگی اجتناب ناپذیر است. یعنی شرایط آن به گونه ای است که قبلا نبوده است.
 
 ---
 
-## 4. Transition Pathway
+## 3. موازی های تاریخی
 
-This scenario does not have a "transition pathway" in the clean sense of the other scenarios. It has a cascade dynamic with a humanitarian catastrophe embedded at every stage.
+### لیبی 2011-اکنون: هشدار مستقیم
 
-### Phase 1: First 100 Days (April-July 2026)
+لیبی یکی از مواردی است که بیش از همه به مسیر بالقوه ایران نزدیک می شود و باید برنامه ریزان ایرانی را نگران کند. نیروی هوایی ناتو در سال 2011 رژیم قذافی را برکنار کرد. هیچ جانشین نهادی وجود نداشت. گروه های مسلحی که با رژیم جنگیده بودند به عنوان مقامات ارضی خودمختار تشکیل شدند. 15 سال بعد، لیبی دارای دو دولت رقیب (طرابلس و بنغازی)، جناح های مسلح متعددی است که مناطق مجزا را کنترل می کنند، اقتصاد منابع غارت شده توسط مراکز قدرت رقیب، و هیچ روند سیاسی ملی معتبری ندارد.
 
-The fragmentation scenario's first phase looks, from the outside, like a continuation of [Status Quo Decay](./status-quo-decay.md). The visible difference is not what is happening at the center but what is happening at the periphery: regional IRGC commanders making autonomous decisions; provincial governors failing to implement Tehran directives on protest suppression; Basij units in marginal provinces going through the motions of presence without operational capacity.
+موازی لیبی در ویژگی های خود آموزنده است. قذافی عمداً همه نهادها را تضعیف کرده بود به جز دستگاه امنیتی شخصی خود - ارتش لیبی ضعیف نگه داشته شد، بوروکراسی شخصی شد، شبکه های قبیله ای جایگزین حکومت نهادی شدند. وقتی قذافی سقوط کرد، چیزی برای عقب افتادن وجود نداشت. چشم‌انداز نهادی ایران از لیبی غنی‌تر است - سپاه پاسداران، قوه قضائیه، سیستم حاکمیت استانی، نهاد روحانیت، همگی دارای عمق نهادی هستند که لیبی فاقد آن بود. اما اخطار همچنان باقی است: حذف رژیم قهری بدون آمادگی نهادی، گذار نیست - تجزیه است.
 
-Inside the security apparatus: intelligence reports about Basij loyalty problems are either suppressed (as bad news) or not reaching Vahidi's desk effectively (as a function of the decentralized command structure). The center does not know the extent of periphery erosion. The IRGC's five parallel security bodies — IRGC, IRGC Intelligence, Basij, MOIS, and Artesh — are each producing their own assessments, each with institutional incentives to either minimize or exaggerate the problem depending on their positioning in internal rivalries.
+لیبی نیز تداوم تجزیه را نشان می دهد. تلاش‌های میانجی‌گری بین‌المللی - توافقنامه اسخیرات (2015)، کنفرانس برلین (2020)، دولت وحدت ملی (2021) - مکرراً نتوانسته‌اند اتحاد مجدد پایدار ایجاد کنند. هنگامی که بازیگران مسلح سیستم های کنترل سرزمینی و استخراج اقتصادی را ایجاد می کنند، انگیزه ای برای تسلیم آن دارایی ها به یک مقام مرکزی ندارند. سابقه لیبی نشان می دهد که تجزیه، پس از ایجاد، می تواند برای دهه ها ادامه یابد.
 
-**The information blackout problem**: Fragmentation's first phase is characterized by a dangerous paradox — the center loses situational awareness at precisely the moment it most needs it. MOIS informant networks in the periphery degrade as informants calculate that their handlers may not be able to protect them if the local power structure shifts. Basij neighborhood surveillance depends on social embeddedness that collapses when Basij members' own families are suffering economically. The satellite and signals intelligence that compensated for human intelligence gaps during the war is focused on external threats, not internal erosion. Vahidi and whatever central command structure survives may genuinely not understand the severity of periphery erosion until it is irreversible.
+### عراق 2003-2006: تخریب نهادی و پیامدهای آن
 
-**Humanitarian signals in Phase 1**: Food supply disruptions begin in peripheral provinces as transportation networks degrade and central distribution systems lose reliability. Medical supply shortages — already acute from sanctions and war damage — become critical in provinces where the central government's attention is focused elsewhere. Hospital generators run out of fuel in Zahedan. Dialysis patients in Sanandaj miss treatments. Pharmaceutical supply chains, dependent on central import coordination and hard currency access, break down province by province. These are not yet a crisis visible to international media. They are the invisible suffering that precedes the visible catastrophe.
+دو تصمیم مهم ائتلاف حکومت موقت - بعث زدایی (دستور 1 CPA) و انحلال ارتش عراق (دستور 2 CPA) - ظرفیت دولت را از بین برد و جمعیتی مسلح و بیکار را در یک مرحله ایجاد کرد.
 
-**The medical system collapse trajectory**: Iran's medical infrastructure is centralized in Tehran, Isfahan, Shiraz, and Mashhad. Peripheral provinces depend on supply chains routed through these hubs. Under fragmentation, the specialist physicians who serve peripheral hospitals — many of whom are from central provinces on rotation — stop traveling to insecure regions. Medical equipment maintenance, dependent on foreign contractors who cannot access fragmented zones, ceases. The healthcare collapse follows a predictable timeline: acute care fails first (trauma, emergency surgery), chronic disease management fails second (dialysis, cancer treatment, diabetes management), and preventive care (vaccination, maternal health) fails last but with the most devastating long-term consequences.
+دستور 2 CPA حدود 400000 پرسنل نظامی عراق را اخراج کرد. این افراد آموزش دیده و سازماندهی شده بودند که به انبارهای اسلحه دسترسی داشتند - و یک شبه حقوق، موقعیت و هویت سازمانی خود را از دست دادند. شورشی که پس از آن خود به خود نبود. توسط افسران نظامی سابق که از شبکه های فرماندهی موجود برای ایجاد سازمان های مقاومت استفاده می کردند، سازماندهی شد. درس برای ایران دقیق است: هر انتقالی که به سرعت سپاه را بدون ایجاد مشاغل جایگزین و نقش های نهادی برای اعضای آن منحل کند، همان نتیجه را به همراه خواهد داشت که با پیچیدگی سازمانی بیشتر سپاه چند برابر می شود.
 
-**Nuclear security in Phase 1**: Damaged but not destroyed nuclear sites remain under formal IRGC control, but the chain of command governing access to nuclear materials depends on communication links and command authority that are both degrading. International monitoring — already disrupted by the war — becomes sporadic. This is the window in which nuclear material accounting discrepancies first appear. The IAEA's ability to verify material inventories depends on inspector access, which depends on central government authorization, which depends on central authority functioning — a chain that fragmentation breaks at every link.
+بعث زدایی با کنار گذاشتن طبقه حرفه ای عرب سنی از حکومت، آسیب را تشدید کرد. معادل ایرانی یک «سپه زدایی» پس از انتقال است که متخصصان وابسته به سپاه را از حکومت محروم می‌کند – و همان توخالی نهادی فاجعه‌بار را ایجاد می‌کند. بعد فرقه ای تجزیه عراق نیز آموزنده است: محاسه (حکومت سهمیه فرقه ای) به جای حل آن، تقسیم را نهادینه کرد. تنوع قومیتی ایران - کرد، آذری، بلوچ، عرب، ترکمن، لر- خطر مشابهی برای بسیج سیاسی مبتنی بر هویت در شرایط پراکندگی ایجاد می‌کند.
 
-### Phase 2: One Year (April 2027)
+### سوریه 2011-اکنون: تمرکززدایی رژیم و سیاست شبه نظامیان
 
-If fragmentation is advancing, the one-year mark involves visible authority contests and a full humanitarian crisis.
+سوریه مفصل ترین مطالعه موردی را از یک مکانیسم تکه تکه شدن خاص ارائه می دهد: تمرکززدایی رژیم در زمان جنگ از امنیت که منجر به شکست عدم بسیج پس از جنگ می شود. هنگامی که قیام سوریه در سال 2011 آغاز شد، رژیم اسد امنیت را به گروه های مسلح وفادار - شبه نظامیان شبیحه، نیروهای دفاع ملی، و در نهایت گروه های مورد حمایت ایران مانند حزب الله لبنان و شبه نظامیان شیعه عراق، غیرمتمرکز کرد. این گروه‌ها در مبارزه مؤثر بودند، اما جریان‌های مالی مستقل (ایست‌های بازرسی، غارت، قاچاق، استخراج اقتصاد جنگی) را توسعه دادند که آنها را از فرماندهی مرکزی مستقل کرد.
 
-**Visible authority contests**: Armed actors — whether IRGC regional commanders, ethnic resistance movements, or criminal networks filling security vacuums — are publicly competing over specific territories, resources, and populations. In Khuzestan, disputes over oil revenue manifest as armed standoffs at pipeline junctions and refinery gates. In Kurdistan, parallel governance structures operate alongside a diminished central government presence. In Baluchestan, Jaish al-Adl controls rural areas while the IRGC holds provincial capitals in an uneasy stalemate.
+نتیجه این بود که وقتی مرحله نظامی پایان یافت، رژیم دریافت که ده‌ها گروه مسلح با درآمد مستقل، کنترل ارضی محلی و هیچ انگیزه‌ای برای تسلیم شدن به قدرت مرکزی ایجاد کرده است. دولت سوریه "پس از جنگ" یک بازیگر واحد نیست - ائتلافی از گروه های مسلح است که همکاری آنها به جریان های حمایتی مستمر از مرکزی بستگی دارد که خود از نظر مالی خسته شده است. موازی آن برای ایران مستقیم است: اگر سپاه امنیت را در شرایط جنگی - تفویض اختیار به واحدهای بسیج، فرماندهان محلی و گروه‌های مسلح غیررسمی - تمرکززدایی کند، دقیقاً پیش‌شرط‌های این الگو را ایجاد می‌کند.
 
-**International responders activate**: The ceasefire's fragility becomes acute. The US, Pakistan, and other Islamabad framework participants face the question of whether to engage with the surviving central government, with regional authorities, or with opposition groups positioning themselves as alternatives. The UN begins contingency planning for a large-scale humanitarian response. Turkey deploys additional military assets to its eastern border. Iraq's Kurdistan Regional Government faces the politically explosive question of whether to accept Iranian Kurdish refugees and, implicitly, whether to support Iranian Kurdish autonomy aspirations. Pakistan's military recalculates its border posture in Baluchestan, caught between its ceasefire mediation role and its instinct to manage cross-border Baloch dynamics.
+### یمن 2014-اکنون: مداخله خارجی و تکه تکه شدن سرزمینی
 
-**Displacement**: Internal displacement begins in earnest. Population groups move away from conflict zones — Arab families leaving contested areas of Khuzestan, Baloch communities crossing into Pakistan, Kurdish families moving toward Iraqi Kurdistan. Estimates of 2-4 million internally displaced persons within the first year are consistent with the Syrian and Iraqi precedents adjusted for Iran's population size.
+یمن نشان می دهد که چگونه مداخله نظامی خارجی، منازعات سیاسی داخلی را به تجزیه سرزمینی پایدار تبدیل می کند. تصرف صنعا توسط جنبش حوثی در سال 2014 یک رویداد سیاسی داخلی بود. مداخله نظامی به رهبری عربستان سعودی در سال 2015 آن را به یک جنگ نیابتی منطقه ای تبدیل کرد که یمن را به حداقل چهار مقام ارضی متمایز تقسیم کرد: شمال تحت کنترل حوثی ها، دولت به رسمیت شناخته شده بین المللی، شورای انتقالی جنوب (با حمایت امارات)، و مناطق مختلف قبیله ای و اسلامی.
 
-**Economic collapse deepens**: A fragmented Iran cannot manage oil production and distribution effectively. Revenue that maintained the patronage network disappears. The rial enters hyperinflationary territory. The banking system, dependent on central bank coordination, fragments along with political authority. Savings are wiped out. The middle class — the social stratum that has the most to lose from fragmentation and the most capacity to prevent it — is destroyed economically before it can organize politically.
+یمن از سه جهت با ایران مرتبط است. اول، حوثی‌ها نشان دادند که یک جناح مسلح مصمم با حمایت خارجی می‌تواند کنترل ارضی را به طور نامحدود در برابر یک دشمن برتر از نظر فنی حفظ کند - همان پویایی که اگر جنبش‌های مسلح قومی ایرانی از حمایت خارجی مشابه برخوردار شوند، اعمال می‌شود. ثانیاً، یمن نشان می‌دهد که مداخله خارجی، پراکندگی را حل نمی‌کند - بلکه با دادن یک حامی خارجی به هر جناحی با منافع استراتژیک خود، آن را تقویت می‌کند. سوم، فاجعه انسانی یمن هزینه های انسانی ناشی از تکه تکه شدن پایدار را به گونه ای نشان می دهد که باید به طور اساسی برای ایرانیان مرتبط باشد.
 
-**Food security**: Iran imports approximately 30% of its food. Under fragmentation, import mechanisms (letters of credit, port operations, distribution logistics) break down. Urban populations, dependent on commercial food supply chains, face shortages within weeks of distribution disruption. The World Food Programme's capacity to respond to a country of 88 million is orders of magnitude beyond its current operational capacity.
+### لبنان: تجزیه مدیریت شده به عنوان شکست پایدار
 
-### Phase 3: Five Years (April 2031) — Three Configurations
+لبنان نشان دهنده چندپارگی مدیریت شده است که از نظر سیاسی مهار شده اما هرگز حل نشده است. قرارداد طائف (1989) با نهادینه کردن تقسیم قدرت فرقه‌ای به جنگ داخلی پایان داد، اما چندپارگی اساسی - ظرفیت نظامی خودمختار حزب‌الله، شبکه‌های حمایت فرقه‌ای، فقدان یک دولت مرکزی کارآمد - به مدت سی و پنج سال ادامه داشت. برخی از تحلیلگران ایرانی تجزیه مدیریت شده را به عنوان یک "کمترین بدترین" نتیجه بالقوه می دانند. استدلال متقابل این است که تجزیه مدیریت شده لبنان مستلزم شرایط خاصی است (اندازه جغرافیایی کوچک، اجماع بین المللی در مورد عدم مداخله، حامی خارجی حزب الله تامین منابع) که در مورد کشوری با وسعت، اهمیت استراتژیک و وضعیت هسته ای ایران صدق نمی کند.
 
-If fragmentation has persisted to the five-year mark, Iran faces multiple possible configurations:
+### افغانستان 2021: وقتی مشوق های مادی ناپدید می شوند
 
-*Configuration A — De facto partition*: Different regions under different authorities. Kurdistan effectively autonomous, with a governance structure modeled on Iraqi Kurdistan's KRG. Khuzestan under an Arab-tribal-IRGC hybrid authority that controls oil revenue and has achieved de facto fiscal independence — the KRG model of oil-funded autonomy applied to a region with far greater production capacity. Baluchestan under contested control between Jaish al-Adl and a rump central authority, with Pakistan exercising significant cross-border influence. Azerbaijan Province maintaining uneasy ties to a weakened center while Turkey expands economic influence. Tehran and central Iran under a formal government with limited reach beyond the central plateau. This is not formal partition (the international community will not recognize it) but it is practical fragmentation.
+فروپاشی ارتش ملی افغانستان نشان داد که چه اتفاقی می افتد وقتی که اقتدار رسمی کاملاً بر انگیزه های مادی استوار باشد و این انگیزه ها ناپدید شوند. ارتش ملی افغانستان روی کاغذ وجود داشت: 300000 سرباز، میلیاردها تجهیزات، سال ها آموزش. در عرض چند هفته منحل شد زیرا وفاداری سازمانی معاملاتی بود - که توسط دلار آمریکا پرداخت می شد و توسط لجستیک آمریکایی پشتیبانی می شد. زمانی که برداشت آن جریان ها را نامطمئن کرد، محاسبات یک شبه تغییر کرد.
 
-*Configuration B — Reconstitution through a new military center*: A powerful faction — most likely IRGC-based, possibly Artesh-based — achieves military dominance over the competing factions and reconstitutes central authority. This is not transition to democracy; it is a new authoritarian settlement that emerges from exhaustion and military superiority. The historical analog is the post-1979 consolidation, when competing revolutionary factions were eliminated by the IRGC-aligned Khomeinists — or, more disturbingly, Assad's reconquest of Syrian territory with Russian and Iranian support. This configuration requires a patron (Russia, China) willing to provide the military and economic support that enables one faction to dominate, and it produces a state that is weaker, more dependent on its patron, and more repressive than the Islamic Republic it replaced.
+سپاه ارتش ملی نیست. بنیان ایدئولوژیک آن عمیق تر، تاریخ نهادی آن طولانی تر، انسجام درونی آن قوی تر است. اما نسل افسران سپاه پاسداران انقلاب اسلامی - آنهایی که بعد از دهه 1980 به آن پیوستند - وفاداری بیشتری به ارتش ملی افغانستان دارند تا نسل بنیانگذار. تورم بیش از حد، سقوط درآمد ناشی از تحریم ها، و آسیب جنگ به منافع اقتصادی سپاه پاسداران انقلاب اسلامی می تواند ناپدید شدن انگیزه های مادی را که ارتش ملی افغانستان را منحل کرد، تکرار کند و آزمایش کند که آیا تعهد ایدئولوژیک این شکاف را پر می کند یا خیر. قضیه افغانستان نسبت به این فرض که تداوم نهادی روی کاغذ، انسجام نهادی تحت فشار را تضمین می کند، هشدار می دهد.
 
-*Configuration C — External management (Bosnia/Dayton model)*: International actors establish effective control over specific zones — nuclear sites, oil infrastructure, Strait of Hormuz — while Iran's political situation remains unresolved. Formal sovereignty intact, practical sovereignty partitioned. A UN or multinational stabilization force in specific zones, with the remainder of the country in a state of managed disorder. This configuration requires sustained international commitment that the post-Iraq, post-Afghanistan international community may lack the political will to provide.
+### انحلال اتحاد جماهیر شوروی 1991: ساختارهای رسمی همچنان ادامه می‌یابد در حالی که انتقال قدرت
 
-*Configuration D — Protracted conflict*: None of the above stabilizes. Iran enters a protracted multi-sided conflict resembling Libya or Somalia — no single authority capable of asserting control, no external actor willing to invest the resources required for stabilization, a war economy sustaining armed actors indefinitely. This is the worst case, and it could persist for a generation.
+فروپاشی شوروی مستلزم تداوم ساختارهای رسمی بود در حالی که اقتدار واقعی به سطوح جمهوری و سپس زیر جمهوری منتقل شد. موازی برای ایران جزئی اما مهم است: ساختار فرماندهی غیرمتمرکز سپاه به این معنی است که اگر مرکز اقتدار خود را از دست بدهد، پیرامون از قبل دارای ساختارهای سازمانی فعالی است که می تواند عملکردهای حاکمیتی را جذب کند.
 
----
+برخلاف جمهوری‌های شوروی، استان‌های ایران ادعای حاکمیت قانون اساسی، مجلس قانونگذاری منتخب یا هویت‌های ملی متمایز (به استثنای کردستان و بلوچستان) ندارند. بنابراین، تجزیه ایران از انحلال شوروی کثیف‌تر خواهد بود - کمتر از نظر قانون اساسی میانجی‌گری می‌شود، بیشتر وابسته به پویایی قدرت خام است. مورد شوروی همچنین بعد هسته ای را نشان می دهد: چارچوب کاهش تهدید تعاونی (Nunn-Lugar) که مواد هسته ای شوروی را تضمین می کرد، نیازمند انحلال تعاونی بود. تکه تکه شدن ایران، که به جای همکاری قابل بحث است، امنیت هسته ای را بسیار سخت تر می کند.
 
-## 5. Key Mechanisms at Play
+### یوگسلاوی 1991-1995: تجزیه قومی و نظامی
 
-**Elite Bargaining Failure -> Stalemate or Coup** ([mechanism ->](../mechanisms/elite-bargaining-failure-stalemate-or-coup.md)): Fragmentation is the outcome when elite bargaining completely fails — when the competing factions cannot agree on power distribution and none can impose its preferred outcome by force. An IRGC succession struggle is the most likely trigger. The mechanism's evidence base shows that elite bargaining failure under conditions of multiple armed factions with independent resources produces the most durable fragmentation outcomes.
+یوگسلاوی مستقیم ترین موازی را برای بعد قومی تجزیه احتمالی ایران فراهم می کند. ارتش خلق یوگسلاوی (JNA) با انحلال ساختار فدرال در امتداد خطوط قومی تکه تکه شد - واحدهای صرب، کرواسی و بوسنیایی دوباره به عنوان ارتش ملی تشکیل شدند که اغلب با رفقای سابق خود می جنگیدند. پنج نهاد امنیتی موازی ایران شامل پرسنل از همه گروه‌های قومی است، اما ساختارهای فرماندهی عمدتاً فارس‌ها هستند. در شرایط پراکندگی، این سوال که آیا افسران کرد یا آذری سپاه به فرماندهی تحت سلطه فارس ها وفادار می مانند یا با جنبش های قومی همسو می شوند، حیاتی می شود.
 
-**IRGC Economic Integration -> Reform Blockage** ([mechanism ->](../mechanisms/irgc-economic-integration-reform-blockage.md)): The IRGC's economic integration paradoxically drives fragmentation as well as blockage. Regional commanders with local economic interests have incentive to maintain those interests even at the cost of central coordination. The economic autonomy that makes the IRGC powerful at the center makes it centrifugal at the periphery under stress conditions. Each IRGC-linked enterprise that can operate independently of Tehran is a potential nucleus of autonomous authority. Military economic empires create centrifugal dynamics under stress because regional commanders protect local economic interests — this is documented across cases from Indonesia (TNI business interests) to Pakistan (military foundation holdings) to Egypt (NSPO enterprises).
+خشونت یوگسلاوی در جایی متمرکز بود که جمعیت‌های قومی در هم آمیخته بودند - بیش از همه بوسنی. جغرافیای قومی ایران شامل مناطق قابل توجهی از آمیختگی (جمعیت عرب-فارس خوزستان، مناطق مرزی آذری-کرد، جمعیت چند قومیتی تهران) است. این مناطق با بالاترین خطر خشونت بین جمعی تحت تکه تکه شدن روبرو هستند - همان پویایی که باعث پاکسازی قومی در بوسنی شد.
 
-**External Intervention -> Transition Derailment** ([mechanism ->](../mechanisms/external-intervention-transition-derailment.md)): External actors create fragmentation dynamics by choosing sides. If the US provides air cover for one faction, if Gulf states fund ethnic minority armed groups, if Turkey supports certain Kurdish factions while opposing others — these external interventions fragment rather than consolidate the political landscape. The mechanism's evidence is most extensive for Iran: 98 sources in the ITKS corpus, reflecting the density of external interests in Iran's trajectory.
+مدل دیتون که به جنگ بوسنی پایان داد نیز به عنوان یک نقطه پایانی بالقوه آموزنده است: یک دولت رسمی با حکومت عملاً تقسیم شده. پیکربندی C در مسیر انتقال زیر این نتیجه را برای ایران تقریبی می کند. اما دیتون مستلزم تمایل ناتو برای استقرار 60000 سرباز برای سالها بود. اینکه آیا هر بازیگر خارجی نیروهای مشابهی را برای ایجاد ثبات در ایران تکه تکه شده متعهد می‌کند - کشوری با مساحت 1.6 میلیون کیلومتر مربع با 88 میلیون نفر جمعیت، مواد هسته‌ای و تنگه هرمز - یک سوال باز است. مقیاس تعهد مورد نیاز ممکن است فراتر از آن چیزی باشد که هر ائتلافی مایل به ارائه آن است.
 
-**Federal/Autonomy Bargain -> Ethnic Accommodation (failure mode)** ([mechanism ->](../mechanisms/federalautonomy-bargain-ethnic-accommodation.md)): When the federal/autonomy bargain fails — when ethnic minorities conclude that central authority will never meaningfully accommodate their demands — armed resistance becomes rational. The IRGC's heavy-handed security presence in Kurdish, Baloch, and Arab regions has suppressed armed resistance but has not resolved the underlying political demands. Under conditions of central authority weakness, suppressed armed resistance revives with accumulated grievance.
+### چرا تکه تکه شدن دست کم گرفته می شود
 
-**Wartime Fragmentation and Militia Politics** ([mechanism ->](../v2/security/wartime-fragmentation-militia-politics.md)): The Syria-derived mechanism of regime security decentralization producing autonomous armed groups is directly applicable to Iran under war conditions. The IRGC's delegated authority to regional commanders and Basij units during the current conflict creates exactly the preconditions identified in this mechanism. The critical variable is whether these delegated authorities develop autonomous funding streams — checkpoint extraction, resource control, smuggling — that make them independent of the center.
+تحلیلگران تمایل دارند تغییر رژیم را به عنوان یک رویداد مجزا در نظر بگیرند - یک کودتا، یک انقلاب، یک انتخابات. تکه تکه شدن یک فرآیند است. اغلب تا زمانی که به خوبی پیشرفت نکرده باشد، به عنوان شروع شناخته نمی شود. جنگ داخلی سوریه به عنوان یک جنبش اعتراضی آغاز شد. یمن به عنوان یک مذاکره سیاسی آغاز شد. لیبی به عنوان یک شورش نظامی علیه دیکتاتوری آغاز شد که گمان می‌رفت از حمایت مردمی برخوردار نبود. هیچ یک از اینها برای ایجاد تکه تکه شدن آنها پیش بینی نشده بود.
 
-**Disarmament, Demobilization, and Reintegration (DDR)** ([mechanism ->](../v2/security/civil-military-relations.md)): The comparative literature on DDR programs identifies consistent requirements for success: viable livelihood alternatives for combatants, political agreements that all major parties accept, multi-year reintegration timelines, community reconciliation processes, and sustained international funding. Under fragmentation conditions, none of these prerequisites exist. DDR programs in fragmented environments — Libya, Somalia, South Sudan — have consistently failed because the political settlement required to underpin them does not exist. For Iran, this means that any fragmentation scenario producing multiple armed factions will be extraordinarily difficult to reverse through standard DDR approaches. The IRGC's scale (estimated 190,000 active, plus 600,000+ Basij), its economic integration, and its parallel command structures make it a DDR challenge of unprecedented complexity.
+بینش ضد کودتا توضیح می دهد که چرا: ساختارهای امنیتی موازی که ایران، عراق، سوریه و لیبی داشتند، برای جلوگیری از فرار نظامی در جریان اعتراضات طراحی شده بودند. آنها در آن موفق شدند. اما آنها همچنین از انتقال منظم جلوگیری کردند. هنگامی که این ساختارهای موازی تکه تکه می شوند - همانطور که در عراق، سوریه و لیبی انجام دادند - نتیجه نه برتری غیرنظامی بلکه جناح های مسلح رقیب است که هر کدام ساختار فرماندهی، پایگاه اقتصادی و ادعاهای ارضی خاص خود را دارند. ایران دارای پیچیده ترین معماری ضد کودتا در ادبیات تطبیقی ​​(پنج بدنه موازی) است. این به طور همزمان بزرگترین منبع ثبات رژیم و بزرگترین خطر تجزیه آن است.
 
----
-
-## 6. Critical Risks
-
-### No Recovery Path from Deep Fragmentation
-
-This is the scenario's defining characteristic and the reason it must be prevented rather than managed. A [reform failure](./reform-within.md) can be corrected; a [transition](./democratic-transition.md) can be restarted; even a coup can be reversed. Fragmentation, once it reaches the point where multiple armed actors have established territorial control and economic extraction systems, is extremely difficult to reverse without the level of violence that produces new humanitarian catastrophe. Libya's fifteen years of fragmentation, Syria's protracted conflict, Yemen's territorial partition — these demonstrate the persistence of this condition. Iran's planners and international actors must treat fragmentation prevention as the highest priority, even above democratic transition acceleration.
-
-### Ethnic Conflict That Cannot Be Reversed
-
-Kurdish, Baloch, and Ahvazi Arab armed movements — once they achieve territorial control and demonstrate sustainable resistance — attract external support that creates facts on the ground. Turkey has a strategic interest in the Kurdish question that extends across four countries. Saudi Arabia and the UAE have demonstrated willingness to fund Sunni armed movements (Yemen, Syria). Pakistan's intelligence services have decades of experience managing Baloch armed groups on both sides of the border.
-
-Once a Kurdish region in Iran effectively functions as an autonomous entity for 12-18 months, international recognition pressure begins. The KRG precedent in Iraq demonstrates the trajectory: de facto autonomy becomes constitutional autonomy becomes a permanent feature of the state. This is not necessarily the worst outcome — a genuine federal settlement might serve Iran well — but it is not achievable through armed fragmentation without massive violence, displacement, and the destruction of the cross-ethnic social fabric that any future democratic Iran will need.
-
-### Oil Infrastructure as Fragmentation Fuel
-
-Iran's oil fields, pipelines, and terminals are concentrated in Khuzestan (Arab majority) and the Gulf coast. Khuzestan produces approximately 80% of Iran's crude oil. If a regional authority gains effective control of oil infrastructure, it has the revenue to sustain itself indefinitely — the KRG model of fiscal autonomy enabling de facto secession without formal declaration. A faction controlling Khuzestan's oil infrastructure controls the fiscal basis of the Iranian state.
-
-Pipeline infrastructure creates additional fragmentation vectors. Pipelines that cross ethnic or factional boundaries become leverage points — any faction along the route can disrupt flows. This is the mechanism by which oil revenues, rather than funding a central government, become a source of competing extraction and conflict. The parallel is the oil bunkering economy in the Niger Delta, where pipeline infrastructure created a durable armed faction economy that persisted for decades.
-
-### Nuclear Material Security Crisis
-
-Iran's nuclear sites — damaged but not destroyed by the strikes — contain enriched uranium, centrifuge components, and technical documentation. Under unified central authority, international monitoring (however imperfect) maintains accountability for these materials. Under fragmentation, the chain of custody breaks. Within weeks of command-and-control disruption at nuclear sites, material accounting becomes unreliable. Within months, the possibility of diversion — whether by a rogue IRGC faction seeking leverage, by a non-state actor exploiting security gaps, or by an external intelligence service conducting a covert operation — becomes significant.
-
-International actors (the US, Israel, possibly Russia and China) will intervene to secure nuclear material regardless of political considerations. These interventions — likely special operations forces seizing specific sites — will have their own fragmenting effects on Iranian sovereignty and political dynamics. See [Nuclear Proliferation Risk ->](../v2/security/civil-military-relations.md) for detailed analysis.
-
-### Proxy War Invitation
-
-Fragmented Iran would become the arena for competing external actors with irreconcilable interests. Saudi Arabia and the UAE would support Sunni Baloch and Arab movements. Turkey would maneuver on the Kurdish question, balancing its interest in preventing an independent Kurdish entity against its interest in expanding influence in northwestern Iran. Russia would attempt to preserve a rump central government as its client, replicating the Syria model. China would protect its economic interests — particularly energy infrastructure and Belt and Road investments — by backing whatever authority controls the relevant territory.
-
-The proxy war dynamic that destroyed Yemen and Syria would replicate in Iran at a scale that dwarfs both. Iran's population (88 million), geographic size, strategic location, and nuclear status make its fragmentation a global crisis rather than a regional one. The proxy war would not produce a winner — it would entrench fragmentation by giving each internal faction an external patron with its own reasons to prevent the others' victory.
-
-### Water Conflict as Independent Accelerant
-
-Iran's water crisis — declining aquifers, dried-up rivers, collapsing agricultural regions — creates regional resource conflicts that are independent of and prior to any political transition. Khuzestan's water shortages drive Arab community grievance regardless of who holds power. Isfahan's Zayandeh-Rud has dried repeatedly. Lake Urmia's desiccation affects Azerbaijan Province. Water governance requires national coordination, and national coordination is exactly what fragmentation destroys. The intersection of water crisis and political fragmentation could make significant portions of Iran's territory effectively uninhabitable, driving displacement that further destabilizes remaining functional areas.
-
-### Humanitarian Catastrophe and Refugee Crisis
-
-The humanitarian dimensions of Iranian fragmentation would exceed any crisis in the region's recent history. Iran's population is larger than Iraq's, Syria's, and Yemen's combined. Conservative estimates, based on proportional extrapolation from Syria's displacement (half the population displaced, 500,000 killed over a decade), suggest that Iranian fragmentation could produce 10-20 million displaced persons and hundreds of thousands of casualties over a decade.
-
-Iranian refugees would flow primarily to Turkey (already hosting 3.5 million Syrian refugees), Iraq (with its own fragility), Pakistan (long porous border), and the Gulf states (which would resist refugee flows). Iran also hosts approximately 3 million Afghan refugees and migrants who face extreme vulnerability under fragmentation — without citizenship, political representation, or institutional protection. Their displacement adds another layer to an already overwhelming crisis.
+ناظران ایران باید فرض کنند که پیش‌بینی خط پایه آن‌ها بیش از حد خوش‌بینانه است و خطر تکه تکه شدن بیشتر از مدل‌هایشان است. 23-F اسپانیا (1981) نشان داد که یک بحران می تواند اصلاحات را تسریع کند - اما فقط به این دلیل که اصلاح طلبان جایگزین های قابل اجرا را آماده کرده بودند. جنبش‌های دموکراتیک ایران آرمان‌هایی دارند، اما فاقد طرح‌های نهادی، ائتلاف‌های بین قومی و روابط نیروهای امنیتی هستند که اصلاح‌طلبان اسپانیا در طول سال‌ها ساخته بودند. فقدان این پیش نیازها باعث می شود که ریسک دم تکه تکه شدن بزرگتر باشد، نه کوچکتر از آن چیزی که تحلیل راحت اعتراف می کند.
 
 ---
 
-## 7. What Should Be Done Now
+## 4. مسیر انتقال
 
-### For Civil Society Inside Iran
+این سناریو یک «مسیر گذار» به معنای پاک سناریوهای دیگر ندارد. پویایی آبشاری با یک فاجعه انسانی در هر مرحله وجود دارد.
 
-The most important thing civil society can do to prevent fragmentation is build cross-ethnic and cross-class coalitions that make the unity of the country politically valued by all factions. A protest movement that is primarily Persian-speaking and Tehran-centered leaves ethnic minorities without a stake in the national democratic project. Incorporating Kurdish, Baloch, Ahvazi Arab, Azeri, and Turkmen voices into the democratic opposition's coalition is both an ethical necessity and a pragmatic fragmentation-prevention strategy.
+### فاز 1: 100 روز اول (آوریل-ژوئیه 2026)
 
-Specific steps include: establishing joint Persian-Kurdish-Azeri-Arab coordinating bodies that can credibly speak for a multi-ethnic democratic movement; developing and publicizing autonomy proposals that offer meaningful self-governance to ethnic regions within a federal framework; creating economic solidarity networks that cross ethnic boundaries — shared strike funds, mutual aid between Persian and minority communities. The protests across all 31 provinces offer an opportunity: shared grievance can become shared political identity if the institutional work is done now.
+فاز اول سناریوی تکه تکه شدن، از بیرون، مانند ادامه [وپاشی وضعیت موجود](./status-quo-decay.md) به نظر می رسد. تفاوت مشهود آن چیزی نیست که در مرکز اتفاق می افتد، بلکه در آن چیزی است که در حاشیه اتفاق می افتد: فرماندهان منطقه ای سپاه در حال تصمیم گیری مستقل هستند. ناتوانی فرمانداران استان در اجرای بخشنامه تهران در مورد سرکوب اعتراض. یگان‌های بسیج در استان‌های حاشیه‌ای بدون ظرفیت عملیاتی در حال حرکت هستند.
 
-### For the Diaspora
+در داخل دستگاه امنیتی: گزارش‌های اطلاعاتی درباره مشکلات وفاداری بسیج یا سرکوب می‌شوند (به عنوان یک خبر بد) یا به طور مؤثر به میز وحیدی نمی‌رسند (به عنوان تابعی از ساختار فرماندهی غیرمتمرکز). مرکز از میزان فرسایش محیطی اطلاعی ندارد. پنج نهاد امنیتی موازی سپاه - سپاه، اطلاعات سپاه، بسیج، وزارت اطلاعات و آرتش - هر کدام ارزیابی‌های خود را ارائه می‌کنند که هر کدام با انگیزه‌های سازمانی بسته به موقعیت خود در رقابت‌های داخلی، مشکل را به حداقل می‌رسانند یا بزرگ‌نمایی می‌کنند.
 
-The diaspora is ethnically diverse in ways that are not always visible in diaspora politics. Farsi-speaking diaspora organizations have historically dominated diaspora political representation; Kurdish, Baloch, and Arab diaspora organizations have organized separately. Building a unified diaspora coalition that explicitly includes minority voices — and that offers meaningful autonomy guarantees — is the diaspora's specific contribution to fragmentation prevention.
+**مشکل خاموشی اطلاعات**: فاز اول تکه تکه شدن با یک پارادوکس خطرناک مشخص می شود - مرکز دقیقاً در لحظه ای که بیشتر به آن نیاز دارد، آگاهی موقعیتی را از دست می دهد. شبکه‌های اطلاع‌رسان MOIS در حاشیه تخریب می‌شوند زیرا خبرچین‌ها محاسبه می‌کنند که در صورت تغییر ساختار قدرت محلی، گردانندگان آنها ممکن است نتوانند از آنها محافظت کنند. نظارت بر محله بسیج به تعلق اجتماعی بستگی دارد که زمانی که خانواده های خود اعضای بسیج از لحاظ اقتصادی در رنج هستند، از بین می رود. ماهواره و اطلاعات سیگنال‌هایی که شکاف‌های اطلاعاتی انسان را در طول جنگ جبران می‌کنند، بر تهدیدات خارجی متمرکز شده‌اند، نه فرسایش داخلی. وحیدی و هر ساختار فرماندهی مرکزی که باقی مانده است ممکن است واقعاً شدت فرسایش پیرامونی را تا زمانی که برگشت ناپذیر نباشد درک نکنند.
 
-Concretely, diaspora organizations should develop pre-designed autonomy frameworks: constitutional proposals that specify the scope of regional self-governance, the distribution of natural resource revenues, language and education rights, and security arrangements. These frameworks should be negotiated and published now, before fragmentation creates facts on the ground that make negotiation impossible. The Ethiopian and Spanish models of asymmetric federalism — where different regions have different levels of autonomy based on their specific circumstances — are more applicable to Iran than symmetric federation models. The Spanish example is particularly instructive: the 23-F crisis catalyzed democratic consolidation because reformers had implementable alternatives ready. Iran's diaspora should be building those alternatives now.
+**سیگنال های بشردوستانه در فاز 1**: با تخریب شبکه های حمل و نقل و از دست دادن قابلیت اطمینان سیستم های توزیع مرکزی، اختلالات عرضه مواد غذایی در استان های پیرامونی آغاز می شود. کمبود تجهیزات پزشکی - که در حال حاضر به دلیل تحریم ها و آسیب های جنگ شدید بوده است - در استان هایی که توجه دولت مرکزی به جاهای دیگر معطوف است، حیاتی شده است. سوخت ژنراتورهای بیمارستانی در زاهدان تمام می شود. بیماران دیالیزی در سنندج از درمان غیبت می کنند. زنجیره های تامین دارویی، وابسته به هماهنگی واردات مرکزی و دسترسی به ارز سخت، استان به استان تقسیم می شوند. اینها هنوز یک بحران برای رسانه های بین المللی قابل مشاهده نیست. آنها رنج نامرئی هستند که قبل از فاجعه مرئی است.
 
-### For International Actors
+**مسیر فروپاشی نظام پزشکی**: زیرساخت های پزشکی ایران در تهران، اصفهان، شیراز و مشهد متمرکز است. استان های پیرامونی به زنجیره های تامینی که از طریق این هاب ها هدایت می شوند، وابسته هستند. تحت چندپارگی، پزشکان متخصصی که به بیمارستان‌های پیرامونی خدمات می‌دهند - که بسیاری از آنها به صورت چرخشی از استان‌های مرکزی هستند - سفر به مناطق ناامن را متوقف می‌کنند. تعمیر و نگهداری تجهیزات پزشکی، وابسته به پیمانکاران خارجی که نمی توانند به مناطق پراکنده دسترسی داشته باشند، متوقف می شود. سقوط مراقبت‌های بهداشتی از یک جدول زمانی قابل پیش‌بینی پیروی می‌کند: مراقبت‌های حاد اول (تروما، جراحی اضطراری)، مدیریت بیماری مزمن در مرحله دوم (دیالیز، درمان سرطان، مدیریت دیابت)، و مراقبت‌های پیشگیرانه (واکسیناسیون، سلامت مادر) با شکست مواجه می‌شود اما با مخرب‌ترین پیامدهای بلندمدت.
 
-**Fragmentation prevention**: Do not fund ethnic armed groups as leverage against the Iranian government — this is the most direct driver of fragmentation dynamics. The short-term tactical gain of pressuring Tehran through proxy forces is dwarfed by the long-term strategic cost of a fragmented Iran.
+**امنیت هسته ای در فاز 1**: سایت های هسته ای آسیب دیده اما تخریب نشده تحت کنترل رسمی سپاه پاسداران انقلاب اسلامی هستند، اما زنجیره فرماندهی حاکم بر دسترسی به مواد هسته ای به پیوندهای ارتباطی و قدرت فرماندهی بستگی دارد که هر دو تحقیرکننده هستند. نظارت بین المللی - که قبلاً به دلیل جنگ مختل شده است - پراکنده می شود. این پنجره ای است که برای اولین بار اختلافات حسابداری مواد هسته ای در آن ظاهر می شود. توانایی آژانس بین‌المللی انرژی اتمی برای راستی‌آزمایی موجودی‌های مواد به دسترسی بازرسان بستگی دارد، که به مجوز دولت مرکزی بستگی دارد، که به عملکرد مقام مرکزی بستگی دارد - زنجیره‌ای که تکه تکه شدن آن در هر پیوندی می‌شکند.
 
-**Pre-negotiate regional autonomy in Islamabad**: The constitutional autonomy question must be addressed before fragmentation creates facts on the ground. International mediators should facilitate dialogue between Iranian central authorities, opposition groups, and ethnic minority representatives on federal/autonomy arrangements. The experience of post-conflict constitutional processes (South Africa, Bosnia, Iraq, Nepal) provides models, but the key lesson is that these processes must begin before conflict, not after.
+### فاز 2: یک ساله (آوریل 2027)
 
-**Nuclear material security protocols**: Establish nuclear material security protocols that can be activated without requiring central government cooperation. Pre-position IAEA rapid response teams. The Nunn-Lugar model (US-Soviet cooperative threat reduction after 1991) provides a framework, but Iran's fragmentation scenario is more complex because it involves contested rather than cooperative authority. Negotiate with all potential successor authorities — including IRGC factions, opposition groups, and regional actors — on nuclear site security as a non-negotiable baseline.
+اگر پراکندگی در حال پیشرفت باشد، علامت یک ساله شامل رقابت های قدرت قابل مشاهده و یک بحران انسانی کامل است.
 
-**Humanitarian corridor planning**: Develop contingency plans for humanitarian access to fragmented regions. Pre-position emergency supplies in neighboring countries. The lesson from Syria is that humanitarian access in fragmented environments requires negotiation with every armed faction, not just the recognized government.
+**رقابت‌های اقتدار قابل مشاهده**: بازیگران مسلح - چه فرماندهان منطقه‌ای سپاه پاسداران انقلاب اسلامی، چه جنبش‌های مقاومت قومی، یا شبکه‌های جنایتکار که خلأهای امنیتی را پر می‌کنند - علناً بر سر سرزمین‌ها، منابع و جمعیت‌های خاصی با هم رقابت می‌کنند. در خوزستان، مناقشات بر سر درآمد نفت به صورت بن بست مسلحانه در تقاطع خطوط لوله و دروازه های پالایشگاه ظاهر می شود. در کردستان، ساختارهای حکومتی موازی در کنار کاهش حضور دولت مرکزی عمل می کنند. در بلوچستان، جیش العدل مناطق روستایی را کنترل می کند در حالی که سپاه پاسداران انقلاب اسلامی مراکز استان ها را در بن بست ناآرام نگه می دارد.
 
-### For Reform-Oriented Elites Within the System
+**واکنش‌های بین‌المللی فعال می‌شوند**: شکنندگی آتش‌بس حاد می‌شود. ایالات متحده، پاکستان و سایر شرکت کنندگان در چارچوب اسلام آباد با این سوال روبرو هستند که آیا باید با دولت مرکزی بازمانده، با مقامات منطقه ای، یا با گروه های مخالفی که خود را به عنوان جایگزین قرار می دهند، درگیر شوند. سازمان ملل برنامه ریزی اضطراری را برای پاسخ بشردوستانه در مقیاس بزرگ آغاز می کند. ترکیه تجهیزات نظامی بیشتری را در مرزهای شرقی خود مستقر می کند. دولت اقلیم کردستان عراق با این پرسش سیاسی انفجاری مواجه است که آیا پناهندگان کرد ایرانی را بپذیرد و به طور ضمنی از خواست های خودمختاری کردهای ایران حمایت کند یا خیر. ارتش پاکستان موقعیت مرزی خود را در بلوچستان که بین نقش میانجی گری آتش بس و غریزه مدیریت پویایی بلوچ های فرامرزی گرفتار شده است، دوباره محاسبه می کند.
 
-Fragmentation is the scenario in which the system's own pragmatists lose everything — economic interests, institutional positions, and physical safety. IRGC commanders who benefit from the economic status quo should understand that this status quo is only available in a unified functioning state. Fragmentation destroys their economic assets as surely as it destroys everyone else's. The IRGC commander whose construction company generates millions in revenue will find that revenue worthless in a fragmented economy with a collapsed currency and no functioning legal system.
+**جابجایی**: جابجایی داخلی به طور جدی شروع می شود. گروه‌های جمعیتی از مناطق درگیری دور می‌شوند - خانواده‌های عرب مناطق مورد مناقشه خوزستان را ترک می‌کنند، جوامع بلوچ به پاکستان می‌روند، خانواده‌های کرد به سمت کردستان عراق حرکت می‌کنند. تخمین 2 تا 4 میلیون آواره داخلی در سال اول با سوابق سوریه و عراق مطابق با اندازه جمعیت ایران است.
 
-This argument — that pragmatic IRGC interests align with preventing fragmentation — is the lever that may be most persuasive with the figures who can actually prevent it. The specific implication is that IRGC pragmatists should support political negotiations (including with opposition groups they despise) as insurance against the fragmentation scenario that would destroy their interests more thoroughly than any negotiated transition. IRGC economic assets — construction, import/export, agricultural land, telecommunications — only have value in a functioning state with a recognized currency and enforceable contracts. Fragmentation eliminates the conditions for these assets to exist.
+**فروپاشی اقتصادی عمیق تر می شود**: ایران تکه تکه نمی تواند تولید و توزیع نفت را به طور موثر مدیریت کند. درآمدی که شبکه حمایت را حفظ می کرد ناپدید می شود. ریال وارد قلمرو ابر تورمی می شود. نظام بانکی، وابسته به هماهنگی بانک مرکزی، همراه با اقتدار سیاسی از هم می پاشد. پس انداز از بین می رود. طبقه متوسط ​​- قشر اجتماعی که بیشترین ضرر را از پراکندگی و بیشترین ظرفیت برای جلوگیری از آن دارد - قبل از اینکه بتواند از نظر سیاسی سازماندهی شود، از نظر اقتصادی نابود می شود.
 
-### Pre-Designed Autonomy Frameworks
+**امنیت غذایی**: ایران تقریباً 30 درصد مواد غذایی خود را وارد می کند. در شرایط تکه تکه شدن، مکانیسم‌های واردات (اعتبار اسناد، عملیات بندری، لجستیک توزیع) خراب می‌شوند. جمعیت شهری، وابسته به زنجیره‌های تامین مواد غذایی تجاری، طی هفته‌ها پس از قطع توزیع با کمبود مواجه می‌شوند. ظرفیت برنامه جهانی غذا برای پاسخگویی به کشوری با 88 میلیون نفر فراتر از ظرفیت عملیاتی فعلی آن است.
 
-The single most important structural prevention measure is having a credible autonomy framework ready before it is needed:
+### فاز 3: پنج سال (آوریل 2031) - سه پیکربندی
 
-- **Constitutional proposals for asymmetric federalism** that specify which powers devolve to regions (education, language, local policing, cultural affairs) and which remain central (foreign policy, monetary policy, national defense, nuclear facilities). The Spanish model of comunidades autonomas is more applicable to Iran than uniform federation models.
-- **Natural resource revenue sharing formulas** that give resource-producing regions (Khuzestan above all) a guaranteed share of revenue without enabling full fiscal independence. The Nigerian model (13% derivation principle) and the Iraqi constitutional formula (Article 112) provide reference points, though both have implementation problems that any Iranian framework should learn from.
-- **Language and education guarantees** that make Kurdish, Azeri, Balochi, and Arabic official languages in their respective regions alongside Farsi. This addresses one of the most deeply felt ethnic grievances at minimal institutional cost.
-- **Security sector arrangements** that integrate ethnic minority personnel into local security forces rather than relying exclusively on centrally deployed forces perceived as occupiers.
+اگر پراکندگی تا مرز پنج سال ادامه داشته باشد، ایران با پیکربندی‌های احتمالی متعددی روبرو خواهد شد:
 
-These frameworks must be developed, debated, and published now — while negotiation is still possible. After fragmentation, each faction has territorial facts on the ground that make compromise harder, not easier.
+*پیکربندی A — پارتیشن عملی*: مناطق مختلف تحت مقامات مختلف. کردستان عملاً خودمختار است، با ساختار حکومتی که از اقلیم کردستان عراق الگوبرداری شده است. خوزستان تحت یک اقتدار ترکیبی عرب-قبیله-سپاه پاسداران انقلاب اسلامی که درآمدهای نفتی را کنترل می کند و بالفعل به استقلال مالی دست یافته است - مدل خودمختاری دولت اقلیم کردستان با بودجه نفت در منطقه ای با ظرفیت تولید بسیار بیشتر اعمال می شود. بلوچستان تحت کنترل مناقشه‌آمیز بین جیش‌العدل و یک مقام مرکزی مرکزی است و پاکستان از نفوذ فرامرزی قابل توجهی برخوردار است. استان آذربایجان روابط ناآرام با یک مرکز ضعیف را حفظ می کند در حالی که ترکیه نفوذ اقتصادی خود را گسترش می دهد. تهران و ایران مرکزی تحت حکومت رسمی با دسترسی محدود فراتر از فلات مرکزی. این یک تقسیم رسمی نیست (جامعه بین المللی آن را به رسمیت نمی شناسد) بلکه یک تجزیه عملی است.
 
----
+*پیکربندی B - بازسازی از طریق یک مرکز نظامی جدید*: یک جناح قدرتمند - به احتمال زیاد مستقر در سپاه، احتمالاً مبتنی بر آرتش - به تسلط نظامی بر جناح های رقیب دست می یابد و اقتدار مرکزی را بازسازی می کند. این انتقال به دموکراسی نیست. این یک شهرک اقتدارگرایانه جدید است که از فرسودگی و برتری نظامی بیرون آمده است. مشابه تاریخی، تحکیم پس از 1979 است، زمانی که جناح های انقلابی رقیب توسط خمینیست های متحد سپاه پاسداران انقلاب اسلامی حذف شدند - یا، نگران کننده تر، تسخیر مجدد قلمرو سوریه توسط اسد با حمایت روسیه و ایران. این پیکربندی مستلزم حامی (روسیه، چین) است که مایل به ارائه پشتیبانی نظامی و اقتصادی است که یک جناح را قادر به تسلط می‌کند، و دولتی ضعیف‌تر، وابسته‌تر به حامی‌اش و سرکوبگرتر از جمهوری اسلامی که جایگزین آن شده است، ایجاد می‌کند.
 
-## 8. Iran-Specific Complications
+*پیکربندی C — مدیریت خارجی (مدل بوسنی/دیتون)*: بازیگران بین المللی کنترل موثری بر مناطق خاص - سایت های هسته ای، زیرساخت های نفتی، تنگه هرمز - برقرار می کنند در حالی که وضعیت سیاسی ایران حل نشده باقی مانده است. حاکمیت رسمی دست نخورده، حاکمیت عملی تقسیم شده است. یک نیروی تثبیت کننده سازمان ملل یا چند ملیتی در مناطق خاص، با بقیه کشور در وضعیت بی نظمی مدیریت شده. این پیکربندی مستلزم تعهد بین المللی پایدار است که جامعه بین المللی پس از عراق و پس از افغانستان ممکن است اراده سیاسی برای ارائه آن نداشته باشد.
 
-### The Five-Body Security Architecture
-
-Iran's security apparatus includes the IRGC (Sepah), IRGC Intelligence (Ettelaat-e Sepah), the Basij, the Ministry of Intelligence (MOIS/VAJA), and the regular military (Artesh). This five-body architecture is the most elaborate coup-proofing system documented in the comparative literature. Each body watches the others; overlapping jurisdictions prevent any single organization from accumulating enough power to threaten the political leadership.
-
-Under fragmentation conditions, this architecture has a devastating consequence: it eliminates the possibility of a unified military acting coherently to restore order. In Egypt 2011, the military (a single hierarchical institution) could decide as a body to remove Mubarak and manage the transition. In Iran, no equivalent decision is possible because no single body has the authority or capacity to act alone, and the inter-body rivalries that the coup-proofing architecture deliberately cultivates prevent coordinated action. The architecture designed to prevent a coup also prevents the kind of unified military intervention that could arrest fragmentation.
-
-The comparative literature confirms this pattern across cases. Iraq's parallel security structures (Republican Guard, Special Republican Guard, Fedayeen Saddam, regular army, intelligence services) fragmented into competing armed factions after 2003 rather than producing either unified resistance or unified transition. Syria's parallel structures (Republican Guard, 4th Division, NDF, shabiha) each became autonomous armed actors with separate territorial control. Libya's revolutionary committees and security brigades reconstituted as militia factions. The pattern is consistent: coup-proofing structures prevent military defection during protests but prevent orderly transition when the political center weakens. Iran's five-body architecture makes this dynamic more likely, not less, because the institutional separation is deeper and more formalized than in any of the comparison cases.
-
-### The Decentralized Command Structure: Resilience Asset, Independence Mechanism
-
-The IRGC's current command structure — with each commander having named successors spanning three ranks — was implemented as a wartime resilience measure. If a commander is killed, the succession is immediate and known. This is a genuine military advantage during the current conflict. But the same structure that ensures continuity under external attack ensures independence under internal fragmentation. Each regional commander has the organizational infrastructure to operate autonomously: a chain of command, lateral coordination with neighboring units, and — critically — economic relationships that generate revenue independent of Tehran. The decentralized command structure is a resilience asset during war and an independence mechanism under fragmentation. These are not different outcomes of different structures; they are different outcomes of the same structure under different conditions.
-
-### Baluchestan's Cross-Border Dimension
-
-Sistan-Baluchestan province borders Pakistani Balochistan, where a significant armed separatist movement (the Balochistan Liberation Army and affiliates) has fought the Pakistani state for decades. If Iranian Baloch armed resistance strengthens, the cross-border dimension creates a Pakistan-Iran territorial tension at the same time that Pakistan is serving as the ceasefire mediator in the Islamabad talks. Pakistan's intelligence services (ISI) have deep relationships with Baloch armed groups — relationships that are simultaneously adversarial and instrumentalized. A fragmented Iran could see Pakistan's role shift from mediator to interested party, with ISI managing Baloch dynamics on both sides of the border to serve Pakistani strategic interests.
-
-### The Revolutionary Guard Generation Gap
-
-The IRGC's ideological founding generation — the Iran-Iraq War veterans who built the institution — is aging out of operational command. The institution is now populated primarily by post-revolution officers whose loyalty is professional and financial rather than ideologically revolutionary. This generational shift means that when the financial basis of loyalty disappears — through economic collapse, unpaid salaries, or loss of business privileges — the ideological commitment that might sustain loyalty in a founding generation is not available as a substitute. The younger IRGC officer who joined for career advancement calculates differently than the veteran who fought in Khorramshahr.
-
-### Water Crisis as Structural Fragmentation Driver
-
-Iran's water crisis operates independently of politics. Declining aquifers, dried-up rivers, and collapsing agricultural regions create resource conflicts that precede and outlast any political transition. Khuzestan's water shortages, Isfahan's dried Zayandeh-Rud, Lake Urmia's desiccation — these are structural drivers that fragmentation scenarios amplify. Water governance requires national coordination: upstream-downstream agreements, inter-basin transfers, aquifer management. National coordination is exactly what fragmentation destroys. The intersection of water crisis and political fragmentation could make significant portions of Iran's territory effectively uninhabitable, driving displacement that further destabilizes remaining functional areas. This dynamic has no parallel in the comparative cases (Libya, Iraq, Syria, Yemen all have water challenges, but none has Iran's combination of aquifer depletion, river death, and lake desiccation at national scale).
-
-### Iraqi Kurdistan and the Kurdish Corridor
-
-Iranian Kurdistan borders Iraqi Kurdistan (the KRG), which has functioning autonomous governance, its own military (the Peshmerga), and experience in leveraging great power dynamics for self-governance. Under Iranian fragmentation, the prospect of a contiguous Kurdish-governed zone stretching from Sulaymaniyah through Iranian Kurdistan to the Turkish border would alarm Turkey (which has fought Kurdish insurgency for decades) and potentially reshape the regional order. The KRG's support for Iranian Kurdish autonomy movements — or its restraint from such support — becomes a critical variable.
-
-### Pipeline Infrastructure as Fragmentation Vector
-
-Iran's network of oil and gas pipelines, refineries, and petrochemical plants creates a physical infrastructure that crosses ethnic and potential factional boundaries. Any faction that controls a segment of a pipeline can extract rents or disrupt flows. This creates a specific fragmentation economy: pipeline protection payments, refinery control disputes, and distribution network conflicts that give armed actors economic incentives to maintain fragmentation rather than resolve it. The parallel is the oil bunkering economy in the Niger Delta, where pipeline infrastructure created a durable armed faction economy that persisted for decades.
-
-### Afghan Refugees as Vulnerability
-
-Iran hosts approximately 3 million Afghan refugees and undocumented migrants, concentrated in construction, agriculture, and informal labor markets. Under fragmentation, these populations — without citizenship, political representation, or institutional protection — face extreme vulnerability to violence, exploitation, and forced displacement. Their situation would compound the humanitarian crisis and create pressure on an already-collapsed Afghanistan to absorb returnees it cannot support.
-
-### The Strait of Hormuz
-
-Iranian fragmentation raises the question of who controls the Strait of Hormuz — through which approximately 20% of global oil supply transits. IRGC naval forces (the IRGCN, distinct from the regular Artesh navy) currently control Iran's Hormuz posture. If the IRGC fragments, competing factions might attempt to use Hormuz control as leverage — threatening shipping to extract concessions from the international community or rival internal factions. Either scenario transforms Iranian fragmentation from a regional crisis into a global one.
-
-### Religious Sites as Territorial Stakes
-
-Qom and Mashhad — the two most important Shia religious centers in Iran — have distinct political economies. Qom is the center of the clerical establishment and the seminary system (hawza) that trains Shia clergy for the entire world. Mashhad is home to the Astan-e Quds Razavi, one of the wealthiest foundations in the Muslim world, controlling vast agricultural, industrial, and real estate holdings. Under fragmentation, control of these sites becomes a source of both legitimacy and revenue. A faction that controls Qom claims religious authority over Shia Islam's institutional infrastructure; a faction that controls Mashhad controls enormous economic resources.
-
-These sites are also important to Shia communities across Iraq, Lebanon, Bahrain, and elsewhere — meaning that their status under fragmentation has transnational implications. Iraqi Shia political factions, Lebanese Hezbollah, and Bahraini Shia movements all have institutional relationships with Qom's seminaries. The fragmentation of Iran could draw these external Shia actors into the internal competition, adding a transnational sectarian dimension to an already complex conflict landscape.
+*پیکربندی D — تضاد طولانی*: هیچ یک از موارد فوق تثبیت نمی شود. ایران وارد یک درگیری چندجانبه طولانی شبیه لیبی یا سومالی شده است – هیچ مقام واحدی که قادر به اعمال کنترل باشد، هیچ بازیگر خارجی حاضر به سرمایه گذاری منابع مورد نیاز برای ثبات، اقتصاد جنگی که بازیگران مسلح را به طور نامحدود حفظ کند. این بدترین حالت است و ممکن است برای یک نسل ادامه داشته باشد.
 
 ---
 
-## 9. Indicators to Watch
+## 5. مکانیسم های کلیدی در بازی
 
-### Early Warning Indicators
+**شکست چانه زنی نخبگان -> بن بست یا کودتا** ([مکانیسم ->](../mechanisms/elite-bargaining-failure-stalemate-or-coup.md)): تجزیه نتیجه زمانی است که چانه زنی نخبگان به طور کامل شکست بخورد — زمانی که جناح های رقیب نمی توانند با زور به توافق برسند. جنگ جانشینی سپاه محتمل ترین محرک است. پایگاه شواهد مکانیسم نشان می دهد که شکست چانه زنی نخبگان تحت شرایط چند جناح مسلح با منابع مستقل، پایدارترین نتایج را به همراه دارد.
 
-- Regional IRGC commanders making public statements not coordinated with Tehran
-- Provincial governors delaying or refusing implementation of Tehran security directives
-- Baluchestan or Kurdistan security incidents increasing sharply in frequency and scale
-- Basij salary payment delays reported in multiple provinces simultaneously
-- Assembly of Experts members publicly disagreeing about Mojtaba's authority or succession procedures
-- IRGC-linked businesses in peripheral provinces establishing direct import/export channels bypassing central government controls
-- Local IRGC commanders meeting with tribal or ethnic leaders without Tehran authorization
-- Provincial television or radio stations broadcasting content not approved by central authorities
-- Military-age men in peripheral provinces refusing conscription calls or Basij mobilization orders
-- Cross-border traffic in Baluchestan and Kurdistan increasing beyond normal trade patterns
+**یکپارچگی اقتصادی سپاه -> انسداد اصلاحات** ([مکانیسم ->](../mechanisms/irgc-economic-integration-reform-blockage.md)): یکپارچگی اقتصادی سپاه پاسداران انقلاب اسلامی به طور متناقضی باعث پراکندگی و همچنین انسداد می شود. فرماندهان منطقه ای با منافع اقتصادی محلی انگیزه ای برای حفظ این منافع حتی به قیمت هماهنگی مرکزی دارند. استقلال اقتصادی که سپاه پاسداران انقلاب اسلامی را در مرکز قدرتمند می‌کند، باعث می‌شود تحت شرایط استرس، در اطراف مرکز گریز از مرکز باشد. هر شرکت مرتبط با سپاه که بتواند مستقل از تهران فعالیت کند، هسته بالقوه اقتدار خودمختار است. امپراتوری‌های اقتصادی نظامی پویایی گریز از مرکز را تحت فشار ایجاد می‌کنند، زیرا فرماندهان منطقه از منافع اقتصادی محلی محافظت می‌کنند - این در مواردی از اندونزی (منافع تجاری TNI) گرفته تا پاکستان (هولدهای بنیاد نظامی) و مصر (شرکت‌های NSPO) مستند شده است.
 
-### Intermediate Indicators
+**مداخله خارجی -> خروج از مسیر گذار** ([مکانیسم ->](../mechanisms/external-intervention-transition-derailment.md)): بازیگران خارجی با انتخاب طرفین، پویایی چندپارگی ایجاد می کنند. اگر ایالات متحده برای یک جناح پوشش هوایی فراهم کند، اگر کشورهای حاشیه خلیج فارس از گروه‌های مسلح اقلیت‌های قومی حمایت مالی کنند، اگر ترکیه از گروه‌های کرد خاص حمایت کند در حالی که با گروه‌های دیگر مخالفت می‌کند - این مداخلات خارجی به جای تحکیم چشم‌انداز سیاسی، آنها را تکه تکه می‌کند. شواهد این مکانیسم برای ایران گسترده‌تر است: 98 منبع در مجموعه ITKS، که منعکس‌کننده تراکم منافع خارجی در مسیر ایران است.
 
-- IRGC units in different provinces issuing contradictory orders to civilian authorities
-- A provincial governor publicly defying a Tehran directive and not being removed
-- Armed groups (ethnic resistance or criminal) establishing visible checkpoints on major roads
-- Central bank losing control of currency exchange rates in specific provinces (parallel exchange rates diverging by region)
-- International organizations (UN, ICRC) establishing direct communication with regional authorities rather than routing through Tehran
-- Refugee flows beginning at border crossings with Turkey, Iraq, or Pakistan
-- Oil production in Khuzestan dropping below a threshold explainable by technical factors alone (indicating political disruption)
+**معامله فدرال/خودمختاری -> اسکان قومی (حالت شکست)** ([مکانیسم ->](../mechanisms/federalautonomy-bargain-ethnic-accommodation.md)): زمانی که معامله فدرال/خودمختاری با شکست مواجه می شود — زمانی که اقلیت های قومی هرگز به این نتیجه نخواهند رسید که مقاومت مرکزی خود را به این نتیجه برساند. منطقی می شود حضور شدید امنیتی سپاه پاسداران انقلاب اسلامی در مناطق کردی، بلوچ و عرب، مقاومت مسلحانه را سرکوب کرده است، اما خواسته‌های سیاسی اساسی را حل نکرده است. در شرایط ضعف اقتدار مرکزی، مقاومت مسلحانه سرکوب شده با نارضایتی انباشته زنده می شود.
 
-### Advanced Fragmentation Indicators
+**تجزیه و سیاست شبه نظامیان در زمان جنگ** ([مکانیسم ->](../v2/security/wartime-fragmentation-militia-politics.md)): مکانیسم برگرفته از سوریه از تمرکززدایی امنیتی رژیم که گروه‌های مسلح خودمختار را تولید می‌کند، مستقیماً در ایران در شرایط جنگ قابل اجرا است. تفویض اختیارات سپاه به فرماندهان منطقه و یگان‌های بسیج در جریان درگیری‌های کنونی، دقیقاً پیش‌شرط‌هایی را ایجاد می‌کند که در این سازوکار مشخص شده است. متغیر حیاتی این است که آیا این مقامات تفویض شده جریان های بودجه مستقلی را ایجاد می کنند - استخراج پست های بازرسی، کنترل منابع، قاچاق - که آنها را از مرکز مستقل می کند.
 
-- IRGC units engaging each other in armed confrontation (even minor incidents)
-- A major urban center experiencing more than 72 hours without effective IRGC presence
-- Oil infrastructure in Khuzestan under contested control
-- Multiple foreign governments establishing direct contact with regional authority figures (bypassing Tehran)
-- Displacement of more than 500,000 people within Iran from conflict-adjacent areas
-- Competing authorities issuing identity documents, vehicle registrations, or other administrative instruments in the same territory
-- International humanitarian organizations requesting access to specific regions independent of Tehran government authorization
-- Nuclear site security incidents reported by IAEA or intelligence agencies
-- Competing armed factions establishing formal territorial boundaries (checkpoints, border markers, administrative zones)
+**خلع سلاح، خلع سلاح، و ادغام مجدد (DDR)** ([مکانیسم ->](../v2/security/civil-military-relations.md)): ادبیات مقایسه ای در مورد برنامه های DDR الزامات ثابتی را برای موفقیت مشخص می کند: جایگزین های معیشتی قابل دوام برای جنگجویان، توافق نامه های سیاسی که همه احزاب اصلی بین المللی پذیرفته اند، فرآیندهای ادغام مجدد بین المللی، چندین سال است. تامین مالی در شرایط پراکندگی، هیچ یک از این پیش نیازها وجود ندارد. برنامه های DDR در محیط های پراکنده - لیبی، سومالی، سودان جنوبی - به طور مداوم شکست خورده اند زیرا راه حل سیاسی مورد نیاز برای حمایت از آنها وجود ندارد. برای ایران، این بدان معناست که هرگونه سناریوی تکه تکه شدن که چندین جناح مسلح را تولید کند، از طریق رویکردهای استاندارد DDR، به طرز فوق‌العاده‌ای دشوار خواهد بود. مقیاس سپاه (تخمین زده شده 190000 فعال، به اضافه 600000+ بسیج)، یکپارچگی اقتصادی آن، و ساختارهای فرماندهی موازی آن، آن را به یک چالش DDR با پیچیدگی بی سابقه تبدیل کرده است.
 
 ---
 
-## Cross-References
+## 6. خطرات بحرانی
 
-- [Status Quo Decay scenario ->](./status-quo-decay.md) -- The stable precursor that can slide into fragmentation
-- [Democratic Transition scenario ->](./democratic-transition.md) -- The alternative that requires preventing fragmentation first
-- [War Escalation scenario ->](./war-escalation.md) -- War resumption dramatically accelerates fragmentation dynamics
-- [Reform Within scenario ->](./reform-within.md) -- Reform failure is a fragmentation on-ramp
-- [Pahlavi Path scenario ->](./pahlavi-path.md) -- Monarchist restoration attempt could trigger fragmentation if contested
-- [Foreign Military Intervention ->](../v2/external/foreign-military-intervention-regime-change.md)
-- [Minority Rights ->](../v2/society/minority-rights.md)
-- [Federalism and Autonomy ->](../v2/governance/federalism-autonomy.md)
-- [Civil-Military Relations ->](../v2/security/civil-military-relations.md)
-- [Wartime Fragmentation ->](../v2/security/wartime-fragmentation-militia-politics.md)
-- [DDR and Security Sector Reform ->](../v2/security/civil-military-relations.md)
-- [Nuclear Proliferation Risk ->](../v2/security/civil-military-relations.md)
+### مسیر بازیابی از Deep Fragmentation وجود ندارد
+
+این ویژگی تعیین کننده سناریو است و دلیل آن است که به جای مدیریت باید از آن جلوگیری کرد. یک [شکست اصلاحات](./reform-within.md) قابل اصلاح است. یک [transition](./democratic-transition.md) می تواند دوباره راه اندازی شود. حتی یک کودتا را می توان معکوس کرد. تکه تکه شدن، هنگامی که به نقطه ای می رسد که چندین بازیگر مسلح سیستم های کنترل ارضی و استخراج اقتصادی را ایجاد کرده اند، بدون سطح خشونت که فاجعه انسانی جدید ایجاد می کند، بسیار دشوار است. پانزده سال تکه تکه شدن لیبی، درگیری طولانی سوریه، تقسیم ارضی یمن - اینها تداوم این شرایط را نشان می دهد. برنامه ریزان ایران و بازیگران بین المللی باید پیشگیری از تجزیه را به عنوان بالاترین اولویت، حتی فراتر از تسریع گذار دموکراتیک، در نظر بگیرند.
+
+### تضاد قومیتی که قابل برگشت نیست
+
+جنبش‌های مسلح کرد، بلوچ و عرب اهوازی - به محض اینکه به کنترل ارضی دست یابند و مقاومت پایداری از خود نشان دهند - حمایت خارجی را جذب می‌کنند که حقایقی را در میدان ایجاد می‌کند. ترکیه دارای منافع استراتژیک در مسئله کرد است که در چهار کشور گسترش می یابد. عربستان سعودی و امارات تمایل خود را برای تامین مالی جنبش های مسلح سنی (یمن، سوریه) نشان داده اند. سرویس های اطلاعاتی پاکستان ده ها سال تجربه در مدیریت گروه های مسلح بلوچ در دو سوی مرز دارند.
+
+زمانی که یک منطقه کردستان در ایران به طور موثر به مدت 12 تا 18 ماه به عنوان یک نهاد خودمختار عمل کرد، فشارهای بین المللی به رسمیت شناختن آغاز می شود. سابقه حکومت اقلیم کردستان در عراق مسیر را نشان می دهد: خودمختاری عملی به خودمختاری قانون اساسی تبدیل می شود و به ویژگی دائمی دولت تبدیل می شود. این لزوما بدترین نتیجه نیست - یک توافق واقعی فدرال ممکن است به خوبی به ایران کمک کند - اما از طریق چندپارگی مسلحانه بدون خشونت گسترده، آوارگی و تخریب بافت اجتماعی بین قومیتی که هر ایران دموکراتیک آینده به آن نیاز خواهد داشت، دست یافتنی نیست.
+
+### زیرساخت نفت به عنوان سوخت تکه تکه شدن
+
+میادین نفتی، خطوط لوله و پایانه های نفت ایران در خوزستان (اکثریت عرب) و سواحل خلیج فارس متمرکز شده اند. خوزستان تقریباً 80 درصد نفت خام ایران را تولید می کند. اگر یک مقام منطقه‌ای کنترل مؤثری بر زیرساخت‌های نفتی به دست آورد، درآمدی دارد که به طور نامحدود خود را حفظ کند - مدل خودمختاری مالی دولت اقلیم کردستان که امکان جدایی عملی را بدون اعلام رسمی فراهم می‌کند. جناحی که زیرساخت های نفتی خوزستان را کنترل می کند، اساس مالی دولت ایران را کنترل می کند.
+
+زیرساخت خط لوله بردارهای تکه تکه شدن اضافی ایجاد می کند. خطوط لوله ای که از مرزهای قومی یا جناحی عبور می کنند به نقاط اهرمی تبدیل می شوند - هر جناحی در طول مسیر می تواند جریان را مختل کند. این مکانیزمی است که از طریق آن درآمدهای نفتی، به جای تامین مالی یک دولت مرکزی، به منبعی برای استخراج رقابتی و درگیری تبدیل می شود. به موازات آن، اقتصاد ذخیره سازی نفت در دلتای نیجر است، جایی که زیرساخت های خط لوله یک اقتصاد جناحی مسلح بادوام را ایجاد کرد که برای چندین دهه ادامه داشت.
+
+### بحران امنیت مواد هسته ای
+
+سایت‌های هسته‌ای ایران - آسیب‌دیده اما تخریب نشده در اثر حملات - حاوی اورانیوم غنی‌شده، اجزای سانتریفیوژ و اسناد فنی هستند. تحت اختیار مرکزی واحد، نظارت بین المللی (هر چند ناقص) مسئولیت این مواد را حفظ می کند. تحت چندپارگی، زنجیره حضانت پاره می شود. ظرف چند هفته پس از ایجاد اختلال در فرماندهی و کنترل در سایت‌های هسته‌ای، حسابداری مواد غیرقابل اعتماد می‌شود. در عرض چند ماه، امکان انحراف - چه توسط یک جناح سرکش سپاه پاسداران انقلاب اسلامی که به دنبال اهرم فشار است، چه توسط یک بازیگر غیردولتی که از شکاف‌های امنیتی استفاده می‌کند، یا توسط یک سرویس اطلاعاتی خارجی که یک عملیات مخفی انجام می‌دهد - قابل توجه می‌شود.
+
+بازیگران بین المللی (ایالات متحده، اسرائیل، احتمالا روسیه و چین) بدون توجه به ملاحظات سیاسی برای تامین امنیت مواد هسته ای مداخله خواهند کرد. این مداخلات - احتمالاً نیروهای عملیات ویژه که مکان‌های خاصی را تصرف می‌کنند - تأثیرات تکه‌تکه‌کننده خود را بر حاکمیت و پویایی سیاسی ایران خواهد داشت. برای تجزیه و تحلیل دقیق به [ریسک گسترش هسته ای ->](../v2/security/civil-military-relations.md) مراجعه کنید.
+
+### دعوتنامه جنگ پروکسی
+
+ایران تکه تکه شده به عرصه رقابت بازیگران خارجی با منافع آشتی ناپذیر تبدیل خواهد شد. عربستان سعودی و امارات از جنبش های سنی بلوچ و عرب حمایت خواهند کرد. ترکیه روی مسئله کردی مانور خواهد داد و منافع خود را در ممانعت از تشکیل یک نهاد مستقل کرد در مقابل منافع خود در گسترش نفوذ در شمال غربی ایران متعادل می کند. روسیه تلاش خواهد کرد تا یک دولت مرکزی کوچک را به عنوان مشتری خود حفظ کند و مدل سوریه را تکرار کند. چین از منافع اقتصادی خود - به ویژه زیرساخت‌های انرژی و سرمایه‌گذاری‌های کمربند و جاده - با حمایت از هر مقامی که قلمرو مربوطه را کنترل می‌کند، محافظت خواهد کرد.
+
+پویایی جنگ نیابتی که یمن و سوریه را ویران کرد، در ایران در مقیاسی تکرار می شود که هر دو را کوچکتر می کند. جمعیت ایران (۸۸ میلیون)، وسعت جغرافیایی، موقعیت استراتژیک و وضعیت هسته‌ای ایران، چندپارگی آن را به یک بحران جهانی تبدیل کرده است تا منطقه‌ای. جنگ نیابتی برنده ای ایجاد نمی کند - با دادن یک حامی خارجی به هر جناح داخلی با دلایل خاص خود برای جلوگیری از پیروزی سایرین، پراکندگی را تقویت می کند.
+
+### تضاد آب به عنوان شتاب دهنده مستقل
+
+بحران آب ایران - کاهش سفره‌های زیرزمینی، رودخانه‌های خشک شده، مناطق کشاورزی در حال فروپاشی - درگیری‌های منابع منطقه‌ای را ایجاد می‌کند که مستقل از هرگونه انتقال سیاسی و قبل از آن است. کمبود آب خوزستان باعث نارضایتی جامعه عرب بدون توجه به اینکه چه کسی قدرت را در دست دارد، می شود. زاینده رود اصفهان بارها خشک شده است. خشک شدن دریاچه ارومیه استان آذربایجان را تحت تاثیر قرار می دهد. اداره آب مستلزم هماهنگی ملی است و هماهنگی ملی دقیقاً همان چیزی است که پراکندگی آن را از بین می برد. تلاقی بحران آب و تکه تکه شدن سیاسی می‌تواند بخش‌های قابل توجهی از خاک ایران را عملاً غیرقابل سکونت کند و باعث جابه‌جایی شود که باعث بی‌ثباتی بیشتر مناطق عملکردی باقی‌مانده می‌شود.
+
+### فاجعه انسانی و بحران پناهندگان
+
+ابعاد انسانی تجزیه ایران از هر بحرانی در تاریخ اخیر منطقه فراتر خواهد رفت. جمعیت ایران از مجموع جمعیت عراق، سوریه و یمن بیشتر است. برآوردهای محافظه کارانه، بر اساس برون یابی متناسب از آوارگی سوریه (نیمی از جمعیت آواره، 500000 کشته در طول یک دهه)، نشان می دهد که تکه تکه شدن ایران می تواند بین 10 تا 20 میلیون آواره و صدها هزار تلفات در طول یک دهه ایجاد کند.
+
+پناهندگان ایرانی عمدتاً به ترکیه (که در حال حاضر میزبان 3.5 میلیون پناهنده سوری است)، عراق (با شکنندگی خاص خود)، پاکستان (مرز متخلخل طولانی) و کشورهای خلیج (که در برابر جریان پناهجویان مقاومت می کنند) سرازیر خواهند شد. ایران همچنین میزبان تقریباً 3 میلیون پناهنده و مهاجر افغان است که در شرایط پراکندگی - بدون تابعیت، نمایندگی سیاسی یا حمایت نهادی - با آسیب‌پذیری شدید روبرو هستند. جابجایی آنها لایه دیگری به یک بحران فراگیر می افزاید.
+
+---
+
+## 7. اکنون چه کاری باید انجام شود
+
+### برای جامعه مدنی در داخل ایران
+
+مهمترین کاری که جامعه مدنی می تواند برای جلوگیری از پراکندگی انجام دهد، ایجاد ائتلاف های بین قومی و بین طبقاتی است که وحدت کشور را از نظر سیاسی برای همه جناح ها ارزشمند می کند. یک جنبش اعتراضی که عمدتاً فارسی‌زبان و تهران محور است، اقلیت‌های قومی را بدون سهمی در پروژه ملی دمکراتیک باقی می‌گذارد. گنجاندن صداهای کرد، بلوچ، عرب اهوازی، آذری و ترکمن در ائتلاف اپوزیسیون دموکراتیک هم یک ضرورت اخلاقی و هم یک راهبرد عملگرایانه برای جلوگیری از چندپارگی است.
+
+مراحل مشخص عبارتند از: ایجاد نهادهای هماهنگ کننده مشترک فارسی، کردی، آذری و عرب که می توانند به طور قابل اعتمادی از یک جنبش دموکراتیک چند قومی صحبت کنند. توسعه و انتشار پیشنهادهای خودمختاری که در چارچوب فدرال، خودگردانی معناداری را به مناطق قومی ارائه می دهد. ایجاد شبکه‌های همبستگی اقتصادی که از مرزهای قومی عبور می‌کنند - صندوق‌های اعتصاب مشترک، کمک‌های متقابل بین جوامع فارس و اقلیت. اعتراضات در تمام 31 استان فرصتی را ارائه می دهد: اگر کار نهادی اکنون انجام شود، شکایت مشترک می تواند به هویت سیاسی مشترک تبدیل شود.
+
+### برای دیاسپورا
+
+دیاسپورا از نظر قومی متنوع است به گونه ای که همیشه در سیاست دیاسپورا قابل مشاهده نیست. سازمان های فارسی زبان دیاسپورا از لحاظ تاریخی بر نمایندگی سیاسی دیاسپورا تسلط داشته اند. سازمان های کرد، بلوچ و عرب دیاسپورا به طور جداگانه سازماندهی شده اند. ایجاد یک ائتلاف یکپارچه دیاسپورا که صریحاً شامل صداهای اقلیت باشد - و تضمین های معنادار خودمختاری ارائه می دهد - سهم ویژه دیاسپورا در جلوگیری از پراکندگی است.
+
+به طور مشخص، سازمان‌های دیاسپورا باید چارچوب‌های خودمختاری از پیش طراحی شده را توسعه دهند: پیشنهادهای قانون اساسی که دامنه خودگردانی منطقه‌ای، توزیع درآمدهای منابع طبیعی، حقوق زبان و آموزش، و ترتیبات امنیتی را مشخص می‌کند. این چارچوب ها باید اکنون مورد مذاکره و انتشار قرار گیرند، قبل از اینکه پراکندگی واقعیت هایی را در زمین ایجاد کند که مذاکره را غیرممکن می کند. مدل‌های اتیوپی و اسپانیایی فدرالیسم نامتقارن - که در آن مناطق مختلف بر اساس شرایط خاص خود سطوح متفاوتی از خودمختاری دارند - بیشتر از مدل‌های فدراسیون متقارن در ایران کاربرد دارند. مثال اسپانیایی به ویژه آموزنده است: بحران 23-F باعث تحکیم دموکراتیک شد زیرا اصلاح طلبان جایگزین های قابل اجرا را آماده داشتند. دیاسپورای ایران باید اکنون در حال ساخت آن جایگزین ها باشد.
+
+### برای بازیگران بین المللی
+
+**جلوگیری از تکه تکه شدن**: به گروه های مسلح قومی به عنوان اهرم فشار علیه دولت ایران کمک مالی نکنید - این مستقیم ترین محرک پویایی تجزیه است. سود تاکتیکی کوتاه مدت تحت فشار قرار دادن تهران از طریق نیروهای نیابتی با هزینه استراتژیک بلندمدت یک ایران تکه تکه شده کمرنگ می شود.
+
+** پیش از مذاکره درباره خودمختاری منطقه ای در اسلام آباد **: قبل از اینکه پراکندگی باعث ایجاد حقایق در صحنه شود، باید به مسئله خودمختاری قانون اساسی پرداخت. میانجی‌های بین‌المللی باید گفت‌وگو بین مقامات مرکزی ایران، گروه‌های مخالف و نمایندگان اقلیت‌های قومی در مورد ترتیبات فدرال/خودمختاری را تسهیل کنند. تجربه فرآیندهای قانون اساسی پس از مناقشه (آفریقای جنوبی، بوسنی، عراق، نپال) مدل هایی را ارائه می دهد، اما درس اصلی این است که این فرآیندها باید قبل از درگیری آغاز شوند، نه پس از آن.
+
+**پروتکل های امنیت مواد هسته ای**: پروتکل های امنیت مواد هسته ای را ایجاد کنید که می توانند بدون نیاز به همکاری دولت مرکزی فعال شوند. تیم‌های واکنش سریع آژانس بین‌المللی انرژی اتمی را از پیش تعیین کرد. مدل نون-لوگار (کاهش تهدید تعاونی ایالات متحده و شوروی پس از 1991) چارچوبی را ارائه می‌کند، اما سناریوی تجزیه ایران پیچیده‌تر است، زیرا شامل اقتدار رقابتی و نه همکاری است. با تمام مقامات جانشین بالقوه - از جمله جناح‌های سپاه پاسداران انقلاب اسلامی، گروه‌های مخالف و بازیگران منطقه‌ای - درباره امنیت سایت هسته‌ای به عنوان یک خط پایه غیرقابل مذاکره مذاکره کنید.
+
+**برنامه ریزی کریدور بشردوستانه**: برنامه های اضطراری را برای دسترسی بشردوستانه به مناطق تکه تکه شده تهیه کنید. تدارکات اضطراری قبل از موقعیت در کشورهای همسایه. درسی که از سوریه گرفته می شود این است که دسترسی بشردوستانه در محیط های پراکنده مستلزم مذاکره با هر جناح مسلح است، نه فقط با دولت به رسمیت شناخته شده.
+
+### برای نخبگان اصلاح‌گرا در داخل سیستم
+
+تکه تکه شدن سناریویی است که در آن عملگرایان خود سیستم همه چیز را از دست می دهند - منافع اقتصادی، موقعیت های سازمانی و امنیت فیزیکی. فرماندهان سپاه که از وضعیت موجود اقتصادی سود می برند، باید بدانند که این وضعیت موجود تنها در یک حالت یکپارچه و یکپارچه موجود است. تکه تکه شدن دارایی های اقتصادی آنها را به همان اندازه که دیگران را نابود می کند، نابود می کند. فرمانده سپاه که شرکت سازنده‌اش میلیون‌ها درآمد ایجاد می‌کند، در یک اقتصاد متلاشی شده با ارزی فروپاشیده و بدون سیستم قانونی کارآمد، این درآمد را بی‌ارزش خواهد یافت.
+
+این استدلال - اینکه منافع عمل‌گرایانه سپاه با جلوگیری از پراکندگی همسو می‌شود - اهرمی است که ممکن است برای چهره‌هایی که واقعاً می‌توانند از آن جلوگیری کنند متقاعدکننده‌تر باشد. مفهوم خاص این است که عمل‌گرایان سپاه باید از مذاکرات سیاسی (از جمله با گروه‌های اپوزیسیون مورد نفرتشان) به عنوان بیمه در برابر سناریوی چندپارگی حمایت کنند که منافع آن‌ها را عمیق‌تر از هر انتقال مذاکره شده از بین می‌برد. دارایی‌های اقتصادی سپاه - ساخت و ساز، واردات/صادرات، زمین‌های کشاورزی، مخابرات - فقط در یک حالت فعال با ارز شناسایی شده و قراردادهای قابل اجرا ارزش دارند. تکه تکه شدن شرایط را برای وجود این دارایی ها از بین می برد.
+
+### چارچوب های خودمختاری از پیش طراحی شده
+
+تنها مهم ترین اقدام پیشگیرانه ساختاری، داشتن یک چارچوب استقلال معتبر آماده قبل از نیاز است:
+
+- **پیشنهادهای قانون اساسی برای فدرالیسم نامتقارن** که مشخص می کند کدام قدرت ها به مناطق (آموزش و پرورش، زبان، پلیس محلی، امور فرهنگی) واگذار می شود و کدام یک محور باقی می مانند (سیاست خارجی، سیاست پولی، دفاع ملی، تاسیسات هسته ای). مدل اسپانیایی comunidades autonomas بیشتر از مدل‌های فدراسیون یکنواخت در ایران کاربرد دارد.
+- **فرمول های تسهیم درآمد منابع طبیعی** که به مناطق تولید کننده منابع (بیش از همه خوزستان) سهم تضمینی از درآمد را بدون ایجاد استقلال مالی کامل می دهد. مدل نیجریه (اصل اشتقاق 13 درصد) و فرمول قانون اساسی عراق (ماده 112) نقاط مرجع را ارائه می دهند، اگرچه هر دو مشکلات اجرایی دارند که هر چارچوب ایرانی باید از آنها درس بگیرد.
+- **ضمانت‌های زبان و آموزش** که زبان‌های کردی، آذری، بلوچی و عربی را در کنار فارسی زبان‌های رسمی مناطق مربوطه خود می‌کند. این موضوع به یکی از عمیق‌ترین نارضایتی‌های قومی با حداقل هزینه سازمانی رسیدگی می‌کند.
+- **ترتیبات بخش امنیتی** که پرسنل اقلیت های قومی را در نیروهای امنیتی محلی ادغام می کند به جای تکیه انحصاری بر نیروهای مستقر در مرکز که به عنوان اشغالگر تلقی می شوند.
+
+این چارچوب ها باید اکنون توسعه داده شوند، مورد بحث و بررسی قرار گیرند و منتشر شوند - در حالی که مذاکره هنوز امکان پذیر است. پس از تجزیه، هر جناح دارای حقایق سرزمینی در زمین است که سازش را سخت‌تر می‌کند، نه آسان‌تر.
+
+---
+
+## 8. عوارض خاص ایران
+
+### معماری امنیتی پنج بدنه
+
+دستگاه امنیتی ایران شامل سپاه (سپاه)، اطلاعات سپاه (اطلاعات سپاه)، بسیج، وزارت اطلاعات (واجا) و ارتش عادی (ارتش) است. این معماری پنج بدنه پیچیده ترین سیستم ضد کودتا است که در ادبیات تطبیقی ​​مستند شده است. هر بدن دیگری را تماشا می کند. همپوشانی صلاحیت ها مانع از آن می شود که هر سازمان واحدی قدرت کافی برای تهدید رهبری سیاسی را جمع کند.
+
+در شرایط تکه تکه شدن، این معماری یک پیامد ویرانگر دارد: امکان اقدام نظامی یکپارچه برای بازگرداندن نظم را از بین می‌برد. در مصر 2011، ارتش (یک نهاد سلسله مراتبی واحد) می تواند به عنوان یک نهاد برای برکناری مبارک و مدیریت انتقال تصمیم بگیرد. در ایران، هیچ تصمیمی معادل امکان پذیر نیست، زیرا هیچ ارگانی به تنهایی صلاحیت یا ظرفیت عمل به تنهایی را ندارد و رقابت های بین ارگانی که معماری ضد کودتا به عمد ایجاد می کند، مانع از اقدام هماهنگ می شود. معماری طراحی شده برای جلوگیری از یک کودتا همچنین از نوعی مداخله نظامی یکپارچه که می تواند قطعه قطعه را متوقف کند، جلوگیری می کند.
+
+ادبیات تطبیقی ​​این الگو را در همه موارد تأیید می کند. ساختارهای امنیتی موازی عراق (گارد جمهوری، گارد ویژه جمهوری خواه، فداییان صدام، ارتش منظم، سرویس های اطلاعاتی) پس از سال 2003 به جای ایجاد مقاومت واحد یا انتقال واحد، به جناح های مسلح رقیب تقسیم شدند. ساختارهای موازی سوریه (گارد جمهوری، لشکر 4، NDF، شبیحه) هر کدام به بازیگران مسلح خودمختار با کنترل ارضی جداگانه تبدیل شدند. کمیته های انقلابی و تیپ های امنیتی لیبی به عنوان گروه های شبه نظامی بازسازی شدند. این الگو ثابت است: ساختارهای ضد کودتا از فرار نظامی در طول اعتراضات جلوگیری می کنند اما از انتقال منظم در زمانی که مرکز سیاسی ضعیف می شود جلوگیری می کند. معماری پنج بدنه ایران این پویایی را بیشتر محتمل می‌کند، نه کمتر، زیرا جدایی نهادی عمیق‌تر و رسمی‌تر از هر یک از موارد مقایسه است.
+
+### ساختار فرماندهی غیرمتمرکز: دارایی تاب آوری، مکانیزم استقلال
+
+ساختار فرماندهی کنونی سپاه - با هر فرماندهی که جانشینان خود را در سه رده نام می برد - به عنوان یک اقدام مقاومتی در زمان جنگ اجرا شد. اگر فرماندهی کشته شود، جانشینی فوری و معلوم است. این یک مزیت نظامی واقعی در طول درگیری فعلی است. اما همان ساختاری که تداوم را تحت حمله خارجی تضمین می‌کند، استقلال را تحت چندپارگی داخلی تضمین می‌کند. هر فرمانده منطقه ای زیرساخت سازمانی برای عملیات مستقل دارد: زنجیره فرماندهی، هماهنگی جانبی با واحدهای همسایه، و - به طور بحرانی - روابط اقتصادی که مستقل از تهران درآمدزایی می کند. ساختار فرماندهی غیرمتمرکز یک دارایی تاب آوری در طول جنگ و یک مکانیسم استقلال تحت تجزیه است. اینها نتایج متفاوتی از ساختارهای مختلف نیستند. آنها نتایج متفاوتی از یک ساختار در شرایط مختلف هستند.
+
+### بعد فرامرزی بلوچستان
+
+استان سیستان و بلوچستان با بلوچستان پاکستان هم مرز است، جایی که یک جنبش جدایی‌طلب مسلح مهم (ارتش آزادیبخش بلوچستان و گروه‌های وابسته) دهه‌ها با دولت پاکستان مبارزه کرده است. اگر مقاومت مسلحانه بلوچ ایران تقویت شود، بُعد فرامرزی تنش ارضی پاکستان و ایران را در همان زمان ایجاد می کند که پاکستان به عنوان میانجی آتش بس در مذاکرات اسلام آباد عمل می کند. سرویس‌های اطلاعاتی پاکستان (ISI) روابط عمیقی با گروه‌های مسلح بلوچ دارند - روابطی که همزمان خصمانه و ابزاری هستند. یک ایران تکه تکه می‌تواند شاهد تغییر نقش پاکستان از میانجی به طرف ذینفع باشد و آی‌اس‌آی پویایی بلوچ‌ها را در هر دو طرف مرز برای خدمت به منافع استراتژیک پاکستان مدیریت کند.
+
+### شکاف نسلی سپاه پاسداران
+
+نسل بنیانگذار ایدئولوژیک سپاه - کهنه سربازان جنگ ایران و عراق که این نهاد را ساختند - از فرماندهی عملیاتی پیر شده است. این موسسه اکنون عمدتاً توسط افسران پس از انقلاب پر شده است که وفاداری آنها حرفه ای و مالی است تا انقلابی ایدئولوژیک. این تغییر نسلی به این معنی است که وقتی پایه مالی وفاداری ناپدید می شود - از طریق فروپاشی اقتصادی، حقوق پرداخت نشده، یا از دست دادن امتیازات تجاری - تعهد ایدئولوژیکی که ممکن است وفاداری را در یک نسل پایه گذار حفظ کند، به عنوان جایگزین در دسترس نیست. افسر جوان‌تر سپاه که برای پیشرفت شغلی به عضویت درآمد، با جانبازی که در خرمشهر جنگیده بود، محاسبه متفاوتی دارد.
+
+### بحران آب به عنوان محرک تکه تکه شدن ساختاری
+
+بحران آب ایران مستقل از سیاست عمل می کند. کاهش سفره‌های زیرزمینی، رودخانه‌های خشک‌شده و مناطق کشاورزی در حال فروپاشی، تضادهای منابعی را ایجاد می‌کند که قبل از هر گونه انتقال سیاسی پیش از آن است. کمبود آب خوزستان، زاینده رود خشک شده اصفهان، خشک شدن دریاچه ارومیه - اینها محرک های ساختاری هستند که سناریوهای تکه تکه شدن آنها را تشدید می کند. حکمرانی آب نیاز به هماهنگی ملی دارد: موافقتنامه های بالادست-پایین دست، انتقال بین حوضه ای، مدیریت آبخوان. هماهنگی ملی دقیقاً همان چیزی است که پراکندگی آن را از بین می برد. تلاقی بحران آب و تکه تکه شدن سیاسی می‌تواند بخش‌های قابل توجهی از خاک ایران را عملاً غیرقابل سکونت کند و باعث جابه‌جایی شود که باعث بی‌ثباتی بیشتر مناطق عملکردی باقی‌مانده می‌شود. این پویایی در موارد مقایسه ای مشابهی ندارد (لیبی، عراق، سوریه، یمن همگی دارای چالش های آبی هستند، اما هیچ کدام ترکیبی از کاهش آبخوان، مرگ رودخانه و خشک شدن دریاچه در مقیاس ملی در ایران ندارند).
+
+### کردستان عراق و کریدور کرد
+
+کردستان ایران با کردستان عراق (KRG) هم مرز است، که دارای حکومت مستقل کارآمد، ارتش خود (پیشمرگه) و تجربه در استفاده از پویایی قدرت های بزرگ برای خودگردانی است. تحت تکه تکه شدن ایران، چشم انداز ایجاد یک منطقه پیوسته تحت کنترل کردها که از سلیمانیه از طریق کردستان ایران تا مرز ترکیه امتداد می یابد، ترکیه را (که دهه ها با شورش کردها مبارزه کرده است) هشدار می دهد و به طور بالقوه نظم منطقه را تغییر می دهد. حمایت حکومت اقلیم کردستان از جنبش های خودمختاری کردهای ایران - یا خودداری آن از چنین حمایتی - به یک متغیر مهم تبدیل می شود.
+
+### زیرساخت خط لوله به عنوان بردار تکه تکه شدن
+
+شبکه خطوط لوله نفت و گاز، پالایشگاه ها و پتروشیمی های ایران زیرساخت فیزیکی ایجاد می کند که از مرزهای قومی و بالقوه جناحی عبور می کند. هر جناحی که بخشی از یک خط لوله را کنترل می کند می تواند رانت ها را استخراج کند یا جریان را مختل کند. این یک اقتصاد تکه تکه شدن خاص ایجاد می کند: پرداخت های حفاظت از خط لوله، اختلافات کنترل پالایشگاه، و درگیری های شبکه توزیع که به بازیگران مسلح انگیزه های اقتصادی می دهد تا به جای حل و فصل پراکندگی، آن را حفظ کنند. به موازات آن، اقتصاد ذخیره سازی نفت در دلتای نیجر است، جایی که زیرساخت های خط لوله یک اقتصاد جناحی مسلح بادوام را ایجاد کرد که برای چندین دهه ادامه داشت.
+
+### پناهندگان افغان به عنوان یک آسیب پذیر
+
+ایران میزبان تقریباً 3 میلیون پناهجوی افغان و مهاجر غیرقانونی است که در ساخت و ساز، کشاورزی و بازارهای کار غیررسمی متمرکز هستند. در شرایط پراکندگی، این جمعیت ها - بدون شهروندی، نمایندگی سیاسی، یا حمایت نهادی - با آسیب پذیری شدید در برابر خشونت، استثمار و جابجایی اجباری روبرو هستند. وضعیت آنها بحران انسانی را تشدید می کند و فشاری را بر افغانستانی که از قبل فروپاشیده است برای جذب عودت کنندگانی که نمی تواند حمایت کند ایجاد می کند.
+
+### تنگه هرمز
+
+تکه تکه شدن ایران این سوال را مطرح می کند که چه کسی تنگه هرمز را کنترل می کند - که تقریباً 20 درصد از عرضه جهانی نفت از طریق آن ترانزیت می شود. نیروهای دریایی سپاه پاسداران انقلاب اسلامی (سپاه پاسداران انقلاب اسلامی، متمایز از نیروی دریایی عادی آرتش) در حال حاضر موقعیت هرمز ایران را کنترل می کنند. اگر سپاه پاسداران انقلاب اسلامی تکه تکه شود، جناح‌های رقیب ممکن است تلاش کنند از کنترل هرمز به عنوان اهرم فشار استفاده کنند - تهدید کشتی‌رانی برای گرفتن امتیاز از جامعه بین‌المللی یا جناح‌های داخلی رقیب. هر دو سناریو تجزیه ایران را از یک بحران منطقه ای به یک بحران جهانی تبدیل می کند.
+
+### سایت های مذهبی به عنوان سهام سرزمینی
+
+قم و مشهد - دو مرکز مذهبی مهم شیعیان در ایران - دارای اقتصاد سیاسی متمایز هستند. قم مرکز تشکیلات روحانیت و حوزه علمیه است که روحانیت شیعه را برای سراسر جهان تربیت می کند. مشهد محل استقرار آستان قدس رضوی است که یکی از ثروتمندترین مؤسسات جهان اسلام است که دارایی های کشاورزی، صنعتی و املاک وسیعی را در اختیار دارد. تحت پراکندگی، کنترل این سایت ها به منبعی برای مشروعیت و درآمد تبدیل می شود. جناحی که قم را کنترل می کند، مدعی اقتدار دینی بر زیرساخت های سازمانی شیعه است. جناحی که مشهد را کنترل می کند، منابع عظیم اقتصادی را در دست دارد.
+
+این سایت‌ها همچنین برای جوامع شیعه در سراسر عراق، لبنان، بحرین و جاهای دیگر مهم هستند - به این معنی که وضعیت آنها تحت تکه‌تکه پیامدهای فراملی دارد. جناح های سیاسی شیعه عراق، حزب الله لبنان و جنبش های شیعه بحرین همگی با حوزه های علمیه قم روابط نهادی دارند. تکه تکه شدن ایران می‌تواند این بازیگران خارجی شیعه را به رقابت داخلی بکشاند و یک بعد فرقه‌ای فراملی را به چشم‌انداز درگیری پیچیده‌ای بیافزاید.
+
+---
+
+## 9. شاخص هایی برای تماشا
+
+### نشانگرهای هشدار اولیه
+
+- اظهارات علنی فرماندهان سپاه ناحیه بدون هماهنگی با تهران
+- تعلل یا امتناع استانداران در اجرای بخشنامه های امنیتی تهران
+- حوادث امنیتی بلوچستان یا کردستان از نظر فراوانی و مقیاس به شدت افزایش می یابد
+- گزارش تاخیر در پرداخت حقوق بسیج در چند استان به طور همزمان
+- مخالفت علنی اعضای مجلس خبرگان در مورد اختیارات یا نحوه جانشینی مجتبی
+- کسب‌وکارهای مرتبط با سپاه پاسداران انقلاب اسلامی در استان‌های پیرامونی، کانال‌های مستقیم واردات/صادرات را با دور زدن کنترل‌های دولت مرکزی ایجاد می‌کنند.
+- ملاقات فرماندهان محلی سپاه با سران قبایل یا قومی بدون مجوز تهران
+- ایستگاه های تلویزیونی یا رادیویی استانی که محتوایی را پخش می کنند که مورد تایید مقامات مرکزی نیست
+- مردان در سن سربازی در استان های حاشیه ای از فراخوان خدمت اجباری یا دستور بسیج بسیج سرباز می زنند.
+- تردد برون مرزی در بلوچستان و کردستان فراتر از الگوهای تجاری عادی افزایش می یابد
+
+### شاخص های متوسط
+
+- یگان های سپاه در استان های مختلف دستورات متناقض را به مقامات ملکی صادر می کنند
+- استانداری که علناً از دستورالعمل تهران سرپیچی می کند و برکنار نمی شود
+- گروه های مسلح (مقاومت قومی یا جنایتکار) ایست های بازرسی قابل مشاهده در جاده های اصلی ایجاد می کنند
+- بانک مرکزی کنترل نرخ ارز در استان های خاص را از دست می دهد (نرخ های مبادله موازی بر اساس منطقه متفاوت است)
+- سازمان های بین المللی (UN، ICRC) به جای مسیریابی از طریق تهران، ارتباط مستقیم با مقامات منطقه ای برقرار می کنند
+- جریان پناهجویان از گذرگاه های مرزی با ترکیه، عراق یا پاکستان آغاز می شود
+- کاهش تولید نفت در خوزستان به زیر یک آستانه که تنها با عوامل فنی قابل توضیح است (نشان دهنده اختلال سیاسی)
+
+### نشانگرهای تکه تکه شدن پیشرفته
+
+- درگیر شدن یگان های سپاه با یکدیگر در رویارویی مسلحانه (حتی حوادث جزئی)
+- یک مرکز شهری بزرگ که بیش از 72 ساعت بدون حضور مؤثر سپاه را تجربه می کند
+- زیرساخت های نفتی در خوزستان تحت کنترل مناقشه ای
+- برقراری ارتباط مستقیم چند دولت خارجی با مقامات منطقه ای (با دور زدن تهران)
+- آوارگی بیش از 500000 نفر در داخل ایران از مناطق مجاور درگیری
+- مقامات رقیب که اسناد هویتی، ثبت نام خودرو یا سایر اسناد اداری را در همان قلمرو صادر می کنند
+- سازمان های بین المللی بشردوستانه که درخواست دسترسی به مناطق خاص مستقل از مجوز دولت تهران را دارند
+- حوادث امنیتی سایت هسته ای گزارش شده توسط آژانس یا آژانس های اطلاعاتی
+- گروه های مسلح رقیب برای ایجاد مرزهای رسمی سرزمینی (ایست های بازرسی، نشانگرهای مرزی، مناطق اداری)
+
+---
+
+## ارجاعات متقابل
+
+- [سناریوی زوال وضعیت موجود ->](./status-quo-decay.md) — پیش‌نمایی از پایداری که می‌تواند به چندپارگی بینجامد
+- [سناریوی انتقال دموکراتیک ->](./democratic-transition.md) - جایگزینی که ابتدا نیاز به جلوگیری از پراکندگی دارد
+- [سناریوی تشدید جنگ ->](./war-escalation.md) - از سرگیری جنگ به طور چشمگیری پویایی تجزیه را تسریع می کند
+- [اصلاح در سناریو ->](./reform-within.md) - شکست اصلاحات یک تکه تکه شدن در رمپ است
+- [سناریوی مسیر پهلوی ->](./pahlavi-path.md) - تلاش برای بازگرداندن سلطنت طلبان در صورت مخالفت می تواند باعث چندپارگی شود.
+- [مداخله نظامی خارجی ->](../v2/external/foreign-military-intervention-regime-change.md)
+- [حقوق اقلیت ->](../v2/society/minority-rights.md)
+- [فدرالیسم و خودمختاری ->](../v2/governance/federalism-autonomy.md)
+- [روابط ملکی-نظامی ->](../v2/security/civil-military-relations.md)
+- [تجزیه در زمان جنگ ->](../v2/security/wartime-fragmentation-militia-politics.md)
+- [DDR و اصلاحات بخش امنیتی ->](../v2/security/civil-military-relations.md)
+- [خطر گسترش سلاح های هسته ای ->](../v2/security/civil-military-relations.md)
+
+</div>

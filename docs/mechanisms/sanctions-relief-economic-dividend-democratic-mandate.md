@@ -1,6 +1,6 @@
 <div dir="rtl" markdown>
 
-# Sanctions relief → economic dividend → democratic mandate
+# رفع تحریم‌ها ← سود اقتصادی ← مشروعیت دموکراتیک
 
 *ترجمه فارسی در دست تهیه*
 

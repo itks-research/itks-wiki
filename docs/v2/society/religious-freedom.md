@@ -1,4 +1,4 @@
-# Religious Freedom & Separation of Religion from State
+# آزادی دینی و جدایی دین از دولت
 
 ***منابع:** 640 | **آخرین به‌روزرسانی:** 2026-04-05*
 

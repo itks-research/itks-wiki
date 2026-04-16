@@ -1,186 +1,190 @@
-> 🟢 **Evidence Confidence: High** — Question framed against well-documented comparative cases with strong scholarly literature on de-Ba'athification outcomes and Central European lustration. | 📎 **Source Alignment: 🟢 Strong** (78%)
+<div dir="rtl" markdown>
 
-How should a transitional authority approach the institutional dismantlement and personnel vetting of the Islamic Revolutionary Guard Corps (IRGC), given comparative evidence from Iraq's de-Ba'athification (2003-onwards), Czech lustration after 1989, Polish limited lustration, and South Africa's Truth and Reconciliation Commission process?
+> **اعتماد به شواهد: بالا** - پرسشی که در برابر موارد تطبیقی ​​مستند با ادبیات علمی قوی در مورد نتایج بعث زدایی و پاکسازی اداری اروپای مرکزی است. | 📎 **همترازی منبع: قوی** (78%)
 
-The IRGC presents a personnel challenge of unprecedented scale among modern transition cases. With an estimated 500,000-700,000 active personnel plus an extended network of dependents, veterans, and Basij militia members numbering in the millions, any vetting or lustration process will affect a larger share of the population than Iraq's Ba'ath Party (estimated 1.5-2.5 million members in a population of 25 million) or Czechoslovakia's Communist Party (1.7 million members in a population of 15.6 million). Unlike the Ba'ath Party, which was primarily a political organization with a military wing, the IRGC functions simultaneously as a military force, intelligence apparatus, economic conglomerate controlling an estimated 15-25% of GDP, and social welfare provider. This multidimensional institutional footprint means that personnel decisions carry military, economic, and social consequences simultaneously.
+با توجه به شواهد مقایسه‌ای از بعث‌زدایی عراق (2003 به بعد)، پاکسازی اداری چک پس از 1989، پاکسازی اداری محدود لهستان، و فرآیند کمیسیون حقیقت و آشتی آفریقای جنوبی، یک مقام انتقالی چگونه باید به انحلال نهادی و بررسی کارکنان سپاه پاسداران انقلاب اسلامی (سپاه پاسداران انقلاب اسلامی) برخورد کند؟
 
-The core synthesis question is: What design features of a vetting/lustration framework determine whether the process stabilizes or destabilizes the post-transition state? Specifically, what does comparative evidence reveal about (a) the threshold between comprehensive and targeted approaches, (b) the sequencing of military vs. civilian personnel decisions, (c) the management of economic interests held by the outgoing security establishment, and (d) the timeline over which such processes can be conducted without triggering organized resistance or state collapse?
+سپاه پاسداران انقلاب اسلامی یک چالش پرسنلی در مقیاسی بی سابقه در میان پرونده های انتقال مدرن ارائه می دهد. با تخمینی 500000-700000 پرسنل فعال به اضافه شبکه گسترده ای از افراد وابسته، کهنه سربازان و اعضای شبه نظامی بسیج که تعداد آنها به میلیون ها نفر می رسد، هر گونه فرآیند بررسی یا تسویه حساب بر سهم بیشتری از جمعیت نسبت به حزب بعث عراق (تخمین زده شده 1.5-2.5 میلیون عضو) (1.5-2.5 میلیون عضو) (1.5-2.5 میلیون عضو حزب جمهوری چک) در جمعیت جمهوری چک 725 تأثیر خواهد گذاشت. در جمعیت 15.6 میلیون نفری). برخلاف حزب بعث که اساساً یک سازمان سیاسی با شاخه نظامی بود، سپاه پاسداران انقلاب اسلامی همزمان به عنوان یک نیروی نظامی، دستگاه اطلاعاتی، کنگلومرای اقتصادی که 15 تا 25 درصد تولید ناخالص داخلی را کنترل می‌کند و تأمین‌کننده رفاه اجتماعی عمل می‌کند. این ردپای نهادی چند بعدی به این معنی است که تصمیمات پرسنلی پیامدهای نظامی، اقتصادی و اجتماعی را به طور همزمان به همراه دارند.
 
-> 🟢 **Evidence Confidence: High** — Iraq de-Ba'athification is among the most extensively documented transitional justice failures in modern history. Czech and Polish lustration have robust comparative literature. South Africa TRC has comprehensive official records. | 📎 **Source Alignment: 🟢 Strong** (82%)
+سؤال اصلی ترکیب این است: چه ویژگی‌های طراحی چارچوب بررسی/تبلیغ تعیین می‌کند که آیا فرآیند وضعیت پس از گذار را تثبیت یا بی‌ثبات می‌کند؟ به طور خاص، شواهد مقایسه ای در مورد (الف) آستانه بین رویکردهای جامع و هدفمند، (ب) توالی تصمیمات نظامی در مقابل پرسنل غیرنظامی، (ج) مدیریت منافع اقتصادی توسط نهاد امنیتی در حال خروج، و (د) جدول زمانی که چنین فرآیندهایی می توانند طی آن بدون ایجاد مقاومت سازمان یافته یا فروپاشی دولت انجام شوند، چه چیزی را نشان می دهد؟
 
-IRAQ: CPA ORDER 1 AND ORDER 2 (2003)
+> **اعتماد به شواهد: بالا** - بعث زدایی از عراق یکی از مستندترین شکست های عدالت انتقالی در تاریخ مدرن است. پاکسازی اداری چک و لهستان ادبیات تطبیقی ​​قوی دارند. کمیسیون حقیقت‌یابی و آشتی آفریقای جنوبی دارای سوابق رسمی جامع است. | 📎 **همترازی منبع: قوی** (82%)
 
-Coalition Provisional Authority Order Number 1 (May 16, 2003) dissolved the Ba'ath Party and barred its top four membership tiers (approximately 30,000-50,000 individuals) from public employment. Order Number 2 (May 23, 2003) dissolved the entire Iraqi military, intelligence services, and Ministry of Defense — affecting approximately 385,000 soldiers plus 285,000 Ministry of Interior personnel. The combined effect removed the institutional infrastructure of the state and created an immediate pool of hundreds of thousands of unemployed men with military training and access to weapons caches.
+عراق: دستورات ۱ و ۲ مرجع موقت ائتلاف (۲۰۰۳)
 
-The sequencing proved catastrophic. Order 1's membership-tier approach failed to distinguish between ideological Ba'athists and the estimated 1.5 million Iraqis who joined the party for career advancement with no ideological commitment (teachers, engineers, doctors required party membership for professional advancement). Order 2 compounded this by eliminating pension entitlements alongside employment, removing the economic safety net that might have kept demobilized personnel from joining the insurgency. By late 2003, U.S. military intelligence estimated that former Iraqi Army personnel constituted 30-40% of the Sunni insurgency's operational capacity.
+دستور شماره 1 مرجع موقت ائتلاف (16 مه 2003) حزب بعث را منحل کرد و چهار عضو اصلی آن (تقریباً 30000 تا 50000 نفر) را از استخدام دولتی منع کرد. فرمان شماره 2 (23 مه 2003) کل ارتش، سرویس های اطلاعاتی و وزارت دفاع عراق را منحل کرد - که تقریباً 385000 سرباز و 285000 پرسنل وزارت کشور را تحت تأثیر قرار داد. این اثر ترکیبی زیرساخت‌های نهادی دولت را حذف کرد و مجموعه‌ای فوری از صدها هزار مرد بیکار با آموزش نظامی و دسترسی به انبارهای سلاح ایجاد کرد.
 
-The de-Ba'athification process was subsequently transferred to the Iraqi Governing Council's De-Ba'athification Commission under Ahmad Chalabi in November 2003, where it became an instrument of sectarian politics rather than transitional justice. The Commission applied vetting criteria inconsistently, with Shi'a Ba'athists receiving exemptions while Sunni professionals faced blanket exclusion. By 2008, the Accountability and Justice Law attempted to reverse the worst excesses, but the damage to institutional capacity and inter-communal trust had already calcified.
+توالی ثابت فاجعه بار بود. رویکرد رده عضویت نظم 1 نتوانست بین بعثی های ایدئولوژیک و حدود 1.5 میلیون عراقی که برای پیشرفت شغلی و بدون تعهد ایدئولوژیک به حزب پیوسته اند تمایز قائل شود (معلمان، مهندسان، پزشکان برای پیشرفت حرفه ای نیاز به عضویت در حزب داشتند). دستور 2 این امر را با حذف حقوق بازنشستگی در کنار اشتغال، حذف شبکه ایمنی اقتصادی که ممکن بود مانع از پیوستن پرسنل مسترد به شورش شود، ترکیب کرد. در اواخر سال 2003، اطلاعات نظامی ایالات متحده تخمین زد که پرسنل سابق ارتش عراق 30 تا 40 درصد از ظرفیت عملیاتی شورشیان سنی را تشکیل می دادند.
 
-Measurable outcomes: Iraq's civil service lost an estimated 40,000 experienced administrators in 2003-2004. The education system lost approximately 12,000 teachers and administrators. The health system lost several thousand physicians and hospital administrators. State capacity for basic service delivery collapsed in parallel with the security vacuum.
+فرآیند بعث زدایی متعاقباً به کمیسیون بعث زدایی شورای حکومتی عراق به ریاست احمد چلبی در نوامبر 2003 منتقل شد، جایی که به ابزاری برای سیاست فرقه ای به جای عدالت انتقالی تبدیل شد. کمیسیون معیارهای بررسی را به طور متناقضی اعمال کرد، به طوری که بعثی های شیعه از معافیت برخوردار شدند در حالی که متخصصان سنی با محرومیت کامل مواجه شدند. تا سال 2008، قانون پاسخگویی و عدالت تلاش کرد تا بدترین افراط‌ها را معکوس کند، اما آسیب به ظرفیت نهادی و اعتماد بین‌اجتماعی قبلاً کاهش یافته بود.
 
-CZECH REPUBLIC: LUSTRATION LAW OF 1991
+نتایج قابل اندازه گیری: خدمات مدنی عراق حدود 40000 مدیر مجرب را در سال های 2003-2004 از دست داد. سیستم آموزشی تقریباً 12000 معلم و مدیر را از دست داد. نظام سلامت هزاران پزشک و مدیران بیمارستان ها را از دست داد. ظرفیت دولت برای ارائه خدمات اولیه به موازات خلاء امنیتی سقوط کرد.
 
-Czechoslovakia (and after 1993, the Czech Republic) enacted the Large Lustration Law (Act No. 451/1991) screening individuals for collaboration with the StB (secret police) and for holding senior Communist Party positions. The law barred identified collaborators from specified public positions for five years (later extended). Crucially, the Czech approach was targeted: it focused on specific categories of collaboration (agents, informers, conscious collaborators) rather than blanket party membership. Of approximately 1.7 million Communist Party members, only those in defined senior roles or with documented StB collaboration files faced restrictions.
+جمهوری چک: قانون پاکسازی اداری 1991
 
-The Czech lustration process created an independent commission with access to StB archives, enabling evidence-based individual assessment rather than categorical exclusion. Approximately 400,000 individuals were screened between 1991-1996. The false positive rate remained a persistent concern — the StB maintained files on individuals without their knowledge or consent, and some files were fabricated or inaccurate.
+چکسلواکی (و پس از سال 1993، جمهوری چک) قانون تسلیم بزرگ (قانون شماره 451/1991) را تصویب کردند که افراد را به دلیل همکاری با StB (پلیس مخفی) و برای داشتن پست های ارشد حزب کمونیست بررسی می کند. این قانون، همکاران شناسایی شده را از مناصب عمومی مشخص به مدت پنج سال (بعد تمدید شد) منع کرد. از همه مهمتر، رویکرد چک مورد هدف قرار گرفت: به جای عضویت در حزب، بر مقوله‌های خاصی از همکاری (عامل‌ها، اطلاع‌رسانان، همکاران آگاه) متمرکز بود. از حدود 1.7 میلیون عضو حزب کمونیست، فقط آنهایی که در نقش های ارشد تعریف شده یا دارای پرونده های مستند همکاری StB بودند با محدودیت مواجه شدند.
 
-The Czech approach preserved state capacity because it did not target the broad base of party membership that staffed technical and administrative functions. The economy continued its transformation under officials who had held Communist-era positions but were not implicated in repressive activities. However, critics argued that the process was too narrow, allowing significant numbers of former regime collaborators to retain influence in the privatization process and judiciary.
+فرآیند پاکسازی اداری چک یک کمیسیون مستقل با دسترسی به آرشیوهای StB ایجاد کرد که ارزیابی فردی مبتنی بر شواهد را به جای حذف طبقه‌بندی ممکن می‌سازد. تقریباً 400000 نفر بین سالهای 1991-1996 غربالگری شدند. نرخ مثبت کاذب همچنان یک نگرانی دائمی باقی مانده است - StB فایل‌های افراد را بدون اطلاع یا رضایت آنها نگهداری می‌کند و برخی از فایل‌ها ساختگی یا نادرست بودند.
 
-POLAND: LIMITED LUSTRATION (1997-2007)
+رویکرد چک ظرفیت دولتی را حفظ کرد زیرا پایه گسترده عضویت حزب را که کارکردهای فنی و اداری را تشکیل می داد هدف قرار نداد. اقتصاد به دگرگونی خود در زمان مقاماتی ادامه داد که در دوران کمونیستی مناصب بودند اما در فعالیت های سرکوبگرانه دخالت نداشتند. با این حال، منتقدان استدلال کردند که این روند بسیار محدود است و به تعداد قابل توجهی از همدستان رژیم سابق اجازه می دهد تا نفوذ خود را در روند خصوصی سازی و قوه قضاییه حفظ کنند.
 
-Poland adopted the most restrained approach among Central European cases. The 1997 Lustration Law required public officials to submit declarations regarding past collaboration with communist-era security services. The process was declaratory rather than exclusionary — the primary sanction was for lying about one's past rather than for the collaboration itself. Officials who truthfully disclosed collaboration could retain their positions; those who lied faced removal.
+لهستان: پاکسازی اداری محدود (1997-2007)
 
-This approach reflected Poland's negotiated transition (the Round Table Agreements of 1989) and the practical reality that the Solidarity movement included former Party members. The result was maximal preservation of state capacity and institutional continuity, but at the cost of incomplete accountability. Many former security service personnel transitioned into the new state apparatus and private sector. The 2007 amendment under the Law and Justice (PiS) government attempted to broaden lustration, but the Constitutional Tribunal struck down key provisions as disproportionate.
+لهستان محدودترین رویکرد را در میان پرونده های اروپای مرکزی اتخاذ کرد. قانون پاکسازی اداری در سال 1997 مقامات دولتی را ملزم به ارائه اظهارنامه در مورد همکاری های گذشته با سرویس های امنیتی دوران کمونیستی می کرد. این روند به جای انحصار، اعلامی بود - تحریم اولیه برای دروغ گفتن در مورد گذشته بود تا برای خود همکاری. مقاماتی که به درستی همکاری را فاش کردند، می توانند موقعیت خود را حفظ کنند. کسانی که دروغ گفتند با حذف مواجه شدند.
 
-SOUTH AFRICA: TRUTH AND RECONCILIATION COMMISSION (1996-2002)
+این رویکرد منعکس کننده گذار مذاکره لهستان (توافقات میزگرد 1989) و واقعیت عملی بود که جنبش همبستگی شامل اعضای سابق حزب می شد. نتیجه حفظ حداکثر ظرفیت دولت و تداوم نهادی بود، اما به قیمت پاسخگویی ناقص. بسیاری از پرسنل سابق خدمات امنیتی به دستگاه دولتی جدید و بخش خصوصی منتقل شدند. اصلاحیه سال 2007 بر اساس دولت قانون و عدالت (PiS) تلاش کرد تا تضعیف را گسترش دهد، اما دادگاه قانون اساسی مقررات کلیدی را به عنوان نامتناسب رد کرد.
 
-South Africa's TRC offered conditional amnesty in exchange for full public disclosure of politically motivated acts committed between 1960-1994. The process prioritized truth-telling over punishment and explicitly chose reconciliation over lustration. Of approximately 7,112 amnesty applications, 1,146 were granted. The security forces were not dissolved or purged; instead, the South African National Defence Force integrated former combatants from multiple armed factions.
+آفریقای جنوبی: کمیسیون حقیقت و آشتی (1996-2002)
 
-The TRC's relevance to the IRGC case lies in its treatment of economic crimes (largely excluded from the amnesty process) and its demonstration that security sector integration — rather than dissolution — can function when combined with sufficient political legitimacy. However, the South African model depended on a negotiated transition with genuine buy-in from the outgoing regime, a condition that may not apply to all Iran scenarios.
+کمیسیون حقیقت‌یابی و آشتی آفریقای جنوبی عفو مشروط را در ازای افشای عمومی کامل اعمال با انگیزه سیاسی انجام شده بین سال‌های 1960-1994 پیشنهاد داد. این روند حقیقت گفتن را بر مجازات اولویت داد و آشتی را به جای تسلیم شدن برگزید. از حدود 7112 درخواست عفو، 1146 مورد موافقت قرار گرفت. نیروهای امنیتی منحل یا پاکسازی نشدند. در عوض، نیروی دفاع ملی آفریقای جنوبی، رزمندگان سابق را از چندین جناح مسلح ادغام کرد.
 
-## Cross-Country Patterns
+ارتباط کمیسیون حقیقت‌یابی و آشتی با پرونده سپاه پاسداران انقلاب اسلامی در رفتار آن با جرایم اقتصادی (که عمدتاً از روند عفو حذف شده اند) و نشان دادن آن است که ادغام بخش امنیتی - به جای انحلال - زمانی که با مشروعیت سیاسی کافی ترکیب شود می تواند عمل کند. با این حال، مدل آفریقای جنوبی به یک انتقال با مذاکره با خرید واقعی از رژیم خروجی بستگی داشت، شرطی که ممکن است برای همه سناریوهای ایران صدق نکند.
 
-> 🟢 **Evidence Confidence: High** — Patterns derived from well-documented outcomes across four distinct cases with convergent findings in the comparative transitional justice literature. | 📎 **Source Alignment: 🟢 Strong** (80%)
+## الگوهای بین کشوری
 
-Cross-case analysis reveals five recurring patterns in post-authoritarian personnel vetting:
+> **اعتماد به شواهد: بالا** - الگوهای به دست آمده از نتایج مستند در چهار مورد مجزا با یافته های همگرا در ادبیات عدالت انتقالی مقایسه ای. | 📎 **همترازی منبع: قوی** (80%)
 
-PATTERN 1: THE BREADTH-STABILITY TRADEOFF
-Across all four cases, the breadth of the vetting process inversely correlates with post-transition institutional stability. Iraq's comprehensive approach (dissolving entire institutions) produced the most severe destabilization. The Czech targeted approach (screening individuals within preserved institutions) maintained stability while achieving meaningful accountability. Poland's minimal approach maximized stability but produced the least accountability. The evidence consistently shows that institutional dissolution is categorically more destabilizing than individual vetting within preserved structures.
+تحلیل موردی متقاطع پنج الگوی تکرار شونده را در بررسی پرسنل پس از اقتدار نشان می دهد:
 
-Quantitative indicator: Iraq experienced state capacity collapse within 6 months of Orders 1 and 2. The Czech Republic maintained continuous state function throughout lustration. Poland experienced no measurable disruption to state services.
+الگوی 1: معاوضه عرض-ثبات
+در هر چهار مورد، گستردگی فرآیند بررسی با ثبات نهادی پس از انتقال رابطه معکوس دارد. رویکرد جامع عراق (انحلال کل نهادها) شدیدترین بی ثباتی را ایجاد کرد. رویکرد هدفمند چک (غربالگری افراد در موسسات حفاظت شده) ثبات را حفظ کرد و در عین حال به پاسخگویی معنادار دست یافت. رویکرد حداقلی لهستان ثبات را به حداکثر رساند اما کمترین مسئولیت را ایجاد کرد. شواهد به طور مداوم نشان می دهد که انحلال نهادی به طور قطعی بی ثبات کننده تر از بررسی فردی در ساختارهای حفظ شده است.
 
-PATTERN 2: THE ECONOMIC SAFETY NET IMPERATIVE
-In every case where personnel vetting removed economic livelihoods without alternative provision, affected populations became recruitment pools for organized resistance or criminal networks. Iraq is the primary example: the simultaneous elimination of employment and pensions created conditions for insurgent recruitment. Conversely, in cases where pension continuity or retraining programs accompanied vetting (elements of the Czech and Polish approaches), organized resistance by affected personnel did not materialize at scale.
+شاخص کمی: عراق ظرف 6 ماه از دستورات 1 و 2 سقوط ظرفیت دولتی را تجربه کرد. لهستان هیچ اختلال قابل اندازه گیری در خدمات دولتی را تجربه نکرد.
 
-PATTERN 3: THE POLITICIZATION TRAJECTORY
-Personnel vetting processes that begin as technocratic exercises consistently become politicized instruments within 12-24 months. Iraq's transfer of de-Ba'athification authority to Chalabi's commission exemplifies this. Czech lustration faced persistent allegations of political weaponization against opposition figures. The pattern suggests that any vetting framework must include institutional safeguards — independent oversight, judicial review, sunset clauses — designed to resist politicization from the outset.
+الگوی 2: شبکه ایمنی اقتصادی ضروری است
+در هر موردی که بررسی پرسنل معیشت اقتصادی را بدون تدارک جایگزین حذف می‌کرد، جمعیت‌های آسیب‌دیده به پایگاه‌های استخدام برای مقاومت سازمان‌یافته یا شبکه‌های جنایتکار تبدیل شدند. عراق نمونه اولیه است: حذف همزمان اشتغال و حقوق بازنشستگی شرایطی را برای جذب شورشیان ایجاد کرد. برعکس، در مواردی که تداوم بازنشستگی یا برنامه‌های بازآموزی با بررسی (عناصر رویکردهای چک و لهستان) همراه بود، مقاومت سازمان‌یافته توسط پرسنل آسیب‌دیده در مقیاس محقق نشد.
 
-PATTERN 4: THE ARCHIVE DEPENDENCY
-Effective individual vetting requires functioning archives documenting individual conduct. The Czech process succeeded partly because StB archives survived the transition largely intact. Iraq's Ba'ath Party archives were partially destroyed during the 2003 invasion, complicating individual assessment. Poland's reliance on self-declaration reflected archive limitations. For the IRGC case, the status of IRGC personnel records, VAJA (intelligence) files, and internal disciplinary records will be a critical determinant of whether individual vetting is feasible.
+الگوی 3: مسیر سیاسی شدن
+فرآیندهای بررسی پرسنل که به عنوان تمرین های تکنوکراتیک آغاز می شوند، به طور مداوم در عرض 12 تا 24 ماه به ابزار سیاسی تبدیل می شوند. واگذاری اختیارات بعثت زدایی عراق به کمیسیون چلبی نمونه ای از این امر است. پاکسازی اداری چک با اتهامات مداوم در مورد سلاح سیاسی علیه شخصیت های مخالف مواجه بود. این الگو نشان می‌دهد که هر چارچوب بررسی باید شامل پادمان‌های سازمانی باشد - نظارت مستقل، بررسی قضایی، بندهای غروب آفتاب - که برای مقاومت در برابر سیاسی‌سازی از ابتدا طراحی شده‌اند.
 
-PATTERN 5: THE GENERATIONAL GRADIENT
-All four cases show that vetting severity correlates with the age/seniority of affected personnel. Senior leadership faces the strongest case for exclusion (documented decision-making authority for repressive acts). Mid-level technical cadres present the most complex cases (institutional knowledge essential for continuity, but varying degrees of complicity). Junior personnel and conscripts are consistently the weakest candidates for exclusion (limited agency, highest reintegration potential). This gradient maps naturally onto a tiered vetting framework.
+الگوی 4: وابستگی به آرشیو
+بررسی مؤثر فردی مستلزم بایگانی های فعال است که رفتار فردی را مستند کند. فرآیند چک تا حدودی به این دلیل موفق شد که آرشیوهای StB تا حد زیادی دست نخورده از این انتقال جان سالم به در بردند. آرشیو حزب بعث عراق در طول تهاجم سال 2003 تا حدی از بین رفت و ارزیابی فردی را پیچیده کرد. اتکای لهستان به خوداظهاری منعکس کننده محدودیت های آرشیو بود. برای پرونده سپاه، وضعیت سوابق کارکنان سپاه، پرونده‌های واجا (اطلاعات) و سوابق انضباطی داخلی تعیین‌کننده‌ای تعیین‌کننده برای امکان‌پذیر بودن بازرسی فردی خواهد بود.
 
-> 🟢 **Evidence Confidence: High** — Mechanisms identified from well-documented causal chains in Iraq and cross-validated against Central European cases. The economic conglomerate dimension draws on emerging IRGC-specific scholarship. | 📎 **Source Alignment: 🟢 Strong** (79%)
+الگوی 5: شیب نسلی
+هر چهار مورد نشان می دهد که شدت بررسی با سن / ارشدیت پرسنل آسیب دیده مرتبط است. رهبری ارشد با قوی ترین مورد برای طرد شدن (اقتدار تصمیم گیری مستند برای اعمال سرکوبگرانه) مواجه است. کادر فنی سطح متوسط ​​پیچیده ترین موارد را ارائه می دهند (دانش نهادی برای تداوم ضروری است، اما درجات مختلفی از همدستی). پرسنل جوان و سربازان وظیفه به طور مداوم ضعیف ترین کاندیداها برای حذف هستند (کارگزاری محدود، بالاترین پتانسیل ادغام مجدد). این گرادیان به طور طبیعی بر روی یک چارچوب بررسی سطحی نگاشت می شود.
 
-Six causal mechanisms link personnel vetting design to post-transition outcomes:
+> **اعتماد به شواهد: بالا** - مکانیسم های شناسایی شده از زنجیره های علّی مستند در عراق و تأیید متقابل در برابر موارد اروپای مرکزی. بعد کنگلومرای اقتصادی از بورسیه های نوظهور ویژه سپاه است. | 📎 **همسویی منبع: قوی** (79%)
 
-MECHANISM 1: CATEGORICAL vs. INDIVIDUAL EXCLUSION
-Categorical exclusion (barring all members of a defined group) triggers collective threat perception and organized resistance. When Iraq's CPA dissolved the entire army, it transformed 385,000 individuals from potential stakeholders in the new order into a cohesive opposition with shared grievance, military skills, and weapons access. Individual vetting (assessing each person's specific conduct) fragments the affected population into those cleared and those excluded, preventing collective mobilization. The Czech screening process processed 400,000 individuals but excluded a much smaller subset, preventing the formation of a unified opposition bloc.
+شش مکانیسم علّی، طراحی بررسی پرسنل را به نتایج پس از انتقال مرتبط می‌کند:
 
-The mechanism operates through identity consolidation: categorical exclusion creates a shared identity among the excluded ("we are all being punished"), while individual vetting forces each person to focus on their own case rather than collective action.
+مکانیسم 1: حذف مقوله ای در مقابل انفرادی
+طرد طبقه بندی شده (ممنوع از همه اعضای یک گروه تعریف شده) باعث ادراک تهدید جمعی و مقاومت سازمان یافته می شود. هنگامی که CPA عراق کل ارتش را منحل کرد، 385000 نفر را از ذینفعان بالقوه در نظم جدید به یک اپوزیسیون منسجم با نارضایتی مشترک، مهارت های نظامی و دسترسی به سلاح تبدیل کرد. بررسی انفرادی (ارزیابی رفتار خاص هر فرد) جمعیت آسیب دیده را به افراد پاکسازی شده و حذف شده تقسیم می کند و از بسیج جمعی جلوگیری می کند. فرآیند غربالگری چک 400000 نفر را پردازش کرد، اما زیرمجموعه بسیار کوچک‌تری را حذف کرد و از تشکیل یک بلوک مخالف متحد جلوگیری کرد.
 
-MECHANISM 2: PENSION CONTINUITY AS COUNTERINSURGENCY
-The decision to maintain or sever pension obligations functions as a de facto counterinsurgency tool. Continued pension payments maintain an economic relationship between the new state and former regime personnel, creating a material incentive for non-resistance. Iraq's Order 2 explicitly terminated pension entitlements, eliminating the state's primary economic leverage over demobilized military personnel. The mechanism is straightforward: individuals with a guaranteed income stream from the state have a calculable cost to rebellion (loss of pension) that individuals with no income do not.
+این مکانیسم از طریق تثبیت هویت عمل می‌کند: طرد مقوله‌ای، هویت مشترکی را در میان طردشدگان ایجاد می‌کند ("همه ما مجازات می‌شویم")، در حالی که بررسی فردی هر فرد را مجبور می‌کند تا به جای اقدام جمعی، روی پرونده خود تمرکز کند.
 
-MECHANISM 3: INSTITUTIONAL HOLLOWING
-When vetting removes personnel above a critical threshold within any given institution, the institution loses the capacity to perform its core function — regardless of whether the institution itself is formally preserved. Iraq's education and health sectors demonstrate this: even where schools and hospitals were not destroyed, the removal of senior administrators, experienced teachers, and physicians rendered them non-functional. The critical threshold appears to be approximately 15-25% of senior/mid-level personnel removed simultaneously, based on Iraqi sectoral data.
+مکانیسم 2: تداوم بازنشستگی به عنوان ضد شورش
+تصمیم برای حفظ یا قطع تعهدات بازنشستگی به عنوان یک ابزار ضد شورش عملی عمل می کند. پرداخت مستمری بازنشستگی رابطه اقتصادی بین دولت جدید و پرسنل رژیم سابق را حفظ می کند و انگیزه مادی برای عدم مقاومت ایجاد می کند. دستور 2 عراق صراحتاً حقوق بازنشستگی را خاتمه داد و اهرم اقتصادی اولیه دولت را بر پرسنل نظامی از کار افتاده حذف کرد. مکانیسم ساده است: افرادی که جریان درآمد تضمین شده ای از دولت دارند هزینه قابل محاسبه ای برای شورش (از دست دادن حقوق بازنشستگی) دارند که افراد بدون درآمد ندارند.
 
-MECHANISM 4: THE SPOILER CONVERSION PATHWAY
-Personnel from the former regime can become spoilers (actively undermining the transition), bystanders (passively disengaging), or stakeholders (actively participating in the new order). The vetting framework determines which pathway predominates. Comprehensive exclusion maximizes spoiler conversion. Targeted vetting with reintegration pathways maximizes stakeholder conversion. The Czech model demonstrates that even individuals screened and found to have collaborated could become functional participants in the new system when the process was perceived as fair and evidence-based.
+مکانیسم 3: توخالی نهادی
+هنگامی که بررسی، پرسنل بالاتر از یک آستانه بحرانی را در هر مؤسسه ای حذف می کند، مؤسسه ظرفیت انجام وظیفه اصلی خود را از دست می دهد - صرف نظر از اینکه خود مؤسسه به طور رسمی حفظ می شود یا خیر. بخش‌های آموزشی و بهداشتی عراق این را نشان می‌دهد: حتی در جایی که مدارس و بیمارستان‌ها ویران نشدند، برکناری مدیران ارشد، معلمان با تجربه و پزشکان آنها را ناکارآمد کرد. به نظر می رسد آستانه بحرانی تقریباً 15 تا 25 درصد از پرسنل ارشد/میانگین بر اساس داده های بخشی عراق حذف شده است.
 
-MECHANISM 5: SECTORAL SEQUENCING EFFECTS
-The order in which different sectors undergo vetting produces compounding effects. Iraq vetted the security sector and civil service simultaneously, creating cascading institutional failures. Evidence from the Czech and Polish cases suggests that sequencing — addressing the security/intelligence sector first, then the judiciary, then the civil service, with each phase informed by the previous — produces better outcomes because lessons from early phases can be incorporated and because the state retains some functional sectors while others undergo transition.
+مکانیسم 4: مسیر تبدیل اسپویلر
+پرسنل رژیم سابق می توانند به خرابکار تبدیل شوند (تضعیف کننده فعالانه گذار)، نظاره گر (غیر فعالانه) یا سهامداران (که فعالانه در نظم جدید شرکت می کنند). چارچوب بررسی تعیین می کند که کدام مسیر غالب است. حذف جامع تبدیل اسپویلر را به حداکثر می‌رساند. بررسی هدفمند با مسیرهای ادغام مجدد، تبدیل سهامداران را به حداکثر می رساند. مدل چک نشان می‌دهد که حتی افرادی که غربال‌گری می‌شوند و مشخص می‌شود که با هم همکاری کرده‌اند، می‌توانند زمانی که فرآیند منصفانه و مبتنی بر شواهد تلقی می‌شود، در سیستم جدید شرکت کنند.
 
-MECHANISM 6: THE ECONOMIC CONGLOMERATE DIMENSION
-This mechanism is unique to cases where the security establishment controls significant economic assets (the IRGC case). When the entity being vetted also controls economic infrastructure — factories, construction firms, import/export monopolies — personnel vetting intersects with economic restructuring. Iraq's experience shows that dissolving military-economic entities without a plan for asset disposition creates black markets, asset stripping, and criminal networks that exploit the institutional vacuum. The IRGC's estimated control of 15-25% of Iranian GDP makes this mechanism potentially the most consequential for Iran's case.
+مکانیسم 5: اثرات توالی بخشی
+ترتیبی که بخش های مختلف تحت بررسی قرار می گیرند، اثرات ترکیبی ایجاد می کند. عراق بخش امنیتی و خدمات ملکی را به طور همزمان بررسی کرد و باعث ایجاد شکست های سازمانی شد. شواهد به دست آمده از پرونده‌های چک و لهستان نشان می‌دهد که توالی‌یابی - ابتدا به بخش امنیتی/اطلاعاتی، سپس قوه قضائیه، سپس خدمات ملکی، با اطلاع قبلی از هر مرحله - نتایج بهتری را به همراه دارد زیرا می‌توان درس‌های مراحل اولیه را گنجاند و به این دلیل که دولت برخی از بخش‌های عملکردی را حفظ می‌کند در حالی که برخی دیگر در حال گذار هستند.
 
-## Implications for Iran
+مکانیسم 6: ابعاد کنگلومرای اقتصادی
+این سازوکار منحصر به مواردی است که نهاد امنیتی دارایی های اقتصادی قابل توجهی را کنترل می کند (مورد سپاه). زمانی که واحد مورد بررسی زیرساخت‌های اقتصادی - کارخانه‌ها، شرکت‌های ساختمانی، انحصارات واردات/صادرات - را نیز کنترل می‌کند، بررسی پرسنل با تجدید ساختار اقتصادی تلاقی می‌کند. تجربه عراق نشان می دهد که انحلال نهادهای نظامی-اقتصادی بدون برنامه ریزی برای واگذاری دارایی ها، بازارهای سیاه، سلب دارایی ها و شبکه های جنایی را ایجاد می کند که از خلاء نهادی سوء استفاده می کنند. کنترل تخمینی سپاه پاسداران بر 15 تا 25 درصد تولید ناخالص داخلی ایران، این مکانیسم را به طور بالقوه بیشترین تأثیر را در مورد ایران دارد.
 
-> 🟢 **Evidence Confidence: High** — Iran implications derived directly from documented comparative outcomes. Three-tier framework is an evidence-based design, not advocacy. Transferability caveats are explicit. | 📎 **Source Alignment: 🟢 Strong** (79%)
+## پیامدها برای ایران
 
-APPLYING COMPARATIVE EVIDENCE TO IRGC PERSONNEL MANAGEMENT
+> **اعتماد به شواهد: بالا** - مفاهیم ایران مستقیماً از نتایج مقایسه ای مستند به دست آمده است. چارچوب سه لایه یک طراحی مبتنی بر شواهد است، نه حمایت. هشدارهای قابل انتقال صریح است. | 📎 **همسویی منبع: قوی** (79%)
 
-The IRGC presents the most complex personnel vetting challenge in modern transition history, exceeding Iraq's Ba'ath Party case in three dimensions: scale, institutional multifunctionality, and economic entrenchment. Comparative evidence strongly indicates what approaches would fail and provides conditional guidance on what might succeed.
+اعمال شواهد تطبیقی برای مدیریت کارکنان سپاه
 
-WHAT THE EVIDENCE RULES OUT:
+سپاه پاسداران انقلاب اسلامی پیچیده‌ترین چالش بررسی پرسنل را در تاریخ گذار مدرن ارائه می‌کند، که در سه بعد از مورد حزب بعث عراق فراتر رفته است: مقیاس، چند کارکردی نهادی، و استحکام اقتصادی. شواهد مقایسه ای قویاً نشان می دهد که چه رویکردهایی شکست خواهند خورد و راهنمایی مشروط در مورد آنچه ممکن است موفق شوند ارائه می دهد.
 
-1. Comprehensive dissolution (the Iraq CPA model) would be catastrophic. Dissolving the IRGC outright — analogous to CPA Order 2 — would simultaneously create 500,000-700,000 unemployed military-trained personnel, collapse infrastructure and construction sectors dependent on IRGC-affiliated firms (Khatam al-Anbiya Construction Headquarters alone employs tens of thousands), sever social welfare networks that serve IRGC families and veterans, and eliminate institutional knowledge essential for national defense during a period of maximum vulnerability. The Iraqi precedent demonstrates that this approach converts a manageable personnel challenge into an existential security crisis.
+آنچه شواهد حاکی از آن است:
 
-2. Blanket membership-based exclusion would replicate Iraq's worst mistake. Many Basij members (the IRGC's volunteer militia network, numbering in the millions) joined for economic benefits, educational access, or social pressure rather than ideological commitment — precisely the dynamic that made Iraq's tier-based Ba'ath membership exclusion so counterproductive.
+1. انحلال همه جانبه (مدل CPA عراق) فاجعه بار خواهد بود. انحلال کامل سپاه - مشابه دستور 2 CPA - به طور همزمان 500000 تا 700000 پرسنل آموزش دیده نظامی بیکار ایجاد می کند، زیرساخت ها و بخش های ساختمانی وابسته به شرکت های وابسته به سپاه را فرو می ریزد. شبکه‌هایی که به خانواده‌ها و جانبازان سپاه خدمت می‌کنند و دانش نهادی ضروری برای دفاع ملی را در یک دوره حداکثر آسیب‌پذیری حذف می‌کنند. سابقه عراق نشان می دهد که این رویکرد یک چالش پرسنل قابل مدیریت را به یک بحران امنیتی وجودی تبدیل می کند.
 
-A THREE-TIER VETTING FRAMEWORK:
+2. حذف کامل بر اساس عضویت، بدترین اشتباه عراق را تکرار خواهد کرد. بسیاری از اعضای بسیج (شبکه شبه نظامی داوطلب سپاه پاسداران انقلاب اسلامی، که تعداد آنها به میلیون ها نفر می رسد) برای منافع اقتصادی، دسترسی تحصیلی، یا فشار اجتماعی به جای تعهد ایدئولوژیک به آن پیوستند - دقیقاً پویایی که محرومیت از عضویت در بعث عراق را تا این حد معکوس کرد.
 
-Based on comparative evidence, a credible approach for the IRGC would involve three tiers:
+یک چارچوب بررسی سه لایه:
 
-Tier 1 — Command Exclusion (estimated 2,000-5,000 individuals): Senior IRGC commanders, IRGC Intelligence Organization leadership, Quds Force operational commanders, and senior VAJA officials with documented authority over repressive operations. This tier maps to the Czech approach of targeting those with documented decision-making authority. These individuals would face exclusion from public office and security positions, with cases potentially referred to a transitional justice mechanism. The key requirement is individual documentation of specific decisions or orders — not rank alone.
+بر اساس شواهد تطبیقی، یک رویکرد معتبر برای سپاه شامل سه سطح است:
 
-Tier 2 — Vetting with Conditional Reintegration (estimated 50,000-100,000 individuals): Mid-ranking officers, intelligence operatives, and personnel in units with documented human rights violations (certain Basij enforcement units, cyber surveillance units, prison administration). This tier would undergo individual screening modeled on the Czech lustration process, with outcomes ranging from clearance to restricted employment to referral for further investigation. Conditional reintegration would include retraining programs and, critically, pension continuity.
+رده 1 - طرد فرماندهی (تخمین زده شده بین 2000 تا 5000 نفر): فرماندهان ارشد سپاه، رهبری سازمان اطلاعات سپاه، فرماندهان عملیاتی نیروی قدس و مقامات ارشد واجا با اختیارات مستند بر عملیات سرکوبگرانه. این ردیف با رویکرد چک در مورد هدف قرار دادن افرادی که دارای اختیارات تصمیم گیری مستند هستند، مطابقت دارد. این افراد با محرومیت از مناصب دولتی و مناصب امنیتی مواجه خواهند شد و مواردی که به طور بالقوه به یک مکانیسم عدالت انتقالی ارجاع می شود. شرط اصلی، مستندات فردی تصمیمات یا دستورات خاص است - نه رتبه به تنهایی.
 
-Tier 3 — Automatic Reintegration (estimated 400,000-550,000 individuals): Conscripts, junior enlisted personnel, technical specialists (engineers, logistics, medical), and Basij members without documented involvement in repressive activities. This tier would face no vetting burden and would be eligible for integration into reformed national defense structures or civilian employment programs. This approach preserves the bulk of institutional human capital while satisfying the accountability imperative for those with genuine decision-making authority.
+مرحله 2 - بررسی با ادغام مجدد مشروط (تخمین زده شده 50000-100000 نفر): افسران رده متوسط، ماموران اطلاعاتی و پرسنل واحدهایی با نقض مستند حقوق بشر (برخی واحدهای اجرای بسیج، واحدهای نظارت سایبری، اداره زندان). این سطح تحت غربالگری فردی با الگوبرداری از فرآیند پاکسازی اداری چک قرار می گیرد، با نتایجی از ترخیص تا استخدام محدود تا ارجاع برای تحقیقات بیشتر. ادغام مجدد مشروط شامل برنامه های بازآموزی و به طور بحرانی، تداوم بازنشستگی است.
 
-THE ECONOMIC DIMENSION:
+رده 3 - ادغام مجدد خودکار (تخمین زده شده 400000-550000 نفر): سربازان وظیفه، سربازان جوان، متخصصان فنی (مهندس، تدارکات، پزشکی)، و اعضای بسیج بدون دخالت مستند در فعالیت های سرکوبگر. این رده با بار بررسی مواجه نخواهد شد و واجد شرایط ادغام در ساختارهای دفاع ملی اصلاح شده یا برنامه های اشتغال غیرنظامی خواهد بود. این رویکرد بخش عمده ای از سرمایه انسانی نهادی را حفظ می کند و در عین حال الزام پاسخگویی را برای کسانی که دارای اختیارات واقعی تصمیم گیری هستند را برآورده می کند.
 
-The IRGC's economic empire — spanning construction, telecommunications, energy, banking, and import/export — has no direct parallel in the Iraqi case (Iraq's military-industrial complex was smaller relative to GDP and less diversified). The closest comparator may be the Soviet-to-Russian economic transition, where the failure to manage state asset disposition enabled oligarchic capture. Czech voucher privatization offers a partial model for managed divestiture, though its vulnerability to asset concentration by investment funds is a cautionary element.
+بعد اقتصادی:
 
-Any vetting framework must address the reality that IRGC commanders' economic interests constitute potential leverage in ceasefire and transition negotiations. The April 2026 Islamabad talks may already reflect this dynamic — IRGC economic interests in post-conflict reconstruction could incentivize cooperation with a transition process that protects commercial assets while removing political and military authority. This is structurally analogous to the South African model, where ANC/Afrikaner economic accommodation facilitated political transition.
+امپراتوری اقتصادی سپاه - که شامل ساخت و ساز، مخابرات، انرژی، بانکداری، و واردات/صادرات می‌شود- هیچ شباهتی مستقیم در مورد عراق ندارد (مجموعه صنعتی-نظامی عراق نسبت به تولید ناخالص داخلی کوچک‌تر و تنوع کمتری داشت). نزدیکترین مقایسه ممکن است گذار اقتصادی شوروی به روسیه باشد، جایی که شکست در مدیریت وضعیت دارایی های دولتی باعث تسخیر الیگارشی شد. خصوصی‌سازی کوپن چک مدلی جزئی برای واگذاری مدیریت شده ارائه می‌کند، اگرچه آسیب‌پذیری آن در برابر تمرکز دارایی‌ها توسط صندوق‌های سرمایه‌گذاری یک عنصر احتیاطی است.
 
-CRITICAL TIMELINE CONSIDERATIONS:
+هر چارچوب بررسی باید به این واقعیت توجه کند که منافع اقتصادی فرماندهان سپاه اهرم بالقوه در مذاکرات آتش بس و انتقال است. مذاکرات آوریل 2026 اسلام آباد ممکن است منعکس کننده این پویایی باشد - منافع اقتصادی سپاه پاسداران انقلاب اسلامی در بازسازی پس از جنگ می تواند مشوق همکاری با فرآیند گذار باشد که از دارایی های تجاری محافظت می کند و در عین حال قدرت سیاسی و نظامی را حذف می کند. این از نظر ساختاری مشابه مدل آفریقای جنوبی است، جایی که انطباق اقتصادی ANC/Afrikaner انتقال سیاسی را تسهیل کرد.
 
-Iraq's experience demonstrates that the first 90 days of a transition determine whether the vetting process stabilizes or destabilizes. The Czech model took 5+ years for full implementation. Iran's vetting process would likely require a minimum of 3-5 years for Tiers 1 and 2, with Tier 3 resolved within the first year through blanket reintegration. The current military conflict complicates timing — vetting cannot realistically begin until a durable ceasefire is established and a transitional authority with sufficient legitimacy is in place.
+ملاحظات مهم جدول زمانی:
 
-TRANSFERABILITY ASSESSMENT:
+تجربه عراق نشان می دهد که 90 روز اول انتقال تعیین می کند که آیا روند بررسی تثبیت می شود یا بی ثبات می شود. اجرای کامل مدل چک 5+ سال طول کشید. روند بررسی ایران احتمالاً به حداقل 3 تا 5 سال برای ردیف های 1 و 2 نیاز دارد و ردیف 3 در سال اول از طریق ادغام مجدد کامل حل می شود. درگیری نظامی کنونی زمان‌بندی را پیچیده می‌کند - تا زمانی که یک آتش‌بس پایدار برقرار نشود و یک مرجع انتقالی با مشروعیت کافی وجود نداشته باشد، بررسی واقعی نمی‌تواند آغاز شود.
 
-High transferability from comparative evidence: the breadth-stability tradeoff, pension continuity imperative, and politicization trajectory are robust findings likely to apply to Iran. Moderate transferability: the archive dependency (IRGC record-keeping quality is unknown), sectoral sequencing (Iran's institutional landscape differs from Iraq's). Low transferability: the South African reconciliation model (requires negotiated transition with regime buy-in, which the current military scenario may preclude); Czech lustration timelines (Iran's larger scale and more complex institutional landscape may require longer).
+ارزیابی قابلیت انتقال:
 
-## What We Don't Know
+قابلیت انتقال بالا از شواهد مقایسه ای: مبادله ثبات وسعت، الزام تداوم حقوق بازنشستگی، و مسیر سیاسی شدن یافته های قوی ای هستند که احتمالاً در ایران کاربرد دارند. قابلیت انتقال متوسط: وابستگی بایگانی (کیفیت ثبت سوابق سپاه ناشناخته است)، توالی بخشی (چشم انداز سازمانی ایران با عراق متفاوت است). قابلیت انتقال کم: مدل آشتی آفریقای جنوبی (نیازمند انتقال با مذاکره با خرید رژیم است، که سناریوی نظامی کنونی ممکن است مانع از آن شود). جدول زمانی پاکسازی اداری چک (مقیاس بزرگتر و چشم انداز سازمانی پیچیده تر ایران ممکن است به زمان بیشتری نیاز داشته باشد).
 
-> 🟡 **Evidence Confidence: Moderate** — Knowledge gaps are inherently about what is not known. The gaps identified are grounded in the analytical framework but their resolution depends on access to classified or non-public information. | 📎 **Source Alignment: 🟡 Moderate** (72%)
+## آنچه ما نمی دانیم
 
-1. IRGC INTERNAL PERSONNEL RECORDS: No open-source evidence confirms the quality, completeness, or accessibility of IRGC personnel files, unit deployment records, or internal disciplinary proceedings. Without this information, the feasibility of individual vetting (as opposed to categorical approaches) cannot be reliably assessed. The Czech lustration process depended critically on surviving StB archives; the IRGC equivalent is unknown.
+> **اعتماد به شواهد: متوسط ** - شکاف های دانش ذاتاً مربوط به چیزهایی است که شناخته نشده است. شکاف های شناسایی شده بر اساس چارچوب تحلیلی است، اما حل آنها به دسترسی به اطلاعات طبقه بندی شده یا غیر عمومی بستگی دارد. | 📎 **همسویی منبع: متوسط ** (72%)
 
-2. BASIJ NETWORK ACTUAL SIZE AND COMPOSITION: Estimates of Basij membership range from 1 million to 11 million, with no reliable independent verification. The vetting framework's Tier 3 category depends on understanding the actual scale and the proportion of members with meaningful operational involvement vs. nominal membership.
+1. سوابق پرسنل داخلی سپاه: هیچ مدرک منبع باز کیفیت، کامل بودن یا دسترسی به پرونده های پرسنل سپاه، سوابق استقرار یگان یا اقدامات انضباطی داخلی را تایید نمی کند. بدون این اطلاعات، امکان بررسی فردی (در مقابل رویکردهای طبقه بندی شده) نمی تواند به طور قابل اعتماد ارزیابی شود. فرآیند پاکسازی اداری چک به شدت به آرشیوهای باقیمانده StB بستگی داشت. معادل سپاه ناشناخته است.
 
-3. ECONOMIC ENTANGLEMENT DEPTH: While IRGC economic control is estimated at 15-25% of GDP, the precise ownership structures, subsidiary networks, and financial flows remain opaque. The degree to which IRGC economic entities can be separated from military command without collapsing the underlying enterprises is unstudied. No comparative case has addressed asset divestiture at this scale from a military organization.
+2. اندازه و ترکیب واقعی شبکه بسیج: تعداد اعضای بسیج از 1 میلیون تا 11 میلیون تخمین زده می شود، بدون تأیید مستقل قابل اعتماد. دسته بندی سطح 3 چارچوب بررسی به درک مقیاس واقعی و نسبت اعضای با مشارکت عملیاتی معنادار در مقابل عضویت اسمی بستگی دارد.
 
-4. REGIONAL PROXY PERSONNEL: The IRGC's transnational network — Lebanese Hezbollah, Iraqi Hashd al-Sha'abi, Yemeni Ansar Allah advisors — creates a vetting challenge with no comparative precedent. De-Ba'athification was a domestic process; de-IRGC-ification would have regional dimensions affecting personnel in multiple countries.
+3. عمق درهم تنیدگی اقتصادی: در حالی که کنترل اقتصادی سپاه 15 تا 25 درصد تولید ناخالص داخلی تخمین زده می شود، ساختارهای مالکیت دقیق، شبکه های فرعی و جریان های مالی مبهم باقی می مانند. میزان جدایی نهادهای اقتصادی سپاه از فرماندهی نظامی بدون فروپاشی بنگاه های زیربنایی مطالعه نشده است. هیچ مورد مقایسه ای به واگذاری دارایی در این مقیاس از یک سازمان نظامی پرداخته است.
 
-5. CONSCRIPTION vs. VOLUNTARY SERVICE DOCUMENTATION: The IRGC includes both career officers and conscripted soldiers. Whether existing records allow reliable differentiation — essential for the three-tier approach — is unknown from open sources.
+4. پرسنل نیابتی منطقه ای: شبکه فراملی سپاه - حزب الله لبنان، حشدالشعبی عراق، مشاوران انصارالله یمن - چالشی را برای بررسی بدون سابقه نسبی ایجاد می کند. بعث زدایی یک فرآیند داخلی بود. حذف سپاه پاسداران دارای ابعاد منطقه ای است که بر پرسنل چندین کشور تأثیر می گذارد.
 
-6. JUDICIAL CAPACITY FOR TRANSITIONAL JUSTICE: None of the comparative cases faced the challenge of conducting vetting while the judiciary itself requires reform. Iran's judiciary under the Islamic Republic has been an instrument of regime repression; its capacity to administer fair vetting processes is questionable, yet building a new judicial infrastructure takes years. This sequencing problem is understudied.
+5. اسناد خدمت اجباری در مقابل خدمات داوطلبانه: سپاه شامل افسران شغلی و سربازان وظیفه می شود. اینکه آیا سوابق موجود اجازه تمایز قابل اعتماد را می دهد - ضروری برای رویکرد سه لایه - از منابع باز ناشناخته است.
 
-7. COMPARATIVE EVIDENCE ON MILITARY-ECONOMIC CONGLOMERATES: The academic literature on lustration/vetting focuses primarily on political parties and security services. There is limited comparative scholarship on vetting processes applied to military organizations that simultaneously function as economic conglomerates. The Pakistan Army's economic holdings (Fauji Foundation, Army Welfare Trust) and Egypt's military economy offer partial parallels but have not undergone vetting processes that could generate comparative evidence.
+6. ظرفیت قضایی برای عدالت انتقالی: هیچ یک از پرونده های مقایسه ای با چالش انجام بازرسی مواجه نشد در حالی که خود قوه قضاییه نیازمند اصلاح است. قوه قضائیه ایران تحت حکومت جمهوری اسلامی ابزار سرکوب رژیم بوده است. ظرفیت آن برای اداره فرآیندهای بازرسی عادلانه مشکوک است، اما ایجاد زیرساخت قضایی جدید سال ها طول می کشد. این مشکل توالی مورد مطالعه قرار نگرفته است.
 
-> 🟢 **Evidence Confidence: High** — Summary accurately reflects the evidence-based analysis without advocacy or speculation. | 📎 **Source Alignment: 🟢 Strong** (80%)
+7. شواهد مقایسه ای در مورد همایش های نظامی-اقتصادی: ادبیات آکادمیک در مورد تسویه حساب/تعیین اعتبار عمدتاً بر احزاب سیاسی و خدمات امنیتی متمرکز است. بورس تحصیلی مقایسه ای محدودی در مورد فرآیندهای بررسی وجود دارد که برای سازمان های نظامی که به طور همزمان به عنوان کنگلومراهای اقتصادی عمل می کنند اعمال می شود. هلدینگ‌های اقتصادی ارتش پاکستان (بنیاد فوجی، اعتماد رفاه ارتش) و اقتصاد نظامی مصر شباهت‌هایی جزئی دارند، اما تحت فرآیندهای بررسی قرار نگرفته‌اند که بتواند شواهد مقایسه‌ای ایجاد کند.
 
-When governments fall, new authorities face an urgent question: what do you do with the people who ran the old system? In Iraq after 2003, the American-led administration chose the most aggressive option — dissolving the entire army and banning the ruling party's top members from government work. The result was a disaster: hundreds of thousands of trained military personnel suddenly had no jobs, no pensions, and no stake in the new system. Many joined the insurgency.
+> **اعتماد به شواهد: بالا** - خلاصه به طور دقیق تجزیه و تحلیل مبتنی بر شواهد را بدون حمایت یا حدس و گمان منعکس می کند. | 📎 **همترازی منبع: قوی** (80%)
 
-Iran's Revolutionary Guards (IRGC) present an even harder version of this problem. With 500,000-700,000 members, the IRGC is not just an army — it runs construction companies, banks, and import businesses controlling perhaps 15-25% of Iran's entire economy. Simply dissolving it, as was done with Iraq's army, would simultaneously create a security crisis, an economic crisis, and a humanitarian crisis.
+هنگامی که دولت ها سقوط می کنند، مقامات جدید با یک سوال فوری روبرو می شوند: با افرادی که سیستم قدیمی را اداره می کردند چه می کنید؟ در عراق پس از سال 2003، دولت تحت رهبری آمریکا تهاجمی ترین گزینه را انتخاب کرد - انحلال کل ارتش و منع اعضای ارشد حزب حاکم از کار دولتی. نتیجه یک فاجعه بود: صدها هزار نفر از پرسنل نظامی آموزش دیده ناگهان نه شغلی داشتند، نه حقوق بازنشستگی داشتند و نه سهمی در سیستم جدید داشتند. بسیاری به شورشیان پیوستند.
 
-Comparative evidence from Iraq, the Czech Republic, Poland, and South Africa suggests a three-tier approach: exclude the top 2,000-5,000 senior commanders from power; individually screen 50,000-100,000 mid-ranking personnel (clearing most, restricting some); and automatically reintegrate the remaining 400,000+ rank-and-file members who were following orders rather than giving them. Critically, the evidence shows that maintaining pension payments and providing retraining programs dramatically reduces the risk that former personnel become active opponents of the new government.
+سپاه پاسداران انقلاب ایران (سپاه پاسداران انقلاب اسلامی) نسخه سخت تری از این مشکل ارائه می دهد. با 500000 تا 700000 عضو، سپاه فقط یک ارتش نیست - شرکت‌های ساختمانی، بانک‌ها و تجارت‌های وارداتی را اداره می‌کند که شاید 15 تا 25 درصد کل اقتصاد ایران را کنترل می‌کنند. صرفاً انحلال آن، همانطور که با ارتش عراق انجام شد، به طور همزمان یک بحران امنیتی، یک بحران اقتصادی و یک بحران انسانی ایجاد می کند.
 
-The biggest lesson from Iraq is what not to do: do not dissolve entire institutions, do not use membership categories as a proxy for individual guilt, and do not eliminate economic lifelines. The Czech Republic's more targeted approach — investigating individuals based on documented conduct rather than membership status — preserved state capacity while still achieving meaningful accountability.
+شواهد مقایسه ای از عراق، جمهوری چک، لهستان و آفریقای جنوبی یک رویکرد سه لایه را نشان می دهد: حذف 2000 تا 5000 فرمانده ارشد از قدرت. 50000 تا 100000 پرسنل رده متوسط ​​را به صورت جداگانه نمایش می دهد (پاک کردن بیشتر، محدود کردن برخی)؛ و به طور خودکار 400000+ اعضای رتبه‌بندی باقی‌مانده را که به جای دادن دستورات، از آنها پیروی می‌کردند، دوباره ادغام کنید. به طور بحرانی، شواهد نشان می دهد که حفظ پرداخت های بازنشستگی و ارائه برنامه های بازآموزی به طور چشمگیری خطر تبدیل شدن پرسنل سابق به مخالفان فعال دولت جدید را کاهش می دهد.
 
-## Sources
+بزرگترین درس از عراق این است که چه کاری را نباید انجام داد: کل مؤسسات را منحل نکنید، از دسته بندی های عضویت به عنوان نماینده ای برای گناهان فردی استفاده نکنید، و خطوط حیات اقتصادی را حذف نکنید. رویکرد هدفمندتر جمهوری چک - تحقیق از افراد بر اساس رفتار مستند به جای وضعیت عضویت - ظرفیت دولت را حفظ کرد و در عین حال به پاسخگویی معنادار دست یافت.
 
-> 🟢 **Evidence Confidence: High** — All listed sources are present in the ITKS database with verified reliability scores. | 📎 **Source Alignment: 🟢 Strong** (76%)
+## منابع
 
-PRIMARY COMPARATIVE SOURCES:
+> **اعتماد به شواهد: بالا** - همه منابع فهرست شده در پایگاه داده ITKS با امتیازهای قابلیت اطمینان تأیید شده وجود دارند. | 📎 **همترازی منبع: قوی** (76%)
 
-Iraq De-Ba'athification:
-- [9742] US Blunders in Iraq: De-Baathification and Disbanding the Army — Primary analysis of CPA Orders 1 and 2 design failures and consequences
-- [9745] What Went Wrong in Iraq — Comprehensive assessment of occupation-phase policy errors including personnel decisions
-- [9743] Constructing a Democratic Iraq — Institutional design challenges in post-invasion governance
-- [9744] Constitution-Making After Conflict: Lessons for Iraq — Constitutional framework for personnel and institutional reform
-- [9758] From Occupation to Counterinsurgency: Political Economy of Post-Conflict Iraq — Economic dimensions of security sector dissolution
-- [9753] Fiasco: American Military Adventure in Iraq — Operational narrative of de-Ba'athification implementation
+منابع مقایسه ای اولیه:
 
-Czech and Polish Lustration:
-- [899] Transitional Justice and Changing Memories in Central Europe — Comparative analysis of Czech and regional lustration processes
-- [4643] Men of Paper: Polish Lustration Law — Analysis of Poland's declaratory lustration model
-- [5552] Transitional Justice in Albania: Lustration Reform — Regional lustration comparison
-- [4592] Transitional Justice and the Problem of Democratic Decline — Long-term effects of lustration on democratic consolidation
+بعث زدایی عراق:
+- [9742] اشتباهات ایالات متحده در عراق: بعث زدایی و انحلال ارتش - تحلیل اولیه شکست ها و پیامدهای طراحی دستورات 1 و 2 CPA
+- [9745] چه اشتباهی در عراق رخ داد - ارزیابی جامع خطاهای سیاست مرحله اشغال شامل تصمیمات پرسنل
+- [9743] ساخت عراق دموکراتیک - چالش های طراحی نهادی در حکومت پس از تهاجم
+- [9744] قانون اساسی پس از درگیری: درس هایی برای عراق - چارچوب قانون اساسی برای پرسنل و اصلاحات نهادی
+- [9758] از اشغال تا ضد شورش: اقتصاد سیاسی عراق پس از جنگ - ابعاد اقتصادی انحلال بخش امنیتی
+- [9753] فیاسکو: ماجراجویی نظامی آمریکا در عراق - روایت عملیاتی اجرای بعثی‌زدایی
 
-Iran-Specific:
-- [2181] Explaining the Economic Control of Iran by the IRGC — Key source for IRGC economic dimensions
-- [1985] Rise of the Subcontractor State: Pseudo-Privatization in Iran — IRGC economic expansion mechanisms
-- [7192] Failure of Western Policies toward Iran's Power Projection — Strategic assessment of IRGC institutional resilience
-- [2160] Political Challenges and Crisis Management in Iran — Governance structures relevant to transition scenarios
-- [2672] Changing Presents: Transitional Justice and the Iranian Revolution — Iran-specific transitional justice analysis
-- [2157] Iranian Democratization: Green Movement — Historical precedent for reform movements
+پاکسازی اداری چک و لهستان:
+- [899] عدالت انتقالی و خاطرات در حال تغییر در اروپای مرکزی - تجزیه و تحلیل تطبیقی فرآیندهای پاکسازی اداری چک و منطقه ای
+- [4643] مردان کاغذ: قانون پاکسازی اداری لهستان - تجزیه و تحلیل مدل پاکسازی اداری اعلامی لهستان
+- [5552] عدالت انتقالی در آلبانی: اصلاحات پاکسازی اداری - مقایسه تضعیف منطقه ای
+- [4592] عدالت انتقالی و مشکل انحطاط دموکراتیک - اثرات بلندمدت تضعیف بر تحکیم دموکراتیک
 
-Libya and Cross-Cutting:
-- [9774] Libya Between Past and Future: Transitional Justice Challenges — Comparative transitional justice in oil-state context
-- [9772] Oil and the Rentier State: Libya's Transition — Economic dimensions of post-authoritarian transition
-- [1474] Transitional Justice, Institutions and Temporality — Theoretical framework for sequencing
-- [10043] Stabilization and Reconstruction in Afghanistan — Security sector challenges in post-conflict reconstruction
+خاص ایران:
+- [2181] تبیین کنترل اقتصادی ایران توسط سپاه - منبع کلیدی برای ابعاد اقتصادی سپاه
+- [1985] ظهور دولت پیمانکار فرعی: خصوصی سازی شبه در ایران - سازوکارهای توسعه اقتصادی سپاه
+- [7192] شکست سیاست های غرب در قبال فرافکنی قدرت ایران - ارزیابی راهبردی تاب آوری نهادی سپاه
+- [2160] چالش های سیاسی و مدیریت بحران در ایران - ساختارهای حاکمیتی مرتبط با سناریوهای گذار
+- [2672] تغییر حالات: عدالت انتقالی و انقلاب ایران - تحلیل عدالت انتقالی خاص ایران
+- [2157] دموکراتیزاسیون ایرانیان: جنبش سبز - سابقه تاریخی برای جنبش های اصلاحی
+
+لیبی و مقطعی:
+- [9774] لیبی بین گذشته و آینده: چالش های عدالت انتقالی - عدالت انتقالی مقایسه ای در زمینه نفت-کشور
+- [9772] نفت و دولت رانتیر: انتقال لیبی - ابعاد اقتصادی گذار پسا استبدادی
+- [1474] عدالت انتقالی، نهادها و موقتی - چارچوب نظری برای توالی
+- [10043] ثبات و بازسازی در افغانستان - چالش های بخش امنیتی در بازسازی پس از جنگ
+
+</div>

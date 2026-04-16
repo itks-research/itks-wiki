@@ -1,6 +1,6 @@
 <div dir="rtl" markdown>
 
-# Party system institutionalization → democratic stability
+# نهادینه‌سازی نظام حزبی ← ثبات دموکراتیک
 
 *ترجمه فارسی در دست تهیه*
 

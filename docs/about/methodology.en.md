@@ -18,7 +18,7 @@ ITKS integrates data from ten major academic and research APIs across English an
 
 **Farsi-language sources:** Magiran (Iran's largest journal aggregator), SID (Iran's national research index), Civilica (Iranian conference proceedings), Noormags (Islamic and humanities scholarship).
 
-**Collection process** begins with research directives—targeted search tasks specifying a case study and category (e.g., "Find sources about military transition in South Korea"). The engine generates multiple search queries, deduplicates against existing records, and stores new sources. The system maintains 10,238+ sources across 15 case studies, including 4 foreign intervention comparators (Iraq, Libya, Afghanistan, Kosovo) added in April 2026 to address the post-conflict analytical gap.
+**Collection process** begins with research directives—targeted search tasks specifying a case study and category (e.g., "Find sources about military transition in South Korea"). The engine generates multiple search queries, deduplicates against existing records, and stores new sources. The system maintains 13,991+ sources across 15 case studies, including 4 foreign intervention comparators (Iraq, Libya, Afghanistan, Kosovo) added in April 2026 to address the post-conflict analytical gap.
 
 ## Three-Gate Quality System
 

@@ -1,6 +1,6 @@
 <div dir="rtl" markdown>
 
-# Lustration and transitional justice → institutional trust
+# پاکسازی اداری و عدالت انتقالی ← اعتماد نهادی
 
 *ترجمه فارسی در دست تهیه*
 

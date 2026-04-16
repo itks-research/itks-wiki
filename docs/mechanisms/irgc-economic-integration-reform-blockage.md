@@ -1,6 +1,6 @@
 <div dir="rtl" markdown>
 
-# IRGC economic integration → reform blockage
+# ادغام اقتصادی سپاه ← انسداد اصلاحات
 
 *ترجمه فارسی در دست تهیه*
 

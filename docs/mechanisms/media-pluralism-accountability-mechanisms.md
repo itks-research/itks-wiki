@@ -1,6 +1,6 @@
 <div dir="rtl" markdown>
 
-# Media pluralism → accountability mechanisms
+# تکثر رسانه‌ای ← سازوکارهای پاسخگویی
 
 *ترجمه فارسی در دست تهیه*
 

@@ -1,400 +1,404 @@
-# Scenario: Monarchist Restoration
+<div dir="rtl" markdown>
 
-*Last Updated: 2026-04-10*
+# سناریو: احیای سلطنت طلب
 
-> **In brief**: Reza Pahlavi or a comparable figure from the monarchist tradition comes to power in Iran through one of two pathways: (A) a constitutional monarchy on the European model -- ceremonial head of state, elected parliament, the framework Pahlavi himself advocates, modeled on Juan Carlos I's Spain -- or (B) a collapse-driven vacuum where Pahlavi emerges as the most recognizable opposition figure by organizational default, carrying higher risk of authoritarian reconsolidation. This scenario is currently the lowest-probability of the six, but it is not analytically negligible. Pahlavi commands genuine diaspora support, has positioned himself as a constitutional democrat, and would benefit from institutional defaults in any rapid transition. The April 2026 conjuncture -- Mojtaba Khamenei's weak legitimacy following his father's assassination, IRGC overextension after 39 days of war, the fragile April 7-8 ceasefire, and economic collapse -- creates conditions where the Pahlavi option could move from marginal to plausible faster than most analysts expect. If it materializes in either form, the first five years will be defined by the struggle between constitutional framing and executive consolidation.
+*آخرین به‌روزرسانی: ۲۰۲۶-۰۴-۱۰*
 
----
-
-## 1. What This Looks Like Concretely
-
-There are two distinct pathways within this scenario:
-
-**Pathway A -- Constitutional Monarchy**: Reza Pahlavi returns to Iran not as an absolute monarch but as a constitutional head of state in the European model -- ceremonial, non-executive, a national symbol without governing power. A democratically elected parliament holds executive authority. This is the model Pahlavi has publicly advocated and resembles Spain's transition from Francoism. The key institutional features: a prime minister or president exercises real power, an independent judiciary operates free from both clerical and royal interference, and the monarch's role is defined by statute rather than prerogative.
-
-In this pathway, the monarchy functions as a continuity symbol bridging the pre-1979 and post-Islamic-Republic eras, providing a sense of historical identity without restoring executive authority. The critical move -- demonstrated by Juan Carlos I -- is abdicating executive power *before* rather than after a conflict about it. Juan Carlos did not wait for Spaniards to demand he step back from governance; he initiated the democratic process voluntarily, which was the source of his legitimacy. Pahlavi would need to replicate this logic: the willingness to limit his own power before anyone forces the issue is the only way to generate the democratic credibility that makes the constitutional monarchy viable.
-
-**Pathway B -- Rally Point for Transition**: A rapid regime collapse creates an authority vacuum; Pahlavi emerges as the most recognizable opposition figure with a pre-existing network, diaspora financing, and international connections. He becomes the transitional authority not because of ideological commitment to monarchy but because no other organized alternative exists. This is the path of least resistance in a collapse scenario -- and it carries the highest risks of authoritarian reconsolidation under a different flag.
-
-In this pathway, Pahlavi's role resembles Karzai in Afghanistan (2001) more than Juan Carlos in Spain -- an externally-connected figure filling a vacuum, not an institutionally-embedded leader managing a controlled transition. The Iraq parallel is equally instructive: Chalabi's Iraqi National Congress, despite minimal domestic support, shaped post-2003 Iraq precisely because it was organizationally ready when the vacuum appeared. Organizational readiness without domestic legitimacy produces Chalabi, not Juan Carlos.
-
-**What the domestic landscape looks like if Pahlavi returns**: Iran in the weeks after a Pahlavi return would be deeply fractured along multiple axes:
-
-- The IRGC -- controlling 15-25% of GDP through its construction, telecom, and energy conglomerates -- would face an existential choice between armed resistance, negotiated accommodation, or institutional fragmentation.
-- The Artesh (regular military), historically more sympathetic to the Pahlavi era, might provide security backing but lacks the IRGC's economic and intelligence infrastructure.
-- The bazaar merchants, who financed the 1979 revolution partly against Pahlavi-era economic modernization, would recalculate based on sanctions relief prospects.
-- The clerical establishment in Qom would split between quietists willing to accept separation of religion and state and politicized clerics who view any Pahlavi return as existential defeat.
-- Urban middle-class Iranians -- the protest movement's base -- would be divided between those who see Pahlavi as a democratic vehicle and those who view any monarchy as a step backward.
-
-The scenario's concrete shape depends heavily on which pathway materializes. In Pathway A, Iran retains or develops the full institutional architecture of constitutional democracy with the monarchy as a legitimizing symbol. In Pathway B, the monarchy itself can become a vehicle for the reconcentration of power that Iran spent four decades opposing.
-
-What is certain: if the Pahlavi scenario materializes in either form, the first five years will be defined by the struggle between the constitutional framing (monarchy as democratic legitimizer) and the executive consolidation dynamic (monarchy as new authoritarian center). Which wins depends on institutional design choices made in the transition's first months -- choices that must be made under crisis conditions, with incomplete information, by actors with competing interests. The comparative evidence is unambiguous on one point: the institutional choices made in the first 100 days of a transition constrain everything that follows. Getting those choices right is necessary; getting them wrong is very difficult to reverse.
+> **به طور خلاصه**: رضا پهلوی یا شخصیتی قابل مقایسه از سنت سلطنت طلبی در ایران از یکی از دو مسیر به قدرت می رسد: (الف) سلطنت مشروطه بر اساس الگوی اروپایی -- رئیس تشریفاتی دولت، مجلس منتخب، چارچوبی که خود پهلوی از آن حمایت می کند، الگوبرداری از اسپانیا خوان کارلوس اول -- یا (ب) یک پادشاهی مشروطه بر اساس مدل اروپایی. چهره اپوزیسیون قابل تشخیص با پیش فرض سازمانی، که خطر بیشتری برای تحکیم مجدد اقتدارگرا دارد. این سناریو در حال حاضر کمترین احتمال را در بین سناریوهای شش گانه دارد، اما از نظر تحلیلی قابل چشم پوشی نیست. پهلوی از حمایت واقعی دیاسپورا برخوردار است، خود را به عنوان یک دموکرات مشروطه معرفی کرده است، و در هر انتقال سریع از نارسایی‌های نهادی سود می‌برد. شرایط اقتصادی آوریل 2026 - مشروعیت ضعیف مجتبی خامنه‌ای به دنبال ترور پدرش، گسترش بیش از حد سپاه پس از 39 روز جنگ، آتش‌بس شکننده 7-8 آوریل و فروپاشی اقتصادی - شرایطی را ایجاد می‌کند که گزینه پهلوی می‌تواند سریع‌تر از حد انتظار به غیرقابل انتظار حرکت کند. اگر به هر دو شکل تحقق یابد، پنج سال اول با مبارزه بین چارچوب قانون اساسی و تحکیم اجرایی تعریف می شود.
 
 ---
 
-## 2. Trigger Conditions
+## 1. این به طور مشخص چگونه به نظر می رسد
 
-**Pahlavi's probability of materializing depends on the failures of alternatives.**
+در این سناریو دو مسیر متمایز وجود دارد:
 
-The monarchist option becomes more likely when:
+**مسیر الف - سلطنت مشروطه**: رضا پهلوی نه به عنوان یک پادشاه مطلقه، بلکه به عنوان یک رئیس دولت مشروطه در مدل اروپایی - تشریفاتی، غیر اجرایی، نماد ملی بدون قدرت حکومتی به ایران بازمی گردد. پارلمان منتخب دموکراتیک دارای اختیارات اجرایی است. این همان مدلی است که پهلوی علناً از آن حمایت کرده و شبیه گذار اسپانیا از فرانکوئیسم است. ویژگی‌های نهادی کلیدی: نخست‌وزیر یا رئیس‌جمهور قدرت واقعی را اعمال می‌کند، یک قوه قضائیه مستقل فارغ از مداخلات روحانی و سلطنتی عمل می‌کند، و نقش پادشاه به‌جای انحصار، توسط قانون تعریف می‌شود.
 
-- The democratic opposition inside Iran is too fragmented and leaderless to produce recognized transitional leadership. The [Democratic Transition](./democratic-transition.md) scenario requires organizational infrastructure that may not exist when the window opens.
-- The IRGC's preferred successor to the Islamic Republic -- a reformed theocracy under Mojtaba Khamenei or a military-led government under figures like Ahmad Vahidi -- lacks popular legitimacy. The IRGC's brutal suppression of protests, the 3,117+ killed since 2022, has destroyed whatever residual public trust the security apparatus retained.
-- International actors, searching for a "stable transition" option, converge on Pahlavi as the least-dangerous available figure. US and Israeli policymakers, accustomed to dealing with monarchies in the Gulf, may find the constitutional monarchy model conceptually familiar.
-- Diaspora financial resources and political organization -- which are disproportionately monarchist -- provide the organizational infrastructure that other opposition currents lack.
+در این مسیر، نظام سلطنتی به عنوان یک نماد تداوم عمل می کند که بر دوران قبل از 1979 و پس از جمهوری اسلامی پل می زند و بدون احیای اقتدار اجرایی، حس هویت تاریخی را ارائه می دهد. حرکت مهم - که توسط خوان کارلوس اول نشان داده شد - کنار گذاشتن قدرت اجرایی *قبل* به جای بعد از درگیری در مورد آن است. خوان کارلوس منتظر ماند تا اسپانیایی ها از او بخواهند از حکومت عقب نشینی کند. او داوطلبانه روند دموکراتیک را آغاز کرد که منبع مشروعیت او بود. پهلوی باید این منطق را تکرار کند: تمایل به محدود کردن قدرت خود قبل از اینکه کسی این موضوع را تحمیل کند، تنها راه ایجاد اعتبار دموکراتیک است که سلطنت مشروطه را قابل دوام می‌کند.
 
-### The diaspora organizational advantage
+**مسیر B -- نقطه تجمع برای انتقال **: فروپاشی سریع رژیم خلاء قدرت ایجاد می کند. پهلوی به عنوان شناخته‌شده‌ترین چهره اپوزیسیون با شبکه‌ای از قبل موجود، تأمین مالی دیاسپورا و ارتباطات بین‌المللی ظاهر می‌شود. او نه به دلیل تعهد ایدئولوژیک به سلطنت، بلکه به دلیل وجود هیچ آلترناتیو سازمان یافته دیگری، به مقام انتقالی تبدیل می شود. این مسیر کمترین مقاومت در سناریوی فروپاشی است -- و بالاترین خطرات تحکیم مجدد اقتدارگرایانه را تحت پرچمی متفاوت به همراه دارد.
 
-This factor is underappreciated. While democratic, federalist, left, and other opposition currents in the diaspora have fragmented into dozens of competing organizations, the monarchist current has a single focal point (the Pahlavi family), established fundraising networks, media platforms (including satellite television with significant Iranian viewership), and connections to Western political establishments.
+در این مسیر، نقش پهلوی بیشتر به کرزی در افغانستان (2001) شباهت دارد تا خوان کارلوس در اسپانیا -- شخصیتی که با بیرون ارتباط دارد خلاء را پر می کند، نه یک رهبر نهادینه شده که یک انتقال کنترل شده را مدیریت می کند. موازی عراق نیز به همان اندازه آموزنده است: کنگره ملی عراق به رهبری چلبی، علیرغم حداقل حمایت داخلی، عراق پس از سال 2003 را شکل داد، دقیقاً به این دلیل که از نظر سازمانی زمانی که خلاء ظاهر شد، آماده بود. آمادگی سازمانی بدون مشروعیت داخلی، چلبی را تولید می کند، نه خوان کارلوس.
 
-The Iranian diaspora of 4-8 million includes a disproportionate share of Iran's pre-revolutionary technical, financial, and academic elite, and monarchist networks have maintained organizational continuity for over four decades. In a rapid transition, organizational readiness matters more than ideological popularity. The monarchists are more organized than they are popular -- but in a crisis, organization is what determines who fills the vacuum.
+**در صورت بازگشت پهلوی چشم انداز داخلی چگونه به نظر می رسد**: ایران در هفته های پس از بازگشت پهلوی در چندین محور به شدت دچار شکاف می شود:
 
-The Iraqi exile experience reinforces this in both directions. Chalabi's INC shaped post-2003 Iraq because it was organizationally ready, but that organizational readiness without domestic legitimacy produced occupation politics, not democratic transition. The warning is precise: exile groups returning with external sponsorship generate nationalist resistance regardless of their programmatic intentions.
+- سپاه - که 15 تا 25 درصد تولید ناخالص داخلی را از طریق شرکت‌های ساختمانی، مخابراتی و انرژی خود کنترل می‌کند - با یک انتخاب وجودی بین مقاومت مسلحانه، اسکان از طریق مذاکره یا چندپارگی نهادی مواجه خواهد شد.
+- ارتش ارتش (نظامی عادی) که از لحاظ تاریخی بیشتر دلسوز دوران پهلوی است، ممکن است پشتوانه امنیتی داشته باشد، اما فاقد زیرساخت های اقتصادی و اطلاعاتی سپاه است.
+- بازرگانان بازار که بودجه انقلاب 1979 را تا حدی بر ضد نوسازی اقتصادی دوران پهلوی تامین کردند، بر اساس چشم انداز رفع تحریم ها دوباره محاسبه می کردند.
+- تشکیلات روحانیت در قم بین افراد ساکتی که مایل به پذیرش جدایی دین از دولت هستند و روحانیون سیاسی شده که هرگونه بازگشت پهلوی را شکست وجودی می دانند، تقسیم می شود.
+- ایرانیان طبقه متوسط ​​شهری - پایگاه جنبش اعتراضی - بین کسانی که پهلوی را وسیله ای دموکراتیک می دانند و کسانی که هر سلطنتی را یک گام به عقب می دانند تقسیم می شود.
 
-### The Schelling point dynamic
+شکل بتن سناریو به شدت به مسیر تحقق بستگی دارد. در مسیر A، ایران ساختار نهادی کامل دموکراسی مشروطه را با سلطنت به عنوان نماد مشروعیت بخش حفظ کرده یا توسعه می دهد. در مسیر B، خود سلطنت می‌تواند به وسیله‌ای برای تمرکز مجدد قدرتی تبدیل شود که ایران چهار دهه با آن مخالفت کرد.
 
-Pahlavi has built a substantial social media following and maintains visibility through Persian-language satellite broadcasts. Inside Iran, where the protest movement has operated through decentralized social media coordination, Pahlavi's name recognition functions as a Schelling point -- a focal point for coordination among people who may not share deep monarchist convictions but need a recognizable alternative to rally around.
-
-The chants of "Reza Shah, ruhat shad" heard in protests since 2022 reflect this dynamic: they are less an endorsement of the Pahlavi dynasty than a rejection of the Islamic Republic expressed through its historical opposite. This distinction matters analytically -- it means the protest movement's apparent monarchism is more fragile than it appears. It is a coordination device, not a political commitment. If a viable democratic alternative with comparable name recognition emerged, the Schelling point could shift.
-
-### Specific enabling conditions
-
-- Rapid regime collapse without prior organizational preparation by democratic forces -- the [Democratic Transition](./democratic-transition.md) fails to establish alternative leadership before the window opens
-- A ceasefire framework in which the US and Israel, seeking a stable post-Islamic Republic Iran, endorse Pahlavi as an acceptable transition figure -- particularly if the Islamabad talks (beginning April 10) produce a political roadmap that includes Iran's constitutional future
-- Pahlavi successfully positions himself as above factional politics -- explicitly democratic, constitutional, non-executive -- in ways that reduce opposition from democratic and left currents
-- The protest movement inside Iran, lacking alternatives, uses Pahlavi as a focal point not out of monarchist commitment but as a practical coordination device
-- IRGC pragmatists, calculating that a constitutional monarchy preserves more of their economic interests than a revolutionary democratic transition, tacitly accept a Pahlavi-led framework
-- Artesh officers, whose institutional identity predates the Islamic Republic, establish covert contact with Pahlavi's network -- providing the domestic security backing that exile-based transitions otherwise lack
-
-### What cannot make this scenario work
-
-- **Return without constitutional framework**: Pahlavi arriving without a genuine constitutional framework endorsed by Iranian civil society would produce immediate nationalist backlash and unite otherwise fractured opposition. Even sympathizers would oppose an unconstitutional return.
-- **Visible IRGC backing**: IRGC institutional support visible to the public would delegitimize Pahlavi among the protest movement as an IRGC-backed solution -- the worst of both worlds, combining the IRGC's democratic deficit with the monarchy's historical baggage.
-- **International imposition**: External imposition without domestic consent reproduces the 1953 CIA coup dynamic that delegitimized the Pahlavi monarchy for two generations. This is not a matter of perception management; the structural parallel is real and will be activated by opponents regardless of intent.
-- **Executive authority claims**: Pahlavi claiming executive authority rather than accepting a ceremonial role would unite the democratic opposition, the left, ethnic minorities, and the clerical establishment against him. The coalition that would form against an executive monarchy is broader and more powerful than the coalition that might accept a ceremonial one.
+آنچه مسلم است: اگر سناریوی پهلوی به هر دو صورت تحقق یابد، پنج سال اول با مبارزه میان چارچوب مشروطه (سلطنت به مثابه مشروعیت‌دهنده دموکراتیک) و پویایی تحکیم اجرایی (سلطنت به عنوان مرکز استبدادی جدید) تعریف می‌شود. اینکه کدام یک برنده می‌شود به انتخاب‌های طراحی سازمانی بستگی دارد که در ماه‌های اول دوره گذار انجام شده است - انتخاب‌هایی که باید در شرایط بحرانی، با اطلاعات ناقص، توسط بازیگرانی با منافع رقیب انجام شوند. شواهد مقایسه ای در یک نقطه مبهم است: انتخاب های سازمانی انجام شده در 100 روز اول یک گذار، همه چیزهای بعدی را محدود می کند. انجام درست آن انتخاب ها ضروری است. بازگرداندن اشتباه آنها بسیار دشوار است.
 
 ---
 
-## 3. Historical Parallels
+## 2. شرایط ماشه
 
-### Spain 1975-1978 (Juan Carlos I) -- The Most Directly Applicable Case
+**احتمال تحقق پهلوی به شکست گزینه های جایگزین بستگی دارد.**
 
-The one Pahlavi himself has cited. Juan Carlos I inherited authority from Franco but used it to dismantle Francoism from within, appointing reformist prime minister Adolfo Suarez, legalizing political parties (including the Communist Party -- a move of enormous symbolic significance), legalizing trade unions, and overseeing the 1977 democratic elections. His key constitutional move: abdicate executive power before rather than after a conflict about it. The 1978 constitution established a parliamentary monarchy with the king as head of state but without governing authority.
+گزینه سلطنت طلب زمانی بیشتر محتمل می شود که:
 
-The Spain parallel illuminates several dynamics:
+- اپوزیسیون دموکراتیک در داخل ایران به قدری از هم پاشیده و بدون رهبر است که نمی‌تواند رهبری انتقالی را به رسمیت بشناسد. سناریوی [گذار دموکراتیک](./democratic-transition.md) به زیرساخت سازمانی نیاز دارد که ممکن است با باز شدن پنجره وجود نداشته باشد.
+- جانشین مورد نظر سپاه برای جمهوری اسلامی - یک حکومت دینی اصلاح شده در زمان مجتبی خامنه ای یا یک دولت تحت رهبری نظامی تحت رهبری شخصیت هایی مانند احمد وحیدی - فاقد مشروعیت مردمی است. سرکوب وحشیانه تظاهرات سپاه پاسداران انقلاب اسلامی، بیش از 3117 کشته از سال 2022، هر آنچه که اعتماد عمومی باقی مانده به دستگاه امنیتی باقی مانده را از بین برده است.
+- بازیگران بین‌المللی که در جستجوی گزینه «انتقال باثبات» هستند، پهلوی را به عنوان کم‌خطرترین چهره موجود همگرا می‌کنند. سیاستگذاران ایالات متحده و اسرائیل که عادت به برخورد با پادشاهی در خلیج فارس دارند، ممکن است مدل سلطنت مشروطه را از نظر مفهومی آشنا بدانند.
+- منابع مالی و تشکیلات سیاسی دیاسپورا - که به طور نامتناسبی سلطنتی هستند - زیرساخت تشکیلاتی را فراهم می کند که سایر جریان های اپوزیسیون فاقد آن هستند.
 
-- **Credibility through surprise**: Juan Carlos' credibility depended on surprising people. Those who expected him to maintain Francoist authoritarianism were proven wrong, generating democratic legitimacy through demonstrated commitment. Pahlavi would need to achieve the same surprise.
-- **Delegation, not governance**: Spain's transition succeeded because Juan Carlos appointed competent reformists (Suarez) rather than trying to govern personally.
-- **Sequencing**: The Spanish transition was gradual -- elections first, then constitutional drafting, then referendum -- building legitimacy at each stage.
-- **The coup test**: Juan Carlos' decisive intervention against the 1981 Tejero coup attempt cemented the monarchy's democratic credentials. Pahlavi would face a comparable test.
+### مزیت سازمانی دیاسپورا
 
-**Why the Spain parallel is imperfect**:
+این عامل نادیده گرفته شده است. در حالی که جریان‌های دموکراتیک، فدرالیست، چپ و سایر جریان‌های اپوزیسیون در دیاسپورا به ده‌ها سازمان رقیب تقسیم شده‌اند، جریان سلطنت‌گرا دارای یک نقطه کانونی واحد (خانواده پهلوی)، شبکه‌های جمع‌آوری کمک‌های مالی، بسترهای رسانه‌ای (از جمله تلویزیون ماهواره‌ای با بینندگان قابل توجه ایرانی) و ارتباط با نهادهای سیاسی غربی است.
 
-- Juan Carlos was already King with institutional authority derived from Franco's succession law; Pahlavi is an exile without any domestic institutional base. Juan Carlos commanded the military's loyalty by law; Pahlavi would need to earn it.
-- The Spanish military largely accepted Juan Carlos' authority, having served under the monarchy for decades. The IRGC was *founded* on opposition to Pahlavi rule and has every institutional and ideological reason to resist.
-- Spain had no equivalent of SAVAK -- Franco's repression was diffuse across state institutions, not concentrated in a single agency whose name became synonymous with a dynasty. SAVAK is a proper noun that delegitimizes.
-- Franco deliberately prepared Juan Carlos as successor. No comparable institutional continuity exists for Pahlavi.
-- Spain's transition happened in a geopolitical context (European Community accession) that provided powerful incentives for democratic consolidation. Iran's geopolitical context -- US-Israeli strategic interests, regional rivalries, sanctions architecture -- may incentivize stability over democracy.
+دیاسپورای 4 تا 8 میلیونی ایرانی سهم نامتناسبی از نخبگان فنی، مالی و دانشگاهی پیش از انقلاب ایران را شامل می شود و شبکه های سلطنت طلب بیش از چهار دهه است که تداوم سازمانی خود را حفظ کرده اند. در یک انتقال سریع، آمادگی سازمانی بیش از محبوبیت ایدئولوژیک اهمیت دارد. سلطنت طلبان بیشتر سازماندهی شده اند تا مردمی - اما در یک بحران، سازماندهی است که تعیین می کند چه کسی خلاء را پر می کند.
 
-### Nepal 2006-2008 (Constitutional Monarchy to Republic)
+تجربه تبعید عراق این را در هر دو جهت تقویت می کند. INC چلبی عراق پس از سال 2003 را شکل داد زیرا از نظر سازمانی آماده بود، اما این آمادگی سازمانی بدون مشروعیت داخلی باعث ایجاد سیاست اشغالگری شد، نه انتقال دموکراتیک. هشدار دقیق است: گروه‌های تبعیدی که با حمایت خارجی بازمی‌گردند، صرف‌نظر از نیات برنامه‌ای خود، مقاومت ملی‌گرایانه ایجاد می‌کنند.
 
-Nepal's transition ended not in restored monarchy but in a republic, after King Gyanendra's 2005 coup attempt delegitimized the monarchy entirely. The Constituent Assembly abolished the monarchy in 2008 by a vote of 560-4. The lesson: even a constitutional monarchy can be abolished through democratic process if popular legitimacy is insufficient. Any Pahlavi return would face this permanent vulnerability -- every election cycle would include parties campaigning for abolition, and the monarchy's survival would depend on continuously demonstrating its democratic value. Nepal shows that the constitutional monarchy option is not a destination but an ongoing negotiation that can be terminated at any time.
+### پویایی نقطه شلینگ
 
-### Romania 1990 (Iliescu's Capture of Transition) -- The Vacuum Warning
+پهلوی از طریق پخش‌های ماهواره‌ای فارسی زبان، فالوورهای شبکه‌های اجتماعی قابل توجهی ایجاد کرده و قابل مشاهده است. در داخل ایران، جایی که جنبش اعتراضی از طریق هماهنگی غیرمتمرکز رسانه‌های اجتماعی عمل کرده است، به رسمیت شناختن نام پهلوی به‌عنوان یک نقطه شلینگ عمل می‌کند - نقطه کانونی برای هماهنگی میان افرادی که ممکن است عقاید عمیق سلطنت‌طلبی نداشته باشند، اما به جایگزینی قابل تشخیص برای تجمع نیاز دارند.
 
-When a rapid regime collapse produces an authority vacuum, the figure with the most pre-existing organizational network captures the transition -- even if that figure's democratic credentials are questionable. Ion Iliescu, a Communist Party insider, used his organizational advantages to dominate Romania's post-Ceausescu transition, converting revolutionary momentum into personal power.
+شعارهای «رضاشاه، روحت شاد» که از سال 2022 در اعتراضات شنیده می‌شود این پویایی را منعکس می‌کند: این شعارها کمتر تأییدی بر خاندان پهلوی است تا رد جمهوری اسلامی که از طریق مخالف تاریخی آن بیان می‌شود. این تمایز از نظر تحلیلی اهمیت دارد -- به این معنی است که سلطنت طلبی آشکار جنبش اعتراضی شکننده تر از آن چیزی است که به نظر می رسد. این یک دستگاه هماهنگی است نه یک تعهد سیاسی. اگر یک جایگزین دموکراتیک قابل دوام با به رسمیت شناختن نام مشابه پدیدار شود، نقطه شلینگ می تواند تغییر کند.
 
-If Pahlavi fills Iran's transition vacuum not through democratic mandate but through organizational default, the risk of authoritarian capture is high -- particularly if his closest advisors are drawn from diaspora networks with limited understanding of contemporary Iranian society. The Romania parallel maps directly onto Pathway B: the organizational-default scenario where readiness, not legitimacy, determines who governs.
+### شرایط فعال سازی خاص
 
-### Afghanistan 2001 (Hamid Karzai) -- External Backing Without Domestic Legitimacy
+- فروپاشی سریع رژیم بدون آمادگی قبلی سازمانی توسط نیروهای دموکراتیک -- [انتقال دموکراتیک](./democratic-transition.md) نتوانست رهبری جایگزین را قبل از باز شدن پنجره ایجاد کند.
+- چارچوب آتش بس که در آن ایالات متحده و اسرائیل، به دنبال یک ایران باثبات پس از جمهوری اسلامی، از پهلوی به عنوان یک چهره قابل قبول انتقال حمایت می کنند - به ویژه اگر مذاکرات اسلام آباد (آغاز 10 آوریل) یک نقشه راه سیاسی که شامل آینده قانون اساسی ایران باشد ارائه کند.
+- پهلوی با موفقیت خود را بالاتر از سیاست های جناحی - صراحتاً دموکراتیک، مشروطه، غیر اجرایی- قرار می دهد، به گونه ای که مخالفت جریان های دموکراتیک و چپ را کاهش می دهد.
+- جنبش اعتراضی در داخل ایران، بدون آلترناتیو، از پهلوی به عنوان یک نقطه کانونی نه به دلیل تعهد سلطنتی، بلکه به عنوان یک دستگاه هماهنگی عملی استفاده می کند.
+- عمل‌گرایان سپاه پاسداران انقلاب اسلامی، با محاسبه این‌که سلطنت مشروطه، بیشتر از یک گذار دموکراتیک انقلابی، منافع اقتصادی آنها را حفظ می‌کند، به طور ضمنی چارچوب رهبری پهلوی را می‌پذیرند.
+- افسران آرتش، که هویت نهادی آنها پیش از جمهوری اسلامی است، ارتباط پنهانی با شبکه پهلوی برقرار می کنند -- پشتوانه امنیتی داخلی را فراهم می کنند که انتقال مبتنی بر تبعید در غیر این صورت فاقد آن است.
 
-A diaspora-connected figure, endorsed by the US, becomes transitional leader. Karzai's government never achieved genuine domestic legitimacy and collapsed when external support was withdrawn in 2021. The Karzai parallel is the most dangerous one for Pahlavi: an exile who returns under foreign auspices, surrounded by diaspora advisors, dependent on external security guarantees, governing a country he has not lived in for decades.
+### چه چیزی نمی تواند این سناریو را عملی کند
 
-Every element of the Karzai failure would be replicated if Pahlavi returns primarily as a US-backed figure: patronage politics replacing institutional governance, disconnect from rural and working-class populations, dependence on foreign security arrangements, inability to build self-sustaining institutional legitimacy. The broader Iraqi exile warning (Chalabi's INC) reinforces this: exile groups returning with external sponsorship generate nationalist resistance regardless of their programmatic intentions.
-
-### Cambodia 1991-1993 (Sihanouk's Return) -- The Facade Warning
-
-King Norodom Sihanouk returned from exile under the 1991 Paris Peace Accords, backed by the UN Transitional Authority. He became head of state of a constitutional monarchy after the 1993 elections. But Sihanouk's restored monarchy coexisted with Hun Sen's authoritarian consolidation -- the monarchy provided a legitimizing facade while real power accumulated elsewhere. By the time Sihanouk abdicated in 2004, the monarchy was politically irrelevant.
-
-The warning: a restored monarchy can be instrumentalized by whoever controls the security apparatus. If the IRGC or its successor controls armed force, a Pahlavi constitutional monarchy could become a legitimizing veneer for continued authoritarian governance under a different name. The Cambodia case also demonstrates that international guarantees (UNTAC's peacekeeping mandate) are not sufficient to prevent authoritarian capture if domestic power dynamics favor it.
-
-### Greece 1974 (Constantine II vs. Republic) -- The Referendum Risk
-
-After the fall of the Greek military junta in 1974, the question of the monarchy's future was put to referendum. King Constantine II, who had gone into exile in 1967, campaigned for restoration. The Greek public voted 69% against the monarchy, establishing the Third Hellenic Republic. This case demonstrates the real risk Pahlavi faces if he honors his commitment to a constitutional referendum: the Iranian public may choose a republic. Greece's experience also shows that a referendum held shortly after the fall of authoritarianism -- when public anger is high and the desire for clean breaks is strongest -- tends to go against monarchy. Timing matters: Spain held elections first and wrote the monarchy into the constitution before any referendum; Greece held the referendum immediately. If Iran follows the Greek model, monarchy is likely abolished.
-
-### The 1953 Parallel (Operation Ajax) -- Iran-Specific
-
-Any external power's active support for a Pahlavi return will be framed domestically as a repeat of the 1953 CIA-backed coup that removed Prime Minister Mohammad Mossadegh and restored Mohammad Reza Shah. This framing will be used regardless of Pahlavi's actual constitutional commitments.
-
-The 1953 coup is not merely historical -- it is a living element of Iranian political consciousness, taught in schools under the Islamic Republic, commemorated annually, and embedded in the national narrative of foreign interference. Even Iranians who despise the Islamic Republic carry this memory. Even if Pahlavi returns through a genuinely democratic process, opponents will claim otherwise -- and the 1953 precedent gives that claim automatic credibility.
-
-This is not a risk to be "managed" through messaging; it is a structural constraint that shapes the scenario's ceiling of achievable legitimacy. The only partial mitigation is a process so transparently domestic and democratic that the 1953 comparison, while inevitable, fails to stick -- and even that is uncertain.
+- **بازگشت بدون چارچوب قانون اساسی**: ورود پهلوی بدون چارچوب قانون اساسی واقعی مورد تایید جامعه مدنی ایران، واکنش شدید ناسیونالیستی را به همراه خواهد داشت و اپوزیسیون متلاشی شده را متحد می کند. Even sympathizers would oppose an unconstitutional return.
+- **پشتیبانی قابل مشاهده سپاه**: حمایت نهادی سپاه که برای عموم قابل مشاهده است، پهلوی را در میان جنبش اعتراضی به عنوان راه حلی تحت حمایت سپاه مشروعیت می بخشد - بدترین راه حل هر دو جهان، ترکیبی از کسری دموکراتیک سپاه با توشه های تاریخی سلطنت.
+- **تحمل بین المللی**: تحمیل خارجی بدون رضایت داخلی، پویایی کودتای سیا در سال 1953 را بازتولید می کند که سلطنت پهلوی را برای دو نسل مشروعیت زدایی کرد. این یک موضوع مدیریت ادراک نیست. موازی ساختاری واقعی است و بدون توجه به قصد توسط مخالفان فعال می شود.
+- **ادعای قوه مجریه**: پهلوی ادعای اقتدار اجرایی به جای پذیرش نقش تشریفاتی، اپوزیسیون دموکراتیک، چپ، اقلیت های قومی و روحانیت را علیه او متحد می کند. ائتلافی که علیه یک سلطنت اجرایی تشکیل می شود، گسترده تر و قدرتمندتر از ائتلافی است که ممکن است ائتلاف تشریفاتی را بپذیرد.
 
 ---
 
-## 4. Transition Pathway
+## 3. موازی های تاریخی
 
-### Phase 1: First 100 Days (April-July 2026)
+### اسپانیا 1975-1978 (خوان کارلوس اول) -- مستقیماً کاربردی ترین مورد
 
-In the Pahlavi scenario, the 100-day phase is triggered by an event that creates either a negotiated transition space or a collapse-and-fill dynamic.
+موردی که خود پهلوی به آن اشاره کرده است. خوان کارلوس اول اقتدار را از فرانکو به ارث برد، اما از آن برای برچیدن فرانکویسم از درون، انتصاب نخست وزیر اصلاح طلب، آدولفو سوارز، قانونی کردن احزاب سیاسی (از جمله حزب کمونیست - حرکتی با اهمیت نمادین عظیم)، قانونی کردن اتحادیه های کارگری، و نظارت بر انتخابات دموکراتیک 1977 استفاده کرد. اقدام کلیدی او در قانون اساسی: کناره گیری قدرت اجرایی قبل از درگیری در مورد آن. قانون اساسی 1978 یک سلطنت پارلمانی را با پادشاه به عنوان رئیس دولت، اما بدون قدرت حاکم، ایجاد کرد.
 
-**In the negotiated version**: The Islamabad framework (talks beginning April 10) produces a political roadmap that explicitly includes the question of Iran's constitutional future. Pahlavi's network positions him as a unifying figure -- not a claimant to restored monarchy, but a transitional democratic leader committed to a referendum on the constitutional framework. This requires that:
+موازی اسپانیا چندین پویایی را روشن می کند:
 
-1. No other figure has emerged with comparable organizational resources and international recognition
-2. The IRGC pragmatist faction calculates that a Pahlavi-led constitutional process is preferable to the alternatives (democratic revolution, fragmentation, or continued instability)
-3. Pahlavi makes binding commitments -- ideally in a signed framework document -- to a timeline for free elections and a constitutional referendum
+- **اعتبار از طریق شگفتی**: اعتبار خوان کارلوس به غافلگیری افراد بستگی داشت. کسانی که از او انتظار داشتند اقتدارگرایی فرانکوئیستی را حفظ کند، اشتباه کردند و مشروعیت دموکراتیک را از طریق تعهد نشان دادند. پهلوی باید به همان شگفتی دست یابد.
+- **نمایندگی، نه حکومت**: انتقال اسپانیا به این دلیل موفقیت آمیز بود که خوان کارلوس اصلاح طلبان شایسته (سوارز) را به جای تلاش برای حکومت شخصی منصوب کرد.
+- **توالی**: انتقال اسپانیا تدریجی بود - ابتدا انتخابات، سپس تدوین قانون اساسی، سپس همه پرسی - ایجاد مشروعیت در هر مرحله.
+- **آزمون کودتا**: مداخله قاطع خوان کارلوس در برابر کودتای 1981 تجرو اعتبار دموکراتیک سلطنت را تثبیت کرد. پهلوی با آزمونی مشابه روبرو خواهد شد.
 
-**In the collapse version**: IRGC command fractures under the combined pressure of military defeat, economic collapse, and the legitimacy crisis following Khamenei's assassination and Mojtaba's weak succession. The protest movement achieves a moment of maximum mobilization without organizational leadership. Pahlavi is the only figure whose name is recognized nationally and internationally as a non-regime alternative. He returns not to claim the throne but to serve as a transitional focal point. This version carries the Karzai/Chalabi warnings at full force.
+**چرا موازی اسپانیا ناقص است**:
 
-**The constitutional referendum question**: The first 100 days must establish whether a referendum on monarchy vs. republic will occur -- and when. Delay is the monarchists' friend and the democrats' enemy: the longer the monarchy is in place before the vote, the more institutional inertia accumulates. The Spain model established the monarchy before the constitutional referendum; the Greece model held the referendum immediately (and 69% voted to abolish). This timing decision is among the most consequential in the entire transition.
+- خوان کارلوس قبلاً پادشاه بود با اقتدار نهادی برگرفته از قانون جانشینی فرانکو. پهلوی تبعیدی بدون پایگاه نهادی داخلی است. خوان کارلوس بر اساس قانون فرمان وفاداری ارتش را می داد. پهلوی باید آن را کسب کند.
+- ارتش اسپانیا تا حد زیادی اقتدار خوان کارلوس را پذیرفت، زیرا چندین دهه تحت سلطنت خدمت کرده بود. سپاه بر ضد حکومت پهلوی *تاسیس شد و هر دلیل نهادی و ایدئولوژیکی برای مقاومت دارد.
+- اسپانیا هیچ معادلی با ساواک نداشت - سرکوب فرانکو در نهادهای دولتی پراکنده بود و در یک سازمان متمرکز نبود که نام آن مترادف با یک سلسله شد. ساواک یک اسم خاص است که مشروعیت می بخشد.
+- فرانکو عمدا خوان کارلوس را به عنوان جانشین آماده کرد. هیچ تداوم نهادی قابل مقایسه ای برای پهلوی وجود ندارد.
+- انتقال اسپانیا در یک زمینه ژئوپلیتیکی (الحاق جامعه اروپایی) اتفاق افتاد که انگیزه های قدرتمندی برای تحکیم دموکراتیک فراهم کرد. زمینه ژئوپلیتیکی ایران - منافع استراتژیک آمریکا و اسرائیل، رقابت‌های منطقه‌ای، معماری تحریم‌ها - ممکن است باعث ایجاد ثبات در برابر دموکراسی شود.
 
-**The IRGC negotiation in Phase 1**: Any Pahlavi return requires some accommodation with elements of the IRGC, which controls armed force, intelligence infrastructure, and major economic assets. The negotiation likely involves:
+### نپال 2006-2008 (پادشاهی مشروطه به جمهوری)
 
-- Amnesty for IRGC commanders willing to accept civilian authority, modeled partly on Spain's military amnesty
-- Economic guarantees for IRGC-controlled enterprises, possibly through structured privatization or conversion
-- Security guarantees for IRGC personnel and families against retributive violence
-- South Africa's sunset clauses -- guaranteeing existing civil servants continued employment for a fixed period -- as a structural model
+پس از کودتای سال 2005 پادشاه Gyanendra که سلطنت را به کلی مشروعیت زد، انتقال نپال نه به سلطنت بازگردانده شده بلکه در یک جمهوری به پایان رسید. مجلس مؤسسان در سال 2008 با 560 رای موافق در برابر 4 رای، سلطنت را لغو کرد. درس: اگر مشروعیت مردمی کافی نباشد، حتی یک سلطنت مشروطه نیز می تواند از طریق فرآیند دموکراتیک لغو شود. هر گونه بازگشت پهلوی با این آسیب پذیری دائمی روبرو خواهد شد -- هر چرخه انتخاباتی شامل احزاب می شود که برای لغو مبارزه می کنند و بقای سلطنت به نشان دادن مداوم ارزش دموکراتیک آن بستگی دارد. نپال نشان می دهد که گزینه سلطنت مشروطه یک مقصد نیست، بلکه یک مذاکره مداوم است که می تواند در هر زمان خاتمه یابد.
 
-The risk: these accommodations can become so extensive that the IRGC retains effective veto power under a monarchist facade, as Cambodia's military retained power under Sihanouk.
+### رومانی 1990 (تسخیر انتقال توسط ایلیسکو) -- هشدار خلاء
 
-### Phase 2: One Year (April 2027)
+هنگامی که یک فروپاشی سریع رژیم خلاء قدرت ایجاد می کند، رقمی که دارای بیشترین شبکه سازمانی از قبل موجود است، انتقال را به تصویر می کشد - حتی اگر اعتبار دموکراتیک آن شخصیت مشکوک باشد. یون ایلیسکو، یکی از اعضای حزب کمونیست، از مزایای سازمانی خود برای تسلط بر دوره گذار رومانی پس از چائوشسکو استفاده کرد و حرکت انقلابی را به قدرت شخصی تبدیل کرد.
 
-The critical first-year decisions:
+اگر پهلوی خلاء انتقال ایران را نه از طریق دستورات دموکراتیک، بلکه از طریق نکول سازمانی پر کند، خطر دستگیری اقتدارگرایانه زیاد است -- به ویژه اگر نزدیک ترین مشاوران او از شبکه های دیاسپورا با درک محدودی از جامعه معاصر ایران باشند. نقشه موازی رومانی مستقیماً بر روی مسیر B قرار می گیرد: سناریوی پیش فرض سازمانی که در آن آمادگی، نه مشروعیت، تعیین می کند چه کسی حکومت می کند.
 
-**Constitutional structure**: Is a referendum on monarchy vs. republic held immediately or after a stabilization period? The comparative evidence from the Ginsburg analysis of 935 constitutions is clear: inclusive, ratified constitutions survive; imposed or captured constitutional moments do not. An Iranian constitution written by a Pahlavi-appointed commission without broad participation will lack legitimacy regardless of its content.
+### افغانستان 2001 (حامد کرزی) -- حمایت خارجی بدون مشروعیت داخلی
 
-Chile's 2022 constitutional failure reinforces this from the opposite direction -- participatory maximalism without structured negotiation also produces rejection. The sweet spot is a representative convention with both elected delegates and structured inclusion of underrepresented groups, producing a document submitted to popular referendum.
+یک شخصیت مرتبط با دیاسپورا، مورد تایید ایالات متحده، رهبر انتقالی می شود. دولت کرزی هرگز به مشروعیت داخلی واقعی دست پیدا نکرد و با برداشته شدن حمایت خارجی در سال 2021 فروپاشید. موازی کرزی خطرناک ترین مورد برای پهلوی است: تبعیدی که تحت حمایت خارجی باز می گردد، در محاصره مشاوران دیاسپورا، وابسته به تضمین های امنیتی خارجی، حکومتی را بر کشوری اداره می کند که ده سال در آن زندگی نکرده است.
 
-**IRGC relationship**: This is the defining variable of Year 1. If Pahlavi returns with IRGC acquiescence (even tacit), he faces the accusation of being an IRGC-backed solution. If he returns against IRGC opposition, he needs an alternative security arrangement -- either international peacekeeping or Artesh support -- that may not be available. The Spain analogy suggests gradual military reform over years, not immediate institutional dismantlement; but the IRGC's ideological character (founded on anti-Pahlavi revolution) makes gradual accommodation harder than Spain's apolitical military transition.
+اگر پهلوی عمدتاً به عنوان یک شخصیت مورد حمایت ایالات متحده بازگردد، همه عناصر شکست کرزی تکرار خواهد شد: سیاست حمایتی جایگزین حکومت نهادی، قطع ارتباط با جمعیت روستایی و طبقه کارگر، وابستگی به ترتیبات امنیتی خارجی، ناتوانی در ایجاد مشروعیت نهادی خودپایه. هشدار گسترده‌تر تبعید عراق (ICC چلبی) این را تقویت می‌کند: گروه‌های تبعیدی که با حمایت خارجی بازمی‌گردند، صرف‌نظر از نیات برنامه‌ای خود، مقاومت ملی‌گرایانه ایجاد می‌کنند.
 
-**Transitional justice for the SAVAK legacy**: The Pahlavi family's own accountability record -- SAVAK's documented torture, political executions, the 1953 coup's aftermath -- creates a specific transitional justice dynamic. A Pahlavi-led government must either confront this record credibly or appear to be reversing one set of impunity for another.
+### کامبوج 1991-1993 (بازگشت سیهانوک) -- هشدار نما
 
-The comparative evidence from Spain (Pact of Forgetting) is that amnesia succeeds short-term but creates long-term political instability. The prosecution-pardon sequence used in several Latin American transitions -- prosecute first to establish the factual record, then consider amnesties through democratic process -- may be the most credible approach. The Islamic Republic's own atrocities (the 1988 prison massacres, decades of political executions, the 2022-2026 protest killings) demand accountability; but a Pahlavi-led process that prosecutes Islamic Republic crimes while ignoring Pahlavi-era crimes will lack moral authority.
+King Norodom Sihanouk returned from exile under the 1991 Paris Peace Accords, backed by the UN Transitional Authority. او پس از انتخابات 1993 رئیس دولت یک سلطنت مشروطه شد. اما سلطنت احیا شده سیهانوک با تحکیم اقتدارگرایانه هون سن همزیستی کرد - سلطنت نمای مشروعیت بخشی را ارائه داد در حالی که قدرت واقعی در جاهای دیگر انباشته شده بود. تا زمانی که سیهانوک در سال 2004 از سلطنت کناره گیری کرد، سلطنت از نظر سیاسی بی ربط بود.
 
-**Diaspora-domestic tension**: The Pahlavi scenario is more popular in the diaspora than inside Iran. The monarchy had 47 years to fade from living memory for Iranians under 65; for the diaspora, its memory is more benign. A Pahlavi return would immediately reveal this gap. Diaspora returnees occupying key government positions would generate resentment among Iranians who endured the Islamic Republic while the diaspora lived abroad. A government perceived as "Beverly Hills Iranians coming back to reclaim their property" -- however unfair that caricature -- would face devastating populist opposition.
+هشدار: پادشاهی احیا شده می تواند توسط هر کسی که دستگاه امنیتی را کنترل می کند، ابزاری باشد. اگر سپاه یا جانشین آن نیروی مسلح را کنترل کند، سلطنت مشروطه پهلوی می تواند به پوششی مشروع برای ادامه حکومت استبدادی تحت نامی دیگر تبدیل شود. مورد کامبوج همچنین نشان می‌دهد که تضمین‌های بین‌المللی (فرمان حفظ صلح UNTAC) برای جلوگیری از دستگیری اقتدارگرایانه در صورتی که پویایی قدرت داخلی به نفع آن باشد، کافی نیست.
 
-**Economic governance and reconstruction**: Iran's economy is in collapse: sanctions, war damage, decades of mismanagement, and IRGC rent-seeking have produced conditions comparable to post-Soviet Russia. A Pahlavi-led government would face the question of whether to pursue rapid privatization (which in Russia produced oligarchy), gradual reform (which risks prolonging crisis), or a managed transition preserving state capacity (which requires competent technocrats the diaspora may supply but the domestic population may not trust).
+### یونان 1974 (کنستانتین دوم در مقابل جمهوری) -- خطر رفراندوم
 
-The IRGC's 15-25% GDP share cannot simply be confiscated without economic disruption; it must be unwound through a process that maintains employment and production while transferring ownership. The diaspora contains significant economic expertise, but diaspora-led economic policy risks prioritizing international integration over domestic welfare.
+پس از سقوط حکومت نظامی یونان در سال 1974، مسئله آینده سلطنت به همه پرسی گذاشته شد. پادشاه کنستانتین دوم، که در سال 1967 به تبعید رفته بود، برای بازسازی کارزاری کرد. مردم یونان با 69 درصد رای مخالف به سلطنت، جمهوری سوم یونان را تأسیس کردند. این مورد نشان می‌دهد که پهلوی در صورت پایبندی به تعهد خود به رفراندوم قانون اساسی با خطر واقعی مواجه است: مردم ایران ممکن است جمهوری را انتخاب کنند. تجربه یونان همچنین نشان می‌دهد که همه‌پرسی که اندکی پس از سقوط استبداد برگزار می‌شود - زمانی که خشم عمومی بالاست و میل به جدایی‌های تمیز قوی‌تر است - بر خلاف سلطنت است. زمان بندی اهمیت دارد: اسپانیا ابتدا انتخابات برگزار کرد و قبل از هر رفراندوم، سلطنت را در قانون اساسی نوشت. یونان بلافاصله همه پرسی را برگزار کرد. اگر ایران از الگوی یونان پیروی کند، احتمالاً سلطنت ملغی خواهد شد.
 
-**International recognition dynamics**: A Pahlavi-led government would likely receive rapid recognition from the US, Israel, Gulf states, and European powers -- all of which prefer stability and have existing relationships with Pahlavi's network. Russia and China, which maintained relations with the Islamic Republic, would be slower to recognize. Regional recognition from Iraq, Turkey, and Pakistan would depend on the government's posture toward Kurdish autonomy, ethnic minorities, and nuclear disarmament. Rapid international recognition could provide economic lifelines (sanctions relief, reconstruction aid) but also reinforce the "externally imposed" narrative domestically.
+### موازی 1953 (عملیات آژاکس) -- ویژه ایران
 
-### Phase 3: Five Years (April 2031)
+حمایت فعال هر قدرت خارجی از بازگشت پهلوی در داخل کشور به عنوان تکرار کودتای مورد حمایت سیا در سال 1953 که نخست وزیر محمد مصدق را برکنار کرد و محمدرضا شاه را بازگرداند. این چارچوب بدون توجه به تعهدات واقعی قانون اساسی پهلوی مورد استفاده قرار خواهد گرفت.
 
-The five-year outcomes depend almost entirely on the constitutional architecture established in Year 1:
+کودتای 1953 صرفاً تاریخی نیست -- بلکه عنصری زنده از آگاهی سیاسی ایرانیان است که در مدارس تحت جمهوری اسلامی تدریس می شود، سالانه گرامیداشت می شود و در روایت ملی مداخله خارجی گنجانده شده است. حتی ایرانیانی که جمهوری اسلامی را تحقیر می کنند این خاطره را دارند. حتی اگر پهلوی از طریق یک فرآیند واقعاً دموکراتیک بازگردد، مخالفان خلاف آن را ادعا خواهند کرد -- و سابقه 1953 به این ادعا اعتبار خودکار می بخشد.
 
-*Good outcome*: A ratified constitution establishes a constitutional republic following a free referendum; Pahlavi accepts the result and retires from politics. Democratic institutions develop under their own momentum. Alternatively, a constitutional monarchy is ratified with genuine democratic support, and Iran develops into a democratic state with a ceremonial monarch, functioning parliament, and independent judiciary. In either version, the transition is remembered as legitimate because the question was put to the people and the answer was honored. The IRGC has been restructured into a conventional military force under civilian oversight, with former commanders who accepted the transition protected by amnesty provisions. Sanctions have been substantially lifted, and Iran's reintegration into the international economy is underway.
-
-*Middling outcome*: Constitutional monarchy is established with genuine but constrained democratic institutions. Iran resembles Jordan or Morocco -- a constitutional monarchy with real but limited democratic participation, where the monarch's informal influence shapes policy without overt intervention. The monarchy provides stability but is not a driver of democratic deepening. The referendum either has not yet occurred or produced a narrow monarchist victory under contested conditions. The IRGC retains significant economic power through restructured conglomerates, and the monarchy's relationship with the military is closer to Thailand's than Spain's -- functional but uncomfortably intimate. Sanctions relief is partial, contingent on continued nuclear compliance.
-
-*Bad outcome*: The transitional authority is captured by monarchist hardliners, diaspora elites, or IRGC-adjacent figures who use Pahlavi's legitimacy as cover for authoritarian reconsolidation. Iran gets a different kind of personal rule -- the Thailand model, where democratic institutions exist on paper but real power lies elsewhere. Or the [Fragmentation](./fragmentation.md) scenario materializes, with Pahlavi's weak government unable to prevent centrifugal breakup. The worst sub-variant: the referendum is held and produces a republic, but Pahlavi or his supporters refuse to accept the result, generating a constitutional crisis that makes all subsequent governance illegitimate.
+این خطری نیست که از طریق پیام‌رسانی «مدیریت» شود. این یک محدودیت ساختاری است که سقف مشروعیت قابل دستیابی سناریو را شکل می دهد. تنها راه کاهش جزئی، فرآیندی است که به قدری شفاف داخلی و دموکراتیک است که مقایسه سال 1953، اگرچه اجتناب ناپذیر است، نمی تواند ثابت بماند -- و حتی آن نیز نامشخص است.
 
 ---
 
-## 5. Key Mechanisms at Play
+## 4. مسیر انتقال
 
-**Civil Society Mobilization and Regime Concessions** ([mechanism](../mechanisms/civil-society-mobilization-regime-concessions.md)): The protest movement's relationship to the Pahlavi scenario is deeply ambivalent. The "Reza Shah, ruhat shad" chants are better read as rejection of the Islamic Republic than endorsement of monarchy -- the historical opposite invoked to negate the present, not to restore the past. Whether civil society organizations that have survived under the Islamic Republic will accept a Pahlavi-led transition depends almost entirely on whether his constitutional commitments are credible and verified.
+### فاز 1: 100 روز اول (آوریل-ژوئیه 2026)
 
-Civil society's leverage in this scenario is its capacity to withdraw support: if the protest movement turns against a Pahlavi-led transition, it can mobilize the same street power against the monarchy that it deployed against the Islamic Republic. Civil society's most important function is not endorsing or opposing Pahlavi but building the organizational capacity to constrain *any* returning figure -- monarchist, democratic, or military. This generic institutional capacity is the most durable investment civil society can make regardless of which scenario materializes.
+در سناریوی پهلوی، مرحله 100 روزه توسط رویدادی آغاز می‌شود که یا یک فضای گذار با مذاکره ایجاد می‌کند یا یک پویایی فروپاشی و پر کردن.
 
-**Elite Bargaining Failure and Stalemate or Coup** ([mechanism](../mechanisms/elite-bargaining-failure-stalemate-or-coup.md)): The Pahlavi scenario is attractive precisely because it offers a way out of elite bargaining failure -- a figure who is not from any of the competing factions, who can serve as a Schelling point for coordination when all other options produce stalemate. But this function depends on him actually being above factional politics, which external actors and diaspora supporters may not allow if they have specific interests in using him to advance their agendas.
+**در نسخه مذاکره شده**: چارچوب اسلام آباد (مذاکرات از 10 آوریل آغاز می شود) یک نقشه راه سیاسی ایجاد می کند که به صراحت شامل مسئله آینده قانون اساسی ایران است. شبکه پهلوی او را به‌عنوان یک چهره متحد می‌داند - نه مدعی سلطنت احیا شده، بلکه یک رهبر دموکراتیک انتقالی متعهد به همه‌پرسی در چارچوب قانون اساسی. این مستلزم آن است که:
 
-The Pahlavi network itself contains competing factions -- hardline monarchists who want full restoration, constitutional democrats who see Pahlavi as a transitional symbol, and pragmatists who want to capture the economic opportunities of regime change. The Schelling-point function collapses if any of these factions visibly captures the process.
+1. هیچ چهره دیگری با منابع سازمانی قابل مقایسه و شناخت بین المللی ظاهر نشده است
+2. جناح عملگرای سپاه محاسبه می کند که روند مشروطه به رهبری پهلوی بر گزینه های جایگزین (انقلاب دموکراتیک، چندپارگی یا تداوم بی ثباتی) ارجحیت دارد.
+3. پهلوی تعهدات الزام آور - به طور ایده آل در یک سند چارچوب امضا شده - نسبت به جدول زمانی برای انتخابات آزاد و همه پرسی قانون اساسی می دهد.
 
-**Religious Authority and Legitimacy Transfer** ([mechanism](../mechanisms/religious-authority-legitimacy-transfer.md)): This is the Pahlavi scenario's deepest structural problem. The Islamic Republic derived political legitimacy from the religious establishment through velayat-e faqih; any successor must address how Iran's religious institutions relate to the new political order. The Pahlavi family's historical relationship with Shia religious authority was fraught -- the Shah's secularizing modernization created the conditions for Khomeini's revolution. A Pahlavi-led transition that treats the seminary system as an adversary will regenerate the same dynamic.
+**در نسخه فروپاشی**: شکست فرماندهی سپاه تحت فشار ترکیبی شکست نظامی، فروپاشی اقتصادی و بحران مشروعیت به دنبال ترور خامنه ای و جانشینی ضعیف مجتبی. جنبش اعتراضی بدون رهبری سازمانی به یک لحظه بسیج حداکثری دست می یابد. پهلوی تنها شخصیتی است که نامش در سطح ملی و بین المللی به عنوان جایگزین غیر رژیمی شناخته شده است. او برمی گردد نه برای ادعای تاج و تخت، بلکه به عنوان یک نقطه کانونی انتقالی. این نسخه اخطارهای کرزی/چلبی را با قدرت کامل حمل می کند.
 
-However, the quietist tradition within Shia jurisprudence -- exemplified by Grand Ayatollah Sistani in Iraq -- may paradoxically align with a Pahlavi-led constitutional order. Quietists who prefer the separation of religious and political authority might accept (or even prefer) a constitutional framework that removes clerics from governance, especially after decades in which velayat-e faqih has discredited political Islam among many Iranians. This potential alignment is underexplored in most analyses. The risk on the other side: Turkey's Diyanet model (state control of religious affairs) shows how a "secular" state can capture religious institutions rather than genuinely separating them -- a vulnerability any Pahlavi-led secularization must avoid.
+**پرسش همه‌پرسی قانون اساسی**: 100 روز اول باید مشخص کند که آیا رفراندوم سلطنت در مقابل جمهوری برگزار می شود -- و چه زمانی. تأخیر دوست سلطنت طلبان و دشمن دموکرات ها است: هر چه سلطنت قبل از رأی گیری طولانی تر باشد، اینرسی نهادی بیشتر انباشته می شود. مدل اسپانیا قبل از همه پرسی قانون اساسی، سلطنت را ایجاد کرد. مدل یونان بلافاصله همه پرسی را برگزار کرد (و 69 درصد به لغو رای دادند). این تصمیم زمانی یکی از مهم ترین تصمیمات در کل انتقال است.
 
-**Constitutional Moment and Majority Lock-In** ([mechanism](../mechanisms/constitutional-moment-majority-lock-in.md)): The Pahlavi scenario is only democratically sustainable if the constitutional moment produces a document with genuine majority legitimacy -- through a process in which the monarchy is not pre-determined. The comparative evidence on constitutional longevity (Ginsburg's analysis of 935 constitutions) shows that inclusive, ratified constitutions survive; imposed or captured constitutional moments do not.
+**مذاکرات سپاه در فاز 1**: هرگونه بازگشت پهلوی مستلزم هماهنگی با عناصر سپاه است که نیروهای مسلح، زیرساخت های اطلاعاتی و دارایی های عمده اقتصادی را کنترل می کند. مذاکره احتمالاً شامل موارد زیر است:
 
-An Iranian constitutional process must include ethnic minorities, women, religious minorities, labor, and rural populations -- not only Tehran's Westernized elite and diaspora returnees. Chile's 2022 failure demonstrates that inclusion alone is insufficient; structured negotiation and compromise are equally necessary. The Velayat-e Faqih catch-22 is relevant: the Guardian Council, which must approve constitutional amendments, will never approve its own abolition. Constitutional change therefore requires either regime collapse (which voids the existing constitution) or a parallel constitutional process whose legitimacy derives from democratic mandate rather than institutional continuity.
+- عفو فرماندهان سپاه پاسداران انقلاب اسلامی که مایل به پذیرش اقتدار غیرنظامی هستند، تا حدی با الگوبرداری از عفو نظامی اسپانیا
+- تضمین های اقتصادی برای شرکت های تحت کنترل سپاه، احتمالاً از طریق خصوصی سازی ساختاریافته یا تبدیل.
+- ضمانت‌های امنیتی برای کارکنان و خانواده‌های سپاه در برابر خشونت انتقام جویانه
+- بندهای غروب افریقای جنوبی - تضمین ادامه اشتغال کارمندان دولتی موجود برای یک دوره ثابت - به عنوان یک مدل ساختاری
 
----
+خطر: این تسهیلات می‌تواند به قدری گسترده شود که سپاه پاسداران انقلاب اسلامی قدرت وتوی مؤثری را تحت یک نمای سلطنتی حفظ کند، همانطور که ارتش کامبوج در دوران سیهانوک قدرت را حفظ کرد.
 
-## 6. Critical Risks
+### فاز 2: یک ساله (آوریل 2027)
 
-**The 1953 shadow**: This cannot be overstated. Any US-backed, diaspora-financed, externally-enabled return of the Pahlavi family will be read domestically and regionally as a repeat of Operation Ajax -- the CIA-backed coup that removed Mossadegh and restored Mohammad Reza Shah. This framing will be used by hardliners, by Islamic Republic loyalists, and by left and nationalist factions who have no love for the Islamic Republic but equally no love for a restored monarchy backed by foreign powers. The historical delegitimization is the scenario's defining constraint. Even if Pahlavi returns through a genuinely democratic process, opponents will claim otherwise -- and the 1953 precedent gives that claim automatic credibility. No amount of messaging can neutralize this. The only partial mitigation is a process so transparently domestic and democratic that the 1953 comparison, while inevitable, fails to stick.
+تصمیمات حیاتی سال اول:
 
-**Constitutional monarchy referendum -- the Juan Carlos test**: Pahlavi's stated commitment to a referendum on the constitutional form is his most important democratic credential -- and the most fragile. Monarchist supporters will argue for delay ("wait until the country is stable"); international backers may prefer certainty over referendum risk; and the monarchy's political infrastructure will pressure against a referendum that might abolish it.
+**ساختار قانون اساسی**: همه پرسی سلطنت در مقابل جمهوری بلافاصله برگزار می شود یا پس از یک دوره تثبیت؟ شواهد مقایسه ای حاصل از تحلیل 935 قانون اساسی گینزبورگ روشن است: قوانین اساسی تصویب شده و فراگیر باقی مانده اند. لحظات تحمیلی یا تسخیر شده مشروطه چنین نیست. قانون اساسی ایران که توسط کمیسیون منصوب پهلوی بدون مشارکت گسترده نوشته شود، صرف نظر از محتوای آن فاقد مشروعیت خواهد بود.
 
-Pahlavi's credibility stands or falls on whether he holds a free referendum on Iran's constitutional future even when the result is uncertain. The Greek precedent (69% voted to abolish monarchy) suggests the outcome is genuinely risky for monarchists. This is the Juan Carlos test: the willingness to risk your own institutional survival is what generates the democratic credibility that makes institutional survival more likely. Attempting to guarantee the outcome destroys the credibility the outcome was meant to produce.
+شکست قانون اساسی شیلی در سال 2022 این امر را از جهت مخالف تقویت می کند - حداکثر گرایی مشارکتی بدون مذاکره ساختاریافته نیز باعث رد می شود. نقطه شیرین یک کنوانسیون نماینده با نمایندگان منتخب و شامل ساختاری از گروه‌های کم‌نماینده است که سندی را ارائه می‌کند که به همه‌پرسی عمومی ارائه می‌شود.
 
-**The diaspora vs. domestic legitimacy gap**: The diaspora is more royalist than the Iranian domestic population. A Pahlavi-led transition that relies on diaspora political and financial resources to sustain itself will import diaspora political preferences into a domestic political environment where they have weaker support.
+**رابطه سپاه**: این متغیر تعیین کننده سال 1 است. اگر پهلوی با رضایت سپاه (حتی ضمنی) برگردد، با اتهام راه حلی تحت حمایت سپاه مواجه می شود. اگر او علیه مخالفان سپاه برگردد، به یک ترتیب امنیتی جایگزین نیاز دارد - یا حفظ صلح بین‌المللی یا حمایت آرتش - که ممکن است در دسترس نباشد. تشبیه اسپانیا حاکی از اصلاحات تدریجی نظامی در طول سالیان است، نه برچیده شدن فوری نهادی. اما ویژگی ایدئولوژیک سپاه (که بر پایه انقلاب ضد پهلوی پایه گذاری شده است) تطبیق تدریجی را سخت تر از انتقال نظامی غیرسیاسی اسپانیا می کند.
 
-The risk is compounded by class dynamics: the diaspora disproportionately represents Iran's pre-revolutionary upper and upper-middle classes, whose interests may diverge from those of Iran's contemporary working class and rural population. A government perceived as "Beverly Hills Iranians coming back to reclaim their property" -- however unfair that caricature -- would face devastating populist opposition. The broader lesson from diaspora studies: diaspora fragmentation is a liability, but diaspora unity around the wrong objective (dynastic restoration rather than constitutional democracy) is worse.
+**عدالت انتقالی برای میراث ساواک**: سابقه پاسخگویی خود خانواده پهلوی - شکنجه های مستند ساواک، اعدام های سیاسی، عواقب کودتای 1953 - پویایی خاص عدالت انتقالی را ایجاد می کند. یک حکومت به رهبری پهلوی یا باید با این رکورد به طور معتبر مقابله کند یا به نظر می رسد که یک سری از معافیت از مجازات را برای دیگری معکوس می کند.
 
-**SAVAK's legacy and transitional justice**: The Shah's SAVAK documented torture and execution of political opponents. The accountability ratchet -- diaspora documentation, international human rights law, the ICC framework -- applies to the Shah's era as well as the Islamic Republic's. A Pahlavi-led government that does not address this record will appear to be pursuing the same erasure of accountability that the Islamic Republic practiced toward its own crimes. A credible transitional justice process must address both eras. The prosecution-pardon sequence, combined with South Africa-style sunset clauses, may offer a path: establish the factual record through prosecution, then negotiate amnesty through democratic process rather than executive decree.
+شواهد مقایسه ای از اسپانیا (پیمان فراموشی) این است که فراموشی در کوتاه مدت موفق می شود اما بی ثباتی سیاسی طولانی مدت ایجاد می کند. توالی تعقیب و عفو مورد استفاده در چندین دوره گذار در آمریکای لاتین - ابتدا پیگرد قانونی برای اثبات سوابق واقعی، سپس در نظر گرفتن عفو ​​از طریق فرآیند دموکراتیک - ممکن است معتبرترین رویکرد باشد. جنایات خود جمهوری اسلامی (قتل عام زندان 1988، چندین دهه اعدام سیاسی، کشتار اعتراضی 2022-2026) پاسخگویی را می طلبد. اما روندی تحت رهبری پهلوی که جنایات جمهوری اسلامی را مورد پیگرد قرار دهد و جنایات دوران پهلوی را نادیده بگیرد، فاقد اقتدار اخلاقی خواهد بود.
 
-**The nuclear question**: A Pahlavi-led government may be more inclined to comprehensive nuclear disarmament in exchange for international normalization -- welcomed by the US and Israel but politically vulnerable domestically. The nuclear program has been framed as a sovereignty achievement that predates the Islamic Republic (the Shah himself initiated it in the 1970s). Comprehensive disarmament could be framed as Pahlavi sacrificing Iranian sovereignty to please the same foreign powers who installed his father -- activating the 1953 narrative at maximum intensity. Managing nuclear concessions without triggering nationalist backlash is a specific challenge the Pahlavi scenario faces that other scenarios can handle differently (see [War Escalation](./war-escalation.md) for the military dimension).
+**تنش دیاسپورا و داخلی**: سناریوی پهلوی در دیاسپورا بیشتر از داخل ایران طرفدار دارد. سلطنت 47 سال فرصت داشت تا از خاطره زنده ایرانیان زیر 65 سال محو شود. برای دیاسپورا، حافظه آن خوش‌خیم‌تر است. بازگشت پهلوی بلافاصله این شکاف را آشکار خواهد کرد. عودت کنندگان دیاسپورا که مناصب کلیدی دولتی را اشغال می کنند باعث ایجاد خشم در میان ایرانیانی می شود که جمهوری اسلامی را در حالی که مهاجران خارج از کشور زندگی می کردند تحمل کردند. دولتی که به‌عنوان «ایرانی‌های بورلی هیلز برای بازپس‌گیری دارایی‌های خود بازمی‌گردند» تلقی می‌شود - هر چند این کاریکاتور ناعادلانه باشد - با مخالفت پوپولیستی ویرانگر مواجه خواهد شد.
 
-**IRGC's ideological opposition**: The IRGC's founding mythology centers on opposition to the Pahlavi order. The Sepah-e Pasdaran was created to prevent exactly the scenario described in this document. Even IRGC pragmatists who might accept democratic transition could refuse a *Pahlavi-led* transition specifically. The IRGC's institutional identity -- the anniversaries it celebrates, the martyrs it commemorates, the history it teaches its recruits -- is constructed around the revolution that ended Pahlavi rule. Asking the IRGC to accept a Pahlavi return is asking it to repudiate its own reason for existing. This is not the same as asking the Spanish military to accept democracy; it is closer to asking the IDF to accept Hamas governance -- a comparison that overstates but captures the structural dynamic.
+**حکومت اقتصادی و بازسازی**: اقتصاد ایران در حال فروپاشی است: تحریم ها، آسیب های جنگ، دهه ها سوءمدیریت و رانت خواری سپاه شرایطی را ایجاد کرده است که با روسیه پس از شوروی قابل مقایسه است. یک دولت تحت رهبری پهلوی با این سوال روبرو خواهد شد که آیا باید خصوصی‌سازی سریع (که در روسیه باعث ایجاد الیگارشی شد)، اصلاحات تدریجی (که خطر طولانی شدن بحران را به دنبال دارد) یا انتقال مدیریت‌شده با حفظ ظرفیت دولتی (که نیازمند تکنوکرات‌های توانمندی است که دیاسپورا ممکن است تامین کند اما جمعیت داخلی ممکن است اعتماد نداشته باشد) را دنبال کند.
 
-**Factionalism within the monarchist camp**: The monarchist movement is not monolithic. It contains constitutional democrats who see Pahlavi as a transitional figure, hardline monarchists who want full dynastic restoration, diaspora business interests who want economic liberalization and asset recovery, and various exile political formations with competing leadership ambitions. The risk of internal fragmentation -- between those who want genuine democracy and those who want restoration of privilege -- could paralyze the transition from within.
+سهم 15 تا 25 درصدی سپاه پاسداران در تولید ناخالص داخلی را نمی توان به سادگی بدون اختلال اقتصادی مصادره کرد. باید از طریق فرآیندی باز شود که ضمن انتقال مالکیت، اشتغال و تولید را حفظ کند. دیاسپورا دارای تخصص اقتصادی قابل توجهی است، اما سیاست اقتصادی تحت رهبری دیاسپورا خطر اولویت دادن به ادغام بین المللی بر رفاه داخلی را دارد.
 
-**The "new authoritarian" risk**: The comparative literature on monarchist restorations reveals a pattern: the restored monarch arrives with democratic promises, but the institutional vacuum, security threats, and economic crisis create pressure for centralization. Advisors argue that "stability requires strong leadership"; the military demands a unified chain of command; international partners prefer a single reliable interlocutor. Step by step, the constitutional monarch acquires executive functions -- emergency powers that become permanent, security oversight that becomes intelligence control, economic coordination that becomes patronage distribution. Thailand's trajectory illustrates this: a nominally constitutional monarchy that becomes the anchor of military-monarchist authoritarianism. The risk is not that Pahlavi intends authoritarianism; it is that structural pressures push any post-transition leader toward it, and a monarchical framework provides the ideological justification ("national unity under the crown") that a republican leader would lack.
+**پویایی به‌رسمیت‌شناسی بین‌المللی**: حکومتی تحت رهبری پهلوی احتمالاً به سرعت از سوی ایالات متحده، اسرائیل، کشورهای خلیج فارس و قدرت های اروپایی - که همگی ثبات را ترجیح می دهند و روابط موجود با شبکه پهلوی دارند، به رسمیت شناخته می شود. روسیه و چین که روابط خود را با جمهوری اسلامی حفظ کردند، دیرتر به رسمیت شناخته شدند. به رسمیت شناختن منطقه ای از سوی عراق، ترکیه و پاکستان به موضع دولت در قبال خودمختاری کردها، اقلیت های قومی و خلع سلاح هسته ای بستگی دارد. به رسمیت شناختن سریع بین‌المللی می‌تواند راه‌های حیات اقتصادی (تسکین تحریم‌ها، کمک‌های بازسازی) را فراهم کند، اما همچنین روایت "تحمیل شده از خارج" را در داخل کشور تقویت کند.
 
-**The risk that Pahlavi becomes a US instrument**: American strategic interests in a post-Islamic Republic Iran -- nuclear disarmament, normalization with Israel, containment of Russia and China, energy market access -- may diverge from Iranian democratic aspirations. A Pahlavi dependent on US support for his return may be unable to resist American policy demands even when they conflict with Iranian sovereignty. The perception that the new Iranian government is an American client state would be as delegitimizing as the perception that the Islamic Republic was a revolutionary state that sacrificed Iranian welfare for ideological goals. This risk intersects with the 1953 shadow: every US policy demand on a Pahlavi-led government will be framed by opponents as confirming that the restoration was an American project from the beginning.
+### فاز 3: پنج ساله (آوریل 2031)
 
----
+نتایج پنج ساله تقریباً به طور کامل به معماری قانون اساسی که در سال اول ایجاد شد بستگی دارد:
 
-## 7. What Should Be Done Now
+*نتیجه خوب*: یک قانون اساسی تصویب شده یک جمهوری قانون اساسی را پس از یک همه پرسی آزاد ایجاد می کند. پهلوی نتیجه را می پذیرد و از سیاست کناره می گیرد. نهادهای دموکراتیک تحت شتاب خود توسعه می یابند. از طرف دیگر، یک سلطنت مشروطه با حمایت واقعی دموکراتیک تصویب می شود و ایران به یک کشور دموکراتیک با یک پادشاه تشریفاتی، پارلمان فعال و قوه قضاییه مستقل تبدیل می شود. در هر دو نسخه، انتقال به عنوان مشروع به یاد می‌آید، زیرا سؤال از مردم مطرح شد و پاسخ مورد احترام قرار گرفت. سپاه پاسداران انقلاب اسلامی به یک نیروی نظامی متعارف تحت نظارت غیرنظامی، با فرماندهان سابق که انتقال را پذیرفته بودند، با مقررات عفو محافظت می شود، بازسازی شده است. تحریم ها به طور قابل توجهی برداشته شده اند و ادغام مجدد ایران در اقتصاد بین المللی در حال انجام است.
 
-**Civil society** -- regardless of views on monarchy, should be building organizational capacity to demand constitutional constraints on *any* returning figure. The question is not whether Pahlavi is acceptable but whether any transitional leader will be subject to institutional checks. Civil society organizations inside Iran should develop and publicize minimum constitutional requirements -- independent judiciary, free press, civilian control of the military, minority rights protections -- that apply regardless of whether the government is a monarchy, republic, or anything else. The capacity to say "no" to a monarchist power grab is the same capacity needed to say "no" to an IRGC power grab or a populist demagogue. It is generic democratic infrastructure, and building it now serves every scenario.
+*نتیجه متوسط*: سلطنت مشروطه با نهادهای دموکراتیک واقعی اما محدود برقرار می شود. ایران شبیه اردن یا مراکش است -- یک سلطنت مشروطه با مشارکت واقعی اما محدود دموکراتیک، جایی که نفوذ غیررسمی پادشاه بدون مداخله آشکار، سیاست را شکل می دهد. نظام سلطنتی ثبات را فراهم می کند اما محرک تعمیق دموکراتیک نیست. رفراندوم یا هنوز اتفاق نیفتاده است و یا در شرایط مناقشه‌آمیز به پیروزی محدود سلطنت‌طلبان منجر شد. سپاه پاسداران انقلاب اسلامی قدرت اقتصادی قابل توجهی را از طریق کنگلومراهای بازسازی شده حفظ می کند، و رابطه سلطنت با ارتش به تایلند نزدیک تر است تا اسپانیا -- عملکردی اما به طرز ناخوشایندی صمیمی. کاهش تحریم‌ها جزئی است و مشروط به ادامه پایبندی هسته‌ای است.
 
-**Diaspora** -- monarchist resources should be directed behind a constitutional framework rather than dynastic restoration. The most valuable thing the monarchist diaspora can do is commit publicly and irrevocably to a referendum on Iran's constitutional form -- including explicitly accepting a negative result. If the referendum produces a republic, monarchist organizations should commit to supporting it. This commitment, made credibly before any transition, is the single most powerful signal that the Pahlavi option is democratic rather than restorationist.
-
-Diaspora fragmentation is a liability; the most effective contribution is unified advocacy for constitutional process, not competition among exile factions for post-transition positions. The Chalabi/INC warning applies directly: exile groups that spend their organizational energy on positioning for post-transition power rather than building domestic legitimacy produce the Afghanistan/Iraq outcome, not the Spain outcome.
-
-**International actors** -- should not predetermine Iran's successor. The 1953 dynamic is not just a domestic Iranian concern; it is a structural feature of any externally-influenced transition. The US, EU, and regional powers should create conditions for transition (sanctions architecture, security guarantees, reconstruction frameworks) without choosing personnel.
-
-Endorsing Pahlavi specifically -- even informally -- would trigger the Operation Ajax narrative with devastating effect. The optimal international posture is: "We will work with whoever Iranians choose through a democratic process." Anything more specific is counterproductive. This applies equally to the Islamabad talks: if the ceasefire framework includes any language that could be read as endorsing a specific successor, it will delegitimize both the framework and the successor.
-
-**Reform elites inside Iran** -- should understand that a Pahlavi-led transition does not necessarily protect Islamic Republic officials. Unlike the [Reform Within](./reform-within.md) scenario, where existing elites manage the transition and can build in self-protective mechanisms, a monarchist restoration could mean regime officials face accountability without institutional protection. Carefully designed amnesty -- modeled on South Africa's sunset clauses or Spain's Pact of Forgetting, negotiated before the transition rather than imposed after it -- may serve reform elites' interests better than either resistance or unconditional surrender.
-
-**Pahlavi himself** -- should be making binding, public commitments to a constitutional referendum with acceptance of any outcome. Building a transition team that includes non-monarchists -- democrats, federalists, labor representatives, ethnic minority leaders -- not exclusively diaspora royalists. Publicly acknowledging the Pahlavi era's failures (SAVAK, the 1953 coup's legacy, ethnic suppression) without defensiveness -- this would be the single most powerful signal of democratic sincerity. Avoiding any appearance of coordination with foreign intelligence services or governments that could trigger the 1953 narrative.
-
-The specific actions that would most increase the scenario's democratic credibility:
-
-1. A public statement committing to a referendum on monarchy vs. republic within 18 months of any transition, with explicit acceptance of abolition if the public so chooses
-2. Appointment of a transition advisory council with majority non-monarchist membership, including representatives from Iran's ethnic minorities, labor movement, and women's movement
-3. A public acknowledgment of SAVAK's torture record and the Pahlavi era's ethnic suppression, without qualifying language or historical comparisons designed to minimize
-4. Refusal to accept financial or logistical support from any government intelligence service, with transparent disclosure of all funding sources
-5. Publication of a proposed constitutional framework that limits the monarch to ceremonial functions, with specific enumeration of powers the monarch would *not* hold
+*نتیجه بد*: اقتدار انتقالی توسط تندروهای سلطنت طلب، نخبگان دیاسپورا، یا چهره های مجاور سپاه که از مشروعیت پهلوی به عنوان پوششی برای تحکیم مجدد استبدادی استفاده می کنند، تسخیر می شود. ایران دارای نوع دیگری از حکومت شخصی است -- مدل تایلند که در آن نهادهای دموکراتیک روی کاغذ وجود دارند اما قدرت واقعی در جای دیگری نهفته است. یا سناریوی [چندپارگی](./fragmentation.md) با ناتوانی دولت ضعیف پهلوی در جلوگیری از فروپاشی گریز از مرکز محقق می شود. بدترین نوع فرعی: رفراندوم برگزار می شود و جمهوری ایجاد می کند، اما پهلوی یا حامیانش از پذیرش نتیجه امتناع می ورزند و بحران قانون اساسی ایجاد می کند که تمام حکومت های بعدی را نامشروع می کند.
 
 ---
 
-## 8. Iran-Specific Complications
+## 5. مکانیسم های کلیدی در بازی
 
-### IRGC attitude -- the founding-mythology problem
+**بسیج جامعه مدنی و امتیازات رژیم** ([مکانیسم](../mechanisms/civil-society-mobilization-regime-concessions.md)): رابطه جنبش اعتراضی با سناریوی پهلوی عمیقاً دوسویه است. شعارهای «رضاشاه روحت شاد» بهتر است به عنوان نفی جمهوری اسلامی خوانده شود تا تأیید سلطنت - مخالف تاریخی برای نفی حال است، نه برای بازگرداندن گذشته. این که آیا سازمان‌های جامعه مدنی که تحت حکومت جمهوری اسلامی زنده مانده‌اند، گذار به رهبری پهلوی را می‌پذیرند یا نه، تقریباً کاملاً به این بستگی دارد که آیا تعهدات قانون اساسی او معتبر و تأیید شده است یا خیر.
 
-The IRGC's relationship to a potential Pahlavi return is qualitatively different from any military's relationship to democratic transition in the comparative cases. The Sepah was not merely a military force loyal to the Islamic Republic; it was created specifically to prevent the return of the Pahlavi order. Its founding narrative, its institutional culture, its commemorative calendar, its training curriculum -- all are constructed around the revolution that ended Pahlavi rule.
+اهرم جامعه مدنی در این سناریو ظرفیت آن برای پس گرفتن حمایت است: اگر جنبش اعتراضی علیه یک دوره گذار تحت رهبری پهلوی مخالفت کند، می تواند همان قدرت خیابانی را علیه سلطنتی که علیه جمهوری اسلامی به کار گرفته بود بسیج کند. مهم‌ترین کارکرد جامعه مدنی، حمایت یا مخالفت با پهلوی نیست، بلکه ایجاد ظرفیت سازمانی برای محدود کردن *هر* چهره بازگشتی - سلطنت طلب، دمکراتیک یا نظامی است. این ظرفیت نهادی عمومی بادوام ترین سرمایه گذاری است که جامعه مدنی می تواند صرف نظر از اینکه کدام سناریو محقق می شود انجام دهد.
 
-This means that even IRGC pragmatists who might accept a democratic transition, a military-led transition, or even a [Fragmentation](./fragmentation.md) scenario could refuse a Pahlavi-led transition specifically. The ideological rejection runs deeper than interest calculation. The Spain parallel fails here most acutely: the Spanish military was not founded on anti-monarchist ideology; it was institutionally neutral toward the monarchy. The IRGC is institutionally anti-Pahlavi.
+**شکست چانه زنی نخبگان و بن بست یا کودتا** ([مکانیسم](../mechanisms/elite-bargaining-failure-stalemate-or-coup.md)): سناریوی پهلوی دقیقاً به این دلیل جذاب است که راهی برای برون رفت از چانه زنی نخبگان ارائه می دهد - شخصیتی که نمی تواند به عنوان یک واقعیت هماهنگی برای شکست در خدمت باشد. زمانی که همه گزینه های دیگر به بن بست منجر می شوند. اما این کارکرد بستگی به این دارد که او در واقع فراتر از سیاست جناحی باشد، که بازیگران خارجی و حامیان دیاسپورا ممکن است اجازه ندهند اگر منافع خاصی در استفاده از او برای پیشبرد برنامه های خود داشته باشند.
 
-This does not mean IRGC cooperation is impossible -- institutional identities can be renegotiated, especially under economic pressure and military defeat. But it means the IRGC negotiation in the Pahlavi scenario is harder than in any other scenario, and the risk of IRGC spoiler behavior (sabotage, assassination, insurgency) is highest under this scenario specifically.
+شبکه پهلوی خود شامل جناح‌های رقیب است - سلطنت‌طلبان تندرو که خواهان بازسازی کامل هستند، دموکرات‌های مشروطه‌خواه که پهلوی را نماد انتقالی می‌دانند، و عمل‌گرایان که می‌خواهند فرصت‌های اقتصادی تغییر رژیم را به دست آورند. اگر هر یک از این بخش‌ها به‌طور مشهودی فرآیند را ضبط کند، تابع نقطه شلینگ از بین می‌رود.
 
-### Ethnic minorities and the monarchy
+**اقتدار دینی و انتقال مشروعیت** ([مکانیسم](../mechanisms/religious-authority-legitimacy-transfer.md)): این عمیق ترین مشکل ساختاری سناریوی پهلوی است. جمهوری اسلامی مشروعیت سیاسی را از طریق ولایت فقیه از دستگاه دینی می گرفت. هر جانشینی باید به چگونگی ارتباط نهادهای مذهبی ایران با نظم سیاسی جدید بپردازد. رابطه تاریخی خاندان پهلوی با مرجعیت مذهبی شیعیان پر از تنش بود - مدرنیزاسیون سکولاریزه شاه، شرایط را برای انقلاب خمینی ایجاد کرد. گذار به رهبری پهلوی که با نظام حوزوی به عنوان یک دشمن برخورد می کند، همین پویایی را بازسازی خواهد کرد.
 
-The Pahlavi era was characterized by ethnically Persian-nationalist governance that suppressed Kurdish political expression, forced the settlement of Qashqai nomads, restricted Azerbaijani-language education, and marginalized Baloch communities. The Shah's Iran was a Persian state in a multiethnic country.
+با این حال، سنت ساکت گرایی در فقه شیعه - که نمونه آن آیت الله العظمی سیستانی در عراق است - ممکن است به طور متناقضی با نظم مشروطه تحت رهبری پهلوی همسو باشد. ساکت خواهانی که جدایی مرجع دینی و سیاسی را ترجیح می دهند، ممکن است چارچوب قانون اساسی را بپذیرند (یا حتی ترجیح دهند) که روحانیون را از حکومت حذف می کند، به ویژه پس از دهه ها که در آن ولایت فقیه اسلام سیاسی را در میان بسیاری از ایرانیان بدنام کرده است. این هم ترازی بالقوه در اکثر تحلیل ها مورد بررسی قرار نگرفته است. خطر در طرف دیگر: مدل دیانت ترکیه (کنترل دولتی بر امور مذهبی) نشان می دهد که چگونه یک دولت "سکولار" می تواند نهادهای مذهبی را به جای جداسازی واقعی آنها تسخیر کند -- آسیب پذیری که هر سکولاریزاسیون به رهبری پهلوی باید از آن اجتناب کند.
 
-A Pahlavi restoration would face immediate skepticism from Iran's ethnic minorities -- approximately 40-50% of the population -- who associate the Pahlavi name with cultural suppression. Kurdish political parties, Azerbaijani activists, Baloch organizations, and Arab communities in Khuzestan would demand guarantees that a constitutional monarchy would not reproduce the ethnic hierarchy of the Pahlavi era.
+**لحظه مشروطه و قفل اکثریت** ([مکانیسم](../mechanisms/constitutional-moment-majority-lock-in.md)): سناریوی پهلوی تنها زمانی از نظر دموکراتیک پایدار است که لحظه مشروطه سندی با مشروعیت اکثریت واقعی تولید کند -- از طریق فرآیندی که در آن سلطنت پیش از دوره سلطنت نباشد. شواهد مقایسه ای در مورد طول عمر قانون اساسی (تحلیل گینزبورگ از 935 قانون اساسی) نشان می دهد که قوانین اساسی جامع و تصویب شده باقی می مانند. لحظات تحمیلی یا تسخیر شده مشروطه چنین نیست.
 
-The tension between Persian nationalism (historically associated with the monarchy) and civic nationalism (required for a stable multiethnic democracy) is one of the scenario's underexplored fault lines. A Pahlavi return that does not explicitly address ethnic federalism or regional autonomy will face centrifugal pressure from day one (see [Fragmentation](./fragmentation.md) for the breakup scenario this could trigger).
-
-### Shia clerical establishment -- the underexplored alignment
-
-Most analyses assume the clerical establishment would uniformly oppose a Pahlavi return. This may be wrong.
-
-The quietist tradition in Shia jurisprudence -- which holds that clerics should provide moral and spiritual guidance but not exercise political power -- has deep roots in Iranian seminary culture. Grand Ayatollah Sistani's model in Iraq demonstrates that quietism is not merely theoretical; it is a functioning alternative to velayat-e faqih. After 47 years in which political Islam has produced corruption, repression, and the discrediting of religion itself among many Iranians, significant elements of the Qom seminary system may prefer a constitutional order that separates religion from politics -- restoring the clergy's moral authority by removing it from political accountability.
-
-A Pahlavi-led constitutional monarchy that guarantees religious freedom and institutional autonomy for the seminaries, without either controlling them (Turkey's Diyanet model, which creates capture vulnerability) or persecuting them (the Shah's occasional confrontations with the clergy), could find unexpected clerical support. This is speculative but analytically important: the assumption that all clerics oppose a Pahlavi return may be wrong, and quietist alignment could remove one of the scenario's most formidable obstacles.
-
-### Persian-nationalism vs. civic nationalism
-
-The Pahlavi dynasty built its legitimacy partly on a narrative of Persian civilizational greatness -- the Lion and Sun emblem, the emphasis on pre-Islamic Iranian identity, the Shah's 2,500-year celebration at Persepolis. This narrative resonated with ethnic Persians but alienated minorities and provided ideological ammunition for Khomeini's populist-Islamic alternative.
-
-A 21st-century Pahlavi-led Iran would need to navigate between the Lion and Sun symbolism (which animates the monarchist base) and the civic-national identity (which is necessary for multiethnic democratic legitimacy). The protest movement's use of pre-Islamic symbols reflects genuine cultural attachment, but translating that cultural attachment into a political program that includes Kurds, Azerbaijanis, Balochis, and Arabs requires a nationalism that transcends ethnic Persianism. Whether Pahlavi can make that transition -- from the symbol of Persian restoration to the figurehead of Iranian civic democracy -- is an open question that the monarchist movement has not adequately addressed.
-
-### No theocracy has ever transitioned to democracy
-
-Iran's Islamic Republic is historically unique -- no theocratic state has completed a democratic transition. This means all comparative cases are imperfect by definition. The Pahlavi scenario does not escape this problem; it simply changes its form. Instead of asking "how does a theocracy democratize?" it asks "how does a theocracy accept the return of the dynasty it was created to replace?" There is no precedent for this question either. The analytical framework must be built from partial parallels rather than direct cases -- which is why this document uses six different historical comparisons, each illuminating a different facet without any single one capturing the whole.
-
-### The property and asset restitution question
-
-The 1979 revolution confiscated Pahlavi family assets and those of the pre-revolutionary elite. A Pahlavi restoration would immediately raise the question of property restitution -- not only for the Pahlavi family itself but for the broader class of Iranians whose property was seized by the revolutionary state, the bonyads, or IRGC-connected enterprises. Post-communist transitions in Eastern Europe demonstrate the destabilizing potential of restitution claims: Czech restitution created legal chaos for a decade; Russian non-restitution produced oligarchy. A Pahlavi-led government would face pressure from diaspora supporters to pursue restitution, while domestic Iranians who have lived in or built businesses on confiscated properties for 47 years would resist. The property question is not primarily legal; it is a political flashpoint that could turn economic class conflict into the transition's defining internal battle.
-
-### The Artesh question
-
-The Artesh (regular military) is the institution most likely to provide domestic security backing for a Pahlavi return. Its institutional identity predates the Islamic Republic, its officer corps has historically maintained distance from IRGC political involvement, and its professional military culture may be more compatible with a constitutional framework than the IRGC's ideological orientation. However, the Artesh has been systematically subordinated to the IRGC since 1979 -- underfunded, sidelined from major operations, and denied access to advanced weapons systems. Whether the Artesh has sufficient organizational capacity and weapons to provide security in the absence of IRGC cooperation is an open question. A Pahlavi scenario that depends on Artesh security backing is betting on an institution that has been deliberately weakened for nearly five decades.
+روند قانون اساسی ایران باید شامل اقلیت‌های قومی، زنان، اقلیت‌های مذهبی، کارگری و جمعیت روستایی باشد - نه تنها نخبگان غرب‌زده تهران و عودت‌کنندگان دیاسپورا. شکست شیلی در سال 2022 نشان می دهد که گنجاندن به تنهایی کافی نیست. مذاکره ساختاریافته و سازش به همان اندازه ضروری هستند. بن‌بست نهادی ولایت فقیه موضوعیت دارد: شورای نگهبان که باید اصلاحات قانون اساسی را تصویب کند، هرگز لغو خود را تایید نخواهد کرد. بنابراین تغییر قانون اساسی یا مستلزم فروپاشی رژیم (که قانون اساسی موجود را باطل می کند) یا یک روند موازی قانون اساسی که مشروعیت آن ناشی از دستور دموکراتیک است نه تداوم نهادی است.
 
 ---
 
-## 9. Indicators to Watch
+## 6. خطرات بحرانی
 
-### Strengthening indicators (Pahlavi pathway becoming more plausible)
+**سایه 1953**: این را نمی توان اغراق کرد. هرگونه بازگشت خانواده پهلوی تحت حمایت ایالات متحده، کمک مالی دیاسپورا و خارج از کشور، در داخل و منطقه به عنوان تکرار عملیات آژاکس خوانده می شود - کودتای مورد حمایت سیا که مصدق را برکنار کرد و محمدرضا شاه را ترمیم کرد. این چارچوب توسط تندروها، وفاداران به جمهوری اسلامی، و جناح های چپ و ناسیونالیست که عشقی به جمهوری اسلامی ندارند، اما به همان اندازه عشقی به سلطنت احیا شده تحت حمایت قدرت های خارجی ندارند، استفاده خواهد شد. مشروعیت زدایی تاریخی محدودیت تعیین کننده سناریو است. حتی اگر پهلوی از طریق یک فرآیند واقعاً دموکراتیک بازگردد، مخالفان خلاف آن را ادعا خواهند کرد -- و سابقه 1953 به این ادعا اعتبار خودکار می بخشد. هیچ مقدار از پیام رسانی نمی تواند این را خنثی کند. تنها راه کاهش جزئی، فرآیندی است که به قدری شفاف داخلی و دموکراتیک است که مقایسه سال 1953، اگرچه اجتناب ناپذیر است، اما با شکست مواجه می شود.
 
-**Pahlavi's own behavior**:
+**رفراندم مشروطه سلطنتی -- آزمون خوان کارلوس**: تعهد اعلام شده پهلوی به رفراندوم در مورد شکل مشروطه مهمترین اعتبار دموکراتیک او -- و شکننده ترین آن است. حامیان سلطنت طلب برای تاخیر استدلال خواهند کرد ("صبر کنید تا کشور باثبات شود"). حامیان بین المللی ممکن است اطمینان را بر خطر رفراندوم ترجیح دهند. و زیرساخت های سیاسی سلطنت علیه رفراندوم که ممکن است آن را لغو کند، تحت فشار قرار خواهد گرفت.
 
-- Pahlavi commits publicly and irrevocably to a constitutional referendum on monarchy vs. republic, with explicit acceptance of any outcome -- including abolition
-- Pahlavi builds a transition team that visibly includes non-monarchists: democratic activists, ethnic minority representatives, labor figures, women's rights advocates
-- Pahlavi publicly acknowledges SAVAK's record and the Pahlavi era's failures without defensiveness or qualification
-- Pahlavi declines exclusive meetings with US or Israeli officials, insisting on multilateral or publicly transparent engagement
+اعتبار پهلوی به برگزاری رفراندوم آزادانه درباره آینده قانون اساسی ایران بستگی دارد یا کاهش می یابد، حتی اگر نتیجه آن نامشخص باشد. سابقه یونانی (69 درصد به لغو سلطنت رای دادند) نشان می دهد که نتیجه برای سلطنت طلبان واقعاً خطرناک است. این آزمون خوان کارلوس است: تمایل به به خطر انداختن بقای نهادی خود چیزی است که باعث ایجاد اعتبار دموکراتیک می شود که احتمال بقای نهادی را بیشتر می کند. تلاش برای تضمین نتیجه، اعتباری را که نتیجه قرار بود ایجاد کند، از بین می برد.
 
-**International dynamics**:
+**خارج در مقابل شکاف مشروعیت داخلی**: دیاسپورا بیشتر از جمعیت داخلی ایران سلطنت طلب است. گذار به رهبری پهلوی که برای حفظ خود به منابع سیاسی و مالی دیاسپورا متکی است، ترجیحات سیاسی دیاسپورا را وارد یک محیط سیاسی داخلی می کند که در آن از حمایت ضعیف تری برخوردارند.
 
-- International actors decline to endorse any specific successor, creating space for domestic process rather than external selection
-- Islamabad framework produces governance conditionality without naming personnel
-- US and EU officials publicly state that Iran's constitutional form is for Iranians to decide
-- Sanctions relief architecture is designed to reward democratic process rather than specific political outcomes
+این خطر با پویایی طبقاتی ترکیب می شود: دیاسپورا به طور نامتناسبی نماینده طبقات متوسط ​​رو به بالا و بالای پیش از انقلاب ایران است که ممکن است منافع آنها با منافع طبقه کارگر و جمعیت روستایی معاصر ایران متفاوت باشد. دولتی که به‌عنوان «ایرانی‌های بورلی هیلز برای بازپس‌گیری دارایی‌های خود بازمی‌گردند» تلقی می‌شود - هر چند این کاریکاتور ناعادلانه باشد - با مخالفت پوپولیستی ویرانگر مواجه خواهد شد. درسی گسترده تر از مطالعات دیاسپورا: پراکندگی دیاسپورا یک مسئولیت است، اما اتحاد دیاسپورا حول هدف اشتباه (ترمیم سلسله به جای دموکراسی مبتنی بر قانون اساسی) بدتر است.
 
-**Domestic signals**:
+**میراث ساواک و عدالت انتقالی**: ساواک شاه شکنجه و اعدام مخالفان سیاسی را مستند کرد. ضامن پاسخگویی - اسناد دیاسپورا، حقوق بین‌الملل حقوق بشر، چارچوب دیوان کیفری بین‌المللی - برای دوران شاه و همچنین جمهوری اسلامی اعمال می‌شود. به نظر می رسد حکومتی تحت رهبری پهلوی که به این سوابق توجهی نمی کند، همان پاکسازی پاسخگویی را دنبال می کند که جمهوری اسلامی در قبال جنایات خود انجام داد. یک فرآیند عدالت انتقالی معتبر باید به هر دو دوره بپردازد. توالی تعقیب-عفو، همراه با بندهای غروب آفتاب به سبک آفریقای جنوبی، ممکن است راهی را ارائه دهد: ثبت سوابق واقعی از طریق پیگرد قانونی، سپس مذاکره درباره عفو از طریق فرآیند دموکراتیک به جای فرمان اجرایی.
 
-- Lion and Sun symbolism becomes dominant in protests across multiple provinces (not just Tehran)
-- Civil society organizations inside Iran include Pahlavi as an acceptable transitional figure among several options -- not the only option, but not excluded
-- Artesh officers or units establish contact with Pahlavi's network, providing potential domestic security backing
-- Bazaar merchants and private-sector figures signal willingness to work with a Pahlavi-led transition (economic pragmatism overriding political reservations)
-- Quietist clerics in Qom signal acceptance of constitutional separation of religion and politics
-- Workers' councils or labor organizers conditionally accept Pahlavi as transitional figure contingent on constitutional guarantees
+**مسئله هسته ای**: یک دولت تحت رهبری پهلوی ممکن است تمایل بیشتری به خلع سلاح هسته ای همه جانبه در ازای عادی سازی بین المللی داشته باشد -- مورد استقبال ایالات متحده و اسرائیل اما از نظر سیاسی در داخل کشور آسیب پذیر است. برنامه هسته ای به عنوان یک دستاورد حاکمیتی پیش از جمهوری اسلامی (شاه خود آن را در دهه 1970 آغاز کرد) در نظر گرفته شده است. خلع سلاح همه‌جانبه را می‌توان به‌عنوان قربانی کردن حاکمیت ایران توسط پهلوی برای خشنود ساختن همان قدرت‌های خارجی که پدرش را نصب کردند، توصیف کرد - روایت 1953 را با حداکثر شدت فعال کرد. مدیریت امتیازات هسته‌ای بدون برانگیختن واکنش‌های ملی‌گرایانه چالش خاصی است که سناریوی پهلوی با آن مواجه است و سناریوهای دیگر می‌توانند به‌گونه‌ای متفاوت از عهده آن برآیند (برای بعد نظامی به [تشدید جنگ](./war-escalation.md) مراجعه کنید).
 
-**Diaspora signals**:
+**اپوزیسیون ایدئولوژیک سپاه**: اسطوره های تأسیس سپاه بر مخالفت با نظم پهلوی متمرکز است. سپاه پاسداران دقیقاً برای جلوگیری از سناریویی که در این سند بیان شده ایجاد شده است. حتی عمل‌گرایان سپاه پاسداران انقلاب اسلامی که ممکن است انتقال دموکراتیک را بپذیرند، می‌توانند به طور خاص از انتقال *به رهبری پهلوی* خودداری کنند. هویت نهادی سپاه - سالگردهایی که جشن می‌گیرد، شهدایی که به یادگار می‌گذارد، تاریخی که به سربازانش می‌آموزد - حول محور انقلابی ساخته شده است که به حکومت پهلوی پایان داد. درخواست از سپاه برای پذیرش بازگشت پهلوی به معنای رد دلیل وجودی خود است. این همان درخواست از ارتش اسپانیا برای پذیرش دموکراسی نیست. به درخواست ارتش اسرائیل برای پذیرش حکومت حماس نزدیک تر است -- مقایسه ای که اغراق آمیز است اما پویایی ساختاری را به تصویر می کشد.
 
-- Monarchist organizations publicly commit to referendum acceptance, including negative outcome
-- Diaspora political activity shifts from dynastic loyalty to constitutional advocacy
-- Monarchist media platforms give airtime to non-monarchist opposition voices
-- Diaspora technical and professional organizations offer expertise without political preconditions
+**جنبش گرایی در اردوگاه سلطنت طلب*: جنبش سلطنت طلب یکپارچه نیست. این شامل دموکرات‌های مشروطه‌خواه است که پهلوی را چهره‌ای در حال انتقال می‌دانند، سلطنت طلبان تندرو که خواهان احیای کامل سلسله هستند، منافع تجاری دیاسپورا که خواهان آزادسازی اقتصادی و احیای دارایی‌ها هستند، و تشکل‌های مختلف سیاسی تبعیدی با جاه‌طلبی‌های رهبری رقابتی. خطر پراکندگی داخلی - بین کسانی که خواهان دموکراسی واقعی هستند و کسانی که خواهان احیای امتیاز هستند - می تواند گذار از درون را فلج کند.
 
-### Economic threshold indicators
+**خطر «اقتدارگرای جدید»**: ادبیات تطبیقی ​​در مورد احیای سلطنت طلب الگویی را نشان می دهد: پادشاه احیا شده با وعده های دموکراتیک وارد می شود، اما خلاء نهادی، تهدیدات امنیتی و بحران اقتصادی فشاری را برای تمرکز ایجاد می کند. مشاوران استدلال می کنند که "ثبات نیاز به رهبری قوی دارد". ارتش خواستار یک زنجیره فرماندهی واحد است. شرکای بین المللی یک همکار قابل اعتماد واحد را ترجیح می دهند. گام به گام، پادشاه مشروطه وظایف اجرایی را به دست می آورد - اختیارات اضطراری که دائمی می شوند، نظارت امنیتی که به کنترل اطلاعاتی تبدیل می شود، هماهنگی اقتصادی که به توزیع حمایتی تبدیل می شود. خط سیر تایلند این را نشان می دهد: یک سلطنت اسمی مشروطه که به لنگر اقتدارگرایی نظامی-سلطنتی تبدیل می شود. خطر این نیست که پهلوی قصد اقتدارگرایی دارد. این است که فشارهای ساختاری هر رهبر پس از گذار را به سمت آن سوق می دهد، و چارچوب سلطنتی توجیه ایدئولوژیک ("وحدت ملی زیر تاج") را فراهم می کند که یک رهبر جمهوری خواه فاقد آن است.
 
-- Sustained inflation below 50% and stabilizing (reduces desperation that makes unconventional options thinkable)
-- Oil prices above $90/barrel (relieves regime fiscal pressure, reduces collapse probability)
-- IRGC-controlled firms maintaining solvency (reduces IRGC incentive to negotiate with any opposition)
-- Sanctions relief beginning under existing regime (removes transition as prerequisite for economic recovery)
-- Black market exchange rate converging with official rate (indicates monetary credibility recovery)
-
-### Weakening indicators (Pahlavi pathway becoming less plausible)
-
-**Democratic opposition consolidation**:
-
-- The democratic opposition inside Iran produces a unified alternative leadership with national name recognition -- a figure or coalition that provides the Schelling-point function without the monarchist baggage
-- Protest movement explicitly and consistently rejects monarchy -- not just in isolated instances but as a coordinated position across provinces and social classes
-- Civil society organizations inside Iran publicly exclude any monarchist option from acceptable transition outcomes
-- Labor unions and professional associations align behind a republican constitutional framework
-
-**Pahlavi's own missteps**:
-
-- Pahlavi implies executive rather than ceremonial authority -- language suggesting he would govern rather than symbolize
-- Pahlavi's team is visibly dominated by diaspora hardline monarchists rather than constitutional democrats
-- Pahlavi accepts exclusive meetings with US or Israeli officials without multilateral framing
-- The monarchist camp delays or conditions the referendum commitment
-- Pahlavi fails to acknowledge SAVAK's record or the Pahlavi era's ethnic suppression
-
-**Alternative captures**:
-
-- IRGC produces its own transition candidate with sufficient domestic legitimacy to preempt the Pahlavi option (see [Reform Within](./reform-within.md))
-- A charismatic domestic figure emerges from the protest movement with organizational capacity and cross-ethnic appeal
-- Regional powers (Turkey, Saudi Arabia) back competing transition frameworks that exclude monarchist options
-- Russia and China provide sufficient economic support to the Islamic Republic to prevent the collapse that enables the Pahlavi scenario
-
-**Structural indicators**:
-
-- Oil prices spike, relieving regime fiscal pressure and reducing the economic collapse that creates transition conditions
-- Ceasefire collapses into renewed military conflict, consolidating IRGC hardliner control (see [War Escalation](./war-escalation.md))
-- Ethnic separatist movements gain enough momentum that national-level monarchist symbolism loses relevance -- the country's fractures make any unitary monarchist vision implausible (see [Fragmentation](./fragmentation.md))
-- Economic recovery sufficient to reduce the desperation that makes unconventional options like monarchy restoration thinkable
-- Islamabad talks produce a framework that stabilizes the Islamic Republic without governance conditions -- economic relief without political reform removes the transition trigger
+**خطر تبدیل پهلوی به ابزار ایالات متحده**: منافع استراتژیک آمریکا در ایران پس از جمهوری اسلامی - خلع سلاح هسته ای، عادی سازی با اسرائیل، مهار روسیه و چین، دسترسی به بازار انرژی - ممکن است با آرمان های دموکراتیک ایران فاصله داشته باشد. پهلوی وابسته به حمایت ایالات متحده برای بازگشت خود ممکن است نتواند در برابر خواسته های سیاست آمریکا حتی زمانی که با حاکمیت ایران در تضاد باشد، مقاومت کند. این تصور که دولت جدید ایران یک دولت مشتری آمریکایی است به همان اندازه مشروعیت زدایی خواهد بود که این تصور که جمهوری اسلامی یک دولت انقلابی است که رفاه ایران را قربانی اهداف ایدئولوژیک کرده است. این خطر با سایه 1953 تلاقی می کند: هر درخواست سیاست ایالات متحده در مورد یک حکومت تحت رهبری پهلوی توسط مخالفان به عنوان تأیید کننده این موضوع است که بازسازی از ابتدا یک پروژه آمریکایی بوده است.
 
 ---
 
-## Cross-References
+## 7. اکنون چه کاری باید انجام شود
 
-- [Democratic Transition scenario](./democratic-transition.md) -- The primary alternative pathway that competes with and could preempt the Pahlavi option
-- [Reform Within scenario](./reform-within.md) -- Incremental change from inside the system that makes the Pahlavi option unnecessary
-- [Fragmentation scenario](./fragmentation.md) -- The failure mode if a Pahlavi-led government cannot hold the country together
-- [War Escalation scenario](./war-escalation.md) -- Military dynamics that shape the transition context and nuclear question
-- [Status Quo Decay scenario](./status-quo-decay.md) -- Continued Islamic Republic survival that forecloses the Pahlavi option
-- [Constitutional Design](../v2/governance/constitutional-design.md) -- Institutional design analysis applicable to constitutional monarchy framework
-- [Transitional Justice](../v2/governance/transitional-justice.md) -- Accountability framework covering both Pahlavi-era and Islamic Republic-era crimes
-- [Civil-Military Relations](../v2/security/civil-military-relations.md) -- IRGC oversight, Artesh role, and military transition mechanics
-- [Sanctions and Economic Recovery](../v2/economy/sanctions-reintegration.md) -- Economic dimensions of any post-transition reconstruction
-- [Power-Sharing](../v2/governance/power-sharing.md) -- Coalition and inclusion mechanisms relevant to IRGC negotiation
-- [Diaspora Role](../v2/society/diaspora-engagement.md) -- Diaspora organizational dynamics and resource transfer analysis
+**جامعه مدنی** -- صرف نظر از دیدگاه‌های مربوط به سلطنت، باید ظرفیت سازمانی ایجاد کند تا محدودیت‌های قانون اساسی برای *هر* چهره بازگشتی را مطالبه کند. مسئله این نیست که آیا پهلوی قابل قبول است یا نه، بلکه این است که آیا هر رهبر انتقالی تحت نظارت نهادی قرار خواهد گرفت یا خیر. سازمان‌های جامعه مدنی در داخل ایران باید حداقل الزامات قانون اساسی - قوه قضائیه مستقل، مطبوعات آزاد، کنترل غیرنظامی ارتش، حمایت از حقوق اقلیت‌ها - را که صرف‌نظر از اینکه حکومت پادشاهی، جمهوری یا هر چیز دیگری باشد، ایجاد و منتشر کنند. ظرفیت «نه» گفتن به قدرت گرفتن سلطنت طلب، همان ظرفیتی است که برای «نه» گفتن به قدرت گرفتن سپاه یا یک عوام فریب پوپولیست لازم است. این زیرساخت دموکراتیک عمومی است و ساخت آن اکنون در خدمت هر سناریویی است.
+
+**دیاسپورا** -- منابع سلطنت طلب باید به جای بازسازی سلسله ای، در پشت چارچوب قانون اساسی هدایت شوند. ارزشمندترین کاری که دیاسپورای سلطنت طلب می تواند انجام دهد این است که به طور علنی و غیرقابل برگشت به همه پرسی در مورد شکل قانون اساسی ایران متعهد شود - از جمله پذیرفتن صریح نتیجه منفی. اگر همه پرسی منجر به یک جمهوری شود، سازمان های سلطنت طلب باید متعهد به حمایت از آن شوند. این تعهد که قبل از هر انتقالی به طور قابل اعتمادی صورت گرفت، تنها قوی ترین نشانه دموکراتیک بودن گزینه پهلوی است تا ترمیم گرایانه.
+
+پراکندگی دیاسپورا یک مسئولیت است. مؤثرترین سهم، حمایت یکپارچه از روند قانون اساسی است، نه رقابت میان جناح های تبعیدی برای موقعیت های پس از گذار. هشدار چلبی/ان.
+
+**بازیگران بین المللی ** -- نباید جانشین ایران را از قبل تعیین کنند. پویایی 1953 فقط یک نگرانی داخلی ایران نیست. این یک ویژگی ساختاری هر گذار تحت تأثیر بیرونی است. ایالات متحده، اتحادیه اروپا و قدرت های منطقه ای باید بدون انتخاب پرسنل شرایطی را برای گذار (معماری تحریم ها، تضمین های امنیتی، چارچوب های بازسازی) ایجاد کنند.
+
+تأیید خاص پهلوی - حتی غیررسمی - روایت عملیات آژاکس را با تأثیرات ویرانگر آغاز می کند. موضع مطلوب بین المللی این است: "ما با هر کسی که ایرانی ها انتخاب کنند از طریق یک فرآیند دموکراتیک کار خواهیم کرد." هر چیزی خاص تر نتیجه معکوس دارد. این موضوع در مورد مذاکرات اسلام‌آباد نیز صدق می‌کند: اگر چارچوب آتش‌بس شامل هر زبانی باشد که بتوان آن را تایید یک جانشین خاص خواند، هم چارچوب و هم جانشین را مشروعیت‌زدایی می‌کند.
+
+**نخبگان اصلاحات در داخل ایران ** -- باید درک کنند که انتقال به رهبری پهلوی لزوماً از مقامات جمهوری اسلامی محافظت نمی کند. برخلاف سناریوی [اصلاح در درون](./reform-within.md)، که در آن نخبگان موجود انتقال را مدیریت می‌کنند و می‌توانند سازوکارهای محافظت از خود را ایجاد کنند، احیای سلطنت‌گرایانه می‌تواند به این معنا باشد که مقامات رژیم بدون حمایت نهادی با پاسخگویی مواجه می‌شوند. عفو با دقت طراحی شده - با الگوبرداری از بندهای غروب افریقای جنوبی یا پیمان فراموشی اسپانیا، که قبل از انتقال به جای تحمیل پس از آن مذاکره شده است - ممکن است بیشتر از مقاومت یا تسلیم بی قید و شرط به نفع نخبگان اصلاحات باشد.
+
+**خود پهلوی**- باید تعهدات الزام آور و عمومی نسبت به همه پرسی قانون اساسی با پذیرش هر نتیجه ای داشته باشد. ایجاد یک تیم انتقالی که شامل غیر سلطنت طلبان - دموکرات ها، فدرالیست ها، نمایندگان کارگری، رهبران اقلیت های قومی - نه منحصراً سلطنت طلبان دیاسپورا باشد. اعتراف علنی شکست های دوران پهلوی (ساواک، میراث کودتای 1953، سرکوب قومی) بدون دفاع - این تنها قوی ترین علامت صداقت دموکراتیک خواهد بود. پرهیز از هرگونه هماهنگی با سرویس‌های اطلاعاتی خارجی یا دولت‌ها که می‌تواند روایت 1953 را آغاز کند.
+
+اقدامات خاصی که بیشتر اعتبار دموکراتیک سناریو را افزایش می دهد:
+
+1. بیانیه عمومی مبنی بر متعهد شدن به رفراندوم سلطنت در مقابل جمهوری ظرف 18 ماه پس از هر انتقال، با پذیرش صریح لغو در صورت تمایل مردم.
+2. تعیین یک شورای مشورتی انتقالی با اکثریت اعضای غیر سلطنتی شامل نمایندگان اقلیت های قومی ایران، جنبش کارگری و جنبش زنان.
+3. تصدیق علنی سوابق شکنجه ساواک و سرکوب قومی دوران پهلوی، بدون زبان واجد شرایط یا مقایسه تاریخی که برای به حداقل رساندن طراحی شده است.
+4. امتناع از پذیرش حمایت مالی یا لجستیکی از هر سرویس اطلاعاتی دولتی، با افشای شفاف همه منابع مالی
+5. انتشار یک چارچوب قانون اساسی پیشنهادی که پادشاه را به وظایف تشریفاتی محدود می‌کند، با شمارش مشخصی از اختیاراتی که پادشاه *نمی* داشته باشد.
+
+---
+
+## 8. عوارض خاص ایران
+
+### نگرش سپاه -- مسئله بنیانگذاری-اسطوره شناسی
+
+رابطه سپاه پاسداران انقلاب اسلامی با بازگشت احتمالی پهلوی از نظر کیفی با رابطه هر نظامی با انتقال دموکراتیک در موارد مقایسه ای متفاوت است. سپاه صرفاً یک نیروی نظامی وفادار به جمهوری اسلامی نبود. به طور خاص برای جلوگیری از بازگشت نظم پهلوی ایجاد شد. روایت بنیانگذار آن، فرهنگ نهادی آن، تقویم یادبود آن، برنامه درسی آموزشی آن -- همه حول محور انقلابی ساخته شده اند که به حکومت پهلوی پایان داد.
+
+این بدان معناست که حتی عمل‌گرایان سپاه که ممکن است یک انتقال دموکراتیک، یک انتقال به رهبری نظامی، یا حتی یک سناریوی [چندپارگی](./fragmentation.md) را بپذیرند، می‌توانند به طور خاص از انتقال به رهبری پهلوی خودداری کنند. رد ایدئولوژیک عمیق تر از محاسبه بهره است. موازی اسپانیا در اینجا به شدت شکست می خورد: ارتش اسپانیا بر اساس ایدئولوژی ضد سلطنتی بنا نشده است. از نظر نهادی نسبت به سلطنت بی طرف بود. سپاه از نظر نهادی ضد پهلوی است.
+
+این بدان معنا نیست که همکاری سپاه پاسداران انقلاب اسلامی غیرممکن است -- هویت های نهادی را می توان مجدداً مورد مذاکره قرار داد، به ویژه تحت فشار اقتصادی و شکست نظامی. اما این بدان معناست که مذاکره سپاه در سناریوی پهلوی سخت‌تر از هر سناریوی دیگری است و خطر رفتار خرابکارانه سپاه (خرابکاری، ترور، شورش) در این سناریو به طور خاص بالاتر است.
+
+### اقلیت های قومی و سلطنت
+
+مشخصه دوران پهلوی حکومت‌داری قومی-ناسیونالیستی ایرانی بود که بیان سیاسی کردها را سرکوب کرد، اسکان عشایر قشقایی را اجباری کرد، آموزش به زبان آذربایجانی را محدود کرد، و جوامع بلوچ را به حاشیه راند. ایران شاه یک دولت پارسی در یک کشور چند قومیتی بود.
+
+احیای پهلوی با بدبینی فوری اقلیت‌های قومی ایران - تقریباً 40 تا 50 درصد جمعیت - مواجه خواهد شد که نام پهلوی را با سرکوب فرهنگی مرتبط می‌دانند. احزاب سیاسی کرد، فعالان آذربایجانی، سازمان‌های بلوچ و جوامع عرب در خوزستان ضمانت‌هایی را می‌خواهند که سلطنت مشروطه سلسله مراتب قومی دوران پهلوی را بازتولید نکند.
+
+تنش بین ناسیونالیسم فارسی (از لحاظ تاریخی مرتبط با سلطنت) و ناسیونالیسم مدنی (که برای یک دموکراسی چند قومی باثبات لازم است) یکی از خطوط گسل ناشناخته این سناریو است. بازگشت پهلوی که صراحتاً به فدرالیسم قومی یا خودمختاری منطقه‌ای نمی‌پردازد، از روز اول با فشار گریز از مرکز مواجه خواهد شد (برای سناریوی فروپاشی که ممکن است باعث ایجاد آن شود به [چندپارگی](./fragmentation.md) مراجعه کنید).
+
+### نهاد روحانیت شیعه -- صف بندی ناشناخته
+
+اکثر تحلیل ها فرض می کنند که تشکیلات روحانی به طور یکسان با بازگشت پهلوی مخالفت می کند. این ممکن است اشتباه باشد.
+
+سنت آرام گرایانه در فقه شیعه - که معتقد است روحانیون باید راهنمایی اخلاقی و معنوی ارائه دهند اما قدرت سیاسی را اعمال نکنند - ریشه عمیقی در فرهنگ حوزوی ایران دارد. الگوی آیت الله العظمی سیستانی در عراق نشان می دهد که آرام گرایی صرفاً نظری نیست. جایگزینی کارآمد برای ولایت فقیه است. پس از 47 سال که در آن اسلام سیاسی فساد، سرکوب و بی اعتبار کردن خود دین را در میان بسیاری از ایرانیان ایجاد کرده است، عناصر مهمی از نظام حوزه علمیه قم ممکن است نظمی را ترجیح دهند که دین را از سیاست جدا می‌کند – بازگرداندن اقتدار اخلاقی روحانیت با حذف آن از مسئولیت سیاسی.
+
+سلطنت مشروطه تحت رهبری پهلوی که آزادی مذهبی و خودمختاری نهادی را برای حوزه‌های علمیه تضمین می‌کند، بدون اینکه آنها را کنترل کند (الگوی دیانت ترکیه، که آسیب‌پذیری اسیر را ایجاد می‌کند) یا آزار و اذیت آنها (درگیری‌های گاه‌گاهی شاه با روحانیت)، می‌تواند حمایت غیرمنتظره‌ای از روحانیون پیدا کند. این یک حدس و گمان است اما از نظر تحلیلی مهم است: این فرض که همه روحانیون مخالف بازگشت پهلوی هستند ممکن است اشتباه باشد، و همسویی آرام می‌تواند یکی از بزرگ‌ترین موانع این سناریو را برطرف کند.
+
+### ناسیونالیسم ایرانی در مقابل ناسیونالیسم مدنی
+
+سلسله پهلوی مشروعیت خود را تا حدی بر اساس روایتی از عظمت تمدن ایرانی - نشان شیر و خورشید، تأکید بر هویت ایرانی قبل از اسلام، جشن ۲۵۰۰ ساله شاه در تخت جمشید، بنا کرد. این روایت با قومیت‌های فارس طنین‌انداز شد، اما اقلیت‌ها را از خود دور کرد و مهمات ایدئولوژیکی را برای آلترناتیو پوپولیستی-اسلامی خمینی فراهم کرد.
+
+یک ایران تحت رهبری پهلوی قرن بیست و یکم باید بین نمادهای شیر و خورشید (که پایه های سلطنت طلب را زنده می کند) و هویت مدنی-ملی (که برای مشروعیت دموکراتیک چند قومی ضروری است) حرکت کند. استفاده جنبش اعتراضی از نمادهای پیش از اسلام نشان دهنده پیوست فرهنگی واقعی است، اما ترجمه این پیوست فرهنگی به یک برنامه سیاسی شامل کردها، آذربایجانی ها، بلوچ ها و عرب ها مستلزم ناسیونالیسمی است که فراتر از فارس گرایی قومی باشد. اینکه آیا پهلوی می‌تواند این گذار را انجام دهد - از نماد احیای پارسی به چهره‌ای دموکراسی مدنی ایرانی - سؤالی است که جنبش سلطنت‌گرایی به اندازه کافی به آن پرداخته است.
+
+### هیچ حکومت دینی هرگز به دموکراسی منتقل نشده است
+
+جمهوری اسلامی ایران از نظر تاریخی منحصربه‌فرد است -- هیچ دولت دین‌سالاری انتقال دموکراتیک را تکمیل نکرده است. این بدان معناست که تمام موارد مقایسه ای بنا به تعریف ناقص هستند. سناریوی پهلوی نیز از این مشکل دور نیست. به سادگی شکل خود را تغییر می دهد. به جای این که بپرسید "چگونه یک تئوکراسی دموکراتیک می شود؟" می پرسد "چگونه یک حکومت دینی بازگشت سلسله ای را که برای جایگزینی آن ایجاد شده است می پذیرد؟" این سوال هم سابقه ای ندارد. چارچوب تحلیلی باید از موازی های جزئی به جای موارد مستقیم ساخته شود - به همین دلیل است که این سند از شش مقایسه تاریخی مختلف استفاده می کند که هر یک وجه متفاوتی را روشن می کند بدون اینکه هیچ یک از آنها کل را در بر بگیرد.
+
+### سوال استرداد اموال و دارایی
+
+انقلاب 1357 دارایی های خانواده پهلوی و نخبگان پیش از انقلاب را مصادره کرد. بازگرداندن پهلوی بلافاصله مسئله استرداد اموال را مطرح می‌کند - نه تنها برای خود خانواده پهلوی، بلکه برای طبقه وسیع‌تری از ایرانیان که دارایی‌شان توسط دولت انقلابی، بنیادها یا شرکت‌های وابسته به سپاه تصرف شده است. گذارهای پساکمونیستی در اروپای شرقی پتانسیل بی‌ثبات‌کننده ادعاهای استرداد را نشان می‌دهد: استرداد چک برای یک دهه هرج و مرج قانونی ایجاد کرد. عدم استرداد روسیه باعث ایجاد الیگارشی شد. حکومتی تحت رهبری پهلوی با فشار حامیان دیاسپورا برای پیگیری استرداد مواجه خواهد شد، در حالی که ایرانیان داخلی که به مدت 47 سال در املاک مصادره شده زندگی کرده یا تجارت کرده اند، مقاومت خواهند کرد. موضوع مالکیت اصولاً قانونی نیست. این یک نقطه اشتعال سیاسی است که می تواند تضاد طبقاتی اقتصادی را به نبرد داخلی تعیین کننده دوران گذار تبدیل کند.
+
+### سوال آرتش
+
+آرتش (ارتش عادی) نهادی است که احتمالاً پشتوانه امنیت داخلی برای بازگشت پهلوی را فراهم می کند. هویت نهادی آن پیش از جمهوری اسلامی است، ارتش افسری آن از لحاظ تاریخی فاصله خود را با دخالت سیاسی سپاه حفظ کرده است، و فرهنگ نظامی حرفه ای آن ممکن است بیشتر از جهت گیری ایدئولوژیک سپاه با چارچوب قانون اساسی سازگار باشد. با این حال، آرتش از سال 1979 به طور سیستماتیک زیر مجموعه سپاه پاسداران انقلاب اسلامی بوده است -- با کمبود بودجه، کنار گذاشته شدن از عملیات بزرگ و محرومیت از دسترسی به سیستم های تسلیحاتی پیشرفته. اینکه آیا آرتش از ظرفیت سازمانی و سلاح کافی برای تامین امنیت در غیاب همکاری سپاه برخوردار است یا خیر، سوالی است که باز است. سناریوی پهلوی که وابسته به پشتوانه امنیتی آرتش است، شرط بندی بر روی نهادی است که نزدیک به پنج دهه عمداً تضعیف شده است.
+
+---
+
+## 9. شاخص هایی برای تماشا
+
+### تقویت شاخص‌ها (معتبرتر شدن مسیر پهلوی)
+
+**رفتار خود پهلوی**:
+
+- پهلوی علناً و غیرقابل برگشت به رفراندوم قانون اساسی در مورد سلطنت در مقابل جمهوری متعهد می شود، با پذیرش صریح هر نتیجه ای - از جمله لغو آن.
+- پهلوی یک تیم انتقالی می سازد که آشکارا شامل غیر سلطنت طلبان می شود: فعالان دمکراتیک، نمایندگان اقلیت های قومی، شخصیت های کارگری، مدافعان حقوق زنان.
+- پهلوی علناً سوابق ساواک و ناکامی های دوران پهلوی را بدون دفاع و صلاحیت اعتراف می کند.
+- پهلوی از ملاقات انحصاری با مقامات آمریکایی یا اسرائیلی، اصرار بر تعامل چند جانبه یا علنی شفاف خودداری می کند.
+
+** پویایی بین المللی**:
+
+- بازیگران بین المللی از تایید هر جانشین خاص خودداری می کنند و به جای انتخاب خارجی، فضایی را برای فرآیند داخلی ایجاد می کنند
+- چارچوب اسلام آباد مشروطیت حاکمیتی را بدون نام بردن از پرسنل تولید می کند
+- مقامات ایالات متحده و اتحادیه اروپا علناً اعلام می کنند که شکل قانون اساسی ایران بر عهده ایرانیان است
+- معماری کاهش تحریم ها برای پاداش دادن به فرآیند دموکراتیک به جای نتایج سیاسی خاص طراحی شده است
+
+**سیگنال های داخلی**:
+
+- نماد شیر و خورشید در اعتراضات در استان های مختلف (نه فقط تهران) غالب می شود.
+- نهادهای جامعه مدنی در داخل ایران، پهلوی را به عنوان یک چهره قابل قبول انتقالی در میان چندین گزینه - نه تنها گزینه، اما مستثنی نشده- قرار می دهند.
+- افسران یا واحدهای آرتش با شبکه پهلوی ارتباط برقرار می کنند و پشتوانه امنیتی داخلی بالقوه را فراهم می کنند
+- بازرگانان بازار و چهره‌های بخش خصوصی نشان می‌دهند که تمایل دارند با یک دوره گذار تحت رهبری پهلوی همکاری کنند (عمل‌گرایی اقتصادی که بر ملاحظات سیاسی غالب است)
+روحانیون آرام در قم از پذیرش جدایی دین از سیاست در قانون اساسی خبر دادند.
+- شوراهای کارگری یا سازمان‌دهندگان کارگری، پهلوی را به‌عنوان شخصیت انتقالی مشروط به ضمانت‌های قانون اساسی مشروط می‌پذیرند.
+
+**سیگنال های دیاسپورا**:
+
+- سازمان های سلطنت طلب علناً متعهد به پذیرش همه پرسی، از جمله نتیجه منفی هستند
+- فعالیت سیاسی دیاسپورا از وفاداری خاندانی به طرفداری از قانون اساسی تغییر می کند
+- تریبون های رسانه ای سلطنت طلب به صداهای اپوزیسیون غیر سلطنت طلب وقت پخش می دهند
+- سازمان های فنی و حرفه ای دیاسپورا بدون پیش شرط های سیاسی تخصص ارائه می دهند
+
+### شاخص های آستانه اقتصادی
+
+- تورم پایدار زیر 50 درصد و تثبیت (ناامیدی را کاهش می دهد که گزینه های غیر متعارف را قابل فکر می کند)
+- قیمت نفت بالای 90 دلار در هر بشکه (کاهش فشار مالی رژیم، کاهش احتمال سقوط)
+- شرکت‌های تحت کنترل سپاه که توانایی پرداخت بدهی خود را حفظ می‌کنند (انگیزه سپاه را برای مذاکره با مخالفان کاهش می‌دهد)
+- رفع تحریم ها در رژیم موجود آغاز می شود (حذف گذار به عنوان پیش نیاز بهبود اقتصادی)
+- نرخ ارز بازار سیاه همگرا با نرخ رسمی (نشان دهنده بهبود اعتبار پولی)
+
+### تضعیف شاخص ها (کمتر شدن مسیر پهلوی)
+
+**تحکیم اپوزیسیون دموکراتیک**:
+
+- اپوزیسیون دموکراتیک در داخل ایران یک رهبری جایگزین متحد با نام ملی ایجاد می کند - شخصیت یا ائتلافی که عملکرد نقطه شلینگ را بدون توشه سلطنتی فراهم می کند.
+- جنبش اعتراضی به طور صریح و پیوسته سلطنت را رد می کند -- نه فقط در موارد جداگانه بلکه به عنوان یک موضع هماهنگ در سراسر استان ها و طبقات اجتماعی
+- سازمان های جامعه مدنی در داخل ایران علناً هر گزینه سلطنت طلب را از نتایج قابل قبول گذار حذف می کنند
+- اتحادیه های کارگری و انجمن های حرفه ای در پشت چارچوب قانون اساسی جمهوری خواهان همسو می شوند
+
+**اشتباهات خود پهلوی**:
+
+- پهلوی به جای اقتدار تشریفاتی دلالت بر اقتدار اجرایی دارد - زبانی که نشان می‌دهد او به جای اینکه نماد باشد، حکومت می‌کند
+- تیم پهلوی به طور آشکار تحت سلطه سلطنت طلبان تندرو دیاسپورا است تا دموکرات های مشروطه.
+- پهلوی ملاقات های انحصاری با مقامات آمریکایی یا اسرائیلی را بدون چارچوب های چند جانبه می پذیرد
+- اردوگاه سلطنت طلب تعهد رفراندوم را به تأخیر می اندازد یا مشروط می کند
+- پهلوی به سوابق ساواک یا سرکوب قومی دوران پهلوی اعتراف نمی کند.
+
+**عکسبرداری جایگزین**:
+
+- سپاه نامزد انتقالی خود را با مشروعیت داخلی کافی برای پیشی گرفتن از گزینه پهلوی تولید می کند (به [اصلاح درون] مراجعه کنید (./reform-within.md))
+- یک شخصیت کاریزماتیک داخلی از جنبش اعتراضی با ظرفیت سازمانی و جذابیت بین قومی بیرون می آید
+- قدرت های منطقه ای (ترکیه، عربستان سعودی) از چارچوب های رقیب انتقالی که گزینه های سلطنت طلب را حذف می کند، حمایت می کنند.
+- روسیه و چین برای جلوگیری از فروپاشی که سناریوی پهلوی را ممکن می کند، حمایت اقتصادی کافی از جمهوری اسلامی می کنند.
+
+**شاخص های ساختاری**:
+
+- افزایش قیمت نفت، کاهش فشار مالی رژیم و کاهش فروپاشی اقتصادی که شرایط گذار را ایجاد می کند.
+- آتش بس به درگیری نظامی دوباره سقوط می کند و کنترل تندروهای سپاه را تحکیم می کند (به [تشدید جنگ](./war-escalation.md) مراجعه کنید)
+- جنبش‌های جدایی‌طلب قومی به اندازه‌ای شتاب می‌گیرند که نمادهای سلطنت‌طلبی در سطح ملی اهمیت خود را از دست می‌دهند - شکستگی‌های کشور هر دیدگاه سلطنت‌گرای واحد را غیرقابل قبول می‌کند (به [چندپارگی](./fragmentation.md) مراجعه کنید)
+- بهبود اقتصادی برای کاهش یأس کافی است که گزینه های غیر متعارف مانند احیای سلطنت را قابل فکر می کند.
+- مذاکرات اسلام آباد چارچوبی را ایجاد می کند که جمهوری اسلامی را بدون شرایط حاکمیتی تثبیت می کند - تسهیل اقتصادی بدون اصلاحات سیاسی، محرک گذار را از بین می برد.
+
+---
+
+## ارجاعات متقابل
+
+- [سناریوی گذار دموکراتیک](./democratic-transition.md) -- مسیر بدیل اولیه ای که با گزینه پهلوی رقابت می کند و می تواند مانع از آن شود.
+- [اصلاح در سناریو](./reform-within.md) -- تغییر تدریجی از داخل نظام که گزینه پهلوی را غیرضروری می کند.
+- [سناریوی تکه تکه شدن](./fragmentation.md) - حالت شکست اگر حکومت پهلوی نتواند کشور را نگه دارد.
+- [سناریوی تشدید جنگ](./war-escalation.md) - پویایی نظامی که زمینه انتقال و مسئله هسته ای را شکل می دهد
+- [سناریوی فروپاشی وضعیت موجود](./status-quo-decay.md) -- ادامه بقای جمهوری اسلامی که گزینه پهلوی را سلب می کند.
+- [طراحی قانون اساسی](../v2/governance/constitutional-design.md) - تحلیل طراحی نهادی قابل اجرا در چارچوب سلطنت مشروطه
+- [عدالت انتقالی](../v2/governance/transitional-justice.md) -- چارچوب پاسخگویی که جنایات دوران پهلوی و جمهوری اسلامی را پوشش می دهد.
+- [روابط ملکی-نظامی](../v2/security/civil-military-relations.md) -- نظارت سپاه، نقش آرتش و مکانیک انتقال نظامی
+- [تحریم ها و بهبود اقتصادی](../v2/economy/sanctions-reintegration.md) - ابعاد اقتصادی هر بازسازی پس از گذار
+- [تقسیم قدرت](../v2/governance/power-sharing.md) -- سازوکارهای ائتلاف و مشارکت مرتبط با مذاکره سپاه
+- [نقش دیاسپورا](../v2/society/diaspora-engagement.md) -- پویایی سازمانی دیاسپورا و تجزیه و تحلیل انتقال منابع
+
+</div>

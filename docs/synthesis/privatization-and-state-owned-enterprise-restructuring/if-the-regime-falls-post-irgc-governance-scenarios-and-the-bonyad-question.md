@@ -1,214 +1,218 @@
-> 🟢 **Evidence Confidence: High** — Question grounded in documented IRGC economic structures and comparative privatization literature. Bonyad asset estimates draw on available scholarship acknowledging valuation uncertainty. | 📎 **Source Alignment: 🟢 Strong** (77%)
+<div dir="rtl" markdown>
 
-What happens to the IRGC's economic empire — and Iran's broader bonyad (parastatal foundation) system — under different post-transition governance scenarios, and what does comparative evidence from Iraq's state enterprise dissolution, Russia's post-Soviet privatization, and Czech voucher privatization reveal about the likely trajectories and design choices available to transitional authorities?
+> **اعتماد به شواهد: بالا** — سوالی که بر اساس ساختارهای اقتصادی مستند سپاه و ادبیات تطبیقی ​​خصوصی سازی است. برآوردهای دارایی بنیاد بر اساس بورس تحصیلی موجود است که عدم قطعیت ارزش گذاری را تأیید می کند. | 📎 **همسویی منبع: قوی** (77%)
 
-The IRGC's economic footprint is estimated at 15-25% of Iranian GDP, channeled through holding companies (notably Khatam al-Anbiya Construction Headquarters), financial institutions, telecommunications firms, and import/export monopolies. Separately, Iran's bonyad system — parastatal religious foundations including Bonyad-e Mostazafan (Foundation of the Oppressed), Astan-e Quds Razavi, and approximately 120 smaller foundations — controls assets estimated at $20-100 billion (the range reflects genuine uncertainty about asset valuation). These bonyads report to the Supreme Leader rather than to parliament or the executive, operate outside normal budgetary oversight, and employ hundreds of thousands of Iranians.
+چه اتفاقی برای امپراتوری اقتصادی سپاه پاسداران انقلاب اسلامی – و سیستم بنیادی (بنیاد شبه دولتی) گسترده‌تر ایران – تحت سناریوهای مختلف حکومت‌داری پس از گذار می‌افتد، و شواهد مقایسه‌ای از انحلال شرکت دولتی عراق، خصوصی‌سازی روسیه پس از فروپاشی شوروی، و خصوصی‌سازی کوپن چک در مورد مسیرهای احتمالی موجود و انتخاب‌های طراحی انتقالی چه چیزی را نشان می‌دهد؟
 
-The April 2026 ceasefire creates a decision window: IRGC economic interests are simultaneously a potential obstacle to transition (commanders with billions at stake may resist any settlement that threatens their assets) and a potential lever (asset protection guarantees could incentivize cooperation with transition). The bonyad system presents a parallel question: these foundations control critical infrastructure and social welfare functions. Are they reform targets to be dismantled, or reconstruction vehicles to be repurposed?
+ردپای اقتصادی سپاه پاسداران 15 تا 25 درصد تولید ناخالص داخلی ایران تخمین زده می شود که از طریق شرکت های هلدینگ (به ویژه قرارگاه سازندگی خاتم الانبیا)، مؤسسات مالی، شرکت های مخابراتی و انحصارهای واردات/صادرات هدایت می شود. به طور جداگانه، سیستم بنیاد ایران - بنیادهای مذهبی نیمه دولتی از جمله بنیاد مستضعفان، آستان قدس رضوی و تقریباً 120 بنیاد کوچکتر - دارایی های تخمین زده شده بین 20 تا 100 میلیارد دلار را کنترل می کند (این محدوده نشان دهنده عدم اطمینان واقعی در مورد ارزش گذاری دارایی ها است). این بنیادها به جای به مجلس یا قوه مجریه به رهبر انقلاب گزارش می دهند، خارج از نظارت عادی بودجه عمل می کنند و صدها هزار ایرانی را استخدام می کنند.
 
-The core analytical question is: Under what conditions do military-economic conglomerates transition into (a) legitimate private enterprises, (b) captured oligarchic networks, (c) criminal economies, or (d) state-managed entities under reformed governance — and what policy design features push outcomes toward (a) or (d) rather than (b) or (c)?
+آتش‌بس آوریل 2026 یک پنجره تصمیم‌گیری ایجاد می‌کند: منافع اقتصادی سپاه به طور همزمان یک مانع بالقوه برای انتقال است (فرماندهانی که میلیاردها دلار در خطر هستند ممکن است در برابر هرگونه توافقی که دارایی‌های آنها را تهدید می‌کند مقاومت کنند) و یک اهرم بالقوه (ضمانت‌های حفاظت از دارایی می‌تواند مشوق همکاری با انتقال باشد). سیستم بنیاد یک سوال موازی را مطرح می کند: این پایه ها زیرساخت های حیاتی و عملکردهای رفاه اجتماعی را کنترل می کنند. آیا آنها اهدافی را اصلاح می کنند که باید برچیده شوند، یا وسایل نقلیه بازسازی برای تغییر کاربری؟
 
-> 🟢 **Evidence Confidence: High** — Russian privatization is exhaustively documented. Czech voucher privatization has robust academic literature. Iraqi SOE dissolution and Libyan post-revolution economics have substantial coverage. | 📎 **Source Alignment: 🟢 Strong** (81%)
+سوال اصلی تحلیلی این است: تحت چه شرایطی شرکت‌های نظامی-اقتصادی به (الف) شرکت‌های خصوصی قانونی، (ب) شبکه‌های الیگارشی تسخیر شده، (ج) اقتصادهای جنایی، یا (د) نهادهای تحت مدیریت دولتی تحت حاکمیت اصلاح‌شده - و چه ویژگی‌های طراحی سیاستی نتایج را به سمت (الف) یا (د) سوق می‌دهند؟
 
-IRAQ: STATE ENTERPRISE DISSOLUTION UNDER CPA (2003-2004)
+> **اعتماد به شواهد: بالا** - خصوصی سازی روسیه به طور کامل مستند شده است. خصوصی سازی کوپن چک دارای ادبیات علمی قوی است. انحلال شرکت های دولتی عراق و اقتصاد لیبی پس از انقلاب پوشش قابل توجهی دارند. | 📎 **همسویی منبع: قوی** (81%)
 
-Iraq's state-owned enterprise (SOE) sector employed approximately 500,000 workers across 192 enterprises at the time of the 2003 invasion. CPA Order 39 (September 2003) authorized foreign ownership of Iraqi businesses and established a framework for privatization, but implementation was limited by the deteriorating security environment. In practice, most Iraqi SOEs continued operating in a limbo state — neither privatized nor properly funded — throughout 2003-2005.
+عراق: انحلال شرکت دولتی تحت CPA (2003-2004)
 
-The more directly relevant precedent is the fate of Iraq's Military Industrialization Commission (MIC), which oversaw military-linked economic enterprises. The MIC was dissolved along with the military under CPA Order 2, and its assets were either destroyed, looted, or left unmanaged. Factories that had produced both military and civilian goods (cement, pharmaceuticals, basic industrial materials) ceased operations, contributing to supply shortages and unemployment. No structured disposition process was implemented for MIC assets; the vacuum was filled by a combination of informal markets, criminal networks, and eventual coalition contracting to foreign firms.
+بخش شرکت دولتی عراق (SOE) در زمان تهاجم سال 2003 تقریباً 500000 کارگر در 192 شرکت مشغول به کار بود. دستور 39 CPA (سپتامبر 2003) مالکیت خارجی شرکت‌های عراقی را مجاز کرد و چارچوبی را برای خصوصی‌سازی ایجاد کرد، اما اجرای آن به دلیل بدتر شدن محیط امنیتی محدود شد. در عمل، اکثر شرکت های دولتی عراق در یک وضعیت برزخ - نه خصوصی شده و نه با بودجه مناسب - در طول سال های 2003-2005 به فعالیت خود ادامه دادند.
 
-The Iraqi experience demonstrates the consequences of dissolving military-economic entities without asset transition planning. The absence of a structured process produced asset stripping, loss of productive capacity, and employment collapse in industrial regions. By 2005, Iraqi industrial output had declined to approximately 30% of pre-invasion levels.
+پیشینه مستقیم‌تر مرتبط‌تر، سرنوشت کمیسیون صنعتی‌سازی نظامی عراق (MIC) است که بر شرکت‌های اقتصادی مرتبط با ارتش نظارت می‌کرد. MIC همراه با ارتش تحت دستور 2 CPA منحل شد و دارایی های آن یا نابود شد، غارت شد یا بدون مدیریت رها شد. کارخانه‌هایی که هم کالاهای نظامی و هم غیرنظامی (سیمان، داروسازی، مواد اولیه صنعتی) تولید می‌کردند، فعالیت خود را متوقف کردند و به کمبود عرضه و بیکاری کمک کردند. هیچ فرآیند واگذاری ساختاری برای دارایی های MIC اجرا نشد. این خلاء با ترکیبی از بازارهای غیررسمی، شبکه های جنایی و در نهایت ائتلاف قرارداد با شرکت های خارجی پر شد.
 
-RUSSIA: POST-SOVIET PRIVATIZATION (1992-1999)
+تجربه عراق پیامدهای انحلال نهادهای نظامی-اقتصادی بدون برنامه ریزی انتقال دارایی را نشان می دهد. فقدان یک فرآیند ساختاریافته باعث سلب دارایی، از دست دادن ظرفیت تولیدی و فروپاشی اشتغال در مناطق صنعتی شد. تا سال 2005، تولید صنعتی عراق به حدود 30 درصد از سطوح قبل از حمله کاهش یافته بود.
 
-Russia's privatization of state assets offers the most relevant large-scale comparison for IRGC economic assets, though the political context differs significantly. The voucher privatization phase (1992-1994) distributed shares in state enterprises to citizens, but within months, vouchers concentrated in the hands of enterprise managers and emerging financial groups who purchased them cheaply from economically desperate citizens.
+روسیه: خصوصی سازی پس از شوروی (1992-1999)
 
-The loans-for-shares scheme (1995-1996) completed the oligarchic capture: politically connected individuals acquired controlling stakes in Russia's most valuable resource enterprises at a fraction of market value in exchange for financing Yeltsin's 1996 re-election campaign. By 1999, approximately 60% of Russia's industrial output was controlled by fewer than two dozen oligarchic groups, most of whom had held positions in the Soviet state apparatus or had cultivated relationships with security services.
+خصوصی‌سازی دارایی‌های دولتی روسیه مناسب‌ترین مقایسه در مقیاس بزرگ را برای دارایی‌های اقتصادی سپاه پاسداران انقلاب اسلامی ارائه می‌کند، اگرچه زمینه سیاسی به‌طور قابل توجهی متفاوت است. مرحله خصوصی‌سازی کوپن‌ها (۱۹۹۲-۱۹۹۴) سهام شرکت‌های دولتی را بین شهروندان توزیع کرد، اما ظرف چند ماه، کوپن‌ها در دست مدیران شرکت‌ها و گروه‌های مالی نوظهور متمرکز شدند که آنها را ارزان از شهروندان ناامید اقتصادی خریداری کردند.
 
-The mechanisms of oligarchic capture are well documented: (a) information asymmetry — insiders understood enterprise values while outsiders did not; (b) access to state credit — connected individuals received subsidized loans to finance acquisitions; (c) regulatory capture — new owners influenced the regulatory frameworks governing their industries; (d) enforcement gaps — weak judicial and regulatory institutions could not prevent asset stripping or enforce minority shareholder protections.
+طرح وام در ازای سهام (1995-1996) تسخیر الیگارشی را تکمیل کرد: افراد مرتبط با سیاست، سهام کنترلی در با ارزش ترین شرکت های منابع روسیه را با کسری از ارزش بازار در ازای تامین مالی کمپین انتخاباتی مجدد یلتسین در سال 1996 به دست آوردند. تا سال 1999، تقریباً 60 درصد از تولیدات صنعتی روسیه توسط کمتر از دوجین گروه الیگارشی کنترل می‌شد که اکثر آنها در دستگاه دولتی شوروی پست داشتند یا با سرویس‌های امنیتی روابط داشتند.
 
-The Russian experience is the primary cautionary case for Iran: IRGC commanders already possess the insider knowledge, financial networks, and political connections that enabled oligarchic capture in Russia. Without deliberate countermeasures, the default trajectory for IRGC economic assets is conversion from state-military control to oligarchic private control — replacing a military-economic complex with a criminal-economic one.
+مکانیسم‌های تسخیر الیگارشی به خوبی مستند شده است: (الف) عدم تقارن اطلاعاتی - خودی‌ها ارزش‌های شرکت را درک می‌کردند در حالی که خارجی‌ها نمی‌دانستند. (ب) دسترسی به اعتبار دولتی - افراد مرتبط وام‌های یارانه‌ای برای تأمین مالی تملک دریافت کردند. (ج) تسخیر نظارتی - مالکان جدید بر چارچوب های نظارتی حاکم بر صنایع خود تأثیر گذاشتند. (د) شکاف‌های اجرایی - نهادهای ضعیف قضایی و نظارتی نمی‌توانند از سلب دارایی جلوگیری کنند یا حمایت‌های سهامداران اقلیت را اجرا کنند.
 
-CZECH REPUBLIC: VOUCHER PRIVATIZATION (1992-1995)
+تجربه روسیه اولین مورد هشدار دهنده برای ایران است: فرماندهان سپاه در حال حاضر دارای دانش خودی، شبکه های مالی و ارتباطات سیاسی هستند که دستگیری الیگارشی در روسیه را ممکن ساخته است. بدون اقدامات متقابل عمدی، مسیر پیش‌فرض برای دارایی‌های اقتصادی سپاه تبدیل از کنترل دولتی-نظامی به کنترل خصوصی الیگارشی است – جایگزینی یک مجتمع نظامی-اقتصادی با یک مجتمع جنایی-اقتصادی.
 
-Czechoslovakia (later Czech Republic) implemented the most ambitious voucher privatization program in Central Europe. Citizens received voucher booklets to bid on shares in state enterprises. The process was more structured than Russia's: enterprises were individually assessed, and an organized bidding process replaced informal deal-making. Approximately 1,700 enterprises were privatized through the voucher program.
+جمهوری چک: خصوصی سازی کوپن (1992-1995)
 
-However, the Czech experience also demonstrated vulnerabilities. Investment Privatization Funds (IPFs) accumulated vouchers from citizens and gained controlling stakes in multiple enterprises. By 1996, several major IPFs had engaged in asset tunneling — transferring value from portfolio companies to fund managers through non-transparent transactions. The Harvard Capital and Consulting fund scandal exemplified this pattern, resulting in criminal charges and significant investor losses.
+چکسلواکی (بعداً جمهوری چک) بلندپروازانه ترین برنامه خصوصی سازی کوپن را در اروپای مرکزی اجرا کرد. شهروندان دفترچه های کوپن را برای پیشنهاد سهام در شرکت های دولتی دریافت کردند. این فرآیند ساختارمندتر از روسیه بود: شرکت ها به صورت جداگانه ارزیابی شدند و یک فرآیند مناقصه سازمان یافته جایگزین معامله غیررسمی شد. تقریباً 1700 شرکت از طریق برنامه کوپن خصوصی سازی شدند.
 
-The Czech model's relevance to Iran lies in its demonstration that even well-designed privatization programs require robust financial regulation, transparent corporate governance, and functioning courts to prevent insider extraction. The Czech Republic's EU accession process eventually imposed these safeguards, but the damage from the early period of weak regulation persisted for years.
+با این حال، تجربه چک نیز آسیب پذیری هایی را نشان داد. صندوق‌های خصوصی‌سازی سرمایه‌گذاری (IPF) کوپن‌هایی را از شهروندان جمع‌آوری کردند و سهام کنترلی را در چندین شرکت به دست آوردند. تا سال 1996، چندین IPF بزرگ درگیر تونل سازی دارایی بودند - انتقال ارزش از شرکت های پرتفوی به مدیران صندوق از طریق تراکنش های غیر شفاف. رسوایی صندوق سرمایه و مشاوره هاروارد نمونه ای از این الگو بود که منجر به اتهامات جنایی و ضررهای قابل توجه سرمایه گذاران شد.
 
-LIBYA: POST-QADHAFI ECONOMIC TRANSITION (2011-PRESENT)
+ارتباط مدل چک با ایران در اثبات آن نهفته است که نشان می‌دهد حتی برنامه‌های خصوصی‌سازی که به خوبی طراحی شده‌اند، نیازمند مقررات مالی قوی، حاکمیت شرکتی شفاف و دادگاه‌های کارآمد برای جلوگیری از استخراج اطلاعات داخلی هستند. روند الحاق جمهوری چک به اتحادیه اروپا در نهایت این پادمان ها را اعمال کرد، اما آسیب های ناشی از دوره اولیه مقررات ضعیف برای سال ها ادامه یافت.
 
-Libya's state-controlled economy under Qadhafi (where the state accounted for approximately 70% of GDP, primarily through oil) provides a cautionary comparison for oil-dependent states undergoing transition. The post-2011 period saw state economic assets — oil infrastructure, sovereign wealth fund investments, state-owned companies — become contested resources among competing militia factions rather than subjects of organized reform.
+لیبی: گذار اقتصادی پس از قذافی (2011-اکنون)
 
-The Libyan Investment Authority (LIA), with approximately $67 billion in assets, became a prize in the post-revolution power struggle rather than a tool for reconstruction. Competing governments both claimed authority over LIA assets, international courts froze portions, and management fragmentation reduced effective oversight. The result was neither privatization nor reform but paralysis and gradual asset degradation.
+اقتصاد لیبی تحت کنترل دولت قذافی (که در آن دولت تقریباً 70 درصد تولید ناخالص داخلی را به خود اختصاص داده است، عمدتاً از طریق نفت) مقایسه ای احتیاطی برای کشورهای وابسته به نفت در حال گذار است. دوره پس از 2011 شاهد بودیم که دارایی‌های اقتصادی دولتی - زیرساخت‌های نفتی، سرمایه‌گذاری‌های صندوق سرمایه‌گذاری دولتی، شرکت‌های دولتی - به منابع مورد مناقشه در میان جناح‌های شبه‌نظامی رقیب تبدیل شدند تا موضوع اصلاحات سازمان‌یافته.
 
-For Iran's bonyad system, Libya demonstrates what happens when parastatal wealth is neither reformed nor deliberately managed during transition: it becomes a vector for conflict rather than reconstruction.
+سازمان سرمایه گذاری لیبی (LIA) با حدود 67 میلیارد دلار دارایی، در جنگ قدرت پس از انقلاب به جای ابزاری برای بازسازی تبدیل به جایزه شد. دولت‌های رقیب هم ادعای اختیار بر دارایی‌های LIA داشتند، هم دادگاه‌های بین‌المللی بخش‌هایی را مسدود کردند و هم پراکندگی مدیریت، نظارت مؤثر را کاهش داد. نتیجه نه خصوصی سازی بود و نه اصلاحات، بلکه فلج شدن و تخریب تدریجی دارایی ها بود.
 
-## Cross-Country Patterns
+برای نظام بنیادی ایران، لیبی نشان می‌دهد که چه اتفاقی می‌افتد وقتی ثروت نیمه‌دولتی نه اصلاح شود و نه عمداً در جریان گذار مدیریت شود: این به جای بازسازی، تبدیل به ناقلی برای درگیری می‌شود.
 
-> 🟢 **Evidence Confidence: High** — Patterns derived from well-documented privatization outcomes across multiple cases with convergent findings. | 📎 **Source Alignment: 🟢 Strong** (79%)
+## الگوهای بین کشوری
 
-Cross-case analysis reveals four patterns governing post-authoritarian economic restructuring:
+> **اعتماد به شواهد: بالا** - الگوهای به دست آمده از نتایج مستند خصوصی سازی در چندین مورد با یافته های همگرا. | 📎 **همسویی منبع: قوی** (79%)
 
-PATTERN 1: THE INSIDER ADVANTAGE GRADIENT
-In every case, individuals with insider knowledge of state enterprise operations, valuations, and supply chains gained disproportionate advantage in post-transition economic restructuring. Russia represents the extreme: former nomenklatura and security service-connected individuals captured the vast majority of privatized wealth. Czech investment fund managers (many former state enterprise directors) extracted value through tunneling. Iraq's former military-industrial managers who transitioned to private contracting retained significant advantages.
+تحلیل موردی متقاطع چهار الگوی حاکم بر تجدید ساختار اقتصادی پس از استبداد را نشان می دهد:
 
-The gradient is consistent: the faster the privatization and the weaker the regulatory framework, the greater the insider advantage. This has direct implications for IRGC commanders who currently possess detailed knowledge of enterprise valuations, supply chains, and business relationships that no external actor can match.
+الگوی 1: شیب مزیت داخلی
+در هر مورد، افراد دارای دانش داخلی از عملیات شرکت دولتی، ارزش گذاری ها و زنجیره تامین، مزیت نامتناسبی در بازسازی اقتصادی پس از گذار به دست آوردند. روسیه افراطی را نشان می‌دهد: نام‌کلاتوری سابق و افراد مرتبط با سرویس‌های امنیتی، اکثریت عظیم ثروت خصوصی‌شده را تصاحب کردند. مدیران صندوق های سرمایه گذاری چک (بسیاری از مدیران سابق شرکت های دولتی) ارزش را از طریق تونل سازی استخراج کردند. مدیران سابق نظامی-صنعتی عراق که به پیمانکاری خصوصی روی آوردند، مزایای قابل توجهی را حفظ کردند.
 
-PATTERN 2: THE ASSET STRIPPING WINDOW
-A predictable window of maximum asset stripping vulnerability exists in the first 12-24 months after political transition, when old regulatory structures have collapsed but new ones are not yet operational. In Russia, this window (1992-1994) saw massive capital flight and asset extraction. In Iraq, MIC-affiliated factories were stripped of equipment and materials during the security vacuum of 2003-2004. In Libya, state assets were physically seized by militia groups within months of Qadhafi's fall.
+شیب ثابت است: هرچه خصوصی‌سازی سریع‌تر و چارچوب نظارتی ضعیف‌تر باشد، مزیت داخلی بیشتر است. این امر پیامدهای مستقیمی برای فرماندهان سپاه دارد که در حال حاضر دانش دقیقی از ارزش‌گذاری شرکت‌ها، زنجیره‌های تامین و روابط تجاری دارند که هیچ بازیگر خارجی نمی‌تواند با آنها مقابله کند.
 
-The pattern implies that any transition plan for IRGC assets must include immediate interim custodial arrangements — failing to establish control over assets within the first weeks of transition creates irreversible losses.
+الگوی 2: پنجره حذف دارایی
+یک پنجره قابل پیش بینی از حداکثر آسیب پذیری حذف دارایی در 12 تا 24 ماه اول پس از گذار سیاسی وجود دارد، زمانی که ساختارهای نظارتی قدیمی فروریخته اند اما ساختارهای جدید هنوز عملیاتی نشده اند. در روسیه، این پنجره (1992-1994) شاهد فرار عظیم سرمایه و استخراج دارایی بود. در عراق، کارخانه های وابسته به MIC از تجهیزات و مواد در خلاء امنیتی 2003-2004 محروم شدند. در لیبی، چند ماه پس از سقوط قذافی، دارایی های دولتی توسط گروه های شبه نظامی توقیف شد.
 
-PATTERN 3: THE DUAL-USE INSTITUTION DILEMMA
-Military-economic entities that produce both military and civilian goods present a dilemma: dissolution eliminates productive civilian capacity, but preservation maintains military-linked power structures. Iraq's MIC produced cement, pharmaceuticals, and industrial materials alongside weapons — dissolving it created civilian shortages. The IRGC's Khatam al-Anbiya is the primary engineering and construction contractor for Iranian infrastructure (dams, highways, oil/gas installations). Its dissolution would halt major infrastructure projects; its preservation keeps IRGC economic networks intact.
+این الگو حاکی از آن است که هر طرح انتقالی برای دارایی‌های سپاه پاسداران انقلاب اسلامی باید شامل ترتیبات نگهداری موقت فوری باشد - عدم برقراری کنترل بر دارایی‌ها در هفته‌های اول انتقال، زیان‌های جبران‌ناپذیری ایجاد می‌کند.
 
-No case in the comparative literature has successfully resolved this dilemma through rapid action. The least harmful approaches involve long-term restructuring (5-10 year timelines) with immediate civilian management overlays on military-economic entities — preserving operational capacity while gradually separating military command from economic management.
+الگوی 3: معضل مؤسسه با استفاده دوگانه
+نهادهای نظامی-اقتصادی که هم کالاهای نظامی و هم غیرنظامی را تولید می کنند یک معضل دارند: انحلال ظرفیت غیرنظامی مولد را از بین می برد، اما حفظ ساختارهای قدرت مرتبط با نظامی را حفظ می کند. MIC عراق سیمان، مواد دارویی، و مواد صنعتی را در کنار تسلیحات تولید می کرد - انحلال آن باعث کمبود غیرنظامی شد. قرارگاه خاتم الانبیاء سپاه، پیمانکار مهندسی و ساخت و ساز اولیه زیرساخت‌های ایران (سدها، بزرگراه‌ها، تاسیسات نفت/گاز) است. انحلال آن پروژه های زیربنایی بزرگ را متوقف می کند. حفظ آن شبکه های اقتصادی سپاه را دست نخورده نگه می دارد.
 
-PATTERN 4: THE WELFARE SUBSTITUTION REQUIREMENT
-In states where the military or parastatal sector provides social welfare functions (housing, healthcare, education, employment) that the formal state does not, economic restructuring requires welfare substitution before or concurrent with asset transition. Iran's bonyads fund hospitals, universities, housing projects, and poverty alleviation programs. Iraq's military employment system provided de facto welfare for military families. In both cases, dismantling the economic structure without substituting its welfare functions produces humanitarian crisis and political backlash.
+هیچ موردی در ادبیات تطبیقی ​​این معضل را با اقدام سریع با موفقیت حل نکرده است. کم ضررترین رویکردها شامل بازسازی بلندمدت (مدت زمانی 5 تا 10 ساله) با پوشش مدیریت غیرنظامی فوری بر روی نهادهای نظامی-اقتصادی - حفظ ظرفیت عملیاتی و در عین حال جداسازی تدریجی فرماندهی نظامی از مدیریت اقتصادی است.
 
-The Czech Republic's parallel social safety net — maintained throughout economic transition through EU-oriented social policy — demonstrates that welfare continuity is feasible alongside restructuring, but requires dedicated institutional capacity and funding.
+الگوی 4: الزامات جایگزینی رفاه
+در ایالت‌هایی که بخش نظامی یا شبه‌دولتی کارکردهای رفاه اجتماعی (مسکن، مراقبت‌های بهداشتی، آموزش، اشتغال) را ارائه می‌کند که دولت رسمی انجام نمی‌دهد، بازسازی اقتصادی نیاز به جایگزینی رفاه قبل یا همزمان با انتقال دارایی دارد. بنیادهای ایران به بیمارستان ها، دانشگاه ها، پروژه های مسکن و برنامه های فقرزدایی کمک مالی می کنند. سیستم استخدام نظامی عراق عملاً رفاه خانواده های نظامی را فراهم می کرد. در هر دو مورد، برچیدن ساختار اقتصادی بدون جایگزین کردن کارکردهای رفاهی آن، بحران انسانی و واکنش سیاسی را به همراه دارد.
 
-> 🟢 **Evidence Confidence: High** — Mechanisms identified from well-documented causal chains in Russian, Czech, and Iraqi privatization, cross-validated against IRGC-specific economic scholarship. | 📎 **Source Alignment: 🟢 Strong** (78%)
+شبکه امنیت اجتماعی موازی جمهوری چک - که در طول گذار اقتصادی از طریق سیاست اجتماعی مبتنی بر اتحادیه اروپا حفظ می شود - نشان می دهد که تداوم رفاه در کنار بازسازی امکان پذیر است، اما نیاز به ظرفیت نهادی و بودجه اختصاصی دارد.
 
-Five causal mechanisms determine the trajectory of military-economic assets during political transition:
+> **اعتماد به شواهد: بالا** - مکانیسم‌های شناسایی شده از زنجیره‌های علّی مستند در خصوصی‌سازی روسیه، چک و عراق، که در مقابل بورسیه‌های اقتصادی ویژه سپاه پاسداران انقلاب اسلامی تأیید شده است. | 📎 **همترازی منبع: قوی** (78%)
 
-MECHANISM 1: INFORMATION ASYMMETRY AND VALUATION CONTROL
-IRGC economic entities operate with minimal public transparency — no audited financial statements, no public valuation of assets, no disclosed subsidiary structures. This information asymmetry is the primary enabler of oligarchic capture during privatization. In Russia, enterprise managers controlled the only accurate information about enterprise value; outside bidders systematically undervalued assets, and insiders acquired controlling stakes at fractions of actual worth.
+پنج مکانیسم علت و معلولی مسیر دارایی های نظامی-اقتصادی را در طول گذار سیاسی تعیین می کند:
 
-The mechanism operates through valuation sequencing: whoever conducts the initial asset valuation controls the parameters of any subsequent transaction. If IRGC-affiliated accountants conduct valuations, insider acquisition at below-market prices is virtually guaranteed. Independent international auditing — the approach used in later Czech privatization rounds and recommended by World Bank transition guidelines — breaks this mechanism but requires institutional capacity that may not exist in early transition.
+مکانیسم 1: عدم تقارن اطلاعات و کنترل ارزش گذاری
+واحدهای اقتصادی سپاه پاسداران انقلاب اسلامی با حداقل شفافیت عمومی - بدون صورت‌های مالی حسابرسی شده، بدون ارزیابی عمومی دارایی‌ها، بدون ساختارهای فرعی افشا شده، فعالیت می‌کنند. این عدم تقارن اطلاعاتی عامل اصلی جذب الیگارشی در طول خصوصی سازی است. در روسیه، مدیران شرکت تنها اطلاعات دقیق در مورد ارزش شرکت را کنترل می کردند. مناقصه گران خارجی به طور سیستماتیک دارایی ها را کمتر از ارزش گذاری می کردند و خودی ها سهام کنترلی را در کسری از ارزش واقعی به دست می آوردند.
 
-MECHANISM 2: CREDIT ACCESS AS CAPTURE TOOL
-Post-transition credit allocation determines who can acquire assets. In Russia, state banks under political influence extended credits to preferred acquirers. In the Czech Republic, IPFs used bank relationships to finance acquisitions. The mechanism is recursive: those who acquire initial assets use them as collateral for further credit to acquire additional assets, producing rapid concentration.
+این مکانیسم از طریق توالی ارزش گذاری عمل می کند: هر کسی که ارزیابی اولیه دارایی را انجام دهد، پارامترهای هر معامله بعدی را کنترل می کند. اگر حسابداران وابسته به سپاه پاسداران انقلاب اسلامی ارزش گذاری انجام دهند، خرید افراد خودی با قیمت های کمتر از بازار عملا تضمین می شود. حسابرسی بین‌المللی مستقل - رویکردی که در دوره‌های بعدی خصوصی‌سازی چک مورد استفاده قرار گرفت و توسط دستورالعمل‌های انتقال بانک جهانی توصیه شد - این مکانیسم را می‌شکند اما به ظرفیت نهادی نیاز دارد که ممکن است در دوره انتقال اولیه وجود نداشته باشد.
 
-For Iran, the IRGC's existing relationships with Iranian banks (several of which are IRGC-affiliated or controlled) create a ready-made credit capture channel. Any restructuring plan that does not simultaneously address IRGC influence over financial institutions risks enabling the same credit-fueled asset concentration seen in Russia.
+مکانیسم 2: دسترسی به اعتبار به عنوان ابزار ضبط
+تخصیص اعتبار پس از انتقال تعیین می کند که چه کسی می تواند دارایی ها را به دست آورد. در روسیه، بانک‌های دولتی تحت نفوذ سیاسی، اعتباراتی را به خریداران ترجیحی اعطا کردند. در جمهوری چک، IPFها از روابط بانکی برای تأمین مالی خریدها استفاده کردند. مکانیسم بازگشتی است: کسانی که دارایی های اولیه را به دست می آورند از آنها به عنوان وثیقه برای اعتبار بیشتر برای به دست آوردن دارایی های اضافی استفاده می کنند و تمرکز سریع ایجاد می کنند.
 
-MECHANISM 3: THE CEASEFIRE LEVERAGE MECHANISM
-This mechanism is specific to the current Iran context. IRGC commanders' economic interests create a potential alignment between transition and personal wealth preservation. If ceasefire/transition terms include credible asset protection guarantees (distinguishing personal commercial assets from military command authority), IRGC economic stakeholders may calculate that cooperation preserves more wealth than resistance. This mirrors elements of the South African transition, where Afrikaner economic interests were protected in exchange for political concessions, and aspects of Chile's transition, where military economic autonomy was preserved through reserved domains.
+برای ایران، روابط موجود سپاه پاسداران انقلاب اسلامی با بانک‌های ایرانی (که تعدادی از آنها وابسته به سپاه یا تحت کنترل هستند) یک کانال جذب اعتبار آماده ایجاد می‌کند. هر طرح تجدید ساختاری که به طور همزمان به نفوذ سپاه پاسداران انقلاب اسلامی بر موسسات مالی نپردازد، ممکن است همان تمرکز دارایی های مبتنی بر اعتبار را که در روسیه مشاهده می شود، فراهم کند.
 
-The mechanism requires credible commitment: IRGC stakeholders must believe that asset protections will survive the transition. International guarantees (UN framework, multilateral monitoring) increase credibility; purely domestic commitments are vulnerable to reversal. The Islamabad talks (April 2026) represent a potential venue for such guarantees.
+مکانیسم 3: مکانیسم اهرم آتش بس
+این سازوکار مختص شرایط کنونی ایران است. منافع اقتصادی فرماندهان سپاه یک همسویی بالقوه بین انتقال و حفظ ثروت شخصی ایجاد می کند. اگر شرایط آتش‌بس/ انتقال شامل تضمین‌های معتبر حفاظت از دارایی (متمایز کردن دارایی‌های تجاری شخصی از مقام فرماندهی نظامی) باشد، ذینفعان اقتصادی سپاه پاسداران انقلاب اسلامی ممکن است محاسبه کنند که همکاری بیشتر از مقاومت، ثروت را حفظ می‌کند. این منعکس کننده عناصر انتقال آفریقای جنوبی است، جایی که منافع اقتصادی آفریقایی در ازای امتیازات سیاسی محافظت می شد، و جنبه هایی از گذار شیلی، که در آن استقلال اقتصادی نظامی از طریق حوزه های محفوظ حفظ می شد.
 
-MECHANISM 4: PARALLEL INSTITUTION BUILDING
-The speed at which regulatory institutions (anti-monopoly authority, securities regulation, corporate governance courts, independent audit bodies) are established relative to asset disposition determines whether restructuring produces competitive markets or captured oligarchies. Russia's radical speed — mass privatization before regulatory institutions existed — produced oligarchy. Poland's slower approach — building regulatory frameworks before major privatization — produced more competitive outcomes. The Czech Republic fell between: faster than Poland, more regulated than Russia, with intermediate results.
+این سازوکار مستلزم تعهد معتبر است: ذینفعان سپاه باید باور داشته باشند که حفاظت از دارایی ها از دوران گذار جان سالم به در خواهد برد. تضمین های بین المللی (چارچوب سازمان ملل، نظارت چند جانبه) اعتبار را افزایش می دهد. تعهدات صرفاً داخلی در برابر برگشت آسیب پذیر هستند. مذاکرات اسلام آباد (آوریل 2026) محل بالقوه ای برای چنین تضمین هایی است.
 
-For Iran, the mechanism implies that a deliberate sequencing — establishing independent regulatory bodies before disposing of IRGC assets — is essential. The bonyad system's reporting structure (directly to the Supreme Leader, outside parliamentary oversight) means that even the first step — bringing these entities under any form of transparent oversight — represents a major institutional change.
+مکانیسم 4: مؤسسه سازی موازی
+سرعت تأسیس نهادهای نظارتی (اقتدار ضد انحصار، مقررات اوراق بهادار، دادگاه‌های حاکمیت شرکتی، نهادهای حسابرسی مستقل) نسبت به واگذاری دارایی‌ها تعیین می‌کند که آیا تجدید ساختار بازارهای رقابتی ایجاد می‌کند یا الیگارشی‌های تسخیر شده. سرعت رادیکال روسیه - خصوصی سازی انبوه قبل از وجود نهادهای نظارتی - باعث ایجاد الیگارشی شد. رویکرد کندتر لهستان - ایجاد چارچوب های نظارتی قبل از خصوصی سازی بزرگ - نتایج رقابتی تری را به همراه داشت. جمهوری چک بین: سریع‌تر از لهستان، تنظیم‌شده‌تر از روسیه، با نتایج متوسط ​​قرار گرفت.
 
-MECHANISM 5: THE RECONSTRUCTION CHANNELING FUNCTION
-Post-conflict reconstruction creates massive demand for construction, infrastructure, and logistics services — precisely the sectors where IRGC-affiliated firms dominate. If reconstruction contracting flows through existing IRGC economic channels (because no alternatives exist at scale), transition authorities face a paradox: economic reconstruction reinforces the economic power of the entity undergoing political transition.
+برای ایران، مکانیسم نشان می‌دهد که یک توالی عمدی - ایجاد نهادهای نظارتی مستقل قبل از دفع دارایی‌های سپاه - ضروری است. ساختار گزارش‌دهی سیستم بنیاد (مستقیماً به رهبر، خارج از نظارت مجلس) به این معنی است که حتی اولین گام - قرار دادن این نهادها تحت هر شکل نظارت شفاف - نشان‌دهنده یک تغییر نهادی بزرگ است.
 
-Iraq's experience demonstrates this mechanism: after initial dissolution of military-economic entities, reconstruction contracts went primarily to international firms (Halliburton/KBR, Bechtel) because domestic capacity had been destroyed. This produced resentment, leakage, and limited local economic benefit. The alternative — channeling reconstruction through reformed domestic entities — requires those entities to actually be reformed, creating a circular dependency.
+مکانیسم 5: عملکرد کانال سازی بازسازی
+بازسازی پس از جنگ تقاضای انبوهی را برای ساخت و ساز، زیرساخت ها و خدمات لجستیکی ایجاد می کند - دقیقاً در بخش هایی که شرکت های وابسته به سپاه در آنها تسلط دارند. اگر قرارداد بازسازی از طریق کانال‌های اقتصادی موجود سپاه پاسداران انقلاب اسلامی جریان یابد (زیرا هیچ جایگزینی در مقیاس وجود ندارد)، مقامات انتقالی با یک پارادوکس مواجه می‌شوند: بازسازی اقتصادی قدرت اقتصادی نهادی را که در حال گذار سیاسی است، تقویت می‌کند.
 
-For Iran, the bonyad system offers a potential resolution: bonyads already possess construction, engineering, and logistics capacity. If placed under transparent governance (independent boards, international auditing, parliamentary oversight) while IRGC military command is separated from economic management, bonyads could function as reconstruction vehicles rather than solely as reform targets. This dual-use approach — reform the governance, preserve the capacity — has no clean precedent but draws on elements of the Polish gradualist approach.
+تجربه عراق این مکانیسم را نشان می دهد: پس از انحلال اولیه نهادهای نظامی-اقتصادی، قراردادهای بازسازی عمدتاً به شرکت های بین المللی (Halliburton/KBR، Bechtel) واگذار شد، زیرا ظرفیت داخلی از بین رفته بود. این باعث نارضایتی، نشت و منفعت اقتصادی محلی محدود شد. جایگزین - هدایت بازسازی از طریق نهادهای داخلی اصلاح شده - مستلزم این است که این نهادها واقعاً اصلاح شوند و وابستگی دایره ای ایجاد کنند.
 
-## Implications for Iran
+برای ایران، سیستم بنیاد یک راه حل بالقوه ارائه می دهد: بنیادها از قبل دارای ظرفیت ساخت و ساز، مهندسی و لجستیک هستند. اگر تحت حاکمیت شفاف (هیئت‌های مستقل، حسابرسی بین‌المللی، نظارت پارلمانی) قرار گیرند، در حالی که فرماندهی نظامی سپاه پاسداران انقلاب اسلامی از مدیریت اقتصادی جدا باشد، بنیادها می‌توانند به‌عنوان وسیله‌ای بازسازی عمل کنند و نه صرفاً به عنوان اهداف اصلاحی. این رویکرد استفاده دوگانه - اصلاح حاکمیت، حفظ ظرفیت - هیچ سابقه تمیزی ندارد اما از عناصر رویکرد تدریجی لهستانی استفاده می کند.
 
-> 🟢 **Evidence Confidence: High** — Scenario analysis grounded in documented comparative outcomes. Each scenario maps to identifiable historical patterns. Transferability caveats are explicit for each mechanism. | 📎 **Source Alignment: 🟢 Strong** (78%)
+## پیامدها برای ایران
 
-SCENARIO-BASED ANALYSIS: IRGC ECONOMIC ASSETS UNDER FOUR TRANSITION PATHWAYS
+> **اعتماد به شواهد: بالا** - تحلیل سناریو مبتنی بر نتایج مقایسه ای مستند. هر سناریو به الگوهای تاریخی قابل شناسایی نگاشت می شود. هشدارهای قابل انتقال برای هر مکانیزم صریح است. | 📎 **همترازی منبع: قوی** (78%)
 
-The fate of IRGC economic assets and the bonyad system depends on the political trajectory of Iran's transition. Four scenarios, drawing on the current military-diplomatic context (US-Israeli air campaign, April 2026 ceasefire, Islamabad talks), produce distinct economic restructuring pathways:
+تحلیل مبتنی بر سناریو: دارایی های اقتصادی سپاه تحت چهار مسیر انتقالی
 
-SCENARIO A: NEGOTIATED TRANSITION WITH IRGC PARTICIPATION
-If ceasefire negotiations produce a managed transition in which IRGC leaders accept reduced political/military authority in exchange for economic protections, the likely outcome for IRGC assets is conversion from military-controlled conglomerates to private commercial entities managed by former commanders. This replicates the Turkish military-to-OYAK (Armed Forces Pension Fund) model, where military economic enterprises transitioned to legitimate commercial operations while maintaining preferential treatment.
+سرنوشت دارایی‌های اقتصادی سپاه و نظام بنیاد بستگی به خط سیر سیاسی دوران گذار ایران دارد. چهار سناریو با تکیه بر زمینه نظامی- دیپلماتیک کنونی (کارزار هوایی آمریکا و اسرائیل، آتش بس آوریل 2026، مذاکرات اسلام آباد)، مسیرهای بازسازی اقتصادی متمایز را ایجاد می کند:
 
-Bonyad trajectory under Scenario A: Bonyads would likely survive with reformed governance — brought under parliamentary oversight, required to publish audited accounts, but retaining their operational infrastructure and social welfare functions. This preserves institutional capacity but risks perpetuating opacity if oversight is weak.
+سناریوی الف: انتقال از طریق مذاکره با مشارکت سپاه
+اگر مذاکرات آتش‌بس منجر به انتقال مدیریت‌شده‌ای شود که در آن رهبران سپاه کاهش اختیارات سیاسی/نظامی را در ازای حمایت‌های اقتصادی بپذیرند، نتیجه محتمل برای دارایی‌های سپاه تبدیل از گروه‌های تحت کنترل نظامی به نهادهای تجاری خصوصی تحت مدیریت فرماندهان سابق است. این الگوی نظامی ترکیه به OYAK (صندوق بازنشستگی نیروهای مسلح) را تکرار می کند، که در آن شرکت های اقتصادی نظامی با حفظ رفتار ترجیحی به عملیات تجاری مشروع منتقل شدند.
 
-Risk: Scenario A has the highest probability of producing the Russian oligarchy outcome. Former IRGC commanders with economic knowledge and existing networks would convert state-military assets into private wealth with minimal redistribution. The Russian precedent suggests this outcome is nearly inevitable without strong regulatory safeguards.
+مسیر بنیاد در سناریوی الف: بنیادها احتمالاً با حکومتداری اصلاح شده زنده خواهند ماند - تحت نظارت پارلمانی قرار گرفته و باید حساب های حسابرسی شده منتشر شود، اما زیرساخت های عملیاتی و عملکردهای رفاه اجتماعی خود را حفظ می کنند. این ظرفیت نهادی را حفظ می کند، اما در صورت ضعیف بودن نظارت، خطر تداوم عدم شفافیت را به همراه دارد.
 
-SCENARIO B: REGIME COLLAPSE AND INSTITUTIONAL VACUUM
-If the regime falls rapidly (the IRGC unable to maintain coherence under sustained military pressure and Mojtaba Khamenei unable to consolidate Supreme Leader authority), the likely trajectory for IRGC assets is chaotic fragmentation. Local commanders seize control of regional assets. Competing factions claim different enterprises. Criminal networks exploit the regulatory vacuum. This replicates the Libyan pattern post-2011.
+ریسک: سناریوی الف بیشترین احتمال را برای ایجاد نتیجه الیگارشی روسیه دارد. فرماندهان سابق سپاه با دانش اقتصادی و شبکه‌های موجود، دارایی‌های دولتی-نظامی را با حداقل بازتوزیع به ثروت خصوصی تبدیل می‌کردند. سابقه روسیه نشان می دهد که این نتیجه بدون تدابیر نظارتی قوی تقریباً اجتناب ناپذیر است.
 
-Bonyad trajectory under Scenario B: Bonyads with centralized leadership (Bonyad-e Mostazafan) lose coordinating authority; regional branches operate autonomously. Asset stripping during the vulnerability window (first 12-24 months) produces irreversible losses. Social welfare functions collapse as funding chains break.
+سناریو B: فروپاشی رژیم و خلاء نهادی
+اگر رژیم به سرعت سقوط کند (سپاه پاسداران قادر به حفظ انسجام تحت فشار مداوم نظامی نیست و مجتبی خامنه‌ای قادر به تحکیم اقتدار رهبر معظم انقلاب نیست)، مسیر احتمالی برای دارایی‌های سپاه پاسداران انقلاب اسلامی چندپارگی آشفته است. فرماندهان محلی کنترل دارایی های منطقه را به دست می گیرند. جناح های رقیب ادعای شرکت های متفاوتی دارند. شبکه های جنایی از خلاء نظارتی سوء استفاده می کنند. این الگوی لیبی پس از 2011 را تکرار می کند.
 
-Risk: This scenario produces the worst outcome for both economic productivity and population welfare. Iraq's 2003-2005 experience demonstrates that institutional vacuum in economic governance creates conditions that take a decade or more to reverse.
+خط سیر بنیاد در سناریوی ب: بنیادها با رهبری متمرکز (بنیاد مستضعفان) قدرت هماهنگی خود را از دست می دهند. شعب منطقه ای به طور مستقل عمل می کنند. سلب دارایی در طول پنجره آسیب پذیری (12-24 ماه اول) زیان های جبران ناپذیری ایجاد می کند. کارکردهای رفاه اجتماعی با شکستن زنجیره های تامین مالی از بین می روند.
 
-SCENARIO C: INTERNATIONAL TRUSTEESHIP/MANAGED RESTRUCTURING
-If the Islamabad talks produce an international framework (UN-mandated, with participation of major economic stakeholders including EU, Japan, South Korea — Iran's pre-sanctions trading partners), IRGC assets and bonyads could be placed under international custodianship during a structured transition period. This parallels elements of the Kosovo Trust Agency (2002-2008), which managed socially-owned enterprises during Kosovo's political transition, and the Iraqi Development Fund (managed under UN Security Council Resolution 1483).
+ریسک: این سناریو بدترین نتیجه را هم برای بهره وری اقتصادی و هم برای رفاه جمعیت ایجاد می کند. تجربه عراق در سال‌های 2003-2005 نشان می‌دهد که خلاء نهادی در حاکمیت اقتصادی شرایطی را ایجاد می‌کند که تغییر آن یک دهه یا بیشتر طول می‌کشد.
 
-Bonyad trajectory under Scenario C: International oversight with domestic management — independent audit firms assess bonyad assets, international monitors verify governance reforms, but operational management remains Iranian. This preserves institutional knowledge while breaking the opacity that enables capture.
+سناریوی ج: امین بین المللی/تجدید ساختار مدیریت شده
+اگر مذاکرات اسلام‌آباد چارچوبی بین‌المللی ایجاد کند (با اجبار سازمان ملل، با مشارکت سهامداران عمده اقتصادی از جمله اتحادیه اروپا، ژاپن، کره جنوبی - شرکای تجاری ایران قبل از تحریم)، دارایی‌ها و بنیادهای سپاه پاسداران انقلاب اسلامی می‌توانند در طول یک دوره انتقال ساختاریافته تحت نظارت بین‌المللی قرار گیرند. این با عناصر آژانس امانت کوزوو (2002-2008) که شرکت های اجتماعی را در دوران گذار سیاسی کوزوو مدیریت می کرد، و صندوق توسعه عراق (که تحت قطعنامه 1483 شورای امنیت سازمان ملل اداره می شد) مشابه است.
 
-Risk: International trusteeship models have mixed records. The Kosovo Trust Agency was criticized for slow decision-making and insufficient local ownership. Iraq's Development Fund faced corruption allegations despite international monitoring. The model requires sustained international commitment (5-10 years minimum) that may not be politically sustainable.
+مسیر بنیاد تحت سناریوی ج: نظارت بین‌المللی با مدیریت داخلی - شرکت‌های حسابرسی مستقل دارایی‌های بنیاد را ارزیابی می‌کنند، ناظران بین‌المللی اصلاحات حاکمیتی را تأیید می‌کنند، اما مدیریت عملیاتی همچنان ایرانی است. این امر دانش سازمانی را حفظ می کند و در عین حال کدورتی را که امکان ضبط را فراهم می کند، می شکند.
 
-SCENARIO D: PARTIAL REFORM WITHIN CONTINUITY
-If the Islamic Republic survives in modified form (Mojtaba Khamenei consolidates authority, ceasefire freezes military conflict, limited reforms proceed under continued theocratic governance), IRGC economic structures remain largely intact with marginal transparency improvements. Bonyads continue operating under Supreme Leader authority. This is the status quo trajectory with modest modifications.
+ریسک: مدل‌های قیومیت بین‌المللی سوابق مختلفی دارند. آژانس اعتماد کوزوو به دلیل تصمیم گیری کند و مالکیت ناکافی محلی مورد انتقاد قرار گرفت. صندوق توسعه عراق با وجود نظارت بین المللی با اتهامات فساد روبرو شد. این مدل نیازمند تعهد بین‌المللی پایدار (حداقل 5 تا 10 سال) است که ممکن است از نظر سیاسی پایدار نباشد.
 
-Bonyad trajectory under Scenario D: No meaningful restructuring. Bonyads may accept nominal parliamentary reporting requirements as a concession to reformist pressure, but actual transparency remains limited.
+سناریو D: اصلاحات جزئی در تداوم
+اگر جمهوری اسلامی به شکل اصلاح شده دوام بیاورد (مجتبی خامنه ای اقتدار را تحکیم می کند، آتش بس درگیری نظامی را متوقف می کند، اصلاحات محدود تحت حاکمیت تئوکراتیک ادامه می یابد)، ساختارهای اقتصادی سپاه پاسداران انقلاب اسلامی تا حد زیادی دست نخورده با بهبود شفافیت حاشیه ای باقی می ماند. بنیادها زیر نظر مقام معظم رهبری به فعالیت خود ادامه می دهند. این مسیر وضعیت موجود با تغییرات اندک است.
 
-CROSS-SCENARIO IMPLICATIONS FOR THE ISLAMABAD TALKS:
+مسیر بنیاد تحت سناریوی D: بدون تغییر ساختار معنی دار. بنیاد ممکن است الزامات گزارش اسمی مجلس را به عنوان امتیازی برای فشار اصلاح طلبان بپذیرد، اما شفافیت واقعی همچنان محدود است.
 
-Regardless of which scenario materializes, comparative evidence identifies three non-negotiable design requirements for any transition involving IRGC economic assets:
+پیامدهای چند سناریویی برای مذاکرات اسلام آباد:
 
-1. IMMEDIATE ASSET REGISTRY: Within the first 30 days of any transition, an independent inventory of IRGC and bonyad assets must be established. The Russian precedent shows that assets not catalogued in the initial transition period become permanently opaque and vulnerable to capture. This is the single most time-sensitive economic action in any transition scenario.
+صرف نظر از اینکه کدام سناریو محقق می‌شود، شواهد مقایسه‌ای سه الزام طراحی غیرقابل مذاکره برای هر انتقالی که شامل دارایی‌های اقتصادی سپاه می‌شود را شناسایی می‌کند:
 
-2. PENSION AND WELFARE BRIDGE FUNDING: Drawing on the Iraq lesson (CPA Order 2's pension termination as insurgency catalyst), any restructuring plan must include guaranteed pension continuity for IRGC personnel and maintained social welfare functions from bonyads during the transition period. International reconstruction funding (World Bank, Asian Development Bank, bilateral donors) should be earmarked for this purpose before asset disposition begins.
+1. ثبت دارایی های فوری: در 30 روز اول هر انتقال، فهرست مستقلی از دارایی های سپاه و بنیاد باید ایجاد شود. سابقه روسیه نشان می‌دهد که دارایی‌هایی که در دوره انتقال اولیه فهرست‌بندی نشده‌اند، دائماً غیرشفاف و در برابر تصرف آسیب‌پذیر می‌شوند. این تنها حساس ترین اقدام اقتصادی در هر سناریوی گذار است.
 
-3. REGULATORY SEQUENCING: Building on the Czech-Poland comparison, regulatory institutions (anti-monopoly authority, securities regulation, transparent procurement rules) must be established before major asset dispositions occur. The minimum viable regulatory framework — based on post-communist transition timelines — requires 18-24 months to establish.
+2. بودجه بازنشستگی و پل رفاه: با توجه به درس عراق (خاتمه بازنشستگی دستور 2 CPA به عنوان کاتالیزور شورش)، هر طرح بازسازی باید شامل تداوم مستمری تضمین شده برای پرسنل سپاه و حفظ کارکردهای رفاه اجتماعی از بنیادها در طول دوره انتقال باشد. بودجه بین‌المللی بازسازی (بانک جهانی، بانک توسعه آسیایی، کمک‌کنندگان دوجانبه) باید قبل از شروع واگذاری دارایی‌ها برای این منظور در نظر گرفته شود.
 
-TRANSFERABILITY ASSESSMENT:
+3. توالی رگولاتوری: بر اساس مقایسه چک و لهستان، نهادهای نظارتی (مقامات ضد انحصار، مقررات اوراق بهادار، قوانین تدارکات شفاف) باید قبل از وقوع واگذاری دارایی های عمده ایجاد شوند. حداقل چارچوب نظارتی قابل دوام - بر اساس جدول‌های زمانی گذار پس از کمونیستی - به ۱۸ تا ۲۴ ماه نیاز دارد تا ایجاد شود.
 
-High transferability: Information asymmetry and insider capture mechanisms (well-documented across all comparative cases, directly applicable to IRGC). Moderate transferability: Voucher privatization models (Iran's larger scale and more complex ownership structures may require hybrid approaches). Low transferability: International trusteeship models (Iran's sovereignty sensitivities and regional power dynamics differ significantly from Kosovo or post-invasion Iraq). The Russian oligarchic capture trajectory has the highest baseline probability absent deliberate countermeasures — this is the most important transferable finding for policy design.
+ارزیابی قابلیت انتقال:
 
-## What We Don't Know
+قابلیت انتقال بالا: عدم تقارن اطلاعات و مکانیسم‌های جذب خودی (به خوبی مستند شده در تمام موارد مقایسه‌ای، قابل اعمال مستقیم برای سپاه). قابلیت انتقال متوسط: مدل‌های خصوصی‌سازی کوپن (مقیاس بزرگ‌تر و ساختارهای مالکیت پیچیده‌تر ایران ممکن است به رویکردهای ترکیبی نیاز داشته باشد). قابلیت انتقال کم: مدل های قیمومت بین المللی (حساسیت های حاکمیتی و پویایی قدرت منطقه ای ایران به طور قابل توجهی با کوزوو یا عراق پس از حمله متفاوت است). مسیر تسخیر الیگارشی روسیه دارای بالاترین احتمال پایه بدون اقدامات متقابل عمدی است - این مهم ترین یافته قابل انتقال برای طراحی سیاست است.
 
-> 🟡 **Evidence Confidence: Moderate** — Knowledge gaps reflect genuine lacunae in available scholarship. The gaps themselves are well-defined but their resolution requires access to non-public or not-yet-collected data. | 📎 **Source Alignment: 🟡 Moderate** (71%)
+## آنچه ما نمی دانیم
 
-1. IRGC ASSET VALUATION: No independent valuation of IRGC economic holdings exists. Estimates of 15-25% of GDP rely on secondary analysis and may significantly understate or overstate actual control, depending on the definition of "control" (direct ownership vs. regulatory leverage vs. informal influence over nominally private firms). Until an independent audit is conducted, all restructuring scenarios operate on uncertain foundations.
+> **اعتماد به شواهد: متوسط ** - شکاف های دانش نشان دهنده خلاءهای واقعی در بورس تحصیلی موجود است. شکاف ها به خوبی تعریف شده اند، اما حل آنها مستلزم دسترسی به داده های غیر عمومی یا جمع آوری نشده است. | 📎 **همسویی منبع: متوسط ​​** (71%)
 
-2. BONYAD FINANCIAL ARCHITECTURE: The internal financial flows of major bonyads — how revenue is generated, allocated between commercial operations and social welfare, and transferred to the Supreme Leader's office — remain largely opaque. Available scholarship on Bonyad-e Mostazafan and Astan-e Quds Razavi provides structural outlines but not operational financial detail. This gap prevents reliable assessment of whether bonyads are net contributors to or net drains on the Iranian economy.
+1. ارزش گذاری دارایی های سپاه: هیچ ارزیابی مستقلی برای دارایی های اقتصادی سپاه وجود ندارد. تخمین‌های 15 تا 25 درصد تولید ناخالص داخلی بر تحلیل ثانویه تکیه می‌کنند و بسته به تعریف «کنترل» (مالکیت مستقیم در مقابل اهرم نظارتی در مقابل نفوذ غیررسمی بر شرکت‌های خصوصی اسمی) ممکن است به میزان قابل‌توجهی کنترل واقعی را کم یا زیاد نشان دهند. تا زمانی که حسابرسی مستقل انجام نشود، همه سناریوهای تجدید ساختار بر اساس مبانی نامطمئن عمل می کنند.
 
-3. IRGC PENSION OBLIGATIONS: The total pension liability of the IRGC system (active duty, retired, Basij veterans) is not publicly documented. This figure is essential for calculating the fiscal cost of any transition scenario that maintains pension continuity — the approach strongly recommended by comparative evidence.
+2. معماری مالی بنیاد: جریان‌های مالی داخلی بنیادهای بزرگ - نحوه ایجاد درآمد، تخصیص بین عملیات تجاری و رفاه اجتماعی و انتقال آن به دفتر مقام معظم رهبری - تا حد زیادی نامشخص است. بورسیه موجود در بنیاد مستضعفان و آستان قدس رضوی، طرح های ساختاری را ارائه می دهد، اما جزئیات مالی عملیاتی را ارائه نمی دهد. این شکاف مانع از ارزیابی قابل اعتمادی می شود که آیا بنیادها مشارکت کننده خالص یا تخلیه خالص اقتصاد ایران هستند.
 
-4. INTERNATIONAL SANCTIONS INTERACTION: IRGC economic entities are subject to extensive international sanctions. The interaction between sanctions relief (a likely component of any ceasefire settlement) and economic restructuring creates complex sequencing questions. Do sanctions need to be lifted before restructuring can proceed? Can restructuring be a condition for sanctions relief? The academic literature on sanctions and economic transition does not adequately address this interaction because no prior case has involved economic restructuring of a sanctioned military-economic conglomerate during an active sanctions regime.
+3. تعهدات بازنشستگی سپاه: کل تعهدات بازنشستگی سپاه (وظیفه، بازنشستگان، جانبازان بسیجی) مستند عمومی نیست. این رقم برای محاسبه هزینه مالی هر سناریوی انتقالی که تداوم بازنشستگی را حفظ می‌کند، ضروری است - رویکردی که قویاً توسط شواهد مقایسه‌ای توصیه می‌شود.
 
-5. PRIVATE SECTOR CAPACITY: The ability of Iran's private sector to absorb economic functions currently performed by IRGC entities depends on private sector capacity that is poorly documented. Decades of IRGC crowding-out have suppressed private enterprise in construction, telecommunications, and infrastructure. Whether sufficient private capacity exists to replace IRGC economic functions — or whether the IRGC has effectively hollowed out private sector competition — is an empirical question without current data.
+4. تعامل تحریم های بین المللی: نهادهای اقتصادی سپاه تحت تحریم های گسترده بین المللی قرار دارند. تعامل بین کاهش تحریم‌ها (یکی از اجزای محتمل هر حل و فصل آتش‌بس) و تجدید ساختار اقتصادی سؤالات توالی پیچیده‌ای را ایجاد می‌کند. آیا قبل از ادامه بازسازی باید تحریم ها برداشته شود؟ آیا تجدید ساختار می تواند شرط رفع تحریم ها باشد؟ ادبیات آکادمیک در مورد تحریم ها و گذار اقتصادی به اندازه کافی به این تعامل نمی پردازد زیرا هیچ مورد قبلی شامل بازسازی اقتصادی یک مجموعه نظامی-اقتصادی تحریم شده در طول یک رژیم تحریم فعال نبوده است.
 
-6. REGIONAL ECONOMIC NETWORKS: IRGC economic operations extend through proxy networks in Iraq, Syria, and Lebanon. The economic dimensions of these networks — scale of assets, revenue flows, employment dependencies — are largely undocumented in open sources. Any comprehensive restructuring would need to address these transnational economic linkages, but the evidentiary basis for doing so is thin.
+5. ظرفیت بخش خصوصی: توانایی بخش خصوصی ایران برای جذب کارکردهای اقتصادی که در حال حاضر توسط نهادهای سپاه انجام می شود، بستگی به ظرفیت بخش خصوصی دارد که به خوبی مستند نشده است. دهه‌ها ازدحام سپاه پاسداران، شرکت‌های خصوصی در ساخت‌وساز، مخابرات و زیرساخت‌ها را سرکوب کرده است. اینکه آیا ظرفیت خصوصی کافی برای جایگزینی عملکردهای اقتصادی سپاه پاسداران انقلاب اسلامی وجود دارد - یا اینکه سپاه پاسداران انقلاب اسلامی به طور موثر رقابت بخش خصوصی را از بین برده است - یک سوال تجربی بدون داده های فعلی است.
 
-7. COMPARATIVE PRECEDENT FOR RELIGIOUS ENDOWMENTS: Iran's bonyads are unique in scale among Islamic endowment (waqf) systems. While religious endowments exist across the Muslim world, no comparable case exists of religious foundations controlling industrial, financial, and real estate assets at the scale of Iranian bonyads. The absence of comparative precedent means that bonyad reform will require substantially novel institutional design.
+6. شبکه های اقتصادی منطقه ای: عملیات اقتصادی سپاه از طریق شبکه های نیابتی در عراق، سوریه و لبنان گسترش می یابد. ابعاد اقتصادی این شبکه‌ها - مقیاس دارایی‌ها، جریان‌های درآمدی، وابستگی‌های شغلی - عمدتاً در منابع باز مستند نیستند. هر گونه تجدید ساختار جامع نیاز به رسیدگی به این پیوندهای اقتصادی فراملی دارد، اما مبنای شواهد برای انجام این کار ضعیف است.
 
-> 🟢 **Evidence Confidence: High** — Summary accurately reflects evidence-based analysis across multiple comparative cases without advocacy. | 📎 **Source Alignment: 🟢 Strong** (79%)
+7. سابقه تطبیقی ​​موقوفات دینی: بنیادهای ایران از نظر مقیاس در میان نظام های وقف اسلامی (وقف) بی نظیر هستند. در حالی که موقوفات مذهبی در سراسر جهان اسلام وجود دارد، هیچ مورد قابل مقایسه ای وجود ندارد که بنیادهای مذهبی دارایی های صنعتی، مالی و املاک را در مقیاس بنیادهای ایرانی کنترل کنند. فقدان سابقه تطبیقی ​​به این معنی است که اصلاحات بنیادی نیازمند طراحی نهادی جدید است.
 
-Iran's Revolutionary Guards are not just a military force — they run an economic empire estimated at 15-25% of Iran's GDP, including the country's largest construction company, banks, telecommunications firms, and import/export businesses. Separately, Iran's religious foundations (bonyads) control billions more in assets and provide social services to millions. If the current regime falls or transforms, what happens to all of this?
+> **اعتماد به شواهد: بالا** - خلاصه به طور دقیق تجزیه و تحلیل مبتنی بر شواهد را در چندین پرونده مقایسه ای بدون حمایت منعکس می کند. | 📎 **همسویی منبع: قوی** (79%)
 
-History offers both warnings and guidance. When Russia privatized its Soviet-era state enterprises in the 1990s, a small group of insiders with political connections and insider knowledge bought up the country's most valuable assets at bargain prices, creating the oligarch class. When Iraq's state enterprises were dissolved in 2003, the result was not organized privatization but looting, unemployment, and economic collapse. When the Czech Republic distributed ownership vouchers to citizens, the process was more orderly but still produced financial scandals.
+سپاه پاسداران ایران فقط یک نیروی نظامی نیست - آنها یک امپراتوری اقتصادی را اداره می‌کنند که 15 تا 25 درصد تولید ناخالص داخلی ایران تخمین زده می‌شود، از جمله بزرگترین شرکت ساختمانی کشور، بانک‌ها، شرکت‌های مخابراتی، و تجارت‌های واردات/صادرات. به طور جداگانه، بنیادهای مذهبی ایران (بنیادها) میلیاردها دارایی دیگر را کنترل می کنند و به میلیون ها نفر خدمات اجتماعی ارائه می دهند. اگر رژیم کنونی سقوط کند یا دگرگون شود، تکلیف همه اینها چه می شود؟
 
-The central risk for Iran is the Russian scenario: IRGC commanders already have the insider knowledge, financial connections, and political leverage to convert their military-economic control into private oligarchic wealth during any transition. Without deliberate countermeasures — independent asset inventories, financial regulation established before privatization, and transparent governance — this outcome is the most likely default.
+تاریخ هم هشدار می دهد و هم راهنمایی. وقتی روسیه در دهه 1990 شرکت‌های دولتی دوران شوروی خود را خصوصی کرد، گروه کوچکی از خودی‌ها با ارتباطات سیاسی و دانش خودی، ارزشمندترین دارایی‌های کشور را به قیمت مقرون به صرفه خریدند و طبقه الیگارشی را ایجاد کردند. هنگامی که شرکت های دولتی عراق در سال 2003 منحل شدند، نتیجه خصوصی سازی سازمان یافته نبود، بلکه غارت، بیکاری و فروپاشی اقتصادی بود. زمانی که جمهوری چک کوپن‌های مالکیت را بین شهروندان توزیع کرد، این روند منظم‌تر بود اما همچنان رسوایی‌های مالی را به همراه داشت.
 
-The bonyads present a different question: they are simultaneously part of the problem (opaque, unaccountable) and potentially part of the solution (they have the organizational capacity to channel reconstruction and maintain social welfare during transition). Reforming their governance rather than dissolving them may be the more practical path.
+خطر اصلی برای ایران سناریوی روسیه است: فرماندهان سپاه از قبل دانش داخلی، ارتباطات مالی و اهرم سیاسی برای تبدیل کنترل نظامی-اقتصادی خود به ثروت الیگارشی خصوصی در طول هر انتقالی دارند. بدون اقدامات متقابل عمدی - موجودی دارایی‌های مستقل، مقررات مالی ایجاد شده قبل از خصوصی‌سازی، و حاکمیت شفاف - این نتیجه محتمل‌ترین پیش‌فرض است.
 
-For the ongoing ceasefire talks, the evidence suggests three immediate priorities: catalog all IRGC and bonyad assets before any disposition occurs, maintain pension and welfare payments to prevent an Iraq-style humanitarian crisis, and build regulatory institutions before beginning any major economic restructuring.
+بنیادها سؤال متفاوتی را مطرح می کنند: آنها به طور همزمان بخشی از مشکل (شفاف، غیرقابل پاسخگویی) و به طور بالقوه بخشی از راه حل هستند (آنها ظرفیت سازمانی برای هدایت بازسازی و حفظ رفاه اجتماعی در دوران گذار را دارند). اصلاح حکومت آنها به جای انحلال آنها ممکن است راه عملی تری باشد.
 
-## Sources
+برای مذاکرات آتش‌بس در حال انجام، شواهد سه اولویت فوری را نشان می‌دهند: فهرست کردن همه دارایی‌های سپاه و بنیاد قبل از هر گونه واگذاری، حفظ پرداخت‌های مستمری و رفاهی برای جلوگیری از بحران بشردوستانه به سبک عراق، و ایجاد نهادهای نظارتی قبل از شروع هر گونه تجدید ساختار اقتصادی بزرگ.
 
-> 🟢 **Evidence Confidence: High** — All listed sources are present in the ITKS database with verified reliability scores. | 📎 **Source Alignment: 🟢 Strong** (76%)
+## منابع
 
-PRIMARY COMPARATIVE SOURCES:
+> **اعتماد به شواهد: بالا** - همه منابع فهرست شده در پایگاه داده ITKS با امتیازهای قابلیت اطمینان تأیید شده وجود دارند. | 📎 **همترازی منبع: قوی** (76%)
 
-IRGC Economic Structure:
-- [8295] The Accountability of Para-governmental Organizations (bonyads): The Case of Iranian Foundations — Primary source on bonyad governance and accountability structures
-- [2181] Explaining the Economic Control of Iran by the IRGC — Foundational analysis of IRGC economic mechanisms
-- [1985] The Rise of the Subcontractor State: Pseudo-Privatization in Iran — IRGC expansion through state contracting mechanisms
-- [1983] Has Privatization of State-Owned Enterprises in Iran Led to Improved Performance? — Empirical assessment of Iranian privatization outcomes
+منابع مقایسه ای اولیه:
 
-Iraq State Enterprise Dissolution:
-- [9745] What Went Wrong in Iraq — CPA economic policy failures including SOE management
-- [9758] From Occupation to Counterinsurgency: Political Economy of Post-Conflict Iraq — Economic dimensions of Iraq's post-invasion transition
+ساختار اقتصادی سپاه:
+- [8295] پاسخگویی سازمانهای فرادولتی (بنیادها): مورد بنیادهای ایرانی - منبع اولیه ساختارهای حاکمیتی و پاسخگویی بنیاد
+- [2181] تبیین کنترل اقتصادی ایران توسط سپاه - تحلیل بنیادی سازوکارهای اقتصادی سپاه
+- [1985] ظهور دولت پیمانکار فرعی: خصوصی سازی شبه در ایران - گسترش سپاه پاسداران انقلاب اسلامی از طریق مکانیسم های قرارداد دولتی
+- [1983] آیا خصوصی سازی شرکت های دولتی در ایران منجر به بهبود عملکرد شده است؟ - ارزیابی تجربی نتایج خصوصی‌سازی ایران
 
-Czech and Polish Privatization:
-- [1194] Privatization Is Transition — Or Is It? — Conceptual analysis of privatization as transition mechanism
-- [1212] Comparing Resource-Based and Market-Based Views: Czech Privatization — Enterprise-level privatization outcomes
-- [1232] Influence of Owners on Voucher Privatized Firms in Czech Republic — Governance effects of voucher privatization
-- [4246] Concepts of Privatization in Poland — Polish gradualist privatization approach
+انحلال شرکت دولتی عراق:
+- [9745] چه اشتباهی در عراق رخ داد - شکست های سیاست اقتصادی CPA از جمله مدیریت شرکت های دولتی
+- [9758] از اشغال تا ضد شورش: اقتصاد سیاسی عراق پس از جنگ - ابعاد اقتصادی انتقال عراق پس از تهاجم
+
+خصوصی سازی چک و لهستان:
+- [1194] خصوصی سازی در حال گذار است - یا این است؟ - تحلیل مفهومی خصوصی سازی به عنوان مکانیزم گذار
+- [1212] مقایسه دیدگاه‌های مبتنی بر منبع و بازار: خصوصی‌سازی چک - نتایج خصوصی‌سازی در سطح شرکت
+- [1232] تأثیر مالکان بر شرکت های خصوصی کوپن در جمهوری چک - اثرات حاکمیتی خصوصی سازی کوپن
+- [4246] مفاهیم خصوصی سازی در لهستان - رویکرد خصوصی سازی تدریجی لهستان
 - [1257] Privatization in Agriculture and Rural Regeneration (Czech) — Sectoral privatization outcomes
-- [8972] Massive Divestiture and Privatization: Lessons from Chile — Large-scale privatization lessons
+- [8972] واگذاری گسترده و خصوصی سازی: درس هایی از شیلی - درس خصوصی سازی در مقیاس بزرگ
 
-Cross-Cutting and Comparative:
-- [5350] From State to Market: Survey of Empirical Studies on Privatization — Meta-analysis of privatization outcomes globally
-- [9385] Why China's Economic Reforms Differ: M-form Hierarchy — Alternative economic transition models
-- [9772] Oil and the Rentier State: Libya's Transition — Post-authoritarian transition in oil-dependent state
-- [7192] Failure of Western Policies toward Iran's Power Projection — Strategic context for IRGC institutional resilience
-- [2160] Political Challenges and Crisis Management in Iran — Iranian governance structures
-- [3573] Examining Economic Reform and Political Freedom — Economic reform in authoritarian context
-- [10043] Stabilization and Reconstruction in Afghanistan — Post-conflict economic challenges
-- [2157] Iranian Democratization: Green Movement — Domestic reform precedent
+مقطعی و مقایسه ای:
+- [5350] از دولت به بازار: بررسی مطالعات تجربی درباره خصوصی‌سازی - فراتحلیل نتایج خصوصی‌سازی در سطح جهانی
+- [9385] چرا اصلاحات اقتصادی چین متفاوت است: سلسله مراتب M-form - مدل های گذار اقتصادی جایگزین
+- [9772] نفت و دولت رانتیر: گذار لیبی - گذار پسا استبدادی در دولت وابسته به نفت
+- [7192] شکست سیاست های غرب در قبال فرافکنی قدرت ایران - زمینه راهبردی برای تاب آوری نهادی سپاه
+- [2160] چالش های سیاسی و مدیریت بحران در ایران - ساختارهای حکومتی ایران
+- [3573] بررسی اصلاحات اقتصادی و آزادی سیاسی - اصلاحات اقتصادی در زمینه اقتدارگرا
+- [10043] ثبات و بازسازی در افغانستان - چالش های اقتصادی پس از جنگ
+- [2157] دموکراتیزاسیون ایرانیان: جنبش سبز - سابقه اصلاحات داخلی
+
+</div>
