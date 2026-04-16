@@ -1,22 +1,25 @@
 # Research Dashboard
 
-*Last updated: 2026-04-16 11:22*
+*Last updated: 2026-04-16 14:50*
 
 ## Summary
 
 | Metric | Count |
 |--------|-------|
-| Total Sources | 6299 |
-| Sources Scored | 6299 (100%) |
+| Total Sources | 9259 |
+| Sources Scored | 9259 (100%) |
 | Source Summaries (Farsi) | 0 (0%) |
 | Relationships Mapped | 6216 |
-| Synthesis Articles | 90 |
-| Articles with Farsi | 59 (65%) |
+| Synthesis Articles | 93 |
+| Articles with Farsi | 62 (66%) |
 
 ## Synthesis Articles
 
 | Article | Category | Status | Last Updated |
 |---------|----------|--------|-------------|
+| [Ethnic federalism in Iran: Cross-Case Synthesis](synthesis/ethnic-federalism-in-iran/ethnic-federalism-in-iran-cross-case-synthesis.md) | Ethnic federalism in Iran | machine_generated | 2026-04-16 |
+| [Digital society, internet governance, and cyber activism: Cross-Case Synthesis](synthesis/digital-society-internet-governance-and-cyber-activism/digital-society-internet-governance-and-cyber-activism-cross-case-synthesis.md) | Digital society, internet governance, and cyber activism | machine_generated | 2026-04-16 |
+| [Brain-drain reversal and diaspora economic engagement: Cross-Case Synthesis](synthesis/brain-drain-reversal-and-diaspora-economic-engagement/brain-drain-reversal-and-diaspora-economic-engagement-cross-case-synthesis.md) | Brain-drain reversal and diaspora economic engagement | machine_generated | 2026-04-16 |
 | [Justice After the Bombs: Transitional Justice Frameworks for Post-War Iran — Accountability, Amnesty, and the Legitimacy Problem](synthesis/transitional-justice/justice-after-the-bombs-transitional-justice-frameworks-for-post-war-iran--accou.md) | Transitional justice | machine_generated | 2026-04-16 |
 | [De-Ba'athification as Template: What Iraq's Personnel Purge Teaches About De-IRGC-ification](synthesis/transitional-justice/de-baathification-as-template-what-iraqs-personnel-purge-teaches-about-de-irgc-i.md) | Transitional justice | approved | 2026-04-10 |
 | [If the Regime Falls: Post-IRGC Governance Scenarios and the Bonyad Question](synthesis/privatization-and-state-owned-enterprise-restructuring/if-the-regime-falls-post-irgc-governance-scenarios-and-the-bonyad-question.md) | Privatization and state-owned enterprise restructuring | approved | 2026-04-10 |
@@ -131,29 +134,29 @@
 
 | Case Study | Sources | Scored | Avg Relevance |
 |------------|---------|--------|---------------|
-| [Iran](case-studies/iran.md) | 4317 | 4317 | 2.6 |
-| [Indonesia](case-studies/indonesia.md) | 2644 | 1496 | 3.2 |
-| [Poland](case-studies/poland.md) | 2057 | 1857 | 3.1 |
-| [Chile](case-studies/chile.md) | 1874 | 1874 | 2.5 |
-| [South Korea](case-studies/south-korea.md) | 942 | 454 | 2.9 |
-| [Czech Republic](case-studies/czech-republic.md) | 609 | 241 | 2.7 |
-| [Spain](case-studies/spain.md) | 541 | 341 | 2.9 |
-| [Tunisia](case-studies/tunisia.md) | 320 | 277 | 3.1 |
-| [Iraq](case-studies/iraq.md) | 193 | 193 | 4.0 |
-| [Libya](case-studies/libya.md) | 144 | 144 | 4.0 |
+| [Iran](case-studies/iran.md) | 4702 | 4702 | 2.7 |
+| [Indonesia](case-studies/indonesia.md) | 2787 | 2787 | 3.4 |
+| [Poland](case-studies/poland.md) | 2110 | 2110 | 3.1 |
+| [Chile](case-studies/chile.md) | 2102 | 2102 | 2.7 |
+| [Czech Republic](case-studies/czech-republic.md) | 1481 | 1481 | 3.2 |
+| [South Korea](case-studies/south-korea.md) | 1033 | 1033 | 2.7 |
+| [Spain](case-studies/spain.md) | 716 | 716 | 3.2 |
+| [Tunisia](case-studies/tunisia.md) | 641 | 641 | 3.6 |
+| [Iraq](case-studies/iraq.md) | 435 | 435 | 4.0 |
+| [Libya](case-studies/libya.md) | 227 | 227 | 4.0 |
+| [Kosovo](case-studies/kosovo.md) | 164 | 164 | 4.0 |
+| [Germany](case-studies/germany.md) | 161 | 161 | 4.0 |
 | [Afghanistan](case-studies/afghanistan.md) | 129 | 129 | 4.0 |
-| [Kosovo](case-studies/kosovo.md) | 85 | 85 | 4.0 |
-| [Germany](case-studies/germany.md) | 71 | 71 | 4.0 |
 | [Japan](case-studies/japan.md) | 59 | 59 | 4.0 |
 
 ## Coverage by Domain
 
 | Domain | Sources | Case Studies | Avg Relevance |
 |--------|---------|-------------|---------------|
-| Political | 5587 | 14 | 3.1 |
-| Social Cultural | 4730 | 14 | 2.5 |
-| Economic | 2867 | 14 | 3.0 |
-| Iran Specific | 795 | 12 | 2.5 |
+| Political | 6777 | 14 | 3.2 |
+| Social Cultural | 5582 | 14 | 2.8 |
+| Economic | 3102 | 14 | 3.2 |
+| Iran Specific | 1098 | 13 | 2.9 |
 
 ## Detailed Coverage
 

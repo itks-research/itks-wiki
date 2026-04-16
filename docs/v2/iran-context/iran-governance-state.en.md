@@ -2,31 +2,37 @@
 
 ***Last Updated:** 2026-04-05*
 
-## Current State — Iran Governance (as of April 8, 2026)
+## Current State — Iran Governance (as of April 16, 2026)
 
-Iran is in an unprecedented governance crisis. Supreme Leader Ali Khamenei was assassinated on February 28, 2026 in a US-Israel airstrike targeting his compound. His son, Mojtaba Khamenei (56), was elected by the Assembly of Experts as the third Supreme Leader on March 9, following a week under an Interim Leadership Council (Arafi, Mohseni-Eje'i, Ghalibaf, Pezeshkian).
+Iran is in an unprecedented wartime governance crisis. Supreme Leader Ali Khamenei was assassinated on February 28, 2026, in a US-Israel airstrike targeting his compound in Tehran. His son, Mojtaba Khamenei (56), was elected by the Assembly of Experts as the third Supreme Leader on March 9, following a week under an Interim Leadership Council (Arafi, Mohseni-Eje'i, Ghalibaf, Pezeshkian).
 
-The Islamic Republic's constitutional framework functioned as designed in the succession — Article 111 triggered the Interim Council — but Mojtaba's legitimacy is contested. He lacks his father's clerical credentials and revolutionary pedigree. His initial statements called for continued military resistance and use of the Strait of Hormuz as leverage.
+A fragile ceasefire was agreed with the United States and Israel on April 7-8, 2026, pausing 39 days of active war. Multi-party negotiations are ongoing in Islamabad (Pakistan mediation), beginning April 10. The Islamabad talks are now the dominant political frame for the regime — all governance decisions subordinated to the diplomacy track.
 
-A two-week ceasefire was agreed with the United States on April 7-8, 2026, pausing 39 days of active war. Negotiations are continuing in Islamabad (Pakistan mediation). The regime remains in place but is under severe external pressure and internal legitimacy strain.
+Mojtaba Khamenei's legitimacy remains deeply contested. He lacks his father's clerical credentials and revolutionary pedigree. His communications have been limited to written statements and carefully managed appearances. The IRGC, not the clerical establishment, is the effective power broker.
 
-**Constitutional status:** Velayat-e Faqih system intact but weakened. Guardian Council, Expediency Council, and Assembly of Experts all functional. President Pezeshkian has taken a more prominent role during the war.
+**Constitutional status:** Velayat-e Faqih system structurally intact but politically weakened. Guardian Council, Expediency Council, and Assembly of Experts all functional. Normal political activity (elections, parliamentary debate, public protest) is suspended under wartime emergency logic. President Pezeshkian has taken on greater public visibility as the "face" of ceasefire diplomacy.
 
-**Valid as of:** April 8, 2026
+**Islamabad negotiations:** Iran's negotiating team is active in Islamabad; Mojtaba has reportedly authorized movement toward a deal in principle, but the regime's red lines (enrichment rights, full sanctions lifting) remain publicly stated. Internal regime debates about acceptable compromise terms are ongoing but not visible externally.
 
-## Key Actors — Iran Governance
+**Valid as of:** April 16, 2026
 
-**Supreme Leader Mojtaba Khamenei** — Elected March 9, 2026 after assassination of his father. Lacks traditional clerical credentialing of Khomeini/Khamenei I; legitimacy rests on IRGC backing and dynastic continuity. First public communications via written statements (not televised). Age 56.
+## Key Actors — Iran Governance (as of April 16, 2026)
 
-**President Masoud Pezeshkian** — Elected reformist president June 2024; member of Interim Leadership Council during succession gap. More visible in ceasefire negotiations; limited independent power under Velayat-e Faqih.
+**Supreme Leader Mojtaba Khamenei** — Elected March 9, 2026 after assassination of his father. Lacks traditional clerical credentialing of Khomeini/Khamenei I; legitimacy rests on IRGC backing and dynastic continuity. Communications via written statements and controlled appearances. Age 56. Has reportedly authorized negotiators to explore deal parameters in Islamabad.
 
-**IRGC Commander Ahmad Vahidi** — Took over from Mohammad Pakpour (killed in strikes). Previously: defense minister under Ahmadinejad. IRGC has consolidated domestic power during war, insisting on IRGC control of critical decisions.
+**President Masoud Pezeshkian** — Elected reformist president June 2024; member of Interim Leadership Council during succession gap. Most publicly visible face of ceasefire diplomacy; limited independent power under Velayat-e Faqih but increasingly the diplomatic front-man.
 
-**Assembly of Experts** — Played active constitutional role electing Mojtaba; elevated from nominal oversight to executive decision-maker during succession.
+**IRGC Commander Ahmad Vahidi** — Took over from Mohammad Pakpour (killed in strikes). Key power behind Mojtaba's governance; insisting on IRGC control of security decisions. Hardliner; formerly on UN sanctions list for 1994 Buenos Aires bombing. Relationship with ceasefire process is tense — IRGC has most to lose from any deal that degrades its power or proxy network.
 
-**Guardian Council** — Alireza Arafi (its head) was on Interim Leadership Council; continues candidate-filtering function.
+**Assembly of Experts** — Played active constitutional role electing Mojtaba; has not publicly challenged him since. Reduced to legitimizing role rather than deliberative body.
 
-**Mohammad Bagher Ghalibaf** — Speaker; on Interim Leadership Council; hardline pragmatist.
+**Guardian Council (Alireza Arafi)** — Arafi was on Interim Leadership Council; Guardian Council continues candidate-filtering function but is a secondary player in wartime governance.
+
+**Mohammad Bagher Ghalibaf** — Majlis Speaker; member of Interim Council; hardline pragmatist with IRGC links; a key voice in internal debates about ceasefire terms.
+
+**Iranian negotiating team (Islamabad)** — Foreign Minister and senior officials; operating under Mojtaba's authority but constrained by IRGC red lines.
+
+**Valid as of:** April 16, 2026
 
 ## Trend Analysis — Iran Governance
 
@@ -38,11 +44,14 @@ A two-week ceasefire was agreed with the United States on April 7-8, 2026, pausi
 
 **Structural question for ITKS:** Does wartime IRGC dominance represent a pathway to military-led transition, or consolidation that forecloses democratization?
 
-## Explicit Assumptions — Iran Governance (April 8, 2026)
+## Explicit Assumptions — Iran Governance (April 16, 2026)
 
-1. **Mojtaba Khamenei is the recognized Supreme Leader** — Assembly of Experts election completed March 9; no internal regime challenge to his position as of April 8.
-2. **The IRGC is the primary power broker** — Under Ahmad Vahidi, IRGC control over critical decisions has been formalized during the war.
+1. **Mojtaba Khamenei is the recognized Supreme Leader** — Assembly of Experts election completed March 9; no internal regime challenge to his position as of April 16. IRGC backing is the primary pillar of his authority.
+2. **The IRGC is the primary power broker** — Ahmad Vahidi's IRGC has formalized dominance over critical security and governance decisions during the war; this is now the new baseline, not an exception.
 3. **Constitutional framework remains operative** — Article 111 succession worked; institutions still functioning even under wartime conditions.
-4. **Ceasefire is fragile** — Two-week window starting April 7; Islamabad negotiations ongoing; outcome highly uncertain.
-5. **Protests continue** — Mass demonstrations across all provinces, violently suppressed; regime has not collapsed.
-6. **Key uncertainty:** Mojtaba's clerical legitimacy may degrade over time without a war-rally effect or successful ceasefire deal.
+4. **Ceasefire is fragile and temporary** — The April 7-8 two-week ceasefire window has been extended de facto by ongoing Islamabad talks; but no permanent agreement exists.
+5. **Islamabad talks are the dominant political frame** — All governance decisions are subordinated to whether diplomacy succeeds; this is the primary variable through at least May 2026.
+6. **Normal political activity suspended** — Elections, legislative process, and public protest are all suppressed under wartime emergency logic.
+7. **Key uncertainty:** Whether Islamabad talks produce a comprehensive deal before the ceasefire collapses; and whether any deal would require IRGC to accept constraints on its power.
+
+**Valid as of:** April 16, 2026
