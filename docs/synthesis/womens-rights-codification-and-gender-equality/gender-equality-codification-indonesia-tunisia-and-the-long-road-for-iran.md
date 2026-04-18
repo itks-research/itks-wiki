@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
@@ -44,3 +46,5 @@
 | ۴ | Nielsen & Nilsen | ۲۰۲۱ | Love Jihad and the Governance of Gender and Intimacy | DOI |
 | ۵ | Sindre | ۲۰۱۷ | Civic Engagement and Democracy in Post-Suharto Indonesia | DOI |
 | ۶ | Nightingale & Ahlborg | ۲۰۱۸ | Theorizing power in political ecology | DOI |
+
+</div>

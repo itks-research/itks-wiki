@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
@@ -41,3 +43,5 @@
 ## Sources
 
 {"sources": [{"id": 4330, "title": "Illiberal Constitutionalism: The Case of Hungary and Poland", "authors": "[\"T\\u00edmea Drin\\u00f3czi\", \"Agnieszka Bie\\u0144-Kaca\\u0142a\"]", "year": 2019, "case_study": "Poland", "relevance_score": 5.0, "reliability_score": 4.92}, {"id": 4352, "title": "Backsliding of the Rule of Law in Poland \u2013 a Systemic Problem With the Independence of Courts", "authors": "[\"Anna Adamska-Gallant\"]", "year": 2022, "case_study": "Poland", "relevance_score": 5.0, "reliability_score": 4.91}, {"id": 4341, "title": "Connecting Reproductive Rights, Democracy, and the Rule of Law: Lessons from Poland in Times of COVID-19", "authors": "[\"Atina Krajewska\"]", "year": 2021, "case_study": "Poland", "relevance_score": 5.0, "reliability_score": 4.91}, {"id": 4347, "title": "ARTICLE 7 PROCESS AND DEMOCRATIC BACKSLIDING OF HUNGARY AND POLAND. DEMOCRACY AND THE RULE OF LAW", "authors": "[\"\\u0141ukasz Zam\\u0119cki\", \"Viktor Glied\"]", "year": 2020, "case_study": "Poland", "relevance_score": 5.0, "reliability_score": 4.91}, {"id": 4366, "title": "\u017burek v Poland \u2013 when judges become rule of law actors. Challenges and achievements of judicial mobilisation in Poland", "authors": "[\"Barbara Grabowska-Moroz\"]", "year": 2023, "case_study": "Poland", "relevance_score": 5.0, "reliability_score": 4.67}, {"id": 4367, "title": "Polarization and rule of law crisis\u2014insights from Poland", "authors": "[\"Magdalena Solska\"]", "year": 2025, "case_study": "Poland", "relevance_score": 5.0, "reliability_score": 4.63}, {"id": 4359, "title": "Signalling in European Rule of Law Cases: Hungary and Poland as Case Studies", "authors": "[\"Ula Aleksandra Kos\"]", "year": 2023, "case_study": "Poland", "relevance_score": 5.0, "reliability_score": 4.63}, {"id": 4370, "title": "Rule of Law vs. Poland and Hungary \u2013 an Inconsistent Approach?", "authors": "[\"Nasiya Daminova\"]", "year": 2021, "case_study": "Poland", "relevance_score": 5.0, "reliability_score": 4.63}]}
+
+</div>

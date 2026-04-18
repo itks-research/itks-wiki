@@ -1,3 +1,16 @@
+---
+tags:
+  - Iran-Specific
+  - Seminary role in post-theocratic society
+  - Iran
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Seminary role in post-theocratic society</a></p>
+
+# The Hawza After Velayat-e Faqih: Seminary Authority, Religious Pluralism, and Post-Theocratic Governance
+
+**Status:** approved | **Last Updated:** 2026-04-02T05:32:54.084326Z
+
 ## Theoretical Framework
 
 Framework: Process Tracing Causal Chain

@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
@@ -42,3 +44,5 @@
 | ۴ | Brazil | ۲۰۲۲ | Avoiding Accountability | DOI |
 | ۵ | Zvozdetska | ۲۰۱۷ | Present-day Poland Media Landscape: Compliance with EU Regulations | — |
 | ۶ | Guriev & Treisman | ۲۰۱۹ | Informational Autocrats | DOI |
+
+</div>

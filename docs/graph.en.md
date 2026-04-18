@@ -94,8 +94,11 @@
   let currentCase = 'iran';
   let graphRendered = false;
 
+  const isFA = !window.location.pathname.match(/\/en\//);
+  const dataPrefix = isFA ? '../data/' : '../../data/';
+
   function loadGraphData(caseName) {
-    const file = '../data/graph_' + caseName + '.json';
+    const file = dataPrefix + 'graph_' + caseName + '.json';
     return fetch(file).then(r => r.json());
   }
 
@@ -120,10 +123,10 @@
     })
     .catch(() => {
       // Fallback to combined files
-      fetch('../data/graph_nodes.json')
+      fetch(dataPrefix + 'graph_nodes.json')
         .then(r => r.json())
         .then(nodes => {
-          fetch('../data/graph_edges.json')
+          fetch(dataPrefix + 'graph_edges.json')
             .then(r => r.json())
             .then(edges => renderGraph(nodes, edges));
         });

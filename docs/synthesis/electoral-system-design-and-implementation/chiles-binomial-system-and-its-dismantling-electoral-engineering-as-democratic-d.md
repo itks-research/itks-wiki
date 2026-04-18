@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
@@ -46,3 +48,6 @@
 | 5403 | Voting power of political parties in the Senate of Chile dur... | ["Fabi\u00e1n Riquelme" | 2018 | Chile | TBD |
 | 5397 | Electoral System Design in New Democracies... | ["John M. Carey"] | 2018 | Chile | TBD |
 | 5447 | Review Article: Institutional Design, Party Systems and Gove... | ["Joe Foweraker"] | 1998 | Chile | TBD |
+
+
+</div>

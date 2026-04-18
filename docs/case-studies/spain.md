@@ -8,9 +8,9 @@
 
 | معیار | مقدار |
 |-------|-------|
-| کل منابع | 217 |
-| میانگین ارتباط | 3.4/5 |
-| ارتباط بالا (۴+) | 86 (39%) |
+| کل منابع | 396 |
+| میانگین ارتباط | 3.6/5 |
+| ارتباط بالا (۴+) | 246 (62%) |
 | دسته‌بندی‌ها | 20 |
 
 [مرور تمام منابع اسپانیا در کاوشگر](../explorer/?case_study=Spain)
@@ -24,30 +24,31 @@
 - [Labor Market Dualism and Social Protection: South Korea, Spain, and Iran's Informal Economy](../synthesis/labor-market-reform-and-social-safety-nets/labor-market-dualism-and-social-protection-south-korea-spain-and-irans-informal-.md)
 - [Amnesty vs. Accountability: Spain's Forty-Year Lesson](../synthesis/transitional-justice/amnesty-vs-accountability-spains-forty-year-lesson.md)
 
-## سیاسی (181 منبع)
+## سیاسی (196 منبع)
 
 ### روابط نظامی-غیرنظامی و اصلاح بخش امنیتی
-*22 منبع*
+*23 منبع*
 
 - [Armed Forces and Democracy: Reforming Civil-Military Relations](../explorer/?id=367) (1995)
 - [The Military Transition: Democratic Reform of the Armed Forces](../explorer/?id=1124) (2005)
 - [Energy Policies Beyond IEA Countries: Morocco 2014](../explorer/?id=1176) (2014)
-- *...و 19 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Spain&category=Civil-military%20relations%20and%20security%20sector%20reform))
+- *...و 20 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Spain&category=Civil-military%20relations%20and%20security%20sector%20reform))
 
 ### طراحی و تدوین قانون اساسی
-*88 منبع*
+*100 منبع*
 
 - [Does the Process of Constitution-Making Matter?](../explorer/?id=316) (2009)
 - [The struggle for constitutional power: law, politics, and economic development in Egypt](../explorer/?id=320) (2008)
 - [Post Sovereign Constitution Making](../explorer/?id=391) (2016)
-- *...و 85 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Spain&category=Constitutional%20design%20and%20drafting%20processes))
+- *...و 97 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Spain&category=Constitutional%20design%20and%20drafting%20processes))
 
 ### طراحی و اجرای نظام انتخاباتی
-*3 منبع*
+*6 منبع*
 
 - [The 2011 General Election in Spain: The Collapse of the Socialist Party](../explorer/?id=421) (2012)
 - [Democracy at the Point of Bayonets](../explorer/?id=1148) (2015)
 - [Algeria's pseudo-democratic politics: Lessons for democratization in the Middle East](../explorer/?id=460) (2006)
+- *...و 3 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Spain&category=Electoral%20system%20design%20and%20implementation))
 
 ### فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری
 *4 منبع*
@@ -79,22 +80,22 @@
 - [Policy mixes for sustainability transitions: An extended concept and framework for analysis](../explorer/?id=1185) (2016)
 
 ### عدالت انتقالی
-*44 منبع*
+*43 منبع*
 
 - [Constructing the truth, dealing with dissent, domesticating the world: Governance in post-genocide Rwanda](../explorer/?id=324) (2010)
 - [Guatemala after the peace accords](../explorer/?id=495) (1998)
 - [Justice, Politics, and Memory in the Spanish Transition](../explorer/?id=425) (2001)
-- *...و 41 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Spain&category=Transitional%20justice))
+- *...و 40 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Spain&category=Transitional%20justice))
 
-## اقتصادی (19 منبع)
+## اقتصادی (18 منبع)
 
 ### اصلاح نظام بانکی و مالی
-*5 منبع*
+*4 منبع*
 
 - [Fiscal reform in Spain : accomplishments and challenges](../explorer/?id=1164) (2007)
 - [New Evidence and Perspectives on Mergers](../explorer/?id=1177) (2001)
 - [Credit Supply and Monetary Policy: Identifying the Bank Balance-Sheet Channel with Loan Applications](../explorer/?id=1183) (2012)
-- *...و 2 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Spain&category=Banking%20and%20financial%20system%20reform))
+- *...و 1 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Spain&category=Banking%20and%20financial%20system%20reform))
 
 ### اصلاح بازار کار و شبکه‌های حمایت اجتماعی
 *9 منبع*
@@ -117,12 +118,13 @@
 - [Revenge of the Optimum Currency Area](../explorer/?id=1179) (2013)
 - *...و 1 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Spain&category=Trade%20liberalization%20and%20foreign%20direct%20investment))
 
-## اجتماعی و فرهنگی (17 منبع)
+## اجتماعی و فرهنگی (182 منبع)
 
 ### توسعه جامعه مدنی
-*1 منبع*
+*2 منبع*
 
 - [Diffusion Across Political Systems: The Global Spread of National Human Rights Institutions](../explorer/?id=344) (2010)
+- [The evolution of marriage in Spain from the francoist dictatorship to the present day](../explorer/?id=296) (2024)
 
 ### حفظ میراث فرهنگی در دوره تحولات نهادی
 *1 منبع*
@@ -138,9 +140,12 @@
 - *...و 2 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Spain&category=Education%20system%20reform%20and%20curriculum%20modernization))
 
 ### سیاست زبانی
-*1 منبع*
+*89 منبع*
 
-- [Language Rights and the Law in the United States and Its Territories](../explorer/?id=366) (2018)
+- [2017 Guidelines of the American Thyroid Association for the Diagnosis and Management of Thyroid Disease During Pregnancy and the Postpartum](../explorer/?id=14918) (2017)
+- [The FLUXNET2015 dataset and the ONEFlux processing pipeline for eddy covariance data](../explorer/?id=14915) (2020)
+- [Global and regional estimates of COPD prevalence: Systematic review and meta–analysis](../explorer/?id=14919) (2015)
+- *...و 86 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Spain&category=Language%20policy))
 
 ### آزادی رسانه و نهادسازی مطبوعاتی
 *5 منبع*
@@ -151,9 +156,12 @@
 - *...و 2 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Spain&category=Media%20freedom%20and%20press%20institution%20building))
 
 ### حقوق اقلیت‌ها
-*1 منبع*
+*57 منبع*
 
-- [Between integration and secession: the Muslim communities of the southern Philippines, southern Thailand, and western Burma/Myanmar](../explorer/?id=1126) (2003)
+- [Still too far to walk: Literature review of the determinants of delivery service use](../explorer/?id=15740) (2009)
+- [The Impact of Climate Change on Mental Health: A Systematic Descriptive Review](../explorer/?id=15742) (2020)
+- [Decolonizing Post-Colonial Studies and Paradigms of Political-Economy: Transmodernity, Decolonial Thinking, and Global Coloniality](../explorer/?id=15739) (2011)
+- *...و 54 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Spain&category=Minority%20rights))
 
 ### آزادی مذهبی و جدایی دین از حکومت
 *1 منبع*
@@ -161,9 +169,11 @@
 - [Perspectives on Religious Freedom in Spain](../explorer/?id=369) (2001)
 
 ### تدوین حقوق زنان و برابری جنسیتی
-*2 منبع*
+*22 منبع*
 
-- [Institutionalising Gender Equality in Spain: From Party Quotas to Electoral Gender Quotas](../explorer/?id=392) (2012)
-- [Liberalism and Married Women’s Property Rights in Nineteenth-Century Latin America](../explorer/?id=368) (2005)
+- [Constitutional Politics/Constitutional Law](../explorer/?id=13039) (1989)
+- [European Feminisms, 1700-1950: A Political History](../explorer/?id=13202) (1999)
+- [Girl's Education in the 21st Century](../explorer/?id=13223) (2008)
+- *...و 19 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Spain&category=Women%27s%20rights%20codification%20and%20gender%20equality))
 
 </div>

@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (5 sources)
@@ -39,3 +41,5 @@
 | Croissant, A. | ۲۰۱۱ | عوامل ساختاری و کارگزاری هر دو برای کنترل غیرنظامی اهمیت دارند |
 | Kuehn, D. | ۲۰۰۸ | تایوان گسترش تدریجی غیرنظامی بر اختیارات نظامی را نشان می‌دهد |
 | Kuehn, D. & Croissant, A. | ۲۰۲۳ | مقایسه شش‌موردی اصلاحات تدریجی را تأیید می‌کند |
+
+</div>

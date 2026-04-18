@@ -1,3 +1,16 @@
+---
+tags:
+  - Political
+  - Judicial independence and rule of law
+  - Poland
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Judicial independence and rule of law</a></p>
+
+# Poland's Rule-of-Law Crisis: Judicial Capture and Democratic Backsliding
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-04-06
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)

@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (9 sources)
@@ -45,3 +47,5 @@
 | ۷ | Ansari | ۲۰۱۰ | Crisis of Authority: Iran's 2009 Presidential Election | — |
 | ۸ | Merkel | ۲۰۰۴ | Embedded and defective democracies | DOI |
 | ۹ | Tezcur | ۲۰۰۵ | How do political religious groups develop sustainable democratic commitments | — |
+
+</div>

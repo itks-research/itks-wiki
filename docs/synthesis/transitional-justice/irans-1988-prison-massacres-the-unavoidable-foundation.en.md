@@ -1,3 +1,16 @@
+---
+tags:
+  - Political
+  - Transitional justice
+  - Iran
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Transitional justice</a></p>
+
+# Iran's 1988 Prison Massacres: The Unavoidable Foundation
+
+**Status:** 🤖 Machine Generated | **Last Updated:** 2026-04-06
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** —  | 📎 **Source Alignment: 🟢 Strong** (75%)

@@ -1,3 +1,16 @@
+---
+tags:
+  - Political
+  - Constitutional design and drafting processes
+  - Chile
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Constitutional design and drafting processes</a></p>
+
+# Chile's 2022 Failure: Overreach and the Limits of Participatory Maximalism
+
+**Status:** 🤖 Machine Generated | **Last Updated:** 2026-04-06
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)

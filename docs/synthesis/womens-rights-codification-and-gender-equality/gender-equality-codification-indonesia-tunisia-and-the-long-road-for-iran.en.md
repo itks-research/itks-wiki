@@ -1,3 +1,18 @@
+---
+tags:
+  - Social & Cultural
+  - Women's rights codification and gender equality
+  - Iran
+  - Indonesia
+  - Tunisia
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Women's rights codification and gender equality</a></p>
+
+# Gender Equality Codification: Indonesia, Tunisia, and the Long Road for Iran
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-04-06
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)

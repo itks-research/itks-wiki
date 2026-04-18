@@ -1,3 +1,17 @@
+---
+tags:
+  - Political
+  - Judicial independence and rule of law
+  - Iran
+  - Poland
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Judicial independence and rule of law</a></p>
+
+# Building Judicial Independence from Scratch: Poland's Cautionary Tale and Iran's Theocratic Courts
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-31T19:49:26.463497
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)

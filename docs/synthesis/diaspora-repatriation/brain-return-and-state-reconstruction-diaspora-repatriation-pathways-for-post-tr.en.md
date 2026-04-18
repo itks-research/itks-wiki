@@ -1,3 +1,13 @@
+---
+tags:
+  - Diaspora repatriation
+  - Iran
+---
+
+# Brain Return and State Reconstruction: Diaspora Repatriation Pathways for Post-Transition Iran
+
+**Status:** approved | **Last Updated:** 2026-04-02T08:38:41.392569
+
 ## Theoretical Framework
 
 REALIST SYNTHESIS FRAMEWORK (CMO Configuration)

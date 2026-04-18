@@ -1,3 +1,17 @@
+---
+tags:
+  - Economic
+  - Privatization and state-owned enterprise restructuring
+  - Poland
+  - Czech Republic
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Privatization and state-owned enterprise restructuring</a></p>
+
+# Shock Therapy vs. Gradualism: Privatization Lessons from Poland and Czech Republic
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-04-06
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
@@ -70,3 +84,7 @@ Article 44 of Iran's constitution already mandates a mixed economy with state, c
 - **Absence of evidence on regulatory transformation versus ownership transfer for hybrid entities:** The article suggests regulatory transformation (subjecting commercial entities to civilian oversight and competition law) as an alternative to confiscatory ownership transfer, but the empirical evidence on whether this approach achieves genuine commercial independence from military and political control — versus simply creating civilian-front structures as occurred in Indonesia — is thin.
 
 This article examines how Poland and the Czech Republic privatized state-owned enterprises after communism, and asks what those experiences mean for Iran's far more complicated economic challenge. The key finding is that rapid privatization — as the Czech Republic attempted — tends to hand state assets to insiders who strip their value, while gradual, institution-building approaches produce more sustainable outcomes. For Iran, the article argues that neither model directly applies, because the entities that need restructuring are not ordinary state companies but military-religious-commercial conglomerates — primarily the IRGC — that combine business operations with security functions, religious legitimacy, and social welfare programs in ways that have no precedent in any post-authoritarian transition.
+
+## Related Articles
+
+- [Employee Buyouts and Mass Privatization: Poland's Ownership Transformation and Iran's SOE Challenge](employee-buyouts-and-mass-privatization-polands-ownership-transformation-and-ira.md)

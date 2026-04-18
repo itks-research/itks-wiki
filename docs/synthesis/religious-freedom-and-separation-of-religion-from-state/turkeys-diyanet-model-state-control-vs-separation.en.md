@@ -1,3 +1,15 @@
+---
+tags:
+  - Social & Cultural
+  - Religious freedom and separation of religion from state
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Religious freedom and separation of religion from state</a></p>
+
+# Turkey's Diyanet Model: State Control vs. Separation
+
+**Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29T09:53:18.069901
+
 ## Evidence & Key Findings
 
 > 🔴 **Evidence Confidence: Low** — Single source evidence; strong claims with limited sources
@@ -68,3 +80,11 @@ Iran's religious landscape adds complexity that Turkey's Diyanet model cannot ac
 > 🟡 **Evidence Confidence: Moderate** —  | 📎 **Source Alignment: 🟡 Moderate** (70%)
 
 Turkey's Directorate of Religious Affairs (Diyanet) offers a model of how a state can maintain official involvement in religion without granting religious institutions governing authority — a "managed religious establishment" rather than either theocracy or strict secularism. The Diyanet employs 80,000+ imams, controls mosque content, sets religious education standards, and issues fatwas — but does so under civilian state authority, not clerical authority. For Iran, this matters because a post-velayat-e faqih transition will face pressure to completely separate religion from state, but eliminating all state-religion connection may be politically impossible in a society where most people are practicing Muslims. The Diyanet model suggests a middle path — but one that requires either negotiating with or overcoming Iran's far more institutionally powerful clerical establishment, which the Turkish secular establishment largely destroyed in the early 20th century rather than accommodating.
+
+## Related Articles
+
+- [Indonesia's Pancasila: Inclusive Monotheism and Its Limits](indonesias-pancasila-inclusive-monotheism-and-its-limits.md)
+- [Post-Theocratic Transitions: Uncharted Territory](post-theocratic-transitions-uncharted-territory.md)
+- [Stepan's Twin Tolerations and Post-Theocratic Governance](stepans-twin-tolerations-and-post-theocratic-governance.md)
+- [Tunisia's Constitutional Compromise and the Civil State Model](tunisias-constitutional-compromise-and-the-civil-state-model.md)
+- [Velayat-e Faqih: Iran's Unique Institutional Architecture](velayat-e-faqih-irans-unique-institutional-architecture.md)

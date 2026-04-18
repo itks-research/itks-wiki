@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
@@ -46,3 +48,5 @@
 | Marc Johan Botenga et al. | 2009 | The Iranian leviathan : state formation, progress and democr... | 4.0 | 3.29 |
 | Reyhaneh Mojdehkar et al. | 2021 | Adapted fairness benchmarks for the evaluation of Iran healt... | 4.0 | 3.08 |
 | Alborz Ghandehari et al. | 2018 | Post-Revolutionary Fervor: Gender, Class, and Political Cons... | 4.0 | 2.89 |
+
+</div>

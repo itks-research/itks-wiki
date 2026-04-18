@@ -6,12 +6,12 @@ Transitioned from military dictatorship to consolidated democracy over three dec
 
 | Metric | Value |
 |--------|-------|
-| Total Sources | 270 |
-| Avg Relevance | 3.6/5 |
-| High Relevance (4+) | 133 (49%) |
-| Avg Citations | 284 |
+| Total Sources | 375 |
+| Avg Relevance | 3.5/5 |
+| High Relevance (4+) | 198 (52%) |
+| Avg Citations | 275 |
 | Most Cited | 5,005 |
-| Categories | 17 |
+| Categories | 21 |
 
 [Browse all South Korea sources in Explorer](../explorer/?case_study=South Korea)
 
@@ -26,15 +26,15 @@ Transitioned from military dictatorship to consolidated democracy over three dec
 - [From Autarky to Integration: FDI Policy Lessons from South Korea and Czech Republic for Post-Sanctions Iran](../synthesis/trade-liberalization-and-foreign-direct-investment/from-autarky-to-integration-fdi-policy-lessons-from-south-korea-and-czech-republ.md)
 - [Does Prosecution Deter? The Kim-Sikkink Evidence and South Korea's Model](../synthesis/transitional-justice/does-prosecution-deter-the-kim-sikkink-evidence-and-south-koreas-model.md)
 
-## Political (160 sources)
+## Political (207 sources)
 
 ### Civil-military relations and security sector reform
-*26 sources*
+*72 sources*
 
 - [Institutions for High-Quality Growth: What They are and How to Acquire Them](../explorer/?id=261) (2000) | Rel: 4.0
-- [Institutions matter, but which ones?](../explorer/?id=190) (2005) | Rel: 4.0
-- [Coup-Proofing, Military Defection, and the Arab Spring](../explorer/?id=4) (2013) | Rel: 4.0
-- *...and 23 more* ([view all](../explorer/?case_study=South%20Korea&category=Civil-military%20relations%20and%20security%20sector%20reform))
+- [The Triple Helix, Quadruple Helix, …, and an N-Tuple of Helices: Explanatory Models for Analyzing the Knowledge-Based Economy?](../explorer/?id=15264) (2011) | Rel: 4.0
+- [A Public Transformed? Welfare Reform as Policy Feedback](../explorer/?id=15267) (2007) | Rel: 4.0
+- *...and 69 more* ([view all](../explorer/?case_study=South%20Korea&category=Civil-military%20relations%20and%20security%20sector%20reform))
 
 ### Constitutional design and drafting processes
 *51 sources*
@@ -45,12 +45,12 @@ Transitioned from military dictatorship to consolidated democracy over three dec
 - *...and 48 more* ([view all](../explorer/?case_study=South%20Korea&category=Constitutional%20design%20and%20drafting%20processes))
 
 ### Electoral system design and implementation
-*10 sources*
+*11 sources*
 
 - [Embedded and defective democracies](../explorer/?id=136) (2004) | Rel: 4.0
 - [Forging Democracy at Gunpoint](../explorer/?id=187) (2006) | Rel: 4.0
 - [The Politics of Democratization](../explorer/?id=1075) (2019) | Rel: 4.0
-- *...and 7 more* ([view all](../explorer/?case_study=South%20Korea&category=Electoral%20system%20design%20and%20implementation))
+- *...and 8 more* ([view all](../explorer/?case_study=South%20Korea&category=Electoral%20system%20design%20and%20implementation))
 
 ### Federalism, unitarism, and autonomy models
 *5 sources*
@@ -68,12 +68,12 @@ Transitioned from military dictatorship to consolidated democracy over three dec
 - [Korea’s Two Key Legal Reforms of Lay Adjudication: The Possible Introduction of the Grand Jury (Japan’s Prosecutorial Review Commission) System and the Elimination of Consent Requirement to Allow Lay Adjudication of American Military Felons in South Korea](../explorer/?id=221) (2012) | Rel: 3.0
 
 ### Political party formation and pluralism
-*15 sources*
+*18 sources*
 
+- [Political Settlements and the Governance of Growth-Enhancing Institutions](../explorer/?id=5235) (2010) | Rel: 4.0
 - [Occupy Congress in Taiwan: Political Opportunity, Threat, and the Sunflower Movement](../explorer/?id=19) (2015) | Rel: 4.0
 - [After development: the transformation of the Korean presidency and bureaucracy](../explorer/?id=1077) (1998) | Rel: 4.0
-- [Understanding the State in South Korea](../explorer/?id=1090) (1992) | Rel: 4.0
-- *...and 12 more* ([view all](../explorer/?case_study=South%20Korea&category=Political%20party%20formation%20and%20pluralism))
+- *...and 15 more* ([view all](../explorer/?case_study=South%20Korea&category=Political%20party%20formation%20and%20pluralism))
 
 ### Power-sharing mechanisms during transition periods
 *3 sources*
@@ -83,22 +83,27 @@ Transitioned from military dictatorship to consolidated democracy over three dec
 - [Change in U.S. Policy Toward South Korea in the Early 1960s](../explorer/?id=241) (1999) | Rel: 3.0
 
 ### Transitional justice
-*47 sources*
+*44 sources*
 
-- [Corrupting Peace? Peacebuilding and Post-conflict Corruption](../explorer/?id=5230) (2008) | Rel: 5.0
-- [The Massacres at Mt. Halla: Sixty Years of Truth Seeking in South Korea](../explorer/?id=5285) (2014) | Rel: 5.0
-- [South Korea’s collective memory of past human rights abuses](../explorer/?id=5288) (2018) | Rel: 5.0
-- *...and 44 more* ([view all](../explorer/?case_study=South%20Korea&category=Transitional%20justice))
+- [Explaining the Deterrence Effect of Human Rights Prosecutions for Transitional Countries1](../explorer/?id=167) (2010) | Rel: 4.0
+- [Growth and Poverty in Sub-Saharan Africa](../explorer/?id=5270) (2016) | Rel: 4.0
+- [Seeking Truth after 50 Years: The National Committee for Investigation of the Truth about the Jeju 4.3 Events](../explorer/?id=5284) (2009) | Rel: 4.0
+- *...and 41 more* ([view all](../explorer/?case_study=South%20Korea&category=Transitional%20justice))
 
-## Economic (92 sources)
+## Economic (132 sources)
 
 ### Banking and financial system reform
-*16 sources*
+*51 sources*
 
-- [The Global Capital Market: Benefactor or Menace?](../explorer/?id=1016) (1998) | Rel: 4.0
-- [Developmental Mindset: The Revival of Financial Activism in South Korea](../explorer/?id=1066) (2016) | Rel: 4.0
-- [Capital ungoverned: liberalizing finance in interventionist states](../explorer/?id=1071) (1997) | Rel: 4.0
-- *...and 13 more* ([view all](../explorer/?case_study=South%20Korea&category=Banking%20and%20financial%20system%20reform))
+- [From Efficient Markets Theory to Behavioral Finance](../explorer/?id=15308) (2003) | Rel: 4.0
+- [Transportation Costs and International Trade in the Second Era of Globalization](../explorer/?id=15304) (2007) | Rel: 4.0
+- [Does the “New Economy” Measure up to the Great Inventions of the Past?](../explorer/?id=15309) (2000) | Rel: 4.0
+- *...and 48 more* ([view all](../explorer/?case_study=South%20Korea&category=Banking%20and%20financial%20system%20reform))
+
+### Corruption, rent-seeking, and patronage networks
+*1 sources*
+
+- [Corrupting Peace? Peacebuilding and Post-conflict Corruption](../explorer/?id=5230) (2008) | Rel: 4.0
 
 ### Labor market reform and social safety nets
 *13 sources*
@@ -109,22 +114,22 @@ Transitioned from military dictatorship to consolidated democracy over three dec
 - *...and 10 more* ([view all](../explorer/?case_study=South%20Korea&category=Labor%20market%20reform%20and%20social%20safety%20nets))
 
 ### Privatization and state-owned enterprise restructuring
-*24 sources*
+*25 sources*
 
 - [Institutions, resources, and entry strategies in emerging economies](../explorer/?id=1054) (2008) | Rel: 4.0
 - [Performance Legitimacy, State Autonomy and China's Economic Miracle](../explorer/?id=1041) (2014) | Rel: 4.0
 - [Political Business in East Asia](../explorer/?id=1068) (2003) | Rel: 4.0
-- *...and 21 more* ([view all](../explorer/?case_study=South%20Korea&category=Privatization%20and%20state-owned%20enterprise%20restructuring))
+- *...and 22 more* ([view all](../explorer/?case_study=South%20Korea&category=Privatization%20and%20state-owned%20enterprise%20restructuring))
 
 ### Trade liberalization and foreign direct investment
-*39 sources*
+*42 sources*
 
 - [Global production networks and the analysis of economic development](../explorer/?id=1052) (2002) | Rel: 4.0
 - [Globalization, Structural Change and Productivity Growth](../explorer/?id=1013) (2011) | Rel: 4.0
 - [How Far Will International Economic Integration Go?](../explorer/?id=1009) (2000) | Rel: 4.0
-- *...and 36 more* ([view all](../explorer/?case_study=South%20Korea&category=Trade%20liberalization%20and%20foreign%20direct%20investment))
+- *...and 39 more* ([view all](../explorer/?case_study=South%20Korea&category=Trade%20liberalization%20and%20foreign%20direct%20investment))
 
-## Social & Cultural (18 sources)
+## Social & Cultural (34 sources)
 
 ### Civil society development
 *4 sources*
@@ -135,26 +140,52 @@ Transitioned from military dictatorship to consolidated democracy over three dec
 - *...and 1 more* ([view all](../explorer/?case_study=South%20Korea&category=Civil%20society%20development))
 
 ### Cultural heritage preservation during institutional change
-*2 sources*
+*5 sources*
 
 - [Confucianism and Democracy](../explorer/?id=1072) (1995) | Rel: 4.0
-- [From Xiedou to Yijun , the Decline of Ethnicity in Northern Taiwan, 1885-1895](../explorer/?id=107) (1990) | Rel: 3.0
+- [Biodiversity in the City: Fundamental Questions for Understanding the Ecology of Urban Green Spaces for Biodiversity Conservation](../explorer/?id=5313) (2017) | Rel: 3.0
+- [‘Generation X Games’, Action Sports and the Olympic Movement: Understanding the Cultural Politics of Incorporation](../explorer/?id=5256) (2011) | Rel: 3.0
+- *...and 2 more* ([view all](../explorer/?case_study=South%20Korea&category=Cultural%20heritage%20preservation%20during%20institutional%20change))
+
+### Digital society, internet governance, and cyber activism
+*3 sources*
+
+- [Open Innovation, Soft Branding and Green Influencers: Critiquing ‘Fast Fashion’ and ‘Overtourism’](../explorer/?id=5272) (2022) | Rel: 4.0
+- [Software Takes Command](../explorer/?id=5264) (2013) | Rel: 3.0
+- [A Literature Review on New Robotics: Automation from Love to War](../explorer/?id=5266) (2015) | Rel: 3.0
 
 ### Education system reform and curriculum modernization
-*9 sources*
+*12 sources*
 
 - [4 Research Methods: Quantitative and Qualitative Approaches](../explorer/?id=1045) (2023) | Rel: 3.0
 - [Data Resource Profile: The Survey of Health, Ageing and Retirement in Europe (SHARE)](../explorer/?id=1060) (2013) | Rel: 3.0
 - [Culture and Institutions](../explorer/?id=142) (2015) | Rel: 3.0
-- *...and 6 more* ([view all](../explorer/?case_study=South%20Korea&category=Education%20system%20reform%20and%20curriculum%20modernization))
+- *...and 9 more* ([view all](../explorer/?case_study=South%20Korea&category=Education%20system%20reform%20and%20curriculum%20modernization))
 
 ### Media freedom and press institution building
-*1 sources*
+*6 sources*
 
 - [Democracy's fourth wave?: digital media and the Arab Spring](../explorer/?id=176) (2013) | Rel: 4.0
+- [Theatre histories: an introduction](../explorer/?id=12659) (2010) | Rel: 3.4
+- [Have you ever seen the<i>Rain</i>? And who’ll stop the<i>Rain</i>?: the globalizing project of Korean pop (K‐pop)](../explorer/?id=12583) (2009) | Rel: 3.4
+- *...and 3 more* ([view all](../explorer/?case_study=South%20Korea&category=Media%20freedom%20and%20press%20institution%20building))
+
+### Public health system and healthcare access
+*1 sources*
+
+- [National Sex Survey in South Korea](../explorer/?id=5279) (2016) | Rel: 3.0
 
 ### Women's rights codification and gender equality
-*2 sources*
+*3 sources*
 
+- [Development of Women Resilience in the Workplace: A Solution to Break the Glass Ceiling](../explorer/?id=12969) (2024) | Rel: 3.4
 - [Under Construction: The Gendering of Modernity, Class, and Consumption in the Republic of Korea](../explorer/?id=211) (2002) | Rel: 3.0
 - [Introduction: Gender and Politics in Contemporary Korea](../explorer/?id=135) (2014) | Rel: 3.0
+
+## Iran-Specific (2 sources)
+
+### Environmental crisis and resource sustainability
+*2 sources*
+
+- [Stern Review on the Economics of Climate Change (2006)](../explorer/?id=5237) (2017) | Rel: 3.0
+- [Mechanisms of support of “green” projects financing: experience of countries](../explorer/?id=5268) (2017) | Rel: 3.0

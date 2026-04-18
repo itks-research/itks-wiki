@@ -1,3 +1,15 @@
+---
+tags:
+  - Political
+  - Civil-military relations and security sector reform
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Civil-military relations and security sector reform</a></p>
+
+# Coup-Proofing and Parallel Security Structures
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-29 06:42:53
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Makara (2013) coup-proofing theory rigorously tested against Arab Spring data. Well-documented empirical base.

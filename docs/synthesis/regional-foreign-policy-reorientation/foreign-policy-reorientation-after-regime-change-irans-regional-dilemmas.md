@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
@@ -56,3 +58,5 @@
 | 6 | TRANSFORMATION OF IRAN'S FOREIGN POLICY COURSE IN THE CONTEX... | N. Prorochenko | 2025 | 4.0 | 2.97 |
 | 7 | Iran and Saudi Arabia Civilio-Theo-Zation Clash: Reformulati... | Rina Cohen, Gadi Hitman | 2021 | 3.0 | 4.95 |
 | 8 | «ENTENTE CORDIALE» ПРОТИЛЕЖНИХ ДЕРЖАВ: БОРОТЬБА КИТАЮ ТА РОС... | Емре Озігчі | 2022 | 3.0 | 4.93 |
+
+</div>

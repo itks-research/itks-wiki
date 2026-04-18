@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
@@ -40,3 +42,5 @@ Post-transition frameworks must confront institutionalized capture. Restructurin
 | Mamdouh Abdelmoula M. Abdelsalam | 2020 | Oil price fluctuations and economic growth: the case of MENA countries | 3.0 | 4.96 |
 | Terry Lynn Karl | 1987 | Petroleum and Political Pacts: The Transition to Democracy in Venezuela | 3.0 | 4.72 |
 | A. Sadabadi, Zohreh Rahimirad | 2025 | Identifying scenarios for renewable energy development in Iran: the role of collaborative governance | 4.0 | 3.25 |
+
+</div>

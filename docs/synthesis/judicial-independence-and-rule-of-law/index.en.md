@@ -1,3 +1,15 @@
+---
+tags:
+  - Political
+  - Judicial independence and rule of law
+---
+
+<p class="breadcrumb"><a href="../index.md">Home</a> > <a href="index.md">Research Findings</a></p>
+
+# Judicial Independence and Rule of Law
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-04-01 19:09:32
+
 # Judicial Independence and Rule of Law
 
 ## Metadata

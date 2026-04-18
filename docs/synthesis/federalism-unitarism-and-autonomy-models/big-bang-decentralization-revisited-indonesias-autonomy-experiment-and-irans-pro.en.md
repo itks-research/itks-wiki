@@ -1,3 +1,15 @@
+---
+tags:
+  - Political
+  - Federalism, unitarism, and autonomy models
+  - Iran
+  - Indonesia
+---
+
+# Big Bang Decentralization Revisited: Indonesia's Autonomy Experiment and Iran's Provincial Question
+
+**Status:** approved | **Last Updated:** 2026-04-02T08:51:11.264331
+
 ## Theoretical Framework
 
 Realist Synthesis CMO Framework for Decentralization. Context: Both Indonesia and Iran are large, ethnically diverse states with histories of centralized authoritarian governance. Indonesia's New Order under Suharto (1966-1998) maintained centralized control over a vast archipelago of 300+ ethnic groups. Iran's Islamic Republic concentrates power in Tehran through the velayat-e faqih system, governing 31 provinces with significant ethnic diversity (Persian, Azeri, Kurdish, Baluch, Arab, Turkmen). Both states face centrifugal pressures from peripheral regions demanding greater autonomy. Mechanism: Rapid ('big bang') decentralization can manage centrifugal pressures through three channels: (1) fiscal decentralization transfers revenue authority to subnational units, creating local stakeholders in system stability; (2) administrative decentralization delegates service delivery, reducing grievances from perceived neglect; (3) political decentralization creates local democratic accountability, channeling separatist energy into electoral competition [Source 1624, 1625]. Outcome: Indonesia's decentralization (Laws 22/1999 and 25/1999) transferred substantial authority to districts, with mixed results—improved local service delivery but also elite capture, corruption, and uneven capacity [Source 1637]. Evidence certainty: Moderate for Indonesian outcomes, Limited for Iran transferability.

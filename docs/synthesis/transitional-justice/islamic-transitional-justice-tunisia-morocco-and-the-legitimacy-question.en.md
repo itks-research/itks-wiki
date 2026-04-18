@@ -1,3 +1,16 @@
+---
+tags:
+  - Political
+  - Transitional justice
+  - Tunisia
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Transitional justice</a></p>
+
+# Islamic Transitional Justice: Tunisia, Morocco, and the Legitimacy Question
+
+**Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29T09:50:14.498268
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)

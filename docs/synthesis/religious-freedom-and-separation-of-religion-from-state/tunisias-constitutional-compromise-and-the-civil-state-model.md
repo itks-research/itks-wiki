@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
@@ -40,3 +42,5 @@
 | McCarthy, R. | ۲۰۱۴ | سکولاریسم تونس پس از استقلال دولت‌ساخته بود، نه رشدیافته ارگانیک |
 | Sapsford, R. et al. | ۲۰۱۷ | فساد اعتماد به حکمرانی سکولار و دینی را در خاورمیانه و شمال آفریقا تخریب می‌کند |
 | Zoubir, Y. | ۲۰۱۸ | تحول سیاسی النهضه از جنبش اسلام‌گرا به حزب دموکرات مسلمان |
+
+</div>

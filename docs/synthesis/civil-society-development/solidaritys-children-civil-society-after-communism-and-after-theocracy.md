@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
@@ -45,3 +47,5 @@
 | ۵ | McGann | ۲۰۱۰ | Democratization and Market Reform: Think Tanks | — |
 | ۶ | — | ۲۰۰۴ | Social Capital and the Transition to Democracy | — |
 | ۷ | — | ۲۰۱۱ | Women's rights in the Middle East and North Africa | — |
+
+</div>

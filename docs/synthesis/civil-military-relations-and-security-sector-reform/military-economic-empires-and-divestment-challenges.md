@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Multiple comparative cases documented with institutional detail (Indonesia TNI 200+ businesses, Pakistan Fauji Foundation). Consistent patterns across documented cases.
@@ -55,3 +57,6 @@
 
 **شکاف چهارم: نقش سرمایه دیاسپورا در مرحله پس از واگذاری**
 پس از واگذاری نظامی، چه کسی دارایی‌ها را تصاحب می‌کند؟ این سوال مالکیت جانشین در ادبیات مربوط به ایران توسعه نیافته است.
+
+
+</div>

@@ -1,3 +1,12 @@
+---
+tags:
+  - dashboard
+---
+
+# ITKS Synthesis Dashboard
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-29 07:18:29
+
 # Synthesis Dashboard
 
 ## System Overview

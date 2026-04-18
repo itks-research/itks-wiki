@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
@@ -74,3 +76,6 @@ SOURCES CONSULTED
 Total sources analyzed: 8
 Average relevance score: 4.00
 Average reliability score: 4.66
+
+
+</div>

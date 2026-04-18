@@ -1,3 +1,14 @@
+---
+tags:
+  - Social & Cultural
+  - Minority rights
+  - Iran
+---
+
+# Unity in Diversity? Ethnic Accommodation, Minority Rights, and Post-Theocratic Governance in Iran
+
+**Status:** approved | **Last Updated:** 2026-04-02T08:51:11.282192
+
 ## Theoretical Framework
 
 Realist Synthesis CMO Framework for Ethnic Accommodation. Context: Iran is one of the Middle East's most ethnically diverse states. Persians constitute approximately 50-55% of the population, with Azeris (16-25%), Kurds (7-10%), Lurs (6%), Arabs (2-3%), Baluch (2-3%), Turkmen (2%), and other groups comprising the remainder. The Islamic Republic manages ethnic diversity through centralized governance, Persian linguistic hegemony, Shia religious identity as unifying framework, and security-based approaches to ethnic mobilization (particularly in Kurdish, Baluch, and Arab regions). Indonesia, with over 300 ethnic groups, provides the most directly relevant comparison: a large, diverse state that transitioned from authoritarian centralism to democratic accommodation of ethnic plurality. Mechanism: Ethnic accommodation in diverse states operates through three channels: (1) constitutional recognition of ethnic identity establishes symbolic inclusion and legal rights; (2) territorial autonomy and fiscal decentralization provide material stakes in system stability; (3) political inclusion through proportional representation or power-sharing reduces exclusion grievances [Source 6962]. Countervailing mechanisms: (a) recognition can reinforce identity boundaries; (b) territorial autonomy can enable separatism; (c) political quotas can freeze ethnic categories. Outcome: Stable multi-ethnic governance requires balancing recognition with integration. Evidence certainty: Moderate for general patterns, Limited for Iran-specific application.

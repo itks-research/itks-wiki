@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
@@ -43,3 +45,5 @@
 | ۵ | Tabari | ۲۰۰۳ | The Rule of Law and the Politics of Reform in Post-Revolutionary Iran | — |
 | ۶ | Arjomand & Brown | ۲۰۱۳ | Rule of Law, Islam, and Constitutional Politics in Egypt and Iran | — |
 | ۷ | Osanloo | ۲۰۲۰ | Forgiveness Work: Mercy, Law, and Victims' Rights in Iran | DOI |
+
+</div>

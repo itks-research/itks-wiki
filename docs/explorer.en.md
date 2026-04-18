@@ -63,7 +63,7 @@ Browse, search, and filter all indexed academic sources in the Iran Development 
   let sortField = 'relevance_score';
   let sortDir = -1;
 
-  const isFA = window.location.pathname.includes('/fa/');
+  const isFA = !window.location.pathname.match(/\/en\//);
 
   const L = isFA ? {
     loading: '...در حال بارگذاری',
@@ -80,7 +80,7 @@ Browse, search, and filter all indexed academic sources in the Iran Development 
     relevance: 'Relevance', reliability: 'Reliability', citations: 'Citations', abstract: 'Abstract',
   };
 
-  const basePath = isFA ? '../../data/sources.json' : '../data/sources.json';
+  const basePath = isFA ? '../data/sources.json' : '../../data/sources.json';
   fetch(basePath)
     .then(r => r.json())
     .then(data => {

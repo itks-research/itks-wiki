@@ -1,3 +1,16 @@
+---
+tags:
+  - Political
+  - Civil-military relations and security sector reform
+  - Iran
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Civil-military relations and security sector reform</a></p>
+
+# Theoretical Frameworks and Their Limits for Iran
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-29 06:42:53
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (5 sources)

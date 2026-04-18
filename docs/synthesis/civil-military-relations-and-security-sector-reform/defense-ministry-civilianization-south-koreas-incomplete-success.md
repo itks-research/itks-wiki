@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — South Korea CMR literature is among best-documented in comparative politics. Chung (2009), Kim & Kuehn (2022) are peer-reviewed longitudinal studies.
@@ -57,3 +59,6 @@
 
 **شکاف چهارم: محدودیت‌های همکاری فنی بین‌المللی**
 برنامه‌های مشارکت ناتو اصلاحات CMR را در لهستان و جمهوری چک تسهیل کرد. معادل‌های کارکردی برای ایران پس از گذار بررسی نشده است.
+
+
+</div>

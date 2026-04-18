@@ -1,3 +1,16 @@
+---
+tags:
+  - Social & Cultural
+  - Media freedom and press institution building
+  - Iran
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Media freedom and press institution building</a></p>
+
+# Press Freedom After Censorship: Iran's Journalism Tradition and Post-Transition Media Architecture
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-31T19:49:14.017174
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)

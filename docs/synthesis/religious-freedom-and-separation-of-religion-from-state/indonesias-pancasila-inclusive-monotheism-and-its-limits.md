@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (2 sources); strong claims with limited sources
@@ -37,3 +39,5 @@
 | Hefner, R. | ۲۰۲۱ | آزادی دینی نهادی اندونزی توسط سازمان‌های عظیم جامعه مدنی (نهضت‌العلما، محمدیه) پشتیبانی می‌شود |
 | Ichwan, M.N. | ۲۰۱۲ | پانچاسیلا به‌عنوان سازش آگاهانه تأسیسی با حذف التزام شریعت از منشور جاکارتا |
 | Demerath, J. | ۲۰۱۹ | سرمایه دینی و عوامل غیرحقوقی نتایج جدایی دین و دولت را در فرهنگ‌های مختلف شکل می‌دهند |
+
+</div>

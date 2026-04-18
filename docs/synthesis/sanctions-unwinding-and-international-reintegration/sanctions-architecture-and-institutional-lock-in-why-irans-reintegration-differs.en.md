@@ -1,3 +1,16 @@
+---
+tags:
+  - Economic
+  - Sanctions unwinding and international reintegration
+  - Iran
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Sanctions unwinding and international reintegration</a></p>
+
+# Sanctions Architecture and Institutional Lock-In: Why Iran's Reintegration Differs from Every Precedent
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-31T19:49:46.417997
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)

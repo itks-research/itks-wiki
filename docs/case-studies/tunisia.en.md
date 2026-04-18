@@ -6,12 +6,12 @@ The only Arab Spring country to achieve democratic transition (2011–2014). Its
 
 | Metric | Value |
 |--------|-------|
-| Total Sources | 189 |
-| Avg Relevance | 3.5/5 |
-| High Relevance (4+) | 100 (52%) |
-| Avg Citations | 53 |
-| Most Cited | 1,166 |
-| Categories | 18 |
+| Total Sources | 457 |
+| Avg Relevance | 3.8/5 |
+| High Relevance (4+) | 354 (77%) |
+| Avg Citations | 111 |
+| Most Cited | 3,849 |
+| Categories | 19 |
 
 [Browse all Tunisia sources in Explorer](../explorer/?case_study=Tunisia)
 
@@ -23,7 +23,7 @@ The only Arab Spring country to achieve democratic transition (2011–2014). Its
 - [Islamic Transitional Justice: Tunisia, Morocco, and the Legitimacy Question](../synthesis/transitional-justice/islamic-transitional-justice-tunisia-morocco-and-the-legitimacy-question.md)
 - [Gender Equality Codification: Indonesia, Tunisia, and the Long Road for Iran](../synthesis/womens-rights-codification-and-gender-equality/gender-equality-codification-indonesia-tunisia-and-the-long-road-for-iran.md)
 
-## Political (109 sources)
+## Political (202 sources)
 
 ### Civil-military relations and security sector reform
 *3 sources*
@@ -33,12 +33,12 @@ The only Arab Spring country to achieve democratic transition (2011–2014). Its
 - [Anti-Terrorism Laws in the Maghreb Countries: The Mirror of a Democratic Transition that Never Was](../explorer/?id=666) (2018) | Rel: 3.0
 
 ### Constitutional design and drafting processes
-*69 sources*
+*118 sources*
 
-- [The Extraordinary Politics of the Tunisian Revolution: The Process of Constitution Making](../explorer/?id=575) (2014) | Rel: 4.0
-- [Algeria versus the Arab Spring](../explorer/?id=542) (2013) | Rel: 4.0
-- [F<scp>amilies</scp>, T<scp>ribes and</scp> C<scp>ities in the</scp> L<scp>ibyan</scp> R<scp>evolution</scp>](../explorer/?id=537) (2011) | Rel: 4.0
-- *...and 66 more* ([view all](../explorer/?case_study=Tunisia&category=Constitutional%20design%20and%20drafting%20processes))
+- [Genetics of primary ovarian insufficiency: new developments and opportunities](../explorer/?id=15159) (2015) | Rel: 4.0
+- [EU democracy promotion in the neighbourhood: from leverage to governance?](../explorer/?id=15160) (2011) | Rel: 4.0
+- [OECD-FAO Guidance for Responsible Agricultural Supply Chains](../explorer/?id=15139) (2016) | Rel: 4.0
+- *...and 115 more* ([view all](../explorer/?case_study=Tunisia&category=Constitutional%20design%20and%20drafting%20processes))
 
 ### Electoral system design and implementation
 *4 sources*
@@ -60,17 +60,20 @@ The only Arab Spring country to achieve democratic transition (2011–2014). Its
 - [Access to Justice and Legal Process: Making Legal Institutions Responsive to Poor People in Ldcs](../explorer/?id=544) (2003) | Rel: 3.0
 
 ### Political party formation and pluralism
-*29 sources*
+*35 sources*
 
 - [Democratic Decline in the United States: What Can We Learn from Middle-Income Backsliding?](../explorer/?id=683) (2018) | Rel: 4.0
 - [Democracy without growth: The political ecology of the Indignados movement](../explorer/?id=695) (2015) | Rel: 4.0
 - [Egypt: Background and U.S. Relations](../explorer/?id=541) (2014) | Rel: 4.0
-- *...and 26 more* ([view all](../explorer/?case_study=Tunisia&category=Political%20party%20formation%20and%20pluralism))
+- *...and 32 more* ([view all](../explorer/?case_study=Tunisia&category=Political%20party%20formation%20and%20pluralism))
 
 ### Transitional justice
-*1 sources*
+*39 sources*
 
-- [Transitional Justice in Tunisia: When Religion Meets State](../explorer/?id=747) (2019) | Rel: 4.0
+- [Artificial Intelligence (AI): Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy](../explorer/?id=14228) (2019) | Rel: 4.0
+- [Effect of economic growth on CO<sub>2</sub> emission in developing countries: Evidence from a dynamic panel threshold model](../explorer/?id=14229) (2017) | Rel: 4.0
+- [A Survey on Blockchain Technology: Evolution, Architecture and Security](../explorer/?id=14212) (2021) | Rel: 4.0
+- *...and 36 more* ([view all](../explorer/?case_study=Tunisia&category=Transitional%20justice))
 
 ## Economic (6 sources)
 
@@ -92,7 +95,7 @@ The only Arab Spring country to achieve democratic transition (2011–2014). Its
 
 - [Tentative First Steps: An Assessment of the Uruguay Round Agreement on Services](../explorer/?id=1080) (1995) | Rel: 3.0
 
-## Social & Cultural (71 sources)
+## Social & Cultural (199 sources)
 
 ### Civil society development
 *5 sources*
@@ -110,13 +113,21 @@ The only Arab Spring country to achieve democratic transition (2011–2014). Its
 - [When Art Is the Weapon: Culture and Resistance Confronting Violence in the Post-Uprisings Arab World](../explorer/?id=702) (2015) | Rel: 3.0
 - *...and 1 more* ([view all](../explorer/?case_study=Tunisia&category=Education%20system%20reform%20and%20curriculum%20modernization))
 
+### Language policy
+*73 sources*
+
+- [Effects of COVID-19 Home Confinement on Eating Behaviour and Physical Activity: Results of the ECLB-COVID19 International Online Survey](../explorer/?id=14106) (2020) | Rel: 4.0
+- [Elective surgery cancellations due to the COVID-19 pandemic: global predictive modelling to inform surgical recovery plans](../explorer/?id=14159) (2020) | Rel: 4.0
+- [Global numbers of infection and disease burden of soil transmitted helminth infections in 2010](../explorer/?id=14164) (2014) | Rel: 4.0
+- *...and 70 more* ([view all](../explorer/?case_study=Tunisia&category=Language%20policy))
+
 ### Media freedom and press institution building
-*4 sources*
+*5 sources*
 
 - [Debating terrorism in a political transition: Journalism and democracy in Tunisia](../explorer/?id=661) (2020) | Rel: 4.0
 - [Polarization & populist backlash in transitioning Tunisia: the role of internet media & media ownership](../explorer/?id=665) (2023) | Rel: 4.0
-- [Social Media Techno-Discursive Design, Affective Communication and Contemporary Politics](../explorer/?id=802) (2018) | Rel: 3.0
-- *...and 1 more* ([view all](../explorer/?case_study=Tunisia&category=Media%20freedom%20and%20press%20institution%20building))
+- [The democratic transition after 2003 and its impact on the Iraqi media between freedom of expression and political exploitation](../explorer/?id=656) (2026) | Rel: 4.0
+- *...and 2 more* ([view all](../explorer/?case_study=Tunisia&category=Media%20freedom%20and%20press%20institution%20building))
 
 ### Minority rights
 *1 sources*
@@ -124,27 +135,30 @@ The only Arab Spring country to achieve democratic transition (2011–2014). Its
 - [The Arab Spring and the Challenge of Minority Rights: Will the Arab Revolutions Overcome the Legacy of the Past?](../explorer/?id=730) (2011) | Rel: 4.0
 
 ### Religious freedom and separation of religion from state
-*50 sources*
+*64 sources*
 
 - [Tax Havens and the Commercialization of State Sovereignty](../explorer/?id=792) (2002) | Rel: 4.0
 - [Rachid Ghannouchi](../explorer/?id=717) (2001) | Rel: 4.0
 - [Missing the Third Wave: Islam, Institutions, and Democracy in the Middle East](../explorer/?id=685) (2011) | Rel: 4.0
-- *...and 47 more* ([view all](../explorer/?case_study=Tunisia&category=Religious%20freedom%20and%20separation%20of%20religion%20from%20state))
+- *...and 61 more* ([view all](../explorer/?case_study=Tunisia&category=Religious%20freedom%20and%20separation%20of%20religion%20from%20state))
 
 ### Women's rights codification and gender equality
-*7 sources*
+*47 sources*
 
-- [Democratic Backsliding and the Instrumentalization of Women's Rights in Turkey](../explorer/?id=686) (2021) | Rel: 4.0
-- [Tackling Legal Impediments to Women’s Economic Empowerment](../explorer/?id=554) (2022) | Rel: 3.0
-- [Burning the veil: The Algerian war and the 'emancipation' of Muslim women, 1954–62](../explorer/?id=571) (2010) | Rel: 3.0
-- *...and 4 more* ([view all](../explorer/?case_study=Tunisia&category=Women%27s%20rights%20codification%20and%20gender%20equality))
+- [European Society of Cardiology: Cardiovascular Disease Statistics 2017](../explorer/?id=15340) (2017) | Rel: 4.0
+- [Tobacco smoking using a waterpipe: a re-emerging strain in a global epidemic](../explorer/?id=15341) (2004) | Rel: 4.0
+- [Overweight and Obesity in Eastern Mediterranean Region: Prevalence and Possible Causes](../explorer/?id=15339) (2011) | Rel: 4.0
+- *...and 44 more* ([view all](../explorer/?case_study=Tunisia&category=Women%27s%20rights%20codification%20and%20gender%20equality))
 
-## Iran-Specific (3 sources)
+## Iran-Specific (50 sources)
 
 ### Internet and digital infrastructure as civic space
-*1 sources*
+*48 sources*
 
-- [Cyberactivism in the Egyptian Revolution: How Civic Engagement and Citizen Journalism Tilted the Balance](../explorer/?id=538) (2011) | Rel: 4.0
+- [#Ferguson: Digital protest, hashtag ethnography, and the racial politics of social media in the United States](../explorer/?id=15780) (2015) | Rel: 4.0
+- [A Survey on Hybrid Beamforming Techniques in 5G: Architecture and System Model Perspectives](../explorer/?id=15774) (2018) | Rel: 4.0
+- [Resources and benchmark corpora for hate speech detection: a systematic review](../explorer/?id=15786) (2020) | Rel: 4.0
+- *...and 45 more* ([view all](../explorer/?case_study=Tunisia&category=Internet%20and%20digital%20infrastructure%20as%20civic%20space))
 
 ### Regional foreign policy reorientation
 *2 sources*

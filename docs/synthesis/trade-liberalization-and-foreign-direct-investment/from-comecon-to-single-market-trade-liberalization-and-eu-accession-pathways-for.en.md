@@ -1,3 +1,14 @@
+---
+tags:
+  - Economic
+  - Trade liberalization and foreign direct investment
+  - Iran
+---
+
+# From COMECON to Single Market: Trade Liberalization and EU Accession Pathways for Iran's Economic Reintegration
+
+**Status:** approved | **Last Updated:** 2026-04-02T08:51:11.275916
+
 ## Theoretical Framework
 
 Realist Synthesis CMO Framework for Trade Liberalization. Context: Poland and Czech Republic transitioned from COMECON-integrated planned economies to EU single market members over approximately 15 years (1989-2004). This required dismantling state trading monopolies, adopting EU acquis communautaire (80,000+ pages of regulations), and restructuring industrial sectors exposed to international competition. Iran's economy, isolated by comprehensive sanctions since 2012 (and partial sanctions since 1979), faces analogous reintegration challenges: an economy structured around sanctions circumvention, state-dominated trade channels, and industrial sectors protected from competition. Mechanism: Trade liberalization creates developmental outcomes through three channels: (1) competition pressure forces firm-level productivity improvements or exit; (2) FDI inflows transfer technology, management practices, and market access; (3) institutional harmonization with trade partners creates regulatory quality improvements [Source 1035, 1052]. Countervailing mechanisms include: (a) import competition destroying domestic capacity before productivity gains materialize; (b) FDI concentrating in extractive rather than productive sectors; (c) regulatory harmonization imposing inappropriate standards on developing economies. Outcome: Poland and Czech Republic achieved sustained GDP growth, industrial upgrading, and institutional modernization. However, regional inequality increased and certain sectors (agriculture, heavy industry) experienced painful adjustment. Evidence certainty: Strong for EU accession outcomes, Limited for Iran transferability.

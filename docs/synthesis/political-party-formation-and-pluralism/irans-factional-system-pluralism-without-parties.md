@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Well-triangulated evidence (8 sources); sources with gate2 concerns
@@ -42,3 +44,5 @@
 | ۶ | Wong | ۲۰۱۴ | South Korea's Weakly Institutionalized Party System | — |
 | ۷ | Slater | ۲۰۰۴ | Indonesia's Accountability Trap: Party Cartels and Presidential Power | — |
 | ۸ | Webber | ۲۰۰۶ | A consolidated patrimonial democracy? Democratization in post-Suharto Indonesia | DOI |
+
+</div>

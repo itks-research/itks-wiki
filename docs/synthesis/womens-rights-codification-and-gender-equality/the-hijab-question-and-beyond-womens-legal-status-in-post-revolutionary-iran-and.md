@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
@@ -79,3 +81,6 @@ Unlike Tunisia's 1956 reforms (enacted by nationalist elites positioning moderni
 | 3339 | Bypassing Islamism and Feminism: Women's Resistance and Rebellion in Post-revolutionary Iran | Sadeghi | 2010 | 4.0 | 4.91 |
 | 3307 | Breaking boundaries: Exploring gendered challenges and advancing equality for Iranian women careers in tourism | Carrasco-Santos et al. | 2024 | 4.0 | 4.69 |
 | 3313 | Emergency medicine in Iran: the history and the question of gender equality | Khoshnood | 2021 | 4.5 | 4.31 |
+
+
+</div>

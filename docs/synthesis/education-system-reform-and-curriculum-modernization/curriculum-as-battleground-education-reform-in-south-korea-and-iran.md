@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
@@ -46,3 +48,5 @@
 | ۶ | Dabbagh, Babaii & Atai | ۲۰۲۲ | Cultural Schemas in FLEP Documents | DOI |
 | ۷ | World Bank | ۲۰۲۱ | Investing in Human Capital | — |
 | ۸ | Miranda et al. | ۲۰۲۲ | Human development and decentralization | DOI |
+
+</div>

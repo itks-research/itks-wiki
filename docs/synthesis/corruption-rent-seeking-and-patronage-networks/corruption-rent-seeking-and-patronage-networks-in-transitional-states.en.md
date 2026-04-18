@@ -1,3 +1,15 @@
+---
+tags:
+  - Economic
+  - Corruption, rent-seeking, and patronage networks
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Corruption, rent-seeking, and patronage networks</a></p>
+
+# Corruption, Rent-Seeking, and Patronage Networks in Transitional States
+
+**Status:** 🤖 Machine Generated | **Last Updated:** 2026-04-04T19:08:56.227992
+
 ## Theoretical Framework
 
 Framework: Realist Synthesis — Context-Mechanism-Outcome Configuration

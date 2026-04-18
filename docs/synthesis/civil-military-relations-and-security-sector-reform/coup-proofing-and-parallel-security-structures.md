@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Makara (2013) coup-proofing theory rigorously tested against Arab Spring data. Well-documented empirical base.
@@ -58,3 +60,6 @@
 
 **شکاف چهارم: پیشگیری از خلاء امنیتی پس از گذار**
 چگونه می‌توان نظم عمومی را حفظ کرد و در عین حال دستگاه کودتاپیشگیر را که نظم را فراهم می‌کرد منحل نمود؟
+
+
+</div>

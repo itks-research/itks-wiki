@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 # استقلال قضایی و حاکمیت قانون
 
 ## متادیتا
@@ -55,3 +57,6 @@
 | 13 | Tamadonfar, Mehran | 2001 | Islam, Law, and Political Control in Contemporary Iran | 10.1111/0021-8294.00051 |
 | 14 | Zamęcki, Łukasz; Glied, Viktor | 2020 | Article 7 Process and Democratic Backsliding of Hungary and Poland | 10.24193/ojmne.2020.34.03 |
 | 15 | Zonis, Marvin | 1985 | The Rule of the Clerics in the Islamic Republic of Iran | 10.1177/0002716285482001006 |
+
+
+</div>

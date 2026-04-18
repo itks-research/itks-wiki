@@ -1,3 +1,7 @@
+<div dir="rtl" markdown>
+
+# Cultural Heritage as Political Resource: Confucian Values, Revolutionary Memory, and Iran's Pre-Islamic Identity
+
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 ## Evidence: میراث فرهنگی as Political Resource During Institutional Transition
@@ -62,3 +66,6 @@ Constitutional and طراحی نهادی must navigate these three heritage clai
 | Nina G. Hamedani | 2012 | Ways of Manifesting Collectivism: An Analysis of Iranian and... | 3.0 | 3.92 |
 | Andrew Canessa | 2017 | Who Is Indigenous? Self-Identification, Indigeneity, And Cla... | 3.0 | 3.92 |
 | Benjamin Keen | 1988 | A history of Latin America | 3.0 | 3.77 |
+
+
+</div>

@@ -1,3 +1,15 @@
+---
+tags:
+  - Political
+  - Transitional justice
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Transitional justice</a></p>
+
+# Diaspora Documentation and the Digital Evidence Revolution
+
+**Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29T09:55:14.048438
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)

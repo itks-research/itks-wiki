@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
@@ -44,3 +46,5 @@
 | ۴ | Roberts & Zhou | ۲۰۰۰ | New Private Enterprises in Three Transitional Contexts | DOI |
 | ۵ | Sęk | ۲۰۲۱ | Tax In History: Polish Tax System In Transition | — |
 | ۶ | Meyer et al. | ۲۰۰۸ | Institutions, resources, and entry strategies in emerging economies | DOI |
+
+</div>

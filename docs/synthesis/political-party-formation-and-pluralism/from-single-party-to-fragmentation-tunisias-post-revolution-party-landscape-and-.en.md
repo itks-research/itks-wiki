@@ -1,3 +1,17 @@
+---
+tags:
+  - Political
+  - Political party formation and pluralism
+  - Iran
+  - Tunisia
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Political party formation and pluralism</a></p>
+
+# From Single Party to Fragmentation: Tunisia's Post-Revolution Party Landscape and Lessons for Iran
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-31T19:49:53.731567
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)

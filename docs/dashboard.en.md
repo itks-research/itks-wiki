@@ -1,25 +1,29 @@
 # Research Dashboard
 
-*Last updated: 2026-04-10 01:21*
+*Last updated: 2026-04-18 12:17*
 
 ## Summary
 
 | Metric | Count |
 |--------|-------|
-| Total Sources | 5389 |
-| Sources Scored | 5389 (100%) |
-| Source Summaries (Farsi) | 0 (0%) |
+| Total Sources | 9259 |
+| Sources Scored | 9259 (100%) |
+| Sources Translated (Farsi) | 0 (0%) |
 | Relationships Mapped | 6216 |
-| Synthesis Articles | 88 |
-| Articles with Farsi | 58 (65%) |
+| Synthesis Articles | 42 |
 
 ## Synthesis Articles
 
 | Article | Category | Status | Last Updated |
 |---------|----------|--------|-------------|
+| [Ethnic federalism in Iran: Cross-Case Synthesis](synthesis/ethnic-federalism-in-iran/ethnic-federalism-in-iran-cross-case-synthesis.md) | Ethnic federalism in Iran | machine_generated | 2026-04-16 |
+| [Digital society, internet governance, and cyber activism: Cross-Case Synthesis](synthesis/digital-society-internet-governance-and-cyber-activism/digital-society-internet-governance-and-cyber-activism-cross-case-synthesis.md) | Digital society, internet governance, and cyber activism | machine_generated | 2026-04-16 |
+| [Brain-drain reversal and diaspora economic engagement: Cross-Case Synthesis](synthesis/brain-drain-reversal-and-diaspora-economic-engagement/brain-drain-reversal-and-diaspora-economic-engagement-cross-case-synthesis.md) | Brain-drain reversal and diaspora economic engagement | machine_generated | 2026-04-16 |
+| [Justice After the Bombs: Transitional Justice Frameworks for Post-War Iran — Accountability, Amnesty, and the Legitimacy Problem](synthesis/transitional-justice/justice-after-the-bombs-transitional-justice-frameworks-for-post-war-iran--accou.md) | Transitional justice | machine_generated | 2026-04-16 |
 | [De-Ba'athification as Template: What Iraq's Personnel Purge Teaches About De-IRGC-ification](synthesis/transitional-justice/de-baathification-as-template-what-iraqs-personnel-purge-teaches-about-de-irgc-i.md) | Transitional justice | approved | 2026-04-10 |
 | [If the Regime Falls: Post-IRGC Governance Scenarios and the Bonyad Question](synthesis/privatization-and-state-owned-enterprise-restructuring/if-the-regime-falls-post-irgc-governance-scenarios-and-the-bonyad-question.md) | Privatization and state-owned enterprise restructuring | approved | 2026-04-10 |
 | [Ceasefire to Settlement: What Comparative Evidence Tells Us About Iran's Post-War Pathway — Islamabad Talks, Reconstruction Conditionality, and the Four Scenarios](synthesis/sanctions-unwinding-and-international-reintegration/ceasefire-to-settlement-what-comparative-evidence-tells-us-about-irans-post-war-.md) | Sanctions unwinding and international reintegration | approved | 2026-04-10 |
+| [Fragmentation or Resilience? What Libya's Collapse and Iraq's Sectarian War Reveal About Iran's Ethnic Fault Lines Under Military Intervention](synthesis/wartime-fragmentation-and-militia-politics/fragmentation-or-resilience-what-libyas-collapse-and-iraqs-sectarian-war-reveal-.md) | Wartime fragmentation and militia politics | approved | 2026-04-10 |
 | [When the General Dies: Military Decapitation, IRGC Consolidation, and the Paradox of Security Sector Reform Under Wartime Pressure](synthesis/civil-military-relations-and-security-sector-reform/when-the-general-dies-military-decapitation-irgc-consolidation-and-the-paradox-o.md) | Civil-military relations and security sector reform | approved | 2026-04-08 |
 | [Indonesia's Pancasila: Inclusive Monotheism and Its Limits](synthesis/religious-freedom-and-separation-of-religion-from-state/indonesias-pancasila-inclusive-monotheism-and-its-limits.md) | Religious freedom and separation of religion from state | machine_generated | 2026-04-06 |
 | [Velayat-e Faqih: Iran's Unique Institutional Architecture](synthesis/religious-freedom-and-separation-of-religion-from-state/velayat-e-faqih-irans-unique-institutional-architecture.md) | Religious freedom and separation of religion from state | machine_generated | 2026-04-06 |
@@ -99,6 +103,7 @@
 | [Does Prosecution Deter? The Kim-Sikkink Evidence and South Korea's Model](synthesis/transitional-justice/does-prosecution-deter-the-kim-sikkink-evidence-and-south-koreas-model.md) | Transitional justice | machine_generated | 2026-03-29 |
 | [Transitional Justice: Accountability, Memory, and Institutional Design](synthesis/transitional-justice/index.md) | Transitional justice | machine_generated | 2026-03-29 |
 | [Constitutional Design and Drafting Processes](synthesis/constitutional-design-and-drafting-processes/index.md) | Constitutional design and drafting processes | machine_generated | 2026-03-29 |
+| [ITKS Synthesis Dashboard](synthesis/index.md) | dashboard | ai_reviewed | 2026-03-29 |
 | [Civil-Military Relations and Security Sector Reform](synthesis/civil-military-relations-and-security-sector-reform/index.md) | Civil-military relations and security sector reform | ai_reviewed | 2026-03-29 |
 | [Military Economic Empires and Divestment Challenges](synthesis/civil-military-relations-and-security-sector-reform/military-economic-empires-and-divestment-challenges.md) | Civil-military relations and security sector reform | ai_reviewed | 2026-03-29 |
 | [Defense Ministry Civilianization: South Korea's Incomplete Success](synthesis/civil-military-relations-and-security-sector-reform/defense-ministry-civilianization-south-koreas-incomplete-success.md) | Civil-military relations and security sector reform | ai_reviewed | 2026-03-29 |
@@ -114,42 +119,44 @@
 | [Democratic Decentralization of Natural Resources: Institutionalizing P...](explorer/?id=4865) | Indonesia | 5.0 | 604 |
 | [Gender as “Ebola from Brussels”: The Anticolonial Frame and the Rise o...](explorer/?id=4483) | Poland | 5.0 | 514 |
 | [Accounting for Corruption: Economic Structure, Democracy, and Trade](explorer/?id=4097) | Poland | 5.0 | 463 |
+| [The Occupation of Iraq: Winning the War, Losing the Peace](explorer/?id=9741) | Iraq | 5.0 | 420 |
+| [What Went Wrong in Iraq](explorer/?id=9745) | Iraq | 5.0 | 380 |
+| [The Popular Mobilization Forces and Iraq's New Sectarian Politics](explorer/?id=9755) | Iraq | 5.0 | 185 |
+| [Iraq: From War to a New Authoritarianism](explorer/?id=9740) | Iraq | 5.0 | 180 |
+| [Indonesia's Accountability Trap: Party Cartels and Presidential Power ...](explorer/?id=1522) | Indonesia | 5.0 | 177 |
 | [Infrastructures of empire: towards a critical geopolitics of media and...](explorer/?id=5928) | Iran | 5.0 | 175 |
 | [The Consolidation of Democracy in East-Central Europe](explorer/?id=9254) | Poland | 5.0 | 174 |
 | [After Khomeini: Iran under his successors](explorer/?id=2297) | Iran | 5.0 | 158 |
 | [Laskar Jihad: Islam, Militancy, and the Quest for Identity in Post-New...](explorer/?id=5985) | Iran | 5.0 | 157 |
 | [Exit and voice in a digital age: Iran’s exiled activists and the autho...](explorer/?id=6211) | Iran | 5.0 | 143 |
-| [Time to Rethink Privatization in Transition Economies?](explorer/?id=1042) | South Korea | 5.0 | 142 |
-| [Century Of Revolution: Social Movements in Iran](explorer/?id=2296) | Iran | 5.0 | 137 |
-| [Illiberal Constitutionalism: The Case of Hungary and Poland](explorer/?id=4330) | Poland | 5.0 | 133 |
-| [Resistance in repressive contexts: A comprehensive test of psychologic...](explorer/?id=5931) | Iran | 5.0 | 130 |
-| [The Youth Bulge in Egypt: An Intersection of Demographics, Security, a...](explorer/?id=5827) | Iran | 5.0 | 130 |
 
 ## Coverage by Case Study
 
 | Case Study | Sources | Scored | Avg Relevance |
 |------------|---------|--------|---------------|
-| [Iran](case-studies/iran.md) | 4317 | 4317 | 2.6 |
-| [Chile](case-studies/chile.md) | 1874 | 1874 | 2.5 |
-| [Poland](case-studies/poland.md) | 1475 | 1475 | 2.9 |
-| [Indonesia](case-studies/indonesia.md) | 702 | 702 | 2.4 |
-| [South Korea](case-studies/south-korea.md) | 454 | 454 | 2.9 |
-| [Spain](case-studies/spain.md) | 341 | 341 | 2.9 |
-| [Tunisia](case-studies/tunisia.md) | 277 | 277 | 3.1 |
-| [Czech Republic](case-studies/czech-republic.md) | 241 | 241 | 2.7 |
-| [Iraq](case-studies/iraq.md) | 193 | 193 | 4.0 |
-| [Libya](case-studies/libya.md) | 144 | 144 | 4.0 |
+| [Iran](case-studies/iran.md) | 4702 | 4702 | 2.7 |
+| [Indonesia](case-studies/indonesia.md) | 2787 | 2787 | 3.4 |
+| [Poland](case-studies/poland.md) | 2110 | 2110 | 3.1 |
+| [Chile](case-studies/chile.md) | 2102 | 2102 | 2.7 |
+| [Czech Republic](case-studies/czech-republic.md) | 1481 | 1481 | 3.2 |
+| [South Korea](case-studies/south-korea.md) | 1033 | 1033 | 2.7 |
+| [Spain](case-studies/spain.md) | 716 | 716 | 3.2 |
+| [Tunisia](case-studies/tunisia.md) | 641 | 641 | 3.6 |
+| [Iraq](case-studies/iraq.md) | 435 | 435 | 4.0 |
+| [Libya](case-studies/libya.md) | 227 | 227 | 4.0 |
+| [Kosovo](case-studies/kosovo.md) | 164 | 164 | 4.0 |
+| [Germany](case-studies/germany.md) | 161 | 161 | 4.0 |
 | [Afghanistan](case-studies/afghanistan.md) | 129 | 129 | 4.0 |
-| [Kosovo](case-studies/kosovo.md) | 85 | 85 | 4.0 |
+| [Japan](case-studies/japan.md) | 59 | 59 | 4.0 |
 
 ## Coverage by Domain
 
 | Domain | Sources | Case Studies | Avg Relevance |
 |--------|---------|-------------|---------------|
-| Political | 4119 | 12 | 2.9 |
-| Social Cultural | 3437 | 12 | 2.4 |
-| Economic | 1877 | 12 | 2.8 |
-| Iran Specific | 793 | 10 | 2.4 |
+| Political | 6777 | 14 | 3.2 |
+| Social Cultural | 5582 | 14 | 2.8 |
+| Economic | 3102 | 14 | 3.2 |
+| Iran Specific | 1098 | 13 | 2.9 |
 
 ## Detailed Coverage
 
@@ -181,6 +188,9 @@
 
 | Category | Sources | Avg Relevance |
 |----------|---------|---------------|
+| Judicial independence and rule of law | 161 | 3.0 |
+| Political party formation and pluralism | 120 | 3.0 |
+| Civil-military relations and security sector reform | 101 | 3.0 |
 | Transitional justice | 89 | 2.6 |
 | Labor market reform and social safety nets | 34 | 2.6 |
 | Privatization and state-owned enterprise restructuring | 32 | 3.0 |
@@ -188,14 +198,11 @@
 | Cultural heritage preservation during institutional change | 12 | 1.4 |
 | Resource curse management | 11 | 1.7 |
 | Banking and financial system reform | 10 | 3.2 |
-| Political party formation and pluralism | 9 | 3.0 |
 | Electoral system design and implementation | 5 | 3.4 |
-| Judicial independence and rule of law | 4 | 3.0 |
 | Media freedom and press institution building | 4 | 3.0 |
 | Sanctions unwinding and international reintegration | 4 | 2.5 |
 | Civil society development | 3 | 3.0 |
 | Women's rights codification and gender equality | 2 | 3.0 |
-| Civil-military relations and security sector reform | 1 | 3.0 |
 | Constitutional design and drafting processes | 1 | 3.0 |
 | Education system reform and curriculum modernization | 1 | 3.0 |
 | Federalism, unitarism, and autonomy models | 1 | 3.0 |
@@ -205,26 +212,26 @@
 
 | Category | Sources | Avg Relevance |
 |----------|---------|---------------|
+| Political party formation and pluralism | 219 | 2.1 |
+| Education system reform and curriculum modernization | 215 | 2.3 |
+| Privatization and state-owned enterprise restructuring | 209 | 3.3 |
+| Electoral system design and implementation | 205 | 4.0 |
+| Civil society development | 202 | 2.0 |
+| Judicial independence and rule of law | 201 | 3.0 |
+| Media freedom and press institution building | 201 | 4.0 |
+| Sanctions unwinding and international reintegration | 201 | 3.0 |
+| Transitional justice | 197 | 3.0 |
 | Women's rights codification and gender equality | 152 | 1.9 |
 | Religious freedom and separation of religion from state | 136 | 1.7 |
 | Minority rights | 123 | 1.5 |
 | Federalism, unitarism, and autonomy models | 112 | 3.7 |
 | Civil-military relations and security sector reform | 89 | 3.3 |
-| Political party formation and pluralism | 21 | 2.2 |
-| Education system reform and curriculum modernization | 16 | 2.3 |
-| Labor market reform and social safety nets | 15 | 3.2 |
-| Privatization and state-owned enterprise restructuring | 7 | 3.1 |
-| Electoral system design and implementation | 5 | 4.0 |
-| Trade liberalization and foreign direct investment | 5 | 3.2 |
-| Banking and financial system reform | 3 | 2.0 |
-| Resource curse management | 3 | 3.0 |
-| Civil society development | 2 | 2.0 |
+| Resource curse management | 60 | 3.0 |
+| Trade liberalization and foreign direct investment | 53 | 3.2 |
+| Labor market reform and social safety nets | 42 | 3.2 |
+| Banking and financial system reform | 22 | 2.0 |
 | Constitutional design and drafting processes | 2 | 4.0 |
 | Ethnic federalism in Iran | 2 | 2.0 |
-| Transitional justice | 2 | 3.0 |
-| Judicial independence and rule of law | 1 | 3.0 |
-| Media freedom and press institution building | 1 | 4.0 |
-| Sanctions unwinding and international reintegration | 1 | 3.0 |
 
 ### Iran
 
@@ -274,8 +281,10 @@
 
 | Category | Sources | Avg Relevance |
 |----------|---------|---------------|
+| Federalism, unitarism, and autonomy models | 201 | 3.0 |
 | Women's rights codification and gender equality | 201 | 3.0 |
 | Political party formation and pluralism | 185 | 3.3 |
+| Sanctions unwinding and international reintegration | 174 | 3.5 |
 | Privatization and state-owned enterprise restructuring | 151 | 3.3 |
 | Constitutional design and drafting processes | 138 | 3.3 |
 | Electoral system design and implementation | 134 | 2.8 |
@@ -284,15 +293,14 @@
 | Media freedom and press institution building | 101 | 2.9 |
 | Transitional justice | 92 | 3.1 |
 | Civil society development | 88 | 2.9 |
+| Trade liberalization and foreign direct investment | 79 | 3.4 |
 | Judicial independence and rule of law | 78 | 3.8 |
+| Resource curse management | 64 | — |
+| Labor market reform and social safety nets | 57 | 2.6 |
+| Banking and financial system reform | 41 | 3.2 |
 | Civil-military relations and security sector reform | 36 | 2.9 |
-| Labor market reform and social safety nets | 13 | 2.5 |
-| Trade liberalization and foreign direct investment | 8 | 3.0 |
-| Banking and financial system reform | 3 | 3.3 |
 | Cultural heritage preservation during institutional change | 3 | 2.0 |
 | Public health system and healthcare access | 2 | 2.0 |
-| Sanctions unwinding and international reintegration | 2 | 3.5 |
-| Federalism, unitarism, and autonomy models | 1 | 3.0 |
 | Power-sharing mechanisms during transition periods | 1 | 4.0 |
 | Regional foreign policy reorientation | 1 | 3.0 |
 
@@ -300,6 +308,9 @@
 
 | Category | Sources | Avg Relevance |
 |----------|---------|---------------|
+| Women's rights codification and gender equality | 202 | 3.0 |
+| Civil society development | 153 | 2.7 |
+| Media freedom and press institution building | 145 | 3.2 |
 | Transitional justice | 93 | 2.7 |
 | Constitutional design and drafting processes | 86 | 2.6 |
 | Civil-military relations and security sector reform | 54 | 2.7 |
@@ -310,20 +321,18 @@
 | Banking and financial system reform | 22 | 3.4 |
 | Political party formation and pluralism | 20 | 3.2 |
 | Electoral system design and implementation | 14 | 3.3 |
-| Civil society development | 5 | 2.8 |
 | Federalism, unitarism, and autonomy models | 5 | 3.2 |
 | Resource curse management | 5 | 1.6 |
 | Cultural heritage preservation during institutional change | 4 | 2.5 |
 | Sanctions unwinding and international reintegration | 4 | 2.0 |
 | Judicial independence and rule of law | 3 | 3.0 |
 | Power-sharing mechanisms during transition periods | 3 | 3.7 |
-| Media freedom and press institution building | 2 | 3.5 |
-| Women's rights codification and gender equality | 2 | 3.0 |
 
 ### Spain
 
 | Category | Sources | Avg Relevance |
 |----------|---------|---------------|
+| Women's rights codification and gender equality | 202 | 3.0 |
 | Constitutional design and drafting processes | 111 | 3.4 |
 | Transitional justice | 67 | 2.9 |
 | Civil-military relations and security sector reform | 40 | 2.6 |
@@ -341,7 +350,6 @@
 | Religious freedom and separation of religion from state | 4 | 2.5 |
 | Resource curse management | 4 | 2.0 |
 | Power-sharing mechanisms during transition periods | 2 | 3.5 |
-| Women's rights codification and gender equality | 2 | 3.0 |
 | Language policy | 1 | 3.0 |
 | Minority rights | 1 | 3.0 |
 
@@ -351,6 +359,7 @@
 |----------|---------|---------------|
 | Religious freedom and separation of religion from state | 92 | 2.8 |
 | Constitutional design and drafting processes | 75 | 3.7 |
+| Banking and financial system reform | 44 | 2.0 |
 | Political party formation and pluralism | 36 | 3.7 |
 | Education system reform and curriculum modernization | 12 | 2.2 |
 | Labor market reform and social safety nets | 8 | 2.8 |
@@ -365,7 +374,6 @@
 | Resource curse management | 3 | 1.7 |
 | Judicial independence and rule of law | 2 | 3.0 |
 | Regional foreign policy reorientation | 2 | 3.0 |
-| Banking and financial system reform | 1 | 2.0 |
 | Ethnic federalism in Iran | 1 | 2.0 |
 | Internet and digital infrastructure as civic space | 1 | 4.0 |
 | Minority rights | 1 | 4.0 |

@@ -1,3 +1,16 @@
+---
+tags:
+  - Political
+  - Constitutional design and drafting processes
+  - Spain
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Constitutional design and drafting processes</a></p>
+
+# Spain's Consenso Model: Inclusive Drafting and the Price of Ambiguity
+
+**Status:** 🤖 Machine Generated | **Last Updated:** 2026-04-06
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)

@@ -4,29 +4,35 @@
 
 یک سامانه پژوهشی خودکار برای نقشه‌برداری مسیرهای رسیدن به رفاه، آزادی‌های فردی، قدرت اقتصادی و حاکمیت ملی برای آینده ایران. هر ادعایی به یک منبع قابل تأیید بازمی‌گردد.
 
-**3,223** منبع · **6,066** رابطه · **8** مطالعه موردی · **40** حوزه پژوهشی
+**9,259** منبع · **6,216** رابطه · **15** مطالعه موردی · **40** حوزه پژوهشی
 
 ---
 
 ## کاوش
 
-- **[یافته‌های پژوهشی](synthesis/index.md)** — 28 مقاله تحلیلی در 40 حوزه
-- **[مطالعات موردی](case-studies/iran.md)** — 8 کشور مقایسه‌شده
-- **[کاوشگر منابع](explorer.md)** — جستجو و فیلتر تمام 3,223 منبع
+- **[یافته‌های پژوهشی](synthesis/index.md)** — 38 مقاله تحلیلی در 40 حوزه
+- **[مطالعات موردی](case-studies/iran.md)** — 15 کشور مقایسه‌شده
+- **[کاوشگر منابع](explorer.md)** — جستجو و فیلتر تمام 9,259 منبع
 - **[نمودار دانش](graph.md)** — تجسم تعاملی روابط
 
 ## مطالعات موردی
 
 | کشور | تعداد منابع | میانگین ارتباط |
 |-------|------------|----------------|
-| [ایران](case-studies/iran.md) | 1,292 | 3.4 |
-| [لهستان](case-studies/poland.md) | 572 | 3.6 |
-| [اندونزی](case-studies/indonesia.md) | 295 | 3.6 |
-| [کره جنوبی](case-studies/south-korea.md) | 270 | 3.6 |
-| [شیلی](case-studies/chile.md) | 245 | 3.4 |
-| [اسپانیا](case-studies/spain.md) | 217 | 3.4 |
-| [تونس](case-studies/tunisia.md) | 189 | 3.5 |
-| [جمهوری چک](case-studies/czech-republic.md) | 143 | 3.3 |
+| [ایران](case-studies/iran.md) | 2,385 | 3.6 |
+| [اندونزی](case-studies/indonesia.md) | 1,778 | 3.8 |
+| [لهستان](case-studies/poland.md) | 1,078 | 3.6 |
+| [شیلی](case-studies/chile.md) | 1,062 | 3.4 |
+| [جمهوری چک](case-studies/czech-republic.md) | 847 | 3.9 |
+| [تونس](case-studies/tunisia.md) | 457 | 3.8 |
+| [اسپانیا](case-studies/spain.md) | 396 | 3.6 |
+| [کره جنوبی](case-studies/south-korea.md) | 375 | 3.5 |
+| [Iraq](case-studies/iraq.md) | 322 | 4.0 |
+| [Libya](case-studies/libya.md) | 170 | 4.0 |
+| [Kosovo](case-studies/kosovo.md) | 124 | 4.0 |
+| [Afghanistan](case-studies/afghanistan.md) | 110 | 4.0 |
+| [Germany](case-studies/germany.md) | 109 | 4.0 |
+| [Japan](case-studies/japan.md) | 45 | 4.0 |
 
 ---
 

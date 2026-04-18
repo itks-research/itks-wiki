@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🔴 **Evidence Confidence: Low** — Single source evidence; strong claims with limited sources
@@ -36,3 +38,5 @@
 | Karakas, C. | ۲۰۰۷ | دیانت ترکیه دین را مدیریت می‌کند نه جدا؛ علویان و جوامع غیرسنی را به حاشیه می‌راند |
 | Lust, E. | ۲۰۱۱ | موج سوم دموکراسی‌سازی به دلیل پیکربندی نهادی از جهان اسلام عبور کرد، نه به دلیل خود اسلام |
 | Fox, J. | ۲۰۱۹ | رقابت سکولار-دینی بر اساس ترتیبات نهادی متفاوت است، نه سنت دینی |
+
+</div>

@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
@@ -54,3 +56,5 @@ Sources Referenced:
 6. ["Tom Ginsburg", "Zachary Elkins", "Justin Blount"] (2009). "Does the Process of Constitution-Making Matter?" | Case Study: Spain | ID: 316
 7. ["Tamir Moustafa"] (2008). "The struggle for constitutional power: law, politics, and economic development in Egypt" | Case Study: Spain | ID: 320
 8. ["Peter McDonough", "Antonio L\u00f3pez Pina", "Samuel H. Barnes"] (1981). "The Spanish Public in Political Transition" | Case Study: Spain | ID: 348
+
+</div>

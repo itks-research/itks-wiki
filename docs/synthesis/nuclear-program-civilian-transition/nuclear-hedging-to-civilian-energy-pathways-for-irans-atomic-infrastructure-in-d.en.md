@@ -1,3 +1,14 @@
+---
+tags:
+  - Iran-Specific
+  - Nuclear program civilian transition
+  - Iran
+---
+
+# Nuclear Hedging to Civilian Energy: Pathways for Iran's Atomic Infrastructure in Democratic Transition
+
+**Status:** approved | **Last Updated:** 2026-04-02T08:51:11.244772
+
 ## Theoretical Framework
 
 This article employs Realist Synthesis using the Context-Mechanism-Outcome (CMO) framework to analyze nuclear hedging transitions. Context: Iran's post-revolutionary nuclear infrastructure was established under international sanctions as both civilian energy initiative and strategic hedging capability. The revolutionary narrative constructed nuclear development as national sovereignty and technological independence, embedding the program within security frameworks and IRGC structures. Mechanism: Security-driven nuclear programs can pivot to civilian energy production when three conditions align: (1) international verification frameworks establish technical confidence in non-weapons intent, (2) economic incentives demonstrate civilian nuclear competitiveness over alternatives, and (3) institutional restructuring removes military oversight and establishes civilian scientific governance. Outcome: Under these mechanisms, nuclear capacity can serve development objectives—energy independence, export potential, research capabilities—rather than proliferation. Evidence certainty: Moderate. Comparative cases (South Korea, UAE) suggest mechanisms operate differentially based on state capacity, regional security environment, and international engagement architecture. The CMO configurations identify that outcomes are contingent not deterministic; similar contexts with different institutional mechanisms produce divergent results.

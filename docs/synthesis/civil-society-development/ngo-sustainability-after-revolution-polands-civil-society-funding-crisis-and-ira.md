@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
@@ -56,3 +58,5 @@
 | 4406 | James G. McGann | 2010 | Democratization and Market Reform (Alt.) | Poland | Longitudinal perspective on institutional development trajectories |
 | 4484 | Robert J. Barro | 1996 | Determinants of Economic Growth: A Cross-Country Empirical Study | Poland | Macroeconomic context for civil society resource scarcity in transition states |
 | 4443 | Sadowy & Lisiecki | 2019 | Post-industrial, post-socialist or new productive city? Case study... | Poland | Urban/spatial dimensions of post-transition civil society geography |
+
+</div>

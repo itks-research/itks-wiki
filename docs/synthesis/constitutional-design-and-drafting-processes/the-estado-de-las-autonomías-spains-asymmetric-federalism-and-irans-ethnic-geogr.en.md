@@ -1,3 +1,17 @@
+---
+tags:
+  - Political
+  - Constitutional design and drafting processes
+  - Iran
+  - Spain
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Constitutional design and drafting processes</a></p>
+
+# The Estado de las Autonomías: Spain's Asymmetric Federalism and Iran's Ethnic Geography
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-31 16:50:38
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)

@@ -1,3 +1,16 @@
+---
+tags:
+  - Social & Cultural
+  - Education system reform and curriculum modernization
+  - Iran
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Education system reform and curriculum modernization</a></p>
+
+# De-Ideologizing the Classroom: Iran's Islamized Curriculum and Comparative De-Indoctrination
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-31T19:49:59.796015
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)

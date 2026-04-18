@@ -1,3 +1,16 @@
+---
+tags:
+  - Political
+  - Transitional justice
+  - Spain
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Transitional justice</a></p>
+
+# Amnesty vs. Accountability: Spain's Forty-Year Lesson
+
+**Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29T09:50:14.498268
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (9 sources)

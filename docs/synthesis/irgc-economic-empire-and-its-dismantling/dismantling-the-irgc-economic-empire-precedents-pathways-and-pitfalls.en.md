@@ -1,3 +1,16 @@
+---
+tags:
+  - Iran-Specific
+  - IRGC economic empire and its dismantling
+  - Iran
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">IRGC economic empire and its dismantling</a></p>
+
+# Dismantling the IRGC Economic Empire: Precedents, Pathways, and Pitfalls
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-04-06
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)

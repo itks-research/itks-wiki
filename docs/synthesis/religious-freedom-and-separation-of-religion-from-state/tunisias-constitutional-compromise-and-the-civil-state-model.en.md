@@ -1,3 +1,16 @@
+---
+tags:
+  - Social & Cultural
+  - Religious freedom and separation of religion from state
+  - Tunisia
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Religious freedom and separation of religion from state</a></p>
+
+# Tunisia's Constitutional Compromise and the Civil State Model
+
+**Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29T09:53:18.069901
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
@@ -72,3 +85,11 @@ The Ennahda internal vote pattern is particularly instructive for Iran. Iran's c
 > 🟡 **Evidence Confidence: Moderate** —  | 📎 **Source Alignment: 🟡 Moderate** (70%)
 
 Tunisia's 2014 constitution solved a dilemma that Iran will eventually face: how to write a constitution that affirms the country's Islamic identity without giving religious institutions legislative authority. The Tunisian "civil state" model — where Article 1 says "Islam is the religion of the state" but other articles establish civil courts and prohibit any single group from claiming religious authority — showed that this balance is constitutionally achievable. The critical mechanism was Ennahda's strategic decision to prioritize institutional survival over religious legislation. For Iran, the Tunisian model offers a template, but also a cautionary lesson: the 2022 reversal under President Saied shows that constitutional formulas alone don't guarantee stability — independent courts, a free press, and strong civil society are necessary to make them durable.
+
+## Related Articles
+
+- [Indonesia's Pancasila: Inclusive Monotheism and Its Limits](indonesias-pancasila-inclusive-monotheism-and-its-limits.md)
+- [Post-Theocratic Transitions: Uncharted Territory](post-theocratic-transitions-uncharted-territory.md)
+- [Stepan's Twin Tolerations and Post-Theocratic Governance](stepans-twin-tolerations-and-post-theocratic-governance.md)
+- [Turkey's Diyanet Model: State Control vs. Separation](turkeys-diyanet-model-state-control-vs-separation.md)
+- [Velayat-e Faqih: Iran's Unique Institutional Architecture](velayat-e-faqih-irans-unique-institutional-architecture.md)

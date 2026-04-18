@@ -1,3 +1,15 @@
+---
+tags:
+  - Political
+  - Political party formation and pluralism
+  - Iran
+  - Spain
+---
+
+# From Clandestine Cells to Coalition Government: Political Party Formation in Post-Authoritarian Spain and Implications for Iran
+
+**Status:** approved | **Last Updated:** 2026-04-02T08:51:11.296003
+
 ## Theoretical Framework
 
 Realist Synthesis CMO Framework for Political Party Formation. Context: Spain's transition from Franco's authoritarian regime (1975-1982) produced one of the most successful post-authoritarian party systems in modern history. From a starting point of banned opposition parties, regime-affiliated Movimiento Nacional, and clandestine communist and socialist organizations, Spain developed a competitive multiparty system within seven years. Iran's political landscape—nominal elections within Guardian Council-vetted candidate pools, suppressed opposition parties, clandestine and exiled political organizations, and regime-affiliated factions—shares structural similarities with late Francoism. Tunisia's post-2011 experience provides a more recent comparison of party formation in a post-authoritarian Islamic-majority context. Mechanism: Political party formation in post-authoritarian transitions operates through: (1) legalization of previously banned organizations creates immediate party supply; (2) electoral system design shapes party system fragmentation and coalition dynamics; (3) charismatic leadership translates opposition credibility into electoral mobilization; (4) external democratic anchors (EU membership, international recognition) reward moderate party behavior [Source 2596, 322]. Countervailing mechanisms: (a) party proliferation without consolidation produces ungovernable fragmentation; (b) former regime elites can capture new party structures; (c) identity-based parties may deepen social cleavages. Evidence certainty: Strong for Spain, Moderate for Tunisia, Limited for Iran transferability.

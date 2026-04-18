@@ -1,3 +1,18 @@
+---
+tags:
+  - Political
+  - Judicial independence and rule of law
+  - Iran
+  - Poland
+  - Spain
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Judicial independence and rule of law</a></p>
+
+# Islamic Law, Constitutional Courts, and the Judicial Independence Puzzle: Iran, Spain, and Poland
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-31T23:58:39.028731
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)

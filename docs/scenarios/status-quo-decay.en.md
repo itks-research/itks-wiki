@@ -391,10 +391,10 @@ The nuclear program's status also interacts with internal politics. For IRGC har
 - [Resource Curse](../v2/economy/resource-curse.md) — Oil revenues as decay stabilizer
 - [Iran Security State](../v2/iran-context/iran-security-state.md) — The coercive apparatus sustaining the scenario
 - [Brain Drain and Human Capital Flight](../v2/society/diaspora-engagement.md) — The most corrosive long-term dynamic
-- [Information Control and Regime Legitimacy](../v2/governance/information-control.md) — Cumulative erosion undermining elite confidence
-- [Elite Bargaining](../v2/governance/elite-bargaining.md) — The stalemate mechanism preventing both reform and collapse
+- [Information Control and Regime Legitimacy](../mechanisms/information-control-collapse-elite-confidence-drop.md) — Cumulative erosion undermining elite confidence
+- [Elite Bargaining](../mechanisms/elite-bargaining-failure-stalemate-or-coup.md) — The stalemate mechanism preventing both reform and collapse
 - [Ethnic Periphery Dynamics](../v2/iran-context/ethnic-periphery.md) — Early warning indicators in Balochistan, Kurdistan, and Khuzestan
 - [Proxy Network](../v2/iran-specific/proxy-network.md) — Degraded but not eliminated; implications for regional posture under decay
 - [Water Crisis](../v2/iran-context/water-crisis.md) — Environmental accelerant operating on an independent timeline
-- [Sanctions Architecture](../v2/economy/sanctions.md) — Institutional erosion and the paradox of sanctions strengthening IRGC relative position
+- [Sanctions Architecture](../v2/economy/sanctions-reintegration.md) — Institutional erosion and the paradox of sanctions strengthening IRGC relative position
 - [Succession Dynamics](../v2/governance/succession.md) — The deferred question that re-emerges under prolonged decay

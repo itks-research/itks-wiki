@@ -1,3 +1,16 @@
+---
+tags:
+  - Social & Cultural
+  - Religious freedom and separation of religion from state
+  - Indonesia
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Religious freedom and separation of religion from state</a></p>
+
+# Indonesia's Pancasila: Inclusive Monotheism and Its Limits
+
+**Status:** 🤖 Machine Generated | **Last Updated:** 2026-04-06
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (2 sources); strong claims with limited sources
@@ -63,3 +76,11 @@ However, Indonesia's experience with "recognized" religions carries a direct war
 **Recognition frameworks and anti-discrimination enforcement.** The article identifies the "hierarchy of recognition" trap but does not engage the empirical literature on how states have attempted to move beyond recognition frameworks toward individual religious freedom guarantees. Evidence on the effectiveness of such enforcement mechanisms in comparable contexts is thin, leaving the prescriptive recommendations under-supported.
 
 Indonesia built a political system that makes space for religion in public life without giving any single faith control over the government — a model called Pancasila that has held together one of the world's most religiously diverse countries for decades. The key insight is that this works not because of the constitutional text alone, but because two massive Islamic civil society organizations with tens of millions of members actively promote pluralist values from within the religious community itself. For Iran, the lesson is that any post-Islamic Republic system would need to protect religious freedom as an individual right rather than a privilege granted only to state-approved communities — and that building the organizational infrastructure to sustain such a system may be just as important as writing the right constitution.
+
+## Related Articles
+
+- [Post-Theocratic Transitions: Uncharted Territory](post-theocratic-transitions-uncharted-territory.md)
+- [Stepan's Twin Tolerations and Post-Theocratic Governance](stepans-twin-tolerations-and-post-theocratic-governance.md)
+- [Tunisia's Constitutional Compromise and the Civil State Model](tunisias-constitutional-compromise-and-the-civil-state-model.md)
+- [Turkey's Diyanet Model: State Control vs. Separation](turkeys-diyanet-model-state-control-vs-separation.md)
+- [Velayat-e Faqih: Iran's Unique Institutional Architecture](velayat-e-faqih-irans-unique-institutional-architecture.md)

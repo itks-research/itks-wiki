@@ -1,3 +1,16 @@
+---
+tags:
+  - Political
+  - Civil-military relations and security sector reform
+  - South Korea
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Civil-military relations and security sector reform</a></p>
+
+# Defense Ministry Civilianization: South Korea's Incomplete Success
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-29 06:42:53
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — South Korea CMR literature is among best-documented in comparative politics. Chung (2009), Kim & Kuehn (2022) are peer-reviewed longitudinal studies.

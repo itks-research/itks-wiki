@@ -1,3 +1,17 @@
+---
+tags:
+  - Social & Cultural
+  - Civil society development
+  - Iran
+  - Poland
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Civil society development</a></p>
+
+# NGO Sustainability After Revolution: Poland's Civil Society Funding Crisis and Iran's Associational Deficit
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-31T19:49:27.728451
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)

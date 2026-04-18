@@ -1,3 +1,16 @@
+---
+tags:
+  - Social & Cultural
+  - Women's rights codification and gender equality
+  - Iran
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Women's rights codification and gender equality</a></p>
+
+# The Hijab Question and Beyond: Women's Legal Status in Post-Revolutionary Iran and Comparative Frameworks
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-31T19:49:44.945380
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)

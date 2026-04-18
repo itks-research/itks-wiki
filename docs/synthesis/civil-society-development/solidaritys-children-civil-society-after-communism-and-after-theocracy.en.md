@@ -1,3 +1,16 @@
+---
+tags:
+  - Social & Cultural
+  - Civil society development
+  - Poland
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Civil society development</a></p>
+
+# Solidarity's Children: Civil Society After Communism and After Theocracy
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-04-06
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)

@@ -1,3 +1,17 @@
+---
+tags:
+  - Social & Cultural
+  - Media freedom and press institution building
+  - Iran
+  - Poland
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Media freedom and press institution building</a></p>
+
+# Digital Authoritarianism and Press Freedom: Iran, Poland, and the Information Battle
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-04-06
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)

@@ -1,3 +1,17 @@
+---
+tags:
+  - Political
+  - Federalism, unitarism, and autonomy models
+  - Iran
+  - Indonesia
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Federalism, unitarism, and autonomy models</a></p>
+
+# Indonesia's Big Bang Decentralization: Corruption, Accountability, and Lessons for Iran
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-31T19:42:59.464756
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)

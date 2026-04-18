@@ -1,3 +1,18 @@
+---
+tags:
+  - Political
+  - Electoral system design and implementation
+  - Iran
+  - Poland
+  - South Korea
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Electoral system design and implementation</a></p>
+
+# Electoral Engineering After Authoritarianism: Poland, South Korea, and Lessons for Iran
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-04-06
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (9 sources)

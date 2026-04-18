@@ -1,3 +1,16 @@
+---
+tags:
+  - Political
+  - Transitional justice
+  - South Korea
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Transitional justice</a></p>
+
+# Does Prosecution Deter? The Kim-Sikkink Evidence and South Korea's Model
+
+**Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29T09:50:14.498268
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)

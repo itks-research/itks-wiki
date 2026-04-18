@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (5 sources)
@@ -52,3 +54,5 @@
 | 4238 | Revocation of Administrators' Mandate in Corporate Governance | Dana-Lucia Tulai | 2022 | Poland | 5.0 |
 | 4273 | Managing Strategically in an Interconnected World | Hitt, Ricart & Nixon | 1998 | Poland | 5.0 |
 | 5351 | Corporate Governance in Founders' Controlled Companies | Maria Aluchna | 2013 | Poland | 4.5 |
+
+</div>

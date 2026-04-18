@@ -1,3 +1,15 @@
+---
+tags:
+  - Social & Cultural
+  - Religious freedom and separation of religion from state
+---
+
+<p class="breadcrumb"><a href="../index.md">Home</a> > <a href="index.md">Research Findings</a></p>
+
+# Religious Freedom and Separation of Religion from State
+
+**Status:** 🤖 Machine Generated | **Last Updated:** 2026-03-29T09:53:18.069709
+
 ## Key Insights
 
 - **No single religion-state model fits all Muslim-majority transitions**: Turkey (state control), Tunisia (cooperative separation), Indonesia (inclusive monotheism), and Iran (jurist guardianship) represent fundamentally different arrangements. Iran's post-transition design must be indigenous, not imported.
@@ -16,9 +28,9 @@ How to operationalize "twin tolerations" in a post-theocratic context where reli
 
 ## Sub-Articles in This Theme
 
-1. **Tunisia's Constitutional Compromise and the "Civil State" Model** — How the 2014 Constitution negotiated Islam's public role without theocratic authority, and lessons for Iran
-2. **[Turkey's Diyanet Model: State Control vs. Separation](./turkeys-diyanet-model-state-control-vs-separation.md)** — Why placing religion under bureaucratic management risks capture and does not constitute genuine reform
-3. **[Indonesia's Pancasila: Inclusive Monotheism and Its Limits](./indonesias-pancasila-inclusive-monotheism-and-its-limits.md)** — How pluralist frameworks manage religious diversity but risk creating hierarchies of recognized faiths
-4. **[Velayat-e Faqih: Iran's Unique Institutional Architecture](./velayat-e-faqih-irans-unique-institutional-architecture.md)** — The structural challenge of dismantling a theocratic veto system with no historical precedent
-5. **[Stepan's Twin Tolerations and Post-Theocratic Governance](./stepans-twin-tolerations-and-post-theocratic-governance.md)** — The most applicable framework for Iran and its unresolved institutional gaps
-6. **[Post-Theocratic Transitions: Uncharted Territory](./post-theocratic-transitions-uncharted-territory.md)** — Why Iran would be the first democracy-from-theocracy case and what procedural templates exist
+1. **[Tunisia's Constitutional Compromise and the "Civil State" Model](tunisias-constitutional-compromise-and-the-civil-state-model.md)** — How the 2014 Constitution negotiated Islam's public role without theocratic authority, and lessons for Iran
+2. **[Turkey's Diyanet Model: State Control vs. Separation](turkeys-diyanet-model-state-control-vs-separation.md)** — Why placing religion under bureaucratic management risks capture and does not constitute genuine reform
+3. **[Indonesia's Pancasila: Inclusive Monotheism and Its Limits](indonesias-pancasila-inclusive-monotheism-and-its-limits.md)** — How pluralist frameworks manage religious diversity but risk creating hierarchies of recognized faiths
+4. **[Velayat-e Faqih: Iran's Unique Institutional Architecture](velayat-e-faqih-irans-unique-institutional-architecture.md)** — The structural challenge of dismantling a theocratic veto system with no historical precedent
+5. **[Stepan's Twin Tolerations and Post-Theocratic Governance](stepans-twin-tolerations-and-post-theocratic-governance.md)** — The most applicable framework for Iran and its unresolved institutional gaps
+6. **[Post-Theocratic Transitions: Uncharted Territory](post-theocratic-transitions-uncharted-territory.md)** — Why Iran would be the first democracy-from-theocracy case and what procedural templates exist

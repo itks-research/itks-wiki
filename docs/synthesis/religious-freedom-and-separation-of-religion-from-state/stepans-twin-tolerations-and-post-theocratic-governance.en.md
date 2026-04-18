@@ -1,3 +1,15 @@
+---
+tags:
+  - Social & Cultural
+  - Religious freedom and separation of religion from state
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Religious freedom and separation of religion from state</a></p>
+
+# Stepan's Twin Tolerations and Post-Theocratic Governance
+
+**Status:** 🤖 Machine Generated | **Last Updated:** 2026-04-06
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (2 sources)
@@ -63,3 +75,11 @@ Iran would need to achieve twin tolerations not from religion-state separation (
 **Institutional enforcement mechanisms remain underspecified.** The article notes the framework lacks "institutional teeth" and recommends constitutional courts, entrenched clauses, and civil society monitoring, but does not engage comparative evidence on which enforcement mechanisms have most effectively sustained religion-state boundaries against backsliding in analogous contexts.
 
 Political scientist Alfred Stepan developed a framework called "twin tolerations" to describe what successful religion-democracy coexistence looks like: religious authorities don't veto government decisions, and governments don't suppress religious life. This concept offers a useful goal for Iran's future because it avoids two extremes — eliminating religion from public life entirely or maintaining clerical control over government. The challenge the article identifies is that while Stepan's framework tells us what success looks like, it does not tell us how a country gets there starting from a system where religious and political authority are as deeply fused as they are in the Islamic Republic.
+
+## Related Articles
+
+- [Indonesia's Pancasila: Inclusive Monotheism and Its Limits](indonesias-pancasila-inclusive-monotheism-and-its-limits.md)
+- [Post-Theocratic Transitions: Uncharted Territory](post-theocratic-transitions-uncharted-territory.md)
+- [Tunisia's Constitutional Compromise and the Civil State Model](tunisias-constitutional-compromise-and-the-civil-state-model.md)
+- [Turkey's Diyanet Model: State Control vs. Separation](turkeys-diyanet-model-state-control-vs-separation.md)
+- [Velayat-e Faqih: Iran's Unique Institutional Architecture](velayat-e-faqih-irans-unique-institutional-architecture.md)

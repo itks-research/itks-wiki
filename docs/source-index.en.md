@@ -5,7 +5,7 @@ search:
 
 # Source Index
 
-Interactive sortable index of all **10,368** sources in the ITKS research database.  
+Interactive sortable index of all **16,651** sources in the ITKS research database.
 Use the search box, column sorting, and dropdown filters to explore.
 
 <div id="filter-row" style="margin-bottom:1rem;display:flex;gap:1rem;flex-wrap:wrap;">
@@ -53,23 +53,13 @@ Use the search box, column sorting, and dropdown filters to explore.
   fetch('data/sources_index.json')
     .then(r => r.json())
     .then(data => {
-      // Populate filter dropdowns
       const caseStudies = [...new Set(data.map(d => d.case_study).filter(Boolean))].sort();
       const categories = [...new Set(data.map(d => d.category).filter(Boolean))].sort();
       const csSel = document.getElementById('filter-casestudy');
       const catSel = document.getElementById('filter-category');
-      caseStudies.forEach(cs => {
-        const opt = document.createElement('option');
-        opt.value = cs; opt.textContent = cs;
-        csSel.appendChild(opt);
-      });
-      categories.forEach(cat => {
-        const opt = document.createElement('option');
-        opt.value = cat; opt.textContent = cat;
-        catSel.appendChild(opt);
-      });
+      caseStudies.forEach(cs => { const o = document.createElement('option'); o.value = cs; o.textContent = cs; csSel.appendChild(o); });
+      categories.forEach(cat => { const o = document.createElement('option'); o.value = cat; o.textContent = cat; catSel.appendChild(o); });
 
-      // Init DataTable
       const table = $('#sources-table').DataTable({
         data: data,
         columns: [
@@ -95,15 +85,13 @@ Use the search box, column sorting, and dropdown filters to explore.
         deferRender: true
       });
 
-      // Dropdown filters
       csSel.addEventListener('change', function() { table.column(3).search(this.value ? '^' + $.fn.dataTable.util.escapeRegex(this.value) + '$' : '', true, false).draw(); });
       catSel.addEventListener('change', function() { table.column(4).search(this.value ? '^' + $.fn.dataTable.util.escapeRegex(this.value) + '$' : '', true, false).draw(); });
       document.getElementById('filter-score').addEventListener('change', function() {
         var v = this.value;
+        $.fn.dataTable.ext.search.length = 0;
         if (v) {
           $.fn.dataTable.ext.search.push(function(settings, data) { return parseFloat(data[5]) >= parseFloat(v); });
-        } else {
-          $.fn.dataTable.ext.search.length = 0;
         }
         table.draw();
       });

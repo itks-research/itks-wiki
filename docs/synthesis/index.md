@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 # داشبورد ترکیب
 
 ## نمای کلی سیستم
@@ -57,3 +59,6 @@
 
 ### [آزادی دینی و جدایی دین از دولت](religious-freedom-and-separation-of-religion-from-state/index.md)
 ۶ مقاله فرعی
+
+
+</div>

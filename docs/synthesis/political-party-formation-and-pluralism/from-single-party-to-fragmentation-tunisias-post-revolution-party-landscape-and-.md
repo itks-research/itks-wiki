@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
@@ -60,3 +62,6 @@ Moreover, Tunisia's 2021 collapse suggests that fragmentation creates vulnerabil
 | 603 | Secularism Confronts Islamism | Mohammad Affan | 2022 | Tunisia |
 | 609 | On Muslim Democracy | Rached Ghannouchi, Andrew F. March | 2023 | Tunisia |
 | 617 | North Africa’s Arab Spring |  | 2013 | Tunisia |
+
+
+</div>

@@ -1,3 +1,18 @@
+---
+tags:
+  - Economic
+  - Trade liberalization and foreign direct investment
+  - Iran
+  - South Korea
+  - Czech Republic
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Trade liberalization and foreign direct investment</a></p>
+
+# From Autarky to Integration: FDI Policy Lessons from South Korea and Czech Republic for Post-Sanctions Iran
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-04-06
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)

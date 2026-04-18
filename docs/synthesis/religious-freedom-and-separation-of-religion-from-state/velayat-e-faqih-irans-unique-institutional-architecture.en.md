@@ -1,3 +1,16 @@
+---
+tags:
+  - Social & Cultural
+  - Religious freedom and separation of religion from state
+  - Iran
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Religious freedom and separation of religion from state</a></p>
+
+# Velayat-e Faqih: Iran's Unique Institutional Architecture
+
+**Status:** 🤖 Machine Generated | **Last Updated:** 2026-04-06
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (2 sources)
@@ -64,3 +77,11 @@ This is why comparative literature on constitutional transitions emphasizes extr
 **Post-transition clerical role underspecified.** The article recommends offering the clerical establishment a "viable post-transition role" without engaging the comparative literature on how religious institutions have been institutionally reconstituted after governance roles were removed — a question with only partial parallels in the Spanish case.
 
 Iran's political system gives supreme authority to an Islamic legal scholar — the Supreme Leader — and builds in structural mechanisms that prevent this arrangement from being changed through normal democratic channels: the Guardian Council blocks reformist laws and disqualifies reformist candidates, creating a self-reinforcing loop. Unlike other authoritarian systems that have been reformed through elections or internal party liberalization, this architecture is designed specifically to resist those pathways. Understanding how deeply this system entrenches itself is essential for thinking seriously about what kinds of political change in Iran are actually possible.
+
+## Related Articles
+
+- [Indonesia's Pancasila: Inclusive Monotheism and Its Limits](indonesias-pancasila-inclusive-monotheism-and-its-limits.md)
+- [Post-Theocratic Transitions: Uncharted Territory](post-theocratic-transitions-uncharted-territory.md)
+- [Stepan's Twin Tolerations and Post-Theocratic Governance](stepans-twin-tolerations-and-post-theocratic-governance.md)
+- [Tunisia's Constitutional Compromise and the Civil State Model](tunisias-constitutional-compromise-and-the-civil-state-model.md)
+- [Turkey's Diyanet Model: State Control vs. Separation](turkeys-diyanet-model-state-control-vs-separation.md)

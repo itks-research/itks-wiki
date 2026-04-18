@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
@@ -46,3 +48,6 @@ Educational reform is simultaneously essential and explosive in any post-authori
 | 3743 | Exploring Cultural Schemas in Foreign Language Education Pol... | ["Ali Dabbagh", "Esmat Babaii", "Mahmood... | 2022 | Iran |
 | 3725 | Curriculum reform and identity politics in Iranian school te... | ["Amir Mirfakhraie"]... | 2018 | Iran |
 | 3755 | The Role of Values and Culture in Past Mathematics Curriculu... | ["Maria Giuseppina Bartolini", "\u0408as... | 2023 | Iran |
+
+
+</div>

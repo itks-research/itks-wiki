@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
@@ -43,3 +45,5 @@
 | ۵ | Draca et al. | ۲۰۲۲ | On Target? Sanctions and Elite Policymakers in Iran | DOI |
 | ۶ | Clayton et al. | ۲۰۲۴ | A Theory of Economic Coercion and Fragmentation | DOI |
 | ۷ | Wood | ۲۰۰۸ | Economic Sanctions and State Repression | DOI |
+
+</div>

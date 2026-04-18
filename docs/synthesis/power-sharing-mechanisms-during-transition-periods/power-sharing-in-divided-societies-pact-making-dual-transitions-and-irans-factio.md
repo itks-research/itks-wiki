@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
@@ -52,3 +54,6 @@
 | Rogge | 2016 | Policy mixes for sustainability transitions: An extended con... | 3.0 | 4.62 |
 | Yapp | 2006 | State, Power and Politics in the Making of the Modern Middle... | 3.0 | 4.58 |
 | Park | 1999 | Change in U.S. Policy Toward South Korea in the Early 1960s | 3.0 | 4.38 |
+
+
+</div>

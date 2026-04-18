@@ -1,3 +1,17 @@
+---
+tags:
+  - Social & Cultural
+  - Minority rights
+  - Iran
+  - Indonesia
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Minority rights</a></p>
+
+# Minority Rights and Religious Pluralism: Indonesia's Ethnic Violence, Iran's Constitutional Promises
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-31T19:42:56.809646
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)

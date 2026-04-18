@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (2 sources)
@@ -38,3 +40,5 @@
 | Jahanbakhsh, F. | ۲۰۰۰ | نوگرایی دینی در ایران (بازرگان تا سروش) منابع فکری جدایی دین از قدرت دولتی فراهم می‌کند |
 | Szelenyi, I. | ۲۰۱۵ | نظریه سلطه وبر در گذار دولت‌های پساایدئولوژیک کاربرد دارد |
 | Sapsford, R. et al. | ۲۰۱۷ | فساد اعتماد نهادی به حکمرانی دینی و سکولار را یکسان تخریب می‌کند |
+
+</div>

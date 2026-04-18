@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** — Limited source triangulation (3 sources)
@@ -53,3 +55,5 @@
 | 3116 | ["Adam Tarock"] | 2001 | The muzzling of the liberal press in Iran | 4.0 | 4.58 |
 | 3118 | ["Matthew M. Frick"] | 2008 | Iran's Islamic Revolutionary Guard Corps: An ... | 4.0 | 3.41 |
 | 3122 | ["\u0639\u0644\u0627\u0621 \u0627\u0644\... | 2016 | The position of the Iranian press on the inte... | 4.0 | 4.91 |
+
+</div>

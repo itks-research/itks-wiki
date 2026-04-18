@@ -1,3 +1,17 @@
+---
+tags:
+  - Social & Cultural
+  - Education system reform and curriculum modernization
+  - Iran
+  - South Korea
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Education system reform and curriculum modernization</a></p>
+
+# Curriculum as Battleground: Education Reform in South Korea and Iran
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-04-06
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
@@ -72,3 +86,7 @@ The diaspora dimension adds opportunity: tens of thousands of Iranian educators 
 - **Insufficient evidence on human capital recovery timelines:** The article notes that Iran's human capital index has stagnated relative to regional comparators, but no evidence establishes the expected recovery timeline following curriculum reform and teacher retraining. South Korea's experience suggests the process takes over a decade, but from a different baseline and with external developmental pressures (Cold War strategic investment, chaebol-driven growth demands) that shaped its pace.
 
 This article examines how countries like South Korea overhauled education systems that had been shaped by authoritarian priorities, and applies those lessons to Iran's deeply ideological school curriculum. The core finding is that changing what is written in textbooks is the easy part: the harder challenge is transforming the professional habits and worldviews of hundreds of thousands of teachers who were themselves trained in the existing system, a process that South Korea found takes more than a decade even with sustained investment. For Iran, the article finds that the challenge is compounded because ideology is woven into every subject — not just history and religion — and because the seminary system's influence over schools and teacher training would need to be directly addressed for any curriculum reform to be more than cosmetic.
+
+## Related Articles
+
+- [De-Ideologizing the Classroom: Iran's Islamized Curriculum and Comparative De-Indoctrination](de-ideologizing-the-classroom-irans-islamized-curriculum-and-comparative-de-indo.md)

@@ -1,3 +1,16 @@
+---
+tags:
+  - Social & Cultural
+  - Cultural heritage preservation during institutional change
+  - Iran
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Cultural heritage preservation during institutional change</a></p>
+
+# Cultural Heritage as Political Resource: Confucian Values, Revolutionary Memory, and Iran's Pre-Islamic Identity
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-31T19:43:30.339052
+
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
 ## Evidence: Cultural Heritage as Political Resource During Institutional Transition

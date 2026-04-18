@@ -1,3 +1,5 @@
+<div dir="rtl" markdown>
+
 ## Evidence & Key Findings
 
 > 🟡 **Evidence Confidence: Moderate** —  | 📎 **Source Alignment: 🟡 Moderate** (72%)
@@ -42,3 +44,5 @@
 |--------|------|-------------|
 | Huntington, S.P. | ۱۹۹۵ | راهبرد تدریجی اصلاحات از رویارویی ناگهانی مؤثرتر است |
 | Kuehn, D. & Croissant, A. | ۲۰۲۳ | اصلاح زودهنگام وزارت دفاع و جامعه‌پذیری دموکراتیک عوامل تمایزبخش اسپانیا بودند |
+
+</div>

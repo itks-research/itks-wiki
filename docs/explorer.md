@@ -52,7 +52,7 @@
   const isFA = true;
   const L = { loading:'...در حال بارگذاری', noResults:'.نتیجه‌ای یافت نشد', showing:'نمایش', of:'از', sources:'منبع', authors:'نویسندگان', year:'سال', doi:'شناسه دیجیتال', venue:'نشریه', openAccess:'دسترسی آزاد', viewPaper:'مشاهده مقاله', relevance:'ارتباط', reliability:'اعتبار', citations:'استنادها', abstract:'چکیده' };
 
-  fetch('../../data/sources.json').then(r=>r.json()).then(data => {
+  fetch('../data/sources.json').then(r=>r.json()).then(data => {
     allSources = data; populateDropdowns(); readURLParams(); applyFilters();
     document.getElementById('explorer-loading').style.display='none';
     document.getElementById('explorer-ui').style.display='block';

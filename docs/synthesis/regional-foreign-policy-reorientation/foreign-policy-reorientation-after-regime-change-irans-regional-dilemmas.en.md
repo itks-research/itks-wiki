@@ -1,3 +1,16 @@
+---
+tags:
+  - Iran-Specific
+  - Regional foreign policy reorientation
+  - Iran
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Regional foreign policy reorientation</a></p>
+
+# Foreign Policy Reorientation After Regime Change: Iran's Regional Dilemmas
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-31T19:44:02.345657
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)

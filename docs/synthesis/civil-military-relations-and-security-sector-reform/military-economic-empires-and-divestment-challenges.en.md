@@ -1,3 +1,15 @@
+---
+tags:
+  - Political
+  - Civil-military relations and security sector reform
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Civil-military relations and security sector reform</a></p>
+
+# Military Economic Empires and Divestment Challenges
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-29 06:42:53
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Multiple comparative cases documented with institutional detail (Indonesia TNI 200+ businesses, Pakistan Fauji Foundation). Consistent patterns across documented cases.

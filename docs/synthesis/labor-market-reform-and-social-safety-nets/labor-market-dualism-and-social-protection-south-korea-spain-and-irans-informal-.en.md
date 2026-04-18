@@ -1,3 +1,18 @@
+---
+tags:
+  - Economic
+  - Labor market reform and social safety nets
+  - Iran
+  - South Korea
+  - Spain
+---
+
+<p class="breadcrumb"><a href="../../index.md">Home</a> > <a href="../index.md">Research Findings</a> > <a href="index.md">Labor market reform and social safety nets</a></p>
+
+# Labor Market Dualism and Social Protection: South Korea, Spain, and Iran's Informal Economy
+
+**Status:** 🔍 AI Reviewed | **Last Updated:** 2026-03-31T19:42:41.742121
+
 ## Evidence & Key Findings
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
