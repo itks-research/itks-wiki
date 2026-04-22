@@ -1,5 +1,9 @@
-# Demographic transition and urbanization dynamics
+<div dir="rtl" markdown>
 
-*اجتماعی و فرهنگی* · 1 مقاله · 147 منبع
+## انتقال جمعیتی و دینامیک شهرنشینی
 
-- [Demographic Transition and Urbanization Dynamics: Implications for Political Development](demographic-transition-and-urbanization-dynamics-implications-for-political-deve.md)
+*اجتماعی و فرهنگی* · ۱ مقاله · ۱۴۷ منبع
+
+- [انتقال جمعیتی و دینامیک شهرنشینی: پیامدها برای توسعه سیاسی](demographic-transition-and-urbanization-dynamics-implications-for-political-deve.en.md)
+
+</div>

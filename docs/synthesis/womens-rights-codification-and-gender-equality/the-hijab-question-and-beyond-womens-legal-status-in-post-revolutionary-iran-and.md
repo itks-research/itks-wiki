@@ -1,6 +1,6 @@
 <div dir="rtl" markdown>
 
-## Evidence & Key Findings
+## شواهد و یافته‌های کلیدی
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
@@ -24,7 +24,7 @@ Iran's educated female majority has not translated into formal political power t
 
 The جنبش زن زندگی آزادی movement of 2022-2023 crystallized these contradictions: it emerged among women with unprecedented educational attainment and economic participation, demanding not symbolic concessions but structural legal reform—particularly حجاب اجباری repeal and guardianship law revision (Mehan, 2023). The movement's power lay partly in its emergence from this educated stratum, distinguishing it from earlier women's movements confined to جامعه مدنی.
 
-## Cross-Country Patterns
+## الگوهای بین‌کشوری
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
@@ -38,7 +38,7 @@ Yet women's movements paradoxically became the strongest drivers of democratic c
 
 The tension between secular feminist agendas and religious conservative coalitions played out differently across cases. In Tunisia, secular post-colonial nationalism enabled the 1956 reforms before Islamist mobilization; in Indonesia, فدرالیسم and religious authority تمرکززدایی allowed parallel legal systems. In Iran, centralized religious authority made compromise structurally difficult: guardianship and hijab cannot coexist with equal citizenship. Women's movements succeeded not by negotiating compromise but by fundamentally challenging the regime's مشروعیت claim—positioning legal reform as prerequisite to democratic and economic stability.
 
-## Iran Context
+## بافت ایران
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
@@ -60,7 +60,7 @@ Comparative Lens: Why Iran Differs
 
 Unlike Tunisia's 1956 reforms (enacted by nationalist elites positioning modernization against colonialism) or Indonesia's 1974 compromises (فدرالیسم enabling religious authority at local levels), Iran's centralized religious state makes women's legal status foundational to regime ideology. Reforms require not just policy change but ideological مشروعیت shift. The جنبش زن زندگی آزادی movement challenges this at the most basic level: asserting women's humanity as non-negotiable, prior to religious interpretation. This explains its intensity and the regime's violent response—legal reform on family law constitutes existential threat to theocratic حکمرانی itself.
 
-## Open Research Questions
+## پرسش‌های پژوهشی باز
 
 1. Sequencing and Sustainability: Does symbolic hijab repeal achieve sustainable legal gains if guardianship structures remain intact? Or does prioritizing guardianship reform without addressing mandatory dress codes reinscribe state surveillance and bodily autonomy violations?
 
@@ -68,7 +68,7 @@ Unlike Tunisia's 1956 reforms (enacted by nationalist elites positioning moderni
 
 3. Intersectional Legal Status: How do family law reforms address women's differential legal status by class, ethnicity, and sexuality? Do guardianship reforms equally benefit rural and working-class women, or do they primarily benefit educated professionals? How are LGBTQ+ and transgender individuals positioned within family law reform demands?
 
-## Sources
+## منابع
 
 
 | شناسه | عنوان | نویسندگان | سال | ارتباط | اعتبار |

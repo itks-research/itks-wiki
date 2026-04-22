@@ -18,6 +18,7 @@
 ## مقالات پژوهشی مرتبط
 
 - [Tunisia's Quartet Innovation: Civil Society as Constitutional Infrastructure](../synthesis/constitutional-design-and-drafting-processes/tunisias-quartet-innovation-civil-society-as-constitutional-infrastructure.md)
+- [Digital Authoritarianism and Civic Space: Internet Infrastructure as a Battleground in Iran and Tunisia](../synthesis/internet-and-digital-infrastructure/digital-authoritarianism-and-civic-space-internet-infrastructure-as-a-battlegrou.md)
 - [From Single Party to Fragmentation: Tunisia's Post-Revolution Party Landscape and Lessons for Iran](../synthesis/political-party-formation-and-pluralism/from-single-party-to-fragmentation-tunisias-post-revolution-party-landscape-and-.md)
 - [Tunisia's Constitutional Compromise and the Civil State Model](../synthesis/religious-freedom-and-separation-of-religion-from-state/tunisias-constitutional-compromise-and-the-civil-state-model.md)
 - [Islamic Transitional Justice: Tunisia, Morocco, and the Legitimacy Question](../synthesis/transitional-justice/islamic-transitional-justice-tunisia-morocco-and-the-legitimacy-question.md)

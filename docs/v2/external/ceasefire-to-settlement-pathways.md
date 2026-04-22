@@ -1,12 +1,12 @@
-# Ceasefire-to-Settlement Pathways
+# مسیرهای آتش‌بس تا توافق
 
 
 
-## Overview
+## نمای کلی
 
 **Ceasefires** are formal agreements to halt active hostilities but do not resolve underlying political conflict. The comparative record shows ceasefires convert to durable settlements in approximately 40-50% of cases (Fortna 2004), with durability determined primarily by: the nature of the original conflict (territorial vs. governance vs. ideological), the credibility of monitoring mechanisms, and the presence of economic incentives for compliance. The 2026 Iran ceasefire (agreed April 7-8 following US-Israel airstrikes) is a coercive ceasefire — imposed through military superiority rather than mutual exhaustion — which the literature identifies as more fragile than negotiated ceasefires but potentially more transformative if backed by credible international frameworks. The Islamabad talks (April 10+) represent the critical conversion window: ceasefires that fail to produce political framework agreements within 60-90 days face significantly elevated relapse risk.
 
-## Theoretical Framework
+## چارچوب نظری
 
 **Ceasefire durability theory** (Fortna 2004; Werner 1999): Key determinants of durability: (1) **Monitoring mechanisms** — UN or third-party verification reduces relapse risk ~50%; (2) **Territorial clarity** — ambiguous front lines increase relapse; (3) **Economic stakes** — high reconstruction costs increase incentives to maintain peace; (4) **Commitment problems** — declining powers face credible commitment challenges as they rebuild capacity post-ceasefire.
 
@@ -16,7 +16,7 @@
 
 **Iran parallel**: Islamabad talks involve Iranian sovereignty concerns (nuclear program), US/Israeli security demands (IRGC degradation), and economic incentives (sanctions relief). The JCPOA (2015) provides a partial precedent for negotiation architecture, though the 2026 context involves military coercion rather than pure diplomacy.
 
-## Iran Analysis
+## تحلیل ایران
 
 **Current relevance — April 2026 (HIGHEST PRIORITY SECTION):** The Islamabad talks beginning April 10 represent the most direct real-time application of ceasefire-to-settlement theory. The system's analysis framework identifies the following critical variables:
 

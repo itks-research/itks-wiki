@@ -1,12 +1,12 @@
-# Wartime Fragmentation & Militia Politics
+# تکه‌تکه شدن در جنگ و سیاست شبه‌نظامیان
 
 
 
-## Overview
+## نمای کلی
 
 **Wartime fragmentation** occurs when the state's monopoly on legitimate violence fractures under armed conflict pressure, creating space for armed non-state actors. The comparative record — from Iraq's Popular Mobilization Forces (PMF), Libya's competing militias, Lebanon's Hezbollah, and Colombia's FARC — reveals predictable patterns: (1) regime decentralizes security to loyal armed groups during existential threat; (2) these groups develop autonomous funding streams; (3) post-conflict demobilization faces collective action problems as actors calculate weapons as political capital; (4) militia-to-party transformation succeeds where electoral systems provide credible non-violent power paths. The IRGC's wartime decentralization under US-Israel strikes creates structural parallels to the Iraqi Republican Guard's fragmentation — with the critical difference that IRGC regional commanders retain lateral coordination capacity the Iraqi military lacked.
 
-## Theoretical Framework
+## چارچوب نظری
 
 **DDR theory** (Disarmament, Demobilization, Reintegration; Muggah 2010): DDR programs succeed when: (a) combatants have viable livelihood alternatives; (b) political agreements provide security guarantees; (c) reintegration support is multi-year; and (d) community reconciliation accompanies individual disarmament. DDR fails when spoilers perceive disarmament as surrender, or when the political settlement collapses before reintegration completes.
 
@@ -16,7 +16,7 @@
 
 **Iran fragmentation risk**: Iranian ethnic-regional fault lines (Khuzestan Arabs, Kurdish northwest, Baloch southeast, Azerbaijani northwest) could become armed conflict zones if central authority collapses. Unlike Iraq, these groups have historical resistance experience but limited current capacity. External support could rapidly change this calculus under collapse conditions.
 
-## Iran Analysis
+## تحلیل ایران
 
 **Current relevance — April 2026:** The US-Israel air campaign has created observable IRGC decentralization — with regional commanders increasing operational autonomy as central command structures were targeted. This mirrors the Iraqi Republican Guard's fragmentation pattern in 1991 and 2003, but with key differences:
 

@@ -1,4 +1,4 @@
-# Public health system and healthcare access
+# نظام بهداشت عمومی و دسترسی به خدمات درمانی
 
 *اجتماعی و فرهنگی* · 1 مقاله · 117 منبع
 

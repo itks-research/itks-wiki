@@ -1,5 +1,7 @@
 # Iraq
 
+Post-2003 regime change offers critical lessons on externally imposed transition, de-Ba'athification failures, sectarian power-sharing collapse, and the dangers of disbanding security forces without reintegration — directly relevant to IRGC accountability scenarios.
+
 ## At a Glance
 
 | Metric | Value |
@@ -12,6 +14,11 @@
 | Categories | 12 |
 
 [Browse all Iraq sources in Explorer](../explorer/?case_study=Iraq)
+
+## Related Research Articles
+
+- [De-Ba'athification as Template: What Iraq's Personnel Purge Teaches About De-IRGC-ification](../synthesis/transitional-justice/de-baathification-as-template-what-iraqs-personnel-purge-teaches-about-de-irgc-i.md)
+- [Fragmentation or Resilience? What Libya's Collapse and Iraq's Sectarian War Reveal About Iran's Ethnic Fault Lines Under Military Intervention](../synthesis/wartime-fragmentation-and-militia-politics/fragmentation-or-resilience-what-libyas-collapse-and-iraqs-sectarian-war-reveal-.md)
 
 ## Political (289 sources)
 

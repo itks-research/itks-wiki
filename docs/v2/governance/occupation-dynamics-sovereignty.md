@@ -1,12 +1,12 @@
-# Occupation Dynamics & Sovereignty
+# پویایی اشغال و حاکمیت
 
 
 
-## Overview
+## نمای کلی
 
 **Military occupation** — the exercise of administrative authority over territory by a foreign power following armed conflict — is a historically distinct governance form. The comparative record spans: (1) **Total occupation** (Germany/Japan 1945-1952): comprehensive administrative control, economic reconstruction, constitutional redesign; (2) **Transitional administration** (Bosnia 1995-present, Kosovo 1999-2008): international administration with local institutional development; (3) **Indirect occupation** (Iraq CPA 2003-2004): nominally temporary authority that shaped institutional foundations for years; (4) **Advise-and-assist** (Afghanistan 2001-2021): formal sovereignty preservation with pervasive international influence. The 2026 Iran situation (airstrikes but no ground occupation) does not clearly fit any model, but the Islamabad talks could impose CPA-analog conditions without physical occupation.
 
-## Theoretical Framework
+## چارچوب نظری
 
 **Occupation success theory** (Edelstein 2004; Dobbins et al. 2003): Military occupation achieves stable transition when: (a) the occupied population perceives occupation as temporary and legitimate; (b) the occupying power has long-term political commitment; (c) an external security threat provides strategic incentive (Cold War for Germany/Japan); and (d) the occupied society has pre-existing democratic institutional foundations. Germany and Japan succeeded on all four dimensions. Iraq failed on (a) and (b). Afghanistan failed on all four.
 
@@ -16,7 +16,7 @@
 
 **Non-occupation analog**: External powers can demand governance changes as ceasefire terms without occupying territory — creating 'sovereignty with conditionality' analogous to post-Gulf War Iraq 1991 (inspections, sanctions, no-fly zones) rather than 2003 (occupation). The question is whether Iran's government has sufficient institutional capacity to implement demanded changes, or whether external monitoring mechanisms are required.
 
-## Iran Analysis
+## تحلیل ایران
 
 **Current relevance — April 2026:** The critical question is whether the Islamabad talks produce a sovereignty-with-conditionality framework (Iraq 1991 model) or escalate demands toward occupation-analog governance (Iraq 2003 model). The comparative literature strongly favors the 1991 model for Iran's specific conditions:
 

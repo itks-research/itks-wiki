@@ -1,5 +1,9 @@
-# فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری
+<div dir="rtl" markdown>
 
-*سیاسی* · 1 مقاله · 131 منبع
+## فدرالیسم، یگانگی‌گرایی و مدل‌های خودمختاری
 
-- [Indonesia's Big Bang Decentralization: Corruption, Accountability, and Lessons for Iran](indonesias-big-bang-decentralization-corruption-accountability-and-lessons-for-i.md)
+*سیاسی* · ۱ مقاله · ۱۳۱ منبع
+
+- [دستوردهی بزرگ ایران: فساد، پاسخگویی و درس‌ها برای ایران](indonesias-big-bang-decentralization-corruption-accountability-and-lessons-for-i.md)
+
+</div>

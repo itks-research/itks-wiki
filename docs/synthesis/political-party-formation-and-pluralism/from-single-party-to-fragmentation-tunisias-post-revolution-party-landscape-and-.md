@@ -1,6 +1,6 @@
 <div dir="rtl" markdown>
 
-## Evidence & Key Findings
+## شواهد و یافته‌های کلیدی
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
@@ -14,7 +14,7 @@ Yet this apparent pluralism masked deeper fragmentation. Beyond the two major bl
 
 The critical turning point came with President Kais Saied's 2021 constitutional coup. Saied claimed to act against "corrupt" politicians and paralyzed حکمرانی, but in practice, his actions dismantled the party-based system entirely. By 2023, Tunisia's party landscape had been effectively neutralized—not through consolidation, but through authoritarian suppression. The fragmented party system had proven unable to produce stable حکمرانی, creating space for an outsider populist to claim مشروعیت in dismantling it entirely (Affan, 2022; Ghannouchi & March, 2023).
 
-## Cross-Country Patterns
+## الگوهای بین‌کشوری
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (4 sources)
 
@@ -28,7 +28,7 @@ Third, excessive fragmentation creates حکمرانی vacuums that opportunistic
 
 The distinction between genuine pluralism and pathological atomization matters: genuine pluralism involves 3-6 major parties with distinct constituencies and programs; atomization produces 50+ minor parties with indistinct platforms. Tunisia crossed from the former into the latter after 2011.
 
-## Iran Context
+## بافت ایران
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
@@ -40,7 +40,7 @@ Tunisia's trajectory suggests the dangers to Iran of sudden, uncontrolled party 
 
 Moreover, Tunisia's 2021 collapse suggests that fragmentation creates vulnerability to authoritarian reversal. An Iranian system experiencing rapid party proliferation without institutional mechanisms for consolidation could face مشروعیت crisis—potentially inviting a charismatic military or security figure to claim, like Saied, that the system must be dismantled entirely. The lesson for Iran is not that pluralism should be avoided, but that opening must be carefully sequenced: institutional reform (term limits, reduced شورای نگهبان powers, expanded legislative autonomy) should precede rapid party liberalization. Without institutional guardrails, pluralism can paradoxically enable authoritarianism.
 
-## Open Research Questions
+## پرسش‌های پژوهشی باز
 
 **Key Research Gaps:**
 
@@ -50,7 +50,7 @@ Moreover, Tunisia's 2021 collapse suggests that fragmentation creates vulnerabil
 
 3. **Generational and Ideological Factors in Party Consolidation**: Why did Tunisia's secular vs. Islamist cleavage fail to produce durable two-party competition, while similar divisions in other contexts (Egypt, Morocco) produced more stable systems? How do generational change and shifting issue priorities affect party consolidation in post-transition contexts?
 
-## Sources
+## منابع
 
 | شناسه | عنوان | نویسندگان | سال | مطالعه موردی |
 |---|---|---|---|---|

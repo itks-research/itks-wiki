@@ -1,5 +1,7 @@
 # Afghanistan
 
+Two decades of international state-building (2001–2021) ending in Taliban restoration demonstrate the limits of externally driven democratization, the fragility of institutions without domestic legitimacy, and the consequences of security sector dependency on foreign support.
+
 ## At a Glance
 
 | Metric | Value |

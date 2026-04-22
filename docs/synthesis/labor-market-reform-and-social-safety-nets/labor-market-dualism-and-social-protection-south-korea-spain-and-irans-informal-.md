@@ -1,6 +1,6 @@
 <div dir="rtl" markdown>
 
-## Evidence & Key Findings
+## شواهد و یافته‌های کلیدی
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
@@ -11,7 +11,7 @@ Indonesia's experience with decentralized minimum wage setting illustrates the c
 
 Spain's vulnerability to trade-induced labor displacement, examined through the lens of China's emergence as a manufacturing powerhouse (Autor, Dorn, and Hanson, 2016), demonstrated how EU بازار کار regulatory frameworks could به طور همزمان protect insider workers while creating dualistic بازار کارs. Manufacturing-dependent regions experienced concentrated job losses that formal employment protections inadequately cushioned, as EU-mandated flexibility requirements enabled mass shifts to temporary and part-time contracts. This European experience reveals a paradox: regulatory convergence within supranational institutions can homogenize formal labor standards while obscuring persistent informality at the margins and reinforcing insider-outsider dynamics that undermine social cohesion.
 
-## Cross-Country Patterns
+## الگوهای بین‌کشوری
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
@@ -24,7 +24,7 @@ Third, democratic مشروعیت increasingly depends on disconnecting حمای�
 
 Finally, informality is not transitional but structural in many middle-income economies, requiring policy frameworks that accept rather than resist this reality while expanding non-employment-based protections.
 
-## Iran Context
+## بافت ایران
 
 > 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
@@ -37,7 +37,7 @@ The Iranian Revolutionary Guard Corps (سپاه پاسداران انقلاب ا
 
 Addressing Iran's labor informality and حمایت اجتماعی deficits requires decoupling security provision from employment status—a politically fraught transition that would require either substantial economic restructuring or acceptance of sustained parallel بازار کار institutions. The structural informality evident in South Korea post-1997 and Indonesia's wage-setting experience suggests that subsidy reform and بازار کار liberalization alone cannot generate sustainable formalization; instead, they intensify reliance on non-employment-based transfers. For Iran, this implies that meaningful حمایت اجتماعی reform must precede further بازار کار liberalization to avoid exacerbating informal sector growth and political instability.
 
-## Open Research Questions
+## پرسش‌های پژوهشی باز
 
 
 1. **Institutional Path Dependency and Reversibility**: To what extent can universal حمایت اجتماعی systems (e.g., healthcare not tied to employment) reverse embedded بازار کار dualism once it has become entrenched? Does decoupling حمایت اجتماعی from employment ex post facto reduce informality, or does it merely redistribute welfare without inducing formalization?
@@ -46,7 +46,7 @@ Addressing Iran's labor informality and حمایت اجتماعی deficits requi
 
 3. **Trade Exposure and Informality Expansion**: Why do trade shocks consistently correlate with informality increases even in high-regulation contexts (Spain) while decentralized wage-setting correlates with informality in middle-income economies (Indonesia)? Are there threshold effects in بازار کار institutions beyond which trade exposure drives informalization regardless of regulatory design?
 
-## Sources
+## منابع
 
 
 | # | عنوان | نویسندگان | سال | مطالعه موردی | ارتباط | اعتبار |
@@ -61,7 +61,7 @@ Addressing Iran's labor informality and حمایت اجتماعی deficits requi
 | 8 | Women's Work and Economic Development | Mammen, K.; Paxson, C. | 2000 | South Korea | 4.0 | 4.49 |
 
 
-## Implications for Iran
+## پیامدها برای ایران
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 

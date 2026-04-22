@@ -1,5 +1,9 @@
-# اصلاح بازار کار و شبکه‌های حمایت اجتماعی
+<div dir="rtl" markdown>
+
+# اصلاحات بازار کار و شبکه‌های امنیت اجتماعی
 
 *اقتصادی* · 1 مقاله · 82 منبع
 
-- [Labor Market Dualism and Social Protection: South Korea, Spain, and Iran's Informal Economy](labor-market-dualism-and-social-protection-south-korea-spain-and-irans-informal-.md)
+- [دوگانگی بازار کار و حمایت اجتماعی: کره جنوبی، اسپانیا و اقتصاد غیررسمی ایران](labor-market-dualism-and-social-protection-south-korea-spain-and-irans-informal-.md)
+
+</div>

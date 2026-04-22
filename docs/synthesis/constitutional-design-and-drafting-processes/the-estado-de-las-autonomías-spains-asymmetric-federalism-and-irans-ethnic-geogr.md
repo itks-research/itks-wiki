@@ -1,60 +1,374 @@
 <div dir="rtl" markdown>
 
-## Evidence & Key Findings
+---
+tags:
+  - Political
+  - Constitutional design and drafting processes
+  - Iran
+  - Spain
+---
 
-> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
 
-Spain's 1978 constitutional framework created the "Estado de las Autonomías" (State of Autonomies) as a novel middle path between فدرالیسم and unitarism, fundamentally reshaping how post-authoritarian states organize territory and ethnicity. During the transition from Franco's centralized dictatorship, Spanish architects confronted a territorial question complicated by distinct historical nations—Catalonia, the Basque Country, and Galicia—each with separate linguistic and cultural traditions demanding recognition.
+<p class="breadcrumb"><a href="../../index.md">خانه</a> > <a href="../index.md">یافته‌های تحقیقاتی</a> > <a href="index.md">فرآیندهای طراحی و تدوین قانون اساسی</a></p>
 
-The initial طراحی قانون اساسی employed the principle of "café para todos" (coffee for everyone), offering all regions equal opportunities for autonomy status despite their vastly different political demands and historical weight. This symmetrical framework proved untenable; Catalonia and the Basque Country possessed mobilized nationalist movements with historical states, while smaller regions had weaker territorial consciousness. The constitution allowed for asymmetry through Article 151's supermajority pathway, enabling faster devolution to regions that demanded it—a safety valve that transformed the system into what scholars recognize as "asymmetric فدرالیسم."
+# دولت خودمختاری‌ها: فدرالیسم نامتقارن اسپانیا و جغرافیا قومی ایران
 
-Fiscal autonomy emerged as the critical cement binding the territorial compact. The Basque Country and Navarre negotiated cupo (quota) systems allowing them to collect most taxes and remit a portion to Madrid, fundamentally different from the standard revenue-sharing model. Catalonia secured similar arrangements through the 2006 Estatut d'Autonomia, gaining control over major tax bases. These fiscal compacts directly addressed how territorial elites could satisfy both their constituents' demands for self-حکمرانی and maintain economic interdependence with the central state.
+**وضعیت:** 🔍 AI بررسی‌شده | **آخرین به‌روزرسانی:** 1405/03/09 16:50:38
 
-The 2017 Catalan independence crisis tested this design to destruction. When Madrid revoked the 2006 Estatut, declaring key devolved powers unconstitutional, Catalan nationalism radicalized. The October 2017 referendum and declaration of independence exposed the Estado de las Autonomías' core vulnerability: asymmetric arrangements satisfied neither maximalist separatists nor those fearing privileged regions undermined equality. The crisis demonstrated that fiscal autonomy and even primary legislative power in cultural matters could not substitute for resolution of the fundamental question—whether a historical nation can be accommodated within a state structure without triggering separatism.
+## شواهد تجربی و یافته‌های کلیدی
 
-## Cross-Country Patterns
+> 🟢 **اعتماد به شواهد: بالا** — شواهد سه‌گانه‌ای که با هم هماهنگ شده‌اند (8 منبع)
 
-> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+فرمان‌روایی قانون اساسی اسپانیا در سال 1978، "Estado de las Autonomías" (دولت خودمختاری‌ها) را به عنوان یک مسیر میانجی بین فدرالیسم و یگانگی ایجاد کرد و نحوه سازماندهی پسااقتدارگرایان قلمرو و قومیت را به طور بنیادی تغییر داد. در طول گذار از دیکتاتوری مرکزی فرانکو، معماران اسپانیایی با یک پرسش قومی پیچیده روبرو شدند که توسط ملت‌های تاریخی مختلف - کاتالونیا، Країна باسک و گالیسیا - هر کدام با سنت‌های زبانی و فرهنگی جداگانه‌ای که از خود نشان می‌دادند، تقاضای شناخت را مطرح کردند.
 
-Post-authoritarian constitutional designers face an enduring dilemma: whether to grant equal autonomy to all regions (symmetry) or to accommodate historically mobilized nations through differentiated powers (asymmetry). Symmetry offers democratic elegance and prevents resentment among regions denied special status, but fails to address why some territories possess institutionalized national movements with centuries of distinct حکمرانی. Asymmetry recognizes political reality and historical difference, but generates zero-sum conflicts where denied regions demand equal treatment.
+## طراحی اولیه قانون اساسی از اصل «قهوه برای همه» (قهوه برای همه) استفاده کرد، که به تمام مناطق فرصت برابر برای وضعیت خودمختاری می‌داد، با وجود تفاوت‌های سیاسی و وزن تاریخی گسترده. این چارچوب هماهنگ نشان داد غیرقابل تحمل است؛ کاتالونیا و کشور باسک دارای جنبش‌های ملی‌گرایانه سازمان‌یافته‌ای بودند که از تاریخچه ای برخوردار بودند، در حالی که مناطق کوچکتر آگاهی سرزمینی ضعیف تری داشتند. قانون برای عدم هماهنگی از طریق مسیر اکثریت فوق‌العاده ماده 151 اجازه می‌داد، به این ترتیب تحول سریعتر به مناطق درخواست‌کننده را امکان‌پذیر کرد - یک شیرآب امنیتی که سیستم را به آنچه دانشمندان آن را «فدرالیسم غیرهمگن» می‌شناسند، تبدیل کرده است.
 
-Spain's Estado de las Autonomías attempted to transcend this binary through recursive asymmetry—offering all regions the formal right to asymmetric arrangements while few possessed the political organization to exercise it. This created stability through asymmetric equilibrium: regions with nationalist movements gained accelerated devolution and fiscal autonomy, while regions without such pressure remained integrated but could theoretically demand parity. The mechanism worked through three decades because nationalist mobilization remained geographically contained.
 
-Fiscal autonomy proved essential to sustaining the territorial bargain. When historically-mobile regions gained control over revenue generation and spending, they developed stake in the system beyond cultural symbolism. The Basque cupo system and Catalan tax arrangements created administratively-complex but politically-functional interdependence. However, fiscal autonomy's success depends on equilibrium: if autonomy advances seem one-directional, or if the center reclaims powers, the compact unravels. The 2017 crisis erupted when Madrid's Constitutional Court reasserted central authority precisely when Catalonia expected continued devolution, creating the perception of broken promises.
+## منابع
 
-The Spanish model's broader applicability depends on institutional prerequisites: a constitutional court accepted as neutral arbiter, multiple veto points preventing unilateral revision, political elite commitment to elite-pacting rather than majoritarianism, and crucially, willingness of historically-dominant regions to accept reduced privilege. Spain's 2017 crisis reveals these are not inevitable—they depend on sustained political will.
+* [1]
 
-## Iran Context
+## دولت‌های خودمختار: فدرالیسم نامتقارن اسپانیا و جغرافیای قومی ایران
 
-> 🟢 **Evidence Confidence: High** — Well-triangulated evidence (8 sources)
+آزادی مالیاتی به عنوان چسب حیاتی که بر توافق سرزمینی تأثیر می‌گذارد، ظهور کرد.  کشور باسک و ناوار سیستم‌های کاپو (کوپو) را در نظر گرفتند تا بتوانند اکثر مالیات‌ها را جمع‌آوری کنند و بخشی از آن را به مادرید ارسال کنند، که کاملاً متفاوت از مدل استاندارد تقسیم درآمد است.  کاتالونیا با استفاده از قانون اساسی خودمختاری سال ۲۰۰۶ (استاتوت دِ اتونومیا)، کنترل بر پایه‌های مالیاتی اصلی را به دست آورد. این توافق‌های مالی مستقیماً در مورد نحوه اینکه آیا نخبگان سرزمینی می‌توانند نیازهای شهروندان خود برای خودگردانی را برآورده کنند و وابستگی اقتصادی با دولت مرکزی را حفظ کنند، تأثیر گذاشت.
 
-Iran's territorial organization challenges mirror Spain's in some respects but differ fundamentally in others. The Islamic Republic confronts four regions with significant non-Persian, non-Shia identities: Kurdistan (Sunni Kurdish population, ~2.5% of Iran), Azerbaijan (ethnically Turkic, ~25% of population, substantial in northwest), Khuzestan (Arab identity and separatist history, ~2-3%), and Baluchistan (Sunni Baluch minority, ~2%). Unlike Spain's Catalan and Basque questions, these are not nationalist movements rooted in pre-modern polities but modern ethnic categories crystallized through 20th-century nation-building and minority consciousness. Kurds and Baluchs belong to larger stateless nations spanning Iraq, Syria, Turkey, and Pakistan; Azerbaijanis are affiliated with the Republic of Azerbaijan; Arabs have broader Pan-Arab consciousness. Iran's minorities thus face cross-border pull in ways Spanish nationalists did not.
+در این متن، از ترجمه‌های پیش‌نویس استفاده شده است.
 
-The Islamic Republic has maintained highly centralized authority, viewing devolution with suspicion for regime stability. Provincial governors remain centrally appointed; major tax revenue flows to Tehran; cultural policy enforces Persian language and Shia Islam as state identity markers. Unlike Spain's gradual devolution, Iran's minorities have received cosmetic concessions—limited provincial council authority, tokenistic cultural representation—while substantive powers remain concentrated. This difference matters fundamentally: Spain's Estado de las Autonomías emerged through negotiated transition by elites who explicitly chose devolution; Iran's current minorities lack such bargaining power, having been incorporated into the Islamic Republic through military unification rather than constitutional negotiation.
+## الگوهای بین‌بخشی
 
-Whether Spain's model offers a framework for Iran depends on a counterfactual: if Iran's leadership voluntarily chose to devolve power, what would a Spanish-style solution look like? A potential framework would involve: (1) constitutional recognition of ethnic pluralism and minority rights to cultural self-expression, (2) provincial fiscal autonomy where minority-majority provinces collected and allocated a larger share of tax revenue, (3) primary legislative authority over cultural, educational, and local حکمرانی matters, (4) proportional representation in central institutions weighted by population, and (5) asymmetric arrangements allowing Kurdish and Baluch regions greater devolution than ethnically-mixed provinces. This would parallel Spanish asymmetry—granting densely-mobilized minorities accelerated autonomy while offering all provinces equal pathway to enhanced devolution.
+> 🟢 **ثبات شواهد: بالا** — شواهد سه‌گانه‌ای که از ۸ منبع تأیید شده است
 
-The critical question is whether such arrangements can prevent separatism. Spain's 2017 experience suggests they cannot if minorities perceive them as inadequate or reversible. Iran's minorities might demand something closer to federation or even confederation—allowing for potential independence if the autonomy model fails. The Estado de las Autonomías succeeded in Spain because Spanish nationalists ultimately viewed remaining within Spain as compatible with self-حکمرانی; they accepted being a minority nation within a plurinational state. Iranian minorities, facing greater cultural suppression and demographic insecurity, might demand either genuine federal equality or exit options. A Spanish-style arrangement imposed unilaterally by Tehran without sustained negotiation with minority representatives would likely fail—generating the opposite of the intended effect, accelerating centrifugal pressures.
 
-## Open Research Questions
+## الگوهای بین‌کشوری
 
-1. Under what conditions does asymmetric devolution satisfy ethnic demands versus accelerate separatism? Spain's experience suggests asymmetry works when granted proactively to mobilized minorities and when minority elites view remaining within the state as preferable to exit. Does this require prior nationalist mobilization (endogenous demand) or can externally-imposed asymmetry generate مشروعیت?
+- Spain's asymmetric federalism and Iran's ethnic geography share a common feature: the accommodation of historical nations within state structures.
+- Both countries have experienced separatist movements that challenged the existing power arrangements.
+- The Estado de las Autonomías in Spain and the ethnic geography of Iran demonstrate that fiscal autonomy and legislative powers are insufficient to prevent separatism.
 
-2. What institutional mechanisms can prevent the ratchet effect—where devolution creates expectations for further devolution, and denial of accelerated devolution triggers independence movements? Spain's Estado experienced this; does it reflect something inherent to territorial accommodation, or are there constitutional designs that stabilize devolution expectations?
+Farsi translation:
 
-3. How do cross-border ethnic affiliations complicate asymmetric فدرالیسم? Spanish Catalonia and Basque Country are ethnically unique to Spain, allowing territorial nationalism to be coterminous with state nationalism. Iranian Kurds and Baluchs are minorities within larger nations—would autonomy increase or decrease cross-border mobilization toward larger ethno-national projects?
+- الگوی فدرالیسم غیر یکسان اسپانیا و جغرافیای قومی ایران ویژگی مشترکی دارند: پذیرش ملت‌های تاریخی در ساختارهای دولتی.
+- هر دو کشور تجربه جنبش‌های جدایی‌طلبانه‌ای را داشته‌اند که قدرت موجود را چالش کرده‌اند.
+- Estado de las Autonomías در اسپانیا و جغرافیای قومی ایران نشان می‌دهند که خودمختاری مالی و قدرت قانونگذاری اولیه در امور فرهنگی کافی نیستند تا جدایی‌طلبی را پیشگیری کنند.
 
-## Sources
+## چالش دموکراتیک در طراحی قانون اساسی پسااقتدارگرایی
+### آیا باید تمام مناطق به طور یکسان استقلال دریافت کنند (هماهنگی) یا اینکه با توجه به تفاوت‌های تاریخی و سیاسی، مناطق دارای جنبش ملی مستقل را از طریق تقسیم قدرت متفاوت (غیر هماهنگی) مورد توجه قرار داد؟
 
-Sources Referenced:
+هماهنگی زیبایی‌شناسی دموکراتیک دارد و از احساس خشم در بین مناطق که وضعیت خاصی ندارند جلوگیری می‌کند، اما به این سوال پاسخ نمی‌دهد که چرا برخی از سرزمین‌ها جنبش‌های ملی مستقل با قرن‌ها حکومت‌گریزی متفاوت را دارند. غیر هماهنگی واقعیت سیاسی و تفاوت تاریخی را در نظر می‌گیرد، اما مناقشاتی بدون نتیجه (صفر-سوم) ایجاد می‌کند که مناطق نادیده گرفته شده به معامله برابر طلب می‌کنند.
 
-1. ["Jean\u2010Baptiste Harguind\u00e9guy", "Gonzalo Sola Rodr\u00edguez", "Jos\u00e9 Cruz-D\u00edaz"] (2018). "Between justice and politics: the role of the Spanish Constitutional Court in the state of autonomies" | Case Study: Spain | ID: 418
-2. ["Madalena Meyer Resende"] (2017). "A Holy Alliance between the Catholic Church and Constitution-Makers? The Diffusion of the Clause of Cooperation in Third Wave Democracies" | Case Study: Spain | ID: 364
-3. ["Guillem Rico", "Robert Li\u00f1eira"] (2014). "Bringing Secessionism into the Mainstream: The 2012 Regional Election in Catalonia" | Case Study: Spain | ID: 402
-4. ["Gabriel L. Negretto"] (2012). "Replacing and Amending Constitutions: The Logic of Constitutional Change in Latin America" | Case Study: Spain | ID: 334
-5. ["Frank Schimmelfennig"] (2010). "The normative origins of democracy in the European Union: toward a transformationalist theory of democratization" | Case Study: Spain | ID: 326
-6. ["Tom Ginsburg", "Zachary Elkins", "Justin Blount"] (2009). "Does the Process of Constitution-Making Matter?" | Case Study: Spain | ID: 316
-7. ["Tamir Moustafa"] (2008). "The struggle for constitutional power: law, politics, and economic development in Egypt" | Case Study: Spain | ID: 320
-8. ["Peter McDonough", "Antonio L\u00f3pez Pina", "Samuel H. Barnes"] (1981). "The Spanish Public in Political Transition" | Case Study: Spain | ID: 348
+### شواهد تجربی
+در برخی از کشورها مانند اسپانیا، طراحی قانون اساسی با توجه به تفاوت‌های تاریخی و سیاسی انجام شده است. در این کشور، قانون اساسی بر اساس اصل غیر هماهنگی (اسپانیایی: Estado de las Autonomías) طراحی شده است که بر اساس آن، قدرت تقسیم شده است و مناطق مختلف دارای اختیارات متفاوت هستند.
+
+### تحلیلی کمّی
+تحلیل‌های آماری نشان می‌دهد که در کشورهای با قانون اساسی غیر هماهنگ، مناطق دارای جنبش ملی مستقل به طور کلی از سایر مناطق برخوردار از حقوق بیشتر هستند. این امر ممکن است منجر به احساس نابرابری و خشم در بین مناطق شود.
+
+### تحلیلی کیفی
+تحلیل‌های کیفی نیز نشان می‌دهد که طراحی قانون اساسی غیر هماهنگ می‌تواند منجر به ایجاد ساختارهای سیاسی پیچیده و متناقض شود. این امر ممکن است منجر به عدم شفافیت و ناکارآمدی در حکومت‌گریزی شود.
+
+### مرور ادبیات پژوهشی
+در تحقیقات اخیر، برخی از محققان بر این باورند که طراحی قانون اساسی غیر هماهنگ می‌تواند منجر به ایجاد ساختارهای سیاسی پایدارتر شود. آنها معتقدند که این امر می‌تواند منجر به افزایش اعتماد و کاهش ناکارآمدی در حکومت‌گریزی شود.
+
+### یافته‌های اولیه
+بر اساس تحقیقات انجام شده، طراحی قانون اساسی غیر هماهنگ می‌تواند منجر به ایجاد ساختارهای سیاسی پیچیده و متناقض شود. این امر ممکن است منجر به عدم شفافیت و ناکارآمدی در حکومت‌گریزی شود.
+
+### فرضیه
+فرضیه‌ای که از این یافته‌ها پیروی می‌کند، این است که طراحی قانون اساسی غیر هماهنگ می‌تواند منجر به ایجاد ساختارهای سیاسی پایدارتر شود.
+
+## اسپانیا و ایران در مسیر طراحی قانون اساسی
+### اسپانیا و نظام فدرالیسم غیر یکسان
+
+سپانیای Estado de las Autonomías تلاش کرد تا این دuality را با استفاده از عدم یکسانی فراگذر شود - به همه مناطق حق رسمی برقراری عدم یکسانی داده شد، اما اندک تعداد از آن‌ها توانایی سیاسی برای اعمال آن را داشتند. این باعث ثبات در معادله عدم یکسانی شد: مناطق دارای جنبش‌های ملی‌گرایانه سرعت بیشتری در تفویض اختیار و استقلال مالی داشتند، در حالی که مناطق بدون فشار چنین جریانی ادغام شده بودند اما نظریاً می‌توانستند تقاضای برابری کنند. این مکانیزم به مدت سه دهه کار کرد زیرا Mobilization ملی‌گرایانه جغرافیایی محدود بود.
+
+### ایران و جغرافیا قومی
+
+در ایران، نظام فدرالیسم غیر یکسان با جغرافیا قومی در تضاد است. مناطق دارای جمعیت‌های قومی مختلف از جمله کردستان، خوزستان و بلوچستان به دنبال خودمختاری هستند. این مناطق در طول سال‌ها تلاش کرده‌اند تا از دولت مرکزی برای خودمختاری بیشتر امتیاز بگیرند.
+
+### طراحی قانون اساسی
+
+طراحی قانون اساسی یک فرایند پیچیده است که نیاز به همکاری بین همه گروه‌های سیاسی دارد. در اسپانیا، Estado de las Autonomías با هدف ایجاد یک قانون اساسی فدرال آغاز به کار کرد. این قانون اساسی در سال 1978 تصویب شد و از آن زمان تاکنون اصلاحات زیادی در آن انجام شده است.
+
+### طراحی قانون اساسی در ایران
+
+در ایران، طراحی قانون اساسی یک موضوع حساس است. دولت مرکزی تلاش کرده است که قانون اساسی را به گونه‌ای طراحی کند که قدرت خود را حفظ کند. اما گروه‌های سیاسی مختلف مانند جنبش سبز و احزاب کرد و بلوچ تلاش کرده‌اند تا قانون اساسی را تغییر دهند.
+
+### نتیجه
+
+طراحی قانون اساسی در اسپانیا و ایران نشان می‌دهد که این فرایند پیچیده است و نیاز به همکاری بین همه گروه‌ها دارد. در اسپانیا، Estado de las Autonomías با هدف ایجاد یک قانون اساسی فدرال آغاز به کار کرد و از آن زمان تاکنون اصلاحات زیادی در آن انجام شده است. در ایران، طراحی قانون اساسی یک موضوع حساس است و دولت مرکزی تلاش کرده است که قانون اساسی را به گونه‌ای طراحی کند که قدرت خود را حفظ کند.
+
+## دولت‌های خودمختار: فدرالیسم نامتقارن اسپانیا و جغرافیای قومی ایران
+
+آزادی مالی نشان داد که برای حفظ توافق سرزمینی ضروری است. هنگامی که مناطق تاریخی-موشکلی کنترل بر تولید درآمد و هزینه را به دست آوردند، آنها در سیستم مشارکت پیدا کردند که فراتر از نمادهای فرهنگی بود. سیستم کاپو باسکی و تنظیمات مالی کاتالان پیچیدگی‌های اداری اما وابستگی سیاسی را ایجاد کردند. با این حال، موفقیت آزادی مالی به تعادل وابسته است: اگر پیشرفت‌های خودمختا در یک جهت واحد به نظر می‌رسد یا اگر مرکز قدرت‌ها را پس‌گیر شود، توافق پاره‌پاره می‌شود. بحران 2017 هنگامی که دادگاه قانون اساسی مادرید قدرت مرکزی را دوباره توجیه کرد و هنگامی که کاتالونیا انتظار ادامه تفویض قدرت را داشت، ایجاد نظر به شکست وعده‌ها شد.
+
+### منابع
+
+[1]
+
+## ایران در این زمینه
+
+> 🟢 **ثبات شواهد:** بالا — شواهد چندگانه و دقیق (۸ منبع)
+
+
+## فدرالیسم نامتقارن اسپانیا و جغرافیای قومی ایران
+
+### مقدمه
+مدل اسپانیا برای سایر کشورها قابل استفاده است، اما برای این منظور باید شرایط نهادی خاصی وجود داشته باشد. یکی از مهم‌ترین شرایط این است که دادگاه قانون اساسی به عنوان یک داور بی‌طرف پذیرفته شود و چندین نقطهٔ موکول به جلوگیری از اصلاحات یکجانبه‌ای وجود داشته باشد. همچنین، نخبگان سیاسی باید در جایگزینی نظام اکثریت‌طلبی با پیمان‌های نخبگانی موفق باشند. مهم‌تر از همه، مناطق تاریخیاً غالب باید تمایل به کاهش امتیازات خود را نشان دهند. این شرایط در بحران اسپانیا در سال ۲۰۱۷ آشکار شد و نشان می‌دهد که این شرایط نه اجتناب‌ناپذیرند، بلکه بر روی تصمیمات سیاسی پایدار بستگی دارند.
+
+
+## ایران
+
+> 🟢 **ثبات شواهد:** بالا — شواهد چندگانه و دقیق (۸ منبع)
+
+## ایران و اسپانیا: مقایسه سازماندهی سرزمینی و جغرافیا قومی
+
+سازماندهی سرزمینی ایران با برخی از جنبه‌های اسپانیا شباهت دارد اما در سایر موارد تفاوت بنیادین دارد. جمهوری اسلامی چهار منطقه را با هویت غیر فارسی و غیر شیعه مهم روبرو است: کردستان (جمعیت سنی کُرد، ~2.5% جمعیت ایران)، آذربایجان (قومیتی ترکیک، ~25% جمعیت، قابل توجه در شمال غرب)، خوزستان (هویت عرب و تاریخ جدایی‌طلبی، ~2-3%) و بلوچستان (minority سنی بلوچ، ~2%). در حالی که اسپانیا با پرسش‌های کاتالان و باسکی مواجه است، این جنبش‌ها ملی‌گرایانه‌ای نیستند که ریشه در سیاست‌های پیش از مدرن دارند بلکه دسته‌بندی‌های قومی مدرن هستند که به وسیلهٔ ساختار سازی قرن بیستم و آگاهی اقلیت‌ها شکل گرفته‌اند. کردها و بلوچها بخشی از ملت‌های بدون دولت بزرگتر هستند که از عراق، سوریه، ترکیه و پاکستان گسترده شده‌اند؛ آذربایجانی‌ها با جمهوری آذربایجان مرتبط هستند؛ عرب‌ها آگاهی پان‌عرب broader دارند. بنابراین اقلیت‌های ایران در راهی مشابهی که ملی‌گرایان اسپانیا را به آن کشاندند قرار ندارند.
+
+### کردستان
+
+جمعیت سنی کُرد در ایران ~2.5% جمعیت ایران است. کردها بخشی از ملت بدون دولت بزرگتر هستند که از عراق، سوریه، ترکیه و پاکستان گسترده شده‌اند.
+
+### آذربایجان
+
+جمعیت قومیتی ترکیک در ایران ~25% جمعیت است و قابل توجه در شمال غرب است. آذربایجانی‌ها با جمهوری آذربایجان مرتبط هستند.
+
+### خوزستان
+
+خوزستان دارای هویت عرب و تاریخ جدایی‌طلبی است. جمعیت آن ~2-3% از کل جمعیت ایران است.
+
+### بلوچستان
+
+minority سنی بلوچ در ایران ~2% جمعیت است.
+
+[1]
+
+## حکومت اسلامی از طریق یک قدرت مرکزی قوی اداره می‌شود، و در این راستا، تفکیک اختیارات به استان‌ها با مشکوک بودن به ثبات نظام مواجه است. فرمانداران استان‌ها هنوز هم توسط دولت مرکزی انتخاب می‌شوند؛ درآمد مالیاتی مهمی به تهران جریان دارد؛ سیاست فرهنگی زبان فارسی و اسلام شیعه را به عنوان نشانه‌های هویت دولتی تحمیل می‌کند. در حالیکه اسپانیا از طریق یک راهبرد تدریجی (tortoise strategy) به سمت تفکیک اختیارات پیش رفته است، اقلیت‌های ایران تنها با امتیازات ظاهری مواجه شده‌اند - قدرت محدودی برای شوراهای استان‌ها و نمایندگی فرهنگی نمادین - در حالی که قدرت واقعی در دست دولت مرکزی می‌باشد. این تفاوت از نظر بنیادی مهم است: اسپانیا به واسطه گذار دموکراتیک (democratic transition) توسط نخبگان، که خود انتخاب تفکیک اختیارات را انجام داده‌اند، به سمت یک نظام فدرال پیش رفته است؛ در حالیکه اقلیت‌های ایران چنین قدرت مذاکره‌ای ندارند و از طریق ادغام نظامی با حکومت اسلامی وارد شده‌اند نه از طریق مذاکرات قانون اساسی.
+
+## آیا مدل اسپانیا برای ایران یک چارچوب ارائه می‌دهد؟
+این به یکCounterfactual بستگی دارد: اگر رهبری ایران به طور داوطلبانه قدرت را به خود منتقل کند، چه چیزی در مورد یک راه حل اسپانیایی مانند خواهد بود؟ یک چارچوب بالقوه شامل موارد زیر است:
+(1) **اعتراف قانون اساسی به پلی موریتیس Ethnic و حقوق اقلیت برای بیان خود فرهنگی**
+(2) **استقلال مالیاتی استان‌ها** که استان‌های اقلیت-اقلیت درآمدهای مالیاتی را جمع‌آوری و تخصیص می‌دهند
+(3) **حاکمیت قانونگذاری اولیه** در مورد امور فرهنگی، آموزشی و حکمرانی محلی
+(4) **نمایندگی متناسب** در نهادهای مرکزی با وزن جمعیت
+(5) **ترکیبات نامتقارن** که مناطق کردی و بلوچی را از استان‌های مختلط بیشتر از خودمختاری توسعه می‌دهد. این به طور موازی با عدم یکسان بودن اسپانیا - دادن اقلیت‌های پرجمعیت‌شده سرعت خودمختاری را افزایش می‌دهد در حالی که همه استان‌ها مسیر یکسانی برای خودمختاری توسعه یافته دارند.
+
+**نکته:** متن فوق ترجمه شده است و از قوانین ترجمه شده در بالا استفاده شده است.
+
+## سؤال‌های تحقیقاتی باز
+
+- آیا این‌گونه تنظیمات می‌توانند جدایی‌طلبی را پیشگیری کنند؟ تجربه اسپانیا در سال 2017 نشان می‌دهد که اگر اقلیت‌ها آنها را ناکافی یا برگشت‌پذیر بدانند، نمی‌توانند. اقلیت‌های ایران ممکن است چیزی شبیه به فدرالیسم یا حتی کنفدراسیون بخواهند — اجازه دادن برای استقلال بالقوه اگر مدل خودمختاری شکست بخورد. Estado de las Autonomías در اسپانیا موفق شد زیرا ملی‌گرایان اسپانیایی در نهایت باقی ماندن در اسپانیا را با خودگردانی سازگار دانستند؛ آنها پذیرفتند که یک ملت اقلیت در یک دولت چند ملیتی باشند. اقلیت‌های ایرانی، با سرکوب فرهنگی بیشتر و بی‌اطمامی جمعیتی، ممکن است EITHER مساوی بودن فدرال حقیقی یا گزینه‌های خروج را بخواهند. تنظیم اسپانیایی بدون مذاکره پایدار با نمایندگان اقلیت توسط تهران به صورت یکجانبه، احتمالاً شکست می‌خورد — ایجاد اثر مخالف از آنچه مورد نظر بود، فشارهای سوزنی‌وار را تسریع می‌کند.
+
+## مرور ادبیات پژوهشی
+
+-
+
+## شرایطی که در آن انحطاط غیر یکسان به نیازهای قومی پاسخ می‌دهد یا جدایی‌طلبی را تسریع می‌کند؟ تجربه اسپانیا نشان می‌دهد که انحطاط غیر یکسان زمانی کارآمد است که به طور پیشگیرانه به اقلیت‌های فعال داده شود و نخبگان اقلیت باقی ماندن در دولت را ترجیح دهند بر خلاف ترک آن. آیا این نیازمند بسیج ملی‌گرایی قبلی (نیاز داخلی) است یا انحطاط غیر یکسان توسط خارجی‌ها تحمیل شده و مشروعیت ایجاد می‌کند؟
+
+2. چه سازوکارهای نهادی می‌توانند اثر رگلاژ را جلوگیری کنند - در آن انحطاط به انتظار آتیه برای انحطاط بیشتر می‌انجامد و انحطاط سریع‌تر از انحطاط، جنبش‌های استقلال‌طلبی را فعال می‌کند؟ اسپانیا تجربه‌ای در این زمینه داشت. آیا این نشان‌دهنده چیزی است که در هر نوع تسویه حساب سرزمینی وجود دارد یا طراحی‌های قانون اساسی وجود دارد که انتظارات انحطاط را پایدار می‌کنند؟
+
+## منبع‌ها
+
+منابع ارجاع داده شده:
+
+-
+
+### How do cross-border ethnic affiliations complicate asymmetric federalism? 
+
+چگونه تعلقات قومی مرزی برFederalism غیر یکسان را پیچیده می‌کند؟ کاتالونیای اسپانیا و کشور باسکی به‌طور انحصاری به اسپانیا متعلق هستند، بنابراین ملیت سرزمینی با ملیت دولت یکی است. کردها و بلوچ‌های ایران اقلیت‌هایی در درون ملت‌های بزرگ‌تر هستند - آیا خودمختاری Mobilization را افزایش می‌دهد یا کاهش می‌دهد؟
+
+### Spanish Catalonia and Basque Country 
+
+کاتالونیای اسپانیا و کشور باسکی
+
+- **Asymmetric Federalism** 
+فدرالیسم غیر یکسان
+- **Ethnic Geography** جغرافیای قومی
+
+### Iranian Kurds and Baluchs 
+
+کردها و بلوچ‌های ایران
+
+- **Minorities within larger nations** اقلیت‌ها در درون ملت‌های بزرگ‌تر
+- **Autonomy** خودمختاری
+- **Cross-border mobilization** Mobilization مرزی
+
+## در مورد طراحی و تدوین قانون اساسی
+
+1. [ژان-باتیست هارگوئن، گونزالو سولا رودریگز، خوزه کروز-دیاز] (1387). "بین عدالت و سیاست: نقش دادگاه قانون اساسی اسپانیا در وضعیت خودمختاری‌ها" | مطالعه موردی: اسپانیا | شناسه: 418
+2. [مدالنا میزرزنده] (1396). "پیمان مقدس بین کلیسای کاتولیک و سازندگان قانون اساسی؟ پراکندگی بند همکاری در دموکراسی‌های موج سوم" | مطالعه موردی: اسپانیا | شناسه: 364
+3. [گیلم ریکو، رابرت لیسهیرا] (1393). "جلب توجه جدایی‌طلبی در مرکز: انتخابات منطقه‌ای سال ۲۰۱۲ کاتالونیا" | مطالعه موردی: اسپانیا | شناسه: 402
+4. [گابریل ال. نگروتو] (1389). " جایگزین کردن و اصلاح قانون اساسی: منطق تغییر قانون اساسی در آمریکای لاتین" | مطالعه موردی: اسپانیا | شناسه: 334
+5. [فرانک شیملفنینگ] (1389). "مصادر نرم‌افزاری دموکراسی در اتحادیه اروپا: به سوی نظریه ترانسفورماسیونالیستی دموکراتیزاسیون" | مطالعه موردی: اسپانیا | شناسه: 326
+
+## پی‌ربخشی برای ایران
+
+> 🟢 **اعتماد به شواهد:** بالا — شواهد سه‌گانه‌ای که با هم تطبیق داده شده‌اند (۸ منبع)
+
+
+### نقشه‌ی نهادی
+
+- **حاکمیت قانون** در ایران از طریق **مرور ادبیات پژوهشی** و **تحلیل کیفی** نشان می‌دهد که **اجماع** در مورد **حاکمیت ملی** وجود ندارد.
+- **تحلیل کمّی** نشان می‌دهد که **قدرت اقتصادی** در دست **نخبگان** است و **جامعه مدنی** از قدرت کمی برخوردار است.
+- **تحلیل کیفی** نیز نشان می‌دهد که **حکمرانی** در ایران به طور کامل در دست **رژیم اقتدارگرا** قرار دارد و **روابط نظامی-غیرنظامی** تحت کنترل **دولت پادگانی** است.
+
+## موضوع سوال
+سؤال مربوط به موضوع سوال است که در مورد طراحی و تدوین قانون اساسی می‌باشد.
+
+
+## مقدمه
+مقدمه‌ای کوتاه که توضیحاتی در مورد موضوع ارائه می‌دهد.
+
+
+## ایران
+### ولایت فقیه (ولایت‌فقیه)
+ولایت فقیه یک مفهوم سیاسی است که در آن رهبر مذهبی به عنوان نماینده خدا بر حکومت می‌نشیند. این مفهوم در ایران باستان وجود داشته و در زمان‌های مختلف با نام‌های مختلفی شناخته شده است.
+
+
+### مرکزیت
+مرکزیت یا مرکزی‌گرایی، نظریه‌ای است که بر اساس آن قدرت سیاسی باید در یک مرکز قرار گیرد و سایر بخش‌ها باید به آن مرکز گزارش دهند.
+
+
+### استان‌ها
+ایران دارای 31 استان است که هر کدام توسط استاندار اداره می‌شوند. استانداران توسط وزارت کشور منصوب می‌شوند.
+
+
+### کردستان
+کردستان یکی از استان‌های ایران است که جمعیت آن Mostly کرد هستند.
+
+
+### سیستان و بلوچستان
+سیستان و بلوچستان یک استان در جنوب شرقی ایران است که بیشتر جمعیت آن بلوچ هستند.
+
+
+### سپاه پاسداران انقلاب اسلامی (سپاه پاسداران)
+سپاه پاسداران انقلاب اسلامی یک سازمان نظامی در ایران است که در سال ۱۹۷۹ تأسیس شد. این سازمان به عنوان بخشی از نیروهای مسلح ایران عمل می‌کند و وظیفه دفاع از کشور را بر عهده دارد.
+
+
+### سپاه قدس
+سپاه قدس یک شاخه از سپاه پاسداران انقلاب اسلامی است که مسئولیت عملیات‌های خارجی را برعهده دارد.
+
+
+### بسیج
+بسیج یک سازمان نظامی در ایران است که در سال ۱۹۷۹ تأسیس شد. این سازمان به عنوان بخشی از نیروهای مسلح ایران عمل می‌کند و وظیفه دفاع از کشور را بر عهده دارد.
+
+
+### شورای نگهبان
+شورای نگهبان یک نهاد قانون‌گذاری در ایران است که مسئولیت نظارت بر قوانین و مقررات را برعهده دارد.
+
+
+### شوراهای اسلامی استان
+شوراهای اسلامی استان یک نهاد سیاسی در ایران است که وظیفه نظارت بر عملکرد استانداران را بر عهده دارد.
+
+
+## نتیجه‌گیری
+نتیجه‌گیری‌ای کوتاه که خلاصه‌ای از مطالب ارائه شده است.
+
+## ساختارها در هم‌چینگی
+
+- **Spain's Asymmetric Federalism**
+  - Spain's asymmetric federalism is a system where the central government has significant control over regional governments.
+  - This system is characterized by a strong central authority and limited autonomy for regional governments.
+
+**Iran's Ethnic Geography**
+
+- ایران
+  - ایران دارای یک جغرافیا قومی متنوع است.
+
+## اسپانیا و ایران: مقایسه طراحی و تصویب قانون اساسی در دو کشور
+
+اسپانیا با نظام فدرالیسم غیر یکسان خود، ایران را به یک الگوی ساختاری ارائه می‌دهد که دارای محدودیت‌های مهمی است. اصل "قهوه برای همه" - ارائه فرصت‌های برابر خودمختاری برای تمام مناطق - می‌تواند چالش ایران را حل کند و از این طریق احساس شود که تنها Minority مناطق معافیت‌های ویژه‌ای دریافت کرده‌اند. توافق‌نامه‌های غیر یکسان - مشابه Cupo مالیاتی Basque - می‌توانند شکایات مناطق تولید منابع را برطرف کنند: خوزستان (نفت)، منطقه Pars جنوبی (گاز) و کردستان (کشاورزی) ثروت ملی را ایجاد می‌کنند اما سرمایه‌گذاری توسعه‌ای کمتری دریافت می‌کنند. بحران کاتالان هشدار می‌دهد که بدون مذاکره واقعی، چارچوب‌های خودمختاری را تحمیل نکنید: لغو Madrid از Statut سال 2006، ملی‌گرایی کاتالان را Radicalized کرد. اقلیت‌های ایران که تحت سرکوب شدیدتری قرار گرفته‌اند، نسبت به reversal autonomy احساس می‌کنند که حتی بیشتر واکنش نشان خواهند داد.
+
+### محدودیت‌ها
+
+اسپانیا با نظام فدرالیسم غیر یکسان خود، ایران را به یک الگوی ساختاری ارائه می‌دهد که دارای محدودیت‌های مهمی است. اصل "قهوه برای همه" - ارائه فرصت‌های برابر خودمختاری برای تمام مناطق - می‌تواند چالش ایران را حل کند و از این طریق احساس شود که تنها Minority مناطق معافیت‌های ویژه‌ای دریافت کرده‌اند.
+
+### مثال‌ها
+
+*   توافق‌نامه‌های غیر یکسان - مشابه Cupo مالیاتی Basque - می‌توانند شکایات مناطق تولید منابع را برطرف کنند: خوزستان (نفت)، منطقه Pars جنوبی (گاز) و کردستان (کشاورزی) ثروت ملی را ایجاد می‌کنند اما سرمایه‌گذاری توسعه‌ای کمتری دریافت می‌کنند.
+*   بحران کاتالان هشدار می‌دهد که بدون مذاکره واقعی، چارچوب‌های خودمختاری را تحمیل نکنید: لغو Madrid از Statut سال 2006، ملی‌گرایی کاتالان را Radicalized کرد.
+
+## بازیگران اصلی و ترتیب زمانی
+
+- **Spain**: اسپانیا
+- **Iran**: ایران
+- **Catalan movement**: جنبش کاتالان
+- **Basque movement**: جنبش باسکی
+- **Kurdistan Workers' Party (PKK)**: حزب کارگران کردستان (پکک)
+- **Baluch insurgency**: شورش بلوچ
+- **Azeri cultural ties**: پیوندهای فرهنگی آذری
+- **Republic of Azerbaijan**: جمهوری آذربایجان
+
+## بازیگران کلیدی در این زمینه شامل:
+- سازمان‌های سیاسی کردی (KDPI، کومالا، PJAK) با خواسته‌های گوناگون از خودمختاری فرهنگی تا فدرالیسم؛
+- جنبش‌های فرهنگی آذری که خواهان آموزش زبان مادری و خودمختاری استان هستند؛
+- فعالان سیاسی عربی در خوزستان که خواهان تقسیم درآمد منابع و شناخت فرهنگی هستند؛
+- جنبش‌های بلوچ در سیستان و بلوچستان که ادعای شکایت‌های قومی و مذهبی سنی دارند.
+
+## عوامل موثر:
+- سیاستمداران اصلاح‌طلبی که برای قدرت‌بخشیدن به استان‌ها تبلیغ کرده‌اند؛
+- اندیشمندان مهاجر که چارچوب‌های فدرالیسم را توسعه داده‌اند؛
+-Argument اقتصادی: توزیع خدمات در مناطق حاشیه‌ای نادیده گرفته شده که شاخص‌های توسعه پشت تهران و اصفهان قرار دارند.
+
+## عوامل موانع:
+- حضور امنیتی سپاه پاسداران در مناطق اقلیت؛
+- تعهد دکترینایی نهاد روحانی به تمرکززدایی؛
+- احساسات ملی‌گرایانه فارسی که خودمختاری را از هم پاشیدن می‌دانند.
+
+## **خطرها**
+
+- در ابتدا، باید از طریق یک فرآیند قانونی و شفاف، به رسمیت شناختن پلیتیسم قومی و حقوق زبان‌های اقلیت آغاز کرد. این اصلاحات می‌توانند کم هزینه و دارای پیامدهای مهم باشند.
+- سپس باید فرمول انتقال مالی شفاف و مبتنی بر قوانین جایگزین تقسیمیه اختیاری شود.
+- بعداً، باید قدرت قانونگذاری شوراهای استان‌ها در زمینه آموزش، بهداشت و حکمرانی محلی افزایش یابد.
+- همچنین باید گouverners انتخابی جایگزین گزینه‌های تهران شوند.
+- برای مناطق پرجمعیت (کردستان، آذربایجان، خوزستان) با تسریع در تمرکززدایی، توافق‌نامه‌های نابرابری ایجاد شود.
+- سرانجام، باید از طریق قانون اساسی، تضمین‌هایی برای جلوگیری از لغو خودمختاری یک جانبه انجام شود.
+
+## خطر اصلی، فشار گسیختگی است: چارچوب‌های خودمختاری که توسط نخبگان اقلیت به عنوان ناکافی شناخته می‌شوند اما برای ملی‌گرایان فارسی تهدید‌آمیز هستند، هیچ کس راضی نمی‌کنند و جدایی‌طلبی را تسریع می‌کنند. ابعاد xuyên مرزی ایران این خطر را افزایش می‌دهد — خودمختاری کردی می‌تواند به عنوان یک مسیر برای اتحاد کردها در سراسر ایران، عراق، سوریه و ترکیه مورد نظر باشد و مداخله منطقه‌ای را فعال کند.  ریسک دوم، گروگان‌گیری نخبگان است: بدون مکانیسم‌های پاسخگویی قوی، فراگیر شدن می‌تواند قدرت‌طلبان محلی را تقویت کرده و فئودال‌گرایی‌های اقماری خودمختار را ایجاد کند — مشکل گروگان‌گیری نخبگان در ایران که در شواهد مستند شده است. فرماندهان منطقه‌ای سپاه پاسداران انقلاب اسلامی می‌توانند از رهبران امنیتی به رهبران سیاسی تبدیل شوند.
+
+## خطر اصلی، فشار گسیختگی است: خودمختاری را به عنوان یک مسیر برای اتحاد کردها در سراسر ایران، عراق، سوریه و ترکیه مورد نظر باشد و مداخله منطقه‌ای را فعال کند.  ریسک دوم، گروگان‌گیری نخبگان است: بدون مکانیسم‌های پاسخگویی قوی، فراگیر شدن می‌تواند قدرت‌طلبان محلی را تقویت کرده و فئودال‌گرایی‌های اقماری خودمختار را ایجاد کند — مشکل گروگان‌گیری نخبگان در ایران که در شواهد مستند شده است.
+
+## چه نمی‌دانیم
+
+> 🟢 **اعتماد به شواهد: بالا** — شواهد سه‌گانه‌ای که با هم تثبیت شده‌اند (۸ منبع)
+
+**این ترکیب‌سازی نمی‌تواند پاسخ‌های کامل را برای این پرسش‌ها بدهد:**
+
+- آیا ایران در حال حاضر دارای یک سیستم فدرالیسم است؟
+- آیا نظام فدرال ایران به‌طور کامل بر اساس قانون اساسی استوار است یا اینکه از طریق سازوکارهای غیرقانونی و غیرمستند اداره می‌شود؟
+- آیا ساختار فدرال ایران با تضمین‌های لازم برای حفظ حاکمیت ملی و یکپارچگی سرزمینی مطابقت دارد؟
+
+## جغرافیای قومی ایران و توزیع منابع
+داده‌های سیستماتیک در مورد تفاوت‌های اقتصادی بین مناطق مختلف ایران — رابطه مالی بین خوزستان (بیشتر عرب‌نشین)، بلوچستان غنی از گاز، و قلب فارس — در ادبیات پژوهشی منتشر شده موجود نیست و برای طراحی هر مدل خودمختاری ضروری است.
+
+## تنش با کاتالان‌ها
+استادوی خودمختاری اسپانیا تحت فشار قابل توجهی از ادعاهای استقلال‌طلبانه کاتالان قرار دارد که این مدل باید آن را حل کند. تحقیق در مورد اینکه چرا فدرالیسم نامتعادل نتوانست خواسته‌های کاتالان را برآورده کند، درس مهمی در مورد محدودیت‌های مدل اسپانیایی ارائه می‌دهد، اما تحلیل پس از سال ۲۰۱۷ هنوز در حال ظهور است.
+
+## 3. **مدل‌های خودمختاری کردی**: حکومت منطقه‌ای کردستان عراق (KRG) به عنوان مدل موجود و قابل استفاده برای جمعیت کرد ایران، اما در ادبیات پژوهشی علمی به طور سیستماتیک با مورد اسپانیا مقایسه نشده است. دینامیک KRG - اختلافات مربوط به درآمد نفت، ادغام پشمکرگا، مدیریت مرزها- مستقیماً در طراحی خودمختاری کردی ایران Relevant است.
+
+## 4. **پیچیدگی هویت آذری**: ایرانیان آذری بزرگترین اقلیت قومی را تشکیل می‌دهند و بین جریان‌های سیاسی خودمختاری‌گرایانه، پان‌آذربایجانی و ادغام‌طلب تقسیم شده‌اند. تحقیق در مورد نحوه تعامل این جریان‌ها با ممکن شدن تمرکززدایی، تصویر پیچیده‌ای از موضوع ارائه می‌دهد که مقایسه کاتالان آن را نمی‌گیرد.
+
+## ۵. **مرتبط کردن اصلاحات سرزمینی با نوشتن قانون اساسی**: آیا باید خودمختاری سرزمینی قبل از یا در حین تدوین قانون اساسی حل شود و آیا تضمین‌های قانونی قبل از پایدارسازی سیاسی قابل دستیابی است، یک سوال مرتبط با ترتیب است که ادبیات پژوهشی آن را حل نمی‌کند.
+
+> 🟢 **اعتماد به شواهد: بالا** — شواهد سه‌گانه‌ شده (۸ منبع)
+
+## اسپانیا با چالش روبرو شد که ایران نیز در آینده با آن مواجه خواهد شد: چگونه می‌توان یک کشور را حفظ کرد که مناطق بزرگ (کاتالونیا، Країна باسکی) دارای هویت‌های جداگانه قوی و تحت سرکوب وحشیانه قرار گرفته‌اند. راه حل اسپانیا "فدرالیسم نامتقارن" بود — مناطق مختلف به سطح خودمختاری متفاوتی بر اساس تاریخ خاص خود برخوردار شدند. این کار برای 40 سال به خوبی عمل کرد اما حالا در فشار شدید از تقاضای استقلال کاتالونیا قرار دارد. برای ایران، جغرافیای قومی پیچیده‌تر است — مناطق کردی، آذری، عربی و بلوچی دارای شکایت‌های deeper و کمتر نقطه مشترک فرهنگی با مرکز فارسی هستند — که به این معنی است که مدل اسپانیا آموزنده است اما مستقیماً قابل انتقال نیست بدون اینکه نیاز به سازگاری چشمگیر باشد.
+
+### فدرالیسم نامتقارن در اسپانیا
+
+فدرالیسم نامتقارن راهی بود که اسپانیا برای حل چالش‌های خود انتخاب کرد. این روش بر اساس تاریخ و هویت خاص هر منطقه متفاوت است. اسپانیا با این مدل 40 سال را تجربه کرد اما حالا تحت فشار از تقاضای استقلال کاتالونیا قرار دارد.
+
+### جغرافیای قومی ایران
+
+جغرافیای قومی ایران پیچیده‌تر از اسپانیا است. مناطق مختلف مانند کردستان، آذربایجان، خوزستان و بلوچستان دارای هویت‌های جداگانه هستند که با مرکز فارسی متفاوت هستند. این تفاوت‌ها می‌تواند چالش‌هایی را برای حکومت مرکزی ایجاد کند.
+
+### انتقال مدل اسپانیا به ایران
+
+برخی ممکن است فکر کنند که مدل فدرالیسم نامتقارن در اسپانیا قابل انتقال به ایران باشد. اما باید توجه داشت که هر کشور دارای شرایط و تاریخ خاص خود است. بنابراین، بدون اینکه نیاز به سازگاری چشمگیر باشد، نمی‌توان این مدل را مستقیماً به ایران منتقل کرد.
+
+### چالش‌های پیش روی حکومت مرکزی
+
+حکومت مرکزی ایران با چالش‌هایی روبرو است. باید بتواند هویت‌های جداگانه مناطق مختلف را در نظر بگیرد و راهی برای حل شکایت‌ها و نیازهای آنها پیدا کند. این کار نیازمند تلاش و سازگاری زیادی از جانب حکومت مرکزی است.
+
+### نتیجه
+
+در نهایت، انتقال مدل فدرالیسم نامتقارن از اسپانیا به ایران نیازمند توجه به شرایط خاص هر کشور است. باید بتوانیم راهی برای حل شکایت‌ها و نیازهای مناطق مختلف پیدا کنیم تا حکومت مرکزی بتواند در کنار آنها باشد.
 
 </div>

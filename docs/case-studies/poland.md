@@ -18,6 +18,7 @@
 ## مقالات پژوهشی مرتبط
 
 - [NGO Sustainability After Revolution: Poland's Civil Society Funding Crisis and Iran's Associational Deficit](../synthesis/civil-society-development/ngo-sustainability-after-revolution-polands-civil-society-funding-crisis-and-ira.md)
+- [Two Paths to Civilian Control: Poland's NATO Integration vs. Indonesia's Autonomous Reform — Lessons for Iran's IRGC](../synthesis/civil-military-relations-and-security-sector-reform/two-paths-to-civilian-control-polands-nato-integration-vs-indonesias-autonomous-.md)
 - [Electoral Engineering After Authoritarianism: Poland, South Korea, and Lessons for Iran](../synthesis/electoral-system-design-and-implementation/electoral-engineering-after-authoritarianism-poland-south-korea-and-lessons-for-.md)
 - [Building Judicial Independence from Scratch: Poland's Cautionary Tale and Iran's Theocratic Courts](../synthesis/judicial-independence-and-rule-of-law/building-judicial-independence-from-scratch-polands-cautionary-tale-and-irans-th.md)
 - [Islamic Law, Constitutional Courts, and the Judicial Independence Puzzle: Iran, Spain, and Poland](../synthesis/judicial-independence-and-rule-of-law/islamic-law-constitutional-courts-and-the-judicial-independence-puzzle-iran-spai.md)

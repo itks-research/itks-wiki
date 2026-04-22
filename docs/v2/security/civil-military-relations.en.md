@@ -10,23 +10,17 @@
 
 Military forces that build large economic empires — like Iran's IRGC, which controls an estimated 10-40% of Iran's economy — have never voluntarily given up those businesses in any documented case. Research from Indonesia, Pakistan, and Egypt shows that successful divestment requires legally-binding deadlines enforced by civilian governments with clear political will, combined with financial incentives for military elites. For a future Iranian transition, the IRGC's economic empire represents the single most complex divestment challenge ever documented, made harder by sanctions, deliberate opacity, and the absence of international precedent.
 
-**خلاصه برای خواننده عمومی:** نیروهای نظامی که امپراتوری‌های اقتصادی بزرگ می‌سازند — مانند سپاه پاسداران که تخمین زده می‌شود ۱۰ تا ۴۰ درصد اقتصاد ایران را کنترل می‌کند — هرگز به صورت داوطلبانه از این کسب‌وکارها دست نکشیده‌اند. واگذاری موفق نیازمند زمان‌بندی‌های قانونی اجرایی توسط دولت‌های غیرنظامی همراه با انگیزه‌های مالی برای نخبگان نظامی است. چالش واگذاری امپراتوری اقتصادی سپاه در گذار آینده ایران از هر مورد مستندی پیچیده‌تر خواهد بود.
-
 ---
 
 ## General Reader Summary
 
 South Korea took over 30 years to make civilian control of the military meaningful after its 1987 democratic transition — and scholars say it still isn't complete. The key lessons for Iran are that removing military officers from top positions is the easy part; the harder challenge is building civilian expertise in defense policy and changing the culture inside military institutions. Iran faces a more complex version of this problem because it has five separate security organizations (regular military, IRGC, Basij, intelligence, police) instead of one unified force.
 
-**خلاصه برای خواننده عمومی:** کره جنوبی بیش از ۳۰ سال طول کشید تا کنترل غیرنظامی ارتش پس از گذار دموکراتیک ۱۹۸۷ واقعی شود — و محققان می‌گویند هنوز کامل نشده است. درس کلیدی برای ایران این است که برکناری افسران نظامی از مناصب عالی آسان‌ترین بخش است؛ چالش سخت‌تر، ایجاد تخصص غیرنظامی در سیاست دفاعی و تغییر فرهنگ داخل نهادهای نظامی است. ایران این مشکل را به شکل پیچیده‌تری دارد زیرا پنج سازمان امنیتی جداگانه دارد به جای یک نیروی یکپارچه.
-
 ---
 
 ## General Reader Summary
 
 Authoritarian leaders build parallel security forces — like Iran's IRGC alongside the regular army — specifically to prevent military coups. Research shows this strategy works: the more fragmented and rivalrous a security apparatus, the harder it is for any single branch to defect during protests. But this same fragmentation also makes transitions more dangerous, because dismantling overlapping security forces without creating a security vacuum is extraordinarily difficult. Iran's five-body security structure is the most elaborate documented case of coup-proofing in the comparative literature.
-
-**خلاصه برای خواننده عمومی:** رهبران اقتدارگرا نیروهای امنیتی موازی — مانند سپاه پاسداران در کنار ارتش — ایجاد می‌کنند تا از کودتا جلوگیری کنند. تحقیقات نشان می‌دهد این استراتژی کار می‌کند: هرچه دستگاه امنیتی چندپارچه‌تر و رقیب‌محورتر باشد، انشقاق هر شاخه در طول اعتراضات دشوارتر می‌شود. اما همین چندپارچگی گذار را خطرناک‌تر می‌کند، زیرا انحلال نیروهای امنیتی همپوشان بدون ایجاد خلاء امنیتی فوق‌العاده دشوار است. ساختار امنیتی پنج‌گانه ایران مستندشده‌ترین نمونه کودتاپیشگیری در ادبیات مقایسه‌ای است.
 
 ---
 

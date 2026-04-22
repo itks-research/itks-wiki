@@ -1,6 +1,6 @@
 <div dir="rtl" markdown>
 
-# The Hawza After Velayat-e Faqih: Seminary Authority, Religious Pluralism, and Post-Theocratic Governance
+# حوزه پس از ولایت فقیه: مرجعیت حوزوی، تکثر دینی و حکمرانی پساتئوکراتیک
 
 <div dir="rtl" markdown>
 

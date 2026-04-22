@@ -1,5 +1,7 @@
 # Libya
 
+Post-2011 state collapse illustrates how armed group proliferation, failed security sector reform, and reconstruction without institutional capacity produce state fragmentation — a key negative case study for Iran's militia integration challenge.
+
 ## At a Glance
 
 | Metric | Value |
@@ -12,6 +14,10 @@
 | Categories | 9 |
 
 [Browse all Libya sources in Explorer](../explorer/?case_study=Libya)
+
+## Related Research Articles
+
+- [Fragmentation or Resilience? What Libya's Collapse and Iraq's Sectarian War Reveal About Iran's Ethnic Fault Lines Under Military Intervention](../synthesis/wartime-fragmentation-and-militia-politics/fragmentation-or-resilience-what-libyas-collapse-and-iraqs-sectarian-war-reveal-.md)
 
 ## Political (91 sources)
 

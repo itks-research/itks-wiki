@@ -1,6 +1,6 @@
 <div dir="rtl" markdown>
 
-## Evidence & Key Findings
+## شواهد و یافته‌های کلیدی
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
 
@@ -10,7 +10,7 @@ Empirical evidence reveals divergent outcomes across resource-rich nations. Succ
 
 The National Iranian Oil Company (NIOC) represents the institutional nexus through which these dynamics operate. Yong's (2013) institutional analysis reveals that NIOC functions not as an autonomous commercial entity but as a site of contestation between multiple power claimants—state bureaucrats, revolutionary guard affiliates, and presidential factional networks. This تسخیر نهادی directly undermines the separation of fiscal authority from political discretion, perpetuating the نفرین منابع mechanism. NIOC's revenues fund both legitimate state functions and parallel security apparatus expenditures, creating what scholars term "rentier state" dynamics where oil income enables حکمرانی without پاسخگویی infrastructure. Venezuela's historical trajectory demonstrates parallel mechanisms: Pérez-Alfonzo's prescient observation that petroleum "was the curse of our land" proved accurate as oil wealth enabled autocratic and kleptocratic حکمرانی while forestalling democratic development (Karl, 1987).
 
-## Cross-Country Patterns
+## الگوهای بین‌کشوری
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
 
@@ -18,7 +18,7 @@ Resource wealth fundamentally alters گذار دموکراتیک dynamics by cre
 
 Sanctions paradoxically create diversification pressures and reduce the fiscal cushion sustaining rentier حکمرانی. Iran's experience shows reduced درآمد نفتی's share of state income, yet simultaneously concentrated power within security-aligned entities (سپاه پاسداران انقلاب اسلامی) controlling alternative revenue streams (Abdelsalam, 2020). This creates a "second-generation" نفرین منابع wherein reduced resource dependency doesn't weaken authoritarianism but crystallizes it around militarized actors controlling non-resource revenues.
 
-## Iran Context
+## بافت ایران
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (6 sources)
 
@@ -28,11 +28,11 @@ Iran's حکمرانی استبدادی has historically depended on درآمد �
 
 Post-transition frameworks must confront institutionalized capture. Restructuring NIOC حکمرانی or establishing sovereign wealth funds—prescriptions functioning in Norway—prove insufficient if security-aligned actors developed alternative revenue dependencies. Effective reform requires simultaneous institutional depoliticization of oil حکمرانی, diversification of state revenue sources to reduce resource dependency, and reintegration of security apparatus within unified fiscal authority subject to legislative oversight. Comparative experience suggests نفرین منابع escape requires foundational democratic institutional reconstruction subordinating all revenue sources—oil and non-oil—to unified fiscal authority and legislative پاسخگویی.
 
-## Open Research Questions
+## پرسش‌های پژوهشی باز
 
 رسیدن به اتفاق فاکسیونی نسبت به قانون‌اساسی یا سازمان نهادی دستاوردی است که ستاره‌برانن و نسخ ترتیب موجودی‌ای اسپانیا بین مینورتی‌های سخت‌گیرانه و حاکمیت‌خواهانه ایجاد کردند. اتفاقات کم‌تر حاسم یا قانون‌اساسی تطبیقی پیش‌بینی‌ای کاهش دادند. ترتیبات رقیب برای ایران منتج از ترتیبات دیگری معاوضه‌ای پیش‌رو دارند.
 
-## Sources
+## منابع
 
 | نویسندگان | سال | عنوان | ارتباط | اعتبار |
 |---------|------|-------|-----------|-------------|

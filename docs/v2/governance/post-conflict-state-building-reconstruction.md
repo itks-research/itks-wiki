@@ -1,12 +1,12 @@
-# Post-Conflict State-Building & Reconstruction
+# دولت‌سازی و بازسازی پس از جنگ
 
 
 
-## Overview
+## نمای کلی
 
 **Post-conflict state-building** involves the reconstruction of political, security, economic, and social institutions following armed conflict. The comparative record across Iraq (2003-present), Afghanistan (2001-2021), Bosnia (1995-present), Kosovo (1999-present), and post-war Germany and Japan reveals divergent outcomes shaped by: the mode of regime termination, the extent of institutional destruction during conflict, the presence of spoiler groups, reconstruction financing structures, and the governance model imposed. The most consistent finding is that state-building fails when security precedes institution-building but institutions fail to deliver services before their social contract window closes — typically 18-36 months post-conflict. The 2026 Iran ceasefire creates a potential state-building window whose durability depends on Islamabad talks outcomes.
 
-## Theoretical Framework
+## چارچوب نظری
 
 **Reconstruction sequencing theory** (Paris 2004): Liberalization before institutionalization (LBI) — moving too quickly to free markets and elections before establishing security and rule of law — consistently produces fragile outcomes. Iraq (2005 elections before security consolidation) entrenched sectarian politics rather than building national coalitions.
 
@@ -16,7 +16,7 @@
 
 **Iran transferability**: Iran's pre-existing state institutions (bureaucracy, judiciary, central bank, universities) are stronger than Iraq's or Afghanistan's. This reduces the institutional void problem but creates the opposite challenge: which institutions to preserve vs. reform. The IRGC's economic empire penetrates institutions in ways that make selective reform politically difficult.
 
-## Iran Analysis
+## تحلیل ایران
 
 **Current relevance — April 2026:** The Islamabad talks will implicitly negotiate the post-conflict reconstruction framework for Iran. Three models are possible:
 

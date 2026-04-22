@@ -1,6 +1,8 @@
-# Iraq
+# عراق
 
 <div dir="rtl" markdown>
+
+تغییر رژیم پس از ۲۰۰۳ درس‌های حیاتی درباره گذار تحمیلی از خارج، شکست بعث‌زدایی، فروپاشی تقسیم قدرت فرقه‌ای، و خطرات انحلال نیروهای امنیتی بدون بازادغام ارائه می‌دهد — مستقیماً مرتبط با سناریوهای پاسخگویی سپاه.
 
 ## نمای کلی
 
@@ -12,6 +14,11 @@
 | دسته‌بندی‌ها | 12 |
 
 [مرور تمام منابع Iraq در کاوشگر](../explorer/?case_study=Iraq)
+
+## مقالات پژوهشی مرتبط
+
+- [De-Ba'athification as Template: What Iraq's Personnel Purge Teaches About De-IRGC-ification](../synthesis/transitional-justice/de-baathification-as-template-what-iraqs-personnel-purge-teaches-about-de-irgc-i.md)
+- [Fragmentation or Resilience? What Libya's Collapse and Iraq's Sectarian War Reveal About Iran's Ethnic Fault Lines Under Military Intervention](../synthesis/wartime-fragmentation-and-militia-politics/fragmentation-or-resilience-what-libyas-collapse-and-iraqs-sectarian-war-reveal-.md)
 
 ## سیاسی (289 منبع)
 
@@ -47,7 +54,7 @@
 - [Water Resource Systems Planning and Management](../explorer/?id=14573) (2017)
 - *...و 64 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Iraq&category=Power-sharing%20mechanisms%20during%20transition%20periods))
 
-### Protest movements and contentious politics
+### جنبش‌های اعتراضی و سیاست ستیزه‌جویانه
 *4 منبع*
 
 - [Iraq's Sunnis in Crisis](../explorer/?id=9761) (2011)
@@ -100,15 +107,15 @@
 - [Iraq: People, History, Politics](../explorer/?id=9751) (2007)
 - *...و 7 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Iraq&category=Ethnic%20federalism%20in%20Iran))
 
-## other (3 منبع)
+## سایر (3 منبع)
 
-### Civil society organizations and civic participation
+### سازمان‌های جامعه مدنی و مشارکت شهروندی
 *2 منبع*
 
 - [Building a Civic Culture Post-Conflict](../explorer/?id=9775) (2004)
 - [History Education and Conflict Transformation: Social Psychological Theories, History Teaching and Reconciliation](../explorer/?id=9784) (2017)
 
-### Nuclear program and nonproliferation
+### برنامه هسته‌ای و عدم اشاعه
 *1 منبع*
 
 - [Muting the trumpets of sabotage: Saudi Arabia, the US and the quest to securitize Iran](../explorer/?id=9898) (2017)

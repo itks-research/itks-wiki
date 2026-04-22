@@ -1,4 +1,4 @@
-# Japan
+# ژاپن
 
 <div dir="rtl" markdown>
 

@@ -48,61 +48,159 @@ plugins:
           build: true
           nav_translations:
             About: درباره
+            Afghanistan: افغانستان
+            Banking Financial Reform: اصلاح بانکی و مالی
             Banking and financial system reform: اصلاح نظام بانکی و مالی
+            "Bazaar economy, informal sector, and merchant class": اقتصاد بازار، بخش غیررسمی و طبقه بازرگان
+            Bonyad System: نظام بنیادها
             Bonyad system reform: اصلاح نظام بنیادها
             Brain-drain reversal: بازگشت نخبگان
             Case Studies: مطالعات موردی
+            Ceasefire To Settlement Pathways: مسیرهای آتش‌بس تا توافق
             Chile: شیلی
+            Civil Military Relations: روابط نظامی-غیرنظامی
+            Civil Society: جامعه مدنی
+            Civil Society Mobilization Regime Concessions: بسیج جامعه مدنی و امتیازات رژیم
             Civil society development: توسعه جامعه مدنی
             Civil-military relations: روابط نظامی-غیرنظامی
             Comparative Analysis: تحلیل تطبیقی
+            Constitutional Design: طراحی قانون اساسی
+            Constitutional Moment Majority Lock In: لحظه قانون اساسی و قفل اکثریت
             Constitutional design: طراحی
+            Corruption Patronage: فساد و حامی‌پروری
+            "Corruption, rent-seeking, and patronage networks": فساد، رانت‌جویی و شبکه‌های حامی‌پروری
+            Cultural Heritage: میراث فرهنگی
             Cultural heritage preservation during institutional change: حفظ میراث فرهنگی در دوره تحولات نهادی
             Czech Republic: جمهوری چک
+            Demographic transition and urbanization dynamics: پویایی گذار جمعیتی و شهرنشینی
+            Demographics Urbanization: جمعیت‌شناسی و شهرنشینی
+            Diaspora Capital Transition Acceleration: سرمایه دیاسپورا و شتاب‌بخشی گذار
+            Diaspora Engagement: مشارکت دیاسپورا
+            Diaspora repatriation: بازگشت دیاسپورا
             Diaspora repatriation and reintegration: بازگشت و ادغام دیاسپورا
+            Digital Infrastructure Iran: زیرساخت دیجیتال ایران
+            Digital Society: جامعه دیجیتال
+            "Digital society, internet governance, and cyber activism": جامعه دیجیتال، حکمرانی اینترنت و فعالیت سایبری
             Economic Reform: اصلاحات اقتصادی
+            Economic Shock Therapy Social Instability Backsliding: شوک‌درمانی اقتصادی، بی‌ثباتی اجتماعی و پسرفت
+            Economy: اقتصاد
+            Education Reform: اصلاح آموزش
             Education system reform: اصلاح نظام آموزشی
+            Egypt: مصر
+            Electoral Systems: نظام‌های انتخاباتی
             Electoral system design and implementation: طراحی و اجرای نظام انتخاباتی
+            Elite Bargaining Failure Stalemate Or Coup: شکست چانه‌زنی نخبگان، بن‌بست یا کودتا
+            Environmental Crisis: بحران محیط‌زیستی
+            "Environmental crisis and resource sustainability": بحران محیط‌زیستی و پایداری منابع
+            Ethnic Federalism Iran: فدرالیسم قومی ایران
             Ethnic federalism in Iran: فدرالیسم قومی در ایران
-            Federalism, unitarism, and autonomy models: فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری
+            External Intervention Transition Derailment: مداخله خارجی و انحراف گذار
+            External Relations: روابط خارجی
+            Federalism Autonomy: فدرالیسم و خودمختاری
+            "Federalism, unitarism, and autonomy models": فدرالیسم، تمرکزگرایی و مدل‌های خودمختاری
+            Federalautonomy Bargain Ethnic Accommodation: چانه‌زنی فدرال-خودمختاری و سازش قومی
+            Foreign Military Intervention Regime Change: مداخله نظامی خارجی و تغییر رژیم
+            "Generational politics and youth sociopolitical attitudes": سیاست نسلی و نگرش‌های اجتماعی-سیاسی جوانان
+            Germany: آلمان
+            Governance: حکمرانی
             Home: خانه
+            "Housing, cost of living, and urban inequality": مسکن، هزینه زندگی و نابرابری شهری
+            Housing Inequality: مسکن و نابرابری
             How to Use This Site: راهنمای استفاده از سایت
             IRGC economic empire: امپراتوری اقتصادی سپاه
             Indonesia: اندونزی
+            Informal Economy: اقتصاد غیررسمی
+            Information Control Collapse Elite Confidence Drop: فروپاشی کنترل اطلاعات و افت اعتماد نخبگان
+            Internet and digital infrastructure: اینترنت و زیرساخت دیجیتال
             Internet and digital infrastructure as civic space: اینترنت و زیرساخت دیجیتال به‌عنوان فضای مدنی
+            Intra Regime Factional Conflict Transition Window: درگیری جناحی درون‌رژیمی و پنجره گذار
             Iran: ایران
+            Iran Current State: وضعیت فعلی ایران
+            Iran Economic State: وضعیت اقتصادی ایران
+            Iran External State: وضعیت خارجی ایران
+            Iran Governance State: وضعیت حکمرانی ایران
+            Iran Security State: وضعیت امنیتی ایران
+            Iran Social State: وضعیت اجتماعی ایران
+            Iran Velayat Faqih: ولایت فقیه ایران
             Iran-Specific: ویژه ایران
+            Iraq: عراق
+            Irgc Economic Empire: امپراتوری اقتصادی سپاه
+            Irgc Economic Integration Reform Blockage: ادغام اقتصادی سپاه و انسداد اصلاحات
+            Japan: ژاپن
+            Judicial Independence: استقلال قضایی
+            Judicial Independence As Consolidation Anchor: استقلال قضایی به‌عنوان لنگر تحکیم
             Judicial independence and rule of law: استقلال قضایی و حاکمیت قانون
             Knowledge Graph: نمودار دانش
+            Kosovo: کوزوو
+            Labor Markets: بازار کار
             Labor market reform: اصلاح بازار کار
+            Libya: لیبی
+            Lustration And Transitional Justice Institutional Trust: لوستراسیون، عدالت انتقالی و اعتماد نهادی
+            Mechanisms: سازوکارها
+            Media Freedom: آزادی رسانه
+            Media Pluralism Accountability Mechanisms: تکثر رسانه‌ای و سازوکارهای پاسخگویی
             Media freedom: آزادی رسانه
             Methodology: روش‌شناسی
+            Military Defection From Authoritarian Coalition: انشعاب نظامی از ائتلاف اقتدارگرا
+            Minority Rights: حقوق اقلیت‌ها
             Minority rights: حقوق اقلیت‌ها
+            Nuclear Program: برنامه هسته‌ای
             Nuclear program civilian transition: انتقال غیرنظامی برنامه هسته‌ای
+            Occupation Dynamics Sovereignty: پویایی اشغال و حاکمیت
             Overview: نمای کلی
+            Party System Institutionalization Democratic Stability: نهادمندی نظام حزبی و ثبات دموکراتیک
             Poland: لهستان
             Political Institutions: نهادهای سیاسی
+            Political Parties: احزاب سیاسی
             Political party formation and pluralism: شکل‌گیری احزاب سیاسی و تکثرگرایی
+            Post Conflict State Building Reconstruction: بازسازی دولت پس از مناقشه
+            Power Sharing: تقسیم قدرت
             Power-sharing mechanisms during transition periods: سازوکارهای تقسیم قدرت در دوره گذار
             Privatization: خصوصی‌سازی
+            Privatization Sequencing Oligarch Capture: توالی خصوصی‌سازی و تصاحب توسط الیگارش‌ها
+            Protest Movements: جنبش‌های اعتراضی
+            "Protest movements and contentious politics": جنبش‌های اعتراضی و سیاست اعتراضی
+            "Public health system and healthcare access": نظام بهداشت عمومی و دسترسی به خدمات بهداشتی
+            Public Health: بهداشت عمومی
+            Regional Foreign Policy: سیاست خارجی منطقه‌ای
             Regional foreign policy reorientation: بازتعریف سیاست خارجی منطقه‌ای
+            Religious Authority Legitimacy Transfer: انتقال مشروعیت مرجعیت دینی
+            Religious Freedom: آزادی مذهبی
             Religious freedom: آزادی مذهبی
             Research Findings: یافته‌های پژوهشی
+            Resource Curse: نفرین منابع
+            Resource Curse Patronage Persistence: نفرین منابع و تداوم حامی‌پروری
             Resource curse management: مدیریت نفرین منابع طبیعی
+            Russia: روسیه
+            Sanctions Reintegration: تحریم‌ها و بازادغام
+            Sanctions Relief Economic Dividend Democratic Mandate: تسهیل تحریم‌ها، سود اقتصادی و مأموریت دموکراتیک
             Sanctions unwinding: رفع تحریم‌ها
+            Security: امنیت
+            Seminary System: نظام حوزه علمیه
             Seminary role in post-theocratic society: نقش حوزه علمیه در جامعه پساتئوکراتیک
+            Society: جامعه
             Society & Culture: جامعه و فرهنگ
             Source Explorer: کاوشگر منابع
             South Korea: کره جنوبی
             Spain: اسپانیا
             System Status: وضعیت سامانه
+            Topic Analysis: تحلیل موضوعی
+            Trade Fdi: تجارت و سرمایه‌گذاری خارجی
             Trade liberalization: آزادسازی تجارت
+            Transitional Justice: عدالت انتقالی
             Transitional justice: عدالت انتقالی
+            Turkey: ترکیه
             Tunisia: تونس
+            "Wartime fragmentation and militia politics": چندپارچگی جنگی و سیاست شبه‌نظامیان
+            Wartime Fragmentation Militia Politics: چندپارچگی جنگی و سیاست شبه‌نظامیان
             "Women's rights codification": تدوین حقوق زنان
+            Womens Rights: حقوق زنان
+            Youth Bulge Protest Escalation Cycle: چرخه جوانی جمعیت و تشدید اعتراضات
+            Youth Politics: سیاست جوانان
         - locale: en
           name: English
           build: true
+          direction: ltr
 
 nav:
   - Home: index.md

@@ -1,5 +1,9 @@
-# Bazaar economy, informal sector, and merchant class
+<div dir="rtl" markdown>
+
+# اقتصاد بازار، بخش غیررسمی و طبقه بازرگانان
 
 *اقتصادی* · 1 مقاله · 21 منبع
 
-- [Between Mosque and Market: The Bazaar Economy, Informal Trade Networks, and the Political Economy of Merchant Power in Iran](between-mosque-and-market-the-bazaar-economy-informal-trade-networks-and-the-pol.md)
+- [بین مسجد و بازار: اقتصاد بازار، شبکه‌های تجارت غیررسمی و اقتصاد سیاسی قدرت بازرگانان در ایران](between-mosque-and-market-the-bazaar-economy-informal-trade-networks-and-the-pol.en.md)
+
+</div>

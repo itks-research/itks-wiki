@@ -1,6 +1,6 @@
 <div dir="rtl" markdown>
 
-## Evidence & Key Findings
+## شواهد و یافته‌های کلیدی
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
@@ -16,7 +16,7 @@ The سپاه پاسداران انقلاب اسلامی designation complicates 
 
 [Source: ["Peivand Bastani", "Zahra Dehghan", "Seyyed Mansour Kashfi", "Hesam Dorosti", "Mohammadtaghi Mohammadpour", "Gholamhossein Mehralian", "Ramin Ravangard"], 2021]
 
-## Cross-Country Patterns
+## الگوهای بین‌کشوری
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
@@ -32,7 +32,7 @@ PATTERNS: Institutional Lock-In Mechanisms in تحریم‌ها Regimes
 
 4. The Snap-Back Problem: The JCPOA's "snap-back" mechanism (automatic reinstatement of تحریم‌ها upon non-compliance) created psychological and institutional precedent for rapid re-escalation. This symmetry reversal—where تحریم‌ها lift quickly but snap back suddenly—discourages investment and creates vested interests against reintegration among actors whose economic models depend on تحریم‌ها persistence.
 
-## Iran Context
+## بافت ایران
 
 > 🟡 **Evidence Confidence: Moderate** — Moderate source triangulation (7 sources)
 
@@ -48,7 +48,7 @@ SWIFT Disconnection Legacy: Iran's removal from SWIFT (2012) and subsequent deve
 
 Financial تحریم‌ها and the Vested Interest Problem: Foreign exchange scarcity and capital controls (consequences of تحریم‌ها) created vested interests within Iran against reintegration. Import-license holders, currency traders, and regime-connected business groups profit from the shortage premium and foreign exchange controls. Full تحریم‌ها relief would normalize exchange rates and compete away these rents, creating domestic political opposition to reintegration among powerful economic interests.
 
-## Open Research Questions
+## پرسش‌های پژوهشی باز
 
 CRITICAL RESEARCH QUESTIONS
 
@@ -58,7 +58,7 @@ CRITICAL RESEARCH QUESTIONS
 
 3. How do domestic Iranian vested interests in تحریم‌ها persistence (foreign exchange premium beneficiaries, import-license monopolies, regime-connected firms) constrain Iran's negotiating room, and what domestic political conditions would be necessary for Iran to overcome this internal opposition to reintegration?
 
-## Sources
+## منابع
 
 SOURCES CONSULTED
 

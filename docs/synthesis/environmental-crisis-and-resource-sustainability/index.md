@@ -1,5 +1,9 @@
-# Environmental crisis and resource sustainability
+<div dir="rtl" markdown>
 
-*ویژه ایران* · 1 مقاله · 10 منبع
+# بحران محیط زیست و پایداری منابع
 
-- [Green Growth Under Constraint: Environmental Governance, Resource Sustainability, and Energy Transition Pathways for Iran](green-growth-under-constraint-environmental-governance-resource-sustainability-a.md)
+*ویژه ایران* · ۱ مقاله · ۱۰ منبع
+
+- [ رشد سبز تحت محدودیت: حکمرانی محیط زیست، پایداری منابع و مسیرهای انتقال انرژی برای ایران ](green-growth-under-constraint-environmental-governance-resource-sustainability-a.en.md)
+
+</div>

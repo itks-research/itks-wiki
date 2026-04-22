@@ -1,6 +1,8 @@
-# Kosovo
+# کوزوو
 
 <div dir="rtl" markdown>
+
+استقلال نظارت‌شده (۱۹۹۹-۲۰۰۸) تحت UNMIK و طرح آهتیساری، مدلی از طراحی قانون اساسی با میانجی‌گری خارجی با حمایت‌های تعبیه‌شده اقلیت‌ها ارائه می‌دهد — مرتبط با سناریوهایی که بازیگران بین‌المللی چارچوب قانون اساسی پساگذار ایران را شکل می‌دهند.
 
 ## نمای کلی
 
@@ -43,7 +45,7 @@
 - [The Legacy and Lessons of the United Nations Transitional Administration in East Timor](../explorer/?id=10211) (2002)
 - [Humanitarian Intervention: Transforming the discourse](../explorer/?id=10227) (2005)
 
-### Protest movements and contentious politics
+### جنبش‌های اعتراضی و سیاست ستیزه‌جویانه
 *1 منبع*
 
 - [‘The Lady Doth Protest Too Much’ Kosovo, and the Turn to Ethics in International Law](../explorer/?id=10253) (2002)

@@ -1,5 +1,9 @@
-# بازگشت و ادغام دیاسپورا
+<div dir="rtl" markdown>
+
+# بازگشت و ادغام مهاجران
 
 *ویژه ایران* · 1 مقاله · 17 منبع
 
-- [Diaspora Repatriation and Reintegration: Lessons for Iran's Post-Transition Recovery](diaspora-repatriation-and-reintegration-lessons-for-irans-post-transition-recove.md)
+- [بازگشت و ادغام مهاجران: درس‌های برای بازیابی پس از انتقال در ایران]⟦ITKSPروت0⟧
+
+</div>

@@ -1,4 +1,4 @@
-# Protest movements and contentious politics
+# جنبش‌های اعتراضی و سیاست ستیزه‌جویانه
 
 *سیاسی* · 1 مقاله · 160 منبع
 

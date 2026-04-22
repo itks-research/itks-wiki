@@ -2,11 +2,9 @@
 
 # توسعه جامعه مدنی
 
+* اجتماعی و فرهنگی * · 2 مقاله · 88 منبع
 
-*اجتماعی و فرهنگی* · 2 مقاله · 88 منبع
-
-
-- [پایداری سازمان‌های غیرانتفاعی پس از انقلاب: بحران تامین مالی جامعه مدنی لهستان و کمبود انجمنی در ایران](ngo-sustainability-after-revolution-polands-civil-society-funding-crisis-and-ira.md)
-- [بچه‌های صلح: توسعه جامعه مدنی بعد از کمونیسم و بعد از حکومت الهی](solidaritys-children-civil-society-after-communism-and-after-theocracy.md)
+- [پس از انقلاب، پایداری NGOها: بحران تامین مالی جامعه مدنی در لهستان و کمبود انجمنی در ایران](ngo-sustainability-after-revolution-polands-civil-society-funding-crisis-and-ira.md)
+- [فرزندان صلح: جامعه مدنی پس از کمونیسم و پس از حکومت الهی]⟦ITKSPروت1⟧
 
 </div>

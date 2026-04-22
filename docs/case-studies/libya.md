@@ -1,6 +1,8 @@
-# Libya
+# لیبی
 
 <div dir="rtl" markdown>
+
+فروپاشی دولت پس از ۲۰۱۱ نشان می‌دهد چگونه گسترش گروه‌های مسلح، شکست اصلاح بخش امنیتی، و بازسازی بدون ظرفیت نهادی به تجزیه دولت منجر می‌شود — مطالعه موردی منفی کلیدی برای چالش ادغام شبه‌نظامیان ایران.
 
 ## نمای کلی
 
@@ -12,6 +14,10 @@
 | دسته‌بندی‌ها | 9 |
 
 [مرور تمام منابع Libya در کاوشگر](../explorer/?case_study=Libya)
+
+## مقالات پژوهشی مرتبط
+
+- [Fragmentation or Resilience? What Libya's Collapse and Iraq's Sectarian War Reveal About Iran's Ethnic Fault Lines Under Military Intervention](../synthesis/wartime-fragmentation-and-militia-politics/fragmentation-or-resilience-what-libyas-collapse-and-iraqs-sectarian-war-reveal-.md)
 
 ## سیاسی (91 منبع)
 
@@ -31,7 +37,7 @@
 - [Libya: Building a New Political System from the Ground Up](../explorer/?id=9770) (2013)
 - *...و 2 منبع دیگر* ([مشاهده همه](../explorer/?case_study=Libya&category=Constitutional%20design%20and%20drafting%20processes))
 
-### Protest movements and contentious politics
+### جنبش‌های اعتراضی و سیاست ستیزه‌جویانه
 *4 منبع*
 
 - [The 2011 Libyan Uprisings and the Struggle for the Post-Qadhafi Future](../explorer/?id=9764) (2013)
@@ -76,15 +82,15 @@
 - [Everyday Choices](../explorer/?id=10173) (2022)
 - [The United Nation’s Responsibility to Protect Civilians from Massive Human Rights Violations in Light of the Intervention in the Libyan Crisis in 2011](../explorer/?id=10096) (2014)
 
-## other (59 منبع)
+## سایر (59 منبع)
 
-### Civil society organizations and civic participation
+### سازمان‌های جامعه مدنی و مشارکت شهروندی
 *2 منبع*
 
 - [Navigating Trust and Distrust in the Refugee Community of Malta](../explorer/?id=10107) (2021)
 - [Bridgeheads of EU border externalisation? NGOs/CSOs and migration in Libya](../explorer/?id=10109) (2023)
 
-### Post-conflict state-building
+### دولت‌سازی پس از جنگ
 *57 منبع*
 
 - [Renewable energy and geopolitics: A review](../explorer/?id=14667) (2020)

@@ -1,6 +1,10 @@
-# فدرالیسم قومی در ایران
+<div dir="rtl" markdown>
 
-*ویژه ایران* · ۲ مقاله
+# جنبش فدرالیسم قومی در ایران
 
-- [Iran's Ethnic Mosaic and the Federalism Question](irans-ethnic-mosaic-and-the-federalism-question-decentralization-pathways-betwee.md)
-- [Ethnic Federalism in Iran: Cross-Case Synthesis](ethnic-federalism-in-iran-cross-case-synthesis.md)
+*ویژه ایران* · 2 مقاله
+
+- [مозаیک قومی ایران و سؤال از فدرالیسم](irans-ethnic-mosaic-and-the-federalism-question-decentralization-pathways-betwee.md)
+- [فدرالیسم قومی در ایران: سنتز بین‌مقاله‌ای]⟦ITKSPروت1⟧
+
+</div>

@@ -89,5 +89,3 @@ NATO's partnership programs facilitated CMR reform in Poland and the Czech Repub
 ## General Reader Summary
 
 South Korea took over 30 years to make civilian control of the military meaningful after its 1987 democratic transition — and scholars say it still isn't complete. The key lessons for Iran are that removing military officers from top positions is the easy part; the harder challenge is building civilian expertise in defense policy and changing the culture inside military institutions. Iran faces a more complex version of this problem because it has five separate security organizations (regular military, IRGC, Basij, intelligence, police) instead of one unified force.
-
-**خلاصه برای خواننده عمومی:** کره جنوبی بیش از ۳۰ سال طول کشید تا کنترل غیرنظامی ارتش پس از گذار دموکراتیک ۱۹۸۷ واقعی شود — و محققان می‌گویند هنوز کامل نشده است. درس کلیدی برای ایران این است که برکناری افسران نظامی از مناصب عالی آسان‌ترین بخش است؛ چالش سخت‌تر، ایجاد تخصص غیرنظامی در سیاست دفاعی و تغییر فرهنگ داخل نهادهای نظامی است. ایران این مشکل را به شکل پیچیده‌تری دارد زیرا پنج سازمان امنیتی جداگانه دارد به جای یک نیروی یکپارچه.

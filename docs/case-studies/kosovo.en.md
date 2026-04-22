@@ -1,5 +1,7 @@
 # Kosovo
 
+Supervised independence (1999–2008) under UNMIK and the Ahtisaari Plan provides a model of externally mediated constitutional design with embedded minority protections — relevant to scenarios where international actors shape Iran's post-transition constitutional framework.
+
 ## At a Glance
 
 | Metric | Value |
